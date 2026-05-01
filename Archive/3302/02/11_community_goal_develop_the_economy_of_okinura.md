@@ -4,8 +4,12 @@ title: Community Goal  Develop the Economy of Okinura
 slug: community_goal_develop_the_economy_of_okinura
 date: '3302-02-11'
 source: GitHub
-summary: The Earth Defence Fleet plans to transform Okinura into a high-tech trading hub positioned between President Hudson and Shadow President Winters' systems. They request polymers to upgrade Fisher Terminal and offer privateer bonds for eliminating agitators.
-player_impact: Pilots delivered polymers to Fisher Terminal and eliminated agitators in the Okinura system to support economic development.
+summary: The Earth Defence Fleet plans to transform Okinura into a high-tech trading
+  hub positioned between President Hudson and Shadow President Winters' systems. They
+  request polymers to upgrade Fisher Terminal and offer privateer bonds for eliminating
+  agitators.
+player_impact: Pilots delivered polymers to Fisher Terminal and eliminated agitators
+  in the Okinura system to support economic development.
 persons:
 - Zachary Hudson
 - Felicia Winters
@@ -21,7 +25,11 @@ arc_id: federal-politics
 modern_impact: Federal political developments shape superpower relations.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 2b6cc420-1a7c-57f7-a2d4-2a808278e903
+- 8404cdf6-2914-5e0b-9570-8bf13fa4ebae
 ---
+
 
 Following recent reports that the Earth Defence Fleet, a Federation-aligned faction, had assumed control of the Okinura system, the organisation has announced plans to develop the system's economy. In a statement, a spokesperson for the organisation said: 
 

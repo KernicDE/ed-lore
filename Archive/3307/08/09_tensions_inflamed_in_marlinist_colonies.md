@@ -4,8 +4,11 @@ title: Tensions Inflamed in Marlinist Colonies
 slug: tensions_inflamed_in_marlinist_colonies
 date: '3307-08-09'
 source: API
-summary: Political rifts and public protests erupt across the Marlinist Colonies following NMLA starport bombings, with Parliament descending into heated accusations between ministers.
-player_impact: Pilots continued evacuation and humanitarian aid efforts in the colony systems.
+summary: Political rifts and public protests erupt across the Marlinist Colonies following
+  NMLA starport bombings, with Parliament descending into heated accusations between
+  ministers.
+player_impact: Pilots continued evacuation and humanitarian aid efforts in the colony
+  systems.
 persons:
 - Jenna Fairfax
 - Aaron Whyte
@@ -20,10 +23,15 @@ groups:
 topics:
 - terrorism
 arc_id: nmla-terrorism
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to the Marlinist refugee crisis and the Proactive Detection Bureau.
+modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
+  the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 5
 significance: high
+related_uuids:
+- d31b1a7a-bc48-5132-bc1f-26fa2dd54f52
+- e5b17086-6ae6-5916-a162-c66aedf17a0d
 ---
+
 
 The bombing of two Marlinist starports by the NMLA has caused political rifts and public protests across the colony systems.
 Local newsfeed The Marlin Standard reported on current events:

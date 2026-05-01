@@ -4,8 +4,16 @@ title: Operation Davy Jones - Frontline report
 slug: operation_davy_jones_frontline_report
 date: '3301-07-24'
 source: GitHub
-summary: Two weeks into Operation Davy Jones, Imperial forces continue their siege of the Pegasi sector. Commander Stateira Eleshenar of Patreus's forces stated the aim is to free all persons held in branded slavery by the Kumo Crew. Commander Corrigendum of Lavigny's Legion reported Archon's forces have been routed from Imperial space, with heavy clashes in Anedjete, Sopontet, and Huichi. Kumo Crew pilot GluttonyFang vowed defiance, saying they make up for numbers with indomitable spirit. Commander Corrigendum rejected diplomatic settlement, stating the Empire refuses to negotiate with captors.
-player_impact: Imperial pilots can continue combat operations against Kumo Crew in Anedjete, Sopontet, Huichi, and other Pegasi sector systems.
+summary: Two weeks into Operation Davy Jones, Imperial forces continue their siege
+  of the Pegasi sector. Commander Stateira Eleshenar of Patreus's forces stated the
+  aim is to free all persons held in branded slavery by the Kumo Crew. Commander Corrigendum
+  of Lavigny's Legion reported Archon's forces have been routed from Imperial space,
+  with heavy clashes in Anedjete, Sopontet, and Huichi. Kumo Crew pilot GluttonyFang
+  vowed defiance, saying they make up for numbers with indomitable spirit. Commander
+  Corrigendum rejected diplomatic settlement, stating the Empire refuses to negotiate
+  with captors.
+player_impact: Imperial pilots can continue combat operations against Kumo Crew in
+  Anedjete, Sopontet, Huichi, and other Pegasi sector systems.
 persons:
 - Stateira Eleshenar
 - Corrigendum
@@ -27,10 +35,15 @@ topics:
 - slavery
 - war
 arc_id: kumo-crew-rise
-modern_impact: Frontline report shows Operation Davy Jones is intensifying with no diplomatic solution in sight, as both sides prepare for prolonged conflict.
+modern_impact: Frontline report shows Operation Davy Jones is intensifying with no
+  diplomatic solution in sight, as both sides prepare for prolonged conflict.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 14ba5e9a-bb38-565e-bbd0-768f8f401fd4
+- aa23706c-4b90-5e7d-a990-a2999a9ad379
 ---
+
 
 It has been over two weeks since The Kumo Crew's attempted expansion into The Imperial system of Cuchua was answered With 'Operation Davy Jones’. With Imperial Commanders combining their efforts to contain and eventually wipe out the pirate organisation, the Pegasi Sector has been under siege. With an end to the conflict nowhere in sight, we asked Commanders on both sides for their views on the offensive and their forces' efforts. 
 

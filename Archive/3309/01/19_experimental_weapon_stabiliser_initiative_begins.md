@@ -4,8 +4,10 @@ title: Experimental Weapon Stabiliser Initiative Begins
 slug: experimental_weapon_stabiliser_initiative_begins
 date: '3309-01-19'
 source: API
-summary: Azimuth Biotech launches a material delivery initiative in LHS 1163 to mass-produce its experimental weapon stabiliser for anti-xeno combat.
-player_impact: Pilots were asked to deliver meta-alloys, insulating membranes, HN shock mounts, and beryllium to the Glorious Prospect megaship in LHS 1163.
+summary: Azimuth Biotech launches a material delivery initiative in LHS 1163 to mass-produce
+  its experimental weapon stabiliser for anti-xeno combat.
+player_impact: Pilots were asked to deliver meta-alloys, insulating membranes, HN
+  shock mounts, and beryllium to the Glorious Prospect megaship in LHS 1163.
 persons: []
 groups:
 - Azimuth Biotech
@@ -20,14 +22,22 @@ topics:
 - war
 entities: []
 arc_id: thargoid-titan-war
-modern_impact: '"This proprietary invention redistributes the physical stresses that AX weapons place upon a ship''s infrastructure. The class 3 and class 5 variants allow ships to be outfitted with one or two additional AX weapons respectively." This initiative marked Azimuth''s first major community-driven manufacturing campaign in the post-Salvation era, leveraging independent pilots to scale production of a commercially proprietary war material.'
+modern_impact: '"This proprietary invention redistributes the physical stresses that
+  AX weapons place upon a ship''s infrastructure. The class 3 and class 5 variants
+  allow ships to be outfitted with one or two additional AX weapons respectively."
+  This initiative marked Azimuth''s first major community-driven manufacturing campaign
+  in the post-Salvation era, leveraging independent pilots to scale production of
+  a commercially proprietary war material.'
 legacy_weight: 5
 significance: high
 related_uuids:
-- 8b0086f9-372c-5557-906d-f1d12dcbc7de
+- 09d4b9af-ccaf-5d95-8847-50360aaf1af2
 - 55837bae-0f7a-5bc8-9a95-4fb792abd6c0
+- 8b0086f9-372c-5557-906d-f1d12dcbc7de
 - c8748b5c-ead9-5303-92b2-5cb20d64e511
+- d83a7bd9-c7eb-528b-a464-28180c65e590
 ---
+
 
 **Pilots’ Federation ALERT**
 Azimuth Biotech has requested deliveries to LHS 1163 to manufacture a module that increases AX weapons capacity. 

@@ -4,7 +4,8 @@ title: Federation Pledges Resources to Aegis
 slug: federation_pledges_resources_to_aegis
 date: '3309-02-10'
 source: API
-summary: The Federation pledges ships, personnel and materials to support the reformation of the tri-superpower anti-xeno agency Aegis.
+summary: The Federation pledges ships, personnel and materials to support the reformation
+  of the tri-superpower anti-xeno agency Aegis.
 player_impact: Not specifically mentioned — this is a political report.
 persons:
 - Zachary Hudson
@@ -28,14 +29,20 @@ topics:
 - politics
 entities: []
 arc_id: thargoid-titan-war
-modern_impact: 'Zachary Hudson stated: "The Federation has an opportunity to correct that misjudgement and do our part to defeat a common adversary." This admission of misplacing blame on Aegis for Salvation''s actions signals a major shift in Federal policy, uniting both Republican and Liberal parties behind renewed inter-superpower cooperation.'
+modern_impact: 'Zachary Hudson stated: "The Federation has an opportunity to correct
+  that misjudgement and do our part to defeat a common adversary." This admission
+  of misplacing blame on Aegis for Salvation''s actions signals a major shift in Federal
+  policy, uniting both Republican and Liberal parties behind renewed inter-superpower
+  cooperation.'
 legacy_weight: 5
 significance: high
 related_uuids:
-- 9baa5b63-76a6-59a5-b2f2-2b3abca36d3c
 - 201a0a31-f461-5ded-a815-a7b9c289c352
 - 69df1032-f6ec-58b2-9b05-cbcb3c243462
+- 9baa5b63-76a6-59a5-b2f2-2b3abca36d3c
+- bf2d3dff-0f0e-52cb-b06d-f6704f6b7781
 ---
+
 
 President Zachary Hudson and Shadow President Felicia Winters have united behind Federal backing for the reformation of Aegis.
 Congress held an emergency debate after the Alliance and Empire agreed to support an official tri-superpower initiative against the Thargoids. A majority of votes from Republican, Liberal and independent representatives approved the provision of ships, personnel and materials from the Federation.

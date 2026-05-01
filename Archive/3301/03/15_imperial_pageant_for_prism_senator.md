@@ -4,8 +4,14 @@ title: Imperial Pageant for Prism Senator
 slug: imperial_pageant_for_prism_senator
 date: '3301-03-15'
 source: GitHub
-summary: Dozens of independent commanders volunteered to escort Senator Kahina Tijani Loren's Imperial Courier through Federal space in protest at her perceived shabby treatment by Federation hosts. The unofficial escort of privately owned Imperial Cutters caused embarrassment to the Federation, who could not prevent newsfeed images of what appeared to be an Imperial fleet in core Federation worlds. When asked about her welcome, Loren replied 'When I receive one, I shall let you know.'
-player_impact: None directly; Loren's unofficial escort demonstrated Imperial citizen solidarity and embarrassed Federal diplomatic protocols.
+summary: Dozens of independent commanders volunteered to escort Senator Kahina Tijani
+  Loren's Imperial Courier through Federal space in protest at her perceived shabby
+  treatment by Federation hosts. The unofficial escort of privately owned Imperial
+  Cutters caused embarrassment to the Federation, who could not prevent newsfeed images
+  of what appeared to be an Imperial fleet in core Federation worlds. When asked about
+  her welcome, Loren replied 'When I receive one, I shall let you know.'
+player_impact: None directly; Loren's unofficial escort demonstrated Imperial citizen
+  solidarity and embarrassed Federal diplomatic protocols.
 persons:
 - Kahina Tijani Loren
 groups: []
@@ -15,10 +21,15 @@ locations:
 topics:
 - diplomacy
 arc_id: prism-senator
-modern_impact: The Prism Senator's activities highlight cross-superpower political intrigue and the power of unofficial citizen diplomacy.
+modern_impact: The Prism Senator's activities highlight cross-superpower political
+  intrigue and the power of unofficial citizen diplomacy.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 84bd34a8-1fbc-5401-9df8-e15d926ebe26
+- d2def23c-2d74-5a9c-b2fa-27490bd93326
 ---
+
 
 In an apparent show of solidarity for The visiting Senator and in protest at her perceived shabby treatment at The hands of her Federation hosts, Dozens of independent Commanders have volunteered to escort Lady Kahina Tijani Loren's Imperial Courier through Federal space for the duration of her trip. 
 

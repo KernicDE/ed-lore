@@ -33,7 +33,11 @@ modern_impact: Sirius Corporation's expansion and revitalisation programmes resh
   several systems' economies.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 5677c891-a942-5f45-a9a9-078762eb519e
+- ddf0c085-c8cb-52c6-a578-71d0c166fccd
 ---
+
 
 
 Earlier This year, The Sirius Corporation expanded into the systems of HIP 8396, Almagest, Sothis, Ceos, and Robigo. At the time, a number of economists predicted that these systems would witness dramatic change after being brought under Sirius Corp. control, but in fact the affected systems have remained much the same, With citizens reporting little difference to their everyday lives. 

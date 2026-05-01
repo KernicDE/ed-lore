@@ -4,8 +4,14 @@ title: Week in Review
 slug: week_in_review
 date: '3304-04-29'
 source: GitHub
-summary: This week's major stories include Simguru Pranav Antal addressing the possibility of humanity losing the Thargoid conflict and proposing the Sim-Archive as a means of preservation. The murder of Senator Nestor Cartesius has led to widespread speculation connecting it to the INRA and Commander Jameson's legacy. The Vadimo Patrons of Law announced an elaborate soirée in Vadimo. Angeli Imperial Enterprises successfully completed its campaign to build a Bowman-class science vessel.
-player_impact: Pilots who supported the Angeli Imperial Enterprises campaign can collect rewards from Kanai Enterprise in Blido Piru.
+summary: This week's major stories include Simguru Pranav Antal addressing the possibility
+  of humanity losing the Thargoid conflict and proposing the Sim-Archive as a means
+  of preservation. The murder of Senator Nestor Cartesius has led to widespread speculation
+  connecting it to the INRA and Commander Jameson's legacy. The Vadimo Patrons of
+  Law announced an elaborate soirée in Vadimo. Angeli Imperial Enterprises successfully
+  completed its campaign to build a Bowman-class science vessel.
+player_impact: Pilots who supported the Angeli Imperial Enterprises campaign can collect
+  rewards from Kanai Enterprise in Blido Piru.
 persons:
 - Nestor Cartesius
 - Pranav Antal
@@ -28,10 +34,16 @@ topics:
 - trade
 - war
 arc_id: thargoid-contact
-modern_impact: The convergence of Thargoid fears, historical INRA revelations, and community celebrations illustrates the multifaceted social response to the ongoing conflict.
+modern_impact: The convergence of Thargoid fears, historical INRA revelations, and
+  community celebrations illustrates the multifaceted social response to the ongoing
+  conflict.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 86f0d27f-4b59-5657-bd59-3baf4bfc6918
+- dfe24bf3-2734-565d-ac46-d128aa41c570
 ---
+
 
 Here are This week’s major stories. 
 

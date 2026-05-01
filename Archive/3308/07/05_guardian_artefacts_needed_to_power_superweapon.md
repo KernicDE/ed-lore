@@ -4,8 +4,10 @@ title: Guardian Artefacts Needed to Power Superweapon
 slug: guardian_artefacts_needed_to_power_superweapon
 date: '3308-07-05'
 source: API
-summary: Azimuth Biotech launches a campaign requesting Guardian artefacts to complete construction of the Proteus Wave superweapon.
-player_impact: Independent pilots were asked to deliver Guardian artefacts to the Bright Sentinel megaship in HIP 22460.
+summary: Azimuth Biotech launches a campaign requesting Guardian artefacts to complete
+  construction of the Proteus Wave superweapon.
+player_impact: Independent pilots were asked to deliver Guardian artefacts to the
+  Bright Sentinel megaship in HIP 22460.
 persons: []
 groups:
 - Azimuth
@@ -17,14 +19,19 @@ topics:
 - alien contact
 - xenoarchaeology
 arc_id: salvation-azimuth
-modern_impact: Salvation's call for Guardian artefacts marked the point where independent pilots became directly complicit in supplying a genocidal superweapon, a moral ambiguity that continues to define the community's relationship with Azimuth.
+modern_impact: Salvation's call for Guardian artefacts marked the point where independent
+  pilots became directly complicit in supplying a genocidal superweapon, a moral ambiguity
+  that continues to define the community's relationship with Azimuth.
 legacy_weight: 5
 significance: high
 related_uuids:
-- 3980872b-a4bd-5a14-8962-b1c72d749e07
+- 115badf8-6888-50bb-9e06-a538760015df
 - 1b3c4f7c-bb24-5a8c-aeed-4936f7b5faea
+- 3980872b-a4bd-5a14-8962-b1c72d749e07
 - bc635a7c-22bf-5a79-b6bb-781f8b67a199
+- ce65a1d5-38ff-58ed-a2b0-3627f5afaabc
 ---
+
 
 **Pilots’ Federation ALERT**
 Azimuth Biotech urgently requires deliveries of Guardian artefacts to HIP 22460 as vital components of the Proteus Wave.

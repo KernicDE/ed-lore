@@ -4,8 +4,13 @@ title: The Liberation of HIP 17692
 slug: the_liberation_of_hip_17692
 date: '3304-01-12'
 source: GitHub
-summary: The Empire and Federation have announced a joint initiative to counter Thargoid activity in the HIP 17692 system. The two-pronged operation aims to reduce Thargoid presence and recover personal effects, data, and people from attack sites. Admiral Denton Patreus stated that this is a chance to show the Thargoids that humanity will not yield.
-player_impact: Pilots can support combat operations or rescue efforts. Rewards are available from Blackmount Orbital in HIP 17692.
+summary: The Empire and Federation have announced a joint initiative to counter Thargoid
+  activity in the HIP 17692 system. The two-pronged operation aims to reduce Thargoid
+  presence and recover personal effects, data, and people from attack sites. Admiral
+  Denton Patreus stated that this is a chance to show the Thargoids that humanity
+  will not yield.
+player_impact: Pilots can support combat operations or rescue efforts. Rewards are
+  available from Blackmount Orbital in HIP 17692.
 persons:
 - Denton Patreus
 groups:
@@ -21,10 +26,15 @@ topics:
 - humanitarian
 - war
 arc_id: thargoid-contact
-modern_impact: The joint Federal-Imperial operation in HIP 17692 marks a rare moment of superpower cooperation against the Thargoid threat.
+modern_impact: The joint Federal-Imperial operation in HIP 17692 marks a rare moment
+  of superpower cooperation against the Thargoid threat.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 66fae4b6-2b72-5e10-834a-bfd74ae1d2ec
+- fbb017dd-927e-5fe2-9b6d-e53cbf4b2dde
 ---
+
 
 In a move that has come as a Surprise to Many, the Empire and Federation have announced a joint initiative to counter Thargoid activity in the HIP 17692 system. 
 

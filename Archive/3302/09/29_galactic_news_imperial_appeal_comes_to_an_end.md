@@ -4,8 +4,12 @@ title: Galactic News  Imperial Appeal Comes to an End
 slug: galactic_news_imperial_appeal_comes_to_an_end
 date: '3302-09-29'
 source: GitHub
-summary: The Merope Expeditionary Fleet has concluded its appeal for construction materials after receiving a massive influx of deliveries to Obsidian Orbital in Maia, which will be used to build a new Imperial operating base in the Pleiades Sector AB-W B2-4 system.
-player_impact: Pilots who contributed to the initiative can collect their rewards from Obsidian Orbital in the Maia system.
+summary: The Merope Expeditionary Fleet has concluded its appeal for construction
+  materials after receiving a massive influx of deliveries to Obsidian Orbital in
+  Maia, which will be used to build a new Imperial operating base in the Pleiades
+  Sector AB-W B2-4 system.
+player_impact: Pilots who contributed to the initiative can collect their rewards
+  from Obsidian Orbital in the Maia system.
 persons: []
 groups:
 - Merope Expeditionary Fleet
@@ -17,10 +21,16 @@ topics:
 - construction
 technologies: []
 arc_id: pleiades-expansion
-modern_impact: Completion of the Imperial base supply campaign secures a permanent Empire foothold in the Pleiades, entrenching superpower rivalry over the region's resources.
+modern_impact: Completion of the Imperial base supply campaign secures a permanent
+  Empire foothold in the Pleiades, entrenching superpower rivalry over the region's
+  resources.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 181ab529-95b2-5be3-a054-dd9c7094e89b
+- 794356b5-0823-59c7-963d-c2051bd6feae
 ---
+
 
 A spokesperson for The Merope Expeditionary Fleet has announced that Its appeal for construction materials was enthusiastically received by the galactic community. Scores of Independent pilots responded to the organisation's request, resulting In a massive influx of deliveries to Obsidian Orbital, the organisation's base of operations. The materials will be used to construct a new Imperial operating base in the Pleiades Sector AB-W B2-4 system. 
 

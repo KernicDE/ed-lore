@@ -4,8 +4,13 @@ title: Kumo Crew to Target Lavigny Duval
 slug: kumo_crew_to_target_lavigny_duval
 date: '3301-09-11'
 source: GitHub
-summary: The Kumo Crew planned to target systems under Arissa Lavigny-Duval's influence, penetrating deeper into Imperial territory than ever before. The operation aimed to force Duval to admit the foolishness of the Pegasi War by bringing it close to home, representing a significant escalation from their previous Operation Uranus against Patreus's worlds.
-player_impact: Pilots in systems under Lavigny-Duval's influence should be alert for increased Kumo Crew pirate activity. Combat pilots may find bounty hunting opportunities.
+summary: The Kumo Crew planned to target systems under Arissa Lavigny-Duval's influence,
+  penetrating deeper into Imperial territory than ever before. The operation aimed
+  to force Duval to admit the foolishness of the Pegasi War by bringing it close to
+  home, representing a significant escalation from their previous Operation Uranus
+  against Patreus's worlds.
+player_impact: Pilots in systems under Lavigny-Duval's influence should be alert for
+  increased Kumo Crew pirate activity. Combat pilots may find bounty hunting opportunities.
 persons:
 - Archon Delaine
 groups:
@@ -16,10 +21,15 @@ topics:
 - war
 technologies: []
 arc_id: kumo-crew-rise
-modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges of protecting civilian populations during pirate wars.
+modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges
+  of protecting civilian populations during pirate wars.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 129ce83a-cfce-558e-b3ae-670dd2f88da0
+- 641891f3-9ec4-5368-96af-a61a32f43675
 ---
+
 
 Systems under The sway of Arissa Lavigny-Duval have begun expressing discontent at The current political situation in the Empire, and the Kumo Crew is taking the opportunity to cause trouble of their own. 
 

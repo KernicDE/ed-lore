@@ -4,8 +4,15 @@ title: The Science of a Safer Society
 slug: the_science_of_a_safer_society
 date: '3301-06-23'
 source: GitHub
-summary: Thousands of Pegasi sector civilians evacuated following brutal Kumo Crew raids. Pleas for help to Federation and Empire homeworlds have gone unanswered. Simguru Pranav Antal announced Utopia will open a new commune in HIP 116213 to establish 'enlightened defence' against the Kumo Crew. He described the pirates' greed and jealousy as driving them to destroy everything they see, and stated Utopia understands the people's sorrow and wants to help. Utopian engineers will begin establishing defensive capabilities once the commune is approved.
-player_impact: Pilots can support Utopia's commune establishment in HIP 116213 as a defensive bulwark against Kumo Crew expansion.
+summary: Thousands of Pegasi sector civilians evacuated following brutal Kumo Crew
+  raids. Pleas for help to Federation and Empire homeworlds have gone unanswered.
+  Simguru Pranav Antal announced Utopia will open a new commune in HIP 116213 to establish
+  'enlightened defence' against the Kumo Crew. He described the pirates' greed and
+  jealousy as driving them to destroy everything they see, and stated Utopia understands
+  the people's sorrow and wants to help. Utopian engineers will begin establishing
+  defensive capabilities once the commune is approved.
+player_impact: Pilots can support Utopia's commune establishment in HIP 116213 as
+  a defensive bulwark against Kumo Crew expansion.
 persons:
 - Pranav Antal
 - Archon Delaine
@@ -21,10 +28,16 @@ topics:
 - war
 - technology
 arc_id: kumo-crew-rise
-modern_impact: Utopia's intervention in the Pegasi sector offers an alternative to superpower inaction, positioning the commune as a defender of civilians against piracy.
+modern_impact: Utopia's intervention in the Pegasi sector offers an alternative to
+  superpower inaction, positioning the commune as a defender of civilians against
+  piracy.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 44d392dc-09e9-5ca5-887e-c1f5e88dae12
+- 81248c77-50c2-52b5-a962-0c4da605e8bf
 ---
+
 
 Thousands of Pegasi sector civilians were forced to evacuate their homes last week, following a series of brutal raids carried out in the name of Archon Delaine. 
 

@@ -4,8 +4,12 @@ title: Galactic News  Breakthrough in the Fight against Technological Plague
 slug: galactic_news_breakthrough_in_the_fight_against_technological_plague
 date: '3302-03-15'
 source: GitHub
-summary: Molecular chemist Lea Tantaga at Obsidian Orbital makes a breakthrough in meta-alloy research, discovering that meta-alloys can neutralise Unknown Artefact molecular interference. Affected starports open their markets to meta-alloy sales, though harvesting from barnacles remains controversial.
-player_impact: Pilots delivered meta-alloys to affected starports to help counter the technological plague.
+summary: Molecular chemist Lea Tantaga at Obsidian Orbital makes a breakthrough in
+  meta-alloy research, discovering that meta-alloys can neutralise Unknown Artefact
+  molecular interference. Affected starports open their markets to meta-alloy sales,
+  though harvesting from barnacles remains controversial.
+player_impact: Pilots delivered meta-alloys to affected starports to help counter
+  the technological plague.
 persons:
 - Lea Tantaga
 - Ishmael Palin
@@ -20,10 +24,15 @@ topics:
 - medicine
 - research
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
+  and fuels the emerging Thargoid contact narrative.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 64fbd366-efa4-51c6-bd9c-e5b2d49b3f70
+- 75dddc21-a4dd-5ee6-b73e-48a48f0cc295
 ---
+
 
 When Professor Ishmael Palin and his team disappeared en route to Maia b1ba, research into meta-alloys was brought to a near standstill, With only the Canonn Interstellar Research Group continuing to investigate the mysterious material. But recent reports indicate that research has continued in Professor Palin's absence under the helm of Lea Tantaga, a molecular chemist based at Obsidian Orbital. 
 

@@ -4,7 +4,12 @@ title: The Eve of the Wedding
 slug: the_eve_of_the_wedding
 date: '3301-08-04'
 source: GitHub
-summary: On the eve of Emperor Hengist Duval's wedding to Florence Lavigny, Capitol is electric with celebration. Street parties are underway across the Empire, with foreign dignitaries arriving. Shadow President Felicia Winters represents the Federation, her business attire contrasting with Imperial colors. Notably absent is Federal President Zachary Hudson, whose absence many interpret as a diplomatic slight that may color future Federal-Imperial relations.
+summary: On the eve of Emperor Hengist Duval's wedding to Florence Lavigny, Capitol
+  is electric with celebration. Street parties are underway across the Empire, with
+  foreign dignitaries arriving. Shadow President Felicia Winters represents the Federation,
+  her business attire contrasting with Imperial colors. Notably absent is Federal
+  President Zachary Hudson, whose absence many interpret as a diplomatic slight that
+  may color future Federal-Imperial relations.
 player_impact: None
 persons:
 - Felicia Winters
@@ -18,10 +23,15 @@ topics:
 - festival
 - diplomacy
 arc_id: imperial-succession
-modern_impact: Marks the eve of a pivotal Imperial event that would end in assassination, reshaping Imperial succession.
+modern_impact: Marks the eve of a pivotal Imperial event that would end in assassination,
+  reshaping Imperial succession.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 99db0a77-421b-5e49-aa18-60b356f84b48
+- db53c226-90a8-53f7-bc58-d008935f347b
 ---
+
 
 The atmosphere here on Capitol is electric. The whole city is abuzz With what some commentators have declared ‘The Wedding of the Century’. Street parties are in full swing in Every Imperial system , but none compare to the grand events underway here at the birthplace of the Empire, especially within the Fragrant City as it is now known. 
 

@@ -4,7 +4,9 @@ title: Galactic News  Thargoids Continuing to Adapt
 slug: galactic_news_thargoids_continuing_to_adapt
 date: '3303-10-13'
 source: GitHub
-summary: Aegis reports that Thargoids are operating more tactically, having learned from earlier encounters with human ships and weapons. Their earlier lack of strategic awareness is now understood as unfamiliarity rather than incapability.
+summary: Aegis reports that Thargoids are operating more tactically, having learned
+  from earlier encounters with human ships and weapons. Their earlier lack of strategic
+  awareness is now understood as unfamiliarity rather than incapability.
 player_impact: None
 persons: []
 groups:
@@ -17,10 +19,15 @@ topics:
 - war
 technologies: []
 arc_id: thargoid-contact
-modern_impact: Thargoid activity escalates, fundamentally changing the galactic security landscape and driving the creation of anti-xeno defence forces.
+modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
+  landscape and driving the creation of anti-xeno defence forces.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 7fb02f7d-031c-552b-8ae3-20f764e284bf
+- f675e842-06e7-52a1-85e7-459fc8c76f68
 ---
+
 
 Fresh reports from The Pleiades have yielded Further insights into the Thargoids’ tactics. 
 

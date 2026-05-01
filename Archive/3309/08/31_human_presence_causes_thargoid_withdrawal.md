@@ -4,7 +4,8 @@ title: Human Presence Causes Thargoid Withdrawal
 slug: human_presence_causes_thargoid_withdrawal
 date: '3309-08-31'
 source: API
-summary: Thargoids unexpectedly withdraw from the Wregoe BU-Y b2-0 region after human presence, contradicting their usual territorial behavior.
+summary: Thargoids unexpectedly withdraw from the Wregoe BU-Y b2-0 region after human
+  presence, contradicting their usual territorial behavior.
 player_impact: Not specifically mentioned — this is an observational report.
 persons:
 - Jeong-Hui Shin
@@ -22,14 +23,21 @@ topics:
 - xenoarchaeology
 entities: []
 arc_id: thargoid-titan-war
-modern_impact: Tanner's analysis — 'It usually requires overwhelming firepower to drive out Thargoid forces... In this case, there was no fleet action or anti-xeno operation sufficiently large to cause this response' — is puzzling. Shin's observation — 'It is unprecedented for them to avoid engaging us in battle' — confirms the anomaly. Venkatesh's disappointment — 'Here was a chance to observe this intelligent race in a non-combat environment' — shows the peace movement's missed opportunity.
+modern_impact: Tanner's analysis — 'It usually requires overwhelming firepower to
+  drive out Thargoid forces... In this case, there was no fleet action or anti-xeno
+  operation sufficiently large to cause this response' — is puzzling. Shin's observation
+  — 'It is unprecedented for them to avoid engaging us in battle' — confirms the anomaly.
+  Venkatesh's disappointment — 'Here was a chance to observe this intelligent race
+  in a non-combat environment' — shows the peace movement's missed opportunity.
 legacy_weight: 4
 significance: high
 related_uuids:
-- 147a3c1e-ea2e-582c-8b5c-676b3075f426
-- 4413aa0f-d644-50e2-9ad2-417d0b29bb24
 - 0359229a-57fb-5f46-bb36-52c62d71db1a
+- 147a3c1e-ea2e-582c-8b5c-676b3075f426
+- 28b10ac3-f6fd-5d10-bcbe-f2763a0345b5
+- 4413aa0f-d644-50e2-9ad2-417d0b29bb24
 ---
+
 
 The Thargoids have unexpectedly abandoned the region around Wregoe BU-Y b2-0, mere days after being discovered.
 They were believed to be present due to an ancient site on the planet Wregoe BU-Y b2-0 1 c, which hosted a conflict between Guardian and Thargoid forces millions of years ago. Aegis has confirmed reports that all Thargoids have now disappeared from that area of space. Aden Tanner delivered a summary:

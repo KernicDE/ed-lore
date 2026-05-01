@@ -34,10 +34,13 @@ modern_impact: Operation Tyndareus represents the first concrete military output
 legacy_weight: 5
 significance: high
 related_uuids:
-- be63c32e-8997-572a-9d07-24701e8fc641
+- 6c3c6815-8e50-5e81-86ac-0bc5df0a8359
+- 964ef3eb-9cc2-5f09-8038-9afcaeca1c08
 - bb92f6c0-0def-564c-9b52-f2f1c75fc853
+- be63c32e-8997-572a-9d07-24701e8fc641
 technologies: []
 ---
+
 
 
 The anti-xeno strategic defence pact between the Alliance and Sirius Corporation has been fully ratified as a legally binding treaty.

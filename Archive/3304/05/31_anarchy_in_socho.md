@@ -4,8 +4,14 @@ title: Anarchy in Socho
 slug: anarchy_in_socho
 date: '3304-05-31'
 source: GitHub
-summary: The Socho system, headquarters of Aegis Core, has been overtaken by the Socho Gold Raiders criminal faction. A courier carrying a message from Aegis scientist Dr Mia Valencourt escaped and broadcast an urgent plea for help, describing how the Raiders faked a Thargoid signal to ambush security forces. Professor Alba Tesreau implored the galactic community to help free Socho, warning that vital anti-Thargoid research is at risk.
-player_impact: Pilots are urged to help free Socho from the Socho Gold Raiders to protect Aegis Core's vital research.
+summary: The Socho system, headquarters of Aegis Core, has been overtaken by the Socho
+  Gold Raiders criminal faction. A courier carrying a message from Aegis scientist
+  Dr Mia Valencourt escaped and broadcast an urgent plea for help, describing how
+  the Raiders faked a Thargoid signal to ambush security forces. Professor Alba Tesreau
+  implored the galactic community to help free Socho, warning that vital anti-Thargoid
+  research is at risk.
+player_impact: Pilots are urged to help free Socho from the Socho Gold Raiders to
+  protect Aegis Core's vital research.
 persons:
 - Alba Tesreau
 - Mia Valencourt
@@ -22,10 +28,15 @@ topics:
 - research
 - ship
 arc_id: thargoid-contact
-modern_impact: The takeover of Aegis Core by criminals demonstrates the vulnerability of critical anti-xeno research infrastructure to internal threats.
+modern_impact: The takeover of Aegis Core by criminals demonstrates the vulnerability
+  of critical anti-xeno research infrastructure to internal threats.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 396f48c6-b935-5333-8a51-22db6e1a2f46
+- 6b44f898-99f1-5588-ae34-f12f252d6033
 ---
+
 
 The Socho system, headquarters of Aegis Core, has been overtaken by a criminal faction. The system is now In a state of anarchy. 
 

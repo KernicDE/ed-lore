@@ -34,8 +34,10 @@ modern_impact: Baljak's statement — 'It's a miracle Jameson Memorial lasted un
 legacy_weight: 5
 significance: high
 related_uuids:
+- c07fd120-16f0-5ec7-ba11-8e20b7d3729f
 - f04f8454-a964-5a70-94a4-24f7e93c8419
 ---
+
 
 
 The Thargoid invasion fleet that ambushed the Shinrarta Dezhra system last week has been successfully repelled.

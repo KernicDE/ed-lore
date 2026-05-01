@@ -4,8 +4,11 @@ title: Long-Lost Research Facility Discovered
 slug: long_lost_research_facility_discovered
 date: '3307-11-10'
 source: API
-summary: Independent pilots locate an abandoned Holloway Bioscience research facility in the Snake Sector GW-W c1-1 system after detecting a distress call from a Colonia Bridge megaship.
-player_impact: Independent pilots searched nearby systems and located Holloway Bioscience Research Facility 15.
+summary: Independent pilots locate an abandoned Holloway Bioscience research facility
+  in the Snake Sector GW-W c1-1 system after detecting a distress call from a Colonia
+  Bridge megaship.
+player_impact: Independent pilots searched nearby systems and located Holloway Bioscience
+  Research Facility 15.
 persons:
 - Aanya Gupta
 - Lord Roland Holloway
@@ -14,10 +17,15 @@ groups:
 topics:
 - research
 arc_id: jaques-station
-modern_impact: Colonia continues to grow as a deep-space settlement, offering new opportunities for exploration and colonisation.
+modern_impact: Colonia continues to grow as a deep-space settlement, offering new
+  opportunities for exploration and colonisation.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 454e1ed6-e44f-5243-848c-0928b81615e6
+- 8c3b36c3-f675-56a5-946c-a75399220a6d
 ---
+
 
 **Pilots Federation ALERT**
 A distress call has led Independent pilots to locate an abandoned settlement in The Snake Sector GW-W c1-1 system.

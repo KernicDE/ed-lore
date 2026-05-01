@@ -4,7 +4,9 @@ title: A Retrospective of 3307 (Part Two)
 slug: a_retrospective_of_3307_part_two
 date: '3307-12-29'
 source: API
-summary: Historian Sima Kalhana continues her review of 3307, covering the Proactive Detection Bureau, ACT's early victories, Salvation's emergence, the Alexandria's disappearance, and the Azaladshu secession.
+summary: Historian Sima Kalhana continues her review of 3307, covering the Proactive
+  Detection Bureau, ACT's early victories, Salvation's emergence, the Alexandria's
+  disappearance, and the Azaladshu secession.
 player_impact: Not specifically mentioned — this is a historical retrospective.
 persons:
 - Sima Kalhana
@@ -36,12 +38,15 @@ topics:
 - war
 - xenoarchaeology
 arc_id: nmla-terrorism
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to the Marlinist refugee crisis and the Proactive Detection Bureau.
+modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
+  the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 205ec4c6-df7a-581e-8c72-20928345d6ce
+- 77fd1ea5-46c8-54e0-85aa-1f7784fe1bd2
 ---
+
 
 Continuing a series of articles by historian Sima Kalhana that look at The most newsworthy events during the past year.
 “April 3307 saw the creation of the Federation’s Proactive Detection Bureau in reaction to the Nine Martyrs bombings. This organisation monitored all public and private communications for evidence of terrorists, to prevent similar attacks in future. But Its highly controversial nature would soon present the Federation With new challenges.”

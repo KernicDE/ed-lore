@@ -4,7 +4,8 @@ title: Azimuth Announces Experimental Weapons Stabiliser
 slug: azimuth_announces_experimental_weapons_stabiliser
 date: '3309-01-12'
 source: API
-summary: Azimuth Biotech unveils its experimental weapons stabiliser at the TZ Arietis Weapon Expo and condemns Admiral Tanner's recent presidential pardon.
+summary: Azimuth Biotech unveils its experimental weapons stabiliser at the TZ Arietis
+  Weapon Expo and condemns Admiral Tanner's recent presidential pardon.
 player_impact: Not specifically mentioned — this is a corporate announcement report.
 persons:
 - Torben Rademaker
@@ -21,15 +22,22 @@ topics:
 - war
 entities: []
 arc_id: thargoid-titan-war
-modern_impact: '"Azimuth''s experimental weapons stabiliser is designed to redistribute the physical stresses that experimental modules place upon a ship''s structural integrity." The unveiling of this module marks Azimuth''s first major commercial success in the post-Salvation era, cementing its role as a primary arms supplier during the Second Thargoid War despite its controversial legacy.'
+modern_impact: '"Azimuth''s experimental weapons stabiliser is designed to redistribute
+  the physical stresses that experimental modules place upon a ship''s structural
+  integrity." The unveiling of this module marks Azimuth''s first major commercial
+  success in the post-Salvation era, cementing its role as a primary arms supplier
+  during the Second Thargoid War despite its controversial legacy.'
 legacy_weight: 5
 significance: high
 related_uuids:
+- 0ca28871-b558-5ac6-82c4-49ddeb281015
+- 55837bae-0f7a-5bc8-9a95-4fb792abd6c0
 - 918087f0-e635-591b-bc74-a1742da82b05
 - af414e75-9512-5bdb-a09c-4a4728a99030
-- 55837bae-0f7a-5bc8-9a95-4fb792abd6c0
 - c8748b5c-ead9-5303-92b2-5cb20d64e511
+- d83a7bd9-c7eb-528b-a464-28180c65e590
 ---
+
 
 Azimuth Biotech has revealed prototypes of a module which improves hardpoint capacity for AX ships at the TZ Arietis Weapon Expo.
 The event showcased a range of military products to entice governments, corporations and private groups into contracts with arms suppliers. But the current demand for anti-xeno weaponry meant that Azimuth Biotech’s announcement gained the greatest media attention.

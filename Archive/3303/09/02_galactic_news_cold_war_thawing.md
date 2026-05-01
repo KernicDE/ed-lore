@@ -4,7 +4,10 @@ title: Galactic News  Cold War Thawing
 slug: galactic_news_cold_war_thawing
 date: '3303-09-02'
 source: GitHub
-summary: Political commentators speculate whether the formation of Aegis signals an end to the Empire-Federation cold war. Daxton Sung of the Imperial Herald argues that while scientific collaboration exists, neither superpower has incentive to formally end the conflict over meta-alloy extraction in the Pleiades.
+summary: Political commentators speculate whether the formation of Aegis signals an
+  end to the Empire-Federation cold war. Daxton Sung of the Imperial Herald argues
+  that while scientific collaboration exists, neither superpower has incentive to
+  formally end the conflict over meta-alloy extraction in the Pleiades.
 player_impact: None
 persons:
 - Daxton Sung
@@ -23,10 +26,15 @@ topics:
 - war
 technologies: []
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy trade drives economic and military activity in the Pleiades region.
+modern_impact: The barnacle/meta-alloy trade drives economic and military activity
+  in the Pleiades region.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 2c18b071-5704-5873-8d29-511bb70936d0
+- eeb77abe-1d4f-5e59-92b4-50183b92cb62
 ---
+
 
 Following news that scientists from The Alliance, Empire and Federation have united to form a new research initiative, speculation is mounting that the cold war between the Empire and the Federation could be nearing an end. 
 

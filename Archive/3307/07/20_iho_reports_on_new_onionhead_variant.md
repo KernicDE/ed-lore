@@ -4,7 +4,11 @@ title: IHO Reports on New Onionhead Variant
 slug: iho_reports_on_new_onionhead_variant
 date: '3307-07-20'
 source: API
-summary: The Interstellar Health Organisation publishes a preliminary analysis of onionhead gamma strain (helix). The report finds the gamma strain uses genetically modified synthetic molecules that reduce hallucinogenic intensity while enabling mass production and longer storage life. Dr Himari Grey suggests the Blue Viper Club likely acquired it from an unidentified research facility.
+summary: The Interstellar Health Organisation publishes a preliminary analysis of
+  onionhead gamma strain (helix). The report finds the gamma strain uses genetically
+  modified synthetic molecules that reduce hallucinogenic intensity while enabling
+  mass production and longer storage life. Dr Himari Grey suggests the Blue Viper
+  Club likely acquired it from an unidentified research facility.
 player_impact: None directly; this is a scientific analysis report.
 persons:
 - Himari Grey
@@ -26,14 +30,19 @@ technologies:
 - Synthetic molecules
 - Engineered seeds
 arc_id: onionhead-conflict
-modern_impact: The IHO analysis reveals helix is a commercially engineered drug designed for mass distribution, implicating sophisticated manufacturing capabilities beyond what a nomadic dredger clan could develop and deepening the mystery of its true origin.
+modern_impact: The IHO analysis reveals helix is a commercially engineered drug designed
+  for mass distribution, implicating sophisticated manufacturing capabilities beyond
+  what a nomadic dredger clan could develop and deepening the mystery of its true
+  origin.
 legacy_weight: 3
 significance: medium
 related_uuids:
-- ea0496c2-a753-54ad-b6de-0c3d9bf29edf
-- b1886f93-ecbf-50e3-83c6-743f46436d7b
 - 36c0ba02-5f13-5ac2-920b-5b3b99dca219
+- b1886f93-ecbf-50e3-83c6-743f46436d7b
+- e8e02b95-9c85-5a56-9e40-5304d8f01cde
+- ea0496c2-a753-54ad-b6de-0c3d9bf29edf
 ---
+
 
 The Interstellar Health Organisation has published a preliminary analysis of Onionhead gamma strain, a recreational drug also known as ‘helix’.
 “As With the alpha, beta and Lucan strains, the active component is derived from seeds produced by the onionhead flower native to the planet Panem. These contain alkaloid compounds that have a temporary psychoactive effect on human perceptions and cognitive functions.”

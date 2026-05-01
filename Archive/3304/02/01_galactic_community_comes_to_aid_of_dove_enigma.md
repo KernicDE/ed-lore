@@ -4,8 +4,13 @@ title: Galactic Community Comes to Aid of Dove Enigma
 slug: galactic_community_comes_to_aid_of_dove_enigma
 date: '3304-02-01'
 source: GitHub
-summary: An attempt to sabotage the Dove Enigma, a Wells-class Carrier in the Colonia system, was thwarted by the galactic community. Saboteurs flooded the ship's black market with Thargoid Sensors, but pilots countered by delivering large quantities of meta-alloys. The Dove Enigma was commissioned by the Colonia Council in commemoration of Commander DoveEnigma13 and is the destination of the Enigma Expedition.
-player_impact: Pilots delivered meta-alloys to stabilize the Dove Enigma and prevent further sabotage.
+summary: An attempt to sabotage the Dove Enigma, a Wells-class Carrier in the Colonia
+  system, was thwarted by the galactic community. Saboteurs flooded the ship's black
+  market with Thargoid Sensors, but pilots countered by delivering large quantities
+  of meta-alloys. The Dove Enigma was commissioned by the Colonia Council in commemoration
+  of Commander DoveEnigma13 and is the destination of the Enigma Expedition.
+player_impact: Pilots delivered meta-alloys to stabilize the Dove Enigma and prevent
+  further sabotage.
 persons:
 - DoveEnigma13
 groups:
@@ -20,10 +25,16 @@ topics:
 - ship
 - war
 arc_id: thargoid-contact
-modern_impact: The Dove Enigma incident demonstrates both the vulnerability of fleet carriers to Thargoid sensor sabotage and the galactic community's capacity for rapid collective response.
+modern_impact: The Dove Enigma incident demonstrates both the vulnerability of fleet
+  carriers to Thargoid sensor sabotage and the galactic community's capacity for rapid
+  collective response.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 3869717c-a41a-5b80-8e0c-79f67812e0bf
+- 8c9be4cd-a0f1-5f18-8978-0a6cb1b66b8a
 ---
+
 
 An attempt to sabotage The Dove Enigma, a Wells-class Carrier based in the Colonia system, has been thwarted by the galactic community. 
 

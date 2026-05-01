@@ -4,8 +4,12 @@ title: Community Goal  Operation Whirling Dervish
 slug: community_goal_operation_whirling_dervish
 date: '3303-12-15'
 source: GitHub
-summary: The GalCop Colonial Defence Commission has launched Operation Whirling Dervish, a campaign to establish a new Coriolis starport in the Ogmar system to support further expansion in the Colonia region. Spokesperson Lou Brady stated the starport will accommodate more people, produce high-tech goods, and service larger vessels.
-player_impact: Pilots can deliver atmospheric processors, CMM composites, indium, tantalum, and thermal cooling units to Dervish Platform in the Ogmar system.
+summary: The GalCop Colonial Defence Commission has launched Operation Whirling Dervish,
+  a campaign to establish a new Coriolis starport in the Ogmar system to support further
+  expansion in the Colonia region. Spokesperson Lou Brady stated the starport will
+  accommodate more people, produce high-tech goods, and service larger vessels.
+player_impact: Pilots can deliver atmospheric processors, CMM composites, indium,
+  tantalum, and thermal cooling units to Dervish Platform in the Ogmar system.
 persons:
 - Lou Brady
 groups:
@@ -20,10 +24,15 @@ topics:
 - trade
 - war
 arc_id: jaques-station
-modern_impact: Operation Whirling Dervish adds another major starport to the growing Colonia region, expanding its capacity for population and industry.
+modern_impact: Operation Whirling Dervish adds another major starport to the growing
+  Colonia region, expanding its capacity for population and industry.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- e3eb7903-7e0b-5be8-b9e8-296a5a84ab2e
+- e9757c15-8224-5b40-8c4f-bafe2fab47e4
 ---
+
 
 The GalCop Colonial Defence Commission has embarked on a campaign to establish a new Coriolis starport in the Ogmar system. The campaign – dubbed Operation Whirling Dervish – is designed to support Further expansion in the Colonia region. 
 

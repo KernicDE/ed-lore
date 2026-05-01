@@ -4,8 +4,16 @@ title: Week in Review
 slug: week_in_review
 date: '3304-03-24'
 source: GitHub
-summary: This week's major stories include Aegis publishing a Thargoid report based on Ram Tah's decrypted Guardian logs, revealing the two species' ancient war over territory. Professor Alba Tesreau noted humanity's situation echoes the Guardians'. Federal President Zachary Hudson and Imperial Admiral Denton Patreus rejected diplomatic options. The Socho Thargoid-clearing operation concluded successfully. Yuri Grom announced a new shipyard in CPC 20 6743 for capital ship production. Sirius Corporation announced expansion in Ceos and Sothis with new starports, settlements and megaships.
-player_impact: Pilots who contributed to the Socho operation can collect rewards from Dantec Enterprise. Pilots can support the EG Union shipyard campaign and the Sirius expansion.
+summary: This week's major stories include Aegis publishing a Thargoid report based
+  on Ram Tah's decrypted Guardian logs, revealing the two species' ancient war over
+  territory. Professor Alba Tesreau noted humanity's situation echoes the Guardians'.
+  Federal President Zachary Hudson and Imperial Admiral Denton Patreus rejected diplomatic
+  options. The Socho Thargoid-clearing operation concluded successfully. Yuri Grom
+  announced a new shipyard in CPC 20 6743 for capital ship production. Sirius Corporation
+  announced expansion in Ceos and Sothis with new starports, settlements and megaships.
+player_impact: Pilots who contributed to the Socho operation can collect rewards from
+  Dantec Enterprise. Pilots can support the EG Union shipyard campaign and the Sirius
+  expansion.
 persons:
 - Alba Tesreau
 - Zachary Hudson
@@ -35,10 +43,16 @@ topics:
 - war
 - xenoarchaeology
 arc_id: thargoid-contact
-modern_impact: The convergence of Thargoid research, system defence operations, and infrastructure expansion illustrates the galaxy's multifaceted response to the alien threat.
+modern_impact: The convergence of Thargoid research, system defence operations, and
+  infrastructure expansion illustrates the galaxy's multifaceted response to the alien
+  threat.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 613369fc-8a96-5141-9446-e67c8c970f83
+- fb494365-37c8-517f-8ecc-cc6dce6ba7e4
 ---
+
 
 Here are This week’s major stories. 
 

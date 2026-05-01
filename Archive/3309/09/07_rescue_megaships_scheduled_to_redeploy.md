@@ -4,8 +4,10 @@ title: Rescue Megaships Scheduled to Redeploy
 slug: rescue_megaships_scheduled_to_redeploy
 date: '3309-09-07'
 source: API
-summary: Eleven rescue megaships coordinating evacuation efforts will redeploy closer to active conflict areas, with temporary suspension of missions during transit.
-player_impact: Pilots should note rescue megaship redeployment schedules; stored ships/modules will be transported safely to new locations.
+summary: Eleven rescue megaships coordinating evacuation efforts will redeploy closer
+  to active conflict areas, with temporary suspension of missions during transit.
+player_impact: Pilots should note rescue megaship redeployment schedules; stored ships/modules
+  will be transported safely to new locations.
 persons:
 - Skylar Anderson
 groups:
@@ -16,13 +18,19 @@ topics:
 - humanitarian
 - war
 arc_id: thargoid-titan-war
-modern_impact: Anderson's statement — 'Shortening the distance between systems which require humanitarian support and the megaships responsible for coordinating that support is important' — reflects military confidence. The detailed schedule shows operational planning. The reassurance that 'ships or modules stored on the rescue megaships will be transported safely' addresses player concerns.
+modern_impact: Anderson's statement — 'Shortening the distance between systems which
+  require humanitarian support and the megaships responsible for coordinating that
+  support is important' — reflects military confidence. The detailed schedule shows
+  operational planning. The reassurance that 'ships or modules stored on the rescue
+  megaships will be transported safely' addresses player concerns.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 28b10ac3-f6fd-5d10-bcbe-f2763a0345b5
 - a39bacde-3f03-579e-a87c-1f549b9287b1
+- b8701838-de3d-517f-9806-05d86c3e7554
 ---
+
 
 **Pilots’ Federation ALERT**
 The eleven megaships coordinating evacuation efforts from Thargoid-invaded systems are set to move over the next few weeks.

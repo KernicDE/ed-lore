@@ -4,7 +4,9 @@ title: Galactic News  Halsey Stages Anti War Protest
 slug: galactic_news_halsey_stages_anti_war_protest
 date: '3303-05-21'
 source: GitHub
-summary: Former Federal President Jasmina Halsey held a public anti-war demonstration in the Alioth system, protesting the ongoing Empire-Federation conflict and directly addressing both leaders.
+summary: Former Federal President Jasmina Halsey held a public anti-war demonstration
+  in the Alioth system, protesting the ongoing Empire-Federation conflict and directly
+  addressing both leaders.
 player_impact: None specified.
 persons:
 - Jasmina Halsey
@@ -24,10 +26,15 @@ topics:
 - war
 technologies: []
 arc_id: alliance-expansion
-modern_impact: Halsey's anti-war protest in Alioth demonstrates the Alliance's willingness to host dissident voices and challenge superpower militarism.
+modern_impact: Halsey's anti-war protest in Alioth demonstrates the Alliance's willingness
+  to host dissident voices and challenge superpower militarism.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 69c817c5-a7e7-5ec1-8507-add13a49b8a1
+- 9171caa2-184b-5db3-afa6-c48602b54e2e
 ---
+
 
 Former Federal President Jasmina Halsey held a public demonstration in The Alioth system yesterday in protest of The ongoing conflict between the Empire and the Federation. 
 

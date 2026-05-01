@@ -4,8 +4,15 @@ title: Research into Strange Objects Begins
 slug: research_into_strange_objects_begins
 date: '3301-09-13'
 source: GitHub
-summary: Professor Ishmael Palin, formerly of the Homeland Scientific Council, was appointed to lead a Federal research programme studying strange objects discovered in systems including Tanmark and HIP 102128. The quasi-organic artefacts, dubbed AEOs, can damage nearby machinery including ship cargo holds and systems. Palin refused to speculate on their non-human origin, promising rigorous examination in the coming weeks.
-player_impact: Pilots transporting unknown artefacts should be aware they can damage ship systems and cargo holds. The research into these mysterious objects may reveal important discoveries about non-human intelligence.
+summary: Professor Ishmael Palin, formerly of the Homeland Scientific Council, was
+  appointed to lead a Federal research programme studying strange objects discovered
+  in systems including Tanmark and HIP 102128. The quasi-organic artefacts, dubbed
+  AEOs, can damage nearby machinery including ship cargo holds and systems. Palin
+  refused to speculate on their non-human origin, promising rigorous examination in
+  the coming weeks.
+player_impact: Pilots transporting unknown artefacts should be aware they can damage
+  ship systems and cargo holds. The research into these mysterious objects may reveal
+  important discoveries about non-human intelligence.
 persons:
 - Ishmael Palin
 groups:
@@ -21,10 +28,15 @@ technologies:
 - Unknown Artefact
 - Anomalous Extraterrestrial Object
 arc_id: unknown-artefacts
-modern_impact: Advances understanding of the mysterious alien artefacts and their threat to station infrastructure.
+modern_impact: Advances understanding of the mysterious alien artefacts and their
+  threat to station infrastructure.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- c420d96a-5881-532d-890a-b2030f3e6df9
+- ddd18d21-0b9c-53db-a8e0-d3969750145c
 ---
+
 
 A Federal research programme has been established to study The strange objects discovered In a number of systems, including Tanmark and HIP 102128, it was announced today. The project is being led by Professor Ishmael Palin, formerly of the Homeland Scientific Council. 
 

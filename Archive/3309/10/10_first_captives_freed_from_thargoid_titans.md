@@ -4,7 +4,8 @@ title: First Captives Freed from Thargoid Titans
 slug: first_captives_freed_from_thargoid_titans
 date: '3309-10-10'
 source: API
-summary: The first humans rescued from Thargoid Titans arrive and survive extraction, with Dr Grey observing their physical and psychological state.
+summary: The first humans rescued from Thargoid Titans arrive and survive extraction,
+  with Dr Grey observing their physical and psychological state.
 player_impact: Pilots used extraction missiles to rescue captives from Thargoid Titans.
 persons:
 - Himari Grey
@@ -22,13 +23,20 @@ technologies:
 - sub-surface extraction missiles
 - bio-storage capsules
 arc_id: thargoid-titan-war
-modern_impact: Grey's detailed observations — 'suspended within a chemically complex gel, not unlike amniotic fluid' and 'like an extended dream' — provide the first eyewitness account of captivity. Her note that 'The capsules are clearly designed to sustain oxygen-breathing life forms indefinitely' raises the question of Thargoid intent. The psychological trauma described — 'state of shock or showed signs of psychological trauma' — humanises the experience.
+modern_impact: Grey's detailed observations — 'suspended within a chemically complex
+  gel, not unlike amniotic fluid' and 'like an extended dream' — provide the first
+  eyewitness account of captivity. Her note that 'The capsules are clearly designed
+  to sustain oxygen-breathing life forms indefinitely' raises the question of Thargoid
+  intent. The psychological trauma described — 'state of shock or showed signs of
+  psychological trauma' — humanises the experience.
 legacy_weight: 5
 significance: high
 related_uuids:
-- fe77f573-4833-58b0-aa08-7f2b2103c21a
+- b1f7f15b-c712-5ac1-98a3-80fad085dcb1
 - e9caae85-48b1-549d-8e2f-04f042789e3f
+- fe77f573-4833-58b0-aa08-7f2b2103c21a
 ---
+
 
 The first humans rescued from the Thargoid motherships have started to arrive, almost all of whom have so far survived extraction.
 The highly dangerous task requires using an upgraded pulse wave xeno scanner to detect human life signs on the Titans. The new sub-surface extraction missiles then target and jettison the bio-storage capsules – as the structures are officially designated – which are then recovered using a cargo scoop. 

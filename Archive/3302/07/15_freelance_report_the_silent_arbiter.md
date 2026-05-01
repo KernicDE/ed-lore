@@ -4,7 +4,9 @@ title: Freelance Report  The Silent Arbiter
 slug: freelance_report_the_silent_arbiter
 date: '3302-07-15'
 source: GitHub
-summary: As Utopia completes its mission in Maia, senior Utopian figures voice alarm at deteriorating Federation-Empire relations over barnacles, warning that humanity may be being watched and judged by a higher intelligence.
+summary: As Utopia completes its mission in Maia, senior Utopian figures voice alarm
+  at deteriorating Federation-Empire relations over barnacles, warning that humanity
+  may be being watched and judged by a higher intelligence.
 player_impact: None
 persons:
 - Gan
@@ -15,10 +17,15 @@ locations:
 - Maia
 technologies: []
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
+  and fuels the emerging Thargoid contact narrative.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 1bef99d4-cbee-5fc7-887a-8f8fca1c7eb3
+- dfa9ce87-7e92-5ea2-853d-a0c17b5aa27b
 ---
+
 
 As Utopia completes Its mission in the Maia system, senior Utopian figures have voiced alarm at the deteriorating situation between the Federation and the Empire over the barnacles. One member of the commune said: 
 

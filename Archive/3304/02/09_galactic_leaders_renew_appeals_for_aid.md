@@ -4,8 +4,13 @@ title: Galactic Leaders Renew Appeals for Aid
 slug: galactic_leaders_renew_appeals_for_aid
 date: '3304-02-09'
 source: GitHub
-summary: Seventeen starports have now been attacked by the Thargoids, leaving widespread destruction and many stations in critical condition. Federal President Zachary Hudson and Emperor Arissa Lavigny-Duval have issued fresh appeals for aid. The Emperor also confirmed that Aegis is investigating reports that the Thargoids are moving toward the core systems.
-player_impact: Pilots are implored to deliver essential commodities to affected starports and evacuate civilians.
+summary: Seventeen starports have now been attacked by the Thargoids, leaving widespread
+  destruction and many stations in critical condition. Federal President Zachary Hudson
+  and Emperor Arissa Lavigny-Duval have issued fresh appeals for aid. The Emperor
+  also confirmed that Aegis is investigating reports that the Thargoids are moving
+  toward the core systems.
+player_impact: Pilots are implored to deliver essential commodities to affected starports
+  and evacuate civilians.
 persons:
 - Zachary Hudson
 - Arissa Lavigny-Duval
@@ -20,10 +25,16 @@ topics:
 - trade
 - war
 arc_id: thargoid-contact
-modern_impact: The seventeenth starport attack and reports of Thargoids moving coreward mark a critical escalation in the conflict, prompting the highest levels of government to plead for pilot assistance.
+modern_impact: The seventeenth starport attack and reports of Thargoids moving coreward
+  mark a critical escalation in the conflict, prompting the highest levels of government
+  to plead for pilot assistance.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 9665e067-39ba-5291-ad4e-d19f356c2e60
+- a5e2abdf-97ac-5580-bca4-a6166d5fc514
 ---
+
 
 Seventeen starports have now been attacked by The Thargoids, resulting in widespread destruction and loss of life. Many of these stations remain In a critical state, and are unable to offer essential services. 
 

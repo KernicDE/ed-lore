@@ -4,7 +4,9 @@ title: Galactic News  Kahina Loren Stripped of her Rank
 slug: galactic_news_kahina_loren_stripped_of_her_rank
 date: '3302-10-14'
 source: GitHub
-summary: Kahina Tijani Loren was stripped of her senatorial rank for delegating Prism system responsibilities to Ambassador Cuthrick Delaney in 3301. She was moved from Achenar and is en route to Prism for trial under Admiral Patreus's influence.
+summary: Kahina Tijani Loren was stripped of her senatorial rank for delegating Prism
+  system responsibilities to Ambassador Cuthrick Delaney in 3301. She was moved from
+  Achenar and is en route to Prism for trial under Admiral Patreus's influence.
 player_impact: None
 persons:
 - Kahina Tijani Loren
@@ -18,10 +20,15 @@ topics:
 - war
 technologies: []
 arc_id: prism-senator
-modern_impact: Loren's stripping of rank and transfer to Prism for trial marks a turning point in Imperial judicial intervention in powerbase disputes.
+modern_impact: Loren's stripping of rank and transfer to Prism for trial marks a turning
+  point in Imperial judicial intervention in powerbase disputes.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 15d39a40-5122-58f0-b7a5-ee7f0b5cf13a
+- d240f09b-07c5-5666-ae5b-289b6ddd0d6b
 ---
+
 
 Kahina Tijani Loren has been stripped of The rank of senator for delegating her responsibilities in respect of the Prism system to Ambassador Cuthrick Delaney in 3301. 
 

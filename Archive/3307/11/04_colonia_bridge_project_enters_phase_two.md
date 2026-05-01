@@ -4,8 +4,12 @@ title: Colonia Bridge Project Enters Phase Two
 slug: colonia_bridge_project_enters_phase_two
 date: '3307-11-04'
 source: API
-summary: Brewer Corporation launches phase two of the Colonia Bridge project, requesting additional deliveries to construct more megaships along the full route between the core systems and Colonia.
-player_impact: Pilots delivered ceramic composites, computer components, and thermal cooling units to Macdonald Settlement and Jaques Station. Top contributors received engineered Frame Shift Drives.
+summary: Brewer Corporation launches phase two of the Colonia Bridge project, requesting
+  additional deliveries to construct more megaships along the full route between the
+  core systems and Colonia.
+player_impact: Pilots delivered ceramic composites, computer components, and thermal
+  cooling units to Macdonald Settlement and Jaques Station. Top contributors received
+  engineered Frame Shift Drives.
 groups:
 - Brewer Corporation
 topics:
@@ -13,10 +17,15 @@ topics:
 - engineering
 - exploration
 arc_id: jaques-station
-modern_impact: Colonia continues to grow as a deep-space settlement, offering new opportunities for exploration and colonisation.
+modern_impact: Colonia continues to grow as a deep-space settlement, offering new
+  opportunities for exploration and colonisation.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 0c47850f-a5c4-514e-b89e-0d80cf4d5093
+- 403eb749-98c4-5030-905c-32e97ca872f6
 ---
+
 
 **Pilots Federation ALERT**
 Brewer Corporation requests deliveries in The Alcor and Colonia systems for the next phase of the Colonia Bridge project.

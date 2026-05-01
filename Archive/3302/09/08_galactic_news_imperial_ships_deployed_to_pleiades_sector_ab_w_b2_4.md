@@ -4,7 +4,9 @@ title: Galactic News  Imperial Ships Deployed to Pleiades Sector AB W B2 4
 slug: galactic_news_imperial_ships_deployed_to_pleiades_sector_ab_w_b2_4
 date: '3302-09-08'
 source: GitHub
-summary: The Empire deployed an Imperial deputation including a Majestic-class Interdictor to the Pleiades Sector AB-W B2-4 system over the non-human shipwreck site, prompting President Zachary Hudson to condemn the action and threaten a Federal response.
+summary: The Empire deployed an Imperial deputation including a Majestic-class Interdictor
+  to the Pleiades Sector AB-W B2-4 system over the non-human shipwreck site, prompting
+  President Zachary Hudson to condemn the action and threaten a Federal response.
 player_impact: None
 persons:
 - Zachary Hudson
@@ -16,10 +18,15 @@ locations:
 technologies:
 - Majestic-class Interdictor
 arc_id: thargoid-contact
-modern_impact: Imperial military deployment to the Pleiades wreck site triggered a direct superpower standoff over control of alien discoveries.
+modern_impact: Imperial military deployment to the Pleiades wreck site triggered a
+  direct superpower standoff over control of alien discoveries.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 5feb7c8b-cf1f-5847-b5af-e4e9f42bd278
+- 96f02e47-3d25-5ec1-904e-1c49c37b218d
 ---
+
 
 For much of The past week, the galactic community has been captivated by the mysterious shipwreck discovered in the Pleiades Sector AB-W B2-4 system. The wreck, Which was Found on One of the system's moons, is believed by Many to be the remains of a non-human starship. 
 

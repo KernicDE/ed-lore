@@ -4,8 +4,10 @@ title: The Assault on Leigong
 slug: the_assault_on_leigong
 date: '3310-03-15'
 source: API
-summary: An urgent call to all pilots to participate in the final assault on Titan Leigong, the second Thargoid mothership.
-player_impact: Pilots are urgently called to aid in the defeat of Titan Leigong, the second Thargoid mothership.
+summary: An urgent call to all pilots to participate in the final assault on Titan
+  Leigong, the second Thargoid mothership.
+player_impact: Pilots are urgently called to aid in the defeat of Titan Leigong, the
+  second Thargoid mothership.
 persons: []
 groups: []
 locations: []
@@ -17,12 +19,16 @@ technologies:
 - Caustic Sink Launcher
 - Guardian Nanite Torpedo Pylon
 arc_id: thargoid-titan-war
-modern_impact: Standard Titan assault alert. The destruction of Leigong would follow Taranis as the second Titan to fall, continuing the systematic dismantling of the Thargoid mothership fleet.
+modern_impact: Standard Titan assault alert. The destruction of Leigong would follow
+  Taranis as the second Titan to fall, continuing the systematic dismantling of the
+  Thargoid mothership fleet.
 legacy_weight: 5
 significance: high
 related_uuids:
+- 82ecec16-67af-51b8-b568-f3f99e028da2
 - fe1eb907-2d83-51c4-bb42-d7b1da795fee
 ---
+
 
 **Pilots’ Federation Alert**
 Titan Leigong is under siege. This is an urgent call to all independent pilots to aid in the complete defeat of a second Titan.

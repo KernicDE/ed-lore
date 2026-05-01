@@ -4,8 +4,13 @@ title: Community Goal  Fifth Aegis Initiative
 slug: community_goal_fifth_aegis_initiative
 date: '3303-11-24'
 source: GitHub
-summary: Aegis has announced a second military strike on a Thargoid-occupied system following the success of Operation Andronicus. The operation will focus on Electra, where high concentrations of Thargoid vessels have been reported. Admiral Aden Tanner stated the primary objectives are to reduce Thargoid numbers and gather materials to test and calibrate anti-Thargoid technologies.
-player_impact: Pilots can hand in Pilots Federation Combat Bonds at Cavalieri in the Electra system for rewards from Aegis Research.
+summary: Aegis has announced a second military strike on a Thargoid-occupied system
+  following the success of Operation Andronicus. The operation will focus on Electra,
+  where high concentrations of Thargoid vessels have been reported. Admiral Aden Tanner
+  stated the primary objectives are to reduce Thargoid numbers and gather materials
+  to test and calibrate anti-Thargoid technologies.
+player_impact: Pilots can hand in Pilots Federation Combat Bonds at Cavalieri in the
+  Electra system for rewards from Aegis Research.
 persons:
 - Aden Tanner
 groups:
@@ -21,10 +26,15 @@ topics:
 - ship
 - war
 arc_id: thargoid-contact
-modern_impact: The Fifth Aegis Initiative continues the militia-based approach against Thargoids while simultaneously harvesting materials for weapons research.
+modern_impact: The Fifth Aegis Initiative continues the militia-based approach against
+  Thargoids while simultaneously harvesting materials for weapons research.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 8c557ef9-1907-5ed6-9f26-15ed0fe1c69a
+- dd94992d-f319-508d-acbd-e234adfdc372
 ---
+
 
 Aegis has announced a second military strike on a Thargoid-occupied system, following The success of Operation Andronicus. The operation will focus on Electra, where high concentrations of Thargoid vessels have been reported. 
 

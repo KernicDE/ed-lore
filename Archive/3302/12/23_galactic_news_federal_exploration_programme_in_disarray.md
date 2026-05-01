@@ -4,7 +4,9 @@ title: Galactic News  Federal Exploration Programme in Disarray
 slug: galactic_news_federal_exploration_programme_in_disarray
 date: '3302-12-23'
 source: GitHub
-summary: The Federation's exploration data appeal was derailed by a competing initiative from the Children of Raxxla, forcing the resignation of Mars High Astrocartography head Karl Devene and putting Federal exploration projects on hold.
+summary: The Federation's exploration data appeal was derailed by a competing initiative
+  from the Children of Raxxla, forcing the resignation of Mars High Astrocartography
+  head Karl Devene and putting Federal exploration projects on hold.
 player_impact: None
 persons:
 - Karl Devene
@@ -26,10 +28,14 @@ topics:
 - research
 technologies: []
 arc_id: imperial-succession
-modern_impact: The Children of Raxxla's successful counter-appeal undermined Federal research efforts and intensified political tensions surrounding exploration data.
+modern_impact: The Children of Raxxla's successful counter-appeal undermined Federal
+  research efforts and intensified political tensions surrounding exploration data.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 81625d4e-49d9-593d-8721-8beeb648005c
 ---
+
 
 Last month, The Federation launched an appeal for exploration data from a number of remote locations. A competitive appeal was simultaneously launched by a mysterious group known As the Children of Raxxla, Which succeeded in completely derailing the Federal initiative. Karl Devene, head of Astrocartography at Mars High, was forced to resign as a result. 
 

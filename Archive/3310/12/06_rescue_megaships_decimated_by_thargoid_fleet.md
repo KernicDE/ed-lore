@@ -4,8 +4,12 @@ title: Rescue Megaships Decimated by Thargoid Fleet
 slug: rescue_megaships_decimated_by_thargoid_fleet
 date: '3310-12-06'
 source: API
-summary: Seven of eight rescue megaships deployed near Sol are destroyed by Thargoid forces within minutes of arrival, leaving only Rescue Ship Hutner and Rescue Ship Cornwallis to continue evacuation efforts.
-player_impact: Pilots were involved in evacuation efforts from Sol and surrounding systems. The surviving rescue megaships Hutner and Cornwallis continued orchestrating evacuation for billions of refugees.
+summary: Seven of eight rescue megaships deployed near Sol are destroyed by Thargoid
+  forces within minutes of arrival, leaving only Rescue Ship Hutner and Rescue Ship
+  Cornwallis to continue evacuation efforts.
+player_impact: Pilots were involved in evacuation efforts from Sol and surrounding
+  systems. The surviving rescue megaships Hutner and Cornwallis continued orchestrating
+  evacuation for billions of refugees.
 groups:
 - Aegis
 locations:
@@ -32,14 +36,20 @@ technologies:
 - Allied Solace
 - Imperial Sanctum
 arc_id: thargoid-titan-war
-modern_impact: The precision of the Thargoid attacks — 'distress calls were sounded within minutes of arrival' — suggests the Thargoids were tracking megaship deployments or had intelligence on their arrival coordinates. This raises questions about Thargoid tactical awareness that remain unresolved. The survival of Hutner and Cornwallis becomes critical to the post-war refugee processing.
+modern_impact: The precision of the Thargoid attacks — 'distress calls were sounded
+  within minutes of arrival' — suggests the Thargoids were tracking megaship deployments
+  or had intelligence on their arrival coordinates. This raises questions about Thargoid
+  tactical awareness that remain unresolved. The survival of Hutner and Cornwallis
+  becomes critical to the post-war refugee processing.
 legacy_weight: 5
 significance: high
 related_uuids:
-- 5245e25e-8ce0-5df7-b232-de05945dbcd2
 - 35b353b0-98d7-556b-8f74-142428546856
+- 5245e25e-8ce0-5df7-b232-de05945dbcd2
 - a66c3fce-c78d-5a54-a796-7fb6954d55f1
+- bff0e4eb-7d2c-56aa-a3ea-7d523a3b5820
 ---
+
 
 Almost all rescue megaships deployed to systems near Sol have been destroyed shortly after arrival, Aegis has confirmed.
 Eight of the eleven active rescue megaships were ordered to systems close to Sol to help with the expected high flow of refugees and civilian casualties following Titan Cocijo’s arrival. But distress calls were sounded within minutes of arrival with the few recovered survivors claiming the Thargoids had arrived in alarming numbers at the precise arrival location.

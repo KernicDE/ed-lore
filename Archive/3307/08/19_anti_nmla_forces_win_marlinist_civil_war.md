@@ -4,8 +4,11 @@ title: 'Anti-NMLA Forces Win Marlinist Civil War '
 slug: anti_nmla_forces_win_marlinist_civil_war
 date: '3307-08-19'
 source: API
-summary: The Exiled Marlinist Assembly of Baltah'Sine defeats the Marlinism Reformation Party, eliminating the NMLA's political wing. Aaron Whyte is confirmed dead and a snap election is called.
-player_impact: Independent pilots were instrumental in defeating the NMLA-aligned faction.
+summary: The Exiled Marlinist Assembly of Baltah'Sine defeats the Marlinism Reformation
+  Party, eliminating the NMLA's political wing. Aaron Whyte is confirmed dead and
+  a snap election is called.
+player_impact: Independent pilots were instrumental in defeating the NMLA-aligned
+  faction.
 persons:
 - Octavia Volkov
 - Kayode Tau
@@ -21,10 +24,15 @@ topics:
 - terrorism
 - war
 arc_id: nmla-terrorism
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to the Marlinist refugee crisis and the Proactive Detection Bureau.
+modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
+  the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 5
 significance: high
+related_uuids:
+- a9a8bee4-5eaa-549b-a9e5-6c7d9da57e34
+- d31b1a7a-bc48-5132-bc1f-26fa2dd54f52
 ---
+
 
 **Pilots Federation ALERT**
 The conflict in the Hyades Sector RO-P b6-2 system has been won by the Exiled Marlinist Assembly of Baltah'Sine.

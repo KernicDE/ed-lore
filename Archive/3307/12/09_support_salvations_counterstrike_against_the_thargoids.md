@@ -4,8 +4,12 @@ title: Support Salvation's Counterstrike Against the Thargoids
 slug: support_salvations_counterstrike_against_the_thargoids
 date: '3307-12-09'
 source: API
-summary: Salvation requests urgent deliveries of classified experimental equipment to three megaships in Delphi, Maia and Merope to deploy anti-xeno superweapons against Thargoid invasions.
-player_impact: Pilots were asked to collect experimental equipment from Heart of Taurus in Qarato and deliver to Musashi in Delphi, Bright Sentinel in Maia, and Glorious Prospect in Merope.
+summary: Salvation requests urgent deliveries of classified experimental equipment
+  to three megaships in Delphi, Maia and Merope to deploy anti-xeno superweapons against
+  Thargoid invasions.
+player_impact: Pilots were asked to collect experimental equipment from Heart of Taurus
+  in Qarato and deliver to Musashi in Delphi, Bright Sentinel in Maia, and Glorious
+  Prospect in Merope.
 persons:
 - Morag Halloran
 groups:
@@ -23,10 +27,15 @@ topics:
 technologies:
 - Salvation's superweapons
 arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape and drives anti-xeno defence efforts.
+modern_impact: Thargoid activity fundamentally changes the galactic security landscape
+  and drives anti-xeno defence efforts.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 2c66853a-d63c-502f-8a44-7543fdafaf3f
+- 81538fce-b754-58bd-9a39-a3532cc682d7
 ---
+
 
 **Pilots’ Federation ALERT**
 Salvation requires vital materials to deploy anti-xeno superweapons in The Delphi, Maia and Merope systems.

@@ -4,8 +4,12 @@ title: Freelance Report  Collaborative Effort to Restore Ackerman Market
 slug: freelance_report_collaborative_effort_to_restore_ackerman_market
 date: '3302-03-17'
 source: GitHub
-summary: An Alliance of Commanders including Kermit Laphroaig, ThatDamnRanga, Ollobrains, and Zenith Ddraiglas forms to saturate Ackerman Market in Eravate with meta-alloys, hoping to restore the station to full working order after it was affected by the technological plague.
-player_impact: Pilots delivered meta-alloys to Ackerman Market in Eravate to help restore the station from UA-related malfunctions.
+summary: An Alliance of Commanders including Kermit Laphroaig, ThatDamnRanga, Ollobrains,
+  and Zenith Ddraiglas forms to saturate Ackerman Market in Eravate with meta-alloys,
+  hoping to restore the station to full working order after it was affected by the
+  technological plague.
+player_impact: Pilots delivered meta-alloys to Ackerman Market in Eravate to help
+  restore the station from UA-related malfunctions.
 persons:
 - Commander Kermit Laphroaig
 - Commander ThatDamnRanga
@@ -22,10 +26,15 @@ topics:
 - medicine
 - trade
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
+  and fuels the emerging Thargoid contact narrative.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 2ea9147c-0162-53cd-aa6c-c7b7072bf4ca
+- 9eef6e98-953b-5eaa-9685-81a076103d63
 ---
+
 
 Ackerman Market in Eravate is just One of The stations affected by the plague. Before it was shut down it was a popular rest stop for Commanders embarking on new careers in space. Just a few days ago Its commodities market reopened, and a huge demand for meta-alloys has been reported. 
 

@@ -4,7 +4,10 @@ title: Freelance Report  Give and Take
 slug: freelance_report_give_and_take
 date: '3302-07-02'
 source: GitHub
-summary: Kumo Tribute Day saw representatives from systems under Archon Delaine present lavish gifts to the Pirate Lord, including a live barnacle and a gold-plated Federal Corvette. When Ferdinand Haim of the Lusonda system arrived empty handed, Delaine ordered him to take his own life.
+summary: Kumo Tribute Day saw representatives from systems under Archon Delaine present
+  lavish gifts to the Pirate Lord, including a live barnacle and a gold-plated Federal
+  Corvette. When Ferdinand Haim of the Lusonda system arrived empty handed, Delaine
+  ordered him to take his own life.
 player_impact: None
 persons:
 - Archon Delaine
@@ -20,10 +23,15 @@ topics:
 technologies:
 - Federal Corvette
 arc_id: barnacle-meta-alloy
-modern_impact: Illustrates the brutal authority of Archon Delaine and the oppressive tribute system imposed on systems under his control.
+modern_impact: Illustrates the brutal authority of Archon Delaine and the oppressive
+  tribute system imposed on systems under his control.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 75d079b9-fea7-50f0-9079-6cc3e119baff
+- d9311738-7043-53be-be65-416225fa6e00
 ---
+
 
 Today marked Kumo Tribute Day, Which sees representatives from systems under The control of Archon Delaine curry favour With the Pirate Lord by presenting him With lavish gifts. 
 

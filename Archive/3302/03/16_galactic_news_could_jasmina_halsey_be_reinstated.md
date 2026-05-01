@@ -4,7 +4,10 @@ title: Galactic News  Could Jasmina Halsey be Reinstated
 slug: galactic_news_could_jasmina_halsey_be_reinstated
 date: '3302-03-16'
 source: GitHub
-summary: Following former President Jasmina Halsey's rescue from Starship One, some Federal politicians suggest she should serve out the remainder of her term. Legal advisor Simon Newell believes reinstatement is unlikely given the prior vote of no confidence and official termination of her presidency.
+summary: Following former President Jasmina Halsey's rescue from Starship One, some
+  Federal politicians suggest she should serve out the remainder of her term. Legal
+  advisor Simon Newell believes reinstatement is unlikely given the prior vote of
+  no confidence and official termination of her presidency.
 player_impact: None
 persons:
 - Jasmina Halsey
@@ -21,7 +24,11 @@ arc_id: halsey-presidency
 modern_impact: President Halsey's controversial military orders strain Federal politics.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 21443853-5371-5291-a9f5-93f79da1d368
+- fd20f126-1514-5567-9737-ba8347d44b4f
 ---
+
 
 Following The extraordinary rescue of former Federal President Jasmina Halsey, whose escape pod was recovered from the wreckage of Starship One, questions have been asked about her possible return to power. According to an anonymous source within the Federal government, Several senior-level politicians have voiced the opinion that, should she make a full recovery, Halsey ought to be allowed to serve out the remainder of her term. 
 

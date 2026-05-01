@@ -4,7 +4,9 @@ title: Galactic News  Thargoid Threat Continues to Escalate
 slug: galactic_news_thargoid_threat_continues_to_escalate
 date: '3303-10-07'
 source: GitHub
-summary: Thargoid activity has escalated dramatically in the Pleiades Nebula, with Interceptor-class ships attacking Imperial, Federal and civilian vessels. Thargoids are now capturing occupied escape pods and deploying clusters of attack drones.
+summary: Thargoid activity has escalated dramatically in the Pleiades Nebula, with
+  Interceptor-class ships attacking Imperial, Federal and civilian vessels. Thargoids
+  are now capturing occupied escape pods and deploying clusters of attack drones.
 player_impact: Exercise caution when operating in the Pleiades Nebula.
 persons:
 - Aden Tanner
@@ -23,10 +25,15 @@ technologies:
 - attack drones
 - escape pods
 arc_id: thargoid-contact
-modern_impact: Thargoid activity escalates, fundamentally changing the galactic security landscape and driving the creation of anti-xeno defence forces.
+modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
+  landscape and driving the creation of anti-xeno defence forces.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 1531ddfb-965c-5123-a4fe-8096d622004c
+- f020e08d-d11c-53e5-98bb-e1559abf4324
 ---
+
 
 Numerous sources have reported that Thargoid activity has escalated dramatically in recent days, With attacks from Thargoid Interceptor-class ships becoming increasingly common in The Pleiades Nebula. Reports confirm that Imperial, Federal and civilian ships have all been targeted. Images captured by survivors of these attacks show Thargoid ships scanning wreckage and gathering debris, including occupied escape pods. 
 

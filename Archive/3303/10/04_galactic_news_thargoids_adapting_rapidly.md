@@ -4,8 +4,13 @@ title: Galactic News  Thargoids Adapting Rapidly
 slug: galactic_news_thargoids_adapting_rapidly
 date: '3303-10-04'
 source: GitHub
-summary: Admiral Aden Tanner has confirmed that the Thargoids are rapidly adapting to human weapons and tactics. AX missiles are now less effective against Thargoid heart modules due to developed resistance. Thargoids can now lock onto ships using countermeasures, dodge long-range missile attacks, and deploy more accurate Thargon drones. Tanner emphasized the importance of Aegis's ongoing anti-Thargoid initiative.
-player_impact: Pilots should be aware that previously effective anti-Thargoid tactics and weapons may now be less effective; adaptation is necessary.
+summary: Admiral Aden Tanner has confirmed that the Thargoids are rapidly adapting
+  to human weapons and tactics. AX missiles are now less effective against Thargoid
+  heart modules due to developed resistance. Thargoids can now lock onto ships using
+  countermeasures, dodge long-range missile attacks, and deploy more accurate Thargon
+  drones. Tanner emphasized the importance of Aegis's ongoing anti-Thargoid initiative.
+player_impact: Pilots should be aware that previously effective anti-Thargoid tactics
+  and weapons may now be less effective; adaptation is necessary.
 persons:
 - Aden Tanner
 groups:
@@ -16,10 +21,15 @@ topics:
 - ship
 - war
 arc_id: thargoid-contact
-modern_impact: Thargoid rapid adaptation to human weapons demonstrates their intelligence and evolutionary capability, forcing a continuous arms race in anti-xeno technology.
+modern_impact: Thargoid rapid adaptation to human weapons demonstrates their intelligence
+  and evolutionary capability, forcing a continuous arms race in anti-xeno technology.
 legacy_weight: 5
 significance: high
+related_uuids:
+- e9235304-ee39-5f0b-b0a4-c5f25d0085d2
+- f8376658-891b-53a4-9a1a-6a7c117de1c7
 ---
+
 
 Admiral Aden Tanner, Aegis’ chief military liaison, has released a statement confirming that The Thargoids have begun adapting to the weapons and tactics developed to combat them. 
 

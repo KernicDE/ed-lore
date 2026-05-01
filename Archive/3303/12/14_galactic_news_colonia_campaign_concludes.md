@@ -4,8 +4,12 @@ title: Galactic News  Colonia Campaign Concludes
 slug: galactic_news_colonia_campaign_concludes
 date: '3303-12-14'
 source: GitHub
-summary: The Colonia Council has announced the successful conclusion of its appeal for construction materials. Scores of pilots delivered materials to Skvortsov Orbital and eliminated agitators in the 63 G. Capricorni system. The materials will be used to construct new outposts in the Colonia region for recent immigrants.
-player_impact: Pilots who contributed can collect rewards from Skvortsov Orbital in the 63 G. Capricorni system.
+summary: The Colonia Council has announced the successful conclusion of its appeal
+  for construction materials. Scores of pilots delivered materials to Skvortsov Orbital
+  and eliminated agitators in the 63 G. Capricorni system. The materials will be used
+  to construct new outposts in the Colonia region for recent immigrants.
+player_impact: Pilots who contributed can collect rewards from Skvortsov Orbital in
+  the 63 G. Capricorni system.
 persons: []
 groups:
 - Colonia Council
@@ -17,10 +21,15 @@ topics:
 - construction
 - war
 arc_id: jaques-station
-modern_impact: Colonia's rapid expansion to accommodate Thargoid refugees demonstrates the settlement's growing importance as a safe haven.
+modern_impact: Colonia's rapid expansion to accommodate Thargoid refugees demonstrates
+  the settlement's growing importance as a safe haven.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- da599585-03a5-51c5-a1bc-d9036309a78a
+- f61cdff2-8250-5433-95bc-fa598ef22001
 ---
+
 
 The Colonia Council has announced that Its appeal for construction materials has reached a successful conclusion. Scores of pilots contributed to the campaign by delivering materials to Skvortsov Orbital, and by eliminating agitators in the 63 G. Capricorni system. The materials will be used to construct new outposts in the Colonia region to support a recent influx of immigrants. 
 

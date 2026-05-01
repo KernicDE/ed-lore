@@ -4,8 +4,10 @@ title: Galactic News  Terrorist Salomé Killed
 slug: galactic_news_terrorist_salomé_killed
 date: '3303-05-04'
 source: GitHub
-summary: Commander Salomé (Kahina Tijani Loren) was killed in the Arumclaw system by a bounty hunter known as 'Besieger', while her co-conspirators remain at large.
-player_impact: Pilots can hunt Salomé's co-conspirators Raan Corsen, Tsu Annabelle Singh, and Yuri Nakamura, who remain at large with bounties on their heads.
+summary: Commander Salomé (Kahina Tijani Loren) was killed in the Arumclaw system
+  by a bounty hunter known as 'Besieger', while her co-conspirators remain at large.
+player_impact: Pilots can hunt Salomé's co-conspirators Raan Corsen, Tsu Annabelle
+  Singh, and Yuri Nakamura, who remain at large with bounties on their heads.
 persons:
 - Kahina Tijani Loren
 - Besieger
@@ -27,10 +29,14 @@ topics:
 technologies:
 - Imperial Clipper
 arc_id: salome-conspiracy
-modern_impact: The Salomé conspiracy deepens the mystery surrounding the Antares disaster and Federal politics.
+modern_impact: The Salomé conspiracy deepens the mystery surrounding the Antares disaster
+  and Federal politics.
 legacy_weight: 4
 significance: high
+related_uuids:
+- a5c6dcd2-11e6-5a3e-b661-29d218058baa
 ---
+
 
 Imperial despatches have confirmed that Commander Salomé, also known as Kahina Tijani Loren, was killed in The Arumclaw system on the 29th of April by a bounty hunter known as ‘Besieger’. 
 

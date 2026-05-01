@@ -4,7 +4,10 @@ title: Federal Reactions to Communications Surveillance Programme
 slug: federal_reactions_to_communications_surveillance_programme
 date: '3307-04-13'
 source: API
-summary: Mixed reactions emerge to the Proactive Detection Bureau's surveillance programme. Civil rights groups and academics protest violations of privacy, while corporatist Jupiter Division supporters seize on government overreach. Corporations split on whether the surveillance threatens commercial secrets.
+summary: Mixed reactions emerge to the Proactive Detection Bureau's surveillance programme.
+  Civil rights groups and academics protest violations of privacy, while corporatist
+  Jupiter Division supporters seize on government overreach. Corporations split on
+  whether the surveillance threatens commercial secrets.
 player_impact: None directly; this is a news analysis piece.
 persons:
 - Irene Ralston
@@ -29,14 +32,19 @@ topics:
 technologies:
 - Proactive Detection Bureau surveillance system
 arc_id: federal-politics
-modern_impact: The PDB controversy fuels the corporatist movement and deepens the political divide between Hudson's security-focused administration and Winters' civil liberties opposition, ultimately contributing to the Federation's constitutional crisis.
+modern_impact: The PDB controversy fuels the corporatist movement and deepens the
+  political divide between Hudson's security-focused administration and Winters' civil
+  liberties opposition, ultimately contributing to the Federation's constitutional
+  crisis.
 legacy_weight: 4
 significance: medium
 related_uuids:
+- 533f8ff4-f23d-500f-83d9-92209119bc5b
 - 677ba8ea-d7b4-5d96-b990-a430969d2b98
-- bc50ffda-083d-5387-b532-bfc39ae6807f
 - 82080870-af46-5023-854f-189ec261531a
+- bc50ffda-083d-5387-b532-bfc39ae6807f
 ---
+
 
 There have been mixed responses to The Proactive Detection Bureau, Which monitors private communications in the Federation for terrorist activity.
 Mainstream newsfeeds reported on the situation:

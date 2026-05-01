@@ -4,7 +4,12 @@ title: Aegis Thargoid Report Causes Ripples
 slug: aegis_thargoid_report_causes_ripples
 date: '3304-03-25'
 source: GitHub
-summary: A recent Aegis report outlining the Thargoids' history and their interactions with the Guardians has elicited varied responses. Federal President Zachary Hudson and Imperial Admiral Denton Patreus both concluded the Thargoids will reject diplomacy and called for increased military defence. Professor Palin expressed hope that Ram Tah's Guardian-based weaponry might help humanity replicate the Guardians' success in defeating the Thargoids.
+summary: A recent Aegis report outlining the Thargoids' history and their interactions
+  with the Guardians has elicited varied responses. Federal President Zachary Hudson
+  and Imperial Admiral Denton Patreus both concluded the Thargoids will reject diplomacy
+  and called for increased military defence. Professor Palin expressed hope that Ram
+  Tah's Guardian-based weaponry might help humanity replicate the Guardians' success
+  in defeating the Thargoids.
 player_impact: None explicitly stated.
 persons:
 - Zachary Hudson
@@ -23,10 +28,15 @@ topics:
 - war
 - xenoarchaeology
 arc_id: thargoid-contact
-modern_impact: The Aegis report on Thargoid-Guardian history shapes superpower military strategy, reinforcing the view that diplomacy with Thargoids is impossible.
+modern_impact: The Aegis report on Thargoid-Guardian history shapes superpower military
+  strategy, reinforcing the view that diplomacy with Thargoids is impossible.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 7896b379-c6fc-55cd-b218-90cd84259061
+- a4e37086-881f-5440-95b3-8b5dcb2efcb3
 ---
+
 
 A recent report from Aegis, outlining The Thargoids’ history and their interactions With the Guardians, has elicited a wide range of responses. 
 

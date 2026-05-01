@@ -4,7 +4,9 @@ title: Marlinists Regroup in Civil War Aftermath
 slug: marlinists_regroup_in_civil_war_aftermath
 date: '3307-08-27'
 source: API
-summary: Octavia Volkov is elected First Minister of the Marlinist Colonies following the civil war. The colonies consolidate control over all eight original systems and establish formal diplomatic channels.
+summary: Octavia Volkov is elected First Minister of the Marlinist Colonies following
+  the civil war. The colonies consolidate control over all eight original systems
+  and establish formal diplomatic channels.
 player_impact: None
 persons:
 - Octavia Volkov
@@ -20,10 +22,15 @@ topics:
 - diplomacy
 - war
 arc_id: nmla-terrorism
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to the Marlinist refugee crisis and the Proactive Detection Bureau.
+modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
+  the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 5a5a8fa2-9000-5b3d-bce9-202f78f8fbfa
+- 7d86eb0f-fada-51be-ab71-bb330720f07a
 ---
+
 
 The Marlinist Colonies are recovering from a period of political infighting and inter-faction conflict.
 Octavia Volkov has been voted in As the new first minister following a snap election. Her decisive action against Aaron Whyte’s Neo-Marlinist movement, Which led to the elimination of the NMLA’s political wing, drew huge support from voters.

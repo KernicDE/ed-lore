@@ -4,8 +4,15 @@ title: Week in Review
 slug: week_in_review
 date: '3304-03-31'
 source: GitHub
-summary: This week's major stories include Aegis constructing two megaships, the Acropolis and the Vanguard, to coordinate anti-Thargoid operations and support independent pilots. Pilots responded to the Aegis report on Thargoid history with mixed reactions. Conflict erupted in Ross 310 between Ross 310 Natural Services and the Ross 310 Cartel. The EG Union successfully concluded its campaign to build a shipyard in CPC 20 6743.
-player_impact: Pilots can support either Ross 310 Natural Services or the Ross 310 Cartel. Pilots who supported the EG Union campaign can collect rewards from Lyakhov Dock in CPC 20 6743.
+summary: This week's major stories include Aegis constructing two megaships, the Acropolis
+  and the Vanguard, to coordinate anti-Thargoid operations and support independent
+  pilots. Pilots responded to the Aegis report on Thargoid history with mixed reactions.
+  Conflict erupted in Ross 310 between Ross 310 Natural Services and the Ross 310
+  Cartel. The EG Union successfully concluded its campaign to build a shipyard in
+  CPC 20 6743.
+player_impact: Pilots can support either Ross 310 Natural Services or the Ross 310
+  Cartel. Pilots who supported the EG Union campaign can collect rewards from Lyakhov
+  Dock in CPC 20 6743.
 persons: []
 groups:
 - Aegis
@@ -30,10 +37,15 @@ topics:
 - war
 - xenoarchaeology
 arc_id: thargoid-contact
-modern_impact: Aegis's new megaships represent a significant escalation in coordinated anti-xeno defence infrastructure.
+modern_impact: Aegis's new megaships represent a significant escalation in coordinated
+  anti-xeno defence infrastructure.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 651f5567-c49c-5b05-acec-6ad65e05f08d
+- ad32caa7-0556-526c-9821-04e4f71e2021
 ---
+
 
 Here are This week’s major stories. 
 

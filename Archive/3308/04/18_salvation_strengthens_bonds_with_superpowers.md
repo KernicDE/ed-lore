@@ -4,7 +4,8 @@ title: Salvation Strengthens Bonds with Superpowers
 slug: salvation_strengthens_bonds_with_superpowers
 date: '3308-04-18'
 source: API
-summary: Salvation receives increased military support from all three superpowers as naval personnel are seconded to his organisation.
+summary: Salvation receives increased military support from all three superpowers
+  as naval personnel are seconded to his organisation.
 player_impact: Not specifically mentioned — this is a military report.
 persons:
 - Andrew Jones
@@ -22,13 +23,20 @@ topics:
 - research
 - xenoarchaeology
 arc_id: salvation-azimuth
-modern_impact: '"Most of us are here because it feels like Salvation is the only one taking the fight to the Thargoids." The formal secondment of superpower naval personnel to Salvation''s fleet marked a watershed moment in which state militaries subcontracted their anti-xeno strategy to an anonymous private actor, undermining traditional defence institutions like Aegis.'
+modern_impact: '"Most of us are here because it feels like Salvation is the only one
+  taking the fight to the Thargoids." The formal secondment of superpower naval personnel
+  to Salvation''s fleet marked a watershed moment in which state militaries subcontracted
+  their anti-xeno strategy to an anonymous private actor, undermining traditional
+  defence institutions like Aegis.'
 legacy_weight: 5
 significance: high
 related_uuids:
 - 04bfcfe5-65d6-5e23-8e51-a76f0a139c5f
 - 8097c00d-2e15-5445-b408-e3b80f412aac
+- 8f436007-f00f-535c-af52-d16273c91cc0
+- e05cf902-3b9a-5936-af7b-8d010eb0685c
 ---
+
 
 The anonymous anti-xeno scientist Salvation has received Further military support from the Alliance, Empire and Federation.
 Multiple official sources have highlighted the increasing number of crew members being seconded from the Alliance Defence Force, Federal Navy and Imperial Navy. Previously, enlisted members had been forced to resign their commissions, but regulatory changes now permit temporarily serving on vessels owned by Salvation’s commercial partner Taurus Mining Ventures.

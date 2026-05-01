@@ -4,8 +4,13 @@ title: Hudson Calls for Vote of No Confidence
 slug: hudson_calls_for_vote_of_no_confidence
 date: '3301-05-29'
 source: GitHub
-summary: Shadow President Zachary Hudson called for a vote of no confidence against Halsey's administration, stating the Federation needed to end the weak administration and return to stability. He claimed Halsey had been trying to raise frontier support because she knew the vote was coming. He declared that the Federation does not allow 'the whims of our dead to dictate terms to the living'.
-player_impact: None directly; Hudson's motion set in motion the political transition that would see him assume the presidency.
+summary: Shadow President Zachary Hudson called for a vote of no confidence against
+  Halsey's administration, stating the Federation needed to end the weak administration
+  and return to stability. He claimed Halsey had been trying to raise frontier support
+  because she knew the vote was coming. He declared that the Federation does not allow
+  'the whims of our dead to dictate terms to the living'.
+player_impact: None directly; Hudson's motion set in motion the political transition
+  that would see him assume the presidency.
 persons:
 - Zachary Hudson
 - Jasmina Halsey
@@ -15,10 +20,15 @@ locations:
 topics:
 - politics
 arc_id: federal-politics
-modern_impact: Hudson's vote of no confidence exploited Halsey's disappearance to seize power, marking a pivotal moment in Federal political history.
+modern_impact: Hudson's vote of no confidence exploited Halsey's disappearance to
+  seize power, marking a pivotal moment in Federal political history.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 9814b160-c142-5d74-9710-9c895bd4212e
+- c97b8c8b-443c-55ad-a3e0-fad0b356f20d
 ---
+
 
 Shadow President Zachary Hudson has continued his criticism of Halsey’s administration, finally moving to The feared vote of no confidence. In his address to Congress, Shadow President Hudson has made it clear The situation needs a resolution. 
 

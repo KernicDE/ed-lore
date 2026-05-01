@@ -4,7 +4,10 @@ title: Freelance Report  Canonn at Full Tilt
 slug: freelance_report_canonn_at_full_tilt
 date: '3302-06-27'
 source: GitHub
-summary: Dr Arcanonn responds to Admiral Maxton Price's statement on Federal battle cruisers in Merope, confirms barnacle sites in the Witch Head Nebula, and reveals an Unknown Probe secured by Professor Monkey D Luffy orients itself toward Merope 5 C.
+summary: Dr Arcanonn responds to Admiral Maxton Price's statement on Federal battle
+  cruisers in Merope, confirms barnacle sites in the Witch Head Nebula, and reveals
+  an Unknown Probe secured by Professor Monkey D Luffy orients itself toward Merope
+  5 C.
 player_impact: None
 persons:
 - Dr Arcanonn
@@ -25,10 +28,15 @@ technologies:
 - Unknown Probes
 - Unknown Artefacts
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
+  and fuels the emerging Thargoid contact narrative.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 5b38b42e-5f97-5321-9bc9-cc6426dfe688
+- ec1824a2-b9ca-5be8-8a99-d7a01d368244
 ---
+
 
 Following a recent statement from Admiral Maxton Price of The Federal Navy concerning Farragut Battle Cruisers in the Merope system, Dr Arcanonn of the Canonn Interstellar Research Group has responded: 
 

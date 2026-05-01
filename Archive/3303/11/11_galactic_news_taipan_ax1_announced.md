@@ -4,7 +4,11 @@ title: Galactic News  Taipan AX1 Announced
 slug: galactic_news_taipan_ax1_announced
 date: '3303-11-11'
 source: GitHub
-summary: Faulcon DeLacy has teamed up with Aegis to produce the Taipan AX1, a new anti-Thargoid variant of its popular fighter. Engineer Barr Winters confirmed the AX1 replaces default utility and small hardpoints with two AX multi-cannons, which are slightly more powerful than standard. The ship will be available from November 13th, 3303.
+summary: Faulcon DeLacy has teamed up with Aegis to produce the Taipan AX1, a new
+  anti-Thargoid variant of its popular fighter. Engineer Barr Winters confirmed the
+  AX1 replaces default utility and small hardpoints with two AX multi-cannons, which
+  are slightly more powerful than standard. The ship will be available from November
+  13th, 3303.
 player_impact: The Taipan AX1 will be available for purchase from November 13th, 3303.
 persons:
 - Barr Winters
@@ -19,10 +23,15 @@ topics:
 technologies:
 - Taipan AX1
 arc_id: thargoid-contact
-modern_impact: The Taipan AX1 introduces a dedicated anti-xeno ship-launched fighter, giving pilots a new tactical option against Thargoid vessels.
+modern_impact: The Taipan AX1 introduces a dedicated anti-xeno ship-launched fighter,
+  giving pilots a new tactical option against Thargoid vessels.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 26462b75-24b8-5f25-b0bf-35be995f0a96
+- 4b8e9c48-235e-54a0-af71-e9979252e85a
 ---
+
 
 A spokesperson for Faulcon DeLacy has announced that The manufacturer has teamed up With Aegis to produce a new version of Its popular fighter, the Taipan. The spokesperson confirmed that the development was a direct response to the rising Thargoid threat. 
 

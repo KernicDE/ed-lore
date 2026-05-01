@@ -4,8 +4,10 @@ title: Leaders Respond to Azimuth Initiative
 slug: leaders_respond_to_azimuth_initiative
 date: '3308-07-01'
 source: API
-summary: Political leaders across the superpowers share divided opinions on supporting Azimuth Biotech's Proteus Wave project in HIP 22460.
-player_impact: No direct pilot action requested; political leaders outlined their positions on Azimuth's upcoming anti-xeno campaign.
+summary: Political leaders across the superpowers share divided opinions on supporting
+  Azimuth Biotech's Proteus Wave project in HIP 22460.
+player_impact: No direct pilot action requested; political leaders outlined their
+  positions on Azimuth's upcoming anti-xeno campaign.
 persons:
 - Arissa Lavigny-Duval
 - Aisling Duval
@@ -32,14 +34,20 @@ topics:
 - succession
 - xenoarchaeology
 arc_id: salvation-azimuth
-modern_impact: As Princess Aisling Duval warned, Salvation proved to be 'a master of self-promotion and public manipulation,' a prescient observation that underscores how political figures across all superpowers were swayed by Azimuth's promises despite widespread ethical concerns.
+modern_impact: As Princess Aisling Duval warned, Salvation proved to be 'a master
+  of self-promotion and public manipulation,' a prescient observation that underscores
+  how political figures across all superpowers were swayed by Azimuth's promises despite
+  widespread ethical concerns.
 legacy_weight: 5
 significance: high
 related_uuids:
+- 0d1dfbc5-c04b-5fec-bf20-b3d62588093f
+- 1c3d154f-c7fd-533d-b700-1ce942b570c2
 - 751f72f0-bd12-5009-92e8-97b94eb2066f
 - a351c94a-19a1-5e95-9429-f0bb7cbaf1d8
-- 1c3d154f-c7fd-533d-b700-1ce942b570c2
+- ce65a1d5-38ff-58ed-a2b0-3627f5afaabc
 ---
+
 
 The anti-xeno operation in HIP 22460 involving Azimuth Biotech and the superpowers has drawn comments from prominent political figures.
 Emperor Arissa Lavigny-Duval: “I agree with Senator Patreus that supporting Azimuth’s proposal remains our most practical course of action. However, alternative options for tackling the Thargoid threat are required.”

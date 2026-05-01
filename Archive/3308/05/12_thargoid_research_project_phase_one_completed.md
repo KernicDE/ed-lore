@@ -4,8 +4,10 @@ title: Thargoid Research Project Phase One Completed
 slug: thargoid_research_project_phase_one_completed
 date: '3308-05-12'
 source: API
-summary: Professor Ishmael Palin completes the first phase of his Thargoid research project after receiving meta-alloy shipments.
-player_impact: Pilots who delivered meta-alloys can collect payments and corrosion resistant cargo racks at James Sneddon in Morten-Marte.
+summary: Professor Ishmael Palin completes the first phase of his Thargoid research
+  project after receiving meta-alloy shipments.
+player_impact: Pilots who delivered meta-alloys can collect payments and corrosion
+  resistant cargo racks at James Sneddon in Morten-Marte.
 persons:
 - Ishmael Palin
 groups:
@@ -20,13 +22,19 @@ topics:
 - research
 - war
 arc_id: thargoid-titan-war
-modern_impact: '"I am planning the second phase of this project, which has the combined assistance of the Alliance, Empire and Federation." Palin''s tri-superpower research collaboration represented a rare moment of scientific unity that stood in stark contrast to the fractured military response coordinated around Salvation''s unilateral weapon programme.'
+modern_impact: '"I am planning the second phase of this project, which has the combined
+  assistance of the Alliance, Empire and Federation." Palin''s tri-superpower research
+  collaboration represented a rare moment of scientific unity that stood in stark
+  contrast to the fractured military response coordinated around Salvation''s unilateral
+  weapon programme.'
 legacy_weight: 5
 significance: high
 related_uuids:
 - 4312e312-ef1b-50a1-ba00-2e1f441ce9e3
+- a0ec3597-7ec5-5cd9-923a-5bb63309eb1a
 - faf4aecd-7600-5383-85d0-03fae5460273
 ---
+
 
 **Pilots’ Federation ALERT**
 Professor Ishmael Palin has received multiple shipments of Thargoid meta-alloys for xenological study.

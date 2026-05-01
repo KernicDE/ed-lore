@@ -4,7 +4,9 @@ title: Freelance Report  Firefly Fandango Theory Disproven
 slug: freelance_report_firefly_fandango_theory_disproven
 date: '3302-04-04'
 source: GitHub
-summary: Dr Arcanonn announces that the 'firefly fandango' interaction between Unknown Artefacts and meta-alloys is disproven. What appeared to be pairs of dancing fireflies was actually a light diffraction effect from the UA distortion field.
+summary: Dr Arcanonn announces that the 'firefly fandango' interaction between Unknown
+  Artefacts and meta-alloys is disproven. What appeared to be pairs of dancing fireflies
+  was actually a light diffraction effect from the UA distortion field.
 player_impact: None
 persons:
 - Dr Arcanonn
@@ -17,10 +19,15 @@ topics:
 - investigation
 - research
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
+  and fuels the emerging Thargoid contact narrative.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 430ac0d5-33c1-5822-bf80-7e7b404c50f4
+- 60cb1504-9a65-53a2-8a8a-c6f2d3df03e1
 ---
+
 
 Weeks after Dr Arcanonn shared Commander Engalo's report of a 'firefly fandango' between The Unknown Artefacts and meta-alloys, he has issued This update: 
 

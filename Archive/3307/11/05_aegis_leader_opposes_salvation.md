@@ -4,7 +4,10 @@ title: Aegis Leader Opposes Salvation
 slug: aegis_leader_opposes_salvation
 date: '3307-11-05'
 source: API
-summary: Admiral Aden Tanner relocates the Aegis Defense megaship Musashi to the T Tauri system to challenge Taurus Mining Ventures and demand access to Hind Mine asteroid base, believing it contains evidence of Salvation's provocations against the Thargoids.
+summary: Admiral Aden Tanner relocates the Aegis Defense megaship Musashi to the T
+  Tauri system to challenge Taurus Mining Ventures and demand access to Hind Mine
+  asteroid base, believing it contains evidence of Salvation's provocations against
+  the Thargoids.
 player_impact: None
 persons:
 - Aden Tanner
@@ -17,10 +20,15 @@ topics:
 - alien contact
 - investigation
 arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape and drives anti-xeno defence efforts.
+modern_impact: Thargoid activity fundamentally changes the galactic security landscape
+  and drives anti-xeno defence efforts.
 legacy_weight: 4
 significance: high
+related_uuids:
+- aed2fd07-75f0-5c5c-b9a5-7f59ac36d851
+- f6496b33-9edc-5219-9ef9-882b834b0db6
 ---
+
 
 Admiral Aden Tanner has called for Aegis to reject The public inquiry’s shutdown and take direct action against Salvation.
 The Musashi, an Aegis Defense megaship under his command, has entered the T Tauri system to challenge Taurus Mining Ventures. The corporation has performed activities on Salvation’s behalf, including preparation for the anti-xeno weapon used to eliminate all Thargoids from the Cornsar system.

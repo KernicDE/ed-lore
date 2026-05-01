@@ -4,7 +4,9 @@ title: CIRG Sends Scientists to Bond Hub
 slug: cirg_sends_scientists_to_bond_hub
 date: '3301-11-26'
 source: GitHub
-summary: Over fifty Canonn Interstellar Research Group scientists arrive at Bond Hub in Varati with equipment to investigate the correlation between Unknown Artefacts and station malfunctions, monitoring UAs brought from the Merope shell.
+summary: Over fifty Canonn Interstellar Research Group scientists arrive at Bond Hub
+  in Varati with equipment to investigate the correlation between Unknown Artefacts
+  and station malfunctions, monitoring UAs brought from the Merope shell.
 player_impact: None
 persons:
 - Professor D Luffy
@@ -23,10 +25,15 @@ topics:
 technologies:
 - Unknown Artefacts
 arc_id: unknown-artefacts
-modern_impact: Advances understanding of the mysterious alien artefacts and their threat to station infrastructure.
+modern_impact: Advances understanding of the mysterious alien artefacts and their
+  threat to station infrastructure.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 0e7e3989-3e70-5630-ab0b-bc24cd243cd1
+- 32abb883-f4cf-598f-b3f4-d21809851271
 ---
+
 
 Mere hours after The Canonn Interstellar Research Group defeated the Labour of Varati in the recent Bond Hub election, more than fifty CIRG scientists arrived at Bond Hub from Thompson Dock. The scientists were accompanied by tonnes of equipment, Which has been installed in makeshift labs. Professor D Luffy, lead scientist for the team, explained what was happening: 
 

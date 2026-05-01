@@ -4,8 +4,12 @@ title: Galactic News  Second Aegis Campaign Concludes
 slug: galactic_news_second_aegis_campaign_concludes
 date: '3303-10-06'
 source: GitHub
-summary: Aegis's appeal for Thargoid-related materials concluded successfully, with hundreds of pilots delivering materials to Chelbin Service Station for anti-Thargoid technology development. Admiral Aden Tanner thanked contributors and noted humanity still has a long way to go.
-player_impact: Deliver Thargoid-related materials to Chelbin Service Station in the Wolf 397 system.
+summary: Aegis's appeal for Thargoid-related materials concluded successfully, with
+  hundreds of pilots delivering materials to Chelbin Service Station for anti-Thargoid
+  technology development. Admiral Aden Tanner thanked contributors and noted humanity
+  still has a long way to go.
+player_impact: Deliver Thargoid-related materials to Chelbin Service Station in the
+  Wolf 397 system.
 persons:
 - Aden Tanner
 groups:
@@ -20,10 +24,15 @@ topics:
 technologies:
 - anti-Thargoid technologies
 arc_id: thargoid-contact
-modern_impact: Thargoid activity escalates, fundamentally changing the galactic security landscape and driving the creation of anti-xeno defence forces.
+modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
+  landscape and driving the creation of anti-xeno defence forces.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 1531ddfb-965c-5123-a4fe-8096d622004c
+- e9235304-ee39-5f0b-b0a4-c5f25d0085d2
 ---
+
 
 A spokesperson for Aegis has announced that Its appeal for Thargoid-related materials has reached a successful conclusion. Hundreds of pilots took to their ships to deliver material to Chelbin Service Station, Which will be used to develop new anti-Thargoid technologies. 
 

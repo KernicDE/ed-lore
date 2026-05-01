@@ -4,7 +4,9 @@ title: Galactic News  Second Colonia Appeal Concludes
 slug: galactic_news_second_colonia_appeal_concludes
 date: '3303-02-03'
 source: GitHub
-summary: The second Colonia Council migration appeal concludes with hundreds of organisations delivering materials to Jaques Station. The resources will fund infrastructure projects throughout the Colonia Nebula.
+summary: The second Colonia Council migration appeal concludes with hundreds of organisations
+  delivering materials to Jaques Station. The resources will fund infrastructure projects
+  throughout the Colonia Nebula.
 player_impact: Collect rewards from Jaques Station in the Colonia system.
 persons: []
 groups:
@@ -18,10 +20,15 @@ topics:
 - construction
 - exploration
 arc_id: jaques-station
-modern_impact: Continued growth of the Colonia deep-space settlement through community-supported migration and infrastructure campaigns.
+modern_impact: Continued growth of the Colonia deep-space settlement through community-supported
+  migration and infrastructure campaigns.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 54436e18-5fa7-50cf-93b2-142ab37e095f
+- b997725a-f24c-5d2e-b616-3a6e13903719
 ---
+
 
 The second Colonia Council migration appeal has come to an end. Hundreds of organisations took part in the campaign, delivering huge quantities of material to Jaques Station in the hope of earning a place in the Colonia Nebula. 
 

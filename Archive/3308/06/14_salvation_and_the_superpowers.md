@@ -4,7 +4,9 @@ title: Salvation and the Superpowers
 slug: salvation_and_the_superpowers
 date: '3308-06-14'
 source: API
-summary: The superpowers respond cautiously to revelations about Salvation's links to Azimuth Biochemicals and INRA, with the Empire prioritising military utility while the Federation investigates and the Alliance continues relying on his superweapons.
+summary: The superpowers respond cautiously to revelations about Salvation's links
+  to Azimuth Biochemicals and INRA, with the Empire prioritising military utility
+  while the Federation investigates and the Alliance continues relying on his superweapons.
 player_impact: Not specifically mentioned — this is a political report.
 persons:
 - Conrad Sterling
@@ -29,10 +31,16 @@ topics:
 - scandal
 - war
 arc_id: salvation-azimuth
-modern_impact: The superpowers' collective refusal to abandon Salvation despite mounting evidence of his INRA past demonstrated how deeply they had committed to Azimuth's anti-xeno strategy, prioritising immediate survival over ethical accountability.
+modern_impact: The superpowers' collective refusal to abandon Salvation despite mounting
+  evidence of his INRA past demonstrated how deeply they had committed to Azimuth's
+  anti-xeno strategy, prioritising immediate survival over ethical accountability.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 29bf2db7-3c10-5736-b2d8-666b8df99cb4
+- 6d163a8d-7539-5b90-955d-f084b5d63e52
 ---
+
 
 The Alliance, Empire and Federation have responded coolly to accusations that Salvation has hidden links to Azimuth Biochemicals and INRA.
 Vox Galactica published a report from political correspondent Conrad Sterling:

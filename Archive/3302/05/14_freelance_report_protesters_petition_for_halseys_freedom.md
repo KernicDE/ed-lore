@@ -4,7 +4,9 @@ title: Freelance Report  Protesters Petition for Halsey's Freedom
 slug: freelance_report_protesters_petition_for_halseys_freedom
 date: '3302-05-14'
 source: GitHub
-summary: On the first anniversary of the Starship One disaster, supporters of former Federal President Jasmina Halsey gather outside the psychiatric facility on Mars where she is held, demanding her release and protesting her committal.
+summary: On the first anniversary of the Starship One disaster, supporters of former
+  Federal President Jasmina Halsey gather outside the psychiatric facility on Mars
+  where she is held, demanding her release and protesting her committal.
 player_impact: None
 persons:
 - Jasmina Halsey
@@ -20,7 +22,10 @@ arc_id: halsey-presidency
 modern_impact: President Halsey's controversial military orders strain Federal politics.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 0d15375c-b54f-50e7-ad2d-a88de1da76b9
 ---
+
 
 One year ago today, Federal President Jasmina Halsey and Vice-President Ethan Naylor embarked on a tour of Federation frontier systems. Two weeks later, Starship One was declared Missing With all hands. Despite initial assessments that The ship would never be Found, the remains of the Vessel were Located and a handful of survivors recovered, including former president Halsey. 
 

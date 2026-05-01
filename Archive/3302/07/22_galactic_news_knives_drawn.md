@@ -4,7 +4,10 @@ title: Galactic News  Knives Drawn
 slug: galactic_news_knives_drawn
 date: '3302-07-22'
 source: GitHub
-summary: Political commentators review the deteriorating Federal-Imperial relationship, tracing it from the Beta Hydri battlecruiser construction in March through the Daramo conflict in June to the current standoff over barnacles and meta-alloys in Merope and the Pleiades.
+summary: Political commentators review the deteriorating Federal-Imperial relationship,
+  tracing it from the Beta Hydri battlecruiser construction in March through the Daramo
+  conflict in June to the current standoff over barnacles and meta-alloys in Merope
+  and the Pleiades.
 player_impact: None
 persons: []
 groups:
@@ -26,10 +29,15 @@ technologies:
 - Majestic-class Interdictor
 - meta-alloys
 arc_id: thargoid-contact
-modern_impact: The emergence of Thargoid ships marks the beginning of active alien contact, fundamentally changing humanity's place in the galaxy.
+modern_impact: The emergence of Thargoid ships marks the beginning of active alien
+  contact, fundamentally changing humanity's place in the galaxy.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 9c95eaef-34b7-5831-b0a9-ae8ace452842
+- fc52b28b-af0b-5905-9ce2-554b029fb353
 ---
+
 
 With the Federal-Imperial relationship currently on unsteady ground, political commentators have been reviewing recent events and offering their analyses of The current situation. 
 

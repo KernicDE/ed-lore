@@ -5,7 +5,8 @@ slug: carnage_wrought_by_further_maelstroms
 date: '3308-12-08'
 source: API
 summary: The rogue signal sources Cocijo and Oya have arrived at their estimated destinations.
-player_impact: Independent pilots were encouraged to participate in the unfolding events.
+player_impact: Independent pilots were encouraged to participate in the unfolding
+  events.
 persons:
 - Alba Tesreau
 - Seo Jin-ae
@@ -17,16 +18,20 @@ topics:
 - humanitarian
 - war
 arc_id: salvation-azimuth
-modern_impact: '"Full-scale war with the Thargoids has always been my greatest fear. It is now a reality. It’s more crucial than ever ..." The relentless expansion of Thargoid forces redefined the scale of the Second Thargoid War.'
+modern_impact: '"Full-scale war with the Thargoids has always been my greatest fear.
+  It is now a reality. It’s more crucial than ever ..." The relentless expansion of
+  Thargoid forces redefined the scale of the Second Thargoid War.'
 legacy_weight: 5
 significance: high
 related_uuids:
-- bd5a1074-4db4-556d-bd6d-4207d963ce10
-- 0c37c634-123c-5ee7-9616-d3f4b4263c90
 - 005ebf22-d1c0-50cd-ae57-373efc6bdcde
-- f7438e0e-89eb-5e2d-b974-7147bf67d4b1
+- 0c37c634-123c-5ee7-9616-d3f4b4263c90
 - b4105542-6e24-5875-a60c-7ccd557e87d6
+- b883442d-253f-571f-bc25-cf61949cab5c
+- bd5a1074-4db4-556d-bd6d-4207d963ce10
+- f7438e0e-89eb-5e2d-b974-7147bf67d4b1
 ---
+
 
 **Pilots’ Federation ALERT**
 The rogue signal sources Cocijo and Oya have arrived at their estimated destinations.

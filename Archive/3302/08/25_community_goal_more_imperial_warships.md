@@ -4,8 +4,12 @@ title: Community Goal  More Imperial Warships
 slug: community_goal_more_imperial_warships
 date: '3302-08-25'
 source: GitHub
-summary: Admiral Denton Patreus announced plans to add three new Majestic-class Interdictors to the Imperial fleet in response to Federal naval expansion. Pilots are asked to deliver autofabricators, tantalum, and superconductors to van de Hulst Vision in the Morai system.
-player_impact: Deliver autofabricators, tantalum, and superconductors to van de Hulst Vision in Morai to support Imperial capital ship construction.
+summary: Admiral Denton Patreus announced plans to add three new Majestic-class Interdictors
+  to the Imperial fleet in response to Federal naval expansion. Pilots are asked to
+  deliver autofabricators, tantalum, and superconductors to van de Hulst Vision in
+  the Morai system.
+player_impact: Deliver autofabricators, tantalum, and superconductors to van de Hulst
+  Vision in Morai to support Imperial capital ship construction.
 persons:
 - Denton Patreus
 groups:
@@ -20,10 +24,15 @@ topics:
 technologies:
 - Majestic-class Interdictor
 arc_id: barnacle-meta-alloy
-modern_impact: Imperial matching of Federal naval expansion escalates the superpower arms race and draws pilots into resource-driven military campaigns.
+modern_impact: Imperial matching of Federal naval expansion escalates the superpower
+  arms race and draws pilots into resource-driven military campaigns.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 82ff8827-493c-52f3-86db-78cfc7d9962f
+- e457a532-38e6-5d9c-b207-eaae526a42c9
 ---
+
 
 The latest development in the ongoing Federal-Imperial conflict takes the form of a statement from Admiral Denton Patreus, who has announced plans to add three new Majestic-class Interdictors to the Imperial fleet. The announcement comes only a week after the successful conclusion of a Federal campaign to amass material for three new Farragut-class Battlecruisers. 
 

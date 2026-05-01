@@ -29,8 +29,11 @@ modern_impact: The fall of HIP 22460 shattered the myth of Salvation's invincibi
   Thargoid counter-attack than anything seen before.
 legacy_weight: 5
 significance: high
-related_uuids: []
+related_uuids:
+- 33b86898-9d96-5e9f-9e8a-e369998c5f2b
+- c896dd55-b9b3-5552-9038-07a79049f0bb
 ---
+
 
 
 **Pilots’ Federation ALERT**

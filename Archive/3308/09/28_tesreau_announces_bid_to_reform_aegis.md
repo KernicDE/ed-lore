@@ -4,7 +4,9 @@ title: Tesreau Announces Bid to Reform Aegis
 slug: tesreau_announces_bid_to_reform_aegis
 date: '3308-09-28'
 source: API
-summary: Professor Alba Tesreau announces a media forum to propose reinstating Aegis as a reformed tri-superpower anti-xeno research agency, citing the ACT as a model for cross-superpower collaboration.
+summary: Professor Alba Tesreau announces a media forum to propose reinstating Aegis
+  as a reformed tri-superpower anti-xeno research agency, citing the ACT as a model
+  for cross-superpower collaboration.
 player_impact: Not specifically mentioned — this is a conference announcement.
 persons:
 - Alba Tesreau
@@ -25,13 +27,18 @@ topics:
 - research
 - war
 arc_id: thargoid-contact
-modern_impact: Tesreau's bid to reform Aegis represents the first serious attempt to restore centralised xenological research since the agency's dismantling, though Imperial refusal signals deep political divisions.
+modern_impact: Tesreau's bid to reform Aegis represents the first serious attempt
+  to restore centralised xenological research since the agency's dismantling, though
+  Imperial refusal signals deep political divisions.
 legacy_weight: 5
 significance: high
 related_uuids:
+- 05ffa6a1-7163-5564-acc6-70c0c9cb28ca
+- 060f1f07-68f0-58fd-8607-4331bb789d9b
 - 4931d387-bad1-56c0-b74d-3fa457698ec1
 - 6e319ff8-5d7a-5b98-939a-6459624524f2
 ---
+
 
 A media forum is being arranged that will officially propose reinstating the tri-superpower anti-xeno agency.
 The event is being organised by Professor Alba Tesreau, former head of research for Aegis. She delivered a statement to all newsfeeds:

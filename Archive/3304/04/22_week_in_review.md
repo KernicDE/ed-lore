@@ -4,8 +4,15 @@ title: Week in Review
 slug: week_in_review
 date: '3304-04-22'
 source: GitHub
-summary: This week's major stories include the murder of Imperial Senator Nestor Cartesius at his home on Capitol, with a note reading 'For Jameson' left at the scene. Cartesius was descended from a senior INRA member. Independent journalist Chukwuma Grant published a profile of former Federal President Jasmina Halsey, examining her claims of encountering super-intelligent beings. Angeli Imperial Enterprises announced plans to build a Bowman-class science vessel. The Rind Gold Electronics Org successfully concluded its campaign for a pilot-training centre.
-player_impact: Pilots who contributed to the Rind Gold Electronics Org campaign can collect rewards from Wegner Market in the Rind system.
+summary: This week's major stories include the murder of Imperial Senator Nestor Cartesius
+  at his home on Capitol, with a note reading 'For Jameson' left at the scene. Cartesius
+  was descended from a senior INRA member. Independent journalist Chukwuma Grant published
+  a profile of former Federal President Jasmina Halsey, examining her claims of encountering
+  super-intelligent beings. Angeli Imperial Enterprises announced plans to build a
+  Bowman-class science vessel. The Rind Gold Electronics Org successfully concluded
+  its campaign for a pilot-training centre.
+player_impact: Pilots who contributed to the Rind Gold Electronics Org campaign can
+  collect rewards from Wegner Market in the Rind system.
 persons:
 - Nestor Cartesius
 - Chukwuma Grant
@@ -25,10 +32,15 @@ topics:
 - research
 - trade
 arc_id: inra-exposed
-modern_impact: Revelations about INRA's dark history reshape public understanding of the Thargoid conflict and superpower accountability.
+modern_impact: Revelations about INRA's dark history reshape public understanding
+  of the Thargoid conflict and superpower accountability.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 1ca3cd15-8700-5e94-95fd-88bb1b7effa3
+- ea433de6-5c6c-582a-9385-6aa4d3919b34
 ---
+
 
 Here are This week’s major stories. 
 

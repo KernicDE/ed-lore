@@ -4,8 +4,16 @@ title: Week in Review
 slug: week_in_review
 date: '3304-05-20'
 source: GitHub
-summary: This week's major stories include the murder of Fleet Admiral Tulimaq Buchanan of the Alliance Council of Admirals by the League of Reparation, linked to his ancestor's role in INRA. Fringe doomsayer cults are rising in the core systems due to Thargoid fears. Scientists in Colonia led by Professor Alexei de la Vega are investigating regional expansion potential. A convoy in the core systems was attacked by pirates, with search-and-rescue teams requesting pilot assistance. The Moritasgus Imperial Corporation successfully completed a commodities appeal in Veroklist.
-player_impact: Pilots can assist the Colonia microresources campaign, the salvage and rescue operation for the attacked convoy, or collect rewards from the Veroklist campaign.
+summary: This week's major stories include the murder of Fleet Admiral Tulimaq Buchanan
+  of the Alliance Council of Admirals by the League of Reparation, linked to his ancestor's
+  role in INRA. Fringe doomsayer cults are rising in the core systems due to Thargoid
+  fears. Scientists in Colonia led by Professor Alexei de la Vega are investigating
+  regional expansion potential. A convoy in the core systems was attacked by pirates,
+  with search-and-rescue teams requesting pilot assistance. The Moritasgus Imperial
+  Corporation successfully completed a commodities appeal in Veroklist.
+player_impact: Pilots can assist the Colonia microresources campaign, the salvage
+  and rescue operation for the attacked convoy, or collect rewards from the Veroklist
+  campaign.
 persons:
 - Alexei de la Vega
 - Tulimaq Buchanan
@@ -33,10 +41,15 @@ topics:
 - trade
 - terrorism
 arc_id: thargoid-contact
-modern_impact: Multiple concurrent crises — terrorism, piracy, and xeno-threats — demonstrate the complex security challenges facing the galaxy in 3304.
+modern_impact: Multiple concurrent crises — terrorism, piracy, and xeno-threats —
+  demonstrate the complex security challenges facing the galaxy in 3304.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 24d1074c-00a2-5ab2-9579-587f06249380
+- 3473dc85-52d8-50f7-b97f-3d393eb0b8c4
 ---
+
 
 Here are This week’s major stories. 
 

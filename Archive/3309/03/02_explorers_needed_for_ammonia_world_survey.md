@@ -4,8 +4,11 @@ title: Explorers Needed for Ammonia World Survey
 slug: explorers_needed_for_ammonia_world_survey
 date: '3309-03-02'
 source: API
-summary: Universal Cartographics launches a survey of ammonia worlds to identify potential Thargoid staging grounds, building on the connection between Maelstroms and ammonia-based biochemistry.
-player_impact: Pilots can obtain increased payouts for delivering cartographic survey data of ammonia worlds to Angus Manwaring starport in Eta Cassiopeiae.
+summary: Universal Cartographics launches a survey of ammonia worlds to identify potential
+  Thargoid staging grounds, building on the connection between Maelstroms and ammonia-based
+  biochemistry.
+player_impact: Pilots can obtain increased payouts for delivering cartographic survey
+  data of ammonia worlds to Angus Manwaring starport in Eta Cassiopeiae.
 persons:
 - Cynthia Sideris
 - Maximilian North
@@ -22,13 +25,21 @@ topics:
 - research
 entities: []
 arc_id: thargoid-titan-war
-modern_impact: Sideris's explanation — 'It is no coincidence that each Maelstrom is located in a system containing such worlds, given that Thargoid biochemistry is ammonia-based' — establishes the scientific rationale. The historical reference to Sirius Atmospherics' 3306 terraforming project and Dr North's admission of 'practical obstacles' adds context. The 'potential staging grounds for Thargoid fleets and arrival points for additional Maelstroms' frames the strategic purpose.
+modern_impact: Sideris's explanation — 'It is no coincidence that each Maelstrom is
+  located in a system containing such worlds, given that Thargoid biochemistry is
+  ammonia-based' — establishes the scientific rationale. The historical reference
+  to Sirius Atmospherics' 3306 terraforming project and Dr North's admission of 'practical
+  obstacles' adds context. The 'potential staging grounds for Thargoid fleets and
+  arrival points for additional Maelstroms' frames the strategic purpose.
 legacy_weight: 5
 significance: high
 related_uuids:
-- fa800462-dfd6-511a-91b1-74e994d4128a
 - 2e7e258a-5974-5a34-b102-93d10a22c438
+- 8693b44d-82f2-5b39-b670-b648bd6dd9e0
+- f9e27cfb-6dfc-5440-a368-372c38d9b1a1
+- fa800462-dfd6-511a-91b1-74e994d4128a
 ---
+
 
 **Pilots’ Federation ALERT**
 Universal Cartographics has announced a two-week initiative to locate planets with ammonia atmospheres.

@@ -4,7 +4,8 @@ title: Distant Thargoid Encounter Raises Questions
 slug: distant_thargoid_encounter_raises_questions
 date: '3309-08-14'
 source: API
-summary: Commander Renia Rakowski reports a non-aggressive Thargoid interceptor encounter far from the Maelstroms, raising questions about Thargoid distribution and motives.
+summary: Commander Renia Rakowski reports a non-aggressive Thargoid interceptor encounter
+  far from the Maelstroms, raising questions about Thargoid distribution and motives.
 player_impact: Not specifically mentioned — this is an exploration report.
 persons:
 - Renia Rakowski
@@ -20,14 +21,21 @@ topics:
 - war
 entities: []
 arc_id: thargoid-contact
-modern_impact: Rakowski's vivid account — 'black against the black of space, until its outline glowed... it stared back like some giant lidless eye' — is memorable. Her description of the Thargoid turning its back 'like I was some insignificant speck unworthy of attention' is striking. Varga's analysis — 'if the interceptor had been part of the invasion fleets, it would have opened fire immediately' — suggests this may be a different population.
+modern_impact: Rakowski's vivid account — 'black against the black of space, until
+  its outline glowed... it stared back like some giant lidless eye' — is memorable.
+  Her description of the Thargoid turning its back 'like I was some insignificant
+  speck unworthy of attention' is striking. Varga's analysis — 'if the interceptor
+  had been part of the invasion fleets, it would have opened fire immediately' — suggests
+  this may be a different population.
 legacy_weight: 5
 significance: high
 related_uuids:
-- 4413aa0f-d644-50e2-9ad2-417d0b29bb24
 - 0359229a-57fb-5f46-bb36-52c62d71db1a
+- 4413aa0f-d644-50e2-9ad2-417d0b29bb24
+- d6063fe1-a6b1-595d-b957-5243e1ce6784
 - f362b55b-941d-566f-aa08-6a1ae59364b9
 ---
+
 
 An independent explorer has reported an unusual incident involving a Thargoid vessel, hundreds of light years away from the ongoing invasion.
 Commander Renia Rakowski  told her story to Vox Galactica:

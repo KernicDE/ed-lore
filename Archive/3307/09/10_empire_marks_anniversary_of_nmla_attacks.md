@@ -4,7 +4,9 @@ title: Empire Marks Anniversary of NMLA Attacks
 slug: empire_marks_anniversary_of_nmla_attacks
 date: '3307-09-10'
 source: API
-summary: The Empire declares a day of mourning for the first anniversary of the NMLA's Imperial starport bombings, which killed over 60,000 people and marked the beginning of the terror campaign.
+summary: The Empire declares a day of mourning for the first anniversary of the NMLA's
+  Imperial starport bombings, which killed over 60,000 people and marked the beginning
+  of the terror campaign.
 player_impact: None
 persons:
 - Aisling Duval
@@ -21,10 +23,15 @@ topics:
 - terrorism
 - war
 arc_id: nmla-terrorism
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to the Marlinist refugee crisis and the Proactive Detection Bureau.
+modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
+  the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 7d86eb0f-fada-51be-ab71-bb330720f07a
+- 879f21ce-cb58-54b0-aaef-2f8da6b67baf
 ---
+
 
 A day of mourning has been declared across The Empire to mark the first anniversary of the NMLA’s Imperial starport bombings.
 On Thursday the 10th of September 3306, Imperial stations in the Cemiess, Gabjaujis, LHS 4031 and Rabh systems were attacked without warning. Over sixty thousand people were killed and twice as Many wounded by powerful explosives that delivered a caustic enzyme payload.

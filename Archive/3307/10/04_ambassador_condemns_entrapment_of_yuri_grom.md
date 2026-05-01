@@ -4,7 +4,9 @@ title: Ambassador Condemns Entrapment of Yuri Grom
 slug: ambassador_condemns_entrapment_of_yuri_grom
 date: '3307-10-04'
 source: API
-summary: The Federal Diplomatic Corps officially denounces President Hudson's attempt to capture Yuri Grom in Delta Pavonis, with Ambassador Delphine Dumont offering personal apologies.
+summary: The Federal Diplomatic Corps officially denounces President Hudson's attempt
+  to capture Yuri Grom in Delta Pavonis, with Ambassador Delphine Dumont offering
+  personal apologies.
 player_impact: None
 persons:
 - Zachary Hudson
@@ -22,7 +24,11 @@ arc_id: federal-politics
 modern_impact: Federal political developments shape superpower relations.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 00df9116-d831-5d43-af1d-94a97981b3cd
+- 0fc48e21-0c36-5e61-b4aa-42bf5ba0c857
 ---
+
 
 The Federal Diplomatic Corps has officially denounced President Hudson’s attempt to capture Yuri Grom in the Delta Pavonis system.
 The political conference was to determine whether the system’s ruling faction would ally With the EG Union or the Federation. It was abandoned when a Federal black ops team attempted to arrest Yuri Grom’s delegation, triggering a conflict in the system.

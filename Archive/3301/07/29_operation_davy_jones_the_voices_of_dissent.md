@@ -4,8 +4,16 @@ title: Operation Davy Jones - The Voices of Dissent
 slug: operation_davy_jones_the_voices_of_dissent
 date: '3301-07-29'
 source: GitHub
-summary: While Imperial forces continue pressuring Archon Delaine in Operation Davy Jones, dissent is growing at home. Commander Edgar Starwalker, aligned with Arissa Lavigny-Duval, questioned prioritising distant systems over corruption on Imperial doorsteps. Concerns about turmoil in Arissa's territory have led some to question committing large forces to Pegasi. Outrage was sparked by Aisling Duval supporters soliciting Federal commander help. Commander Great Gig of the Velites Squadron expressed sadness at Imperial commanders contacting the Federation for cooperation, questioning whether the Empire should seek aid from its ideological rival.
-player_impact: Imperial pilots engaged in Operation Davy Jones face both military resistance and political criticism at home over the campaign's priorities.
+summary: While Imperial forces continue pressuring Archon Delaine in Operation Davy
+  Jones, dissent is growing at home. Commander Edgar Starwalker, aligned with Arissa
+  Lavigny-Duval, questioned prioritising distant systems over corruption on Imperial
+  doorsteps. Concerns about turmoil in Arissa's territory have led some to question
+  committing large forces to Pegasi. Outrage was sparked by Aisling Duval supporters
+  soliciting Federal commander help. Commander Great Gig of the Velites Squadron expressed
+  sadness at Imperial commanders contacting the Federation for cooperation, questioning
+  whether the Empire should seek aid from its ideological rival.
+player_impact: Imperial pilots engaged in Operation Davy Jones face both military
+  resistance and political criticism at home over the campaign's priorities.
 persons:
 - Edgar Starwalker
 - Great Gig
@@ -24,10 +32,15 @@ topics:
 - politics
 - war
 arc_id: kumo-crew-rise
-modern_impact: Internal dissent over Operation Davy Jones reveals fractures in Imperial unity, with some questioning the cost and even the alliance with Federal forces.
+modern_impact: Internal dissent over Operation Davy Jones reveals fractures in Imperial
+  unity, with some questioning the cost and even the alliance with Federal forces.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 14ba5e9a-bb38-565e-bbd0-768f8f401fd4
+- 81c800a0-c293-5c53-b69d-026625eb2c71
 ---
+
 
 The efforts of the Imperial forces engaged in “Operation Davy Jones” have continued This week, With the attackers keeping up the pressure on Archon Delaine’s stretched and battered forces. However, while the pilots engaged in the operation remain optimistic after a series of local successes, the campaign has attracted Its share of detractors. 
 

@@ -4,7 +4,8 @@ title: NMLA Retakes the Steel Majesty
 slug: nmla_retakes_the_steel_majesty
 date: '3307-11-17'
 source: API
-summary: NMLA terrorists overrun the Steel Majesty megaship in the Hyades Sector RO-P b6-2 system, trapping crew members and gathering surviving cells for a major operation.
+summary: NMLA terrorists overrun the Steel Majesty megaship in the Hyades Sector RO-P
+  b6-2 system, trapping crew members and gathering surviving cells for a major operation.
 player_impact: None
 persons:
 - Jean-Christophe Lyon
@@ -17,10 +18,15 @@ topics:
 - terrorism
 - war
 arc_id: nmla-terrorism
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to the Marlinist refugee crisis and the Proactive Detection Bureau.
+modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
+  the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 455aa5f4-8e48-5c5d-b7a7-c606f933ee13
+- 4e530f6e-1528-5817-80a5-f348f146d68c
 ---
+
 
 A former Neo-Marlinist megaship has been overrun by NMLA terrorists in The Hyades Sector RO-P b6-2 system.
 The Steel Majesty was originally owned by the Neo-Marlinist Order of Mudhrid, One of the NMLA’s key allies. After their defeat, it ferried Many of them to the Marlinist Colonies where they were granted asylum by Minister Aaron Whyte. His faction then made use of the megaship during the civil war in August.

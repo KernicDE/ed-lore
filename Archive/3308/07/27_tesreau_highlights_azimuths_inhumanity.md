@@ -33,8 +33,11 @@ modern_impact: Tesreau's detailed expose connected Azimuth's historical atrociti
   Salvation's organisation before the Proteus Wave activation.
 legacy_weight: 5
 significance: high
-related_uuids: []
+related_uuids:
+- 7252228c-45f3-51ab-96b8-0ecfdccd2daa
+- bc635a7c-22bf-5a79-b6bb-781f8b67a199
 ---
+
 
 
 A counter-statement regarding Azimuth Biotech has been published by Professor Alba Tesreau, former head of research at Aegis.

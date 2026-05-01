@@ -4,8 +4,14 @@ title: Hudson Attacks President's History
 slug: hudson_attacks_presidents_history
 date: '3301-03-30'
 source: GitHub
-summary: Shadow President Hudson held a press conference on Mars announcing he would seek Congressional support to remove President Halsey from office. He accused Halsey of being unfit, citing her complaints about virtual reality while ordering the deaths of thousands of innocent Federal civilians based on shaky intelligence. Hudson declared that Halsey's removal 'can't come fast enough' and positioned himself as a leader who could restore the Federation as a 'shining beacon.'
-player_impact: Federal pilots and citizens should monitor the political crisis closely, as Hudson's move to remove Halsey could trigger significant political instability.
+summary: Shadow President Hudson held a press conference on Mars announcing he would
+  seek Congressional support to remove President Halsey from office. He accused Halsey
+  of being unfit, citing her complaints about virtual reality while ordering the deaths
+  of thousands of innocent Federal civilians based on shaky intelligence. Hudson declared
+  that Halsey's removal 'can't come fast enough' and positioned himself as a leader
+  who could restore the Federation as a 'shining beacon.'
+player_impact: Federal pilots and citizens should monitor the political crisis closely,
+  as Hudson's move to remove Halsey could trigger significant political instability.
 persons:
 - Zachary Hudson
 - Jasmina Halsey
@@ -15,10 +21,15 @@ locations:
 topics:
 - politics
 arc_id: halsey-presidency
-modern_impact: Hudson's public call for Halsey's removal marked the formal beginning of the Federal power struggle that would eventually topple her presidency.
+modern_impact: Hudson's public call for Halsey's removal marked the formal beginning
+  of the Federal power struggle that would eventually topple her presidency.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 228a3835-beab-5f06-a49f-9e2d1588b1d7
+- d97415fc-1060-58ea-b5f1-6691bce40028
 ---
+
 
 Shadow President Hudson held a press conference on Mars earlier today to address rumours that he would be seeking support to oust President Halsey from office. 
 

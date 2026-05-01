@@ -4,7 +4,8 @@ title: Duvals Gather to Celebrate New Year
 slug: duvals_gather_to_celebrate_new_year
 date: '3308-01-01'
 source: API
-summary: Princess Aisling Duval hosts a New Year celebration introducing Hadrian Duval and his family to Imperial society.
+summary: Princess Aisling Duval hosts a New Year celebration introducing Hadrian Duval
+  and his family to Imperial society.
 player_impact: Not specifically mentioned — this is a society report.
 persons:
 - Aisling Duval
@@ -19,13 +20,18 @@ topics:
 - terrorism
 - war
 arc_id: nova-imperium
-modern_impact: '"Many dignitaries insisted on having their image recorded beside the ''future Emperor''." The public debut of Hector Duval cements Hadrian Duval''s integration into Imperial high society and fuels succession speculation.'
+modern_impact: '"Many dignitaries insisted on having their image recorded beside the
+  ''future Emperor''." The public debut of Hector Duval cements Hadrian Duval''s integration
+  into Imperial high society and fuels succession speculation.'
 legacy_weight: 4
 significance: high
 related_uuids:
 - 0ef8061c-5c04-5669-a7d7-9792dcd75c8f
+- 57595ebe-8df8-54ce-9805-7d96d909f3fe
+- 7abbdc00-c397-5e60-afa7-01b53f73e082
 - 80b1c2fe-dde6-5b97-a195-c6f2bcad8ce5
 ---
+
 
 Princess Aisling Duval marked The start of 3308 by introducing her cousin Hadrian Duval, his wife and their newborn son to Imperial high society.
 Entertainment journalist Solomon Helios broadcast a report on the event:

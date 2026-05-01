@@ -4,8 +4,12 @@ title: Guardian Artefacts Collected for Aegis Project
 slug: guardian_artefacts_collected_for_aegis_project
 date: '3307-04-29'
 source: API
-summary: Aegis's anti-xeno research programme successfully collects mass deliveries of Guardian artefacts. Professor Alba Tesreau thanks the galactic community and notes that insights from the samples may help secure continued Aegis funding, though no breakthroughs are imminent.
-player_impact: Pilots delivered Guardian artefacts to Aegis Research at the Alexandria megaship in the Delphi system and collected rewards.
+summary: Aegis's anti-xeno research programme successfully collects mass deliveries
+  of Guardian artefacts. Professor Alba Tesreau thanks the galactic community and
+  notes that insights from the samples may help secure continued Aegis funding, though
+  no breakthroughs are imminent.
+player_impact: Pilots delivered Guardian artefacts to Aegis Research at the Alexandria
+  megaship in the Delphi system and collected rewards.
 persons:
 - Alba Tesreau
 groups:
@@ -27,12 +31,17 @@ technologies:
 - Guardian urn
 - Anti-xeno weaponry
 arc_id: thargoid-contact
-modern_impact: While the Guardian research produces incremental knowledge, Aegis's failure to achieve rapid breakthroughs contributes to its declining political support and eventual replacement by Azimuth Biotech, which promises more decisive anti-xeno solutions.
+modern_impact: While the Guardian research produces incremental knowledge, Aegis's
+  failure to achieve rapid breakthroughs contributes to its declining political support
+  and eventual replacement by Azimuth Biotech, which promises more decisive anti-xeno
+  solutions.
 legacy_weight: 4
 significance: high
 related_uuids:
 - 7598afb2-602a-5ffd-bc0d-60f8e1d71a9c
+- b6aa5197-46b1-54fe-8245-71ca6fe9fd40
 ---
+
 
 **Pilots Federation ALERT**
 Aegis’s anti-xeno research programme has launched With the mass delivery of artefacts constructed by The Guardians.

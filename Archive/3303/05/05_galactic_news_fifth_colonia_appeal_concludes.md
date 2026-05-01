@@ -4,8 +4,10 @@ title: Galactic News  Fifth Colonia Appeal Concludes
 slug: galactic_news_fifth_colonia_appeal_concludes
 date: '3303-05-05'
 source: GitHub
-summary: The fifth Colonia Council migration appeal has ended, with hundreds of organisations delivering material to Jaques Station for new outposts in the Colonia Nebula.
-player_impact: Organisations that made the largest contributions will be contacted to start work on their new outposts.
+summary: The fifth Colonia Council migration appeal has ended, with hundreds of organisations
+  delivering material to Jaques Station for new outposts in the Colonia Nebula.
+player_impact: Organisations that made the largest contributions will be contacted
+  to start work on their new outposts.
 persons: []
 groups:
 - Colonia Council
@@ -14,10 +16,15 @@ locations:
 - Jaques Station
 technologies: []
 arc_id: jaques-station
-modern_impact: Colonia continues to grow as a deep-space settlement, offering new opportunities for exploration and colonisation.
+modern_impact: Colonia continues to grow as a deep-space settlement, offering new
+  opportunities for exploration and colonisation.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 3e340fb7-d036-53cb-b192-847d066be03c
+- a3800490-5efc-5e7c-bb48-e3ea15432bd3
 ---
+
 
 The fifth Colonia Council migration appeal has come to an end. Hundreds of organisations took part in the campaign, delivering huge quantities of material to Jaques Station in the hope of earning a place in the Colonia Nebula. 
 

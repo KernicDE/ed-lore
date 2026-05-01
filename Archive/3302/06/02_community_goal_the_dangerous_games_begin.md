@@ -4,8 +4,11 @@ title: Community Goal  The Dangerous Games Begin
 slug: community_goal_the_dangerous_games_begin
 date: '3302-06-02'
 source: GitHub
-summary: Five major factions compete in the Dangerous Games to be recognised as an official power, with smaller factions first competing in three-week Wildcard events; the first Wildcard requires pilots to mine gold for their chosen faction.
-player_impact: Mine gold for your chosen faction in the first Dangerous Games Wildcard event; disrupt rival factions' efforts if desired.
+summary: Five major factions compete in the Dangerous Games to be recognised as an
+  official power, with smaller factions first competing in three-week Wildcard events;
+  the first Wildcard requires pilots to mine gold for their chosen faction.
+player_impact: Mine gold for your chosen faction in the first Dangerous Games Wildcard
+  event; disrupt rival factions' efforts if desired.
 persons:
 - Trinity Avon
 groups:
@@ -26,7 +29,11 @@ arc_id: kumo-crew-rise
 modern_impact: Highlights the humanitarian crisis in the Pegasi Sector.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 12b6b963-3193-5020-8e1e-37a4c48eb1b4
+- 808a1c32-013a-58f3-bf85-f48036f3d4f1
 ---
+
 
 The galaxy is home to countless factions, some boasting thousands of members and others comprising only a handful of individuals. Some exist to serve the galactic community, while others follow more antagonistic dogmas. For almost Every creed in human space, there is a corresponding faction. 
 

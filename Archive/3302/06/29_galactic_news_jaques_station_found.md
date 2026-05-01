@@ -4,7 +4,9 @@ title: Galactic News  Jaques Station Found!
 slug: galactic_news_jaques_station_found
 date: '3302-06-29'
 source: GitHub
-summary: Commander Cly discovers Jaques Station in the Eol Prou RS-T d3-94 system while exploring the Eol Prou AA-A H89 Nebula; the starport is suffering from technical issues believed to be caused by Unknown-Artefact related interference.
+summary: Commander Cly discovers Jaques Station in the Eol Prou RS-T d3-94 system
+  while exploring the Eol Prou AA-A H89 Nebula; the starport is suffering from technical
+  issues believed to be caused by Unknown-Artefact related interference.
 player_impact: None
 persons:
 - Commander Cly
@@ -21,10 +23,15 @@ topics:
 technologies:
 - meta-alloys
 arc_id: jaques-station
-modern_impact: Jaques Station's journey to Colonia establishes a new frontier settlement, opening up deep-space colonisation.
+modern_impact: Jaques Station's journey to Colonia establishes a new frontier settlement,
+  opening up deep-space colonisation.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 1fdc01e9-8e9f-507e-8671-f59261c89471
+- f5bc9303-58d8-55b4-8546-992a89315653
 ---
+
 
 Two weeks ago it was reported that Jaques Station, The legendary travelling starport, had survived Its attempt to jump from Gliese 1269 to Beagle Point. 
 

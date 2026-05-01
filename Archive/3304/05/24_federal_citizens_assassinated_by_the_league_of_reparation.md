@@ -4,7 +4,12 @@ title: Federal Citizens Assassinated by the League of Reparation
 slug: federal_citizens_assassinated_by_the_league_of_reparation
 date: '3304-05-24'
 source: GitHub
-summary: The League of Reparation has committed three further murders in Federation space. Ezra Lux-Kumar was found dead from nerve toxin in his home on Biggs Colony. Two Pilots' Federation members were also killed in the Rhea and Delta Pavonis systems, their ships laser-branded 'FOR JAMESON'. Senior Agent Tanya Ramirez of the Federal Intelligence Agency confirmed the terrorists are well organised and confirmed collaboration with the tri-power taskforce.
+summary: The League of Reparation has committed three further murders in Federation
+  space. Ezra Lux-Kumar was found dead from nerve toxin in his home on Biggs Colony.
+  Two Pilots' Federation members were also killed in the Rhea and Delta Pavonis systems,
+  their ships laser-branded 'FOR JAMESON'. Senior Agent Tanya Ramirez of the Federal
+  Intelligence Agency confirmed the terrorists are well organised and confirmed collaboration
+  with the tri-power taskforce.
 player_impact: None explicitly stated.
 persons:
 - Tanya Ramirez
@@ -22,10 +27,14 @@ topics:
 - safety
 - terrorism
 arc_id: inra-exposed
-modern_impact: Revelations about INRA's dark history reshape public understanding of the Thargoid conflict and superpower accountability.
+modern_impact: Revelations about INRA's dark history reshape public understanding
+  of the Thargoid conflict and superpower accountability.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 7b48d4e3-103e-585d-84c1-c6cc7ad4fc39
 ---
+
 
 Terrorist group the League of Reparation has committed three Further murders in Federation space. 
 

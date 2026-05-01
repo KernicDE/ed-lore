@@ -30,8 +30,11 @@ modern_impact: The communications blackout was the first sign that Salvation's s
   countermeasures or a fatal design flaw that Azimuth had not anticipated.
 legacy_weight: 5
 significance: high
-related_uuids: []
+related_uuids:
+- 5dac2429-cbe4-5b27-95da-d6d5fe91f4eb
+- b8b1752e-3808-5805-a594-5fb18505ae4e
 ---
+
 
 
 **Pilots’ Federation ALERT**

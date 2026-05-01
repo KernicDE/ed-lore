@@ -4,8 +4,11 @@ title: Ammonia World Survey Concludes
 slug: ammonia_world_survey_concludes
 date: '3309-03-16'
 source: API
-summary: The ammonia world survey concludes successfully, with Aegis planning to monitor ammonia-world systems using concealed sensor buoys for Thargoid activity.
-player_impact: Pilots who contributed exploration data can receive payment at Angus Manwaring starport in Eta Cassiopeiae. A x3 multiplier on exploration data profits has commenced.
+summary: The ammonia world survey concludes successfully, with Aegis planning to monitor
+  ammonia-world systems using concealed sensor buoys for Thargoid activity.
+player_impact: Pilots who contributed exploration data can receive payment at Angus
+  Manwaring starport in Eta Cassiopeiae. A x3 multiplier on exploration data profits
+  has commenced.
 persons:
 - Tom Gillespie
 - Skylar Anderson
@@ -23,13 +26,20 @@ topics:
 - research
 entities: []
 arc_id: thargoid-titan-war
-modern_impact: Gillespie's praise — 'This is the kind of task for which independent Commanders are absolutely unmatched in dedication and expertise' — acknowledges player contributions. Anderson's strategic detail — 'concealed sensor buoys... will alert Aegis to the presence of Thargoid vessels or Maelstrom manifestations' — shows the surveillance plan. The named commanders (aRadish, Lone WolfPack, T'Verez) are a nice touch of community recognition.
+modern_impact: Gillespie's praise — 'This is the kind of task for which independent
+  Commanders are absolutely unmatched in dedication and expertise' — acknowledges
+  player contributions. Anderson's strategic detail — 'concealed sensor buoys... will
+  alert Aegis to the presence of Thargoid vessels or Maelstrom manifestations' — shows
+  the surveillance plan. The named commanders (aRadish, Lone WolfPack, T'Verez) are
+  a nice touch of community recognition.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 06496fae-10e3-51d0-8cf1-f693daaf81d0
 - 2e7e258a-5974-5a34-b102-93d10a22c438
+- f9e27cfb-6dfc-5440-a368-372c38d9b1a1
 ---
+
 
 **Pilots’ Federation ALERT**
 Aegis and Universal Cartographics have announced that the project to survey ammonia worlds has ended satisfactorily.

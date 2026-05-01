@@ -4,8 +4,13 @@ title: 'Galactic Mysteries: The Hesperus'
 slug: galactic_mysteries_the_hesperus
 date: '3307-04-27'
 source: API
-summary: Francesca Wolfe details the discovery of the Hesperus alongside the Scriveners Clan dredger in the Perseus Dark Region. Pilots recovered encrypted logs revealing corporate rivalry, murder, and the involvement of a shadowy figure called "Salvation" who directed the search.
-player_impact: Pilots decoded the Adamastor signal, traced it to the Hesperus, hacked the Scriveners Clan's firewall, and recovered four encoded data files revealing Azimuth Biochemicals' dark history.
+summary: Francesca Wolfe details the discovery of the Hesperus alongside the Scriveners
+  Clan dredger in the Perseus Dark Region. Pilots recovered encrypted logs revealing
+  corporate rivalry, murder, and the involvement of a shadowy figure called "Salvation"
+  who directed the search.
+player_impact: Pilots decoded the Adamastor signal, traced it to the Hesperus, hacked
+  the Scriveners Clan's firewall, and recovered four encoded data files revealing
+  Azimuth Biochemicals' dark history.
 persons:
 - Francesca Wolfe
 - Erik Gunnarson
@@ -29,15 +34,19 @@ technologies:
 - Communications beacon
 - Decryption key
 arc_id: salvation-azimuth
-modern_impact: The Hesperus discovery reveals Azimuth Biochemicals' centuries-old xenological research programme and foreshadows the return of Azimuth — through its successor Azimuth Biotech — as a dominant force in the Thargoid war.
+modern_impact: The Hesperus discovery reveals Azimuth Biochemicals' centuries-old
+  xenological research programme and foreshadows the return of Azimuth — through its
+  successor Azimuth Biotech — as a dominant force in the Thargoid war.
 legacy_weight: 5
 significance: high
 related_uuids:
-- 2c8fcc05-f40b-5f58-89f3-c2a46b86faf0
 - 07afe076-5ec7-5bd4-8760-fbf3c9ed12a1
 - 218ec85d-706e-5e3d-bb5b-9a63e443707c
+- 2c8fcc05-f40b-5f58-89f3-c2a46b86faf0
 - 79f7dec4-b60f-56f7-b92e-0d4c77203b9b
+- a7097ad5-60fd-5a3f-852d-86f1a74114d5
 ---
+
 
 Francesca Wolfe of The Wallglass Investigations Agency examines the Hesperus megaship and the Dredger Clan that caused Its recent discovery.
 “When the Adamastor derelict received a strange signal, smart money was on it originating from its sister ship, the Hesperus. Both were owned by Azimuth Biochemicals and had vanished 200 years ago.”

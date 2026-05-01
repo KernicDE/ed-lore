@@ -4,8 +4,11 @@ title: Galactic News  Jaques to Embark for Beagle Point
 slug: galactic_news_jaques_to_embark_for_beagle_point
 date: '3302-05-12'
 source: GitHub
-summary: The Fuel Rats announce that Jaques Station has received sufficient fuel for its proposed jump to Beagle Point. Jaques confirms the station received hundreds of thousands of tonnes of fuel and expects to depart within days.
-player_impact: Pilots contributed hundreds of thousands of tonnes of fuel to enable Jaques Station's jump to Beagle Point.
+summary: The Fuel Rats announce that Jaques Station has received sufficient fuel for
+  its proposed jump to Beagle Point. Jaques confirms the station received hundreds
+  of thousands of tonnes of fuel and expects to depart within days.
+player_impact: Pilots contributed hundreds of thousands of tonnes of fuel to enable
+  Jaques Station's jump to Beagle Point.
 persons:
 - Jaques
 - Mischief
@@ -17,10 +20,15 @@ locations:
 topics:
 - construction
 arc_id: jaques-station
-modern_impact: Jaques Station's journey to Colonia establishes a new frontier settlement, opening up deep-space colonisation.
+modern_impact: Jaques Station's journey to Colonia establishes a new frontier settlement,
+  opening up deep-space colonisation.
 legacy_weight: 4
 significance: high
+related_uuids:
+- ca336671-285c-54b4-9c50-3b2c5cafda2f
+- f1e17ffa-7f96-587d-b0c1-22e23ff20576
 ---
+
 
 A spokesperson for The Fuel Rats named Mischief has announced that Jaques Station has received sufficient quantities of fuel to complete the proposed jump to Beagle Point.  
 

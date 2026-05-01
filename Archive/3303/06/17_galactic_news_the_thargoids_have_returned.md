@@ -4,8 +4,11 @@ title: Galactic News  The Thargoids have Returned
 slug: galactic_news_the_thargoids_have_returned
 date: '3303-06-17'
 source: GitHub
-summary: Professor Ishmael Palin conclusively identified the Unknown Ships as Thargoid vessels, and the data was seized by Federal agents before their ship was attacked by Thargoids, releasing the information to the public.
-player_impact: Pilots should prepare for potential Thargoid hostility and stay informed about anti-xeno defence developments.
+summary: Professor Ishmael Palin conclusively identified the Unknown Ships as Thargoid
+  vessels, and the data was seized by Federal agents before their ship was attacked
+  by Thargoids, releasing the information to the public.
+player_impact: Pilots should prepare for potential Thargoid hostility and stay informed
+  about anti-xeno defence developments.
 persons:
 - Ishmael Palin
 - Kelvin Masters
@@ -18,10 +21,15 @@ topics:
 - ship
 technologies: []
 arc_id: thargoid-contact
-modern_impact: Thargoid activity escalates, fundamentally changing the galactic security landscape and driving the creation of anti-xeno defence forces.
+modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
+  landscape and driving the creation of anti-xeno defence forces.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 553db389-d54c-539a-aee0-be31ec1048b2
+- ee4558be-1df9-5900-8c68-c35fd406821f
 ---
+
 
 Over the past few days, media streams have been abuzz With news that the so-called Unknown Ships are in fact Thargoid vessels, as Many had speculated. The Federal Times, having spent Several days confirming sources and authenticating reports, has now published an in-depth account of the events that led to the revelation. 
 

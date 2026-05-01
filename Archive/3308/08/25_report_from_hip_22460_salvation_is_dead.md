@@ -29,8 +29,11 @@ modern_impact: The confirmation of Salvation's death ended the era of the anonym
   had failed to save him from his own weapon's catastrophic backfire.
 legacy_weight: 5
 significance: high
-related_uuids: []
+related_uuids:
+- 213d7d9f-60b3-5c23-9485-64cef59fff16
+- 9d9d6dfc-c38b-5477-93e7-fad46cf6cdf1
 ---
+
 
 
 It has been confirmed that Salvation, figurehead of Azimuth Biotech and creator of the Proteus Wave, was killed on board the Bright Sentinel.

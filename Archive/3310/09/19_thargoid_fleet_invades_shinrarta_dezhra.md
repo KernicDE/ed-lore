@@ -32,8 +32,11 @@ modern_impact: The Thargoid invasion of Shinrarta Dezhra — the home of the Pil
   incentives shows how corporations compete for pilot loyalty even during battle.
 legacy_weight: 5
 significance: high
-related_uuids: []
+related_uuids:
+- 93065842-8454-5efa-aad2-95b0b0d6e0ac
+- f81b9bcf-e2ee-5481-bbc7-6bcf7e101fc7
 ---
+
 
 
 **Pilots’ Federation Alert**

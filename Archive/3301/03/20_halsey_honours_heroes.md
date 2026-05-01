@@ -4,8 +4,15 @@ title: Halsey Honours Heroes
 slug: halsey_honours_heroes
 date: '3301-03-20'
 source: GitHub
-summary: President Halsey honoured Federal commanders who made the greatest contributions to the Lugh war effort. Commander Nightwulf removed almost 14,000 enemy combatants. Commander Darius Torkalar shipped 3,000 tonnes of weapons. They were aided by Post Commanders Crownan and Pablo-Diablo, Petty Officer Dave Lukewski III, and Brokers BadBjarne and Ranmust, along with Merchant Commander Vorian Artreides. Despite CSG undercover operatives on Hartsfield Market, the Federation continues to dominate Lugh's skies.
-player_impact: Pilots who contributed significantly to the Federal war effort in Lugh may receive honours and recognition.
+summary: President Halsey honoured Federal commanders who made the greatest contributions
+  to the Lugh war effort. Commander Nightwulf removed almost 14,000 enemy combatants.
+  Commander Darius Torkalar shipped 3,000 tonnes of weapons. They were aided by Post
+  Commanders Crownan and Pablo-Diablo, Petty Officer Dave Lukewski III, and Brokers
+  BadBjarne and Ranmust, along with Merchant Commander Vorian Artreides. Despite CSG
+  undercover operatives on Hartsfield Market, the Federation continues to dominate
+  Lugh's skies.
+player_impact: Pilots who contributed significantly to the Federal war effort in Lugh
+  may receive honours and recognition.
 persons:
 - Jasmina Halsey
 - Commander Nightwulf
@@ -24,10 +31,15 @@ locations:
 topics:
 - war
 arc_id: lugh-independence
-modern_impact: Halsey's public honours for Lugh commanders served as political theatre to bolster her image during the controversial war.
+modern_impact: Halsey's public honours for Lugh commanders served as political theatre
+  to bolster her image during the controversial war.
 legacy_weight: 2
 significance: low
+related_uuids:
+- d94ecb15-0ec2-5d1d-a0cf-f8fe10e9fada
+- df6229b9-1152-50a4-aacc-cea4be6f9bae
 ---
+
 
 Despite The actions of undercover operatives acting on behalf of The Crimson State Group aboard Hartsfield Market, the Federation Continues to dominate the skies of Lugh. 
 

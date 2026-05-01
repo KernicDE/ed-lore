@@ -4,8 +4,15 @@ title: Week in Review
 slug: week_in_review
 date: '3304-05-13'
 source: GitHub
-summary: This week's major stories include Admiral Aden Tanner reassuring the public that Thargoid incursions into the core systems are contained and not a full-scale invasion. The tri-power taskforce investigating the League of Reparation, responsible for Senator Nestor Cartesius's murder, has made significant progress with Captain Niamh Seutonia confirming the group is better organised than first suspected. The Empire announced plans for a new Riker-Class Prison Ship in Veroklist. The Utopia campaign to construct military defences for the Sim-Archive has concluded successfully.
-player_impact: Pilots who delivered construction materials to Bobko City or protected the Utopia operation can collect rewards.
+summary: This week's major stories include Admiral Aden Tanner reassuring the public
+  that Thargoid incursions into the core systems are contained and not a full-scale
+  invasion. The tri-power taskforce investigating the League of Reparation, responsible
+  for Senator Nestor Cartesius's murder, has made significant progress with Captain
+  Niamh Seutonia confirming the group is better organised than first suspected. The
+  Empire announced plans for a new Riker-Class Prison Ship in Veroklist. The Utopia
+  campaign to construct military defences for the Sim-Archive has concluded successfully.
+player_impact: Pilots who delivered construction materials to Bobko City or protected
+  the Utopia operation can collect rewards.
 persons:
 - Nestor Cartesius
 - Aden Tanner
@@ -30,10 +37,15 @@ topics:
 - slavery
 - trade
 arc_id: thargoid-contact
-modern_impact: Multiple concurrent crises — Thargoid containment, terrorism, and infrastructure projects — illustrate the complex challenges facing the galaxy.
+modern_impact: Multiple concurrent crises — Thargoid containment, terrorism, and infrastructure
+  projects — illustrate the complex challenges facing the galaxy.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 24d1074c-00a2-5ab2-9579-587f06249380
+- c982706e-e201-55a8-903b-c8f82ba7783f
 ---
+
 
 Here are This week’s major stories. 
 

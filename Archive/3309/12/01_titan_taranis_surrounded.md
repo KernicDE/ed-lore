@@ -4,8 +4,11 @@ title: Titan Taranis Surrounded
 slug: titan_taranis_surrounded
 date: '3309-12-01'
 source: API
-summary: Human forces surround Titan Taranis's system, having pushed Thargoids out of all controlled systems. Tanner urges continued vigilance, warning against complacency.
-player_impact: Pilots pushed Thargoids out of all systems in Titan Taranis's area of control. Systems like Hupang, Swahku and HR1737 initiated repairs to abandoned starports.
+summary: Human forces surround Titan Taranis's system, having pushed Thargoids out
+  of all controlled systems. Tanner urges continued vigilance, warning against complacency.
+player_impact: Pilots pushed Thargoids out of all systems in Titan Taranis's area
+  of control. Systems like Hupang, Swahku and HR1737 initiated repairs to abandoned
+  starports.
 persons:
 - Aden Tanner
 groups:
@@ -18,13 +21,18 @@ topics:
 - alien contact
 - war
 arc_id: thargoid-titan-war
-modern_impact: Tanner's warning — 'Those who fought in the HIP 22460 campaign and witnessed the Proteus Wave event will testify to the dangers of assuming the war is won' — references a major past event. The mention of starport repairs in Hupang, Swahku and HR1737 shows the human cost of reclamation.
+modern_impact: Tanner's warning — 'Those who fought in the HIP 22460 campaign and
+  witnessed the Proteus Wave event will testify to the dangers of assuming the war
+  is won' — references a major past event. The mention of starport repairs in Hupang,
+  Swahku and HR1737 shows the human cost of reclamation.
 legacy_weight: 5
 significance: high
 related_uuids:
-- 81865303-e582-5bfe-9456-f4a6edde499c
 - 14d322c7-81ac-5a46-a77a-ad62d203ef84
+- 81865303-e582-5bfe-9456-f4a6edde499c
+- cdd43b12-45f6-5545-9f6b-132396f9adc2
 ---
+
 
 The star system Hyades Sector FB-N B7-6, which contains Thargoid Titan Taranis, has been surrounded by human forces.
 Aden Tanner, special advisor to Aegis, provided the following update:

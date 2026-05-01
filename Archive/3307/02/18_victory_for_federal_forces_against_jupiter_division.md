@@ -31,13 +31,15 @@ modern_impact: '"For many years, I helped Core Dynamics become one of the galaxy
 legacy_weight: 2
 significance: low
 related_uuids:
-- ef475ada-e268-55e0-8ada-ae250caa5c86
-- c1469916-3aca-5e3b-8dc5-76baf74b7e68
-- 533f8ff4-f23d-500f-83d9-92209119bc5b
 - 31ca43b5-5307-50b4-bbd0-948f5ba63d94
-- fefdabb9-36ba-57a2-8321-e9764f0b713c
+- 3a299742-113f-5b36-98e2-a791ed35ae34
+- 533f8ff4-f23d-500f-83d9-92209119bc5b
 - aa81f947-721e-52c8-a91e-906bf41c62b8
+- c1469916-3aca-5e3b-8dc5-76baf74b7e68
+- ef475ada-e268-55e0-8ada-ae250caa5c86
+- fefdabb9-36ba-57a2-8321-e9764f0b713c
 ---
+
 
 
 **Pilots Federation ALERT**

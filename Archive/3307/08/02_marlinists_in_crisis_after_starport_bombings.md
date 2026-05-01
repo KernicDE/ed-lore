@@ -4,8 +4,11 @@ title: Marlinists in Crisis After Starport Bombings
 slug: marlinists_in_crisis_after_starport_bombings
 date: '3307-08-02'
 source: API
-summary: NMLA starport bombings in the Marlinist Colonies kill over 35,000 civilians. First Minister Jenna Fairfax is confirmed dead, and Acting First Minister Amrita Ross assumes leadership amid political chaos.
-player_impact: Pilots provided evacuation and supply support to Stillman Hub and Tilman Point stations.
+summary: NMLA starport bombings in the Marlinist Colonies kill over 35,000 civilians.
+  First Minister Jenna Fairfax is confirmed dead, and Acting First Minister Amrita
+  Ross assumes leadership amid political chaos.
+player_impact: Pilots provided evacuation and supply support to Stillman Hub and Tilman
+  Point stations.
 persons:
 - Jenna Fairfax
 - Amrita Ross
@@ -20,10 +23,15 @@ topics:
 - investigation
 - terrorism
 arc_id: nmla-terrorism
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to the Marlinist refugee crisis and the Proactive Detection Bureau.
+modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
+  the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 3f7e9e50-c517-5216-bf64-2759fcfe1f62
+- fd4a82f5-7fa5-51f0-896d-f39d35e3937b
 ---
+
 
 The NMLA’s attacks against the Marlinist Colonies have caused mass casualties, disruption and political chaos.
 More than 35,000 civilians were killed in the attacks, With twice as Many suffering injuries and caustic burns. Safeguard Interstellar is providing vital supplies to survivors, and evacuations of Stillman Hub and Tilman Point stations are ongoing.

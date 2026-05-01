@@ -4,8 +4,10 @@ title: Allied System Receives Vital Resources
 slug: allied_system_receives_vital_resources
 date: '3308-05-05'
 source: API
-summary: Sirius Corporation delivers vital supplies to sustain the Didio system during the ongoing Thargoid assault.
-player_impact: Pilots transported shipments of basic medicines, evacuation shelters, and food cartridges to the Chariot of Rhea in Leesti.
+summary: Sirius Corporation delivers vital supplies to sustain the Didio system during
+  the ongoing Thargoid assault.
+player_impact: Pilots transported shipments of basic medicines, evacuation shelters,
+  and food cartridges to the Chariot of Rhea in Leesti.
 persons:
 - Nikolas Glass
 groups:
@@ -24,13 +26,20 @@ topics:
 - corporate expansion
 - war
 arc_id: thargoid-titan-war
-modern_impact: '"By replenishing key supplies during this time of great crisis, Sirius Corporation has again shown its dedication to the Alliance''s military efforts." The logistics operation reinforced Sirius Corporation''s strategic indispensability to the Alliance during active Thargoid engagements, strengthening the political case for formalising the defence pact.'
+modern_impact: '"By replenishing key supplies during this time of great crisis, Sirius
+  Corporation has again shown its dedication to the Alliance''s military efforts."
+  The logistics operation reinforced Sirius Corporation''s strategic indispensability
+  to the Alliance during active Thargoid engagements, strengthening the political
+  case for formalising the defence pact.'
 legacy_weight: 5
 significance: high
 related_uuids:
+- 4312e312-ef1b-50a1-ba00-2e1f441ce9e3
 - 6632e17b-34c6-59ea-9191-ec8d4d51ea1e
 - b391da8e-90b1-55d8-88e0-8ad93ae52300
+- c5e541f9-be5f-50b7-8d5b-d0bb91f01c1e
 ---
+
 
 **Pilots’ Federation ALERT**
 Sirius Corporation has helped provide commodities to sustain The Didio system during the ongoing Thargoid assault.

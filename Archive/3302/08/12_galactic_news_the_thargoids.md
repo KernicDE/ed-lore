@@ -4,7 +4,10 @@ title: Galactic News  The Thargoids
 slug: galactic_news_the_thargoids
 date: '3302-08-12'
 source: GitHub
-summary: Historian Sima Kalhana reviewed the history of Thargoid encounters, from the first reported interdictions in 3125 to the INRA's alleged development of the mycoid virus. The article notes that no credible Thargoid sightings had been reported for centuries, leaving their existence and nature uncertain.
+summary: Historian Sima Kalhana reviewed the history of Thargoid encounters, from
+  the first reported interdictions in 3125 to the INRA's alleged development of the
+  mycoid virus. The article notes that no credible Thargoid sightings had been reported
+  for centuries, leaving their existence and nature uncertain.
 player_impact: None
 persons:
 - Sima Kalhana
@@ -23,10 +26,15 @@ technologies:
 - mycoid virus
 - electronic countermeasure
 arc_id: thargoid-contact
-modern_impact: Historical context on Thargoid encounters, the mycoid virus, and INRA's covert operations frames contemporary reactions to Unknown Artefacts and Probes.
+modern_impact: Historical context on Thargoid encounters, the mycoid virus, and INRA's
+  covert operations frames contemporary reactions to Unknown Artefacts and Probes.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 4f028148-0b7b-5d2b-9334-9868e755268e
+- 51a77e93-8f7a-5968-9b91-a52b883d8a66
 ---
+
 
 Continuing Our series on significant episodes from human history, noted historian Sima Kalhana discusses the Thargoids. 
 

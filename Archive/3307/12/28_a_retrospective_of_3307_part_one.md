@@ -4,7 +4,8 @@ title: A Retrospective of 3307 (Part One)
 slug: a_retrospective_of_3307_part_one
 date: '3307-12-28'
 source: API
-summary: Historian Sima Kalhana reviews the first quarter of 3307, covering the NMLA's rise, the Galactic Summit, the Nine Martyrs bombings, and the formation of ACT.
+summary: Historian Sima Kalhana reviews the first quarter of 3307, covering the NMLA's
+  rise, the Galactic Summit, the Nine Martyrs bombings, and the formation of ACT.
 player_impact: Not specifically mentioned — this is a historical retrospective.
 persons:
 - Sima Kalhana
@@ -38,10 +39,15 @@ topics:
 - terrorism
 - war
 arc_id: nmla-terrorism
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to the Marlinist refugee crisis and the Proactive Detection Bureau.
+modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
+  the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 7adb225b-c48d-561e-ac9e-8b83fdc67fd0
+- 92fccdb6-99a8-591c-ac7c-cd2853326e55
 ---
+
 
 The noted historian Sima Kalhana takes a look back at the turbulent events of the last year In a four-part series of articles.
 “The start of 3307 was a time of crisis. The rise of the Neo-Marlinist Liberation Army (NMLA), the Marlinist refugee crisis and increased Empire-Federation tensions had brought a full-scale superpower war closer, With renewed attacks from the Thargoids increasing the pressure.”

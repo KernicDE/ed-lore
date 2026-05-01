@@ -4,7 +4,11 @@ title: Freelance Report  Game of Shadows
 slug: freelance_report_game_of_shadows
 date: '3302-03-15'
 source: GitHub
-summary: An anonymous communiqué claims connections between Core Dynamics, the destruction of the Antares and Starship One, Emperor's Dawn, and setbacks in Unknown Artefact research. It alleges the deaths of Nigel Smeaton, Sean Richards, Arnold Lowe, Susan Monroe, Elaine Boyd, Emperor Hengist Duval, and the disappearances of Jasmina Halsey and Ishmael Palin are all connected.
+summary: An anonymous communiqué claims connections between Core Dynamics, the destruction
+  of the Antares and Starship One, Emperor's Dawn, and setbacks in Unknown Artefact
+  research. It alleges the deaths of Nigel Smeaton, Sean Richards, Arnold Lowe, Susan
+  Monroe, Elaine Boyd, Emperor Hengist Duval, and the disappearances of Jasmina Halsey
+  and Ishmael Palin are all connected.
 player_impact: None
 persons:
 - Nigel Smeaton
@@ -28,10 +32,15 @@ topics:
 - succession
 - terrorism
 arc_id: imperial-succession
-modern_impact: Continued conflict between the Empire and Emperor's Dawn shapes Imperial politics and military policy.
+modern_impact: Continued conflict between the Empire and Emperor's Dawn shapes Imperial
+  politics and military policy.
 legacy_weight: 4
 significance: high
+related_uuids:
+- fc88a585-1994-5ec1-af2f-d1911dadb133
+- fde8e3a1-96f1-57f5-bdaa-3834f8c8ee62
 ---
+
 
 Various media outlets throughout inhabited space received an anonymous communiqué This morning. "The galactic community is in peril," the message began. "They just don't know it yet." 
 

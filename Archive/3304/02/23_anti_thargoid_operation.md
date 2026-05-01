@@ -4,8 +4,14 @@ title: Anti Thargoid Operation
 slug: anti_thargoid_operation
 date: '3304-02-23'
 source: GitHub
-summary: Following the success of January's joint Federal-Imperial operation in HIP 17692, the two superpowers have again joined forces to combat the Thargoids. The new operation targets Pleiades Sector OI-T c3-7 and Arietis Sector XE-Z b4, where large concentrations of Thargoid ships have been reported. The Merope Expeditionary Fleet will oversee combat operations while the Pleiades Resource Enterprise coordinates rescue and recovery.
-player_impact: Pilots can support combat or recovery operations and will be eligible for substantial rewards.
+summary: Following the success of January's joint Federal-Imperial operation in HIP
+  17692, the two superpowers have again joined forces to combat the Thargoids. The
+  new operation targets Pleiades Sector OI-T c3-7 and Arietis Sector XE-Z b4, where
+  large concentrations of Thargoid ships have been reported. The Merope Expeditionary
+  Fleet will oversee combat operations while the Pleiades Resource Enterprise coordinates
+  rescue and recovery.
+player_impact: Pilots can support combat or recovery operations and will be eligible
+  for substantial rewards.
 persons:
 - Denton Patreus
 groups:
@@ -20,10 +26,15 @@ topics:
 - ship
 - war
 arc_id: thargoid-contact
-modern_impact: Repeated joint Federal-Imperial anti-Thargoid operations establish a pattern of superpower cooperation in response to the alien threat.
+modern_impact: Repeated joint Federal-Imperial anti-Thargoid operations establish
+  a pattern of superpower cooperation in response to the alien threat.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 101b5058-2d0f-5877-94fd-4d6491541982
+- ed37b5f4-ec8a-5429-81aa-bd4fef709010
 ---
+
 
 Following The success of last month’s Federal-Imperial operation in the HIP 17692 system, the two superpowers have once again joined forces to combat the Thargoids. 
 

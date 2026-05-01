@@ -4,7 +4,10 @@ title: Freelance Report  Children of Liberty Criticize Mahon
 slug: freelance_report_children_of_liberty_criticize_mahon
 date: '3302-08-04'
 source: GitHub
-summary: The Children of Liberty issued a statement criticizing Alliance Prime Minister Edmund Mahon for tolerating authoritarian governments within Alliance member systems. The group agreed with Mahon's call to protect the barnacles from exploitation until more is known about them.
+summary: The Children of Liberty issued a statement criticizing Alliance Prime Minister
+  Edmund Mahon for tolerating authoritarian governments within Alliance member systems.
+  The group agreed with Mahon's call to protect the barnacles from exploitation until
+  more is known about them.
 player_impact: None
 persons:
 - Edmund Mahon
@@ -16,10 +19,15 @@ topics:
 - research
 technologies: []
 arc_id: barnacle-meta-alloy
-modern_impact: Highlights internal Alliance political tensions and early debates over barnacle preservation versus exploitation.
+modern_impact: Highlights internal Alliance political tensions and early debates over
+  barnacle preservation versus exploitation.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 5725dfe8-3438-5fe1-90c7-66c54dca1613
+- e457a532-38e6-5d9c-b207-eaae526a42c9
 ---
+
 
 The organization known As the Children of Liberty has issued a statement criticizing Alliance Prime Minister Edmund Mahon for his recent remarks concerning the supposed failings of the Federation and Empire. 
 

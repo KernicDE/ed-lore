@@ -4,8 +4,12 @@ title: Community Goal  The Fight for Pleiades Sector IH V C2 16
 slug: community_goal_the_fight_for_pleiades_sector_ih_v_c2_16
 date: '3302-08-11'
 source: GitHub
-summary: The Pleiades Resource Enterprise is preparing to assault the Empire-controlled Pleiades Sector IH-V c2-16 system. The Imperial Inquisition has called on Empire-aligned pilots to repel the Federal offensive, while the Pleiades Resource Enterprise has summoned Federation-aligned fighters.
-player_impact: Travel to Pleiades Sector IH-V c2-16 and fight for either the Federation or the Empire to determine control of the system.
+summary: The Pleiades Resource Enterprise is preparing to assault the Empire-controlled
+  Pleiades Sector IH-V c2-16 system. The Imperial Inquisition has called on Empire-aligned
+  pilots to repel the Federal offensive, while the Pleiades Resource Enterprise has
+  summoned Federation-aligned fighters.
+player_impact: Travel to Pleiades Sector IH-V c2-16 and fight for either the Federation
+  or the Empire to determine control of the system.
 persons: []
 groups:
 - Pleiades Resource Enterprise
@@ -16,10 +20,15 @@ topics:
 - ship
 technologies: []
 arc_id: pleiades-expansion
-modern_impact: Open warfare between Federal and Imperial forces in the Pleiades over strategic territory escalates superpower conflict.
+modern_impact: Open warfare between Federal and Imperial forces in the Pleiades over
+  strategic territory escalates superpower conflict.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 661a40d6-f5bf-57eb-9dea-50152229573f
+- 7347eb81-9a9c-504f-8834-a1b7de13a2ef
 ---
+
 
 Recent reports from the Empire-controlled Pleiades Sector IH-V c2-16 system indicate that the Pleiades Resource Enterprise, a Federal organisation, is preparing to launch an assault With the aim of taking the region from the Empire. 
 

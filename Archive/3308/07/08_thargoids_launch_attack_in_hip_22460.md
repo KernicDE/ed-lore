@@ -29,8 +29,11 @@ legacy_weight: 5
 significance: high
 related_uuids:
 - 057ab23f-37c2-5666-a9ad-0f2e7344b006
+- 3980872b-a4bd-5a14-8962-b1c72d749e07
+- 751f72f0-bd12-5009-92e8-97b94eb2066f
 - f21fb651-0ba8-5e86-bbbf-62f93558c998
 ---
+
 
 
 **Pilots’ Federation ALERT**

@@ -4,8 +4,11 @@ title: Galactic News  Alliance Outpost Established in HIP 19072
 slug: galactic_news_alliance_outpost_established_in_hip_19072
 date: '3302-05-26'
 source: GitHub
-summary: Alliance Prime Minister Edmund Mahon announces the completion of the Cooper Research Centre outpost in HIP 19072. The station will serve scientific research and bolster Alliance reconnaissance capabilities on the fringes of inhabited space.
-player_impact: Pilots delivered essential materials and components to Noti Dock to support construction of the Alliance outpost.
+summary: Alliance Prime Minister Edmund Mahon announces the completion of the Cooper
+  Research Centre outpost in HIP 19072. The station will serve scientific research
+  and bolster Alliance reconnaissance capabilities on the fringes of inhabited space.
+player_impact: Pilots delivered essential materials and components to Noti Dock to
+  support construction of the Alliance outpost.
 persons:
 - Edmund Mahon
 groups:
@@ -20,7 +23,11 @@ arc_id: alliance-expansion
 modern_impact: Demonstrates the Alliance's growing economic and diplomatic influence.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 5e7fad32-e3d0-56dd-9273-45a2d58afa4b
+- ec7ee9bb-6ac2-51f7-a14e-8097372ddaf4
 ---
+
 
 Last month, The Alliance launched an initiative to establish a new outpost on the fringes of inhabited space. The campaign received the support of Hundreds of Alliance-aligned pilots who, along With Other members of the galactic community, delivered essential materials and components to the Alliance base at Noti Dock. 
 

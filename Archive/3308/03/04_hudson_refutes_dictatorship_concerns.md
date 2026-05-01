@@ -15,15 +15,20 @@ locations:
 topics: []
 entities: []
 arc_id: federal-politics
-modern_impact: '"President Hudson has made a public broadcast regarding his proposal to remove the single-term limit of the Federal presidency." Hudson''s rhetorical defense fails to address the fundamental constitutional precedent his proposal would shatter.'
+modern_impact: '"President Hudson has made a public broadcast regarding his proposal
+  to remove the single-term limit of the Federal presidency." Hudson''s rhetorical
+  defense fails to address the fundamental constitutional precedent his proposal would
+  shatter.'
 legacy_weight: 3
 significance: medium
 related_uuids:
+- 262ad071-9ddc-58a4-9216-527007e4f160
 - 2802af31-31af-56d3-820a-8de1dabfd0b8
 - 49fe8f11-bf29-5aad-a01a-3c8dc80d60df
 - 4fe5c0a6-b22f-549b-b11e-0eb1a9c1bac3
 - a593babc-119b-5679-9171-3c1520208d98
 ---
+
 
 President Zachary Hudson has made a public broadcast regarding his proposal to remove The single-term limit of the Federal presidency.
 Speaking from the White House on Mars, he directly addressed the anxiety that citizens have expressed about the Hudson Contravention:

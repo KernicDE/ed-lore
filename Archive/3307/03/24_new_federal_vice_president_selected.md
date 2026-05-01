@@ -29,13 +29,16 @@ modern_impact: '"This event contributed to the evolving political and security l
 legacy_weight: 5
 significance: high
 related_uuids:
-- be3889fc-d42f-5494-b1d1-fdd9dcb4223f
-- 53d46995-be97-58ec-bca6-43387e9ea9c9
-- 471b8e46-16ce-5791-b60b-9362e740c2a6
-- 67932c1d-fed0-5cc2-b9a2-8aededff61c3
 - 0ed40d37-c7a2-5252-9105-e141bc1020d5
+- 471b8e46-16ce-5791-b60b-9362e740c2a6
+- 53d46995-be97-58ec-bca6-43387e9ea9c9
+- 67932c1d-fed0-5cc2-b9a2-8aededff61c3
+- b552d00d-8b03-578d-a47d-aa396f38dedf
 - bcb1b6cb-c7ee-50fc-b6b9-8f9b1d140838
+- be3889fc-d42f-5494-b1d1-fdd9dcb4223f
+- f359d9c3-aa3c-5d56-bf91-97754c4357a9
 ---
+
 
 
 President Zachary Hudson has announced that The new vice president of the Federation is Jerome Archer, replacing the deceased Brad Mitchell.

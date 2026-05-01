@@ -4,7 +4,10 @@ title: Freelance Report  Dr Arcanonn Responds to Plea for Meta Alloys
 slug: freelance_report_dr_arcanonn_responds_to_plea_for_meta_alloys
 date: '3302-02-25'
 source: GitHub
-summary: Dr Arcanonn responds to calls for more meta-alloys to be shipped to affected stations. He questions what happened to the thousands of tonnes previously delivered to Obsidian Orbital for Professor Palin, urging the station to release remaining stock to the commodities market before returning to barnacle sites.
+summary: Dr Arcanonn responds to calls for more meta-alloys to be shipped to affected
+  stations. He questions what happened to the thousands of tonnes previously delivered
+  to Obsidian Orbital for Professor Palin, urging the station to release remaining
+  stock to the commodities market before returning to barnacle sites.
 player_impact: None
 persons:
 - Dr Arcanonn
@@ -19,10 +22,15 @@ topics:
 - ship
 - trade
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
+  and fuels the emerging Thargoid contact narrative.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 79707cce-a1a3-51f5-8c52-7946628254f1
+- 7eaaa54a-2715-5e47-8a73-ec469ab90965
 ---
+
 
 Responding to The suggestion that more meta-alloys be shipped to stations experiencing technical issues, Dr Arcanonn of the Canonn Interstellar Research Group has issued a statement: 
 

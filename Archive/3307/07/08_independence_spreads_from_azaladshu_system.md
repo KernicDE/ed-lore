@@ -4,8 +4,12 @@ title: 'Independence Spreads from Azaladshu System '
 slug: independence_spreads_from_azaladshu_system
 date: '3307-07-08'
 source: API
-summary: Azaladshu Free defeats Neche Inc and retains independence from the Federation. The victory inspires Coalition of Uteran, Lp 726-6 Free and Gluscap Labour to secede, affecting all their controlled systems. President Hudson faces criticism for failing to contain the rebellion while Winters denies orchestrating the secessions.
-player_impact: Pilots who supported Azaladshu Free collected rewards at Eratosthenes Ring station.
+summary: Azaladshu Free defeats Neche Inc and retains independence from the Federation.
+  The victory inspires Coalition of Uteran, Lp 726-6 Free and Gluscap Labour to secede,
+  affecting all their controlled systems. President Hudson faces criticism for failing
+  to contain the rebellion while Winters denies orchestrating the secessions.
+player_impact: Pilots who supported Azaladshu Free collected rewards at Eratosthenes
+  Ring station.
 persons:
 - Constanza Noguera
 - Zachary Hudson
@@ -31,13 +35,17 @@ topics:
 technologies:
 - Fortress Liberty megaship
 arc_id: federal-politics
-modern_impact: The Azaladshu victory triggers a wave of secession across Federal space, with ten systems and a billion people becoming independent. The PDB's inability to prevent the rebellion undermines its justification for mass surveillance.
+modern_impact: The Azaladshu victory triggers a wave of secession across Federal space,
+  with ten systems and a billion people becoming independent. The PDB's inability
+  to prevent the rebellion undermines its justification for mass surveillance.
 legacy_weight: 5
 significance: high
 related_uuids:
-- ef028c66-1901-5fef-af9f-2c741a9066b6
 - 222858de-4cad-5e93-8606-bf343116ee8d
+- d78b9f69-dd13-5d3c-8970-3f9237691ebe
+- ef028c66-1901-5fef-af9f-2c741a9066b6
 ---
+
 
 **Pilots Federation ALERT**
 The Azaladshu Free faction has defeated the forces of Neche Inc and retained Independence from the Federation.

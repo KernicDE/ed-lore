@@ -4,8 +4,11 @@ title: Merope Defence Initiative
 slug: merope_defence_initiative
 date: '3305-02-14'
 source: GitHub
-summary: The Atlas Research Group requests reactive armour and military grade fabrics to bolster Merope's defences against the ongoing Thargoid threat in the Pleiades Nebula.
-player_impact: Pilots could deliver military materials to Reed's Rest in Merope and earn bounties on wanted vessels in the system.
+summary: The Atlas Research Group requests reactive armour and military grade fabrics
+  to bolster Merope's defences against the ongoing Thargoid threat in the Pleiades
+  Nebula.
+player_impact: Pilots could deliver military materials to Reed's Rest in Merope and
+  earn bounties on wanted vessels in the system.
 persons:
 - Jacob Chowdhury
 groups:
@@ -19,12 +22,17 @@ topics:
 - trade
 - war
 arc_id: thargoid-contact
-modern_impact: The Merope defence campaign reflected the constant need to reinforce systems on the Thargoid frontier, where civilian infrastructure remained vulnerable despite years of conflict.
+modern_impact: The Merope defence campaign reflected the constant need to reinforce
+  systems on the Thargoid frontier, where civilian infrastructure remained vulnerable
+  despite years of conflict.
 legacy_weight: 3
 significance: medium
 related_uuids:
+- 2adfa2ab-84b2-5474-b046-a6c5e94ba2ba
+- 6b44f898-99f1-5588-ae34-f12f252d6033
 - 7bf623ab-d7be-566b-a8f8-e36c6e4a35b4
 ---
+
 
 The Atlas Research Group has urgently requested military materials to increase security in the Merope system. 
 

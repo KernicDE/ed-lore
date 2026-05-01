@@ -4,7 +4,9 @@ title: Galactic News  Empire Pulls Out of Pleiades
 slug: galactic_news_empire_pulls_out_of_pleiades
 date: '3303-10-12'
 source: GitHub
-summary: Following the Federation's withdrawal, the Empire has pulled its ships from the Pleiades Nebula, signaling the end of the Federal-Imperial cold war. The conflict began over control of meta-alloys in the Merope system.
+summary: Following the Federation's withdrawal, the Empire has pulled its ships from
+  the Pleiades Nebula, signaling the end of the Federal-Imperial cold war. The conflict
+  began over control of meta-alloys in the Merope system.
 player_impact: None
 persons:
 - Daxton Sung
@@ -23,10 +25,15 @@ technologies:
 - Majestic-class Interdictor
 - meta-alloys
 arc_id: thargoid-contact
-modern_impact: Thargoid activity escalates, fundamentally changing the galactic security landscape and driving the creation of anti-xeno defence forces.
+modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
+  landscape and driving the creation of anti-xeno defence forces.
 legacy_weight: 5
 significance: high
+related_uuids:
+- f020e08d-d11c-53e5-98bb-e1559abf4324
+- f675e842-06e7-52a1-85e7-459fc8c76f68
 ---
+
 
 In The wake of reports that the Federation has withdrawn from the Pleiades Nebula, Authorities in the region have confirmed that the Empire has followed suit. The development, predicted by Many, appears to signal the end of the Federal-Imperial cold war. 
 

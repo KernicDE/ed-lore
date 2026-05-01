@@ -31,7 +31,11 @@ modern_impact: Reopened one of the most significant mysteries in Federal politic
   with implications for the fate of former President Jasmina Halsey.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 017b4b13-508b-5372-be29-f4c3521d0d30
+- cdf680ca-c0ab-50db-9dff-085f692e72e6
 ---
+
 
 
 In May 3301, the personal Vessel of the Federal president, Starship One, disappeared en route to the Azaleach system. An investigation was promptly launched, But the fate of the vessel and her crew, Which included then-President Jasmina Halsey, could not be conclusively determined. In a statement released earlier today, Federal President Zachary Hudson announced his intention to resume the search for the ship, inspired by the discovery of the remains of the liner Antares: 

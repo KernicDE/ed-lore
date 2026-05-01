@@ -4,8 +4,15 @@ title: Breakthrough in Artefact Research
 slug: breakthrough_in_artefact_research
 date: '3301-07-10'
 source: GitHub
-summary: Dr Arcanonn's Canonn research team discovered that Unknown Artefacts emit a distorted morse code signal broadcasting the identity of the nearest celestial body. This suggests the artefacts have some basis in human technology, raising concerns about their origin. Theories range from scanners and navigational aids to Thargoid homing beacons. Dr Arcanonn's team renewed their plea to the Federal Government to release any classified information about the artefacts.
-player_impact: Explorers and researchers can continue investigating Unknown Artefacts in the Merope and Maia regions. The morse code discovery may help decode further signals.
+summary: Dr Arcanonn's Canonn research team discovered that Unknown Artefacts emit
+  a distorted morse code signal broadcasting the identity of the nearest celestial
+  body. This suggests the artefacts have some basis in human technology, raising concerns
+  about their origin. Theories range from scanners and navigational aids to Thargoid
+  homing beacons. Dr Arcanonn's team renewed their plea to the Federal Government
+  to release any classified information about the artefacts.
+player_impact: Explorers and researchers can continue investigating Unknown Artefacts
+  in the Merope and Maia regions. The morse code discovery may help decode further
+  signals.
 persons:
 - Dr Arcanonn
 groups:
@@ -19,10 +26,16 @@ topics:
 - research
 - xeno
 arc_id: unknown-artefacts
-modern_impact: Discovery that Unknown Artefacts use morse code suggests either human involvement in their creation or advanced alien knowledge of human technology, deepening the mystery.
+modern_impact: Discovery that Unknown Artefacts use morse code suggests either human
+  involvement in their creation or advanced alien knowledge of human technology, deepening
+  the mystery.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 4b65d609-766a-55a9-865e-b4a2486fd447
+- dde2fa58-f63e-5e2b-b35f-5fdd1efd8edb
 ---
+
 
 After meticulous and sometimes tedious investigation, scientists working under Dr Arcanonn have uncovered that The recently discovered "Unknown Artefacts" may have some basis in human technology. 
 

@@ -4,7 +4,10 @@ title: Freelance Report  Out of Reach, Not Out of Mind
 slug: freelance_report_out_of_reach_not_out_of_mind
 date: '3302-09-02'
 source: GitHub
-summary: The Canonn Interstellar Research Group released data from Commander Wace showing that an Unknown Probe's transmission octal number decreases when approaching the Col 70 Sector, pinpointing Col 70 Sector FY-N C21-3 as the origin point, though further investigation is blocked by a permit lock.
+summary: The Canonn Interstellar Research Group released data from Commander Wace
+  showing that an Unknown Probe's transmission octal number decreases when approaching
+  the Col 70 Sector, pinpointing Col 70 Sector FY-N C21-3 as the origin point, though
+  further investigation is blocked by a permit lock.
 player_impact: None
 persons:
 - Han Zen
@@ -16,10 +19,15 @@ locations:
 - Col 70 Sector FY-N C21-3
 technologies: []
 arc_id: pleiades-expansion
-modern_impact: The findings linked the Unknown Probe to a specific permit-locked system, setting a target for future investigation.
+modern_impact: The findings linked the Unknown Probe to a specific permit-locked system,
+  setting a target for future investigation.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 21b2b827-6963-59ed-a393-5fd26f800241
+- 6d4d44e1-595b-556d-b25d-7e2909ea5ff3
 ---
+
 
 Following recent reports of a possible alien wreck in The Pleiades, the Canonn Interstellar Research Group has released Further information about the Unknown Probe. 
 

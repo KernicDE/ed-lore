@@ -4,7 +4,9 @@ title: Alliance President Role Abolished
 slug: alliance_president_role_abolished
 date: '3305-06-21'
 source: GitHub
-summary: The Alliance Assembly votes to permanently abolish the office of President following Gibson Kincaid's crimes, and selects Admiral Tahir West of Tionisla to replace the disgraced Frederick Yamamoto on the Council of Admirals.
+summary: The Alliance Assembly votes to permanently abolish the office of President
+  following Gibson Kincaid's crimes, and selects Admiral Tahir West of Tionisla to
+  replace the disgraced Frederick Yamamoto on the Council of Admirals.
 player_impact: None — background political report.
 persons:
 - Edmund Mahon
@@ -22,12 +24,17 @@ topics:
 - politics
 - crime
 arc_id: alliance-expansion
-modern_impact: The abolition of the Alliance presidency fundamentally reshaped Alliance governance, removing a position that had proven vulnerable to authoritarian misuse and consolidating power within the Assembly and Council of Admirals.
+modern_impact: The abolition of the Alliance presidency fundamentally reshaped Alliance
+  governance, removing a position that had proven vulnerable to authoritarian misuse
+  and consolidating power within the Assembly and Council of Admirals.
 legacy_weight: 4
 significance: high
 related_uuids:
+- 3993967f-7de1-5710-9bbf-758f946fb39f
+- 508242c8-bd72-5b14-a5ce-fd74e32b0e69
 - ca0efb26-acce-53ce-bf71-ba743dd0e7d2
 ---
+
 
 The Alliance Assembly has permanently dissolved the role of President of the Alliance, following the recent revelations about Gibson Kincaid's multiple crimes. 
 

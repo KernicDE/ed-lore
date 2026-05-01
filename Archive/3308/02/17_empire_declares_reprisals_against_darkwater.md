@@ -4,8 +4,10 @@ title: Empire Declares Reprisals Against Darkwater
 slug: empire_declares_reprisals_against_darkwater
 date: '3308-02-17'
 source: API
-summary: The Empire declares Darkwater Inc a hostile military target for abducting Emperor Arissa.
-player_impact: Pilots were called to fight alongside Imperial forces against Darkwater Inc in Summerland.
+summary: The Empire declares Darkwater Inc a hostile military target for abducting
+  Emperor Arissa.
+player_impact: Pilots were called to fight alongside Imperial forces against Darkwater
+  Inc in Summerland.
 persons:
 - Arissa Lavigny-Duval
 - Ronan Brock
@@ -20,21 +22,25 @@ topics:
 - succession
 - war
 arc_id: nmla-terrorism
-modern_impact: '"Darkwater Inc in the Summerland system has been declared a hostile military target." The Empire''s declaration of war against Darkwater transforms a corporate mercenary firm into a legitimate military target for superpower retaliation.'
+modern_impact: '"Darkwater Inc in the Summerland system has been declared a hostile
+  military target." The Empire''s declaration of war against Darkwater transforms
+  a corporate mercenary firm into a legitimate military target for superpower retaliation.'
 legacy_weight: 5
 significance: high
 related_uuids:
 - 00d01961-877a-52b8-a4ce-337aaa44ae3f
-- b68796e4-4524-597f-af53-35eebba951e0
-- 9924627d-24bc-56d4-a93a-0b70b4ab322a
-- f5584566-270a-5fe5-b405-8e6f45fb1826
-- cc7f2ca4-242f-591f-8d72-4a0ef3e3bfd8
-- 7b7745c9-370b-5830-b4a1-69cded66ee9e
-- 5a196c99-74b0-5ea2-9e5f-0816128db9f5
-- e899c6a7-d0d6-5407-a5b7-8a422e4753d7
+- 280dbe53-f0ef-5bce-87d6-61bfb3138693
 - 2ea3fdf7-8814-5eda-9967-368c424dfcb0
 - 37702c1f-2c71-55fb-932e-b8dfeb29d626
+- 5a196c99-74b0-5ea2-9e5f-0816128db9f5
+- 7b7745c9-370b-5830-b4a1-69cded66ee9e
+- 9924627d-24bc-56d4-a93a-0b70b4ab322a
+- b68796e4-4524-597f-af53-35eebba951e0
+- cc7f2ca4-242f-591f-8d72-4a0ef3e3bfd8
+- e899c6a7-d0d6-5407-a5b7-8a422e4753d7
+- f5584566-270a-5fe5-b405-8e6f45fb1826
 ---
+
 
 **Pilots’ Federation ALERT**
 Darkwater Inc in The Summerland system has been declared a hostile military target for Its role in abducting Emperor Arissa Lavigny-Duval.

@@ -4,8 +4,10 @@ title: Thargoid Cultists Prepare for Religious Voyages
 slug: thargoid_cultists_prepare_for_religious_voyages
 date: '3307-08-06'
 source: API
-summary: The Far God cult outfits three megaships for missionary and pilgrimage journeys throughout the core systems, seeking converts to their Thargoid-worshipping sect.
-player_impact: Pilots observed Far God cult megaship movements throughout the core systems.
+summary: The Far God cult outfits three megaships for missionary and pilgrimage journeys
+  throughout the core systems, seeking converts to their Thargoid-worshipping sect.
+player_impact: Pilots observed Far God cult megaship movements throughout the core
+  systems.
 persons:
 - Alfred Ulyanov
 groups:
@@ -13,10 +15,15 @@ groups:
 topics:
 - alien contact
 arc_id: thargoid-contact
-modern_impact: The Far God cult remains an enduring fringe religious movement devoted to the worship of Thargoids as divine messengers.
+modern_impact: The Far God cult remains an enduring fringe religious movement devoted
+  to the worship of Thargoids as divine messengers.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 1a9ea3a2-4fff-584f-a67b-69d3588bfa7d
+- c287c2a7-76b5-56e3-b371-7a4b66fdfc6f
 ---
+
 
 Three megaships are being Populated by The Far God cult, part of their latest effort to recruit members and find their alien deity.
 The first Vessel, the Testament, will serve as a missionary ship and journey throughout the core systems, attempting to convert new followers to the Thargoid-worshipping sect.

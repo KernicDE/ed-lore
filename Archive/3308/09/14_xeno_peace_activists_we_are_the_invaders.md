@@ -4,7 +4,9 @@ title: 'Xeno-Peace Activists: ‘We Are The Invaders’'
 slug: xeno_peace_activists_we_are_the_invaders
 date: '3308-09-14'
 source: API
-summary: Xeno-peace activist Timothy Culver argues that Thargoid incursions are defensive reprisals for the Proteus Wave and mycoid bioweapon, calling for diplomatic dialogue rather than military action.
+summary: Xeno-peace activist Timothy Culver argues that Thargoid incursions are defensive
+  reprisals for the Proteus Wave and mycoid bioweapon, calling for diplomatic dialogue
+  rather than military action.
 player_impact: Not specifically mentioned — this is an activist statement.
 persons:
 - Timothy Culver
@@ -21,13 +23,18 @@ topics:
 - war
 - bioweapon
 arc_id: thargoid-titan-war
-modern_impact: The xeno-peace movement's reframing of Thargoid aggression as defensive retaliation challenges the dominant military narrative and questions humanity's own role in provoking the conflict.
+modern_impact: The xeno-peace movement's reframing of Thargoid aggression as defensive
+  retaliation challenges the dominant military narrative and questions humanity's
+  own role in provoking the conflict.
 legacy_weight: 5
 significance: high
 related_uuids:
+- 37c1d990-9c7e-5f15-833b-c15d174811f9
 - 38fb5be2-6a83-50df-95d5-b61bec0d0b64
 - 8a26f4a9-1a35-52dd-aa8f-1dff5fd3a27d
+- a0ec3597-7ec5-5cd9-923a-5bb63309eb1a
 ---
+
 
 The xeno-peace movement, which calls for communication with the Thargoids, has sought to rationalise the latest incursions.
 Despite ongoing conflicts in the 42 n Persei, Chun Pindit and Tekkeitjal systems, Thargoid aggression has been attributed to defensive measures. Reports by journalists in those systems, which have focused on the increasingly aggressive Thargoid craft, have been labelled ‘propaganda’ endorsed by major media corporations.

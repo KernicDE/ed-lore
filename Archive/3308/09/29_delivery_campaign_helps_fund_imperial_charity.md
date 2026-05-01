@@ -4,8 +4,11 @@ title: 'Delivery Campaign Helps Fund Imperial Charity '
 slug: delivery_campaign_helps_fund_imperial_charity
 date: '3308-09-29'
 source: API
-summary: The Citizens' Relief Trust campaign in Cemiess successfully procures rare luxury items for Princess Aisling's charity gala, with contributing pilots now able to collect payment and rewards.
-player_impact: Pilots who delivered rare items to Mackenzie Relay can now collect payment, with luxury vessel paint jobs made available to qualifying pilots.
+summary: The Citizens' Relief Trust campaign in Cemiess successfully procures rare
+  luxury items for Princess Aisling's charity gala, with contributing pilots now able
+  to collect payment and rewards.
+player_impact: Pilots who delivered rare items to Mackenzie Relay can now collect
+  payment, with luxury vessel paint jobs made available to qualifying pilots.
 persons:
 - Aisling Duval
 - Denton Patreus
@@ -22,12 +25,16 @@ topics:
 - humanitarian
 - war
 arc_id: thargoid-contact
-modern_impact: The successful charity campaign demonstrates Imperial nobility's willingness to mobilise private resources for wartime humanitarian relief.
+modern_impact: The successful charity campaign demonstrates Imperial nobility's willingness
+  to mobilise private resources for wartime humanitarian relief.
 legacy_weight: 4
 significance: high
 related_uuids:
+- 5fe642bd-1c0d-530e-bad6-c4d4242b8bbb
+- 8a40f4b9-eebb-59f0-8d54-b3204f69be67
 - 964ef3eb-9cc2-5f09-8038-9afcaeca1c08
 ---
+
 
 **Pilots’ Federation ALERT**
 An initiative in the Cemiess system has procured sufficient rare items to ensure a successful Citizens’ Relief Trust gala.

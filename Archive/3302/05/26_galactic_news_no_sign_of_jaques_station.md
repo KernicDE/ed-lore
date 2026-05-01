@@ -4,7 +4,10 @@ title: Galactic News  No Sign of Jaques Station
 slug: galactic_news_no_sign_of_jaques_station
 date: '3302-05-26'
 source: GitHub
-summary: Jaques Station has not been heard from since departing for Beagle Point almost a week ago. Explorers at Beagle Point report no sign of the station, and experts speculate that Unknown Artefact-related technical issues may have contributed to the disappearance.
+summary: Jaques Station has not been heard from since departing for Beagle Point almost
+  a week ago. Explorers at Beagle Point report no sign of the station, and experts
+  speculate that Unknown Artefact-related technical issues may have contributed to
+  the disappearance.
 player_impact: None
 persons:
 - Dr Kaii
@@ -22,10 +25,15 @@ topics:
 - investigation
 - ship
 arc_id: unknown-artefacts
-modern_impact: Continued research into alien artefacts advances understanding of non-human intelligence.
+modern_impact: Continued research into alien artefacts advances understanding of non-human
+  intelligence.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- b3ef7956-ed27-562f-9dd7-368002c1e992
+- d56664d5-f8e2-56ce-9a56-d3cf945ff3fb
 ---
+
 
 Two weeks ago it was announced that Jaques Station, The galaxy's most famous travelling starport, would make an incredible long-distance jump from Gliese 1269 to Beagle Point. The proposed expedition received enthusiastic support from the galactic community, Which contributed thousands of tonnes of fuel to the ambitious campaign. 
 

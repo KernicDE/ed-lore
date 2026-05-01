@@ -4,7 +4,10 @@ title: Corporatists Stalled by Jupiter Division's Defeat
 slug: corporatists_stalled_by_jupiter_divisions_defeat
 date: '3307-06-21'
 source: API
-summary: Political journalist Conrad Sterling reports that Jupiter Division's defeat has dealt a severe blow to the corporatist movement. Many companies withdrew support before the conflict ended. With Rochester imprisoned and Jupiter Division dissolved, replacement figureheads are unlikely to preserve the movement.
+summary: Political journalist Conrad Sterling reports that Jupiter Division's defeat
+  has dealt a severe blow to the corporatist movement. Many companies withdrew support
+  before the conflict ended. With Rochester imprisoned and Jupiter Division dissolved,
+  replacement figureheads are unlikely to preserve the movement.
 player_impact: None directly; this is a political analysis piece.
 persons:
 - Jupiter Rochester
@@ -26,14 +29,19 @@ topics:
 technologies:
 - Victory's Forge megaship
 arc_id: federal-politics
-modern_impact: While the corporatist movement stalls, the underlying grievances about government corruption and corporate influence that fuelled it remain, creating conditions for future political radicalisation in the Federation.
+modern_impact: While the corporatist movement stalls, the underlying grievances about
+  government corruption and corporate influence that fuelled it remain, creating conditions
+  for future political radicalisation in the Federation.
 legacy_weight: 3
 significance: medium
 related_uuids:
 - 61ab8647-32a4-5463-b38b-57ed9790e137
-- ee5b7c0a-d673-55fa-b1af-b0e73f400736
+- 9e8abda8-86a4-5b85-9b20-bd8a3bb4846f
 - e80dc871-1c60-5bbc-ab2c-32af2fdecaf5
+- ee5b7c0a-d673-55fa-b1af-b0e73f400736
+- ef028c66-1901-5fef-af9f-2c741a9066b6
 ---
+
 
 The fall of Jupiter Division has undermined the popular movement calling for the Federation to be governed by corporations.
 Conrad Sterling, political journalist for Vox Galactica, reported on developments:

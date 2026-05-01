@@ -1,5 +1,4 @@
 ---
-
 uuid: 7eaaa54a-2715-5e47-8a73-ec469ab90965
 title: Galactic News  Technological Plague Continues to Threaten Starports
 slug: galactic_news_technological_plague_continues_to_threaten_starports
@@ -79,7 +78,11 @@ modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Plei
   and fuels the emerging Thargoid contact narrative.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 11940ec2-f568-5815-bf35-386dee4a1f21
+- f45bad18-0834-5eb6-8931-f6317afe7452
 ---
+
 
 
 It has been over a month since personnel at Obsidian Orbital reported that meta-alloys had been used to alleviate The starport's ongoing technical issues. Since then, there has been widespread speculation that the meta-alloys might hold the key to eradicating the technological plague that has blighted so Many starports in recent months. But the only attempt to verify the theory was brought to an abrupt end With the mysterious disappearance of Professor Ishmael Palin, who had been researching the meta-alloys. 

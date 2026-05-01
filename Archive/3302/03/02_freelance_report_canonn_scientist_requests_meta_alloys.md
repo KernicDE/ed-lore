@@ -4,8 +4,12 @@ title: Freelance Report  Canonn Scientist Requests Meta Alloys
 slug: freelance_report_canonn_scientist_requests_meta_alloys
 date: '3302-03-02'
 source: GitHub
-summary: Professor D Luffy at Bond Hub in the Varati system appeals for meta-alloys to reverse the technological plague affecting stations. He acknowledges concerns about harvesting from barnacles but argues the needs of humanity must be balanced against caution.
-player_impact: Pilots delivered meta-alloys to Bond Hub in the Varati system to help reverse station malfunctions.
+summary: Professor D Luffy at Bond Hub in the Varati system appeals for meta-alloys
+  to reverse the technological plague affecting stations. He acknowledges concerns
+  about harvesting from barnacles but argues the needs of humanity must be balanced
+  against caution.
+player_impact: Pilots delivered meta-alloys to Bond Hub in the Varati system to help
+  reverse station malfunctions.
 persons:
 - Professor D Luffy
 groups:
@@ -18,10 +22,15 @@ topics:
 - medicine
 - research
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
+  and fuels the emerging Thargoid contact narrative.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 310c9f19-2b52-5822-a9fa-f979f83937d0
+- 55fad801-1472-5bc7-a7e1-c804230852b3
 ---
+
 
 Professor D Luffy, head of research at Bond Hub in The Varati system, has released a statement about the station's need for meta-alloys: 
 

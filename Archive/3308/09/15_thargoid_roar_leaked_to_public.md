@@ -42,10 +42,13 @@ modern_impact: The leak exposes military secrecy around HIP 22460 and brings the
 legacy_weight: 5
 significance: high
 related_uuids:
-- 38fb5be2-6a83-50df-95d5-b61bec0d0b64
 - 1a532819-1e43-5580-b3bb-f6889fbb028d
+- 264ccc18-814c-5c74-aa65-197391ceb2a7
+- 38fb5be2-6a83-50df-95d5-b61bec0d0b64
+- 964ef3eb-9cc2-5f09-8038-9afcaeca1c08
 technologies: []
 ---
+
 
 
 Classified audio-visual footage from the Battle of HIP 22460 has been anonymously submitted to several mainstream newsfeeds.

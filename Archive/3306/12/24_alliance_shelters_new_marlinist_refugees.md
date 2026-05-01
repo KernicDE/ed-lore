@@ -4,7 +4,9 @@ title: Alliance Shelters New Marlinist Refugees
 slug: alliance_shelters_new_marlinist_refugees
 date: '3306-12-24'
 source: API
-summary: Tens of thousands of Marlinist refugees claim sanctuary in Alliance space, with Prime Minister Edmund Mahon welcoming them while Councillor Nakato Kaine warns of resource limits.
+summary: Tens of thousands of Marlinist refugees claim sanctuary in Alliance space,
+  with Prime Minister Edmund Mahon welcoming them while Councillor Nakato Kaine warns
+  of resource limits.
 player_impact: None
 persons:
 - Edmund Mahon
@@ -19,7 +21,11 @@ arc_id: alliance-expansion
 modern_impact: Demonstrates the Alliance's growing economic and diplomatic influence.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 3993967f-7de1-5710-9bbf-758f946fb39f
+- 3bb67076-8b96-50e9-8b63-a7f0e82a437e
 ---
+
 
 Tens of thousands of Marlinist refugees have claimed sanctuary in Alliance space, after emigrating from The Empire to avoid political persecution.
 In recent weeks, there has been a steady stream of ex-Imperial citizens arriving at Alliance systems, mostly travelling aboard small private vessels or in the holds of cargo ships. 

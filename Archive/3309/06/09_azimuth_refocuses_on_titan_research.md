@@ -4,7 +4,8 @@ title: Azimuth Refocuses on Titan Research
 slug: azimuth_refocuses_on_titan_research
 date: '3309-06-09'
 source: API
-summary: Azimuth Biotech announces a priority focus on Thargoid Titan research, framing it as both scientific and commercial opportunity.
+summary: Azimuth Biotech announces a priority focus on Thargoid Titan research, framing
+  it as both scientific and commercial opportunity.
 player_impact: Not specifically mentioned — this is a corporate and research report.
 persons:
 - Xavier Rousseau
@@ -15,13 +16,20 @@ topics:
 - corporate expansion
 - research
 arc_id: salvation-azimuth
-modern_impact: Rousseau's questions — 'What technologies were involved in their construction? What exactly is a Titan's hull comprised of?' — show genuine scientific curiosity. The Empirical's framing — 'a kind of scientific gold rush, a race to mine nuggets of knowledge from these mysterious ships' — captures the competitive atmosphere. The observation that 'even a cross-superpower agency does not have a monopoly on xenology' challenges Aegis's dominance.
+modern_impact: Rousseau's questions — 'What technologies were involved in their construction?
+  What exactly is a Titan's hull comprised of?' — show genuine scientific curiosity.
+  The Empirical's framing — 'a kind of scientific gold rush, a race to mine nuggets
+  of knowledge from these mysterious ships' — captures the competitive atmosphere.
+  The observation that 'even a cross-superpower agency does not have a monopoly on
+  xenology' challenges Aegis's dominance.
 legacy_weight: 5
 significance: high
 related_uuids:
-- d550b561-0a99-5e53-b940-ea281f0112b6
+- 6f7afccb-b157-55b6-9874-901f66de4876
 - c9005155-18e5-5738-b25e-f178f4d372b2
+- d550b561-0a99-5e53-b940-ea281f0112b6
 ---
+
 
 Studying the Thargoid Titans has become a priority for Azimuth Biotech, which is keen to learn more about the alien motherships.
 Director Xavier Rousseau , head of the corporation’s bioscience division, was interviewed by the tech industry ICE channel On/Off Switch:

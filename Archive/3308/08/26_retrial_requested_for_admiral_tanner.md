@@ -31,8 +31,11 @@ modern_impact: Tanner's posthumous vindication exposed the injustice of his cour
   supported Azimuth.
 legacy_weight: 5
 significance: high
-related_uuids: []
+related_uuids:
+- 70a0500f-c445-5bc3-b002-a154f8dd54ad
+- 95ae8cda-f860-5bc3-8d07-81ef6842e829
 ---
+
 
 
 The Federal Attorney’s Office has called for the conviction of former admiral Aden Tanner to be reviewed in light of events in HIP 22460.

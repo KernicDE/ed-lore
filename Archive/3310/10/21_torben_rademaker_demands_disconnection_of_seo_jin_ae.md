@@ -4,7 +4,9 @@ title: Torben Rademaker Demands ‘Disconnection’ of Seo Jin-ae
 slug: torben_rademaker_demands_disconnection_of_seo_jin_ae
 date: '3310-10-21'
 source: API
-summary: Azimuth Biotech CEO Torben Rademaker demands Aegis 'disconnect' Seo Jin-ae from the Thargoid hive mind by any means necessary, claiming her link is a danger humanity cannot permit.
+summary: Azimuth Biotech CEO Torben Rademaker demands Aegis 'disconnect' Seo Jin-ae
+  from the Thargoid hive mind by any means necessary, claiming her link is a danger
+  humanity cannot permit.
 player_impact: Not specifically mentioned — this is a corporate statement article.
 persons:
 - Torben Rademaker
@@ -23,13 +25,19 @@ entities: []
 technologies:
 - Cortical implant
 arc_id: thargoid-titan-war
-modern_impact: Rademaker's statement — 'The original whistleblower of this tragic event did everybody a huge favour' — reveals his opportunism. His call to disconnect Seo 'by any means necessary' is a transparent attempt to leverage the crisis for Azimuth's benefit. The Aegis spokesperson's dismissal of his comments as 'characteristically insensitive' shows the depth of institutional hostility between Aegis and Azimuth.
+modern_impact: Rademaker's statement — 'The original whistleblower of this tragic
+  event did everybody a huge favour' — reveals his opportunism. His call to disconnect
+  Seo 'by any means necessary' is a transparent attempt to leverage the crisis for
+  Azimuth's benefit. The Aegis spokesperson's dismissal of his comments as 'characteristically
+  insensitive' shows the depth of institutional hostility between Aegis and Azimuth.
 legacy_weight: 5
 significance: high
 related_uuids:
+- 45d252a0-9caf-52f2-8438-4c6c2efabc37
 - 5a1d0dfb-328a-5005-8d29-f370641c3be4
 - f1d3e243-2009-5cfe-99b9-8ed22b563463
 ---
+
 
 Azimuth Biotech CEO Torben Rademaker has claimed that Seo Jin-ae's current medical situation is ‘dangerous’ for humanity.
 Last week, Aegis’ special advisor Seo fell into a coma following a violent seizure. Head of Aegis Alba Tesreau confirmed the incident shortly afterwards, stating that Seo was receiving the best possible care at an Aegis medical facility.

@@ -4,8 +4,12 @@ title: Community Goal  Total Eclipse
 slug: community_goal_total_eclipse
 date: '3303-08-22'
 source: GitHub
-summary: The Kpelidoog Empire Assembly announces plans to build a new Wells-class Carrier to support astronomical research. The organisation has placed an open order for titanium, semiconductors and power generators for delivery to Hipparchus Terminal in the Kpelidoog system.
-player_impact: Deliver titanium, semiconductors and power generators to Hipparchus Terminal in Kpelidoog.
+summary: The Kpelidoog Empire Assembly announces plans to build a new Wells-class
+  Carrier to support astronomical research. The organisation has placed an open order
+  for titanium, semiconductors and power generators for delivery to Hipparchus Terminal
+  in the Kpelidoog system.
+player_impact: Deliver titanium, semiconductors and power generators to Hipparchus
+  Terminal in Kpelidoog.
 persons: []
 groups:
 - Kpelidoog Empire Assembly
@@ -23,10 +27,15 @@ topics:
 technologies:
 - Wells-class Carrier
 arc_id: thargoid-contact
-modern_impact: Thargoid activity escalates, fundamentally changing the galactic security landscape and driving the creation of anti-xeno defence forces.
+modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
+  landscape and driving the creation of anti-xeno defence forces.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 1c944fdb-3a89-5a66-86a1-5463dc51f024
+- 276a97d9-9e85-56a9-a239-fdb5947de4ee
 ---
+
 
 The Kpelidoog Empire Assembly, an Imperial organisation based in the Kpelidoog system, has announced plans to build a new Wells-class Carrier to support astronomical research. 
 

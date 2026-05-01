@@ -4,8 +4,11 @@ title: Radicoida Unica Begins Blooming as New Research Initiative Announced
 slug: radicoida_unica_begins_blooming_as_new_research_initiative_announced
 date: 3312-04-02
 source: API
-summary: Radicoida unica in HIP 87621 enters bloom phase producing seed pods. October Consortium calls for harvesting to support pharmacological research. Exogene Sciences is collection point.
-player_impact: 'New CG: collect Radicoida unica seed pods at Exogene Sciences in HIP 87621. Plant entered active reproductive phase. Hazardous surface conditions.'
+summary: Radicoida unica in HIP 87621 enters bloom phase producing seed pods. October
+  Consortium calls for harvesting to support pharmacological research. Exogene Sciences
+  is collection point.
+player_impact: 'New CG: collect Radicoida unica seed pods at Exogene Sciences in HIP
+  87621. Plant entered active reproductive phase. Hazardous surface conditions.'
 groups:
 - October Consortium
 locations:
@@ -17,13 +20,18 @@ topics:
 technologies:
 - Radicoida unica
 arc_id: hip87621-conflict
-modern_impact: Active reproductive phase confirms Radicoida responds to biological proximity, suggesting possible symbiotic or sentient-adjacent behavior. Performance-enhancing seed pods entering controlled collection foreshadow potential black-market trade or tightly regulated corporate distribution of enhancement compounds.
+modern_impact: Active reproductive phase confirms Radicoida responds to biological
+  proximity, suggesting possible symbiotic or sentient-adjacent behavior. Performance-enhancing
+  seed pods entering controlled collection foreshadow potential black-market trade
+  or tightly regulated corporate distribution of enhancement compounds.
 legacy_weight: 4
 significance: high
 related_uuids:
-- ed385459-5c49-5899-ba5b-c1aaeb45d81b
 - 5a71a938-54b4-516c-a9c2-96aea2e3e6d3
+- b8f58ea5-67eb-5bfe-8477-8f3218c4afdf
+- ed385459-5c49-5899-ba5b-c1aaeb45d81b
 ---
+
 
 October Consortium has confirmed that Radicoida unica, an enigmatic flora found exclusively within HIP 87621, has entered an active reproductive phase.
 According to their scientific teams, the plant’s dormant cycle has ended, triggering the growth of hardened ‘seed pods’ across its upper platforms. These pods hold rare biological material believed to be the main source of the species highly valued physiological effects.

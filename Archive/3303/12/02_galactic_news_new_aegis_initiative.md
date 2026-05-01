@@ -1,12 +1,16 @@
 ---
-
 uuid: bec984cb-7b99-5d2b-b2c0-db79e4a2a55c
 title: Galactic News  New Aegis Initiative
 slug: galactic_news_new_aegis_initiative
 date: '3303-12-02'
 source: GitHub
-summary: Aegis has announced plans to dramatically expand its research division with over twenty new laboratories at starports across the galaxy. Professor Alba Tesreau stated the centres will study Thargoid history, biology, and psychology, and expressed hope that understanding could lead to a truce. The recruitment drive has secured some of the galaxy's best scientific minds.
-player_impact: Aegis research centres are now established at numerous starports across the galaxy, expanding access to anti-xeno research and technology.
+summary: Aegis has announced plans to dramatically expand its research division with
+  over twenty new laboratories at starports across the galaxy. Professor Alba Tesreau
+  stated the centres will study Thargoid history, biology, and psychology, and expressed
+  hope that understanding could lead to a truce. The recruitment drive has secured
+  some of the galaxy's best scientific minds.
+player_impact: Aegis research centres are now established at numerous starports across
+  the galaxy, expanding access to anti-xeno research and technology.
 persons:
 - Alba Tesreau
 groups:
@@ -33,10 +37,15 @@ topics:
 - construction
 - research
 arc_id: thargoid-contact
-modern_impact: Aegis's massive laboratory expansion represents an unprecedented investment in Thargoid research, establishing a galaxy-wide research network.
+modern_impact: Aegis's massive laboratory expansion represents an unprecedented investment
+  in Thargoid research, establishing a galaxy-wide research network.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 4e1c76e9-43ef-5b79-9977-bca46ec840e1
+- cf53e45d-7dec-5f10-9b5d-6b07fa7c53e0
 ---
+
 
 
 Aegis has announced plans to dramatically expand Its research division With the creation of over twenty new laboratories, situated at starports across The galaxy. 

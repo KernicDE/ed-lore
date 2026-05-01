@@ -1,5 +1,4 @@
 ---
-
 uuid: 31e075c4-bef3-526b-ab00-c7c737361799
 title: Galactic News  Services Suspended at Fozard Dock
 slug: galactic_news_services_suspended_at_fozard_dock
@@ -58,7 +57,11 @@ modern_impact: Continued research into alien artefacts advances understanding of
   intelligence.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 886c2379-a8dc-5b45-8c99-374ef4b9fe2b
+- b3ef7956-ed27-562f-9dd7-368002c1e992
 ---
+
 
 
 Authorities at Fozard Dock in The HIP 19934 system have announced the immediate suspension of all services due to Unknown Artefact-related interference. Starport personnel have confirmed that only docking and shipyard access remain available. This brings the total number of starports closed as a result of the technological plague to 12. The affected stations are: 

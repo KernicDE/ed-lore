@@ -4,7 +4,9 @@ title: ACT Captures Theta Group
 slug: act_captures_theta_group
 date: '3307-11-08'
 source: API
-summary: ACT arrests the NMLA's bomb-making engineers, Theta Group, but their leader Theta Seven remains at large. The group is responsible for 17 starport bombings with nearly 800,000 deaths.
+summary: ACT arrests the NMLA's bomb-making engineers, Theta Group, but their leader
+  Theta Seven remains at large. The group is responsible for 17 starport bombings
+  with nearly 800,000 deaths.
 player_impact: None
 persons:
 - Tanya Ramirez
@@ -15,10 +17,15 @@ groups:
 topics:
 - terrorism
 arc_id: nmla-terrorism
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to the Marlinist refugee crisis and the Proactive Detection Bureau.
+modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
+  the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 33336427-964a-5296-a249-9890e28a0383
+- c7a0fa08-8e07-52ae-b686-3ec9e646e83c
 ---
+
 
 The creators of the NMLA’s caustic enzyme bombs have been arrested, although the terrorist figurehead Theta Seven remains at large.
 Theta Group is directly responsible for 17 starport bombings conducted by the NMLA Across the core systems. These attacks resulted In a combined death toll of almost 800,000 people, With twice as Many suffering serious injury.

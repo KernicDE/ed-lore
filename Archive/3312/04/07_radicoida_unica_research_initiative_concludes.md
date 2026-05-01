@@ -4,8 +4,11 @@ title: Radicoida Unica Research Initiative Concludes
 slug: radicoida_unica_research_initiative_concludes
 date: 3312-04-07
 source: API
-summary: Radicoida unica in HIP 87621 enters bloom phase producing seed pods. October Consortium calls for harvesting to support pharmacological research. Exogene Sciences is collection point.
-player_impact: 'New CG: collect Radicoida unica seed pods at Exogene Sciences in HIP 87621. Plant entered active reproductive phase. Hazardous surface conditions.'
+summary: Radicoida unica in HIP 87621 enters bloom phase producing seed pods. October
+  Consortium calls for harvesting to support pharmacological research. Exogene Sciences
+  is collection point.
+player_impact: 'New CG: collect Radicoida unica seed pods at Exogene Sciences in HIP
+  87621. Plant entered active reproductive phase. Hazardous surface conditions.'
 persons:
 - Dr. Roy Casimir
 groups:
@@ -19,12 +22,18 @@ topics:
 technologies:
 - Radicoida unica
 arc_id: hip87621-conflict
-modern_impact: Mass seed pod collection provides October Consortium with unprecedented biological material stockpile. Dr. Casimir's explicit denial of a Ventura connection actually amplifies suspicion by raising the comparison, suggesting the wellness trend and Radicoida research may eventually converge in public consciousness.
+modern_impact: Mass seed pod collection provides October Consortium with unprecedented
+  biological material stockpile. Dr. Casimir's explicit denial of a Ventura connection
+  actually amplifies suspicion by raising the comparison, suggesting the wellness
+  trend and Radicoida research may eventually converge in public consciousness.
 legacy_weight: 4
 significance: high
 related_uuids:
 - 5a71a938-54b4-516c-a9c2-96aea2e3e6d3
+- 62d40e14-3815-5039-b952-23d2b03e7b6c
+- d77a9c79-d55f-5714-97bc-549423966fe1
 ---
+
 
 October Consortium has announced that the research initiative to collect Radicoida unica bloom samples was a resounding success.
 According to results reported from Exogene Sciences in HIP 87621, the number of Unica seed pods collected by Commanders has meant that research efforts will be helped significantly due to the increased availability of biological material.

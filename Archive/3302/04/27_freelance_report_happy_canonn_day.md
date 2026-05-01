@@ -4,7 +4,10 @@ title: Freelance Report  Happy Canonn Day!
 slug: freelance_report_happy_canonn_day
 date: '3302-04-27'
 source: GitHub
-summary: Dr Arcanonn marks the first anniversary of the Canonn Interstellar Research Group, reflecting on achievements including decoding Unknown Artefact Morse signals, identifying the UA 'shell' around Merope, and researching barnacles on five Pleiades planets.
+summary: Dr Arcanonn marks the first anniversary of the Canonn Interstellar Research
+  Group, reflecting on achievements including decoding Unknown Artefact Morse signals,
+  identifying the UA 'shell' around Merope, and researching barnacles on five Pleiades
+  planets.
 player_impact: None
 persons:
 - Dr Arcanonn
@@ -17,10 +20,15 @@ locations:
 topics:
 - research
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
+  and fuels the emerging Thargoid contact narrative.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 11e84b08-9a8c-5598-8fad-3e16d4f4f6e2
+- e82181bd-cca2-5880-849c-352071401ed9
 ---
+
 
 Dr Arcanonn, head of The Canonn Interstellar Research Group, has been released a statement to the media: 
 

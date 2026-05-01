@@ -4,8 +4,12 @@ title: Galactic News  Operation Andronicus Concludes
 slug: galactic_news_operation_andronicus_concludes
 date: '3303-11-10'
 source: GitHub
-summary: Admiral Aden Tanner has confirmed that Operation Andronicus reached a successful conclusion. Hundreds of pilots delivered a strategic blow to the Thargoids in the Pleiades Sector IR-W d1-55. Tanner stated that small ships piloted by seasoned Commanders are the best hope of addressing the Thargoid threat for the present.
-player_impact: Pilots who participated can collect rewards from The Oracle in the Pleiades Sector IR-W d1-55 system.
+summary: Admiral Aden Tanner has confirmed that Operation Andronicus reached a successful
+  conclusion. Hundreds of pilots delivered a strategic blow to the Thargoids in the
+  Pleiades Sector IR-W d1-55. Tanner stated that small ships piloted by seasoned Commanders
+  are the best hope of addressing the Thargoid threat for the present.
+player_impact: Pilots who participated can collect rewards from The Oracle in the
+  Pleiades Sector IR-W d1-55 system.
 persons:
 - Aden Tanner
 groups:
@@ -18,10 +22,15 @@ topics:
 - ship
 - war
 arc_id: thargoid-contact
-modern_impact: Operation Andronicus's success validates the militia approach to anti-Thargoid warfare, establishing a template for future pilot-led operations.
+modern_impact: Operation Andronicus's success validates the militia approach to anti-Thargoid
+  warfare, establishing a template for future pilot-led operations.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 4b8e9c48-235e-54a0-af71-e9979252e85a
+- ed47099e-9899-570b-a8f1-a09df4c5348e
 ---
+
 
 Admiral Aden Tanner has confirmed that Operation Andronicus has reached a successful conclusion. Hundreds of pilots supported The initiative by taking to their ships to deliver a strategic blow to the Thargoids in the Pleiades Sector IR-W d1-55. 
 

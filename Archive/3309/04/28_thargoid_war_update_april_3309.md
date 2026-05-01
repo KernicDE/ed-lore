@@ -4,8 +4,11 @@ title: 'Thargoid War Update: April 3309'
 slug: thargoid_war_update_april_3309
 date: '3309-04-28'
 source: API
-summary: Sanderlyn's monthly update covers the devastating scale of the Thargoid invasion, the Tavgi/Pichch superpower conflicts, Aegis's pulse neutraliser development, and Azimuth's struggles without Salvation.
-player_impact: Pilots continue anti-xeno operations, rescue civilians, and deliver supplies.
+summary: Sanderlyn's monthly update covers the devastating scale of the Thargoid invasion,
+  the Tavgi/Pichch superpower conflicts, Aegis's pulse neutraliser development, and
+  Azimuth's struggles without Salvation.
+player_impact: Pilots continue anti-xeno operations, rescue civilians, and deliver
+  supplies.
 persons:
 - Jade Sanderlyn
 - Torben Rademaker
@@ -20,16 +23,24 @@ topics:
 - war
 entities: []
 arc_id: thargoid-titan-war
-modern_impact: Sanderlyn's statistics — 'well over ten billion people have been directly affected by the war' — are staggering. Her framing of the Tavgi/Pichch conflicts as demonstrating how 'the Empire and Federation are prioritising the Thargoid threat above their centuries-long rivalry' is optimistic. Her dismissal of Azimuth — 'without the genius of Salvation they seem unable to contribute meaningfully' — is pointed. The rumor about Rademaker 'in contact with several weapons and industrial manufacturers' foreshadows the corporate convention.
+modern_impact: Sanderlyn's statistics — 'well over ten billion people have been directly
+  affected by the war' — are staggering. Her framing of the Tavgi/Pichch conflicts
+  as demonstrating how 'the Empire and Federation are prioritising the Thargoid threat
+  above their centuries-long rivalry' is optimistic. Her dismissal of Azimuth — 'without
+  the genius of Salvation they seem unable to contribute meaningfully' — is pointed.
+  The rumor about Rademaker 'in contact with several weapons and industrial manufacturers'
+  foreshadows the corporate convention.
 legacy_weight: 5
 significance: high
 related_uuids:
-- 8c47b45e-0c93-55aa-96ca-ca5fb68c3582
-- 34a4da27-729e-5925-83be-c352b3d06b68
-- e5597169-2e45-54d8-ac5a-f1955561c832
 - 02aaba5a-5907-5e87-b99c-48c16a11d82c
 - 0e564062-8f87-5a40-bc09-eb4c1990a495
+- 34a4da27-729e-5925-83be-c352b3d06b68
+- 8c47b45e-0c93-55aa-96ca-ca5fb68c3582
+- c44eb127-7e09-52f5-802c-b31fe5285aa9
+- e5597169-2e45-54d8-ac5a-f1955561c832
 ---
+
 
 Jade Sanderlyn’s latest report on the Thargoid invasion of the core systems has been published on Vox Galactica. 
 “Taking the broad view of the conflict does little to lift the spirits. Thargoid fleets now occupy well over a thousand systems, nearly 200 of which were once populated. Several million people have been killed or wounded by bombardments and caustic attacks. Colossal numbers have fled their homes as refugees. Some sources estimate that well over ten billion people have been directly affected by the war, but the misery and hardship it has caused is immeasurable.”

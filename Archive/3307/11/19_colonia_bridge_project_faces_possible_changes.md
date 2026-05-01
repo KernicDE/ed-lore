@@ -4,7 +4,9 @@ title: Colonia Bridge Project Faces Possible Changes
 slug: colonia_bridge_project_faces_possible_changes
 date: '3307-11-19'
 source: API
-summary: Brewer Corporation considers revising phase three of the Colonia Bridge project based on unexpectedly high community participation, with more engineered frame shift drives being manufactured as incentives.
+summary: Brewer Corporation considers revising phase three of the Colonia Bridge project
+  based on unexpectedly high community participation, with more engineered frame shift
+  drives being manufactured as incentives.
 player_impact: None
 groups:
 - Brewer Corporation
@@ -12,10 +14,15 @@ topics:
 - corporate expansion
 - engineering
 arc_id: jaques-station
-modern_impact: Colonia continues to grow as a deep-space settlement, offering new opportunities for exploration and colonisation.
+modern_impact: Colonia continues to grow as a deep-space settlement, offering new
+  opportunities for exploration and colonisation.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 3526e0a2-8066-57b9-9a91-4acfc80d23e9
+- 8c3b36c3-f675-56a5-946c-a75399220a6d
 ---
+
 
 Brewer Corporation is enhancing The travel corridor to Colonia, but details about the project’s next phase remain uncertain.
 Business-related newsfeed The Tau Ceti Journal published This feature:

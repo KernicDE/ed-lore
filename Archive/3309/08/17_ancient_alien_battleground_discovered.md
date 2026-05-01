@@ -39,10 +39,12 @@ modern_impact: Shin's theory — 'they are still following million-year-old orde
 legacy_weight: 5
 significance: high
 related_uuids:
-- 147a3c1e-ea2e-582c-8b5c-676b3075f426
 - 0359229a-57fb-5f46-bb36-52c62d71db1a
+- 147a3c1e-ea2e-582c-8b5c-676b3075f426
+- 21ac936e-6473-5e81-980f-73a1bd20c350
 - f362b55b-941d-566f-aa08-6a1ae59364b9
 ---
+
 
 
 **Pilots’ Federation ALERT**

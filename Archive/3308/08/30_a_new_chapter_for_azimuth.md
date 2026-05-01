@@ -30,8 +30,11 @@ modern_impact: Rademaker's attempt to rebrand Azimuth as a victim of radical sab
   how deeply embedded it had become in the galactic military-industrial complex.
 legacy_weight: 4
 significance: medium
-related_uuids: []
+related_uuids:
+- 213d7d9f-60b3-5c23-9485-64cef59fff16
+- 66531cb9-e9c8-5d1a-86fd-69a913467bdc
 ---
+
 
 
 Azimuth Biotech has outlined plans for the corporation’s future following the confirmation of Salvation’s death.

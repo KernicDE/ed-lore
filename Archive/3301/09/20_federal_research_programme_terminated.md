@@ -4,8 +4,15 @@ title: Federal Research Programme Terminated
 slug: federal_research_programme_terminated
 date: '3301-09-20'
 source: GitHub
-summary: The Federal research programme studying anomalous extraterrestrial objects was abruptly terminated by Fort Harrison station governor Aoishe Quaid only one week after its inauguration. Sources suggested Quaid was pressured into the decision despite her enthusiasm for the project. The quasi-organic objects, capable of broadcasting location data across vast distances, were considered the scientific find of the decade. Professor Ishmael Palin declined to comment.
-player_impact: The termination of UA research raises questions about who is suppressing information about these mysterious artefacts. Pilots should be cautious when transporting unknown artefacts, which can damage ship systems.
+summary: The Federal research programme studying anomalous extraterrestrial objects
+  was abruptly terminated by Fort Harrison station governor Aoishe Quaid only one
+  week after its inauguration. Sources suggested Quaid was pressured into the decision
+  despite her enthusiasm for the project. The quasi-organic objects, capable of broadcasting
+  location data across vast distances, were considered the scientific find of the
+  decade. Professor Ishmael Palin declined to comment.
+player_impact: The termination of UA research raises questions about who is suppressing
+  information about these mysterious artefacts. Pilots should be cautious when transporting
+  unknown artefacts, which can damage ship systems.
 persons:
 - Ishmael Palin
 - Aoishe Quaid
@@ -19,10 +26,15 @@ technologies:
 - Unknown Artefact
 - Anomalous Extraterrestrial Object
 arc_id: unknown-artefacts
-modern_impact: Advances understanding of the mysterious alien artefacts and their threat to station infrastructure.
+modern_impact: Advances understanding of the mysterious alien artefacts and their
+  threat to station infrastructure.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 4b65d609-766a-55a9-865e-b4a2486fd447
+- a9ccd499-b9ef-5bb3-be68-dfb161b531b9
 ---
+
 
 Reports have begun circulating that The Federal research programme established last week to study The so-called ‘anomalous extraterrestrial objects’ (or AEOs) has been terminated. This news comes only a week after the inauguration of the project. 
 

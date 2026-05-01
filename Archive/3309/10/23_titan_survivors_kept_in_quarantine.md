@@ -4,8 +4,11 @@ title: Titan Survivors Kept in Quarantine
 slug: titan_survivors_kept_in_quarantine
 date: '3309-10-23'
 source: API
-summary: Thousands of rescued Titan captives remain in strict quarantine across all superpowers, with Tesreau reporting positive medical outcomes but governments maintaining caution.
-player_impact: Pilots are using sub-surface extraction missiles to rescue captives from Titans.
+summary: Thousands of rescued Titan captives remain in strict quarantine across all
+  superpowers, with Tesreau reporting positive medical outcomes but governments maintaining
+  caution.
+player_impact: Pilots are using sub-surface extraction missiles to rescue captives
+  from Titans.
 persons:
 - Alba Tesreau
 - Ernesto Rios
@@ -18,13 +21,19 @@ topics:
 - war
 entities: []
 arc_id: thargoid-titan-war
-modern_impact: Tesreau's reassurance — 'otherwise they appear to be unharmed' — contrasts with government caution. Rios's observation about 'widespread concern that whatever the Thargoids had planned for their human captives was set in motion before rescue efforts began' captures public paranoia. The mention of barnacle matrix sites 'undergone enormous growth' with 'towering spires' foreshadows the spire site emergence.
+modern_impact: Tesreau's reassurance — 'otherwise they appear to be unharmed' — contrasts
+  with government caution. Rios's observation about 'widespread concern that whatever
+  the Thargoids had planned for their human captives was set in motion before rescue
+  efforts began' captures public paranoia. The mention of barnacle matrix sites 'undergone
+  enormous growth' with 'towering spires' foreshadows the spire site emergence.
 legacy_weight: 4
 significance: high
 related_uuids:
+- c9064e45-771f-5630-b3f6-b1bf74220a33
 - fc4c02ff-559f-5e50-a60f-5ae836bfa836
 - fe77f573-4833-58b0-aa08-7f2b2103c21a
 ---
+
 
 Thousands of people rescued from captivity within the Thargoid motherships remain isolated under strict medical and security protocols.
 Professor Alba Tesreau, head of Aegis, spoke at a press conference:

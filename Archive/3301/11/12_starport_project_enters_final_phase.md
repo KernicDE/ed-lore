@@ -4,8 +4,11 @@ title: Starport Project Enters Final Phase
 slug: starport_project_enters_final_phase
 date: '3301-11-12'
 source: GitHub
-summary: The Explorers' Association announces the final phase of Ocellus starport construction in the Pleiades Nebula, asking pilots to deliver Computer Components to Neville Horizons in Kaushpoos.
-player_impact: Deliver Computer Components to Neville Horizons in the Kaushpoos system to complete the Ocellus starport.
+summary: The Explorers' Association announces the final phase of Ocellus starport
+  construction in the Pleiades Nebula, asking pilots to deliver Computer Components
+  to Neville Horizons in Kaushpoos.
+player_impact: Deliver Computer Components to Neville Horizons in the Kaushpoos system
+  to complete the Ocellus starport.
 persons: []
 groups:
 - Brewer Corporation
@@ -24,10 +27,15 @@ technologies:
 - Computer Components
 - Ocellus starport
 arc_id: pleiades-expansion
-modern_impact: First deep-space starport construction in the Pleiades Nebula, opening new frontiers for exploration and potentially first contact.
+modern_impact: First deep-space starport construction in the Pleiades Nebula, opening
+  new frontiers for exploration and potentially first contact.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 4d8e5dd6-36da-556b-9b5e-2d7c61b683b4
+- 6cb9cc20-5e96-5ba6-9826-7863853ee7a3
 ---
+
 
 Two weeks ago, The Explorers' Association began work on a new Ocellus starport in the Pleiades Nebula. The project received financial support from the Brewer Corporation and Universal Cartographics, Which offered generous premiums to traders providing essential materials for the construction. Now, With the bulk of the work complete, the Explorer's Association has announced a third and final appeal for resources: 
 

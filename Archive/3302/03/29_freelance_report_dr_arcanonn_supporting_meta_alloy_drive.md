@@ -4,8 +4,12 @@ title: Freelance Report  Dr Arcanonn Supporting Meta Alloy Drive
 slug: freelance_report_dr_arcanonn_supporting_meta_alloy_drive
 date: '3302-03-29'
 source: GitHub
-summary: Dr Arcanonn supports the Pioneer's Cooperative meta-alloy drive to produce UA-resistant ship modules. The Canonn Interstellar Research Group encourages pilots to deliver meta-alloys to Obsidian Orbital in the Maia system, noting that safe UA transport will be crucial for future scientific research.
-player_impact: Pilots delivered meta-alloys to Obsidian Orbital in the Maia system to support production of UA-resistant ship modules.
+summary: Dr Arcanonn supports the Pioneer's Cooperative meta-alloy drive to produce
+  UA-resistant ship modules. The Canonn Interstellar Research Group encourages pilots
+  to deliver meta-alloys to Obsidian Orbital in the Maia system, noting that safe
+  UA transport will be crucial for future scientific research.
+player_impact: Pilots delivered meta-alloys to Obsidian Orbital in the Maia system
+  to support production of UA-resistant ship modules.
 persons:
 - Dr Arcanonn
 - Verity Gavroche
@@ -20,10 +24,15 @@ topics:
 - research
 - ship
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
+  and fuels the emerging Thargoid contact narrative.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 2ea9147c-0162-53cd-aa6c-c7b7072bf4ca
+- a74b0f2f-c9d1-5d13-95fc-9b8f765e0548
 ---
+
 
 Verity Gavroche, official correspondent for The Canonn Interstellar Research Group, has spoken to Dr Arcanonn about the meta-alloy drive from the Pioneer's Cooperative: 
 

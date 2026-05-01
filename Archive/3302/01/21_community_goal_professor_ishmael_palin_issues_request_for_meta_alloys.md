@@ -4,8 +4,13 @@ title: Community Goal  Professor Ishmael Palin Issues Request for Meta Alloys
 slug: community_goal_professor_ishmael_palin_issues_request_for_meta_alloys
 date: '3302-01-21'
 source: GitHub
-summary: Professor Ishmael Palin issued a community appeal for pilots to deliver meta-alloys to his research base at Obsidian Orbital in the Maia system. Palin hopes to determine whether the material produced by alien barnacles can counter the technological plague affecting starports across the galaxy.
-player_impact: Pilots can deliver meta-alloys to Obsidian Orbital in Maia to help Professor Palin's research and earn rewards. This is a community goal with pledged compensation for contributors.
+summary: Professor Ishmael Palin issued a community appeal for pilots to deliver meta-alloys
+  to his research base at Obsidian Orbital in the Maia system. Palin hopes to determine
+  whether the material produced by alien barnacles can counter the technological plague
+  affecting starports across the galaxy.
+player_impact: Pilots can deliver meta-alloys to Obsidian Orbital in Maia to help
+  Professor Palin's research and earn rewards. This is a community goal with pledged
+  compensation for contributors.
 persons:
 - Ishmael Palin
 locations:
@@ -18,10 +23,15 @@ topics:
 technologies:
 - meta-alloys
 arc_id: thargoid-contact
-modern_impact: The emergence of Thargoid ships marks the beginning of active alien contact, fundamentally changing humanity's place in the galaxy.
+modern_impact: The emergence of Thargoid ships marks the beginning of active alien
+  contact, fundamentally changing humanity's place in the galaxy.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 3b53790d-1669-583c-8720-2ab6d525de1c
+- 581477c5-afa7-5805-bc6b-f58e204f9bf0
 ---
+
 
 A remarkable discovery was made last week when non-human structures were Found on a number of planets in The Pleiades Nebula. These 'barnacles', As the galactic community has christened them, produce a material known as meta-alloys, the exact properties of Which are not yet known. 
 

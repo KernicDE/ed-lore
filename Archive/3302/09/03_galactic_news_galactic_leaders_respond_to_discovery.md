@@ -4,7 +4,9 @@ title: Galactic News  Galactic Leaders Respond to Discovery
 slug: galactic_news_galactic_leaders_respond_to_discovery
 date: '3302-09-03'
 source: GitHub
-summary: Emperor Arissa Lavigny-Duval, President Zachary Hudson and Alliance Prime Minister Edmund Mahon each issued statements responding to the discovery of a mysterious non-human shipwreck in the Pleiades Sector AB-W B2-4 system.
+summary: Emperor Arissa Lavigny-Duval, President Zachary Hudson and Alliance Prime
+  Minister Edmund Mahon each issued statements responding to the discovery of a mysterious
+  non-human shipwreck in the Pleiades Sector AB-W B2-4 system.
 player_impact: None
 persons:
 - Arissa Lavigny-Duval
@@ -21,10 +23,15 @@ locations:
 - Pleiades Sector AB-W B2-4
 technologies: []
 arc_id: alliance-expansion
-modern_impact: Superpower responses to the Pleiades wreck set precedents for how humanity reacts to potential alien contact.
+modern_impact: Superpower responses to the Pleiades wreck set precedents for how humanity
+  reacts to potential alien contact.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 8fe1df11-bfd3-56bf-94ab-af7e91d7e99d
+- cf5e0da0-8492-5703-91cb-940336d1e45f
 ---
+
 
 The leaders of the galaxy's major powers have responded to the discovery of a mysterious shipwreck in the Pleiades Sector AB-W B2-4 system. 
 

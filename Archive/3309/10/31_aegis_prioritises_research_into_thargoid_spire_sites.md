@@ -4,8 +4,10 @@ title: Aegis Prioritises Research into Thargoid Spire Sites
 slug: aegis_prioritises_research_into_thargoid_spire_sites
 date: '3309-10-31'
 source: API
-summary: Aegis prioritises research into rapidly evolving Thargoid spire sites, with Fonseca theorising about their purpose and Palin requesting samples.
-player_impact: Pilots can deliver compounds extracted from Thargoid spire sites to Abel Laboratory or Baird Gateway in the Arque system.
+summary: Aegis prioritises research into rapidly evolving Thargoid spire sites, with
+  Fonseca theorising about their purpose and Palin requesting samples.
+player_impact: Pilots can deliver compounds extracted from Thargoid spire sites to
+  Abel Laboratory or Baird Gateway in the Arque system.
 persons:
 - Ishmael Palin
 - Maximo Fonseca
@@ -23,13 +25,20 @@ technologies:
 - Thargoid spire sites
 - Banshee drone
 arc_id: thargoid-titan-war
-modern_impact: Fonseca's xenopolis theory — 'Some believe that each site is an alien city' — contrasts with his war-footing interpretation. Palin's industrial theory — 'the equivalent of our extraction factories... producing or refining vast quantities of mineral substances to supply the Thargoid war machine' — will prove influential. The 'Banshee' drone designation is a new enemy type. Palin's direct appeal to pilots for samples shows community involvement.
+modern_impact: Fonseca's xenopolis theory — 'Some believe that each site is an alien
+  city' — contrasts with his war-footing interpretation. Palin's industrial theory
+  — 'the equivalent of our extraction factories... producing or refining vast quantities
+  of mineral substances to supply the Thargoid war machine' — will prove influential.
+  The 'Banshee' drone designation is a new enemy type. Palin's direct appeal to pilots
+  for samples shows community involvement.
 legacy_weight: 5
 significance: high
 related_uuids:
+- a6ae28ee-ebef-5d50-8f49-597b189a1fab
 - b1f7f15b-c712-5ac1-98a3-80fad085dcb1
 - c9064e45-771f-5630-b3f6-b1bf74220a33
 ---
+
 
 The rapid evolution of Thargoid barnacle matrix sites into colossal spires has sparked intense scientific scrutiny and concern as to their purpose.
 Dr Maximo Fonseca, the Allied scientific liaison to Aegis, discussed recent developments in an article for The Empirical:

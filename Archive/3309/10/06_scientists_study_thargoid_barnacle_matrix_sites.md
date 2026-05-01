@@ -4,7 +4,9 @@ title: Scientists Study Thargoid Barnacle Matrix Sites
 slug: scientists_study_thargoid_barnacle_matrix_sites
 date: '3309-10-06'
 source: API
-summary: Aegis xenologists study newly discovered Thargoid barnacle matrix sites in the Trianguli sector, with disturbing reports from explorers and scientific analysis from Madigan.
+summary: Aegis xenologists study newly discovered Thargoid barnacle matrix sites in
+  the Trianguli sector, with disturbing reports from explorers and scientific analysis
+  from Madigan.
 player_impact: Not specifically mentioned — this is a research report.
 persons:
 - Shamus Madigan
@@ -20,13 +22,21 @@ topics:
 - research
 entities: []
 arc_id: thargoid-titan-war
-modern_impact: Aquino's vivid description — 'spear roots... like gigantic skeletal fingers reaching up through the ground' and 'The noises my audio converter picked up made me feel like they were moving' — is horror-worthy. Madigan's observation of 'violent chemical or physical processes' and the theory that 'these sites are still not completely formed' adds scientific mystery. These sites will later evolve into the spire sites.
+modern_impact: Aquino's vivid description — 'spear roots... like gigantic skeletal
+  fingers reaching up through the ground' and 'The noises my audio converter picked
+  up made me feel like they were moving' — is horror-worthy. Madigan's observation
+  of 'violent chemical or physical processes' and the theory that 'these sites are
+  still not completely formed' adds scientific mystery. These sites will later evolve
+  into the spire sites.
 legacy_weight: 4
 significance: high
 related_uuids:
 - 21e18c70-7087-5260-b54f-3ed8f18c7a9e
 - c9064e45-771f-5630-b3f6-b1bf74220a33
+- fc4c02ff-559f-5e50-a60f-5ae836bfa836
+- fe77f573-4833-58b0-aa08-7f2b2103c21a
 ---
+
 
 Aegis xenologists are focusing their efforts on the mysterious alien growths reported on multiple planets and moons in the Trianguli sector.
 These have been designated ‘Thargoid barnacle matrix sites’, due to their resemblance to the barnacles that produce meta-alloys, but are far greater in size and complexity. 

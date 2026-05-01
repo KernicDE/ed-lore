@@ -4,8 +4,12 @@ title: Community Goal  The Colonia Exodus
 slug: community_goal_the_colonia_exodus
 date: '3303-12-08'
 source: GitHub
-summary: Huge numbers of citizens are fleeing to Colonia to escape the Thargoid threat in the core systems. The Colonia Council has announced plans to establish new outposts throughout the region to accommodate the influx of immigrants, and has turned to the galactic community for construction materials.
-player_impact: Pilots can deliver construction materials to Pilkington Orbital in the Einheriar system for considerable premiums.
+summary: Huge numbers of citizens are fleeing to Colonia to escape the Thargoid threat
+  in the core systems. The Colonia Council has announced plans to establish new outposts
+  throughout the region to accommodate the influx of immigrants, and has turned to
+  the galactic community for construction materials.
+player_impact: Pilots can deliver construction materials to Pilkington Orbital in
+  the Einheriar system for considerable premiums.
 persons: []
 groups:
 - Colonia Council
@@ -18,10 +22,15 @@ topics:
 - construction
 - trade
 arc_id: thargoid-contact
-modern_impact: The Colonia Exodus demonstrates the civilian psychological impact of the Thargoid threat, driving mass migration to deep-space settlements.
+modern_impact: The Colonia Exodus demonstrates the civilian psychological impact of
+  the Thargoid threat, driving mass migration to deep-space settlements.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 97fc9503-619d-5356-927b-052f72e32d4d
+- bec984cb-7b99-5d2b-b2c0-db79e4a2a55c
 ---
+
 
 Despite the repeated assurances of the galactic authorities, Which have endeavoured to downplay the scale of the Thargoid threat, it is clear that Many of those In the core systems feel less than secure. This is evidenced by the huge numbers of citizens fleeing to Colonia, eager to escape the Thargoids. 
 

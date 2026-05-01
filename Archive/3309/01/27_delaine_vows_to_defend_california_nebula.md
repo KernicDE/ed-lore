@@ -4,7 +4,8 @@ title: Delaine Vows to Defend California Nebula
 slug: delaine_vows_to_defend_california_nebula
 date: '3309-01-27'
 source: API
-summary: Archon Delaine mobilizes the Kumo Crew to defend the California Nebula from Thargoid invasions, drawing skepticism from the Turner Research Group.
+summary: Archon Delaine mobilizes the Kumo Crew to defend the California Nebula from
+  Thargoid invasions, drawing skepticism from the Turner Research Group.
 player_impact: Not specifically mentioned — this is a territorial defense report.
 persons:
 - Archon Delaine
@@ -24,14 +25,21 @@ topics:
 - war
 entities: []
 arc_id: thargoid-titan-war
-modern_impact: '"Already the war has reached the California Nebula. But are any superpower navies racing to its defence? Of course not – the Alliance considers this colony expendable." Delaine''s rhetorical positioning of pirates as protectors of neglected colonies challenged the narrative that only superpowers could organize effective anti-xeno resistance, foreshadowing broader non-state actor involvement in the war.'
+modern_impact: '"Already the war has reached the California Nebula. But are any superpower
+  navies racing to its defence? Of course not – the Alliance considers this colony
+  expendable." Delaine''s rhetorical positioning of pirates as protectors of neglected
+  colonies challenged the narrative that only superpowers could organize effective
+  anti-xeno resistance, foreshadowing broader non-state actor involvement in the war.'
 legacy_weight: 5
 significance: high
 related_uuids:
-- 40d9b854-2973-5053-a42d-6955f8876544
-- bf2d3dff-0f0e-52cb-b06d-f6704f6b7781
 - 09d4b9af-ccaf-5d95-8847-50360aaf1af2
+- 40d9b854-2973-5053-a42d-6955f8876544
+- 55837bae-0f7a-5bc8-9a95-4fb792abd6c0
+- b639bbd6-4ffb-5d89-a8f6-8ac3f81ab73c
+- bf2d3dff-0f0e-52cb-b06d-f6704f6b7781
 ---
+
 
 **Pilots’ Federation ALERT**
 The Kumo Crew syndicate has rallied in the California Nebula to repel the region’s Thargoid invasion forces.

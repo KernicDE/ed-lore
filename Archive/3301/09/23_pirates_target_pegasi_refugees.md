@@ -4,8 +4,14 @@ title: Pirates Target Pegasi Refugees
 slug: pirates_target_pegasi_refugees
 date: '3301-09-23'
 source: GitHub
-summary: Pirates attacked refugees fleeing the Pegasi Pirate War in the Amitrite system. The overloaded and poorly equipped transports were easy prey, with families carrying prized possessions making them particularly attractive targets. The Defence Force of Amitrite warned their forces were stretched too thin and urged refugees to avoid the system or fly in convoys.
-player_impact: Combat pilots can help protect refugees in Amitrite by eliminating pirates. Bounty hunting in Amitrite is encouraged to reduce the threat to vulnerable refugee transports.
+summary: Pirates attacked refugees fleeing the Pegasi Pirate War in the Amitrite system.
+  The overloaded and poorly equipped transports were easy prey, with families carrying
+  prized possessions making them particularly attractive targets. The Defence Force
+  of Amitrite warned their forces were stretched too thin and urged refugees to avoid
+  the system or fly in convoys.
+player_impact: Combat pilots can help protect refugees in Amitrite by eliminating
+  pirates. Bounty hunting in Amitrite is encouraged to reduce the threat to vulnerable
+  refugee transports.
 persons:
 - Quade
 groups:
@@ -20,10 +26,15 @@ topics:
 - war
 technologies: []
 arc_id: kumo-crew-rise
-modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges of protecting civilian populations during pirate wars.
+modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges
+  of protecting civilian populations during pirate wars.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 3fc850f4-b172-5baf-b891-1ec2e744425a
+- 9069aed4-699d-50b4-9ca4-27efbf4560d6
 ---
+
 
 Reports are pouring in from The Amitrite system of pirate attacks on refugees fleeing The Pegasi Pirate War. The transports pouring from the Pegasi sector are often overloaded and poorly equipped, making them easy prey for the pirates. Additionally, Many of the families fleeing the region bring only their most prized possessions With them, making them particularly attractive to the miscreants who lurk in Amitrite's Many asteroid belts. 
 

@@ -4,8 +4,14 @@ title: Lugh Prepares for War
 slug: lugh_prepares_for_war
 date: '3301-03-10'
 source: GitHub
-summary: Crimson State Group representatives on Alioth were forced to depart hastily as Federal checkpoints were established around local exit points. The Federation is showing its hand in the conflict with Lugh. Ambassador Éamonn Uí Laoghaire declared Lugh a sovereign state and invoked ancient prophecy from the 'Leabhar Gabhála Lugh' that the Sons of Conn would aid Lugh in its time of need.
-player_impact: None directly; Federal military buildup around Lugh signals imminent conflict. Pilots may find opportunities to support either Federal or independence forces.
+summary: Crimson State Group representatives on Alioth were forced to depart hastily
+  as Federal checkpoints were established around local exit points. The Federation
+  is showing its hand in the conflict with Lugh. Ambassador Éamonn Uí Laoghaire declared
+  Lugh a sovereign state and invoked ancient prophecy from the 'Leabhar Gabhála Lugh'
+  that the Sons of Conn would aid Lugh in its time of need.
+player_impact: None directly; Federal military buildup around Lugh signals imminent
+  conflict. Pilots may find opportunities to support either Federal or independence
+  forces.
 persons:
 - Éamonn Uí Laoghaire
 groups:
@@ -19,10 +25,15 @@ topics:
 - war
 - independence
 arc_id: lugh-independence
-modern_impact: The Lugh independence movement challenges Federal authority and tests the Alliance's non-intervention principles.
+modern_impact: The Lugh independence movement challenges Federal authority and tests
+  the Alliance's non-intervention principles.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 9f89d17d-16f2-5dc1-a8dd-47a4dbc2f708
+- a94d2082-9eb4-5195-b274-d1f3a0195304
 ---
+
 
 Crimson State Group representatives who were still present on Alioth were forced to make a hasty departure earlier today, as reports of Federal checkpoints being established around local exit points began to hit The Alliance blogosphere.  
 

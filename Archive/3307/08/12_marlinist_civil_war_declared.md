@@ -4,8 +4,11 @@ title: Marlinist Civil War Declared
 slug: marlinist_civil_war_declared
 date: '3307-08-12'
 source: API
-summary: Civil war erupts in the Hyades Sector RO-P b6-2 system as the Exiled Marlinist Assembly of Baltah'Sine declares war on the Marlinism Reformation Party, the NMLA's political wing.
-player_impact: Independent pilots fought for either the anti-NMLA forces or the Marlinism Reformation Party.
+summary: Civil war erupts in the Hyades Sector RO-P b6-2 system as the Exiled Marlinist
+  Assembly of Baltah'Sine declares war on the Marlinism Reformation Party, the NMLA's
+  political wing.
+player_impact: Independent pilots fought for either the anti-NMLA forces or the Marlinism
+  Reformation Party.
 persons:
 - Amrita Ross
 - Octavia Volkov
@@ -18,10 +21,15 @@ groups:
 topics:
 - war
 arc_id: nmla-terrorism
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to the Marlinist refugee crisis and the Proactive Detection Bureau.
+modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
+  the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 3f7e9e50-c517-5216-bf64-2759fcfe1f62
+- 5a5a8fa2-9000-5b3d-bce9-202f78f8fbfa
 ---
+
 
 **Pilots Federation ALERT**
 Conflict has erupted in The Hyades Sector RO-P b6-2 system between two factions of the Marlinist Colonies.

@@ -4,7 +4,9 @@ title: Demands for Azimuth to Face Justice
 slug: demands_for_azimuth_to_face_justice
 date: '3308-09-21'
 source: API
-summary: Widespread calls emerge to prosecute Azimuth Biotech for its role in the HIP 22460 massacre, with Advocacy director Rhiannon Grady demanding criminal charges and CEO Torben Rademaker defending the Proteus Wave as a scientific success.
+summary: Widespread calls emerge to prosecute Azimuth Biotech for its role in the
+  HIP 22460 massacre, with Advocacy director Rhiannon Grady demanding criminal charges
+  and CEO Torben Rademaker defending the Proteus Wave as a scientific success.
 player_impact: Not specifically mentioned — this is a legal and political report.
 persons:
 - Rhiannon Grady
@@ -22,13 +24,18 @@ topics:
 - corporate expansion
 - war
 arc_id: salvation-azimuth
-modern_impact: The demands for Azimuth to face justice reflect growing public reckoning with the corporation's culpability, even as its leadership refuses to acknowledge any failure.
+modern_impact: The demands for Azimuth to face justice reflect growing public reckoning
+  with the corporation's culpability, even as its leadership refuses to acknowledge
+  any failure.
 legacy_weight: 5
 significance: high
 related_uuids:
+- 0c21bfb7-e2b2-5928-8ca2-d5f1e93df3e0
 - 1a532819-1e43-5580-b3bb-f6889fbb028d
+- cb7bdbc0-d2ed-56b3-b8e4-cc731cabc788
 - f35cafa3-82c9-523b-8b06-a2fe5cf2e6be
 ---
+
 
 There are widespread calls to bring criminal charges against Azimuth Biotech for its role in the massacre in the HIP 22460 system.
 Rhiannon Grady, director of the civil rights organisation Advocacy, told the media:

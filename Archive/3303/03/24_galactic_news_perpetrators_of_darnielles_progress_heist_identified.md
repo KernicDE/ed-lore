@@ -4,8 +4,12 @@ title: Galactic News  Perpetrators of Darnielle's Progress Heist Identified
 slug: galactic_news_perpetrators_of_darnielles_progress_heist_identified
 date: '3303-03-24'
 source: GitHub
-summary: Three of five individuals responsible for the theft of meta-alloys from Darnielle's Progress have been identified, including Commander Salomé (Kahina Tijani Loren), Raan Corsen and Tsu Annabelle Singh. The Empire placed galaxy-wide bounties on all three.
-player_impact: Pursue bounties on Salomé, Raan Corsen and Tsu Annabelle Singh. Shoot on sight.
+summary: Three of five individuals responsible for the theft of meta-alloys from Darnielle's
+  Progress have been identified, including Commander Salomé (Kahina Tijani Loren),
+  Raan Corsen and Tsu Annabelle Singh. The Empire placed galaxy-wide bounties on all
+  three.
+player_impact: Pursue bounties on Salomé, Raan Corsen and Tsu Annabelle Singh. Shoot
+  on sight.
 persons:
 - Commander Salomé
 - Kahina Tijani Loren
@@ -24,10 +28,16 @@ topics:
 - investigation
 - safety
 arc_id: barnacle-meta-alloy
-modern_impact: The identification of Salomé and her accomplices escalated the hunt for meta-alloy thieves and deepened the mystery of her survival after her presumed death.
+modern_impact: The identification of Salomé and her accomplices escalated the hunt
+  for meta-alloy thieves and deepened the mystery of her survival after her presumed
+  death.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 765ba218-1e30-57c6-abe9-c6e9d65173c5
+- b0b2232a-85c9-5e3b-9614-64d46c7495b1
 ---
+
 
 Three of The Five individuals responsible for the recent theft of meta-alloys from Darnielle's Progress have been positively identified, following analysis of starport security footage. Remarkably, One of the perpetrators has been acknowledged as Commander Salomé, also known as Kahina Tijani Loren. 
 

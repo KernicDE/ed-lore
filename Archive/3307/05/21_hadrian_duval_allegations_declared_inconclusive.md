@@ -4,7 +4,10 @@ title: Hadrian Duval Allegations Declared 'Inconclusive'
 slug: hadrian_duval_allegations_declared_inconclusive
 date: '3307-05-21'
 source: API
-summary: ACT declares evidence linking Hadrian Duval to the NMLA cannot be authenticated. Inspector Mara Klatt reports the data from Landgrave Delacroix is inconclusive and likely faked. Leo Magnus is seconded to ACT to replace the deceased Captain Niamh Seutonia.
+summary: ACT declares evidence linking Hadrian Duval to the NMLA cannot be authenticated.
+  Inspector Mara Klatt reports the data from Landgrave Delacroix is inconclusive and
+  likely faked. Leo Magnus is seconded to ACT to replace the deceased Captain Niamh
+  Seutonia.
 player_impact: None directly; this is an investigation outcome report.
 persons:
 - Hadrian Duval
@@ -27,15 +30,19 @@ topics:
 - scandal
 technologies: []
 arc_id: nmla-terrorism
-modern_impact: The inconclusive ruling clears Hadrian Duval's name but leaves lingering suspicion. It demonstrates ACT's integrity while revealing the NMLA's sophisticated disinformation capabilities.
+modern_impact: The inconclusive ruling clears Hadrian Duval's name but leaves lingering
+  suspicion. It demonstrates ACT's integrity while revealing the NMLA's sophisticated
+  disinformation capabilities.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 10f8cc7f-6af8-5ae4-b744-d3e73a0b8835
-- a63b78b8-8be0-504c-85a7-d986a0f0465a
+- 1e7e97c1-ff96-521a-b5cb-9b12f172ab76
 - 772dede3-38b5-52c6-8d0e-21a3bcf19d3e
+- a63b78b8-8be0-504c-85a7-d986a0f0465a
 - afdf0fab-5a79-5806-b284-6484d24275e1
 ---
+
 
 Evidence that Imperator Hadrian Augustus Duval masterminded The NMLA terror campaign cannot be authenticated, According to ACT.
 Inspector Mara Klatt, One of ACT’s joint leaders, delivered This report:

@@ -4,8 +4,14 @@ title: Terror in the Pegasi Sector
 slug: terror_in_the_pegasi_sector
 date: '3301-06-24'
 source: GitHub
-summary: Archon Delaine's Kumo Crew continues their expansion across the Pegasi sector, establishing new strongholds in Arawere, Huaich, LTT 16548 and San Muss. The pirate network now operates in over 160 systems, extorting protection money from millions. The Federation has declined to take an official stance despite nearly 20 billion Federation citizens living in Kumo-claimed territory. The Federal Navy acknowledged awareness of the situation but provided no operational details.
-player_impact: Pilots may encounter Kumo Crew pirates in the Pegasi sector. The Federation's lack of response leaves the region vulnerable to piracy.
+summary: Archon Delaine's Kumo Crew continues their expansion across the Pegasi sector,
+  establishing new strongholds in Arawere, Huaich, LTT 16548 and San Muss. The pirate
+  network now operates in over 160 systems, extorting protection money from millions.
+  The Federation has declined to take an official stance despite nearly 20 billion
+  Federation citizens living in Kumo-claimed territory. The Federal Navy acknowledged
+  awareness of the situation but provided no operational details.
+player_impact: Pilots may encounter Kumo Crew pirates in the Pegasi sector. The Federation's
+  lack of response leaves the region vulnerable to piracy.
 persons:
 - Archon Delaine
 groups:
@@ -23,10 +29,15 @@ topics:
 - trade
 - war
 arc_id: kumo-crew-rise
-modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges of protecting civilian populations during pirate wars.
+modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges
+  of protecting civilian populations during pirate wars.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 562b166a-7b1f-580d-8385-fdc669cfce0f
+- 77f7fa0c-282f-5fc0-abd0-2c45fb54ad8c
 ---
+
 
 Archon Delaine and his Kumo Crew have continued their seemingly unstoppable rampage across the Pegasi sector This week, With the Crew managing to establish new strongholds in Arawere, Huaich, LTT 16548 and San Muss. 
 

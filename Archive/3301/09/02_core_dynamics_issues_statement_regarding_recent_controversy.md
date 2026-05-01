@@ -4,8 +4,13 @@ title: Core Dynamics Issues Statement Regarding Recent Controversy
 slug: core_dynamics_issues_statement_regarding_recent_controversy
 date: '3301-09-02'
 source: GitHub
-summary: Core Dynamics responded to Federal Times allegations linking a board member to the Highliner Antares incident. The company stated it took safety seriously and announced the accused non-executive director would step aside during investigation. Congressman George Fallside was named as the board member. The Federal Times agreed to share information with Core Dynamics, Sirius Corporation, and law enforcement.
-player_impact: The scandal may affect Federal Navy contracts and ship availability. Pilots should watch for potential corporate shakeups at Core Dynamics.
+summary: Core Dynamics responded to Federal Times allegations linking a board member
+  to the Highliner Antares incident. The company stated it took safety seriously and
+  announced the accused non-executive director would step aside during investigation.
+  Congressman George Fallside was named as the board member. The Federal Times agreed
+  to share information with Core Dynamics, Sirius Corporation, and law enforcement.
+player_impact: The scandal may affect Federal Navy contracts and ship availability.
+  Pilots should watch for potential corporate shakeups at Core Dynamics.
 persons:
 - George Fallside
 - Nigel Smeaton
@@ -22,10 +27,15 @@ topics:
 technologies:
 - Antares
 arc_id: federal-politics
-modern_impact: Deepens the Federal political crisis around the Antares conspiracy and Vice President Smeaton's murder.
+modern_impact: Deepens the Federal political crisis around the Antares conspiracy
+  and Vice President Smeaton's murder.
 legacy_weight: 4
 significance: high
+related_uuids:
+- af01c68b-24fd-5dc7-bd85-38ca24522b88
+- f5911935-7f3f-5c4b-aea7-90de0e7334f5
 ---
+
 
 Yesterday’s revelations from The Federal Times concerning an alleged connection between a high ranking member of The Core Dynamics board and the Highliner Antares incident have finally prompted an official response from the ship manufacturer. 
 

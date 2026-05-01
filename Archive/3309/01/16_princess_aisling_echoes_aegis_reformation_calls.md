@@ -4,7 +4,8 @@ title: Princess Aisling Echoes Aegis Reformation Calls
 slug: princess_aisling_echoes_aegis_reformation_calls
 date: '3309-01-16'
 source: API
-summary: Princess Aisling Duval publicly urges Emperor Arissa Lavigny-Duval to join the Alliance and Federation in reforming Aegis to combat the Thargoid threat.
+summary: Princess Aisling Duval publicly urges Emperor Arissa Lavigny-Duval to join
+  the Alliance and Federation in reforming Aegis to combat the Thargoid threat.
 player_impact: Not specifically mentioned — this is a political report.
 persons:
 - Aisling Duval
@@ -25,15 +26,21 @@ topics:
 - war
 entities: []
 arc_id: thargoid-titan-war
-modern_impact: '"Emperor Arissa, I implore you: work with the Alliance and Federation to reform Aegis." Aisling''s public appeal challenged centuries of Imperial isolationist policy and became the catalyst for the eventual reformation of Aegis, demonstrating her growing political influence beyond charitable causes.'
+modern_impact: '"Emperor Arissa, I implore you: work with the Alliance and Federation
+  to reform Aegis." Aisling''s public appeal challenged centuries of Imperial isolationist
+  policy and became the catalyst for the eventual reformation of Aegis, demonstrating
+  her growing political influence beyond charitable causes.'
 legacy_weight: 5
 significance: high
 related_uuids:
-- 70502ec6-81e6-5614-bdae-f03fcf03dd64
-- f920072c-9b3c-53d1-9078-e6102cdc56a0
-- 996e0bf1-66fc-5a48-8c3c-1eaeccbe247e
 - 69df1032-f6ec-58b2-9b05-cbcb3c243462
+- 70502ec6-81e6-5614-bdae-f03fcf03dd64
+- 8b0086f9-372c-5557-906d-f1d12dcbc7de
+- 996e0bf1-66fc-5a48-8c3c-1eaeccbe247e
+- af414e75-9512-5bdb-a09c-4a4728a99030
+- f920072c-9b3c-53d1-9078-e6102cdc56a0
 ---
+
 
 Princess Aisling Duval has publicly asked Emperor Arissa Lavigny-Duval to reconsider pledging Imperial resources to a cross-superpower anti-xeno initiative.
 Her message was shared on all Imperial newsfeeds:

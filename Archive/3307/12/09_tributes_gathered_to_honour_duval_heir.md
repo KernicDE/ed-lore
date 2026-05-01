@@ -4,8 +4,11 @@ title: Tributes Gathered to Honour Duval Heir
 slug: tributes_gathered_to_honour_duval_heir
 date: '3307-12-09'
 source: API
-summary: Praetor Leo Magnus thanks pilots for delivering commodities to celebrate the birth of Hadrian Duval's son Hector Mordanticus Duval, while journalist Cassia Carvalho analyses the child's potential impact on Imperial succession.
-player_impact: Pilots delivered Chateau De Aegaeon, HR 7221 Wheat, Indi Bourbon and Yaso Kondi Leaf to Dyson City. Payment now available from Dyson City starport.
+summary: Praetor Leo Magnus thanks pilots for delivering commodities to celebrate
+  the birth of Hadrian Duval's son Hector Mordanticus Duval, while journalist Cassia
+  Carvalho analyses the child's potential impact on Imperial succession.
+player_impact: Pilots delivered Chateau De Aegaeon, HR 7221 Wheat, Indi Bourbon and
+  Yaso Kondi Leaf to Dyson City. Payment now available from Dyson City starport.
 persons:
 - Hadrian Duval
 - Leo Magnus
@@ -23,12 +26,15 @@ locations:
 topics:
 - succession
 arc_id: nova-imperium
-modern_impact: The birth of Hector Mordanticus Duval strengthens Hadrian Duval's claim to Imperial legitimacy and reshapes Imperial succession politics for generations.
+modern_impact: The birth of Hector Mordanticus Duval strengthens Hadrian Duval's claim
+  to Imperial legitimacy and reshapes Imperial succession politics for generations.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 0ef8061c-5c04-5669-a7d7-9792dcd75c8f
+- 1721faba-181f-5f01-b1b7-cf69569b5879
 ---
+
 
 **Pilots’ Federation ALERT**
 The birth of Hadrian Duval’s son has been celebrated in grand fashion in the Paresa system.

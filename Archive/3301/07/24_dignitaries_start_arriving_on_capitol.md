@@ -4,7 +4,11 @@ title: Dignitaries Start Arriving on Capitol
 slug: dignitaries_start_arriving_on_capitol
 date: '3301-07-24'
 source: GitHub
-summary: Dignitaries from across the Empire are arriving on Capitol for Emperor Hengist Duval's wedding to Florence Lavigny. Accommodation shortages have senators offering stays to favoured visitors. The city has a festival atmosphere, with the secure area around the Imperial Palace nicknamed 'the fragrant city' due to flowers and finery. Chancellor Anders Blaine declared the wedding day a public holiday.
+summary: Dignitaries from across the Empire are arriving on Capitol for Emperor Hengist
+  Duval's wedding to Florence Lavigny. Accommodation shortages have senators offering
+  stays to favoured visitors. The city has a festival atmosphere, with the secure
+  area around the Imperial Palace nicknamed 'the fragrant city' due to flowers and
+  finery. Chancellor Anders Blaine declared the wedding day a public holiday.
 player_impact: None
 persons:
 - Anders Blaine
@@ -22,10 +26,14 @@ topics:
 - diplomacy
 arc_id: imperial-succession
 arc_chapter: Wedding preparations
-modern_impact: Imperial wedding preparations bring the Empire together in celebration, temporarily masking underlying succession tensions.
+modern_impact: Imperial wedding preparations bring the Empire together in celebration,
+  temporarily masking underlying succession tensions.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 4924b50c-a75f-5788-bdba-6183fc5ce6f2
 ---
+
 
 In scenes reminiscent of January, dignitaries and guests from The farthest reaches of The Empire have started arriving on Capitol. Already there is a shortage of suitable accommodation for the guests, and various senators are taking advantage of This by providing places to stay for favoured visitors. 
 

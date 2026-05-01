@@ -4,7 +4,8 @@ title: Princess Aisling ‘Understood Risk of Speaking Out’
 slug: princess_aisling_understood_risk_of_speaking_out
 date: '3309-02-17'
 source: API
-summary: Princess Aisling Duval assumes oversight of the Empire's contributions to Aegis and defends her decision to defy the Emperor's isolationist decree.
+summary: Princess Aisling Duval assumes oversight of the Empire's contributions to
+  Aegis and defends her decision to defy the Emperor's isolationist decree.
 player_impact: Not specifically mentioned — this is a political report.
 persons:
 - Aisling Duval
@@ -25,14 +26,22 @@ topics:
 - diplomacy
 entities: []
 arc_id: thargoid-titan-war
-modern_impact: 'Aisling Duval stated: "Loathe though I was to defy the Emperor''s decree, every instinct told me that the Aegis initiative can develop methods of protecting the Empire from enormous losses in this war." This reveals the delicate political calculus within the Imperial court, where Aisling gambled her standing to push for collective defence—a move that could either elevate her popularity or provoke the Emperor''s wrath.'
+modern_impact: 'Aisling Duval stated: "Loathe though I was to defy the Emperor''s
+  decree, every instinct told me that the Aegis initiative can develop methods of
+  protecting the Empire from enormous losses in this war." This reveals the delicate
+  political calculus within the Imperial court, where Aisling gambled her standing
+  to push for collective defence—a move that could either elevate her popularity or
+  provoke the Emperor''s wrath.'
 legacy_weight: 5
 significance: high
 related_uuids:
+- 07c68645-2ddf-517a-ba6f-8fea0f6dd526
+- 201a0a31-f461-5ded-a815-a7b9c289c352
+- 465c6592-f3d8-5b55-9c4f-2b7b1e60f6ee
 - 9baa5b63-76a6-59a5-b2f2-2b3abca36d3c
 - df6e411a-1cfc-5b1f-be65-3e9644b00824
-- 201a0a31-f461-5ded-a815-a7b9c289c352
 ---
+
 
 Princess Aisling Duval has assumed oversight of the Empire’s contributions to the tri-superpower agency Aegis.
 She discussed her new role during an interview with The Imperial Herald:

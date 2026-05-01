@@ -4,7 +4,9 @@ title: Freelance Report  Searching for Jaques
 slug: freelance_report_searching_for_jaques
 date: '3302-06-17'
 source: GitHub
-summary: A search for Jaques Station near Beagle Point led by Commander Erimus Kamzel covers nearly 20,000 square kilometres around Darwin's Legacy but finds no trace; one pilot required Fuel Rat rescue and the search was called off due to risks.
+summary: A search for Jaques Station near Beagle Point led by Commander Erimus Kamzel
+  covers nearly 20,000 square kilometres around Darwin's Legacy but finds no trace;
+  one pilot required Fuel Rat rescue and the search was called off due to risks.
 player_impact: None
 persons:
 - Commander 'Erimus' Kamzel
@@ -26,10 +28,15 @@ topics:
 - war
 technologies: []
 arc_id: jaques-station
-modern_impact: Jaques Station's journey to Colonia establishes a new frontier settlement, opening up deep-space colonisation.
+modern_impact: Jaques Station's journey to Colonia establishes a new frontier settlement,
+  opening up deep-space colonisation.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 0634cce4-4cff-5261-81c7-4723f54899ac
+- abc03646-a8a8-5932-8f8a-0ee83fd2c9b7
 ---
+
 
 It is almost a month since Jaques departed from Gliese 1269 to Beagle Point in his specially modified Orbis Starport. Pilots from The Distant Worlds Expedition and the FGE exploration wings have been eagerly awaiting Jaques's arrival. 
 

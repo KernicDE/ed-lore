@@ -4,8 +4,13 @@ title: Prism Senator Planning New Voyage
 slug: prism_senator_planning_new_voyage
 date: '3301-05-02'
 source: GitHub
-summary: Leaked images from the Avalon shipyards suggest Senator Kahina Tijani Loren's Imperial Courier 'Seven Veils' is undergoing significant upgrades to drives, shields and frame-shift drive components. Loren has been seen at Imperial social events but has not spoken to the press since returning from Sol, fuelling speculation she may be considering her own bid for power in the Imperial succession struggle.
-player_impact: None directly; political intrigue surrounding Loren's movements and ship upgrades may foreshadow future power shifts.
+summary: Leaked images from the Avalon shipyards suggest Senator Kahina Tijani Loren's
+  Imperial Courier 'Seven Veils' is undergoing significant upgrades to drives, shields
+  and frame-shift drive components. Loren has been seen at Imperial social events
+  but has not spoken to the press since returning from Sol, fuelling speculation she
+  may be considering her own bid for power in the Imperial succession struggle.
+player_impact: None directly; political intrigue surrounding Loren's movements and
+  ship upgrades may foreshadow future power shifts.
 persons:
 - Kahina Tijani Loren
 groups: []
@@ -16,10 +21,15 @@ locations:
 topics:
 - ship
 arc_id: prism-senator
-modern_impact: The Prism Senator's activities highlight cross-superpower political intrigue.
+modern_impact: The Prism Senator's activities highlight cross-superpower political
+  intrigue.
 legacy_weight: 2
 significance: medium
+related_uuids:
+- 4f1d453c-2e49-510a-aaaa-32ef3a72c321
+- b88281a3-ac5e-5a54-ac80-33250da02e67
 ---
+
 
 Leaked images from The Avalon shipyards appear to indicate that Senator Kahina Tijani Loren’s Imperial Courier, The ‘Seven Veils’, is undergoing a significant refit just weeks after her recent visit to the Sol system. 
 

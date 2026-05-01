@@ -4,8 +4,11 @@ title: Community Goal  Strengthening the Colonia Community
 slug: community_goal_strengthening_the_colonia_community
 date: '3302-10-20'
 source: GitHub
-summary: The Colonia Council launched a campaign to expand infrastructure and manufacturing facilities in the Colonia system to support future colonisation of the Colonia Nebula, requesting mined palladium deliveries to Jaques Station.
-player_impact: Pilots can deliver mined palladium to Jaques Station in the Colonia system for rewards.
+summary: The Colonia Council launched a campaign to expand infrastructure and manufacturing
+  facilities in the Colonia system to support future colonisation of the Colonia Nebula,
+  requesting mined palladium deliveries to Jaques Station.
+player_impact: Pilots can deliver mined palladium to Jaques Station in the Colonia
+  system for rewards.
 persons: []
 groups:
 - Colonia Council
@@ -17,10 +20,15 @@ topics:
 - war
 technologies: []
 arc_id: jaques-station
-modern_impact: Infrastructure expansion at Colonia supports the transformation of Jaques Station from a stranded outpost into a permanent deep-space colony.
+modern_impact: Infrastructure expansion at Colonia supports the transformation of
+  Jaques Station from a stranded outpost into a permanent deep-space colony.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 1d008296-3c57-55df-be7d-54a56e8c114f
+- fc64f61d-c9b2-5fa9-914c-7b0c588123b2
 ---
+
 
 The Colonia Council, the governing body of the Colonia system, has launched a campaign to expand infrastructure and manufacturing facilities in the region. The initiative is intended to support future colonisation of the Colonia Nebula, and address the needs of the growing Colonia community. 
 

@@ -4,7 +4,9 @@ title: Azimuth's Plan Elicits Further Reactions
 slug: azimuths_plan_elicits_further_reactions
 date: '3308-07-15'
 source: API
-summary: Prominent political figures including Archon Delaine, Yuri Grom, Zemina Torval, Hadrian Duval, Octavia Volkov, and Jasmina Halsey offer contrasting perspectives on Salvation's Proteus Wave operation in HIP 22460.
+summary: Prominent political figures including Archon Delaine, Yuri Grom, Zemina Torval,
+  Hadrian Duval, Octavia Volkov, and Jasmina Halsey offer contrasting perspectives
+  on Salvation's Proteus Wave operation in HIP 22460.
 player_impact: Not specifically mentioned — this is a political opinion piece.
 persons:
 - Archon Delaine
@@ -30,12 +32,17 @@ topics:
 - politics
 - war
 arc_id: salvation-azimuth
-modern_impact: The divergent reactions revealed how Azimuth's operation had become a Rorschach test for galactic political identities, with each leader projecting their own ideological framework onto the same military campaign.
+modern_impact: The divergent reactions revealed how Azimuth's operation had become
+  a Rorschach test for galactic political identities, with each leader projecting
+  their own ideological framework onto the same military campaign.
 legacy_weight: 4
 significance: medium
 related_uuids:
 - 0f01426c-a180-522b-9e1c-2226d9be75e7
+- 1c3d154f-c7fd-533d-b700-1ce942b570c2
+- f21fb651-0ba8-5e86-bbbf-62f93558c998
 ---
+
 
 Prominent figures on the political stage have commented on Salvation’s anti-xeno operation in the HIP 22460 system. Key points from each are collated below.
 Archon Delaine: “My opinion on the Thargoids remains the same: burn them all! As I stated at the Galactic Summit, the Kumo nation stands ready to help wipe out these alien scum.” 

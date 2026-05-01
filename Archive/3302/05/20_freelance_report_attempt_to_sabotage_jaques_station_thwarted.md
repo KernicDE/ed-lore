@@ -25,7 +25,11 @@ modern_impact: The emergence of Thargoid ships marks the beginning of active ali
 legacy_weight: 5
 significance: high
 technologies: []
+related_uuids:
+- 5ba2457a-42b5-55bb-bb05-5d8d20e35b9b
+- 9307ff89-10ea-5b2e-9eaa-6ddefc9f13b8
 ---
+
 
 
 Three individuals carrying pamphlets identifying them as members of 'The Hands of the Architects' have been apprehended at Jaques Station. Starport personnel discovered the individuals attempting to modify the station's Frame Shift Drive. 

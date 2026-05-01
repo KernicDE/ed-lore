@@ -4,8 +4,10 @@ title: 'Thargoid War Update: October 3309'
 slug: thargoid_war_update_october_3309
 date: '3309-10-30'
 source: API
-summary: Sanderlyn's monthly war update covers the successful rescue of Titan captives, the emergence of spire sites, and the improving military situation.
-player_impact: Pilots rescued many thousands from Titans and fought to liberate occupied systems.
+summary: Sanderlyn's monthly war update covers the successful rescue of Titan captives,
+  the emergence of spire sites, and the improving military situation.
+player_impact: Pilots rescued many thousands from Titans and fought to liberate occupied
+  systems.
 persons:
 - Jade Sanderlyn
 groups:
@@ -20,14 +22,22 @@ topics:
 technologies:
 - sub-surface extraction missiles
 arc_id: thargoid-titan-war
-modern_impact: Sanderlyn's relief — 'Much to my relief, the scheme is working' — reflects public sentiment. Her observation that 'abductees are permitted to communicate with their friends and families - most of whom never expected to hear from them again' is emotionally resonant. The note that 'the Thargoids occupy only a third of the territory previously conquered' quantifies the turning tide. Her closing — 'the mood among anti-xeno forces is that the tide has turned in humanity's favour' — is a rare moment of optimism.
+modern_impact: Sanderlyn's relief — 'Much to my relief, the scheme is working' — reflects
+  public sentiment. Her observation that 'abductees are permitted to communicate with
+  their friends and families - most of whom never expected to hear from them again'
+  is emotionally resonant. The note that 'the Thargoids occupy only a third of the
+  territory previously conquered' quantifies the turning tide. Her closing — 'the
+  mood among anti-xeno forces is that the tide has turned in humanity's favour' —
+  is a rare moment of optimism.
 legacy_weight: 4
 significance: high
 related_uuids:
-- fe77f573-4833-58b0-aa08-7f2b2103c21a
-- fc4c02ff-559f-5e50-a60f-5ae836bfa836
 - 21e18c70-7087-5260-b54f-3ed8f18c7a9e
+- e9caae85-48b1-549d-8e2f-04f042789e3f
+- fc4c02ff-559f-5e50-a60f-5ae836bfa836
+- fe77f573-4833-58b0-aa08-7f2b2103c21a
 ---
+
 
 Vox Galactica’s Jade Sanderlyn discusses the successful recovery of people from the Titans and developments at the new Thargoid spire sites.
 “When Aegis announced its plans to free abductees from the Thargoid motherships, I wasn’t the only one expecting the worst outcome. Turning a core mining missile into a way to extract life-support capsules from the Titans sounded extremely risky. And even if it worked, what state would these poor people be in after such a horrific experience?”

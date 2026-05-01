@@ -4,8 +4,14 @@ title: The War for Lugh
 slug: the_war_for_lugh
 date: '3301-03-13'
 source: GitHub
-summary: President Halsey officially declared war on the Crimson State Group in Lugh. The independence movement had achieved 91% approval among locals, though the Lugh for Equality Party disputed this claiming less than 30% were politically engaged. Federal pilots loyal to the Federation should sign up at Hartsfield Market, though backup may be delayed. In response, Éamonn Uí Laoghaire offered generous payouts to independent pilots supporting Lugh at Balandin Gateway.
-player_impact: Pilots can support the Federation at Hartsfield Market in Lugh or join the Crimson State Group at Balandin Gateway for generous payouts.
+summary: President Halsey officially declared war on the Crimson State Group in Lugh.
+  The independence movement had achieved 91% approval among locals, though the Lugh
+  for Equality Party disputed this claiming less than 30% were politically engaged.
+  Federal pilots loyal to the Federation should sign up at Hartsfield Market, though
+  backup may be delayed. In response, Éamonn Uí Laoghaire offered generous payouts
+  to independent pilots supporting Lugh at Balandin Gateway.
+player_impact: Pilots can support the Federation at Hartsfield Market in Lugh or join
+  the Crimson State Group at Balandin Gateway for generous payouts.
 persons:
 - Jasmina Halsey
 - Éamonn Uí Laoghaire
@@ -23,10 +29,15 @@ topics:
 - independence
 arc_id: lugh-independence
 arc_chapter: War declared
-modern_impact: Halsey's declaration of war on Lugh's independence movement triggered one of the most brutal Federal military campaigns of her presidency.
+modern_impact: Halsey's declaration of war on Lugh's independence movement triggered
+  one of the most brutal Federal military campaigns of her presidency.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 9f89d17d-16f2-5dc1-a8dd-47a4dbc2f708
+- f6c12601-b292-5356-9311-0ee90c473048
 ---
+
 
 President Halsey has today officially declared war on The Crimson State Group. 
 

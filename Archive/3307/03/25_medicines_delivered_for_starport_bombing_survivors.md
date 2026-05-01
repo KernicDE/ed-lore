@@ -41,13 +41,16 @@ modern_impact: '"This atrocity is nothing less than a declaration of war." The N
 legacy_weight: 5
 significance: high
 related_uuids:
-- ba0ab37a-3135-52b4-a668-22e5ef0700b6
-- 6efd63d0-0d68-594f-8e75-b0c5df826485
 - 53d46995-be97-58ec-bca6-43387e9ea9c9
-- be3889fc-d42f-5494-b1d1-fdd9dcb4223f
-- bcb1b6cb-c7ee-50fc-b6b9-8f9b1d140838
+- 6efd63d0-0d68-594f-8e75-b0c5df826485
+- 81935802-cfe1-5060-bd5a-d55783730845
 - b88f6ab1-b0ea-5935-9b8a-92aa25b5b3a3
+- ba0ab37a-3135-52b4-a668-22e5ef0700b6
+- bcb1b6cb-c7ee-50fc-b6b9-8f9b1d140838
+- be3889fc-d42f-5494-b1d1-fdd9dcb4223f
+- f359d9c3-aa3c-5d56-bf91-97754c4357a9
 ---
+
 
 
 **Pilots Federation ALERT**

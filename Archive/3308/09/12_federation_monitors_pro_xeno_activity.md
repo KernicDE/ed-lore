@@ -4,7 +4,9 @@ title: Federation Monitors Pro-Xeno Activity
 slug: federation_monitors_pro_xeno_activity
 date: '3308-09-12'
 source: API
-summary: The Federal Intelligence Agency reports increased Far God cult communications and growing xeno-peace sentiment following the Battle of HIP 22460, with Dr Alfred Ulyanov noting a shift toward the radical True Chapters sect.
+summary: The Federal Intelligence Agency reports increased Far God cult communications
+  and growing xeno-peace sentiment following the Battle of HIP 22460, with Dr Alfred
+  Ulyanov noting a shift toward the radical True Chapters sect.
 player_impact: Not specifically mentioned — this is an intelligence monitoring report.
 persons:
 - Bethany Blake
@@ -23,14 +25,19 @@ topics:
 - espionage
 - war
 arc_id: thargoid-titan-war
-modern_impact: The FIA's surveillance of pro-xeno groups represents a growing tension between civil liberties and security during wartime, with the True Chapters sect emerging as a radicalised offshoot of the formerly pacifistic Far God cult.
+modern_impact: The FIA's surveillance of pro-xeno groups represents a growing tension
+  between civil liberties and security during wartime, with the True Chapters sect
+  emerging as a radicalised offshoot of the formerly pacifistic Far God cult.
 legacy_weight: 5
 significance: high
 related_uuids:
-- d93a944d-c1ef-5d3e-b8e4-7f5896204c4f
 - 060f1f07-68f0-58fd-8607-4331bb789d9b
+- 264ccc18-814c-5c74-aa65-197391ceb2a7
 - 8a40f4b9-eebb-59f0-8d54-b3204f69be67
+- d93a944d-c1ef-5d3e-b8e4-7f5896204c4f
+- fba3c0e5-795f-56f8-bad3-8e119c36de4a
 ---
+
 
 The Federal Intelligence Agency has warned of heightened interest in the Far God cult and groups considered sympathetic to the Thargoids.
 Deputy Director Bethany Blake, who runs the Proactive Detection Bureau, delivered a public statement:

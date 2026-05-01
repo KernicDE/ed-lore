@@ -4,7 +4,9 @@ title: Galactic News  Further INRA Bases Discovered
 slug: galactic_news_further_inra_bases_discovered
 date: '3303-10-19'
 source: GitHub
-summary: Further abandoned INRA outposts have been discovered, revealing that the mycoid fungus was an unplanned by-product of research and was tested on living Thargoid specimens. The discoveries have prompted ethical debate across the galaxy.
+summary: Further abandoned INRA outposts have been discovered, revealing that the
+  mycoid fungus was an unplanned by-product of research and was tested on living Thargoid
+  specimens. The discoveries have prompted ethical debate across the galaxy.
 player_impact: None
 persons:
 - Nestor Cartesius
@@ -19,10 +21,15 @@ topics:
 technologies:
 - mycoid fungus
 arc_id: thargoid-contact
-modern_impact: The rediscovery of INRA sites reignited historical debate about the ethics of anti-Thargoid warfare and humanity's prior contact with the aliens.
+modern_impact: The rediscovery of INRA sites reignited historical debate about the
+  ethics of anti-Thargoid warfare and humanity's prior contact with the aliens.
 legacy_weight: 4
 significance: high
+related_uuids:
+- bbc1febe-2e73-5bd8-b87a-875c518ba8f6
+- f0322040-495a-566e-8673-9d380e324dc5
 ---
+
 
 Further abandoned Intergalactic Naval Reserve Arm outposts have been discovered in systems throughout The core. 
 

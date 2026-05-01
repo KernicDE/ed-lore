@@ -4,8 +4,11 @@ title: Community Goal  Sirius Corp. to Address Unknown Artefact Issue
 slug: community_goal_sirius_corp_to_address_unknown_artefact_issue
 date: '3303-01-19'
 source: GitHub
-summary: Sirius Corporation launches a research project to make starports more resistant to Unknown Artefact interference. The company appeals for unknown fragments, untypical shield scans, and aberrant shield pattern analysis.
-player_impact: Deliver unknown fragments, untypical shield scans and aberrant shield pattern analysis to Cormack Hub in the Procyon system.
+summary: Sirius Corporation launches a research project to make starports more resistant
+  to Unknown Artefact interference. The company appeals for unknown fragments, untypical
+  shield scans, and aberrant shield pattern analysis.
+player_impact: Deliver unknown fragments, untypical shield scans and aberrant shield
+  pattern analysis to Cormack Hub in the Procyon system.
 persons: []
 groups:
 - Sirius Corporation
@@ -19,10 +22,15 @@ topics:
 - ship
 technologies: []
 arc_id: unknown-artefacts
-modern_impact: Sirius Corporation initiates research to counter Unknown Artefact starport disruption using delivered microresources.
+modern_impact: Sirius Corporation initiates research to counter Unknown Artefact starport
+  disruption using delivered microresources.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 67440985-7708-55df-a53d-5daa29976156
+- 7fb71080-aad8-5be7-9ce7-5f240074b405
 ---
+
 
 It is widely understood that Unknown Artefacts have The ability to extract materials from their immediate environment as part of a complex self-repair process. Unfortunately, This can have disastrous effects on starships and Other forms of machinery. 
 

@@ -4,8 +4,14 @@ title: Aisling Duval Praises the Munshin System
 slug: aisling_duval_praises_the_munshin_system
 date: '3301-09-22'
 source: GitHub
-summary: Princess Aisling Duval praised relief workers in the Munshin system, calling them true examples of Imperial citizenship and heroes. She extended gratitude to the Libertas Cooperative and commanders delivering medicines to Ocrinox's Orbiter. Critics immediately accused her of overlooking Imperial Navy pilots killed in the Pegasi Pirate War, questioning where her support was for their families.
-player_impact: Pilots continuing to deliver medicines to Ocrinox's Orbiter are recognized by Princess Aisling Duval for their humanitarian efforts. However, the praise has drawn criticism from those supporting the military effort in the Pegasi Sector.
+summary: Princess Aisling Duval praised relief workers in the Munshin system, calling
+  them true examples of Imperial citizenship and heroes. She extended gratitude to
+  the Libertas Cooperative and commanders delivering medicines to Ocrinox's Orbiter.
+  Critics immediately accused her of overlooking Imperial Navy pilots killed in the
+  Pegasi Pirate War, questioning where her support was for their families.
+player_impact: Pilots continuing to deliver medicines to Ocrinox's Orbiter are recognized
+  by Princess Aisling Duval for their humanitarian efforts. However, the praise has
+  drawn criticism from those supporting the military effort in the Pegasi Sector.
 persons:
 - Aisling Duval
 - Quade
@@ -22,10 +28,15 @@ topics:
 - war
 technologies: []
 arc_id: kumo-crew-rise
-modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges of protecting civilian populations during pirate wars.
+modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges
+  of protecting civilian populations during pirate wars.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 0de387c7-3d52-5729-b094-d28d71e57acf
+- 3fc850f4-b172-5baf-b891-1ec2e744425a
 ---
+
 
 Princess Aisling Duval has issued a statement praising the efforts of relief workers in the Munshin system. 
 

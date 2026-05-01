@@ -4,7 +4,9 @@ title: 'Azimuth: A Historical Perspective (Part Two)'
 slug: azimuth_a_historical_perspective_part_two
 date: '3308-06-24'
 source: API
-summary: Part two traces Aegis from its 3303 creation through the Alexandria disaster, Admiral Tanner's rogue assault on Hind Mine, and its dissolution following the Baumann Report.
+summary: Part two traces Aegis from its 3303 creation through the Alexandria disaster,
+  Admiral Tanner's rogue assault on Hind Mine, and its dissolution following the Baumann
+  Report.
 player_impact: Not specifically mentioned — this is a historical retrospective.
 persons:
 - Aden Tanner
@@ -32,12 +34,17 @@ topics:
 - war
 - xenoarchaeology
 arc_id: salvation-azimuth
-modern_impact: The retrospective exposed how Aegis's collapse was engineered by Azimuth through the Alexandria sabotage and Salvation's provocations, revealing that the superpowers' primary anti-xeno agency was dismantled to clear the field for a corporate replacement.
+modern_impact: The retrospective exposed how Aegis's collapse was engineered by Azimuth
+  through the Alexandria sabotage and Salvation's provocations, revealing that the
+  superpowers' primary anti-xeno agency was dismantled to clear the field for a corporate
+  replacement.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 0beee1ec-da7a-57db-a67c-3a1f20eb4828
+- ec4294f3-fcc8-5a3b-932a-ed2dc3319144
 ---
+
 
 A summary of key events around the rise and fall of the tri-superpower organisation Aegis.
 The Alliance, Empire and Federation created Aegis in 3303 to lead xenological research and coordinate defensive actions against the Thargoids. With fears that the alien species might one day overwhelm human-controlled space, Aegis’s role was to spearhead the resistance against a common enemy.

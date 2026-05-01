@@ -4,8 +4,11 @@ title: Community Goal  Repair Jaques Station
 slug: community_goal_repair_jaques_station
 date: '3302-07-21'
 source: GitHub
-summary: Jaques issues an appeal for power generators, tantalum, structural regulators and energy grid assemblies to restore Jaques Station in Eol Prou RS-T d3-94 to full functionality after his failed trip to Beagle Point.
-player_impact: Deliver power generators, tantalum, structural regulators and energy grid assemblies to Jaques Station in Eol Prou RS-T d3-94.
+summary: Jaques issues an appeal for power generators, tantalum, structural regulators
+  and energy grid assemblies to restore Jaques Station in Eol Prou RS-T d3-94 to full
+  functionality after his failed trip to Beagle Point.
+player_impact: Deliver power generators, tantalum, structural regulators and energy
+  grid assemblies to Jaques Station in Eol Prou RS-T d3-94.
 persons:
 - Jaques
 groups: []
@@ -24,10 +27,15 @@ technologies:
 - energy grid assemblies
 - meta-alloys
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
+  and fuels the emerging Thargoid contact narrative.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 89386519-e920-5c88-93d3-61826131b538
+- a2f1f900-bac5-5b33-a644-ac905e715e43
 ---
+
 
 Jaques, The owner and operator of Jaques Station, has issued an appeal for commodities to repair his beleaguered starport. 
 

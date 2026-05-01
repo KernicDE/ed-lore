@@ -1,5 +1,4 @@
 ---
-
 uuid: 794356b5-0823-59c7-963d-c2051bd6feae
 title: Galactic News  Enthusiastic Response to Federal Appeal
 slug: galactic_news_enthusiastic_response_to_federal_appeal
@@ -24,7 +23,11 @@ modern_impact: Successful Federal data gathering in the Pleiades strengthens car
   coverage and supports ongoing investigation of non-human activity in the region.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 4f33523b-d9b2-5a04-a2bc-9b6a7d0479fe
+- fcd31ad3-0281-5262-be6b-e943631d1d8f
 ---
+
 
 
 A spokesperson for The Pleiades Resource Enterprise has announced that Its appeal for exploration data was enthusiastically received by the galactic community. Hundreds of pilots contributed to the campaign by sweeping the Pleiades Nebula and delivering the resultant astronomical data to PRE Logistics Support Gamma in the Pleiades Sector IH-V c2-5 system. 

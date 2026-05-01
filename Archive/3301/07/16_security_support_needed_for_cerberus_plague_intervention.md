@@ -4,8 +4,13 @@ title: Security Support Needed For Cerberus Plague Intervention
 slug: security_support_needed_for_cerberus_plague_intervention
 date: '3301-07-16'
 source: GitHub
-summary: Dajoar, Eleu, and 20 Ophiuchi declared states of emergency due to the Cerberus Plague and called on bounty hunters and combat pilots to protect relief efforts. Chief Medical Officer Carl Simmons stated it is too early to confirm mutation of the organism despite indications. A pirate gang claimed to be helping deliver supplies to those the official channels neglect.
-player_impact: Combat pilots and bounty hunters are needed in Dajoar, Eleu, and 20 Ophiuchi to protect plague relief efforts from pirate interference.
+summary: Dajoar, Eleu, and 20 Ophiuchi declared states of emergency due to the Cerberus
+  Plague and called on bounty hunters and combat pilots to protect relief efforts.
+  Chief Medical Officer Carl Simmons stated it is too early to confirm mutation of
+  the organism despite indications. A pirate gang claimed to be helping deliver supplies
+  to those the official channels neglect.
+player_impact: Combat pilots and bounty hunters are needed in Dajoar, Eleu, and 20
+  Ophiuchi to protect plague relief efforts from pirate interference.
 persons:
 - Carl Simmons
 groups:
@@ -20,10 +25,15 @@ topics:
 - medicine
 - piracy
 arc_id: cerberus-plague
-modern_impact: Cerberus Plague spreads to multiple systems, requiring military protection for humanitarian operations as the disease potentially mutates.
+modern_impact: Cerberus Plague spreads to multiple systems, requiring military protection
+  for humanitarian operations as the disease potentially mutates.
 legacy_weight: 4
 significance: high
+related_uuids:
+- af5dbb6d-8ee7-5b24-9b88-6777c8207620
+- f88d7a3d-f300-575f-ae73-132c17d22992
 ---
+
 
 With increasing reports concerning The so-called ‘Cerberus Plague’, officials from Dajoar, Eleu and 20 Ophiuchi have all declared states of emergency. They are calling on bounty hunters and combat-capable pilots in The region help protect the relief efforts.  
 

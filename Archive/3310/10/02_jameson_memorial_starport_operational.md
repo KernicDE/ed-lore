@@ -4,8 +4,11 @@ title: Jameson Memorial Starport Operational
 slug: jameson_memorial_starport_operational
 date: '3310-10-02'
 source: API
-summary: Jameson Memorial starport in Shinrarta Dezhra is fully operational again after a Thargoid incursion, with starport commander Florian Baljak praising the pilot response.
-player_impact: Pilots flocked to the defensive campaign in Shinrarta Dezhra. Over 1,600 licensed Commanders and Rescue Rangers were lost during the attack.
+summary: Jameson Memorial starport in Shinrarta Dezhra is fully operational again
+  after a Thargoid incursion, with starport commander Florian Baljak praising the
+  pilot response.
+player_impact: Pilots flocked to the defensive campaign in Shinrarta Dezhra. Over
+  1,600 licensed Commanders and Rescue Rangers were lost during the attack.
 persons:
 - Florian Baljak
 groups: []
@@ -17,13 +20,19 @@ topics:
 - humanitarian
 - war
 arc_id: thargoid-titan-war
-modern_impact: Baljak's statement reflects the importance of Jameson Memorial as a symbolic hub for pilots. The loss of over 1,600 Commanders and Rescue Rangers is one of the highest single-battle pilot casualty figures of the war. The 'particularly high' Scout kill count suggests Shinrarta Dezhra was a concentrated defensive success despite the losses.
+modern_impact: Baljak's statement reflects the importance of Jameson Memorial as a
+  symbolic hub for pilots. The loss of over 1,600 Commanders and Rescue Rangers is
+  one of the highest single-battle pilot casualty figures of the war. The 'particularly
+  high' Scout kill count suggests Shinrarta Dezhra was a concentrated defensive success
+  despite the losses.
 legacy_weight: 5
 significance: high
 related_uuids:
-- f04f8454-a964-5a70-94a4-24f7e93c8419
 - 93065842-8454-5efa-aad2-95b0b0d6e0ac
+- a6b3ef28-b9c3-54e1-928c-736df9d23c63
+- f04f8454-a964-5a70-94a4-24f7e93c8419
 ---
+
 
 The famous megamarket Jameson Memorial is once again fully operational.
 A recent Thargoid incursion into Shinrarta Dezhra caught AX forces by surprise, overwhelming the system and knocking most ports offline. Only Jameson Memorial resisted as large numbers of independent pilots flocked to the defensive campaign.

@@ -4,8 +4,10 @@ title: Theta Seven Traced to Panjabell System
 slug: theta_seven_traced_to_panjabell_system
 date: '3307-11-16'
 source: API
-summary: A decoded message reveals Theta Seven infiltrated the Far God cult and may be hiding aboard one of three megaships in the Panjabell system.
-player_impact: Commander Therion Cygni cracked the cipher key and submitted the decoded message to ACT.
+summary: A decoded message reveals Theta Seven infiltrated the Far God cult and may
+  be hiding aboard one of three megaships in the Panjabell system.
+player_impact: Commander Therion Cygni cracked the cipher key and submitted the decoded
+  message to ACT.
 persons:
 - Therion Cygni
 - Milo Castile
@@ -18,10 +20,15 @@ topics:
 - investigation
 - terrorism
 arc_id: nmla-terrorism
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to the Marlinist refugee crisis and the Proactive Detection Bureau.
+modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
+  the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 52bcc8cc-47ef-5633-879a-494ab0a77b40
+- c7a0fa08-8e07-52ae-b686-3ec9e646e83c
 ---
+
 
 **Pilots’ Federation ALERT**
 A decrypted message suggests that The NMLA leader Theta Seven avoided capture by infiltrating the Far God cult.

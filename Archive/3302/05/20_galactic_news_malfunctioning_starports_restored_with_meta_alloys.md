@@ -1,5 +1,4 @@
 ---
-
 uuid: 157b98f9-9126-5564-b254-2cbba5d2f266
 title: Galactic News  Malfunctioning Starports Restored with Meta Alloys
 slug: galactic_news_malfunctioning_starports_restored_with_meta_alloys
@@ -65,7 +64,11 @@ modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Plei
   and fuels the emerging Thargoid contact narrative.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 6d7c0e73-f33f-50b0-9ccf-ff97b2ef4c58
+- 7fbf1923-5035-5906-8ec4-af31b7588a7e
 ---
+
 
 
 Recent reports indicate that a number of starports forced to suspend services due to Unknown Artefact-related interference have been restored to normality through The application of meta-alloys. Ackerman Market in Eravate, Gabriel Enterprise in Harma, Weyn Dock in 64 Arietis and Onnes Gateway in LFT 37 are all now reported to be fully operational. 

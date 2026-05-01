@@ -4,8 +4,11 @@ title: Thargoids Attack Coalsack and Witch Head Nebulas
 slug: thargoids_attack_coalsack_and_witch_head_nebulas
 date: '3306-12-31'
 source: API
-summary: Large numbers of Thargoid vessels swarm through the Coalsack and Witch Head Nebulas in a coordinated strike, overwhelming local security and threatening newly constructed Alliance starports.
-player_impact: Independent pilots and anti-xeno squadrons were urgently requested to defend systems and prevent Thargoid domination of the nebulas.
+summary: Large numbers of Thargoid vessels swarm through the Coalsack and Witch Head
+  Nebulas in a coordinated strike, overwhelming local security and threatening newly
+  constructed Alliance starports.
+player_impact: Independent pilots and anti-xeno squadrons were urgently requested
+  to defend systems and prevent Thargoid domination of the nebulas.
 persons:
 - Aden Tanner
 groups:
@@ -15,10 +18,15 @@ topics:
 - alien contact
 - war
 arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape and drives anti-xeno defence efforts.
+modern_impact: Thargoid activity fundamentally changes the galactic security landscape
+  and drives anti-xeno defence efforts.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 40eaaec9-0df7-56f2-b5ca-61180338dd12
+- 7598afb2-602a-5ffd-bc0d-60f8e1d71a9c
 ---
+
 
 **Pilots Federation ALERT**
 Large numbers of Thargoid vessels are swarming through Multiple inhabited systems, leading to urgent calls for assistance.

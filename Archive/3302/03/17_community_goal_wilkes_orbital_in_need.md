@@ -4,8 +4,12 @@ title: Community Goal  Wilkes Orbital in Need
 slug: community_goal_wilkes_orbital_in_need
 date: '3302-03-17'
 source: GitHub
-summary: Governor Lawrence of Wilkes Orbital discovers that Professor Ishmael Palin and other rescued individuals from the Blue Hand Gang have been infected with a new strain of Cerberus Plague. An appeal for Ceremonial Heike Tea is launched to cure the infected and stockpile against future outbreaks.
-player_impact: Pilots delivered Ceremonial Heike Tea to Wilkes Orbital to cure those infected with the new Cerberus Plague strain.
+summary: Governor Lawrence of Wilkes Orbital discovers that Professor Ishmael Palin
+  and other rescued individuals from the Blue Hand Gang have been infected with a
+  new strain of Cerberus Plague. An appeal for Ceremonial Heike Tea is launched to
+  cure the infected and stockpile against future outbreaks.
+player_impact: Pilots delivered Ceremonial Heike Tea to Wilkes Orbital to cure those
+  infected with the new Cerberus Plague strain.
 persons:
 - Ishmael Palin
 - Governor Lawrence
@@ -21,10 +25,15 @@ topics:
 - medicine
 - research
 arc_id: unknown-artefacts
-modern_impact: Continued research into alien artefacts advances understanding of non-human intelligence.
+modern_impact: Continued research into alien artefacts advances understanding of non-human
+  intelligence.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 88017f0c-4b57-5668-b5a3-f08119083ac6
+- 886c2379-a8dc-5b45-8c99-374ef4b9fe2b
 ---
+
 
 The normally peaceful Wilkes Orbital has been the focus of considerable attention in recent weeks. First, the starport was at the centre of a campaign to drive the Blue Hand Gang from the Nearby Orulas system. Then authorities at the station announced that the escape pods recovered in the operation contained Professor Ishmael Palin and the Other members of his research team. Now it seems that the majority of those recovered from the criminals, including Professor Ishmael Palin, have been infected With a strain of Cerberus Plague, the deadly pathogen that claimed millions of lives last year. 
 

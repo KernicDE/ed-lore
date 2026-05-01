@@ -4,8 +4,11 @@ title: Freelance Report  Canonn Institute Opens its Doors
 slug: freelance_report_canonn_institute_opens_its_doors
 date: '3302-06-03'
 source: GitHub
-summary: The Canonn Institute in Col 285 Sector IX-T d3-43 officially opens as humanity's most advanced Unknown Artefact research centre, with Dr Arcanonn announcing an open order for UAs and meta-alloys to initiate research.
-player_impact: Deliver Unknown Artefacts and meta-alloys to the Canonn Institute to support research.
+summary: The Canonn Institute in Col 285 Sector IX-T d3-43 officially opens as humanity's
+  most advanced Unknown Artefact research centre, with Dr Arcanonn announcing an open
+  order for UAs and meta-alloys to initiate research.
+player_impact: Deliver Unknown Artefacts and meta-alloys to the Canonn Institute to
+  support research.
 persons:
 - Dr Arcanonn
 groups:
@@ -21,10 +24,15 @@ technologies:
 - Unknown Artefacts
 - meta-alloys
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
+  and fuels the emerging Thargoid contact narrative.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 5b38b42e-5f97-5321-9bc9-cc6426dfe688
+- 7fbf1923-5035-5906-8ec4-af31b7588a7e
 ---
+
 
 Humanity's newest and most advanced Unknown Artefact research centre, The Canonn Institute in Col 285 Sector IX-T d3-43, is finally open. 
 

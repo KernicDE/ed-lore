@@ -4,8 +4,11 @@ title: The Search for the Antares
 slug: the_search_for_the_antares
 date: '3301-12-22'
 source: GitHub
-summary: Sirius Corporation CEO Li Yong-Rui launches an official search for the Antares, a passenger liner lost during its maiden voyage in 3251, asking pilots to deliver wreckage components to Davy Dock in Procyon for analysis.
-player_impact: Deliver wreckage components to Davy Dock in the Procyon system to help Sirius Corporation determine the fate of the Antares.
+summary: Sirius Corporation CEO Li Yong-Rui launches an official search for the Antares,
+  a passenger liner lost during its maiden voyage in 3251, asking pilots to deliver
+  wreckage components to Davy Dock in Procyon for analysis.
+player_impact: Deliver wreckage components to Davy Dock in the Procyon system to help
+  Sirius Corporation determine the fate of the Antares.
 persons:
 - Li Yong-Rui
 groups:
@@ -21,10 +24,15 @@ topics:
 - ship
 technologies: []
 arc_id: antares-mystery
-modern_impact: Continues the investigation into the Antares disaster, a 50-year mystery with implications for hyperdrive safety.
+modern_impact: Continues the investigation into the Antares disaster, a 50-year mystery
+  with implications for hyperdrive safety.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 48fc993c-e405-5490-ae64-22990bfd99a2
+- 623f177b-b594-5c8c-8ba7-d3ad3ca7cae9
 ---
+
 
 3251 is remembered chiefly for the disappearance of the Antares, a technologically revolutionary passenger liner designed and built by the Sirius Corporation. The ship was supposed to usher In a new age in interplanetary travel, But the loss of the Vessel during Its maiden voyage tarnished the reputation of The Sirius Corporation and stalled the company's plans to develop Further superfast liners. 
 

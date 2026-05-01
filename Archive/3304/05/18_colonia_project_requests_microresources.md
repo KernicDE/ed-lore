@@ -4,8 +4,12 @@ title: Colonia Project Requests Microresources
 slug: colonia_project_requests_microresources
 date: '3304-05-18'
 source: GitHub
-summary: Scientists in Colonia led by Professor Alexei de la Vega are investigating the region's potential to support larger populations. The Colonia Co-operative is asking pilots to deliver specialised microresources to Foster Terminal in the Coeus system to support this infrastructure research.
-player_impact: Pilots can deliver microresources to Foster Terminal in the Coeus system and earn handsome payments.
+summary: Scientists in Colonia led by Professor Alexei de la Vega are investigating
+  the region's potential to support larger populations. The Colonia Co-operative is
+  asking pilots to deliver specialised microresources to Foster Terminal in the Coeus
+  system to support this infrastructure research.
+player_impact: Pilots can deliver microresources to Foster Terminal in the Coeus system
+  and earn handsome payments.
 persons:
 - Alexei de la Vega
 groups:
@@ -17,10 +21,15 @@ locations:
 topics:
 - research
 arc_id: jaques-station
-modern_impact: Colonia continues to grow as a deep-space settlement, with scientific projects charting a roadmap for regional expansion.
+modern_impact: Colonia continues to grow as a deep-space settlement, with scientific
+  projects charting a roadmap for regional expansion.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 2954f303-bda3-5779-a276-6df1a55cd62b
+- 5099d0d9-4ac9-5541-b400-60125e76f48b
 ---
+
 
 Scientists in Colonia are investigating The region’s potential to support larger populations in the future. 
 

@@ -4,8 +4,14 @@ title: Chaos in the Kumo Crew
 slug: chaos_in_the_kumo_crew
 date: '3301-06-18'
 source: GitHub
-summary: Archon Delaine's acceptance of new members into the Kumo Crew has caused infighting and infiltration, stalling their takeover of the Pegasi sector. The Pirate King is reportedly furious at chaotic and treacherous actions being carried out in his name. Kumo Crew enforcers have been dispatched to deal with the matter personally. Those blocking Kumo Crew expansion throughout Pegasi are warned they will pay the price for defiance.
-player_impact: Kumo Crew-aligned pilots should expect internal purges and enforcer crackdowns as Delaine consolidates control over his organisation.
+summary: Archon Delaine's acceptance of new members into the Kumo Crew has caused
+  infighting and infiltration, stalling their takeover of the Pegasi sector. The Pirate
+  King is reportedly furious at chaotic and treacherous actions being carried out
+  in his name. Kumo Crew enforcers have been dispatched to deal with the matter personally.
+  Those blocking Kumo Crew expansion throughout Pegasi are warned they will pay the
+  price for defiance.
+player_impact: Kumo Crew-aligned pilots should expect internal purges and enforcer
+  crackdowns as Delaine consolidates control over his organisation.
 persons:
 - Archon Delaine
 groups:
@@ -18,10 +24,15 @@ topics:
 - piracy
 - war
 arc_id: kumo-crew-rise
-modern_impact: Growing pains within the Kumo Crew reveal the difficulty of maintaining discipline while rapidly expanding a criminal empire.
+modern_impact: Growing pains within the Kumo Crew reveal the difficulty of maintaining
+  discipline while rapidly expanding a criminal empire.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 562b166a-7b1f-580d-8385-fdc669cfce0f
+- dc600c12-513e-54f9-b8c9-4d5a99383094
 ---
+
 
 Leading a piratical group is tough. The Kumo Crew is growing, but not without a struggle. Archon Delaine has always been a strong leader, and keeps the worst excesses of his lieutenants in check. In truth he leads a disparate group of criminal organisations, and recently infighting and infiltration has been rife within the Kumo Crew since Delaine began accepting new members, causing the Kumo to falter in their bid to take over the Pegasi system. 
 

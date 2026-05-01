@@ -4,8 +4,13 @@ title: Community Goal  Third Aegis Initiative
 slug: community_goal_third_aegis_initiative
 date: '3303-10-06'
 source: GitHub
-summary: Aegis has announced the third phase of its programme to counter the Thargoid threat, again requesting Thargoid-related materials from the galactic community. Professor Alba Tesreau stated that each new device requires huge quantities of Thargoid material for calibration and efficacy testing.
-player_impact: Pilots can deliver Thargoid Cyclops tissue samples, micro controllers, and explosives to Vonarburg Co-operative in the Wyrd system for reimbursement from Wyrd Jet Power Industries.
+summary: Aegis has announced the third phase of its programme to counter the Thargoid
+  threat, again requesting Thargoid-related materials from the galactic community.
+  Professor Alba Tesreau stated that each new device requires huge quantities of Thargoid
+  material for calibration and efficacy testing.
+player_impact: Pilots can deliver Thargoid Cyclops tissue samples, micro controllers,
+  and explosives to Vonarburg Co-operative in the Wyrd system for reimbursement from
+  Wyrd Jet Power Industries.
 persons:
 - Alba Tesreau
 groups:
@@ -18,10 +23,15 @@ topics:
 - alien contact
 - research
 arc_id: thargoid-contact
-modern_impact: Aegis's ongoing material collection drives are essential for developing and calibrating each generation of anti-Thargoid technology.
+modern_impact: Aegis's ongoing material collection drives are essential for developing
+  and calibrating each generation of anti-Thargoid technology.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 532ce78a-df05-518d-8c4d-ef8da5e36243
+- f819cccd-9c9f-5e6f-b587-54eb102478e0
 ---
+
 
 Aegis has announced The third phase of Its programme to counter the Thargoid threat, and is once again turning to the galactic community for the necessary Thargoid-related materials. 
 

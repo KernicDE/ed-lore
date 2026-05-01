@@ -4,8 +4,10 @@ title: Pulse Wave Xeno Scanner Now Available
 slug: pulse_wave_xeno_scanner_now_available
 date: '3309-06-01'
 source: API
-summary: Aegis begins manufacturing the pulse wave xeno scanner after a successful resource campaign, enabling data collection on Thargoid Titans.
-player_impact: Pilots delivered ceramic composites, polymers, gallium and indium to the Rabh system.
+summary: Aegis begins manufacturing the pulse wave xeno scanner after a successful
+  resource campaign, enabling data collection on Thargoid Titans.
+player_impact: Pilots delivered ceramic composites, polymers, gallium and indium to
+  the Rabh system.
 persons:
 - Alba Tesreau
 groups:
@@ -19,14 +21,19 @@ topics:
 - war
 entities: []
 arc_id: thargoid-titan-war
-modern_impact: Tesreau's framing — 'the greatest scientific opportunity in a generation' — positions the Titans as objects of study, not just threats. Her belief that 'understanding the Thargoid species... is the only path to ending the war' reflects her scientific philosophy. The tri-superpower technician collaboration shows Aegis's unifying role.
+modern_impact: Tesreau's framing — 'the greatest scientific opportunity in a generation'
+  — positions the Titans as objects of study, not just threats. Her belief that 'understanding
+  the Thargoid species... is the only path to ending the war' reflects her scientific
+  philosophy. The tri-superpower technician collaboration shows Aegis's unifying role.
 legacy_weight: 5
 significance: high
 related_uuids:
-- d550b561-0a99-5e53-b940-ea281f0112b6
-- c9005155-18e5-5738-b25e-f178f4d372b2
 - 54f3bb2e-703a-599b-8843-5dc902858042
+- c9005155-18e5-5738-b25e-f178f4d372b2
+- d550b561-0a99-5e53-b940-ea281f0112b6
+- f9fecf41-099b-5d1f-93f0-d6f472997ac9
 ---
+
 
 **Pilots’ Federation ALERT**
 An initiative in Rabh has enabled Aegis to begin manufacturing a module that gathers data about the Titans.

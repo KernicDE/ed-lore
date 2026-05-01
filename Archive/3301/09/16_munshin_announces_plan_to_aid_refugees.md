@@ -4,8 +4,14 @@ title: Munshin Announces Plan to Aid Refugees
 slug: munshin_announces_plan_to_aid_refugees
 date: '3301-09-16'
 source: GitHub
-summary: Officials at Ocrinox's Orbiter announced plans to build a state-of-the-art resettlement facility for Pegasi Pirate War refugees. The plan leverages Munshin's distance from the war, available food and jobs, and supporting infrastructure. Officials also requested urgent medical supply deliveries from the Pilots Federation and Princess Aisling Duval.
-player_impact: Pilots can deliver medical supplies to Ocrinox's Orbiter in the Munshin system to aid Pegasi Sector refugees. The humanitarian effort welcomes all transport-capable commanders.
+summary: Officials at Ocrinox's Orbiter announced plans to build a state-of-the-art
+  resettlement facility for Pegasi Pirate War refugees. The plan leverages Munshin's
+  distance from the war, available food and jobs, and supporting infrastructure. Officials
+  also requested urgent medical supply deliveries from the Pilots Federation and Princess
+  Aisling Duval.
+player_impact: Pilots can deliver medical supplies to Ocrinox's Orbiter in the Munshin
+  system to aid Pegasi Sector refugees. The humanitarian effort welcomes all transport-capable
+  commanders.
 persons:
 - Quade
 groups:
@@ -20,10 +26,15 @@ topics:
 - medicine
 technologies: []
 arc_id: kumo-crew-rise
-modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges of protecting civilian populations during pirate wars.
+modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges
+  of protecting civilian populations during pirate wars.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- c480985d-96e0-5c3a-a305-91da4a6ffbbe
+- d61bb826-4377-52de-ae4a-3ddce1c975e9
 ---
+
 
 Officials at Ocrinox's Orbiter held a press conference earlier today to announce their intention to build a state-of-The-art resettlement facility for refugees of The Pegasi Pirate War. 
 

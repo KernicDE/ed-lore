@@ -4,8 +4,15 @@ title: President Orders Attack on Nijotec
 slug: president_orders_attack_on_nijotec
 date: '3301-02-20'
 source: GitHub
-summary: President Halsey ordered an all-out assault on the Nijotec region, accusing the Nijotec Syndicate of preying on the weak and declaring that criminal independent states have 'no place in greater galactic society.' She cited the liberations of Nijotec, Banki, and BD+03 2338 as warnings to dictators. Nijotec, home to 21,500 people, was once rich in minerals but has been strip-mined to near exhaustion. The Lycan Moon Mining Corporation's abandonment of the region allowed the Syndicate to flourish.
-player_impact: Federal pilots can participate in the assault on Nijotec to combat the Nijotec Syndicate and support the liberation effort.
+summary: President Halsey ordered an all-out assault on the Nijotec region, accusing
+  the Nijotec Syndicate of preying on the weak and declaring that criminal independent
+  states have 'no place in greater galactic society.' She cited the liberations of
+  Nijotec, Banki, and BD+03 2338 as warnings to dictators. Nijotec, home to 21,500
+  people, was once rich in minerals but has been strip-mined to near exhaustion. The
+  Lycan Moon Mining Corporation's abandonment of the region allowed the Syndicate
+  to flourish.
+player_impact: Federal pilots can participate in the assault on Nijotec to combat
+  the Nijotec Syndicate and support the liberation effort.
 persons:
 - Jasmina Halsey
 groups:
@@ -23,10 +30,14 @@ topics:
 - politics
 arc_id: halsey-presidency
 arc_chapter: Halsey orders strike
-modern_impact: President Halsey's controversial military orders strain Federal politics and set the stage for her eventual removal.
+modern_impact: President Halsey's controversial military orders strain Federal politics
+  and set the stage for her eventual removal.
 legacy_weight: 4
 significance: high
+related_uuids:
+- d97415fc-1060-58ea-b5f1-6691bce40028
 ---
+
 
 In a shock announcement issued This morning, President Halsey has ordered an all out assault on The Nijotec region. 
 

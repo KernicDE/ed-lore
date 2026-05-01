@@ -4,7 +4,9 @@ title: The View from Colonia
 slug: the_view_from_colonia
 date: '3307-10-29'
 source: API
-summary: Vox Galactica's culture correspondent provides an overview of the Colonia region, its history since Jaques Station's mis-jump, and its growing economy and scientific community.
+summary: Vox Galactica's culture correspondent provides an overview of the Colonia
+  region, its history since Jaques Station's mis-jump, and its growing economy and
+  scientific community.
 player_impact: None
 persons:
 - Lishan Abara
@@ -18,10 +20,15 @@ topics:
 - humanitarian
 - research
 arc_id: jaques-station
-modern_impact: Colonia continues to grow as a deep-space settlement, offering new opportunities for exploration and colonisation.
+modern_impact: Colonia continues to grow as a deep-space settlement, offering new
+  opportunities for exploration and colonisation.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 454e1ed6-e44f-5243-848c-0928b81615e6
+- 55221925-a927-5ecb-acfb-f82d85c25a2a
 ---
+
 
 Vox Galactica’s culture correspondent Lishan Abara looks at The Colonia region, the largest enclave of humanity outside the core systems:
 “Colonia. A place that few ever see, Which exists following a computer malfunction. The famed Jaques Station suffered a mis-jump on Its scheduled journey to Beagle Point, relocating some 22,000 light years from Sol. The subsequent rescue effort led to the establishment of the first permanent base in what is now considered a new frontier for humanity.”

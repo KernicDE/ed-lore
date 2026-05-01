@@ -4,8 +4,13 @@ title: Unity Starport Officially Opens in New Yembo
 slug: unity_starport_officially_opens_in_new_yembo
 date: '3301-03-05'
 source: GitHub
-summary: The first Deep Space Exploration Platform sponsored by the Explorers' Association and Universal Cartographics officially opened in New Yembo. Thousands of commanders provided materials for the Ocellus station, which took tens of thousands of workers just three weeks to complete. After debates between EA and UC committee members, the station was named Unity in honour of the collaborative effort.
-player_impact: Pilots who contributed materials helped build Unity Starport, a new deep-space exploration hub on the edges of human-occupied space.
+summary: The first Deep Space Exploration Platform sponsored by the Explorers' Association
+  and Universal Cartographics officially opened in New Yembo. Thousands of commanders
+  provided materials for the Ocellus station, which took tens of thousands of workers
+  just three weeks to complete. After debates between EA and UC committee members,
+  the station was named Unity in honour of the collaborative effort.
+player_impact: Pilots who contributed materials helped build Unity Starport, a new
+  deep-space exploration hub on the edges of human-occupied space.
 persons: []
 groups:
 - Universal Cartographics
@@ -16,10 +21,14 @@ topics:
 - construction
 - exploration
 arc_id: pleiades-expansion
-modern_impact: First deep-space starport construction in the Pleiades Nebula, opening new frontiers for exploration and potentially first contact.
+modern_impact: First deep-space starport construction in the Pleiades Nebula, opening
+  new frontiers for exploration and potentially first contact.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 1bd962a4-bfa3-585d-b8e2-da4332eec95a
 ---
+
 
 Today marks The official opening of The first Deep Space Exploration Platform being sponsored by the Explorers’ Association in conjunction With Universal Cartographics. The station will initially be housed in New Yembo, a resource rich system on the outer edges of human-occupied space. 
 

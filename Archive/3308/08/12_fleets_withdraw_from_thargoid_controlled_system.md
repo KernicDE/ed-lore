@@ -34,8 +34,11 @@ modern_impact: The superpowers' admission of defeat in HIP 22460 shattered the i
   planetary security forces across the core systems braced for mass invasion.
 legacy_weight: 5
 significance: high
-related_uuids: []
+related_uuids:
+- 4a1970bd-317f-518d-95da-22551e7e7907
+- c896dd55-b9b3-5552-9038-07a79049f0bb
 ---
+
 
 
 The Alliance, Empire and Federation have confirmed that the remains of their anti-xeno taskforces have fully retreated from the HIP 22460 system.

@@ -4,8 +4,11 @@ title: Zende Partners Requests Guardian Commodities
 slug: zende_partners_requests_guardian_commodities
 date: '3305-05-16'
 source: GitHub
-summary: Zende Partners calls for increased deliveries of Guardian commodities to The Prospect in Synuefe EN-H d11-96, seeking to secure a technology broker licence and stimulate further research into the extinct civilisation.
-player_impact: Pilots could collect Guardian commodities from nearby ruins and deliver them to The Prospect.
+summary: Zende Partners calls for increased deliveries of Guardian commodities to
+  The Prospect in Synuefe EN-H d11-96, seeking to secure a technology broker licence
+  and stimulate further research into the extinct civilisation.
+player_impact: Pilots could collect Guardian commodities from nearby ruins and deliver
+  them to The Prospect.
 persons:
 - Freya Taine
 groups:
@@ -19,14 +22,17 @@ topics:
 - trade
 - xenoarchaeology
 arc_id: guardian-ancients
-modern_impact: The commodity drive secured Zende Partners' foothold in Guardian space and accelerated the commercialisation of Guardian-human hybrid technology modules.
+modern_impact: The commodity drive secured Zende Partners' foothold in Guardian space
+  and accelerated the commercialisation of Guardian-human hybrid technology modules.
 legacy_weight: 4
 significance: high
 related_uuids:
+- 131bcfd7-f26c-5fbf-a041-85731e6a9b55
+- 21ac936e-6473-5e81-980f-73a1bd20c350
 - 5426beaf-d365-5437-971a-d9f64409abf7
 - 782581af-3169-5d69-bae8-6418c16cbb47
-- 131bcfd7-f26c-5fbf-a041-85731e6a9b55
 ---
+
 
 Zende Partners has called for increased deliveries of Guardian commodities in Synuefe EN-H d11-96, The newly established hub for Guardian-human technological research. 
 

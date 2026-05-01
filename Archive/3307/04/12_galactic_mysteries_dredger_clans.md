@@ -4,8 +4,12 @@ title: 'Galactic Mysteries: Dredger Clans'
 slug: galactic_mysteries_dredger_clans
 date: '3307-04-12'
 source: API
-summary: Erik Gunnarson of Wallglass Investigations discusses the nomadic Dredger Clans — tribes living in converted bulk cruisers that roam deep space, scavenging and occasionally raiding. He mentions the Phagos clan's terrifying reputation and rumours of a rarely seen clan resurfacing.
-player_impact: Explorers may encounter Dredger Clans while travelling through the galaxy's fringes.
+summary: Erik Gunnarson of Wallglass Investigations discusses the nomadic Dredger
+  Clans — tribes living in converted bulk cruisers that roam deep space, scavenging
+  and occasionally raiding. He mentions the Phagos clan's terrifying reputation and
+  rumours of a rarely seen clan resurfacing.
+player_impact: Explorers may encounter Dredger Clans while travelling through the
+  galaxy's fringes.
 persons:
 - Erik Gunnarson
 - Francesca Wolfe
@@ -20,13 +24,17 @@ technologies:
 - Hyperdrive
 - Fuel scoop
 arc_id: formidine-rift
-modern_impact: The article foreshadows the discovery of the Scriveners Clan alongside the Hesperus, revealing that dredgers are more than folklore — they are living, evolving societies with their own cultures and agendas.
+modern_impact: The article foreshadows the discovery of the Scriveners Clan alongside
+  the Hesperus, revealing that dredgers are more than folklore — they are living,
+  evolving societies with their own cultures and agendas.
 legacy_weight: 3
 significance: medium
 related_uuids:
 - 218ec85d-706e-5e3d-bb5b-9a63e443707c
 - 29d5b1ad-189d-542d-b21b-ab8e21422a28
+- 62af4a63-c187-5f32-a237-8f4108056a43
 ---
+
 
 Erik Gunnarson of The Wallglass Investigations Agency discusses the nomadic tribes that wander the galaxy in converted Dredger megaships.
 “It’s well known that there are Many travelling communities – groups of people who prefer to live on the move rather than settle anywhere. Proudly Independent, they survive on the fringes of civilisation and tend to avoid interacting With the authorities. Those commonly known As the Dredger Clans are among the most successful.”

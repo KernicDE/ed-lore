@@ -4,7 +4,8 @@ title: Federal Terrorist Network Exposed
 slug: federal_terrorist_network_exposed
 date: '3307-10-13'
 source: API
-summary: The Proactive Detection Bureau helps the FIA identify and arrest over a thousand armed extremists from Jupiter's Wrath, a corporatist terrorist network.
+summary: The Proactive Detection Bureau helps the FIA identify and arrest over a thousand
+  armed extremists from Jupiter's Wrath, a corporatist terrorist network.
 player_impact: None
 persons:
 - Bethany Blake
@@ -21,7 +22,11 @@ arc_id: federal-politics
 modern_impact: Federal political developments shape superpower relations.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 00df9116-d831-5d43-af1d-94a97981b3cd
+- 23b5e779-30db-5322-b9a4-52c9e1d32e73
 ---
+
 
 The Proactive Detection Bureau has been instrumental in identifying violent corporatist extremists within the Federation.
 Deputy Director Bethany Blake of the Federal Intelligence Agency gave a statement to the media:

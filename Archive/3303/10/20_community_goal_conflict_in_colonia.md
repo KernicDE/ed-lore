@@ -4,7 +4,9 @@ title: Community Goal  Conflict in Colonia
 slug: community_goal_conflict_in_colonia
 date: '3303-10-20'
 source: GitHub
-summary: The Nameless criminal faction has begun attacking ships in Colonia, prompting the Colonia Council to issue a call to aid for pilots to help restore order and reduce criminal numbers.
+summary: The Nameless criminal faction has begun attacking ships in Colonia, prompting
+  the Colonia Council to issue a call to aid for pilots to help restore order and
+  reduce criminal numbers.
 player_impact: Support either the Colonia Council or The Nameless in the conflict.
 persons: []
 groups:
@@ -19,10 +21,15 @@ topics:
 - war
 technologies: []
 arc_id: jaques-station
-modern_impact: Colonia continues to grow as a deep-space settlement, offering new opportunities for exploration and colonisation.
+modern_impact: Colonia continues to grow as a deep-space settlement, offering new
+  opportunities for exploration and colonisation.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 440b2402-1496-58a4-bbcd-374d1955c5c7
+- f61cdff2-8250-5433-95bc-fa598ef22001
 ---
+
 
 Since it was founded in July 3302, The Colonia community has become a bastion of peace, seen by Many as an island of calm In a sea of conflict. 
 

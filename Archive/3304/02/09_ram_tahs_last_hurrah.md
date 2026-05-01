@@ -4,8 +4,13 @@ title: Ram Tah's Last Hurrah
 slug: ram_tahs_last_hurrah
 date: '3304-02-09'
 source: GitHub
-summary: Ram Tah, the galaxy's foremost expert on the Guardians, has revealed that his research funding will soon end. In a final appeal, he has asked independent pilots to deliver Guardian artefacts to his base in the Meene system. He believes there is more to learn about the Guardians, their technology, and their relationships to other species.
-player_impact: Pilots can deliver Guardian artefacts to Felice Dock in the Meene system. Meene General Industries will reward contributors.
+summary: Ram Tah, the galaxy's foremost expert on the Guardians, has revealed that
+  his research funding will soon end. In a final appeal, he has asked independent
+  pilots to deliver Guardian artefacts to his base in the Meene system. He believes
+  there is more to learn about the Guardians, their technology, and their relationships
+  to other species.
+player_impact: Pilots can deliver Guardian artefacts to Felice Dock in the Meene system.
+  Meene General Industries will reward contributors.
 persons:
 - Ram Tah
 groups:
@@ -21,10 +26,16 @@ topics:
 - war
 - xenoarchaeology
 arc_id: guardian-ancients
-modern_impact: Ram Tah's ongoing Guardian research continues to be the primary source of knowledge about the ancient civilization, even as funding constraints threaten the work.
+modern_impact: Ram Tah's ongoing Guardian research continues to be the primary source
+  of knowledge about the ancient civilization, even as funding constraints threaten
+  the work.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 1f14ad3b-bcd6-5523-9f8d-dde2069266ad
+- 8ca2d2a4-d5d9-59b1-871c-4105d459b874
 ---
+
 
 Ram Tah, The galaxy's foremost expert on the Guardians, has revealed that his research funding will soon end. In an effort to make the most of his remaining finances, the engineer has appealed to Independent pilots to deliver Guardian artefacts to his base in the Meene system. 
 

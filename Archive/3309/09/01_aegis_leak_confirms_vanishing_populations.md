@@ -4,7 +4,8 @@ title: Aegis Leak Confirms Vanishing Populations
 slug: aegis_leak_confirms_vanishing_populations
 date: '3309-09-01'
 source: API
-summary: Aegis leadership recordings about Thargoid abductions are leaked by Seo Jin-ae, confirming millions are missing and captives are stored in pods aboard Titans.
+summary: Aegis leadership recordings about Thargoid abductions are leaked by Seo Jin-ae,
+  confirming millions are missing and captives are stored in pods aboard Titans.
 player_impact: Not specifically mentioned — this is about a leaked recording.
 persons:
 - Alba Tesreau
@@ -20,13 +21,20 @@ topics:
 - espionage
 entities: []
 arc_id: thargoid-titan-war
-modern_impact: Seo Jin-ae's revelation — 'Rows and rows of what I thought were eggs... They're pods. Containers for humans' — is the most chilling description of Thargoid captivity. Her insistence that abductees are 'important to the next phase of the Thargoid invasion' raises the stakes. Rios's observation that 'it is rare that they support rather than damage the target organisation' frames the leak as unusual.
+modern_impact: Seo Jin-ae's revelation — 'Rows and rows of what I thought were eggs...
+  They're pods. Containers for humans' — is the most chilling description of Thargoid
+  captivity. Her insistence that abductees are 'important to the next phase of the
+  Thargoid invasion' raises the stakes. Rios's observation that 'it is rare that they
+  support rather than damage the target organisation' frames the leak as unusual.
 legacy_weight: 4
 significance: high
 related_uuids:
 - 0f162060-afe5-5086-8e97-d15faacc99ac
 - a39bacde-3f03-579e-a87c-1f549b9287b1
+- dc1b0541-b183-598e-8aa0-b06c8fec17b4
+- f362b55b-941d-566f-aa08-6a1ae59364b9
 ---
+
 
 A private discussion among Aegis leadership regarding mass Thargoid abductions has been made public.
 Recordings of Professor Alba Tesreau, Aden Tanner and Seo Jin-ae were sent to and published by all newsfeeds, including the Pilots’ Federation. File data shows that their conversation took place shortly before Professor Tesreau’s statement to the media on July 18th, in Alba Tesreau’s office at Aegis headquarters in Duamta.

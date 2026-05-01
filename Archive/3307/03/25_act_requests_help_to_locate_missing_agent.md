@@ -30,13 +30,15 @@ modern_impact: '"Our fervent hope is that we find its crew alive." Captain Seuto
 legacy_weight: 5
 significance: high
 related_uuids:
-- bcb1b6cb-c7ee-50fc-b6b9-8f9b1d140838
+- 07928c21-6ee3-5dbb-b1b5-aa7b041eba5e
+- 53d46995-be97-58ec-bca6-43387e9ea9c9
 - 67932c1d-fed0-5cc2-b9a2-8aededff61c3
 - 6efd63d0-0d68-594f-8e75-b0c5df826485
-- b552d00d-8b03-578d-a47d-aa396f38dedf
 - 7c2eed3e-f48e-5002-91e8-6a9eab55ca63
-- 53d46995-be97-58ec-bca6-43387e9ea9c9
+- b552d00d-8b03-578d-a47d-aa396f38dedf
+- bcb1b6cb-c7ee-50fc-b6b9-8f9b1d140838
 ---
+
 
 
 **Pilots Federation ALERT**

@@ -45,12 +45,15 @@ legacy_weight: 3
 significance: medium
 related_uuids:
 - 29fa900d-a3ad-5a63-bdae-88a4acceaf60
-- b8c3e024-5c4a-5723-913f-4f56345477a8
-- 471b8e46-16ce-5791-b60b-9362e740c2a6
 - 2f049fb8-69bf-5a8d-a4ad-6ace36a603b9
-- fefdabb9-36ba-57a2-8321-e9764f0b713c
+- 471b8e46-16ce-5791-b60b-9362e740c2a6
+- 533f8ff4-f23d-500f-83d9-92209119bc5b
+- b8c3e024-5c4a-5723-913f-4f56345477a8
 - cbba1081-6b9a-57ca-b2b8-0e41007ed228
+- e25e2c83-7be4-5236-9a1a-93321f277b40
+- fefdabb9-36ba-57a2-8321-e9764f0b713c
 ---
+
 
 
 Alliance, Empire and Federation leaders have held their first ever face-to-face discussions at The diplomatic conference in The Sirius system.

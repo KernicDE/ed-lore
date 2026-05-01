@@ -4,8 +4,11 @@ title: Zende Partners Transport Service Operational
 slug: zende_partners_transport_service_operational
 date: '3305-05-09'
 source: GitHub
-summary: Zende Partners launches a weekly megaship transport service from Zende to Synuefe EN-H d11-96, establishing The Prospect outpost in Guardian space to support research and technology development.
-player_impact: Pilots gained regular transport access to Guardian space, facilitating research and commodity trading at The Prospect.
+summary: Zende Partners launches a weekly megaship transport service from Zende to
+  Synuefe EN-H d11-96, establishing The Prospect outpost in Guardian space to support
+  research and technology development.
+player_impact: Pilots gained regular transport access to Guardian space, facilitating
+  research and commodity trading at The Prospect.
 persons:
 - Freya Taine
 - Cedrik Stone
@@ -21,14 +24,18 @@ topics:
 - trade
 - xenoarchaeology
 arc_id: guardian-ancients
-modern_impact: The Zende-Guardian transport corridor opened Guardian space to mainstream pilot activity, accelerating research into Guardian-human hybrid technology and establishing a competitive corporate presence in the region.
+modern_impact: The Zende-Guardian transport corridor opened Guardian space to mainstream
+  pilot activity, accelerating research into Guardian-human hybrid technology and
+  establishing a competitive corporate presence in the region.
 legacy_weight: 4
 significance: high
 related_uuids:
-- a7cf6573-70fc-5e17-bbc9-7867966c94ad
-- 782581af-3169-5d69-bae8-6418c16cbb47
 - 131bcfd7-f26c-5fbf-a041-85731e6a9b55
+- 782581af-3169-5d69-bae8-6418c16cbb47
+- 89fa155d-ed55-5c47-b667-e01b4652130c
+- a7cf6573-70fc-5e17-bbc9-7867966c94ad
 ---
+
 
 A megaship service offering transport to Guardian space from Zende is now in operation. 
 

@@ -4,7 +4,10 @@ title: Galactic News  Ishmael Palin to Depart for Maia b1ba
 slug: galactic_news_ishmael_palin_to_depart_for_maia_b1ba
 date: '3302-02-07'
 source: GitHub
-summary: Professor Ishmael Palin reassures the public that his research outpost on Maia b1ba will proceed despite delays. His team was sidetracked by recent breakthroughs with Unknown Artefacts and meta-alloys, but they will depart for the new base within 24 hours.
+summary: Professor Ishmael Palin reassures the public that his research outpost on
+  Maia b1ba will proceed despite delays. His team was sidetracked by recent breakthroughs
+  with Unknown Artefacts and meta-alloys, but they will depart for the new base within
+  24 hours.
 player_impact: None
 persons:
 - Ishmael Palin
@@ -18,10 +21,15 @@ topics:
 - research
 - ship
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
+  and fuels the emerging Thargoid contact narrative.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 11940ec2-f568-5815-bf35-386dee4a1f21
+- 79a6572d-c558-564e-85b4-86646c9530c6
 ---
+
 
 It has been Several weeks since Professor Ishmael Palin, The scientist researching the Unknown Artefacts, appealed for help in establishing a new research outpost on Maia b1ba. The appeal was enthusiastically received by the galactic community, resulting In a huge influx of deliveries to Obsidian Orbital, Professor Palin's base of operations. But since then there has been no news about the new research base, prompting some to wonder if it would in fact materialise. 
 

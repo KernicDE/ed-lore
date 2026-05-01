@@ -4,8 +4,12 @@ title: Freelance Report  Fungi Discovered on Airless Worlds
 slug: freelance_report_fungi_discovered_on_airless_worlds
 date: '3302-11-01'
 source: GitHub
-summary: Fungal growths have been discovered on the airless world Colonia 3 C A in the Colonia system. Commander Alesia of the Pilots Federation recorded the first data, and mycologist Dr James Morel identified two species visually from telemetry and urged explorers to handle specimens with care.
-player_impact: Explorers can collect physical samples of the fungi for further study and identification.
+summary: Fungal growths have been discovered on the airless world Colonia 3 C A in
+  the Colonia system. Commander Alesia of the Pilots Federation recorded the first
+  data, and mycologist Dr James Morel identified two species visually from telemetry
+  and urged explorers to handle specimens with care.
+player_impact: Explorers can collect physical samples of the fungi for further study
+  and identification.
 persons:
 - Dr James Morel
 - Commander Alesia
@@ -23,10 +27,15 @@ topics:
 - research
 technologies: []
 arc_id: jaques-station
-modern_impact: The discovery of fungal life on an airless world in the Colonia Nebula highlights the potential for biological research in remote colonized regions.
+modern_impact: The discovery of fungal life on an airless world in the Colonia Nebula
+  highlights the potential for biological research in remote colonized regions.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 09a290af-4a3e-5721-bbf2-fd0474291d43
+- 50ccf185-d72b-5a92-8231-4509d2c4eb78
 ---
+
 
 The Colonia Citizens Network has reported that fungal growths have been discovered on the airless world of Colonia 3 C A. 
 

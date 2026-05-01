@@ -4,8 +4,14 @@ title: Onionhead Sales Still Growing
 slug: onionhead_sales_still_growing
 date: '3301-04-02'
 source: GitHub
-summary: Despite the Federal ban, Onionhead sales continue to grow from Panem's Harvestport, with supply reaching as far as Berrivi and Aapelinja. The Tanmark Defence Force purged plantations from their world, but Panem remains defiant. Political pundits suggest President Halsey's low polling numbers have paralysed her from acting against the resurgence. Georgio Algeria and the Kappa Fornacis Farmers Union continue profiting while preparing for potential Federal blowback.
-player_impact: Pilots may encounter Onionhead smuggling operations in the affected systems. The Federation's inaction leaves the drug trade largely unchecked.
+summary: Despite the Federal ban, Onionhead sales continue to grow from Panem's Harvestport,
+  with supply reaching as far as Berrivi and Aapelinja. The Tanmark Defence Force
+  purged plantations from their world, but Panem remains defiant. Political pundits
+  suggest President Halsey's low polling numbers have paralysed her from acting against
+  the resurgence. Georgio Algeria and the Kappa Fornacis Farmers Union continue profiting
+  while preparing for potential Federal blowback.
+player_impact: Pilots may encounter Onionhead smuggling operations in the affected
+  systems. The Federation's inaction leaves the drug trade largely unchecked.
 persons:
 - Georgio Algeria
 - Jasmina Halsey
@@ -22,10 +28,15 @@ locations:
 topics:
 - narcotics
 arc_id: onionhead-conflict
-modern_impact: The Onionhead conflict highlights tensions between Federal prohibition and local agricultural economies.
+modern_impact: The Onionhead conflict highlights tensions between Federal prohibition
+  and local agricultural economies.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 35957033-efef-5286-98b7-996956b0122b
+- 4d0d8ee9-0acc-54d5-b061-7c4d2ea93522
 ---
+
 
 The Federal ban may have been enough to scare The Tanmark Defence Force into purging Lucan Onionhead plantations from their world, but Panem Continues to stand defiant. 
 

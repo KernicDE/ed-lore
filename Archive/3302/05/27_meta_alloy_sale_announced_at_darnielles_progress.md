@@ -4,7 +4,10 @@ title: Meta Alloy Sale Announced at Darnielle's Progress
 slug: meta_alloy_sale_announced_at_darnielles_progress
 date: '3302-05-27'
 source: GitHub
-summary: Business leaders at Darnielle's Progress in the Maia system announce a sale of meta-alloys from their stockpile. Professor Ishmael Palin and other researchers criticise the move as unwise, warning that the full potential of these materials is unknown.
+summary: Business leaders at Darnielle's Progress in the Maia system announce a sale
+  of meta-alloys from their stockpile. Professor Ishmael Palin and other researchers
+  criticise the move as unwise, warning that the full potential of these materials
+  is unknown.
 player_impact: None
 persons:
 - Larry Oldman
@@ -15,10 +18,15 @@ locations:
 topics:
 - research
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
+  and fuels the emerging Thargoid contact narrative.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 157b98f9-9126-5564-b254-2cbba5d2f266
+- fc7dd198-5a33-5e3f-9716-f1a7592d1506
 ---
+
 
 Business leaders Darnielle's Progress in The Maia system have announced a sale of meta-alloys. Their spokesman, Larry Oldman, had This to say. 
 

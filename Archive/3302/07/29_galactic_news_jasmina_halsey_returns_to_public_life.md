@@ -4,7 +4,10 @@ title: Galactic News  Jasmina Halsey Returns to Public Life
 slug: galactic_news_jasmina_halsey_returns_to_public_life
 date: '3302-07-29'
 source: GitHub
-summary: Former Federal President Jasmina Halsey makes her first public appearance since leaving the Clearwater Clinic, delivering a message about humanity's violent nature and announcing she will relocate to Alliance space after meeting with Prime Minister Edmund Mahon.
+summary: Former Federal President Jasmina Halsey makes her first public appearance
+  since leaving the Clearwater Clinic, delivering a message about humanity's violent
+  nature and announcing she will relocate to Alliance space after meeting with Prime
+  Minister Edmund Mahon.
 player_impact: None
 persons:
 - Jasmina Halsey
@@ -21,7 +24,11 @@ arc_id: alliance-expansion
 modern_impact: Demonstrates the Alliance's growing economic and diplomatic influence.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 297518b9-2a20-5beb-b24e-80bb9fab33dd
+- ec7ee9bb-6ac2-51f7-a14e-8097372ddaf4
 ---
+
 
 At a recent charity event, former Federal President Jasmina Halsey made her first public appearance since she was discharged from a secure psychiatric facility on Mars two weeks ago. The woman seen at the event differed dramatically from the frail individual seen leaving the Clearwater Clinic. Some commented that she appeared even more confident than when she was in office. 
 

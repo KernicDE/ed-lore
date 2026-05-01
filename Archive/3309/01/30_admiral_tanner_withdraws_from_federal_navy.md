@@ -4,7 +4,9 @@ title: Admiral Tanner Withdraws from Federal Navy
 slug: admiral_tanner_withdraws_from_federal_navy
 date: '3309-01-30'
 source: API
-summary: Admiral Aden Tanner resigns from the Federal Navy weeks after his presidential pardon, citing bureaucratic restrictions that prevent him from effectively combating the Thargoid threat.
+summary: Admiral Aden Tanner resigns from the Federal Navy weeks after his presidential
+  pardon, citing bureaucratic restrictions that prevent him from effectively combating
+  the Thargoid threat.
 player_impact: Not specifically mentioned — this is a political report.
 persons:
 - Aden Tanner
@@ -20,14 +22,22 @@ topics:
 - war
 entities: []
 arc_id: thargoid-titan-war
-modern_impact: '"The Federal Navy was once my home, but my disillusionment has grown over recent years. Politics and commercial influences hold this great institution back from safeguarding the Federation to its fullest capability." Tanner''s resignation signals a broader crisis of confidence in traditional military structures during the war, as experienced commanders sought operational freedom outside bureaucratic constraints.'
+modern_impact: '"The Federal Navy was once my home, but my disillusionment has grown
+  over recent years. Politics and commercial influences hold this great institution
+  back from safeguarding the Federation to its fullest capability." Tanner''s resignation
+  signals a broader crisis of confidence in traditional military structures during
+  the war, as experienced commanders sought operational freedom outside bureaucratic
+  constraints.'
 legacy_weight: 5
 significance: high
 related_uuids:
 - 0ca28871-b558-5ac6-82c4-49ddeb281015
+- 69926e4d-553c-5afc-b7a1-2e6de591030d
 - 8b0086f9-372c-5557-906d-f1d12dcbc7de
 - 918087f0-e635-591b-bc74-a1742da82b05
+- f920072c-9b3c-53d1-9078-e6102cdc56a0
 ---
+
 
 Admiral Aden Tanner has formally resigned his commission with the Federal Navy, mere weeks after a presidential pardon overturned his court martial.
 He had returned to naval service following an executive order from President Zachary Hudson. But this unexpected resignation means he is no longer a member of the military, although he retains the honorific of ‘admiral’.

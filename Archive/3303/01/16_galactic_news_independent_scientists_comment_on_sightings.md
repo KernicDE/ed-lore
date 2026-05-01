@@ -4,7 +4,9 @@ title: Galactic News  Independent Scientists Comment on Sightings
 slug: galactic_news_independent_scientists_comment_on_sightings
 date: '3303-01-16'
 source: GitHub
-summary: Professor Ishmael Palin links mysterious spacecraft to Unknown Artefacts, Unknown Probes, and Pleiades shipwrecks, concluding non-human intelligence exists. Engineer Ram Tah notes that communication attempts have failed.
+summary: Professor Ishmael Palin links mysterious spacecraft to Unknown Artefacts,
+  Unknown Probes, and Pleiades shipwrecks, concluding non-human intelligence exists.
+  Engineer Ram Tah notes that communication attempts have failed.
 player_impact: None
 persons:
 - Ishmael Palin
@@ -19,10 +21,15 @@ topics:
 - ship
 technologies: []
 arc_id: thargoid-contact
-modern_impact: Leading scientists confirm the non-human intelligence hypothesis and link active vessels to previously discovered alien artifacts.
+modern_impact: Leading scientists confirm the non-human intelligence hypothesis and
+  link active vessels to previously discovered alien artifacts.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 553db389-d54c-539a-aee0-be31ec1048b2
+- 947d74c0-150f-58ac-b83f-e1a3605a546b
 ---
+
 
 Professor Ishmael Palin, independent scientist and leading authority on xeno-biological research, has added his voice to The debate over sightings of mysterious spacecraft. 
 

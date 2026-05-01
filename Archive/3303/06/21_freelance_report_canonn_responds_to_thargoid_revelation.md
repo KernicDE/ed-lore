@@ -4,8 +4,10 @@ title: Freelance Report  Canonn Responds to Thargoid Revelation
 slug: freelance_report_canonn_responds_to_thargoid_revelation
 date: '3303-06-21'
 source: GitHub
-summary: Dr Arcanonn of the Canonn Interstellar Research Group issued a statement from the Gnosis regarding the confirmation that Unknown Ships are of Thargoid origin.
-player_impact: Pilots can join Canonn research efforts from the Gnosis to study Thargoid activity and contribute to scientific understanding.
+summary: Dr Arcanonn of the Canonn Interstellar Research Group issued a statement
+  from the Gnosis regarding the confirmation that Unknown Ships are of Thargoid origin.
+player_impact: Pilots can join Canonn research efforts from the Gnosis to study Thargoid
+  activity and contribute to scientific understanding.
 persons:
 - Dr Arcanonn
 groups:
@@ -19,10 +21,15 @@ topics:
 - treasure hunt
 technologies: []
 arc_id: thargoid-contact
-modern_impact: Thargoid activity escalates, fundamentally changing the galactic security landscape and driving the creation of anti-xeno defence forces.
+modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
+  landscape and driving the creation of anti-xeno defence forces.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 3d04ddca-30ae-553b-9712-2589606ba8c5
+- ee4558be-1df9-5900-8c68-c35fd406821f
 ---
+
 
 Doctor Arcanonn of The Canonn Interstellar Research Group has issued a statement from the Gnosis concerning the recent discovery that the so-called Unknown Ships are in fact of Thargoid origin. 
 

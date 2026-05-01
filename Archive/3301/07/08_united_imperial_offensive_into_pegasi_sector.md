@@ -4,8 +4,13 @@ title: United Imperial Offensive into Pegasi Sector
 slug: united_imperial_offensive_into_pegasi_sector
 date: '3301-07-08'
 source: GitHub
-summary: Senators Patreus and Lavigny-Duval launched a united Imperial offensive against the Kumo Crew after Cuchua came under attack. Lavigny's Legion deployed to assist Patreus's forces, with the Velites Squadron spearheading operations code-named 'Charybdis' and 'Davy Jones' in Cuchua and Harma. Hundreds of pirate vessels and dozens of Kumo Commanders were downed with minimal Imperial casualties, though fighting continues.
-player_impact: Imperial-aligned pilots are called to join the offensive against Kumo Crew in Cuchua and Harma as part of Operations Charybdis and Davy Jones.
+summary: Senators Patreus and Lavigny-Duval launched a united Imperial offensive against
+  the Kumo Crew after Cuchua came under attack. Lavigny's Legion deployed to assist
+  Patreus's forces, with the Velites Squadron spearheading operations code-named 'Charybdis'
+  and 'Davy Jones' in Cuchua and Harma. Hundreds of pirate vessels and dozens of Kumo
+  Commanders were downed with minimal Imperial casualties, though fighting continues.
+player_impact: Imperial-aligned pilots are called to join the offensive against Kumo
+  Crew in Cuchua and Harma as part of Operations Charybdis and Davy Jones.
 persons:
 - Denton Patreus
 - Arissa Lavigny-Duval
@@ -22,10 +27,15 @@ topics:
 - piracy
 - war
 arc_id: kumo-crew-rise
-modern_impact: United Imperial offensive marks a major escalation in the Pegasi Pirate War, with multiple Imperial powers coordinating against Archon Delaine.
+modern_impact: United Imperial offensive marks a major escalation in the Pegasi Pirate
+  War, with multiple Imperial powers coordinating against Archon Delaine.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 365fe94f-5b0d-5dc0-b58e-b8459e572688
+- 77f7fa0c-282f-5fc0-abd0-2c45fb54ad8c
 ---
+
 
 Apathy toward The Kumo Crew’s activities on The fringes of Federation space was replaced by the full wrath of Senators Patreus and Lavigny-Duval As the Imperial system of Cuchua came under attack This week. 
 

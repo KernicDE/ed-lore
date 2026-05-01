@@ -4,7 +4,12 @@ title: Aegis Responds to Concern over Thargoid Incursions
 slug: aegis_responds_to_concern_over_thargoid_incursions
 date: '3304-05-10'
 source: GitHub
-summary: Admiral Aden Tanner, chief military liaison for Aegis, has addressed widespread public disquiet over Thargoid ships being encountered in the core systems. Councillor Rasmus Tseng expressed fears of vulnerability, but Tanner stated the reports are grossly overstated, describing only localised incidents in fringe systems. He assured the public that independent pilots armed with Aegis technology are effectively halting Thargoid progress.
+summary: Admiral Aden Tanner, chief military liaison for Aegis, has addressed widespread
+  public disquiet over Thargoid ships being encountered in the core systems. Councillor
+  Rasmus Tseng expressed fears of vulnerability, but Tanner stated the reports are
+  grossly overstated, describing only localised incidents in fringe systems. He assured
+  the public that independent pilots armed with Aegis technology are effectively halting
+  Thargoid progress.
 player_impact: None explicitly stated.
 persons:
 - Aden Tanner
@@ -17,10 +22,16 @@ topics:
 - alien contact
 - war
 arc_id: thargoid-contact
-modern_impact: Aegis continues to serve as the primary public-facing authority on Thargoid containment, managing public perception during early incursions into populated space.
+modern_impact: Aegis continues to serve as the primary public-facing authority on
+  Thargoid containment, managing public perception during early incursions into populated
+  space.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 208ad777-7e52-54e3-b190-cfdd50fec921
+- 70af58e7-b214-5dcd-bf59-336b6afce3be
 ---
+
 
 There has been widespread disquiet over recent reports that Thargoid ships have been encountered In The core systems. 
 

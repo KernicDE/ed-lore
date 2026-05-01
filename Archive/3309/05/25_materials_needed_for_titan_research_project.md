@@ -4,8 +4,10 @@ title: Materials Needed for Titan Research Project
 slug: materials_needed_for_titan_research_project
 date: '3309-05-25'
 source: API
-summary: Aegis requests materials to mass-produce the pulse wave xeno scanner for analyzing Thargoid Titans, modifying Professor Palin's original design.
-player_impact: Pilots are asked to transport ceramic composites, polymers, gallium and indium to Muller Terminal in the Rabh system.
+summary: Aegis requests materials to mass-produce the pulse wave xeno scanner for
+  analyzing Thargoid Titans, modifying Professor Palin's original design.
+player_impact: Pilots are asked to transport ceramic composites, polymers, gallium
+  and indium to Muller Terminal in the Rabh system.
 persons:
 - Maximo Fonseca
 groups:
@@ -19,14 +21,22 @@ topics:
 - war
 entities: []
 arc_id: thargoid-titan-war
-modern_impact: Fonseca's explanation of the challenge — 'Reaching these gargantuan objects is hazardous since it involves travelling through the Maelstroms' corrosive environment, avoiding hostile Thargoid vessels along the way' — frames the mission. The technical detail about 'electromagnetic technology found in pulse wave analysers' shows the engineering approach. The need for 'as many pilots as possible to verify our findings out in the field' acknowledges the community's role.
+modern_impact: Fonseca's explanation of the challenge — 'Reaching these gargantuan
+  objects is hazardous since it involves travelling through the Maelstroms' corrosive
+  environment, avoiding hostile Thargoid vessels along the way' — frames the mission.
+  The technical detail about 'electromagnetic technology found in pulse wave analysers'
+  shows the engineering approach. The need for 'as many pilots as possible to verify
+  our findings out in the field' acknowledges the community's role.
 legacy_weight: 5
 significance: high
 related_uuids:
-- 75959975-677e-5ef0-a638-99ecddb6c873
 - 2772dd60-46ae-52c7-a828-37bd0f391e7d
+- 45fc544b-0e8b-5226-9ea8-5a475d50bb80
 - 514110ce-a03f-5dec-9403-eb1e16bf5695
+- 75959975-677e-5ef0-a638-99ecddb6c873
+- f9fecf41-099b-5d1f-93f0-d6f472997ac9
 ---
+
 
 **Pilots’ Federation ALERT**
 Deliveries to the Rabh system will help mass-produce a pulse wave xeno scanner which can analyse Thargoid Titans.

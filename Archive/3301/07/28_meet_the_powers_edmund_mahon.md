@@ -4,7 +4,13 @@ title: Meet the Powers – Edmund Mahon
 slug: meet_the_powers_edmund_mahon
 date: '3301-07-28'
 source: GitHub
-summary: Political commentator Marcus Macmillan profiles Alliance Prime Minister Edmund Mahon. Despite the Alliance being the smallest superpower, Mahon is described as possibly the greatest leader since its inception. A career politician with strong academic background, he knows the complex Alliance political system well and can work within it to achieve results. He ensures individual system concerns are properly represented, making Alliance membership attractive. His understated exterior belies a cunning mind and determination to expand Alliance values to more systems.
+summary: Political commentator Marcus Macmillan profiles Alliance Prime Minister Edmund
+  Mahon. Despite the Alliance being the smallest superpower, Mahon is described as
+  possibly the greatest leader since its inception. A career politician with strong
+  academic background, he knows the complex Alliance political system well and can
+  work within it to achieve results. He ensures individual system concerns are properly
+  represented, making Alliance membership attractive. His understated exterior belies
+  a cunning mind and determination to expand Alliance values to more systems.
 player_impact: None
 persons:
 - Edmund Mahon
@@ -18,10 +24,16 @@ topics:
 - politics
 - diplomacy
 arc_id: alliance-expansion
-modern_impact: Profile establishes Edmund Mahon as a highly effective leader within the Alliance's complex political framework, driving expansion through diplomatic skill.
+modern_impact: Profile establishes Edmund Mahon as a highly effective leader within
+  the Alliance's complex political framework, driving expansion through diplomatic
+  skill.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 148bcbc5-bd79-5fbf-ab67-4020c24a0ca8
+- 7d013785-9418-5c04-8446-8e8dca9a7e51
 ---
+
 
 Continuing This GalNet exclusive series, political commentator Marcus Macmillan writes about some of the movers and shakers in 3301. In This third article he looks at Alliance Prime Minister Edmund Mahon. 
 

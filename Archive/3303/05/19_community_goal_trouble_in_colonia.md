@@ -4,8 +4,10 @@ title: Community Goal  Trouble in Colonia
 slug: community_goal_trouble_in_colonia
 date: '3303-05-19'
 source: GitHub
-summary: Unauthorized outposts occupied by agitators have been detected in the Eol Prou Lw-L C8-215 system, threatening the Colonia community's security.
-player_impact: Pilots can hunt wanted ships in Eol Prou Lw-L C8-215 and deliver bounty vouchers to Tolagarf's Junkjard for rewards.
+summary: Unauthorized outposts occupied by agitators have been detected in the Eol
+  Prou Lw-L C8-215 system, threatening the Colonia community's security.
+player_impact: Pilots can hunt wanted ships in Eol Prou Lw-L C8-215 and deliver bounty
+  vouchers to Tolagarf's Junkjard for rewards.
 persons: []
 groups:
 - Colonia Council
@@ -19,10 +21,15 @@ topics:
 - war
 technologies: []
 arc_id: jaques-station
-modern_impact: Colonia continues to grow as a deep-space settlement, offering new opportunities for exploration and colonisation.
+modern_impact: Colonia continues to grow as a deep-space settlement, offering new
+  opportunities for exploration and colonisation.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 37fdbad2-f575-597f-a4b5-7351cf4ec629
+- ea1d6149-a9b1-5788-8ca1-536b843a3721
 ---
+
 
 Recent reports indicate that a number of unauthorised outposts have been detected in The Eol Prou Lw-L C8-215 system. A spokesperson for the Colonia Council confirmed that these outposts are currently occupied by group of agitators, Which have already begun targeting pilots in the system. 
 

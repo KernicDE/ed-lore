@@ -4,7 +4,10 @@ title: Galactic News  Denton Patreus Receives Promotion
 slug: galactic_news_denton_patreus_receives_promotion
 date: '3302-02-22'
 source: GitHub
-summary: Emperor Arissa Lavigny-Duval promotes Senator Denton Patreus to Admiral of the Fleet following his triumph over Emperor's Dawn. She praises his remarkable resolve and ability to act with conviction. A formal inauguration ceremony will take place on Capitol next week.
+summary: Emperor Arissa Lavigny-Duval promotes Senator Denton Patreus to Admiral of
+  the Fleet following his triumph over Emperor's Dawn. She praises his remarkable
+  resolve and ability to act with conviction. A formal inauguration ceremony will
+  take place on Capitol next week.
 player_impact: None
 persons:
 - Arissa Lavigny-Duval
@@ -18,10 +21,15 @@ topics:
 - succession
 - terrorism
 arc_id: imperial-succession
-modern_impact: Continued conflict between the Empire and Emperor's Dawn shapes Imperial politics and military policy.
+modern_impact: Continued conflict between the Empire and Emperor's Dawn shapes Imperial
+  politics and military policy.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 02c7199e-f2fd-531f-ba03-d9a8d75a479f
+- aedc65ec-4d5c-5ea9-a62c-b6920ab33260
 ---
+
 
 Emperor Arissa Lavigny-Duval has announced that Senator Denton Patreus is to be promoted to Admiral of The Fleet, following his triumph over the insurgent organisation Emperor's Dawn. In a statement, the Emperor praised Patreus's recent military success: 
 

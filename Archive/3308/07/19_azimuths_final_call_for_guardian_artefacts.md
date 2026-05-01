@@ -4,8 +4,12 @@ title: Azimuth's Final Call for Guardian Artefacts
 slug: azimuths_final_call_for_guardian_artefacts
 date: '3308-07-19'
 source: API
-summary: Azimuth Biotech issues its final call for Guardian artefacts to complete the Proteus Wave superweapon in HIP 22460, with Commodore Morag Halloran warning of increased Thargoid activity around the Bright Sentinel.
-player_impact: Pilots were asked to deliver Guardian caskets, orbs, relics, tablets, totems and urns to the Bright Sentinel in HIP 22460, while AX fighters defended transports against Thargoid forces.
+summary: Azimuth Biotech issues its final call for Guardian artefacts to complete
+  the Proteus Wave superweapon in HIP 22460, with Commodore Morag Halloran warning
+  of increased Thargoid activity around the Bright Sentinel.
+player_impact: Pilots were asked to deliver Guardian caskets, orbs, relics, tablets,
+  totems and urns to the Bright Sentinel in HIP 22460, while AX fighters defended
+  transports against Thargoid forces.
 persons:
 - Morag Halloran
 groups:
@@ -18,12 +22,18 @@ topics:
 - war
 - xenoarchaeology
 arc_id: salvation-azimuth
-modern_impact: The final artefact drive revealed the staggering scale of Guardian material required for the Proteus Wave, underscoring how Salvation's superweapon relied on desecrating ancient archaeological sites to weaponise a dead civilisation's technology.
+modern_impact: The final artefact drive revealed the staggering scale of Guardian
+  material required for the Proteus Wave, underscoring how Salvation's superweapon
+  relied on desecrating ancient archaeological sites to weaponise a dead civilisation's
+  technology.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 0f01426c-a180-522b-9e1c-2226d9be75e7
+- 1c3d154f-c7fd-533d-b700-1ce942b570c2
+- 21a8f7b3-6e3c-5a0b-8f5d-9c4e7d2b1a8f
 ---
+
 
 **Pilots’ Federation ALERT**
 The campaign to deliver Guardian artefacts to Azimuth Biotech in the HIP 22460 system has reached its third phase.

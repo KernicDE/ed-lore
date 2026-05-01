@@ -4,8 +4,12 @@ title: Scriveners Clan Abandons the Hesperus
 slug: scriveners_clan_abandons_the_hesperus
 date: '3307-07-09'
 source: API
-summary: The Scriveners Clan dredger leaves the Perseus Dark Region KC-V c2-2 system after stripping the Hesperus's innards. Erik Gunnarson speculates they abandoned the salvage due to unwanted attention from thousands of curious travellers, or because they detected richer resources elsewhere.
-player_impact: Pilots had visited the Hesperus site, potentially drawing the secretive Scriveners away with their presence.
+summary: The Scriveners Clan dredger leaves the Perseus Dark Region KC-V c2-2 system
+  after stripping the Hesperus's innards. Erik Gunnarson speculates they abandoned
+  the salvage due to unwanted attention from thousands of curious travellers, or because
+  they detected richer resources elsewhere.
+player_impact: Pilots had visited the Hesperus site, potentially drawing the secretive
+  Scriveners away with their presence.
 persons:
 - Erik Gunnarson
 - Francesca Wolfe
@@ -27,14 +31,19 @@ technologies:
 - Signal beacon
 - Knowledge Core
 arc_id: formidine-rift
-modern_impact: The Scriveners' departure preserves the Hesperus hull for future study but removes the possibility of learning more from the clan's Knowledge Core, leaving gaps in the historical record of Azimuth Biochemicals' activities.
+modern_impact: The Scriveners' departure preserves the Hesperus hull for future study
+  but removes the possibility of learning more from the clan's Knowledge Core, leaving
+  gaps in the historical record of Azimuth Biochemicals' activities.
 legacy_weight: 3
 significance: medium
 related_uuids:
 - 06344bba-8641-563b-9938-f0db820baec3
+- 1810c569-1a21-571d-b879-76241b063c19
 - 29d5b1ad-189d-542d-b21b-ab8e21422a28
+- 79f7dec4-b60f-56f7-b92e-0d4c77203b9b
 - 99a40044-3a86-5461-91a1-da2156ab2f0b
 ---
+
 
 **Pilots Federation ALERT**
 The Dredger belonging to the Scriveners Clan has left the Perseus Dark Region KC-V c2-2 system, where the Hesperus megaship is Located.

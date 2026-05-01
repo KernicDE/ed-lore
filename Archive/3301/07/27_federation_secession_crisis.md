@@ -4,8 +4,15 @@ title: Federation Secession Crisis
 slug: federation_secession_crisis
 date: '3301-07-27'
 source: GitHub
-summary: Debate rages in the Pegasi sector over Senator Arissa Lavigny-Duval's invitation for Federation systems to become Imperial citizens. The governor of Wudjal, a Federation system with more citizens than the entire Imperial population under Kumo Crew control, condemned Hudson and Winters as 'spineless cowards and hypocrites' for failing to respond to petitions for assistance. He recommended every Pegasi governor open an Imperial embassy, stating 'at least Imperial citizenship means something' while the Federation neglects its commitments.
-player_impact: Pilots operating in the Pegasi sector should expect political tension as Federation systems consider accepting Imperial protection offers.
+summary: Debate rages in the Pegasi sector over Senator Arissa Lavigny-Duval's invitation
+  for Federation systems to become Imperial citizens. The governor of Wudjal, a Federation
+  system with more citizens than the entire Imperial population under Kumo Crew control,
+  condemned Hudson and Winters as 'spineless cowards and hypocrites' for failing to
+  respond to petitions for assistance. He recommended every Pegasi governor open an
+  Imperial embassy, stating 'at least Imperial citizenship means something' while
+  the Federation neglects its commitments.
+player_impact: Pilots operating in the Pegasi sector should expect political tension
+  as Federation systems consider accepting Imperial protection offers.
 persons:
 - Arissa Lavigny-Duval
 - Zachary Hudson
@@ -23,10 +30,15 @@ topics:
 - slavery
 - war
 arc_id: kumo-crew-rise
-modern_impact: Federation systems in Pegasi openly considering Imperial citizenship reveals a severe crisis of confidence in Federal leadership.
+modern_impact: Federation systems in Pegasi openly considering Imperial citizenship
+  reveals a severe crisis of confidence in Federal leadership.
 legacy_weight: 4
 significance: high
+related_uuids:
+- a210772e-cf66-5986-b067-f5664fdac402
+- f9b8633d-abeb-5cfd-8079-b668b89d759b
 ---
+
 
 Debate Continues to rage in local governments throughout The Pegasi sector over Senator Lavigny-Duval's invitation to become Imperial citizens. The debate has reached a fevered pitch In some systems. 
 

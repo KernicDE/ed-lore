@@ -4,7 +4,10 @@ title: Galactic News  Jasmina Halsey Brought Out of Coma
 slug: galactic_news_jasmina_halsey_brought_out_of_coma
 date: '3302-03-26'
 source: GitHub
-summary: President Zachary Hudson confirms that former President Jasmina Halsey has been brought out of her induced coma at Leoniceno Orbital. Medical personnel repaired her injuries from the Starship One disaster, and she is expected to wake in the next few days.
+summary: President Zachary Hudson confirms that former President Jasmina Halsey has
+  been brought out of her induced coma at Leoniceno Orbital. Medical personnel repaired
+  her injuries from the Starship One disaster, and she is expected to wake in the
+  next few days.
 player_impact: None
 persons:
 - Zachary Hudson
@@ -21,7 +24,11 @@ arc_id: halsey-presidency
 modern_impact: President Halsey's controversial military orders strain Federal politics.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 9cd7aed5-b065-5419-be03-d98a4361f771
+- fd20f126-1514-5567-9737-ba8347d44b4f
 ---
+
 
 Federal President Zachary Hudson has released a statement confirming that former President Jasmina Halsey has been brought out of her induced coma. 
 

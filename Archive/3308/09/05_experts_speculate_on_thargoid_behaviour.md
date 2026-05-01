@@ -4,7 +4,9 @@ title: Experts Speculate on Thargoid Behaviour
 slug: experts_speculate_on_thargoid_behaviour
 date: '3308-09-05'
 source: API
-summary: Xenologists debate the Thargoids' new defensive capabilities after they resisted the Proteus Wave in HIP 22460, with theories ranging from ancient Guardian countermeasures to biomechanical immune responses.
+summary: Xenologists debate the Thargoids' new defensive capabilities after they resisted
+  the Proteus Wave in HIP 22460, with theories ranging from ancient Guardian countermeasures
+  to biomechanical immune responses.
 player_impact: Not specifically mentioned — this is an academic analysis piece.
 persons:
 - Shamus Madigan
@@ -23,10 +25,16 @@ topics:
 - war
 - xenoarchaeology
 arc_id: thargoid-contact
-modern_impact: The scholarly debate reveals how little humanity understands Thargoid biology and technology, with each theory carrying unsettling implications for future conflicts.
+modern_impact: The scholarly debate reveals how little humanity understands Thargoid
+  biology and technology, with each theory carrying unsettling implications for future
+  conflicts.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 7d811da2-fbf8-5f94-96d4-21ae69749e13
+- be63c32e-8997-572a-9d07-24701e8fc641
 ---
+
 
 The Thargoids’ resistance to the Proteus Wave in HIP 22460 has prompted discussion among academics in the field of xenology.
 Professor Shamus Madigan of Olympus Village University published a paper in the scientific journal The Empirical, which included this extract:

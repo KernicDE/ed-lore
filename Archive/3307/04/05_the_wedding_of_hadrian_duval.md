@@ -4,7 +4,10 @@ title: The Wedding of Hadrian Duval
 slug: the_wedding_of_hadrian_duval
 date: '3307-04-05'
 source: API
-summary: Imperator Hadrian Augustus Duval of Nova Imperium marries his consort Astrid Minerva in a closed ceremony attended by Princess Aisling Duval. The Imperial Palace and Senate send congratulations while Nova Imperium forces assist in the conflict against Neo-Marlinists.
+summary: Imperator Hadrian Augustus Duval of Nova Imperium marries his consort Astrid
+  Minerva in a closed ceremony attended by Princess Aisling Duval. The Imperial Palace
+  and Senate send congratulations while Nova Imperium forces assist in the conflict
+  against Neo-Marlinists.
 player_impact: None directly; the wedding was a closed ceremony with media coverage.
 persons:
 - Hadrian Duval
@@ -26,13 +29,18 @@ topics:
 - terrorism
 technologies: []
 arc_id: nmla-terrorism
-modern_impact: The wedding becomes deeply suspect when allegations emerge later that month that Astrid Minerva is an NMLA agent who converted Hadrian to Neo-Marlinism, making this event a potential pivot point in the NMLA conspiracy.
+modern_impact: The wedding becomes deeply suspect when allegations emerge later that
+  month that Astrid Minerva is an NMLA agent who converted Hadrian to Neo-Marlinism,
+  making this event a potential pivot point in the NMLA conspiracy.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 10f8cc7f-6af8-5ae4-b744-d3e73a0b8835
+- 4f51bc7e-be8a-5c71-9a1f-574542707362
+- 677ba8ea-d7b4-5d96-b990-a430969d2b98
 - a63b78b8-8be0-504c-85a7-d986a0f0465a
 ---
+
 
 Imperator Hadrian Augustus Duval, leader of The isolationist group Nova Imperium, has married his consort Astrid Minerva In a closed ceremony.
 Commander Minerva was a young Imperial pilot who aided Nova Imperium at the Battle of Paresa in 3305 and became a loyal supporter. Her official title is now Lady Astrid Minerva-Duval.

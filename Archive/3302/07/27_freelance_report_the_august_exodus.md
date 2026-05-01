@@ -4,8 +4,11 @@ title: Freelance Report  The August Exodus
 slug: freelance_report_the_august_exodus
 date: '3302-07-27'
 source: GitHub
-summary: Over 300 pilots have signed up for the August Exodus convoy to Jaques Station in the Colonia Nebula, with the first fleet of 250 departing from Ocshooit on 24 July and a second convoy scheduled for 15 August.
-player_impact: Join the August Exodus convoy to Jaques Station; the second convoy departs on 15 August.
+summary: Over 300 pilots have signed up for the August Exodus convoy to Jaques Station
+  in the Colonia Nebula, with the first fleet of 250 departing from Ocshooit on 24
+  July and a second convoy scheduled for 15 August.
+player_impact: Join the August Exodus convoy to Jaques Station; the second convoy
+  departs on 15 August.
 persons:
 - Commander unrealization
 groups:
@@ -19,10 +22,15 @@ topics:
 - war
 technologies: []
 arc_id: jaques-station
-modern_impact: Jaques Station's journey to Colonia establishes a new frontier settlement, opening up deep-space colonisation.
+modern_impact: Jaques Station's journey to Colonia establishes a new frontier settlement,
+  opening up deep-space colonisation.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 0634cce4-4cff-5261-81c7-4723f54899ac
+- 44ea0feb-1a55-57ba-9dc2-44d90fb3c275
 ---
+
 
 With the possibility of war between the Federation and the Empire looming, a number of intrepid explorers have banded together to establish a new way of life among the stars. Over 300 pilots from across inhabited space have signed up to take part in the largest convoy ever assembled, designated the August Exodus – A Jaunt to Jaques. 
 

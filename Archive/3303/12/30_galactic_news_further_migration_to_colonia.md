@@ -4,7 +4,12 @@ title: Galactic News  Further Migration to Colonia
 slug: galactic_news_further_migration_to_colonia
 date: '3303-12-30'
 source: GitHub
-summary: Huge numbers of citizens continue fleeing to Colonia, fearing the Thargoids will target the core systems next. The Colonia Council confirmed that refugee numbers have skyrocketed, accelerated by recent starport attacks. Spokesperson Magen Wolfe stated that while Colonia welcomes all seeking sanctuary, the core systems are no more likely to be targeted than Colonia, and the region has limits to how many people it can support.
+summary: Huge numbers of citizens continue fleeing to Colonia, fearing the Thargoids
+  will target the core systems next. The Colonia Council confirmed that refugee numbers
+  have skyrocketed, accelerated by recent starport attacks. Spokesperson Magen Wolfe
+  stated that while Colonia welcomes all seeking sanctuary, the core systems are no
+  more likely to be targeted than Colonia, and the region has limits to how many people
+  it can support.
 player_impact: None
 persons:
 - Magen Wolfe
@@ -18,10 +23,15 @@ topics:
 - construction
 - humanitarian
 arc_id: thargoid-contact
-modern_impact: The mass migration to Colonia strains the region's capacity and demonstrates the widespread civilian fear of Thargoid expansion beyond the Pleiades.
+modern_impact: The mass migration to Colonia strains the region's capacity and demonstrates
+  the widespread civilian fear of Thargoid expansion beyond the Pleiades.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 66fae4b6-2b72-5e10-834a-bfd74ae1d2ec
+- d2014cde-d62c-53ca-a22c-747b17ef1feb
 ---
+
 
 Although The Thargoid attacks have so Far been confined to the Pleiades Nebula, Many apparently fear that the aliens’ next target will be the core systems. This is evidenced by the huge numbers of citizens fleeing to Colonia. 
 

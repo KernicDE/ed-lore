@@ -4,8 +4,11 @@ title: Galactic News  Galactic Leaders Address Thargoid Discovery
 slug: galactic_news_galactic_leaders_address_thargoid_discovery
 date: '3303-06-20'
 source: GitHub
-summary: The leaders of the galaxy's three superpowers have responded to the confirmation of Thargoid vessels, with divergent stances on military preparedness and diplomatic engagement.
-player_impact: Pilots should monitor superpower announcements for emerging anti-xeno initiatives and defence contracts.
+summary: The leaders of the galaxy's three superpowers have responded to the confirmation
+  of Thargoid vessels, with divergent stances on military preparedness and diplomatic
+  engagement.
+player_impact: Pilots should monitor superpower announcements for emerging anti-xeno
+  initiatives and defence contracts.
 persons:
 - Zachary Hudson
 - Arissa Lavigny-Duval
@@ -24,10 +27,15 @@ topics:
 - succession
 technologies: []
 arc_id: thargoid-contact
-modern_impact: Thargoid activity escalates, fundamentally changing the galactic security landscape and driving the creation of anti-xeno defence forces.
+modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
+  landscape and driving the creation of anti-xeno defence forces.
 legacy_weight: 5
 significance: high
+related_uuids:
+- ac666368-9417-5e30-92aa-96f2ed1524f8
+- ead544be-f2bf-5990-acd3-d8339a90699f
 ---
+
 
 The leaders of the galaxy's major powers have responded to news that the mysterious ships seen in the Maia system and Pleiades Nebula are Thargoid vessels. 
 

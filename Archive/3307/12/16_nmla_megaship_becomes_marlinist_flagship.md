@@ -4,7 +4,8 @@ title: NMLA Megaship Becomes Marlinist Flagship
 slug: nmla_megaship_becomes_marlinist_flagship
 date: '3307-12-16'
 source: API
-summary: The Steel Majesty megaship is transferred from Mudhrid to HIP 22550, renamed Fairfax Vision, and becomes the Marlinist Colonies' diplomatic flagship.
+summary: The Steel Majesty megaship is transferred from Mudhrid to HIP 22550, renamed
+  Fairfax Vision, and becomes the Marlinist Colonies' diplomatic flagship.
 player_impact: Not specifically mentioned — this is a political and diplomatic report.
 persons:
 - Jenna Fairfax
@@ -26,12 +27,16 @@ topics:
 - humanitarian
 - war
 arc_id: nmla-terrorism
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to the Marlinist refugee crisis and the Proactive Detection Bureau.
+modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
+  the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 548f6761-2537-5801-8f58-7eccec59205a
+- 7adb225b-c48d-561e-ac9e-8b83fdc67fd0
+- f76d8d87-04a4-5982-9f90-51763df54997
 ---
+
 
 The megaship Steel Majesty has travelled from Mudhrid to the HIP 22550 system and been renamed as Fairfax Vision.
 The Wells-class carrier was originally owned by the Neo-Marlinist Order of Mudhrid and used as a base for the NMLA terrorist group. After a military defeat, the Vessel’s crew sought political asylum in the Marlinist Colonies. 

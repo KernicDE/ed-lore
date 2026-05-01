@@ -4,8 +4,12 @@ title: Galactic News  Federal Campaign Resumes
 slug: galactic_news_federal_campaign_resumes
 date: '3302-07-11'
 source: GitHub
-summary: The Federation has convinced Segovan authorities to lift the lockdown on Ramsbottom Hub after Imperial pilots disrupted the Federal outpost construction campaign. Two Farragut-class Battlecruisers were dispatched to the system, and the Federation has renewed its appeal for pilot support.
-player_impact: Federally aligned pilots are asked to deliver construction materials to Ramsbottom Hub in the Segovan system to support the outpost campaign.
+summary: The Federation has convinced Segovan authorities to lift the lockdown on
+  Ramsbottom Hub after Imperial pilots disrupted the Federal outpost construction
+  campaign. Two Farragut-class Battlecruisers were dispatched to the system, and the
+  Federation has renewed its appeal for pilot support.
+player_impact: Federally aligned pilots are asked to deliver construction materials
+  to Ramsbottom Hub in the Segovan system to support the outpost campaign.
 persons: []
 groups:
 - Federation
@@ -19,10 +23,15 @@ topics:
 technologies:
 - Farragut-class Battlecruiser
 arc_id: pleiades-expansion
-modern_impact: Demonstrates the Federation's willingness to deploy capital ships to enforce construction timelines and protect supply lines in contested space.
+modern_impact: Demonstrates the Federation's willingness to deploy capital ships to
+  enforce construction timelines and protect supply lines in contested space.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 2cc13ded-2c0f-50f4-9c22-801873e80180
+- 4ddef4ba-58e1-5877-97dd-f84dd74097ba
 ---
+
 
 Four days ago, The Federation launched a campaign to construct a new Federal outpost in the Segovan system. Federally aligned pilots were invited to contribute construction materials to the campaign, But the request proved controversial, With various sections of the galactic community asking why the Federation was expanding towards the Pleiades sector. 
 

@@ -4,8 +4,12 @@ title: Aegis Wary About Changing Thargoid Behaviour
 slug: aegis_wary_about_changing_thargoid_behaviour
 date: '3310-06-11'
 source: API
-summary: Dr. Ivano Colombera warns that slowing Thargoid expansion is a strategic defensive response, not a sign of weakness, urging caution as the aliens may be consolidating for a counterattack.
-player_impact: Aegis urges pilots to take the warning seriously and work to end the war before the Thargoids have time to retaliate, with efforts directed towards Titan Indra.
+summary: Dr. Ivano Colombera warns that slowing Thargoid expansion is a strategic
+  defensive response, not a sign of weakness, urging caution as the aliens may be
+  consolidating for a counterattack.
+player_impact: Aegis urges pilots to take the warning seriously and work to end the
+  war before the Thargoids have time to retaliate, with efforts directed towards Titan
+  Indra.
 persons:
 - Ivano Colombera
 groups:
@@ -17,13 +21,20 @@ topics:
 - war
 entities: []
 arc_id: thargoid-titan-war
-modern_impact: Colombera's warning — 'We are backing them into a corner, but that is when any creature is at its most unpredictable. And at its most dangerous' — is a classic military aphorism applied to an alien enemy. His hypothesis that the Thargoids are 'consolidating and planning, with the likely aim of reinforcing the final four Titans' proves accurate as the war continues. The mention of independent squadrons (SNPX, AXI, MUDD) acknowledges the organised player community.
+modern_impact: Colombera's warning — 'We are backing them into a corner, but that
+  is when any creature is at its most unpredictable. And at its most dangerous' —
+  is a classic military aphorism applied to an alien enemy. His hypothesis that the
+  Thargoids are 'consolidating and planning, with the likely aim of reinforcing the
+  final four Titans' proves accurate as the war continues. The mention of independent
+  squadrons (SNPX, AXI, MUDD) acknowledges the organised player community.
 legacy_weight: 5
 significance: high
 related_uuids:
-- a45d77c9-4e47-5012-bc3e-271e334b8c4e
 - 063d534f-7a00-5898-bf3d-223d9963c08a
+- 62f7d43b-2eef-5a4b-9834-34d8bec12553
+- a45d77c9-4e47-5012-bc3e-271e334b8c4e
 ---
+
 
 A recent behavioural change in the Thargoids has prompted urgent discussion among Aegis researchers and strategists.
 Since the fall of the fourth Titan, Hadad, there are increasing reports that the Thargoid expansion efforts have been growing weaker. While Thargoids are continuing to expand outwards from the Titans, they are no longer reinforcing their spire sites.  Further, independent squadrons dedicated to defeating the Thargoid threat like SNPX, AXI, and MUDD, have noted increasing ease in thwarting attempts to probe and invade systems.

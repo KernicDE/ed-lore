@@ -4,8 +4,13 @@ title: Good News from Obsidian Orbital
 slug: good_news_from_obsidian_orbital
 date: '3302-01-15'
 source: GitHub
-summary: Following the discovery of alien barnacles in the Pleiades Nebula, technical personnel at Obsidian Orbital conducted an eleventh-hour experiment using meta-alloys. The experiment appears to have countered the mysterious malfunctions affecting the station, bringing cautious optimism that the technological plague may have a cure.
-player_impact: Pilots can deliver meta-alloys to affected starports. Obsidian Orbital's experiment suggests meta-alloys may counter the technological plague, though the exact mechanism and permanence are unknown.
+summary: Following the discovery of alien barnacles in the Pleiades Nebula, technical
+  personnel at Obsidian Orbital conducted an eleventh-hour experiment using meta-alloys.
+  The experiment appears to have countered the mysterious malfunctions affecting the
+  station, bringing cautious optimism that the technological plague may have a cure.
+player_impact: Pilots can deliver meta-alloys to affected starports. Obsidian Orbital's
+  experiment suggests meta-alloys may counter the technological plague, though the
+  exact mechanism and permanence are unknown.
 locations:
 - Obsidian Orbital
 - Pleiades Nebula
@@ -15,10 +20,15 @@ topics:
 technologies:
 - meta-alloys
 arc_id: thargoid-contact
-modern_impact: The emergence of Thargoid ships marks the beginning of active alien contact, fundamentally changing humanity's place in the galaxy.
+modern_impact: The emergence of Thargoid ships marks the beginning of active alien
+  contact, fundamentally changing humanity's place in the galaxy.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 5ba2457a-42b5-55bb-bb05-5d8d20e35b9b
+- f227f88d-c293-5655-8901-fe1a7fc362b7
 ---
+
 
 Following yesterday's remarkable discovery of non-human structures in The Pleiades Nebula, starport markets have been inundated With meta-alloys – a mysterious material produced by the alien 'barnacles'. At present, very little is known about This commodity, but it seems it may have helped bring some stability to Obsidian Orbital, One of the starports affected by the mysterious malfunctions sweeping the galaxy. According to a recent statement, the station's technical team conducted an eleventh-hour experiment that, remarkably, seems to have improved things at the beleaguered starport: 
 

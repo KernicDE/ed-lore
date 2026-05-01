@@ -34,13 +34,15 @@ modern_impact: '"This is a bittersweet moment for me." The Starship One conspira
 legacy_weight: 2
 significance: low
 related_uuids:
-- fefdabb9-36ba-57a2-8321-e9764f0b713c
-- e25e2c83-7be4-5236-9a1a-93321f277b40
-- c1469916-3aca-5e3b-8dc5-76baf74b7e68
-- 533f8ff4-f23d-500f-83d9-92209119bc5b
 - 31ca43b5-5307-50b4-bbd0-948f5ba63d94
 - 3a299742-113f-5b36-98e2-a791ed35ae34
+- 533f8ff4-f23d-500f-83d9-92209119bc5b
+- c1469916-3aca-5e3b-8dc5-76baf74b7e68
+- d64fdd75-b94b-5d81-b802-89ce83b7b906
+- e25e2c83-7be4-5236-9a1a-93321f277b40
+- fefdabb9-36ba-57a2-8321-e9764f0b713c
 ---
+
 
 
 Core Dynamics CEO Jupiter Rochester has been accused of collaborating With Fleet Admiral Vincent to orchestrate Starship One’s destruction in 3301.

@@ -4,8 +4,10 @@ title: Nine Starports Hit by Terrorist Bombings
 slug: nine_starports_hit_by_terrorist_bombings
 date: 3307-03-11
 source: API
-summary: '*Pilots Federation ALERT* Explosions have struck starports across The Alliance, Empire and Federation In a coordinated bombing attack by the NMLA.'
-player_impact: Pilots were involved in rescue, repair, and security operations following the attacks.
+summary: '*Pilots Federation ALERT* Explosions have struck starports across The Alliance,
+  Empire and Federation In a coordinated bombing attack by the NMLA.'
+player_impact: Pilots were involved in rescue, repair, and security operations following
+  the attacks.
 persons:
 - Achenar
 - Alioth
@@ -46,17 +48,20 @@ topics:
 - humanitarian
 - terrorism
 arc_id: nmla-terrorism
-modern_impact: '"This event contributed to the evolving political and security landscape of the galaxy in 3307."'
+modern_impact: '"This event contributed to the evolving political and security landscape
+  of the galaxy in 3307."'
 legacy_weight: 5
 significance: high
 related_uuids:
 - 0ed40d37-c7a2-5252-9105-e141bc1020d5
-- ba0ab37a-3135-52b4-a668-22e5ef0700b6
 - 53d46995-be97-58ec-bca6-43387e9ea9c9
-- 81935802-cfe1-5060-bd5a-d55783730845
 - 6efd63d0-0d68-594f-8e75-b0c5df826485
+- 81935802-cfe1-5060-bd5a-d55783730845
 - 9e1f1fba-df6f-5280-8095-86f30ca2d79c
+- ba0ab37a-3135-52b4-a668-22e5ef0700b6
+- be3889fc-d42f-5494-b1d1-fdd9dcb4223f
 ---
+
 
 **Pilots Federation ALERT**
 Explosions have struck starports across The Alliance, Empire and Federation In a coordinated bombing attack by the NMLA.

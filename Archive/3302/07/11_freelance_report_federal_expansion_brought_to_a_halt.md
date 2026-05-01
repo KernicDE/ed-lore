@@ -4,7 +4,9 @@ title: Freelance Report  Federal Expansion Brought to a Halt
 slug: freelance_report_federal_expansion_brought_to_a_halt
 date: '3302-07-11'
 source: GitHub
-summary: The Federal expansion campaign has been halted after Ramsbottom Hub in the Segovan system entered lockdown, leaving thousands of pilots unable to deliver construction materials. Some blame Imperial vessels, while others cite pirates.
+summary: The Federal expansion campaign has been halted after Ramsbottom Hub in the
+  Segovan system entered lockdown, leaving thousands of pilots unable to deliver construction
+  materials. Some blame Imperial vessels, while others cite pirates.
 player_impact: None
 persons:
 - Commander BluWolve
@@ -20,10 +22,16 @@ topics:
 - trade
 technologies: []
 arc_id: barnacle-meta-alloy
-modern_impact: Illustrates how player actions and system states can abruptly derail major power infrastructure projects, creating ripple effects across the galactic economy.
+modern_impact: Illustrates how player actions and system states can abruptly derail
+  major power infrastructure projects, creating ripple effects across the galactic
+  economy.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 7a9d73cd-6f0e-56a0-8e5c-a299a53987b9
+- ee15b9fd-bf26-5ef9-a622-ec56c7ec7fc9
 ---
+
 
 The Federal expansion campaign has been brought to a complete standstill. 
 

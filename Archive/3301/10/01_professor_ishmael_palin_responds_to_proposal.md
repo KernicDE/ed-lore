@@ -4,8 +4,14 @@ title: Professor Ishmael Palin Responds to Proposal
 slug: professor_ishmael_palin_responds_to_proposal
 date: '3301-10-01'
 source: GitHub
-summary: Professor Ishmael Palin declined an invitation from the Canonn Interstellar Research Group to join their organization, stating that their philosophies regarding anomalous extraterrestrial objects (AEOs) were at odds. Palin also refused to speculate on the objects' origin and purpose, emphasizing that definitive knowledge was still lacking.
-player_impact: Pilots following the AEO research can note the split between Palin's independent approach and the Canonn's methodology. Palin's continued research may yield alternative insights.
+summary: Professor Ishmael Palin declined an invitation from the Canonn Interstellar
+  Research Group to join their organization, stating that their philosophies regarding
+  anomalous extraterrestrial objects (AEOs) were at odds. Palin also refused to speculate
+  on the objects' origin and purpose, emphasizing that definitive knowledge was still
+  lacking.
+player_impact: Pilots following the AEO research can note the split between Palin's
+  independent approach and the Canonn's methodology. Palin's continued research may
+  yield alternative insights.
 persons:
 - Ishmael Palin
 groups:
@@ -17,10 +23,15 @@ topics:
 technologies:
 - Unknown Artefacts
 arc_id: unknown-artefacts
-modern_impact: Advances understanding of the mysterious alien artefacts and their threat to station infrastructure.
+modern_impact: Advances understanding of the mysterious alien artefacts and their
+  threat to station infrastructure.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- a9ccd499-b9ef-5bb3-be68-dfb161b531b9
+- ec6f3cdd-077e-53df-b05f-f21109ad0a05
 ---
+
 
 Last week, The Voice of Varati published a message from The Canonn Interstellar Research Group, an Independent scientific body, inviting Professor Ishmael Palin to join their organisation. Professor Palin recently made headlines when his Federation-backed programme to research the so-called anomalous extraterrestrial objects (or AEOs) was abruptly terminated. When asked for a response to the message, Professor Palin made his feelings clear: 
 

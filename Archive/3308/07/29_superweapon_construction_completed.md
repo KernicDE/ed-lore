@@ -4,8 +4,12 @@ title: Superweapon Construction Completed
 slug: superweapon_construction_completed
 date: '3308-07-29'
 source: API
-summary: Salvation announces the Proteus Wave core mechanism is fully assembled in HIP 22460, with calibration tests beginning within a Thargoid structure to amplify the weapon's disruptive frequencies.
-player_impact: Volunteers were urgently needed to defend the Proteus Wave from Thargoid forces in HIP 22460. Thargoid combat bonds could be redeemed at the Musashi megaship in Pleiades Sector CW-U B3-2.
+summary: Salvation announces the Proteus Wave core mechanism is fully assembled in
+  HIP 22460, with calibration tests beginning within a Thargoid structure to amplify
+  the weapon's disruptive frequencies.
+player_impact: Volunteers were urgently needed to defend the Proteus Wave from Thargoid
+  forces in HIP 22460. Thargoid combat bonds could be redeemed at the Musashi megaship
+  in Pleiades Sector CW-U B3-2.
 persons:
 - Morag Halloran
 - Salvation
@@ -22,12 +26,17 @@ topics:
 - research
 - war
 arc_id: salvation-azimuth
-modern_impact: The completion announcement marked the final countdown to the Proteus Wave activation, with Salvation explicitly framing the weapon as the culmination of decades of xenological research and cross-species interface theory.
+modern_impact: The completion announcement marked the final countdown to the Proteus
+  Wave activation, with Salvation explicitly framing the weapon as the culmination
+  of decades of xenological research and cross-species interface theory.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 21a8f7b3-6e3c-5a0b-8f5d-9c4e7d2b1a8f
+- 45b84dea-4293-588d-963a-38ee1b061eb5
+- 7252228c-45f3-51ab-96b8-0ecfdccd2daa
 ---
+
 
 **Pilots’ Federation ALERT**
 Work on the Proteus Wave in the HIP 22460 system has concluded, according to an announcement from Azimuth Biotech.

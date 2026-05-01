@@ -4,7 +4,9 @@ title: Federal Crackdown on Thargoid Worshippers
 slug: federal_crackdown_on_thargoid_worshippers
 date: '3308-09-26'
 source: API
-summary: The Federal government declares the Order of the Far God a potential enemy of the state, ordering military seizure of hive-chapels, while Shadow President Felicia Winters condemns the crackdown as political scapegoating.
+summary: The Federal government declares the Order of the Far God a potential enemy
+  of the state, ordering military seizure of hive-chapels, while Shadow President
+  Felicia Winters condemns the crackdown as political scapegoating.
 player_impact: Not specifically mentioned — this is a government policy announcement.
 persons:
 - Felicia Winters
@@ -25,14 +27,18 @@ topics:
 - espionage
 - crime
 arc_id: thargoid-contact
-modern_impact: The Federal crackdown on the Far God cult marks an escalation in domestic counter-xeno policy, treating religious worship as treason and deepening civil liberties concerns.
+modern_impact: The Federal crackdown on the Far God cult marks an escalation in domestic
+  counter-xeno policy, treating religious worship as treason and deepening civil liberties
+  concerns.
 legacy_weight: 4
 significance: high
 related_uuids:
-- d93a944d-c1ef-5d3e-b8e4-7f5896204c4f
-- a0ec3597-7ec5-5cd9-923a-5bb63309eb1a
+- 5fe642bd-1c0d-530e-bad6-c4d4242b8bbb
 - 8a40f4b9-eebb-59f0-8d54-b3204f69be67
+- a0ec3597-7ec5-5cd9-923a-5bb63309eb1a
+- d93a944d-c1ef-5d3e-b8e4-7f5896204c4f
 ---
+
 
 The Federal government has declared the Order of the Far God to be a potential enemy of the state.
 The following press statement was delivered from the White House on Mars:

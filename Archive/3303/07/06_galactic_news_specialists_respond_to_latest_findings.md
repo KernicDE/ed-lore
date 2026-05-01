@@ -4,7 +4,10 @@ title: Galactic News  Specialists Respond to Latest Findings
 slug: galactic_news_specialists_respond_to_latest_findings
 date: '3303-07-06'
 source: GitHub
-summary: Professor Ishmael Palin comments on the discovery of functional technology at Thargoid structures, confirming connections to Unknown Artefacts and Probes. Engineer Ram Tah discusses the negative reaction between Guardian and Thargoid artefacts, suggesting a potentially hostile prior contact between the two races.
+summary: Professor Ishmael Palin comments on the discovery of functional technology
+  at Thargoid structures, confirming connections to Unknown Artefacts and Probes.
+  Engineer Ram Tah discusses the negative reaction between Guardian and Thargoid artefacts,
+  suggesting a potentially hostile prior contact between the two races.
 player_impact: None
 persons:
 - Ishmael Palin
@@ -20,10 +23,15 @@ topics:
 - xenoarchaeology
 technologies: []
 arc_id: thargoid-contact
-modern_impact: Thargoid activity escalates, fundamentally changing the galactic security landscape and driving the creation of anti-xeno defence forces.
+modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
+  landscape and driving the creation of anti-xeno defence forces.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 3d04ddca-30ae-553b-9712-2589606ba8c5
+- c487e743-8aef-5cb6-aaaf-4a1a2aa8bfe5
 ---
+
 
 Professor Ishmael Palin, leading authority on xeno-biological research, has commented on The discovery of functional technology at the Thargoid structures. 
 

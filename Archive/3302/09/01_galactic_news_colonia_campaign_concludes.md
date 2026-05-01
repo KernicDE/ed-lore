@@ -4,7 +4,9 @@ title: Galactic News  Colonia Campaign Concludes
 slug: galactic_news_colonia_campaign_concludes
 date: '3302-09-01'
 source: GitHub
-summary: The 80 DD-D 774-CE-2 faction announced that its campaign to establish a new outpost in the Colonia Nebula received overwhelming support from hundreds of independent pilots delivering supplies to Jaques Station.
+summary: The 80 DD-D 774-CE-2 faction announced that its campaign to establish a new
+  outpost in the Colonia Nebula received overwhelming support from hundreds of independent
+  pilots delivering supplies to Jaques Station.
 player_impact: None
 persons: []
 groups:
@@ -13,10 +15,15 @@ locations:
 - Jaques Station
 technologies: []
 arc_id: jaques-station
-modern_impact: The successful campaign established a permanent outpost in the Colonia Nebula, expanding humanity's deep-space frontier.
+modern_impact: The successful campaign established a permanent outpost in the Colonia
+  Nebula, expanding humanity's deep-space frontier.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 5532a155-7d5e-5a24-be3b-602dc8e25d83
+- cc368b7d-06ac-5261-9a3c-5f8dbd8d8750
 ---
+
 
 The 80 DD-D 774-CE-2 faction has announced that Its campaign to establish a new outpost in the Colonia Nebula has received the unqualified support of the galactic community. Hundreds of Independent pilots responded to the appeal, resulting In a massive influx of deliveries to Jaques Station, the organisation's base of operations. 
 

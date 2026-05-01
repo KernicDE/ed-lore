@@ -28,7 +28,11 @@ modern_impact: Federal expansion into the Pleiades to control meta-alloy access 
   superpower competition over non-human resources.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 6991cc13-867b-543d-8796-2e51d900ccfa
+- fc52b28b-af0b-5905-9ce2-554b029fb353
 ---
+
 
 
 A spokesperson for The Future of Segovan has announced that the Federation's appeal for construction materials has come to an end. Thousands of tonnes of material were delivered to Obsidian Orbital This week, Which will be used to construct a new outpost on HIP 17225 A 1. In a brief statement, the spokesperson thanked those who had contributed to the initiative: 

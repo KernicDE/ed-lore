@@ -4,7 +4,10 @@ title: Jupiter Division Inspires Corporatist Movement
 slug: jupiter_division_inspires_corporatist_movement
 date: '3307-06-02'
 source: API
-summary: Despite its founder's imprisonment, Jupiter Division survives and grows by gathering corporatist believers within the Federation. The faction has retaken control of multiple systems and its megaship Victory's Forge repelled Federal troops. Core Dynamics CEO Owen McKenna vows to destroy the rogue department.
+summary: Despite its founder's imprisonment, Jupiter Division survives and grows by
+  gathering corporatist believers within the Federation. The faction has retaken control
+  of multiple systems and its megaship Victory's Forge repelled Federal troops. Core
+  Dynamics CEO Owen McKenna vows to destroy the rogue department.
 player_impact: None directly; this is a political analysis piece.
 persons:
 - Jupiter Rochester
@@ -24,14 +27,18 @@ topics:
 technologies:
 - Victory's Forge megaship
 arc_id: federal-politics
-modern_impact: Jupiter Division's survival demonstrates that corporatist sentiment persists in the Federation, creating a political undercurrent that future leaders must contend with even after the faction's eventual defeat.
+modern_impact: Jupiter Division's survival demonstrates that corporatist sentiment
+  persists in the Federation, creating a political undercurrent that future leaders
+  must contend with even after the faction's eventual defeat.
 legacy_weight: 4
 significance: medium
 related_uuids:
-- ee5b7c0a-d673-55fa-b1af-b0e73f400736
-- e80dc871-1c60-5bbc-ab2c-32af2fdecaf5
 - be0ab3b9-00aa-579f-b1cc-df4dd1f85d1e
+- caeee234-63d4-5e15-951d-0e83ac79930a
+- e80dc871-1c60-5bbc-ab2c-32af2fdecaf5
+- ee5b7c0a-d673-55fa-b1af-b0e73f400736
 ---
+
 
 The Core Dynamics breakaway faction created by ex-CEO Jupiter Rochester has survived, by gathering believers in the corporate rule of the Federation.
 Conrad Sterling, political journalist for Vox Galactica, published This report:

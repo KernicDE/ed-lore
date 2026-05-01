@@ -4,8 +4,11 @@ title: Azimuth Condemns 'Alien-Loving' Resistance
 slug: azimuth_condemns_alien_loving_resistance
 date: '3308-07-25'
 source: API
-summary: Azimuth Biotech director Torben Rademaker condemns Operation Wych Hunt protestors as alien-loving traitors after Azimuth assets are expelled from Merope and Qarato and Hind Mine is attacked.
-player_impact: Azimuth Biotech petitioned authorities for action and requested independent pilots loyal to Salvation's cause to defend their operations from saboteurs.
+summary: Azimuth Biotech director Torben Rademaker condemns Operation Wych Hunt protestors
+  as alien-loving traitors after Azimuth assets are expelled from Merope and Qarato
+  and Hind Mine is attacked.
+player_impact: Azimuth Biotech petitioned authorities for action and requested independent
+  pilots loyal to Salvation's cause to defend their operations from saboteurs.
 persons:
 - Torben Rademaker
 groups:
@@ -23,12 +26,17 @@ topics:
 - corporate expansion
 - war
 arc_id: salvation-azimuth
-modern_impact: Rademaker's rhetoric framing anti-Azimuth protestors as alien-loving traitors established the propaganda template that would be used to silence dissent throughout the Proteus Wave campaign.
+modern_impact: Rademaker's rhetoric framing anti-Azimuth protestors as alien-loving
+  traitors established the propaganda template that would be used to silence dissent
+  throughout the Proteus Wave campaign.
 legacy_weight: 5
 significance: high
 related_uuids:
+- 8c4e7d2b-1a8f-5a0b-8f5d-9c4e7d2b1a8f
+- bc635a7c-22bf-5a79-b6bb-781f8b67a199
 - d506983a-04e6-5b65-8223-92c8cf470399
 ---
+
 
 As its anti-xeno initiative in HIP 22460 continues, Azimuth Biotech has been deliberately targeted by protestors in other systems.
 Director Torben Rademaker, head of strategic operations, made a public broadcast from the corporation’s headquarters at Hind Mine starport:

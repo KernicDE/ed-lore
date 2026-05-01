@@ -1,5 +1,4 @@
 ---
-
 uuid: 96f02e47-3d25-5ec1-904e-1c49c37b218d
 title: Community Goal  Federation Appeals for Exploration Data
 slug: community_goal_federation_appeals_for_exploration_data
@@ -26,7 +25,11 @@ modern_impact: Federal gathering of Pleiades exploration data accelerates mappin
   of the region and supports investigation of non-human wreckage sites.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 45f1d963-4222-5108-9654-fda5a4a5723f
+- 8a4e4ba1-b0d5-594a-9b71-383222dea700
 ---
+
 
 
 The Federation has issued a public appeal for exploration data as part of Its ongoing operation in the Pleiades Nebula. The appeal is being coordinated by the Pleiades Resource Enterprise, Which released The following statement to the media: 

@@ -4,7 +4,9 @@ title: Freelance Report  Looking for Peace, or War
 slug: freelance_report_looking_for_peace_or_war
 date: '3302-05-13'
 source: GitHub
-summary: Dr Derthek, a founding member of the Canonn Interstellar Research Group, embarks on an ambitious project to map the entire War and Peace Nebula (NGC 6357), hoping to discover more barnacles, Unknown Artefacts, or something entirely new.
+summary: Dr Derthek, a founding member of the Canonn Interstellar Research Group,
+  embarks on an ambitious project to map the entire War and Peace Nebula (NGC 6357),
+  hoping to discover more barnacles, Unknown Artefacts, or something entirely new.
 player_impact: None
 persons:
 - Dr Derthek
@@ -20,10 +22,15 @@ topics:
 - ship
 - war
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
+  and fuels the emerging Thargoid contact narrative.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 11e84b08-9a8c-5598-8fad-3e16d4f4f6e2
+- 157b98f9-9126-5564-b254-2cbba5d2f266
 ---
+
 
 Dr Derthek, a founding member of The Canonn Interstellar Research Group, has embarked on an ambitious project to map NGC 6357, also known As the War and Peace Nebula, in Its entirety. 
 

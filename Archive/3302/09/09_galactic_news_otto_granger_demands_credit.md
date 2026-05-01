@@ -4,7 +4,10 @@ title: Galactic News  Otto Granger Demands Credit
 slug: galactic_news_otto_granger_demands_credit
 date: '3302-09-09'
 source: GitHub
-summary: Smuggler Otto Granger has demanded credit for the discovery of mysterious debris in the Pleiades Nebula, claiming he and his friends found it first. Commentators have countered that his attempts to profit from the discovery justify denying him recognition.
+summary: Smuggler Otto Granger has demanded credit for the discovery of mysterious
+  debris in the Pleiades Nebula, claiming he and his friends found it first. Commentators
+  have countered that his attempts to profit from the discovery justify denying him
+  recognition.
 player_impact: None
 persons:
 - Otto Granger
@@ -13,10 +16,15 @@ groups:
 locations: []
 technologies: []
 arc_id: pleiades-expansion
-modern_impact: Otto Granger's claim highlights the tension between private profit and public scientific credit in the race to exploit Pleiades discoveries.
+modern_impact: Otto Granger's claim highlights the tension between private profit
+  and public scientific credit in the race to exploit Pleiades discoveries.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 6d4d44e1-595b-556d-b25d-7e2909ea5ff3
+- 794356b5-0823-59c7-963d-c2051bd6feae
 ---
+
 
 Otto Granger, The smuggler who involved the galactic community in an elaborate search for the mysterious debris in the Pleiades Nebula, has demanded that he receive credit for the discovery. 
 

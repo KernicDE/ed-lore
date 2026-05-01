@@ -4,7 +4,11 @@ title: Four Federal Systems Declare Independence
 slug: four_federal_systems_declare_independence
 date: '3307-06-29'
 source: API
-summary: The Azaladshu Free faction secedes from the Federation, declaring its four systems independent in protest against surveillance laws. Mayor Constanza Noguera calls the Federation corrupt and authoritarian. Congress declares secession illegal and orders the Federal Navy on alert. Hudson blames criminal behaviour; Winters blames the PDB itself.
+summary: The Azaladshu Free faction secedes from the Federation, declaring its four
+  systems independent in protest against surveillance laws. Mayor Constanza Noguera
+  calls the Federation corrupt and authoritarian. Congress declares secession illegal
+  and orders the Federal Navy on alert. Hudson blames criminal behaviour; Winters
+  blames the PDB itself.
 player_impact: None directly; this is a political secession announcement.
 persons:
 - Constanza Noguera
@@ -32,15 +36,20 @@ topics:
 technologies:
 - Proactive Detection Bureau surveillance system
 arc_id: federal-politics
-modern_impact: The Azaladshu secession triggers a chain reaction across Federal space, with multiple factions following suit. It becomes the most serious constitutional crisis in Federation history, exposing the deep fractures caused by the PDB.
+modern_impact: The Azaladshu secession triggers a chain reaction across Federal space,
+  with multiple factions following suit. It becomes the most serious constitutional
+  crisis in Federation history, exposing the deep fractures caused by the PDB.
 legacy_weight: 5
 significance: high
 related_uuids:
+- 222858de-4cad-5e93-8606-bf343116ee8d
 - 677ba8ea-d7b4-5d96-b990-a430969d2b98
-- f02f048f-667a-5947-9236-9330633d8a5f
 - 82080870-af46-5023-854f-189ec261531a
 - bc50ffda-083d-5387-b532-bfc39ae6807f
+- be0ab3b9-00aa-579f-b1cc-df4dd1f85d1e
+- f02f048f-667a-5947-9236-9330633d8a5f
 ---
+
 
 The Azaladshu Free faction, Which controls four systems, has seceded from the Federation in protest against civilian surveillance.
 The unexpected declaration followed the election of new leadership for Azaladshu Free, which currently controls the Azaladshu, LFT 824, LHS 277 and LTT 3919 systems. 

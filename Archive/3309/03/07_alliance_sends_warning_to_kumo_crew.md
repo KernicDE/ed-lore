@@ -4,7 +4,8 @@ title: Alliance Sends Warning to Kumo Crew
 slug: alliance_sends_warning_to_kumo_crew
 date: '3309-03-07'
 source: API
-summary: The Alliance formally condemns the Kumo Crew's attempted takeover of California Nebula systems under the guise of anti-xeno defense, with Mahon warning Archon Delaine.
+summary: The Alliance formally condemns the Kumo Crew's attempted takeover of California
+  Nebula systems under the guise of anti-xeno defense, with Mahon warning Archon Delaine.
 player_impact: Not specifically mentioned — this is a diplomatic and political report.
 persons:
 - Edmund Mahon
@@ -21,12 +22,20 @@ topics:
 - investigation
 entities: []
 arc_id: thargoid-contact
-modern_impact: Trager's detailed findings — 'using bribery and coercion to pave the way for their takeover' and 'overthrowing local authorities under the pretence of emergency security measures' — exposes the Kumo Crew's strategy. Mahon's direct message — 'The Alliance is watching you' — is a clear threat. The framing as 'a brazen act of aggression against Allied factions' elevates the conflict to international incident.
+modern_impact: Trager's detailed findings — 'using bribery and coercion to pave the
+  way for their takeover' and 'overthrowing local authorities under the pretence of
+  emergency security measures' — exposes the Kumo Crew's strategy. Mahon's direct
+  message — 'The Alliance is watching you' — is a clear threat. The framing as 'a
+  brazen act of aggression against Allied factions' elevates the conflict to international
+  incident.
 legacy_weight: 5
 significance: high
 related_uuids:
+- 147a3c1e-ea2e-582c-8b5c-676b3075f426
 - a4e56a0c-8ed6-5ea0-8470-d26ed7eb10ac
+- bb92f6c0-0def-564c-9b52-f2f1c75fc853
 ---
+
 
 Recent activities by the Kumo Crew syndicate in the California Nebula have been formally condemned by the Alliance.
 Councillor Jed Trager  supervised an investigation into the Kumo Council’s attempt to take control of several systems, ostensibly to defend them against a wave of Thargoid attacks. He summarised its findings during a session of the Assembly:

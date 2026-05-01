@@ -4,7 +4,10 @@ title: Azimuth Divides Media Opinion
 slug: azimuth_divides_media_opinion
 date: '3308-08-05'
 source: API
-summary: Editorial pieces from across the core systems reveal sharply divided media opinion on Azimuth Biotech and Salvation, ranging from Imperial fears of Federal aggression to concerns about corporate influence and Princess Aisling's warnings of manipulation.
+summary: Editorial pieces from across the core systems reveal sharply divided media
+  opinion on Azimuth Biotech and Salvation, ranging from Imperial fears of Federal
+  aggression to concerns about corporate influence and Princess Aisling's warnings
+  of manipulation.
 player_impact: Not specifically mentioned — this is a media analysis piece.
 persons:
 - Aisling Duval
@@ -23,12 +26,17 @@ topics:
 - research
 - war
 arc_id: salvation-azimuth
-modern_impact: The media divide exposed how Salvation had become a political prism, with each faction interpreting his actions through their own ideological lens rather than objective assessment of Azimuth's crimes.
+modern_impact: The media divide exposed how Salvation had become a political prism,
+  with each faction interpreting his actions through their own ideological lens rather
+  than objective assessment of Azimuth's crimes.
 legacy_weight: 4
 significance: medium
 related_uuids:
 - 45b84dea-4293-588d-963a-38ee1b061eb5
+- b8b1752e-3808-5805-a594-5fb18505ae4e
+- fc61ac94-0fd3-59ea-8fb4-140ec7aa7040
 ---
+
 
 Editorial pieces published by newsfeeds across the core systems illustrate a range of viewpoints on current events in HIP 22460.
 Eye on Achenar: “There is no doubt that the real threat to our Empire will arise once the Thargoids are gone. That’s when Federal aggression will undoubtedly resume, fuelled by centuries of envy at our glorious splendour.”

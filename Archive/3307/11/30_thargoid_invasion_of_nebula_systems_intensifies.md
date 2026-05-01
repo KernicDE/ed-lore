@@ -4,8 +4,11 @@ title: Thargoid Invasion of Nebula Systems Intensifies
 slug: thargoid_invasion_of_nebula_systems_intensifies
 date: '3307-11-30'
 source: API
-summary: Thargoid attacks intensify across the California, Coalsack, Pleiades, and Witch Head Nebulas, with anti-xeno squadrons struggling to repel unusually difficult waves of reinforcements.
-player_impact: Independent pilots and anti-xeno squadrons fought to defend starports and push back Thargoid fleets across multiple nebula systems.
+summary: Thargoid attacks intensify across the California, Coalsack, Pleiades, and
+  Witch Head Nebulas, with anti-xeno squadrons struggling to repel unusually difficult
+  waves of reinforcements.
+player_impact: Independent pilots and anti-xeno squadrons fought to defend starports
+  and push back Thargoid fleets across multiple nebula systems.
 persons:
 - Ernesto Rios
 - Salvation
@@ -18,10 +21,15 @@ topics:
 - investigation
 - war
 arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape and drives anti-xeno defence efforts.
+modern_impact: Thargoid activity fundamentally changes the galactic security landscape
+  and drives anti-xeno defence efforts.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 2b4db5ae-e575-5f03-bb79-4a02d667f70a
+- cf91b0fc-492e-50b1-91e4-933e0e125139
 ---
+
 
 **Pilots’ Federation ALERT**
 Systems in The California, Coalsack, Pleiades and Witch Head Nebulas are under sustained assault by the Thargoids.

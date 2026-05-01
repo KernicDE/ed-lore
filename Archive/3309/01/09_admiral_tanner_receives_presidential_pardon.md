@@ -4,7 +4,8 @@ title: Admiral Tanner Receives Presidential Pardon
 slug: admiral_tanner_receives_presidential_pardon
 date: '3309-01-09'
 source: API
-summary: President Zachary Hudson grants Admiral Aden Tanner a full presidential pardon, overturning his court martial and reinstating him into the Federal Navy.
+summary: President Zachary Hudson grants Admiral Aden Tanner a full presidential pardon,
+  overturning his court martial and reinstating him into the Federal Navy.
 player_impact: Not specifically mentioned — this is a political report.
 persons:
 - Aden Tanner
@@ -23,14 +24,20 @@ topics:
 - war
 entities: []
 arc_id: thargoid-titan-war
-modern_impact: '"President Hudson therefore believes that Tanner''s in-depth experience in combating Thargoid forces is too valuable to disregard, considering the current situation." This pardon represents a major reversal of Federal policy, validating Tanner''s unauthorized actions against Azimuth and restoring a key anti-xeno strategist to military relevance.'
+modern_impact: '"President Hudson therefore believes that Tanner''s in-depth experience
+  in combating Thargoid forces is too valuable to disregard, considering the current
+  situation." This pardon represents a major reversal of Federal policy, validating
+  Tanner''s unauthorized actions against Azimuth and restoring a key anti-xeno strategist
+  to military relevance.'
 legacy_weight: 5
 significance: high
 related_uuids:
-- b639bbd6-4ffb-5d89-a8f6-8ac3f81ab73c
+- 35ed6f3a-9ca1-5e6c-babf-fed3121e14d2
 - 8b0086f9-372c-5557-906d-f1d12dcbc7de
 - 918087f0-e635-591b-bc74-a1742da82b05
+- b639bbd6-4ffb-5d89-a8f6-8ac3f81ab73c
 ---
+
 
 The court martial verdict of Admiral Aden Tanner has been officially overturned by an executive order from President Zachary Hudson.
 In November 3307, Tanner attempted to take control of Hind Mine starport while in command of the Musashi megaship. He claimed that databanks at the headquarters of Taurus Mining Ventures – as Azimuth Biotech was then known – contained evidence that Salvation’s anti-xeno superweapons were designed to attract the Thargoids into populated systems before they were deployed. 

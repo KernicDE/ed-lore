@@ -25,13 +25,16 @@ modern_impact: '"We welcome becoming closer partners with the Alliance." The Lak
 legacy_weight: 2
 significance: low
 related_uuids:
-- 533f8ff4-f23d-500f-83d9-92209119bc5b
 - 31ca43b5-5307-50b4-bbd0-948f5ba63d94
-- fefdabb9-36ba-57a2-8321-e9764f0b713c
-- ef475ada-e268-55e0-8ada-ae250caa5c86
-- e25e2c83-7be4-5236-9a1a-93321f277b40
+- 533f8ff4-f23d-500f-83d9-92209119bc5b
 - c1469916-3aca-5e3b-8dc5-76baf74b7e68
+- c917c581-7cd2-54eb-a0cd-ff49b24b1f92
+- d6d609ee-2c2d-5373-92bc-f2c795d3d781
+- e25e2c83-7be4-5236-9a1a-93321f277b40
+- ef475ada-e268-55e0-8ada-ae250caa5c86
+- fefdabb9-36ba-57a2-8321-e9764f0b713c
 ---
+
 
 
 The shipbuilding company Lakon Spaceways has officially accepted a bid for ownership from Federal corporation Core Dynamics.

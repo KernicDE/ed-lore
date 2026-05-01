@@ -4,8 +4,13 @@ title: The Bulwark Project
 slug: the_bulwark_project
 date: '3304-02-16'
 source: GitHub
-summary: The Federation has launched the Bulwark Project, an initiative to develop autonomous military hardware to fight the Thargoids. Federal Shadow President Felicia Winters stated the project aims to minimize casualties while continuing defense, dismissing Imperial concerns about AI development by clarifying it is not intended to develop machine intelligence.
-player_impact: Pilots can deliver commodities to Jahn Dock in the Momoirent system to support the Bulwark Project.
+summary: The Federation has launched the Bulwark Project, an initiative to develop
+  autonomous military hardware to fight the Thargoids. Federal Shadow President Felicia
+  Winters stated the project aims to minimize casualties while continuing defense,
+  dismissing Imperial concerns about AI development by clarifying it is not intended
+  to develop machine intelligence.
+player_impact: Pilots can deliver commodities to Jahn Dock in the Momoirent system
+  to support the Bulwark Project.
 persons:
 - Felicia Winters
 groups:
@@ -20,10 +25,16 @@ topics:
 - trade
 - war
 arc_id: thargoid-contact
-modern_impact: The Bulwark Project represents a controversial Federal effort to automate anti-Thargoid defense, testing long-standing galactic prohibitions against artificial intelligence development.
+modern_impact: The Bulwark Project represents a controversial Federal effort to automate
+  anti-Thargoid defense, testing long-standing galactic prohibitions against artificial
+  intelligence development.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 76307554-ba68-5c8d-b7ee-92367b9b57e8
+- 9665e067-39ba-5291-ad4e-d19f356c2e60
 ---
+
 
 The Federation has launched an initiative to develop autonomous military hardware With Which to fight the Thargoids. 
 

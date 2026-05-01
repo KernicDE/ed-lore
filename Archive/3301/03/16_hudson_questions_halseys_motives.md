@@ -4,8 +4,13 @@ title: Hudson Questions Halsey's Motives
 slug: hudson_questions_halseys_motives
 date: '3301-03-16'
 source: GitHub
-summary: Shadow President Hudson attacked President Halsey's offensive against the Crimson State Group, calling it 'nothing more than a petty attempt to show strength at the cost of hundreds of thousands of innocent lives'. He credited Federal Navy training and loyal Federal pilots for successes in Lugh, claiming Halsey sent troops without adequate support or supplies.
-player_impact: None directly; Hudson's criticism of Halsey's Lugh campaign further eroded public confidence in her leadership.
+summary: Shadow President Hudson attacked President Halsey's offensive against the
+  Crimson State Group, calling it 'nothing more than a petty attempt to show strength
+  at the cost of hundreds of thousands of innocent lives'. He credited Federal Navy
+  training and loyal Federal pilots for successes in Lugh, claiming Halsey sent troops
+  without adequate support or supplies.
+player_impact: None directly; Hudson's criticism of Halsey's Lugh campaign further
+  eroded public confidence in her leadership.
 persons:
 - Zachary Hudson
 - Jasmina Halsey
@@ -17,10 +22,15 @@ topics:
 - war
 - politics
 arc_id: lugh-independence
-modern_impact: Hudson's attacks on Halsey's military competence became a recurring theme that would eventually contribute to her removal from office.
+modern_impact: Hudson's attacks on Halsey's military competence became a recurring
+  theme that would eventually contribute to her removal from office.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 15273afe-bfae-58ed-9f3b-306cf7fdddd7
+- 911e0972-8e10-51d0-a255-27cb917cae8a
 ---
+
 
 Shadow President Hudson has released a scathing attack on The President's offensive against The Crimson State Group, calling it "nothing more than a petty attempt to show strength at the cost of Hundreds of thousands of innocent lives". 
 

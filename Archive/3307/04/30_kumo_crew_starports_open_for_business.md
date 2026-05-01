@@ -4,8 +4,12 @@ title: Kumo Crew Starports Open for Business
 slug: kumo_crew_starports_open_for_business
 date: '3307-04-30'
 source: API
-summary: Five new Kumo Crew starports become fully operational across the galaxy. Arch-Corsair Kay Volantyne claims they encourage legitimate trade, though neighbouring systems fear black market activity. Subsidiaries of Sirius Corporation appear in all five systems, fuelling speculation about financial ties to the syndicate.
-player_impact: The new starports provide full services to pilots, though security agencies warn they may harbour black markets.
+summary: Five new Kumo Crew starports become fully operational across the galaxy.
+  Arch-Corsair Kay Volantyne claims they encourage legitimate trade, though neighbouring
+  systems fear black market activity. Subsidiaries of Sirius Corporation appear in
+  all five systems, fuelling speculation about financial ties to the syndicate.
+player_impact: The new starports provide full services to pilots, though security
+  agencies warn they may harbour black markets.
 persons:
 - Archon Delaine
 - Kay Volantyne
@@ -32,13 +36,17 @@ technologies:
 - Orbis starport
 - Black market
 arc_id: kumo-crew-rise
-modern_impact: The Sirius Corporation connection hints at the later confirmed financial backing that enables the Kumo Crew's expansion. The starports in the Coalsack Nebula prove strategically significant as Thargoid activity intensifies in the region.
+modern_impact: The Sirius Corporation connection hints at the later confirmed financial
+  backing that enables the Kumo Crew's expansion. The starports in the Coalsack Nebula
+  prove strategically significant as Thargoid activity intensifies in the region.
 legacy_weight: 3
 significance: medium
 related_uuids:
-- 808a1c32-013a-58f3-bf85-f48036f3d4f1
 - 44e6e7f1-98b2-57df-811b-cb9e3a1fc528
+- 808a1c32-013a-58f3-bf85-f48036f3d4f1
+- 99a40044-3a86-5461-91a1-da2156ab2f0b
 ---
+
 
 **Pilots Federation ALERT**
 Five new starports constructed by Archon Delaine’s recent campaign have now become fully operational.

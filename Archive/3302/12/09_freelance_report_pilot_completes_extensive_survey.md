@@ -4,7 +4,9 @@ title: Freelance Report  Pilot Completes Extensive Survey
 slug: freelance_report_pilot_completes_extensive_survey
 date: '3302-12-09'
 source: GitHub
-summary: Commander MissingSea of the Deep Recon X team has completed an extensive survey of the Eol Prou GG-X d1 sub-sector near Colonia, discovering hundreds of new systems and identifying terraforming candidates.
+summary: Commander MissingSea of the Deep Recon X team has completed an extensive
+  survey of the Eol Prou GG-X d1 sub-sector near Colonia, discovering hundreds of
+  new systems and identifying terraforming candidates.
 player_impact: None
 persons:
 - MissingSea
@@ -18,10 +20,15 @@ topics:
 - exploration
 technologies: []
 arc_id: jaques-station
-modern_impact: Jaques Station's journey to Colonia establishes a new frontier settlement, opening up deep-space colonisation.
+modern_impact: Jaques Station's journey to Colonia establishes a new frontier settlement,
+  opening up deep-space colonisation.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 20cf9b0a-7633-5868-82c2-9c74e25928fc
+- b997725a-f24c-5d2e-b616-3a6e13903719
 ---
+
 
 Commander MissingSea of The Deep Recon X exploration team has completed an extensive survey of the Eol Prou GG-X d1 sub-sector, Located between 260 and 370 light years from Colonia. 
 

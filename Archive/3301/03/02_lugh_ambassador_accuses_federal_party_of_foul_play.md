@@ -4,8 +4,12 @@ title: Lugh Ambassador Accuses Federal Party of Foul Play
 slug: lugh_ambassador_accuses_federal_party_of_foul_play
 date: '3301-03-02'
 source: GitHub
-summary: Lugh Ambassador Éamonn Uí Laoghire of the Crimson State Group held his final rally on Alioth, accusing the Lugh for Equality Party of causing 25,431 child disappearances. He denounced Federal mistreatment and demanded complete separation from Federal ties immediately, declaring 'One people, one system under Lugh's glorious light'.
-player_impact: None directly; diplomatic tensions escalate as Lugh pushes for independence from Federation rule.
+summary: Lugh Ambassador Éamonn Uí Laoghire of the Crimson State Group held his final
+  rally on Alioth, accusing the Lugh for Equality Party of causing 25,431 child disappearances.
+  He denounced Federal mistreatment and demanded complete separation from Federal
+  ties immediately, declaring 'One people, one system under Lugh's glorious light'.
+player_impact: None directly; diplomatic tensions escalate as Lugh pushes for independence
+  from Federation rule.
 persons:
 - Éamonn Uí Laoghire
 groups:
@@ -22,10 +26,15 @@ topics:
 - diplomacy
 arc_id: lugh-independence
 arc_chapter: Diplomatic escalation
-modern_impact: The Lugh independence movement challenges Federal authority and tests the Alliance's non-intervention principles.
+modern_impact: The Lugh independence movement challenges Federal authority and tests
+  the Alliance's non-intervention principles.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 6c47d012-0c17-53a0-8508-284cfdd3035b
+- 8c3ebbe8-50a6-55cd-9390-38dcc5e956c4
 ---
+
 
 Lugh   Ambassador Éamonn Uí Laoghire, The leading spokesman for The Crimson State Group, held his third and final rally on Alioth today. 
 

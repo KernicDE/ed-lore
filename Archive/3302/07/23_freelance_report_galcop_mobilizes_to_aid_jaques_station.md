@@ -4,8 +4,11 @@ title: Freelance Report  GalCop Mobilizes to Aid Jaques Station
 slug: freelance_report_galcop_mobilizes_to_aid_jaques_station
 date: '3302-07-23'
 source: GitHub
-summary: The Galactic Cooperative of Worlds pledges to support the repair of Jaques Station by establishing a logistical supply chain and localised resource base in surrounding sectors, using wealth acquired during the Dangerous Games.
-player_impact: Deliver repair materials to Jaques Station in Eol Prou RS-T d3-94; GalCop has established supply chains to support the effort.
+summary: The Galactic Cooperative of Worlds pledges to support the repair of Jaques
+  Station by establishing a logistical supply chain and localised resource base in
+  surrounding sectors, using wealth acquired during the Dangerous Games.
+player_impact: Deliver repair materials to Jaques Station in Eol Prou RS-T d3-94;
+  GalCop has established supply chains to support the effort.
 persons:
 - Jahena Yar Savor
 - Commander Felix Dyson
@@ -22,10 +25,15 @@ topics:
 technologies:
 - meta-alloys
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
+  and fuels the emerging Thargoid contact narrative.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 89386519-e920-5c88-93d3-61826131b538
+- dbec0d63-cab5-555e-8e66-ac930c200dc7
 ---
+
 
 Since contact With Jaques Station was re-established, a substantial effort from Independent pilots to deliver meta-alloys to The stricken starport has returned it to partial functionality. 
 

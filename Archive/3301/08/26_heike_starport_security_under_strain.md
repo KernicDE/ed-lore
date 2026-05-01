@@ -4,8 +4,16 @@ title: Heike Starport Security under Strain
 slug: heike_starport_security_under_strain
 date: '3301-08-26'
 source: GitHub
-summary: Brunel Station in the Heike system is experiencing a tenfold increase in traffic, with nearly 750 ships docking in 24 hours. Security pilot Kenji Nobu admits not all visitors receive full scrutiny due to overwhelming volumes. The surge is driven by a contract from Emperor's Dawn for large quantities of ceremonial Heike tea. Emperor's Dawn is located over 200 light years away, with most of the journey through Federation space. The unusual demand is straining dockworker and security resources, while raising questions about why the ultra-traditionalist group needs so much tea.
-player_impact: Pilots can profit from transporting Heike tea to Brunel Station due to the unusual demand spike from Emperor's Dawn.
+summary: Brunel Station in the Heike system is experiencing a tenfold increase in
+  traffic, with nearly 750 ships docking in 24 hours. Security pilot Kenji Nobu admits
+  not all visitors receive full scrutiny due to overwhelming volumes. The surge is
+  driven by a contract from Emperor's Dawn for large quantities of ceremonial Heike
+  tea. Emperor's Dawn is located over 200 light years away, with most of the journey
+  through Federation space. The unusual demand is straining dockworker and security
+  resources, while raising questions about why the ultra-traditionalist group needs
+  so much tea.
+player_impact: Pilots can profit from transporting Heike tea to Brunel Station due
+  to the unusual demand spike from Emperor's Dawn.
 persons:
 - Tyber de Maat
 - Kenji Nobu
@@ -23,10 +31,15 @@ topics:
 - trade
 - succession
 arc_id: imperial-succession
-modern_impact: Emperor's Dawn's bulk tea purchase hints at preparations for a significant event and connects the group to Heike despite being based far away.
+modern_impact: Emperor's Dawn's bulk tea purchase hints at preparations for a significant
+  event and connects the group to Heike despite being based far away.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 012c1d4a-4b45-52ab-aefb-91b6915d063d
+- 4924b50c-a75f-5788-bdba-6183fc5ce6f2
 ---
+
 
 On patrol outside The busy starport of Brunel Station, Heike Security Forces pilot Kenji Nobu reluctantly admits that not all visitors to The station are being subjected to "the full scrutiny of the law". 
 

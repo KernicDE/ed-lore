@@ -28,13 +28,15 @@ modern_impact: '"This is a bittersweet moment for me." The Starship One conspira
 legacy_weight: 1
 significance: low
 related_uuids:
+- 16fe8923-2773-584e-a012-9b5cda8fab5b
 - 29fa900d-a3ad-5a63-bdae-88a4acceaf60
+- 4e4f34c5-f585-58c6-983a-ec7b9135f20d
+- c1469916-3aca-5e3b-8dc5-76baf74b7e68
+- e25e2c83-7be4-5236-9a1a-93321f277b40
 - ef475ada-e268-55e0-8ada-ae250caa5c86
 - fefdabb9-36ba-57a2-8321-e9764f0b713c
-- e25e2c83-7be4-5236-9a1a-93321f277b40
-- c1469916-3aca-5e3b-8dc5-76baf74b7e68
-- 16fe8923-2773-584e-a012-9b5cda8fab5b
 ---
+
 
 
 Evidence presented at The trial of Fleet Admiral Vincent suggested financial links to Federal shipbuilding corporation Core Dynamics.

@@ -4,8 +4,12 @@ title: Socho Operation Complete
 slug: socho_operation_complete
 date: '3304-03-23'
 source: GitHub
-summary: The operation to clear Socho of Thargoids has concluded successfully. Scores of pilots supported the campaign by eliminating Thargoid vessels in the system and delivering alien material to Dantec Enterprise. An Aegis Core spokesperson thanked participants and noted the delivered material may lead to discoveries.
-player_impact: Pilots who contributed can collect rewards from Dantec Enterprise in the Socho system.
+summary: The operation to clear Socho of Thargoids has concluded successfully. Scores
+  of pilots supported the campaign by eliminating Thargoid vessels in the system and
+  delivering alien material to Dantec Enterprise. An Aegis Core spokesperson thanked
+  participants and noted the delivered material may lead to discoveries.
+player_impact: Pilots who contributed can collect rewards from Dantec Enterprise in
+  the Socho system.
 persons: []
 groups:
 - Aegis
@@ -16,10 +20,15 @@ topics:
 - alien contact
 - war
 arc_id: thargoid-contact
-modern_impact: The successful clearing of Socho demonstrates that coordinated pilot campaigns can effectively remove Thargoid presences from occupied systems.
+modern_impact: The successful clearing of Socho demonstrates that coordinated pilot
+  campaigns can effectively remove Thargoid presences from occupied systems.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 212afaae-3f8a-5395-bc41-b81ae3ffa192
+- fb494365-37c8-517f-8ecc-cc6dce6ba7e4
 ---
+
 
 The operation to clear Socho of Thargoids has reached a successful conclusion. Scores of pilots supported the campaign by eliminating Thargoid vessels in the system, and by delivering alien material to Dantec Enterprise. 
 

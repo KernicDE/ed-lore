@@ -4,8 +4,14 @@ title: Technical Issues in Warkushanui Intensify
 slug: technical_issues_in_warkushanui_intensify
 date: '3301-10-22'
 source: GitHub
-summary: Technical issues in the Warkushanui system worsened, with Gurragchaa Gateway experiencing inexplicable mechanical problems across multiple systems. Technicians were in 'fire-fighting mode' but had not identified a cause. Commentators noted the increase in anomalous extraterrestrial objects (AEOs) discovered in the system, though station staff would not confirm a connection.
-player_impact: Pilots visiting Warkushanui should monitor station status closely. If the problems persist, services may be suspended. The potential link to Unknown Artefacts adds urgency to the situation.
+summary: Technical issues in the Warkushanui system worsened, with Gurragchaa Gateway
+  experiencing inexplicable mechanical problems across multiple systems. Technicians
+  were in 'fire-fighting mode' but had not identified a cause. Commentators noted
+  the increase in anomalous extraterrestrial objects (AEOs) discovered in the system,
+  though station staff would not confirm a connection.
+player_impact: Pilots visiting Warkushanui should monitor station status closely.
+  If the problems persist, services may be suspended. The potential link to Unknown
+  Artefacts adds urgency to the situation.
 groups:
 - Federal Times
 locations:
@@ -14,10 +20,15 @@ locations:
 topics:
 - construction
 arc_id: unknown-artefacts
-modern_impact: Advances understanding of the mysterious alien artefacts and their threat to station infrastructure.
+modern_impact: Advances understanding of the mysterious alien artefacts and their
+  threat to station infrastructure.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- ad64e49b-87f3-5290-852b-7ba4de078c47
+- ec6f3cdd-077e-53df-b05f-f21109ad0a05
 ---
+
 
 Recent reports from The Warkushanui system suggest that the technical issues affecting the region are worsening. According to the Federal Times, Which spoke With station personnel at Gurragchaa Gateway, starports throughout the system are experiencing a range of inexplicable mechanical problems. A technician at Gurragchaa Gateway said: 
 

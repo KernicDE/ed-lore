@@ -4,8 +4,10 @@ title: 'Salvation: Friend or Foe?'
 slug: salvation_friend_or_foe
 date: '3307-09-27'
 source: API
-summary: A resistance movement emerges to sabotage Salvation's efforts, with opponents destroying disguised weapon components rather than delivering them.
-player_impact: Some pilots joined the counter-initiative to destroy Salvation's disguised weapon components, while others supported his anti-xeno efforts.
+summary: A resistance movement emerges to sabotage Salvation's efforts, with opponents
+  destroying disguised weapon components rather than delivering them.
+player_impact: Some pilots joined the counter-initiative to destroy Salvation's disguised
+  weapon components, while others supported his anti-xeno efforts.
 persons:
 - Salvation
 - Alexei Keel
@@ -15,10 +17,15 @@ topics:
 - alien contact
 - war
 arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape and drives anti-xeno defence efforts.
+modern_impact: Thargoid activity fundamentally changes the galactic security landscape
+  and drives anti-xeno defence efforts.
 legacy_weight: 5
 significance: high
+related_uuids:
+- aed2fd07-75f0-5c5c-b9a5-7f59ac36d851
+- c8e12171-8722-5f14-b9a9-f38718b77cbd
 ---
+
 
 The anonymous Salvation commands much support in the galactic community, but a resistance movement has emerged to sabotage his efforts.
 Vox Galactica featured a special report from freelance journalist Alexei Keel:

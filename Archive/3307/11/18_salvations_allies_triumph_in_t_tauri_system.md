@@ -4,8 +4,10 @@ title: 'Salvation’s Allies Triumph in T Tauri System '
 slug: salvations_allies_triumph_in_t_tauri_system
 date: '3307-11-18'
 source: API
-summary: Taurus Mining Ventures defeats Admiral Aden Tanner's rogue Aegis Defense force in the T Tauri system and gains control of the Musashi megaship.
-player_impact: Independent pilots who supported either side collected rewards from Hind Mine or the Musashi.
+summary: Taurus Mining Ventures defeats Admiral Aden Tanner's rogue Aegis Defense
+  force in the T Tauri system and gains control of the Musashi megaship.
+player_impact: Independent pilots who supported either side collected rewards from
+  Hind Mine or the Musashi.
 persons:
 - Aden Tanner
 - Patience Middleton
@@ -17,10 +19,15 @@ topics:
 - alien contact
 - war
 arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape and drives anti-xeno defence efforts.
+modern_impact: Thargoid activity fundamentally changes the galactic security landscape
+  and drives anti-xeno defence efforts.
 legacy_weight: 5
 significance: high
+related_uuids:
+- cf91b0fc-492e-50b1-91e4-933e0e125139
+- f6496b33-9edc-5219-9ef9-882b834b0db6
 ---
+
 
 **Pilots’ Federation ALERT**
 Taurus Mining Ventures has defeated a rogue Aegis Defense force and gained control of The megaship Musashi.

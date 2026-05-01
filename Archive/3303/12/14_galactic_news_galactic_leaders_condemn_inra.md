@@ -4,7 +4,12 @@ title: Galactic News  Galactic Leaders Condemn INRA
 slug: galactic_news_galactic_leaders_condemn_inra
 date: '3303-12-14'
 source: GitHub
-summary: Following the discovery of further INRA outposts, Emperor Arissa Lavigny-Duval and Alliance Prime Minister Edmund Mahon have denounced the now-defunct INRA. The Emperor stated that defending civilization cannot come at the cost of humanity. Mahon highlighted the tragic story of John Jameson, who was deceived and murdered by the INRA. Both leaders emphasized that Aegis is bound by strict codes of conduct and will not repeat INRA's mistakes.
+summary: Following the discovery of further INRA outposts, Emperor Arissa Lavigny-Duval
+  and Alliance Prime Minister Edmund Mahon have denounced the now-defunct INRA. The
+  Emperor stated that defending civilization cannot come at the cost of humanity.
+  Mahon highlighted the tragic story of John Jameson, who was deceived and murdered
+  by the INRA. Both leaders emphasized that Aegis is bound by strict codes of conduct
+  and will not repeat INRA's mistakes.
 player_impact: None
 persons:
 - Arissa Lavigny-Duval
@@ -22,10 +27,16 @@ topics:
 - succession
 - war
 arc_id: thargoid-contact
-modern_impact: The INRA revelations and subsequent condemnation by galactic leaders fundamentally reshape public understanding of the first Thargoid war and establish Aegis as a more ethical successor organization.
+modern_impact: The INRA revelations and subsequent condemnation by galactic leaders
+  fundamentally reshape public understanding of the first Thargoid war and establish
+  Aegis as a more ethical successor organization.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 8de12bfe-0d5a-5974-806d-b61f23c62bf1
+- 97fc9503-619d-5356-927b-052f72e32d4d
 ---
+
 
 Following The discovery of Further INRA outposts, Emperor Arissa Lavigny-Duval and Alliance Prime Minister Edmund Mahon have issued statements denouncing the now-defunct INRA. 
 

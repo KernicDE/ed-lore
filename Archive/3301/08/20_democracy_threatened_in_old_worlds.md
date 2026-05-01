@@ -4,8 +4,17 @@ title: Democracy Threatened in Old Worlds
 slug: democracy_threatened_in_old_worlds
 date: '3301-08-20'
 source: GitHub
-summary: Allegations surfaced that elements within the Pilots Federation are undermining democratic factions in the Old Worlds to push corporate governments into power and strengthen trade agreements with Alioth. The Lave Fortune Organization has become the most influential faction in Lave with independent pilot support. If successful, Lave would become the third system after Leesti and Reorte to have its democratic government overthrown by a corporation. Commentators fear Prime Minister Edmund Mahon is undercutting Alliance principles to protect trade interests. His office has not responded.
-player_impact: Pilots should be aware that supporting corporate factions in Old Worlds systems may be undermining democratic governments. Those favouring democracy should consider backing democratic-aligned factions instead.
+summary: Allegations surfaced that elements within the Pilots Federation are undermining
+  democratic factions in the Old Worlds to push corporate governments into power and
+  strengthen trade agreements with Alioth. The Lave Fortune Organization has become
+  the most influential faction in Lave with independent pilot support. If successful,
+  Lave would become the third system after Leesti and Reorte to have its democratic
+  government overthrown by a corporation. Commentators fear Prime Minister Edmund
+  Mahon is undercutting Alliance principles to protect trade interests. His office
+  has not responded.
+player_impact: Pilots should be aware that supporting corporate factions in Old Worlds
+  systems may be undermining democratic governments. Those favouring democracy should
+  consider backing democratic-aligned factions instead.
 persons:
 - Edmund Mahon
 - Kulzar
@@ -25,10 +34,15 @@ topics:
 - politics
 - trade
 arc_id: alliance-expansion
-modern_impact: Allegations of corporate interference in Old Worlds democracy raise questions about Alliance values and Prime Minister Mahon's trade policies.
+modern_impact: Allegations of corporate interference in Old Worlds democracy raise
+  questions about Alliance values and Prime Minister Mahon's trade policies.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 5e7fad32-e3d0-56dd-9273-45a2d58afa4b
+- 9a570699-1840-5d09-b9e3-bdcab0452b53
 ---
+
 
 Allegations have surfaced from sources close to The office of Prime Minister Edmund Mahon that unnamed elements within The Pilots Federation are deliberately undermining democratic factions in the Old Worlds. These groups are allegedly scheming to push corporate governments into power to strengthen trade agreements With Alioth. 
 

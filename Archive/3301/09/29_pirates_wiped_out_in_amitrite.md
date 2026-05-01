@@ -4,8 +4,15 @@ title: Pirates Wiped Out in Amitrite
 slug: pirates_wiped_out_in_amitrite
 date: '3301-09-29'
 source: GitHub
-summary: Independent pilots helped the Defence Force of Amitrite clear the system of pirates, eliminating hundreds of hostile ships and driving crime to new lows. The Libertas Cooperative thanked pilots on behalf of Pegasi Sector refugees, noting that families separated by the war could now be reunited safely. Some media speculated the high participation was due to Arissa Lavigny-Duval's crime-deterrence policies, which the DFA dismissed as crass.
-player_impact: Combat pilots successfully cleared Amitrite of pirates, making the refugee route to Munshin safer. Continue supporting anti-piracy efforts in systems along the refugee corridor.
+summary: Independent pilots helped the Defence Force of Amitrite clear the system
+  of pirates, eliminating hundreds of hostile ships and driving crime to new lows.
+  The Libertas Cooperative thanked pilots on behalf of Pegasi Sector refugees, noting
+  that families separated by the war could now be reunited safely. Some media speculated
+  the high participation was due to Arissa Lavigny-Duval's crime-deterrence policies,
+  which the DFA dismissed as crass.
+player_impact: Combat pilots successfully cleared Amitrite of pirates, making the
+  refugee route to Munshin safer. Continue supporting anti-piracy efforts in systems
+  along the refugee corridor.
 persons:
 - Quade
 groups:
@@ -21,10 +28,15 @@ topics:
 - piracy
 technologies: []
 arc_id: kumo-crew-rise
-modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges of protecting civilian populations during pirate wars.
+modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges
+  of protecting civilian populations during pirate wars.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 9069aed4-699d-50b4-9ca4-27efbf4560d6
+- a10f897c-ce67-571c-aee0-e4912eaf4e5c
 ---
+
 
 Officials from The Defence Force of Amitrite have praised The Many pilots who helped clear the system of pirates This week. Hundreds of hostile ships were eliminated, and crime levels in the system subsequently dropped to new lows. 
 

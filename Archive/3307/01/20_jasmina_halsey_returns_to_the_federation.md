@@ -31,13 +31,15 @@ modern_impact: '"This event contributed to the evolving political and security l
 legacy_weight: 3
 significance: medium
 related_uuids:
-- 3a299742-113f-5b36-98e2-a791ed35ae34
+- 16fe8923-2773-584e-a012-9b5cda8fab5b
 - 2f049fb8-69bf-5a8d-a4ad-6ace36a603b9
-- fefdabb9-36ba-57a2-8321-e9764f0b713c
-- ef475ada-e268-55e0-8ada-ae250caa5c86
-- c917c581-7cd2-54eb-a0cd-ff49b24b1f92
+- 3a299742-113f-5b36-98e2-a791ed35ae34
 - 4e4f34c5-f585-58c6-983a-ec7b9135f20d
+- c917c581-7cd2-54eb-a0cd-ff49b24b1f92
+- ef475ada-e268-55e0-8ada-ae250caa5c86
+- fefdabb9-36ba-57a2-8321-e9764f0b713c
 ---
+
 
 
 Former President Jasmina Halsey has arrived on Mars to stand as a witness in The upcoming trial of Fleet Admiral Lucas Vincent.

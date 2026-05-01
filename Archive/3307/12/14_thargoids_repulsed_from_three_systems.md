@@ -4,8 +4,12 @@ title: 'Thargoids Repulsed from Three Systems '
 slug: thargoids_repulsed_from_three_systems
 date: '3307-12-14'
 source: API
-summary: Salvation's anti-xeno superweapons successfully repel Thargoid vessels from Delphi, Maia and Merope during Operation Tri-hammer, with pilots now asked to help repair damaged starports.
-player_impact: Pilots helped transport experimental equipment for Operation Tri-hammer. Now requested to help repair and rescue at Donar's Oak, The Oracle, Obsidian Orbital and Reed's Rest.
+summary: Salvation's anti-xeno superweapons successfully repel Thargoid vessels from
+  Delphi, Maia and Merope during Operation Tri-hammer, with pilots now asked to help
+  repair damaged starports.
+player_impact: Pilots helped transport experimental equipment for Operation Tri-hammer.
+  Now requested to help repair and rescue at Donar's Oak, The Oracle, Obsidian Orbital
+  and Reed's Rest.
 persons:
 - Morag Halloran
 groups:
@@ -26,12 +30,15 @@ topics:
 - humanitarian
 - war
 arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape and drives anti-xeno defence efforts.
+modern_impact: Thargoid activity fundamentally changes the galactic security landscape
+  and drives anti-xeno defence efforts.
 legacy_weight: 4
 significance: high
 related_uuids:
+- 19a5e7dc-fe91-55f1-8994-2b45fde10372
 - 2b4db5ae-e575-5f03-bb79-4a02d667f70a
 ---
+
 
 **Pilots’ Federation ALERT**
 Salvation’s anti-xeno superweapons have cleared most Thargoid vessels from The Delphi, Maia and Merope systems.

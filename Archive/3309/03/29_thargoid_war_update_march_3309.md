@@ -4,8 +4,11 @@ title: 'Thargoid War Update: March 3309'
 slug: thargoid_war_update_march_3309
 date: '3309-03-29'
 source: API
-summary: Vox Galactica reports little change in Thargoid tactics as the war grinds on, with Aegis's caustic sink launcher now available but the Maelstrom cores remaining impenetrable.
-player_impact: Independent pilots and squadrons are asked to wage the front line against the Thargoids, destroying Thargoid vessels and retaking occupied systems.
+summary: Vox Galactica reports little change in Thargoid tactics as the war grinds
+  on, with Aegis's caustic sink launcher now available but the Maelstrom cores remaining
+  impenetrable.
+player_impact: Independent pilots and squadrons are asked to wage the front line against
+  the Thargoids, destroying Thargoid vessels and retaking occupied systems.
 persons:
 - Jade Sanderlyn
 - Aden Tanner
@@ -25,13 +28,19 @@ topics:
 - war
 entities: []
 arc_id: thargoid-titan-war
-modern_impact: Sanderlyn's grim assessment — 'we are still losing more than we save' — underscores the desperate state of the war. Her observation that 'the chances of destroying them are virtually zero' highlights how humanity remained fundamentally outmatched until the Titan counter-offensive later in 3309.
+modern_impact: Sanderlyn's grim assessment — 'we are still losing more than we save'
+  — underscores the desperate state of the war. Her observation that 'the chances
+  of destroying them are virtually zero' highlights how humanity remained fundamentally
+  outmatched until the Titan counter-offensive later in 3309.
 legacy_weight: 5
 significance: high
 related_uuids:
+- 34a4da27-729e-5925-83be-c352b3d06b68
 - 8693b44d-82f2-5b39-b670-b648bd6dd9e0
 - f9e27cfb-6dfc-5440-a368-372c38d9b1a1
+- fa800462-dfd6-511a-91b1-74e994d4128a
 ---
+
 
 Vox Galactica correspondent Jade Sanderlyn reports on the latest developments regarding the war against the Thargoids.
 “In the broad sense, there have been few significant changes in Thargoid tactics. The eight Maelstroms continue to send waves of Thargoid vessels deeper into the core systems. Anti-xeno forces are certainly winning victories, and in some cases retaking previously occupied systems. But we are still losing more than we save.”

@@ -4,8 +4,13 @@ title: The ACS Overwatch
 slug: the_acs_overwatch
 date: '3304-04-06'
 source: GitHub
-summary: The Atlas Corporation has launched a campaign to build the ACS Overwatch megaship in the Lambda Arae system. The vessel will serve as a coordination point for rescue missions and anti-Thargoid operations, as well as a resupply point and safe haven. The corporation has placed orders for commodities and kill orders on wanted ships to protect traders.
-player_impact: Pilots can deliver commodities to Redi Market in the Lambda Arae system and earn rewards.
+summary: The Atlas Corporation has launched a campaign to build the ACS Overwatch
+  megaship in the Lambda Arae system. The vessel will serve as a coordination point
+  for rescue missions and anti-Thargoid operations, as well as a resupply point and
+  safe haven. The corporation has placed orders for commodities and kill orders on
+  wanted ships to protect traders.
+player_impact: Pilots can deliver commodities to Redi Market in the Lambda Arae system
+  and earn rewards.
 persons: []
 groups:
 - Atlas Corporation
@@ -20,10 +25,15 @@ topics:
 - trade
 - war
 arc_id: thargoid-contact
-modern_impact: The ACS Overwatch represents corporate investment in multi-role megaships for anti-xeno coordination and humanitarian operations.
+modern_impact: The ACS Overwatch represents corporate investment in multi-role megaships
+  for anti-xeno coordination and humanitarian operations.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 629e8040-141e-57ac-925a-96afe9db9e08
+- e43f14d8-2b18-5f49-be69-78d34eae1939
 ---
+
 
 The Atlas Corporation has launched a campaign to build a megaship in the Lambda Arae system. 
 

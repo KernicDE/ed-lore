@@ -4,7 +4,10 @@ title: Galactic News  Salomé   Traitor or Terrorist
 slug: galactic_news_salomé_traitor_or_terrorist
 date: '3302-08-13'
 source: GitHub
-summary: The Imperial Citizen published a two-part editorial alleging that Commander Salomé is actually Lady Kahina Tijani Loren, the missing Imperial senator from the Prism system. The article claims she colluded with terrorists, manipulated events for personal advancement, and did not truly reclaim the Prism system as she claimed.
+summary: The Imperial Citizen published a two-part editorial alleging that Commander
+  Salomé is actually Lady Kahina Tijani Loren, the missing Imperial senator from the
+  Prism system. The article claims she colluded with terrorists, manipulated events
+  for personal advancement, and did not truly reclaim the Prism system as she claimed.
 player_impact: None
 persons:
 - Salomé
@@ -24,10 +27,15 @@ topics:
 - war
 technologies: []
 arc_id: prism-senator
-modern_impact: The Imperial Citizen's exposure of Salomé's alleged identity as Senator Kahina Tijani Loren ignites a prolonged media and political firestorm.
+modern_impact: The Imperial Citizen's exposure of Salomé's alleged identity as Senator
+  Kahina Tijani Loren ignites a prolonged media and political firestorm.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 68ece073-dc98-54d1-9ddf-013639d6c6a2
+- d240f09b-07c5-5666-ae5b-289b6ddd0d6b
 ---
+
 
 The Imperial Citizen has published a scathing two-part editorial on an individual by the name of Commander Salomé, alleging that she is in fact Lady Kahina Tijani Loren, the Missing Imperial senator. 
 

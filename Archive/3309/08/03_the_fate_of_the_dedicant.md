@@ -4,7 +4,9 @@ title: The Fate of the Dedicant
 slug: the_fate_of_the_dedicant
 date: '3309-08-03'
 source: API
-summary: The megaship Dedicant is found adrift in HIP 19600, with Thargoid hull penetration and all 8,000+ inhabitants missing; Aegis also announces a new 'hunter' class Thargoid vessel.
+summary: The megaship Dedicant is found adrift in HIP 19600, with Thargoid hull penetration
+  and all 8,000+ inhabitants missing; Aegis also announces a new 'hunter' class Thargoid
+  vessel.
 player_impact: Pilots helped decipher the Dedicant's fragmented distress call.
 persons:
 - Jalen Locke
@@ -19,15 +21,22 @@ topics:
 - war
 entities: []
 arc_id: thargoid-titan-war
-modern_impact: Locke's statement — 'There is evidence that the Thargoids penetrated the hull in multiple locations, and thousands of escape pods were launched. Unusually, there are no bodies onboard and we have not been able to locate any of the escape pods' — is deeply ominous. The detail about 'all three FIA security teams and over 8,000 Far God cultists' being missing establishes the scale. Aegis's announcement of a new 'hunter' class vessel operating near Titans adds a military dimension.
+modern_impact: Locke's statement — 'There is evidence that the Thargoids penetrated
+  the hull in multiple locations, and thousands of escape pods were launched. Unusually,
+  there are no bodies onboard and we have not been able to locate any of the escape
+  pods' — is deeply ominous. The detail about 'all three FIA security teams and over
+  8,000 Far God cultists' being missing establishes the scale. Aegis's announcement
+  of a new 'hunter' class vessel operating near Titans adds a military dimension.
 legacy_weight: 5
 significance: high
 related_uuids:
+- 0359229a-57fb-5f46-bb36-52c62d71db1a
 - 593dbfd3-3686-5bb0-97f2-7392a4948543
 - 6d9dec9b-98e1-5167-9d3c-00c436e9d31c
 - 94095149-30bd-5440-b287-8db2535dc42d
-- 0359229a-57fb-5f46-bb36-52c62d71db1a
+- d06ea080-e835-55dd-8a4b-435de76ea053
 ---
+
 
 **Pilots’ Federation ALERT**
 The lost megaship Dedicant has been located in HIP 19600, with signs of Thargoid attack and all inhabitants missing. 

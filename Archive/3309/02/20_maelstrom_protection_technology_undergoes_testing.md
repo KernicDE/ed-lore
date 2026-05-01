@@ -4,7 +4,8 @@ title: Maelstrom Protection Technology Undergoes Testing
 slug: maelstrom_protection_technology_undergoes_testing
 date: '3309-02-20'
 source: API
-summary: Aegis produces a prototype caustic sink launcher that extends ship survivability inside Thargoid Maelstroms by channelling corrosion into replaceable anodes.
+summary: Aegis produces a prototype caustic sink launcher that extends ship survivability
+  inside Thargoid Maelstroms by channelling corrosion into replaceable anodes.
 player_impact: Not specifically mentioned — this is a research report.
 persons:
 - Alba Tesreau
@@ -25,13 +26,19 @@ topics:
 - war
 entities: []
 arc_id: thargoid-titan-war
-modern_impact: 'Alba Tesreau explained: "This new module functions along similar lines to a heatsink launcher... thereby extending a ship''s range and operating time." This breakthrough represented a critical step toward enabling manned exploration of the Maelstroms, shifting Aegis''s strategy from passive defence to active intelligence gathering inside enemy strongholds.'
+modern_impact: 'Alba Tesreau explained: "This new module functions along similar lines
+  to a heatsink launcher... thereby extending a ship''s range and operating time."
+  This breakthrough represented a critical step toward enabling manned exploration
+  of the Maelstroms, shifting Aegis''s strategy from passive defence to active intelligence
+  gathering inside enemy strongholds.'
 legacy_weight: 4
 significance: high
 related_uuids:
 - 201a0a31-f461-5ded-a815-a7b9c289c352
+- 69df1032-f6ec-58b2-9b05-cbcb3c243462
 - 6c462352-4a0d-5cdc-8c96-390da1eec427
 ---
+
 
 Aegis has produced a prototype module that increases a ship’s ability to survive within caustic environments.
 Professor Alba Tesreau, head of the newly reformed agency, published this statement:

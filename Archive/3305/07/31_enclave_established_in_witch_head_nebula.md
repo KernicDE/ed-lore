@@ -4,8 +4,11 @@ title: Enclave Established in Witch Head Nebula
 slug: enclave_established_in_witch_head_nebula
 date: '3305-07-31'
 source: GitHub
-summary: Independent pilots successfully repel Thargoid forces from the Witch Head Nebula, allowing the Alliance, Empire and Federation to establish an official human enclave with shared colonial assets.
-player_impact: Pilots fought Thargoid forces and were later asked to support repair efforts for damaged starports in the region.
+summary: Independent pilots successfully repel Thargoid forces from the Witch Head
+  Nebula, allowing the Alliance, Empire and Federation to establish an official human
+  enclave with shared colonial assets.
+player_impact: Pilots fought Thargoid forces and were later asked to support repair
+  efforts for damaged starports in the region.
 persons:
 - Alba Tesreau
 - Aden Tanner
@@ -20,12 +23,17 @@ topics:
 - research
 - war
 arc_id: thargoid-contact
-modern_impact: The Witch Head Enclave became humanity's second major foothold in Thargoid territory, securing an alternative source of meta-alloys and demonstrating that coordinated pilot efforts could achieve decisive victories.
+modern_impact: The Witch Head Enclave became humanity's second major foothold in Thargoid
+  territory, securing an alternative source of meta-alloys and demonstrating that
+  coordinated pilot efforts could achieve decisive victories.
 legacy_weight: 5
 significance: high
 related_uuids:
+- 05a59ccc-f3d0-591a-be5e-db8950b1b133
+- 45396224-a215-5ad4-8ebf-6d8150f53be8
 - 969713a8-6dbf-548c-9ce4-4d33ba1f321a
 ---
+
 
 Recent reports from The Witch Head Nebula indicate that the Thargoid forces in the region have been defeated. The initial call to arms from Aegis Research was met With an overwhelming response from Independent pilots, who were able to push back Thargoid incursions from the new human colonies.  
 

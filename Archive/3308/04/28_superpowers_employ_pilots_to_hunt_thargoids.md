@@ -4,8 +4,10 @@ title: Superpowers Employ Pilots to Hunt Thargoids
 slug: superpowers_employ_pilots_to_hunt_thargoids
 date: '3308-04-28'
 source: API
-summary: The superpowers offer bounties on Thargoid vessels while Salvation constructs anti-xeno superweapons.
-player_impact: Independent pilots were offered bounties for destroying Thargoid vessels in Didio, Novas, and Sosong.
+summary: The superpowers offer bounties on Thargoid vessels while Salvation constructs
+  anti-xeno superweapons.
+player_impact: Independent pilots were offered bounties for destroying Thargoid vessels
+  in Didio, Novas, and Sosong.
 persons:
 - Jade Sanderlyn
 - Morag Halloran
@@ -31,13 +33,20 @@ topics:
 - succession
 - war
 arc_id: salvation-azimuth
-modern_impact: '"Salvation has started construction of three anti-xeno superweapons to expunge the latest Thargoid infestation." The joint superpower bounty programme represented an unprecedented level of military coordination around Salvation''s timeline, effectively deputising independent pilots as holding forces for Azimuth Biotech''s weapon development.'
+modern_impact: '"Salvation has started construction of three anti-xeno superweapons
+  to expunge the latest Thargoid infestation." The joint superpower bounty programme
+  represented an unprecedented level of military coordination around Salvation''s
+  timeline, effectively deputising independent pilots as holding forces for Azimuth
+  Biotech''s weapon development.'
 legacy_weight: 5
 significance: high
 related_uuids:
+- 02edc1da-1134-5207-9ffc-6400448fd219
 - 04bfcfe5-65d6-5e23-8e51-a76f0a139c5f
+- 3f6b7847-131b-5ba8-ac81-0d61d8b5bff4
 - 8097c00d-2e15-5445-b408-e3b80f412aac
 ---
+
 
 **Pilots’ Federation ALERT**
 The Alliance, Empire and Federation are offering bounties on Thargoid vessels in the Didio, Novas and Sosong systems.

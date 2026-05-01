@@ -4,8 +4,13 @@ title: Widespread Panic in Sol
 slug: widespread_panic_in_sol
 date: '3310-12-02'
 source: API
-summary: Mass panic erupts in Sol as Titan Cocijo approaches, with evacuation efforts accelerating and riots breaking out at evacuation centres. Defence Secretary Conn Montgomery details refugee operations while ICE-casters blame Seo Jin-ae for revealing Earth's location.
-player_impact: Pilots helped evacuate civilians from Sol, transporting refugees alongside Federal military craft. Freelance pilots were specifically called upon to assist with the evacuation of over 22 billion people.
+summary: Mass panic erupts in Sol as Titan Cocijo approaches, with evacuation efforts
+  accelerating and riots breaking out at evacuation centres. Defence Secretary Conn
+  Montgomery details refugee operations while ICE-casters blame Seo Jin-ae for revealing
+  Earth's location.
+player_impact: Pilots helped evacuate civilians from Sol, transporting refugees alongside
+  Federal military craft. Freelance pilots were specifically called upon to assist
+  with the evacuation of over 22 billion people.
 persons:
 - Conn Montgomery
 - Seo Jin-ae
@@ -21,13 +26,20 @@ topics:
 - humanitarian
 - war
 arc_id: thargoid-titan-war
-modern_impact: Montgomery's statement — 'over 22 billion people in the system that need to be kept safe' — quantifies the scale of the evacuation. The blaming of Seo Jin-ae for 'summoning' Cocijo by revealing Earth's location becomes a recurring narrative that damages her credibility and contributes to her hiatus from Aegis in 3311. The riots and attempts to storm medical facilities reveal how quickly panic turns to xenophobic violence.
+modern_impact: Montgomery's statement — 'over 22 billion people in the system that
+  need to be kept safe' — quantifies the scale of the evacuation. The blaming of Seo
+  Jin-ae for 'summoning' Cocijo by revealing Earth's location becomes a recurring
+  narrative that damages her credibility and contributes to her hiatus from Aegis
+  in 3311. The riots and attempts to storm medical facilities reveal how quickly panic
+  turns to xenophobic violence.
 legacy_weight: 5
 significance: high
 related_uuids:
-- 35b353b0-98d7-556b-8f74-142428546856
 - 02f63f57-22ea-5202-8702-a2677db262a6
+- 35b353b0-98d7-556b-8f74-142428546856
+- 5577d259-b0ea-5583-bd87-af53e524c4db
 ---
+
 
 Confirmation that the final Thargoid Titan, Cocijo, is headed for the Sol system has sparked mass panic among inhabitants.
 Evacuation efforts in Sol began as a precaution on November 28th, when Titan Cocijo first moved towards the core systems. Once it became clear that Cocijo was on a direct course for Sol, these efforts were swiftly accelerated.

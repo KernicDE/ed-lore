@@ -4,8 +4,11 @@ title: Community Goal  Conflict in Parun
 slug: community_goal_conflict_in_parun
 date: '3303-01-12'
 source: GitHub
-summary: Laksmii Jet Power Industries plans to smuggle weapons into Underwood Port in Parun for guerrilla attacks against the Independents of Parun, the system's controlling faction. Both factions appeal for pilot support.
-player_impact: Support either Laksmii Jet Power Industries or the Independents of Parun in the Parun system.
+summary: Laksmii Jet Power Industries plans to smuggle weapons into Underwood Port
+  in Parun for guerrilla attacks against the Independents of Parun, the system's controlling
+  faction. Both factions appeal for pilot support.
+player_impact: Support either Laksmii Jet Power Industries or the Independents of
+  Parun in the Parun system.
 persons: []
 groups:
 - Laksmii Jet Power Industries
@@ -18,10 +21,15 @@ topics:
 - war
 technologies: []
 arc_id: pleiades-expansion
-modern_impact: Faction conflict over an Imperial-aligned smuggling plot in Parun, highlighting proxy warfare between superpower-aligned factions.
+modern_impact: Faction conflict over an Imperial-aligned smuggling plot in Parun,
+  highlighting proxy warfare between superpower-aligned factions.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 8a3d4510-5f41-5755-aeaa-89033dac4352
+- 9b573016-07a8-5505-a458-015d2df902e4
 ---
+
 
 It has been Several weeks since conflict was reported between The Empire and the Federation, following months of hostility between the two superpowers. The last incident connected to the Empire-Federation rift was a clash between the Pleiades Resource Enterprise and the Ant Hill Mob in November. Since then, there have been no reports of conflict. 
 

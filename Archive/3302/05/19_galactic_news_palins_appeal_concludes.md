@@ -4,8 +4,12 @@ title: Galactic News  Palin's Appeal Concludes
 slug: galactic_news_palins_appeal_concludes
 date: '3302-05-19'
 source: GitHub
-summary: Professor Ishmael Palin's appeal for building fabricators concludes successfully. Large quantities of equipment have been delivered to Wilkes Orbital for construction of a new research outpost on Maia A 3 a. Palin plans to study Unknown Artefacts and tinker with starships.
-player_impact: Pilots delivered building fabricators to Wilkes Orbital in the Nespeleve system to support Palin's research outpost construction.
+summary: Professor Ishmael Palin's appeal for building fabricators concludes successfully.
+  Large quantities of equipment have been delivered to Wilkes Orbital for construction
+  of a new research outpost on Maia A 3 a. Palin plans to study Unknown Artefacts
+  and tinker with starships.
+player_impact: Pilots delivered building fabricators to Wilkes Orbital in the Nespeleve
+  system to support Palin's research outpost construction.
 persons:
 - Ishmael Palin
 groups:
@@ -19,10 +23,15 @@ topics:
 - research
 - ship
 arc_id: unknown-artefacts
-modern_impact: Continued research into alien artefacts advances understanding of non-human intelligence.
+modern_impact: Continued research into alien artefacts advances understanding of non-human
+  intelligence.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 31e075c4-bef3-526b-ab00-c7c737361799
+- 7863ec80-d3ac-5c4d-b5d5-0935733c5f4d
 ---
+
 
 The Defence Party of Nespeleve has announced that Professor Ishmael Palin's appeal for building fabricators has been positively received by the galactic community. Large quantities of the equipment have been delivered to Wilkes Orbital over the past week for the construction of a new research outpost on Maia A 3 a. In a statement, Professor Palin extended his gratitude to those who supported the campaign: 
 

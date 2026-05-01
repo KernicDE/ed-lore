@@ -4,8 +4,12 @@ title: Community Goal  Jaques' Big Jump
 slug: community_goal_jaques_big_jump
 date: '3302-05-05'
 source: GitHub
-summary: Jaques Station, the galaxy's only travelling starport, prepares for an ambitious long-distance jump from Gliese 1269 to Beagle Point. The Fuel Rats coordinate a community fuel-gathering campaign to supply the massive amount of fuel required for the jump.
-player_impact: Pilots delivered fuel to Jaques Station to enable its historic jump to Beagle Point.
+summary: Jaques Station, the galaxy's only travelling starport, prepares for an ambitious
+  long-distance jump from Gliese 1269 to Beagle Point. The Fuel Rats coordinate a
+  community fuel-gathering campaign to supply the massive amount of fuel required
+  for the jump.
+player_impact: Pilots delivered fuel to Jaques Station to enable its historic jump
+  to Beagle Point.
 persons:
 - Jaques
 groups:
@@ -21,10 +25,14 @@ topics:
 technologies:
 - Frame Shift Drive
 arc_id: jaques-station
-modern_impact: Jaques Station's journey to Colonia establishes a new frontier settlement, opening up deep-space colonisation.
+modern_impact: Jaques Station's journey to Colonia establishes a new frontier settlement,
+  opening up deep-space colonisation.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 4d7c597e-0996-5384-89fa-f96749b6bb7b
 ---
+
 
 Equipped With a cluster of drive engines, Jaques Station is noted for being The galaxy's only travelling starport. Owned and operated by a cyborg known as 'Jaques', the Orbis station has been roaming the galaxy for over 40 years, and in that time it has become something of a cultural icon. Now, after more than four decades of travel, Jaques is about to embark on his most ambitious expedition yet – a long-distance jump from Gliese 1269 to Beagle Point. 
 

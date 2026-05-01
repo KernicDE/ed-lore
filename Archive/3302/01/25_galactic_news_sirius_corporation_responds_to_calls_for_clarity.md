@@ -4,8 +4,14 @@ title: Galactic News  Sirius Corporation Responds to Calls for Clarity
 slug: galactic_news_sirius_corporation_responds_to_calls_for_clarity
 date: '3302-01-25'
 source: GitHub
-summary: The Sirius Corporation responded to public calls for transparency regarding the Antares wreckage, confirming that the remains were found in the Luyten 205-128 system and that no organic remains were recovered. The corporation reiterated that a hyperdrive containment failure caused the explosion but maintained the precise cause remains under investigation.
-player_impact: Pilots and families of victims now have confirmation of where the Antares wreckage was found. The ongoing analysis may lead to new safety protocols for hyperdrive systems.
+summary: The Sirius Corporation responded to public calls for transparency regarding
+  the Antares wreckage, confirming that the remains were found in the Luyten 205-128
+  system and that no organic remains were recovered. The corporation reiterated that
+  a hyperdrive containment failure caused the explosion but maintained the precise
+  cause remains under investigation.
+player_impact: Pilots and families of victims now have confirmation of where the Antares
+  wreckage was found. The ongoing analysis may lead to new safety protocols for hyperdrive
+  systems.
 groups:
 - Sirius Corporation
 locations:
@@ -20,7 +26,11 @@ arc_id: antares-mystery
 modern_impact: Continues the investigation into the Antares disaster.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- e419e6ac-1a8c-5eda-b4e5-295a6a42b24c
+- f37571a3-4264-5042-80f8-bff541d3e4b7
 ---
+
 
 Since The wreckage of the Highliner Antares was recovered Several weeks ago, the families of those who lost their lives aboard the ship have been lobbying The Sirius Corporation for more information. Specifically, questions have been asked about where the wreckage was Found, and if any human remains were recovered. The corporation, evidently aware that the public is hungry for information, has now released a statement: 
 

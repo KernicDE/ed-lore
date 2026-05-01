@@ -4,7 +4,8 @@ title: Aegis Resolves to Free Abductees from Titans
 slug: aegis_resolves_to_free_abductees_from_titans
 date: '3309-09-25'
 source: API
-summary: Aegis confirms human life-signs on all Titans and accelerates development of modified sub-surface extraction missiles based on Sirius Corporation blueprints.
+summary: Aegis confirms human life-signs on all Titans and accelerates development
+  of modified sub-surface extraction missiles based on Sirius Corporation blueprints.
 player_impact: Not specifically mentioned — this is a research and development report.
 persons:
 - Ivano Colombera
@@ -19,13 +20,20 @@ topics:
 - humanitarian
 - war
 arc_id: thargoid-titan-war
-modern_impact: Colombera's explanation — 'a blueprint that repurposes sub-surface displacement missiles... originally designed to extract mineral deposits from within asteroids' — shows the creative engineering. Tanner's caution — 'these missiles are intended for minerals not people, and Thargoid technology is poorly understood' — is appropriately measured. The decision to proceed despite risks reflects the moral urgency.
+modern_impact: Colombera's explanation — 'a blueprint that repurposes sub-surface
+  displacement missiles... originally designed to extract mineral deposits from within
+  asteroids' — shows the creative engineering. Tanner's caution — 'these missiles
+  are intended for minerals not people, and Thargoid technology is poorly understood'
+  — is appropriately measured. The decision to proceed despite risks reflects the
+  moral urgency.
 legacy_weight: 4
 significance: high
 related_uuids:
-- e39b646c-4c31-5ee2-bd4d-22313518474f
+- 0f162060-afe5-5086-8e97-d15faacc99ac
 - 5649a799-45d3-5ef0-9a83-2819bdb0dbf7
+- e39b646c-4c31-5ee2-bd4d-22313518474f
 ---
+
 
 With human life-signs now confirmed beneath the hulls of the Thargoid Titans, the urgency to mount a rescue mission has intensified. 
 Many pilots equipped with the updated pulse wave xeno scanner detected signals that match living humans on every Titan mothership. As a result, Aegis has prioritised finding a way to recover the abducted. A potential solution has emerged, reportedly via a low-ranking engineer within Sirius Corporation.

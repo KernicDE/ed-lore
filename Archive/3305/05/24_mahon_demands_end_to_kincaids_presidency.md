@@ -4,7 +4,9 @@ title: Mahon Demands End to Kincaid's Presidency
 slug: mahon_demands_end_to_kincaids_presidency
 date: '3305-05-24'
 source: GitHub
-summary: Prime Minister Edmund Mahon calls on President Gibson Kincaid to step down pending inquiry, condemning his autocratic assumption of military command and warning of impeachment if he refuses to cooperate.
+summary: Prime Minister Edmund Mahon calls on President Gibson Kincaid to step down
+  pending inquiry, condemning his autocratic assumption of military command and warning
+  of impeachment if he refuses to cooperate.
 player_impact: None — background political report.
 persons:
 - Edmund Mahon
@@ -21,14 +23,18 @@ topics:
 - politics
 - scandal
 arc_id: alliance-expansion
-modern_impact: Mahon's public demand for Kincaid's resignation represented the official Alliance government turning against its own president, making Kincaid's removal inevitable.
+modern_impact: Mahon's public demand for Kincaid's resignation represented the official
+  Alliance government turning against its own president, making Kincaid's removal
+  inevitable.
 legacy_weight: 4
 significance: high
 related_uuids:
+- 62c50540-1db5-5850-be0b-5a7cb2b2c201
+- 89ca282d-1ecf-588b-90ed-37e0e6c76c13
 - d7ce7121-90e5-5c1e-a5c5-78529d474bf5
 - f17f098b-a1f5-5398-9cba-9ece108187d4
-- 89ca282d-1ecf-588b-90ed-37e0e6c76c13
 ---
+
 
 Prime Minister Edmund Mahon has called on President Gibson Kincaid to step down pending an official inquiry. 
 

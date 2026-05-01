@@ -4,8 +4,16 @@ title: Week in Review
 slug: week_in_review
 date: '3304-04-15'
 source: GitHub
-summary: This week's major stories include Princess Aisling Duval's criticism of Aegis attracting support from Imperial senators and Alliance Commodore Riri McAllister. A report suggests piracy has declined since the Thargoids' return, though Pegasi Sector security forces dispute this. The Empire announced plans for a new pilot-training centre. Astronomers in Sol may have detected a signal from the ancient New Horizons probe. The Atlas Corporation's megaship campaign and the Privateer's Alliance military installation campaign both concluded successfully.
-player_impact: Pilots who supported the Atlas Corporation or Privateer's Alliance campaigns can collect rewards from Redi Market in Lambda Arae or Barjavel Station in HIP 33368.
+summary: This week's major stories include Princess Aisling Duval's criticism of Aegis
+  attracting support from Imperial senators and Alliance Commodore Riri McAllister.
+  A report suggests piracy has declined since the Thargoids' return, though Pegasi
+  Sector security forces dispute this. The Empire announced plans for a new pilot-training
+  centre. Astronomers in Sol may have detected a signal from the ancient New Horizons
+  probe. The Atlas Corporation's megaship campaign and the Privateer's Alliance military
+  installation campaign both concluded successfully.
+player_impact: Pilots who supported the Atlas Corporation or Privateer's Alliance
+  campaigns can collect rewards from Redi Market in Lambda Arae or Barjavel Station
+  in HIP 33368.
 persons:
 - Aisling Duval
 - Pal Vespasian
@@ -33,10 +41,15 @@ topics:
 - research
 - trade
 arc_id: thargoid-contact
-modern_impact: The interplay between Thargoid threats, political criticism of Aegis, and concurrent community projects illustrates the multifaceted challenges of 3304.
+modern_impact: The interplay between Thargoid threats, political criticism of Aegis,
+  and concurrent community projects illustrates the multifaceted challenges of 3304.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 4100760a-2e63-52f2-8083-94060e6e05aa
+- dc67887e-9471-5e4c-b61d-67dd794a104d
 ---
+
 
 Here are This week’s major stories. 
 

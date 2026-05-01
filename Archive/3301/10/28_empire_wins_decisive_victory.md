@@ -4,8 +4,14 @@ title: Empire Wins Decisive Victory
 slug: empire_wins_decisive_victory
 date: '3301-10-28'
 source: GitHub
-summary: The Empire confirmed the total destruction of all three Emperor's Dawn bases in Namarii, Tabaldak, and LTT 874 after two weeks of combat. Senator Denton Patreus declared the insurgents 'nothing more than petty brigands,' but General Anthony Corvus cautioned that cell organizations can be resilient and the war may not be over until every fighter is destroyed.
-player_impact: Pilots who fought for the Empire in these systems contributed to a major victory. However, vigilance is advised as Emperor's Dawn may still have hidden cells or shadow operations.
+summary: The Empire confirmed the total destruction of all three Emperor's Dawn bases
+  in Namarii, Tabaldak, and LTT 874 after two weeks of combat. Senator Denton Patreus
+  declared the insurgents 'nothing more than petty brigands,' but General Anthony
+  Corvus cautioned that cell organizations can be resilient and the war may not be
+  over until every fighter is destroyed.
+player_impact: Pilots who fought for the Empire in these systems contributed to a
+  major victory. However, vigilance is advised as Emperor's Dawn may still have hidden
+  cells or shadow operations.
 persons:
 - Denton Patreus
 - Anthony Corvus
@@ -21,10 +27,15 @@ topics:
 - terrorism
 - war
 arc_id: imperial-succession
-modern_impact: Critical moment in the Imperial succession crisis, shaping the future leadership of the Empire.
+modern_impact: Critical moment in the Imperial succession crisis, shaping the future
+  leadership of the Empire.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 210be0c9-21e1-54a4-934b-13546cf4a047
+- a97a5c3f-fd7e-5d1c-894b-0d50b6d2cc83
 ---
+
 
 For The past two weeks, the Empire has been battling the insurgent organisation Emperor's Dawn in the Namarii, Tabaldak and LTT 874 systems. This morning, the Empire confirmed that the campaign had been a resounding success, resulting in the total destruction of All three Emperor's Dawn bases. Senator Denton Patreus, who has been leading the campaign against the insurrectionists, issued a defiant statement: 
 

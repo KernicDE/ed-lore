@@ -4,8 +4,12 @@ title: October Consortium Agreement Signals End to HIP 87621 Enclave Conflict
 slug: october_consortium_agreement_signals_end_to_hip_87621_enclave_conflict
 date: 3312-02-20
 source: API
-summary: October Accords end HIP 87621 enclave conflict. October Consortium chairs neutrality between Imperial, Alliance and independent powers. Federation not represented. Lexi October secures interview series with Vox Galactica.
-player_impact: HIP 87621 conflict officially ends. October Consortium gains full custodianship via October Accords. Federation excluded (lost foothold). Radicoida research to be shared under Accord terms.
+summary: October Accords end HIP 87621 enclave conflict. October Consortium chairs
+  neutrality between Imperial, Alliance and independent powers. Federation not represented.
+  Lexi October secures interview series with Vox Galactica.
+player_impact: HIP 87621 conflict officially ends. October Consortium gains full custodianship
+  via October Accords. Federation excluded (lost foothold). Radicoida research to
+  be shared under Accord terms.
 persons:
 - Lexi October
 - Felicia Winters
@@ -28,13 +32,20 @@ entities:
 technologies:
 - Radicoida unica
 arc_id: hip87621-conflict
-modern_impact: Corporate custodianship of disputed territory sets a legal precedent for non-state actors mediating between superpowers. October Consortium's rise from tech investor to geopolitical broker demonstrates how exobiological discoveries can rapidly reshape power structures. Federation's exclusion may fuel future reclamation attempts.
+modern_impact: Corporate custodianship of disputed territory sets a legal precedent
+  for non-state actors mediating between superpowers. October Consortium's rise from
+  tech investor to geopolitical broker demonstrates how exobiological discoveries
+  can rapidly reshape power structures. Federation's exclusion may fuel future reclamation
+  attempts.
 legacy_weight: 4
 significance: high
 related_uuids:
-- ab9f6c81-8fa4-564b-978d-59be79a044dc
+- 62d40e14-3815-5039-b952-23d2b03e7b6c
+- 86dbc944-a8ec-5d85-ab42-44ac9911ac40
 - 972ec07f-6143-5c9b-ad27-c650ac62ab75
+- ab9f6c81-8fa4-564b-978d-59be79a044dc
 ---
+
 
 An agreement has reportedly been reached between October Consortium and a coalition of the remaining Powers within the enclave, ending large-scale hostilities in the region.
 The "October Accords” formally places HIP 87621 under the custodianship of October Consortium who will act as chair between the remaining enclave powers to ensure neutrality is maintained.

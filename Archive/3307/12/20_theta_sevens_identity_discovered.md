@@ -4,7 +4,9 @@ title: Theta Seven's Identity Discovered
 slug: theta_sevens_identity_discovered
 date: '3307-12-20'
 source: API
-summary: ACT reveals Theta Seven's real identity as John Tyburn, a former munitions technician from Baltah'Sine who was radicalised after political persecution, and who commissioned caustic enzyme bomb designs from Liz Ryder without her knowledge.
+summary: ACT reveals Theta Seven's real identity as John Tyburn, a former munitions
+  technician from Baltah'Sine who was radicalised after political persecution, and
+  who commissioned caustic enzyme bomb designs from Liz Ryder without her knowledge.
 player_impact: Not specifically mentioned — this is an investigative report.
 persons:
 - John Tyburn
@@ -23,13 +25,17 @@ topics:
 - engineering
 - terrorism
 arc_id: nmla-terrorism
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to the Marlinist refugee crisis and the Proactive Detection Bureau.
+modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
+  the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 5
 significance: high
 related_uuids:
+- 205ec4c6-df7a-581e-8c72-20928345d6ce
+- a1fbe61e-86c1-500d-aceb-e98c622ff991
 - f76d8d87-04a4-5982-9f90-51763df54997
 - ff562d23-58fa-5f77-a0fb-487b2b4b77f6
 ---
+
 
 ACT has revealed The background of the man known only as Theta Seven, the NMLA’s de facto leader who recently died in the Mudhrid system.
 Captain Saskia Landau gave This statement to the media:

@@ -4,7 +4,9 @@ title: Far God Cult Under Federal Scrutiny
 slug: far_god_cult_under_federal_scrutiny
 date: '3308-09-20'
 source: API
-summary: The Order of the Far God faces Federal investigation and public backlash after HIP 22460, driving thousands of worshippers to abandon orthodox hive-chapels and join the more militant True Chapters sect.
+summary: The Order of the Far God faces Federal investigation and public backlash
+  after HIP 22460, driving thousands of worshippers to abandon orthodox hive-chapels
+  and join the more militant True Chapters sect.
 player_impact: Not specifically mentioned — this is a journalistic report.
 persons:
 - Alexei Keel
@@ -25,13 +27,17 @@ topics:
 - investigation
 - war
 arc_id: thargoid-contact
-modern_impact: The Federal scrutiny of the Far God cult and the radicalisation of its followers into the True Chapters foreshadows a potential shift from pacifistic worship to armed resistance.
+modern_impact: The Federal scrutiny of the Far God cult and the radicalisation of
+  its followers into the True Chapters foreshadows a potential shift from pacifistic
+  worship to armed resistance.
 legacy_weight: 5
 significance: high
 related_uuids:
-- a0ec3597-7ec5-5cd9-923a-5bb63309eb1a
 - 060f1f07-68f0-58fd-8607-4331bb789d9b
+- 38fb5be2-6a83-50df-95d5-b61bec0d0b64
+- a0ec3597-7ec5-5cd9-923a-5bb63309eb1a
 ---
+
 
 The Order of the Far God is facing an official investigation and increased public maltreatment within the Federation.
 Freelance journalist Alexei Keel published a special report via Vox Galactica:

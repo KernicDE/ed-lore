@@ -4,7 +4,8 @@ title: 'Azimuth Biotech: ‘We Can Serve Alliance’'
 slug: azimuth_biotech_we_can_serve_alliance
 date: '3309-11-24'
 source: API
-summary: Azimuth Biotech offers to replace Sirius as the Alliance's anti-xeno partner, with Rademaker attacking Sirius and Aegis while councillors are divided on the proposal.
+summary: Azimuth Biotech offers to replace Sirius as the Alliance's anti-xeno partner,
+  with Rademaker attacking Sirius and Aegis while councillors are divided on the proposal.
 player_impact: Not specifically mentioned — this is a corporate/political report.
 persons:
 - Torben Rademaker
@@ -27,13 +28,21 @@ topics:
 - war
 entities: []
 arc_id: salvation-azimuth
-modern_impact: Rademaker's characterisation of Sirius as 'a household goods manufacturer with delusions of grandeur' and Aegis as 'a loosely connected gang of publicity-seekers' is scorched-earth rhetoric. Banerjee's analysis — 'Azimuth's ability to weaponise Guardian artefacts died along with Salvation, leaving the corporation struggling for relevancy' — is devastating. The division between Dressler ('seriously considered') and Niven ('mass uprisings') shows the political toxicity of Azimuth.
+modern_impact: Rademaker's characterisation of Sirius as 'a household goods manufacturer
+  with delusions of grandeur' and Aegis as 'a loosely connected gang of publicity-seekers'
+  is scorched-earth rhetoric. Banerjee's analysis — 'Azimuth's ability to weaponise
+  Guardian artefacts died along with Salvation, leaving the corporation struggling
+  for relevancy' — is devastating. The division between Dressler ('seriously considered')
+  and Niven ('mass uprisings') shows the political toxicity of Azimuth.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 159caa3b-1d4d-531b-ac16-f40c17d6f332
+- 3e1f7df6-c97e-5254-9465-9e693f6a19c6
+- 4322589e-b2e2-57fc-b239-2b88576cb0ad
 - 52e15d2f-c860-504f-a2e4-4e54c31cb388
 ---
+
 
 Azimuth Biotech has suggested that it can replace Sirius Corporation as the Alliance’s anti-xeno military partner.
 The move follows the Alliance Assembly’s decision to reevaluate its strategic xeno defence pact with Sirius, amid concerns that the megacorp has not sufficiently protected Allied systems from the Thargoids.

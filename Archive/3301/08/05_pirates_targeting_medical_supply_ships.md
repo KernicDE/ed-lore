@@ -4,8 +4,14 @@ title: Pirates Targeting Medical Supply Ships
 slug: pirates_targeting_medical_supply_ships
 date: '3301-08-05'
 source: GitHub
-summary: Pirates are targeting medical supply ships transporting the Cerberus Plague antidote from Hart Station in the Bast system. These attacks are undermining efforts to eliminate the disease. In response, the Union of Bast Liberals has started offering rewards to pilots who eliminate pirate vessels, hoping to allow medical ships to deliver the cure to affected systems.
-player_impact: Combat pilots can earn rewards from the Union of Bast Liberals by destroying pirate vessels in the Bast system. Protecting medical supply ships helps deliver the Cerberus Plague antidote to those in need.
+summary: Pirates are targeting medical supply ships transporting the Cerberus Plague
+  antidote from Hart Station in the Bast system. These attacks are undermining efforts
+  to eliminate the disease. In response, the Union of Bast Liberals has started offering
+  rewards to pilots who eliminate pirate vessels, hoping to allow medical ships to
+  deliver the cure to affected systems.
+player_impact: Combat pilots can earn rewards from the Union of Bast Liberals by destroying
+  pirate vessels in the Bast system. Protecting medical supply ships helps deliver
+  the Cerberus Plague antidote to those in need.
 groups:
 - Union of Bast Liberals
 locations:
@@ -15,10 +21,15 @@ topics:
 - medicine
 - piracy
 arc_id: cerberus-plague
-modern_impact: Marks a significant phase in the fight against a devastating plague that killed over 100,000.
+modern_impact: Marks a significant phase in the fight against a devastating plague
+  that killed over 100,000.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- abb0dc46-cf85-5f1a-9363-07b4f9634bf5
+- ae33072b-f2d5-56ec-9a24-584fca620455
 ---
+
 
 According to officials at Hart Station, medical supply ships transporting The Cerberus Plague antidote from The starport are being targeted by pirates. Naturally, these attacks are substantially undermining attempts to eliminate the disease, Which Continues to affect a number of systems. One official said: 
 

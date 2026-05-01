@@ -4,8 +4,13 @@ title: Non Human Signal Sources in Huveang De
 slug: non_human_signal_sources_in_huveang_de
 date: '3304-03-17'
 source: GitHub
-summary: Local security services in the Huveang De system report no new Thargoid sightings over the last 24 hours. The head of local security thanked pilots who defended the system but stated motives remain unknown. Speculation ranges from a planned attack being held back by combat pilots to simple resource exploration. Security forces in the region remain on high alert.
-player_impact: Pilots who came to defend Huveang De against Thargoid forces are thanked by local security.
+summary: Local security services in the Huveang De system report no new Thargoid sightings
+  over the last 24 hours. The head of local security thanked pilots who defended the
+  system but stated motives remain unknown. Speculation ranges from a planned attack
+  being held back by combat pilots to simple resource exploration. Security forces
+  in the region remain on high alert.
+player_impact: Pilots who came to defend Huveang De against Thargoid forces are thanked
+  by local security.
 persons: []
 groups:
 - Huveang De security forces
@@ -14,10 +19,15 @@ locations:
 topics:
 - alien contact
 arc_id: thargoid-contact
-modern_impact: Brief Thargoid appearances in systems like Huveang De continue to puzzle authorities, with motives remaining unclear.
+modern_impact: Brief Thargoid appearances in systems like Huveang De continue to puzzle
+  authorities, with motives remaining unclear.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 65ae5ad5-135a-5f67-9e86-438acd8b6d14
+- 7c6f3a69-f742-57ed-8940-4e857c580774
 ---
+
 
 Local security services in The Huveang De system have announced today that there have been no new sightings of Thargoids over the last 24 hours.  
 

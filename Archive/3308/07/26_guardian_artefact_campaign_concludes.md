@@ -4,8 +4,11 @@ title: Guardian Artefact Campaign Concludes
 slug: guardian_artefact_campaign_concludes
 date: '3308-07-26'
 source: API
-summary: The third phase of Guardian artefact deliveries for the Proteus Wave concludes successfully, with Commodore Morag Halloran announcing the core mechanism is days away from full assembly on HIP 22460 10b.
-player_impact: Pilots delivered Guardian artefacts to the Bright Sentinel in HIP 22460 over three weeks. Contributors could collect rewards from the Bright Sentinel.
+summary: The third phase of Guardian artefact deliveries for the Proteus Wave concludes
+  successfully, with Commodore Morag Halloran announcing the core mechanism is days
+  away from full assembly on HIP 22460 10b.
+player_impact: Pilots delivered Guardian artefacts to the Bright Sentinel in HIP 22460
+  over three weeks. Contributors could collect rewards from the Bright Sentinel.
 persons:
 - Morag Halloran
 - Salvation
@@ -22,12 +25,17 @@ topics:
 - war
 - xenoarchaeology
 arc_id: salvation-azimuth
-modern_impact: The successful conclusion of the artefact drive marked the point of no return for the Proteus Wave, with decades of Guardian archaeology stripped to feed a single weapon system.
+modern_impact: The successful conclusion of the artefact drive marked the point of
+  no return for the Proteus Wave, with decades of Guardian archaeology stripped to
+  feed a single weapon system.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 1b3c4f7c-bb24-5a8c-aeed-4936f7b5faea
+- 77d08b93-d779-599d-9f2a-b4e7733d91a8
+- edb0e7ff-862e-5ed5-b8e4-43b5aef0c8f6
 ---
+
 
 **Pilots’ Federation ALERT**
 The third phase of an initiative to acquire Guardian artefacts for the Proteus Wave has ended successfully.

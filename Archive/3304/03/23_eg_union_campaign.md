@@ -4,8 +4,13 @@ title: EG Union Campaign
 slug: eg_union_campaign
 date: '3304-03-23'
 source: GitHub
-summary: Yuri Grom has announced an initiative to create a new shipyard in the CPC 20 6743 system to produce capital ships for defending human space from human and alien threats. The EG Union has placed orders for commodities and kill orders on wanted ships to protect traders. EG Pilots will eliminate agitators while independent combat pilots are asked to help neutralise threats.
-player_impact: Pilots can deliver commodities to Lyakhov Dock in the CPC 20 6743 system and earn rewards. Kill orders on wanted ships are also available.
+summary: Yuri Grom has announced an initiative to create a new shipyard in the CPC
+  20 6743 system to produce capital ships for defending human space from human and
+  alien threats. The EG Union has placed orders for commodities and kill orders on
+  wanted ships to protect traders. EG Pilots will eliminate agitators while independent
+  combat pilots are asked to help neutralise threats.
+player_impact: Pilots can deliver commodities to Lyakhov Dock in the CPC 20 6743 system
+  and earn rewards. Kill orders on wanted ships are also available.
 persons:
 - Yuri Grom
 groups:
@@ -21,10 +26,15 @@ topics:
 - trade
 - war
 arc_id: thargoid-contact
-modern_impact: Yuri Grom's capital ship shipyard initiative represents independent investment in heavy military infrastructure to counter Thargoid threats.
+modern_impact: Yuri Grom's capital ship shipyard initiative represents independent
+  investment in heavy military infrastructure to counter Thargoid threats.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 2f9cd58e-e942-54a8-82a1-b3433c3d5088
+- 65ae5ad5-135a-5f67-9e86-438acd8b6d14
 ---
+
 
 Yuri Grom has announced an initiative to create a new shipyard in The CPC 20 6743 system. The shipyard will produce capital ships With Which to defend human space from both human and alien threats. 
 

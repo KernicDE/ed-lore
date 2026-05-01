@@ -4,8 +4,12 @@ title: Freelance Report  Dr Arcanonn Appeals for Help
 slug: freelance_report_dr_arcanonn_appeals_for_help
 date: '3302-08-05'
 source: GitHub
-summary: Dr Arcanonn of the Canonn Interstellar Research Group appealed to pilots to help locate Unknown Probes, believed to be found in anomalous signal sources around systems including Ross 47, G 99-49, Wolf 294, and Wolf 504. He urged pilots to break the Federal military's monopoly on the probes.
-player_impact: Search for Unknown Probes in anomalous signal sources around Ross 47, G 99-49, Wolf 294, and Wolf 504 and deliver them to aid research.
+summary: Dr Arcanonn of the Canonn Interstellar Research Group appealed to pilots
+  to help locate Unknown Probes, believed to be found in anomalous signal sources
+  around systems including Ross 47, G 99-49, Wolf 294, and Wolf 504. He urged pilots
+  to break the Federal military's monopoly on the probes.
+player_impact: Search for Unknown Probes in anomalous signal sources around Ross 47,
+  G 99-49, Wolf 294, and Wolf 504 and deliver them to aid research.
 persons:
 - Dr Arcanonn
 groups:
@@ -23,10 +27,15 @@ technologies:
 - Unknown Probes
 - Unknown Artefacts
 arc_id: unknown-artefacts
-modern_impact: Community-driven research into Unknown Probes advances understanding of non-human artefacts and challenges Federal secrecy.
+modern_impact: Community-driven research into Unknown Probes advances understanding
+  of non-human artefacts and challenges Federal secrecy.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 17f6eadd-da56-5397-9c1f-5d11ad6d5ffa
+- 65bc9600-97e5-56db-be15-8dc00d5229c9
 ---
+
 
 The image transmitted by the mysterious Unknown Probes is still a mystery. But while the image occupies his teams, Dr Arcanonn of the Canonn Interstellar Research Group believes there is more to discover about the Probes themselves. The problem is supply. 
 

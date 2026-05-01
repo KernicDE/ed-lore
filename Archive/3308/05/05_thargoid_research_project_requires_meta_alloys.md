@@ -4,8 +4,10 @@ title: Thargoid Research Project Requires Meta-Alloys
 slug: thargoid_research_project_requires_meta_alloys
 date: '3308-05-05'
 source: API
-summary: Professor Ishmael Palin requests meta-alloy samples for a xenological study of Thargoid technology.
-player_impact: Pilots were asked to collect meta-alloys from Thargoid barnacles and deliver them to James Sneddon in Morten-Marte.
+summary: Professor Ishmael Palin requests meta-alloy samples for a xenological study
+  of Thargoid technology.
+player_impact: Pilots were asked to collect meta-alloys from Thargoid barnacles and
+  deliver them to James Sneddon in Morten-Marte.
 persons:
 - Ishmael Palin
 groups: []
@@ -16,13 +18,19 @@ topics:
 - alien contact
 - research
 arc_id: thargoid-titan-war
-modern_impact: '"With escalating Thargoid activity in the core systems, it is increasingly important that we learn as much as possible about this species." Palin''s research initiative represented one of the last credible scientific efforts to understand Thargoid biology outside of Azimuth''s weaponisation-focused agenda, though it remained heavily dependent on pilot contributions.'
+modern_impact: '"With escalating Thargoid activity in the core systems, it is increasingly
+  important that we learn as much as possible about this species." Palin''s research
+  initiative represented one of the last credible scientific efforts to understand
+  Thargoid biology outside of Azimuth''s weaponisation-focused agenda, though it remained
+  heavily dependent on pilot contributions.'
 legacy_weight: 4
 significance: high
 related_uuids:
-- fba3c0e5-795f-56f8-bad3-8e119c36de4a
+- c7e53bc9-4059-5953-ad0d-64ebf255c495
 - faf4aecd-7600-5383-85d0-03fae5460273
+- fba3c0e5-795f-56f8-bad3-8e119c36de4a
 ---
+
 
 **Pilots’ Federation ALERT**
 Commanders have been asked to collect meta-alloys from Thargoid barnacles as part of a wider xenological study.

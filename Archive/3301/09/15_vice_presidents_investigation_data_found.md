@@ -4,8 +4,14 @@ title: Vice President’s Investigation Data Found
 slug: vice_presidents_investigation_data_found
 date: '3301-09-15'
 source: GitHub
-summary: A concealed data chit was discovered among Vice President Nigel Smeaton's personal belongings. With help from Federal Times technicians, some encrypted information was extracted. The data may help locate the wreckage of the Highliner Antares and has been handed to Sirius Corporation and investigating officers. The family spokesman declined to answer questions.
-player_impact: The discovery of Smeaton's data chit may lead to locating the Highliner Antares wreckage. Pilots should monitor developments in the Federal political crisis and the ongoing investigation.
+summary: A concealed data chit was discovered among Vice President Nigel Smeaton's
+  personal belongings. With help from Federal Times technicians, some encrypted information
+  was extracted. The data may help locate the wreckage of the Highliner Antares and
+  has been handed to Sirius Corporation and investigating officers. The family spokesman
+  declined to answer questions.
+player_impact: The discovery of Smeaton's data chit may lead to locating the Highliner
+  Antares wreckage. Pilots should monitor developments in the Federal political crisis
+  and the ongoing investigation.
 persons:
 - Nigel Smeaton
 groups:
@@ -19,10 +25,15 @@ topics:
 - investigation
 technologies: []
 arc_id: federal-politics
-modern_impact: Deepens the Federal political crisis around the Antares conspiracy and Vice President Smeaton's murder.
+modern_impact: Deepens the Federal political crisis around the Antares conspiracy
+  and Vice President Smeaton's murder.
 legacy_weight: 4
 significance: high
+related_uuids:
+- e3f3df5a-f54e-55dd-aa67-6d8d75ce6e4e
+- e5ed7c2f-4101-5d97-8ca1-1aa1ea34f238
 ---
+
 
 A spokesman for Vice President Nigel Smeaton’s family revealed today that a concealed data chit had been recently discovered among his personal belongings. The information stored on The device was encrypted but With the assistance of technicians at the Federal Times they were able to extract some of the information. 
 

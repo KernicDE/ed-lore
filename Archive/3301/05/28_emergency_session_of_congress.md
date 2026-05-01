@@ -4,8 +4,14 @@ title: Emergency Session of Congress
 slug: emergency_session_of_congress
 date: '3301-05-28'
 source: GitHub
-summary: Shadow President Zachary Hudson called an emergency session of Congress to address Starship One's disappearance, openly mocking the engine failure theory and calling for immediate action to find the assassin. He named Halsey's enemies including Onionhead activists, annoyed frontier systems, and the Empire. Acting President Felicia Winters countered that no evidence of foul play had been found and engineers were analysing data suggesting an unusual catastrophic failure.
-player_impact: None directly; the political divide between Hudson and Winters deepens as the Federation grapples with Halsey's disappearance.
+summary: Shadow President Zachary Hudson called an emergency session of Congress to
+  address Starship One's disappearance, openly mocking the engine failure theory and
+  calling for immediate action to find the assassin. He named Halsey's enemies including
+  Onionhead activists, annoyed frontier systems, and the Empire. Acting President
+  Felicia Winters countered that no evidence of foul play had been found and engineers
+  were analysing data suggesting an unusual catastrophic failure.
+player_impact: None directly; the political divide between Hudson and Winters deepens
+  as the Federation grapples with Halsey's disappearance.
 persons:
 - Zachary Hudson
 - Felicia Winters
@@ -16,10 +22,15 @@ topics:
 - politics
 - diplomacy
 arc_id: federal-politics
-modern_impact: Hudson's aggressive posture during the emergency session foreshadowed his eventual seizure of power and the political polarisation of the Federation.
+modern_impact: Hudson's aggressive posture during the emergency session foreshadowed
+  his eventual seizure of power and the political polarisation of the Federation.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 3dbbe455-8adc-5c5b-a970-8fea2d0c9883
+- e0dda51d-b10d-51a0-b45f-d3b564c37647
 ---
+
 
 Shadow President Hudson today called an Emergency Session of Congress to address concerns surrounding Starship One’s disappearance. 
 

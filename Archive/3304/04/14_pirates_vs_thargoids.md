@@ -4,7 +4,12 @@ title: Pirates vs Thargoids
 slug: pirates_vs_thargoids
 date: '3304-04-14'
 source: GitHub
-summary: Dr Jin Rameer of an independent socio-political think tank published a report suggesting piracy has declined since the Thargoids' return, proposing that the alien threat has either strengthened community bonds or redirected criminals toward fighting non-human targets. However, security forces in the Pegasi Sector refuted this, stating the Kumo Crew has raided dozens of systems while security forces are tied up with the Thargoids.
+summary: Dr Jin Rameer of an independent socio-political think tank published a report
+  suggesting piracy has declined since the Thargoids' return, proposing that the alien
+  threat has either strengthened community bonds or redirected criminals toward fighting
+  non-human targets. However, security forces in the Pegasi Sector refuted this, stating
+  the Kumo Crew has raided dozens of systems while security forces are tied up with
+  the Thargoids.
 player_impact: None explicitly stated.
 persons:
 - Jin Rameer
@@ -18,10 +23,15 @@ topics:
 - crime
 - piracy
 arc_id: thargoid-contact
-modern_impact: The Thargoid conflict's impact on criminal behaviour remains contested, with some arguing it unites humanity while others note pirates exploit the distraction.
+modern_impact: The Thargoid conflict's impact on criminal behaviour remains contested,
+  with some arguing it unites humanity while others note pirates exploit the distraction.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 6feca85c-46a0-5464-8dd3-2c7001f8da0a
+- e6f3f589-b1cb-54f2-86fa-1d49578c0bf4
 ---
+
 
 A new Independent report suggests that piracy has declined across occupied space since The return of the Thargoids. 
 

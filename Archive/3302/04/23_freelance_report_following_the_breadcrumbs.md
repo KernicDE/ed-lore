@@ -4,7 +4,11 @@ title: Freelance Report  Following the Breadcrumbs
 slug: freelance_report_following_the_breadcrumbs
 date: '3302-04-23'
 source: GitHub
-summary: Imperial investigator Cornelius Gendymion releases a statement suggesting Federal Times reporter Elaine Boyd's investigations into the Antares and Starship One disasters were suppressed. He alleges Vice-President Nigel Smeaton conducted an off-the-books investigation and was murdered, and suggests Congressman George Fallside had foreknowledge of Smeaton's death.
+summary: Imperial investigator Cornelius Gendymion releases a statement suggesting
+  Federal Times reporter Elaine Boyd's investigations into the Antares and Starship
+  One disasters were suppressed. He alleges Vice-President Nigel Smeaton conducted
+  an off-the-books investigation and was murdered, and suggests Congressman George
+  Fallside had foreknowledge of Smeaton's death.
 player_impact: None
 persons:
 - Cornelius Gendymion
@@ -26,7 +30,11 @@ arc_id: federal-politics
 modern_impact: Federal political developments shape superpower relations.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 5dbaa650-006e-5f84-ab7a-9f4155fdafdf
+- 8404cdf6-2914-5e0b-9570-8bf13fa4ebae
 ---
+
 
 Imperial investigator Cornelius Gendymion has released a statement to the Prism Herald addressing accusations that Imperial agents were responsible for the destruction of Starship One. 
 

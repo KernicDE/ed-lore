@@ -4,7 +4,8 @@ title: Salvation Warns of Thargoid Strike
 slug: salvation_warns_of_thargoid_strike
 date: '3307-09-14'
 source: API
-summary: The anonymous figure Salvation claims Thargoid forces will attack the Cornsar system, but Aegis dismisses the warning due to lack of evidence.
+summary: The anonymous figure Salvation claims Thargoid forces will attack the Cornsar
+  system, but Aegis dismisses the warning due to lack of evidence.
 player_impact: None
 persons:
 - Salvation
@@ -17,10 +18,15 @@ topics:
 - investigation
 - war
 arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape and drives anti-xeno defence efforts.
+modern_impact: Thargoid activity fundamentally changes the galactic security landscape
+  and drives anti-xeno defence efforts.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 315e1956-a371-53a7-93ea-2b80778bcf80
+- 8c3f779b-645d-53f0-84b7-e12527dc0144
 ---
+
 
 The anonymous figure known as Salvation claims that Thargoid forces will shortly launch an assault in the Cornsar system.
 The following message was received by all major newsfeeds:

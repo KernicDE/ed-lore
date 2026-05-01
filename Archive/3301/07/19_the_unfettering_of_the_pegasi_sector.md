@@ -4,8 +4,13 @@ title: The Unfettering of the Pegasi Sector
 slug: the_unfettering_of_the_pegasi_sector
 date: '3301-07-19'
 source: GitHub
-summary: The Imperial blockade of Harma intercepted thousands of slaves branded by the Kumo Crew, many emaciated and afflicted. A Naval Academy graduate contrasted Imperial slavery, where debts are paid and slaves return to families, with Kumo Crew's brutal trafficking. Sirius Corp humanitarian representatives are returning liberated slaves to their homes and families.
-player_impact: Imperial pilots can support the Harma blockade to intercept Kumo Crew slave transports and liberate captives.
+summary: The Imperial blockade of Harma intercepted thousands of slaves branded by
+  the Kumo Crew, many emaciated and afflicted. A Naval Academy graduate contrasted
+  Imperial slavery, where debts are paid and slaves return to families, with Kumo
+  Crew's brutal trafficking. Sirius Corp humanitarian representatives are returning
+  liberated slaves to their homes and families.
+player_impact: Imperial pilots can support the Harma blockade to intercept Kumo Crew
+  slave transports and liberate captives.
 persons:
 - Peter
 groups:
@@ -20,10 +25,15 @@ topics:
 - slavery
 - war
 arc_id: kumo-crew-rise
-modern_impact: Imperial blockade exposes the brutality of Kumo Crew slavery, with Sirius Corp assisting in returning liberated slaves to their homes.
+modern_impact: Imperial blockade exposes the brutality of Kumo Crew slavery, with
+  Sirius Corp assisting in returning liberated slaves to their homes.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 365fe94f-5b0d-5dc0-b58e-b8459e572688
+- f9b8633d-abeb-5cfd-8079-b668b89d759b
 ---
+
 
 The Kumo Crew has been known to brand free citizens as slaves and ferry them to an uncertain fate in their capital system, Harma. The Imperial blockade of Harma and the surrounding systems has intercepted thousands of these slaves, Many of whom are emaciated, deeply bruised, and otherwise afflicted. 
 

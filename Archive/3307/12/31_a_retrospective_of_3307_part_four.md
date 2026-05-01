@@ -4,7 +4,9 @@ title: A Retrospective of 3307 (Part Four)
 slug: a_retrospective_of_3307_part_four
 date: '3307-12-31'
 source: API
-summary: Historian Sima Kalhana concludes her 3307 review, covering the Yuri Grom honey trap, Torval family rift, Colonia Bridge, NMLA's final stand, and Salvation's superweapons.
+summary: Historian Sima Kalhana concludes her 3307 review, covering the Yuri Grom
+  honey trap, Torval family rift, Colonia Bridge, NMLA's final stand, and Salvation's
+  superweapons.
 player_impact: Not specifically mentioned — this is a historical retrospective.
 persons:
 - Sima Kalhana
@@ -42,13 +44,16 @@ topics:
 - terrorism
 - war
 arc_id: nmla-terrorism
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to the Marlinist refugee crisis and the Proactive Detection Bureau.
+modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
+  the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 5
 significance: high
 related_uuids:
-- 92fccdb6-99a8-591c-ac7c-cd2853326e55
+- 00d01961-877a-52b8-a4ce-337aaa44ae3f
 - 205ec4c6-df7a-581e-8c72-20928345d6ce
+- 92fccdb6-99a8-591c-ac7c-cd2853326e55
 ---
+
 
 The last In a series that reviews the events of the past year, by noted historian Sima Kalhana.
 “October brought Further controversy for the Federation, when a diplomatic conference in the Delta Pavonis system was revealed to be a honey trap designed to capture Yuri Grom. Only a rush of support for EG Union allowed their ruler to escape, causing political embarrassment for President Hudson.”

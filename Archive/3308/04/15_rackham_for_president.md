@@ -19,13 +19,18 @@ topics:
 - diplomacy
 - piracy
 arc_id: federal-politics
-modern_impact: '"With two Zacharys on the ballot, I''m guaranteed to get some votes by mistake!" Rackham''s ostensibly lighthearted presidential flirtation launched one of the most unconventional political campaigns in Federal history, with a former pirate leveraging celebrity wealth to challenge the two-party establishment.'
+modern_impact: '"With two Zacharys on the ballot, I''m guaranteed to get some votes
+  by mistake!" Rackham''s ostensibly lighthearted presidential flirtation launched
+  one of the most unconventional political campaigns in Federal history, with a former
+  pirate leveraging celebrity wealth to challenge the two-party establishment.'
 legacy_weight: 2
 significance: low
 related_uuids:
-- efe02149-f490-5339-979d-49b157ba2caf
+- 262ad071-9ddc-58a4-9216-527007e4f160
 - d48a2172-4d32-5501-b760-eb75a11fb324
+- efe02149-f490-5339-979d-49b157ba2caf
 ---
+
 
 Multi-billionaire Zachary Rackham has discussed standing as an Independent candidate for The Federal presidency in 3309.
 The issue was raised during the opening of a new superstructure named Rackham’s Spire on Homeland in the Beta Hydri system. At a press conference in the tropospheric suite, Mr Rackham was asked for his views on the proposed Hudson Contravention.

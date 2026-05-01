@@ -4,8 +4,10 @@ title: 'Thargoid War Update: August 3309'
 slug: thargoid_war_update_august_3309
 date: '3309-08-29'
 source: API
-summary: Sanderlyn's monthly update covers territorial gains, the Scythe-class hunter revelation, the Dedicant tragedy, and the Wregoe archaeological discovery.
-player_impact: Pilots achieved territorial gains against Thargoids and continue anti-xeno operations.
+summary: Sanderlyn's monthly update covers territorial gains, the Scythe-class hunter
+  revelation, the Dedicant tragedy, and the Wregoe archaeological discovery.
+player_impact: Pilots achieved territorial gains against Thargoids and continue anti-xeno
+  operations.
 persons:
 - Jade Sanderlyn
 groups: []
@@ -20,17 +22,24 @@ topics:
 - war
 - xenoarchaeology
 arc_id: thargoid-titan-war
-modern_impact: Sanderlyn's observation that 'The number of systems controlled by the Titans' invasion fleets has tumbled' shows military progress. Her description of the Dedicant abductees — 'most of these abductees were members of the Order of the Far God, finally getting their wish to be saved by their angels' — is darkly ironic. The reference to Wregoe as 'only the second of its kind ever recorded' and the non-aggressive Thargoid behavior there is significant.
+modern_impact: Sanderlyn's observation that 'The number of systems controlled by the
+  Titans' invasion fleets has tumbled' shows military progress. Her description of
+  the Dedicant abductees — 'most of these abductees were members of the Order of the
+  Far God, finally getting their wish to be saved by their angels' — is darkly ironic.
+  The reference to Wregoe as 'only the second of its kind ever recorded' and the non-aggressive
+  Thargoid behavior there is significant.
 legacy_weight: 5
 significance: high
 related_uuids:
-- ba9e2357-84b5-5ac9-aaf3-d2fa18dc5171
+- 147a3c1e-ea2e-582c-8b5c-676b3075f426
+- 3cfd5471-48e1-54bb-b80a-1eb9638b9187
+- 4413aa0f-d644-50e2-9ad2-417d0b29bb24
 - 6d9dec9b-98e1-5167-9d3c-00c436e9d31c
 - 94095149-30bd-5440-b287-8db2535dc42d
-- 147a3c1e-ea2e-582c-8b5c-676b3075f426
-- 4413aa0f-d644-50e2-9ad2-417d0b29bb24
+- ba9e2357-84b5-5ac9-aaf3-d2fa18dc5171
 - f362b55b-941d-566f-aa08-6a1ae59364b9
 ---
+
 
 Vox Galactica’s Jade Sanderlyn reviews developments in the ongoing war against the Thargoids.
 “There have been some impressive territorial gains against the Thargoids in recent weeks. The number of systems controlled by the Titans’ invasion fleets has tumbled, allowing many millions of people to return to their homes. This is largely thanks to coordinated action by independent pilots and anti-xeno squadrons.” 

@@ -4,7 +4,9 @@ title: Galactic News  Analysis from the Galaxy’s Most Powerful
 slug: galactic_news_analysis_from_the_galaxys_most_powerful
 date: '3303-10-28'
 source: GitHub
-summary: Galaxy's most powerful figures commented on the Thargoid return and INRA discoveries. Princess Aisling Duval condemned INRA's ethics, Senator Denton Patreus endorsed Aegis's military strategy, and Li Yong-Rui urged galactic perspective.
+summary: Galaxy's most powerful figures commented on the Thargoid return and INRA
+  discoveries. Princess Aisling Duval condemned INRA's ethics, Senator Denton Patreus
+  endorsed Aegis's military strategy, and Li Yong-Rui urged galactic perspective.
 player_impact: None
 persons:
 - Denton Patreus
@@ -25,10 +27,15 @@ topics:
 - politics
 technologies: []
 arc_id: thargoid-contact
-modern_impact: Thargoid activity escalates, fundamentally changing the galactic security landscape and driving the creation of anti-xeno defence forces.
+modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
+  landscape and driving the creation of anti-xeno defence forces.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 84f0047f-a8b6-5c30-bf0d-a6a103628ce1
+- c967a729-ec8f-5ec1-b332-7b1676e0464e
 ---
+
 
 A number of the galaxy’s most powerful figures have commented on the current galactic landscape, addressing issues such As the return of Thargoids and the recent discovery of outposts formerly occupied by the Intergalactic Naval Reserve Arm. 
 

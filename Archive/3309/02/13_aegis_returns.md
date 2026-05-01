@@ -4,7 +4,8 @@ title: Aegis Returns
 slug: aegis_returns
 date: '3309-02-13'
 source: API
-summary: The anti-xeno agency Aegis is officially reformed by the Alliance, Empire and Federation, with Professor Alba Tesreau as its head.
+summary: The anti-xeno agency Aegis is officially reformed by the Alliance, Empire
+  and Federation, with Professor Alba Tesreau as its head.
 player_impact: Not specifically mentioned — this is an organisational report.
 persons:
 - Alba Tesreau
@@ -33,16 +34,21 @@ topics:
 - war
 entities: []
 arc_id: thargoid-titan-war
-modern_impact: 'Alba Tesreau declared: "Aegis remains humanity''s best hope of ending this calamitous war with the Thargoids." The agency''s resurrection, adopting the streamlined structure of the ACT, marks a crucial reversal from the Salvation-era unilateral approach back to collaborative superpower science and defence.'
+modern_impact: 'Alba Tesreau declared: "Aegis remains humanity''s best hope of ending
+  this calamitous war with the Thargoids." The agency''s resurrection, adopting the
+  streamlined structure of the ACT, marks a crucial reversal from the Salvation-era
+  unilateral approach back to collaborative superpower science and defence.'
 legacy_weight: 5
 significance: high
 related_uuids:
+- 07c68645-2ddf-517a-ba6f-8fea0f6dd526
+- 465c6592-f3d8-5b55-9c4f-2b7b1e60f6ee
+- 69df1032-f6ec-58b2-9b05-cbcb3c243462
+- 6c462352-4a0d-5cdc-8c96-390da1eec427
 - 9baa5b63-76a6-59a5-b2f2-2b3abca36d3c
 - df6e411a-1cfc-5b1f-be65-3e9644b00824
-- 69df1032-f6ec-58b2-9b05-cbcb3c243462
-- 07c68645-2ddf-517a-ba6f-8fea0f6dd526
-- 6c462352-4a0d-5cdc-8c96-390da1eec427
 ---
+
 
 The anti-xeno agency Aegis has been officially reformed by the Alliance, Empire and Federation.
 Aegis was initially founded in 3303 to centralise research into the Thargoids, as well as coordinate defence and rescue operations. It was disbanded in 3308 following accusations of incompetence in the wake of the Alexandria disaster and the subsequent findings of the Baumann Report. The recent escalation of the Thargoid War and calls for renewed collaboration between the superpowers have led to a reversal of that decision.

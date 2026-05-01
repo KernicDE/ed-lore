@@ -4,8 +4,10 @@ title: Community Goal  The Gear of War
 slug: community_goal_the_gear_of_war
 date: '3303-04-28'
 source: GitHub
-summary: The Sitakapan Expeditionary Forces plan to convert a mining outpost into a military settlement in Sitakapa to address growing galactic instability.
-player_impact: Pilots can deliver military-grade weapons and chemicals to Russell Hub in the Sitakapa system for rewards.
+summary: The Sitakapan Expeditionary Forces plan to convert a mining outpost into
+  a military settlement in Sitakapa to address growing galactic instability.
+player_impact: Pilots can deliver military-grade weapons and chemicals to Russell
+  Hub in the Sitakapa system for rewards.
 persons:
 - General Ani Leonard
 groups:
@@ -19,10 +21,15 @@ topics:
 - war
 technologies: []
 arc_id: pleiades-expansion
-modern_impact: Sitakapa's military settlement conversion reflects growing frontier-world militarization amid galactic instability.
+modern_impact: Sitakapa's military settlement conversion reflects growing frontier-world
+  militarization amid galactic instability.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 88efdd4a-ed54-5dee-9c24-b5ae333ccda8
+- 8a3d4510-5f41-5755-aeaa-89033dac4352
 ---
+
 
 The Sitakapan Expeditionary Forces have announced plans to fortify their home system of Sitakapa by converting a mining outpost into a military settlement. The move is a response to increasing political and military instability across the galaxy. 
 

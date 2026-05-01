@@ -1,11 +1,13 @@
 ---
-
 uuid: 11940ec2-f568-5815-bf35-386dee4a1f21
 title: Freelance Report  Barnacles Continue to Occupy the Canonn
 slug: freelance_report_barnacles_continue_to_occupy_the_canonn
 date: '3302-02-23'
 source: GitHub
-summary: Dr Arcanonn reports ongoing Canonn research into barnacles and Unknown Artefacts. New barnacle sites continue to be discovered in the Pleiades, including a recent find on Pleiades Sector IH-V C2-16 C4. The Canonn is investigating why barnacles appear specifically in the Pleiades region.
+summary: Dr Arcanonn reports ongoing Canonn research into barnacles and Unknown Artefacts.
+  New barnacle sites continue to be discovered in the Pleiades, including a recent
+  find on Pleiades Sector IH-V C2-16 C4. The Canonn is investigating why barnacles
+  appear specifically in the Pleiades region.
 player_impact: None
 persons:
 - Dr Arcanonn
@@ -19,10 +21,15 @@ locations:
 topics:
 - research
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
+  and fuels the emerging Thargoid contact narrative.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 7eaaa54a-2715-5e47-8a73-ec469ab90965
+- cb951ac7-5daf-5953-b791-1f266124e38b
 ---
+
 
 
 Verity Gavroche, public correspondent for the Canonn Interstellar Research Group, has been speaking to Dr Arcanonn about his teams' ongoing research: 

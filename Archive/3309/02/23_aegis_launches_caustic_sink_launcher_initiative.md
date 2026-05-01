@@ -4,8 +4,11 @@ title: Aegis Launches Caustic Sink Launcher Initiative
 slug: aegis_launches_caustic_sink_launcher_initiative
 date: '3309-02-23'
 source: API
-summary: Aegis requests resource deliveries in Duamta to fast-track mass production of the caustic sink launcher module.
-player_impact: Pilots were asked to deliver advanced catalysers, heatsink interlinks, palladium and caustic tissue samples to the Orunmilla in Duamta to fast-track production of caustic sink launchers.
+summary: Aegis requests resource deliveries in Duamta to fast-track mass production
+  of the caustic sink launcher module.
+player_impact: Pilots were asked to deliver advanced catalysers, heatsink interlinks,
+  palladium and caustic tissue samples to the Orunmilla in Duamta to fast-track production
+  of caustic sink launchers.
 persons:
 - Alba Tesreau
 - Aden Tanner
@@ -23,13 +26,19 @@ topics:
 - war
 entities: []
 arc_id: thargoid-titan-war
-modern_impact: 'Ivano Colombera stated: "Aegis has immediately justified its reformation with this contribution to the war effort." By crowdsourcing materials and dangerous caustic samples from independent pilots, Aegis demonstrated its renewed operational model: collaborative, transparent and directly integrated with the galactic community rather than relying on shadowy proxies.'
+modern_impact: 'Ivano Colombera stated: "Aegis has immediately justified its reformation
+  with this contribution to the war effort." By crowdsourcing materials and dangerous
+  caustic samples from independent pilots, Aegis demonstrated its renewed operational
+  model: collaborative, transparent and directly integrated with the galactic community
+  rather than relying on shadowy proxies.'
 legacy_weight: 5
 significance: high
 related_uuids:
-- 201a0a31-f461-5ded-a815-a7b9c289c352
 - 07c68645-2ddf-517a-ba6f-8fea0f6dd526
+- 201a0a31-f461-5ded-a815-a7b9c289c352
+- 8693b44d-82f2-5b39-b670-b648bd6dd9e0
 ---
+
 
 **Pilots’ Federation ALERT**
 Deliveries are requested in Duamta to fast-track production of a module that protects ships in caustic environments.

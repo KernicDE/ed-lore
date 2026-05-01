@@ -4,8 +4,12 @@ title: The Triumph of Salvation
 slug: the_triumph_of_salvation
 date: '3307-12-15'
 source: API
-summary: Salvation confirms his anti-xeno superweapons successfully routed Thargoids from Delphi, Maia and Merope, and urges unity behind his crusade while dismissing Aegis as finished.
-player_impact: Independent pilots and anti-xeno squadrons were asked to continue combating remaining Thargoid vessels in Coalsack, Pleiades and Witch Head Nebula. Repair efforts still required in Delphi, Maia and Merope.
+summary: Salvation confirms his anti-xeno superweapons successfully routed Thargoids
+  from Delphi, Maia and Merope, and urges unity behind his crusade while dismissing
+  Aegis as finished.
+player_impact: Independent pilots and anti-xeno squadrons were asked to continue combating
+  remaining Thargoid vessels in Coalsack, Pleiades and Witch Head Nebula. Repair efforts
+  still required in Delphi, Maia and Merope.
 persons:
 - Morag Halloran
 groups:
@@ -22,13 +26,16 @@ topics:
 - alien contact
 - war
 arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape and drives anti-xeno defence efforts.
+modern_impact: Thargoid activity fundamentally changes the galactic security landscape
+  and drives anti-xeno defence efforts.
 legacy_weight: 5
 significance: high
 related_uuids:
-- 81538fce-b754-58bd-9a39-a3532cc682d7
 - 2b4db5ae-e575-5f03-bb79-4a02d667f70a
+- 81538fce-b754-58bd-9a39-a3532cc682d7
+- 9312526f-943e-58ee-8e99-88de0d4b618c
 ---
+
 
 Salvation has confirmed that his anti-xeno superweapons successfully routed Thargoids from The Delphi, Maia and Merope systems.
 The following message was submitted to all newsfeeds:

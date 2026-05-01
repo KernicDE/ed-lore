@@ -4,8 +4,12 @@ title: Emperor's Dawn  What does it stand for
 slug: emperors_dawn_what_does_it_stand_for
 date: '3301-10-03'
 source: GitHub
-summary: 'A leaked internal document from Emperor''s Dawn revealed the group''s radical agenda: demanding the right to appoint a new Emperor, disbanding the Imperial Senate, and replacing the Imperial military''s philosophy with total martial conviction. Senator Denton Patreus responded by reaffirming his commitment to destroy the organization.'
-player_impact: Pilots aligned with the Empire have confirmation that Emperor's Dawn seeks to overthrow the entire Imperial structure, not merely influence the succession.
+summary: 'A leaked internal document from Emperor''s Dawn revealed the group''s radical
+  agenda: demanding the right to appoint a new Emperor, disbanding the Imperial Senate,
+  and replacing the Imperial military''s philosophy with total martial conviction.
+  Senator Denton Patreus responded by reaffirming his commitment to destroy the organization.'
+player_impact: Pilots aligned with the Empire have confirmation that Emperor's Dawn
+  seeks to overthrow the entire Imperial structure, not merely influence the succession.
 persons:
 - Denton Patreus
 groups:
@@ -19,10 +23,15 @@ topics:
 - ideology
 arc_id: imperial-succession
 arc_chapter: Emperor's Dawn manifesto
-modern_impact: The assassination of Emperor Hengist Duval triggers the succession crisis and reveals the deep conspiracy within the Empire.
+modern_impact: The assassination of Emperor Hengist Duval triggers the succession
+  crisis and reveals the deep conspiracy within the Empire.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 9ff59063-097c-550c-a321-0accc12810d0
+- d38de666-796d-5082-991e-e55ea008a732
 ---
+
 
 Since news of Emperor's Dawn first emerged, there has been extensive Speculation about the group's agenda. That The organisation wants to destabilise The Imperial power base seems highly likely, given that it was almost certainly responsible for the assassination of Emperor Hengist Duval, But the specifics of Its ambitions have remained unclear. 
 

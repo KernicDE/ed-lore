@@ -4,7 +4,10 @@ title: Galactic News  The Martian Relic
 slug: galactic_news_the_martian_relic
 date: '3302-09-30'
 source: GitHub
-summary: The discovery of mysterious wreckage in the Pleiades Nebula has renewed interest in the Martian Relic, a small object discovered beneath the surface of Mars in 2280 and sequestered by the Federal government, with some speculating it could be of Thargoid origin.
+summary: The discovery of mysterious wreckage in the Pleiades Nebula has renewed interest
+  in the Martian Relic, a small object discovered beneath the surface of Mars in 2280
+  and sequestered by the Federal government, with some speculating it could be of
+  Thargoid origin.
 player_impact: None
 persons: []
 groups:
@@ -15,10 +18,15 @@ topics:
 - alien contact
 technologies: []
 arc_id: thargoid-contact
-modern_impact: Renewed interest in the Martian Relic links ancient Federal secrets to contemporary Thargoid discoveries, deepening the mystery of non-human artefacts.
+modern_impact: Renewed interest in the Martian Relic links ancient Federal secrets
+  to contemporary Thargoid discoveries, deepening the mystery of non-human artefacts.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 3133f90c-752e-57a3-8867-34e370a2cc57
+- 96f02e47-3d25-5ec1-904e-1c49c37b218d
 ---
+
 
 The discovery of mysterious wreckage in the Pleiades Nebula has rekindled interest in the so-called Martian Relic, an object discovered beneath the surface of Mars over One thousand years ago. 
 

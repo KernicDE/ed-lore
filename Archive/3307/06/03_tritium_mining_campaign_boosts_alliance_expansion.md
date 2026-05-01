@@ -4,8 +4,11 @@ title: Tritium Mining Campaign Boosts Alliance Expansion
 slug: tritium_mining_campaign_boosts_alliance_expansion
 date: '3307-06-03'
 source: API
-summary: Prime Minister Mahon's tritium mining campaign concludes successfully. New Alliance starports will be constructed in the LHS 2522 and Sharru Sector FW-W c1-19 systems by June 25th. Pilots who contributed can collect rewards from Dublin Citadel.
-player_impact: Pilots mined and delivered tritium to Dublin Citadel in the Gateway system, enabling new Alliance starport construction.
+summary: Prime Minister Mahon's tritium mining campaign concludes successfully. New
+  Alliance starports will be constructed in the LHS 2522 and Sharru Sector FW-W c1-19
+  systems by June 25th. Pilots who contributed can collect rewards from Dublin Citadel.
+player_impact: Pilots mined and delivered tritium to Dublin Citadel in the Gateway
+  system, enabling new Alliance starport construction.
 persons:
 - Edmund Mahon
 groups:
@@ -26,13 +29,18 @@ technologies:
 - Polymers
 - Superconductors
 arc_id: alliance-expansion
-modern_impact: The successful expansion programme strengthens Alliance infrastructure but later becomes controversial when Councillor Kaine reveals potential Sirius Corporation involvement in making up delivery shortfalls.
+modern_impact: The successful expansion programme strengthens Alliance infrastructure
+  but later becomes controversial when Councillor Kaine reveals potential Sirius Corporation
+  involvement in making up delivery shortfalls.
 legacy_weight: 3
 significance: medium
 related_uuids:
-- 931d72fb-9b88-566c-a2c3-8b536ea52a59
+- 09b011a1-77a8-5a75-a0c4-c60509f2f440
 - 1d6aa54e-b31a-593f-8bd3-a53d17cda13a
+- 2a2669e9-b193-5014-92c7-6b9ef9c128e4
+- 931d72fb-9b88-566c-a2c3-8b536ea52a59
 ---
+
 
 **Pilots Federation ALERT**
 Prime Minister Edmund Mahon’s request for mined tritium has concluded, paving The way for new Alliance starports.

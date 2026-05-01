@@ -4,8 +4,11 @@ title: NMLA Aims to ‘Extinguish the Duval Line’
 slug: nmla_aims_to_extinguish_the_duval_line
 date: '3307-10-15'
 source: API
-summary: The NMLA claims responsibility for the Dyson City bombing and declares its intent to exterminate the entire Duval bloodline. ACT reveals Theta Group has split in two.
-player_impact: Pilots continued rescue operations for survivors of the Dyson City bombing.
+summary: The NMLA claims responsibility for the Dyson City bombing and declares its
+  intent to exterminate the entire Duval bloodline. ACT reveals Theta Group has split
+  in two.
+player_impact: Pilots continued rescue operations for survivors of the Dyson City
+  bombing.
 persons:
 - Hadrian Augustus Duval
 - Astrid Minerva-Duval
@@ -18,10 +21,15 @@ groups:
 topics:
 - humanitarian
 arc_id: nmla-terrorism
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to the Marlinist refugee crisis and the Proactive Detection Bureau.
+modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
+  the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 4fdd70f9-8cca-5802-a013-a9272ca513ba
+- 879f21ce-cb58-54b0-aaef-2f8da6b67baf
 ---
+
 
 The Neo-Marlinist Liberation Army has taken responsibility for the attack on Dyson City starport in the Paresa system.
 The primary targets were Imperator Hadrian Duval and his wife Lady Astrid Minerva-Duval, who is pregnant With his child. Although they survived, the bombing left Many thousands dead and injured.

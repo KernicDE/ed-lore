@@ -4,8 +4,12 @@ title: Coalition Announces Non-Aggression Pact Amid HIP 87621 Hostilities
 slug: coalition_announces_non_aggression_pact_amid_hip_87621_hostilities
 date: 3312-02-03
 source: API
-summary: Coalition of major powers announces non-aggression pact in HIP 87621 enclave. Aisling, Grom, Arissa, Kaine, Mahon and Patreus aligned. Antal excluded. Analysts suggest motive is to refocus on core system conflicts.
-player_impact: Non-aggression pact in HIP 87621 enclave between Aisling Duval, Yuri Grom, Arissa Lavigny-Duval, Nakato Kaine, Edmund Mahon and Denton Patreus forces. Pranav Antal excluded. Fighting subsides but sporadic clashes continue.
+summary: Coalition of major powers announces non-aggression pact in HIP 87621 enclave.
+  Aisling, Grom, Arissa, Kaine, Mahon and Patreus aligned. Antal excluded. Analysts
+  suggest motive is to refocus on core system conflicts.
+player_impact: Non-aggression pact in HIP 87621 enclave between Aisling Duval, Yuri
+  Grom, Arissa Lavigny-Duval, Nakato Kaine, Edmund Mahon and Denton Patreus forces.
+  Pranav Antal excluded. Fighting subsides but sporadic clashes continue.
 persons:
 - Ernesto Rios
 - Pranav Antal
@@ -20,13 +24,19 @@ topics:
 - succession
 - war
 arc_id: hip87621-conflict
-modern_impact: Informal power coalition without Federal representation shifts the post-war superpower balance. Exclusion of Pranav Antal and the Federation creates new diplomatic fault lines. This model of independent pilot-led peace agreements may influence how future enclave conflicts are resolved without direct superpower intervention.
+modern_impact: Informal power coalition without Federal representation shifts the
+  post-war superpower balance. Exclusion of Pranav Antal and the Federation creates
+  new diplomatic fault lines. This model of independent pilot-led peace agreements
+  may influence how future enclave conflicts are resolved without direct superpower
+  intervention.
 legacy_weight: 4
 significance: high
 related_uuids:
-- b8f58ea5-67eb-5bfe-8477-8f3218c4afdf
+- 5a71a938-54b4-516c-a9c2-96aea2e3e6d3
 - 86dbc944-a8ec-5d85-ab42-44ac9911ac40
+- b8f58ea5-67eb-5bfe-8477-8f3218c4afdf
 ---
+
 
 The group, comprising of Aisling Duval, Yuri Grom, Arissa Lavigny-Duval, Nakato Kaine, Edmund Mahon and Denton Patreus aligned forces, brings together representatives and affiliated factions to agree to an informal non-aggression pact. The agreement is described as intending to guarantee mutual support and reduce further escalation in the enclave. Pranav Antal's forces were notably missing from the announcement, with rumours circulating that Antal has not been included in the Pact following the two-week ceasefire.
 Speaking to Vox Galactica, a spokesperson for the coalition claimed that it represents an independently organised group of pilots, arguing that coordinated restraint is necessary to try to avoid any further confrontation in the enclave.

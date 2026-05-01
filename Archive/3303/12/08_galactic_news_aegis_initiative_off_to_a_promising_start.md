@@ -4,7 +4,11 @@ title: Galactic News  Aegis Initiative off to a Promising Start
 slug: galactic_news_aegis_initiative_off_to_a_promising_start
 date: '3303-12-08'
 source: GitHub
-summary: Aegis's new research programme at Titan's Daughter in the Taygeta system is already producing results. Professor Boden Tench reports they have learned much about how Thargoids transmit and store information, and are studying star maps found inside Thargoid structures to understand how the aliens categorize geographical data.
+summary: Aegis's new research programme at Titan's Daughter in the Taygeta system
+  is already producing results. Professor Boden Tench reports they have learned much
+  about how Thargoids transmit and store information, and are studying star maps found
+  inside Thargoid structures to understand how the aliens categorize geographical
+  data.
 player_impact: None
 persons:
 - Boden Tench
@@ -17,10 +21,15 @@ topics:
 - alien contact
 - research
 arc_id: thargoid-contact
-modern_impact: Early Aegis research into Thargoid Probes, Sensors, and star maps begins revealing insights into alien information systems and territorial concepts.
+modern_impact: Early Aegis research into Thargoid Probes, Sensors, and star maps begins
+  revealing insights into alien information systems and territorial concepts.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 4e1c76e9-43ef-5b79-9977-bca46ec840e1
+- 692b0aa5-7d54-55bc-85d1-97b0ea35c9ac
 ---
+
 
 Reports from The Taygeta system indicate that Aegis’s new research programme is already bearing fruit. 
 

@@ -4,8 +4,11 @@ title: Anti-Guardian field project yields breakthrough - New modifications avail
 slug: anti_guardian_field_project_yields_breakthrough_new_modifications_available
 date: '3310-04-19'
 source: API
-summary: Engineer Ram Tah and Aegis announce breakthrough modifications to immunise Guardian modules against anti-Guardian field effects, available at Ram Tah's workshop in Meene.
-player_impact: Pilots can now have Guardian modules modified at Ram Tah's workshop in Meene to be resistant to anti-Guardian fields.
+summary: Engineer Ram Tah and Aegis announce breakthrough modifications to immunise
+  Guardian modules against anti-Guardian field effects, available at Ram Tah's workshop
+  in Meene.
+player_impact: Pilots can now have Guardian modules modified at Ram Tah's workshop
+  in Meene to be resistant to anti-Guardian fields.
 persons:
 - Ram Tah
 - Alba Tesreau
@@ -21,12 +24,19 @@ technologies:
 - anti-Guardian fields
 - nanite clusters
 arc_id: thargoid-titan-war
-modern_impact: Tesreau's statement — 'Guardian technology has once again paved a way forward for humanity' — frames the Guardians as humanity's ancient allies against the Thargoids. The discovery that nanite clusters are 'entirely unaffected by anti-Guardian fields' is a critical tactical insight. The urgency of the announcement — 'urgent press conference' — reflects the immediate combat relevance of this breakthrough.
+modern_impact: Tesreau's statement — 'Guardian technology has once again paved a way
+  forward for humanity' — frames the Guardians as humanity's ancient allies against
+  the Thargoids. The discovery that nanite clusters are 'entirely unaffected by anti-Guardian
+  fields' is a critical tactical insight. The urgency of the announcement — 'urgent
+  press conference' — reflects the immediate combat relevance of this breakthrough.
 legacy_weight: 5
 significance: high
 related_uuids:
+- 954f0514-fb85-5200-bf86-3e2b146b34c3
+- c68d0b34-c427-59b2-888e-0b7fdd53cd63
 - fb058492-b8b0-55e8-9d79-2a2f1596370b
 ---
+
 
 **Pilots’ Federation ALERT**
 The engineer Ram Tah has discovered a method of immunising existing Guardian modules against the effects of anti-Guardian fields.

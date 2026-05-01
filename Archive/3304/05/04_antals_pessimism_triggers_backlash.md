@@ -4,7 +4,12 @@ title: Antal’s Pessimism Triggers Backlash
 slug: antals_pessimism_triggers_backlash
 date: '3304-05-04'
 source: GitHub
-summary: Pranav Antal’s suggestion that humanity could lose the war against the Thargoids has been contested by multiple key figures. Federal Shadow President Felicia Winters called for focus on present cooperation rather than dystopian predictions. Admiral Aden Tanner stated Aegis is leading effective resistance with AX weaponry and megaships. Li Yong-Rui, CEO of Sirius Corporation, dismissed Antal’s vision of digital survival as not serious, arguing civilisation remains functional.
+summary: Pranav Antal’s suggestion that humanity could lose the war against the Thargoids
+  has been contested by multiple key figures. Federal Shadow President Felicia Winters
+  called for focus on present cooperation rather than dystopian predictions. Admiral
+  Aden Tanner stated Aegis is leading effective resistance with AX weaponry and megaships.
+  Li Yong-Rui, CEO of Sirius Corporation, dismissed Antal’s vision of digital survival
+  as not serious, arguing civilisation remains functional.
 player_impact: None explicitly stated.
 persons:
 - Pranav Antal
@@ -23,10 +28,15 @@ topics:
 - corporate expansion
 - war
 arc_id: thargoid-contact
-modern_impact: Public debates about humanity’s chances against the Thargoids reveal divergent strategic philosophies among political and corporate leaders.
+modern_impact: Public debates about humanity’s chances against the Thargoids reveal
+  divergent strategic philosophies among political and corporate leaders.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 208ad777-7e52-54e3-b190-cfdd50fec921
+- 7df21833-aa87-5941-92ce-9de1d458f258
 ---
+
 
 Many key figures have contested Pranav Antal’s suggestion that humanity could lose The conflict against the Thargoids. 
 

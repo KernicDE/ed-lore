@@ -4,8 +4,11 @@ title: Experimental Weapons Stabiliser Becomes Available
 slug: experimental_weapons_stabiliser_becomes_available
 date: '3309-01-26'
 source: API
-summary: The class 3 experimental weapon stabiliser enters the market after Azimuth Biotech's successful delivery initiative in LHS 1163.
-player_impact: Pilots who delivered materials can now collect rewards from the Glorious Prospect megaship in LHS 1163, and the class 3 experimental weapon stabiliser is available for purchase.
+summary: The class 3 experimental weapon stabiliser enters the market after Azimuth
+  Biotech's successful delivery initiative in LHS 1163.
+player_impact: Pilots who delivered materials can now collect rewards from the Glorious
+  Prospect megaship in LHS 1163, and the class 3 experimental weapon stabiliser is
+  available for purchase.
 persons:
 - Liz Ryder
 - Zacariah Nemo
@@ -22,14 +25,22 @@ topics:
 - war
 entities: []
 arc_id: thargoid-titan-war
-modern_impact: '"This variant of Azimuth''s experimental weapons stabiliser is now widely available for purchase. By redirecting and absorbing internal stresses, it allows a ship to carry a total of five AX weapons rather than the previous limit of four." The rapid commercialization of this technology demonstrated Azimuth''s manufacturing agility and deepened pilot dependency on corporation-specific modules during the war.'
+modern_impact: '"This variant of Azimuth''s experimental weapons stabiliser is now
+  widely available for purchase. By redirecting and absorbing internal stresses, it
+  allows a ship to carry a total of five AX weapons rather than the previous limit
+  of four." The rapid commercialization of this technology demonstrated Azimuth''s
+  manufacturing agility and deepened pilot dependency on corporation-specific modules
+  during the war.'
 legacy_weight: 5
 significance: high
 related_uuids:
+- 69926e4d-553c-5afc-b7a1-2e6de591030d
+- 70502ec6-81e6-5614-bdae-f03fcf03dd64
 - 8b0086f9-372c-5557-906d-f1d12dcbc7de
 - af414e75-9512-5bdb-a09c-4a4728a99030
 - c8748b5c-ead9-5303-92b2-5cb20d64e511
 ---
+
 
 **Pilots’ Federation ALERT**
 The class 3 experimental weapon stabiliser is now available following Azimuth Biotech’s delivery initiative in LHS 1163.

@@ -4,7 +4,9 @@ title: 'New Phase for Alliance-Sirius Partnership '
 slug: new_phase_for_alliance_sirius_partnership
 date: '3307-12-22'
 source: API
-summary: The Alliance Assembly invites Sirius Corporation to collaborate on enhancing Thargoid protection for member systems, with CEO Li Yong-Rui travelling to Alioth for high-level discussions.
+summary: The Alliance Assembly invites Sirius Corporation to collaborate on enhancing
+  Thargoid protection for member systems, with CEO Li Yong-Rui travelling to Alioth
+  for high-level discussions.
 player_impact: Not specifically mentioned — this is a political report.
 persons:
 - Edmund Mahon
@@ -25,10 +27,15 @@ topics:
 - corporate expansion
 - diplomacy
 arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape and drives anti-xeno defence efforts.
+modern_impact: Thargoid activity fundamentally changes the galactic security landscape
+  and drives anti-xeno defence efforts.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 4931d387-bad1-56c0-b74d-3fa457698ec1
+- de009a58-09eb-5041-8088-be52372dad17
 ---
+
 
 The Alliance Assembly has invited Sirius Corporation to collaborate on enhancing protection for member systems against the Thargoids.
 Political journalist Vanya Driscoll reported on the development for The Alliance Tribune:

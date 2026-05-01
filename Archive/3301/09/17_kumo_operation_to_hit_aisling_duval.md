@@ -4,8 +4,15 @@ title: Kumo Operation to Hit Aisling Duval
 slug: kumo_operation_to_hit_aisling_duval
 date: '3301-09-17'
 source: GitHub
-summary: Kumo Crew commanders swept across systems controlled by Arissa Lavigny-Duval, penetrating deeper than in any previous skirmish. Leaked intelligence indicated Archon Delaine would focus on planets and stations pledged to Aisling Duval. The operation elevated danger for Imperial citizens and demonstrated that the Pegasi Pirate War had taken on a new dimension, drawing on the strength and resources of a thousand worlds.
-player_impact: Pilots in Aisling Duval's systems should prepare for increased Kumo Crew pirate activity. Combat pilots may find opportunities to defend Imperial systems and earn combat bonds.
+summary: Kumo Crew commanders swept across systems controlled by Arissa Lavigny-Duval,
+  penetrating deeper than in any previous skirmish. Leaked intelligence indicated
+  Archon Delaine would focus on planets and stations pledged to Aisling Duval. The
+  operation elevated danger for Imperial citizens and demonstrated that the Pegasi
+  Pirate War had taken on a new dimension, drawing on the strength and resources of
+  a thousand worlds.
+player_impact: Pilots in Aisling Duval's systems should prepare for increased Kumo
+  Crew pirate activity. Combat pilots may find opportunities to defend Imperial systems
+  and earn combat bonds.
 persons:
 - Archon Delaine
 - Mikalus
@@ -17,10 +24,15 @@ topics:
 - war
 technologies: []
 arc_id: kumo-crew-rise
-modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges of protecting civilian populations during pirate wars.
+modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges
+  of protecting civilian populations during pirate wars.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 0de387c7-3d52-5729-b094-d28d71e57acf
+- 129ce83a-cfce-558e-b3ae-670dd2f88da0
 ---
+
 
 Ever The opportunists, Kumo Crew commanders have swept across a number of systems controlled by Arissa Lavigny-Duval in The last seven days. They penetrated deeper than in any previous skirmish, and elevated the level of danger faced by Imperial citizens as a result of the Pegasi Pirate War. 
 

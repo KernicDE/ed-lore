@@ -4,8 +4,11 @@ title: Thargoid Strike Follows Salvation’s Prediction
 slug: thargoid_strike_follows_salvations_prediction
 date: '3307-09-16'
 source: API
-summary: Thargoid forces attack the Cornsar system, validating Salvation's prediction. Over ten thousand casualties result from direct assaults on Chadwick Port and Ito Market stations.
-player_impact: Independent pilots and local security forces fought Thargoid vessels and rescued civilians from damaged starports.
+summary: Thargoid forces attack the Cornsar system, validating Salvation's prediction.
+  Over ten thousand casualties result from direct assaults on Chadwick Port and Ito
+  Market stations.
+player_impact: Independent pilots and local security forces fought Thargoid vessels
+  and rescued civilians from damaged starports.
 persons:
 - Salvation
 - Noah Sharrow
@@ -17,10 +20,15 @@ topics:
 - investigation
 - war
 arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape and drives anti-xeno defence efforts.
+modern_impact: Thargoid activity fundamentally changes the galactic security landscape
+  and drives anti-xeno defence efforts.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 2f5b7929-53b6-5161-a9a3-67293681c406
+- 9b0cbc30-2dfb-5a40-adc2-64b5427036f1
 ---
+
 
 **Pilots Federation ALERT**
 The Cornsar system has been attacked by Thargoid forces, causing severe damage to two starports.

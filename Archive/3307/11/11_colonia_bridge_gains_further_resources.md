@@ -4,18 +4,25 @@ title: Colonia Bridge Gains Further Resources
 slug: colonia_bridge_gains_further_resources
 date: '3307-11-11'
 source: API
-summary: Successful delivery campaigns in Alcor and Colonia result in additional megaships being added to the Colonia Bridge route.
-player_impact: Pilots collected rewards from Macdonald Settlement and Jaques Station, with top contributors receiving engineered Frame Shift Drives.
+summary: Successful delivery campaigns in Alcor and Colonia result in additional megaships
+  being added to the Colonia Bridge route.
+player_impact: Pilots collected rewards from Macdonald Settlement and Jaques Station,
+  with top contributors receiving engineered Frame Shift Drives.
 groups:
 - Brewer Corporation
 topics:
 - corporate expansion
 - engineering
 arc_id: jaques-station
-modern_impact: Colonia continues to grow as a deep-space settlement, offering new opportunities for exploration and colonisation.
+modern_impact: Colonia continues to grow as a deep-space settlement, offering new
+  opportunities for exploration and colonisation.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 403eb749-98c4-5030-905c-32e97ca872f6
+- ce21804c-02a9-587f-9a07-bb47ffc7a247
 ---
+
 
 **Pilots Federation ALERT**
 Successful campaigns in The Alcor and Colonia systems will result in new megaships being added to the Colonia Bridge.

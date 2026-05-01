@@ -4,8 +4,14 @@ title: Federation Scientist Initiates Independent Research Programme
 slug: federation_scientist_initiates_independent_research_programme
 date: '3301-10-26'
 source: GitHub
-summary: Professor Ishmael Palin announced the resumption of his research into anomalous extraterrestrial objects after his Federation-backed program was cancelled. The new independent effort is based at Christian Dock in the Nganji system, near where the objects were discovered. Palin stated his intention to share findings with the galactic community free from interference.
-player_impact: Pilots can support Palin's independent research by delivering materials or data to Christian Dock in Nganji. His findings may provide new insights into the nature and purpose of Unknown Artefacts.
+summary: Professor Ishmael Palin announced the resumption of his research into anomalous
+  extraterrestrial objects after his Federation-backed program was cancelled. The
+  new independent effort is based at Christian Dock in the Nganji system, near where
+  the objects were discovered. Palin stated his intention to share findings with the
+  galactic community free from interference.
+player_impact: Pilots can support Palin's independent research by delivering materials
+  or data to Christian Dock in Nganji. His findings may provide new insights into
+  the nature and purpose of Unknown Artefacts.
 persons:
 - Ishmael Palin
 - Governor Deacon
@@ -21,10 +27,15 @@ technologies:
 - Unknown Artefacts
 arc_id: unknown-artefacts
 arc_chapter: Palin resumes independent research
-modern_impact: Advances understanding of the mysterious alien artefacts and their threat to station infrastructure.
+modern_impact: Advances understanding of the mysterious alien artefacts and their
+  threat to station infrastructure.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 88512401-265f-577d-9b19-c9577db5f324
+- ad64e49b-87f3-5290-852b-7ba4de078c47
 ---
+
 
 Ishmael Palin, The Federation scientist tasked With studying the anomalous extraterrestrial objects discovered earlier This year, has announced his decision to resume his research. This development follows the termination of an earlier, Federation-backed research programme led by Professor Palin. 
 

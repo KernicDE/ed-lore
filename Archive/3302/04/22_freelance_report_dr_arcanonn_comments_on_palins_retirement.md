@@ -4,7 +4,10 @@ title: Freelance Report  Dr Arcanonn Comments on Palin's Retirement
 slug: freelance_report_dr_arcanonn_comments_on_palins_retirement
 date: '3302-04-22'
 source: GitHub
-summary: Dr Arcanonn of the Canonn Interstellar Research Group expresses solidarity with Professor Ishmael Palin's decision to retire from the Palin Institute. Arcanonn raises concerns about secretive convoys, Palin's abduction, and death threats received by scientists studying Unknown Artefacts and meta-alloys.
+summary: Dr Arcanonn of the Canonn Interstellar Research Group expresses solidarity
+  with Professor Ishmael Palin's decision to retire from the Palin Institute. Arcanonn
+  raises concerns about secretive convoys, Palin's abduction, and death threats received
+  by scientists studying Unknown Artefacts and meta-alloys.
 player_impact: None
 persons:
 - Dr Arcanonn
@@ -19,10 +22,15 @@ topics:
 - research
 - war
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
+  and fuels the emerging Thargoid contact narrative.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 06e5182f-b05d-56f9-b966-58fc1b6b0fee
+- c1dba91c-8540-5e59-b6f3-09cc6f26fb7c
 ---
+
 
 Dr Arcanonn of The Canonn Interstellar Research Group has expressed solidarity With Professor Ishmael Palin, following the latter's decision to retire from the Palin Institute and pursue personal research into the Unknown Artefacts and meta-alloys. 
 

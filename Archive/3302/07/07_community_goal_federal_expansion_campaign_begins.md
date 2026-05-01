@@ -24,7 +24,11 @@ modern_impact: Marks the start of overt Federal infrastructure expansion toward 
   Pleiades, triggering Imperial opposition and setting the stage for proxy conflicts.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 7347eb81-9a9c-504f-8834-a1b7de13a2ef
+- c1308357-4cd9-566d-8f01-cd5ab3ce7499
 ---
+
 
 
 The Future of Segovan, a Federal organisation based in the Segovan system, has announced plans to construct a number of new Federal Naval outposts, starting in Segovan and reaching out into the Pleiades sector. 

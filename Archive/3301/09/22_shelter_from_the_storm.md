@@ -4,8 +4,13 @@ title: Shelter from the Storm
 slug: shelter_from_the_storm
 date: '3301-09-22'
 source: GitHub
-summary: Utopia joined the Munshin government's call for help with Pegasi Pirate War refugees. Adjudicator Adric Claavis announced Utopia would deliver humanitarian supplies and welcome refugees seeking new lives on Utopian worlds. Utopian ambassadors requested passage through Kumo Crew space to reach Munshin, marking an unusual diplomatic overture to the pirates.
-player_impact: Pilots can support the humanitarian effort by delivering supplies to Munshin. Utopia's involvement expands the relief network for Pegasi Sector refugees.
+summary: Utopia joined the Munshin government's call for help with Pegasi Pirate War
+  refugees. Adjudicator Adric Claavis announced Utopia would deliver humanitarian
+  supplies and welcome refugees seeking new lives on Utopian worlds. Utopian ambassadors
+  requested passage through Kumo Crew space to reach Munshin, marking an unusual diplomatic
+  overture to the pirates.
+player_impact: Pilots can support the humanitarian effort by delivering supplies to
+  Munshin. Utopia's involvement expands the relief network for Pegasi Sector refugees.
 persons:
 - Adric Claavis
 - Gan
@@ -20,10 +25,15 @@ topics:
 - war
 technologies: []
 arc_id: kumo-crew-rise
-modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges of protecting civilian populations during pirate wars.
+modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges
+  of protecting civilian populations during pirate wars.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 133991fb-0db1-5e9b-9033-af471d5210cc
+- 22d876c4-5b42-5085-a8a6-6ed58448ef84
 ---
+
 
 Yesterday, Utopia added Its support to the Mushin government’s call for help As the Pegasi Pirate War Continues to displace millions of citizens. 
 

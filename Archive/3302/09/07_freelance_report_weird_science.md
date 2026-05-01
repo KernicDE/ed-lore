@@ -4,7 +4,9 @@ title: Freelance Report  Weird Science
 slug: freelance_report_weird_science
 date: '3302-09-07'
 source: GitHub
-summary: Naturalist Ulla Burton claimed the mysterious wreckage in the Pleiades Sector AB-W B2-4 system is a giant space crab confused by frame shift emissions, while dismissing Unknown Probes as space fungi and criticising the Canonn Institute.
+summary: Naturalist Ulla Burton claimed the mysterious wreckage in the Pleiades Sector
+  AB-W B2-4 system is a giant space crab confused by frame shift emissions, while
+  dismissing Unknown Probes as space fungi and criticising the Canonn Institute.
 player_impact: None
 persons:
 - Ulla Burton
@@ -16,10 +18,15 @@ locations:
 - Pleiades Sector AB-W B2-4
 technologies: []
 arc_id: pleiades-expansion
-modern_impact: Burton's fringe theory highlighted the spectrum of public speculation surrounding the wreckage, from serious research to sensationalist claims.
+modern_impact: Burton's fringe theory highlighted the spectrum of public speculation
+  surrounding the wreckage, from serious research to sensationalist claims.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 74f9ab0c-74c1-55ff-a5e7-6c1facb340dd
+- fcd31ad3-0281-5262-be6b-e943631d1d8f
 ---
+
 
 As the scientific community grapples With the discovery of mysterious wreckage in The Pleiades Sector AB-W B2-4 system, controversial naturalist Ulla Burton believes she has the answer. 
 

@@ -4,7 +4,12 @@ title: Covert Organisation Discovered
 slug: covert_organisation_discovered
 date: '3304-05-05'
 source: GitHub
-summary: The Imperial Internal Security Service has discovered that Senator Nestor Cartesius was murdered by a freelance assassin acting on behalf of the League of Reparation, a secret organisation seeking justice for victims of INRA's crimes. Captain Niamh Seutonia confirmed the assassin was eliminated during arrest. A tri-superpower taskforce is being established to investigate the League, with potentially thousands of INRA descendants at risk.
+summary: The Imperial Internal Security Service has discovered that Senator Nestor
+  Cartesius was murdered by a freelance assassin acting on behalf of the League of
+  Reparation, a secret organisation seeking justice for victims of INRA's crimes.
+  Captain Niamh Seutonia confirmed the assassin was eliminated during arrest. A tri-superpower
+  taskforce is being established to investigate the League, with potentially thousands
+  of INRA descendants at risk.
 player_impact: None explicitly stated.
 persons:
 - Nestor Cartesius
@@ -23,10 +28,15 @@ topics:
 - investigation
 - terrorism
 arc_id: inra-exposed
-modern_impact: Revelations about INRA's dark history reshape public understanding of the Thargoid conflict and superpower accountability.
+modern_impact: Revelations about INRA's dark history reshape public understanding
+  of the Thargoid conflict and superpower accountability.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 7b48d4e3-103e-585d-84c1-c6cc7ad4fc39
+- d3344fae-a41f-5e7b-af0b-ed85632fd68e
 ---
+
 
 The Imperial Internal Security Service has discovered that the murderer of Senator Nestor Cartesius was acting on behalf of a secret organisation. 
 

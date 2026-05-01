@@ -4,7 +4,8 @@ title: Galactic News  Alliance Continues California Nebula Expansion
 slug: galactic_news_alliance_continues_california_nebula_expansion
 date: '3303-04-22'
 source: GitHub
-summary: The Alliance is expanding its presence in the California Nebula by establishing a scientific outpost and an extraction facility in California Sector JH-V c2-12.
+summary: The Alliance is expanding its presence in the California Nebula by establishing
+  a scientific outpost and an extraction facility in California Sector JH-V c2-12.
 player_impact: None specified.
 persons:
 - Kelvin Masters
@@ -20,10 +21,15 @@ topics:
 - research
 technologies: []
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy trade drives economic and military activity in the Pleiades region.
+modern_impact: The barnacle/meta-alloy trade drives economic and military activity
+  in the Pleiades region.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 93706846-9f0e-58ed-8d5e-e1d3866fe835
+- b0b2232a-85c9-5e3b-9614-64d46c7495b1
 ---
+
 
 Last year, The Alliance established a foothold in the California Nebula With the construction of an outpost in the California Sector BA-A E6 system. 
 

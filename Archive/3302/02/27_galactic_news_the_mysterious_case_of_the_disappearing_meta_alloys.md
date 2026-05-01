@@ -4,7 +4,10 @@ title: Galactic News  The Mysterious Case of the Disappearing Meta Alloys
 slug: galactic_news_the_mysterious_case_of_the_disappearing_meta_alloys
 date: '3302-02-27'
 source: GitHub
-summary: Questions arise about the thousands of tonnes of meta-alloys delivered to Obsidian Orbital for Professor Palin before his disappearance. An anonymous report claims most were sold on the black market to private companies acting as fronts for an unknown conglomerate, raising questions about who purchased them and why.
+summary: Questions arise about the thousands of tonnes of meta-alloys delivered to
+  Obsidian Orbital for Professor Palin before his disappearance. An anonymous report
+  claims most were sold on the black market to private companies acting as fronts
+  for an unknown conglomerate, raising questions about who purchased them and why.
 player_impact: None
 persons:
 - Ishmael Palin
@@ -18,10 +21,15 @@ topics:
 - research
 - trade
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
+  and fuels the emerging Thargoid contact narrative.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 1b8e7389-bd6f-558e-9b8f-fb98a7e667c5
+- 79707cce-a1a3-51f5-8c52-7946628254f1
 ---
+
 
 Last month, the eminent scientist Ishmael Palin issued an appeal for meta-alloys, the rare material produced by the 'barnacles' of the Pleiades Nebula. The request was enthusiastically received by the galactic community, But the professor's research into the meta-alloys was brought to an abrupt halt when he and his team disappeared en route to Maia b1ba. 
 

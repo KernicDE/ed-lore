@@ -4,8 +4,15 @@ title: Federal and Imperial Diplomats Discuss the Pegasi Sector
 slug: federal_and_imperial_diplomats_discuss_the_pegasi_sector
 date: '3301-08-24'
 source: GitHub
-summary: Federation and Imperial commanders met to discuss cooperation against the Kumo Crew in the Pegasi sector. Commander Nyluss of the Merchant Marines called on Federation pilots to oppose the encroachment on their worlds. Commander Corrigendum of Lavigny's Legion welcomed cooperation but asked Federal and Imperial commanders to give each other a wide berth while working toward bringing Archon Delaine to justice. The meeting represents rare superpower cooperation driven by the humanitarian crisis.
-player_impact: Federation and Imperial pilots operating in the Pegasi sector are encouraged to cooperate against the Kumo Crew while avoiding conflicts with each other.
+summary: Federation and Imperial commanders met to discuss cooperation against the
+  Kumo Crew in the Pegasi sector. Commander Nyluss of the Merchant Marines called
+  on Federation pilots to oppose the encroachment on their worlds. Commander Corrigendum
+  of Lavigny's Legion welcomed cooperation but asked Federal and Imperial commanders
+  to give each other a wide berth while working toward bringing Archon Delaine to
+  justice. The meeting represents rare superpower cooperation driven by the humanitarian
+  crisis.
+player_impact: Federation and Imperial pilots operating in the Pegasi sector are encouraged
+  to cooperate against the Kumo Crew while avoiding conflicts with each other.
 persons:
 - Nyluss
 - Corrigendum
@@ -20,10 +27,15 @@ topics:
 - diplomacy
 - war
 arc_id: kumo-crew-rise
-modern_impact: Rare Federal-Imperial cooperation emerges in response to the Kumo Crew threat in the Pegasi sector.
+modern_impact: Rare Federal-Imperial cooperation emerges in response to the Kumo Crew
+  threat in the Pegasi sector.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 01e57bf3-c99c-514b-95b3-493716686774
+- 2d0a01c2-cb28-50e3-a6aa-9383f7359983
 ---
+
 
 Historically, areas of mutual interest have resulting in cooperation between the Empire and the Federation. Now it seems that the humanitarian crisis in the Pegasi Sector represents One such mutual interest. 
 

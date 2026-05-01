@@ -1,12 +1,13 @@
 ---
-
 uuid: bd5a1074-4db4-556d-bd6d-4207d963ce10
 title: Azimuth to Expand Operational Assets
 slug: azimuth_to_expand_operational_assets
 date: '3308-11-03'
 source: API
-summary: Azimuth Biotech has announced a campaign in the Wandrama system to expand its military and surface facility capacity.
-player_impact: Independent pilots were asked to both deliver commodities and engage hostile forces.
+summary: Azimuth Biotech has announced a campaign in the Wandrama system to expand
+  its military and surface facility capacity.
+player_impact: Independent pilots were asked to both deliver commodities and engage
+  hostile forces.
 persons:
 - Torben Rademaker
 groups:
@@ -26,16 +27,20 @@ topics:
 - war
 - xenoarchaeology
 arc_id: salvation-azimuth
-modern_impact: '"After a period of reflection, it is time for Azimuth to once again step forward and assume a position of support for ..." Azimuth''s legacy of ethically compromised research remains a cautionary tale in xenological studies.'
+modern_impact: '"After a period of reflection, it is time for Azimuth to once again
+  step forward and assume a position of support for ..." Azimuth''s legacy of ethically
+  compromised research remains a cautionary tale in xenological studies.'
 legacy_weight: 5
 significance: high
 related_uuids:
-- 0c37c634-123c-5ee7-9616-d3f4b4263c90
 - 005ebf22-d1c0-50cd-ae57-373efc6bdcde
-- f7438e0e-89eb-5e2d-b974-7147bf67d4b1
-- eb62c669-b525-5753-b3cb-faf6452a8088
+- 0c37c634-123c-5ee7-9616-d3f4b4263c90
 - 4e1477c4-93b5-5496-a2b9-86e95c248866
+- cbe79040-1b75-50b1-9aad-bc544ff2b6be
+- eb62c669-b525-5753-b3cb-faf6452a8088
+- f7438e0e-89eb-5e2d-b974-7147bf67d4b1
 ---
+
 
 
 Azimuth Biotech has announced a campaign in the Wandrama system to expand its military and surface facility capacity.

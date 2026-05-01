@@ -27,8 +27,10 @@ modern_impact: Community-seeded stellar modelling at frontier stations creates a
 legacy_weight: 3
 significance: medium
 related_uuids:
+- 1c11d8d0-5fd0-592c-81c0-bc68296f6adf
 - 733415a6-cbfd-5926-a7dc-3a7569d14645
 ---
+
 
 
 The Distant Worlds 3 logistics fleet has completed the first build phase of a new deep-space outpost in the Roefoo ZE-H d10-0 system at the edge of the Mare Somnium region.

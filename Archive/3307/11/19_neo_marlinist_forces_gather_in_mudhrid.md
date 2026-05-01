@@ -4,7 +4,8 @@ title: Neo-Marlinist Forces Gather in Mudhrid
 slug: neo_marlinist_forces_gather_in_mudhrid
 date: '3307-11-19'
 source: API
-summary: The NMLA-controlled Steel Majesty arrives in the Mudhrid system, where the Neo-Marlinist Order reclaims the vessel and threatens to execute hostages if attacked.
+summary: The NMLA-controlled Steel Majesty arrives in the Mudhrid system, where the
+  Neo-Marlinist Order reclaims the vessel and threatens to execute hostages if attacked.
 player_impact: None
 persons:
 - Corentin Delacroix
@@ -19,10 +20,15 @@ topics:
 - terrorism
 - war
 arc_id: nmla-terrorism
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to the Marlinist refugee crisis and the Proactive Detection Bureau.
+modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
+  the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 52bcc8cc-47ef-5633-879a-494ab0a77b40
+- aa298920-c958-524d-b90c-98bb66e111a0
 ---
+
 
 The megaship Steel Majesty has arrived in the Mudhrid system after being taken over by NMLA terrorists.
 Its original owning faction, the Neo-Marlinist Order of Mudhrid, has officially reclaimed the Vessel. Margrave Corentin Delacroix, the faction’s new military ruler and the son of former Landgrave Arastin Delacroix, announced:

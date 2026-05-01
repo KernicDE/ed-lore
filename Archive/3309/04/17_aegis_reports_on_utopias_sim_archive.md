@@ -4,7 +4,9 @@ title: Aegis Reports on Utopia’s Sim-Archive
 slug: aegis_reports_on_utopias_sim_archive
 date: '3309-04-17'
 source: API
-summary: Aegis's delegation visits Utopia and determines the Sim-Archive differs significantly from Salvation's Nemesis Failsafe, with the Failsafe relying on Guardian technology rather than Utopian exoneurology.
+summary: Aegis's delegation visits Utopia and determines the Sim-Archive differs significantly
+  from Salvation's Nemesis Failsafe, with the Failsafe relying on Guardian technology
+  rather than Utopian exoneurology.
 player_impact: Not specifically mentioned — this is a scientific report.
 persons:
 - Maximo Fonseca
@@ -20,13 +22,21 @@ topics:
 - xenoarchaeology
 entities: []
 arc_id: salvation-azimuth
-modern_impact: Fonseca's personal demonstration — 'uploading some of my own long-term memories into the Sim-Archive' — is a vivid detail. The technical distinction — 'the Nemesis process irreversibly transforms a person's entire neuronal network into esoteric energy particles' vs. Utopia's memory duplication — is crucial. Antal's philosophical framing — 'Utopia's role is to unite us all by bringing down the barriers between our individual universes' — contrasts with Salvation's self-preservation motive.
+modern_impact: Fonseca's personal demonstration — 'uploading some of my own long-term
+  memories into the Sim-Archive' — is a vivid detail. The technical distinction —
+  'the Nemesis process irreversibly transforms a person's entire neuronal network
+  into esoteric energy particles' vs. Utopia's memory duplication — is crucial. Antal's
+  philosophical framing — 'Utopia's role is to unite us all by bringing down the barriers
+  between our individual universes' — contrasts with Salvation's self-preservation
+  motive.
 legacy_weight: 5
 significance: high
 related_uuids:
-- e159e9da-bdef-5639-9acd-252e0a4cfb09
+- 5ba8ae23-2d03-588c-b6d4-a1407d3d22a2
 - cbfb28b8-271e-5aed-a280-d1062c636a12
+- e159e9da-bdef-5639-9acd-252e0a4cfb09
 ---
+
 
 A scientific delegation from Aegis has visited Utopia to compare its Sim-Archive with Salvation’s Nemesis Failsafe designs.
 A summary from Dr Maximo Fonseca was shared with newsfeeds:

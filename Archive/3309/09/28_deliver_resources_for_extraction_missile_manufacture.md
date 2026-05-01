@@ -4,8 +4,10 @@ title: Deliver Resources for Extraction Missile Manufacture
 slug: deliver_resources_for_extraction_missile_manufacture
 date: '3309-09-28'
 source: API
-summary: Aegis requests materials for mass production of sub-surface extraction missiles to rescue humans from Titans, with Aisling Duval urging families to hold onto hope.
-player_impact: Pilots were asked to deliver CMM composites, neofabric insulation and osmium to Springer Gateway in the Senlu system.
+summary: Aegis requests materials for mass production of sub-surface extraction missiles
+  to rescue humans from Titans, with Aisling Duval urging families to hold onto hope.
+player_impact: Pilots were asked to deliver CMM composites, neofabric insulation and
+  osmium to Springer Gateway in the Senlu system.
 persons:
 - Alba Tesreau
 - Aisling Duval
@@ -21,12 +23,20 @@ topics:
 - war
 entities: []
 arc_id: thargoid-titan-war
-modern_impact: Tesreau's admission — 'We could spend the next few months in a testing cycle... but lives are at risk' — shows the tension between safety and urgency. Aisling's personal message — 'My heart goes out to the families and friends of the millions unaccounted for' — is genuinely empathetic. Her framing — 'if this war has proved anything, it's that we can rise to any challenge when we work together' — is inspirational.
+modern_impact: Tesreau's admission — 'We could spend the next few months in a testing
+  cycle... but lives are at risk' — shows the tension between safety and urgency.
+  Aisling's personal message — 'My heart goes out to the families and friends of the
+  millions unaccounted for' — is genuinely empathetic. Her framing — 'if this war
+  has proved anything, it's that we can rise to any challenge when we work together'
+  — is inspirational.
 legacy_weight: 5
 significance: high
 related_uuids:
+- 0f162060-afe5-5086-8e97-d15faacc99ac
 - a39bacde-3f03-579e-a87c-1f549b9287b1
+- fe77f573-4833-58b0-aa08-7f2b2103c21a
 ---
+
 
 **Pilots’ Federation ALERT**
 Aegis has requested materials to construct sub-surface extraction missiles that recover imprisoned humans from the Titans.

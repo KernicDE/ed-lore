@@ -4,8 +4,13 @@ title: Prism Senator in Illegal Parking Row
 slug: prism_senator_in_illegal_parking_row
 date: '3301-03-20'
 source: GitHub
-summary: Senator Kahina Tijani Loren's Imperial Courier was fined at Mars High for activating boosters within the station, causing a deafening roar and cracking the docking administration office windows. Mars High sources claimed they showed restraint by not obliterating her ship. Trader Deano Blake, whose Adder was impounded for weeks, praised Loren's style.
-player_impact: None directly; another minor diplomatic incident during Loren's Federation tour highlighting cultural differences between Imperial and Federal protocols.
+summary: Senator Kahina Tijani Loren's Imperial Courier was fined at Mars High for
+  activating boosters within the station, causing a deafening roar and cracking the
+  docking administration office windows. Mars High sources claimed they showed restraint
+  by not obliterating her ship. Trader Deano Blake, whose Adder was impounded for
+  weeks, praised Loren's style.
+player_impact: None directly; another minor diplomatic incident during Loren's Federation
+  tour highlighting cultural differences between Imperial and Federal protocols.
 persons:
 - Kahina Tijani Loren
 - Deano Blake
@@ -18,10 +23,15 @@ locations:
 topics:
 - diplomacy
 arc_id: prism-senator
-modern_impact: The Prism Senator's activities highlight cross-superpower political intrigue.
+modern_impact: The Prism Senator's activities highlight cross-superpower political
+  intrigue.
 legacy_weight: 2
 significance: low
+related_uuids:
+- a8337734-0b91-5132-88c1-c14ed5041e0a
+- d2def23c-2d74-5a9c-b2fa-27490bd93326
 ---
+
 
 Returning to Earth at The invitation of The Secretary General, Senator Kahina Tijani Loren’s Imperial Courier was tagged With a fine at Mars High apparently due to activating Its boosters while still within the station. 
 

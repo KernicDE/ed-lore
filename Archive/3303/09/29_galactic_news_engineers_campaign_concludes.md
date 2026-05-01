@@ -4,8 +4,12 @@ title: Galactic News  Engineers' Campaign Concludes
 slug: galactic_news_engineers_campaign_concludes
 date: '3303-09-29'
 source: GitHub
-summary: Aegis announces the successful conclusion of its appeal for Thargoid-related materials. Huge quantities were delivered to Awyra Flirble and Obsidian Orbital and will now be passed to engineers Liz Ryder and Ishmael Palin to develop new anti-Thargoid technologies.
-player_impact: Pilots who contributed to the initiative can now collect their rewards from Awyra Flirble in the Eurybia system and Obsidian Orbital in the Maia system.
+summary: Aegis announces the successful conclusion of its appeal for Thargoid-related
+  materials. Huge quantities were delivered to Awyra Flirble and Obsidian Orbital
+  and will now be passed to engineers Liz Ryder and Ishmael Palin to develop new anti-Thargoid
+  technologies.
+player_impact: Pilots who contributed to the initiative can now collect their rewards
+  from Awyra Flirble in the Eurybia system and Obsidian Orbital in the Maia system.
 persons:
 - Liz Ryder
 - Ishmael Palin
@@ -24,10 +28,16 @@ topics:
 - war
 technologies: []
 arc_id: thargoid-contact
-modern_impact: Delivery of Thargoid materials to engineers Liz Ryder and Ishmael Palin directly enabled the development of early anti-xeno technologies that remain foundational to human defense.
+modern_impact: Delivery of Thargoid materials to engineers Liz Ryder and Ishmael Palin
+  directly enabled the development of early anti-xeno technologies that remain foundational
+  to human defense.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 009ab048-a831-5f9f-a671-9143fc1afd44
+- e74d8914-c369-51e4-b454-1a8ffa294f7b
 ---
+
 
 A spokesperson for Aegis has announced that Its appeal for Thargoid-related materials has reached a successful conclusion. Huge quantities of material were delivered to Awyra Flirble and Obsidian Orbital over The past week, following an enthusiastic response from the galactic community. They will now be delivered to the engineers Liz Ryder and Ishmael Palin so they can start work on new technologies to address the mounting Thargoid threat. 
 

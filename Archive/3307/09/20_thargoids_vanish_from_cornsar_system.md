@@ -4,8 +4,10 @@ title: Thargoids Vanish from Cornsar System
 slug: thargoids_vanish_from_cornsar_system
 date: '3307-09-20'
 source: API
-summary: Thargoid vessels attacking Cornsar unexpectedly withdraw after four days of combat, leaving behind damaged starports and crashed alien vessels.
-player_impact: Independent pilots defended Cornsar from Thargoid assault and evacuated survivors from damaged stations.
+summary: Thargoid vessels attacking Cornsar unexpectedly withdraw after four days
+  of combat, leaving behind damaged starports and crashed alien vessels.
+player_impact: Independent pilots defended Cornsar from Thargoid assault and evacuated
+  survivors from damaged stations.
 persons:
 - Noah Sharrow
 groups:
@@ -15,10 +17,15 @@ topics:
 - humanitarian
 - war
 arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape and drives anti-xeno defence efforts.
+modern_impact: Thargoid activity fundamentally changes the galactic security landscape
+  and drives anti-xeno defence efforts.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 315e1956-a371-53a7-93ea-2b80778bcf80
+- c8e12171-8722-5f14-b9a9-f38718b77cbd
 ---
+
 
 **Pilots Federation ALERT**
 The Thargoid vessels attacking the Cornsar system have unexpectedly departed from the region.

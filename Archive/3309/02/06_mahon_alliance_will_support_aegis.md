@@ -4,7 +4,8 @@ title: 'Mahon: ‘Alliance Will Support Aegis’'
 slug: mahon_alliance_will_support_aegis
 date: '3309-02-06'
 source: API
-summary: The Alliance Assembly votes to commit ships, resources and personnel to Aegis if the tri-superpower agency is reformed.
+summary: The Alliance Assembly votes to commit ships, resources and personnel to Aegis
+  if the tri-superpower agency is reformed.
 player_impact: Not specifically mentioned — this is a political report.
 persons:
 - Edmund Mahon
@@ -25,14 +26,20 @@ topics:
 - research
 entities: []
 arc_id: thargoid-titan-war
-modern_impact: 'Edmund Mahon stated: "The Alliance will therefore commit ships, resources and personnel to a collaborative anti-xeno agency." This underscores the Alliance''s traditional commitment to multilateralism, even as corporate interests like Sirius Corporation sought to monopolise the anti-xeno role for profit.'
+modern_impact: 'Edmund Mahon stated: "The Alliance will therefore commit ships, resources
+  and personnel to a collaborative anti-xeno agency." This underscores the Alliance''s
+  traditional commitment to multilateralism, even as corporate interests like Sirius
+  Corporation sought to monopolise the anti-xeno role for profit.'
 legacy_weight: 4
 significance: high
 related_uuids:
-- df6e411a-1cfc-5b1f-be65-3e9644b00824
 - 201a0a31-f461-5ded-a815-a7b9c289c352
+- 40d9b854-2973-5053-a42d-6955f8876544
 - 69df1032-f6ec-58b2-9b05-cbcb3c243462
+- d5e37c1b-cb44-581f-b22b-f30602b799f8
+- df6e411a-1cfc-5b1f-be65-3e9644b00824
 ---
+
 
 The Alliance Assembly has voted to make a contribution to Aegis if the agency is reformed by the three superpowers.
 Prime Minister Edmund Mahon made an official announcement:

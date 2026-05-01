@@ -4,7 +4,10 @@ title: Galactic News  End of the Road for Damon Clarke
 slug: galactic_news_end_of_the_road_for_damon_clarke
 date: '3302-03-16'
 source: GitHub
-summary: Damon Clarke, a prominent industrialist with ties to Emperor's Dawn and Princess Aisling Duval's inner circle, was caught by the IISS in Apathaam and brought back to Achenar. After giving up his contacts in exchange for house arrest, surviving Emperor's Dawn members poisoned him on Capitol.
+summary: Damon Clarke, a prominent industrialist with ties to Emperor's Dawn and Princess
+  Aisling Duval's inner circle, was caught by the IISS in Apathaam and brought back
+  to Achenar. After giving up his contacts in exchange for house arrest, surviving
+  Emperor's Dawn members poisoned him on Capitol.
 player_impact: None
 persons:
 - Damon Clarke
@@ -21,10 +24,15 @@ topics:
 - scandal
 - succession
 arc_id: imperial-succession
-modern_impact: Continued conflict between the Empire and Emperor's Dawn shapes Imperial politics and military policy.
+modern_impact: Continued conflict between the Empire and Emperor's Dawn shapes Imperial
+  politics and military policy.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 9d631f6d-4a67-5660-a4e8-c8a2ec24fff3
+- aedc65ec-4d5c-5ea9-a62c-b6920ab33260
 ---
+
 
 When the dissident organisation known as Emperor's Dawn was first brought to public attention, a number of high-profile Imperials were discovered to have connections to the group. One of them was Damon Clarke, a prominent industrialist and a member of Princess Aisling Duval's inner circle. According to a report published by the Imperial Herald, one of Clarke's companies had previously sold weapons to Emperor's Dawn, and the revelation plunged Clarke into scandal. 
 

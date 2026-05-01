@@ -4,7 +4,9 @@ title: Galactic News  Palin Announces Development
 slug: galactic_news_palin_announces_development
 date: '3302-10-26'
 source: GitHub
-summary: Professor Ishmael Palin announced that his research into meta-alloys has revealed previously unidentified properties that could be used to develop robust new materials for combat starship defensive technologies.
+summary: Professor Ishmael Palin announced that his research into meta-alloys has
+  revealed previously unidentified properties that could be used to develop robust
+  new materials for combat starship defensive technologies.
 player_impact: None
 persons:
 - Professor Ishmael Palin
@@ -20,10 +22,15 @@ topics:
 technologies:
 - meta-alloys
 arc_id: barnacle-meta-alloy
-modern_impact: Palin's discovery of meta-alloy applications for defensive starship materials opens the door to anti-Thargoid and advanced combat engineering research.
+modern_impact: Palin's discovery of meta-alloy applications for defensive starship
+  materials opens the door to anti-Thargoid and advanced combat engineering research.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 7c3fcb0f-3531-55bd-92c4-745c9073d2f9
+- b043d343-7151-5325-81dd-d1a9dc244f64
 ---
+
 
 Professor Ishmael Palin, founder and former director of The Palin Institute, has released a statement concerning his ongoing research into meta-alloys. 
 

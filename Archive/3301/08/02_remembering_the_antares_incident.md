@@ -4,7 +4,13 @@ title: Remembering the Antares Incident
 slug: remembering_the_antares_incident
 date: '3301-08-02'
 source: GitHub
-summary: Historian Sima Kalhana recounts the Antares Incident, the disappearance of the Highliner Antares during its maiden voyage in 3251 in the Sirius system. The ship was the first to use a production version of a new hyperdrive and vanished with many celebrity guests aboard. The final report cited a component failure causing a fire and explosion during jump initiation. No confirmed wreckage has ever been found, fueling conspiracy theories. The incident led to enhanced safety features in subsequent hyperdrives.
+summary: Historian Sima Kalhana recounts the Antares Incident, the disappearance of
+  the Highliner Antares during its maiden voyage in 3251 in the Sirius system. The
+  ship was the first to use a production version of a new hyperdrive and vanished
+  with many celebrity guests aboard. The final report cited a component failure causing
+  a fire and explosion during jump initiation. No confirmed wreckage has ever been
+  found, fueling conspiracy theories. The incident led to enhanced safety features
+  in subsequent hyperdrives.
 player_impact: None
 persons:
 - Sima Kalhana
@@ -17,10 +23,15 @@ topics:
 - safety
 - ship
 arc_id: antares-mystery
-modern_impact: Continues the investigation into the Antares disaster, a 50-year mystery with implications for hyperdrive safety.
+modern_impact: Continues the investigation into the Antares disaster, a 50-year mystery
+  with implications for hyperdrive safety.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 48fc993c-e405-5490-ae64-22990bfd99a2
+- a4d0725f-c5fc-58fb-acec-a046c97d76a4
 ---
+
 
 Continuing GalNet’s exclusive series highlighting key events in human history, historian Sima Kalhana remembers the Antares Incident. 
 

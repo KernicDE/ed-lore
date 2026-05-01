@@ -4,7 +4,10 @@ title: Kincaid and Mahon Clash in Alliance Assembly
 slug: kincaid_and_mahon_clash_in_alliance_assembly
 date: '3305-04-26'
 source: GitHub
-summary: President Gibson Kincaid clashes with Prime Minister Edmund Mahon in the Alliance Assembly after attempting to steer military funding debates, with Mahon rejecting Kincaid's proposals and reminding him that his bid for executive powers had already failed.
+summary: President Gibson Kincaid clashes with Prime Minister Edmund Mahon in the
+  Alliance Assembly after attempting to steer military funding debates, with Mahon
+  rejecting Kincaid's proposals and reminding him that his bid for executive powers
+  had already failed.
 player_impact: None — background political report.
 persons:
 - Edmund Mahon
@@ -16,13 +19,17 @@ groups:
 topics:
 - politics
 arc_id: alliance-expansion
-modern_impact: The open clash in the Assembly signaled that Kincaid's political support was eroding, with councillors privately viewing him as a 'toxic presence at odds with the Alliance's ethos'.
+modern_impact: The open clash in the Assembly signaled that Kincaid's political support
+  was eroding, with councillors privately viewing him as a 'toxic presence at odds
+  with the Alliance's ethos'.
 legacy_weight: 3
 significance: medium
 related_uuids:
-- d7ce7121-90e5-5c1e-a5c5-78529d474bf5
 - 508242c8-bd72-5b14-a5ce-fd74e32b0e69
+- 69c817c5-a7e7-5ec1-8507-add13a49b8a1
+- d7ce7121-90e5-5c1e-a5c5-78529d474bf5
 ---
+
 
 Prime Minister Edmund Mahon has once again clashed With President Gibson Kincaid, following The latter's attempt to take control of government policy during an Assembly session.  
 

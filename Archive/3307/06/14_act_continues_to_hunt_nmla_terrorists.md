@@ -4,7 +4,11 @@ title: ACT Continues to Hunt NMLA Terrorists
 slug: act_continues_to_hunt_nmla_terrorists
 date: '3307-06-14'
 source: API
-summary: ACT publishes an update on its NMLA investigation. Senior Agent Tanya Ramirez reports no significant breakthroughs due to the NMLA's dark-comms network and compartmentalised cells. Theta Group has been inactive since the Nine Martyrs bombings. ACT recruits additional personnel from multiple security agencies including Nova Imperium's Praetorian Guard.
+summary: ACT publishes an update on its NMLA investigation. Senior Agent Tanya Ramirez
+  reports no significant breakthroughs due to the NMLA's dark-comms network and compartmentalised
+  cells. Theta Group has been inactive since the Nine Martyrs bombings. ACT recruits
+  additional personnel from multiple security agencies including Nova Imperium's Praetorian
+  Guard.
 player_impact: None directly; this is an investigation update.
 persons:
 - Tanya Ramirez
@@ -31,13 +35,18 @@ topics:
 technologies:
 - Dark-comms network
 arc_id: nmla-terrorism
-modern_impact: ACT's struggle to penetrate the NMLA's dark-comms network highlights the terrorists' technological sophistication. The recruitment of Leo Magnus from Nova Imperium bridges the gap between Imperial security and the counter-terrorism effort.
+modern_impact: ACT's struggle to penetrate the NMLA's dark-comms network highlights
+  the terrorists' technological sophistication. The recruitment of Leo Magnus from
+  Nova Imperium bridges the gap between Imperial security and the counter-terrorism
+  effort.
 legacy_weight: 4
 significance: medium
 related_uuids:
-- b11ce1f8-7cec-53e0-8472-ac95e77d789f
+- 1e7e97c1-ff96-521a-b5cb-9b12f172ab76
 - 8c3140cd-6610-5192-9d89-5355c56241dc
+- b11ce1f8-7cec-53e0-8472-ac95e77d789f
 ---
+
 
 The Affiliated Counter-Terrorism unit has published an update on Its investigation into the Neo-Marlinist Liberation Army.
 Senior Agent Tanya Ramirez, One of ACT’s joint leaders, gave a statement to the media:

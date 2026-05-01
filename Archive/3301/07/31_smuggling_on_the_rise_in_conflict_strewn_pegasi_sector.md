@@ -4,8 +4,15 @@ title: Smuggling on the Rise in Conflict Strewn Pegasi Sector
 slug: smuggling_on_the_rise_in_conflict_strewn_pegasi_sector
 date: '3301-07-31'
 source: GitHub
-summary: A Kumo Crew commander reports that smuggling and illegal contraband have risen at alarming rates since the Imperial offensive began. Despite combined Imperial fleets undermining Kumo Crew territory, they have made no significant headway into smuggler-controlled space. Unusually large quantities of credits have flowed into Kumo Crew space from aggressor territory. The commander noted that war is good for business and that demand for contraband transcends political boundaries.
-player_impact: Pilots operating in the Pegasi sector should expect increased smuggling activity and enhanced opportunities for both legal and illegal trade in Kumo-controlled systems.
+summary: A Kumo Crew commander reports that smuggling and illegal contraband have
+  risen at alarming rates since the Imperial offensive began. Despite combined Imperial
+  fleets undermining Kumo Crew territory, they have made no significant headway into
+  smuggler-controlled space. Unusually large quantities of credits have flowed into
+  Kumo Crew space from aggressor territory. The commander noted that war is good for
+  business and that demand for contraband transcends political boundaries.
+player_impact: Pilots operating in the Pegasi sector should expect increased smuggling
+  activity and enhanced opportunities for both legal and illegal trade in Kumo-controlled
+  systems.
 persons:
 - Shadewarlock
 - Archon Delaine
@@ -19,10 +26,15 @@ topics:
 - smuggling
 - war
 arc_id: kumo-crew-rise
-modern_impact: Rising smuggling in Pegasi demonstrates that the Kumo Crew's criminal economy thrives despite, or because of, the Imperial military offensive.
+modern_impact: Rising smuggling in Pegasi demonstrates that the Kumo Crew's criminal
+  economy thrives despite, or because of, the Imperial military offensive.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 33e80616-6e8c-5ee5-85e5-723548a3d11d
+- 7b1495a0-0413-5d22-af0c-bc7fcf8090d4
 ---
+
 
 "Let's just say I'm not flying a small ship anymore!" laughed One Commander, pledged to the Kumo Crew, when Asked about the ongoing conflict in the Pegasi sector. "We all know that these Imperial types have been flying around and ransacking ships in Our space, but what have they actually achieved? Archon Delaine has consistently shown us that, under his leadership, we can repel any fleet and make an absurd number of credits in the process. Who is really losing This fight?" 
 

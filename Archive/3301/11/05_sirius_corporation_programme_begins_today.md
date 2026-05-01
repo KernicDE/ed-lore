@@ -23,7 +23,11 @@ modern_impact: Sirius Corporation's expansion and revitalisation programmes resh
   several systems' economies.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 0b616762-7560-5aa6-9364-86b35df69487
+- 2b6cc420-1a7c-57f7-a2d4-2a808278e903
 ---
+
 
 
 Following a recent statement from Sirius Corporation announcing Its intention to revitalise Several newly acquired Star systems, The company has launched an initiative to boost the economy of HIP 8396. At the heart of the initiative is a request for osmium, Which Sirius Corp hopes will serve as a fillip for the system's financial rejuvenation. Li Yong-Rui, the CEO of The Sirius Corp., was quoted as saying: 

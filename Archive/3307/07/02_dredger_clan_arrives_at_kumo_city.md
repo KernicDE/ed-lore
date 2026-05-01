@@ -4,8 +4,12 @@ title: Dredger Clan Arrives at Kumo City
 slug: dredger_clan_arrives_at_kumo_city
 date: '3307-07-02'
 source: API
-summary: A Blue Viper Club dredger enters the Pegasi Sector PN-T c3-14 system and takes position near Kumo City. Francesca Wolfe reports the clan's unsavoury reputation for drug running and raiding. Unmarked personnel shuttles travel between the dredger and Kumo City, suggesting a potential alliance with the Kumo Crew.
-player_impact: Pilots in Pegasi Sector PN-T c3-14 were warned to keep safe distance from the dredger.
+summary: A Blue Viper Club dredger enters the Pegasi Sector PN-T c3-14 system and
+  takes position near Kumo City. Francesca Wolfe reports the clan's unsavoury reputation
+  for drug running and raiding. Unmarked personnel shuttles travel between the dredger
+  and Kumo City, suggesting a potential alliance with the Kumo Crew.
+player_impact: Pilots in Pegasi Sector PN-T c3-14 were warned to keep safe distance
+  from the dredger.
 persons:
 - Francesca Wolfe
 - Archon Delaine
@@ -27,13 +31,17 @@ topics:
 technologies:
 - Dredger-class bulk cruiser
 arc_id: kumo-crew-rise
-modern_impact: The Blue Viper Club's arrival at Kumo City introduces a new criminal element to the Kumo Crew's operations and becomes the source of the helix drug that enters galactic markets later in the month.
+modern_impact: The Blue Viper Club's arrival at Kumo City introduces a new criminal
+  element to the Kumo Crew's operations and becomes the source of the helix drug that
+  enters galactic markets later in the month.
 legacy_weight: 3
 significance: medium
 related_uuids:
 - 36c0ba02-5f13-5ac2-920b-5b3b99dca219
+- 677866b5-92cb-5c16-8297-0a3a97a4afa8
 - b1886f93-ecbf-50e3-83c6-743f46436d7b
 ---
+
 
 **Pilots Federation ALERT**
 A Blue Viper Club Dredger has entered The Pegasi Sector PN-T c3-14 system, and may have links With the Kumo Crew syndicate.

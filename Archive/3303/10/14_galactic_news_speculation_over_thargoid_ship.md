@@ -4,7 +4,9 @@ title: Galactic News  Speculation over Thargoid Ship
 slug: galactic_news_speculation_over_thargoid_ship
 date: '3303-10-14'
 source: GitHub
-summary: A new alien ship discovered in HIP 17125 has been classified as a 'Thargoid Scout' by the Pilots Federation. Experts note structural similarities to the Interceptor and discuss the slow evolution of Thargoid ship design over the past century.
+summary: A new alien ship discovered in HIP 17125 has been classified as a 'Thargoid
+  Scout' by the Pilots Federation. Experts note structural similarities to the Interceptor
+  and discuss the slow evolution of Thargoid ship design over the past century.
 player_impact: None
 persons:
 - Alba Tesreau
@@ -23,10 +25,15 @@ technologies:
 - Thargoid Scout
 - Thargoid Interceptor
 arc_id: thargoid-contact
-modern_impact: Thargoid activity escalates, fundamentally changing the galactic security landscape and driving the creation of anti-xeno defence forces.
+modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
+  landscape and driving the creation of anti-xeno defence forces.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 7fb02f7d-031c-552b-8ae3-20f764e284bf
+- f9d229dd-43d5-5e97-8ecb-fa3d924b2f50
 ---
+
 
 Some of The galaxy’s leading Thargoid experts have been discussing the discovery of a new alien ship in the HIP 17125 system. 
 

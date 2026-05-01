@@ -4,7 +4,11 @@ title: Freelance Report  Fragile Unity in Federal Congress
 slug: freelance_report_fragile_unity_in_federal_congress
 date: '3303-07-01'
 source: GitHub
-summary: Federal Congress shows rare unity as members rally around President Zachary Hudson following reports of Thargoid attacks in the Pleiades. Shadow President Felicia Winters remains non-committal on Hudson's militaristic rhetoric, while attention turns to former President Jasmina Halsey's close relationship with Alliance Prime Minister Edmund Mahon.
+summary: Federal Congress shows rare unity as members rally around President Zachary
+  Hudson following reports of Thargoid attacks in the Pleiades. Shadow President Felicia
+  Winters remains non-committal on Hudson's militaristic rhetoric, while attention
+  turns to former President Jasmina Halsey's close relationship with Alliance Prime
+  Minister Edmund Mahon.
 player_impact: None
 persons:
 - Zachary Hudson
@@ -25,10 +29,15 @@ topics:
 - ship
 technologies: []
 arc_id: thargoid-contact
-modern_impact: Thargoid activity escalates, fundamentally changing the galactic security landscape and driving the creation of anti-xeno defence forces.
+modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
+  landscape and driving the creation of anti-xeno defence forces.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 85f8251c-1f9c-51b8-8b2e-60d29b31160b
+- ead544be-f2bf-5990-acd3-d8339a90699f
 ---
+
 
 Following disturbing reports of attacks on Federal ships in The Pleiades Nebula, the partisan rancour that often characterises Federal Congress has faded into the background as both Republican and Liberal members of congress rally around President Zachary Hudson. Rumours that the attacks were perpetrated by the Thargoids abound, prompting calls for increased military spending. 
 

@@ -31,8 +31,11 @@ modern_impact: Jade Sanderlyn's observation that 'many brave pilots have lost th
 legacy_weight: 5
 significance: high
 related_uuids:
+- 3980872b-a4bd-5a14-8962-b1c72d749e07
 - af81ef25-3735-51f4-bd67-5d52721e0376
+- f21fb651-0ba8-5e86-bbbf-62f93558c998
 ---
+
 
 
 Vox Galactica has published an on-site account from the HIP 22460 system, where a coalition fleet is engaged in combat with the Thargoids.

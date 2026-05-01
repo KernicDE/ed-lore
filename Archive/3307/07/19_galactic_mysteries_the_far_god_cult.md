@@ -4,7 +4,10 @@ title: 'Galactic Mysteries: The Far God Cult'
 slug: galactic_mysteries_the_far_god_cult
 date: '3307-07-19'
 source: API
-summary: Erik Gunnarson examines the Far God cult, a Thargoid-worshipping religious order that has grown from a fringe sect to a widespread religion. Followers believe the Thargoids are heralds of an apocalyptic entity called the Far God. The cult is pacifistic and has recently begun migrating to the Panjabell system.
+summary: Erik Gunnarson examines the Far God cult, a Thargoid-worshipping religious
+  order that has grown from a fringe sect to a widespread religion. Followers believe
+  the Thargoids are heralds of an apocalyptic entity called the Far God. The cult
+  is pacifistic and has recently begun migrating to the Panjabell system.
 player_impact: None directly; this is an investigative report.
 persons:
 - Erik Gunnarson
@@ -27,13 +30,17 @@ technologies:
 - Void-temple
 - Ammonia atmosphere
 arc_id: formidine-rift
-modern_impact: The Far God cult's growth reflects widespread anxiety about the Thargoid threat. Their mass migration to Panjabell and plans for missionary megaships foreshadow their later role as both victims and unwitting participants in the Thargoid conflict.
+modern_impact: The Far God cult's growth reflects widespread anxiety about the Thargoid
+  threat. Their mass migration to Panjabell and plans for missionary megaships foreshadow
+  their later role as both victims and unwitting participants in the Thargoid conflict.
 legacy_weight: 3
 significance: medium
 related_uuids:
 - 17484479-d6b8-5d39-9727-040203c5448c
+- 62af4a63-c187-5f32-a237-8f4108056a43
 - 743d51d9-9d90-5bd9-88b7-792f100d596f
 ---
+
 
 The enigmatic Thargoid-worshipping religious order is examined by Erik Gunnarson of the Wallglass Investigations Agency.
 “Of all the myriad faiths practised across the galaxy, the Far God cult is One of the strangest and least understood. But in recent years it has grown from a fringe sect to a widespread religion.”

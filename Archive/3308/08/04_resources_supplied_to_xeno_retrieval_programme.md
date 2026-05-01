@@ -29,8 +29,11 @@ modern_impact: The successful supply campaign demonstrated Azimuth's post-victor
   infrastructure before the Proteus Wave had even fired.
 legacy_weight: 4
 significance: medium
-related_uuids: []
+related_uuids:
+- 4532b03c-7c25-52f3-af5f-9ac74b054a34
+- 45b84dea-4293-588d-963a-38ee1b061eb5
 ---
+
 
 
 **Pilots’ Federation ALERT**

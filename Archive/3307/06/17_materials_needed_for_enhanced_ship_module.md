@@ -4,8 +4,12 @@ title: Materials Needed for Enhanced Ship Module
 slug: materials_needed_for_enhanced_ship_module
 date: '3307-06-17'
 source: API
-summary: Sirius Corporation requests commodities to mass-produce the Engineered Detailed Surface Scanner V1, previously a limited reward from Sirius Atmospherics' terraforming programme. Marketing director Sinclair Faraldo announces the module will have twice the probe coverage of standard scanners.
-player_impact: Pilots delivered CMM composites, muon imagers and synthetic reagents to Ashby City in the Luyten's Star system.
+summary: Sirius Corporation requests commodities to mass-produce the Engineered Detailed
+  Surface Scanner V1, previously a limited reward from Sirius Atmospherics' terraforming
+  programme. Marketing director Sinclair Faraldo announces the module will have twice
+  the probe coverage of standard scanners.
+player_impact: Pilots delivered CMM composites, muon imagers and synthetic reagents
+  to Ashby City in the Luyten's Star system.
 persons:
 - Sinclair Faraldo
 groups:
@@ -26,13 +30,17 @@ technologies:
 - Muon imager
 - Synthetic reagent
 arc_id: alliance-expansion
-modern_impact: The commercialisation of previously exclusive technology demonstrates Sirius Corporation's strategy of monetising research spin-offs, while deepening its integration into the pilot economy.
+modern_impact: The commercialisation of previously exclusive technology demonstrates
+  Sirius Corporation's strategy of monetising research spin-offs, while deepening
+  its integration into the pilot economy.
 legacy_weight: 2
 significance: low
 related_uuids:
+- 2a2669e9-b193-5014-92c7-6b9ef9c128e4
 - 3181a5f1-c6c0-527b-b83c-1eed9b4aaec3
 - 9e8abda8-86a4-5b85-9b20-bd8a3bb4846f
 ---
+
 
 **Pilots Federation ALERT**
 Sirius Corporation has requested commodities to make a fully engineered detailed surface scanner commercially available.

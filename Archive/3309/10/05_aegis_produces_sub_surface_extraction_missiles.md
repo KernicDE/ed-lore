@@ -4,8 +4,10 @@ title: Aegis Produces Sub-Surface Extraction Missiles
 slug: aegis_produces_sub_surface_extraction_missiles
 date: '3309-10-05'
 source: API
-summary: Aegis deploys sub-surface extraction missiles to rescue captives from Thargoid Titans, with Tanner explaining the dangerous extraction process.
-player_impact: Pilots transported CMM composites, neofabric insulation and osmium to Springer Gateway. Bounty vouchers redeemed for wanted ships destroyed.
+summary: Aegis deploys sub-surface extraction missiles to rescue captives from Thargoid
+  Titans, with Tanner explaining the dangerous extraction process.
+player_impact: Pilots transported CMM composites, neofabric insulation and osmium
+  to Springer Gateway. Bounty vouchers redeemed for wanted ships destroyed.
 persons:
 - Aden Tanner
 groups:
@@ -23,13 +25,20 @@ technologies:
 - pulse wave xeno scanner
 - bio-storage capsules
 arc_id: thargoid-titan-war
-modern_impact: Tanner's description of the extraction process — 'penetrate far enough into the outer hull to jettison the pod-like structures containing captives' — reveals the mechanics. His warning that 'These are perhaps the most dangerous rescue missions ever attempted' underscores the risk. The first wave already making 'initial forays into the Maelstroms' shows rapid deployment.
+modern_impact: Tanner's description of the extraction process — 'penetrate far enough
+  into the outer hull to jettison the pod-like structures containing captives' — reveals
+  the mechanics. His warning that 'These are perhaps the most dangerous rescue missions
+  ever attempted' underscores the risk. The first wave already making 'initial forays
+  into the Maelstroms' shows rapid deployment.
 legacy_weight: 5
 significance: high
 related_uuids:
-- fc4c02ff-559f-5e50-a60f-5ae836bfa836
+- 5649a799-45d3-5ef0-9a83-2819bdb0dbf7
+- b1f7f15b-c712-5ac1-98a3-80fad085dcb1
 - c9064e45-771f-5630-b3f6-b1bf74220a33
+- fc4c02ff-559f-5e50-a60f-5ae836bfa836
 ---
+
 
 **Pilots’ Federation ALERT**
 Rescue megaships now stock Aegis’s modified mining tool, designed to extract bio-storage capsules from Thargoid Titans.

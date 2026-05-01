@@ -4,8 +4,13 @@ title: Securing the Borders in the Ceti Sector
 slug: securing_the_borders_in_the_ceti_sector
 date: '3301-05-24'
 source: GitHub
-summary: The return of Onionhead to Panem has brought prosperity to Kappa Fornacis farmers but crime and piracy to neighbouring systems like BD-18 394. The Independent Autahenetsi Labour Party is offering bonuses to bounty hunters who sign up as Federal Ceti Sector Security Services Agents at Artyukhin Ring in Autahenetsi, aiming to clean up the sector.
-player_impact: Pilots can sign up as Federal Ceti Sector Security Services Agents at Artyukhin Ring in Autahenetsi to earn bounty hunting bonuses and combat piracy.
+summary: The return of Onionhead to Panem has brought prosperity to Kappa Fornacis
+  farmers but crime and piracy to neighbouring systems like BD-18 394. The Independent
+  Autahenetsi Labour Party is offering bonuses to bounty hunters who sign up as Federal
+  Ceti Sector Security Services Agents at Artyukhin Ring in Autahenetsi, aiming to
+  clean up the sector.
+player_impact: Pilots can sign up as Federal Ceti Sector Security Services Agents
+  at Artyukhin Ring in Autahenetsi to earn bounty hunting bonuses and combat piracy.
 persons: []
 groups:
 - Farmers Union of Kappa Fornacis
@@ -22,10 +27,15 @@ topics:
 - narcotics
 - piracy
 arc_id: onionhead-conflict
-modern_impact: The Onionhead conflict highlights tensions between Federal prohibition and local agricultural economies.
+modern_impact: The Onionhead conflict highlights tensions between Federal prohibition
+  and local agricultural economies.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 7a47b8fd-dda9-5d7e-99f3-5c8845d59508
+- 860b46da-b458-55f4-b0bc-5fe860b90758
 ---
+
 
 The return of Onionhead to Panem may be a blessing for the farmers of Kappa Fornacis, but for their neighbours, the Fornacian dream has turned into a living nightmare. 
 

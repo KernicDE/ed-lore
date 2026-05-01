@@ -4,8 +4,12 @@ title: Community Goal  New Federal Outpost
 slug: community_goal_new_federal_outpost
 date: '3302-07-28'
 source: GitHub
-summary: The Federation announces plans to establish a new planetary outpost on HIP 17225 A 1, a known barnacle site, requesting tantalum, building fabricators and energy grid assemblies to be delivered to Obsidian Orbital in Maia.
-player_impact: Deliver tantalum, building fabricators and energy grid assemblies to Obsidian Orbital in the Maia system to support the new Federal outpost on HIP 17225 A 1.
+summary: The Federation announces plans to establish a new planetary outpost on HIP
+  17225 A 1, a known barnacle site, requesting tantalum, building fabricators and
+  energy grid assemblies to be delivered to Obsidian Orbital in Maia.
+player_impact: Deliver tantalum, building fabricators and energy grid assemblies to
+  Obsidian Orbital in the Maia system to support the new Federal outpost on HIP 17225
+  A 1.
 persons: []
 groups:
 - Federation
@@ -23,10 +27,15 @@ technologies:
 - building fabricators
 - energy grid assemblies
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
+  and fuels the emerging Thargoid contact narrative.
 legacy_weight: 5
 significance: high
+related_uuids:
+- dbec0d63-cab5-555e-8e66-ac930c200dc7
+- e2866357-9c31-5a82-be8b-e7588a685b3e
 ---
+
 
 Three weeks ago, The Federation ignited controversy With Its decision to establish a series of outposts in the Pleiades sector. The development triggered a decisive response from Empire-aligned pilots, who made repeated attempts to destabilise the campaign. Ultimately, the Federation was able to complete the operation, But the Federation's opponents had made their feelings clear – the superpower's military expansion would not proceed unopposed. 
 

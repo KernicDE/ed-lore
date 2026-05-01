@@ -4,8 +4,13 @@ title: Prism Senator Denies Power Play
 slug: prism_senator_denies_power_play
 date: '3301-05-12'
 source: GitHub
-summary: Senator Kahina Tijani Loren, upon arriving in Achenar, denied any ambition to challenge for Imperial leadership. When asked to choose between Patreus or Lavigny, she said both had 'genuine claims to the throne'. Imperial Herald chief editor Kazien Vantris noted that denying everything is the first rule of vying for power, suggesting Loren is keeping her options open.
-player_impact: None directly; Loren's ambiguous political positioning continues to fuel speculation about her intentions in the Imperial succession struggle.
+summary: Senator Kahina Tijani Loren, upon arriving in Achenar, denied any ambition
+  to challenge for Imperial leadership. When asked to choose between Patreus or Lavigny,
+  she said both had 'genuine claims to the throne'. Imperial Herald chief editor Kazien
+  Vantris noted that denying everything is the first rule of vying for power, suggesting
+  Loren is keeping her options open.
+player_impact: None directly; Loren's ambiguous political positioning continues to
+  fuel speculation about her intentions in the Imperial succession struggle.
 persons:
 - Kahina Tijani Loren
 - Kazien Vantris
@@ -18,10 +23,15 @@ locations:
 topics:
 - succession
 arc_id: prism-senator
-modern_impact: The Prism Senator's activities highlight cross-superpower political intrigue.
+modern_impact: The Prism Senator's activities highlight cross-superpower political
+  intrigue.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 4f1d453c-2e49-510a-aaaa-32ef3a72c321
+- d053a0f6-8748-5beb-9cde-eadde89d5778
 ---
+
 
 Senator Kahina Tijani Loren was seen at a musical soiree on Capitol yesterday evening, taking part In a reception after her arrival in The Achenar system.  
 

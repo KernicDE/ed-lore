@@ -4,8 +4,12 @@ title: The Fall of The Oracle
 slug: the_fall_of_the_oracle
 date: '3307-05-24'
 source: API
-summary: The Oracle starport in the Delphi system begins tumbling out of orbit after Thargoid attack causes cascading systems failure. Independent pilots evacuate thousands of civilians while engineers patch alignment systems. The station is stabilised with hours to spare.
-player_impact: Independent pilots risked their lives to rescue thousands of trapped civilians from the falling and damaged starport.
+summary: The Oracle starport in the Delphi system begins tumbling out of orbit after
+  Thargoid attack causes cascading systems failure. Independent pilots evacuate thousands
+  of civilians while engineers patch alignment systems. The station is stabilised
+  with hours to spare.
+player_impact: Independent pilots risked their lives to rescue thousands of trapped
+  civilians from the falling and damaged starport.
 persons: []
 groups:
 - Sirius Inc
@@ -24,13 +28,18 @@ technologies:
 - Caustic enzyme
 - Alignment thruster
 arc_id: thargoid-contact
-modern_impact: The Oracle incident reveals a Thargoid tactic of disabling station alignment thrusters, causing orbital decay. This vulnerability leads to unilateral efforts to reinforce starports against similar attacks.
+modern_impact: The Oracle incident reveals a Thargoid tactic of disabling station
+  alignment thrusters, causing orbital decay. This vulnerability leads to unilateral
+  efforts to reinforce starports against similar attacks.
 legacy_weight: 5
 significance: high
 related_uuids:
-- b6aa5197-46b1-54fe-8245-71ca6fe9fd40
+- 2eb0efd4-717b-56b7-8139-739f3845a683
 - 3ed695e3-4334-5111-bc87-ca2a91079e93
+- b6aa5197-46b1-54fe-8245-71ca6fe9fd40
+- c8970a7c-f1b9-57df-aaac-b318e5078cab
 ---
+
 
 The Oracle starport in The Delphi system began tumbling out of orbit following a recent Thargoid attack.
 The station was already ablaze and severely damaged by caustic enzymes during a Thargoid incursion in the Delphi system. This led to a cascading systems failure that shut down all of the station’s alignment thrusters.

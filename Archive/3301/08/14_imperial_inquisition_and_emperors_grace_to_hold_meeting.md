@@ -4,8 +4,15 @@ title: Imperial Inquisition and Emperor's Grace to Hold Meeting
 slug: imperial_inquisition_and_emperors_grace_to_hold_meeting
 date: '3301-08-14'
 source: GitHub
-summary: High Inquisitor Mavia Kain of the Imperial Inquisition will meet Admiral Varrwen Mako Brennus of Emperor’s Grace at Lindblad Port in Rishair. The leaders will discuss Emperor Duval’s assassination and military operations in the Pegasi sector. Both factions are cooperating in peacekeeping operations against the Kumo Crew after Archon Delaine invaded Imperial space and took citizens into slavery. Sources close to Brennus revealed the factions share traditional Imperial values and see each other as natural allies during tough times.
-player_impact: Pilots aligned with Emperor’s Grace or the Imperial Inquisition can participate in joint operations against the Kumo Crew in the Pegasi sector.
+summary: High Inquisitor Mavia Kain of the Imperial Inquisition will meet Admiral
+  Varrwen Mako Brennus of Emperor’s Grace at Lindblad Port in Rishair. The leaders
+  will discuss Emperor Duval’s assassination and military operations in the Pegasi
+  sector. Both factions are cooperating in peacekeeping operations against the Kumo
+  Crew after Archon Delaine invaded Imperial space and took citizens into slavery.
+  Sources close to Brennus revealed the factions share traditional Imperial values
+  and see each other as natural allies during tough times.
+player_impact: Pilots aligned with Emperor’s Grace or the Imperial Inquisition can
+  participate in joint operations against the Kumo Crew in the Pegasi sector.
 persons:
 - Mavia Kain
 - Varrwen Mako Brennus
@@ -21,10 +28,15 @@ locations:
 topics:
 - war
 arc_id: kumo-crew-rise
-modern_impact: Imperial factions unite against the Kumo Crew threat, demonstrating coordinated resistance to pirate aggression.
+modern_impact: Imperial factions unite against the Kumo Crew threat, demonstrating
+  coordinated resistance to pirate aggression.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- a090b1be-2432-5675-83d6-72ecca86a6b7
+- e1ee32aa-fe56-547e-a351-df49a3e11702
 ---
+
 
 Mavia Kain, The High Inquisitor and leader of The Imperial Inquisition, is scheduled to pay a visit to Admiral Varrwen Mako Brennus, leader of Emperor`s Grace. The meeting will be held in the Emperor's Grace stronghold of Rishair at Lindblad Port. Both leaders will discuss a number of Imperial issues, including the assassination of Emperor Duval and the present military operations in the Pegasi sector. 
 

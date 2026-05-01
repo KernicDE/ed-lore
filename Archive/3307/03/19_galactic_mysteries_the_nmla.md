@@ -31,13 +31,15 @@ modern_impact: '"This atrocity is nothing less than a declaration of war." The N
 legacy_weight: 5
 significance: high
 related_uuids:
+- 07928c21-6ee3-5dbb-b1b5-aa7b041eba5e
 - 0ed40d37-c7a2-5252-9105-e141bc1020d5
+- 5140542a-1be3-56a9-a558-8224ef317bf7
 - 67932c1d-fed0-5cc2-b9a2-8aededff61c3
 - b88f6ab1-b0ea-5935-9b8a-92aa25b5b3a3
-- 07928c21-6ee3-5dbb-b1b5-aa7b041eba5e
-- 5140542a-1be3-56a9-a558-8224ef317bf7
+- ba0ab37a-3135-52b4-a668-22e5ef0700b6
 - bcb1b6cb-c7ee-50fc-b6b9-8f9b1d140838
 ---
+
 
 
 Private investigators Erik Gunnarson and Francesca Wolfe review The Neo-Marlinist Liberation Army.

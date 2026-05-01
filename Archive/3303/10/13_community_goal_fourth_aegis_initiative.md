@@ -4,8 +4,11 @@ title: Community Goal  Fourth Aegis Initiative
 slug: community_goal_fourth_aegis_initiative
 date: '3303-10-13'
 source: GitHub
-summary: Aegis launched the fourth phase of its campaign to counter the Thargoid threat, with engineer Elvira Martuuk overseeing development of a device to protect human vessels from Thargoid immobilising fields.
-player_impact: Deliver Thargoid Cyclops Tissue Samples, Coltan and Beryllium to Cremona Prospect in the Khun system.
+summary: Aegis launched the fourth phase of its campaign to counter the Thargoid threat,
+  with engineer Elvira Martuuk overseeing development of a device to protect human
+  vessels from Thargoid immobilising fields.
+player_impact: Deliver Thargoid Cyclops Tissue Samples, Coltan and Beryllium to Cremona
+  Prospect in the Khun system.
 persons:
 - Elvira Martuuk
 groups:
@@ -26,10 +29,15 @@ technologies:
 - shutdown-field neutraliser
 - Thargoid Cyclops Tissue Sample
 arc_id: thargoid-contact
-modern_impact: Thargoid activity escalates, fundamentally changing the galactic security landscape and driving the creation of anti-xeno defence forces.
+modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
+  landscape and driving the creation of anti-xeno defence forces.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 800c807f-3584-5abd-90a6-a95d82ec17b9
+- bdf5ce78-6134-5670-9b10-1460ef336aed
 ---
+
 
 Aegis's campaign to counter The rising Thargoid threat has entered Its fourth phase. Once again, the tri-superpower organisation has secured financial support from a corporate partner, Which has placed an open order for various commodities. 
 

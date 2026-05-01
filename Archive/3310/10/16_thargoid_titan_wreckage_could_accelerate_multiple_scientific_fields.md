@@ -4,7 +4,9 @@ title: Thargoid Titan Wreckage ‘Could Accelerate Multiple Scientific Fields’
 slug: thargoid_titan_wreckage_could_accelerate_multiple_scientific_fields
 date: '3310-10-16'
 source: API
-summary: Aegis scientists at the Xenological Science Symposium on Procyon discuss how Thargoid Titan wreckage could accelerate multiple scientific fields, with Professor Shamus Madigan highlighting thermodynamic efficiency breakthroughs.
+summary: Aegis scientists at the Xenological Science Symposium on Procyon discuss
+  how Thargoid Titan wreckage could accelerate multiple scientific fields, with Professor
+  Shamus Madigan highlighting thermodynamic efficiency breakthroughs.
 player_impact: Not specifically mentioned — this is a scientific forum report.
 persons:
 - Shamus Madigan
@@ -22,12 +24,20 @@ technologies:
 - SCO frame shift drive
 - Thargoid Titan wreckage
 arc_id: thargoid-titan-war
-modern_impact: Madigan's observation that Titan thermodynamic efficiency 'has essentially redrawn the map of our understanding' foreshadows the industrial applications that will emerge post-war. The explicit mention of Achilles Aerospace's SCO drive shows how xeno-tech has already been militarised. The civilian applications — 'industrial installations could work harder and faster' — hint at the economic boom that follows the war's end.
+modern_impact: Madigan's observation that Titan thermodynamic efficiency 'has essentially
+  redrawn the map of our understanding' foreshadows the industrial applications that
+  will emerge post-war. The explicit mention of Achilles Aerospace's SCO drive shows
+  how xeno-tech has already been militarised. The civilian applications — 'industrial
+  installations could work harder and faster' — hint at the economic boom that follows
+  the war's end.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 52a6914e-4835-530a-a009-016a4e55435d
+- 5a1d0dfb-328a-5005-8d29-f370641c3be4
+- c07fd120-16f0-5ec7-ba11-8e20b7d3729f
 ---
+
 
 Aegis scientists have recently held a public forum to discuss ongoing research into the wreckage left behind by Thargoid Titans.
 The Xenological Science Symposium on Procyon B 7 discussed topics including technological advances made since the start of the Second Thargoid War, their potential application to non-military industries, and hypothetical future-tech in the event of victory against the Thargoid invasion force.

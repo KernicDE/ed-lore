@@ -25,7 +25,10 @@ modern_impact: The Golconda's departure represented a rare moment of continuity 
   cultural identity.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 3526e0a2-8066-57b9-9a91-4acfc80d23e9
 ---
+
 
 
 The generation ship Golconda has departed from the Upaniklis system with much of its former population on board.

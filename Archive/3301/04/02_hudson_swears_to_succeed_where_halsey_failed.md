@@ -4,8 +4,14 @@ title: Hudson Swears to Succeed Where Halsey Failed!
 slug: hudson_swears_to_succeed_where_halsey_failed
 date: '3301-04-02'
 source: GitHub
-summary: Shadow President Zachary Hudson appeared on 'Face The People' defending his criticism of President Halsey. He argued Halsey's incompetence had cost Federal lives and questioned her ability to protect the Federation when Emperor Hengist dies. Hudson advocated for better military training and strategic execution, claiming a well-trained military would ensure Federal dominance and reduce drug use among youth.
-player_impact: None directly; Hudson's rhetoric signals his growing challenge to Halsey's leadership and his military-first policy orientation.
+summary: Shadow President Zachary Hudson appeared on 'Face The People' defending his
+  criticism of President Halsey. He argued Halsey's incompetence had cost Federal
+  lives and questioned her ability to protect the Federation when Emperor Hengist
+  dies. Hudson advocated for better military training and strategic execution, claiming
+  a well-trained military would ensure Federal dominance and reduce drug use among
+  youth.
+player_impact: None directly; Hudson's rhetoric signals his growing challenge to Halsey's
+  leadership and his military-first policy orientation.
 persons:
 - Zachary Hudson
 - Jasmina Halsey
@@ -16,10 +22,15 @@ topics:
 - politics
 - diplomacy
 arc_id: halsey-presidency
-modern_impact: Hudson's televised attack on Halsey exemplified the aggressive political tactics that would eventually unseat her.
+modern_impact: Hudson's televised attack on Halsey exemplified the aggressive political
+  tactics that would eventually unseat her.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 228a3835-beab-5f06-a49f-9e2d1588b1d7
+- b0c46789-3a5c-5a2b-9164-53ec249b2650
 ---
+
 
 Appearing on The popular Federal Politics Show, ‘Face The People’, Shadow President Hundson faced some tough questions about his recent criticism of President Halsey. 
 

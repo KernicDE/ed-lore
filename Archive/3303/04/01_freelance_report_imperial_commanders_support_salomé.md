@@ -4,8 +4,11 @@ title: Freelance Report  Imperial Commanders Support Salomé
 slug: freelance_report_imperial_commanders_support_salomé
 date: '3303-04-01'
 source: GitHub
-summary: Imperial pilots are defying the kill-on-sight order on Commander Salomé (Kahina Tijani Loren), offering escort services, fuel, and rewards to others willing to help protect her.
-player_impact: Imperial pilots can escort and support Salomé; Commander Jayridium is offering up to 50 times the listed bounty for arranging a meeting with her.
+summary: Imperial pilots are defying the kill-on-sight order on Commander Salomé (Kahina
+  Tijani Loren), offering escort services, fuel, and rewards to others willing to
+  help protect her.
+player_impact: Imperial pilots can escort and support Salomé; Commander Jayridium
+  is offering up to 50 times the listed bounty for arranging a meeting with her.
 persons:
 - Kahina Tijani Loren
 - Commander Jayridium
@@ -16,10 +19,15 @@ topics:
 - war
 technologies: []
 arc_id: salome-conspiracy
-modern_impact: The Salomé conspiracy deepens the mystery surrounding the Antares disaster and Federal politics.
+modern_impact: The Salomé conspiracy deepens the mystery surrounding the Antares disaster
+  and Federal politics.
 legacy_weight: 4
 significance: high
+related_uuids:
+- a5c6dcd2-11e6-5a3e-b661-29d218058baa
+- e02f2fb0-9af4-5c3b-ba94-b6841bd7f67b
 ---
+
 
 Reports have been received from Imperial space that Many Imperial pilots are defying The standing kill-on-sight order on Commander Salomé, also known as Kahina Tijani Loren. The pilots pledging to support the disgraced senator are offering escort services and fuel, and have even promised to reward Other Commanders willing to help. 
 

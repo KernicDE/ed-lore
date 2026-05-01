@@ -4,7 +4,8 @@ title: Federal Agents Crush Jupiter Division Extremists
 slug: federal_agents_crush_jupiter_division_extremists
 date: '3307-10-20'
 source: API
-summary: The Federal Intelligence Agency arrests the organisers of Jupiter's Wrath, a pro-corporatist terrorist group planning attacks on Federal politicians.
+summary: The Federal Intelligence Agency arrests the organisers of Jupiter's Wrath,
+  a pro-corporatist terrorist group planning attacks on Federal politicians.
 player_impact: None
 persons:
 - Bethany Blake
@@ -21,7 +22,11 @@ arc_id: federal-politics
 modern_impact: Federal political developments shape superpower relations.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- c37c6407-9b19-540b-b403-c04589f125a2
+- d3fde8dc-9869-5a5d-aac6-506df8dff3c0
 ---
+
 
 A pro-corporatist group planning a series of terror attacks has been shut down by The Federal Intelligence Agency.
 An update on the operation was delivered by Deputy Director Bethany Blake, who runs the Proactive Detection Bureau:

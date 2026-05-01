@@ -4,7 +4,9 @@ title: Galactic News  Imperial Appeal Comes to an End
 slug: galactic_news_imperial_appeal_comes_to_an_end
 date: '3302-08-04'
 source: GitHub
-summary: The Empire's appeal for meta-alloys concluded successfully, with large quantities delivered to Axon Station in the Zagoro system. The Zagoro Imperial Society stated this is the first step in challenging the Federal monopoly on the material.
+summary: The Empire's appeal for meta-alloys concluded successfully, with large quantities
+  delivered to Axon Station in the Zagoro system. The Zagoro Imperial Society stated
+  this is the first step in challenging the Federal monopoly on the material.
 player_impact: None
 persons: []
 groups:
@@ -15,10 +17,15 @@ locations:
 - Zagoro
 technologies: []
 arc_id: barnacle-meta-alloy
-modern_impact: Imperial efforts to break the Federal meta-alloy monopoly mark the beginning of resource-driven superpower rivalry in the Pleiades.
+modern_impact: Imperial efforts to break the Federal meta-alloy monopoly mark the
+  beginning of resource-driven superpower rivalry in the Pleiades.
 legacy_weight: 4
 significance: high
+related_uuids:
+- e2866357-9c31-5a82-be8b-e7588a685b3e
+- fdb0f269-2b70-5fb4-9829-4ea6d66e35b1
 ---
+
 
 The Empire's recent request for meta-alloys has been enthusiastically received by the galactic community, Which has delivered large quantities of the rare material to Axon Station in the Zagoro system. A spokesperson for the Zagoro Imperial Society, which coordinated the appeal, confirmed that Hundreds of Imperial-aligned pilots had contributed to the campaign. In a statement, the spokesperson said: 
 

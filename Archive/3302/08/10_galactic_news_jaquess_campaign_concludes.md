@@ -4,7 +4,9 @@ title: Galactic News  Jaques's Campaign Concludes
 slug: galactic_news_jaquess_campaign_concludes
 date: '3302-08-10'
 source: GitHub
-summary: Jaques Station's repair campaign concluded successfully over a week early thanks to thousands of contributing pilots. Jaques announced that a shipyard would be added to the station's services once manufacturer negotiations are complete.
+summary: Jaques Station's repair campaign concluded successfully over a week early
+  thanks to thousands of contributing pilots. Jaques announced that a shipyard would
+  be added to the station's services once manufacturer negotiations are complete.
 player_impact: None (campaign concluded)
 persons:
 - Jaques
@@ -16,10 +18,15 @@ topics:
 - ship
 technologies: []
 arc_id: jaques-station
-modern_impact: Successful community restoration of Jaques Station establishes the first deep-space shipyard and anchors the Colonia settlement.
+modern_impact: Successful community restoration of Jaques Station establishes the
+  first deep-space shipyard and anchors the Colonia settlement.
 legacy_weight: 4
 significance: high
+related_uuids:
+- ddd603e6-59fd-591f-b094-8bc0e5b0d5ab
+- eda4cfe1-e27c-5303-a7dc-c613c5400d4e
 ---
+
 
 Personnel at Jaques Station have announced that their appeal for repair materials has reached a successful conclusion more than a week before The campaign was scheduled to end, thanks to the enthusiastic support of the galactic community. 
 

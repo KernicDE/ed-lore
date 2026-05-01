@@ -4,7 +4,10 @@ title: Freelance Report  Detail of Dr Arcanonn Death Threats Revealed
 slug: freelance_report_detail_of_dr_arcanonn_death_threats_revealed
 date: '3302-02-05'
 source: GitHub
-summary: Nelson De Rosa, chief of security for the Canonn, reveals that Dr Arcanonn received a credible death threat warning him against visiting Professor Palin in Maia. The investigation identifies Socha Korbemile as a leak and explores links to Varati-based groups and Dr Huros, a militant alien-life advocate.
+summary: Nelson De Rosa, chief of security for the Canonn, reveals that Dr Arcanonn
+  received a credible death threat warning him against visiting Professor Palin in
+  Maia. The investigation identifies Socha Korbemile as a leak and explores links
+  to Varati-based groups and Dr Huros, a militant alien-life advocate.
 player_impact: None
 persons:
 - Nelson De Rosa
@@ -25,10 +28,15 @@ topics:
 - research
 - war
 arc_id: unknown-artefacts
-modern_impact: Continued research into alien artefacts advances understanding of non-human intelligence.
+modern_impact: Continued research into alien artefacts advances understanding of non-human
+  intelligence.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 54432280-7a53-5347-af7a-1a0a6c14aada
+- dba07051-e933-5c05-9146-549e19c7cf89
 ---
+
 
 Nelson De Rosa, chief of security for The Canonn Interstellar Research Group, has released a statement to the media: 
 

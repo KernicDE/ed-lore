@@ -4,8 +4,13 @@ title: Reports of the Cerberus Plague beyond BD-02 4304
 slug: reports_of_the_cerberus_plague_beyond_bd_02_4304
 date: '3301-07-14'
 source: GitHub
-summary: Chief Medical Officer Carl Simmons confirmed isolated Cerberus Plague incidents in Dajoar, Eleu, and 20 Ophiuchi, believed to be travellers from BD-02 4304 before restrictions were imposed. Three containment operations have been initiated. Simmons called on independent pilots to help prevent full outbreaks. A technician confirmed the name 'Cerberus Plague' comes from the organism's unusual three-pronged structure.
-player_impact: Independent pilots are needed to help contain Cerberus Plague outbreaks in Dajoar, Eleu, and 20 Ophiuchi before they spread further.
+summary: Chief Medical Officer Carl Simmons confirmed isolated Cerberus Plague incidents
+  in Dajoar, Eleu, and 20 Ophiuchi, believed to be travellers from BD-02 4304 before
+  restrictions were imposed. Three containment operations have been initiated. Simmons
+  called on independent pilots to help prevent full outbreaks. A technician confirmed
+  the name 'Cerberus Plague' comes from the organism's unusual three-pronged structure.
+player_impact: Independent pilots are needed to help contain Cerberus Plague outbreaks
+  in Dajoar, Eleu, and 20 Ophiuchi before they spread further.
 persons:
 - Carl Simmons
 groups:
@@ -20,10 +25,15 @@ topics:
 - medicine
 - plague
 arc_id: cerberus-plague
-modern_impact: Cerberus Plague spread beyond BD-02 4304 confirms the disease is not contained, requiring coordinated inter-system response.
+modern_impact: Cerberus Plague spread beyond BD-02 4304 confirms the disease is not
+  contained, requiring coordinated inter-system response.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 1ef93095-9569-5ec7-b8a7-9248e12e01e6
+- d09fc91f-ef68-523b-84cc-ed3248a97d60
 ---
+
 
 The heroic efforts of the local authorities at Newton Dock in BD-02 4304, combined With Independent pilots from Far and wide, have slowed the outbreak affecting the local population.  
 

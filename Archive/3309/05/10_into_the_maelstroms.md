@@ -4,8 +4,11 @@ title: Into the Maelstroms
 slug: into_the_maelstroms
 date: '3309-05-10'
 source: API
-summary: First ships equipped with Thargoid pulse neutralisers enter Maelstrom cores, encountering Thargoid patrols and confirming the anti-Guardian field from HIP 22460 persists in all eight Maelstrom systems.
-player_impact: Pilots equipped with Thargoid pulse neutralisers have entered Maelstrom inner regions and reported encounters with Thargoid forces.
+summary: First ships equipped with Thargoid pulse neutralisers enter Maelstrom cores,
+  encountering Thargoid patrols and confirming the anti-Guardian field from HIP 22460
+  persists in all eight Maelstrom systems.
+player_impact: Pilots equipped with Thargoid pulse neutralisers have entered Maelstrom
+  inner regions and reported encounters with Thargoid forces.
 persons:
 - Daniel Parry
 - Emil Varga
@@ -20,15 +23,21 @@ topics:
 - alien contact
 - war
 arc_id: thargoid-titan-war
-modern_impact: Parry's report on 'pathfinder missions' and unauthenticated pilot accounts shows the intelligence-gathering phase. Varga's warning about the anti-Guardian field — 'weapons based on Guardian technology will not function and should be replaced' — is critical tactical information. The confirmation that all eight Maelstrom systems are affected establishes a universal threat characteristic.
+modern_impact: Parry's report on 'pathfinder missions' and unauthenticated pilot accounts
+  shows the intelligence-gathering phase. Varga's warning about the anti-Guardian
+  field — 'weapons based on Guardian technology will not function and should be replaced'
+  — is critical tactical information. The confirmation that all eight Maelstrom systems
+  are affected establishes a universal threat characteristic.
 legacy_weight: 5
 significance: high
 related_uuids:
-- c44eb127-7e09-52f5-802c-b31fe5285aa9
-- ec828667-8543-58f8-ad27-69e052777f6f
-- ab0f4a46-b6b4-57b7-80df-fc7e40c7b0c8
 - 75959975-677e-5ef0-a638-99ecddb6c873
+- ab0f4a46-b6b4-57b7-80df-fc7e40c7b0c8
+- c44eb127-7e09-52f5-802c-b31fe5285aa9
+- e2e659a0-e859-563b-a0f9-ab3a09d26ca8
+- ec828667-8543-58f8-ad27-69e052777f6f
 ---
+
 
 Aegis has confirmed that the first ships equipped with Thargoid pulse neutralisers have entered the inner regions of the Maelstroms.
 The new module provides a temporary shield against the electromagnetic pulse that is generated when ships reach a certain point within the Maelstroms. Until now, this has prevented all attempts to identify what Thargoid constructs may exist within the caustic clouds.

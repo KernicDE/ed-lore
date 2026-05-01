@@ -4,8 +4,11 @@ title: Aegis Probed by Board of Inquiry
 slug: aegis_probed_by_board_of_inquiry
 date: '3307-08-11'
 source: API
-summary: An independent board of inquiry begins investigating Aegis's failures, including the loss of the Alexandria megaship and allegations of negligence regarding Guardian artefacts.
-player_impact: Independent pilots who participated in Aegis operations were referenced during the inquiry's initial phase.
+summary: An independent board of inquiry begins investigating Aegis's failures, including
+  the loss of the Alexandria megaship and allegations of negligence regarding Guardian
+  artefacts.
+player_impact: Independent pilots who participated in Aegis operations were referenced
+  during the inquiry's initial phase.
 persons:
 - Paul Baumann
 - Aden Tanner
@@ -20,10 +23,15 @@ topics:
 - research
 - xenoarchaeology
 arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape and drives anti-xeno defence efforts.
+modern_impact: Thargoid activity fundamentally changes the galactic security landscape
+  and drives anti-xeno defence efforts.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 444b7db4-6eb6-5dad-ab30-c5e2be2719f8
+- b519a730-66c9-597e-ba6d-1455afbba73c
 ---
+
 
 An investigation into The tri-superpower organisation Aegis is seeking to establish the reasons for Its failures.
 Dr Paul Baumann, chair of the Independent board of inquiry, outlined its scope:

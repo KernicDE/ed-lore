@@ -4,7 +4,9 @@ title: Freelance Report  Candy Crew Dominating Buckyball Race
 slug: freelance_report_candy_crew_dominating_buckyball_race
 date: '3302-12-06'
 source: GitHub
-summary: The Candy Crew Guild is dominating the midpoint of the Kick The Alien Buckyball race, with Commander Nookie Mr.Smith leading followed by Commanders Raijiin and Rewision.
+summary: The Candy Crew Guild is dominating the midpoint of the Kick The Alien Buckyball
+  race, with Commander Nookie Mr.Smith leading followed by Commanders Raijiin and
+  Rewision.
 player_impact: None
 persons:
 - Nookie Mr.Smith
@@ -19,10 +21,15 @@ topics:
 technologies:
 - SRV
 arc_id: thargoid-contact
-modern_impact: Community racing event organised by the Buckyball Racing Club around an alien crash site, showcasing pilot competition and skill.
+modern_impact: Community racing event organised by the Buckyball Racing Club around
+  an alien crash site, showcasing pilot competition and skill.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 3133f90c-752e-57a3-8867-34e370a2cc57
+- b51fe639-2e23-559a-9233-69f8a51976eb
 ---
+
 
 As the Kick The Alien (and Run like Hell) race reaches Its midpoint, the top of the leaderboard is dominated by members of the Candy Crew Guild. Commander Nookie Mr.Smith took the number One spot on Thursday With a truly incredible 6 minute 43 second run, while Commanders Raijiin and Rewision are sitting comfortably in second and third place respectively. 
 

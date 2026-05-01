@@ -34,12 +34,14 @@ legacy_weight: 2
 significance: low
 related_uuids:
 - 31ca43b5-5307-50b4-bbd0-948f5ba63d94
-- ef475ada-e268-55e0-8ada-ae250caa5c86
-- c1469916-3aca-5e3b-8dc5-76baf74b7e68
-- fefdabb9-36ba-57a2-8321-e9764f0b713c
-- e25e2c83-7be4-5236-9a1a-93321f277b40
 - 3a299742-113f-5b36-98e2-a791ed35ae34
+- c1469916-3aca-5e3b-8dc5-76baf74b7e68
+- e25e2c83-7be4-5236-9a1a-93321f277b40
+- ef475ada-e268-55e0-8ada-ae250caa5c86
+- f02f048f-667a-5947-9236-9330633d8a5f
+- fefdabb9-36ba-57a2-8321-e9764f0b713c
 ---
+
 
 
 Former Core Dynamics CEO Jupiter Rochester has received a summary judgement for multiple crimes against The Federation.

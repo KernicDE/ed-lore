@@ -29,7 +29,11 @@ modern_impact: Official ruling that Starship One was lost to mechanical failure 
   Antares connection.
 legacy_weight: 4
 significance: high
+related_uuids:
+- b8672130-0141-52f4-9188-4fe0efb5846b
+- cd6b06fb-bcc9-5e09-9d74-2728b8bfc2d2
 ---
+
 
 
 The Federal Navy has today released Its official report into the disappearance of Starship One. As expected, the 600,000 word document provides a detailed analysis of the inner workings of Starship One. 

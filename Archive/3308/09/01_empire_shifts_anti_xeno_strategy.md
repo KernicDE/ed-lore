@@ -4,7 +4,9 @@ title: Empire Shifts Anti-Xeno Strategy
 slug: empire_shifts_anti_xeno_strategy
 date: '3308-09-01'
 source: API
-summary: Emperor Arissa Lavigny-Duval declares the Empire will cease all inter-superpower military cooperation and rely solely on Imperial strength following the disastrous Battle of HIP 22460.
+summary: Emperor Arissa Lavigny-Duval declares the Empire will cease all inter-superpower
+  military cooperation and rely solely on Imperial strength following the disastrous
+  Battle of HIP 22460.
 player_impact: Not specifically mentioned — this is a political policy announcement.
 persons:
 - Arissa Lavigny-Duval
@@ -18,10 +20,15 @@ topics:
 - alien contact
 - war
 arc_id: salvation-azimuth
-modern_impact: The Empire's withdrawal from inter-superpower cooperation marks a major strategic realignment in the aftermath of the Proteus Wave disaster.
+modern_impact: The Empire's withdrawal from inter-superpower cooperation marks a major
+  strategic realignment in the aftermath of the Proteus Wave disaster.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 70a0500f-c445-5bc3-b002-a154f8dd54ad
+- f35cafa3-82c9-523b-8b06-a2fe5cf2e6be
 ---
+
 
 Emperor Arissa Lavigny-Duval has made a public announcement for the first time since the Battle of HIP 22460.
 In an address before the Senate, which was broadcast on all Imperial networks, she stated:

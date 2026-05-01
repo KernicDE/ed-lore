@@ -4,7 +4,11 @@ title: Lakon Releases Alliance Chieftain
 slug: lakon_releases_alliance_chieftain
 date: '3304-03-02'
 source: GitHub
-summary: The Alliance has announced the Alliance Chieftain, a new combat ship developed by Lakon Spaceways specifically to counter Thargoid aggression. The vessel is highly manoeuvrable for its size, with six weapon hardpoints and three internal military compartments, making it capable in combat and able to withstand considerable punishment. The ship is now available for purchase.
+summary: The Alliance has announced the Alliance Chieftain, a new combat ship developed
+  by Lakon Spaceways specifically to counter Thargoid aggression. The vessel is highly
+  manoeuvrable for its size, with six weapon hardpoints and three internal military
+  compartments, making it capable in combat and able to withstand considerable punishment.
+  The ship is now available for purchase.
 player_impact: The Alliance Chieftain is now available for purchase from shipyards.
 persons: []
 groups:
@@ -16,10 +20,15 @@ topics:
 - alien contact
 - ship
 arc_id: thargoid-contact
-modern_impact: The Alliance Chieftain represents a dedicated anti-xeno combat vessel design, reflecting the shipbuilding industry's response to the Thargoid threat.
+modern_impact: The Alliance Chieftain represents a dedicated anti-xeno combat vessel
+  design, reflecting the shipbuilding industry's response to the Thargoid threat.
 legacy_weight: 4
 significance: high
+related_uuids:
+- b4a761d3-429d-5f0d-a30b-cda9b895740a
+- db52aafd-4698-5284-9fa4-6087b9913f7e
 ---
+
 
 The Alliance has announced a new combat ship, the Alliance Chieftain, Which has been specifically designed to counter the aggression of the Thargoids. 
 

@@ -4,8 +4,12 @@ title: New Alliance Starports Become Operational
 slug: new_alliance_starports_become_operational
 date: '3307-06-25'
 source: API
-summary: Two new Alliance stations — Enterprise Market in LHS 2522 and Prosperity Core in Sharru Sector FW-W c1-19 — become operational. Prime Minister Mahon welcomes visitors while Councillor Kaine reveals irregularities in the tritium campaign and alleges Sirius Corporation made unregistered donations to make up shortfalls.
-player_impact: The new starports provide full services to pilots travelling through Alliance space.
+summary: Two new Alliance stations — Enterprise Market in LHS 2522 and Prosperity
+  Core in Sharru Sector FW-W c1-19 — become operational. Prime Minister Mahon welcomes
+  visitors while Councillor Kaine reveals irregularities in the tritium campaign and
+  alleges Sirius Corporation made unregistered donations to make up shortfalls.
+player_impact: The new starports provide full services to pilots travelling through
+  Alliance space.
 persons:
 - Edmund Mahon
 - Nakato Kaine
@@ -30,14 +34,19 @@ technologies:
 - Polymers
 - Superconductors
 arc_id: alliance-expansion
-modern_impact: Kaine's allegations about Sirius Corporation's involvement in Alliance expansion foreshadow later revelations about the megacorp's deep financial entanglement with all three superpowers and its strategic use of infrastructure projects to gain influence.
+modern_impact: Kaine's allegations about Sirius Corporation's involvement in Alliance
+  expansion foreshadow later revelations about the megacorp's deep financial entanglement
+  with all three superpowers and its strategic use of infrastructure projects to gain
+  influence.
 legacy_weight: 3
 significance: medium
 related_uuids:
-- 2a5006ec-b65b-5b2e-bd3a-0530675caa8d
-- 931d72fb-9b88-566c-a2c3-8b536ea52a59
 - 09b011a1-77a8-5a75-a0c4-c60509f2f440
+- 2a5006ec-b65b-5b2e-bd3a-0530675caa8d
+- 3181a5f1-c6c0-527b-b83c-1eed9b4aaec3
+- 931d72fb-9b88-566c-a2c3-8b536ea52a59
 ---
+
 
 **Pilots Federation ALERT**
 Two Alliance stations have been constructed following a successful re-election campaign by Prime Minister Edmund Mahon.

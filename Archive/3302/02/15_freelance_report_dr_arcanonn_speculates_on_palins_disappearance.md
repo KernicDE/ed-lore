@@ -4,7 +4,9 @@ title: Freelance Report  Dr Arcanonn Speculates on Palin's Disappearance
 slug: freelance_report_dr_arcanonn_speculates_on_palins_disappearance
 date: '3302-02-15'
 source: GitHub
-summary: Dr Arcanonn speculates that dark forces who threatened his own life may have intercepted Professor Palin en route to Maia b1ba. He notes the mysterious Diamondback Explorer that scanned Obsidian Orbital may have been searching for the professor.
+summary: Dr Arcanonn speculates that dark forces who threatened his own life may have
+  intercepted Professor Palin en route to Maia b1ba. He notes the mysterious Diamondback
+  Explorer that scanned Obsidian Orbital may have been searching for the professor.
 player_impact: None
 persons:
 - Dr Arcanonn
@@ -20,10 +22,15 @@ topics:
 - exploration
 - research
 arc_id: unknown-artefacts
-modern_impact: Continued research into alien artefacts advances understanding of non-human intelligence.
+modern_impact: Continued research into alien artefacts advances understanding of non-human
+  intelligence.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 5ba56e3b-d2b7-5300-88a9-faf2bb81468a
+- dba07051-e933-5c05-9146-549e19c7cf89
 ---
+
 
 Dr Arcanonn of The Canonn Interstellar Research Group has spoken out about the disappearance of Professor Ishmael Palin: 
 

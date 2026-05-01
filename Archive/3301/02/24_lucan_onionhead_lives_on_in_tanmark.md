@@ -4,8 +4,15 @@ title: Lucan Onionhead Lives On in Tanmark
 slug: lucan_onionhead_lives_on_in_tanmark
 date: '3301-02-24'
 source: GitHub
-summary: The Defence Force of Tanmark and the Farmers Union of Kappa Fornacis announced success in increasing local Lucan Onionhead production. Hundreds of contractors delivered over 500,000 tons of land enrichment systems to Cassie-L-Peia, allowing specialist farmers from Kappa Fornacis to stimulate mass growth of Lucan Onionhead clones. President Halsey's office reiterated that Lucan Onionhead is illegal in all Federal jurisdictions and warned that anyone transporting, cultivating, or selling it would be prosecuted.
-player_impact: Pilots can support Onionhead cultivation in Tanmark or enforce Federal prohibition laws against the trade.
+summary: The Defence Force of Tanmark and the Farmers Union of Kappa Fornacis announced
+  success in increasing local Lucan Onionhead production. Hundreds of contractors
+  delivered over 500,000 tons of land enrichment systems to Cassie-L-Peia, allowing
+  specialist farmers from Kappa Fornacis to stimulate mass growth of Lucan Onionhead
+  clones. President Halsey's office reiterated that Lucan Onionhead is illegal in
+  all Federal jurisdictions and warned that anyone transporting, cultivating, or selling
+  it would be prosecuted.
+player_impact: Pilots can support Onionhead cultivation in Tanmark or enforce Federal
+  prohibition laws against the trade.
 persons:
 - Jasmina Halsey
 groups:
@@ -18,10 +25,14 @@ locations:
 topics:
 - narcotics
 arc_id: onionhead-conflict
-modern_impact: The Onionhead conflict highlights tensions between Federal prohibition and local agricultural economies.
+modern_impact: The Onionhead conflict highlights tensions between Federal prohibition
+  and local agricultural economies.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 8a13b80f-4222-50f5-becf-48fb8fe2d4ee
 ---
+
 
 The Defence Force of Tanmark, in association With the Farmers Union of Kappa Fornacis, is pleased to announce The success of their initiative to increase the local production of Lucan Onionhead. 
 

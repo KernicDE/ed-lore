@@ -31,8 +31,11 @@ modern_impact: The authorities' deliberate information blackout after HIP 22460 
   with the scale of the disaster and Salvation's responsibility.
 legacy_weight: 5
 significance: high
-related_uuids: []
+related_uuids:
+- 5dac2429-cbe4-5b27-95da-d6d5fe91f4eb
+- 7cc33ea4-c770-5e4b-8a0e-bd75d0d19c24
 ---
+
 
 
 The Thargoid victory in the HIP 22460 system has raised many questions which neither Azimuth Biotech nor the superpowers have officially responded to.

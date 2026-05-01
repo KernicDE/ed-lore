@@ -4,7 +4,9 @@ title: Freelance Report  Distant Worlds Flagship Anticipates Jaques' Arrival
 slug: freelance_report_distant_worlds_flagship_anticipates_jaques_arrival
 date: '3302-05-14'
 source: GitHub
-summary: Commander Olivia Vespera, pilot of the Distant Worlds Expedition fleet flagship, remains at Beagle Point prospecting for jumponium materials. She expresses excitement at potentially being the first to greet Jaques Station upon its arrival.
+summary: Commander Olivia Vespera, pilot of the Distant Worlds Expedition fleet flagship,
+  remains at Beagle Point prospecting for jumponium materials. She expresses excitement
+  at potentially being the first to greet Jaques Station upon its arrival.
 player_impact: None
 persons:
 - Olivia Vespera
@@ -15,10 +17,15 @@ topics:
 - exploration
 - ship
 arc_id: jaques-station
-modern_impact: Jaques Station's journey to Colonia establishes a new frontier settlement, opening up deep-space colonisation.
+modern_impact: Jaques Station's journey to Colonia establishes a new frontier settlement,
+  opening up deep-space colonisation.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 4d7c597e-0996-5384-89fa-f96749b6bb7b
+- abc03646-a8a8-5932-8f8a-0ee83fd2c9b7
 ---
+
 
 Preparations are underway for The Distant Worlds Expedition gala at Skvortsov Orbital, but One explorer will be unable to attend: Commander Olivia Vespera, pilot of the expedition's fleet flagship, a Type-9 named Zombie Wasp IV. 
 

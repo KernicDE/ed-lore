@@ -4,8 +4,12 @@ title: Trailblazer Fleet Deployed to Support Colonisation Initiatives
 slug: trailblazer_fleet_deployed_to_support_colonisation_initiatives
 date: '3311-03-19'
 source: API
-summary: Brewer Corporation deployed the Trailblazer fleet to strategic edge-of-core systems to support independent colonisation efforts, described as 'overwhelmingly popular' by COO Mark Rennik.
-player_impact: Independent pilots established colonies using Brewer Corporation's Trailblazer fleet support infrastructure, with megaships deployed to HIP 90578, Orgen, Bletii, 34 Omicron Cephei, Klikis, and Ngobe.
+summary: Brewer Corporation deployed the Trailblazer fleet to strategic edge-of-core
+  systems to support independent colonisation efforts, described as 'overwhelmingly
+  popular' by COO Mark Rennik.
+player_impact: Independent pilots established colonies using Brewer Corporation's
+  Trailblazer fleet support infrastructure, with megaships deployed to HIP 90578,
+  Orgen, Bletii, 34 Omicron Cephei, Klikis, and Ngobe.
 persons:
 - Mark Rennik
 groups:
@@ -24,17 +28,23 @@ topics:
 technologies:
 - Trailblazer megaships
 arc_id: trailblazer-colonisation
-modern_impact: Rennik's admission that 'the number of claims had proved challenging' and his description of settlement speed as 'frankly astonishing' validates the unprecedented scale of pilot-driven expansion. The named megaship deployments (Trailblazer Dream, Song, Wish, Star, Promise, Faith) create permanent waypoints that will anchor frontier trade routes for years.
+modern_impact: Rennik's admission that 'the number of claims had proved challenging'
+  and his description of settlement speed as 'frankly astonishing' validates the unprecedented
+  scale of pilot-driven expansion. The named megaship deployments (Trailblazer Dream,
+  Song, Wish, Star, Promise, Faith) create permanent waypoints that will anchor frontier
+  trade routes for years.
 legacy_weight: 2
 significance: low
 related_uuids:
-- 654da182-7359-55fc-b4ff-aed688b46dab
-- e8bdc445-58aa-5aca-b3ab-9f1705da44d3
-- b4684e15-86d1-5b30-8df1-282604d10a06
 - 2929a7d5-739c-5361-a9e9-697acd62a952
-- c049687e-01f6-5a30-a4e6-f8399dd6ab54
+- 654da182-7359-55fc-b4ff-aed688b46dab
+- 701c8306-9889-5793-b542-fd7e351a7270
 - a35f8876-2575-5b5e-beda-dcad1462ddf8
+- b4684e15-86d1-5b30-8df1-282604d10a06
+- c049687e-01f6-5a30-a4e6-f8399dd6ab54
+- e8bdc445-58aa-5aca-b3ab-9f1705da44d3
 ---
+
 
 The Trailblazer fleet announced by Brewer Corporation last month has been deployed to strategic locations on the edges of the core systems.
 Described as 'colonisation support hubs,' the Trailblazer fleet provides a bespoke trade market focused on colonisation materials and goods. The first wave of independent colonisation efforts has been described as 'overwhelmingly popular' by Brewer COO Mark Rennik.

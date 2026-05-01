@@ -31,8 +31,11 @@ modern_impact: The military's blanket classification of HIP 22460 data fuelled c
   of a new alien capability rather than protecting operational security.
 legacy_weight: 4
 significance: medium
-related_uuids: []
+related_uuids:
+- 4a1970bd-317f-518d-95da-22551e7e7907
+- 95ae8cda-f860-5bc3-8d07-81ef6842e829
 ---
+
 
 
 An independent journalist has suggested that some survivors of the Battle of HIP 22460 heard a strange alien sound of unknown origin.

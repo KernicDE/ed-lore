@@ -4,8 +4,15 @@ title: Federation Goes All In
 slug: federation_goes_all_in
 date: '3301-06-10'
 source: GitHub
-summary: Following the failed Federal invasion of Eranin in late 3300, Federal and Alliance campaigners clashed politically in the Dahan sector. Mahon supporters successfully convinced many residents that Alliance membership was preferable to Federal taxation, but lacked resources to capitalise. The real winner appears to be Shadow President Winters, whose Liberals took the lead in historically Republican Aulin and are establishing a new command centre aboard Aulin Enterprise. Republican and Liberal party members have been recruiting supporters around the clock.
-player_impact: Pilots can support Federal or Alliance political campaigns in Dahan and Aulin, influencing which power gains influence in the sector.
+summary: Following the failed Federal invasion of Eranin in late 3300, Federal and
+  Alliance campaigners clashed politically in the Dahan sector. Mahon supporters successfully
+  convinced many residents that Alliance membership was preferable to Federal taxation,
+  but lacked resources to capitalise. The real winner appears to be Shadow President
+  Winters, whose Liberals took the lead in historically Republican Aulin and are establishing
+  a new command centre aboard Aulin Enterprise. Republican and Liberal party members
+  have been recruiting supporters around the clock.
+player_impact: Pilots can support Federal or Alliance political campaigns in Dahan
+  and Aulin, influencing which power gains influence in the sector.
 persons:
 - Edmund Mahon
 - Zachary Hudson
@@ -25,10 +32,15 @@ topics:
 - politics
 - war
 arc_id: federal-politics
-modern_impact: Political battle between Federation and Alliance in Dahan reveals Winters' Liberals gaining ground even in traditionally Republican strongholds.
+modern_impact: Political battle between Federation and Alliance in Dahan reveals Winters'
+  Liberals gaining ground even in traditionally Republican strongholds.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 250a8de2-2777-572d-b19a-b9f849cf2f06
+- dcd1dfdf-7dc6-564e-8cc9-bf752c33764a
 ---
+
 
 In late 3300, The small Federal system of Dahan Found itself being used as a staging area for a prolonged military campaign against The Independent nation of Eranin. Eventually, Eranin managed to force back The Federal invasion. Although not before heavy losses were incurred by both sides. 
 

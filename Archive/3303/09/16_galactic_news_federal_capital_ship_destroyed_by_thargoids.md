@@ -4,7 +4,11 @@ title: Galactic News  Federal Capital Ship Destroyed by Thargoids
 slug: galactic_news_federal_capital_ship_destroyed_by_thargoids
 date: '3303-09-16'
 source: GitHub
-summary: The Federation confirms that a Farragut-class Battlecruiser and accompanying vessels were destroyed by Thargoid Interceptor-class vessels in the Maia system. President Zachary Hudson declares the Thargoids an enemy of the Federation and grants Admiral Aden Tanner total authority and full Federal Navy resources to address the threat.
+summary: The Federation confirms that a Farragut-class Battlecruiser and accompanying
+  vessels were destroyed by Thargoid Interceptor-class vessels in the Maia system.
+  President Zachary Hudson declares the Thargoids an enemy of the Federation and grants
+  Admiral Aden Tanner total authority and full Federal Navy resources to address the
+  threat.
 player_impact: None
 persons:
 - Zachary Hudson
@@ -24,10 +28,15 @@ technologies:
 - Farragut-class Battlecruiser
 - Thargoid Interceptor
 arc_id: thargoid-contact
-modern_impact: Thargoid activity escalates, fundamentally changing the galactic security landscape and driving the creation of anti-xeno defence forces.
+modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
+  landscape and driving the creation of anti-xeno defence forces.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 1c944fdb-3a89-5a66-86a1-5463dc51f024
+- fc5a0349-e2fc-5351-bedc-dca401fdb77f
 ---
+
 
 Over The past few months, Several reports have surfaced of Federal convoys coming under fire in the Maia system. While circumstantial evidence strongly suggested Thargoid involvement, the Federation declined to comment, saying only that the matter was “under investigation”. 
 

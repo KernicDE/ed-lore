@@ -4,8 +4,13 @@ title: Increased Security on Capitol
 slug: increased_security_on_capitol
 date: '3301-10-09'
 source: GitHub
-summary: Security was drastically increased in Capitol ahead of Arissa Lavigny-Duval's coronation ceremony due to threats from Emperor's Dawn. Naval infantry, local police, and Imperial Guard units patrolled the streets. Only invited guests and permit holders were allowed into the Achenar system, preventing offworld citizens from attending.
-player_impact: Pilots without proper permits were barred from the Achenar system during the coronation. The heavy security reflects the serious threat posed by Emperor's Dawn to the Imperial succession.
+summary: Security was drastically increased in Capitol ahead of Arissa Lavigny-Duval's
+  coronation ceremony due to threats from Emperor's Dawn. Naval infantry, local police,
+  and Imperial Guard units patrolled the streets. Only invited guests and permit holders
+  were allowed into the Achenar system, preventing offworld citizens from attending.
+player_impact: Pilots without proper permits were barred from the Achenar system during
+  the coronation. The heavy security reflects the serious threat posed by Emperor's
+  Dawn to the Imperial succession.
 groups:
 - Emperor's Dawn
 - Imperial Guard
@@ -16,10 +21,15 @@ locations:
 topics:
 - succession
 arc_id: imperial-succession
-modern_impact: Arissa's coronation establishes a new Imperial era. Her anti-corruption stance and military focus shape Imperial policy for years to come.
+modern_impact: Arissa's coronation establishes a new Imperial era. Her anti-corruption
+  stance and military focus shape Imperial policy for years to come.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 160cfdac-9ea2-5593-9928-46201603286c
+- ebe5ac2b-54e3-5d3b-a7d3-91ccae332ab6
 ---
+
 
 With Emperor's Dawn threatening to sabotage The Imperial coronation ceremony, and the Emperor's assassination still casting a pall over the city, security for the ceremony has been drastically increased. Naval infantry, local police and Imperial Guard units are already patrolling the streets of Capitol and conducting security checks. One Navy contact revealed that This was likely to be one of the largest deployments of Naval troops in decades. 
 

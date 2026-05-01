@@ -4,8 +4,10 @@ title: Standoff for ACT and Theta Seven
 slug: standoff_for_act_and_theta_seven
 date: '3307-12-07'
 source: API
-summary: ACT faces a tense standoff with Theta Seven, who holds thousands of Far God cultists hostage aboard the Sacrosanct megaship in the Mudhrid system.
-player_impact: Not specifically mentioned — this is a field report on the ongoing standoff.
+summary: ACT faces a tense standoff with Theta Seven, who holds thousands of Far God
+  cultists hostage aboard the Sacrosanct megaship in the Mudhrid system.
+player_impact: Not specifically mentioned — this is a field report on the ongoing
+  standoff.
 persons:
 - Theta Seven
 - Redmond O'Hara
@@ -25,10 +27,15 @@ topics:
 - terrorism
 - war
 arc_id: nmla-terrorism
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to the Marlinist refugee crisis and the Proactive Detection Bureau.
+modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
+  the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 548f6761-2537-5801-8f58-7eccec59205a
+- f76d8d87-04a4-5982-9f90-51763df54997
 ---
+
 
 Terrorist ringleader Theta Seven is defying capture by holding thousands of Far God cultists hostage in The Mudhrid system.
 Vox Galactica published an on-the-scene report from freelance journalist Redmond O’Hara:

@@ -4,8 +4,12 @@ title: Duelling Narratives in Cayutorme Conflict
 slug: duelling_narratives_in_cayutorme_conflict
 date: '3301-11-05'
 source: GitHub
-summary: Imperial naval vessels enter Cayutorme after the deadline for the Cayutorme Syndicate fleet's disbandment passes; Kyle Kurowski denies reports of pilots fighting for both sides while Admiral Lucius Lavigny urges commanders to support the Imperial cause.
-player_impact: Independent pilots can support the Imperial cause against the Cayutorme Syndicate, with the Imperial war chest opened for mercenaries.
+summary: Imperial naval vessels enter Cayutorme after the deadline for the Cayutorme
+  Syndicate fleet's disbandment passes; Kyle Kurowski denies reports of pilots fighting
+  for both sides while Admiral Lucius Lavigny urges commanders to support the Imperial
+  cause.
+player_impact: Independent pilots can support the Imperial cause against the Cayutorme
+  Syndicate, with the Imperial war chest opened for mercenaries.
 persons:
 - Kyle Kurowski
 - Admiral Lucius Lavigny
@@ -20,10 +24,15 @@ topics:
 - war
 technologies: []
 arc_id: cayutorme-conflict
-modern_impact: A significant military engagement testing the Empire's ability to project force against organized criminal syndicates.
+modern_impact: A significant military engagement testing the Empire's ability to project
+  force against organized criminal syndicates.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- ab73ea19-a24f-5746-8a8a-ef3cedadef79
+- e1c5c408-8653-5bb4-99d6-faaaafda094e
 ---
+
 
 The deadline for the inspection and disbandment of the mercenary Cayutorme Syndicate fleet has passed, and Imperial Naval vessels have entered the Cayutorme system. Speaking from an undisclosed location, the leader of the Cayutorme Syndicate, Kyle Kurowski, confirmed that his mercenary armada had engaged the Imperial Fleet, but denied reports that Independent pilots were fighting for both sides: "Independent pilots are just that – independent. They will not be the tool the Emperor uses to turn us into Imperial citizens. If they stand for freedom, they stand With us." 
 

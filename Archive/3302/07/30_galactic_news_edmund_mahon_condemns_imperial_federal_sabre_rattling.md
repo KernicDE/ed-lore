@@ -4,7 +4,10 @@ title: Galactic News  Edmund Mahon Condemns Imperial Federal Sabre Rattling
 slug: galactic_news_edmund_mahon_condemns_imperial_federal_sabre_rattling
 date: '3302-07-30'
 source: GitHub
-summary: Alliance Prime Minister Edmund Mahon condemns the Empire and Federation's military posturing over barnacles and meta-alloys, urging both superpowers to consider that the structures may be of non-human origin and should be protected, not fought over.
+summary: Alliance Prime Minister Edmund Mahon condemns the Empire and Federation's
+  military posturing over barnacles and meta-alloys, urging both superpowers to consider
+  that the structures may be of non-human origin and should be protected, not fought
+  over.
 player_impact: None
 persons:
 - Edmund Mahon
@@ -17,10 +20,15 @@ topics:
 technologies:
 - meta-alloys
 arc_id: thargoid-contact
-modern_impact: The emergence of Thargoid ships marks the beginning of active alien contact, fundamentally changing humanity's place in the galaxy.
+modern_impact: The emergence of Thargoid ships marks the beginning of active alien
+  contact, fundamentally changing humanity's place in the galaxy.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 11cb4845-96e1-5ff1-ab46-1a3b0878799d
+- 51a77e93-8f7a-5968-9b91-a52b883d8a66
 ---
+
 
 Alliance Prime Minister Edmund Mahon has offered a critical appraisal of The ongoing antagonism between the Empire and the Federation. His comments, delivering during a recent ministerial address, concern the conflict over the organic structures known as barnacles, and the meta-alloys they produce. 
 

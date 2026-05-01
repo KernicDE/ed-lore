@@ -4,7 +4,8 @@ title: Far God Megaship Hijacked by Theta Seven
 slug: far_god_megaship_hijacked_by_theta_seven
 date: '3307-11-24'
 source: API
-summary: Theta Seven hijacks the Far God cult megaship Sacrosanct and redirects it to the Mudhrid system, where the NMLA is regrouping forces with the Steel Majesty.
+summary: Theta Seven hijacks the Far God cult megaship Sacrosanct and redirects it
+  to the Mudhrid system, where the NMLA is regrouping forces with the Steel Majesty.
 player_impact: None
 persons:
 - Milo Castile
@@ -17,10 +18,15 @@ groups:
 topics:
 - terrorism
 arc_id: nmla-terrorism
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to the Marlinist refugee crisis and the Proactive Detection Bureau.
+modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
+  the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 2dca7cc3-ccd8-5c6b-a312-0b7c1077927a
+- 455aa5f4-8e48-5c5d-b7a7-c606f933ee13
 ---
+
 
 NMLA figurehead Theta Seven has taken control of The Sacrosanct megaship and redirected it to the Mudhrid system.
 Several months ago, the leader of Theta Group and his closest aides evaded capture by posing as members of the Far God cult. One of their pilgrimage vessels, the Sacrosanct, has now bypassed Its scheduled flight plan and jumped to Mudhrid.

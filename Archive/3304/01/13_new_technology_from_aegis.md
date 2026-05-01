@@ -4,8 +4,12 @@ title: New Technology from Aegis
 slug: new_technology_from_aegis
 date: '3304-01-13'
 source: GitHub
-summary: Aegis has released the decontamination limpet, a new device designed to counter the caustic properties of Thargoid enzyme missiles. The device strips corrosive enzymes from a ship's hull while performing limited repairs. Aegis claims it has been rigorously field tested and will give pilots a distinct defensive advantage.
-player_impact: The decontamination limpet is available for purchase from planetary bases with military, high-tech, refinery, industrial, or extraction-level economies.
+summary: Aegis has released the decontamination limpet, a new device designed to counter
+  the caustic properties of Thargoid enzyme missiles. The device strips corrosive
+  enzymes from a ship's hull while performing limited repairs. Aegis claims it has
+  been rigorously field tested and will give pilots a distinct defensive advantage.
+player_impact: The decontamination limpet is available for purchase from planetary
+  bases with military, high-tech, refinery, industrial, or extraction-level economies.
 persons: []
 groups:
 - Aegis
@@ -16,10 +20,15 @@ topics:
 technologies:
 - Decontamination Limpet
 arc_id: thargoid-contact
-modern_impact: The decontamination limpet provides pilots with a critical countermeasure against Thargoid caustic missile attacks.
+modern_impact: The decontamination limpet provides pilots with a critical countermeasure
+  against Thargoid caustic missile attacks.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 792881aa-bcdf-5765-a82f-0292f758d275
+- a4e143f6-2da4-5dee-aaa5-945d54781fd0
 ---
+
 
 Aegis has expanded Its roster of anti-Thargoid technologies With a new device – The decontamination limpet. The device is specifically designed to counter the caustic properties of Thargoid missiles. 
 

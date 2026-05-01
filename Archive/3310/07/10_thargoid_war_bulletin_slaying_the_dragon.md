@@ -4,8 +4,10 @@ title: 'Thargoid War Bulletin: Slaying the Dragon'
 slug: thargoid_war_bulletin_slaying_the_dragon
 date: '3310-07-10'
 source: API
-summary: Vox Galactica reporter Jade Sanderlyn provides a visceral eyewitness account of Titan Indra's destruction in the HIP 20567 system.
-player_impact: Pilots participated in the destruction of Titan Indra in the HIP 20567 system.
+summary: Vox Galactica reporter Jade Sanderlyn provides a visceral eyewitness account
+  of Titan Indra's destruction in the HIP 20567 system.
+player_impact: Pilots participated in the destruction of Titan Indra in the HIP 20567
+  system.
 persons:
 - Jade Sanderlyn
 groups: []
@@ -15,13 +17,20 @@ topics:
 - alien contact
 - war
 arc_id: thargoid-titan-war
-modern_impact: Sanderlyn's prose — 'Caustic gas and debris spurted from its vents like blood from multiple wounds... part collapsing starship and part dying animal' — is the most vivid journalistic account of a Titan's death. Her metaphor of 'slaying the dragon' gives narrative shape to a military achievement. This article transforms a tactical victory into a cultural moment.
+modern_impact: Sanderlyn's prose — 'Caustic gas and debris spurted from its vents
+  like blood from multiple wounds... part collapsing starship and part dying animal'
+  — is the most vivid journalistic account of a Titan's death. Her metaphor of 'slaying
+  the dragon' gives narrative shape to a military achievement. This article transforms
+  a tactical victory into a cultural moment.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 063d534f-7a00-5898-bf3d-223d9963c08a
 - a45d77c9-4e47-5012-bc3e-271e334b8c4e
+- eb80ced6-9bee-5efe-822d-6962ae7c718d
+- fb058492-b8b0-55e8-9d79-2a2f1596370b
 ---
+
 
 As Titan Indra in the HIP 20567 system was attacked, Vox Galactica reporter Jade Sanderlyn published her eye-witness account.
 “Watching the Thargoid mothership’s last hours had my guts in knots. Caustic gas and debris spurted from its vents like blood from multiple wounds. Violent vibrations and bioluminescent pulses gave the impression of a creature shuddering its last. And our ship’s sensors picked up horrific creaks and groans, part collapsing starship and part dying animal.”

@@ -4,8 +4,11 @@ title: Thargoids Wreak Havoc in Core Systems
 slug: thargoids_wreak_havoc_in_core_systems
 date: '3305-04-18'
 source: GitHub
-summary: After two months of concentrated assaults on the core systems, Thargoid attacks have struck dozens of starports causing thousands of casualties, with Admiral Aden Tanner noting their unconventional targeting patterns.
-player_impact: Independent combat pilots were identified as humanity's most effective defence against Thargoid incursions, with capital ships of limited use.
+summary: After two months of concentrated assaults on the core systems, Thargoid attacks
+  have struck dozens of starports causing thousands of casualties, with Admiral Aden
+  Tanner noting their unconventional targeting patterns.
+player_impact: Independent combat pilots were identified as humanity's most effective
+  defence against Thargoid incursions, with capital ships of limited use.
 persons:
 - Aden Tanner
 groups:
@@ -16,10 +19,16 @@ topics:
 - alien contact
 - war
 arc_id: thargoid-contact
-modern_impact: The sustained Thargoid offensive into the core systems demonstrated that nowhere in human space was truly safe, fundamentally shifting the strategic calculus of the entire conflict.
+modern_impact: The sustained Thargoid offensive into the core systems demonstrated
+  that nowhere in human space was truly safe, fundamentally shifting the strategic
+  calculus of the entire conflict.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 3f90e1bf-967a-5b74-be0f-718b81fcd3fb
+- 7bf623ab-d7be-566b-a8f8-e36c6e4a35b4
 ---
+
 
 It has now been more than two months since The Thargoids began a concentrated assault on the core systems, and in that time they have attacked Dozens of starports, resulting in thousands of casualties. 
 

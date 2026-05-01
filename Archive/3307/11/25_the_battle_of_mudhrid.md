@@ -4,8 +4,11 @@ title: The Battle of Mudhrid
 slug: the_battle_of_mudhrid
 date: '3307-11-25'
 source: API
-summary: The Neo-Marlinist Order of Mudhrid and the Epsilon Fornacis Empire Group declare war in the Mudhrid system, with the NMLA defending Theta Seven aboard the Sacrosanct megaship.
-player_impact: Imperial auxiliaries and Neo-Marlinist supporters fought on opposing sides in the Mudhrid system conflict.
+summary: The Neo-Marlinist Order of Mudhrid and the Epsilon Fornacis Empire Group
+  declare war in the Mudhrid system, with the NMLA defending Theta Seven aboard the
+  Sacrosanct megaship.
+player_impact: Imperial auxiliaries and Neo-Marlinist supporters fought on opposing
+  sides in the Mudhrid system conflict.
 persons:
 - Corentin Delacroix
 - Denton Patreus
@@ -21,10 +24,15 @@ topics:
 - terrorism
 - war
 arc_id: nmla-terrorism
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to the Marlinist refugee crisis and the Proactive Detection Bureau.
+modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
+  the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 548f6761-2537-5801-8f58-7eccec59205a
+- aa298920-c958-524d-b90c-98bb66e111a0
 ---
+
 
 **Pilots’ Federation ALERT**
 The Neo-Marlinist Order of Mudhrid and the Epsilon Fornacis Empire Group have declared war in the Mudhrid system.

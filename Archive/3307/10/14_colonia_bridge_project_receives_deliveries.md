@@ -4,17 +4,24 @@ title: Colonia Bridge Project Receives Deliveries
 slug: colonia_bridge_project_receives_deliveries
 date: '3307-10-14'
 source: API
-summary: Brewer Corporation receives sufficient materials to construct 30 dockable megaships for the Colonia Bridge route, with phase two planning already underway.
-player_impact: Contributing pilots received payment at Macdonald Settlement and Jaques Station, plus temporary discounts on Drake-class Carriers.
+summary: Brewer Corporation receives sufficient materials to construct 30 dockable
+  megaships for the Colonia Bridge route, with phase two planning already underway.
+player_impact: Contributing pilots received payment at Macdonald Settlement and Jaques
+  Station, plus temporary discounts on Drake-class Carriers.
 groups:
 - Brewer Corporation
 topics:
 - corporate expansion
 arc_id: jaques-station
-modern_impact: Colonia continues to grow as a deep-space settlement, offering new opportunities for exploration and colonisation.
+modern_impact: Colonia continues to grow as a deep-space settlement, offering new
+  opportunities for exploration and colonisation.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 00415e84-de28-5d73-b8b5-76445d03be34
+- 55221925-a927-5ecb-acfb-f82d85c25a2a
 ---
+
 
 **Pilots Federation ALERT**
 Twin initiatives in The Alcor and Colonia systems have procured materials to construct new dockable megaships.

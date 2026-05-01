@@ -4,7 +4,8 @@ title: An Interview with Zachary Rackham
 slug: an_interview_with_zachary_rackham
 date: '3308-05-04'
 source: API
-summary: Zachary Rackham discusses his business empire, role in Beta Hydri, and hints at a presidential run in an interview with Sol Today.
+summary: Zachary Rackham discusses his business empire, role in Beta Hydri, and hints
+  at a presidential run in an interview with Sol Today.
 player_impact: Not specifically mentioned — this is a media interview.
 persons:
 - Zachary Rackham
@@ -16,14 +17,20 @@ topics:
 - corporate expansion
 - piracy
 arc_id: federal-politics
-modern_impact: '"I''m deeply flattered by calls to stand as an Independent candidate. But really, an ordinary guy like me as president?" Rackham''s carefully cultivated ''everyman'' persona masked a calculated political ascent, using media interviews to normalise the idea of a corporate trillionaire with a piratical past seeking the Federation''s highest office.'
+modern_impact: '"I''m deeply flattered by calls to stand as an Independent candidate.
+  But really, an ordinary guy like me as president?" Rackham''s carefully cultivated
+  ''everyman'' persona masked a calculated political ascent, using media interviews
+  to normalise the idea of a corporate trillionaire with a piratical past seeking
+  the Federation''s highest office.'
 legacy_weight: 3
 significance: medium
 related_uuids:
+- 4142a139-3275-5ad3-8392-26cd6e4b9594
+- 627f595b-b85f-5e9d-9d4c-9499a93c4487
 - 7751461f-fff8-5e46-b710-f494c50ab069
 - efe02149-f490-5339-979d-49b157ba2caf
-- 627f595b-b85f-5e9d-9d4c-9499a93c4487
 ---
+
 
 Sol Today hosted an interview With the multi-billionaire Zachary Rackham, who is rumoured to be moving into politics.
 From his villa at Lake Rackham, overlooking Homeland’s famous Singing Geysers, The entrepreneur spoke at length on various topics.

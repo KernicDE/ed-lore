@@ -4,8 +4,10 @@ title: The Salvation Stratagem
 slug: the_salvation_stratagem
 date: '3308-07-07'
 source: API
-summary: Salvation reveals the Proteus Wave's strategy of using Guardian artefacts to lure Thargoids to HIP 22460 for annihilation.
-player_impact: Pilots were asked to protect the Bright Sentinel and aid transport of Guardian artefacts to the Proteus Wave site.
+summary: Salvation reveals the Proteus Wave's strategy of using Guardian artefacts
+  to lure Thargoids to HIP 22460 for annihilation.
+player_impact: Pilots were asked to protect the Bright Sentinel and aid transport
+  of Guardian artefacts to the Proteus Wave site.
 persons: []
 groups:
 - Azimuth
@@ -17,14 +19,18 @@ topics:
 - alien contact
 - xenoarchaeology
 arc_id: salvation-azimuth
-modern_impact: Salvation's admission that the Proteus Wave was 'calibrated to interface with one of the extant Thargoid structures' foreshadowed the weapon's ultimate failure, as the Thargoids later used that very interface to turn the weapon against humanity.
+modern_impact: Salvation's admission that the Proteus Wave was 'calibrated to interface
+  with one of the extant Thargoid structures' foreshadowed the weapon's ultimate failure,
+  as the Thargoids later used that very interface to turn the weapon against humanity.
 legacy_weight: 5
 significance: high
 related_uuids:
-- e8461472-4c75-5456-9164-cf415d0cad55
+- 115badf8-6888-50bb-9e06-a538760015df
 - af81ef25-3735-51f4-bd67-5d52721e0376
 - b8b1752e-3808-5805-a594-5fb18505ae4e
+- e8461472-4c75-5456-9164-cf415d0cad55
 ---
+
 
 As the superpowers establish their fleets in the HIP 22460 system, Azimuth Biotech prepares to deliver a decisive blow against the Thargoids.
 A segment from Salvation’s briefing to the anti-xeno taskforce admirals was shared by Azimuth:

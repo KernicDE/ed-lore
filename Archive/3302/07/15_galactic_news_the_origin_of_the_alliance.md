@@ -4,7 +4,9 @@ title: Galactic News  The Origin of the Alliance
 slug: galactic_news_the_origin_of_the_alliance
 date: '3302-07-15'
 source: GitHub
-summary: Historian Sima Kalhana recounts the foundation of the Alliance of Independent Systems in 3230, following a successful revolt in Alioth against Federal corporate price hikes and the subsequent withdrawal of both Federation and Empire.
+summary: Historian Sima Kalhana recounts the foundation of the Alliance of Independent
+  Systems in 3230, following a successful revolt in Alioth against Federal corporate
+  price hikes and the subsequent withdrawal of both Federation and Empire.
 player_impact: None
 persons:
 - Edmund Mahon
@@ -27,7 +29,11 @@ arc_id: alliance-expansion
 modern_impact: Demonstrates the Alliance's growing economic and diplomatic influence.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- cf5e0da0-8492-5703-91cb-940336d1e45f
+- fa32baf7-800b-5d12-a610-230bab4a9569
 ---
+
 
 In a return to Our popular series on significant episodes from human history, noted historian Sima Kalhana discusses the foundation of the Alliance. 
 

@@ -4,7 +4,13 @@ title: Antares Incident Links to VP's Death
 slug: antares_incident_links_to_vps_death
 date: '3301-08-28'
 source: GitHub
-summary: Encrypted data packages automatically sent by Elaine Boyd upon her death revealed a connection between Vice President Nigel Smeaton's death and the Antares Incident. Smeaton was related to a crew member aboard the Highliner Antares, which disappeared 50 years ago. Boyd discovered Smeaton was conducting a private off-the-books investigation into the incident, suspecting sabotage rather than drive component failure. He had spoken to senior officers involved in the original inquiry. Boyd's information implies Smeaton may have been killed to stop his investigation.
+summary: Encrypted data packages automatically sent by Elaine Boyd upon her death
+  revealed a connection between Vice President Nigel Smeaton's death and the Antares
+  Incident. Smeaton was related to a crew member aboard the Highliner Antares, which
+  disappeared 50 years ago. Boyd discovered Smeaton was conducting a private off-the-books
+  investigation into the incident, suspecting sabotage rather than drive component
+  failure. He had spoken to senior officers involved in the original inquiry. Boyd's
+  information implies Smeaton may have been killed to stop his investigation.
 player_impact: None
 persons:
 - Elaine Boyd
@@ -20,10 +26,15 @@ topics:
 - investigation
 - conspiracy
 arc_id: federal-politics
-modern_impact: Major revelation linking the Antares Incident to Vice President Smeaton's death, suggesting a far-reaching conspiracy spanning decades.
+modern_impact: Major revelation linking the Antares Incident to Vice President Smeaton's
+  death, suggesting a far-reaching conspiracy spanning decades.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 250a8de2-2777-572d-b19a-b9f849cf2f06
+- 4f5bb72d-f757-5aea-bac2-311684658508
 ---
+
 
 The case of reporter Elaine Boyd took an unexpected turn today as Several respected newsfeeds, including The Federal Times, received encrypted data packages. It is claimed that these were automatically sent by Elaine Boyd from a public storage server With instructions to be delivered if newsfeeds reported her death. 
 

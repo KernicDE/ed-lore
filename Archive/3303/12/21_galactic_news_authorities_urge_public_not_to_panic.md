@@ -4,8 +4,12 @@ title: Galactic News  Authorities Urge Public Not to Panic
 slug: galactic_news_authorities_urge_public_not_to_panic
 date: '3303-12-21'
 source: GitHub
-summary: Following the Thargoid attacks on three starports in the Pleiades, authorities in the Taygeta system have urged the public not to panic. They encouraged independent pilots to deliver food, water, basic medicines, and natural fabrics to Titan's Daughter and other affected stations. Aegis is investigating why the starports were targeted.
-player_impact: Pilots are encouraged to deliver aid to affected stations and help stabilize the starports.
+summary: Following the Thargoid attacks on three starports in the Pleiades, authorities
+  in the Taygeta system have urged the public not to panic. They encouraged independent
+  pilots to deliver food, water, basic medicines, and natural fabrics to Titan's Daughter
+  and other affected stations. Aegis is investigating why the starports were targeted.
+player_impact: Pilots are encouraged to deliver aid to affected stations and help
+  stabilize the starports.
 persons: []
 groups:
 - Aegis
@@ -20,10 +24,16 @@ topics:
 - safety
 - trade
 arc_id: thargoid-contact
-modern_impact: The plea for calm amid Thargoid starport attacks highlights the psychological toll on civilian populations and the reliance on independent pilots for disaster relief.
+modern_impact: The plea for calm amid Thargoid starport attacks highlights the psychological
+  toll on civilian populations and the reliance on independent pilots for disaster
+  relief.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 85e12da0-e4b7-53d4-99ef-66a822fbd3ac
+- b79f8935-4f73-5ed0-9871-15dbc08111b4
 ---
+
 
 Following The devastating news that the Thargoids have attacked three starports in the Pleiades, Authorities in the Taygeta system, home to One of the affected stations, have released The following statement: 
 

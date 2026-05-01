@@ -4,8 +4,11 @@ title: Galactic News  Barnacles Targeted by Unknown Ships
 slug: galactic_news_barnacles_targeted_by_unknown_ships
 date: '3303-06-04'
 source: GitHub
-summary: Unknown Ships have been observed interacting with barnacles in the Pleiades Sector OI-T c3-7 system, extracting matter with energy beams and causing power loss in nearby ships and SRVs.
-player_impact: Pilots should exercise extreme caution near barnacle sites in the Pleiades, as Unknown Ships can cause spontaneous power loss.
+summary: Unknown Ships have been observed interacting with barnacles in the Pleiades
+  Sector OI-T c3-7 system, extracting matter with energy beams and causing power loss
+  in nearby ships and SRVs.
+player_impact: Pilots should exercise extreme caution near barnacle sites in the Pleiades,
+  as Unknown Ships can cause spontaneous power loss.
 persons: []
 groups: []
 locations:
@@ -14,10 +17,15 @@ locations:
 technologies:
 - SRV
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy trade drives economic and military activity in the Pleiades region.
+modern_impact: The barnacle/meta-alloy trade drives economic and military activity
+  in the Pleiades region.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 87225afc-b3b3-53e4-a8e5-318408de14ef
+- eeb77abe-1d4f-5e59-92b4-50183b92cb62
 ---
+
 
 Recent reports from The Pleiades Sector OI-T c3-7 system indicate that the so-called Unknown Ships have begun interacting With the region’s barnacles. 
 

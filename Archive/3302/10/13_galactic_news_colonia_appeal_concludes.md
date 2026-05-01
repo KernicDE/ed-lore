@@ -4,8 +4,12 @@ title: Galactic News  Colonia Appeal Concludes
 slug: galactic_news_colonia_appeal_concludes
 date: '3302-10-13'
 source: GitHub
-summary: Latugara PLC announced that its four-week campaign to establish outposts between the Colonia Nebula and the core systems was successful, with the galactic community delivering huge quantities of materials to Love Orbital in the Latugara system.
-player_impact: Pilots who contributed can collect rewards from Love Orbital in the Latugara system.
+summary: Latugara PLC announced that its four-week campaign to establish outposts
+  between the Colonia Nebula and the core systems was successful, with the galactic
+  community delivering huge quantities of materials to Love Orbital in the Latugara
+  system.
+player_impact: Pilots who contributed can collect rewards from Love Orbital in the
+  Latugara system.
 persons: []
 groups:
 - Latugara PLC
@@ -18,10 +22,15 @@ topics:
 - war
 technologies: []
 arc_id: jaques-station
-modern_impact: Establishment of the Colonia outpost network creates a permanent travel corridor to the deep-space frontier, enabling sustained colonisation.
+modern_impact: Establishment of the Colonia outpost network creates a permanent travel
+  corridor to the deep-space frontier, enabling sustained colonisation.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 09a290af-4a3e-5721-bbf2-fd0474291d43
+- ba748a67-440a-56c4-a60e-15fa46348bd3
 ---
+
 
 It has been four weeks since The Latugara PLC announced plans to establish a series of outposts between the burgeoning Colonia Nebula community and the core of human-inhabited space. 
 

@@ -26,8 +26,11 @@ modern_impact: Hudson's framing of the disaster as purely Thargoid aggression, c
   for the HIP 22460 catastrophe.
 legacy_weight: 5
 significance: high
-related_uuids: []
+related_uuids:
+- 7cc33ea4-c770-5e4b-8a0e-bd75d0d19c24
+- 9d9d6dfc-c38b-5477-93e7-fad46cf6cdf1
 ---
+
 
 
 President Zachary Hudson has announced that today is a Federal day of remembrance for those lost in HIP 22460 on August 9th.

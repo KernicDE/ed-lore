@@ -4,7 +4,12 @@ title: Alliance Admiral Murdered by League of Reparation
 slug: alliance_admiral_murdered_by_league_of_reparation
 date: '3304-05-17'
 source: GitHub
-summary: Fleet Admiral Tulimaq Buchanan of the Alliance Council of Admirals has been murdered by the League of Reparation. His vessel was attacked en route to a naval ceremony at Lave Station. The League transmitted a message claiming the attack was due to Buchanan's ancestor being a senior INRA commander. Chief Inspector Kay Kilbride confirmed the investigation continues, with evidence suggesting League assassins are aided by sympathetic insiders.
+summary: Fleet Admiral Tulimaq Buchanan of the Alliance Council of Admirals has been
+  murdered by the League of Reparation. His vessel was attacked en route to a naval
+  ceremony at Lave Station. The League transmitted a message claiming the attack was
+  due to Buchanan's ancestor being a senior INRA commander. Chief Inspector Kay Kilbride
+  confirmed the investigation continues, with evidence suggesting League assassins
+  are aided by sympathetic insiders.
 player_impact: None explicitly stated.
 persons:
 - Tulimaq Buchanan
@@ -24,10 +29,15 @@ topics:
 - investigation
 - terrorism
 arc_id: inra-exposed
-modern_impact: Revelations about INRA's dark history reshape public understanding of the Thargoid conflict and superpower accountability.
+modern_impact: Revelations about INRA's dark history reshape public understanding
+  of the Thargoid conflict and superpower accountability.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 1ca3cd15-8700-5e94-95fd-88bb1b7effa3
+- 3f9a5fbe-232a-5154-ad44-a485d7871a06
 ---
+
 
 A member of The Council of Admirals, Which commands the Alliance Defence Force, has been murdered. The League of Reparation has claimed responsibility. 
 

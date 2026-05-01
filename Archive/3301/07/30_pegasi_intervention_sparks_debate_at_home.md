@@ -4,8 +4,16 @@ title: Pegasi Intervention Sparks Debate at Home
 slug: pegasi_intervention_sparks_debate_at_home
 date: '3301-07-30'
 source: GitHub
-summary: Unaffiliated supporters of Arissa Lavigny-Duval voiced concerns over escalating Pegasi Sector intervention by Lavigny's Legion. Opinion in Kamadhenu is split on the value of intervening in a remote region. Some commanders argue the Empire should address corruption and dictatorships at home first. Anger erupted over diplomatic overtures to the Federation, though Lavigny's Legion denied involvement. Aisling's Angels confirmed their attendance at talks with Federal envoys. Anti-Federation sentiment resurfaced, with reports of at least one commander plotting a course to Sol in response.
-player_impact: Imperial pilots should be aware of domestic political tensions surrounding cooperation with Federation forces in the Pegasi sector.
+summary: Unaffiliated supporters of Arissa Lavigny-Duval voiced concerns over escalating
+  Pegasi Sector intervention by Lavigny's Legion. Opinion in Kamadhenu is split on
+  the value of intervening in a remote region. Some commanders argue the Empire should
+  address corruption and dictatorships at home first. Anger erupted over diplomatic
+  overtures to the Federation, though Lavigny's Legion denied involvement. Aisling's
+  Angels confirmed their attendance at talks with Federal envoys. Anti-Federation
+  sentiment resurfaced, with reports of at least one commander plotting a course to
+  Sol in response.
+player_impact: Imperial pilots should be aware of domestic political tensions surrounding
+  cooperation with Federation forces in the Pegasi sector.
 persons:
 - Arissa Lavigny-Duval
 - Felicia Winters
@@ -26,10 +34,16 @@ topics:
 - war
 - politics
 arc_id: kumo-crew-rise
-modern_impact: Debate over Pegasi intervention reveals deep anti-Federation sentiment among Imperial commanders and questions about prioritising foreign wars over domestic reform.
+modern_impact: Debate over Pegasi intervention reveals deep anti-Federation sentiment
+  among Imperial commanders and questions about prioritising foreign wars over domestic
+  reform.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 81c800a0-c293-5c53-b69d-026625eb2c71
+- c11f54b8-3786-547f-b7d8-dbed606bfd8e
 ---
+
 
 Unaffiliated supporters of Arissa Lavigny-Duval have today voiced concerns at rumours of an escalating intervention in The Pegasi Sector on The part of Lavigny's Legion. 
 

@@ -4,8 +4,10 @@ title: A Retrospective of 3308 (Part Two)
 slug: a_retrospective_of_3308_part_two
 date: '3308-12-30'
 source: API
-summary: Sima Kalhana continues her review of the most significant historical events that occurred during the past year.
-player_impact: Independent pilots were tasked with delivering commodities to support the operation.
+summary: Sima Kalhana continues her review of the most significant historical events
+  that occurred during the past year.
+player_impact: Independent pilots were tasked with delivering commodities to support
+  the operation.
 persons:
 - Archon Delaine
 - Caleb Wycherley
@@ -32,16 +34,21 @@ topics:
 - war
 - xenoarchaeology
 arc_id: salvation-azimuth
-modern_impact: '"In May 3308, the Thargoid invasions of the Didio, Novas and Sosong systems were completely repelled by the use of Sal..." Looking back, the events of 3308 set the stage for the protracted conflict that followed.'
+modern_impact: '"In May 3308, the Thargoid invasions of the Didio, Novas and Sosong
+  systems were completely repelled by the use of Sal..." Looking back, the events
+  of 3308 set the stage for the protracted conflict that followed.'
 legacy_weight: 5
 significance: high
 related_uuids:
-- bd5a1074-4db4-556d-bd6d-4207d963ce10
-- 4e1477c4-93b5-5496-a2b9-86e95c248866
-- f7438e0e-89eb-5e2d-b974-7147bf67d4b1
-- 0c37c634-123c-5ee7-9616-d3f4b4263c90
 - 0c21bfb7-e2b2-5928-8ca2-d5f1e93df3e0
+- 0c37c634-123c-5ee7-9616-d3f4b4263c90
+- 0c514af1-cce9-52ce-aff4-3a4ffa849f27
+- 4e1477c4-93b5-5496-a2b9-86e95c248866
+- 68d67987-f586-5c3e-b52e-608926db50ba
+- bd5a1074-4db4-556d-bd6d-4207d963ce10
+- f7438e0e-89eb-5e2d-b974-7147bf67d4b1
 ---
+
 
 Sima Kalhana continues her review of the most significant historical events that occurred during the past year.
 “In May 3308, the Thargoid invasions of the Didio, Novas and Sosong systems were completely repelled by the use of Salvation’s unique superweapons. This convinced the Alliance, Empire and Federation to support Azimuth Biotech in developing this Guardian-based technology, with Salvation claiming that he could end the Thargoid threat forever.”

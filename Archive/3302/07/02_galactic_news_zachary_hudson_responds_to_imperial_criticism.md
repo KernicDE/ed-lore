@@ -4,7 +4,10 @@ title: Galactic News  Zachary Hudson Responds to Imperial Criticism
 slug: galactic_news_zachary_hudson_responds_to_imperial_criticism
 date: '3302-07-02'
 source: GitHub
-summary: Federal President Zachary Hudson defended the deployment of Farragut Battle Cruisers in the Merope system, stating that the Federal presence is solely intended to protect the barnacles from exploitation. The statement follows criticism from Senator Zemina Torval.
+summary: Federal President Zachary Hudson defended the deployment of Farragut Battle
+  Cruisers in the Merope system, stating that the Federal presence is solely intended
+  to protect the barnacles from exploitation. The statement follows criticism from
+  Senator Zemina Torval.
 player_impact: None
 persons:
 - Zachary Hudson
@@ -20,10 +23,15 @@ topics:
 technologies:
 - Farragut Battle Cruiser
 arc_id: thargoid-contact
-modern_impact: Establishes the Federation's official narrative of protective stewardship over barnacle sites, framing the conflict as conservation rather than resource grab.
+modern_impact: Establishes the Federation's official narrative of protective stewardship
+  over barnacle sites, framing the conflict as conservation rather than resource grab.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 58e7d2d7-d1e1-5803-9eb0-c3b155720e78
+- 65c10475-4649-5785-a295-14f5b5139229
 ---
+
 
 Yesterday, The Empire joined the debate over the Federation's decision to deploy Farragut Battle Cruisers in the Merope system. In a statement, Senator Zemina Torval asserted that the use of Federal warships represented an attempt to claim possession of the non-human structures, commonly known as barnacles, Found in Merope. 
 

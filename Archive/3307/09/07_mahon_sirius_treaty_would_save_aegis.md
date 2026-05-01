@@ -4,7 +4,9 @@ title: 'Mahon: Sirius Treaty Would Save Aegis'
 slug: mahon_sirius_treaty_would_save_aegis
 date: '3307-09-07'
 source: API
-summary: Prime Minister Edmund Mahon expresses regret that the Sirius Treaty failed at the Galactic Summit, arguing it would have provided Aegis the resources to avoid a public inquiry.
+summary: Prime Minister Edmund Mahon expresses regret that the Sirius Treaty failed
+  at the Galactic Summit, arguing it would have provided Aegis the resources to avoid
+  a public inquiry.
 player_impact: None
 persons:
 - Edmund Mahon
@@ -17,10 +19,15 @@ topics:
 - diplomacy
 - investigation
 arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape and drives anti-xeno defence efforts.
+modern_impact: Thargoid activity fundamentally changes the galactic security landscape
+  and drives anti-xeno defence efforts.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 2f5b7929-53b6-5161-a9a3-67293681c406
+- 444b7db4-6eb6-5dad-ab30-c5e2be2719f8
 ---
+
 
 Prime Minister Edmund Mahon has commented on The Aegis inquiry and his failed proposal to unify anti-xeno operations.
 As part of an interview With the Alliance Tribune, he said:

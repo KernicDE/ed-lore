@@ -4,8 +4,12 @@ title: Anti Thargoid Megaships Deployed by Aegis
 slug: anti_thargoid_megaships_deployed_by_aegis
 date: '3304-03-31'
 source: GitHub
-summary: Aegis has constructed two megaships, the Acropolis and the Vanguard, to coordinate anti-Thargoid operations and support independent pilots. Admiral Aden Tanner announced the Acropolis has been dispatched to Lunguni while the Vanguard operates in Mentor, but both will periodically relocate for strategic effectiveness.
-player_impact: Pilots can use the Acropolis and Vanguard as mobile coordination points for anti-Thargoid operations.
+summary: Aegis has constructed two megaships, the Acropolis and the Vanguard, to coordinate
+  anti-Thargoid operations and support independent pilots. Admiral Aden Tanner announced
+  the Acropolis has been dispatched to Lunguni while the Vanguard operates in Mentor,
+  but both will periodically relocate for strategic effectiveness.
+player_impact: Pilots can use the Acropolis and Vanguard as mobile coordination points
+  for anti-Thargoid operations.
 persons:
 - Aden Tanner
 groups:
@@ -21,10 +25,15 @@ topics:
 - ship
 - war
 arc_id: thargoid-contact
-modern_impact: The Acropolis and Vanguard megaships establish Aegis's mobile command capability, allowing rapid response to Thargoid incursions across multiple systems.
+modern_impact: The Acropolis and Vanguard megaships establish Aegis's mobile command
+  capability, allowing rapid response to Thargoid incursions across multiple systems.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 797e13f9-3fab-5ab8-b393-b0e70211d0b7
+- a4e37086-881f-5440-95b3-8b5dcb2efcb3
 ---
+
 
 Aegis has constructed two megaships, The Acropolis and the Vanguard, to help counter the Thargoid threat.  
 

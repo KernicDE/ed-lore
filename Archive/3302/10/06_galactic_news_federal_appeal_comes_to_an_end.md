@@ -4,8 +4,12 @@ title: Galactic News  Federal Appeal Comes to an End
 slug: galactic_news_federal_appeal_comes_to_an_end
 date: '3302-10-06'
 source: GitHub
-summary: The Federation announced that its campaign to construct a new outpost in the Maia system received enthusiastic support from hundreds of pilots who delivered construction materials to Obsidian Orbital. The Pleiades Resource Enterprise stated the outpost will help oppose Imperial efforts to control barnacles and meta-alloys.
-player_impact: Pilots who contributed can collect rewards from Obsidian Orbital in the Maia system.
+summary: The Federation announced that its campaign to construct a new outpost in
+  the Maia system received enthusiastic support from hundreds of pilots who delivered
+  construction materials to Obsidian Orbital. The Pleiades Resource Enterprise stated
+  the outpost will help oppose Imperial efforts to control barnacles and meta-alloys.
+player_impact: Pilots who contributed can collect rewards from Obsidian Orbital in
+  the Maia system.
 persons: []
 groups:
 - Federation
@@ -18,10 +22,15 @@ topics:
 - war
 technologies: []
 arc_id: barnacle-meta-alloy
-modern_impact: Federal expansion into Maia to secure meta-alloy sources escalates superpower competition in the Pleiades and fuels the emerging Thargoid contact narrative.
+modern_impact: Federal expansion into Maia to secure meta-alloy sources escalates
+  superpower competition in the Pleiades and fuels the emerging Thargoid contact narrative.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 5d03d467-ee45-5527-9bce-0f7208fb19fe
+- b043d343-7151-5325-81dd-d1a9dc244f64
 ---
+
 
 The Federation has announced that Its campaign to construct a new outpost in the Maia system has received the enthusiastic support of the galactic community. Hundreds of pilots responded to the appeal for construction materials by delivering auto fabricators, titanium, and power generators to Obsidian Orbital in Maia. 
 

@@ -4,7 +4,12 @@ title: Independent Pilots Respond to Thargoid Revelations
 slug: independent_pilots_respond_to_thargoid_revelations
 date: '3304-04-01'
 source: GitHub
-summary: Following the recent Aegis report on Thargoid history, members of the Pilots' Federation have made public statements expressing fear, practical concerns about trade impacts, existential dread about exploration, and defiant resolve. Some commanders were disturbed to learn Thargoids have existed for millions of years and that the Guardians struggled to stop them. Others struck a belligerent tone, citing Aegis's new weapons and megaships as reasons for confidence.
+summary: Following the recent Aegis report on Thargoid history, members of the Pilots'
+  Federation have made public statements expressing fear, practical concerns about
+  trade impacts, existential dread about exploration, and defiant resolve. Some commanders
+  were disturbed to learn Thargoids have existed for millions of years and that the
+  Guardians struggled to stop them. Others struck a belligerent tone, citing Aegis's
+  new weapons and megaships as reasons for confidence.
 player_impact: None explicitly stated.
 persons: []
 groups:
@@ -18,10 +23,15 @@ topics:
 - trade
 - xenoarchaeology
 arc_id: thargoid-contact
-modern_impact: The Aegis report on Thargoid history provoked diverse reactions among pilots, from existential anxiety to renewed determination to fight.
+modern_impact: The Aegis report on Thargoid history provoked diverse reactions among
+  pilots, from existential anxiety to renewed determination to fight.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 797e13f9-3fab-5ab8-b393-b0e70211d0b7
+- 7e02cc99-1592-5c72-9d0f-c3be3b0a7b6f
 ---
+
 
 Following The recent Aegis report detailing the Thargoids’ history, Many members of the Pilots Federation have made public statements. 
 

@@ -1,5 +1,4 @@
 ---
-
 uuid: 8c557ef9-1907-5ed6-9f26-15ed0fe1c69a
 title: Community Goal  Rogue Runners Appeal
 slug: community_goal_rogue_runners_appeal
@@ -31,7 +30,11 @@ modern_impact: The Rogue Runners' meta-alloy reinforced asteroid base demonstrat
   civilian efforts to harden infrastructure against Thargoid interference.
 legacy_weight: 5
 significance: high
+related_uuids:
+- cf53e45d-7dec-5f10-9b5d-6b07fa7c53e0
+- e5991f62-a55a-56ce-9547-b21cef5dfef3
 ---
+
 
 
 The Rogue Runners, an Independent group based in the Run system, have announced plans to restore and expand Leif Enterprise, an asteroid base in their home system. The organisation has expressed hope that the renovated base will become a manufacturing centre for high-end ships and modules. 

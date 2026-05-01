@@ -30,7 +30,11 @@ modern_impact: Conspiracy theories about Starship One's disappearance persist de
   official rulings, with some groups suspecting alien involvement or Federal cover-up.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 017b4b13-508b-5372-be29-f4c3521d0d30
+- fc7e283c-7f21-59e2-ab99-16941d424548
 ---
+
 
 
 While The Federation considers President Halsey’s disappearance an open and shut case, some groups still doubt The official story. The Knights of the Black, whose members have sworn to defend all human systems against alien aggression, is One such group. 

@@ -4,8 +4,10 @@ title: Thargoids Devastate Witch Head Enclave
 slug: thargoids_devastate_witch_head_enclave
 date: '3309-02-16'
 source: API
-summary: Thargoid fleets overrun populated systems in the Witch Head Nebula, destroying starports and leaving tens of thousands of casualties.
-player_impact: Pilots were desperately requested to provide immediate reinforcements and support to the Alliance Expeditionary Pact in the Witch Head Enclave.
+summary: Thargoid fleets overrun populated systems in the Witch Head Nebula, destroying
+  starports and leaving tens of thousands of casualties.
+player_impact: Pilots were desperately requested to provide immediate reinforcements
+  and support to the Alliance Expeditionary Pact in the Witch Head Enclave.
 persons:
 - Chloe Sedesi
 - Warren Lamar
@@ -24,13 +26,18 @@ topics:
 - war
 entities: []
 arc_id: thargoid-titan-war
-modern_impact: 'Chloe Sedesi transmitted: "...emergency SOS from the Shenve system. The Thargoids... full-scale invasion. They''ve hit us hard." This harrowing testimony captures the unprecedented scale of the Titan War''s frontier assaults, where even remote nebula colonies faced total annihilation far from core system rescue services.'
+modern_impact: 'Chloe Sedesi transmitted: "...emergency SOS from the Shenve system.
+  The Thargoids... full-scale invasion. They''ve hit us hard." This harrowing testimony
+  captures the unprecedented scale of the Titan War''s frontier assaults, where even
+  remote nebula colonies faced total annihilation far from core system rescue services.'
 legacy_weight: 5
 significance: high
 related_uuids:
 - 201a0a31-f461-5ded-a815-a7b9c289c352
 - 40d9b854-2973-5053-a42d-6955f8876544
+- 69df1032-f6ec-58b2-9b05-cbcb3c243462
 ---
+
 
 **Pilots’ Federation ALERT**
 Populated systems in the Witch Head Nebula have been overrun by Thargoid fleets, resulting in widespread chaos.

@@ -4,8 +4,15 @@ title: The War for Falisci
 slug: the_war_for_falisci
 date: '3301-03-07'
 source: GitHub
-summary: Senator Patreus and the Citizens of Tradition successfully defeated the Falisci Purple Gang, assimilating Falisci into Imperial society. Imperial veterans can collect payments from Dornier Terminal in Ngaiawang. Senator Torval offered a 10% discount on Imperial slaves at Dornier Terminal to celebrate. However, civil war is brewing between the Citizens of Tradition and the Federal Social Falisci Partnership Party over Phillips Landing, potentially allowing Federation control.
-player_impact: Pilots can collect veteran payments at Dornier Terminal in Ngaiawang. The civil war for Phillips Landing offers opportunities to support either Imperial or Federal forces.
+summary: Senator Patreus and the Citizens of Tradition successfully defeated the Falisci
+  Purple Gang, assimilating Falisci into Imperial society. Imperial veterans can collect
+  payments from Dornier Terminal in Ngaiawang. Senator Torval offered a 10% discount
+  on Imperial slaves at Dornier Terminal to celebrate. However, civil war is brewing
+  between the Citizens of Tradition and the Federal Social Falisci Partnership Party
+  over Phillips Landing, potentially allowing Federation control.
+player_impact: Pilots can collect veteran payments at Dornier Terminal in Ngaiawang.
+  The civil war for Phillips Landing offers opportunities to support either Imperial
+  or Federal forces.
 persons:
 - Denton Patreus
 - Zemina Torval
@@ -22,10 +29,15 @@ topics:
 - slavery
 - war
 arc_id: falisci-conflict
-modern_impact: The Falisci conflict demonstrates Senator Patreus's aggressive expansionist policies and the Federation's attempts to counter them through proxy forces.
+modern_impact: The Falisci conflict demonstrates Senator Patreus's aggressive expansionist
+  policies and the Federation's attempts to counter them through proxy forces.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 36f13a15-f037-506b-ad4b-197f2accdad6
+- 9e706bb4-1757-5c30-bfc7-fb75bc04c06d
 ---
+
 
 Senator Patreus and The Citizens of Tradition have been successful in their crusade against the Falisci Purple Gang. Falisci has fallen to Imperial forces and is currently in the process of being assimilated into Imperial society.  
 

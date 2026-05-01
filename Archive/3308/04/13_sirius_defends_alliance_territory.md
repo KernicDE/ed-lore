@@ -4,8 +4,10 @@ title: Sirius Defends Alliance Territory
 slug: sirius_defends_alliance_territory
 date: '3308-04-13'
 source: API
-summary: Sirius Corporation deploys megaships to the Coalsack and Witch Head Nebulas to provide anti-xeno support for the Alliance.
-player_impact: Pilots were invited to use Sirius megaships as bases for anti-xeno operations.
+summary: Sirius Corporation deploys megaships to the Coalsack and Witch Head Nebulas
+  to provide anti-xeno support for the Alliance.
+player_impact: Pilots were invited to use Sirius megaships as bases for anti-xeno
+  operations.
 persons:
 - Nikolas Glass
 groups:
@@ -24,13 +26,20 @@ topics:
 - corporate expansion
 - engineering
 arc_id: thargoid-titan-war
-modern_impact: '"The Coalsack Nebula and Witch Head Nebula regions are where Alliance interests are most at risk from Thargoid attack." Sirius Corporation''s deployment demonstrated its military capabilities during the trial period of the Alliance strategic defence pact, foreshadowing the deepening corporate-military entanglement in Allied space.'
+modern_impact: '"The Coalsack Nebula and Witch Head Nebula regions are where Alliance
+  interests are most at risk from Thargoid attack." Sirius Corporation''s deployment
+  demonstrated its military capabilities during the trial period of the Alliance strategic
+  defence pact, foreshadowing the deepening corporate-military entanglement in Allied
+  space.'
 legacy_weight: 5
 significance: high
 related_uuids:
-- b391da8e-90b1-55d8-88e0-8ad93ae52300
+- 04bfcfe5-65d6-5e23-8e51-a76f0a139c5f
 - 6632e17b-34c6-59ea-9191-ec8d4d51ea1e
+- 86fd77a5-fe24-5aa6-8723-a7e34b021f3d
+- b391da8e-90b1-55d8-88e0-8ad93ae52300
 ---
+
 
 **Pilots’ Federation ALERT**
 Sirius Corporation megaships will soon arrive in The Coalsack and Witch Head Nebulas to provide anti-xeno support.

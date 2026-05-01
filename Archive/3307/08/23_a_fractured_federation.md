@@ -4,7 +4,9 @@ title: A Fractured Federation
 slug: a_fractured_federation
 date: '3307-08-23'
 source: API
-summary: Shadow President Felicia Winters warns that further Federal secessions could severely damage the Federation, while Vice President Jerome Archer defends the Proactive Detection Bureau.
+summary: Shadow President Felicia Winters warns that further Federal secessions could
+  severely damage the Federation, while Vice President Jerome Archer defends the Proactive
+  Detection Bureau.
 player_impact: None
 persons:
 - Felicia Winters
@@ -16,10 +18,15 @@ topics:
 - independence
 - war
 arc_id: federal-politics
-modern_impact: Federal political developments shape superpower relations and civil liberties debates.
+modern_impact: Federal political developments shape superpower relations and civil
+  liberties debates.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 0423bd7c-672e-5fcd-a6af-1ac17e44143d
+- bd87f0fa-dc2d-5690-99a0-51fe2e25923b
 ---
+
 
 Shadow President Felicia Winters has claimed that Further systems declaring Independence could severely damage The Federation.
 Her statement was in response to The conflict in the Kuwembaa system, Which resulted in more Federal factions seceding from the superpower. Dozens of others are now openly considering breaking away and becoming Independent.

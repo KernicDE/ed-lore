@@ -4,7 +4,9 @@ title: Galactic News  Superpowers Respond to Strange Sightings
 slug: galactic_news_superpowers_respond_to_strange_sightings
 date: '3303-01-13'
 source: GitHub
-summary: Superpower leaders release official statements regarding mysterious spacecraft sightings. Emperor Arissa Lavigny-Duval urges caution, President Zachary Hudson calls for preparedness, and Prime Minister Edmund Mahon advocates further investigation.
+summary: Superpower leaders release official statements regarding mysterious spacecraft
+  sightings. Emperor Arissa Lavigny-Duval urges caution, President Zachary Hudson
+  calls for preparedness, and Prime Minister Edmund Mahon advocates further investigation.
 player_impact: None
 persons:
 - Arissa Lavigny-Duval
@@ -23,10 +25,15 @@ topics:
 - war
 technologies: []
 arc_id: thargoid-contact
-modern_impact: Divergent superpower responses to first Thargoid sightings reveal differing strategic postures toward alien contact.
+modern_impact: Divergent superpower responses to first Thargoid sightings reveal differing
+  strategic postures toward alien contact.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 8723ca76-c4d7-5a07-b3b0-f61018e51bd3
+- b51fe639-2e23-559a-9233-69f8a51976eb
 ---
+
 
 Following Several sightings of mysterious spacecraft, The leaders of the galaxy's three superpowers have released official statements. 
 

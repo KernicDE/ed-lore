@@ -4,8 +4,14 @@ title: From Dreams to Reality
 slug: from_dreams_to_reality
 date: '3301-10-22'
 source: GitHub
-summary: The Explorer's Association, supported by Brewer Corporation, Pacap Limited, and Universal Cartographics, announced the beginning of starport construction in the Pleiades Nebula. The first phase requires metal deliveries to Neville Horizons in Kaushpoos to build the station superstructure. The project aims to create a reliable resupply point for deep-space explorers.
-player_impact: Pilots can deliver metals to Neville Horizons in Kaushpoos to contribute to the first deep-space starport in the Pleiades Nebula. This community goal offers generous premiums and advances human expansion into uninhabited space.
+summary: The Explorer's Association, supported by Brewer Corporation, Pacap Limited,
+  and Universal Cartographics, announced the beginning of starport construction in
+  the Pleiades Nebula. The first phase requires metal deliveries to Neville Horizons
+  in Kaushpoos to build the station superstructure. The project aims to create a reliable
+  resupply point for deep-space explorers.
+player_impact: Pilots can deliver metals to Neville Horizons in Kaushpoos to contribute
+  to the first deep-space starport in the Pleiades Nebula. This community goal offers
+  generous premiums and advances human expansion into uninhabited space.
 groups:
 - Brewer Corporation
 - Explorer's Association
@@ -19,10 +25,15 @@ topics:
 - construction
 - exploration
 arc_id: pleiades-expansion
-modern_impact: First deep-space starport construction in the Pleiades Nebula, opening new frontiers for exploration and potentially first contact.
+modern_impact: First deep-space starport construction in the Pleiades Nebula, opening
+  new frontiers for exploration and potentially first contact.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- db64d9bc-0b05-540c-8b4a-bb5c228f4b93
+- fb859302-3d0f-5a84-84a2-c4708da965c6
 ---
+
 
 For The past few months, a development group founded by the Explorer's Association has been working on plans to build a starport in the Pleiades Nebula. Now, it appears the plans are about to become reality. A spokesperson from the Explorer's Association made The following statement: 
 

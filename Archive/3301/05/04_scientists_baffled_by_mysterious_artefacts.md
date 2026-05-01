@@ -4,8 +4,15 @@ title: Scientists Baffled by Mysterious Artefacts
 slug: scientists_baffled_by_mysterious_artefacts
 date: '3301-05-04'
 source: GitHub
-summary: Dr. Arcanonn and the Canonn team successfully recovered an Unknown Artefact from a Federal Navy convoy after dozens of commanders participated in a system-wide hunt. CMDR Red Wizzard recovered the artefact, though the entire convoy perished. Scientists near Timocani are analysing the object, which defies all sampling attempts and emits radiation that damages ship systems. Arcanonn warns pilots to travel in wings when hunting artefacts.
-player_impact: Pilots can participate in artefact hunts but must travel in wings due to radiation-induced module failure. The artefacts may hold clues to curing the people of He Bo.
+summary: Dr. Arcanonn and the Canonn team successfully recovered an Unknown Artefact
+  from a Federal Navy convoy after dozens of commanders participated in a system-wide
+  hunt. CMDR Red Wizzard recovered the artefact, though the entire convoy perished.
+  Scientists near Timocani are analysing the object, which defies all sampling attempts
+  and emits radiation that damages ship systems. Arcanonn warns pilots to travel in
+  wings when hunting artefacts.
+player_impact: Pilots can participate in artefact hunts but must travel in wings due
+  to radiation-induced module failure. The artefacts may hold clues to curing the
+  people of He Bo.
 persons:
 - Dr. Arcanonn
 - CMDR Red Wizzard
@@ -20,10 +27,14 @@ technologies:
 topics:
 - research
 arc_id: unknown-artefacts
-modern_impact: First successful recovery and scientific study of an Unknown Artefact, marking the beginning of organised alien artefact research.
+modern_impact: First successful recovery and scientific study of an Unknown Artefact,
+  marking the beginning of organised alien artefact research.
 legacy_weight: 4
 significance: high
+related_uuids:
+- aec9d33c-4ebd-52fa-a92d-a554a732713c
 ---
+
 
 Thanks to The efforts of Dozens of Commanders taking part In a hunt across Hundreds of systems, Dr. Arcannon and his team are delighted to announce that they have finally managed to retrieve an Unknown Artefact. 
 

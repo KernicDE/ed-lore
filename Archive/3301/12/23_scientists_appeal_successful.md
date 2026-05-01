@@ -4,7 +4,9 @@ title: Scientist's Appeal Successful
 slug: scientists_appeal_successful
 date: '3301-12-23'
 source: GitHub
-summary: Professor Ishmael Palin announces that his appeal for evacuation shelters to establish a research outpost on Maia b1ba was successful, and the new base should be operational within a week.
+summary: Professor Ishmael Palin announces that his appeal for evacuation shelters
+  to establish a research outpost on Maia b1ba was successful, and the new base should
+  be operational within a week.
 player_impact: None
 persons:
 - Ishmael Palin
@@ -17,10 +19,15 @@ topics:
 technologies:
 - evacuation shelters
 arc_id: unknown-artefacts
-modern_impact: Advances understanding of the mysterious alien artefacts and their threat to station infrastructure.
+modern_impact: Advances understanding of the mysterious alien artefacts and their
+  threat to station infrastructure.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 892e2bc9-cd3f-52df-ae01-81026168dbe0
+- f078dbe6-f827-5d17-bfd0-2bf7b1be7c97
 ---
+
 
 Last week, Professor Ishmael Palin issued a request for evacuation shelters With Which to establish a new research outpost on Maia b1ba in The Maia system. Today, Professor Palin announced that the request had been positively received by the galactic community, and that he and his team were now In a position to start work on their new base of operations. 
 

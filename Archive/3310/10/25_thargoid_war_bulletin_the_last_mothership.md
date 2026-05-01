@@ -4,8 +4,12 @@ title: 'Thargoid War Bulletin: The Last Mothership'
 slug: thargoid_war_bulletin_the_last_mothership
 date: '3310-10-25'
 source: API
-summary: Titan Raijin is destroyed in the Pegasi Sector, leaving only Cocijo as the last operational Thargoid Titan. Aden Tanner warns that the Thargoids may respond with unknown weaponry or tactics.
-player_impact: Pilots destroyed Titan Raijin in the Pegasi Sector, then travelled to systems surrounding Col 285 Sector BA-P c6-18 to prepare for the final assault on Titan Cocijo.
+summary: Titan Raijin is destroyed in the Pegasi Sector, leaving only Cocijo as the
+  last operational Thargoid Titan. Aden Tanner warns that the Thargoids may respond
+  with unknown weaponry or tactics.
+player_impact: Pilots destroyed Titan Raijin in the Pegasi Sector, then travelled
+  to systems surrounding Col 285 Sector BA-P c6-18 to prepare for the final assault
+  on Titan Cocijo.
 persons:
 - Aden Tanner
 groups:
@@ -21,13 +25,20 @@ topics:
 technologies:
 - Guardian nanite torpedo
 arc_id: thargoid-titan-war
-modern_impact: Tanner's statement that 'Aegis was even drawing up long-term strategies based around them being permanently present in human space' reveals how dramatically pilot efforts have exceeded military expectations. His caution — 'We cannot tell how the Thargoids will respond to the loss of their last mothership' — proves prescient when Cocijo flees toward Sol rather than fighting to the death in Col 285 Sector.
+modern_impact: Tanner's statement that 'Aegis was even drawing up long-term strategies
+  based around them being permanently present in human space' reveals how dramatically
+  pilot efforts have exceeded military expectations. His caution — 'We cannot tell
+  how the Thargoids will respond to the loss of their last mothership' — proves prescient
+  when Cocijo flees toward Sol rather than fighting to the death in Col 285 Sector.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 45d252a0-9caf-52f2-8438-4c6c2efabc37
+- 5040d867-0b8b-5258-b6fd-b58753e6a24d
 - 5577d259-b0ea-5583-bd87-af53e524c4db
+- f1d3e243-2009-5cfe-99b9-8ed22b563463
 ---
+
 
 Titan Raijin in the Pegasi Sector IH-U b3-3 system has been destroyed, leaving only Cocijo still operational.
 Aden Tanner, anti-xeno strategist for Aegis, provided a brief statement:

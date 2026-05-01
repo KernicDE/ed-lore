@@ -4,8 +4,13 @@ title: Peace and Prosperity through Production
 slug: peace_and_prosperity_through_production
 date: '3301-07-03'
 source: GitHub
-summary: Simguru Pranav Antal unveiled Utopia's plans to combat the Kumo Crew in the Pegasi sector at a meeting aboard Yolen Hub in HIP 116213. Utopian followers demonstrated Enforcer Cannon technology by destroying an Anaconda in under a minute outside the station's no-fire zone, sending a clear message that Utopians will defend their communes despite their peaceful philosophy.
-player_impact: Utopian-aligned pilots can use Enforcer Cannons to defend against pirate attacks in Pegasi sector systems.
+summary: Simguru Pranav Antal unveiled Utopia's plans to combat the Kumo Crew in the
+  Pegasi sector at a meeting aboard Yolen Hub in HIP 116213. Utopian followers demonstrated
+  Enforcer Cannon technology by destroying an Anaconda in under a minute outside the
+  station's no-fire zone, sending a clear message that Utopians will defend their
+  communes despite their peaceful philosophy.
+player_impact: Utopian-aligned pilots can use Enforcer Cannons to defend against pirate
+  attacks in Pegasi sector systems.
 persons:
 - Pranav Antal
 groups:
@@ -19,10 +24,15 @@ topics:
 - trade
 - war
 arc_id: kumo-crew-rise
-modern_impact: Utopia joins the resistance against Kumo Crew piracy, deploying advanced defensive technology to protect their communes.
+modern_impact: Utopia joins the resistance against Kumo Crew piracy, deploying advanced
+  defensive technology to protect their communes.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 44d392dc-09e9-5ca5-887e-c1f5e88dae12
+- abe21c6e-54ed-5aed-a221-7efd675d35c
 ---
+
 
 The Utopians unveiled their plans to fight back against The pirates of the Pegasi sector today, at a meeting held aboard Yolen Hub in HIP 116213. 
 

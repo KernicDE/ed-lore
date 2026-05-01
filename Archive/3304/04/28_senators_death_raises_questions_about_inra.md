@@ -4,7 +4,13 @@ title: Senator’s Death Raises Questions about INRA
 slug: senators_death_raises_questions_about_inra
 date: '3304-04-28'
 source: GitHub
-summary: The murder of Imperial Senator Nestor Cartesius has sparked widespread speculation about the INRA. Dr Oskar Kincaid, an Alliance historian, examined the INRA’s history of biochemical warfare against Thargoids and rumours of experimentation. Editor Jast Fernández suggested the killer was motivated by the discovery of Commander Jameson’s ship logs proving the INRA manipulated and sacrificed him. Senator Pal Vespasian appealed for the Cartesius family to be given space to grieve. Captain Niamh Seutonia stated the IISS is pursuing forensic leads.
+summary: The murder of Imperial Senator Nestor Cartesius has sparked widespread speculation
+  about the INRA. Dr Oskar Kincaid, an Alliance historian, examined the INRA’s history
+  of biochemical warfare against Thargoids and rumours of experimentation. Editor
+  Jast Fernández suggested the killer was motivated by the discovery of Commander
+  Jameson’s ship logs proving the INRA manipulated and sacrificed him. Senator Pal
+  Vespasian appealed for the Cartesius family to be given space to grieve. Captain
+  Niamh Seutonia stated the IISS is pursuing forensic leads.
 player_impact: None explicitly stated.
 persons:
 - Nestor Cartesius
@@ -26,10 +32,15 @@ topics:
 - research
 - war
 arc_id: thargoid-contact
-modern_impact: The murder of Senator Cartesius catalyzed public interest in INRA’s dark history and the legacy of Commander Jameson’s betrayal.
+modern_impact: The murder of Senator Cartesius catalyzed public interest in INRA’s
+  dark history and the legacy of Commander Jameson’s betrayal.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 7df21833-aa87-5941-92ce-9de1d458f258
+- a67e8033-1128-5103-9440-e2ef7609ac4c
 ---
+
 
 The murder of Imperial Senator Nestor Cartesius has led to widespread public speculation, along With an increased interest in the activities of the Intergalactic Naval Reserve Arm. 
 

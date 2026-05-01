@@ -4,8 +4,12 @@ title: Galactic News  Emperor's Dawn Shadow Cells Destroyed
 slug: galactic_news_emperors_dawn_shadow_cells_destroyed
 date: '3302-02-05'
 source: GitHub
-summary: Senator Denton Patreus confirms the destruction of Emperor's Dawn 'shadow' cells in the Dakshmandi, Ipilyaqa, and Ch'i Lin systems. Thousands of pilots responded to his call to arms, resulting in the total destruction of what are believed to be the last remaining outposts of the insurgent organisation.
-player_impact: Pilots responded to Senator Patreus's call to arms and destroyed Emperor's Dawn shadow cells in three systems.
+summary: Senator Denton Patreus confirms the destruction of Emperor's Dawn 'shadow'
+  cells in the Dakshmandi, Ipilyaqa, and Ch'i Lin systems. Thousands of pilots responded
+  to his call to arms, resulting in the total destruction of what are believed to
+  be the last remaining outposts of the insurgent organisation.
+player_impact: Pilots responded to Senator Patreus's call to arms and destroyed Emperor's
+  Dawn shadow cells in three systems.
 persons:
 - Denton Patreus
 groups:
@@ -20,10 +24,15 @@ topics:
 - terrorism
 - war
 arc_id: imperial-succession
-modern_impact: Continued conflict between the Empire and Emperor's Dawn shapes Imperial politics and military policy.
+modern_impact: Continued conflict between the Empire and Emperor's Dawn shapes Imperial
+  politics and military policy.
 legacy_weight: 4
 significance: high
+related_uuids:
+- fb893320-5889-549c-b812-e3662c87a633
+- fde8e3a1-96f1-57f5-bdaa-3834f8c8ee62
 ---
+
 
 Imperial Senator Denton Patreus has confirmed that The Emperor's Dawn 'shadow' cells discovered two weeks ago in the Dakshmandi, Ipilyaqa and Ch'i Lin systems have been destroyed. Thousands of Independent pilots responded to the senator's call to arms, resulting in the total destruction of what are thought to be the last remaining Emperor's Dawn outposts. Following the victory, Senator Patreus released a statement to the media: 
 

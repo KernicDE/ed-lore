@@ -4,7 +4,9 @@ title: Alliance Festival of Culture Begins
 slug: alliance_festival_of_culture_begins
 date: '3305-07-27'
 source: GitHub
-summary: Prime Minister Edmund Mahon launches the Alliance Festival of Culture, a seven-week tour across Alliance space beginning on Lave, amid speculation that he seeks to move past the Gibson Kincaid political scandals.
+summary: Prime Minister Edmund Mahon launches the Alliance Festival of Culture, a
+  seven-week tour across Alliance space beginning on Lave, amid speculation that he
+  seeks to move past the Gibson Kincaid political scandals.
 player_impact: None — cultural event coverage.
 persons:
 - Edmund Mahon
@@ -19,10 +21,16 @@ topics:
 - festival
 - scandal
 arc_id: alliance-expansion
-modern_impact: The festival showcased Alliance cultural identity and soft power, while also serving as political rehabilitation for Mahon's administration following the Kincaid affair.
+modern_impact: The festival showcased Alliance cultural identity and soft power, while
+  also serving as political rehabilitation for Mahon's administration following the
+  Kincaid affair.
 legacy_weight: 2
 significance: medium
+related_uuids:
+- 3c4ff651-4153-5811-ba1a-9b2f43fac48a
+- 62c50540-1db5-5850-be0b-5a7cb2b2c201
 ---
+
 
 Prime Minister Edmund Mahon has announced The start of the Alliance Festival of Culture, a series of events taking place across seven systems. 
 

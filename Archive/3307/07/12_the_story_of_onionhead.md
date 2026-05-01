@@ -4,7 +4,10 @@ title: The Story of Onionhead
 slug: the_story_of_onionhead
 date: '3307-07-12'
 source: API
-summary: Dr Himari Grey traces the history of onionhead from its origins on Panem in Kappa Fornacis through its banning by President Halsey in 3300, Fleet Admiral Vincent's unauthorised crop bombing, the Scythe of Panem terrorist revenge, and subsequent strains developed by genetic engineers in Tanmark and elsewhere.
+summary: Dr Himari Grey traces the history of onionhead from its origins on Panem
+  in Kappa Fornacis through its banning by President Halsey in 3300, Fleet Admiral
+  Vincent's unauthorised crop bombing, the Scythe of Panem terrorist revenge, and
+  subsequent strains developed by genetic engineers in Tanmark and elsewhere.
 player_impact: None directly; this is a historical analysis piece.
 persons:
 - Himari Grey
@@ -34,14 +37,19 @@ technologies:
 - Helix drug
 - Engineered seeds
 arc_id: onionhead-conflict
-modern_impact: The article contextualises the helix/onionhead gamma strain controversy within a decades-long history of political conflict over narcotics, revealing how onionhead has repeatedly intersected with terrorism, military insubordination, and corporate criminality.
+modern_impact: The article contextualises the helix/onionhead gamma strain controversy
+  within a decades-long history of political conflict over narcotics, revealing how
+  onionhead has repeatedly intersected with terrorism, military insubordination, and
+  corporate criminality.
 legacy_weight: 3
 significance: medium
 related_uuids:
-- 36c0ba02-5f13-5ac2-920b-5b3b99dca219
-- b1886f93-ecbf-50e3-83c6-743f46436d7b
 - 3517ce1e-1d0e-57c9-ada1-bcdf88b77d23
+- 36c0ba02-5f13-5ac2-920b-5b3b99dca219
+- 6e3b0a13-d6ff-5867-9836-ce422ebf2893
+- b1886f93-ecbf-50e3-83c6-743f46436d7b
 ---
+
 
 A new product being manufactured by The Kumo Crew could be a version of Onionhead, the controversial recreational drug.
 Dr Himari Grey, an Independent healthcare analyst, published This review on Vox Galactica:

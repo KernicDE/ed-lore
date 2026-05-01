@@ -4,8 +4,10 @@ title: Salvation Takes Credit for Repelling Thargoids
 slug: salvation_takes_credit_for_repelling_thargoids
 date: '3307-09-22'
 source: API
-summary: Salvation claims responsibility for repelling the Thargoids from Cornsar using prototype anti-xeno weaponry, establishing himself as a rival to Aegis.
-player_impact: Pilots who answered Salvation's call were promised rewards from the Bright Sentinel megaship in Mbooni.
+summary: Salvation claims responsibility for repelling the Thargoids from Cornsar
+  using prototype anti-xeno weaponry, establishing himself as a rival to Aegis.
+player_impact: Pilots who answered Salvation's call were promised rewards from the
+  Bright Sentinel megaship in Mbooni.
 persons:
 - Salvation
 groups:
@@ -17,10 +19,15 @@ topics:
 - war
 - xenoarchaeology
 arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape and drives anti-xeno defence efforts.
+modern_impact: Thargoid activity fundamentally changes the galactic security landscape
+  and drives anti-xeno defence efforts.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 9a1bdcd5-85c6-5f64-bcb6-25f94d7c9e14
+- 9b0cbc30-2dfb-5a40-adc2-64b5427036f1
 ---
+
 
 The anonymous ‘man of science’ Salvation has claimed responsibility for the Thargoids’ unexplained departure from the Cornsar system.
 Salvation had predicted their attack, but his claim was discounted by Aegis and Other authorities. After a few days the Thargoid vessels fled abruptly, leaving behind wreckages across the system.

@@ -4,7 +4,14 @@ title: Thargoid Revelations
 slug: thargoid_revelations
 date: '3304-03-23'
 source: GitHub
-summary: Aegis has published a report based on engineer Ram Tah's decrypted Guardian logs. The report reveals the Thargoids and Guardians were once at war due to the Thargoids' belief they had a pre-existing claim to Guardian space. Guardian communication attempts failed because Thargoid survival instincts made them intolerant of any perceived threat. The Guardians' defensive drones and advanced weaponry eventually repelled the Thargoids. Professor Alba Tesreau noted humanity's situation mirrors the Guardians', with barnacles seeded in human space thousands of years ago. Ram Tah called the discovery historically significant.
+summary: Aegis has published a report based on engineer Ram Tah's decrypted Guardian
+  logs. The report reveals the Thargoids and Guardians were once at war due to the
+  Thargoids' belief they had a pre-existing claim to Guardian space. Guardian communication
+  attempts failed because Thargoid survival instincts made them intolerant of any
+  perceived threat. The Guardians' defensive drones and advanced weaponry eventually
+  repelled the Thargoids. Professor Alba Tesreau noted humanity's situation mirrors
+  the Guardians', with barnacles seeded in human space thousands of years ago. Ram
+  Tah called the discovery historically significant.
 player_impact: None explicitly stated.
 persons:
 - Alba Tesreau
@@ -21,10 +28,16 @@ topics:
 - war
 - xenoarchaeology
 arc_id: thargoid-contact
-modern_impact: The decrypted Guardian logs provide the first concrete insight into Thargoid motivations, revealing their territorial claims predate human spaceflight by millennia.
+modern_impact: The decrypted Guardian logs provide the first concrete insight into
+  Thargoid motivations, revealing their territorial claims predate human spaceflight
+  by millennia.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 2f9cd58e-e942-54a8-82a1-b3433c3d5088
+- 7896b379-c6fc-55cd-b218-90cd84259061
 ---
+
 
 Aegis has published a report containing significant insights into The Thargoids. The information was provided by the engineer Ram Tah, compiled from recently decrypted logs Found at Guardian sites. 
 

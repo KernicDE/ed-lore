@@ -4,8 +4,12 @@ title: Community Goal  Pleiades Research Outpost
 slug: community_goal_pleiades_research_outpost
 date: '3303-07-21'
 source: GitHub
-summary: Abroin Universal Plc announces plans to establish a research outpost in the Pleiades Nebula to study Thargoid activity. The organisation has placed an open order for semiconductors, lithium and energy grid assemblies for delivery to Campbell Horizons in the Abroin system.
-player_impact: Deliver semiconductors, lithium and energy grid assemblies to Campbell Horizons in Abroin. Eliminate wanted ships to protect trade routes.
+summary: Abroin Universal Plc announces plans to establish a research outpost in the
+  Pleiades Nebula to study Thargoid activity. The organisation has placed an open
+  order for semiconductors, lithium and energy grid assemblies for delivery to Campbell
+  Horizons in the Abroin system.
+player_impact: Deliver semiconductors, lithium and energy grid assemblies to Campbell
+  Horizons in Abroin. Eliminate wanted ships to protect trade routes.
 persons:
 - Zachary Hudson
 - Edmund Mahon
@@ -25,10 +29,15 @@ topics:
 - war
 technologies: []
 arc_id: thargoid-contact
-modern_impact: Thargoid activity escalates, fundamentally changing the galactic security landscape and driving the creation of anti-xeno defence forces.
+modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
+  landscape and driving the creation of anti-xeno defence forces.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 5babf77e-a8a5-5477-9467-7eb5ea758f34
+- 7074f2ff-1b53-5892-9416-8059b4d0699f
 ---
+
 
 The recent revelation that the Thargoids have returned to human space has sent shockwaves through the galaxy. 
 

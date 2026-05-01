@@ -4,8 +4,11 @@ title: Freelance Report  Jacques Barnacle Search
 slug: freelance_report_jacques_barnacle_search
 date: '3302-07-16'
 source: GitHub
-summary: Commanders arrive at Jacques Station in Eol Prou RS-T d3-94 with meta-alloys and begin searching the system for barnacles that could provide the materials needed to repair the station.
-player_impact: Search for barnacles in the Eol Prou RS-T d3-94 system and deliver meta-alloys to help repair Jacques Station.
+summary: Commanders arrive at Jacques Station in Eol Prou RS-T d3-94 with meta-alloys
+  and begin searching the system for barnacles that could provide the materials needed
+  to repair the station.
+player_impact: Search for barnacles in the Eol Prou RS-T d3-94 system and deliver
+  meta-alloys to help repair Jacques Station.
 persons:
 - Commander BluWolve
 groups: []
@@ -15,10 +18,15 @@ locations:
 technologies:
 - meta-alloys
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
+  and fuels the emerging Thargoid contact narrative.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 1e7b9658-ee69-596c-b99f-e1e304947e65
+- db2afa46-9bf8-5a5d-a834-a0e593a1beee
 ---
+
 
 The discovery of Jacques Station has prompted Many Commanders to load up on meta-alloys and start the long trek to Eol Prou RS-T d3-94. 
 

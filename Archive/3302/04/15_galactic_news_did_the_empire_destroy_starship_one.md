@@ -4,7 +4,10 @@ title: Galactic News  Did the Empire Destroy Starship One
 slug: galactic_news_did_the_empire_destroy_starship_one
 date: '3302-04-15'
 source: GitHub
-summary: Federal politician Jacob Harris claims the destruction of Starship One was deliberate sabotage by Imperial agents, not mechanical failure. Imperial officials, including Senator Zemina Torval, strongly deny the accusation. Shadow President Felicia Winters urges caution without evidence.
+summary: Federal politician Jacob Harris claims the destruction of Starship One was
+  deliberate sabotage by Imperial agents, not mechanical failure. Imperial officials,
+  including Senator Zemina Torval, strongly deny the accusation. Shadow President
+  Felicia Winters urges caution without evidence.
 player_impact: None
 persons:
 - Jacob Harris
@@ -24,7 +27,11 @@ arc_id: federal-politics
 modern_impact: Federal political developments shape superpower relations.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 052ec723-2597-57d0-8c92-b36c4cb15e1e
+- 852c56a7-81c2-56dc-8430-7795549ad4d9
 ---
+
 
 Tensions between the Federation and the Empire look likely to increase following an announcement from Federal politician Jacob Harris. In a statement released to The Federal Times, Harris claimed that the destruction of Starship One was not the result of mechanical failure, as was widely reported, but was in fact the result of deliberate sabotage by Imperial agents. 
 

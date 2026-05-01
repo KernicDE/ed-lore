@@ -4,8 +4,11 @@ title: Galactic News  Ram Tah Makes Breakthrough
 slug: galactic_news_ram_tah_makes_breakthrough
 date: '3303-02-13'
 source: GitHub
-summary: Engineer Ram Tah isolates a signal in the Guardian monolith network allowing scanners to identify sites within 1,000 light seconds. Commander Noodlz05 and wingmates are specifically thanked for their contributions.
-player_impact: Use Ram Tah's breakthrough to more easily locate Guardian ruins within 1,000 light seconds of known sites.
+summary: Engineer Ram Tah isolates a signal in the Guardian monolith network allowing
+  scanners to identify sites within 1,000 light seconds. Commander Noodlz05 and wingmates
+  are specifically thanked for their contributions.
+player_impact: Use Ram Tah's breakthrough to more easily locate Guardian ruins within
+  1,000 light seconds of known sites.
 persons:
 - Ram Tah
 - Commander Noodlz05
@@ -17,10 +20,15 @@ topics:
 - research
 - xenoarchaeology
 arc_id: guardian-ancients
-modern_impact: Technological breakthrough dramatically simplifying Guardian site discovery, accelerating xenoarchaeological research.
+modern_impact: Technological breakthrough dramatically simplifying Guardian site discovery,
+  accelerating xenoarchaeological research.
 legacy_weight: 4
 significance: high
+related_uuids:
+- c32986de-9587-5441-af58-8609e35a2392
+- e72e1e8b-fc8d-5bfc-9c4b-cff7902f6752
 ---
+
 
 Since The Synuefe ruins were discovered in October, Hundreds of explorers, archaeologists and relic hunters have scoured the site for information about the race that created it. When engineer Ram Tah started researching the ruins, hundreds more joined the search, motivated either by a thirst for knowledge or by the promise of reward. 
 

@@ -4,8 +4,15 @@ title: Week in Review
 slug: week_in_review
 date: '3304-03-10'
 source: GitHub
-summary: This week's major stories include the discovery of new Guardian sites, with engineer Ram Tah producing blueprints for new Guardian-based weaponry and power-plant systems. Federal President Zachary Hudson and Imperial Admiral Denton Patreus welcomed the new armaments. Aegis launched the Eagle Eye initiative with orbital surveillance installations at six locations in the Pleiades Nebula to monitor Thargoid activity. The Coalition of Othime announced plans to build a new asteroid base for refinery expansion.
-player_impact: Pilots can support the Coalition of Othime asteroid base campaign by delivering commodities and eliminating agitators.
+summary: This week's major stories include the discovery of new Guardian sites, with
+  engineer Ram Tah producing blueprints for new Guardian-based weaponry and power-plant
+  systems. Federal President Zachary Hudson and Imperial Admiral Denton Patreus welcomed
+  the new armaments. Aegis launched the Eagle Eye initiative with orbital surveillance
+  installations at six locations in the Pleiades Nebula to monitor Thargoid activity.
+  The Coalition of Othime announced plans to build a new asteroid base for refinery
+  expansion.
+player_impact: Pilots can support the Coalition of Othime asteroid base campaign by
+  delivering commodities and eliminating agitators.
 persons:
 - Ram Tah
 - Zachary Hudson
@@ -25,10 +32,16 @@ topics:
 - war
 - xenoarchaeology
 arc_id: thargoid-contact
-modern_impact: The Eagle Eye surveillance initiative and Guardian-based technology development represent dual-track progress in understanding and countering the Thargoid threat.
+modern_impact: The Eagle Eye surveillance initiative and Guardian-based technology
+  development represent dual-track progress in understanding and countering the Thargoid
+  threat.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 7c6f3a69-f742-57ed-8940-4e857c580774
+- 8aa696fe-f8f4-5499-81b8-1f5bdbf92d00
 ---
+
 
 Here are This week’s major stories. 
 

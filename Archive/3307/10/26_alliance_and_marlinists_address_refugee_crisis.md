@@ -4,7 +4,9 @@ title: Alliance and Marlinists Address Refugee Crisis
 slug: alliance_and_marlinists_address_refugee_crisis
 date: '3307-10-26'
 source: API
-summary: The Marlinist Colonies offer to accept political refugees currently dispersed across Alliance territory, with Prime Consul Kayode Tau negotiating transportation arrangements.
+summary: The Marlinist Colonies offer to accept political refugees currently dispersed
+  across Alliance territory, with Prime Consul Kayode Tau negotiating transportation
+  arrangements.
 player_impact: None
 persons:
 - Kayode Tau
@@ -17,10 +19,15 @@ topics:
 - diplomacy
 - humanitarian
 arc_id: nmla-terrorism
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to the Marlinist refugee crisis and the Proactive Detection Bureau.
+modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
+  the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 33336427-964a-5296-a249-9890e28a0383
+- 4fdd70f9-8cca-5802-a013-a9272ca513ba
 ---
+
 
 The Marlinist Colonies have offered to provide help for political refugees who sought sanctuary in Alliance space.
 In 3306, the Empire’s security forces began arresting followers of Marlinism, suspecting them of being linked to the NMLA. Many pro-republican Imperial citizens fled to the Federation, but some set course for the Alliance instead.

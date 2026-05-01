@@ -4,7 +4,8 @@ title: Marlinist Refugee Crisis Grows Critical
 slug: marlinist_refugee_crisis_grows_critical
 date: '3306-12-08'
 source: API
-summary: Hundreds of thousands of Marlinist refugees flee the Empire to the Federation, bringing the superpowers to the brink of conflict as Congress debates their fate.
+summary: Hundreds of thousands of Marlinist refugees flee the Empire to the Federation,
+  bringing the superpowers to the brink of conflict as Congress debates their fate.
 player_impact: None
 persons:
 - Zachary Hudson
@@ -20,7 +21,11 @@ arc_id: federal-politics
 modern_impact: Federal political developments shape superpower relations.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 0f5eb161-235f-5b88-9f2d-03c7d6374c08
+- 5b6c21df-96dd-53ef-bc3f-c12ea9c4838e
 ---
+
 
 Hundreds of thousands of political refugees who fled from The Empire to the Federation have brought both superpowers to the brink of conflict.
 The Marlinists, who believe in restructuring the Empire into a republic, escaped crackdowns in Several Imperial systems during a hunt for Neo-Marlinist terrorists.

@@ -4,7 +4,10 @@ title: Galactic News  Felicia Winters Opposes Federal Imperial Conflict
 slug: galactic_news_felicia_winters_opposes_federal_imperial_conflict
 date: '3302-08-13'
 source: GitHub
-summary: Federal Shadow President Felicia Winters spoke at a rally on Mars in the Sol system, urging the Federation and Empire to turn away from acrimony and avoid war. She aligned herself with Edmund Mahon's views on the dangerous political climate while avoiding direct criticism of President Zachary Hudson.
+summary: Federal Shadow President Felicia Winters spoke at a rally on Mars in the
+  Sol system, urging the Federation and Empire to turn away from acrimony and avoid
+  war. She aligned herself with Edmund Mahon's views on the dangerous political climate
+  while avoiding direct criticism of President Zachary Hudson.
 player_impact: None
 persons:
 - Felicia Winters
@@ -18,10 +21,16 @@ topics:
 - war
 technologies: []
 arc_id: federal-politics
-modern_impact: Winters' public opposition to Federal-Imperial conflict highlights internal Federal political divisions and early diplomatic efforts to prevent superpower war.
+modern_impact: Winters' public opposition to Federal-Imperial conflict highlights
+  internal Federal political divisions and early diplomatic efforts to prevent superpower
+  war.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 5b6c21df-96dd-53ef-bc3f-c12ea9c4838e
+- 852c56a7-81c2-56dc-8430-7795549ad4d9
 ---
+
 
 At a rally on Mars in The Sol system, Federal Shadow President Felicia Winters has addressed the escalating tension between the Federation and the Empire. 
 

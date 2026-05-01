@@ -4,8 +4,10 @@ title: Superpower Systems Overrun by Thargoids
 slug: superpower_systems_overrun_by_thargoids
 date: '3308-04-21'
 source: API
-summary: Thargoid fleets invade the Didio, Novas, and Sosong systems, placing over ten billion lives at risk.
-player_impact: Independent pilots were called to defend Didio, Novas, and Sosong from Thargoid fleets.
+summary: Thargoid fleets invade the Didio, Novas, and Sosong systems, placing over
+  ten billion lives at risk.
+player_impact: Independent pilots were called to defend Didio, Novas, and Sosong from
+  Thargoid fleets.
 persons:
 - Imogen le Ray
 - Henry Paul Atherton
@@ -27,13 +29,20 @@ topics:
 - corporate expansion
 - succession
 arc_id: thargoid-titan-war
-modern_impact: '"With Aegis now officially disbanded, its fleet is being temporarily operated by Frontline Solutions." The simultaneous invasion of superpower core systems exposed the catastrophic vulnerability of human space after Aegis''s dissolution, forcing a desperate reliance on Salvation''s unproven superweapons and mercenary logistics.'
+modern_impact: '"With Aegis now officially disbanded, its fleet is being temporarily
+  operated by Frontline Solutions." The simultaneous invasion of superpower core systems
+  exposed the catastrophic vulnerability of human space after Aegis''s dissolution,
+  forcing a desperate reliance on Salvation''s unproven superweapons and mercenary
+  logistics.'
 legacy_weight: 5
 significance: high
 related_uuids:
 - 3f6b7847-131b-5ba8-ac81-0d61d8b5bff4
+- 71ef5edb-acbd-5323-bdfa-880cbbf2c504
 - 8097c00d-2e15-5445-b408-e3b80f412aac
+- b391da8e-90b1-55d8-88e0-8ad93ae52300
 ---
+
 
 **Pilots’ Federation ALERT**
 Thargoid fleets have invaded The Didio, Novas and Sosong systems, placing over ten billion lives at risk.

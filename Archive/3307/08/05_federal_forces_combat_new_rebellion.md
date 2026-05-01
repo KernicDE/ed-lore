@@ -4,8 +4,12 @@ title: Federal Forces Combat New Rebellion
 slug: federal_forces_combat_new_rebellion
 date: '3307-08-05'
 source: API
-summary: The Federation fights to prevent New Kuwembaa Labour from seceding over opposition to the Proactive Detection Bureau, while three additional Federal factions prepare to declare independence.
-player_impact: Federal auxiliaries and pro-independence pilots fought on opposing sides in the Kuwembaa system conflict, handing in combat bonds at Gagnan Port or Fortress Liberty.
+summary: The Federation fights to prevent New Kuwembaa Labour from seceding over opposition
+  to the Proactive Detection Bureau, while three additional Federal factions prepare
+  to declare independence.
+player_impact: Federal auxiliaries and pro-independence pilots fought on opposing
+  sides in the Kuwembaa system conflict, handing in combat bonds at Gagnan Port or
+  Fortress Liberty.
 persons:
 - Zachary Hudson
 - Sonal Mishra
@@ -16,10 +20,15 @@ topics:
 - independence
 - war
 arc_id: federal-politics
-modern_impact: Federal political developments shape superpower relations and civil liberties debates.
+modern_impact: Federal political developments shape superpower relations and civil
+  liberties debates.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 0423bd7c-672e-5fcd-a6af-1ac17e44143d
+- 1467f344-3cab-5b22-af0a-ff354a54888f
 ---
+
 
 **Pilots Federation ALERT**
 In The Kuwembaa system, the Federation is fighting to prevent Further factions from declaring Independence.

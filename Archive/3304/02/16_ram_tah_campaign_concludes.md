@@ -4,8 +4,12 @@ title: Ram Tah Campaign Concludes
 slug: ram_tah_campaign_concludes
 date: '3304-02-16'
 source: GitHub
-summary: Ram Tah has announced that the galactic community responded positively to his appeal for Guardian artefacts, resulting in a large number of deliveries to Felice Dock. He has begun extensive analysis of the artefacts and expects to share findings soon.
-player_impact: Pilots who contributed can collect their rewards from Felice Dock in the Meene system.
+summary: Ram Tah has announced that the galactic community responded positively to
+  his appeal for Guardian artefacts, resulting in a large number of deliveries to
+  Felice Dock. He has begun extensive analysis of the artefacts and expects to share
+  findings soon.
+player_impact: Pilots who contributed can collect their rewards from Felice Dock in
+  the Meene system.
 persons:
 - Ram Tah
 groups: []
@@ -18,10 +22,15 @@ topics:
 - war
 - xenoarchaeology
 arc_id: guardian-ancients
-modern_impact: Ram Tah's continued Guardian research, funded by community deliveries, remains the primary avenue for understanding ancient alien technology.
+modern_impact: Ram Tah's continued Guardian research, funded by community deliveries,
+  remains the primary avenue for understanding ancient alien technology.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 6d0a0c79-d245-5515-87d8-aa120c2dce84
+- e72e1e8b-fc8d-5bfc-9c4b-cff7902f6752
 ---
+
 
 Ram Tah has announced that The galactic community has responded positively to his appeal for Guardian artefacts, resulting In a large number of deliveries to Felice Dock. The engineer will now subject the artefacts to extensive analysis. 
 

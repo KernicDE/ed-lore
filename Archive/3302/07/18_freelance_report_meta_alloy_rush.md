@@ -4,8 +4,12 @@ title: Freelance Report  Meta Alloy Rush
 slug: freelance_report_meta_alloy_rush
 date: '3302-07-18'
 source: GitHub
-summary: Demand for meta-alloys skyrockets as starports place orders to protect against potential malfunctions, alarming conservationists and xenobiologist Dr Elana Lorax who warn that unchecked exploitation may destroy the barnacles before they can be studied.
-player_impact: Deliver meta-alloys to stations with open orders, or assist conservation efforts by harvesting only ripe spikes.
+summary: Demand for meta-alloys skyrockets as starports place orders to protect against
+  potential malfunctions, alarming conservationists and xenobiologist Dr Elana Lorax
+  who warn that unchecked exploitation may destroy the barnacles before they can be
+  studied.
+player_impact: Deliver meta-alloys to stations with open orders, or assist conservation
+  efforts by harvesting only ripe spikes.
 persons:
 - Dr Elana Lorax
 - Vernon Trask
@@ -20,10 +24,15 @@ technologies:
 - meta-alloys
 - Unknown Artefacts
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
+  and fuels the emerging Thargoid contact narrative.
 legacy_weight: 4
 significance: high
+related_uuids:
+- a2f1f900-bac5-5b33-a644-ac905e715e43
+- dfa9ce87-7e92-5ea2-853d-a0c17b5aa27b
 ---
+
 
 As the Federation and Empire attempt to lay claim to The organic structures known as barnacles, the demand for meta-alloys has skyrocketed. Many starports have begun placing orders for the material as a hedge against potential malfunctions. 
 

@@ -4,8 +4,13 @@ title: Cerberus Plague Outbreaks in the Bast, Una and Santjalan Systems
 slug: cerberus_plague_outbreaks_in_the_bast_una_and_santjalan_systems
 date: '3301-07-23'
 source: GitHub
-summary: The Cerberus Plague has reached Hart Station in Bast, Hoard Orbital in Una, and Cantor Terminal in Santjalan. No cure has been found despite ongoing work by Chief Medical Officer Carl Simmons. Hospitals are overloaded as infection rates rise rapidly. Volunteers and local security are aiding health services while maintaining order. Pilots in the region are called upon to deliver medical aid.
-player_impact: Pilots in the Bast, Una, and Santjalan systems are urgently needed to deliver medical aid to overloaded stations.
+summary: The Cerberus Plague has reached Hart Station in Bast, Hoard Orbital in Una,
+  and Cantor Terminal in Santjalan. No cure has been found despite ongoing work by
+  Chief Medical Officer Carl Simmons. Hospitals are overloaded as infection rates
+  rise rapidly. Volunteers and local security are aiding health services while maintaining
+  order. Pilots in the region are called upon to deliver medical aid.
+player_impact: Pilots in the Bast, Una, and Santjalan systems are urgently needed
+  to deliver medical aid to overloaded stations.
 persons:
 - Carl Simmons
 groups:
@@ -21,10 +26,15 @@ topics:
 - medicine
 - plague
 arc_id: cerberus-plague
-modern_impact: Cerberus Plague continues its spread to new systems, overwhelming local medical facilities and requiring external humanitarian support.
+modern_impact: Cerberus Plague continues its spread to new systems, overwhelming local
+  medical facilities and requiring external humanitarian support.
 legacy_weight: 4
 significance: high
+related_uuids:
+- b7102a9c-74e2-5a32-a28a-2fb165e1902d
+- f88d7a3d-f300-575f-ae73-132c17d22992
 ---
+
 
 Reports that the Cerberus Plague has reached Hart Station in the Bast system, Hoard Orbital in the Una system and Cantor Terminal in the Santjalan system is causing fear amongst the population. So Far a cure hasn’t been Found for This disease despite the continuing work of Carl Simmons, the Chief Medical Officer of Newton Dock, and medical teams in the surrounding systems. In a statement he reiterated that people should remain at home. 
 

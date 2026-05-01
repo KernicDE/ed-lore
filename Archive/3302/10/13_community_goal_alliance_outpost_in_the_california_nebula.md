@@ -4,8 +4,12 @@ title: Community Goal  Alliance Outpost in the California Nebula
 slug: community_goal_alliance_outpost_in_the_california_nebula
 date: '3302-10-13'
 source: GitHub
-summary: The Alliance announced plans to construct a scientific outpost on California Sector BA-A E6 4 in the California Nebula to research organic structures and meta-alloys. 160 SOAR is coordinating an appeal for geological equipment, hazardous-environment suits, and pesticides to be delivered to Tshang City in the Furuhjelm III-674 system.
-player_impact: Pilots can deliver geological equipment, hazardous-environment suits, and pesticides to Tshang City in the Furuhjelm III-674 system for rewards.
+summary: The Alliance announced plans to construct a scientific outpost on California
+  Sector BA-A E6 4 in the California Nebula to research organic structures and meta-alloys.
+  160 SOAR is coordinating an appeal for geological equipment, hazardous-environment
+  suits, and pesticides to be delivered to Tshang City in the Furuhjelm III-674 system.
+player_impact: Pilots can deliver geological equipment, hazardous-environment suits,
+  and pesticides to Tshang City in the Furuhjelm III-674 system for rewards.
 persons: []
 groups:
 - Alliance
@@ -22,10 +26,15 @@ topics:
 - war
 technologies: []
 arc_id: barnacle-meta-alloy
-modern_impact: Alliance construction of a research outpost in the California Nebula to study barnacles and meta-alloys intensifies superpower rivalry over alien resources.
+modern_impact: Alliance construction of a research outpost in the California Nebula
+  to study barnacles and meta-alloys intensifies superpower rivalry over alien resources.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 6d5f7eba-00e6-506e-a8d5-b719d40061a3
+- e1379834-0d50-502f-a891-ddeec300460e
 ---
+
 
 Last week, the Alliance deployed a flotilla to the California Sector BA-A E6 system in the California Nebula. The act proved controversial, prompting accusations that the Alliance was attempting to lay claim to the organic structures on California Sector BA-A E6 4 of the California Sector BA-A E6 system. 
 

@@ -4,7 +4,10 @@ title: Galactic News  Jasmina Halsey Not yet at Full Health
 slug: galactic_news_jasmina_halsey_not_yet_at_full_health
 date: '3302-03-29'
 source: GitHub
-summary: Former President Jasmina Halsey continues recuperating at Leoniceno Orbital, with all interview requests rebuffed by medical staff. Her sister Azalea Halsey reports that Jasmina seemed distant and spoke of stars and creation, but was remarkably lucid given her ordeal.
+summary: Former President Jasmina Halsey continues recuperating at Leoniceno Orbital,
+  with all interview requests rebuffed by medical staff. Her sister Azalea Halsey
+  reports that Jasmina seemed distant and spoke of stars and creation, but was remarkably
+  lucid given her ordeal.
 player_impact: None
 persons:
 - Jasmina Halsey
@@ -24,7 +27,11 @@ arc_id: halsey-presidency
 modern_impact: President Halsey's controversial military orders strain Federal politics.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 0d15375c-b54f-50e7-ad2d-a88de1da76b9
+- a395a47c-93ef-5a29-90cb-b2e83da399a5
 ---
+
 
 For The past three days, Jasmina Halsey has been recuperating at Leoniceno Orbital, where she was taken after she was rescued from the wreckage of Starship One. Since then, all interview requests have been firmly rebuffed by the starport's medical personnel, who insist the former president is not yet well enough to talk to the media. But while the galaxy waits for an official interview, the Federal Times has managed to wrest a few words from her sister, Azalea Halsey, who recently visited her sibling:  
 

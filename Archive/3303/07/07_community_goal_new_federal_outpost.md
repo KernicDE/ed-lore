@@ -4,8 +4,12 @@ title: Community Goal  New Federal Outpost
 slug: community_goal_new_federal_outpost
 date: '3303-07-07'
 source: GitHub
-summary: The Federation announces plans to construct a survey outpost in HIP 17692 to monitor Thargoid activity near the Pleiades. The Pleiades Resource Enterprise has placed an open order for construction commodities and issued a kill order on wanted ships to protect traders delivering to Blackmount Orbital.
-player_impact: Deliver power generators, geological equipment and meta-alloys to Blackmount Orbital in HIP 17692. Eliminate wanted ships in the system to protect trade routes.
+summary: The Federation announces plans to construct a survey outpost in HIP 17692
+  to monitor Thargoid activity near the Pleiades. The Pleiades Resource Enterprise
+  has placed an open order for construction commodities and issued a kill order on
+  wanted ships to protect traders delivering to Blackmount Orbital.
+player_impact: Deliver power generators, geological equipment and meta-alloys to Blackmount
+  Orbital in HIP 17692. Eliminate wanted ships in the system to protect trade routes.
 persons: []
 groups:
 - Federation
@@ -22,10 +26,15 @@ topics:
 - war
 technologies: []
 arc_id: thargoid-contact
-modern_impact: Thargoid activity escalates, fundamentally changing the galactic security landscape and driving the creation of anti-xeno defence forces.
+modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
+  landscape and driving the creation of anti-xeno defence forces.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 85f8251c-1f9c-51b8-8b2e-60d29b31160b
+- ed397ab9-2943-5c21-86f8-1f25bbfac99d
 ---
+
 
 The Federation has announced plans to construct a new survey outpost in the HIP 17692 system. Federal sources have confirmed that the outpost is designed to give the Federation a vantage point, close to the Pleiades, from Which to monitor Thargoid activity. 
 

@@ -4,8 +4,10 @@ title: Xeno-Peace Supporters Killed by Thargoids
 slug: xeno_peace_supporters_killed_by_thargoids
 date: '3308-11-25'
 source: API
-summary: Investigations in the Hyades Sector YO-Q b5-1 system have confirmed that Thargoid vessels attacked and destroyed the Kingfisher megaship.
-player_impact: This article focuses on political and strategic developments without direct pilot involvement.
+summary: Investigations in the Hyades Sector YO-Q b5-1 system have confirmed that
+  Thargoid vessels attacked and destroyed the Kingfisher megaship.
+player_impact: This article focuses on political and strategic developments without
+  direct pilot involvement.
 persons:
 - Dalton Chase
 - Elias Pope
@@ -20,16 +22,20 @@ topics:
 - investigation
 - war
 arc_id: thargoid-titan-war
-modern_impact: '"Independent and Federal sources have verified that the Kingfisher was struck by multiple barrages from Thargoid weapo..." The failure of civilian-led diplomacy underscores the dangers of underestimating Thargoid hostility.'
+modern_impact: '"Independent and Federal sources have verified that the Kingfisher
+  was struck by multiple barrages from Thargoid weapo..." The failure of civilian-led
+  diplomacy underscores the dangers of underestimating Thargoid hostility.'
 legacy_weight: 5
 significance: high
 related_uuids:
-- 9d88d95b-e2d8-5107-bb42-666da4ea00bf
-- 6c3c6815-8e50-5e81-86ac-0bc5df0a8359
 - 44b31919-ccfc-5eaa-afb1-81683c6c10d2
-- f2680020-36ae-554f-ae92-3a367a9f1d23
 - 5fe4f82e-6d86-54ad-8e32-86f5d121a22b
+- 6c3c6815-8e50-5e81-86ac-0bc5df0a8359
+- 9d88d95b-e2d8-5107-bb42-666da4ea00bf
+- f2680020-36ae-554f-ae92-3a367a9f1d23
+- ff9426a9-0b2c-55d7-8741-dd9fbd4364ff
 ---
+
 
 Investigations in the Hyades Sector YO-Q b5-1 system have confirmed that Thargoid vessels attacked and destroyed the Kingfisher megaship.
 Vox Galactica published this on-the-scene report from field correspondent Ernesto Rios:

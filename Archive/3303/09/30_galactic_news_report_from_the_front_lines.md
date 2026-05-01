@@ -4,8 +4,12 @@ title: Galactic News  Report from the Front Lines
 slug: galactic_news_report_from_the_front_lines
 date: '3303-09-30'
 source: GitHub
-summary: Independent pilots have begun testing new anti-Thargoid weaponry developed by Aegis. Admiral Aden Tanner reports that while the weapons work as intended, Thargoid vessels are highly resilient and can only be destroyed through collective efforts, with lone pilots and small groups being annihilated.
-player_impact: Participate in coordinated anti-Thargoid combat operations using Aegis-developed weaponry. Avoid solo engagements with Thargoid vessels.
+summary: Independent pilots have begun testing new anti-Thargoid weaponry developed
+  by Aegis. Admiral Aden Tanner reports that while the weapons work as intended, Thargoid
+  vessels are highly resilient and can only be destroyed through collective efforts,
+  with lone pilots and small groups being annihilated.
+player_impact: Participate in coordinated anti-Thargoid combat operations using Aegis-developed
+  weaponry. Avoid solo engagements with Thargoid vessels.
 persons:
 - Aden Tanner
 groups:
@@ -16,10 +20,16 @@ topics:
 - ship
 technologies: []
 arc_id: thargoid-contact
-modern_impact: Early field reports on Aegis anti-Thargoid weapons established the understanding that Thargoid ships require coordinated group attacks, fundamentally shaping AX combat doctrine.
+modern_impact: Early field reports on Aegis anti-Thargoid weapons established the
+  understanding that Thargoid ships require coordinated group attacks, fundamentally
+  shaping AX combat doctrine.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 009ab048-a831-5f9f-a671-9143fc1afd44
+- 532ce78a-df05-518d-8c4d-ef8da5e36243
 ---
+
 
 Many Independent pilots have already taken to their ships to test the anti-Thargoid weaponry recently developed by Aegis. Meanwhile, Aegis has assembled a team of specialists to analyse the results of these encounters and determine the new weapons’ efficacy. 
 

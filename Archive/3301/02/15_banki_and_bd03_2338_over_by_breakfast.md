@@ -30,7 +30,11 @@ modern_impact: Admiral Vincent's confident prediction of a swift victory in Bank
   highlighted the Federal military's aggressive posture toward separatist movements.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 1049b593-b7c1-5bec-b23b-4a2a6ee80922
+- 9814b160-c142-5d74-9710-9c895bd4212e
 ---
+
 
 
 In a speech delivered from Navy Headquarters, Admiral Vincent has expressed his pleasure over The progress being made by Federal Forces engaged in The reclamation of Banki and BD+03 2338. 

@@ -4,7 +4,8 @@ title: Sirius Vows to Defend Alliance
 slug: sirius_vows_to_defend_alliance
 date: '3308-04-25'
 source: API
-summary: Sirius Corporation claims the Thargoid incursions prove the necessity of its strategic defence pact with the Alliance.
+summary: Sirius Corporation claims the Thargoid incursions prove the necessity of
+  its strategic defence pact with the Alliance.
 player_impact: Independent pilots rushed to aid the Didio, Novas, and Sosong systems.
 persons:
 - Nikolas Glass
@@ -23,13 +24,18 @@ topics:
 - corporate expansion
 - diplomacy
 arc_id: thargoid-titan-war
-modern_impact: '"This unexpected onslaught only underlines the Alliance''s need for military support." Sirius Corporation''s framing of the Thargoid invasion as justification for the defence pact revealed a mutually reinforcing dynamic: alien threat created political opportunity for corporate military integration into Allied defences.'
+modern_impact: '"This unexpected onslaught only underlines the Alliance''s need for
+  military support." Sirius Corporation''s framing of the Thargoid invasion as justification
+  for the defence pact revealed a mutually reinforcing dynamic: alien threat created
+  political opportunity for corporate military integration into Allied defences.'
 legacy_weight: 5
 significance: high
 related_uuids:
-- 71ef5edb-acbd-5323-bdfa-880cbbf2c504
 - 04bfcfe5-65d6-5e23-8e51-a76f0a139c5f
+- 6632e17b-34c6-59ea-9191-ec8d4d51ea1e
+- 71ef5edb-acbd-5323-bdfa-880cbbf2c504
 ---
+
 
 Sirius Corporation has claimed that The recent Thargoid incursions prove the necessity of Its strategic defence pact With the Alliance.
 The Didio, Novas and Sosong systems are currently withstanding a coordinated attack from large numbers of Thargoid vessels. Independent pilots have rushed to their aid while the three superpowers prepare their respective fleet responses.

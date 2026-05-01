@@ -4,7 +4,9 @@ title: Galactic News  Halsey Comments on End of Cold War
 slug: galactic_news_halsey_comments_on_end_of_cold_war
 date: '3303-10-28'
 source: GitHub
-summary: Former Federal President Jasmina Halsey commented on the end of the Federal-Imperial cold war, noting that the superpowers withdrew from the Pleiades due to the Thargoid threat rather than peaceful protest or diplomacy.
+summary: Former Federal President Jasmina Halsey commented on the end of the Federal-Imperial
+  cold war, noting that the superpowers withdrew from the Pleiades due to the Thargoid
+  threat rather than peaceful protest or diplomacy.
 player_impact: None
 persons:
 - Jasmina Halsey
@@ -20,10 +22,15 @@ topics:
 - war
 technologies: []
 arc_id: thargoid-contact
-modern_impact: The Thargoid threat forced an uneasy superpower detente, ending the Federal-Imperial cold war over meta-alloys in the Pleiades.
+modern_impact: The Thargoid threat forced an uneasy superpower detente, ending the
+  Federal-Imperial cold war over meta-alloys in the Pleiades.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 9b0b1d35-568a-5209-bf4c-04a5a9c8e1b8
+- c967a729-ec8f-5ec1-b332-7b1676e0464e
 ---
+
 
 With the news that The Empire has withdrawn Its fleets from the Pleiades Nebula, apparently signalling the end of the Federal-Imperial cold war, former Federal President Jasmina Halsey has commented on the cessation of hostilities. 
 

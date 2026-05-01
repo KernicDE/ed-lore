@@ -4,7 +4,9 @@ title: Galactic News  Aegis Expanding
 slug: galactic_news_aegis_expanding
 date: '3303-10-21'
 source: GitHub
-summary: Following the withdrawal of Empire and Federation forces from the Pleiades, Aegis is establishing over twenty orbital outposts in the region to support its ongoing research and defence initiative against the Thargoid threat.
+summary: Following the withdrawal of Empire and Federation forces from the Pleiades,
+  Aegis is establishing over twenty orbital outposts in the region to support its
+  ongoing research and defence initiative against the Thargoid threat.
 player_impact: None
 persons:
 - Aden Tanner
@@ -22,10 +24,15 @@ topics:
 - research
 technologies: []
 arc_id: thargoid-contact
-modern_impact: Thargoid activity escalates, fundamentally changing the galactic security landscape and driving the creation of anti-xeno defence forces.
+modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
+  landscape and driving the creation of anti-xeno defence forces.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 2059a3f9-7e38-561d-833d-8cfee2749471
+- bbc1febe-2e73-5bd8-b87a-875c518ba8f6
 ---
+
 
 Following news that The Empire and Federation have withdrawn from the Pleiades Nebula, contractors In the core systems have reported that Aegis is poised to establish a number of outposts in the region. 
 

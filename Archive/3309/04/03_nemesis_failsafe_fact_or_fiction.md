@@ -4,7 +4,8 @@ title: 'Nemesis Failsafe: Fact or Fiction?'
 slug: nemesis_failsafe_fact_or_fiction
 date: '3309-04-03'
 source: API
-summary: Azimuth Biotech rejects Seo Jin-ae's claim about Salvation's 'Nemesis Failsafe', while The Empirical explores exoneurology and Utopia's Sim-Archive technology.
+summary: Azimuth Biotech rejects Seo Jin-ae's claim about Salvation's 'Nemesis Failsafe',
+  while The Empirical explores exoneurology and Utopia's Sim-Archive technology.
 player_impact: Not specifically mentioned — this is a scientific and political report.
 persons:
 - Torben Rademaker
@@ -20,13 +21,19 @@ topics:
 - research
 - xenoarchaeology
 arc_id: salvation-azimuth
-modern_impact: Rademaker's personal attack on Seo Jin-ae — 'suffers from paranoid delusions... an exalted position among the Far God cultists' — is character assassination. The Empirical's scientific context — 'Only the Utopia commune has ever claimed significant success' with mind transfer — provides background. The reference to Utopia's 'reclusive nature' and lack of independent review adds skepticism.
+modern_impact: Rademaker's personal attack on Seo Jin-ae — 'suffers from paranoid
+  delusions... an exalted position among the Far God cultists' — is character assassination.
+  The Empirical's scientific context — 'Only the Utopia commune has ever claimed significant
+  success' with mind transfer — provides background. The reference to Utopia's 'reclusive
+  nature' and lack of independent review adds skepticism.
 legacy_weight: 5
 significance: high
 related_uuids:
-- cbfb28b8-271e-5aed-a280-d1062c636a12
+- 647ad1d2-a58f-5e9b-94ad-d7f1b1ffd668
 - 6f7afccb-b157-55b6-9874-901f66de4876
+- cbfb28b8-271e-5aed-a280-d1062c636a12
 ---
+
 
 Azimuth Biotech has rejected Seo Jin-ae’s unverified claim that Salvation survived by relocating his mind using advanced Guardian technology.
 CEO Torben Rademaker issued this statement:

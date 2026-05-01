@@ -4,7 +4,9 @@ title: ‘Xeno-Peace’ Discussions Gain Momentum
 slug: xeno_peace_discussions_gain_momentum
 date: '3308-09-06'
 source: API
-summary: A grassroots xeno-peace movement gains traction following the Battle of HIP 22460, promoting diplomatic dialogue with Thargoids through media figures like Joy Senne and Heimar Borichev.
+summary: A grassroots xeno-peace movement gains traction following the Battle of HIP
+  22460, promoting diplomatic dialogue with Thargoids through media figures like Joy
+  Senne and Heimar Borichev.
 player_impact: Not specifically mentioned — this is a social movement report.
 persons:
 - Joy Senne
@@ -21,10 +23,16 @@ topics:
 - diplomacy
 - war
 arc_id: salvation-azimuth
-modern_impact: The xeno-peace movement emerges as a significant counter-narrative to military-led anti-xeno policy, challenging the assumption that war is the only response to Thargoid aggression.
+modern_impact: The xeno-peace movement emerges as a significant counter-narrative
+  to military-led anti-xeno policy, challenging the assumption that war is the only
+  response to Thargoid aggression.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 66348df9-c1f9-5a56-bab6-3ac5ec142447
+- f35cafa3-82c9-523b-8b06-a2fe5cf2e6be
 ---
+
 
 Public debate around the Battle of HIP 22460 has seen the emergence of a grassroots movement that promotes communication with the Thargoids.
 As militaries prepare for a protracted anti-xeno conflict, this alternative viewpoint has gained traction on social channels in multiple systems. Proponents believe that their governments should focus on finding ways to open a dialogue with the Thargoid species, and end hostilities using diplomatic means.

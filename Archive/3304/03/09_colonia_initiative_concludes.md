@@ -4,7 +4,11 @@ title: Colonia Initiative Concludes
 slug: colonia_initiative_concludes
 date: '3304-03-09'
 source: GitHub
-summary: The Colonia Council has announced the successful conclusion of its campaign to build a security installation in the Colonia region. Large quantities of material were delivered to Dove Enigma, allowing the initiative to move to the construction phase. The new installation will help protect Colonia from the escalating Thargoid threat.
+summary: The Colonia Council has announced the successful conclusion of its campaign
+  to build a security installation in the Colonia region. Large quantities of material
+  were delivered to Dove Enigma, allowing the initiative to move to the construction
+  phase. The new installation will help protect Colonia from the escalating Thargoid
+  threat.
 player_impact: Pilots who supported the campaign are thanked by the Colonia Council.
 persons: []
 groups:
@@ -17,10 +21,15 @@ topics:
 - construction
 - war
 arc_id: thargoid-contact
-modern_impact: The Colonia security installation represents proactive defence investment in deep-space settlements vulnerable to Thargoid expansion.
+modern_impact: The Colonia security installation represents proactive defence investment
+  in deep-space settlements vulnerable to Thargoid expansion.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 8aa696fe-f8f4-5499-81b8-1f5bdbf92d00
+- ef62b21e-1237-55a9-a914-3b80779440c5
 ---
+
 
 The Colonia Council has announced that Its campaign to build a security installation in the Colonia region has been warmly received by the galactic community. Large quantities of material were delivered to Dove Enigma over the past week, allowing the initiative to move to the construction phase. 
 

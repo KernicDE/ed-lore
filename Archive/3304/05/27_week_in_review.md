@@ -1,5 +1,4 @@
 ---
-
 uuid: fe2ef902-f105-5e82-bf79-83ee66c58228
 title: Week in Review
 slug: week_in_review
@@ -53,7 +52,11 @@ modern_impact: Multiple concurrent community initiatives demonstrate the breadth
   pilot engagement across humanitarian, commercial, and military operations.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 00415e84-de28-5d73-b8b5-76445d03be34
+- 5099d0d9-4ac9-5541-b400-60125e76f48b
 ---
+
 
 
 Here are This week’s major stories. 

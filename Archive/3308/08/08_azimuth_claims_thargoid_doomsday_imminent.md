@@ -29,8 +29,11 @@ modern_impact: Salvation's declaration that tomorrow would be the Thargoids' doo
   would either validate his god complex or expose his hubris to the entire galaxy.
 legacy_weight: 5
 significance: high
-related_uuids: []
+related_uuids:
+- 33b86898-9d96-5e9f-9e8a-e369998c5f2b
+- 4532b03c-7c25-52f3-af5f-9ac74b054a34
 ---
+
 
 
 **Pilots’ Federation ALERT**

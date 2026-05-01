@@ -4,7 +4,9 @@ title: Kincaid Raises Concerns after Nova Imperium
 slug: kincaid_raises_concerns_after_nova_imperium
 date: '3305-02-07'
 source: GitHub
-summary: President Gibson Kincaid uses the Nova Imperium crisis to argue that the Alliance must prepare to stand alone against any aggressor, but Prime Minister Edmund Mahon rebuffs him and reaffirms inter-superpower Thargoid cooperation.
+summary: President Gibson Kincaid uses the Nova Imperium crisis to argue that the
+  Alliance must prepare to stand alone against any aggressor, but Prime Minister Edmund
+  Mahon rebuffs him and reaffirms inter-superpower Thargoid cooperation.
 player_impact: None — background political report.
 persons:
 - Gibson Kincaid
@@ -19,10 +21,16 @@ topics:
 - politics
 - war
 arc_id: alliance-expansion
-modern_impact: Kincaid's attempt to exploit the Nova Imperium crisis for militaristic rhetoric was an early indicator of his authoritarian tendencies, immediately checked by Mahon's diplomatic pragmatism.
+modern_impact: Kincaid's attempt to exploit the Nova Imperium crisis for militaristic
+  rhetoric was an early indicator of his authoritarian tendencies, immediately checked
+  by Mahon's diplomatic pragmatism.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 1d5c151e-15de-58e4-97e9-761dccdda439
+- 8649e08e-90b0-5fc5-b810-a2b3cdf7b7fc
 ---
+
 
 President Gibson Kincaid has sought to illustrate potential threats to The Alliance, highlighting isolationist group Nova Imperium as an example. Speaking to the Alliance Tribune, President Kincaid said: 
 

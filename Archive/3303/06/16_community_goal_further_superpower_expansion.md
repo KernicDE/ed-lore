@@ -4,8 +4,12 @@ title: Community Goal  Further Superpower Expansion
 slug: community_goal_further_superpower_expansion
 date: '3303-06-16'
 source: GitHub
-summary: The Empire plans to bolster its Navy with a new Wells-class Carrier while the Federation plans an asteroid base in HIP 17692, both placing open orders for construction materials.
-player_impact: Pilots can deliver construction materials to support either the Imperial campaign (Merope Expeditionary Fleet) or the Federal initiative (Pleiades Resource Enterprise).
+summary: The Empire plans to bolster its Navy with a new Wells-class Carrier while
+  the Federation plans an asteroid base in HIP 17692, both placing open orders for
+  construction materials.
+player_impact: Pilots can deliver construction materials to support either the Imperial
+  campaign (Merope Expeditionary Fleet) or the Federal initiative (Pleiades Resource
+  Enterprise).
 persons: []
 groups:
 - Merope Expeditionary Fleet
@@ -16,10 +20,15 @@ locations:
 technologies:
 - Wells-class Carrier
 arc_id: pleiades-expansion
-modern_impact: Superpower military expansion in the Pleiades includes a new Imperial Wells-class Carrier and a Federal asteroid base, escalating regional tensions.
+modern_impact: Superpower military expansion in the Pleiades includes a new Imperial
+  Wells-class Carrier and a Federal asteroid base, escalating regional tensions.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 0c27b4e9-c032-506e-bd8e-d04fd25820a9
+- 78b1e3b7-49b5-5ca5-9107-a57eda6df6f0
 ---
+
 
 As the Empire and Federation continue to consolidate their presence in The Pleiades Star cluster, both superpowers have announced new expansion initiatives centred in the region. 
 

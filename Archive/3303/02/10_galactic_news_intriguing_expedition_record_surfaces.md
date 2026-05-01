@@ -4,7 +4,9 @@ title: Galactic News  Intriguing Expedition Record Surfaces
 slug: galactic_news_intriguing_expedition_record_surfaces
 date: '3303-02-10'
 source: GitHub
-summary: Personal logs surface from a clandestine expedition led by Professor Melville to find Guardian relics. The logs reveal discoveries of multiple site clusters and Melville's growing obsession, ending with a distress call.
+summary: Personal logs surface from a clandestine expedition led by Professor Melville
+  to find Guardian relics. The logs reveal discoveries of multiple site clusters and
+  Melville's growing obsession, ending with a distress call.
 player_impact: None
 persons:
 - Professor Melville
@@ -20,10 +22,15 @@ topics:
 - research
 - xenoarchaeology
 arc_id: guardian-ancients
-modern_impact: Discovery of Professor Melville's expedition logs revealing clusters of Guardian sites and raising questions about his disappearance.
+modern_impact: Discovery of Professor Melville's expedition logs revealing clusters
+  of Guardian sites and raising questions about his disappearance.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 1f14ad3b-bcd6-5523-9f8d-dde2069266ad
+- be638cbb-141a-592d-8f0b-14a0a6639c25
 ---
+
 
 A curious record has surfaced, detailing an apparently clandestine expedition to find relics from The lost civilisation known As the Guardians. 
 

@@ -4,8 +4,12 @@ title: Azimuth A Historical Perspective (Part Three)
 slug: azimuth_a_historical_perspective_part_three
 date: '3308-06-28'
 source: API
-summary: Part three covers Salvation's emergence in April 3307, his recruitment of pilots through Taurus Mining Ventures, the Cornsar incident where his prototype superweapon repelled a Thargoid fleet, and his rise as a rival to Aegis.
-player_impact: Pilots were recruited by Salvation to investigate Azimuth's work and transport equipment to Cornsar for his prototype superweapon. Some pilots supported Aegis through a counter-initiative.
+summary: Part three covers Salvation's emergence in April 3307, his recruitment of
+  pilots through Taurus Mining Ventures, the Cornsar incident where his prototype
+  superweapon repelled a Thargoid fleet, and his rise as a rival to Aegis.
+player_impact: Pilots were recruited by Salvation to investigate Azimuth's work and
+  transport equipment to Cornsar for his prototype superweapon. Some pilots supported
+  Aegis through a counter-initiative.
 persons:
 - Salvation
 groups:
@@ -25,13 +29,18 @@ topics:
 - war
 - xenoarchaeology
 arc_id: salvation-azimuth
-modern_impact: The Cornsar incident revealed Salvation's willingness to use populated systems as testing grounds for experimental weapons, raising the disturbing possibility that he deliberately attracted Thargoids to validate his superweapon technology.
+modern_impact: The Cornsar incident revealed Salvation's willingness to use populated
+  systems as testing grounds for experimental weapons, raising the disturbing possibility
+  that he deliberately attracted Thargoids to validate his superweapon technology.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 0beee1ec-da7a-57db-a67c-3a1f20eb4828
+- 6a7c7b71-6c5c-5c0b-8a5b-3b9f1c0e4b8d
 - 8ff66371-3861-5214-b69f-432b6c200e2b
+- ec4294f3-fcc8-5a3b-932a-ed2dc3319144
 ---
+
 
 An overview of how Aegis was impacted by the rise of Salvation as a competing anti-xeno force.
 “For now I cannot provide you with my credentials. Suffice to say that I am a man of science, unconnected with modern politics. I am recruiting agents to investigate the work undertaken by Azimuth Biochemicals two hundred years ago, which I believe to be of enormous scientific importance. Much has been lost in that time, but our dedication will allow us to rewrite history.”

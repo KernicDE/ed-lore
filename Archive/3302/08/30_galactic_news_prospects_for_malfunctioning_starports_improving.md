@@ -4,8 +4,13 @@ title: Galactic News  Prospects for Malfunctioning Starports Improving
 slug: galactic_news_prospects_for_malfunctioning_starports_improving
 date: '3302-08-30'
 source: GitHub
-summary: Technical personnel at New Dawn Station in the Ceos system announced that meta-alloys can now be applied twice as efficiently to counter Unknown Artefact-related interference. They identified the first week after symptoms appear as a critical window for treatment.
-player_impact: Deliver meta-alloys to malfunctioning starports within the first week of Unknown Artefact interference to prevent deterioration using the new efficient application method.
+summary: Technical personnel at New Dawn Station in the Ceos system announced that
+  meta-alloys can now be applied twice as efficiently to counter Unknown Artefact-related
+  interference. They identified the first week after symptoms appear as a critical
+  window for treatment.
+player_impact: Deliver meta-alloys to malfunctioning starports within the first week
+  of Unknown Artefact interference to prevent deterioration using the new efficient
+  application method.
 persons:
 - Tag Arthurs
 groups: []
@@ -20,10 +25,16 @@ technologies:
 - meta-alloys
 - Unknown Artefacts
 arc_id: barnacle-meta-alloy
-modern_impact: Improved meta-alloy efficiency and the identification of a critical treatment window reduce the logistical burden of combating technological plague outbreaks.
+modern_impact: Improved meta-alloy efficiency and the identification of a critical
+  treatment window reduce the logistical burden of combating technological plague
+  outbreaks.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 5d03d467-ee45-5527-9bce-0f7208fb19fe
+- fdb0f269-2b70-5fb4-9829-4ea6d66e35b1
 ---
+
 
 Technical personnel at New Dawn Station in The Ceos system have announced a breakthrough in the ongoing fight against the so-called technological plague. 
 

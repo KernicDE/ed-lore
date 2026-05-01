@@ -1,5 +1,4 @@
 ---
-
 uuid: 806c251d-1557-51b4-b731-91ab62e36274
 title: Coalsack Nebula Reports Thargoid Activity
 slug: coalsack_nebula_reports_thargoid_activity
@@ -30,12 +29,15 @@ modern_impact: '"Our security craft regularly patrol between the populated syste
 legacy_weight: 5
 significance: high
 related_uuids:
-- bd5a1074-4db4-556d-bd6d-4207d963ce10
-- 0c37c634-123c-5ee7-9616-d3f4b4263c90
-- 0c21bfb7-e2b2-5928-8ca2-d5f1e93df3e0
 - 005ebf22-d1c0-50cd-ae57-373efc6bdcde
+- 0c21bfb7-e2b2-5928-8ca2-d5f1e93df3e0
+- 0c37c634-123c-5ee7-9616-d3f4b4263c90
+- 17c9f162-826a-5492-8ff7-a04cd0d9cdfc
+- b883442d-253f-571f-bc25-cf61949cab5c
+- bd5a1074-4db4-556d-bd6d-4207d963ce10
 - f7438e0e-89eb-5e2d-b974-7147bf67d4b1
 ---
+
 
 
 The human colonists in the Coalsack Nebula has raised the alarm after Thargoid forces appeared several systems.

@@ -4,7 +4,8 @@ title: Rebellion Spreads Through the Federation
 slug: rebellion_spreads_through_the_federation
 date: '3307-09-13'
 source: API
-summary: Seven additional Federal factions sever ties with the superpower over the Proactive Detection Bureau, bringing the total number of seceded factions to fifteen.
+summary: Seven additional Federal factions sever ties with the superpower over the
+  Proactive Detection Bureau, bringing the total number of seceded factions to fifteen.
 player_impact: None
 persons:
 - Felicia Winters
@@ -19,7 +20,11 @@ arc_id: federal-politics
 modern_impact: Federal political developments shape superpower relations.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 15808674-3d63-5e87-a671-2880365fa971
+- 9d24c39b-fe24-50ee-b08b-73097a12afd6
 ---
+
 
 A Further seven Federal factions have severed ties With the superpower in protest against government monitoring of communications.
 These latest secessions have been undertaken by minor factions that do not control any systems, including Unktock Free, United Posenoi League and Progressive Party of Inggale.

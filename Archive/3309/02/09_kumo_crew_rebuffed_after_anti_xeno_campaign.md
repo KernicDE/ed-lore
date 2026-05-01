@@ -4,8 +4,11 @@ title: Kumo Crew Rebuffed after Anti-Xeno Campaign
 slug: kumo_crew_rebuffed_after_anti_xeno_campaign
 date: '3309-02-09'
 source: API
-summary: The Kumo Crew's defence of the California Nebula succeeds, but its attempt to seize control of local ports is repelled by communities and the Turner Research Group.
-player_impact: Pilots who contributed to the anti-xeno initiatives were reimbursed Thargoid combat bonds at The Mictlan in California Sector HR-W d1-28.
+summary: The Kumo Crew's defence of the California Nebula succeeds, but its attempt
+  to seize control of local ports is repelled by communities and the Turner Research
+  Group.
+player_impact: Pilots who contributed to the anti-xeno initiatives were reimbursed
+  Thargoid combat bonds at The Mictlan in California Sector HR-W d1-28.
 persons:
 - Archon Delaine
 groups:
@@ -25,12 +28,18 @@ topics:
 - war
 entities: []
 arc_id: thargoid-titan-war
-modern_impact: 'The Pegasi Sentinel reported: "There can be no doubt that Archon Delaine takes the security of the California Nebula seriously." This encapsulates the paradox of pirate syndicates providing genuine defence while exploiting the crisis to expand criminal territory, a tension that local populations ultimately rejected.'
+modern_impact: 'The Pegasi Sentinel reported: "There can be no doubt that Archon Delaine
+  takes the security of the California Nebula seriously." This encapsulates the paradox
+  of pirate syndicates providing genuine defence while exploiting the crisis to expand
+  criminal territory, a tension that local populations ultimately rejected.'
 legacy_weight: 5
 significance: high
 related_uuids:
 - 40d9b854-2973-5053-a42d-6955f8876544
+- d5e37c1b-cb44-581f-b22b-f30602b799f8
+- df6e411a-1cfc-5b1f-be65-3e9644b00824
 ---
+
 
 **Pilots’ Federation ALERT**
 A successful initiative to hold the California Nebula against Thargoid invasion has succeeded, for now at least.

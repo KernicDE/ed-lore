@@ -4,7 +4,9 @@ title: Galactic News  Capital Ships Vulnerable to Thargoid Attack
 slug: galactic_news_capital_ships_vulnerable_to_thargoid_attack
 date: '3303-10-28'
 source: GitHub
-summary: Admiral Aden Tanner announced that capital ships are vulnerable to Thargoid attack because shutdown-field neutraliser technology cannot be adapted to larger vessels, and Thargoids target them with multiple shutdown beams simultaneously.
+summary: Admiral Aden Tanner announced that capital ships are vulnerable to Thargoid
+  attack because shutdown-field neutraliser technology cannot be adapted to larger
+  vessels, and Thargoids target them with multiple shutdown beams simultaneously.
 player_impact: None
 persons:
 - Aden Tanner
@@ -19,10 +21,15 @@ technologies:
 - capital ships
 - shutdown beams
 arc_id: thargoid-contact
-modern_impact: Thargoid activity escalates, fundamentally changing the galactic security landscape and driving the creation of anti-xeno defence forces.
+modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
+  landscape and driving the creation of anti-xeno defence forces.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 2059a3f9-7e38-561d-833d-8cfee2749471
+- 728a9a35-8654-5939-97fc-37ed73338788
 ---
+
 
 Admiral Aden Tanner, Aegis’s chief military liaison, has addressed reports of capital ships being destroyed by The Thargoids. 
 

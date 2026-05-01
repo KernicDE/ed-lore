@@ -4,8 +4,13 @@ title: One Year On
 slug: one_year_on
 date: '3304-01-12'
 source: GitHub
-summary: One year after the Thargoids returned to human-occupied space, their aggression has escalated to starport attacks in the Pleiades Nebula. Political commentator Daxton Sung criticizes the superpowers' responses, noting militaristic rhetoric from Hudson, noncommittal statements from Lavigny-Duval, and sympathetic words from Mahon, while questioning Aegis's weapons program as the only solution.
-player_impact: Reflects the ongoing Thargoid threat and the political paralysis in responding to it.
+summary: One year after the Thargoids returned to human-occupied space, their aggression
+  has escalated to starport attacks in the Pleiades Nebula. Political commentator
+  Daxton Sung criticizes the superpowers' responses, noting militaristic rhetoric
+  from Hudson, noncommittal statements from Lavigny-Duval, and sympathetic words from
+  Mahon, while questioning Aegis's weapons program as the only solution.
+player_impact: Reflects the ongoing Thargoid threat and the political paralysis in
+  responding to it.
 persons:
 - Daxton Sung
 groups:
@@ -17,10 +22,15 @@ topics:
 - construction
 - research
 arc_id: thargoid-contact
-modern_impact: One year into the Thargoid conflict, the lack of a unified political response and reliance on Aegis becomes a recurring theme in galactic commentary.
+modern_impact: One year into the Thargoid conflict, the lack of a unified political
+  response and reliance on Aegis becomes a recurring theme in galactic commentary.
 legacy_weight: 5
 significance: high
+related_uuids:
+- a4e143f6-2da4-5dee-aaa5-945d54781fd0
+- ba41c6d7-0ba7-575d-a01f-6fd47d652160
 ---
+
 
 It has now been a year since The Thargoids returned to human-occupied space, and in that time they have become increasingly aggressive, their hostility culminating in starport attacks in the Pleiades Nebula. 
 

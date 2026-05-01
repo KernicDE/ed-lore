@@ -4,8 +4,12 @@ title: Distant Worlds 3 Expedition Marks Major Milestones on Route
 slug: distant_worlds_3_expedition_marks_major_milestones_on_route
 date: 3312-02-13
 source: API
-summary: Distant Worlds 3 reports major milestones including Colonia regrouping, hazardous surface landing near white dwarf Spoihaae XE-X d2-9, Seldowitch Nebula surveys, and DSSA carrier discovery. Fleet bound for Beagle Point.
-player_impact: 'DW3 expedition milestones: cleared inhabited space, reached Colonia (WP1), ''Monde de la Mort'' surface insertion, Seldowitch Nebula (WP2), Deep Space Support Array carrier discovery. On course for Beagle Point.'
+summary: Distant Worlds 3 reports major milestones including Colonia regrouping, hazardous
+  surface landing near white dwarf Spoihaae XE-X d2-9, Seldowitch Nebula surveys,
+  and DSSA carrier discovery. Fleet bound for Beagle Point.
+player_impact: 'DW3 expedition milestones: cleared inhabited space, reached Colonia
+  (WP1), ''Monde de la Mort'' surface insertion, Seldowitch Nebula (WP2), Deep Space
+  Support Array carrier discovery. On course for Beagle Point.'
 persons:
 - Elaine Howard
 - Hermine Delarue
@@ -20,13 +24,17 @@ topics:
 - research
 - war
 arc_id: distant-worlds-3
-modern_impact: Surface insertion at 'Monde de la Mort' establishes white-dwarf proximity landing as operationally feasible. DSSA carrier discovery expands known support infrastructure in deep space, potentially enabling longer-range independent expeditions.
+modern_impact: Surface insertion at 'Monde de la Mort' establishes white-dwarf proximity
+  landing as operationally feasible. DSSA carrier discovery expands known support
+  infrastructure in deep space, potentially enabling longer-range independent expeditions.
 legacy_weight: 3
 significance: medium
 related_uuids:
-- 733415a6-cbfd-5926-a7dc-3a7569d14645
+- 5d594007-84d8-500c-8b57-7ac95e8d6284
 - 6727df09-c220-537b-ac30-e91181fadd2a
+- 733415a6-cbfd-5926-a7dc-3a7569d14645
 ---
+
 
 The Distant Worlds 3 expedition has confirmed a series of key achievements as its diverse fleet continues toward an unexplored region of the galaxy.
 Expedition control reported that the flotilla has successfully cleared inhabited space and completed its first major staging objective at Colonia, designated Waypoint One of the current route. Colonia served as the fleet’s primary logistics and regrouping hub before the start of extended deep-range operations.

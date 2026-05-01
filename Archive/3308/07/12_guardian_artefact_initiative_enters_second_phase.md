@@ -4,8 +4,10 @@ title: Guardian Artefact Initiative Enters Second Phase
 slug: guardian_artefact_initiative_enters_second_phase
 date: '3308-07-12'
 source: API
-summary: Azimuth Biotech extends its Guardian artefact delivery campaign as the Proteus Wave requires increasing quantities of Guardian technology.
-player_impact: Pilots were asked to continue delivering Guardian artefacts to the Bright Sentinel for a second week.
+summary: Azimuth Biotech extends its Guardian artefact delivery campaign as the Proteus
+  Wave requires increasing quantities of Guardian technology.
+player_impact: Pilots were asked to continue delivering Guardian artefacts to the
+  Bright Sentinel for a second week.
 persons:
 - Morag Halloran
 groups:
@@ -17,14 +19,19 @@ topics:
 - alien contact
 - xenoarchaeology
 arc_id: salvation-azimuth
-modern_impact: Halloran's warning that 'passage through the HIP 22460 system has become hazardous' underscored the escalating danger pilots faced while supporting Azimuth's superweapon construction.
+modern_impact: Halloran's warning that 'passage through the HIP 22460 system has become
+  hazardous' underscored the escalating danger pilots faced while supporting Azimuth's
+  superweapon construction.
 legacy_weight: 5
 significance: high
 related_uuids:
-- e8461472-4c75-5456-9164-cf415d0cad55
+- 057ab23f-37c2-5666-a9ad-0f2e7344b006
 - 1b3c4f7c-bb24-5a8c-aeed-4936f7b5faea
+- af81ef25-3735-51f4-bd67-5d52721e0376
 - bc635a7c-22bf-5a79-b6bb-781f8b67a199
+- e8461472-4c75-5456-9164-cf415d0cad55
 ---
+
 
 **Pilots’ Federation ALERT**
 Azimuth Biotech has repeated its call for Guardian artefacts to be delivered to the HIP 22460 system.
