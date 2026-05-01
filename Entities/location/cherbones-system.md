@@ -11,6 +11,11 @@ related_entities:
 - lave-station
 - lave-system
 - diso-system
+coords:
+  x: 5.1875
+  y: 84.53125
+  z: -16.75
+edsm_url: https://www.edsm.net/en/system?search=Cherbones
 ---
 
 <!-- AUTO-GENERATED -->

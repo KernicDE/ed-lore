@@ -9,6 +9,11 @@ related_entities:
 - altair-purple-mob
 - federal-government
 - grandin-gateway
+coords:
+  x: -12.3125
+  y: -2.75
+  z: 11
+edsm_url: https://www.edsm.net/en/system?search=Altair
 ---
 
 <!-- AUTO-GENERATED -->

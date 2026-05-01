@@ -11,6 +11,14 @@ related_entities:
 - sothis
 - quince
 - fehu
+coords:
+  x: 0
+  y: 0
+  z: 0
+population: 18320926115
+allegiance: Federation
+government: Corporate
+edsm_url: https://www.edsm.net/en/system?search=Sol
 ---
 
 <!-- AUTO-GENERATED -->

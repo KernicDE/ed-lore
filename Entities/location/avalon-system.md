@@ -11,6 +11,11 @@ related_entities:
 - arrhenius-terminal
 - bard
 - algol-system
+coords:
+  x: 50.1875
+  y: -132.96875
+  z: 36.1875
+edsm_url: https://www.edsm.net/en/system?search=Avalon
 ---
 
 <!-- AUTO-GENERATED -->

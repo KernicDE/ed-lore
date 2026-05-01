@@ -8,6 +8,11 @@ mention_count: 2
 related_entities:
 - earth-defence-fleet
 - fisher-terminal
+coords:
+  x: 11.875
+  y: 0.375
+  z: -30.25
+edsm_url: https://www.edsm.net/en/system?search=Okinura
 ---
 
 <!-- AUTO-GENERATED -->

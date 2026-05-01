@@ -9,6 +9,11 @@ related_entities:
 - sovereign-justice-collective
 - greeboskis-outpost
 - pilots-federation
+coords:
+  x: 44.28125
+  y: -82.96875
+  z: 52.5
+edsm_url: https://www.edsm.net/en/system?search=Phiagre
 ---
 
 <!-- AUTO-GENERATED -->

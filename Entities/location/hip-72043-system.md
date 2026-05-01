@@ -9,6 +9,11 @@ related_entities:
 - first-great-expedition
 - kippax-ring
 - sagittarius-carina-arm
+coords:
+  x: -22
+  y: 118.5
+  z: 58.78125
+edsm_url: https://www.edsm.net/en/system?search=HIP%2072043
 ---
 
 <!-- AUTO-GENERATED -->

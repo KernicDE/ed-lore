@@ -8,6 +8,11 @@ mention_count: 1
 related_entities:
 - newton-dock-medical-staff
 - newton-dock
+coords:
+  x: -30.75
+  y: 38.15625
+  z: 94.6875
+edsm_url: https://www.edsm.net/en/system?search=BD-02%204304
 ---
 
 <!-- AUTO-GENERATED -->

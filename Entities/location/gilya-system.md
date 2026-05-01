@@ -10,6 +10,11 @@ related_entities:
 - sacra-oculus
 - pilots-federation
 - bell-orbital
+coords:
+  x: -76.78125
+  y: 51.03125
+  z: 21.75
+edsm_url: https://www.edsm.net/en/system?search=Gilya
 ---
 
 <!-- AUTO-GENERATED -->

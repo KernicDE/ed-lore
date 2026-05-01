@@ -11,6 +11,11 @@ related_entities:
 - avalon-system
 - arrhenius-terminal
 - bard
+coords:
+  x: -45.75
+  y: -23.125
+  z: -77.40625
+edsm_url: https://www.edsm.net/en/system?search=Algol
 ---
 
 <!-- AUTO-GENERATED -->

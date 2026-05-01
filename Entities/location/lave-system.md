@@ -11,6 +11,11 @@ related_entities:
 - cherbones-mining-authority
 - diso-system
 - cherbones-system
+coords:
+  x: 75.75
+  y: 48.75
+  z: 70.75
+edsm_url: https://www.edsm.net/en/system?search=Lave
 ---
 
 <!-- AUTO-GENERATED -->
