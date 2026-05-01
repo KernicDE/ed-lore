@@ -478,9 +478,21 @@ def write_profiles(graph: dict[str, Any]) -> None:
         path.write_text(content, encoding="utf-8")
 
 
+AUDIO_MANIFEST_FILE = BASE_DIR / "scripts" / "audio_manifest.json"
+
 def main() -> int:
     print("Building lore_graph.json...")
     graph = build()
+
+    # Mark articles that have generated audio
+    audio_uuids: set[str] = set()
+    if AUDIO_MANIFEST_FILE.exists():
+        audio_manifest = json.loads(AUDIO_MANIFEST_FILE.read_text(encoding="utf-8"))
+        audio_uuids = set(audio_manifest.keys())
+        print(f"Audio manifest found: {len(audio_uuids)} files")
+    for art in graph["articles"]:
+        art["has_audio"] = art["uuid"] in audio_uuids
+
     OUTPUT_FILE.write_text(json.dumps(graph, indent=2, ensure_ascii=False), encoding="utf-8")
     print(f"Articles: {graph['meta']['article_count']}, Entities: {graph['meta']['entity_count']}, Arcs: {graph['meta']['arc_count']}")
 

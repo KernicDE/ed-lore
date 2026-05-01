@@ -19,6 +19,7 @@ interface Article {
   player_impact?: string;
   summary?: string;
   related_uuids?: string[];
+  has_audio?: boolean;
 }
 
 interface TimelineProps {
@@ -376,7 +377,7 @@ export default function Timeline({
                   </div>
                   <div style={{ display: 'flex', flexDirection: 'column', marginLeft: 'auto', flexShrink: 0 }}>
                     <CopyLinkButton uuid={art.uuid} />
-                    <PlayAudioButton uuid={art.uuid} title={art.title} />
+                    {art.has_audio && <PlayAudioButton uuid={art.uuid} title={art.title} />}
                   </div>
                 </div>
 
