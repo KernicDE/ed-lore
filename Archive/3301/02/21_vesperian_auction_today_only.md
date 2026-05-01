@@ -4,8 +4,13 @@ title: Vesperian Auction Today Only
 slug: vesperian_auction_today_only
 date: '3301-02-21'
 source: GitHub
-summary: An anonymous donor contributed a case of rare Vesperian Nectar to SpecialEffect, a charity enhancing quality of life for people with physical disabilities. Vesperian Nectar is produced from Vesperian Orchid flowers on the toxic, acidic planet Slough in Vesper-M4 by the deadly Vesperian Orchid Bee. Commander Angel Rose is holding private auctions throughout the day on behalf of SpecialEffect.
-player_impact: Pilots can participate in Commander Angel Rose's auctions to acquire rare Vesperian Nectar while supporting a charitable cause.
+summary: An anonymous donor contributed a case of rare Vesperian Nectar to SpecialEffect,
+  a charity enhancing quality of life for people with physical disabilities. Vesperian
+  Nectar is produced from Vesperian Orchid flowers on the toxic, acidic planet Slough
+  in Vesper-M4 by the deadly Vesperian Orchid Bee. Commander Angel Rose is holding
+  private auctions throughout the day on behalf of SpecialEffect.
+player_impact: Pilots can participate in Commander Angel Rose's auctions to acquire
+  rare Vesperian Nectar while supporting a charitable cause.
 persons:
 - Commander Angel Rose
 groups:
@@ -15,9 +20,15 @@ locations:
 - Slough
 topics:
 - humanitarian
-modern_impact: The Vesperian Nectar charity auction demonstrated how the pilot community leveraged rare galactic commodities for humanitarian causes.
+modern_impact: The Vesperian Nectar charity auction demonstrated how the pilot community
+  leveraged rare galactic commodities for humanitarian causes.
 legacy_weight: 1
 significance: low
+related_uuids:
+- 4ce471c6-afd4-5570-8422-b2d939bb8d7a
+- 85cf9186-db93-5b83-9005-b93e35f40528
+- f976f3ec-0ec9-5ce1-bbc9-4c12579320d1
+- 4a52f193-5209-5e9a-b367-4293b3cd9272
 ---
 
 The galaxy is abuzz With excitement following The news that an anonymous donor has contributed a case of highly valuable and extremely rare Vesperian Nectar to the charity SpecialEffect, an organisation dedicated to leveraging technology in order to enhance the quality of life for people With physical disabilities . 

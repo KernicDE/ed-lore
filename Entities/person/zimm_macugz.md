@@ -6,6 +6,8 @@ first_seen_date: '3301-02-18'
 last_seen_date: '3301-02-18'
 mention_count: 1
 inara_url: https://inara.cz/elite/cmdr-search/?search=Zimm_Macugz
+bio: Zimm_Macugz is a Commander mentioned in GalNet reports from the Elite Dangerous
+  universe.
 ---
 
 

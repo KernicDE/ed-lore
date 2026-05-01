@@ -4,13 +4,24 @@ title: Galactic News  Cryptic Messages Found in Local Bulletins
 slug: galactic_news_cryptic_messages_found_in_local_bulletins
 date: '3302-01-29'
 source: GitHub
-summary: Pilots have reported finding cryptic, partially corrupted messages hidden in starport news feeds. The messages reference apparent criminal activity and contain coordinates, suggesting they may be encoded criminal communiques that have inadvertently surfaced in public channels.
-player_impact: Pilots should keep an eye on local news feeds for cryptic messages that may contain coordinates or references to criminal activity. The origin and purpose of these messages remain unknown.
+summary: Pilots have reported finding cryptic, partially corrupted messages hidden
+  in starport news feeds. The messages reference apparent criminal activity and contain
+  coordinates, suggesting they may be encoded criminal communiques that have inadvertently
+  surfaced in public channels.
+player_impact: Pilots should keep an eye on local news feeds for cryptic messages
+  that may contain coordinates or references to criminal activity. The origin and
+  purpose of these messages remain unknown.
 topics:
 - crime
-modern_impact: Early indication of hidden criminal communications and encoded messages in public channels, adding a layer of mystery to station news feeds.
+modern_impact: Early indication of hidden criminal communications and encoded messages
+  in public channels, adding a layer of mystery to station news feeds.
 legacy_weight: 2
 significance: low
+related_uuids:
+- d30c2b1f-599d-5d63-ae05-a2f9319591bd
+- 06fd195c-2843-548f-8152-7f60d7c4e12b
+- 79a6572d-c558-564e-85b4-86646c9530c6
+- 5b61c1b0-5a50-5b1f-8f13-d87c382cd4ee
 ---
 
 A number of pilots have reported cryptic finding messages in starports' news feeds. The origin of the messages is not clear, but they share certain characteristics, including references to apparent criminal activity, and In some cases coordinates. Often the messages are partially corrupted, suggesting they were originally hidden in the news feeds in an encoded form. Precisely why the messages have started surfacing in the public news channel is unclear. 

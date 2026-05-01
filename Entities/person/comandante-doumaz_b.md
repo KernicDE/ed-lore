@@ -6,6 +6,8 @@ first_seen_date: '3302-02-06'
 last_seen_date: '3302-02-06'
 mention_count: 1
 inara_url: https://inara.cz/elite/cmdr-search/?search=Comandante%20Doumaz_B
+bio: Comandante Doumaz_B is a Commander mentioned in GalNet reports from the Elite
+  Dangerous universe.
 ---
 
 

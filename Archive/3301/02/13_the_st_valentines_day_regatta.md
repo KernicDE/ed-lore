@@ -4,8 +4,13 @@ title: The St. Valentine's Day Regatta
 slug: the_st_valentines_day_regatta
 date: '3301-02-13'
 source: GitHub
-summary: Captain Millington announced details of the St. Valentine's Regatta, one of the most prestigious events on the racing calendar. Beginning in Kumbaya, the race follows a gruelling 500-light-year route through dangerous sectors. In its 37-year history, the race has never been won by a pilot without exemplary skill, and many winners became legends. Commander Kitiara is handling last-minute entrants.
-player_impact: Pilots can enter the St. Valentine's Regatta by contacting Commander Kitiara. The race begins on the 14th and covers 500 light-years from Kumbaya.
+summary: Captain Millington announced details of the St. Valentine's Regatta, one
+  of the most prestigious events on the racing calendar. Beginning in Kumbaya, the
+  race follows a gruelling 500-light-year route through dangerous sectors. In its
+  37-year history, the race has never been won by a pilot without exemplary skill,
+  and many winners became legends. Commander Kitiara is handling last-minute entrants.
+player_impact: Pilots can enter the St. Valentine's Regatta by contacting Commander
+  Kitiara. The race begins on the 14th and covers 500 light-years from Kumbaya.
 persons:
 - Captain Millington
 - Commander Kitiara
@@ -14,9 +19,15 @@ locations:
 - Kumbaya
 topics:
 - exploration
-modern_impact: The St. Valentine's Regatta remained one of the galaxy's most challenging and prestigious racing events, testing pilot skill across dangerous sectors.
+modern_impact: The St. Valentine's Regatta remained one of the galaxy's most challenging
+  and prestigious racing events, testing pilot skill across dangerous sectors.
 legacy_weight: 1
 significance: low
+related_uuids:
+- 7032e27b-cf0a-5aca-ba1b-9c50e7e9f75c
+- 1049b593-b7c1-5bec-b23b-4a2a6ee80922
+- 1f71dbb5-7fd6-56c2-9803-6a7483b392f2
+- 3dbbe455-8adc-5c5b-a970-8fea2d0c9883
 ---
 
 Captain Millington, chief of racing operations, has finally announced The details of This year's St. Valentine's Regatta, One of the most prestigious events on the yearly racing calendar. The race, Which begins in the Kumbaya system, will see participants follow a gruelling 500ly route that passes through some of the most dangerous areas in the surrounding sectors.   

@@ -4,8 +4,13 @@ title: The Fastest Pilot in the Galaxy
 slug: the_fastest_pilot_in_the_galaxy
 date: '3301-02-19'
 source: GitHub
-summary: Commander Samwell Drakhyr, winner of the 37th St. Valentine Day Regatta, shared his racing philosophy with Casey Murrow. Drakhyr described how a bad pilot is controlled by their ship, a good pilot controls their ship, and he strives for a state where 'there is no mind, no ship, no pilot' as separate entities, with his hands moving as if the universe itself were moving around them.
-player_impact: Drakhyr's insights into piloting technique offer guidance for competitive racers and combat pilots seeking mastery over their vessels.
+summary: Commander Samwell Drakhyr, winner of the 37th St. Valentine Day Regatta,
+  shared his racing philosophy with Casey Murrow. Drakhyr described how a bad pilot
+  is controlled by their ship, a good pilot controls their ship, and he strives for
+  a state where 'there is no mind, no ship, no pilot' as separate entities, with his
+  hands moving as if the universe itself were moving around them.
+player_impact: Drakhyr's insights into piloting technique offer guidance for competitive
+  racers and combat pilots seeking mastery over their vessels.
 persons:
 - Commander Samwell Drakhyr
 - Casey Murrow
@@ -13,9 +18,15 @@ groups: []
 locations: []
 topics:
 - exploration
-modern_impact: Commander Drakhyr's philosophical approach to piloting became widely quoted among racing enthusiasts and combat pilots alike.
+modern_impact: Commander Drakhyr's philosophical approach to piloting became widely
+  quoted among racing enthusiasts and combat pilots alike.
 legacy_weight: 1
 significance: low
+related_uuids:
+- d414c438-0d78-5b20-a6d3-9577a9d83973
+- b8c1669e-339e-5b03-a1c1-7a00b3b79903
+- 4ce471c6-afd4-5570-8422-b2d939bb8d7a
+- 85cf9186-db93-5b83-9005-b93e35f40528
 ---
 
 This is Casey Murrow and today I'm talking exclusively With Commander Samwell Drakhyr, winner of This year’s big race, the St. Valentine Day Regatta. So just how did you manage to win it all Sam? 

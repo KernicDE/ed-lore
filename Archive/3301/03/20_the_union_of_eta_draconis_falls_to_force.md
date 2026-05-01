@@ -4,8 +4,13 @@ title: The Union of Eta Draconis Falls to Force
 slug: the_union_of_eta_draconis_falls_to_force
 date: '3301-03-20'
 source: GitHub
-summary: A covert raid by Gold Vision Company special operations forces captured Swift Terminal in Eta Draconis. Silent Sidewinders penetrated the starport, captured the main control terminal, shut down docking bay power, and allowed the main assault force unrestricted access. President Vondell praised the 8th Dragon Squadron and promised peace and prosperity for Eta Draconis.
-player_impact: Pilots may encounter conflict or support operations in Eta Draconis as the Gold Vision Company consolidates control.
+summary: A covert raid by Gold Vision Company special operations forces captured Swift
+  Terminal in Eta Draconis. Silent Sidewinders penetrated the starport, captured the
+  main control terminal, shut down docking bay power, and allowed the main assault
+  force unrestricted access. President Vondell praised the 8th Dragon Squadron and
+  promised peace and prosperity for Eta Draconis.
+player_impact: Pilots may encounter conflict or support operations in Eta Draconis
+  as the Gold Vision Company consolidates control.
 persons:
 - President Vondell
 groups:
@@ -16,9 +21,15 @@ locations:
 - Swift Terminal
 topics:
 - war
-modern_impact: The Gold Vision Company's takeover of Eta Draconis demonstrated how corporate military forces could seize control of systems with minimal Federal response.
+modern_impact: The Gold Vision Company's takeover of Eta Draconis demonstrated how
+  corporate military forces could seize control of systems with minimal Federal response.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 454447f5-366f-5431-a902-8d7e12de0889
+- cbe7af14-8ee3-51ad-af51-8732af579af9
+- d97415fc-1060-58ea-b5f1-6691bce40028
+- df6229b9-1152-50a4-aacc-cea4be6f9bae
 ---
 
 Inside sources report that a covert raid, carried out by special operation forces acting on behalf of The Gold Vision Company, has led to the capture of Swift Terminal in Eta Draconis.  
