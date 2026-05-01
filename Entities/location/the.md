@@ -3,8 +3,8 @@ id: the
 name: The
 type: location
 first_seen_date: '3301-03-17'
-last_seen_date: '3304-05-31'
-mention_count: 10
+last_seen_date: '3303-12-29'
+mention_count: 9
 related_entities:
 - alliance
 - 78-ursae-majoris
@@ -18,8 +18,8 @@ related_entities:
 # The
 
 First mentioned: **3301-03-17**  
-Last mentioned: **3304-05-31**  
-Total mentions: **10**
+Last mentioned: **3303-12-29**  
+Total mentions: **9**
 
 ## Related
 

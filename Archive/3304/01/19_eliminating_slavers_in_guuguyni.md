@@ -4,13 +4,20 @@ title: Eliminating Slavers in Guuguyni
 slug: eliminating_slavers_in_guuguyni
 date: '3304-01-19'
 source: GitHub
+summary: Princess Aisling Duval has announced plans to fund a peacekeeping operation in the Guuguyni system to neutralize an illegal slave-trading ring. She described illegal slavery as an abhorrent practice that negates victims' fundamental human rights.
+player_impact: Pilots can hand in bounty vouchers at Shen Terminal in the Guuguyni system to receive rewards.
+persons:
+- Aisling Duval
+groups:
+- Guuguyni Empire Consulate
 locations:
-- Shen Terminal in the Guuguyni
+- Guuguyni
+- Shen Terminal
 topics:
 - slavery
 - trade
 - war
-modern_impact: Trade initiative affecting commodity markets.
+modern_impact: Aisling Duval's anti-slavery campaigns continue her public opposition to the Empire's practice of imperial slavery, reinforcing her humanitarian political brand.
 legacy_weight: 2
 significance: low
 ---

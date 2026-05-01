@@ -4,16 +4,22 @@ title: Ram Tah Announces New Discoveries
 slug: ram_tah_announces_new_discoveries
 date: '3304-03-07'
 source: GitHub
-locations:
+summary: Engineer Ram Tah has announced significant discoveries from Guardian sites investigated by pilots. Several new sites were found, some actively defended by ancient Guardian drones. Analysis yielded technological information allowing Ram Tah to produce blueprints for new weaponry and power-plant systems based on Guardian designs. He is liaising with technology brokers to manufacture and distribute these devices.
+player_impact: Pilots can continue to investigate Guardian sites and deliver data to Ram Tah for further research.
+persons:
 - Ram Tah
+groups:
+- Technology brokers
+- Guardian drones
+locations:
+- Colonia
 topics:
 - engineering
 - investigation
 - research
 - xenoarchaeology
 arc_id: guardian-ancients
-modern_impact: Guardian site research expands scientific understanding of ancient
-  alien civilisations and their technology.
+modern_impact: Guardian site research expands scientific understanding of ancient alien civilisations and their technology.
 legacy_weight: 4
 significance: high
 ---

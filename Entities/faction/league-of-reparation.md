@@ -2,32 +2,32 @@
 id: league-of-reparation
 name: League of Reparation
 type: faction
-first_seen_date: '3304-06-02'
+first_seen_date: '3304-05-05'
 last_seen_date: '3304-11-21'
-mention_count: 23
+mention_count: 29
 related_entities:
-- alliance-interpol
 - imperial-internal-security-service
-- alliance
-- federal-intelligence-agency
 - inra
+- alliance
+- alliance-interpol
+- federal-intelligence-agency
 ---
 
 <!-- AUTO-GENERATED -->
 
 # League of Reparation
 
-First mentioned: **3304-06-02**  
+First mentioned: **3304-05-05**  
 Last mentioned: **3304-11-21**  
-Total mentions: **23**
+Total mentions: **29**
 
 ## Related
 
+- [[Imperial Internal Security Service]] (10 co-mentions)
+- [[INRA]] (10 co-mentions)
+- [[Alliance]] (10 co-mentions)
 - [[Alliance Interpol]] (10 co-mentions)
-- [[Imperial Internal Security Service]] (9 co-mentions)
-- [[Alliance]] (9 co-mentions)
-- [[Federal Intelligence Agency]] (8 co-mentions)
-- [[INRA]] (6 co-mentions)
+- [[Federal Intelligence Agency]] (9 co-mentions)
 
 ## Biography
 

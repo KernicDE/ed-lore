@@ -4,24 +4,30 @@ title: The Guardians  The Galaxy Reacts
 slug: the_guardians_the_galaxy_reacts
 date: '3304-03-08'
 source: GitHub
-entities:
+summary: Reactions to the discovery of new Guardian sites and Ram Tah's Guardian-inspired technologies have been varied. Federal President Zachary Hudson and Imperial Admiral Denton Patreus welcomed the new armaments for anti-Thargoid defence. Alliance Prime Minister Edmund Mahon praised the expansion of scientific knowledge. Simguru Pranav Antal of Utopia looked forward to shared prosperity. Professor Alba Tesreau of Aegis expressed hope that studying Guardian data would enhance understanding of Thargoid motives.
+player_impact: None explicitly stated.
+persons:
 - Alba Tesreau
-- Edmund Mahon struck
+- Edmund Mahon
+- Zachary Hudson
+- Denton Patreus
+- Pranav Antal
+- Ram Tah
 groups:
 - Aegis
 - Alliance
 - Utopia
+- Federation
+- Empire
 locations:
-- Aegis
-- Ram Tah
+- Colonia
 topics:
 - alien contact
 - research
 - war
 - xenoarchaeology
 arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: Guardian technology development receives broad political support across all superpowers, viewed as both a scientific and military opportunity.
 legacy_weight: 5
 significance: high
 ---

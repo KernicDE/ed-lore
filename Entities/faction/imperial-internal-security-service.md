@@ -7,10 +7,10 @@ last_seen_date: '3312-02-10'
 mention_count: 47
 related_entities:
 - nmla
-- alliance
 - league-of-reparation
+- alliance
 - federal-intelligence-agency
-- iiss
+- alioth
 ---
 
 <!-- AUTO-GENERATED -->
@@ -24,10 +24,10 @@ Total mentions: **47**
 ## Related
 
 - [[NMLA]] (11 co-mentions)
+- [[League of Reparation]] (10 co-mentions)
 - [[Alliance]] (10 co-mentions)
-- [[League of Reparation]] (9 co-mentions)
 - [[Federal Intelligence Agency]] (8 co-mentions)
-- [[IISS]] (6 co-mentions)
+- [[Alioth]] (6 co-mentions)
 
 ## Biography
 

@@ -4,18 +4,20 @@ title: One Year On
 slug: one_year_on
 date: '3304-01-12'
 source: GitHub
+summary: One year after the Thargoids returned to human-occupied space, their aggression has escalated to starport attacks in the Pleiades Nebula. Political commentator Daxton Sung criticizes the superpowers' responses, noting militaristic rhetoric from Hudson, noncommittal statements from Lavigny-Duval, and sympathetic words from Mahon, while questioning Aegis's weapons program as the only solution.
+player_impact: Reflects the ongoing Thargoid threat and the political paralysis in responding to it.
+persons:
+- Daxton Sung
 groups:
 - Aegis
 locations:
-- Aegis
 - Pleiades Nebula
 topics:
 - alien contact
 - construction
 - research
 arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: One year into the Thargoid conflict, the lack of a unified political response and reliance on Aegis becomes a recurring theme in galactic commentary.
 legacy_weight: 5
 significance: high
 ---

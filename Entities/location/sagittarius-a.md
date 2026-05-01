@@ -4,7 +4,7 @@ name: Sagittarius A*
 type: location
 first_seen_date: '3301-04-23'
 last_seen_date: '3305-07-03'
-mention_count: 18
+mention_count: 17
 related_entities:
 - deep-space-surveys
 - stuemeae-fg-y-d7561
@@ -19,7 +19,7 @@ related_entities:
 
 First mentioned: **3301-04-23**  
 Last mentioned: **3305-07-03**  
-Total mentions: **18**
+Total mentions: **17**
 
 ## Related
 

@@ -4,10 +4,15 @@ title: Galactic News  Alliance Campaign Concludes
 slug: galactic_news_alliance_campaign_concludes
 date: '3304-01-05'
 source: GitHub
+summary: The Alliance has announced the successful conclusion of its operation to reclaim supply lines connecting its California Nebula bases with the core systems. Hundreds of independent pilots eliminated pirates and recovered escape pods. Alliance intelligence suspects the pirates may have been driven from their home systems by a second group of agitators.
+player_impact: Pilots who contributed can collect rewards from Darwin Research Facility in the California Sector BV-Y c7 system.
+persons: []
 groups:
 - Alliance
 locations:
 - California Nebula
+- California Sector BV-Y c7
+- Darwin Research Facility
 topics:
 - crime
 - humanitarian
@@ -15,7 +20,7 @@ topics:
 - research
 - ship
 - war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: The Alliance's California Nebula supply line campaign highlights ongoing piracy threats to deep-space outposts and the need for continued protection.
 legacy_weight: 2
 significance: low
 ---

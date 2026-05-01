@@ -26,7 +26,7 @@ Total mentions: **3**
 - [[Alliance]] (3 co-mentions)
 - [[California Nebula]] (3 co-mentions)
 - [[Turner Research Group]] (2 co-mentions)
-- [[Synuefai EB-R C7-5]] (2 co-mentions)
+- [[Synuefai EB-R c7-5]] (2 co-mentions)
 - [[California Gateway]] (2 co-mentions)
 
 ## Biography

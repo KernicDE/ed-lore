@@ -4,10 +4,17 @@ title: Ram Tah Searching for New Guardian Sites
 slug: ram_tah_searching_for_new_guardian_sites
 date: '3304-02-28'
 source: GitHub
+summary: Engineer Ram Tah, a leading expert on the Guardians, has requested help locating undiscovered Guardian sites. Through molecular analysis of recently delivered artefacts, he has deduced the possibility of sites in three systems: Col 173 Sector QU-O d6-25, HD 63154, and Synuefe EU-Q c21-10. He urges the galactic community to investigate these systems.
+player_impact: Pilots are asked to investigate the three systems and deliver any data from Guardian sites to Ram Tah at Phoenix Base in the Meene system.
+persons:
+- Ram Tah
+groups: []
 locations:
 - Meene
-- Ram Tah
-- Synuefe
+- Phoenix Base
+- Col 173 Sector QU-O d6-25
+- HD 63154
+- Synuefe EU-Q c21-10
 topics:
 - alien contact
 - engineering
@@ -16,8 +23,7 @@ topics:
 - sport
 - xenoarchaeology
 arc_id: guardian-ancients
-modern_impact: Guardian site research expands scientific understanding of ancient
-  alien civilisations and their technology.
+modern_impact: Ram Tah's targeted predictions for new Guardian sites direct exploration efforts and expand the known archaeological record of the ancient civilization.
 legacy_weight: 4
 significance: high
 ---

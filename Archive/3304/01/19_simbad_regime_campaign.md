@@ -4,11 +4,17 @@ title: Simbad Regime Campaign
 slug: simbad_regime_campaign
 date: '3304-01-19'
 source: GitHub
+summary: The Simbad Regime, established over a year ago with support from Commanders across the galaxy, has announced plans to construct a new asteroid base among the rings of Nu Tauri 5. The group has placed an open order for explosives, beryllium, aluminium, and tea.
+player_impact: Pilots can deliver materials to Parmitano Terminal in the Nu Tauri system for generous rewards.
+persons: []
+groups:
+- Simbad Regime
 locations:
-- Parmitano Terminal in the Nu Tauri
+- Nu Tauri
+- Parmitano Terminal
 topics:
 - war
-modern_impact: GalNet community report documenting current events in the galaxy.
+modern_impact: Player faction infrastructure projects like the Simbad Regime's asteroid base demonstrate the growing permanence of community-supported groups in the galaxy.
 legacy_weight: 2
 significance: low
 ---

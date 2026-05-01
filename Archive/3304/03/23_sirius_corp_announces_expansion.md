@@ -4,19 +4,18 @@ title: Sirius Corp Announces Expansion
 slug: sirius_corp_announces_expansion
 date: '3304-03-23'
 source: GitHub
+summary: Sirius Corporation has announced expansion in the Ceos and Sothis systems, just outside the core systems. The company is building several new starports, settlements and megaships to support increasing traffic and provide essential services to residents and visitors.
+player_impact: None explicitly stated.
+persons: []
 groups:
-- Sirius Corp
 - Sirius Corporation
 locations:
 - Ceos
-- Ceos and Sothis
-- Sirius
 - Sothis
 topics:
 - construction
 - corporate expansion
-- ship
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Sirius Corporation's expansion in Ceos and Sothis strengthens infrastructure in key systems near the core, supporting trade and travel.
 legacy_weight: 2
 significance: low
 ---

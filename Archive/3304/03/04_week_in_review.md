@@ -4,21 +4,33 @@ title: Week in Review
 slug: week_in_review
 date: '3304-03-04'
 source: GitHub
+summary: This week's major stories include the discovery of a new Thargoid Scout Marauder vessel in the Pleiades and core system fringes, reported to be more manoeuvrable but less resistant to weapons fire than Interceptors. Aegis confirmed Thargoids are specifically targeting starports with Aegis laboratories, and defensive measures have been increased. Colonia authorities decided to build a new security installation, while Arek Crimson Vision Corporation launched a weapons campaign for Colonia. Admiral Denton Patreus announced the successful conclusion of a joint Federal-Imperial operation in the Pleiades Sector OI-T c3-7 and Arietis Sector XE-Z b4 systems.
+player_impact: Pilots who contributed to the Federal-Imperial operation can collect rewards from Orcus Crag in Pleiades Sector OI-T c3-7 and PRE Logistics Support Beta in Arietis Sector XE-Z b4.
+persons:
+- Aden Tanner
+- Denton Patreus
 groups:
 - Aegis
-- Pilots Federation
+- Pilots' Federation
+- Arek Crimson Vision Corporation
+- Colonia Council
+- Federation
+- Empire
 locations:
-- Aegis
+- Pleiades Nebula
 - Colonia
-- Pleiades and on the fringes of the core
+- Pleiades Sector OI-T c3-7
+- Arietis Sector XE-Z b4
+- Orcus Crag
+- PRE Logistics Support Beta
 topics:
 - alien contact
 - construction
 - corporate expansion
 - ship
+- war
 arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: The emergence of Thargoid Scout Marauders and targeted attacks on Aegis facilities reveal an evolving and strategically aware alien threat.
 legacy_weight: 5
 significance: high
 ---

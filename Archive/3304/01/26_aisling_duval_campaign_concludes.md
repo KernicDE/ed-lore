@@ -4,14 +4,21 @@ title: Aisling Duval Campaign Concludes
 slug: aisling_duval_campaign_concludes
 date: '3304-01-26'
 source: GitHub
+summary: Princess Aisling Duval's anti-slavery campaign in the Guuguyni system has concluded successfully. Hundreds of independent combat pilots neutralized slave traders operating in the region. Princess Duval expressed gratitude, noting that hundreds of people were saved from a life of misery.
+player_impact: Pilots who contributed can collect their rewards from Shen Terminal in the Guuguyni system.
+persons:
+- Aisling Duval
+groups:
+- Guuguyni Empire Consulate
 locations:
 - Guuguyni
+- Shen Terminal
 topics:
 - ship
 - slavery
 - trade
 - war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Aisling Duval's continued anti-slavery campaigns reinforce her position as a prominent humanitarian voice within the Empire.
 legacy_weight: 2
 significance: low
 ---

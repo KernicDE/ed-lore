@@ -10,7 +10,7 @@ related_entities:
 - dantec-enterprise
 - pleiades-sector-ir-w-d1-55
 - the-oracle
-- league-of-reparation
+- socho-gold-raiders
 ---
 
 <!-- AUTO-GENERATED -->
@@ -24,10 +24,10 @@ Total mentions: **13**
 ## Related
 
 - [[Aegis]] (13 co-mentions)
-- [[Dantec Enterprise]] (6 co-mentions)
+- [[Dantec Enterprise]] (9 co-mentions)
 - [[Pleiades Sector IR-W d1-55]] (4 co-mentions)
 - [[The Oracle]] (4 co-mentions)
-- [[League of Reparation]] (3 co-mentions)
+- [[Socho Gold Raiders]] (3 co-mentions)
 
 ## Biography
 

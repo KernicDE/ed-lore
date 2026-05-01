@@ -4,20 +4,26 @@ title: Week in Review
 slug: week_in_review
 date: '3304-03-24'
 source: GitHub
-entities:
+summary: This week's major stories include Aegis publishing a Thargoid report based on Ram Tah's decrypted Guardian logs, revealing the two species' ancient war over territory. Professor Alba Tesreau noted humanity's situation echoes the Guardians'. Federal President Zachary Hudson and Imperial Admiral Denton Patreus rejected diplomatic options. The Socho Thargoid-clearing operation concluded successfully. Yuri Grom announced a new shipyard in CPC 20 6743 for capital ship production. Sirius Corporation announced expansion in Ceos and Sothis with new starports, settlements and megaships.
+player_impact: Pilots who contributed to the Socho operation can collect rewards from Dantec Enterprise. Pilots can support the EG Union shipyard campaign and the Sirius expansion.
+persons:
 - Alba Tesreau
-- Zachary Hudson said
+- Zachary Hudson
+- Denton Patreus
+- Yuri Grom
+- Ram Tah
 groups:
 - Aegis
-- Sirius Corp
 - Sirius Corporation
+- EG Union
+- Federation
+- Empire
 locations:
-- Aegis
-- Ceos
-- Ram Tah
-- Sirius
 - Socho
+- CPC 20 6743
+- Ceos
 - Sothis
+- Dantec Enterprise
 topics:
 - alien contact
 - construction
@@ -29,8 +35,7 @@ topics:
 - war
 - xenoarchaeology
 arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: The convergence of Thargoid research, system defence operations, and infrastructure expansion illustrates the galaxy's multifaceted response to the alien threat.
 legacy_weight: 5
 significance: high
 ---

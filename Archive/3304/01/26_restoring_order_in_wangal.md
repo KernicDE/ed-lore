@@ -4,14 +4,20 @@ title: Restoring Order in Wangal
 slug: restoring_order_in_wangal
 date: '3304-01-26'
 source: GitHub
+summary: Authorities in the Wangal system have reported a sharp increase in criminal activity, with agitators attacking pilots, disrupting trade, and causing discord. Angeli Imperial Enterprises has responded by placing a kill order on wanted ships.
+player_impact: Pilots can deliver bounty vouchers to Nelder City in the Wangal system for rewards.
+persons: []
+groups:
+- Angeli Imperial Enterprises
 locations:
-- Authorities in the Wangal
+- Wangal
+- Nelder City
 topics:
 - crime
 - ship
 - trade
 - war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Localized criminal activity in systems like Wangal continues to require independent pilot intervention for trade route security.
 legacy_weight: 2
 significance: low
 ---

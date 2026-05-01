@@ -3,8 +3,8 @@ id: zachary-hudson
 name: Zachary Hudson
 type: person
 first_seen_date: '3301-05-29'
-last_seen_date: '3304-02-09'
-mention_count: 20
+last_seen_date: '3303-09-16'
+mention_count: 19
 related_entities:
 - mars
 - federal-navy
@@ -18,8 +18,8 @@ related_entities:
 # Zachary Hudson
 
 First mentioned: **3301-05-29**  
-Last mentioned: **3304-02-09**  
-Total mentions: **20**
+Last mentioned: **3303-09-16**  
+Total mentions: **19**
 
 ## Related
 

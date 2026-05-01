@@ -2,9 +2,9 @@
 id: lakon-spaceways
 name: Lakon Spaceways
 type: faction
-first_seen_date: '3304-08-25'
+first_seen_date: '3304-03-02'
 last_seen_date: '3312-01-22'
-mention_count: 16
+mention_count: 17
 related_entities:
 - alliance
 - core-dynamics
@@ -17,13 +17,13 @@ related_entities:
 
 # Lakon Spaceways
 
-First mentioned: **3304-08-25**  
+First mentioned: **3304-03-02**  
 Last mentioned: **3312-01-22**  
-Total mentions: **16**
+Total mentions: **17**
 
 ## Related
 
-- [[Alliance]] (9 co-mentions)
+- [[Alliance]] (10 co-mentions)
 - [[Core Dynamics]] (8 co-mentions)
 - [[Alioth]] (3 co-mentions)
 - [[Warkushanui]] (2 co-mentions)

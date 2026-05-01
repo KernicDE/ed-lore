@@ -4,13 +4,20 @@ title: Week in Review
 slug: week_in_review
 date: '3304-03-10'
 source: GitHub
+summary: This week's major stories include the discovery of new Guardian sites, with engineer Ram Tah producing blueprints for new Guardian-based weaponry and power-plant systems. Federal President Zachary Hudson and Imperial Admiral Denton Patreus welcomed the new armaments. Aegis launched the Eagle Eye initiative with orbital surveillance installations at six locations in the Pleiades Nebula to monitor Thargoid activity. The Coalition of Othime announced plans to build a new asteroid base for refinery expansion.
+player_impact: Pilots can support the Coalition of Othime asteroid base campaign by delivering commodities and eliminating agitators.
+persons:
+- Ram Tah
+- Zachary Hudson
+- Denton Patreus
 groups:
 - Aegis
+- Coalition of Othime
+- Federation
+- Empire
 locations:
-- Aegis
 - Pleiades Nebula
-- Ram Tah
-- The installations will monitor
+- Othime
 topics:
 - alien contact
 - construction
@@ -18,8 +25,7 @@ topics:
 - war
 - xenoarchaeology
 arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: The Eagle Eye surveillance initiative and Guardian-based technology development represent dual-track progress in understanding and countering the Thargoid threat.
 legacy_weight: 4
 significance: high
 ---

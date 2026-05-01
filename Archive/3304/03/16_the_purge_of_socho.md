@@ -4,18 +4,19 @@ title: The Purge of Socho
 slug: the_purge_of_socho
 date: '3304-03-16'
 source: GitHub
+summary: Following Thargoid incursions into the core systems, Aegis Core has launched a counter-Thargoid operation in Socho. The goal is to destroy Thargoid vessels and deliver Bio-Mechanical Conduits, Propulsion Elements and Weapon Parts to Dantec Enterprise for analysis. Aegis Core appealed to independent pilots to support the operation.
+player_impact: Pilots can destroy Thargoids in Socho and deliver Bio-Mechanical Conduits, Propulsion Elements and Weapon Parts to Dantec Enterprise for generous rewards.
+persons: []
 groups:
 - Aegis
 locations:
-- Aegis
 - Socho
+- Dantec Enterprise
 topics:
 - alien contact
-- ship
 - war
 arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: The Socho purge operation demonstrates coordinated efforts to gather Thargoid material for scientific analysis while clearing systems of alien vessels.
 legacy_weight: 5
 significance: high
 ---

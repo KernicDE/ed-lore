@@ -4,14 +4,20 @@ title: Preserving the Sim Archive
 slug: preserving_the_sim_archive
 date: '3304-02-09'
 source: GitHub
+summary: The Utopia movement has announced that the Sim-Archive, a vast digital repository containing the collective wisdom of all departed members, will undergo comprehensive maintenance. Pranav Antal stated that system failures could result in the loss of irreplaceable knowledge. The Official Airman Di Front will oversee the initiative.
+player_impact: Pilots can deliver requested commodities to Chargaff Orbital in the Airman Di system for rewards.
+persons:
+- Pranav Antal
 groups:
 - Utopia
+- The Official Airman Di Front
 locations:
-- Chargaff Orbital in the Airman Di
+- Airman Di
+- Chargaff Orbital
 topics:
 - trade
 - war
-modern_impact: Trade initiative affecting commodity markets.
+modern_impact: The Sim-Archive represents Utopia's core ambition to preserve and eventually digitize human consciousness.
 legacy_weight: 2
 significance: low
 ---

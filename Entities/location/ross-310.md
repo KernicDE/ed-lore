@@ -4,11 +4,13 @@ name: Ross 310
 type: location
 first_seen_date: '3304-03-30'
 last_seen_date: '3304-04-07'
-mention_count: 3
+mention_count: 4
 related_entities:
+- ross-310-natural-services
+- ross-310-cartel
 - aegis
 - pilots-federation
-- ross-720-and-surrounding
+- eg-union
 ---
 
 <!-- AUTO-GENERATED -->
@@ -17,13 +19,15 @@ related_entities:
 
 First mentioned: **3304-03-30**  
 Last mentioned: **3304-04-07**  
-Total mentions: **3**
+Total mentions: **4**
 
 ## Related
 
+- [[Ross 310 Natural Services]] (4 co-mentions)
+- [[Ross 310 Cartel]] (4 co-mentions)
 - [[Aegis]] (2 co-mentions)
 - [[Pilots Federation]] (2 co-mentions)
-- [[Ross 720 and surrounding]] (2 co-mentions)
+- [[EG Union]] (2 co-mentions)
 
 ## Biography
 

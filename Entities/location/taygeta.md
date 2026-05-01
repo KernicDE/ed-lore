@@ -3,11 +3,11 @@ id: taygeta
 name: Taygeta
 type: location
 first_seen_date: '3303-12-02'
-last_seen_date: '3304-02-25'
-mention_count: 5
+last_seen_date: '3303-12-21'
+mention_count: 4
 related_entities:
-- aegis
 - titan
+- aegis
 - oracle
 - alba-tesreau
 - imperial-herald
@@ -18,15 +18,15 @@ related_entities:
 # Taygeta
 
 First mentioned: **3303-12-02**  
-Last mentioned: **3304-02-25**  
-Total mentions: **5**
+Last mentioned: **3303-12-21**  
+Total mentions: **4**
 
 ## Related
 
-- [[Aegis]] (4 co-mentions)
 - [[Titan]] (4 co-mentions)
-- [[Oracle]] (3 co-mentions)
-- [[Alba Tesreau]] (2 co-mentions)
+- [[Aegis]] (3 co-mentions)
+- [[Oracle]] (2 co-mentions)
+- [[Alba Tesreau]] (1 co-mentions)
 - [[Imperial Herald]] (1 co-mentions)
 
 ## Biography

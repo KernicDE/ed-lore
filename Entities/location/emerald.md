@@ -2,24 +2,24 @@
 id: emerald
 name: Emerald
 type: location
-first_seen_date: '3304-06-07'
+first_seen_date: '3304-05-26'
 last_seen_date: '3308-09-29'
-mention_count: 12
+mention_count: 13
 related_entities:
 - imperial-palace
 - cemiess
 - federal-navy
 - imperial-herald
-- alliance
+- sol
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Emerald
 
-First mentioned: **3304-06-07**  
+First mentioned: **3304-05-26**  
 Last mentioned: **3308-09-29**  
-Total mentions: **12**
+Total mentions: **13**
 
 ## Related
 
@@ -27,7 +27,7 @@ Total mentions: **12**
 - [[Cemiess]] (8 co-mentions)
 - [[Federal Navy]] (5 co-mentions)
 - [[Imperial Herald]] (5 co-mentions)
-- [[Alliance]] (4 co-mentions)
+- [[Sol]] (4 co-mentions)
 
 ## Biography
 

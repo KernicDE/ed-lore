@@ -4,7 +4,15 @@ title: HIP 17692 Operation Concludes
 slug: hip_17692_operation_concludes
 date: '3304-01-19'
 source: GitHub
+summary: Admiral Denton Patreus has announced the successful conclusion of the joint Federal-Imperial operation in the HIP 17692 system. Hundreds of pilots eliminated Thargoids and rescued people from attack sites. Admiral Patreus thanked independent pilots and the coordinating organizations while noting the war is far from over.
+player_impact: Pilots who contributed can collect their rewards from Blackmount Orbital in the HIP 17692 system.
+persons:
+- Denton Patreus
+groups:
+- Merope Expeditionary Fleet
+- The Pleiades Resource Enterprise
 locations:
+- HIP 17692
 - Blackmount Orbital
 - Merope
 topics:
@@ -12,8 +20,7 @@ topics:
 - humanitarian
 - war
 arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: The HIP 17692 operation's success validates joint superpower military cooperation as an effective model for anti-Thargoid campaigns.
 legacy_weight: 5
 significance: high
 ---

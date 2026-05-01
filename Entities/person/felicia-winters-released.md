@@ -3,8 +3,8 @@ id: felicia-winters-released
 name: Felicia Winters released
 type: person
 first_seen_date: '3302-02-18'
-last_seen_date: '3304-02-23'
-mention_count: 2
+last_seen_date: '3302-02-18'
+mention_count: 1
 ---
 
 <!-- AUTO-GENERATED -->
@@ -12,8 +12,8 @@ mention_count: 2
 # Felicia Winters released
 
 First mentioned: **3302-02-18**  
-Last mentioned: **3304-02-23**  
-Total mentions: **2**
+Last mentioned: **3302-02-18**  
+Total mentions: **1**
 
 ## Related
 

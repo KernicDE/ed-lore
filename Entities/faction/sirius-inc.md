@@ -2,32 +2,32 @@
 id: sirius-inc
 name: Sirius Inc
 type: faction
-first_seen_date: '3307-05-24'
+first_seen_date: '3304-01-05'
 last_seen_date: '3308-09-12'
-mention_count: 2
+mention_count: 4
 related_entities:
+- 42-n-persei
+- ngalia
+- green-enterprise
 - pilots-federation
-- engineers
-- delphi
-- delphi-5-a
-- the-oracle
+- maia
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Sirius Inc
 
-First mentioned: **3307-05-24**  
+First mentioned: **3304-01-05**  
 Last mentioned: **3308-09-12**  
-Total mentions: **2**
+Total mentions: **4**
 
 ## Related
 
+- [[42 n Persei]] (3 co-mentions)
+- [[Ngalia]] (2 co-mentions)
+- [[Green Enterprise]] (2 co-mentions)
 - [[Pilots Federation]] (2 co-mentions)
-- [[Engineers]] (1 co-mentions)
-- [[Delphi]] (1 co-mentions)
-- [[Delphi 5 a]] (1 co-mentions)
-- [[The Oracle]] (1 co-mentions)
+- [[Maia]] (1 co-mentions)
 
 ## Biography
 

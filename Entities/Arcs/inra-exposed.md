@@ -7,10 +7,10 @@ mention_count: 5
 significance: medium
 key_entities:
 - inra
-- nestor-cartesius
-- cartesius
-- iiss
+- league-of-reparation
 - imperial-internal-security-service
+- angeli-imperial-enterprises
+- rind-gold-electronics-org
 ---
 
 <!-- AUTO-GENERATED -->
@@ -24,10 +24,10 @@ Articles: **5**
 ## Key Figures
 
 - [[INRA]] (5 mentions)
-- [[Nestor Cartesius]] (3 mentions)
-- [[Cartesius]] (2 mentions)
-- [[IISS]] (2 mentions)
+- [[League of Reparation]] (3 mentions)
 - [[Imperial Internal Security Service]] (2 mentions)
+- [[Angeli Imperial Enterprises]] (1 mentions)
+- [[Rind Gold Electronics Org]] (1 mentions)
 
 ## Description
 

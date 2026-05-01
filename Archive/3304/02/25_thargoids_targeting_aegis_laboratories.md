@@ -4,22 +4,27 @@ title: Thargoids Targeting Aegis Laboratories
 slug: thargoids_targeting_aegis_laboratories
 date: '3304-02-25'
 source: GitHub
-entities:
+summary: Aegis analytical reports have confirmed a pattern in Thargoid starport attacks: they are specifically targeting starports where Aegis laboratories are established, including Titan's Daughter in Taygeta, Liman Legacy in HIP 16753, and the Oracle in Pleiades Sector IR-W d1-55. Admiral Aden Tanner confirmed defensive measures are being increased. Professor Alba Tesreau suggested Aegis may need to establish secret laboratories to continue their critical research.
+player_impact: Aegis is increasing defensive measures at all starports where it has a presence.
+persons:
+- Aden Tanner
 - Alba Tesreau
 groups:
 - Aegis
 locations:
-- Aegis
-- Oracle
 - Taygeta
+- Titan's Daughter
+- HIP 16753
+- Liman Legacy
+- Pleiades Sector IR-W d1-55
+- Oracle
 topics:
 - alien contact
 - construction
 - research
 - ship
 arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: The targeting of Aegis laboratories reveals the Thargoids are actively trying to prevent human research into their technology and biology, forcing Aegis to consider covert research facilities.
 legacy_weight: 5
 significance: high
 ---

@@ -5,8 +5,6 @@ type: person
 first_seen_date: '3304-05-04'
 last_seen_date: '3304-05-11'
 mention_count: 2
-related_entities:
-- utopia
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,7 +17,6 @@ Total mentions: **2**
 
 ## Related
 
-- [[Utopia]] (2 co-mentions)
 
 ## Biography
 

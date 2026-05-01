@@ -6,7 +6,7 @@ first_seen_date: '3304-04-13'
 last_seen_date: '3304-04-13'
 mention_count: 1
 related_entities:
-- astronomers-based-in-the-sol
+- sol-astronomers
 - sol
 ---
 
@@ -20,7 +20,7 @@ Total mentions: **1**
 
 ## Related
 
-- [[Astronomers based in the Sol]] (1 co-mentions)
+- [[Sol astronomers]] (1 co-mentions)
 - [[Sol]] (1 co-mentions)
 
 ## Biography

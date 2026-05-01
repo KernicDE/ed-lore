@@ -4,19 +4,21 @@ title: Thargoid Surveillance Continues
 slug: thargoid_surveillance_continues
 date: '3304-03-17'
 source: GitHub
+summary: Aegis reports that their Eagle Eye installations in the Pleiades Nebula have successfully identified fluctuations in Thargoid transmissions from planetary structures. With help from Pilots' Federation members, Aegis has determined the signals point to locations in human space, potentially identifying targets for Thargoid attacks. Admiral Aden Tanner urges pilots to investigate new signal changes to help thwart Thargoid incursions.
+player_impact: Pilots are urged to investigate new Thargoid signal changes detected by Eagle Eye installations in the Pleiades Nebula.
+persons:
+- Aden Tanner
 groups:
 - Aegis
-- Pilots Federation
+- Pilots' Federation
 locations:
-- Aegis
 - Pleiades Nebula
 topics:
 - alien contact
 - investigation
 - war
 arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: The Eagle Eye surveillance network proves effective at predicting Thargoid attack locations, enabling proactive defence planning.
 legacy_weight: 5
 significance: high
 ---

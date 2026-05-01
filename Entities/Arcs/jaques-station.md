@@ -9,8 +9,8 @@ key_entities:
 - colonia-council
 - brewer-corporation
 - fuel-rats
+- colonia-co-operative
 - pilots-federation
-- alexei-de-la-vega
 ---
 
 <!-- AUTO-GENERATED -->
@@ -26,8 +26,8 @@ Articles: **58**
 - [[Colonia Council]] (17 mentions)
 - [[Brewer Corporation]] (7 mentions)
 - [[Fuel Rats]] (4 mentions)
+- [[Colonia Co-operative]] (3 mentions)
 - [[Pilots Federation]] (2 mentions)
-- [[Alexei de la Vega]] (2 mentions)
 
 ## Description
 

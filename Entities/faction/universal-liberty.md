@@ -2,32 +2,32 @@
 id: universal-liberty
 name: Universal Liberty
 type: faction
-first_seen_date: '3304-06-14'
+first_seen_date: '3304-05-26'
 last_seen_date: '3304-06-17'
-mention_count: 2
+mention_count: 3
 related_entities:
 - unchain
+- emerald
+- sol
 - league-of-reparation
 - lave-radio-network
-- lave-jet-family
-- lave
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Universal Liberty
 
-First mentioned: **3304-06-14**  
+First mentioned: **3304-05-26**  
 Last mentioned: **3304-06-17**  
-Total mentions: **2**
+Total mentions: **3**
 
 ## Related
 
 - [[Unchain]] (2 co-mentions)
+- [[Emerald]] (1 co-mentions)
+- [[Sol]] (1 co-mentions)
 - [[League of Reparation]] (1 co-mentions)
 - [[Lave Radio Network]] (1 co-mentions)
-- [[Lave Jet Family]] (1 co-mentions)
-- [[Lave]] (1 co-mentions)
 
 ## Biography
 

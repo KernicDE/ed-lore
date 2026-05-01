@@ -2,9 +2,9 @@
 id: dzhanibekov-port
 name: Dzhanibekov Port
 type: location
-first_seen_date: '3304-06-01'
+first_seen_date: '3304-05-25'
 last_seen_date: '3304-06-03'
-mention_count: 2
+mention_count: 3
 related_entities:
 - autocracy-of-tiensei
 - tiensei
@@ -17,14 +17,14 @@ related_entities:
 
 # Dzhanibekov Port
 
-First mentioned: **3304-06-01**  
+First mentioned: **3304-05-25**  
 Last mentioned: **3304-06-03**  
-Total mentions: **2**
+Total mentions: **3**
 
 ## Related
 
-- [[Autocracy of T'iensei]] (2 co-mentions)
-- [[T'iensei]] (2 co-mentions)
+- [[Autocracy of T’iensei]] (3 co-mentions)
+- [[T’iensei]] (3 co-mentions)
 - [[Aegis]] (1 co-mentions)
 - [[Socho Gold Raiders]] (1 co-mentions)
 - [[Pilots Federation]] (1 co-mentions)

@@ -24,7 +24,7 @@ Total mentions: **134**
 ## Related
 
 - [[Aegis]] (23 co-mentions)
-- [[Alliance]] (20 co-mentions)
+- [[Alliance]] (19 co-mentions)
 - [[Delphi]] (11 co-mentions)
 - [[NMLA]] (8 co-mentions)
 - [[Kumo Crew]] (8 co-mentions)

@@ -7,10 +7,10 @@ last_seen_date: '3309-05-16'
 mention_count: 27
 related_entities:
 - alliance
-- aegis
 - league-of-reparation
+- aegis
+- federation
 - dg-canum-venaticorum
-- empire
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +23,11 @@ Total mentions: **27**
 
 ## Related
 
-- [[Alliance]] (12 co-mentions)
+- [[Alliance]] (10 co-mentions)
+- [[League of Reparation]] (10 co-mentions)
 - [[Aegis]] (10 co-mentions)
-- [[League of Reparation]] (6 co-mentions)
+- [[Federation]] (7 co-mentions)
 - [[DG Canum Venaticorum]] (6 co-mentions)
-- [[Empire]] (6 co-mentions)
 
 ## Biography
 

@@ -4,17 +4,19 @@ title: Protecting Colonia
 slug: protecting_colonia
 date: '3304-03-02'
 source: GitHub
+summary: As the Thargoid offensive continues, the Colonia Council has decided to build a new security installation in the region. Colonia has agreed to fund the operation and placed an open order for mined resources for construction. The initiative is a response to Thargoids entering the core systems and Colonia's limited defensive capabilities.
+player_impact: Pilots who deliver requested mined resources to Dove Enigma in the Colonia system will be generously compensated.
+persons: []
 groups:
 - Colonia Council
 locations:
 - Colonia
-- The Thargoids have now entered the core
+- Dove Enigma
 topics:
 - alien contact
 - construction
 arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: Colonia's proactive security investment reflects growing awareness that deep-space settlements are not immune to Thargoid expansion.
 legacy_weight: 4
 significance: high
 ---

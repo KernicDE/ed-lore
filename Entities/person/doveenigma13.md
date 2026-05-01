@@ -5,8 +5,6 @@ type: person
 first_seen_date: '3304-02-01'
 last_seen_date: '3304-02-01'
 mention_count: 1
-related_entities:
-- colonia-council
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,7 +17,6 @@ Total mentions: **1**
 
 ## Related
 
-- [[Colonia Council]] (1 co-mentions)
 
 ## Biography
 

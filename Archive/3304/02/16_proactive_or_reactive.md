@@ -4,19 +4,21 @@ title: Proactive or Reactive
 slug: proactive_or_reactive
 date: '3304-02-16'
 source: GitHub
+summary: As Thargoid attacks continue in the Pleiades, Imperial Senator Gianna Tachibana has criticized the lack of an effective military response. She told the Imperial Herald that independent pilot militias and Aegis research have had impact, but humanity is being reactive rather than proactive. She called for a comprehensive military strategy and coordinated response.
+player_impact: Reflects the ongoing debate about the adequacy of current anti-Thargoid strategies.
+persons:
+- Gianna Tachibana
 groups:
 - Aegis
 - Imperial Herald
 locations:
 - Achenar
-- Aegis
-- Imperial senator based in the Achenar
+- Pleiades
 topics:
 - alien contact
 - research
 arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: Senator Tachibana's criticism encapsulates growing political frustration with reactive defense strategies and the call for a proactive military approach to the Thargoid threat.
 legacy_weight: 4
 significance: high
 ---

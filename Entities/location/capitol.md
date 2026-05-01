@@ -4,7 +4,7 @@ name: Capitol
 type: location
 first_seen_date: '3301-03-12'
 last_seen_date: '3311-04-08'
-mention_count: 62
+mention_count: 63
 related_entities:
 - imperial-palace
 - achenar
@@ -19,7 +19,7 @@ related_entities:
 
 First mentioned: **3301-03-12**  
 Last mentioned: **3311-04-08**  
-Total mentions: **62**
+Total mentions: **63**
 
 ## Related
 

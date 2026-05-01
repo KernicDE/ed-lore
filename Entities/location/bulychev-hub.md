@@ -1,0 +1,34 @@
+---
+id: bulychev-hub
+name: Bulychev Hub
+type: location
+first_seen_date: '3304-02-02'
+last_seen_date: '3304-02-09'
+mention_count: 2
+related_entities:
+- alliance
+- synuefai-eb-r-c7-5
+- lp-128-32
+- lp-128-32-corporation
+- california-nebula
+---
+
+<!-- AUTO-GENERATED -->
+
+# Bulychev Hub
+
+First mentioned: **3304-02-02**  
+Last mentioned: **3304-02-09**  
+Total mentions: **2**
+
+## Related
+
+- [[Alliance]] (2 co-mentions)
+- [[Synuefai EB-R c7-5]] (2 co-mentions)
+- [[LP 128-32]] (2 co-mentions)
+- [[LP 128-32 Corporation]] (1 co-mentions)
+- [[California Nebula]] (1 co-mentions)
+
+## Biography
+
+*[To be enriched]*

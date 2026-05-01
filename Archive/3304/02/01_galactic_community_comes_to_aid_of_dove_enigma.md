@@ -4,12 +4,15 @@ title: Galactic Community Comes to Aid of Dove Enigma
 slug: galactic_community_comes_to_aid_of_dove_enigma
 date: '3304-02-01'
 source: GitHub
-entities:
+summary: An attempt to sabotage the Dove Enigma, a Wells-class Carrier in the Colonia system, was thwarted by the galactic community. Saboteurs flooded the ship's black market with Thargoid Sensors, but pilots countered by delivering large quantities of meta-alloys. The Dove Enigma was commissioned by the Colonia Council in commemoration of Commander DoveEnigma13 and is the destination of the Enigma Expedition.
+player_impact: Pilots delivered meta-alloys to stabilize the Dove Enigma and prevent further sabotage.
+persons:
 - DoveEnigma13
 groups:
 - Colonia Council
 locations:
 - Colonia
+- Dove Enigma
 topics:
 - alien contact
 - construction
@@ -17,8 +20,7 @@ topics:
 - ship
 - war
 arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: The Dove Enigma incident demonstrates both the vulnerability of fleet carriers to Thargoid sensor sabotage and the galactic community's capacity for rapid collective response.
 legacy_weight: 5
 significance: high
 ---

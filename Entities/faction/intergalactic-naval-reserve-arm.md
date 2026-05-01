@@ -2,32 +2,32 @@
 id: intergalactic-naval-reserve-arm
 name: Intergalactic Naval Reserve Arm
 type: faction
-first_seen_date: '3304-04-28'
+first_seen_date: '3308-05-30'
 last_seen_date: '3308-05-30'
-mention_count: 2
+mention_count: 1
 related_entities:
+- aegis
+- azimuth-biochemicals
 - inra
-- nestor-cartesius
-- oskar-kincaid
-- alliance
-- iiss
+- salvation
+- hip-22460
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Intergalactic Naval Reserve Arm
 
-First mentioned: **3304-04-28**  
+First mentioned: **3308-05-30**  
 Last mentioned: **3308-05-30**  
-Total mentions: **2**
+Total mentions: **1**
 
 ## Related
 
-- [[INRA]] (2 co-mentions)
-- [[Nestor Cartesius]] (1 co-mentions)
-- [[Oskar Kincaid]] (1 co-mentions)
-- [[Alliance]] (1 co-mentions)
-- [[IISS]] (1 co-mentions)
+- [[Aegis]] (1 co-mentions)
+- [[Azimuth Biochemicals]] (1 co-mentions)
+- [[INRA]] (1 co-mentions)
+- [[Salvation]] (1 co-mentions)
+- [[HIP 22460]] (1 co-mentions)
 
 ## Biography
 

@@ -4,15 +4,20 @@ title: Arek Crimson Vision Corporation Campaign Ends
 slug: arek_crimson_vision_corporation_campaign_ends
 date: '3304-03-09'
 source: GitHub
+summary: Arek Crimson Vision Corporation has announced the successful conclusion of its weapons appeal, with a massive influx of deliveries to the organisation's base. The weapons will now be shipped to the Colonia region. A spokesperson thanked supporters.
+player_impact: Pilots who contributed can collect rewards from Gold Hub in the Arek system.
+persons: []
+groups:
+- Arek Crimson Vision Corporation
 locations:
+- Arek
+- Gold Hub
 - Colonia
 topics:
 - corporate expansion
-- ship
-- war
+- trade
 arc_id: jaques-station
-modern_impact: Colonia continues to grow as a deep-space settlement, offering new
-  opportunities for exploration and colonisation.
+modern_impact: Arms shipments to Colonia reflect ongoing efforts to strengthen defences in deep-space settlements.
 legacy_weight: 3
 significance: medium
 ---

@@ -4,16 +4,23 @@ title: Community Goal  Dionysus Rising
 slug: community_goal_dionysus_rising
 date: '3304-01-05'
 source: GitHub
+summary: Sirius Inc has announced plans to construct a flight-operations megaship named the Dionysus in the 42 n Persei system, a strategic position on the route to Maia. The megaship will improve services in the system. Senior Aide Humberto Guthrie stated that if the superpowers cannot protect them, they will protect themselves.
+player_impact: Pilots can deliver commodities to Green Enterprise in the Ngalia system. A kill order is also active on wanted ships in Ngalia to protect traders.
+persons:
+- Humberto Guthrie
+groups:
+- Sirius Inc
 locations:
-- Green Enterprise in the Ngalia
+- 42 n Persei
+- Ngalia
+- Green Enterprise
 - Maia
-- Sirius
 topics:
 - ship
 - trade
 - war
 arc_id: pleiades-expansion
-modern_impact: Deep-space starport construction opens new frontiers for exploration.
+modern_impact: Sirius Inc's unilateral megaship construction in Pleiades-adjacent space reflects corporate self-defense in the face of Thargoid activity.
 legacy_weight: 3
 significance: medium
 ---

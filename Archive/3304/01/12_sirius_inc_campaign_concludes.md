@@ -4,14 +4,21 @@ title: Sirius Inc Campaign Concludes
 slug: sirius_inc_campaign_concludes
 date: '3304-01-12'
 source: GitHub
+summary: Sirius Inc has announced the successful conclusion of its construction initiative. Hundreds of pilots delivered commodities to Green Enterprise in the Ngalia system and eliminated agitators to ensure trader safety.
+player_impact: Pilots who contributed can collect rewards from Green Enterprise in the Ngalia system.
+persons: []
+groups:
+- Sirius Inc
 locations:
-- Sirius
+- Ngalia
+- Green Enterprise
+- 42 n Persei
 topics:
 - construction
 - safety
 - trade
 - war
-modern_impact: Trade initiative affecting commodity markets.
+modern_impact: Sirius Inc's megaship construction campaign demonstrates the ongoing role of community-driven infrastructure projects in the Pleiades region.
 legacy_weight: 1
 significance: low
 ---

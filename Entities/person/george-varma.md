@@ -2,18 +2,18 @@
 id: george-varma
 name: George Varma
 type: person
-first_seen_date: '3304-07-13'
+first_seen_date: '3304-05-25'
 last_seen_date: '3308-11-01'
-mention_count: 6
+mention_count: 7
 ---
 
 <!-- AUTO-GENERATED -->
 
 # George Varma
 
-First mentioned: **3304-07-13**  
+First mentioned: **3304-05-25**  
 Last mentioned: **3308-11-01**  
-Total mentions: **6**
+Total mentions: **7**
 
 ## Related
 

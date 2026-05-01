@@ -4,7 +4,7 @@ name: Meene
 type: location
 first_seen_date: '3303-01-23'
 last_seen_date: '3310-07-06'
-mention_count: 24
+mention_count: 23
 related_entities:
 - meene-defence-force
 - phoenix-base
@@ -19,7 +19,7 @@ related_entities:
 
 First mentioned: **3303-01-23**  
 Last mentioned: **3310-07-06**  
-Total mentions: **24**
+Total mentions: **23**
 
 ## Related
 

@@ -4,12 +4,19 @@ title: Utopia Initiative Concludes
 slug: utopia_initiative_concludes
 date: '3304-02-16'
 source: GitHub
+summary: The Utopia enclave has announced the successful conclusion of its Sim-Archive maintenance campaign. A huge influx of deliveries to Chargaff Orbital will be used for essential maintenance. Pranav Antal thanked supporters and expressed hope that digitizing human consciousness might one day transcend physical existence.
+player_impact: Pilots who contributed can collect their rewards from Chargaff Orbital in the Airman Di system.
+persons:
+- Pranav Antal
 groups:
 - Utopia
+locations:
+- Airman Di
+- Chargaff Orbital
 topics:
 - trade
 - war
-modern_impact: Trade initiative affecting commodity markets.
+modern_impact: Utopia's Sim-Archive maintenance ensures the preservation of digitized human memories for at least another century.
 legacy_weight: 2
 significance: low
 ---

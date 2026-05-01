@@ -5,8 +5,6 @@ type: person
 first_seen_date: '3304-04-20'
 last_seen_date: '3304-04-20'
 mention_count: 1
-related_entities:
-- kanai-enterprise-in-the-blido-piru
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,7 +17,6 @@ Total mentions: **1**
 
 ## Related
 
-- [[Kanai Enterprise in the Blido Piru]] (1 co-mentions)
 
 ## Biography
 

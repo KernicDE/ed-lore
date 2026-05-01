@@ -2,9 +2,9 @@
 id: palin-institute
 name: Palin Institute
 type: faction
-first_seen_date: '3304-10-18'
+first_seen_date: '3304-04-07'
 last_seen_date: '3304-10-27'
-mention_count: 3
+mention_count: 4
 related_entities:
 - maia
 - alliance
@@ -17,9 +17,9 @@ related_entities:
 
 # Palin Institute
 
-First mentioned: **3304-10-18**  
+First mentioned: **3304-04-07**  
 Last mentioned: **3304-10-27**  
-Total mentions: **3**
+Total mentions: **4**
 
 ## Related
 

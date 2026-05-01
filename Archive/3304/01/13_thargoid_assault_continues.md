@@ -4,18 +4,21 @@ title: Thargoid Assault Continues
 slug: thargoid_assault_continues
 date: '3304-01-13'
 source: GitHub
+summary: Reed's Rest in Merope and Obsidian Orbital in Maia have become the latest starports targeted by Thargoid attacks. The attack on Obsidian Orbital is particularly significant as the starport was built through a community initiative involving thousands of pilots and is seen as a symbol of unity.
+player_impact: Pilots are asked to deliver food, water, basic medicines, and natural fabrics to affected starports and evacuate civilians.
+persons: []
+groups: []
 locations:
-- Authorities in the affected
-- Maia
 - Merope
+- Maia
+- Reed's Rest
 - Obsidian Orbital
 topics:
 - alien contact
 - construction
 - medicine
 arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: The ongoing Thargoid starport attacks, including the symbolic Obsidian Orbital, demonstrate the escalating and indiscriminate nature of the alien threat.
 legacy_weight: 5
 significance: high
 ---

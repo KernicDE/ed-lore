@@ -4,10 +4,19 @@ title: Angeli Imperial Enterprises Campaign Concludes
 slug: angeli_imperial_enterprises_campaign_concludes
 date: '3304-02-02'
 source: GitHub
+summary: Angeli Imperial Enterprises has announced the successful conclusion of its construction initiative for DaMorg's Bar and BBQ in the Wangal system. A massive influx of deliveries to Nelder City enabled the project. Spokesperson Patrician Mitchell praised participating pilots and recommended several wines and beers from the establishment.
+player_impact: Pilots who contributed can collect their rewards from Nelder City in the Wangal system.
+persons:
+- Patrician Mitchell
+groups:
+- Angeli Imperial Enterprises
+locations:
+- Wangal
+- Nelder City
 topics:
 - construction
 - war
-modern_impact: Infrastructure project with long-term benefits.
+modern_impact: Community-funded orbital restaurants like DaMorg's Bar and BBQ add character and civilian amenities to the galactic landscape.
 legacy_weight: 2
 significance: low
 ---

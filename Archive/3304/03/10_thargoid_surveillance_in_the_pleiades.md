@@ -4,19 +4,26 @@ title: Thargoid Surveillance in the Pleiades
 slug: thargoid_surveillance_in_the_pleiades
 date: '3304-03-10'
 source: GitHub
+summary: Aegis has launched the Eagle Eye initiative to monitor Thargoid activity in the Pleiades Nebula. Six orbital surveillance installations have been established to measure energy-level fluctuations and track ship movements, each attended by a comms beacon. The installations are in HIP 17225, HIP 17692, HIP 17892, HR 1185, Pleiades Sector IR-W d1-55, and Pleiades Sector KC-V c2-4. Professor Alba Tesreau hopes observing Thargoid activities outside combat zones will increase understanding of their behaviour.
+player_impact: None explicitly stated.
+persons:
+- Aden Tanner
+- Alba Tesreau
 groups:
 - Aegis
 locations:
-- Aegis
 - Pleiades Nebula
+- HIP 17225
+- HIP 17692
+- HIP 17892
+- HR 1185
 - Pleiades Sector IR-W d1-55
+- Pleiades Sector KC-V c2-4
 topics:
 - alien contact
 - research
-- ship
 arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: The Eagle Eye installations establish a permanent surveillance network in the Pleiades, enabling systematic observation of Thargoid activity patterns.
 legacy_weight: 4
 significance: high
 ---

@@ -3,14 +3,8 @@ id: john-jameson
 name: John Jameson
 type: person
 first_seen_date: '3304-04-21'
-last_seen_date: '3304-04-21'
-mention_count: 1
-related_entities:
-- arissa-lavigny-duval-made
-- cartesius
-- murdered
-- nestor-cartesius
-- iiss
+last_seen_date: '3304-07-29'
+mention_count: 11
 ---
 
 <!-- AUTO-GENERATED -->
@@ -18,16 +12,11 @@ related_entities:
 # John Jameson
 
 First mentioned: **3304-04-21**  
-Last mentioned: **3304-04-21**  
-Total mentions: **1**
+Last mentioned: **3304-07-29**  
+Total mentions: **11**
 
 ## Related
 
-- [[Arissa Lavigny-Duval made]] (1 co-mentions)
-- [[Cartesius]] (1 co-mentions)
-- [[Murdered]] (1 co-mentions)
-- [[Nestor Cartesius]] (1 co-mentions)
-- [[IISS]] (1 co-mentions)
 
 ## Biography
 

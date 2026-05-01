@@ -24,7 +24,7 @@ Total mentions: **3**
 ## Related
 
 - [[Alliance]] (3 co-mentions)
-- [[Synuefai EB-R C7-5]] (3 co-mentions)
+- [[Synuefai EB-R c7-5]] (3 co-mentions)
 - [[California Nebula]] (2 co-mentions)
 - [[MEL 22 Sector GM-V C2-8]] (2 co-mentions)
 - [[Turner Research Group]] (1 co-mentions)

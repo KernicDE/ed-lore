@@ -2,9 +2,9 @@
 id: biggs-colony
 name: Biggs Colony
 type: location
-first_seen_date: '3304-07-07'
+first_seen_date: '3304-05-24'
 last_seen_date: '3308-09-28'
-mention_count: 4
+mention_count: 5
 related_entities:
 - core-dynamics
 - altair
@@ -17,9 +17,9 @@ related_entities:
 
 # Biggs Colony
 
-First mentioned: **3304-07-07**  
+First mentioned: **3304-05-24**  
 Last mentioned: **3308-09-28**  
-Total mentions: **4**
+Total mentions: **5**
 
 ## Related
 

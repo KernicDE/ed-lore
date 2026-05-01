@@ -4,10 +4,18 @@ title: A Vintage to Remember
 slug: a_vintage_to_remember
 date: '3304-01-26'
 source: GitHub
+summary: Angeli Imperial Enterprises has announced an initiative to construct an orbital family restaurant named DaMorg's Bar and BBQ in the Wangal system. The company has issued an open order for construction and outfitting materials at above-market rates.
+player_impact: Pilots can deliver requested goods to Nelder City in the Wangal system for above-market payment.
+persons: []
+groups:
+- Angeli Imperial Enterprises
+locations:
+- Wangal
+- Nelder City
 topics:
 - construction
 - trade
-modern_impact: Trade initiative affecting commodity markets.
+modern_impact: Community-driven construction projects like DaMorg's Bar and BBQ show the lighter side of galactic civilization amid ongoing conflict.
 legacy_weight: 2
 significance: low
 ---

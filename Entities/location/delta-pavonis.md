@@ -2,32 +2,32 @@
 id: delta-pavonis
 name: Delta Pavonis
 type: location
-first_seen_date: '3307-12-31'
+first_seen_date: '3304-05-24'
 last_seen_date: '3307-12-31'
-mention_count: 1
+mention_count: 2
 related_entities:
-- eg-union
-- mastopolos-mining
-- torval-mining-ltd
-- imperial-senate
-- nmla
+- league-of-reparation
+- inra
+- pilots-federation
+- federal-intelligence-agency
+- biggs-colony
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Delta Pavonis
 
-First mentioned: **3307-12-31**  
+First mentioned: **3304-05-24**  
 Last mentioned: **3307-12-31**  
-Total mentions: **1**
+Total mentions: **2**
 
 ## Related
 
-- [[EG Union]] (1 co-mentions)
-- [[Mastopolos Mining]] (1 co-mentions)
-- [[Torval Mining Ltd]] (1 co-mentions)
-- [[Imperial Senate]] (1 co-mentions)
-- [[NMLA]] (1 co-mentions)
+- [[League of Reparation]] (1 co-mentions)
+- [[INRA]] (1 co-mentions)
+- [[Pilots Federation]] (1 co-mentions)
+- [[Federal Intelligence Agency]] (1 co-mentions)
+- [[Biggs Colony]] (1 co-mentions)
 
 ## Biography
 

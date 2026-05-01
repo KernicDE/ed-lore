@@ -2,28 +2,32 @@
 id: veroklist
 name: Veroklist
 type: location
-first_seen_date: '3304-05-18'
+first_seen_date: '3304-05-11'
 last_seen_date: '3304-05-20'
-mention_count: 2
+mention_count: 4
 related_entities:
-- alexei-de-la-vega
-- alliance
-- inra
+- moritasgus-imperial-corporation
+- vaucouleurs-vision
+- aegis
+- iiss
+- utopia
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Veroklist
 
-First mentioned: **3304-05-18**  
+First mentioned: **3304-05-11**  
 Last mentioned: **3304-05-20**  
-Total mentions: **2**
+Total mentions: **4**
 
 ## Related
 
-- [[Alexei de la Vega]] (1 co-mentions)
-- [[Alliance]] (1 co-mentions)
-- [[INRA]] (1 co-mentions)
+- [[Moritasgus Imperial Corporation]] (4 co-mentions)
+- [[Vaucouleurs Vision]] (2 co-mentions)
+- [[Aegis]] (1 co-mentions)
+- [[IISS]] (1 co-mentions)
+- [[Utopia]] (1 co-mentions)
 
 ## Biography
 

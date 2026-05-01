@@ -3,8 +3,8 @@ id: authorities-in-the-affected
 name: Authorities in the affected
 type: location
 first_seen_date: '3303-12-15'
-last_seen_date: '3304-01-26'
-mention_count: 4
+last_seen_date: '3303-12-23'
+mention_count: 2
 related_entities:
 - oracle
 - pleiades-sector-ir-w-d1-55
@@ -18,8 +18,8 @@ related_entities:
 # Authorities in the affected
 
 First mentioned: **3303-12-15**  
-Last mentioned: **3304-01-26**  
-Total mentions: **4**
+Last mentioned: **3303-12-23**  
+Total mentions: **2**
 
 ## Related
 

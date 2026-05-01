@@ -3,8 +3,8 @@ id: cora-shaw
 name: Cora Shaw
 type: person
 first_seen_date: '3302-04-15'
-last_seen_date: '3304-04-07'
-mention_count: 5
+last_seen_date: '3303-09-30'
+mention_count: 4
 related_entities:
 - maia
 - merope
@@ -18,8 +18,8 @@ related_entities:
 # Cora Shaw
 
 First mentioned: **3302-04-15**  
-Last mentioned: **3304-04-07**  
-Total mentions: **5**
+Last mentioned: **3303-09-30**  
+Total mentions: **4**
 
 ## Related
 
