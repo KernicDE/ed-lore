@@ -3,14 +3,14 @@ id: ishmael-palin
 name: Ishmael Palin
 type: person
 first_seen_date: '3301-09-13'
-last_seen_date: '3302-02-24'
-mention_count: 13
+last_seen_date: '3302-01-28'
+mention_count: 8
 related_entities:
-- obsidian-orbital
 - canonn
 - canonn-interstellar-research-group
 - varati
-- maia
+- ishmael-palin-responds
+- obsidian-orbital
 ---
 
 <!-- AUTO-GENERATED -->
@@ -18,16 +18,16 @@ related_entities:
 # Ishmael Palin
 
 First mentioned: **3301-09-13**  
-Last mentioned: **3302-02-24**  
-Total mentions: **13**
+Last mentioned: **3302-01-28**  
+Total mentions: **8**
 
 ## Related
 
-- [[Obsidian Orbital]] (6 co-mentions)
-- [[Canonn]] (5 co-mentions)
-- [[Canonn Interstellar Research Group]] (5 co-mentions)
-- [[Varati]] (5 co-mentions)
-- [[Maia]] (5 co-mentions)
+- [[Canonn]] (3 co-mentions)
+- [[Canonn Interstellar Research Group]] (3 co-mentions)
+- [[Varati]] (3 co-mentions)
+- [[Ishmael Palin Responds]] (2 co-mentions)
+- [[Obsidian Orbital]] (2 co-mentions)
 
 ## Biography
 

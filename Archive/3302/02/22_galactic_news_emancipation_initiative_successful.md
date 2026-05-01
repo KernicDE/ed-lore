@@ -4,8 +4,16 @@ title: Galactic News  Emancipation Initiative Successful
 slug: galactic_news_emancipation_initiative_successful
 date: '3302-02-22'
 source: GitHub
+summary: The Prismatic Imperium announces the successful conclusion of Princess Aisling Duval's initiative to free indentured slaves. Hundreds of pilots delivered slaves to the new colony at D'Arrest Station in the Uibuth system. Several million slaves were liberated, re-educated, and offered protection.
+player_impact: Pilots transported slaves to D'Arrest Station in the Uibuth system, contributing to the emancipation of several million individuals.
+persons:
+- Princess Aisling Duval
+groups:
+- Prismatic Imperium
+- Navigators Guild
 locations:
-- D'Arrest Station in the Uibuth
+- D'Arrest Station
+- Uibuth system
 - Prism
 topics:
 - slavery

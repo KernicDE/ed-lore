@@ -4,12 +4,18 @@ title: Freelance Report  Buckyball Racers to Chauffeur Students
 slug: freelance_report_buckyball_racers_to_chauffeur_students
 date: '3302-02-15'
 source: GitHub
-entities:
-- JAK
-- Seneh
+summary: Grant Academics partners with the Buckyball Racing Club to provide student chauffeurs during Spring Break. Veteran pilots will escort students from the Exigus campus to tourism hotspots in the region from 18-26 March, with Commander Seneh coordinating the event.
+player_impact: Buckyball Racing Club pilots chauffeured students from Grant Academics to tourism destinations during Spring Break.
+persons:
+- Commander Seneh
+- Commander Jak
 groups:
 - Buckyball Racing Club
 - Pilots Federation
+- Grant Academics
+locations:
+- Exigus campus
+- Grant Academics
 topics:
 - ship
 - sport

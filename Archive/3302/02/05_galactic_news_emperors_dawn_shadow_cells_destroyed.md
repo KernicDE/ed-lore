@@ -4,13 +4,17 @@ title: Galactic News  Emperor's Dawn Shadow Cells Destroyed
 slug: galactic_news_emperors_dawn_shadow_cells_destroyed
 date: '3302-02-05'
 source: GitHub
-entities:
+summary: Senator Denton Patreus confirms the destruction of Emperor's Dawn 'shadow' cells in the Dakshmandi, Ipilyaqa, and Ch'i Lin systems. Thousands of pilots responded to his call to arms, resulting in the total destruction of what are believed to be the last remaining outposts of the insurgent organisation.
+player_impact: Pilots responded to Senator Patreus's call to arms and destroyed Emperor's Dawn shadow cells in three systems.
+persons:
 - Denton Patreus
-- Patreus released
 groups:
 - Emperor's Dawn
+- Imperial Navy
 locations:
-- Ipilyaqa and Ch'i Lin
+- Dakshmandi
+- Ipilyaqa
+- Ch'i Lin
 topics:
 - succession
 - terrorism

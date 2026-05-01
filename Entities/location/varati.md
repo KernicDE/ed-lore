@@ -10,7 +10,7 @@ related_entities:
 - 64-arietis
 - bond-hub
 - warkushanui
-- ishmael-palin
+- weyn-dock
 ---
 
 <!-- AUTO-GENERATED -->
@@ -27,7 +27,7 @@ Total mentions: **13**
 - [[64 Arietis]] (6 co-mentions)
 - [[Bond Hub]] (6 co-mentions)
 - [[Warkushanui]] (6 co-mentions)
-- [[Ishmael Palin]] (5 co-mentions)
+- [[Weyn Dock]] (5 co-mentions)
 
 ## Biography
 

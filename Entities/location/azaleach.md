@@ -4,13 +4,13 @@ name: Azaleach
 type: location
 first_seen_date: '3302-01-28'
 last_seen_date: '3307-01-27'
-mention_count: 8
+mention_count: 11
 related_entities:
 - leoniceno-orbital
+- azaleach-partnership
 - leoniceno-orbital-medical-staff
 - federal-times
-- azaleach-partnership
-- sirius-corporation
+- federal-government
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3302-01-28**  
 Last mentioned: **3307-01-27**  
-Total mentions: **8**
+Total mentions: **11**
 
 ## Related
 
-- [[Leoniceno Orbital]] (5 co-mentions)
+- [[Leoniceno Orbital]] (8 co-mentions)
+- [[Azaleach Partnership]] (3 co-mentions)
 - [[Leoniceno Orbital medical staff]] (3 co-mentions)
 - [[Federal Times]] (3 co-mentions)
-- [[Azaleach Partnership]] (2 co-mentions)
-- [[Sirius Corporation]] (1 co-mentions)
+- [[Federal government]] (2 co-mentions)
 
 ## Biography
 

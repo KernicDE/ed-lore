@@ -4,8 +4,17 @@ title: Freelance Report  Diamond Frogs Bring Hope to LFT 37
 slug: freelance_report_diamond_frogs_bring_hope_to_lft_37
 date: '3302-02-11'
 source: GitHub
-entities:
-- Kermit Laphroaig praised
+summary: The Diamond Frogs private security firm successfully protected Paladin Consortium cargo vessels delivering water purifiers to liberated slaves at Onnes Gateway in LFT 37. Commander Kermit Laphroaig praised his fellow mercenaries for their tenacity under hostile conditions.
+player_impact: Pilots from the Diamond Frogs protected delivery vessels transporting humanitarian supplies to Onnes Gateway in the LFT 37 system.
+persons:
+- Commander Kermit Laphroaig
+- Commander Felix Dyson
+groups:
+- Diamond Frogs
+- Paladin Consortium
+locations:
+- Onnes Gateway
+- LFT 37 system
 topics:
 - ship
 - slavery

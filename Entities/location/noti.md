@@ -4,7 +4,7 @@ name: Noti
 type: location
 first_seen_date: '3301-10-08'
 last_seen_date: '3303-11-17'
-mention_count: 6
+mention_count: 5
 related_entities:
 - weber-gateway
 - federal-times
@@ -19,7 +19,7 @@ related_entities:
 
 First mentioned: **3301-10-08**  
 Last mentioned: **3303-11-17**  
-Total mentions: **6**
+Total mentions: **5**
 
 ## Related
 

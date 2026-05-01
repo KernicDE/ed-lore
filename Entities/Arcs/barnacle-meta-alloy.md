@@ -10,7 +10,7 @@ key_entities:
 - federation
 - empire
 - alliance
-- canonn
+- palin-institute
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +23,11 @@ Articles: **70**
 
 ## Key Figures
 
-- [[Canonn Interstellar Research Group]] (16 mentions)
+- [[Canonn Interstellar Research Group]] (17 mentions)
 - [[Federation]] (11 mentions)
 - [[Empire]] (9 mentions)
 - [[Alliance]] (8 mentions)
-- [[Canonn]] (4 mentions)
+- [[Palin Institute]] (5 mentions)
 
 ## Description
 

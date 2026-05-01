@@ -2,32 +2,32 @@
 id: blue-hand-gang
 name: Blue Hand Gang
 type: faction
-first_seen_date: '3302-03-03'
+first_seen_date: '3302-02-25'
 last_seen_date: '3302-03-24'
-mention_count: 6
+mention_count: 7
 related_entities:
 - wilkes-orbital
 - orulas-system
 - joint-security-taskforce
+- nespeleve-system
 - imperial-counter-insurgency-unit
-- achenar
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Blue Hand Gang
 
-First mentioned: **3302-03-03**  
+First mentioned: **3302-02-25**  
 Last mentioned: **3302-03-24**  
-Total mentions: **6**
+Total mentions: **7**
 
 ## Related
 
-- [[Wilkes Orbital]] (6 co-mentions)
-- [[Orulas system]] (3 co-mentions)
-- [[Joint Security Taskforce]] (1 co-mentions)
+- [[Wilkes Orbital]] (7 co-mentions)
+- [[Orulas system]] (4 co-mentions)
+- [[Joint Security Taskforce]] (2 co-mentions)
+- [[Nespeleve system]] (1 co-mentions)
 - [[Imperial counter-insurgency unit]] (1 co-mentions)
-- [[Achenar]] (1 co-mentions)
 
 ## Biography
 

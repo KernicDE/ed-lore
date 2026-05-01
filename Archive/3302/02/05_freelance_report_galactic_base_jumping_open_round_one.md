@@ -4,6 +4,15 @@ title: Freelance Report  Galactic Base Jumping Open Round One
 slug: freelance_report_galactic_base_jumping_open_round_one
 date: '3302-02-05'
 source: GitHub
+summary: The first round of the Galactic Base-Jumping Open takes place at the 'monolith' on Altais 2B, a six-kilometre high tabletop ideal for SRV base jumping. Categories include best crash, best trick, best base jump, and monolith base-jumping champion.
+player_impact: None
+persons:
+- Commander PeachSlicesV
+locations:
+- Altais 2B
+- monolith
+topics:
+- sport
 modern_impact: GalNet community report documenting current events in the galaxy.
 legacy_weight: 2
 significance: low

@@ -4,8 +4,17 @@ title: Galactic News  Appeal for Osmium Successful
 slug: galactic_news_appeal_for_osmium_successful
 date: '3302-02-11'
 source: GitHub
+summary: The LHS 2936 Alliance Combine announces the successful conclusion of its osmium campaign. The rare metal will be used to create specialist alloys for improving manufacturing facilities, helping the company regain its competitive edge.
+player_impact: Pilots delivered osmium to Fraser Orbital in the LHS 2936 system, enabling the Alliance Combine to improve its manufacturing facilities.
 groups:
 - Alliance
+- LHS 2936 Alliance Combine
+locations:
+- Fraser Orbital
+- LHS 2936 system
+topics:
+- trade
+- manufacturing
 modern_impact: GalNet community report documenting current events in the galaxy.
 legacy_weight: 2
 significance: low

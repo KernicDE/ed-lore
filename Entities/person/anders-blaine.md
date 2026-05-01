@@ -3,14 +3,14 @@ id: anders-blaine
 name: Anders Blaine
 type: person
 first_seen_date: '3301-07-14'
-last_seen_date: '3302-02-04'
-mention_count: 8
+last_seen_date: '3302-01-20'
+mention_count: 7
 related_entities:
 - imperial-navy
 - imperial-palace
 - blaine-refused
 - denton
-- imperial-herald
+- hengist-duval-awoke
 ---
 
 <!-- AUTO-GENERATED -->
@@ -18,8 +18,8 @@ related_entities:
 # Anders Blaine
 
 First mentioned: **3301-07-14**  
-Last mentioned: **3302-02-04**  
-Total mentions: **8**
+Last mentioned: **3302-01-20**  
+Total mentions: **7**
 
 ## Related
 
@@ -27,7 +27,7 @@ Total mentions: **8**
 - [[Imperial Palace]] (2 co-mentions)
 - [[Blaine refused]] (2 co-mentions)
 - [[Denton]] (2 co-mentions)
-- [[Imperial Herald]] (2 co-mentions)
+- [[Hengist Duval awoke]] (1 co-mentions)
 
 ## Biography
 

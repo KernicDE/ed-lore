@@ -4,10 +4,16 @@ title: Community Goal  Develop the Economy of Okinura
 slug: community_goal_develop_the_economy_of_okinura
 date: '3302-02-11'
 source: GitHub
-entities:
+summary: The Earth Defence Fleet plans to transform Okinura into a high-tech trading hub positioned between President Hudson and Shadow President Winters' systems. They request polymers to upgrade Fisher Terminal and offer privateer bonds for eliminating agitators.
+player_impact: Pilots delivered polymers to Fisher Terminal and eliminated agitators in the Okinura system to support economic development.
+persons:
 - Zachary Hudson
+- Felicia Winters
+groups:
+- Earth Defence Fleet
 locations:
-- Okinura
+- Okinura system
+- Fisher Terminal
 topics:
 - piracy
 - trade

@@ -4,8 +4,20 @@ title: Community Goal  Free the Slaves
 slug: community_goal_free_the_slaves
 date: '3302-02-18'
 source: GitHub
+summary: Princess Aisling Duval announces a new colony for former slaves in the Uibuth system. The Prismatic Imperium and Navigators Guild oversee the initiative, asking pilots to transport slaves of all types to D'Arrest Station where they will be emancipated, re-educated, and offered protection.
+player_impact: Pilots transported slaves to D'Arrest Station in the Uibuth system, where they were liberated and re-educated at Princess Aisling Duval's new colony.
+persons:
+- Princess Aisling Duval
+- Lord Corwin Ryan
+- Count Vickershaft
+groups:
+- Prismatic Imperium
+- Navigators Guild
 locations:
+- D'Arrest Station
+- Uibuth system
 - Achenar
+- Cubeo III
 - Prism
 topics:
 - safety

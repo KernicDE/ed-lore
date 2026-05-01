@@ -2,32 +2,32 @@
 id: carter-port
 name: Carter Port
 type: location
-first_seen_date: '3302-04-18'
+first_seen_date: '3302-02-24'
 last_seen_date: '3302-05-20'
-mention_count: 2
+mention_count: 3
 related_entities:
-- fozard-dock
-- hip-19934
-- irens-dock
-- manite
 - ackerman-market
+- eravate
+- von-bellingshausen-port
+- almar
+- haack-gateway
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Carter Port
 
-First mentioned: **3302-04-18**  
+First mentioned: **3302-02-24**  
 Last mentioned: **3302-05-20**  
-Total mentions: **2**
+Total mentions: **3**
 
 ## Related
 
-- [[Fozard Dock]] (2 co-mentions)
-- [[HIP 19934]] (2 co-mentions)
-- [[Irens Dock]] (2 co-mentions)
-- [[Manite]] (2 co-mentions)
-- [[Ackerman Market]] (2 co-mentions)
+- [[Ackerman Market]] (3 co-mentions)
+- [[Eravate]] (3 co-mentions)
+- [[von Bellingshausen Port]] (3 co-mentions)
+- [[Almar]] (3 co-mentions)
+- [[Haack Gateway]] (3 co-mentions)
 
 ## Biography
 

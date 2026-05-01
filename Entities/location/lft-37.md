@@ -2,9 +2,9 @@
 id: lft-37
 name: LFT 37
 type: location
-first_seen_date: '3302-02-11'
+first_seen_date: '3302-05-20'
 last_seen_date: '3305-10-16'
-mention_count: 3
+mention_count: 2
 related_entities:
 - lave
 - ackerman-market
@@ -17,9 +17,9 @@ related_entities:
 
 # LFT 37
 
-First mentioned: **3302-02-11**  
+First mentioned: **3302-05-20**  
 Last mentioned: **3305-10-16**  
-Total mentions: **3**
+Total mentions: **2**
 
 ## Related
 

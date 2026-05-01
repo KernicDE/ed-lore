@@ -4,6 +4,12 @@ title: Galactic News  The Mysterious Case of the Disappearing Meta Alloys
 slug: galactic_news_the_mysterious_case_of_the_disappearing_meta_alloys
 date: '3302-02-27'
 source: GitHub
+summary: Questions arise about the thousands of tonnes of meta-alloys delivered to Obsidian Orbital for Professor Palin before his disappearance. An anonymous report claims most were sold on the black market to private companies acting as fronts for an unknown conglomerate, raising questions about who purchased them and why.
+player_impact: None
+persons:
+- Ishmael Palin
+groups:
+- Obsidian Orbital authorities
 locations:
 - Maia
 - Obsidian Orbital

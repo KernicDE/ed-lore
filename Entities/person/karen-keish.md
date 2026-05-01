@@ -2,18 +2,18 @@
 id: karen-keish
 name: Karen Keish
 type: person
-first_seen_date: '3302-03-22'
+first_seen_date: '3302-02-22'
 last_seen_date: '3302-05-06'
-mention_count: 2
+mention_count: 3
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Karen Keish
 
-First mentioned: **3302-03-22**  
+First mentioned: **3302-02-22**  
 Last mentioned: **3302-05-06**  
-Total mentions: **2**
+Total mentions: **3**
 
 ## Related
 

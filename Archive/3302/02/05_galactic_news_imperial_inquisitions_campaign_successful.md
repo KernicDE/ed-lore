@@ -4,9 +4,20 @@ title: Galactic News  Imperial Inquisition's Campaign Successful
 slug: galactic_news_imperial_inquisitions_campaign_successful
 date: '3302-02-05'
 source: GitHub
+summary: Mavia Kain of the Imperial Inquisition announces the successful campaign to develop i Sola Prospect on Brestla A1. The outpost will soon rival Jameson Memorial with a comprehensive shipyard and full range of services. Improvements are expected to begin immediately.
+player_impact: Pilots delivered construction materials to support development of i Sola Prospect planetary outpost on Brestla A1.
+persons:
+- Mavia Kain
+groups:
+- Imperial Inquisition
 locations:
+- i Sola Prospect
+- Brestla A1
 - Jameson Memorial
 - Sol
+topics:
+- construction
+- ship
 modern_impact: GalNet community report documenting current events in the galaxy.
 legacy_weight: 2
 significance: low

@@ -4,9 +4,16 @@ title: Galactic News  Remarkable Response to Federal Campaign
 slug: galactic_news_remarkable_response_to_federal_campaign
 date: '3302-02-23'
 source: GitHub
-entities:
-- Hudson released
+summary: President Zachary Hudson announces that the search for Starship One survivors received an overwhelmingly positive response. Thousands of escape pods were delivered to Leoniceno Orbital within hours, many containing living survivors. Some recovered pods are confirmed to be from Starship One.
+player_impact: Pilots delivered thousands of escape pods to Leoniceno Orbital during the search for Starship One survivors.
+persons:
 - Zachary Hudson
+- Jasmina Halsey
+groups:
+- Federal government
+locations:
+- Leoniceno Orbital
+- Azaleach
 topics:
 - humanitarian
 - ship

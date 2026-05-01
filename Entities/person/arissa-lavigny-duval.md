@@ -3,8 +3,8 @@ id: arissa-lavigny-duval
 name: Arissa Lavigny-Duval
 type: person
 first_seen_date: '3301-07-30'
-last_seen_date: '3302-02-22'
-mention_count: 6
+last_seen_date: '3301-10-18'
+mention_count: 5
 related_entities:
 - capitol
 - imperial-senate
@@ -18,12 +18,12 @@ related_entities:
 # Arissa Lavigny-Duval
 
 First mentioned: **3301-07-30**  
-Last mentioned: **3302-02-22**  
-Total mentions: **6**
+Last mentioned: **3301-10-18**  
+Total mentions: **5**
 
 ## Related
 
-- [[Capitol]] (5 co-mentions)
+- [[Capitol]] (4 co-mentions)
 - [[Imperial Senate]] (3 co-mentions)
 - [[Achenar]] (3 co-mentions)
 - [[Chancellor Anders Blaine]] (2 co-mentions)

@@ -4,6 +4,14 @@ title: Galactic News  Starship One Destruction Linked to Mechanical Failure
 slug: galactic_news_starship_one_destruction_linked_to_mechanical_failure
 date: '3302-02-15'
 source: GitHub
+summary: A Federal investigation team's 600,000-word report concludes that Starship One's destruction was caused by mechanical failure. A power surge in the central power plant overloaded core systems. Despite examining all available evidence, no proof of sabotage was found.
+player_impact: None
+persons:
+- Federal investigation team
+groups:
+- Federal government
+locations:
+- Federation
 topics:
 - investigation
 - ship

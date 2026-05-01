@@ -2,18 +2,18 @@
 id: colm-tornquist
 name: Colm Tornquist
 type: person
-first_seen_date: '3310-08-02'
+first_seen_date: '3302-02-04'
 last_seen_date: '3311-03-13'
-mention_count: 2
+mention_count: 3
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Colm Tornquist
 
-First mentioned: **3310-08-02**  
+First mentioned: **3302-02-04**  
 Last mentioned: **3311-03-13**  
-Total mentions: **2**
+Total mentions: **3**
 
 ## Related
 

@@ -2,32 +2,32 @@
 id: nespeleve-system
 name: Nespeleve system
 type: location
-first_seen_date: '3302-05-12'
+first_seen_date: '3302-02-25'
 last_seen_date: '3302-05-19'
-mention_count: 2
+mention_count: 3
 related_entities:
+- wilkes-orbital
+- orulas-system
 - defence-party-of-nespeleve
 - maia-a-3-a
-- wilkes-orbital
-- palin-institute
-- orulas-system
+- joint-security-taskforce
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Nespeleve system
 
-First mentioned: **3302-05-12**  
+First mentioned: **3302-02-25**  
 Last mentioned: **3302-05-19**  
-Total mentions: **2**
+Total mentions: **3**
 
 ## Related
 
+- [[Wilkes Orbital]] (3 co-mentions)
+- [[Orulas system]] (2 co-mentions)
 - [[Defence Party of Nespeleve]] (2 co-mentions)
 - [[Maia A 3 a]] (2 co-mentions)
-- [[Wilkes Orbital]] (2 co-mentions)
-- [[Palin Institute]] (1 co-mentions)
-- [[Orulas system]] (1 co-mentions)
+- [[Joint Security Taskforce]] (1 co-mentions)
 
 ## Biography
 

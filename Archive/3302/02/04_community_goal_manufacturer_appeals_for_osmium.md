@@ -4,10 +4,14 @@ title: Community Goal  Manufacturer Appeals for Osmium
 slug: community_goal_manufacturer_appeals_for_osmium
 date: '3302-02-04'
 source: GitHub
+summary: The LHS 2936 Alliance Combine requests osmium to create specialist alloys for improving manufacturing facilities. Contributors will receive discounts at Fraser Orbital shipyard in addition to financial reimbursements.
+player_impact: Pilots delivered osmium to Fraser Orbital in the LHS 2936 system to help the Alliance Combine improve its manufacturing facilities.
 groups:
 - Alliance
+- LHS 2936 Alliance Combine
 locations:
-- LHS 2936
+- LHS 2936 system
+- Fraser Orbital
 topics:
 - ship
 - war

@@ -2,18 +2,18 @@
 id: commander-kermit-laphroaig
 name: Commander Kermit Laphroaig
 type: person
-first_seen_date: '3302-03-17'
+first_seen_date: '3302-02-11'
 last_seen_date: '3302-03-17'
-mention_count: 1
+mention_count: 2
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Commander Kermit Laphroaig
 
-First mentioned: **3302-03-17**  
+First mentioned: **3302-02-11**  
 Last mentioned: **3302-03-17**  
-Total mentions: **1**
+Total mentions: **2**
 
 ## Related
 

@@ -4,8 +4,16 @@ title: Community Goal  Campaign to Construct New Starport in LHS 3447
 slug: community_goal_campaign_to_construct_new_starport_in_lhs_3447
 date: '3302-02-25'
 source: GitHub
+summary: The Pilots Federation and LHS 3447 Dynamic and Co announce plans to construct a new Orbis starport named Bluford Orbital in LHS 3447. The station will orbit LHS 3447 B 1 a, providing a valuable trade and resupply hub for miners in the system.
+player_impact: Pilots delivered metals to Worlidge Terminal in LHS 3447 to support construction of Bluford Orbital.
 groups:
 - Pilots Federation
+- LHS 3447 Dynamic and Co
+locations:
+- LHS 3447 system
+- Worlidge Terminal
+- LHS 3447 B 1 a
+- Bluford Orbital
 topics:
 - construction
 - exploration

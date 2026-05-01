@@ -9,8 +9,8 @@ key_entities:
 - canonn-interstellar-research-group
 - canonn
 - ishmael-palin
-- arcanonn
 - federal-times
+- blue-hand-gang
 ---
 
 <!-- AUTO-GENERATED -->
@@ -24,10 +24,10 @@ Articles: **35**
 ## Key Figures
 
 - [[Canonn Interstellar Research Group]] (13 mentions)
-- [[Canonn]] (9 mentions)
-- [[Ishmael Palin]] (8 mentions)
-- [[Arcanonn]] (4 mentions)
+- [[Canonn]] (7 mentions)
+- [[Ishmael Palin]] (5 mentions)
 - [[Federal Times]] (3 mentions)
+- [[Blue Hand Gang]] (3 mentions)
 
 ## Description
 

@@ -4,16 +4,18 @@ title: Freelance Report  Dr Arcanonn Speculates on Palin's Disappearance
 slug: freelance_report_dr_arcanonn_speculates_on_palins_disappearance
 date: '3302-02-15'
 source: GitHub
-entities:
-- Arcanonn
-- Arcanonn Speculates
-- Palin
+summary: Dr Arcanonn speculates that dark forces who threatened his own life may have intercepted Professor Palin en route to Maia b1ba. He notes the mysterious Diamondback Explorer that scanned Obsidian Orbital may have been searching for the professor.
+player_impact: None
+persons:
+- Dr Arcanonn
+- Ishmael Palin
+- Commander Lord Zoltan
 groups:
-- Canonn
 - Canonn Interstellar Research Group
 locations:
 - Maia
 - Obsidian Orbital
+- Maia b1ba
 topics:
 - exploration
 - research

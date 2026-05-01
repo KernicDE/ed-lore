@@ -4,7 +4,7 @@ name: Fuel Rats
 type: faction
 first_seen_date: '3301-06-24'
 last_seen_date: '3303-01-12'
-mention_count: 14
+mention_count: 15
 related_entities:
 - pilots-federation
 - sagittarius-a
@@ -19,7 +19,7 @@ related_entities:
 
 First mentioned: **3301-06-24**  
 Last mentioned: **3303-01-12**  
-Total mentions: **14**
+Total mentions: **15**
 
 ## Related
 

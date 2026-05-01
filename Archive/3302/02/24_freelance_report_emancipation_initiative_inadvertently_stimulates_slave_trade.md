@@ -4,6 +4,15 @@ title: Freelance Report  Emancipation Initiative Inadvertently Stimulates Slave 
 slug: freelance_report_emancipation_initiative_inadvertently_stimulates_slave_trade
 date: '3302-02-24'
 source: GitHub
+summary: Princess Aisling Duval's emancipation effort faces criticism after revelations that over seven million slaves were purchased directly from slavers by independent traders supporting the programme. Critics argue that funding slavers does not stop the slave trade.
+player_impact: None
+persons:
+- Princess Aisling Duval
+- Commander Dissident Smith
+groups:
+- Prismatic Imperium
+locations:
+- Uibuth system
 topics:
 - slavery
 - trade

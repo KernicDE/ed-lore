@@ -4,11 +4,17 @@ title: Community Goal  Clean up Orulas
 slug: community_goal_clean_up_orulas
 date: '3302-02-25'
 source: GitHub
+summary: Rose Trebek, a former soldier, establishes the Joint Security Taskforce to clean up the Orulas system from the ruthless Blue Hand Gang. Pilots are needed to intercept convoys carrying stolen escape pods and sweep the system of criminal vessels.
+player_impact: Pilots intercepted Blue Hand Gang convoys, recovered escape pods, and eliminated criminal vessels in the Orulas system.
+persons:
+- Rose Trebek
+groups:
+- Joint Security Taskforce
+- Blue Hand Gang
 locations:
-- I'm sick of these scumbags running my
-- Orula
-- Orulas
-- We also need volunteers to sweep the
+- Orulas system
+- Wilkes Orbital
+- Nespeleve system
 topics:
 - crime
 - research

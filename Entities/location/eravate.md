@@ -2,32 +2,32 @@
 id: eravate
 name: Eravate
 type: location
-first_seen_date: '3302-03-17'
+first_seen_date: '3302-02-24'
 last_seen_date: '3303-07-07'
-mention_count: 7
+mention_count: 8
 related_entities:
 - skvortsov-orbital
 - ackerman-market
-- fozard-dock
-- hip-19934
-- irens-dock
+- von-bellingshausen-port
+- almar
+- haack-gateway
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Eravate
 
-First mentioned: **3302-03-17**  
+First mentioned: **3302-02-24**  
 Last mentioned: **3303-07-07**  
-Total mentions: **7**
+Total mentions: **8**
 
 ## Related
 
-- [[Skvortsov Orbital]] (4 co-mentions)
-- [[Ackerman Market]] (3 co-mentions)
-- [[Fozard Dock]] (2 co-mentions)
-- [[HIP 19934]] (2 co-mentions)
-- [[Irens Dock]] (2 co-mentions)
+- [[Skvortsov Orbital]] (5 co-mentions)
+- [[Ackerman Market]] (4 co-mentions)
+- [[von Bellingshausen Port]] (3 co-mentions)
+- [[Almar]] (3 co-mentions)
+- [[Haack Gateway]] (3 co-mentions)
 
 ## Biography
 

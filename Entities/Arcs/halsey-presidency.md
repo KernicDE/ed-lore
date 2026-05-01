@@ -7,10 +7,10 @@ mention_count: 19
 significance: medium
 key_entities:
 - federal-navy
+- federal-government
 - leoniceno-orbital-medical-staff
 - president-jasmina-halsey
 - federal-congress
-- core-dynamics
 ---
 
 <!-- AUTO-GENERATED -->
@@ -24,10 +24,10 @@ Articles: **19**
 ## Key Figures
 
 - [[Federal Navy]] (5 mentions)
+- [[Federal government]] (3 mentions)
 - [[Leoniceno Orbital medical staff]] (3 mentions)
 - [[President Jasmina Halsey]] (2 mentions)
 - [[Federal Congress]] (2 mentions)
-- [[Core Dynamics]] (2 mentions)
 
 ## Description
 

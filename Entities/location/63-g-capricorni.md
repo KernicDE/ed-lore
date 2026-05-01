@@ -2,32 +2,32 @@
 id: 63-g-capricorni
 name: 63 G. Capricorni
 type: location
-first_seen_date: '3302-04-18'
+first_seen_date: '3302-02-24'
 last_seen_date: '3303-12-15'
-mention_count: 5
+mention_count: 6
 related_entities:
 - skvortsov-orbital
-- fozard-dock
-- hip-19934
-- irens-dock
-- manite
+- ackerman-market
+- eravate
+- von-bellingshausen-port
+- almar
 ---
 
 <!-- AUTO-GENERATED -->
 
 # 63 G. Capricorni
 
-First mentioned: **3302-04-18**  
+First mentioned: **3302-02-24**  
 Last mentioned: **3303-12-15**  
-Total mentions: **5**
+Total mentions: **6**
 
 ## Related
 
-- [[Skvortsov Orbital]] (5 co-mentions)
-- [[Fozard Dock]] (2 co-mentions)
-- [[HIP 19934]] (2 co-mentions)
-- [[Irens Dock]] (2 co-mentions)
-- [[Manite]] (2 co-mentions)
+- [[Skvortsov Orbital]] (6 co-mentions)
+- [[Ackerman Market]] (3 co-mentions)
+- [[Eravate]] (3 co-mentions)
+- [[von Bellingshausen Port]] (3 co-mentions)
+- [[Almar]] (3 co-mentions)
 
 ## Biography
 

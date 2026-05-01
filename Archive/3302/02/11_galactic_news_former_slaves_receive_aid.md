@@ -4,8 +4,13 @@ title: Galactic News  Former Slaves Receive Aid
 slug: galactic_news_former_slaves_receive_aid
 date: '3302-02-11'
 source: GitHub
+summary: The Paladin Consortium's appeal for water purifiers receives a positive response. Former Imperial slaves liberated at Onnes Gateway in LFT 37 will now have access to basic sanitation while awaiting official termination of their indenture contracts.
+player_impact: Pilots delivered water purifiers to Onnes Gateway in the LFT 37 system to support recently liberated former slaves.
+groups:
+- Paladin Consortium
 locations:
-- LFT 37
+- Onnes Gateway
+- LFT 37 system
 topics:
 - humanitarian
 - slavery

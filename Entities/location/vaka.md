@@ -6,7 +6,7 @@ first_seen_date: '3302-02-06'
 last_seen_date: '3302-06-23'
 mention_count: 2
 related_entities:
-- noti
+- zenbei-orbital
 - obsidian-orbital
 - federal-navy
 - imperial-navy
@@ -23,7 +23,7 @@ Total mentions: **2**
 
 ## Related
 
-- [[Noti]] (1 co-mentions)
+- [[Zenbei Orbital]] (1 co-mentions)
 - [[Obsidian Orbital]] (1 co-mentions)
 - [[Federal Navy]] (1 co-mentions)
 - [[Imperial Navy]] (1 co-mentions)

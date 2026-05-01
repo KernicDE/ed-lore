@@ -4,9 +4,16 @@ title: Galactic News  Former Federal President Found
 slug: galactic_news_former_federal_president_found
 date: '3302-02-26'
 source: GitHub
-entities:
-- Found
+summary: President Zachary Hudson announces that former President Jasmina Halsey has been found alive in an escape pod from Starship One. She is in critical but stable condition at Leoniceno Orbital, kept in an induced coma while her injuries heal. The recovery prompts speculation about her future role.
+player_impact: Pilots participated in the search for Starship One survivors, leading to the discovery of former President Jasmina Halsey.
+persons:
 - Zachary Hudson
+- Jasmina Halsey
+groups:
+- Federal government
+locations:
+- Leoniceno Orbital
+- Azaleach
 topics:
 - medicine
 - ship

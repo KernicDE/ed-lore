@@ -4,7 +4,13 @@ title: Galactic News  Prices Rising at i Sola Prospect
 slug: galactic_news_prices_rising_at_i_sola_prospect
 date: '3302-02-17'
 source: GitHub
+summary: Authorities in Brestla announce a 20% price increase for all outfitting and shipyard services at i Sola Prospect, citing high shipping costs from manufacturers' core systems. The recently developed planetary outpost was the first to boast a complete range of services including a comprehensive shipyard.
+player_impact: None
+groups:
+- Imperial Inquisition
 locations:
+- i Sola Prospect
+- Brestla A1
 - Sol
 topics:
 - ship

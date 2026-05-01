@@ -4,6 +4,15 @@ title: Community Goal  Conspiracy Theorist Appeals for Cartographic Data
 slug: community_goal_conspiracy_theorist_appeals_for_cartographic_data
 date: '3302-02-29'
 source: GitHub
+summary: Conspiracy theorist Ricardo Bentonio appeals for cartographic data to prove that the 29th of February 3302 should not exist and heralds universal collapse. Kruger 60 Free funds the one-day appeal, with deliveries requested at Jones Estate in the Groombridge 34 system.
+player_impact: Pilots delivered cartographic data to Jones Estate in the Groombridge 34 system to support Bentonio's campaign.
+persons:
+- Ricardo Bentonio
+groups:
+- Kruger 60 Free
+locations:
+- Jones Estate
+- Groombridge 34
 topics:
 - diplomacy
 - piracy

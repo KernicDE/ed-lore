@@ -4,8 +4,16 @@ title: Galactic News  Federation Begins Analysing Wreckage
 slug: galactic_news_federation_begins_analysing_wreckage
 date: '3302-02-04'
 source: GitHub
-entities:
+summary: The Federation announces it has received a sizeable quantity of Starship One debris from the search conducted by pilots. President Hudson thanks the galactic community and warns Daurtu Jet Comms PLC against meddling in Federal affairs. The mysterious organisation received only modest debris despite offering larger rewards.
+player_impact: Pilots delivered thousands of tonnes of Starship One debris to Leoniceno Orbital for Federal analysis.
+persons:
 - Zachary Hudson
+groups:
+- Azaleach Partnership
+- Daurtu Jet Comms PLC
+locations:
+- Leoniceno Orbital
+- Azaleach
 topics:
 - research
 - ship

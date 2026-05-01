@@ -2,18 +2,18 @@
 id: benjamin-gorrister
 name: Benjamin Gorrister
 type: person
-first_seen_date: '3302-05-06'
+first_seen_date: '3302-02-22'
 last_seen_date: '3302-05-06'
-mention_count: 1
+mention_count: 2
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Benjamin Gorrister
 
-First mentioned: **3302-05-06**  
+First mentioned: **3302-02-22**  
 Last mentioned: **3302-05-06**  
-Total mentions: **1**
+Total mentions: **2**
 
 ## Related
 

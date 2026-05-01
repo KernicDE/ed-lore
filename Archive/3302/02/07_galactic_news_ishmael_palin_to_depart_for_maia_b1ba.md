@@ -4,13 +4,16 @@ title: Galactic News  Ishmael Palin to Depart for Maia b1ba
 slug: galactic_news_ishmael_palin_to_depart_for_maia_b1ba
 date: '3302-02-07'
 source: GitHub
-entities:
+summary: Professor Ishmael Palin reassures the public that his research outpost on Maia b1ba will proceed despite delays. His team was sidetracked by recent breakthroughs with Unknown Artefacts and meta-alloys, but they will depart for the new base within 24 hours.
+player_impact: None
+persons:
 - Ishmael Palin
-- Palin explained
-- Palin's base
+groups:
+- Palin Institute
 locations:
-- Maia
+- Maia b1ba
 - Obsidian Orbital
+- Maia system
 topics:
 - research
 - ship

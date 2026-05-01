@@ -24,7 +24,7 @@ Total mentions: **21**
 ## Related
 
 - [[Kumo Crew]] (9 co-mentions)
-- [[Gabriel Enterprise]] (6 co-mentions)
+- [[Gabriel Enterprise]] (7 co-mentions)
 - [[Pilots Federation]] (6 co-mentions)
 - [[Pegasi Sector PN-T c3-14]] (6 co-mentions)
 - [[Wolf 1301]] (5 co-mentions)

@@ -4,26 +4,67 @@ title: Galactic News  Technological Plague Continues to Threaten Starports
 slug: galactic_news_technological_plague_continues_to_threaten_starports
 date: '3302-02-24'
 source: GitHub
-entities:
+summary: The technological plague continues to affect starports across inhabited space. Despite meta-alloys alleviating issues at Obsidian Orbital, Professor Palin's disappearance halted further research. Multiple starports have suspended services or are experiencing technical issues due to Unknown Artefact interference.
+player_impact: None
+persons:
 - Ishmael Palin
+groups:
+- Obsidian Orbital technical team
 locations:
-- 49 Arietis
-- 64 Arietis
-- Alpha Centauri
-- Bond Hub
-- Coats Hub
-- Gaiman Dock
-- Gurragchaa Gateway
+- Ackerman Market
+- Eravate
+- von Bellingshausen Port
+- Almar
+- Haack Gateway
+- Halbangaay
+- Gabriel Enterprise
 - Harma
-- Nganji
-- Obsidian Orbital
-- Robigo
-- Robigo Mines
-- Sol
-- Varati
+- Gurragchaa Gateway
 - Warkushanui
+- Gaiman Dock
+- 49 Arietis
 - Weyn Dock
+- 64 Arietis
+- Korolyov Hub
+- Arawere
+- Lobachevsky Outpost
+- Pic Tok
+- Carter Port
+- Rhea
+- Irens Dock
+- Manite
+- Bloch Vision
+- Loperada
+- Skvortsov Orbital
+- 63 G. Capricorni
+- Tall Enterprise
+- Ngalia
+- Love Ring
+- Evejitaka
+- al-Din Prospect
+- Alpha Centauri
+- Robigo Mines
+- Robigo
+- Saunders's Dive
 - Wolf 1301
+- Alexander Freeport
+- HIP 18843
+- Coats Hub
+- Warkushanui
+- Bond Hub
+- Varati
+- Hinz Hub
+- Ngobe
+- Tsunenaga Dock
+- Iapodes
+- Li Qing Jao
+- Sol
+- Ray Gateway
+- Diaguandri
+- Vizcaino Enterprise
+- Nganji
+- Talos 2
+- Peregrina
 topics:
 - construction
 - medicine

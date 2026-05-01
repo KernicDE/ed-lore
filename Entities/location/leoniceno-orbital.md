@@ -2,30 +2,32 @@
 id: leoniceno-orbital
 name: Leoniceno Orbital
 type: location
-first_seen_date: '3302-03-23'
+first_seen_date: '3302-02-04'
 last_seen_date: '3302-05-21'
-mention_count: 5
+mention_count: 9
 related_entities:
 - azaleach
-- leoniceno-orbital-medical-staff
 - azaleach-partnership
-- federal-times
+- leoniceno-orbital-medical-staff
+- federal-government
+- daurtu-jet-comms-plc
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Leoniceno Orbital
 
-First mentioned: **3302-03-23**  
+First mentioned: **3302-02-04**  
 Last mentioned: **3302-05-21**  
-Total mentions: **5**
+Total mentions: **9**
 
 ## Related
 
-- [[Azaleach]] (5 co-mentions)
+- [[Azaleach]] (8 co-mentions)
+- [[Azaleach Partnership]] (3 co-mentions)
 - [[Leoniceno Orbital medical staff]] (3 co-mentions)
-- [[Azaleach Partnership]] (2 co-mentions)
-- [[Federal Times]] (1 co-mentions)
+- [[Federal government]] (2 co-mentions)
+- [[Daurtu Jet Comms PLC]] (1 co-mentions)
 
 ## Biography
 

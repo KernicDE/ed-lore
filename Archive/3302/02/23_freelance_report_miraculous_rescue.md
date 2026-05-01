@@ -4,10 +4,17 @@ title: Freelance Report  Miraculous Rescue
 slug: freelance_report_miraculous_rescue
 date: '3302-02-23'
 source: GitHub
-entities:
-- Santander
+summary: Commander Santander discovers two occupied escape pods on a rocky-ice body near the NGC 1333 nebula, over 1,000 light years from the nearest starport. The crash site was visible from high altitude, and Santander investigated in his SRV before recovering the pods in his Asp Explorer.
+player_impact: None
+persons:
+- Commander Santander
+- Commander Cryptomancer
+groups:
+- Fuel Rats
 locations:
-- In a
+- NGC 1333 nebula
+- rocky-ice body
+- nearest starport
 topics:
 - construction
 - exploration

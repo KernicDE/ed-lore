@@ -4,13 +4,17 @@ title: Galactic News  Empire to Retake Facece
 slug: galactic_news_empire_to_retake_facece
 date: '3302-02-04'
 source: GitHub
-entities:
+summary: The Allied Facece Order occupied the Facece system two weeks ago, causing shockwaves through the Empire. After criticism of his perceived inaction, Chancellor Anders Blaine announces plans to retake the system, imploring citizens to remain calm and warning the occupiers that their days are numbered.
+player_impact: None
+persons:
 - Anders Blaine
-- Blaine announced plans
+- Colm Tornquist
 groups:
 - Imperial Herald
+- Allied Facece Order
 locations:
 - Facece
+- Capitol
 modern_impact: GalNet community report documenting current events in the galaxy.
 legacy_weight: 2
 significance: low

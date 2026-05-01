@@ -4,10 +4,15 @@ title: Noticias de la comunidad  Nuevos avistamientos de la Diamondback
 slug: noticias_de_la_comunidad_nuevos_avistamientos_de_la_diamondback
 date: '3302-02-06'
 source: GitHub
+summary: Commander Doumaz_B reports a mysterious Diamondback Explorer sighting near Zenbei Orbital in Vaka. The ship flew in circles, always facing the station, with no targetable signal. When followed, it suddenly disappeared. Security forces in many systems have been placed on alert.
+player_impact: None
+persons:
+- Comandante Doumaz_B
+- Comandante Corrigendum
 locations:
-- Noti
-- Obsidian Orbital
+- Zenbei Orbital
 - Vaka
+- Obsidian Orbital
 topics:
 - exploration
 modern_impact: Notable exploration achievement.

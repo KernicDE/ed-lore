@@ -2,24 +2,21 @@
 id: found
 name: Found
 type: person
-first_seen_date: '3302-02-26'
-last_seen_date: '3302-02-26'
-mention_count: 1
-related_entities:
-- zachary-hudson
+first_seen_date: '3307-02-02'
+last_seen_date: '3307-03-31'
+mention_count: 4
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Found
 
-First mentioned: **3302-02-26**  
-Last mentioned: **3302-02-26**  
-Total mentions: **1**
+First mentioned: **3307-02-02**  
+Last mentioned: **3307-03-31**  
+Total mentions: **4**
 
 ## Related
 
-- [[Zachary Hudson]] (1 co-mentions)
 
 ## Biography
 

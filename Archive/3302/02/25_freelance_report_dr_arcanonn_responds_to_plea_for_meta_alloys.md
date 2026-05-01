@@ -4,14 +4,16 @@ title: Freelance Report  Dr Arcanonn Responds to Plea for Meta Alloys
 slug: freelance_report_dr_arcanonn_responds_to_plea_for_meta_alloys
 date: '3302-02-25'
 source: GitHub
-entities:
-- Arcanonn
-- Arcanonn Responds
+summary: Dr Arcanonn responds to calls for more meta-alloys to be shipped to affected stations. He questions what happened to the thousands of tonnes previously delivered to Obsidian Orbital for Professor Palin, urging the station to release remaining stock to the commodities market before returning to barnacle sites.
+player_impact: None
+persons:
+- Dr Arcanonn
+- Commander Lord Zoltan
 groups:
-- Canonn
 - Canonn Interstellar Research Group
 locations:
 - Obsidian Orbital
+- Varati system
 topics:
 - research
 - ship

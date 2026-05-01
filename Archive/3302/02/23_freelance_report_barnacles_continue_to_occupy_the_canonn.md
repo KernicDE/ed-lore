@@ -4,9 +4,17 @@ title: Freelance Report  Barnacles Continue to Occupy the Canonn
 slug: freelance_report_barnacles_continue_to_occupy_the_canonn
 date: '3302-02-23'
 source: GitHub
+summary: Dr Arcanonn reports ongoing Canonn research into barnacles and Unknown Artefacts. New barnacle sites continue to be discovered in the Pleiades, including a recent find on Pleiades Sector IH-V C2-16 C4. The Canonn is investigating why barnacles appear specifically in the Pleiades region.
+player_impact: None
+persons:
+- Dr Arcanonn
+- Verity Gavroche
+- Commander Lord Zoltan
 groups:
-- Canonn
 - Canonn Interstellar Research Group
+locations:
+- Pleiades
+- Pleiades Sector IH-V C2-16 C4
 topics:
 - research
 arc_id: barnacle-meta-alloy

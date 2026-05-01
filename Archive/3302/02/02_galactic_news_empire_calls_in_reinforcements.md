@@ -4,12 +4,16 @@ title: Galactic News  Empire Calls in Reinforcements
 slug: galactic_news_empire_calls_in_reinforcements
 date: '3302-02-02'
 source: GitHub
+summary: The Imperial Internal Security Service discovered Emperor's Dawn 'shadow' cells in the Dakshmandi, Ipilyaqa, and Ch'i Lin systems. Despite despatching military fleets, the campaign faces tougher resistance than expected, prompting the Empire to send reinforcements.
+player_impact: None
 groups:
 - Emperor's Dawn
 - Imperial Herald
 - Imperial Internal Security Service
 locations:
-- Ipilyaqa and Ch'i Lin
+- Dakshmandi
+- Ipilyaqa
+- Ch'i Lin
 topics:
 - succession
 - terrorism

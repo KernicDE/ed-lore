@@ -4,8 +4,18 @@ title: Freelance Report  CIMA Launches Initiative
 slug: freelance_report_cima_launches_initiative
 date: '3302-02-22'
 source: GitHub
+summary: Benjamin Gorrister of the Carmack Intergalactic Mining Association launches an initiative to discover pristine metallic ring locations. Nearly 300 locations are already identified, with rewards of 100,000 credits per discovery and additional prizes for top contributors. The event runs for 42 days.
+player_impact: Pilots submitted data on pristine metallic ring locations for the CIMA prospectors' competition, earning credits for new discoveries.
+persons:
+- Benjamin Gorrister
+- Karen Keish
+groups:
+- Carmack Intergalactic Mining Association
+locations:
+- Halbara
 topics:
-- war
+- exploration
+- sport
 modern_impact: GalNet community report documenting current events in the galaxy.
 legacy_weight: 2
 significance: low

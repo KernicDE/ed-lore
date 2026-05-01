@@ -4,11 +4,18 @@ title: Freelance Report  Dr Lorax Speaks for the Barnacles
 slug: freelance_report_dr_lorax_speaks_for_the_barnacles
 date: '3302-02-25'
 source: GitHub
-entities:
-- Lorax Speaks
+summary: Doctor Elana Lorax, a leading xeno biologist, condemns the destruction of barnacles for meta-alloys. She compares it to historical mass extinctions and argues that with patience, scientists could learn to synthesize meta-alloys rather than destroying a unique lifeform for short-term gain.
+player_impact: None
+persons:
+- Doctor Elana Lorax
+- Commander Corrigendum
+groups:
+- Canonn Interstellar Research Group
 locations:
 - Achenar
-- Achenar and many other
+- Tau Ceti
+- Delta Pavonis
+- Pleiades
 arc_id: barnacle-meta-alloy
 modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
   and fuels the emerging Thargoid contact narrative.

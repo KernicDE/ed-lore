@@ -4,15 +4,17 @@ title: Galactic News  Professor Ishmael Palin Missing
 slug: galactic_news_professor_ishmael_palin_missing
 date: '3302-02-09'
 source: GitHub
-entities:
+summary: Professor Ishmael Palin and his team have disappeared en route to Maia b1ba. Security officer Seneca Toule reports that Palin's ship transmitted a status report shortly after leaving Obsidian Orbital but has not been heard from since. A search is underway.
+player_impact: None
+persons:
 - Ishmael Palin
-- Ishmael Palin Missing
-- Palin
-- Palin's ship transmitted
+- Seneca Toule
+groups:
+- Palin Institute
 locations:
-- Authorities in the Maia
-- Maia
+- Maia b1ba
 - Obsidian Orbital
+- Maia system
 topics:
 - research
 - ship

@@ -2,32 +2,32 @@
 id: delta-pavonis
 name: Delta Pavonis
 type: location
-first_seen_date: '3304-05-24'
+first_seen_date: '3302-02-25'
 last_seen_date: '3307-12-31'
-mention_count: 2
+mention_count: 3
 related_entities:
+- canonn-interstellar-research-group
+- achenar
+- tau-ceti
 - league-of-reparation
 - inra
-- pilots-federation
-- federal-intelligence-agency
-- biggs-colony
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Delta Pavonis
 
-First mentioned: **3304-05-24**  
+First mentioned: **3302-02-25**  
 Last mentioned: **3307-12-31**  
-Total mentions: **2**
+Total mentions: **3**
 
 ## Related
 
+- [[Canonn Interstellar Research Group]] (1 co-mentions)
+- [[Achenar]] (1 co-mentions)
+- [[Tau Ceti]] (1 co-mentions)
 - [[League of Reparation]] (1 co-mentions)
 - [[INRA]] (1 co-mentions)
-- [[Pilots Federation]] (1 co-mentions)
-- [[Federal Intelligence Agency]] (1 co-mentions)
-- [[Biggs Colony]] (1 co-mentions)
 
 ## Biography
 

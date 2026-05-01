@@ -4,8 +4,15 @@ title: Galactic News  Okinura Appeal Successful
 slug: galactic_news_okinura_appeal_successful
 date: '3302-02-18'
 source: GitHub
-entities:
-- Felicia Winters released
+summary: The Earth Defence Fleet announces the successful conclusion of its Okinura economic development initiative. Both the polymer delivery operation and the agitator elimination campaign were enthusiastically received. Shadow President Felicia Winters extends her gratitude to participants.
+player_impact: Pilots delivered polymers to upgrade Fisher Terminal and eliminated agitators in the Okinura system.
+persons:
+- Felicia Winters
+groups:
+- Earth Defence Fleet
+locations:
+- Okinura system
+- Fisher Terminal
 topics:
 - piracy
 - trade

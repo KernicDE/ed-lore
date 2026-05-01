@@ -4,11 +4,20 @@ title: Community Goal  The Search for Survivors
 slug: community_goal_the_search_for_survivors
 date: '3302-02-18'
 source: GitHub
-entities:
-- Hudson followed his statement
+summary: President Zachary Hudson announces that Starship One wreckage has been confirmed among debris delivered to Leoniceno Orbital. Researchers believe the front of the ship may have suffered less damage, meaning some crew might have reached escape pods. A search for survivors begins in the Lyncis Sector.
+player_impact: Pilots searched the Lyncis Sector systems for escape pods and survivors from the Starship One disaster.
+persons:
 - Zachary Hudson
+groups:
+- Federal research team
 locations:
-- ON-T B3-4 and ST-R B4-3 1
+- Lyncis Sector
+- ON-T B3-1
+- ON-T B3-2
+- ON-T B3-3
+- ON-T B3-4
+- ST-R B4-3 1
+- Leoniceno Orbital
 topics:
 - humanitarian
 - research

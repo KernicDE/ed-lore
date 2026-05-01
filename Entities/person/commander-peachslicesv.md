@@ -2,18 +2,18 @@
 id: commander-peachslicesv
 name: Commander PeachSlicesV
 type: person
-first_seen_date: '3302-10-01'
+first_seen_date: '3302-02-05'
 last_seen_date: '3302-10-01'
-mention_count: 1
+mention_count: 2
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Commander PeachSlicesV
 
-First mentioned: **3302-10-01**  
+First mentioned: **3302-02-05**  
 Last mentioned: **3302-10-01**  
-Total mentions: **1**
+Total mentions: **2**
 
 ## Related
 

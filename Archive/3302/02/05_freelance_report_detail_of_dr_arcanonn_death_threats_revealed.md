@@ -4,13 +4,16 @@ title: Freelance Report  Detail of Dr Arcanonn Death Threats Revealed
 slug: freelance_report_detail_of_dr_arcanonn_death_threats_revealed
 date: '3302-02-05'
 source: GitHub
-entities:
-- Arcanonn
-- Arcanonn Death Threats Revealed
-- Huros
-- Palin
+summary: Nelson De Rosa, chief of security for the Canonn, reveals that Dr Arcanonn received a credible death threat warning him against visiting Professor Palin in Maia. The investigation identifies Socha Korbemile as a leak and explores links to Varati-based groups and Dr Huros, a militant alien-life advocate.
+player_impact: None
+persons:
+- Nelson De Rosa
+- Dr Arcanonn
+- Socha Korbemile
+- Dr Huros
+- Professor Palin
+- Commander Lord Zoltan
 groups:
-- Canonn
 - Canonn Interstellar Research Group
 locations:
 - Christian Dock

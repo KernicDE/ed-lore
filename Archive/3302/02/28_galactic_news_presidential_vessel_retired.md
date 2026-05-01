@@ -4,10 +4,15 @@ title: Galactic News  Presidential Vessel Retired
 slug: galactic_news_presidential_vessel_retired
 date: '3302-02-28'
 source: GitHub
-entities:
+summary: The remaining Saud Kruger Narwhal presidential vessel is retired after six years of service. President Hudson's administration replaces it with a pair of modified Farragut Battle Cruisers, citing the need for comprehensive military support and total safety in dangerous times.
+player_impact: None
+persons:
 - Zachary Hudson
+- Bexley Jones
 groups:
 - Federal Navy
+locations:
+- Federation
 topics:
 - safety
 - ship
