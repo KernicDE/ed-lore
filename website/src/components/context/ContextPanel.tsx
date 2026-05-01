@@ -111,7 +111,6 @@ export default function ContextPanel({
     return Array.from(arcSet)
       .map((id) => arcs[id])
       .filter(Boolean)
-      .filter((a) => isUnlocked(a.first_seen_date))
       .sort((a, b) => b.mention_count - a.mention_count);
   }, [visibleArticles, arcs, currentDate]);
 
