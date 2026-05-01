@@ -112,8 +112,7 @@ export default function ContextPanel({
       .map((id) => arcs[id])
       .filter(Boolean)
       .filter((a) => isUnlocked(a.first_seen_date))
-      .sort((a, b) => b.mention_count - a.mention_count)
-      .slice(0, 6);
+      .sort((a, b) => b.mention_count - a.mention_count);
   }, [visibleArticles, arcs, currentDate]);
 
   const contextEntities = useMemo(() => {
