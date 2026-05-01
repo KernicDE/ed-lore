@@ -31,7 +31,7 @@ This project is **"The GalNet Chronicle"** — an archive and knowledge system f
 | Package manager | `pnpm` |
 | Deployment | GitHub Actions → GitHub Pages |
 
-Python dependencies: `pyyaml`, `httpx`, `tqdm`
+Python dependencies: `pyyaml`, `httpx`, `tqdm`, `edge-tts`
 
 ---
 
@@ -45,6 +45,7 @@ ed-lore/
 ├── AGENTS.md                  # This file
 ├── scripts/
 │   ├── build_graph.py         # Builds lore_graph.json + split async JSON
+│   ├── generate_audio.py      # Incremental TTS audio generation (edge-tts)
 │   ├── format_articles.py     # Idempotent formatting pass for all Archive/*.md
 │   └── validate_enrichment.py # Validates article frontmatter
 ├── Archive/                   # Canonical article archive (YYYY/MM/DD_slug.md)
@@ -62,6 +63,7 @@ ed-lore/
     │   └── data/
     │       └── lore_graph.json   # MUST copy root lore_graph.json here before build
     ├── public/
+    │   ├── audio/                # Generated MP3s — NOT in git
     │   └── data/
     │       ├── galnet-meta.json  # Articles (no body_full) + entities + arcs — loaded async
     │       └── galnet-bodies.json # {uuid: body_full} — loaded lazily on first expand
@@ -145,15 +147,29 @@ python scripts/build_graph.py
 
 Reads all articles in `Archive/` and entity files in `Entities/`, then writes:
 - `lore_graph.json` — full graph (used by entity/arc static pages)
-- `website/public/data/galnet-meta.json` — articles without `body_full` + entities + arcs (~6.7MB, loaded async by the timeline)
-- `website/public/data/galnet-bodies.json` — `{uuid: body_full}` map (~3.1MB, loaded lazily on first article expand)
+- `website/public/data/galnet-meta.json` — articles without `body_full` + entities + arcs (~8MB, loaded async by the timeline)
+- `website/public/data/galnet-bodies.json` — `{uuid: body_full}` map (~3MB, loaded lazily on first article expand)
 
 **Critical:** The script handles `None`/null values in list fields safely:
 ```python
 for g in fm.get("groups") or []:
 ```
 
-### Step 2: Copy to website (for entity/arc pages only)
+### Step 2: Generate audio (optional, incremental)
+
+```bash
+pip install edge-tts
+python scripts/generate_audio.py
+```
+
+- Uses **edge-tts** with `en-GB-SoniaNeural` voice
+- Generates MP3s in `website/public/audio/{uuid}.mp3`
+- **Incremental:** Only regenerates audio for new or modified articles (hash-based skip via `scripts/audio_manifest.json`)
+- TTS structure: `"$Title on $date"` → article body → `"AI analysis: Arc (if applicable). Player impact: $player_impact. Future impact: $future_impact."`
+- Audio files are **not committed to git** (in `.gitignore`); generated in CI or locally
+- Full batch (~2,500 articles) takes ~3–4 hours; CI runs it automatically
+
+### Step 3: Copy to website (for entity/arc pages only)
 
 ```bash
 cp lore_graph.json website/src/data/lore_graph.json
@@ -161,7 +177,7 @@ cp lore_graph.json website/src/data/lore_graph.json
 
 Only needed for entity/arc static page generation. The main index.astro no longer imports it — it fetches `galnet-meta.json` async at runtime.
 
-### Step 3: Build
+### Step 4: Build
 
 ```bash
 cd website && pnpm build
@@ -274,10 +290,11 @@ When new persons or groups are introduced in articles, the build script may crea
 
 | Task | Command |
 |------|---------|
-| Install Python deps | `pip install pyyaml httpx tqdm` |
+| Install Python deps | `pip install pyyaml httpx tqdm edge-tts` |
 | Fetch / refresh archive | `python fetch.py` *(destructive)* |
 | Validate enrichment | `python scripts/validate_enrichment.py` |
 | Build graph + split JSON | `python scripts/build_graph.py` |
+| Generate audio (incremental) | `python scripts/generate_audio.py` |
 | Copy graph to website | `cp lore_graph.json website/src/data/lore_graph.json` |
 | Format archive articles | `python scripts/format_articles.py` |
 | Build website | `cd website && pnpm build` |

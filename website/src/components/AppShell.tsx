@@ -2,6 +2,7 @@ import { useState, useCallback, useMemo, useEffect, useRef } from 'react';
 import Timeline from './timeline/Timeline';
 import ContextPanel from './context/ContextPanel';
 import CommandConsole from './hud/CommandConsole';
+import AudioPlayer from './audio/AudioPlayer';
 
 interface Article {
   uuid: string;
@@ -215,6 +216,9 @@ export default function AppShell() {
           allYears={allYears}
           onYearSelect={handleYearSelect}
         />
+      </div>
+      <div className="audio-player-bar">
+        <AudioPlayer article={selectedArticle} />
       </div>
       {searchOpen && (
         <CommandConsole
