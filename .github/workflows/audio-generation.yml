@@ -1,8 +1,8 @@
-name: Daily Audio Generation
+name: Audio Generation
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Daily at midnight UTC
+    - cron: '0 * * * *'  # Every hour
   workflow_dispatch:
 
 permissions:
