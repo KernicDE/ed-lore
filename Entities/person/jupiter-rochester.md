@@ -5,7 +5,6 @@ type: person
 first_seen_date: '3304-07-07'
 last_seen_date: '3307-12-28'
 mention_count: 32
-inara_url: https://inara.cz/elite/cmdr-search/?search=Jupiter%20Rochester
 bio: 'Jupiter Rochester is a Ceo in Elite Dangerous lore, active from 3304-07-07 to
   3307-12-28. Affiliated with Core Dynamics, Alliance. Notable activities include:
   Weekly summary covering the dismantling of the League of Reparation and Riri McAllister''s
@@ -13,6 +12,7 @@ bio: 'Jupiter Rochester is a Ceo in Elite Dangerous lore, active from 3304-07-07
   the Alliance Assembly''s agreement to vote on Kincaid''s constitutional changes,
   the fire destroying Supratech''s facility, in...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

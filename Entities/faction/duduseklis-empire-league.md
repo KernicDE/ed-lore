@@ -10,13 +10,13 @@ related_entities:
 - pilots-federation
 - regulatory-state-of-ackwada
 - ackwada
-inara_url: https://inara.cz/elite/minorfaction/?search=Duduseklis%20Empire%20League
 bio: Duduseklis Empire League is a organization in the Elite Dangerous universe, active
   from 3306-10-08 to 3306-10-14. Frequently linked with Pilots Federation, Imperial
   Internal Security Service, Ackwada. The Empire targets the Duduseklis Empire League
   in Ackwada, suspecting it of NMLA recruitment. The Duduseklis Empire League is overwhelmed
   by Imperial forces.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

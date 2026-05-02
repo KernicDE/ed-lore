@@ -5,11 +5,11 @@ type: person
 first_seen_date: '3306-11-26'
 last_seen_date: '3306-11-26'
 mention_count: 1
-inara_url: https://inara.cz/elite/cmdr-search/?search=Rodion%20Stathos
 bio: Rodion Stathos is a engineer in the Elite Dangerous universe, active from 3306-11-26
   to 3306-11-26. Closely associated with Pilots Federation, Alliance. Rodion Stathos,
   funded by pharmaceutical and bioengineering companies.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

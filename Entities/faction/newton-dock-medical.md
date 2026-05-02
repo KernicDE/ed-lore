@@ -11,7 +11,6 @@ related_entities:
 - dajoar
 - eleu
 - 20-ophiuchi
-inara_url: https://inara.cz/elite/minorfaction/?search=Newton%20Dock%20Medical
 bio: Newton Dock Medical is a medical in the Elite Dangerous universe, active from
   3301-07-14 to 3301-07-29. Frequently linked with Newton Dock, Eleu, Dajoar. Medical
   personnel at Hart Station praised 765 independent pilots who delivered medicines
@@ -19,6 +18,7 @@ bio: Newton Dock Medical is a medical in the Elite Dangerous universe, active fr
   the tea contains ingredients that can cure the pathogen, though it is rare and only
   found in Heike.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

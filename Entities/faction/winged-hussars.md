@@ -8,7 +8,6 @@ mention_count: 2
 related_entities:
 - hip-110028
 - zander-dock
-inara_url: https://inara.cz/elite/minorfaction/?search=Winged%20Hussars
 bio: Winged Hussars is a organization in the Elite Dangerous universe, active from
   3303-09-29 to 3303-10-06. Frequently linked with HIP 110028, Zander Dock. The Winged
   Hussars announce plans to establish a recreational installation and tourist beacon
@@ -16,6 +15,7 @@ bio: Winged Hussars is a organization in the Elite Dangerous universe, active fr
   rare liquors concluded successfully, resulting in a massive influx of deliveries
   to Zander Dock.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -11,12 +11,12 @@ related_entities:
 - aegis
 - hip-22460
 - azimuth-biotech
-inara_url: https://inara.cz/elite/minorfaction/?search=Federation
 bio: 'Federation is a organization active in Elite Dangerous lore from 3301-03-02
   to 3311-11-27. Frequently associated with Empire, Alliance, Aegis. Key activities
   include: Historian Sima Kalhana covers the Empire''s founding.; Historian Sima Kalhana
   covers the first Federation-Achenar war (2323-2325).'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

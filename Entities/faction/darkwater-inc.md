@@ -9,12 +9,12 @@ related_entities:
 - imperial-navy
 - nmla
 - summerland
-inara_url: https://inara.cz/elite/minorfaction/?search=Darkwater%20Inc
 bio: Darkwater Inc is a organization in the Elite Dangerous universe, active from
   3308-02-17 to 3308-02-17. Frequently linked with NMLA, Imperial Navy, Summerland.
   The Empire declares Darkwater Inc a hostile military target for abducting Emperor
   Arissa.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

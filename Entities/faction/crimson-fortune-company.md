@@ -11,12 +11,12 @@ related_entities:
 - blossum-family
 - liaedin
 - volungu
-inara_url: https://inara.cz/elite/minorfaction/?search=Crimson%20Fortune%20Company
 bio: Crimson Fortune Company is a corporate in the Elite Dangerous universe, active
   from 3301-05-25 to 3301-05-25. Frequently linked with Faveol family, Liaedin, Shadow
   Navy. Crimson Fortune Company CEO Ellie Blossum denounced claims that Commander
   Wolzan and the Shadow Navy were terrorists.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

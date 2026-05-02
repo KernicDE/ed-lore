@@ -8,12 +8,12 @@ mention_count: 1
 related_entities:
 - abres
 - torrance
-inara_url: https://inara.cz/elite/minorfaction/?search=Pangborn%20Dock
 bio: Pangborn Dock is a organization in the Elite Dangerous universe, active from
   3301-07-06 to 3301-07-06. Frequently linked with Abres, Torrance. Pangborn Dock
   in the Abres system released an open contract for a large quantity of Osmium, a
   rare transition metal used in starship construction alloys.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -11,7 +11,6 @@ related_entities:
 - interstellar-communist-union
 - social-eleu-progressive-party
 - the-sovereign
-inara_url: https://inara.cz/elite/minorfaction/?search=Alliance%20Elite%20Diplomatic%20Corps
 bio: 'Alliance Elite Diplomatic Corps is a corporation active in Elite Dangerous lore
   from 3301-04-26 to 3302-06-30. Frequently associated with Social Eleu Progressive
   Party, Interstellar Communist Union, The Sovereign. Key activities include: After
@@ -20,6 +19,7 @@ bio: 'Alliance Elite Diplomatic Corps is a corporation active in Elite Dangerous
   pilots over a weekend to crush the Zaonce Jet Gang and other pirate crews terrorising
   the Old Worlds.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

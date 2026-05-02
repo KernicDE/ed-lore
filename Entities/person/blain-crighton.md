@@ -5,11 +5,11 @@ type: person
 first_seen_date: '3304-04-20'
 last_seen_date: '3304-04-20'
 mention_count: 1
-inara_url: https://inara.cz/elite/cmdr-search/?search=Blain%20Crighton
 bio: Blain Crighton is a commander in the Elite Dangerous universe, active from 3304-04-20
   to 3304-04-20. Closely associated with Angeli Imperial Enterprises. Commander Blain
   Crighton stated the project aims to find new ways to keep even the poorest fed.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

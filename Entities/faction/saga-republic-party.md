@@ -9,13 +9,13 @@ related_entities:
 - saga
 - zudov-terminal
 - mars
-inara_url: https://inara.cz/elite/minorfaction/?search=Saga%20Republic%20Party
 bio: Saga Republic Party is a organization in the Elite Dangerous universe, active
   from 3301-05-26 to 3301-05-26. Frequently linked with Saga, Mars. President Halsey
   missed her scheduled meeting with Saga delegates aboard Zudov Terminal. Maisy Stevenson,
   leader of the Saga Republic Party, stated that Starflight One failed to arrive 38
   hours prior and that Mars claimed the President took a last-minute detour.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

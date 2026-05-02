@@ -10,12 +10,12 @@ related_entities:
 - run
 - smith-port
 - leif-enterprise
-inara_url: https://inara.cz/elite/minorfaction/?search=Rogue%20Security
 bio: Rogue Security is a organization in the Elite Dangerous universe, active from
   3303-12-08 to 3303-12-08. Frequently linked with Run, Rogue Runners, Smith Port.
   The Rogue Runners have announced the successful conclusion of their campaign to
   renovate Leif Enterprise asteroid base in the Run system.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

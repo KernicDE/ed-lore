@@ -11,7 +11,6 @@ related_entities:
 - agassiz-settlement
 - hip-22460
 - pilots-federation
-inara_url: https://inara.cz/elite/minorfaction/?search=Order%20of%20the%20Far%20God
 bio: 'Order of the Far God is a religious active in Elite Dangerous lore from 3307-07-19
   to 3309-03-30. Frequently associated with The Panjabell, Agassiz Settlement, Pleiades
   Concordat. Key activities include: The Order of the Far God faces Federal investigation
@@ -19,6 +18,7 @@ bio: 'Order of the Far God is a religious active in Elite Dangerous lore from 33
   orthodox hive...; Seo Jin-ae claims Salvation planned to escape death via the Nemesis
   Failsafe, a Guardian-based consciousness transfer technology, while the Order o...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

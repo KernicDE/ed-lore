@@ -11,11 +11,11 @@ related_entities:
 - core-dynamics
 - metadrive-inc
 - chi-orionis
-inara_url: https://inara.cz/elite/minorfaction/?search=Galactic%20Finance%20Times
 bio: 'Galactic Finance Times is a media in the Elite Dangerous universe, active from
   3302-08-12 to 3302-08-12. Frequently linked with Core Dynamics, Sirius, MetaDrive
   Inc.. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

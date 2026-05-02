@@ -8,7 +8,6 @@ mention_count: 2
 related_entities:
 - kpelidoog
 - hipparchus-terminal
-inara_url: https://inara.cz/elite/minorfaction/?search=Kpelidoog%20Empire%20Assembly
 bio: Kpelidoog Empire Assembly is a government in the Elite Dangerous universe, active
   from 3303-08-22 to 3303-08-25. Frequently linked with Hipparchus Terminal, Kpelidoog.
   The Kpelidoog Empire Assembly announces plans to build a new Wells-class Carrier
@@ -16,6 +15,7 @@ bio: Kpelidoog Empire Assembly is a government in the Elite Dangerous universe, 
   titanium, semiconductors and power generators for delivery to Hipparchus Terminal
   in the Kpelidoog system.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

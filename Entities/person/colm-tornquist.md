@@ -5,10 +5,10 @@ type: person
 first_seen_date: '3302-02-04'
 last_seen_date: '3311-03-13'
 mention_count: 3
-inara_url: https://inara.cz/elite/cmdr-search/?search=Colm%20Tornquist
 bio: Colm Tornquist is a emperor in the Elite Dangerous universe, active from 3302-02-04
   to 3311-03-13. Closely associated with Imperial Herald, Allied Facece Order.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

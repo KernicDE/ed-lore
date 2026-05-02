@@ -11,13 +11,13 @@ related_entities:
 - alliance
 - azimuth
 - federal-navy
-inara_url: https://inara.cz/elite/minorfaction/?search=Salvation
 bio: 'Salvation is a organization active in Elite Dangerous lore from 3308-01-05 to
   3311-06-03. Frequently associated with Aegis, HIP 22460, Alliance. Key activities
   include: The anonymous figure Salvation claims Thargoid forces will attack the Cornsar
   system, but Aegis dismisses the warning due to lack of evidence.; Thargoid forces
   attack the Cornsar system, validating Salvation''s prediction.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

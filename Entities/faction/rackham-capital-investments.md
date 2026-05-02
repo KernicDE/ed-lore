@@ -11,7 +11,6 @@ related_entities:
 - herculean-machines
 - colonia-hub
 - mars
-inara_url: https://inara.cz/elite/minorfaction/?search=Rackham%20Capital%20Investments
 bio: 'Rackham Capital Investments is a organization active in Elite Dangerous lore
   from 3304-06-20 to 3311-09-08. Frequently associated with Federal Times. Key activities
   include: Weekly summary covering Thargoids being repelled from core systems to Bhal,
@@ -19,6 +18,7 @@ bio: 'Rackham Capital Investments is a organization active in Elite Dangerous lo
   summary covering Gibson Kincaid''s re-election as Alliance President, the foiled
   raid on Ram Tah''s Phoenix Base, the FSS targeting The Mars T...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

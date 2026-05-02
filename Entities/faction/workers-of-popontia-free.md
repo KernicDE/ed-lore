@@ -11,11 +11,11 @@ related_entities:
 - federal-navy
 - popontia
 - ryman-market
-inara_url: https://inara.cz/elite/minorfaction/?search=Workers%20of%20Popontia%20Free
 bio: 'Workers of Popontia Free is a organization in the Elite Dangerous universe,
   active from 3308-09-29 to 3308-09-29. Frequently linked with Ryman Market, Popontia,
   Federal Navy. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

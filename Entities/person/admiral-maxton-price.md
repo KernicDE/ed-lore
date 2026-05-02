@@ -5,12 +5,12 @@ type: person
 first_seen_date: '3302-06-25'
 last_seen_date: '3302-07-01'
 mention_count: 3
-inara_url: https://inara.cz/elite/cmdr-search/?search=Admiral%20Maxton%20Price
 bio: Admiral Maxton Price is a admiral in the Elite Dangerous universe, active from
   3302-06-25 to 3302-07-01. Closely associated with Federal Navy, Federation, Canonn
   Interstellar Research Group. Admiral Maxton Price of the Federal Navy defended the
   presence as legitimate, while Torval declined to specify Imperial retaliation.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

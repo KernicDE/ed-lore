@@ -11,7 +11,6 @@ related_entities:
 - imperial-navy
 - achenar
 - imperial-herald
-inara_url: https://inara.cz/elite/minorfaction/?search=Emperor%27s%20Dawn
 bio: 'Emperor''s Dawn is a organization active in Elite Dangerous lore from 3301-08-20
   to 3303-10-28. Frequently associated with Capitol, Imperial Internal Security Service,
   Imperial Navy. Key activities include: Princess Aisling Duval revealed that some
@@ -20,6 +19,7 @@ bio: 'Emperor''s Dawn is a organization active in Elite Dangerous lore from 3301
   revealed the group''s radical agenda: demanding the right to appoint a new Emperor,
   disbanding the Im...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

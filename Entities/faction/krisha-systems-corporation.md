@@ -11,7 +11,6 @@ related_entities:
 - camorra-of-krisha
 - new-gandii-democrats
 - gandii
-inara_url: https://inara.cz/elite/minorfaction/?search=Krisha%20Systems%20Corporation
 bio: Krisha Systems Corporation is a corporate in the Elite Dangerous universe, active
   from 3301-06-12 to 3301-06-12. Frequently linked with Krisha, Kumo Crew, Babbage
   Station. The Hand Gang of Gandii and Camorra of Krisha's call for Kumo Crew allies
@@ -19,6 +18,7 @@ bio: Krisha Systems Corporation is a corporate in the Elite Dangerous universe, 
   by the Krisha Systems Corporation and their assault on Fincke Depot ended in total
   failure, with survivors fleeing or being hunted by former allies.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -11,13 +11,13 @@ related_entities:
 - betel
 - carrier-enterprise
 - amphipolis
-inara_url: https://inara.cz/elite/minorfaction/?search=Betel%20security
 bio: Betel security is a organization in the Elite Dangerous universe, active from
   3304-08-24 to 3304-08-31. Frequently linked with Betel Free, Betel, Silver Creative
   Network. Authorities confirm the conflict between the Silver Creative Network and
   Betel Free in the Betel system has ended. General Hollis of Betel security expresses
   hope for a period of prolonged peace.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

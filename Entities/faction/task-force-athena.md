@@ -8,10 +8,10 @@ mention_count: 1
 related_entities:
 - imperial-senate
 - merope
-inara_url: https://inara.cz/elite/minorfaction/?search=Task%20Force%20Athena
 bio: 'Task Force Athena is a organization in the Elite Dangerous universe, active
   from 3302-07-21 to 3302-07-21. Frequently linked with Merope, Imperial Senate. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

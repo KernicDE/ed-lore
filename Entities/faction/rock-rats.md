@@ -11,10 +11,10 @@ related_entities:
 - explorers-anchorage
 - sagittarius-a
 - beagle-point
-inara_url: https://inara.cz/elite/minorfaction/?search=Rock%20Rats
 bio: 'Rock Rats is a organization in the Elite Dangerous universe, active from 3305-03-14
   to 3305-03-14. Frequently linked with Beagle Point, Sagittarius A*, Deep Space Surveys. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -9,13 +9,13 @@ related_entities:
 - imperial-herald
 - emperors-dawn
 - imperial-internal-security-service
-inara_url: https://inara.cz/elite/minorfaction/?search=D%20and%20C%20Shipping
 bio: D and C Shipping is a organization in the Elite Dangerous universe, active from
   3301-09-18 to 3301-10-11. Frequently linked with Imperial Herald, Emperor's Dawn,
   Imperial Internal Security Service. Previous backing from Damon Clarke's D and C
   Shipping was confirmed but reportedly severed. Clarke was unavailable for comment,
   with his company defending its legitimate shipping operations.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

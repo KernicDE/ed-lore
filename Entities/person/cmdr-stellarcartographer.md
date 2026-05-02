@@ -5,11 +5,11 @@ type: person
 first_seen_date: '3311-06-18'
 last_seen_date: '3311-06-18'
 mention_count: 1
-inara_url: https://inara.cz/elite/cmdr-search/?search=CMDR%20StellarCartographer
 bio: 'CMDR StellarCartographer is a prominent figure in the Elite Dangerous universe,
   active from 3311-06-18 to 3311-06-18. Closely associated with Thargoid, Federal
   Navy. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

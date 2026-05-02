@@ -8,11 +8,11 @@ mention_count: 2
 related_entities:
 - ltt-1935-confederacy
 - imperial-internal-security-service
-inara_url: https://inara.cz/elite/minorfaction/?search=L.Y.S%20Corp
 bio: 'L.Y.S Corp is a corporate in the Elite Dangerous universe, active from 3306-11-05
   to 3306-11-12. Frequently linked with LTT 1935 Confederacy, Imperial Internal Security
   Service. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

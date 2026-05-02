@@ -5,10 +5,10 @@ type: person
 first_seen_date: '3309-06-29'
 last_seen_date: '3309-07-06'
 mention_count: 2
-inara_url: https://inara.cz/elite/cmdr-search/?search=Paul%20Dyson
 bio: 'Paul Dyson is a prominent figure in the Elite Dangerous universe, active from
   3309-06-29 to 3309-07-06. Closely associated with Federal Navy. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

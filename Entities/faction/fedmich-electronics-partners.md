@@ -10,12 +10,12 @@ related_entities:
 - alliance-council-of-admirals
 - fedmich
 - roberts-port
-inara_url: https://inara.cz/elite/minorfaction/?search=Fedmich%20Electronics%20Partners
 bio: Fedmich Electronics Partners is a organization in the Elite Dangerous universe,
   active from 3303-01-26 to 3303-01-26. Frequently linked with Alliance, Roberts Port,
   Fedmich. An Alliance convoy transporting personnel and military equipment is attacked
   in the Fedmich system.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

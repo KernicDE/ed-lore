@@ -5,7 +5,6 @@ type: person
 first_seen_date: '3302-02-15'
 last_seen_date: '3302-03-11'
 mention_count: 2
-inara_url: https://inara.cz/elite/cmdr-search/?search=Commander%20Jak
 bio: Commander Jak is a pilot in the Elite Dangerous universe, active from 3302-02-15
   to 3302-03-11. Closely associated with Buckyball Racing Club, Pilots Federation,
   Grant Academics. Veteran pilots will escort students from the Exigus campus to tourism
@@ -13,6 +12,7 @@ bio: Commander Jak is a pilot in the Elite Dangerous universe, active from 3302-
   Event organiser Commander Seneh defends it as community outreach with safety as
   the priority.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

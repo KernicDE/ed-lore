@@ -9,7 +9,6 @@ related_entities:
 - zende-partners
 - synuefe-en-h-d11-96
 - zende
-inara_url: https://inara.cz/elite/minorfaction/?search=Segnen%20Exchange
 bio: Segnen Exchange is a organization in the Elite Dangerous universe, active from
   3305-05-09 to 3305-05-30. Frequently linked with Zende Partners, Synuefe EN-H d11-96,
   Zende. Zende Partners defeats Segnen Exchange's expansion attempt in Synuefe EN-H
@@ -18,6 +17,7 @@ bio: Segnen Exchange is a organization in the Elite Dangerous universe, active f
   in Synuefe EN-H d11-96, positioning itself as a rival to Zende Partners in the burgeoning
   Guardian technology research market.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

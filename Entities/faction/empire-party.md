@@ -11,12 +11,12 @@ related_entities:
 - cemiess
 - mackenzie-relay
 - synteini
-inara_url: https://inara.cz/elite/minorfaction/?search=Empire%20Party
 bio: Empire Party is a organization in the Elite Dangerous universe, active from 3301-04-01
   to 3301-04-01. Frequently linked with Lagerkvist Gateway, Cemiess, Imperial Society.
   Senator Zemina Torval accepted a challenge from Aisling Duval to determine whose
   position on slavery the Empire's citizens truly support.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

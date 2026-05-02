@@ -10,11 +10,11 @@ related_entities:
 - col-285-sector-ix-t-d3-43
 - interstellar-press
 - pleiades-sector-ab-w-b2-4
-inara_url: https://inara.cz/elite/minorfaction/?search=Canonn%20Institute
 bio: 'Canonn Institute is a research in the Elite Dangerous universe, active from
   3302-09-07 to 3302-09-07. Frequently linked with Canonn Interstellar Research Group,
   Col 285 Sector IX-T d3-43. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

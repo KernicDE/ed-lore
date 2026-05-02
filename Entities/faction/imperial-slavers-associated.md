@@ -11,13 +11,13 @@ related_entities:
 - utopia
 - munshin
 - comanga
-inara_url: https://inara.cz/elite/minorfaction/?search=Imperial%20Slavers%20Associated
 bio: Imperial Slavers Associated is a organization in the Elite Dangerous universe,
   active from 3301-08-13 to 3301-08-13. Frequently linked with Kumo Crew, Quivira,
   Munshin. Imperial commanders participating in the United Offensive have rescued
   scores of marked slaves from Kumo Crew vessels in the Pegasi sector. Imperial Slavers
   Associated stated rescued slaves’ contracts would be nullified.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

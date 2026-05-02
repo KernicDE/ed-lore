@@ -9,11 +9,11 @@ related_entities:
 - gyvatices-crimson-advanced-holdings
 - gyvatices
 - walter-dock
-inara_url: https://inara.cz/elite/minorfaction/?search=Wonderful%20Walter%27s%20Fish%20and%20Coffee%20Emporium
 bio: 'Wonderful Walter''s Fish and Coffee Emporium is a organization in the Elite
   Dangerous universe, active from 3302-10-20 to 3302-10-20. Frequently linked with
   Gyvatices, Gyvatices Crimson Advanced Holdings, Walter Dock. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

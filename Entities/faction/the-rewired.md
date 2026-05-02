@@ -10,10 +10,10 @@ related_entities:
 - jokers-deck
 - diso
 - vega
-inara_url: https://inara.cz/elite/minorfaction/?search=The%20Rewired
 bio: The Rewired is a organization in the Elite Dangerous universe, active from 3305-01-19
   to 3305-05-25. Frequently linked with The Sovereign, Diso.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

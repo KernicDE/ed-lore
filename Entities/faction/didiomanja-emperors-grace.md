@@ -11,13 +11,13 @@ related_entities:
 - emperors-grace
 - alliance
 - inra
-inara_url: https://inara.cz/elite/minorfaction/?search=Didiomanja%20Emperor%27s%20Grace
 bio: Didiomanja Emperor's Grace is a organization in the Elite Dangerous universe,
   active from 3304-07-06 to 3304-07-15. Frequently linked with Didiomanja, Leydenfrost
   Dock, Emperor's Grace. The Didiomanja Emperor's Grace completes the Tiverion Academy,
   a flight school for Imperial naval cadets, and hosts an inaugural banquet. The Didiomanja
   Emperor's Grace Academy announces its initiative reached a successful conclusion.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -11,7 +11,6 @@ related_entities:
 - pioneers-cooperative
 - utopia
 - communism-interstellar
-inara_url: https://inara.cz/elite/minorfaction/?search=Loren%27s%20Legion
 bio: 'Loren''s Legion is a organization active in Elite Dangerous lore from 3302-01-12
   to 3303-03-16. Frequently associated with Prism, Hiram''s Anchorage, Adle''s Armada.
   Key activities include: Imperial investigator Cornelius Gendymion releases a statement
@@ -19,6 +18,7 @@ bio: 'Loren''s Legion is a organization active in Elite Dangerous lore from 3302
   and ...; Loren''s Legion places an open order for tantalum to satisfy a spike in
   client demand.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

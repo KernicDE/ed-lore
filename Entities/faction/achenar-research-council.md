@@ -11,12 +11,12 @@ related_entities:
 - federation
 - alliance
 - sorbago
-inara_url: https://inara.cz/elite/minorfaction/?search=Achenar%20Research%20Council
 bio: Achenar Research Council is a government in the Elite Dangerous universe, active
   from 3303-08-05 to 3303-08-05. Frequently linked with Pleiades Nebula, Alliance,
   Empire. The organisation will establish its first research outpost in the Pleiades
   Nebula with substantial funding from all three superpowers.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

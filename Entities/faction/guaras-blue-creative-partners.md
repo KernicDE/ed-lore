@@ -9,12 +9,12 @@ related_entities:
 - core-dynamics
 - guaras
 - klimuk-ring
-inara_url: https://inara.cz/elite/minorfaction/?search=Guaras%20Blue%20Creative%20Partners
 bio: Guaras Blue Creative Partners is a organization in the Elite Dangerous universe,
   active from 3303-12-22 to 3303-12-22. Frequently linked with Guaras, Core Dynamics,
   Klimuk Ring. Guaras Blue Creative Partners is overseeing the initiative, asking
   pilots to deliver titanium, power converters, and superconductors.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

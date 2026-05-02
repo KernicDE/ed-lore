@@ -11,11 +11,11 @@ related_entities:
 - sirius-corporation
 - vox-galactica
 - alici
-inara_url: https://inara.cz/elite/minorfaction/?search=Coalition%20for%20Legalisation
 bio: 'Coalition for Legalisation is a organization in the Elite Dangerous universe,
   active from 3307-07-23 to 3307-07-23. Frequently linked with Vox Galactica, Gateway,
   Kishpakho. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

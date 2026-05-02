@@ -5,11 +5,11 @@ type: person
 first_seen_date: '3302-04-14'
 last_seen_date: '3302-04-21'
 mention_count: 2
-inara_url: https://inara.cz/elite/cmdr-search/?search=Yulia%20Kuriakova
 bio: Yulia Kuriakova is a pilot in the Elite Dangerous universe, active from 3302-04-14
   to 3302-04-21. Closely associated with Pilots Federation, United Epsilon Indi Flag.
   Spokesperson Yulia Kuriakova celebrates the victory over corporate interests.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

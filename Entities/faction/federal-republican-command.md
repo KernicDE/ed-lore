@@ -10,11 +10,11 @@ related_entities:
 - aegis
 - kaushpoos-pro-alliance-union
 - kaushpoos
-inara_url: https://inara.cz/elite/minorfaction/?search=Federal%20Republican%20Command
 bio: 'Federal Republican Command is a organization in the Elite Dangerous universe,
   active from 3303-08-16 to 3303-08-16. Frequently linked with Kaushpoos, Alliance,
   Kaushpoos Pro-Alliance Union. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

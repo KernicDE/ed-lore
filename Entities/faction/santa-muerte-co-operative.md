@@ -10,11 +10,11 @@ related_entities:
 - njambalba
 - clauss-port
 - santa-muerte
-inara_url: https://inara.cz/elite/minorfaction/?search=Santa%20Muerte%20Co-operative
 bio: 'Santa Muerte Co-operative is a organization in the Elite Dangerous universe,
   active from 3302-12-22 to 3302-12-22. Frequently linked with Clauss Port, Frost
   Dock, Njambalba. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

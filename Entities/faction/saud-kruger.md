@@ -8,7 +8,6 @@ mention_count: 3
 related_entities:
 - the-sovereign
 - astrogator-tours
-inara_url: https://inara.cz/elite/minorfaction/?search=Saud%20Kruger
 bio: Saud Kruger is a organization in the Elite Dangerous universe, active from 3305-01-24
   to 3307-09-30. Frequently linked with Astrogator Tours, The Sovereign. Saud Kruger
   launches a campaign to identify new Earth-like worlds for Astrogator Tours holiday
@@ -16,6 +15,7 @@ bio: Saud Kruger is a organization in the Elite Dangerous universe, active from 
   collects enormous amounts of Earth-like world exploration data for Astrogator Tours,
   with tourist beacons planned for promising destinations.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -11,7 +11,6 @@ related_entities:
 - foster-terminal
 - league-of-reparation
 - alliance-defence-force
-inara_url: https://inara.cz/elite/minorfaction/?search=Colonia%20Co-operative
 bio: Colonia Co-operative is a organization in the Elite Dangerous universe, active
   from 3303-04-14 to 3304-05-20. Frequently linked with Eol Prou, Foster Terminal,
   Coeus. Scientists in Colonia led by Professor Alexei de la Vega are investigating
@@ -19,6 +18,7 @@ bio: Colonia Co-operative is a organization in the Elite Dangerous universe, act
   for mined Gallite, Gold, and Methanol Monohydrate Crystals to develop infrastructure
   throughout Colonia and surrounding systems.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

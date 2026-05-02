@@ -11,13 +11,13 @@ related_entities:
 - jaques-station
 - sagittarius-a
 - fuelum
-inara_url: https://inara.cz/elite/minorfaction/?search=Fuel%20Rats%20Mischief
 bio: Fuel Rats Mischief is a organization in the Elite Dangerous universe, active
   from 3301-11-29 to 3303-01-12. Frequently linked with Fuel Rats, Pilots Federation,
   Jaques Station. The Fuel Rats Mischief announced plans for an extraction outpost
   near Jaques Station to support deep-space rescue operations. The Fuel Rats complete
   their 20,000th rescue since June 3301.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

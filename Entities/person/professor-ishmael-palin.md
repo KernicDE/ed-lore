@@ -5,7 +5,6 @@ type: person
 first_seen_date: '3302-10-26'
 last_seen_date: '3302-10-27'
 mention_count: 2
-inara_url: https://inara.cz/elite/cmdr-search/?search=Professor%20Ishmael%20Palin
 bio: Professor Ishmael Palin is a scientist in the Elite Dangerous universe, active
   from 3302-10-26 to 3302-10-27. Closely associated with Palin Institute. A Farragut-class
   Battlecruiser blockaded Maia A 3 a near Professor Ishmael Palin's research base,
@@ -13,6 +12,7 @@ bio: Professor Ishmael Palin is a scientist in the Elite Dangerous universe, act
   it "an egregious act of oppression" and Emperor Arissa Lavigny-Duval demanded the
   Federation curtail restrictions on Palin's freedoms.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

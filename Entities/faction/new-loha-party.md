@@ -11,13 +11,13 @@ related_entities:
 - alliance
 - federal-security-service
 - sirius-corporation
-inara_url: https://inara.cz/elite/minorfaction/?search=New%20Loha%20Party
 bio: New Loha Party is a organization in the Elite Dangerous universe, active from
   3304-11-22 to 3304-11-29. Frequently linked with Loha, Loha Holdings, Cordova Group.
   The conflict between Loha Holdings and the New Loha Party in the Loha system ends.
   A long-standing rivalry between Loha Holdings and the New Loha Party in the Loha
   system erupts into full-scale conflict.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

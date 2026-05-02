@@ -10,7 +10,6 @@ related_entities:
 - grandin-gateway
 - altair-system
 - altair
-inara_url: https://inara.cz/elite/minorfaction/?search=Altair%20Purple%20Mob
 bio: Altair Purple Mob is a organization in the Elite Dangerous universe, active from
   3302-03-31 to 3302-04-07. Frequently linked with Grandin Gateway, Federal Government,
   Altair system. Simultaneously, the Altair Purple Mob launches a competing campaign
@@ -19,6 +18,7 @@ bio: Altair Purple Mob is a organization in the Elite Dangerous universe, active
   support, while a competing research initiative organised by the Altair Purple Mob
   proves more popular.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

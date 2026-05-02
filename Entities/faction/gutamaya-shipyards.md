@@ -11,13 +11,13 @@ related_entities:
 - core-dynamics
 - interstellar-press
 - jameson-memorial-review
-inara_url: https://inara.cz/elite/minorfaction/?search=Gutamaya%20Shipyards
 bio: 'Gutamaya Shipyards is a organization active in Elite Dangerous lore from 3301-08-06
   to 3301-12-06. Frequently associated with Imperial Navy. Key activities include:
   Gutamaya Shipyards has reinstated default rank-related restrictions on the Imperial
   Clipper and Imperial Courier following the Emperor''s assassinat...; Gutamaya Shipyards
   unveiled the Imperial Eagle, a successor to the Eagle Mk II.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

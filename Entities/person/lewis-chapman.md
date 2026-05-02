@@ -5,11 +5,11 @@ type: person
 first_seen_date: '3302-12-15'
 last_seen_date: '3305-08-29'
 mention_count: 4
-inara_url: https://inara.cz/elite/cmdr-search/?search=Lewis%20Chapman
 bio: Lewis Chapman is a pilot in the Elite Dangerous universe, active from 3302-12-15
   to 3305-08-29. Closely associated with Starship Enterprises Corporation, Starship
   Enterprises, SE Mining.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

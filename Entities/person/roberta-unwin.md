@@ -5,11 +5,11 @@ type: person
 first_seen_date: '3301-10-15'
 last_seen_date: '3310-09-03'
 mention_count: 3
-inara_url: https://inara.cz/elite/cmdr-search/?search=Roberta%20Unwin
 bio: Roberta Unwin is a ceo in the Elite Dangerous universe, active from 3301-10-15
   to 3310-09-03. Closely associated with Money Matters, Sirius Corporation. Economist
   Roberta Unwin characterized this as speculative expansion.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

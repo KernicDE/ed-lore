@@ -11,7 +11,6 @@ related_entities:
 - social-eleu-progressive-party
 - the-sovereign
 - alliance-elite-diplomatic-corps
-inara_url: https://inara.cz/elite/minorfaction/?search=EG%20Pilots
 bio: 'EG Pilots is a organization active in Elite Dangerous lore from 3302-06-09 to
   3304-03-23. Frequently associated with Social Eleu Progressive Party, The Sovereign,
   GalCop. Key activities include: Yuri Grom has announced an initiative to create
@@ -20,6 +19,7 @@ bio: 'EG Pilots is a organization active in Elite Dangerous lore from 3302-06-09
   first Dangerous Games Wildcard event, though ultimate victory will not be determined
   unt...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -11,12 +11,12 @@ related_entities:
 - darrest-station
 - prism
 - achenar
-inara_url: https://inara.cz/elite/minorfaction/?search=Prismatic%20Imperium
 bio: Prismatic Imperium is a organization in the Elite Dangerous universe, active
   from 3302-02-18 to 3302-11-05. Frequently linked with Uibuth system, Navigators
   Guild, D'Arrest Station. The Prismatic Imperium announces the successful conclusion
   of Princess Aisling Duval's initiative to free indentured slaves.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

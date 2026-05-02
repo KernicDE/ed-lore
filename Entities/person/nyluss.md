@@ -5,12 +5,12 @@ type: person
 first_seen_date: '3301-08-24'
 last_seen_date: '3301-08-24'
 mention_count: 1
-inara_url: https://inara.cz/elite/cmdr-search/?search=Nyluss
 bio: Nyluss is a pilot in the Elite Dangerous universe, active from 3301-08-24 to
   3301-08-24. Closely associated with Kumo Crew, Merchant Marines, Lavigny's Legion.
   Commander Nyluss of the Merchant Marines called on Federation pilots to oppose the
   encroachment on their worlds.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

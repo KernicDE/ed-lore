@@ -11,12 +11,12 @@ related_entities:
 - panem
 - tanmark
 - harvestport
-inara_url: https://inara.cz/elite/minorfaction/?search=Tanmark%20Defence%20Force
 bio: Tanmark Defence Force is a organization in the Elite Dangerous universe, active
   from 3301-04-02 to 3301-04-02. Frequently linked with Aapelinja, Kappa Fornacis
   Farmers Union, Panem. The Tanmark Defence Force purged plantations from their world,
   but Panem remains defiant.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

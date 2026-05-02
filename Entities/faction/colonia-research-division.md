@@ -9,7 +9,6 @@ related_entities:
 - colonia-council
 - randgnid
 - templar-barracks
-inara_url: https://inara.cz/elite/minorfaction/?search=Colonia%20Research%20Division
 bio: Colonia Research Division is a research in the Elite Dangerous universe, active
   from 3304-08-17 to 3304-08-24. Frequently linked with Colonia Council, Randgnid,
   Templar Barracks. Colonia authorities decide to build a state-of-the-art hydroponics
@@ -17,6 +16,7 @@ bio: Colonia Research Division is a research in the Elite Dangerous universe, ac
   Division asks pilots to deliver mined resources to Templar Barracks in the Randgnid
   system.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

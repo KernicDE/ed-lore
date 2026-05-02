@@ -11,13 +11,13 @@ related_entities:
 - alliance
 - emerald
 - imperial-senate
-inara_url: https://inara.cz/elite/minorfaction/?search=Imperial%20Palace
 bio: Imperial Palace is a organization in the Elite Dangerous universe, active from
   3301-06-20 to 3301-08-18. Frequently linked with Capitol. Emperor Hengist Duval
   died en route to the Imperial Navy Medical Facility near the Imperial Palace after
   being stabbed during his wedding ceremony. An Imperial Intelligence Service source
   identified the attacker as belonging to Senator Denton Patreus's party.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

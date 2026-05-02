@@ -11,7 +11,6 @@ related_entities:
 - hr-7327
 - alliance
 - federal-navy
-inara_url: https://inara.cz/elite/minorfaction/?search=Dukes%20of%20Mikunn
 bio: Dukes of Mikunn is a organization in the Elite Dangerous universe, active from
   3301-03-26 to 3301-07-27. Frequently linked with HR 7327, Sefrys, Mercenaries of
   Mikunn. Guerrilla forces including the Dukes of Mikunn, Emperor's Grace, and East
@@ -19,6 +18,7 @@ bio: Dukes of Mikunn is a organization in the Elite Dangerous universe, active f
   and weapons. The Dukes of Mikunn mobilised their mercenaries to assist Cerberus
   Plague-affected systems.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

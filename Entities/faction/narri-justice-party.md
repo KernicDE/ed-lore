@@ -11,7 +11,6 @@ related_entities:
 - bobko-city
 - aegis
 - iiss
-inara_url: https://inara.cz/elite/minorfaction/?search=Narri%20Justice%20Party
 bio: Narri Justice Party is a organization in the Elite Dangerous universe, active
   from 3304-05-04 to 3304-05-13. Frequently linked with Utopia, Narri, Bobko City.
   The Utopia commune has launched a project to build a military installation in the
@@ -19,6 +18,7 @@ bio: Narri Justice Party is a organization in the Elite Dangerous universe, acti
   Justice Party is overseeing construction and has requested pilots deliver materials
   to Bobko City while protecting traders from pirates.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

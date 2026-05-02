@@ -8,13 +8,13 @@ mention_count: 1
 related_entities:
 - tionisla
 - tionisla-orbital-graveyard
-inara_url: https://inara.cz/elite/minorfaction/?search=Tionisla%20government
 bio: Tionisla government is a government in the Elite Dangerous universe, active from
   3302-08-05 to 3302-08-05. Frequently linked with Tionisla, Tionisla Orbital Graveyard.
   A new vessel was interred at the Tionisla Orbital Graveyard for the first time in
   over a hundred years, briefly transmitting the repeating message "OTSEAFOTSEAF"
   before a power failure.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

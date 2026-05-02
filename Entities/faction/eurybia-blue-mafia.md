@@ -10,7 +10,6 @@ related_entities:
 - imperial-internal-security-service
 - pilots-federation
 - keltim-empire-league
-inara_url: https://inara.cz/elite/minorfaction/?search=Eurybia%20Blue%20Mafia
 bio: Eurybia Blue Mafia is a criminal in the Elite Dangerous universe, active from
   3306-10-01 to 3306-10-12. Frequently linked with Liz Ryder, Eurybia, Keltim Empire
   League. The Imperial Internal Security Service links explosives used in terrorist
@@ -18,6 +17,7 @@ bio: Eurybia Blue Mafia is a criminal in the Elite Dangerous universe, active fr
   Mafia. The Eurybia Blue Mafia successfully fights off Imperial forces attempting
   to capture engineer Liz Ryder.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

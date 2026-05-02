@@ -10,7 +10,6 @@ related_entities:
 - sutekh
 - federation
 - archemides-gateway
-inara_url: https://inara.cz/elite/minorfaction/?search=United%20Sutekh%20Future
 bio: United Sutekh Future is a organization in the Elite Dangerous universe, active
   from 3303-02-16 to 3303-02-23. Frequently linked with Sutekh, Adad Exchange, Federation.
   A Federal convoy is destroyed in the Sutekh system and the Imperial faction Adad
@@ -19,6 +18,7 @@ bio: United Sutekh Future is a organization in the Elite Dangerous universe, act
   forces from recovering sensitive Federal military intelligence from a destroyed
   convoy.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

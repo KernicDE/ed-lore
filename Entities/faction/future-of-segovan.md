@@ -11,7 +11,6 @@ related_entities:
 - segovan
 - obsidian-orbital
 - hip-17225-a-1
-inara_url: https://inara.cz/elite/minorfaction/?search=Future%20of%20Segovan
 bio: 'Future of Segovan is a organization active in Elite Dangerous lore from 3302-07-07
   to 3302-08-04. Frequently associated with Federation, Ramsbottom Hub, Segovan. Key
   activities include: The Federation announces plans to establish a new planetary
@@ -19,6 +18,7 @@ bio: 'Future of Segovan is a organization active in Elite Dangerous lore from 33
   The Federation''s appeal for construction materials concluded successfully, with
   thousands of tonnes delivered to Obsidian Orbital for a new outpost...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

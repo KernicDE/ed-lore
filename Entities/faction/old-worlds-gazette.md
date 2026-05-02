@@ -11,11 +11,11 @@ related_entities:
 - alliance-defence-force
 - council-of-admirals
 - alliance-tribune
-inara_url: https://inara.cz/elite/minorfaction/?search=Old%20Worlds%20Gazette
 bio: 'Old Worlds Gazette is a organization in the Elite Dangerous universe, active
   from 3308-09-23 to 3308-09-23. Frequently linked with Alliance Defence Force, HIP
   22460, Alliance. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

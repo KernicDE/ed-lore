@@ -5,7 +5,6 @@ type: person
 first_seen_date: '3302-02-15'
 last_seen_date: '3302-07-22'
 mention_count: 3
-inara_url: https://inara.cz/elite/cmdr-search/?search=Commander%20Seneh
 bio: Commander Seneh is a pilot in the Elite Dangerous universe, active from 3302-02-15
   to 3302-07-22. Closely associated with Buckyball Racing Club, Grant Academics, Pilots
   Federation. Veteran pilots will escort students from the Exigus campus to tourism
@@ -13,6 +12,7 @@ bio: Commander Seneh is a pilot in the Elite Dangerous universe, active from 330
   Event organiser Commander Seneh defends it as community outreach with safety as
   the priority.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

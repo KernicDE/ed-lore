@@ -8,7 +8,6 @@ mention_count: 2
 related_entities:
 - nu-tauri
 - parmitano-terminal
-inara_url: https://inara.cz/elite/minorfaction/?search=Simbad%20Regime
 bio: Simbad Regime is a organization in the Elite Dangerous universe, active from
   3304-01-19 to 3304-01-26. Frequently linked with Nu Tauri, Parmitano Terminal. The
   Simbad Regime, established over a year ago with support from Commanders across the
@@ -17,6 +16,7 @@ bio: Simbad Regime is a organization in the Elite Dangerous universe, active fro
   was enthusiastically received, resulting in a massive influx of deliveries to Parmitano
   Terminal.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

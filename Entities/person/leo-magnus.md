@@ -5,13 +5,13 @@ type: person
 first_seen_date: '3306-10-27'
 last_seen_date: '3307-12-09'
 mention_count: 10
-inara_url: https://inara.cz/elite/cmdr-search/?search=Leo%20Magnus
 bio: 'Leo Magnus is a Terrorist in Elite Dangerous lore, active from 3306-10-27 to
   3307-12-09. Affiliated with Nova Imperium, NMLA. Notable activities include: NMLA
   assassins attack Imperator Hadrian Duval at Dyson City in Paresa, severely wounding
   him.; Imperator Hadrian Augustus Duval of Nova Imperium marries his consort Astrid
   Minerva in a closed ceremony attended by Princess Aisling Duval.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

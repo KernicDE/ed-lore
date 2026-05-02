@@ -11,13 +11,13 @@ related_entities:
 - aegis
 - alliance
 - privateers-alliance
-inara_url: https://inara.cz/elite/minorfaction/?search=Atlas%20Corporation
 bio: Atlas Corporation is a corporate in the Elite Dangerous universe, active from
   3304-04-06 to 3304-04-15. Frequently linked with Lambda Arae, Redi Market, Aegis.
   The Atlas Corporation has launched a campaign to build the ACS Overwatch megaship
   in the Lambda Arae system. The corporation has placed orders for commodities and
   kill orders on wanted ships to protect traders.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

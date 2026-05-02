@@ -11,7 +11,6 @@ related_entities:
 - ngun
 - thiele-orbital
 - eta-horologii
-inara_url: https://inara.cz/elite/minorfaction/?search=Stop%20Slavery%20Stupid
 bio: Stop Slavery Stupid is a organization in the Elite Dangerous universe, active
   from 3301-03-06 to 3301-04-01. Frequently linked with Cemiess, Mackenzie Relay,
   Eta Horologii. Senator Zemina Torval accepted a challenge from Aisling Duval to
@@ -19,6 +18,7 @@ bio: Stop Slavery Stupid is a organization in the Elite Dangerous universe, acti
   Duval made a passionate anti-slavery outburst on the reality stream show Celebrity
   Pets, criticising Zemina Torval for treating her pets better than her slaves.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

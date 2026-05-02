@@ -10,13 +10,13 @@ related_entities:
 - pilots-federation
 - bell-orbital
 - gilya-system
-inara_url: https://inara.cz/elite/minorfaction/?search=Sacra%20Oculus
 bio: Sacra Oculus is a organization in the Elite Dangerous universe, active from 3302-04-22
   to 3302-04-22. Frequently linked with Pilots Federation, Bell Orbital, Gilya Law
   Party. Gilya Signature Weapons return to production at Bell Orbital in the Gilya
   system following intervention from commercial interests, priests from Sacra Oculus,
   and Pilots Federation Commanders.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

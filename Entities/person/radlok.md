@@ -5,10 +5,10 @@ type: person
 first_seen_date: '3301-10-05'
 last_seen_date: '3301-10-05'
 mention_count: 1
-inara_url: https://inara.cz/elite/cmdr-search/?search=Radlok
 bio: 'Radlok is a commander in the Elite Dangerous universe, active from 3301-10-05
   to 3301-10-05. Closely associated with Fuel Rats, Radio Sidewinder. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

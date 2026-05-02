@@ -11,7 +11,6 @@ related_entities:
 - brestla-a1
 - sol
 - pleiades-resource-enterprise
-inara_url: https://inara.cz/elite/minorfaction/?search=Imperial%20Inquisition
 bio: 'Imperial Inquisition is a organization active in Elite Dangerous lore from 3301-08-14
   to 3302-08-18. Frequently associated with i Sola Prospect, Brestla, Sol. Key activities
   include: High Inquisitor Mavia Kain of the Imperial Inquisition will meet Admiral
@@ -19,6 +18,7 @@ bio: 'Imperial Inquisition is a organization active in Elite Dangerous lore from
   Resource Enterprise is preparing to assault the Empire-controlled Pleiades Sector
   IH-V c2-16 system.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

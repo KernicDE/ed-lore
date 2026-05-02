@@ -8,7 +8,6 @@ mention_count: 2
 related_entities:
 - qawakana
 - carpini-terminal
-inara_url: https://inara.cz/elite/minorfaction/?search=Knights%20of%20Karma
 bio: Knights of Karma is a organization in the Elite Dangerous universe, active from
   3303-06-09 to 3303-06-16. Frequently linked with Carpini Terminal, Qa'wakana. The
   Knights of Karma announced plans to establish a new mining facility among the rings
@@ -16,6 +15,7 @@ bio: Knights of Karma is a organization in the Elite Dangerous universe, active 
   wanted ships. The Knights of Karma's campaign to establish a new mining facility
   in the Qa'wakana system concluded successfully, with material targets met.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

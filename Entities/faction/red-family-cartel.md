@@ -10,7 +10,6 @@ related_entities:
 - olympus-village
 - sol
 - federal-times
-inara_url: https://inara.cz/elite/minorfaction/?search=Red%20Family%20Cartel
 bio: Red Family Cartel is a criminal in the Elite Dangerous universe, active from
   3305-07-05 to 3305-08-02. Frequently linked with Federal Intelligence Agency, Olympus
   Village. Red Family co-founder Jan Sandoval reveals the cartel has developed a genetically
@@ -18,6 +17,7 @@ bio: Red Family Cartel is a criminal in the Elite Dangerous universe, active fro
   hit squad infiltrates FIA headquarters in Olympus Village attempting to assassinate
   Red Family co-founder Jan Sandoval in protective custody.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

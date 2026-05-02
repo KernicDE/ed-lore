@@ -8,11 +8,11 @@ mention_count: 1
 related_entities:
 - colonia-citizens-network
 - jaques-station
-inara_url: https://inara.cz/elite/minorfaction/?search=August%20Exodus%20team
 bio: 'August Exodus team is a organization in the Elite Dangerous universe, active
   from 3302-09-02 to 3302-09-02. Frequently linked with Colonia Citizens Network,
   Jaques Station. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

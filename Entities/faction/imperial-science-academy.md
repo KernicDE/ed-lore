@@ -10,11 +10,11 @@ related_entities:
 - holloway-bioscience-institute
 - hip-22460
 - olympus-village
-inara_url: https://inara.cz/elite/minorfaction/?search=Imperial%20Science%20Academy
 bio: 'Imperial Science Academy is a organization in the Elite Dangerous universe,
   active from 3308-09-05 to 3308-09-05. Frequently linked with HIP 22460, Holloway
   Bioscience Institute. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

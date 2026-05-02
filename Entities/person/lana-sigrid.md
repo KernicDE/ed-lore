@@ -5,13 +5,13 @@ type: person
 first_seen_date: '3304-09-06'
 last_seen_date: '3304-11-22'
 mention_count: 2
-inara_url: https://inara.cz/elite/cmdr-search/?search=Lana%20Sigrid
 bio: Lana Sigrid is a diplomat in the Elite Dangerous universe, active from 3304-09-06
   to 3304-11-22. Closely associated with Mars Tribune, Cordova Group. Detective Captain
   Ramesh Thorne, recently reinstated and promoted by the FSS, announces arrests of
   Cordova, editor Lana Sigrid, and other employees for blackmail and corruption. Editor
   Lana Sigrid defends the story's accuracy.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

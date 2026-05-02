@@ -8,7 +8,6 @@ mention_count: 2
 related_entities:
 - north-ring
 - tutumu
-inara_url: https://inara.cz/elite/minorfaction/?search=People%27s%20Tutumu%20Confederacy
 bio: People's Tutumu Confederacy is a organization in the Elite Dangerous universe,
   active from 3302-12-01 to 3302-12-22. Frequently linked with North Ring, Tutumu.
   The People's Tutumu Confederacy has successfully concluded its seasonal appeal,
@@ -17,6 +16,7 @@ bio: People's Tutumu Confederacy is a organization in the Elite Dangerous univer
   for gold, pyrophyllite, and mineral oil and offering a prize draw for contributing
   pilots.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

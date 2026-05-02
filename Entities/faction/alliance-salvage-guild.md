@@ -11,11 +11,11 @@ related_entities:
 - alliance
 - hip-61595
 - hip-64011
-inara_url: https://inara.cz/elite/minorfaction/?search=Alliance%20Salvage%20Guild
 bio: Alliance Salvage Guild is a organization in the Elite Dangerous universe, active
   from 3306-10-29 to 3307-04-08. Frequently linked with Pilots Federation, Chukchan,
   HIP 64011. The Alliance Salvage Guild investigates.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

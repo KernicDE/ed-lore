@@ -5,7 +5,6 @@ type: person
 first_seen_date: '3301-05-14'
 last_seen_date: '3311-06-26'
 mention_count: 58
-inara_url: https://inara.cz/elite/cmdr-search/?search=Archon%20Delaine
 bio: 'Archon Delaine is a Pirate in Elite Dangerous lore, active from 3301-05-14 to
   3311-06-26. Affiliated with Kumo Crew, Alliance. Notable activities include: Thargoid
   forces invade the Delphi system and multiple systems in the California, Coalsack
@@ -13,6 +12,7 @@ bio: 'Archon Delaine is a Pirate in Elite Dangerous lore, active from 3301-05-14
   covering the NMLA''s rise, the Galactic Summit, the Nine Martyrs bombings, and the
   formati...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

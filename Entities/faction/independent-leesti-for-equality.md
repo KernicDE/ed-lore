@@ -11,13 +11,13 @@ related_entities:
 - guardians-of-tranquillity
 - tarach-tor
 - tranquillity
-inara_url: https://inara.cz/elite/minorfaction/?search=Independent%20Leesti%20for%20Equality
 bio: Independent Leesti for Equality is a organization in the Elite Dangerous universe,
   active from 3303-11-17 to 3303-11-24. Frequently linked with Leesti, George Lucas
   Station, Tranquillity. Independent Leesti for Equality has announced the successful
   conclusion of its appeal for rare food and drink. A massive influx of deliveries
   to George Lucas station enabled the Lunch in Leesti gastronomic festival.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

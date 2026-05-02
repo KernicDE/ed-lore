@@ -8,7 +8,6 @@ mention_count: 2
 related_entities:
 - kooi-gateway
 - hip-93377-system
-inara_url: https://inara.cz/elite/minorfaction/?search=Canary%20Mining%20Corporation
 bio: Canary Mining Corporation is a corporate in the Elite Dangerous universe, active
   from 3302-04-07 to 3302-04-14. Frequently linked with HIP 93377 system, Kooi Gateway.
   The Canary Mining Corporation announces plans to improve mining facilities at Kooi
@@ -16,6 +15,7 @@ bio: Canary Mining Corporation is a corporate in the Elite Dangerous universe, a
   equipment. The Canary Mining Corporation announces that its improvement programme
   at Kooi Gateway has received sufficient materials.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

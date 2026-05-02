@@ -10,7 +10,6 @@ related_entities:
 - noti
 - weber-gateway
 - federal-times
-inara_url: https://inara.cz/elite/minorfaction/?search=Revolutionary%20Noti%20Value%20Party
 bio: Revolutionary Noti Value Party is a organization in the Elite Dangerous universe,
   active from 3301-10-08 to 3301-10-15. Frequently linked with Noti, Weber Gateway,
   Aganippe. He alleged the Revolutionary Noti Value Party's Aganippe Rush appeal was
@@ -18,6 +17,7 @@ bio: Revolutionary Noti Value Party is a organization in the Elite Dangerous uni
   Value Party's appeal for Aganippe Rush concluded successfully, with hundreds of
   independent pilots delivering the rare commodity to Weber Gateway.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

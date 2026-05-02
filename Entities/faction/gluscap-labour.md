@@ -11,13 +11,13 @@ related_entities:
 - coalition-of-uteran
 - lp-726-6-free
 - azaladshu
-inara_url: https://inara.cz/elite/minorfaction/?search=Gluscap%20Labour
 bio: 'Gluscap Labour is a organization active in Elite Dangerous lore from 3307-06-29
   to 3307-07-30. Frequently associated with Coalition of Uteran, Azaladshu Free, Federal
   Congress. Key activities include: The Azaladshu Free faction secedes from the Federation,
   declaring its four systems independent in protest against surveillance laws.; Azaladshu
   Free defeats Neche Inc and retains independence from the Federation.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

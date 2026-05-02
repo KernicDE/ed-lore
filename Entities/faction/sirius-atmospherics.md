@@ -11,7 +11,6 @@ related_entities:
 - marlinist-colonies
 - coalsack-nebula
 - pilots-federation
-inara_url: https://inara.cz/elite/minorfaction/?search=Sirius%20Atmospherics
 bio: 'Sirius Atmospherics is a organization active in Elite Dangerous lore from 3306-12-03
   to 3307-12-22. Frequently associated with Sirius Corporation, Alliance, Coalsack
   Nebula. Key activities include: Business analyst Marlon Royce examines Sirius Corporation''s
@@ -19,6 +18,7 @@ bio: 'Sirius Atmospherics is a organization active in Elite Dangerous lore from 
   Galacti...; The Alliance Assembly invites Sirius Corporation to collaborate on enhancing
   Thargoid protection for member systems, with CEO Li Yong-Rui travellin...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

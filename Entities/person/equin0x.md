@@ -5,12 +5,12 @@ type: person
 first_seen_date: '3301-07-14'
 last_seen_date: '3301-07-14'
 mention_count: 1
-inara_url: https://inara.cz/elite/cmdr-search/?search=Equin0x
 bio: Equin0x is a pilot in the Elite Dangerous universe, active from 3301-07-14 to
   3301-07-14. Closely associated with Pilots Federation, Alliance, Nova Fleet. Commander
   Equin0x described how superpowers exploit frontier populations for cheap labour
   in near-slavery conditions.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

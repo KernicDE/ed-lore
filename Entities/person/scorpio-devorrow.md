@@ -5,7 +5,6 @@ type: person
 first_seen_date: '3304-08-17'
 last_seen_date: '3312-03-03'
 mention_count: 19
-inara_url: https://inara.cz/elite/cmdr-search/?search=Scorpio%20DeVorrow
 bio: 'Scorpio DeVorrow is a Ceo in Elite Dangerous lore, active from 3304-08-17 to
   3312-03-03. Affiliated with Supratech, Herculean Machines, Alliance. Notable activities
   include: Weekly summary covering the appearance of Thargoid Hydra vessels in the
@@ -13,6 +12,7 @@ bio: 'Scorpio DeVorrow is a Ceo in Elite Dangerous lore, active from 3304-08-17 
   Weekly summary covering the Alliance Assembly''s agreement to vote on Kincaid''s
   constitutional changes, the fire destroying Supratech''s facility, in...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

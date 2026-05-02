@@ -11,11 +11,11 @@ related_entities:
 - children-of-raxxla
 - dark-wheel
 - imperial-citizen
-inara_url: https://inara.cz/elite/minorfaction/?search=Phoenix%20Group
 bio: 'Phoenix Group is a organization in the Elite Dangerous universe, active from
   3302-09-19 to 3302-09-19. Frequently linked with Emperor''s Dawn, Children of Raxxla,
   Imperial Senate. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

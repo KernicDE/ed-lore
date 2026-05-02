@@ -11,11 +11,11 @@ related_entities:
 - sirius-corporation
 - universal-cartographics
 - lawd-26
-inara_url: https://inara.cz/elite/minorfaction/?search=Union%20of%20Toofla%20Progressive%20Party
 bio: 'Union of Toofla Progressive Party is a organization in the Elite Dangerous universe,
   active from 3301-02-28 to 3301-02-28. Frequently linked with Core Dynamics, Hudson
   Dock, Federal Navy. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

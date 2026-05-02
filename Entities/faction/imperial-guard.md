@@ -11,7 +11,6 @@ related_entities:
 - achenar
 - imperial-naval-infantry
 - imperial-senate
-inara_url: https://inara.cz/elite/minorfaction/?search=Imperial%20Guard
 bio: 'Imperial Guard is a organization active in Elite Dangerous lore from 3301-08-05
   to 3310-08-02. Frequently associated with Capitol, Imperial Palace, Achenar. Key
   activities include: Emperor Hengist Duval was attacked by a high-ranking official
@@ -19,6 +18,7 @@ bio: 'Imperial Guard is a organization active in Elite Dangerous lore from 3301-
   IISS arrested several members of Chancellor Anders Blaine''s staff for conducting
   a slander campaign against Prince...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

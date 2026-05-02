@@ -11,12 +11,12 @@ related_entities:
 - hermitage
 - core-systems
 - aegis
-inara_url: https://inara.cz/elite/minorfaction/?search=Intergalactic%20Naval%20Reserve%20Arm
 bio: Intergalactic Naval Reserve Arm is a naval in the Elite Dangerous universe, active
   from 3302-08-12 to 3308-05-30. Frequently linked with Imperial Navy, Veliaze. An
   abandoned planetary outpost controlled by the Intergalactic Naval Reserve Arm (INRA)
   has been discovered in the Hermitage system.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

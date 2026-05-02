@@ -11,11 +11,11 @@ related_entities:
 - lorens-legion
 - communism-interstellar
 - black-birds-squadron
-inara_url: https://inara.cz/elite/minorfaction/?search=Guardians%20of%20Harmony
 bio: 'Guardians of Harmony is a organization in the Elite Dangerous universe, active
   from 3302-01-12 to 3302-01-12. Frequently linked with Adle''s Armada, Utopia, Hutton
   Orbital Truckers. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

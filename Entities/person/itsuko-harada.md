@@ -5,11 +5,11 @@ type: person
 first_seen_date: '3305-11-08'
 last_seen_date: '3308-06-09'
 mention_count: 3
-inara_url: https://inara.cz/elite/cmdr-search/?search=Itsuko%20Harada
 bio: 'Itsuko Harada is a prominent figure in the Elite Dangerous universe, active
   from 3305-11-08 to 3308-06-09. Closely associated with Upaniklis Vision Incorporated,
   Interstellar Health Organisation. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

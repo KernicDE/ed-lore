@@ -11,10 +11,10 @@ related_entities:
 - colonia-citizens-network
 - 9th-legion
 - iridium-wing
-inara_url: https://inara.cz/elite/minorfaction/?search=Earth%20Defense%20Fleet
 bio: 'Earth Defense Fleet is a naval in the Elite Dangerous universe, active from
   3302-09-23 to 3302-11-05. Frequently linked with MetaDrive Inc., Chi Orionis. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

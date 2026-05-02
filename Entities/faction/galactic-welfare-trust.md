@@ -8,11 +8,11 @@ mention_count: 1
 related_entities:
 - birmingham
 - simpsons-eden
-inara_url: https://inara.cz/elite/minorfaction/?search=Galactic%20Welfare%20Trust
 bio: Galactic Welfare Trust is a organization in the Elite Dangerous universe, active
   from 3305-10-11 to 3305-10-11. Frequently linked with Simpson's Eden, Birmingham.
   The Galactic Welfare Trust warns billions are at risk of starvation.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

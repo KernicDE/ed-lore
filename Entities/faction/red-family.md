@@ -11,7 +11,6 @@ related_entities:
 - federal-security-service
 - olympus-village
 - mars-tribune
-inara_url: https://inara.cz/elite/minorfaction/?search=Red%20Family
 bio: 'Red Family is a organization active in Elite Dangerous lore from 3304-08-24
   to 3308-07-11. Frequently associated with Federal Times, Federal Intelligence Agency,
   Olympus Village. Key activities include: The Federal Intelligence Agency launches
@@ -19,6 +18,7 @@ bio: 'Red Family is a organization active in Elite Dangerous lore from 3304-08-2
   Detection Bureau intel...; Red Family co-founder Jan Sandoval unexpectedly surrenders
   to the Federal Intelligence Agency and offers to testify against the cartel''s leadership...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

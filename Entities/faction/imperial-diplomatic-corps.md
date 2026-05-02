@@ -11,7 +11,6 @@ related_entities:
 - marlinist-parliament
 - nmla
 - imperial-senate
-inara_url: https://inara.cz/elite/minorfaction/?search=Imperial%20Diplomatic%20Corps
 bio: Imperial Diplomatic Corps is a corporate in the Elite Dangerous universe, active
   from 3307-06-28 to 3309-01-31. Frequently linked with Alliance, Imperial Senate,
   Marlinism Reformation Party. Emperor Arissa Lavigny-Duval unexpectedly approves
@@ -19,6 +18,7 @@ bio: Imperial Diplomatic Corps is a corporate in the Elite Dangerous universe, a
   Aegis. Senator Lorcan Scordato proposes formal diplomatic relations between the
   Empire and Marlinist Colonies.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

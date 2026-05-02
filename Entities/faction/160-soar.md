@@ -11,12 +11,12 @@ related_entities:
 - tshang-city
 - california-nebula
 - california-sector-ba-a-e6
-inara_url: https://inara.cz/elite/minorfaction/?search=160%20SOAR
 bio: 160 SOAR is a organization in the Elite Dangerous universe, active from 3302-10-13
   to 3302-12-22. Frequently linked with Furuhjelm III-674, Tshang City, Alliance.
   160 SOAR is coordinating an appeal for geological equipment, hazardous-environment
   suits, and pesticides to be delivered to Tshang City in the Furuhjelm III-674 system.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

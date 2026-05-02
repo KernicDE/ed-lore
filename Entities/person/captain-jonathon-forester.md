@@ -5,10 +5,10 @@ type: person
 first_seen_date: '3308-06-02'
 last_seen_date: '3308-06-09'
 mention_count: 2
-inara_url: https://inara.cz/elite/cmdr-search/?search=Captain%20Jonathon%20Forester
 bio: 'Captain Jonathon Forester is a prominent figure in the Elite Dangerous universe,
   active from 3308-06-02 to 3308-06-09. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

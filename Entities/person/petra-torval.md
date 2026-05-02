@@ -5,10 +5,10 @@ type: person
 first_seen_date: '3309-06-05'
 last_seen_date: '3310-01-11'
 mention_count: 2
-inara_url: https://inara.cz/elite/cmdr-search/?search=Petra%20Torval
 bio: 'Petra Torval is a emperor in the Elite Dangerous universe, active from 3309-06-05
   to 3310-01-11. Closely associated with Imperial Navy. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

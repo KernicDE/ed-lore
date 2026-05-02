@@ -11,12 +11,12 @@ related_entities:
 - freng
 - lunduwalaya
 - clayakarma
-inara_url: https://inara.cz/elite/minorfaction/?search=United%20Research%20Council
 bio: United Research Council is a government in the Elite Dangerous universe, active
   from 3302-09-01 to 3302-10-27. Frequently linked with Darian, Freng, Coritab. The
   United Research Council lifted preparatory restrictions near the Clayakarma, Nauo,
   Gyhldekala, Boga, and Kpaniya systems.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

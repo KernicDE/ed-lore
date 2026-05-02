@@ -5,7 +5,6 @@ type: person
 first_seen_date: '3305-10-03'
 last_seen_date: '3307-07-23'
 mention_count: 9
-inara_url: https://inara.cz/elite/cmdr-search/?search=Adalyn%20Cross
 bio: 'Adalyn Cross is a Journalist in Elite Dangerous lore, active from 3305-10-03
   to 3307-07-23. Affiliated with Rockforth Corporation, Interstellar Association for
   Agriculture, Federal Intelligence Agency. Notable activities include: The IAA confirms
@@ -13,6 +12,7 @@ bio: 'Adalyn Cross is a Journalist in Elite Dangerous lore, active from 3305-10-
   taskforce confirms the EX7 fertiliser was deliberately contaminated with a synthetic
   compound designed to introduce an aggressive ...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

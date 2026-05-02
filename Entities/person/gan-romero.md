@@ -5,7 +5,6 @@ type: person
 first_seen_date: '3305-05-03'
 last_seen_date: '3305-05-31'
 mention_count: 5
-inara_url: https://inara.cz/elite/cmdr-search/?search=Gan%20Romero
 bio: Gan Romero is a president in the Elite Dangerous universe, active from 3305-05-03
   to 3305-05-31. Closely associated with Fort Dixon Security. Fort Dixon Security
   identifies starship technician Gan Romero as the individual who stole a docked Diamondback
@@ -13,6 +12,7 @@ bio: Gan Romero is a president in the Elite Dangerous universe, active from 3305
   Romero's wife describes his recent distracted behaviour and disturbing dreams, deepening
   the mystery of why an otherwise ordinary technician stole a ship from Fort Dixon.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

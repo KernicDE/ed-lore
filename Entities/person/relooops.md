@@ -5,10 +5,10 @@ type: person
 first_seen_date: '3302-12-16'
 last_seen_date: '3302-12-16'
 mention_count: 1
-inara_url: https://inara.cz/elite/cmdr-search/?search=Relooops
 bio: 'Relooops is a commander in the Elite Dangerous universe, active from 3302-12-16
   to 3302-12-16. Closely associated with Buckyball Racing Club, Apocalyptican Faith. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

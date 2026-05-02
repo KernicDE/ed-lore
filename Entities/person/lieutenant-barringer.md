@@ -5,11 +5,11 @@ type: person
 first_seen_date: '3301-05-30'
 last_seen_date: '3301-05-30'
 mention_count: 1
-inara_url: https://inara.cz/elite/cmdr-search/?search=Lieutenant%20Barringer
 bio: 'Lieutenant Barringer is a prominent figure in the Elite Dangerous universe,
   active from 3301-05-30 to 3301-05-30. Closely associated with Federal Transport
   Safety Administration. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

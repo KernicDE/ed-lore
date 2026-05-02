@@ -9,12 +9,12 @@ related_entities:
 - jones-estate
 - groombridge-34
 - kruger-60
-inara_url: https://inara.cz/elite/minorfaction/?search=Kruger%2060%20Free
 bio: Kruger 60 Free is a organization in the Elite Dangerous universe, active from
   3302-02-29 to 3302-03-01. Frequently linked with Jones Estate, Groombridge 34, Kruger
   60. Kruger 60 Free funds the one-day appeal, with deliveries requested at Jones
   Estate in the Groombridge 34 system.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

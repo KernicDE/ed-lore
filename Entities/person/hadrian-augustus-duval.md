@@ -5,7 +5,6 @@ type: person
 first_seen_date: '3304-12-07'
 last_seen_date: '3309-07-03'
 mention_count: 27
-inara_url: https://inara.cz/elite/cmdr-search/?search=Hadrian%20Augustus%20Duval
 bio: 'Hadrian Augustus Duval is a Emperor in Elite Dangerous lore, active from 3304-12-07
   to 3309-07-03. Affiliated with Nova Imperium, Imperial Herald. Notable activities
   include: Hadrian Augustus Duval broadcasts a defiant message condemning Emperor
@@ -13,6 +12,7 @@ bio: 'Hadrian Augustus Duval is a Emperor in Elite Dangerous lore, active from 3
   The Empire declares a day of mourning for the first anniversary of the NMLA''s Imperial
   starport bombings, which killed over 60,000 people and marke...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

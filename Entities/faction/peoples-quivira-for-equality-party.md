@@ -11,7 +11,6 @@ related_entities:
 - godel-dock
 - stapledon-dock
 - summerland
-inara_url: https://inara.cz/elite/minorfaction/?search=People%27s%20Quivira%20for%20Equality%20Party
 bio: 'People''s Quivira for Equality Party is a organization active in Elite Dangerous
   lore from 3301-05-01 to 3301-05-19. Frequently associated with Quivira, Godel Dock,
   Quivira Electronics Plc. Key activities include: Senator Denton Patreus officially
@@ -19,6 +18,7 @@ bio: 'People''s Quivira for Equality Party is a organization active in Elite Dan
   ships.; Imperial forces loyal to Senator Patreus secured Godel Dock in Quivira,
   ending the war.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

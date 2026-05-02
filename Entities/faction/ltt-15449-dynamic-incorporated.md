@@ -10,12 +10,12 @@ related_entities:
 - reyan-bps
 - mars
 - sol
-inara_url: https://inara.cz/elite/minorfaction/?search=LTT%2015449%20Dynamic%20Incorporated
 bio: LTT 15449 Dynamic Incorporated is a corporate in the Elite Dangerous universe,
   active from 3301-06-11 to 3301-06-11. Frequently linked with Reyan BPS, Sol, Mars.
   He began as a travelling salesman for LTT 15449 Dynamic Incorporated, rapidly climbing
   to President of Sales at Reyan BPS and becoming wealthy before entering politics.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

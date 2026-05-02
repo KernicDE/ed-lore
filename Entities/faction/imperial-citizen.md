@@ -11,7 +11,6 @@ related_entities:
 - children-of-raxxla
 - cemiess
 - imperial-herald
-inara_url: https://inara.cz/elite/minorfaction/?search=Imperial%20Citizen
 bio: 'Imperial Citizen is a organization active in Elite Dangerous lore from 3301-07-21
   to 3302-10-28. Frequently associated with Prism, Emperor''s Dawn, Children of Raxxla.
   Key activities include: Senator Kahina Tijani Loren of Prism has disappeared from
@@ -19,6 +18,7 @@ bio: 'Imperial Citizen is a organization active in Elite Dangerous lore from 330
   at Mackenzie Relay in the Cemiess system was thwarted by the Imperial Internal Security
   Service.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

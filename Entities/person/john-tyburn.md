@@ -5,10 +5,10 @@ type: person
 first_seen_date: '3307-12-20'
 last_seen_date: '3307-12-20'
 mention_count: 1
-inara_url: https://inara.cz/elite/cmdr-search/?search=John%20Tyburn
 bio: 'John Tyburn is a prominent figure in the Elite Dangerous universe, active from
   3307-12-20 to 3307-12-20. Closely associated with NMLA. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

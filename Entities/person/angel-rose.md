@@ -5,7 +5,6 @@ type: person
 first_seen_date: '3301-08-19'
 last_seen_date: '3301-08-26'
 mention_count: 2
-inara_url: https://inara.cz/elite/cmdr-search/?search=Angel%20Rose
 bio: Angel Rose is a commander in the Elite Dangerous universe, active from 3301-08-19
   to 3301-08-26. Closely associated with XYZ Fight Club. Commander Angel Rose grew
   up on a starport, became a trader, then was drawn into crime and reluctant assassination,
@@ -13,6 +12,7 @@ bio: Angel Rose is a commander in the Elite Dangerous universe, active from 3301
   Rose was a ruthless social climber who became a starport captain and played a small
   part in her daughter’s criminal path.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

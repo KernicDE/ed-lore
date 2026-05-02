@@ -8,10 +8,10 @@ mention_count: 1
 related_entities:
 - jaques-station
 - eol-prou-rs-t-d3-94
-inara_url: https://inara.cz/elite/minorfaction/?search=Galactic%20Cooperative%20of%20Worlds
 bio: 'Galactic Cooperative of Worlds is a organization in the Elite Dangerous universe,
   active from 3302-07-23 to 3302-07-23. Frequently linked with Jaques Station. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

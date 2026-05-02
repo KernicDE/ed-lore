@@ -5,13 +5,13 @@ type: person
 first_seen_date: '3302-04-14'
 last_seen_date: '3302-04-21'
 mention_count: 2
-inara_url: https://inara.cz/elite/cmdr-search/?search=Harlyn%20Tavistok
 bio: Harlyn Tavistok is a prominent figure in the Elite Dangerous universe, active
   from 3302-04-14 to 3302-04-21. Closely associated with Alliance. Alliance Assembly
   member Harlyn Tavistok announces plans to establish a new outpost on the fringes
   of inhabited space to bolster Alliance reconnaissance and intelligence-gathering
   capabilities.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

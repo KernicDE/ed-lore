@@ -5,7 +5,6 @@ type: person
 first_seen_date: '3304-05-18'
 last_seen_date: '3304-07-08'
 mention_count: 7
-inara_url: https://inara.cz/elite/cmdr-search/?search=Alexei%20de%20la%20Vega
 bio: 'Alexei de la Vega is a Scientist in Elite Dangerous lore, active from 3304-05-18
   to 3304-07-08. Affiliated with Colonia Co-operative, League of Reparation. Notable
   activities include: This week''s major stories include the murder of Fleet Admiral
@@ -13,6 +12,7 @@ bio: 'Alexei de la Vega is a Scientist in Elite Dangerous lore, active from 3304
   lin...; Weekly summary covering Chief Inspector Kay Kilbride''s murder by the League
   of Reparation, reactions to Aisling Duval and Jordan Rochester''s engage...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

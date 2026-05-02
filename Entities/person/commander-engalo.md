@@ -5,10 +5,10 @@ type: person
 first_seen_date: '3302-03-15'
 last_seen_date: '3302-04-04'
 mention_count: 2
-inara_url: https://inara.cz/elite/cmdr-search/?search=Commander%20Engalo
 bio: 'Commander Engalo is a commander in the Elite Dangerous universe, active from
   3302-03-15 to 3302-04-04. Closely associated with Canonn Interstellar Research Group. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

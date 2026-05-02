@@ -11,7 +11,6 @@ related_entities:
 - vandermeer-corporation
 - kumo-crew
 - vox-galactica
-inara_url: https://inara.cz/elite/minorfaction/?search=Interstellar%20Health%20Organisation
 bio: 'Interstellar Health Organisation is a organization active in Elite Dangerous
   lore from 3304-12-05 to 3307-08-24. Frequently associated with Vitadyne Labs, Utopia.
   Key activities include: An inhabited generation ship, the Golconda, is discovered
@@ -19,6 +18,7 @@ bio: 'Interstellar Health Organisation is a organization active in Elite Dangero
   the Far God book, new asteroid-mining equipment from the Industrial Mining Guild,
   Princess Ais...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

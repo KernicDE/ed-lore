@@ -11,7 +11,6 @@ related_entities:
 - zaonce
 - lave
 - reorte
-inara_url: https://inara.cz/elite/minorfaction/?search=Zaonce%20Jet%20Gang
 bio: Zaonce Jet Gang is a criminal in the Elite Dangerous universe, active from 3301-05-05
   to 3301-05-05. Frequently linked with Alliance Elite Diplomatic Corps, Ridley Scott
   Station, Silver United Solutions. Silver United Solutions deputised 5,535 pilots
@@ -19,6 +18,7 @@ bio: Zaonce Jet Gang is a criminal in the Elite Dangerous universe, active from 
   Old Worlds. Inspired by the Alliance Elite Diplomatic Corps' earlier aid to Reorte,
   the initiative succeeded in driving criminals from Zaonce.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

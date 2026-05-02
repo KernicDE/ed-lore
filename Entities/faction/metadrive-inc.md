@@ -11,7 +11,6 @@ related_entities:
 - bigsix
 - alioth
 - galactic-finance-times
-inara_url: https://inara.cz/elite/minorfaction/?search=MetaDrive%20Inc.
 bio: 'MetaDrive Inc. is a organization active in Elite Dangerous lore from 3302-08-12
   to 3303-02-17. Frequently associated with Chi Orionis, Sirius Corporation, BigSix.
   Key activities include: The Galactic Finance Times reported evidence of a significant
@@ -19,6 +18,7 @@ bio: 'MetaDrive Inc. is a organization active in Elite Dangerous lore from 3302-
   Dynam...; Independent auditor BigSix reported financial anomalies leading to MetaDrive
   Inc.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

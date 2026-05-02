@@ -10,11 +10,11 @@ related_entities:
 - perseus-arm
 - formidine-rift
 - cassiopeia
-inara_url: https://inara.cz/elite/minorfaction/?search=Earth%20Expeditionary%20Fleet
 bio: 'Earth Expeditionary Fleet is a naval in the Elite Dangerous universe, active
   from 3302-06-18 to 3302-10-14. Frequently linked with Perseus Arm, Chi Orionis,
   Formidine Rift. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

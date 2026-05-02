@@ -10,10 +10,10 @@ related_entities:
 - true-chapters
 - vox-galactica
 - hip-22460
-inara_url: https://inara.cz/elite/minorfaction/?search=Federal%20Free%20Press
 bio: 'Federal Free Press is a media in the Elite Dangerous universe, active from 3308-09-20
   to 3308-09-20. Frequently linked with HIP 22460, Order of the Far God, True Chapters. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

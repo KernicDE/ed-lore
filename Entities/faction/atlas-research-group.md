@@ -8,12 +8,12 @@ mention_count: 2
 related_entities:
 - merope
 - pleiades-nebula
-inara_url: https://inara.cz/elite/minorfaction/?search=Atlas%20Research%20Group
 bio: Atlas Research Group is a research in the Elite Dangerous universe, active from
   3305-02-14 to 3305-02-21. Frequently linked with Merope, Pleiades Nebula. The Atlas
   Research Group requests reactive armour and military grade fabrics to bolster Merope's
   defences against the ongoing Thargoid threat in the Pleiades Nebula.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

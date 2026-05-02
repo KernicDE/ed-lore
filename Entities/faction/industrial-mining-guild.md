@@ -11,12 +11,12 @@ related_entities:
 - interstellar-health-organisation
 - cemiess-imperial-society
 - wally-bei
-inara_url: https://inara.cz/elite/minorfaction/?search=Industrial%20Mining%20Guild
 bio: Industrial Mining Guild is a organization in the Elite Dangerous universe, active
   from 3304-12-20 to 3304-12-22. Frequently linked with Cemiess. The Industrial Mining
   Guild announces new asteroid-mining equipment expected to increase ore and mineral
   availability.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

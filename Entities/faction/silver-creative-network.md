@@ -11,13 +11,13 @@ related_entities:
 - betel-security
 - carrier-enterprise
 - alliance
-inara_url: https://inara.cz/elite/minorfaction/?search=Silver%20Creative%20Network
 bio: Silver Creative Network is a media in the Elite Dangerous universe, active from
   3304-08-24 to 3304-08-31. Frequently linked with Betel, Betel Free, Carrier Enterprise.
   Authorities confirm the conflict between the Silver Creative Network and Betel Free
   in the Betel system has ended. An ongoing feud between the Silver Creative Network
   and Betel Free escalates into violence in the Betel system.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

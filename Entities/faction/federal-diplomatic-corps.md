@@ -11,13 +11,13 @@ related_entities:
 - imperial-herald
 - core-dynamics
 - liberal-party
-inara_url: https://inara.cz/elite/minorfaction/?search=Federal%20Diplomatic%20Corps
 bio: Federal Diplomatic Corps is a corporate in the Elite Dangerous universe, active
   from 3304-07-07 to 3307-05-21. Frequently linked with Nova Imperium, Paresa, Core
   Dynamics. Nova Imperium defeats the Federal-backed League of Mandu in the Paresa
   system. Ambassador Catherine Carlisle of the Federal Diplomatic Corps admits Federal
   intermediaries acted hastily and will depart.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

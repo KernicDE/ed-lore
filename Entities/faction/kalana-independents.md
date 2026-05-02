@@ -11,10 +11,10 @@ related_entities:
 - bujold-enterprise
 - cutter-club
 - moore-prospect
-inara_url: https://inara.cz/elite/minorfaction/?search=Kalana%20Independents
 bio: Kalana Independents is a organization in the Elite Dangerous universe, active
   from 3302-09-29 to 3302-10-04. Frequently linked with Kalana, Mu Koji, Bujold Enterprise.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -11,7 +11,6 @@ related_entities:
 - social-falisci-partnership
 - social-falisci-partnership-party
 - ngaiawang
-inara_url: https://inara.cz/elite/minorfaction/?search=Falisci%20Purple%20Gang
 bio: Falisci Purple Gang is a criminal in the Elite Dangerous universe, active from
   3301-03-04 to 3301-03-27. Frequently linked with Citizens of Tradition, Falisci,
   Social Falisci Partnership. Imperial forces decimated the Falisci Purple Gang's
@@ -19,6 +18,7 @@ bio: Falisci Purple Gang is a criminal in the Elite Dangerous universe, active f
   a handful of pirates remain to defend their territory against the Citizens of Tradition
   and thousands of loyal Imperial citizens who flocked to Falisci.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

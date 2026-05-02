@@ -11,7 +11,6 @@ related_entities:
 - pleiades-resource-enterprise
 - obsidian-orbital
 - hip-17692
-inara_url: https://inara.cz/elite/minorfaction/?search=Merope%20Expeditionary%20Fleet
 bio: 'Merope Expeditionary Fleet is a navy active in Elite Dangerous lore from 3302-09-22
   to 3304-02-23. Frequently associated with Merope, Maia, Pleiades Resource Enterprise.
   Key activities include: The Empire and Federation have announced a joint initiative
@@ -19,6 +18,7 @@ bio: 'Merope Expeditionary Fleet is a navy active in Elite Dangerous lore from 3
   announced the successful conclusion of the joint Federal-Imperial operation in the
   HIP 17692 system.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -11,7 +11,6 @@ related_entities:
 - proactive-detection-bureau
 - federal-navy
 - mars
-inara_url: https://inara.cz/elite/minorfaction/?search=Federal%20Congress
 bio: 'Federal Congress is a government active in Elite Dangerous lore from 3301-02-20
   to 3310-09-17. Frequently associated with Sol, Alliance, Federal Navy. Key activities
   include: President Halsey ordered Federal pilots to attack and destroy an unarmed
@@ -19,6 +18,7 @@ bio: 'Federal Congress is a government active in Elite Dangerous lore from 3301-
   of Congress gathered on Mars for Shadow President Zachary Hudson''s Vote of No Confidence
   against the Liberal Administration.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

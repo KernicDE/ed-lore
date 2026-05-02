@@ -11,7 +11,6 @@ related_entities:
 - alliance
 - federal-intelligence-agency
 - league-of-reparation
-inara_url: https://inara.cz/elite/minorfaction/?search=Aranbarahun%20Purple%20Creative
 bio: Aranbarahun Purple Creative is a organization in the Elite Dangerous universe,
   active from 3304-08-03 to 3304-08-12. Frequently linked with Aranbarahun, Barnes
   Terminal, Federal Intelligence Agency. Aranbarahun Purple Creative announces plans
@@ -19,6 +18,7 @@ bio: Aranbarahun Purple Creative is a organization in the Elite Dangerous univer
   An open order is placed for various commodities to be delivered to Barnes Terminal
   in the Aranbarahun system, with a kill order on wanted ships to protect traders.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

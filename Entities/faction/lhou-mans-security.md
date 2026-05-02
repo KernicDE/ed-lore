@@ -11,12 +11,12 @@ related_entities:
 - authorities-in-the-lhou-mans
 - enterprise
 - gateway
-inara_url: https://inara.cz/elite/minorfaction/?search=Lhou%20Mans%20Security
 bio: Lhou Mans Security is a organization in the Elite Dangerous universe, active
   from 3312-04-28 to 3312-04-28. Frequently linked with A spokesperson for Lhou Mans,
   Authorities in the Lhou Mans, Zorgon Peterson. Coordinated criminal attacks damage
   four ports in Lhou Mans.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -11,13 +11,13 @@ related_entities:
 - league-of-reparation
 - pilots-federation
 - autocracy-of-tiensei
-inara_url: https://inara.cz/elite/minorfaction/?search=Los%20Chupacabras
 bio: Los Chupacabras is a organization in the Elite Dangerous universe, active from
   3304-05-25 to 3304-06-03. Frequently linked with LFT 926, Meredith City, Autocracy
   of T’iensei. Los Chupacabras announced the Jailhouse Rock and Blues Music Festival
   in LFT 926. Los Chupacabras, an independent faction based in the LFT 926 system,
   has announced the Jailhouse Rock and Blues Music Festival.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

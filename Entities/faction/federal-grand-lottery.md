@@ -8,13 +8,13 @@ mention_count: 2
 related_entities:
 - federal-times
 - rackham-capital-investments
-inara_url: https://inara.cz/elite/minorfaction/?search=Federal%20Grand%20Lottery
 bio: Federal Grand Lottery is a organization in the Elite Dangerous universe, active
   from 3304-07-14 to 3304-08-17. Frequently linked with Federal Times, Rackham Capital
   Investments. The Federal Grand Lottery launches an appeal to find the owner of an
   unclaimed one billion credit Galactic Jackpot ticket. Spokesperson Tori Theopolis
   asks citizens to check with lottery players they know.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

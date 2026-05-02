@@ -5,10 +5,10 @@ type: person
 first_seen_date: '3309-05-22'
 last_seen_date: '3309-09-22'
 mention_count: 3
-inara_url: https://inara.cz/elite/cmdr-search/?search=Patricia%20Chen
 bio: 'Patricia Chen is a president in the Elite Dangerous universe, active from 3309-05-22
   to 3309-09-22. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

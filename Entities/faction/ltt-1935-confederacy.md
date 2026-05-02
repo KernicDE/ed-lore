@@ -8,7 +8,6 @@ mention_count: 2
 related_entities:
 - lys-corp
 - imperial-internal-security-service
-inara_url: https://inara.cz/elite/minorfaction/?search=LTT%201935%20Confederacy
 bio: LTT 1935 Confederacy is a organization in the Elite Dangerous universe, active
   from 3306-11-05 to 3306-11-12. Frequently linked with L.Y.S Corp, Imperial Internal
   Security Service. The Empire's counter-terrorism operation in the LTT 1935 system
@@ -17,6 +16,7 @@ bio: LTT 1935 Confederacy is a organization in the Elite Dangerous universe, act
   LTT 1935 system after a battle against Imperial forces investigating NMLA bomb-making
   material deliveries.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

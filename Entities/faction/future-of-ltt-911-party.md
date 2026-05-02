@@ -11,11 +11,11 @@ related_entities:
 - eotienses-silver-universal-plc
 - eotienses
 - kui-hsien
-inara_url: https://inara.cz/elite/minorfaction/?search=Future%20of%20LTT%20911%20Party
 bio: 'Future of LTT 911 Party is a organization in the Elite Dangerous universe, active
   from 3301-04-20 to 3301-04-20. Frequently linked with Friends of Kui Hsien, Conservatives
   of BV Phoenicis, Kui Hsien. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

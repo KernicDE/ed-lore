@@ -11,12 +11,12 @@ related_entities:
 - liberal-party
 - east-india-company
 - autahenetsi
-inara_url: https://inara.cz/elite/minorfaction/?search=Republican%20Party
 bio: Republican Party is a organization in the Elite Dangerous universe, active from
   3301-06-11 to 3309-02-27. Frequently linked with Federal Navy, Kappa Fornacis, Liberal
   Party. President Hudson responded by sending Republican supporters to permanently
   establish themselves in Autahenetsi as a deterrent.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

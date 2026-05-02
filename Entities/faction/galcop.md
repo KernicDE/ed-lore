@@ -11,11 +11,11 @@ related_entities:
 - alliance-elite-diplomatic-corps
 - interstellar-communist-union
 - the-sovereign
-inara_url: https://inara.cz/elite/minorfaction/?search=GalCop
 bio: GalCop is a organization in the Elite Dangerous universe, active from 3302-06-02
   to 3302-07-07. Frequently linked with Border Coalition, Social Eleu Progressive
   Party, Interstellar Communist Union.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

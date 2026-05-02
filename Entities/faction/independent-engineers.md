@@ -5,13 +5,13 @@ type: faction
 first_seen_date: '3303-01-11'
 last_seen_date: '3303-01-11'
 mention_count: 1
-inara_url: https://inara.cz/elite/minorfaction/?search=Independent%20engineers
 bio: Independent engineers is a organization in the Elite Dangerous universe, active
   from 3303-01-11 to 3303-01-11. Independent Engineers have agreed to support the
   freeze by offering designs in exchange for more readily available materials. Independent
   engineers announce a joint accord to make spacecraft enhancements more affordable
   by requiring only materials rather than commodities for upgrades.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

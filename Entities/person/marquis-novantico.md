@@ -5,11 +5,11 @@ type: person
 first_seen_date: '3304-05-04'
 last_seen_date: '3304-05-04'
 mention_count: 1
-inara_url: https://inara.cz/elite/cmdr-search/?search=Marquis%20Novantico
 bio: Marquis Novantico is a pirate in the Elite Dangerous universe, active from 3304-05-04
   to 3304-05-04. Closely associated with Narri Justice Party, Utopia. Dr Leigh Constantinides
   announced the project, citing strategist Marquis Novantico's observations.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

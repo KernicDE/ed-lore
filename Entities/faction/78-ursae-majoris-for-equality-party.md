@@ -11,13 +11,13 @@ related_entities:
 - alioth
 - townshend-hub
 - seddon-gateway
-inara_url: https://inara.cz/elite/minorfaction/?search=78%20Ursae%20Majoris%20for%20Equality%20Party
 bio: 78 Ursae Majoris for Equality Party is a organization in the Elite Dangerous
   universe, active from 3301-05-09 to 3301-05-09. Frequently linked with Seddon Gateway,
   Alioth, Townshend Hub. Local leaders and residents of 78 Ursae Majoris reacted to
   news of President Halsey's planned visit. Mary Silverstein of the 78 Ursae Majoris
   for Equality Party expressed hope for productive reconciliation.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

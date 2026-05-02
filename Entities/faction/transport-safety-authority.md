@@ -10,12 +10,12 @@ related_entities:
 - mars
 - artemis
 - laphria-shipyard
-inara_url: https://inara.cz/elite/minorfaction/?search=Transport%20Safety%20Authority
 bio: Transport Safety Authority is a organization in the Elite Dangerous universe,
   active from 3301-08-11 to 3301-08-11. Frequently linked with Artemis, Federal Times.
   Two transport safety officials died when their personal transport collided with
   a Lakon Type-9 Heavy vessel near Laphria Shipyard in the Artemis system.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

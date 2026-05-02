@@ -11,7 +11,6 @@ related_entities:
 - perseus-dark-region-kc-v-c2-2
 - alliance
 - salvation
-inara_url: https://inara.cz/elite/minorfaction/?search=Azimuth%20Biochemicals
 bio: 'Azimuth Biochemicals is a organization active in Elite Dangerous lore from 3307-04-08
   to 3311-01-10. Frequently associated with Aegis, Salvation, Chukchan. Key activities
   include: A dormant communications beacon aboard the 200-year-old ghost ship Adamastor
@@ -19,6 +18,7 @@ bio: 'Azimuth Biochemicals is a organization active in Elite Dangerous lore from
   Wolfe details the discovery of the Hesperus alongside the Scriveners Clan dredger
   in the Perseus Dark Region.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

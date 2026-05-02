@@ -9,12 +9,12 @@ related_entities:
 - core-dynamics
 - bhattra
 - levinson-orbital
-inara_url: https://inara.cz/elite/minorfaction/?search=Vodel
 bio: Vodel is a organization in the Elite Dangerous universe, active from 3307-12-09
   to 3307-12-09. Frequently linked with Core Dynamics, Levinson Orbital, Bhattra.
   Vodel officially releases the Scorpion SRV, a combat-focused surface vehicle developed
   with Core Dynamics resources following their 3305 acquisition.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

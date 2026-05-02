@@ -11,7 +11,6 @@ related_entities:
 - council-of-admirals
 - alliance-defence-force
 - zaonce
-inara_url: https://inara.cz/elite/minorfaction/?search=Alliance%20Assembly
 bio: 'Alliance Assembly is a government active in Elite Dangerous lore from 3301-03-11
   to 3308-09-15. Frequently associated with Alliance, Alliance Tribune, Alliance Defence
   Force. Key activities include: President Gibson Kincaid is removed from office by
@@ -20,6 +19,7 @@ bio: 'Alliance Assembly is a government active in Elite Dangerous lore from 3301
   from all three superpowers and Sirius have resigned to join Salvation''s anti-xeno
   ...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

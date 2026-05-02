@@ -8,7 +8,6 @@ mention_count: 3
 related_entities:
 - wyrd-system
 - gareth-edwards-park
-inara_url: https://inara.cz/elite/minorfaction/?search=Wyrd%20Raiders
 bio: Wyrd Raiders is a organization in the Elite Dangerous universe, active from 3302-05-05
   to 3302-05-19. Frequently linked with Gareth Edwards Park, Wyrd system. The Wyrd
   Raiders extend their campaign for tantalum, acknowledging that more time is needed
@@ -16,6 +15,7 @@ bio: Wyrd Raiders is a organization in the Elite Dangerous universe, active from
   conclusion of their tantalum campaign, with massive deliveries received at Gareth
   Edwards Park.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

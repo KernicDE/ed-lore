@@ -11,12 +11,12 @@ related_entities:
 - bauschinger-city
 - federation
 - merope
-inara_url: https://inara.cz/elite/minorfaction/?search=Bava%20Blue%20Travel%20Systems
 bio: Bava Blue Travel Systems is a organization in the Elite Dangerous universe, active
   from 3302-07-14 to 3302-07-21. Frequently linked with Bauschinger City, Bava, Empire.
   The Empire has launched a campaign to find additional barnacles by asking pilots
   to deliver exploration data to Bauschinger City in the Bava system.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

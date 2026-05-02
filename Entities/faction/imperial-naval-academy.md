@@ -9,10 +9,10 @@ related_entities:
 - pilots-federation
 - achenar
 - achenar-3
-inara_url: https://inara.cz/elite/minorfaction/?search=Imperial%20Naval%20Academy
 bio: 'Imperial Naval Academy is a naval in the Elite Dangerous universe, active from
   3302-01-12 to 3302-01-12. Frequently linked with Achenar 3, Pilots Federation, Achenar. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

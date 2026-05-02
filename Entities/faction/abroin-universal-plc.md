@@ -9,7 +9,6 @@ related_entities:
 - abroin
 - campbell-horizons
 - pleiades-nebula
-inara_url: https://inara.cz/elite/minorfaction/?search=Abroin%20Universal%20Plc
 bio: Abroin Universal Plc is a organization in the Elite Dangerous universe, active
   from 3303-07-21 to 3303-07-21. Frequently linked with Campbell Horizons, Abroin,
   Pleiades Nebula. Abroin Universal Plc announces plans to establish a research outpost
@@ -17,6 +16,7 @@ bio: Abroin Universal Plc is a organization in the Elite Dangerous universe, act
   open order for semiconductors, lithium and energy grid assemblies for delivery to
   Campbell Horizons in the Abroin system.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

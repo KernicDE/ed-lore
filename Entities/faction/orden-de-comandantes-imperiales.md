@@ -10,12 +10,12 @@ related_entities:
 - kamocan
 - achenar
 - capitol
-inara_url: https://inara.cz/elite/minorfaction/?search=Orden%20de%20Comandantes%20Imperiales
 bio: Orden de Comandantes Imperiales is a organization in the Elite Dangerous universe,
   active from 3301-06-08 to 3301-06-08. Frequently linked with Capitol, Lavigny's
   Legion, Achenar. The Hispanic chivalric order Orden de Comandantes Imperiales announced
   that Kamocan has officially entered the Imperial fold under Princess Arissa Lavigny-Duval.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

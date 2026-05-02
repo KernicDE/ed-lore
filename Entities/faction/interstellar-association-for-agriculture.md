@@ -11,13 +11,13 @@ related_entities:
 - diso
 - riedquat
 - vandermeer-corporation
-inara_url: https://inara.cz/elite/minorfaction/?search=Interstellar%20Association%20for%20Agriculture
 bio: 'Interstellar Association for Agriculture is a religious active in Elite Dangerous
   lore from 3305-09-13 to 3305-11-05. Frequently associated with Rockforth Corporation,
   Orerve, Diso. Key activities include: Rockforth Corporation releases its EX7 fertiliser
   to address low crop yields.; The IAA confirms mass crop spoilage is caused by a
   new advanced blight of unknown origin.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

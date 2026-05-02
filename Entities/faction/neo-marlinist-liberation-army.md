@@ -11,7 +11,6 @@ related_entities:
 - alliance
 - achenar
 - marlinist
-inara_url: https://inara.cz/elite/minorfaction/?search=Neo-Marlinist%20Liberation%20Army
 bio: 'Neo-Marlinist Liberation Army is a organization active in Elite Dangerous lore
   from 3307-03-11 to 3307-12-28. Frequently associated with NMLA, Alliance, Achenar.
   Key activities include: The conference in The Sirius system has ended prematurely
@@ -19,6 +18,7 @@ bio: 'Neo-Marlinist Liberation Army is a organization active in Elite Dangerous 
   Federation.; Private investigators Erik Gunnarson and Francesca Wolfe review The
   Neo-Marlinist Liberation Army.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

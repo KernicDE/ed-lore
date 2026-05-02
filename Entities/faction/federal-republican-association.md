@@ -11,7 +11,6 @@ related_entities:
 - mars
 - sol
 - alliance
-inara_url: https://inara.cz/elite/minorfaction/?search=Federal%20Republican%20Association
 bio: Federal Republican Association is a organization in the Elite Dangerous universe,
   active from 3301-06-02 to 3301-06-10. Frequently linked with Liberal Party, Sol.
   Even known Liberal supporters voted against their own leadership, reflecting Halsey's
@@ -19,6 +18,7 @@ bio: Federal Republican Association is a organization in the Elite Dangerous uni
   The Federal Republican Association gained massive support, signalling a more aggressive
   decision-making stance from Mars.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -5,7 +5,6 @@ type: person
 first_seen_date: '3304-06-28'
 last_seen_date: '3307-05-21'
 mention_count: 14
-inara_url: https://inara.cz/elite/cmdr-search/?search=Mara%20Klatt
 bio: 'Mara Klatt is a Admiral in Elite Dangerous lore, active from 3304-06-28 to 3307-05-21.
   Affiliated with League of Reparation, Alliance, Imperial Internal Security Service.
   Notable activities include: Weekly summary covering Chief Inspector Kay Kilbride''s
@@ -13,6 +12,7 @@ bio: 'Mara Klatt is a Admiral in Elite Dangerous lore, active from 3304-06-28 to
   engage...; Weekly summary covering Admiral Varma''s arrest, the Church of Eternal
   Void declaring war on the Far God cult, Aisling Duval''s wedding date announce...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

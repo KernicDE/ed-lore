@@ -5,10 +5,10 @@ type: person
 first_seen_date: '3301-09-28'
 last_seen_date: '3301-09-28'
 mention_count: 1
-inara_url: https://inara.cz/elite/cmdr-search/?search=Rubbernuke
 bio: 'Rubbernuke is a pirate in the Elite Dangerous universe, active from 3301-09-28
   to 3301-09-28. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

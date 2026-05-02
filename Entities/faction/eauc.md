@@ -9,12 +9,12 @@ related_entities:
 - universal-cartographics
 - new-yembo
 - hip-101110
-inara_url: https://inara.cz/elite/minorfaction/?search=EAUC
 bio: EAUC is a organization in the Elite Dangerous universe, active from 3301-02-18
   to 3301-02-18. Frequently linked with New Yembo, Universal Cartographics, HIP 101110.
   The EAUC Exploration Ocellus station construction is well underway thanks to 4,871
   commanders contributing over 8.1 million tons of metal.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

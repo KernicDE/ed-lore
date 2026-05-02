@@ -11,7 +11,6 @@ related_entities:
 - alliance
 - federal-security-service
 - sirius-corporation
-inara_url: https://inara.cz/elite/minorfaction/?search=Niflhel%20Guardians%20Of%20Tradition
 bio: Niflhel Guardians Of Tradition is a organization in the Elite Dangerous universe,
   active from 3304-11-01 to 3304-11-03. Frequently linked with Niflhel, Biruni Port,
   Ndozins State Inc. Senator Caspian Leopold announces the successful completion of
@@ -19,6 +18,7 @@ bio: Niflhel Guardians Of Tradition is a organization in the Elite Dangerous uni
   of pilots delivered commodities to Biruni Port and protected traders in the Niflhel
   system, narrowly averting a humanitarian crisis.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -11,7 +11,6 @@ related_entities:
 - utopia
 - lorens-legion
 - communism-interstellar
-inara_url: https://inara.cz/elite/minorfaction/?search=Pioneers%20Cooperative
 bio: Pioneers Cooperative is a organization in the Elite Dangerous universe, active
   from 3302-01-12 to 3302-01-12. Frequently linked with Obsidian Orbital, Maia system,
   Adle's Armada. The Pioneer's Cooperative places an open order for meta-alloys to
@@ -19,6 +18,7 @@ bio: Pioneers Cooperative is a organization in the Elite Dangerous universe, act
   supports the Pioneer's Cooperative meta-alloy drive to produce UA-resistant ship
   modules.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

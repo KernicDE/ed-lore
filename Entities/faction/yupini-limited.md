@@ -9,7 +9,6 @@ related_entities:
 - imperial-navy
 - nova-imperium
 - paresa
-inara_url: https://inara.cz/elite/minorfaction/?search=Yupini%20Limited
 bio: Yupini Limited is a organization in the Elite Dangerous universe, active from
   3305-01-10 to 3305-01-17. Frequently linked with Paresa, Imperial Navy. The Empire
   declares open conflict with Nova Imperium in the Paresa system, with Senator Patreus
@@ -18,6 +17,7 @@ bio: Yupini Limited is a organization in the Elite Dangerous universe, active fr
   by Yupini Limited, with Senator Patreus warning that the Empire will not tolerate
   further insurrection.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -5,7 +5,6 @@ type: person
 first_seen_date: '3307-07-21'
 last_seen_date: '3311-01-09'
 mention_count: 12
-inara_url: https://inara.cz/elite/cmdr-search/?search=Sofia%20Trevino
 bio: 'Sofia Trevino is a President in Elite Dangerous lore, active from 3307-07-21
   to 3311-01-09. Affiliated with Federal Times. Notable activities include: The three
   presidential candidates ramp up campaigns for the delayed August election, with
@@ -13,6 +12,7 @@ bio: 'Sofia Trevino is a President in Elite Dangerous lore, active from 3307-07-
   to deport Far God cultists to the Alliance, framing it as pragmatic cost-cutting
   while the Dedicant is prepared for transport.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

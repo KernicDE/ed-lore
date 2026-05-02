@@ -5,10 +5,10 @@ type: person
 first_seen_date: '3309-02-06'
 last_seen_date: '3309-08-14'
 mention_count: 5
-inara_url: https://inara.cz/elite/cmdr-search/?search=Emil%20Varga
 bio: Emil Varga is a commander in the Elite Dangerous universe, active from 3309-02-06
   to 3309-08-14. Closely associated with Aegis, Sirius Corporation.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -11,11 +11,11 @@ related_entities:
 - pilots-federation
 - 42-n-persei
 - chun-pindit
-inara_url: https://inara.cz/elite/minorfaction/?search=Tekkeitjal%20Public%20Corporation
 bio: 'Tekkeitjal Public Corporation is a corporate in the Elite Dangerous universe,
   active from 3308-09-12 to 3308-09-12. Frequently linked with Sirius Inc, Riemann
   Colony, Samuda Terminal. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

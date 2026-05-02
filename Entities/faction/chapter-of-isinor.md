@@ -11,11 +11,11 @@ related_entities:
 - patrons-principles
 - alioth-independents
 - sublime-order-of-van-maanens-star
-inara_url: https://inara.cz/elite/minorfaction/?search=Chapter%20of%20Isinor
 bio: 'Chapter of Isinor is a organization in the Elite Dangerous universe, active
   from 3301-03-27 to 3301-03-27. Frequently linked with Patron''s Principles, Alioth,
   Universal Cartographics. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

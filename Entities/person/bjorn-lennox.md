@@ -5,7 +5,6 @@ type: person
 first_seen_date: '3305-04-25'
 last_seen_date: '3305-05-31'
 mention_count: 3
-inara_url: https://inara.cz/elite/cmdr-search/?search=Bjorn%20Lennox
 bio: Bjorn Lennox is a commander in the Elite Dangerous universe, active from 3305-04-25
   to 3305-05-31. Closely associated with Fort Dixon Security, Vox Galactica. Commander
   Bjorn Lennox's Diamondback Explorer is stolen from Fort Dixon in the Vega system
@@ -14,6 +13,7 @@ bio: Bjorn Lennox is a commander in the Elite Dangerous universe, active from 33
   while ship owner Bjorn Lennox speculates that Romero may have been called to 'a
   place that most people can't understand.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

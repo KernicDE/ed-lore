@@ -8,10 +8,10 @@ mention_count: 1
 related_entities:
 - the-sovereign
 - saud-kruger
-inara_url: https://inara.cz/elite/minorfaction/?search=Astrogator%20Tours
 bio: 'Astrogator Tours is a organization in the Elite Dangerous universe, active from
   3305-01-24 to 3305-01-24. Frequently linked with Saud Kruger, The Sovereign. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

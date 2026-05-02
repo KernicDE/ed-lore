@@ -11,7 +11,6 @@ related_entities:
 - advocacy
 - canonn-interstellar-research-group
 - vox-galactica
-inara_url: https://inara.cz/elite/minorfaction/?search=Orion%20University
 bio: 'Orion University is a research active in Elite Dangerous lore from 3307-10-13
   to 3312-04-21. Frequently associated with Scriveners Clan, Alliance. Key activities
   include: Historian Sima Kalhana concludes her 3307 review, covering the Yuri Grom
@@ -19,6 +18,7 @@ bio: 'Orion University is a research active in Elite Dangerous lore from 3307-10
   Inexplicable deep-space anomalies detected beyond the Col 70 sector generate widespread
   speculation, with theories ranging from Thargoid weapons to...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -5,11 +5,11 @@ type: person
 first_seen_date: '3310-09-03'
 last_seen_date: '3310-09-03'
 mention_count: 1
-inara_url: https://inara.cz/elite/cmdr-search/?search=Maxine%20Patro
 bio: 'Maxine Patro is a prominent figure in the Elite Dangerous universe, active from
   3310-09-03 to 3310-09-03. Closely associated with Sirius Corporation, Utopia, Achilles
   Aerospace. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

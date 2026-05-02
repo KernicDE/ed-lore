@@ -9,7 +9,6 @@ related_entities:
 - chimechilo-empire-league
 - thoreau-orbital
 - obotrima
-inara_url: https://inara.cz/elite/minorfaction/?search=Obotrima%20Organisation
 bio: Obotrima Organisation is a organization in the Elite Dangerous universe, active
   from 3302-09-15 to 3302-09-15. Frequently linked with Chimechilo Empire League,
   Obotrima, Thoreau Orbital. Federal intelligence has uncovered an Imperial plot by
@@ -17,6 +16,7 @@ bio: Obotrima Organisation is a organization in the Elite Dangerous universe, ac
   it with explosives. The Obotrima Organisation has countered by requesting Federation-aligned
   pilots deliver skimmer components and robotics to maintain production.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

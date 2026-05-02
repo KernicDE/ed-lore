@@ -7,12 +7,12 @@ last_seen_date: '3301-08-09'
 mention_count: 1
 related_entities:
 - tulill
-inara_url: https://inara.cz/elite/minorfaction/?search=Russell%20Networks
 bio: Russell Networks is a media in the Elite Dangerous universe, active from 3301-08-09
   to 3301-08-09. Frequently linked with Tulill. Independent newsfeed Russell Networks
   in the Tulill system broadcast claimed holographic footage of Emperor Hengist Duval’s
   assassination. Imperial networks refused to show it and society was outraged.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

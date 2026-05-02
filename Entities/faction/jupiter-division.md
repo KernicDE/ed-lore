@@ -11,7 +11,6 @@ related_entities:
 - victorys-forge-megaship
 - vox-galactica
 - silver-legal-group
-inara_url: https://inara.cz/elite/minorfaction/?search=Jupiter%20Division
 bio: 'Jupiter Division is a organization active in Elite Dangerous lore from 3307-04-13
   to 3307-12-28. Frequently associated with Core Dynamics, Ts''ao Tach, Victory''s
   Forge megaship. Key activities include: Historian Sima Kalhana reviews the first
@@ -19,6 +18,7 @@ bio: 'Jupiter Division is a organization active in Elite Dangerous lore from 330
   bombings, and the formati...; Mixed reactions emerge to the Proactive Detection
   Bureau''s surveillance programme.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

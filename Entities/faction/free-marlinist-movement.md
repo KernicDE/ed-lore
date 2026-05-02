@@ -11,7 +11,6 @@ related_entities:
 - nmla
 - marlinism-reformation-party
 - achenar
-inara_url: https://inara.cz/elite/minorfaction/?search=Free%20Marlinist%20Movement
 bio: 'Free Marlinist Movement is a organization active in Elite Dangerous lore from
   3307-06-22 to 3307-07-29. Frequently associated with NMLA, Marlinist Colonies, Marlinism
   Reformation Party. Key activities include: Minister Aaron Whyte proposes a peace
@@ -19,6 +18,7 @@ bio: 'Free Marlinist Movement is a organization active in Elite Dangerous lore f
   to represent the terrorists p...; The NMLA bombs Stillman Hub in HIP 22550 and Tilman
   Point in Hyades Sector RO-P b6-6, killing tens of thousands.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -11,7 +11,6 @@ related_entities:
 - minerva
 - macdonald-settlement
 - hip-90578
-inara_url: https://inara.cz/elite/minorfaction/?search=Brewer%20Corporation
 bio: 'Brewer Corporation is a corporation active in Elite Dangerous lore from 3301-10-22
   to 3311-11-11. Frequently associated with Universal Cartographics, Jaques Station,
   Minerva. Key activities include: Historian Sima Kalhana concludes her 3307 review,
@@ -20,6 +19,7 @@ bio: 'Brewer Corporation is a corporation active in Elite Dangerous lore from 33
   exploration data to assess prime locations for permanent human structures, though
   it ...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

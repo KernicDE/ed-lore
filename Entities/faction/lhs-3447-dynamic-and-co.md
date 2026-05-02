@@ -11,7 +11,6 @@ related_entities:
 - worlidge-terminal
 - bluford-orbital
 - lhs-3447-b-1-a
-inara_url: https://inara.cz/elite/minorfaction/?search=LHS%203447%20Dynamic%20and%20Co
 bio: LHS 3447 Dynamic and Co is a organization in the Elite Dangerous universe, active
   from 3302-02-25 to 3303-06-30. Frequently linked with Pilots Federation, LHS 3447
   system, Bluford Orbital. The Pilots Federation and LHS 3447 Dynamic and Co announce
@@ -19,6 +18,7 @@ bio: LHS 3447 Dynamic and Co is a organization in the Elite Dangerous universe, 
   will orbit LHS 3447 B 1 a, providing a valuable trade and resupply hub for miners
   in the system.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

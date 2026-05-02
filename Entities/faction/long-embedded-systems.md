@@ -11,11 +11,11 @@ related_entities:
 - jick-nackson-enterprises
 - lurp-ship-systems
 - pilots-federation
-inara_url: https://inara.cz/elite/minorfaction/?search=Long%20Embedded%20Systems
 bio: 'Long Embedded Systems is a organization in the Elite Dangerous universe, active
   from 3308-09-30 to 3308-09-30. Frequently linked with Pilots Federation, Universal
   Cartographics, Auger Vision. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

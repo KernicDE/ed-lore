@@ -1,5 +1,11 @@
 #!/usr/bin/env python3
-"""Add Inara/EDSM links to faction and person entities."""
+"""Add Inara/EDSM links to entity markdown files.
+
+Only location entities get Inara links (starsystem search).
+Faction and person Inara links are unreliable — minorfaction search returns
+empty results for non-game factions, and cmdr-search only finds registered
+player CMDRs (not NPCs). These have been removed.
+"""
 
 import yaml
 from pathlib import Path
@@ -21,9 +27,9 @@ def parse_frontmatter(path):
         return None, text
 
 
-def enrich_type(subdir_name, url_template):
-    """Add links to all entities of a given type."""
-    subdir = ENTITIES_DIR / subdir_name
+def enrich_locations():
+    """Add Inara starsystem search URLs to location entities."""
+    subdir = ENTITIES_DIR / "location"
     if not subdir.exists():
         return 0
 
@@ -35,13 +41,11 @@ def enrich_type(subdir_name, url_template):
 
         name = fm.get("name", md_file.stem.replace("-", " ").title())
         encoded = quote(name)
+        url = f"https://inara.cz/elite/starsystem/?search={encoded}"
 
         changed = False
-        url = url_template.format(encoded=encoded, name=name)
-        key = "inara_url" if "inara" in url_template else "edsm_url"
-
-        if key not in fm:
-            fm[key] = url
+        if "inara_url" not in fm:
+            fm["inara_url"] = url
             changed = True
 
         if changed:
@@ -54,15 +58,9 @@ def enrich_type(subdir_name, url_template):
 
 
 def main():
-    f_updated = enrich_type("faction", "https://inara.cz/elite/minorfaction/?search={encoded}")
-    p_updated = enrich_type("person", "https://inara.cz/elite/cmdr-search/?search={encoded}")
-    # Skip technology entities — Inara commodity search doesn't work for ships/modules.
-    # Only factions, persons, and star systems have reliable Inara search URLs.
-    t_updated = 0
-
-    print(f"Updated {f_updated} factions with Inara links")
-    print(f"Updated {p_updated} persons with Inara links")
-    print(f"Skipped {t_updated} technologies (Inara commodity search unreliable for ships/modules)")
+    l_updated = enrich_locations()
+    print(f"Updated {l_updated} locations with Inara links")
+    print("Skipped factions and persons — Inara search is unreliable for these types")
 
 
 if __name__ == "__main__":

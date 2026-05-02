@@ -11,11 +11,11 @@ related_entities:
 - sirius-finance
 - better-green-developments
 - roach-investment-banking
-inara_url: https://inara.cz/elite/minorfaction/?search=Lycan%20Moon%20Mining
 bio: 'Lycan Moon Mining is a organization in the Elite Dangerous universe, active
   from 3301-04-10 to 3301-04-10. Frequently linked with Worster Insurance, Better
   Green Developments. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

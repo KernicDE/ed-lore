@@ -11,13 +11,13 @@ related_entities:
 - kumo-crew
 - imperial-navy
 - libertas-cooperative
-inara_url: https://inara.cz/elite/minorfaction/?search=Defence%20Force%20of%20Amitrite
 bio: Defence Force of Amitrite is a organization in the Elite Dangerous universe,
   active from 3301-09-23 to 3301-09-29. Frequently linked with Amitrite, Munshin,
   Kumo Crew. Pirates attacked refugees fleeing the Pegasi Pirate War in the Amitrite
   system. The Defence Force of Amitrite warned their forces were stretched too thin
   and urged refugees to avoid the system or fly in convoys.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -11,7 +11,6 @@ related_entities:
 - alliance
 - league-of-reparation
 - sirius-corporation
-inara_url: https://inara.cz/elite/minorfaction/?search=Council%20of%20Admirals
 bio: 'Council of Admirals is a government active in Elite Dangerous lore from 3301-05-02
   to 3308-09-23. Frequently associated with Alliance Defence Force, Alliance Assembly,
   Alliance. Key activities include: This week''s major stories include the murder
@@ -20,6 +19,7 @@ bio: 'Council of Admirals is a government active in Elite Dangerous lore from 33
   from all three superpowers and Sirius have resigned to join Salvation''s anti-xeno
   ...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

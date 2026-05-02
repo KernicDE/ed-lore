@@ -8,12 +8,12 @@ mention_count: 2
 related_entities:
 - hip-104292
 - lomonosov-city
-inara_url: https://inara.cz/elite/minorfaction/?search=Kuun-Lan
 bio: Kuun-Lan is a organization in the Elite Dangerous universe, active from 3303-10-06
   to 3303-10-13. Frequently linked with HIP 104292, Lomonosov City. The Kuun-Lan's
   appeal for commodities concluded successfully with a massive influx of deliveries
   to Lomonosov City.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

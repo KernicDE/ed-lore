@@ -11,11 +11,11 @@ related_entities:
 - lorens-legion
 - communism-interstellar
 - black-birds-squadron
-inara_url: https://inara.cz/elite/minorfaction/?search=Distant%20Worlds%20Admins
 bio: 'Distant Worlds Admins is a organization in the Elite Dangerous universe, active
   from 3302-01-12 to 3302-01-12. Frequently linked with Adle''s Armada, Guardians
   of Harmony, Utopia. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

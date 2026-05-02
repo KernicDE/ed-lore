@@ -11,7 +11,6 @@ related_entities:
 - universal-cartographics
 - brewer-corporation
 - neville-horizons
-inara_url: https://inara.cz/elite/minorfaction/?search=Explorers%27%20Association
 bio: Explorers' Association is a organization in the Elite Dangerous universe, active
   from 3301-03-05 to 3301-11-18. Frequently linked with Kaushpoos, Pleiades Nebula,
   Universal Cartographics. The first Deep Space Exploration Platform sponsored by
@@ -20,6 +19,7 @@ bio: Explorers' Association is a organization in the Elite Dangerous universe, a
   and Universal Cartographics, announced the beginning of starport construction in
   the Pleiades Nebula.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

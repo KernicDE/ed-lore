@@ -10,7 +10,6 @@ related_entities:
 - smith-port
 - leif-enterprise
 - rogue-security
-inara_url: https://inara.cz/elite/minorfaction/?search=Rogue%20Runners
 bio: Rogue Runners is a organization in the Elite Dangerous universe, active from
   3303-12-01 to 3303-12-08. Frequently linked with Run, Smith Port, Leif Enterprise.
   The Rogue Runners, an independent group based in the Run system, have announced
@@ -18,6 +17,7 @@ bio: Rogue Runners is a organization in the Elite Dangerous universe, active fro
   have announced the successful conclusion of their campaign to renovate Leif Enterprise
   asteroid base in the Run system.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

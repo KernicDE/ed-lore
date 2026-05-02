@@ -5,12 +5,12 @@ type: person
 first_seen_date: '3302-11-05'
 last_seen_date: '3302-11-05'
 mention_count: 1
-inara_url: https://inara.cz/elite/cmdr-search/?search=Commander%20Lewis
 bio: Commander Lewis is a commander in the Elite Dangerous universe, active from 3302-11-05
   to 3302-11-05. Amateur explorer Commander Lewis has returned to human-inhabited
   space after becoming stranded in a damaged Asp Scout approximately 65,000 light
   years from civilisation.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

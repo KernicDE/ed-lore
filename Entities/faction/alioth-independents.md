@@ -11,7 +11,6 @@ related_entities:
 - alliance
 - townshend-hub
 - seddon-gateway
-inara_url: https://inara.cz/elite/minorfaction/?search=Alioth%20Independents
 bio: 'Alioth Independents is a organization active in Elite Dangerous lore from 3301-03-27
   to 3311-10-13. Frequently associated with Alioth, 78 Ursae Majoris, Alliance. Key
   activities include: Weekly summary covering Maddox Hurd''s criminal connections
@@ -19,6 +18,7 @@ bio: 'Alioth Independents is a organization active in Elite Dangerous lore from 
   78 Ursae Majoris was secured after independent pilots participated in a security
   campaign led by Mayor Andrew Bailey of the Alioth Independents.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

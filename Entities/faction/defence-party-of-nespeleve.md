@@ -11,11 +11,11 @@ related_entities:
 - wilkes-orbital
 - palin-institute
 - orulas-system
-inara_url: https://inara.cz/elite/minorfaction/?search=Defence%20Party%20of%20Nespeleve
 bio: 'Defence Party of Nespeleve is a organization in the Elite Dangerous universe,
   active from 3302-05-12 to 3302-05-19. Frequently linked with Nespeleve system, Maia
   A 3 a, Wilkes Orbital. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -11,13 +11,13 @@ related_entities:
 - pilots-federation
 - nmla
 - dyson-city
-inara_url: https://inara.cz/elite/minorfaction/?search=League%20of%20Mandu
 bio: League of Mandu is a organization in the Elite Dangerous universe, active from
   3307-05-06 to 3307-05-13. Frequently linked with Nova Imperium, Paresa, NMLA. Open
   warfare erupts in the Paresa system between Nova Imperium and the Federal-backed
   League of Mandu. Nova Imperium defeats the Federal-backed League of Mandu in the
   Paresa system.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

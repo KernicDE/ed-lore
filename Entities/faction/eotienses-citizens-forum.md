@@ -8,12 +8,12 @@ mention_count: 1
 related_entities:
 - eotienses
 - parkinson-dock
-inara_url: https://inara.cz/elite/minorfaction/?search=Eotienses%20Citizens%27%20Forum
 bio: Eotienses Citizens' Forum is a organization in the Elite Dangerous universe,
   active from 3301-05-16 to 3301-05-16. Frequently linked with Parkinson Dock, Eotienses.
   Parkinson Dock in Eotienses completed a major upgrade after two weeks of construction
   by 70,000 engineers.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

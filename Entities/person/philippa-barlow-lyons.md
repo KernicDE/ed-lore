@@ -5,10 +5,10 @@ type: person
 first_seen_date: '3309-03-31'
 last_seen_date: '3309-04-25'
 mention_count: 5
-inara_url: https://inara.cz/elite/cmdr-search/?search=Philippa%20Barlow-Lyons
 bio: Philippa Barlow-Lyons is a ceo in the Elite Dangerous universe, active from 3309-03-31
   to 3309-04-25.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

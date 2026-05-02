@@ -5,11 +5,11 @@ type: person
 first_seen_date: '3302-09-07'
 last_seen_date: '3302-09-07'
 mention_count: 1
-inara_url: https://inara.cz/elite/cmdr-search/?search=Ulla%20Burton
 bio: 'Ulla Burton is a prominent figure in the Elite Dangerous universe, active from
   3302-09-07 to 3302-09-07. Closely associated with Canonn Institute, Interstellar
   Press. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

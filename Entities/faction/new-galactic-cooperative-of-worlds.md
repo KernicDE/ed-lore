@@ -9,11 +9,11 @@ related_entities:
 - neits-jet-life-ltd
 - gr-316-silver-universal-group
 - neits-system
-inara_url: https://inara.cz/elite/minorfaction/?search=New%20Galactic%20Cooperative%20of%20Worlds
 bio: 'New Galactic Cooperative of Worlds is a organization in the Elite Dangerous
   universe, active from 3302-05-23 to 3302-05-23. Frequently linked with GR 316 Silver
   Universal Group, Neits Jet Life Ltd, Neits system. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

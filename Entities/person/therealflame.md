@@ -5,11 +5,11 @@ type: person
 first_seen_date: '3307-03-31'
 last_seen_date: '3307-03-31'
 mention_count: 1
-inara_url: https://inara.cz/elite/cmdr-search/?search=TheRealFlame
 bio: 'TheRealFlame is a pilot in the Elite Dangerous universe, active from 3307-03-31
   to 3307-03-31. Closely associated with NMLA, Imperial Internal Security Service,
   Marlinist. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

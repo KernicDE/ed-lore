@@ -11,7 +11,6 @@ related_entities:
 - rishair
 - cosmic-state
 - hammer-arms
-inara_url: https://inara.cz/elite/minorfaction/?search=Emperor%27s%20Grace
 bio: 'Emperor''s Grace is a organization active in Elite Dangerous lore from 3301-03-26
   to 3304-07-15. Frequently associated with Alliance, HR 706. Key activities include:
   Weekly summary covering Admiral Varma''s arrest, the Church of Eternal Void declaring
@@ -19,6 +18,7 @@ bio: 'Emperor''s Grace is a organization active in Elite Dangerous lore from 330
   working for Princess Arissa Lavigny-Duval uncovered that rogue members of Silver
   Allied Network channelled attack funds throug...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

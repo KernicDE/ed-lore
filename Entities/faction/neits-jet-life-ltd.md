@@ -11,7 +11,6 @@ related_entities:
 - watson-settlement
 - new-galactic-cooperative-of-worlds
 - federal-navy
-inara_url: https://inara.cz/elite/minorfaction/?search=Neits%20Jet%20Life%20Ltd
 bio: Neits Jet Life Ltd is a organization in the Elite Dangerous universe, active
   from 3302-05-19 to 3302-05-26. Frequently linked with GR 316 Silver Universal Group,
   Neits system, Watson Settlement. The Neits system erupts into conflict as Federation-aligned
@@ -19,6 +18,7 @@ bio: Neits Jet Life Ltd is a organization in the Elite Dangerous universe, activ
   week of intense conflict, Federation-aligned Neits Jet Life Ltd defeats the Imperial
   GR 316 Silver Universal Group in the Neits system.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

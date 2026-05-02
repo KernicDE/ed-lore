@@ -11,7 +11,6 @@ related_entities:
 - stuemeae-fg-y-d7561
 - distant-worlds-3
 - explorers-anchorage
-inara_url: https://inara.cz/elite/minorfaction/?search=Deep%20Space%20Surveys
 bio: 'Deep Space Surveys is a organization active in Elite Dangerous lore from 3305-01-04
   to 3312-04-26. Frequently associated with Sagittarius A*, Beagle Point, Stuemeae
   FG-Y d7561. Key activities include: The second Distant Worlds expedition prepares
@@ -20,6 +19,7 @@ bio: 'Deep Space Surveys is a organization active in Elite Dangerous lore from 3
   praseodymium and cobalt deliveries to build an Orbis starport in the Galactic Centre
   as part...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

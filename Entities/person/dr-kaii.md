@@ -5,11 +5,11 @@ type: person
 first_seen_date: '3302-04-08'
 last_seen_date: '3302-05-26'
 mention_count: 2
-inara_url: https://inara.cz/elite/cmdr-search/?search=Dr%20Kaii
 bio: Dr Kaii is a commander in the Elite Dangerous universe, active from 3302-04-08
   to 3302-05-26. A transmission from Commander Salomé congratulates Dr Kaii and Commander
   Erimus on the Distant Worlds Expedition's colossal achievement.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

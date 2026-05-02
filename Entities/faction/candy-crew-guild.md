@@ -8,7 +8,6 @@ mention_count: 3
 related_entities:
 - irusan
 - bella-port
-inara_url: https://inara.cz/elite/minorfaction/?search=Candy%20Crew%20Guild
 bio: Candy Crew Guild is a criminal in the Elite Dangerous universe, active from 3302-12-06
   to 3303-10-06. Frequently linked with Bella Port, Irusan. The Candy Crew Guild is
   dominating the midpoint of the Kick The Alien Buckyball race, with Commander Nookie
@@ -16,6 +15,7 @@ bio: Candy Crew Guild is a criminal in the Elite Dangerous universe, active from
   announces plans to establish a capital shipyard and scientific research vessel in
   the Irusan system.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

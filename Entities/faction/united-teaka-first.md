@@ -8,12 +8,12 @@ mention_count: 1
 related_entities:
 - federation
 - empire
-inara_url: https://inara.cz/elite/minorfaction/?search=United%20Teaka%20First
 bio: United Teaka First is a organization in the Elite Dangerous universe, active
   from 3302-07-08 to 3302-07-08. Frequently linked with Federation, Empire. Retired
   General Alexander Lee of United Teaka First argued on Affairs of State that the
   Federation's presence at barnacle sites is strategic resource denial.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

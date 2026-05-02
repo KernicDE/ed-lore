@@ -11,11 +11,11 @@ related_entities:
 - independents-of-daramo
 - kumo-crew
 - daramo
-inara_url: https://inara.cz/elite/minorfaction/?search=Vaka%20Citizens%20of%20Tradition
 bio: 'Vaka Citizens of Tradition is a organization in the Elite Dangerous universe,
   active from 3302-06-23 to 3302-06-23. Frequently linked with Daramo, Kumo Crew,
   Independents of Daramo. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

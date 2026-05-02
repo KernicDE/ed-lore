@@ -11,13 +11,13 @@ related_entities:
 - church-of-eternal-void
 - spiritual-freedom-movement
 - hip-22460
-inara_url: https://inara.cz/elite/minorfaction/?search=Galactic%20Interfaith%20Commune
 bio: 'Galactic Interfaith Commune is a religious active in Elite Dangerous lore from
   3304-07-12 to 3308-09-26. Frequently associated with Far God cult, Federal Intelligence
   Agency. Key activities include: The Church of Eternal Void, which worships the Guardians,
   declares war on the Far God cult.; The FIA apprehends further Far God cult members
   to determine if they communicate with Thargoids.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

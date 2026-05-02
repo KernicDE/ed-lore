@@ -5,10 +5,10 @@ type: person
 first_seen_date: '3309-10-26'
 last_seen_date: '3309-11-01'
 mention_count: 3
-inara_url: https://inara.cz/elite/cmdr-search/?search=Ulrich%20Maurer
 bio: 'Ulrich Maurer is a prominent figure in the Elite Dangerous universe, active
   from 3309-10-26 to 3309-11-01. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

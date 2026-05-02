@@ -11,7 +11,6 @@ related_entities:
 - garden-city-gallery
 - inra
 - league-of-reparation
-inara_url: https://inara.cz/elite/minorfaction/?search=Garden%20City%20security
 bio: Garden City security is a organization in the Elite Dangerous universe, active
   from 3304-06-09 to 3304-06-10. Frequently linked with Alioth, Turner's World, Garden
   City Gallery. A valuable digital artwork titled Youscape is stolen from the Garden
@@ -19,6 +18,7 @@ bio: Garden City security is a organization in the Elite Dangerous universe, act
   vault surrounded by plasma grids, proximity alarms and thermal sensors, yet all
   security systems were disabled.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

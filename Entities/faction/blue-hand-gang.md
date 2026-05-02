@@ -11,7 +11,6 @@ related_entities:
 - joint-security-taskforce
 - nespeleve-system
 - imperial-counter-insurgency-unit
-inara_url: https://inara.cz/elite/minorfaction/?search=Blue%20Hand%20Gang
 bio: 'Blue Hand Gang is a criminal active in Elite Dangerous lore from 3302-02-25
   to 3302-03-24. Frequently associated with Wilkes Orbital, Orulas system. Key activities
   include: Governor Lawrence announces the successful conclusion of the Ceremonial
@@ -19,6 +18,7 @@ bio: 'Blue Hand Gang is a criminal active in Elite Dangerous lore from 3302-02-2
   Professor Ishmael Palin and his research team were among those rescued from the
   Blue Hand Gang in the O...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

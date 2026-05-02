@@ -11,7 +11,6 @@ related_entities:
 - maia-a-3-a
 - maia-b1ba
 - maia-system
-inara_url: https://inara.cz/elite/minorfaction/?search=Palin%20Institute
 bio: 'Palin Institute is a research active in Elite Dangerous lore from 3302-02-07
   to 3304-10-27. Frequently associated with Maia, Obsidian Orbital, Maia A 3 a. Key
   activities include: This article recounts the history of Thargoid contact from the
@@ -19,6 +18,7 @@ bio: 'Palin Institute is a research active in Elite Dangerous lore from 3302-02-
   of...; Reports of further unprovoked Thargoid attacks in the Pleiades have reached
   the core systems, targeting Imperial and civilian ships in HIP 17225, H...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

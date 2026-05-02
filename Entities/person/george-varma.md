@@ -5,7 +5,6 @@ type: person
 first_seen_date: '3304-05-25'
 last_seen_date: '3308-11-01'
 mention_count: 7
-inara_url: https://inara.cz/elite/cmdr-search/?search=George%20Varma
 bio: 'George Varma is a Admiral in Elite Dangerous lore, active from 3304-05-25 to
   3308-11-01. Affiliated with League of Reparation, Alliance. Notable activities include:
   Weekly summary covering Admiral Varma''s arrest, the Church of Eternal Void declaring
@@ -13,6 +12,7 @@ bio: 'George Varma is a Admiral in Elite Dangerous lore, active from 3304-05-25 
   covering Riri McAllister being unmasked as Nexus and framing Admiral Varma, the
   hunt for League strongholds in Zibal and Ienpalang, ...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

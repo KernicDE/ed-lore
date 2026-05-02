@@ -8,10 +8,10 @@ mention_count: 1
 related_entities:
 - universal-cartographics
 - eol-prou
-inara_url: https://inara.cz/elite/minorfaction/?search=Deep%20Recon%20X
 bio: 'Deep Recon X is a organization in the Elite Dangerous universe, active from
   3302-12-09 to 3302-12-09. Frequently linked with Eol Prou, Universal Cartographics. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

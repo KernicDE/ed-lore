@@ -11,12 +11,12 @@ related_entities:
 - facece
 - nehet
 - mictlan
-inara_url: https://inara.cz/elite/minorfaction/?search=Mictlan%20Cartel
 bio: Mictlan Cartel is a criminal in the Elite Dangerous universe, active from 3301-04-16
   to 3301-04-16. Frequently linked with Almad, Facece, LTT 9810. Simultaneously, pilots
   crushed the Mictlan Cartel, and inquisitors extracted information about a previously
   unknown underworld consultancy believed to be based near LTT 9810.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

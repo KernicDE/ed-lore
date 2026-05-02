@@ -11,7 +11,6 @@ related_entities:
 - crown-prospect
 - alliance
 - federal-security-service
-inara_url: https://inara.cz/elite/minorfaction/?search=Close%20Encounters%20Corps
 bio: Close Encounters Corps is a corporate in the Elite Dangerous universe, active
   from 3304-10-11 to 3304-10-20. Frequently linked with Kagutsuchi, BD-12 1172, Crown
   Prospect. The Close Encounters Corps announces plans to construct a scientific megaship
@@ -19,6 +18,7 @@ bio: Close Encounters Corps is a corporate in the Elite Dangerous universe, acti
   the surrounding nebula. The Close Encounters Corps announces the successful conclusion
   of its commodity appeal for scientific megaship construction.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

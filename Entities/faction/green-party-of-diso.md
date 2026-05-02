@@ -10,7 +10,6 @@ related_entities:
 - birmingham
 - alliance
 - shifnalport
-inara_url: https://inara.cz/elite/minorfaction/?search=Green%20Party%20of%20Diso
 bio: Green Party of Diso is a organization in the Elite Dangerous universe, active
   from 3301-05-08 to 3301-05-11. Frequently linked with Birmingham, Diso. The party
   placed orders for 15 million tonnes of machinery including Atmospheric Processors,
@@ -18,6 +17,7 @@ bio: Green Party of Diso is a organization in the Elite Dangerous universe, acti
   rejuvenation project for Birmingham succeeded spectacularly when 5,187 commanders
   delivered over 15 million tonnes of machinery in just 65 hours.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

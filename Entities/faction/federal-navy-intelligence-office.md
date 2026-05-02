@@ -11,11 +11,11 @@ related_entities:
 - galactic-interfaith-commune
 - spiritual-freedom-movement
 - mars
-inara_url: https://inara.cz/elite/minorfaction/?search=Federal%20Navy%20Intelligence%20Office
 bio: 'Federal Navy Intelligence Office is a naval in the Elite Dangerous universe,
   active from 3308-09-26 to 3308-09-26. Frequently linked with White House, HIP 22460,
   Galactic Interfaith Commune. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

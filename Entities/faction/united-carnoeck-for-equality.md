@@ -11,7 +11,6 @@ related_entities:
 - league-of-reparation
 - alliance-defence-force
 - council-of-admirals
-inara_url: https://inara.cz/elite/minorfaction/?search=United%20Carnoeck%20for%20Equality
 bio: 'United Carnoeck for Equality is a organization active in Elite Dangerous lore
   from 3301-10-08 to 3304-05-27. Frequently associated with Carnoeck, Bacon City,
   Alliance Defence Force. Key activities include: This week''s major stories include
@@ -20,6 +19,7 @@ bio: 'United Carnoeck for Equality is a organization active in Elite Dangerous l
   League of Reparation murders in Federation space, including two Pilots'' Federation
   members whose sh...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -5,12 +5,12 @@ type: person
 first_seen_date: '3301-07-24'
 last_seen_date: '3302-05-27'
 mention_count: 3
-inara_url: https://inara.cz/elite/cmdr-search/?search=Stateira%20Eleshenar
 bio: Stateira Eleshenar is a pilot in the Elite Dangerous universe, active from 3301-07-24
   to 3302-05-27. Closely associated with Interstellar Press, Imperial Navy, Kumo Crew.
   Commander Stateira Eleshenar of Patreus's forces stated the aim is to free all persons
   held in branded slavery by the Kumo Crew.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

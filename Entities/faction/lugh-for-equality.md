@@ -11,7 +11,6 @@ related_entities:
 - federal-navy
 - hartsfield-market
 - federal-congress
-inara_url: https://inara.cz/elite/minorfaction/?search=Lugh%20for%20Equality
 bio: 'Lugh for Equality is a organization active in Elite Dangerous lore from 3301-03-02
   to 3301-03-26. Frequently associated with Lugh, Crimson State Group, Federal Navy.
   Key activities include: The Crimson State Group and Sons of Conn captured Hartsfield
@@ -19,6 +18,7 @@ bio: 'Lugh for Equality is a organization active in Elite Dangerous lore from 33
   The Federal Navy''s strike on refugees and subsequent capture of Hartsfield Market
   caused mass confusion and defection among Federal pilots, with me...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

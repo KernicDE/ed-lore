@@ -11,13 +11,13 @@ related_entities:
 - green-enterprise
 - pilots-federation
 - maia
-inara_url: https://inara.cz/elite/minorfaction/?search=Sirius%20Inc
 bio: Sirius Inc is a organization in the Elite Dangerous universe, active from 3304-01-05
   to 3308-09-12. Frequently linked with 42 n Persei, Ngalia, Green Enterprise. Sirius
   Inc has announced plans to construct a flight-operations megaship named the Dionysus
   in the 42 n Persei system, a strategic position on the route to Maia. Sirius Inc
   has announced the successful conclusion of its construction initiative.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

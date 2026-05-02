@@ -10,7 +10,6 @@ related_entities:
 - federal-times
 - sol
 - zeta-trianguli-australis
-inara_url: https://inara.cz/elite/minorfaction/?search=Wallglass
 bio: Wallglass is a organization in the Elite Dangerous universe, active from 3309-08-28
   to 3309-09-18. Frequently linked with Wallglass Investigations Agency, Alliance.
   Erik Gunnarson and Francesca Wolfe, two detectives from The Wallglass Investigations
@@ -18,6 +17,7 @@ bio: Wallglass is a organization in the Elite Dangerous universe, active from 33
   being 'Calico Zack' and threatens legal action against Bryanna Blanco, while Blanco
   hires Wallglass to find irrefutable proof.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

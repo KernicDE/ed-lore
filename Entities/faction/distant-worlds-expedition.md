@@ -11,12 +11,12 @@ related_entities:
 - ceeckia-zq-l-c24-0
 - sol
 - federal-times
-inara_url: https://inara.cz/elite/minorfaction/?search=Distant%20Worlds%20Expedition
 bio: Distant Worlds Expedition is a organization in the Elite Dangerous universe,
   active from 3302-03-29 to 3302-06-17. Frequently linked with Beagle Point, Gliese
   1269, Ceeckia ZQ-L c24-0. The Distant Worlds Expedition announces that some members
   of the fleet have reached Beagle Point, approximately 65,000 light years from Sol.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

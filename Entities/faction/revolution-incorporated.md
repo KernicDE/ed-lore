@@ -11,7 +11,6 @@ related_entities:
 - alliance
 - emperors-dawn
 - federal-times
-inara_url: https://inara.cz/elite/minorfaction/?search=Revolution%20Incorporated
 bio: Revolution Incorporated is a corporate in the Elite Dangerous universe, active
   from 3301-11-05 to 3302-11-10. Frequently linked with London Relay, Epsilon Indi,
   Emperor's Dawn. Authorities at London Relay in Epsilon Indi report a dramatic spike
@@ -20,6 +19,7 @@ bio: Revolution Incorporated is a corporate in the Elite Dangerous universe, act
   has issued a threatening message to media outlets and social networks, calling true
   believers to Novas A 6 in the Novas system.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

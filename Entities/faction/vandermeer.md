@@ -11,11 +11,11 @@ related_entities:
 - jupiter-division
 - vox-galactica
 - advocacy
-inara_url: https://inara.cz/elite/minorfaction/?search=Vandermeer
 bio: 'Vandermeer is a organization in the Elite Dangerous universe, active from 3307-04-13
   to 3307-04-13. Frequently linked with Earth, Jupiter Division, Proactive Detection
   Bureau. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

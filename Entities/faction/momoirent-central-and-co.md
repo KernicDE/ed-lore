@@ -9,11 +9,11 @@ related_entities:
 - aegis
 - momoirent
 - jahn-dock
-inara_url: https://inara.cz/elite/minorfaction/?search=Momoirent%20Central%20and%20Co
 bio: 'Momoirent Central and Co is a organization in the Elite Dangerous universe,
   active from 3304-02-16 to 3304-02-16. Frequently linked with Momoirent, Jahn Dock,
   Aegis. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

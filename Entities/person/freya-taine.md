@@ -5,10 +5,10 @@ type: person
 first_seen_date: '3305-04-29'
 last_seen_date: '3305-05-30'
 mention_count: 5
-inara_url: https://inara.cz/elite/cmdr-search/?search=Freya%20Taine
 bio: Freya Taine is a pilot in the Elite Dangerous universe, active from 3305-04-29
   to 3305-05-30. Closely associated with Zende Partners, Segnen Exchange.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

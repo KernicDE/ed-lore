@@ -5,7 +5,6 @@ type: person
 first_seen_date: '3301-07-19'
 last_seen_date: '3301-07-31'
 mention_count: 2
-inara_url: https://inara.cz/elite/cmdr-search/?search=King%20Justice%20II
 bio: King Justice II is a prominent figure in the Elite Dangerous universe, active
   from 3301-07-19 to 3301-07-31. Closely associated with Federal Intelligence Agency,
   Justice Party. No official statement was made, but speculation centres on his close
@@ -14,6 +13,7 @@ bio: King Justice II is a prominent figure in the Elite Dangerous universe, acti
   support from local leaders King Justice II and Supreme Leader Anxo Lino, causing
   a dramatic decrease in Federation popularity in the sector.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

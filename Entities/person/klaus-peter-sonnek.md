@@ -5,10 +5,10 @@ type: person
 first_seen_date: '3308-11-29'
 last_seen_date: '3308-11-29'
 mention_count: 1
-inara_url: https://inara.cz/elite/cmdr-search/?search=Klaus-Peter%20Sonnek
 bio: 'Klaus-Peter Sonnek is a pilot in the Elite Dangerous universe, active from 3308-11-29
   to 3308-11-29. Closely associated with Sirius Corporation. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

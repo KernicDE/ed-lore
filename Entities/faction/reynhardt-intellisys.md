@@ -11,7 +11,6 @@ related_entities:
 - godel-ring
 - utopixx-entertainment
 - sol
-inara_url: https://inara.cz/elite/minorfaction/?search=Reynhardt%20IntelliSys
 bio: Reynhardt IntelliSys is a organization in the Elite Dangerous universe, active
   from 3301-03-27 to 3301-03-27. Frequently linked with Pilots Federation, NVIDIA,
   Godel Ring. Utopixx Entertainment, a subsidiary of Reynhardt Intellisys, posted
@@ -20,6 +19,7 @@ bio: Reynhardt IntelliSys is a organization in the Elite Dangerous universe, act
   announced that prototypes of the GeForce GTX Titan Black graphics card are available
   from one exclusive outlet.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

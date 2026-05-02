@@ -11,7 +11,6 @@ related_entities:
 - aegis
 - alliance
 - atlas-corporation
-inara_url: https://inara.cz/elite/minorfaction/?search=Privateer%27s%20Alliance
 bio: Privateer's Alliance is a organization in the Elite Dangerous universe, active
   from 3304-04-06 to 3304-04-15. Frequently linked with HIP 33368, Barjavel Station,
   Lambda Arae. The Privateer's Alliance has announced plans to build a military installation
@@ -19,6 +18,7 @@ bio: Privateer's Alliance is a organization in the Elite Dangerous universe, act
   The Privateer’s Alliance has announced the successful conclusion of its commodities
   appeal, with a massive influx of deliveries to Barjavel Station.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

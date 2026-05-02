@@ -10,11 +10,11 @@ related_entities:
 - maia
 - obsidian-orbital
 - pleiades-nebula
-inara_url: https://inara.cz/elite/minorfaction/?search=Xenological%20Research%20Institute
 bio: 'Xenological Research Institute is a research in the Elite Dangerous universe,
   active from 3302-01-22 to 3302-01-22. Frequently linked with Pleiades Nebula, Obsidian
   Orbital, Interstellar Press. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

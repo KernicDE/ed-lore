@@ -9,7 +9,6 @@ related_entities:
 - hand-gang-of-gandii
 - gandii
 - lu-hub
-inara_url: https://inara.cz/elite/minorfaction/?search=Gandii%20Justice%20Party
 bio: Gandii Justice Party is a organization in the Elite Dangerous universe, active
   from 3303-04-06 to 3303-04-14. Frequently linked with Hand Gang of Gandii, Gandii,
   Lu Hub. Conflict has erupted in the Gandii system between the Hand Gang of Gandii
@@ -17,6 +16,7 @@ bio: Gandii Justice Party is a organization in the Elite Dangerous universe, act
   pilots. The Gandii Justice Party has defeated the Hand Gang of Gandii in the Gandii
   system after a period of intense conflict.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

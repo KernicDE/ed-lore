@@ -5,12 +5,12 @@ type: person
 first_seen_date: '3301-02-16'
 last_seen_date: '3301-02-25'
 mention_count: 2
-inara_url: https://inara.cz/elite/cmdr-search/?search=Hank%20Stone
 bio: Hank Stone is a prominent figure in the Elite Dangerous universe, active from
   3301-02-16 to 3301-02-25. A metal rush has begun in LAWD 26 after the discovery
   of a pristine mining site by the late prospector Hank Stone. Raw gold from Stone's
   discovery was found aboard his abandoned Sidewinder at Crook's Hub in Toolfa.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

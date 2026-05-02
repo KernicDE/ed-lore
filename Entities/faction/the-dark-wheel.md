@@ -11,12 +11,12 @@ related_entities:
 - capitol
 - prism
 - avalon-shipyards
-inara_url: https://inara.cz/elite/minorfaction/?search=The%20Dark%20Wheel
 bio: The Dark Wheel is a organization in the Elite Dangerous universe, active from
   3301-07-21 to 3301-07-21. Frequently linked with Avalon shipyards, Prism. Her Imperial
   tiara and a medallion bearing the word 'Salomé' and a symbol believed to belong
   to 'The Dark Wheel' were left in the cockpit.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

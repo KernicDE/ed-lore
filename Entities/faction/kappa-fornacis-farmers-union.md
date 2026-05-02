@@ -11,13 +11,13 @@ related_entities:
 - harvestport
 - tanmark-defence-force
 - tanmark
-inara_url: https://inara.cz/elite/minorfaction/?search=Kappa%20Fornacis%20Farmers%20Union
 bio: Kappa Fornacis Farmers Union is a organization in the Elite Dangerous universe,
   active from 3301-03-19 to 3301-06-18. Frequently linked with Kappa Fornacis, Panem,
   Harvestport. The Kappa Fornacis Farmers Union resumed Onionhead sales in ports around
   Panem. Thousands of traders have returned to Kappa Fornacis after Onionhead became
   available again on Harvestport.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

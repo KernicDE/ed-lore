@@ -11,7 +11,6 @@ related_entities:
 - imperial-senate
 - nmla
 - orion-university
-inara_url: https://inara.cz/elite/minorfaction/?search=Torval%20Mining%20Ltd
 bio: Torval Mining Ltd is a organization in the Elite Dangerous universe, active from
   3307-10-08 to 3307-12-31. Frequently linked with Mastopolos Mining. Historian Sima
   Kalhana concludes her 3307 review, covering the Yuri Grom honey trap, Torval family
@@ -19,6 +18,7 @@ bio: Torval Mining Ltd is a organization in the Elite Dangerous universe, active
   Mining officially rebrands as Torval Mining Ltd, becoming fully independent from
   Mastopolos Mining with Zemina Torval as CEO.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

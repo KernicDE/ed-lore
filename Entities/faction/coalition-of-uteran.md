@@ -11,13 +11,13 @@ related_entities:
 - gluscap-labour
 - lp-726-6-free
 - azaladshu
-inara_url: https://inara.cz/elite/minorfaction/?search=Coalition%20of%20Uteran
 bio: 'Coalition of Uteran is a organization active in Elite Dangerous lore from 3307-06-29
   to 3307-07-30. Frequently associated with Azaladshu Free, Gluscap Labour, Federal
   Congress. Key activities include: The Azaladshu Free faction secedes from the Federation,
   declaring its four systems independent in protest against surveillance laws.; Azaladshu
   Free defeats Neche Inc and retains independence from the Federation.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

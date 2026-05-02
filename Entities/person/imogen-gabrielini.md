@@ -5,10 +5,10 @@ type: person
 first_seen_date: '3306-09-21'
 last_seen_date: '3306-09-21'
 mention_count: 1
-inara_url: https://inara.cz/elite/cmdr-search/?search=Imogen%20Gabrielini
 bio: 'Imogen Gabrielini is a prominent figure in the Elite Dangerous universe, active
   from 3306-09-21 to 3306-09-21. Closely associated with Imperial Herald. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

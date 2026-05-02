@@ -11,7 +11,6 @@ related_entities:
 - archambault-terminal
 - federal-times
 - zlota-federal-holdings
-inara_url: https://inara.cz/elite/minorfaction/?search=Children%20of%20Tothos
 bio: 'Children of Tothos is a organization active in Elite Dangerous lore from 3304-12-06
   to 3305-04-11. Frequently associated with Federal Intelligence Agency, Zlota, Archambault
   Terminal. Key activities include: The Federal Intelligence Agency reveals that the
@@ -20,6 +19,7 @@ bio: 'Children of Tothos is a organization active in Elite Dangerous lore from 3
   in the Chun Tstar system, threatening to detonate the Lucifer Device and forcing
   the F...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

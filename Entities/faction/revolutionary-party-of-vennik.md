@@ -9,7 +9,6 @@ related_entities:
 - vennik-system
 - vennik-1
 - nixon-enterprise
-inara_url: https://inara.cz/elite/minorfaction/?search=Revolutionary%20Party%20of%20Vennik
 bio: Revolutionary Party of Vennik is a organization in the Elite Dangerous universe,
   active from 3302-03-17 to 3302-03-31. Frequently linked with Vennik system, Vennik
   1, Nixon Enterprise. The Revolutionary Party of Vennik enters the final stage of
@@ -17,6 +16,7 @@ bio: Revolutionary Party of Vennik is a organization in the Elite Dangerous univ
   extends its terraforming campaign for Vennik 1 by one week due to insufficient supplies
   of land-enrichment systems in nearby systems.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

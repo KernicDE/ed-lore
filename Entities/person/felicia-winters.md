@@ -11,7 +11,6 @@ related_entities:
 - alliance
 - federal-navy
 - hip-87621
-inara_url: https://inara.cz/elite/cmdr-search/?search=Felicia%20Winters
 bio: Felicia Winters is a president in the Elite Dangerous universe, active from 3312-02-20
   to 3312-02-20. Closely associated with Federal Congress, Federal Navy. Secretary
   of State Felicia Winters assumed the role of Acting President after contact was
@@ -19,6 +18,7 @@ bio: Felicia Winters is a president in the Elite Dangerous universe, active from
   announced she would serve as Acting President to maintain the chain of command during
   the crisis.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

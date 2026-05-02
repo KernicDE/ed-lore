@@ -11,11 +11,11 @@ related_entities:
 - federal-navy
 - popontia
 - ryman-market
-inara_url: https://inara.cz/elite/minorfaction/?search=Popontia%20Incorporated
 bio: 'Popontia Incorporated is a corporate in the Elite Dangerous universe, active
   from 3308-09-29 to 3308-09-29. Frequently linked with Ryman Market, Popontia, Federal
   Navy. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

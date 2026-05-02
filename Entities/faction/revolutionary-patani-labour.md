@@ -9,13 +9,13 @@ related_entities:
 - yum-kamcabi-purple-life-industry
 - yum-kamcabi
 - dirichlet-orbital
-inara_url: https://inara.cz/elite/minorfaction/?search=Revolutionary%20Patani%20Labour
 bio: Revolutionary Patani Labour is a organization in the Elite Dangerous universe,
   active from 3303-03-30 to 3303-03-30. Frequently linked with Yum Kamcabi Purple
   Life Industry, Yum Kamcabi, Dirichlet Orbital. The Yum Kamcabi Purple Life Industry
   pledged rewards for delivery of supplies, while the Revolutionary Patani Labour
   placed kill orders on wanted ships.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -11,7 +11,6 @@ related_entities:
 - federal-security-service
 - sol
 - alliance
-inara_url: https://inara.cz/elite/minorfaction/?search=Mars%20Tribune
 bio: 'Mars Tribune is a organization active in Elite Dangerous lore from 3301-06-09
   to 3304-11-24. Frequently associated with Mars, Cordova Group, Federal Security
   Service. Key activities include: Weekly summary covering the Alliance Assembly''s
@@ -20,6 +19,7 @@ bio: 'Mars Tribune is a organization active in Elite Dangerous lore from 3301-06
   President, the foiled raid on Ram Tah''s Phoenix Base, the FSS targeting The Mars
   T...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

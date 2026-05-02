@@ -11,12 +11,12 @@ related_entities:
 - arrhenius-terminal
 - bard
 - algol-system
-inara_url: https://inara.cz/elite/minorfaction/?search=Jeffress%20treasure%20hunt%20organisers
 bio: Jeffress treasure hunt organisers is a organization in the Elite Dangerous universe,
   active from 3302-03-29 to 3302-03-29. Frequently linked with Persephone, Algol system,
   Arrhenius Terminal. Alfred Jeffress's treasure hunt concludes with Commander Oriza
   claiming victory. Jeffress promises another treasure hunt in the future.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

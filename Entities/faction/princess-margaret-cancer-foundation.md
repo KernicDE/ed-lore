@@ -9,11 +9,11 @@ related_entities:
 - imperial-inquisition
 - brestla
 - roed-oodergaard-port
-inara_url: https://inara.cz/elite/minorfaction/?search=Princess%20Margaret%20Cancer%20Foundation
 bio: 'Princess Margaret Cancer Foundation is a organization in the Elite Dangerous
   universe, active from 3301-11-06 to 3301-11-06. Frequently linked with Brestla,
   Imperial Inquisition, Roed Oodergaard Port. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

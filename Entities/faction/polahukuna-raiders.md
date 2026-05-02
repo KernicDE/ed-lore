@@ -11,7 +11,6 @@ related_entities:
 - banki
 - polahukuna
 - imperial-senate
-inara_url: https://inara.cz/elite/minorfaction/?search=Polahukuna%20Raiders
 bio: Polahukuna Raiders is a organization in the Elite Dangerous universe, active
   from 3301-02-20 to 3301-02-28. Frequently linked with Federal Navy, BD+03 2338,
   Polahukuna. Following Federal success in routing rebels from Banki and BD+03 2338,
@@ -20,6 +19,7 @@ bio: Polahukuna Raiders is a organization in the Elite Dangerous universe, activ
   its laws or brainwash its people, and that the Polahukuna Raiders must learn their
   actions have consequences.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

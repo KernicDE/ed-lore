@@ -8,10 +8,10 @@ mention_count: 2
 related_entities:
 - fortunes-corsairs
 - chamas
-inara_url: https://inara.cz/elite/minorfaction/?search=Chamash%20Foods
 bio: 'Chamash Foods is a organization in the Elite Dangerous universe, active from
   3305-08-15 to 3305-08-22. Frequently linked with Chamas, Fortunes Corsairs. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

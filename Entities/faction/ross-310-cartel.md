@@ -11,13 +11,13 @@ related_entities:
 - aegis
 - pilots-federation
 - eg-union
-inara_url: https://inara.cz/elite/minorfaction/?search=Ross%20310%20Cartel
 bio: Ross 310 Cartel is a criminal in the Elite Dangerous universe, active from 3304-03-30
   to 3304-04-07. Frequently linked with Ross 310, Ross 310 Natural Services, Aegis.
   Conflict erupted in Ross 310 between Ross 310 Natural Services and the Ross 310
   Cartel. The EG Union successfully concluded its campaign to build a shipyard in
   Ross 720.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

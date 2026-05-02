@@ -5,7 +5,6 @@ type: person
 first_seen_date: '3302-07-11'
 last_seen_date: '3302-07-11'
 mention_count: 1
-inara_url: https://inara.cz/elite/cmdr-search/?search=Commander%20Kyrthak
 bio: Commander Kyrthak is a commander in the Elite Dangerous universe, active from
   3302-07-11 to 3302-07-11. Closely associated with Future of Segovan, Federal Security
   Service, Taskforce Athena. A coalition of Empire-aligned commanders known as Taskforce
@@ -13,6 +12,7 @@ bio: Commander Kyrthak is a commander in the Elite Dangerous universe, active fr
   lockdown. Commander Kyrthak stated the group is combating Federal security services
   to halt construction of new Federal outposts.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -5,7 +5,6 @@ type: person
 first_seen_date: '3304-11-14'
 last_seen_date: '3307-12-02'
 mention_count: 5
-inara_url: https://inara.cz/elite/cmdr-search/?search=Kaeso%20Mordanticus
 bio: Kaeso Mordanticus is a admiral in the Elite Dangerous universe, active from 3304-11-14
   to 3307-12-02. Closely associated with Nova Imperium, Imperial Navy, Imperial Internal
   Security Service. The report identifies the Imperator as Duke Kaeso Mordanticus,
@@ -13,6 +12,7 @@ bio: Kaeso Mordanticus is a admiral in the Elite Dangerous universe, active from
   maintains contacts and influence in the Imperial Navy, with Nova Imperium ships
   mostly crewed by ex-naval personnel loyal to their former commander.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -11,10 +11,10 @@ related_entities:
 - charunder
 - ennead
 - ltt-3607
-inara_url: https://inara.cz/elite/minorfaction/?search=Fionn%20Liberals
 bio: 'Fionn Liberals is a organization in the Elite Dangerous universe, active from
   3306-10-22 to 3306-10-29. Frequently linked with LTT 3607, Charunder, Ennead. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

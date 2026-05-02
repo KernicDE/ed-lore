@@ -8,13 +8,13 @@ mention_count: 2
 related_entities:
 - slinks-eye
 - kelleam-ring
-inara_url: https://inara.cz/elite/minorfaction/?search=Revolutionary%20Slink%27s%20Eye%20Liberals
 bio: Revolutionary Slink's Eye Liberals is a organization in the Elite Dangerous universe,
   active from 3302-10-06 to 3302-10-13. Frequently linked with Slink's Eye, Kelleam
   Ring. Security forces in the Slink's Eye system reported a dramatic upswing in pirate
   activity. The Revolutionary Slink's Eye Liberals placed a kill order on wanted ships
   and requested deliveries of reactive armour to Kelleam Ring to bolster security.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

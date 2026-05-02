@@ -9,12 +9,12 @@ related_entities:
 - federal-state-police
 - beta-hydri
 - jacksons-lighthouse
-inara_url: https://inara.cz/elite/minorfaction/?search=Judas%20Syndicate
 bio: Judas Syndicate is a criminal in the Elite Dangerous universe, active from 3301-08-10
   to 3301-08-10. Frequently linked with Jackson’s Lighthouse, Beta Hydri, Federal
   State Police. After she and her partner were imprisoned by the Judas Syndicate on
   the Black Mausoleum, her partner was executed and the killers escaped justice.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

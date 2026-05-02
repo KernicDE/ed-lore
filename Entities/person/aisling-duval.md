@@ -5,7 +5,6 @@ type: person
 first_seen_date: '3301-02-24'
 last_seen_date: '3311-07-17'
 mention_count: 146
-inara_url: https://inara.cz/elite/cmdr-search/?search=Aisling%20Duval
 bio: 'Aisling Duval is a Emperor in Elite Dangerous lore, active from 3301-02-24 to
   3311-07-17. Affiliated with Alliance. Notable activities include: Princess Aisling
   Duval revealed that some of Chancellor Anders Blaine''s advisors had connections
@@ -13,6 +12,7 @@ bio: 'Aisling Duval is a Emperor in Elite Dangerous lore, active from 3301-02-24
   and IISS arrested several members of Chancellor Anders Blaine''s staff for conducting
   a slander campaign against Prince...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

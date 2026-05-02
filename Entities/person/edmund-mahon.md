@@ -7,7 +7,6 @@ last_seen_date: '3306-11-09'
 mention_count: 1
 related_entities:
 - alliance
-inara_url: https://inara.cz/elite/cmdr-search/?search=Edmund%20Mahon
 bio: Edmund Mahon is a president in the Elite Dangerous universe, active from 3306-11-09
   to 3306-11-09. Closely associated with Alliance, Sirius Corporation. Emperor Arissa
   Lavigny-Duval urges caution, President Zachary Hudson calls for preparedness, and
@@ -15,6 +14,7 @@ bio: Edmund Mahon is a president in the Elite Dangerous universe, active from 33
   of further INRA outposts, Emperor Arissa Lavigny-Duval and Alliance Prime Minister
   Edmund Mahon have denounced the now-defunct INRA.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

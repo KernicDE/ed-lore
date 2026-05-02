@@ -5,7 +5,6 @@ type: person
 first_seen_date: '3303-12-01'
 last_seen_date: '3303-12-08'
 mention_count: 2
-inara_url: https://inara.cz/elite/cmdr-search/?search=Autumn%20Leif
 bio: Autumn Leif is a pilot in the Elite Dangerous universe, active from 3303-12-01
   to 3303-12-08. Closely associated with Rogue Runners, Rogue Security. The Rogue
   Runners, an independent group based in the Run system, have announced plans to restore
@@ -13,6 +12,7 @@ bio: Autumn Leif is a pilot in the Elite Dangerous universe, active from 3303-12
   to reinforce the superstructure with meta-alloys to make it resistant to Thargoid
   Sensor effects.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

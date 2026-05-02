@@ -10,12 +10,12 @@ related_entities:
 - pilots-federation
 - duduseklis-empire-league
 - ackwada
-inara_url: https://inara.cz/elite/minorfaction/?search=Regulatory%20State%20of%20Ackwada
 bio: Regulatory State of Ackwada is a organization in the Elite Dangerous universe,
   active from 3306-10-08 to 3306-10-14. Frequently linked with Pilots Federation,
   Imperial Internal Security Service, Ackwada. The Empire targets the Duduseklis Empire
   League in Ackwada, suspecting it of NMLA recruitment.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

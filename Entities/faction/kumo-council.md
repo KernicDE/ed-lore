@@ -11,13 +11,13 @@ related_entities:
 - harma
 - pegasi-sector-pn-t-c3-14
 - pegasi-sentinel
-inara_url: https://inara.cz/elite/minorfaction/?search=Kumo%20Council
 bio: 'Kumo Council is a government active in Elite Dangerous lore from 3307-04-15
   to 3311-06-12. Frequently associated with Pilots Federation, Pegasi Sector PN-T
   c3-14, Kumo Crew. Key activities include: The Kumo Crew syndicate launches a campaign
   to construct up to five new Orbis starports in uninhabited systems near key trading
   regions.; The Kumo Crew''s starport construction campaign concludes successfully.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

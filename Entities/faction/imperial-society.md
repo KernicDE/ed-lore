@@ -11,12 +11,12 @@ related_entities:
 - cemiess
 - mackenzie-relay
 - synteini
-inara_url: https://inara.cz/elite/minorfaction/?search=Imperial%20Society
 bio: Imperial Society is a organization in the Elite Dangerous universe, active from
   3301-04-01 to 3301-04-01. Frequently linked with Empire Party, Lagerkvist Gateway,
   Cemiess. If Aisling wins, Torval will free slaves brought to her training centres;
   if Torval wins, Aisling must take on personal Imperial Slaves for one year.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

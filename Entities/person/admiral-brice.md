@@ -5,10 +5,10 @@ type: person
 first_seen_date: '3301-05-06'
 last_seen_date: '3301-05-06'
 mention_count: 1
-inara_url: https://inara.cz/elite/cmdr-search/?search=Admiral%20Brice
 bio: 'Admiral Brice is a senator in the Elite Dangerous universe, active from 3301-05-06
   to 3301-05-06. Closely associated with Alliance. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

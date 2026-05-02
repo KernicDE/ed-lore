@@ -11,13 +11,13 @@ related_entities:
 - coalition-of-uteran
 - lp-726-6-free
 - gluscap-labour
-inara_url: https://inara.cz/elite/minorfaction/?search=Neche%20Inc
 bio: Neche Inc is a organization in the Elite Dangerous universe, active from 3307-07-01
   to 3307-07-08. Frequently linked with LTT 3919, Gluscap Labour, Pilots Federation.
   Azaladshu Free defeats Neche Inc and retains independence from the Federation. Conflict
   erupts between Azaladshu Free and Neche Inc as multiple Federal systems declare
   independence.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -7,7 +7,6 @@ last_seen_date: '3305-06-20'
 mention_count: 2
 related_entities:
 - shana-bei
-inara_url: https://inara.cz/elite/minorfaction/?search=Evangeline%27s%20Elite%20Expeditionary%20Force
 bio: Evangeline's Elite Expeditionary Force is a organization in the Elite Dangerous
   universe, active from 3305-06-13 to 3305-06-20. Frequently linked with Shana Bei.
   Evangeline's Elite Expeditionary Force requests superconductors, computer components
@@ -16,6 +15,7 @@ bio: Evangeline's Elite Expeditionary Force is a organization in the Elite Dange
   construction of the megaship EFS Archangel in the Shana Bei system following pilot-supported
   material deliveries.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

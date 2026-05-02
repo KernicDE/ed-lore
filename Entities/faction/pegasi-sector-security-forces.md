@@ -11,12 +11,12 @@ related_entities:
 - atlas-corporation
 - privateers-alliance
 - sol
-inara_url: https://inara.cz/elite/minorfaction/?search=Pegasi%20Sector%20security%20forces
 bio: Pegasi Sector security forces is a organization in the Elite Dangerous universe,
   active from 3304-04-15 to 3304-04-15. Frequently linked with Lambda Arae, Redi Market,
   Alliance. A report suggests piracy has declined since the Thargoids' return, though
   Pegasi Sector security forces dispute this.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

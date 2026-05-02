@@ -11,7 +11,6 @@ related_entities:
 - alliance
 - federal-security-service
 - herculean-machines
-inara_url: https://inara.cz/elite/minorfaction/?search=Mould%20Federal%20Mining%20Incorporated
 bio: Mould Federal Mining Incorporated is a corporate in the Elite Dangerous universe,
   active from 3304-09-27 to 3304-10-06. Frequently linked with Bhagui, Leavitt Port,
   Herculean Machines. Local suppliers cannot meet demand, so Mould Federal Mining
@@ -19,6 +18,7 @@ bio: Mould Federal Mining Incorporated is a corporate in the Elite Dangerous uni
   confirms its commodity appeal for a Bhagui Oktoberfest celebration has been enthusiastically
   received.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

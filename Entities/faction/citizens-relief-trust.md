@@ -11,7 +11,6 @@ related_entities:
 - cemiess
 - mackenzie-relay
 - emerald
-inara_url: https://inara.cz/elite/minorfaction/?search=Citizens%27%20Relief%20Trust
 bio: Citizens' Relief Trust is a organization in the Elite Dangerous universe, active
   from 3308-09-22 to 3308-09-29. Frequently linked with Cemiess, Pilots Federation,
   Emerald. Princess Aisling Duval launches a fundraiser in Cemiess, requesting rare
@@ -20,6 +19,7 @@ bio: Citizens' Relief Trust is a organization in the Elite Dangerous universe, a
   successfully procures rare luxury items for Princess Aisling's charity gala, with
   contributing pilots now able to collect payment and rewards.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

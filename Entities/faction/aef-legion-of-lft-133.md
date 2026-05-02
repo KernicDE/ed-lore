@@ -8,13 +8,13 @@ mention_count: 2
 related_entities:
 - lft-133
 - sullivan-dock
-inara_url: https://inara.cz/elite/minorfaction/?search=AEF%20Legion%20of%20LFT%20133
 bio: AEF Legion of LFT 133 is a organization in the Elite Dangerous universe, active
   from 3302-09-01 to 3302-09-08. Frequently linked with Sullivan Dock, LFT 133. The
   AEF Legion of LFT 133 has issued an appeal for gold deliveries to Sullivan Dock
   and placed a kill order on wanted ships operating in the LFT 133 system to protect
   traders.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

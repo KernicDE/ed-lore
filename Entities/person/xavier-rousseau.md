@@ -5,10 +5,10 @@ type: person
 first_seen_date: '3309-06-09'
 last_seen_date: '3309-06-09'
 mention_count: 1
-inara_url: https://inara.cz/elite/cmdr-search/?search=Xavier%20Rousseau
 bio: 'Xavier Rousseau is a prominent figure in the Elite Dangerous universe, active
   from 3309-06-09 to 3309-06-09. Closely associated with Azimuth Biotech. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

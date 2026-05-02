@@ -11,7 +11,6 @@ related_entities:
 - hel
 - adles-armada
 - labour-party-of-caill-reddi
-inara_url: https://inara.cz/elite/minorfaction/?search=Hammer%20Arms
 bio: Hammer Arms is a organization in the Elite Dangerous universe, active from 3301-07-08
   to 3301-07-24. Frequently linked with Emperor's Grace, Cosmic State, Hel. Hammer
   Arms of Cosmic State reached an unprecedented agreement with Emperor's Grace, the
@@ -19,6 +18,7 @@ bio: Hammer Arms is a organization in the Elite Dangerous universe, active from 
   a Federally aligned militia, responded to reports of an illegal arms deal between
   Cosmic State's Hammer Arms and Emperor's Grace.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

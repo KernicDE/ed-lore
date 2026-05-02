@@ -11,7 +11,6 @@ related_entities:
 - tenche
 - nagasairu
 - brewer-corporation
-inara_url: https://inara.cz/elite/minorfaction/?search=Steel%20Castle%20Inc
 bio: Steel Castle Inc is a organization in the Elite Dangerous universe, active from
   3306-09-11 to 3306-09-21. Frequently linked with Kavanagh Spaceframes Ltd, Tenche,
   Nagasairu. Brewer Corporation partners with Kavanagh Spaceframes Ltd and Steel Castle
@@ -19,6 +18,7 @@ bio: Steel Castle Inc is a organization in the Elite Dangerous universe, active 
   access for large ships. Kavanagh Spaceframes and Steel Castle Inc request commodity
   deliveries to convert refinery outposts into starports across ten systems.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -5,7 +5,6 @@ type: person
 first_seen_date: '3304-07-05'
 last_seen_date: '3304-11-17'
 mention_count: 8
-inara_url: https://inara.cz/elite/cmdr-search/?search=Olav%20Redcourt
 bio: 'Olav Redcourt is a Emperor in Elite Dangerous lore, active from 3304-07-05 to
   3304-11-17. Affiliated with Bonespire Publishing, Alliance. Notable activities include:
   Weekly summary covering the foiled assassination attempt on Aisling Duval, Riri
@@ -13,6 +12,7 @@ bio: 'Olav Redcourt is a Emperor in Elite Dangerous lore, active from 3304-07-05
   covering the mercenary incursion against Ram Tah''s Phoenix Base in Meene, the FSS
   suspension of Lieutenant Inspector Ramesh Thorne, ...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

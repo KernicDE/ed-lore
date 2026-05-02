@@ -9,13 +9,13 @@ related_entities:
 - palin-institute
 - maia
 - obsidian-orbital
-inara_url: https://inara.cz/elite/minorfaction/?search=Ryder%20Revolutionary%20Party
 bio: Ryder Revolutionary Party is a organization in the Elite Dangerous universe,
   active from 3304-10-18 to 3304-10-18. Frequently linked with Palin Institute, Obsidian
   Orbital, Maia. The Ryder Revolutionary Party places an open order for Thargoid materials
   to be delivered to Obsidian Orbital in the Maia system, with a kill order protecting
   contributors.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

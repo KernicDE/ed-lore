@@ -8,7 +8,6 @@ mention_count: 2
 related_entities:
 - kaal
 - vercors-station
-inara_url: https://inara.cz/elite/minorfaction/?search=Kuk%20Silver%20Fortune%20Company
 bio: Kuk Silver Fortune Company is a corporate in the Elite Dangerous universe, active
   from 3303-08-18 to 3303-08-25. Frequently linked with Vercors Station, Kaal. The
   Kuk Silver Fortune Company has issued a kill order on wanted ships and promised
@@ -16,6 +15,7 @@ bio: Kuk Silver Fortune Company is a corporate in the Elite Dangerous universe, 
   Company announces the successful conclusion of its campaign to clear the Kaal system
   of agitators.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

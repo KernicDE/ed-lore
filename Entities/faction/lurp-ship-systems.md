@@ -11,11 +11,11 @@ related_entities:
 - jick-nackson-enterprises
 - long-embedded-systems
 - pilots-federation
-inara_url: https://inara.cz/elite/minorfaction/?search=LURP%20Ship%20Systems
 bio: 'LURP Ship Systems is a organization in the Elite Dangerous universe, active
   from 3308-09-30 to 3308-09-30. Frequently linked with Pilots Federation, Universal
   Cartographics, Auger Vision. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -9,11 +9,11 @@ related_entities:
 - alliance
 - pilots-federation
 - pilots-federation-safety-board
-inara_url: https://inara.cz/elite/minorfaction/?search=Alliance%20News%20Network
 bio: 'Alliance News Network is a media in the Elite Dangerous universe, active from
   3301-10-19 to 3301-10-19. Frequently linked with Pilots Federation, Alliance, Pilots
   Federation Safety Board. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

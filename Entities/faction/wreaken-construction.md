@@ -10,7 +10,6 @@ related_entities:
 - torval-mastopolos-mining
 - zearla
 - col-70-sector
-inara_url: https://inara.cz/elite/minorfaction/?search=Wreaken%20Construction
 bio: 'Wreaken Construction is a organization active in Elite Dangerous lore from 3302-11-18
   to 3307-08-26. Frequently associated with Torval-Mastopolos Mining, Mastopolos Mining.
   Key activities include: Wreaken Construction has assembled a large convoy of heavy
@@ -18,6 +17,7 @@ bio: 'Wreaken Construction is a organization active in Elite Dangerous lore from
   is found dead from radiation exposure at a Wreaken Construction site in the COL
   70 sector.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

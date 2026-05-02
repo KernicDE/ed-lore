@@ -11,12 +11,12 @@ related_entities:
 - league-of-zearla
 - zearla
 - sirsir
-inara_url: https://inara.cz/elite/minorfaction/?search=Sirsir%20Co
 bio: Sirsir Co is a organization in the Elite Dangerous universe, active from 3305-01-03
   to 3305-01-10. Frequently linked with Federal Navy, League of Zearla, Sirsir. The
   League of Zearla and Sirsir Co run parallel military supply campaigns for the Federal
   and Imperial navies respectively, delivering battle weapons, armour and supplies.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

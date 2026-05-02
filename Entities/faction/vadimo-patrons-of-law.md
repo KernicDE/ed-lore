@@ -11,13 +11,13 @@ related_entities:
 - inra
 - imperial-internal-security-service
 - utopia
-inara_url: https://inara.cz/elite/minorfaction/?search=Vadimo%20Patrons%20of%20Law
 bio: Vadimo Patrons of Law is a organization in the Elite Dangerous universe, active
   from 3304-04-27 to 3304-05-04. Frequently linked with Vadimo, Sikorsky Station,
   Imperial Internal Security Service. The Vadimo Patrons of Law announced an elaborate
   soirée in Vadimo. The Vadimo Patrons of Law, an Imperial organisation based in Vadimo,
   has announced plans to host an elaborate soirée.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -11,7 +11,6 @@ related_entities:
 - tanmark
 - cassie-l-peia
 - independent-autahenetsi-labour-party
-inara_url: https://inara.cz/elite/minorfaction/?search=Farmers%20Union%20of%20Kappa%20Fornacis
 bio: Farmers Union of Kappa Fornacis is a organization in the Elite Dangerous universe,
   active from 3301-02-24 to 3301-05-24. Frequently linked with Kappa Fornacis, Defence
   Force of Tanmark, Tanmark. The Defence Force of Tanmark and the Farmers Union of
@@ -20,6 +19,7 @@ bio: Farmers Union of Kappa Fornacis is a organization in the Elite Dangerous un
   Cassie-L-Peia, allowing specialist farmers from Kappa Fornacis to stimulate mass
   growth of Lucan Onionhead clones.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

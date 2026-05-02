@@ -10,11 +10,11 @@ related_entities:
 - wallglass-investigations-agency
 - jokers-deck
 - diso
-inara_url: https://inara.cz/elite/minorfaction/?search=Ambrose%20Foundation
 bio: Ambrose Foundation is a organization in the Elite Dangerous universe, active
   from 3305-02-09 to 3305-03-09. Frequently linked with Vox Galactica, Wallglass Investigations
   Agency, Jokers' Deck.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

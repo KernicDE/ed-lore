@@ -11,7 +11,6 @@ related_entities:
 - pilots-federation
 - eravate
 - 63-g-capricorni
-inara_url: https://inara.cz/elite/minorfaction/?search=Diamond%20Frogs
 bio: 'Diamond Frogs is a organization active in Elite Dangerous lore from 3302-01-04
   to 3303-12-15. Frequently associated with Skvortsov Orbital, 63 G. Capricorni system,
   Pilots Federation. Key activities include: The Diamond Frogs private military contractors
@@ -20,6 +19,7 @@ bio: 'Diamond Frogs is a organization active in Elite Dangerous lore from 3302-0
   Paladin Consortium cargo vessels delivering water purifiers to liberated slaves
   at O...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

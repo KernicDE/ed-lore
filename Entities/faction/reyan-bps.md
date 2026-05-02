@@ -11,7 +11,6 @@ related_entities:
 - moisuc-station
 - federation
 - ltt-15449-dynamic-incorporated
-inara_url: https://inara.cz/elite/minorfaction/?search=Reyan%20BPS
 bio: Reyan BPS is a organization in the Elite Dangerous universe, active from 3301-04-14
   to 3301-06-11. Frequently linked with Moisuc Station, Federal Navy, Mongan. He began
   as a travelling salesman for LTT 15449 Dynamic Incorporated, rapidly climbing to
@@ -19,6 +18,7 @@ bio: Reyan BPS is a organization in the Elite Dangerous universe, active from 33
   President Hudson visited Reyan BPS headquarters aboard Moisuc Station in Mongan
   to meet CEO Sam Reyan.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

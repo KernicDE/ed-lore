@@ -11,13 +11,13 @@ related_entities:
 - universal-cartographics
 - kaushpoos
 - neville-horizons
-inara_url: https://inara.cz/elite/minorfaction/?search=Pacap%20Limited
 bio: Pacap Limited is a organization in the Elite Dangerous universe, active from
   3301-10-22 to 3301-10-22. Frequently linked with Pleiades Nebula, Kaushpoos, Explorers'
   Association. The Explorer's Association, supported by Brewer Corporation, Pacap
   Limited, and Universal Cartographics, announced the beginning of starport construction
   in the Pleiades Nebula.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

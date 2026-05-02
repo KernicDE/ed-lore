@@ -9,7 +9,6 @@ related_entities:
 - alliance
 - alliance-news-network
 - pilots-federation
-inara_url: https://inara.cz/elite/minorfaction/?search=Pilots%20Federation%20Safety%20Board
 bio: Pilots Federation Safety Board is a organization in the Elite Dangerous universe,
   active from 3301-10-19 to 3301-10-19. Frequently linked with Pilots Federation,
   Alliance, Alliance News Network. Over 220,000 pilots signed a petition calling for
@@ -18,6 +17,7 @@ bio: Pilots Federation Safety Board is a organization in the Elite Dangerous uni
   Board, stated that implementing such lighting would massively decrease fatal collisions
   in and around space stations.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

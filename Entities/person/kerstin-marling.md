@@ -5,7 +5,6 @@ type: person
 first_seen_date: '3301-07-31'
 last_seen_date: '3301-07-31'
 mention_count: 1
-inara_url: https://inara.cz/elite/cmdr-search/?search=Kerstin%20Marling
 bio: Kerstin Marling is a prominent figure in the Elite Dangerous universe, active
   from 3301-07-31 to 3301-07-31. Closely associated with Federal Intelligence Agency,
   Justice Party. Federal prosecutor Kerstin Marling charged former Governor Joel Xander
@@ -14,6 +13,7 @@ bio: Kerstin Marling is a prominent figure in the Elite Dangerous universe, acti
   Justice II and Supreme Leader Anxo Lino, causing a dramatic decrease in Federation
   popularity in the sector.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

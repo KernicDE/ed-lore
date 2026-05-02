@@ -5,10 +5,10 @@ type: person
 first_seen_date: '3309-02-10'
 last_seen_date: '3309-03-23'
 mention_count: 5
-inara_url: https://inara.cz/elite/cmdr-search/?search=Tom%20Gillespie
 bio: Tom Gillespie is a scientist in the Elite Dangerous universe, active from 3309-02-10
   to 3309-03-23. Closely associated with Aegis.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

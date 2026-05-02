@@ -11,13 +11,13 @@ related_entities:
 - zibal
 - ienpalang
 - hire-port
-inara_url: https://inara.cz/elite/minorfaction/?search=Ienpalang%20Corporation
 bio: Ienpalang Corporation is a corporate in the Elite Dangerous universe, active
   from 3304-07-20 to 3304-07-27. Frequently linked with Zibal, Brundage City, Ienpalang.
   The tri-superpower taskforce launches a campaign to eliminate League of Reparation
   strongholds in Zibal and Ienpalang. The operation in Zibal is coordinated by Zibal
   Power Co, while Ienpalang Corporation supports action in Ienpalang.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

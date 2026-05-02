@@ -9,7 +9,6 @@ related_entities:
 - kauruk
 - moore-terminal
 - gyvatices
-inara_url: https://inara.cz/elite/minorfaction/?search=Labour%20Union%20of%20Kauruk
 bio: Labour Union of Kauruk is a organization in the Elite Dangerous universe, active
   from 3303-10-13 to 3303-10-20. Frequently linked with Moore Terminal, Kauruk, Gyvatices.
   The Labour Union of Kauruk announced the first annual Remembrance Week, giving the
@@ -18,6 +17,7 @@ bio: Labour Union of Kauruk is a organization in the Elite Dangerous universe, a
   with hundreds of pilots gathering at Moore Terminal to pay respects to departed
   friends and loved ones.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

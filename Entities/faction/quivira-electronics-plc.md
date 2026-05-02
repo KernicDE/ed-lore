@@ -11,7 +11,6 @@ related_entities:
 - godel-dock
 - stapledon-dock
 - summerland
-inara_url: https://inara.cz/elite/minorfaction/?search=Quivira%20Electronics%20Plc
 bio: Quivira Electronics Plc is a organization in the Elite Dangerous universe, active
   from 3301-05-01 to 3301-05-19. Frequently linked with People's Quivira for Equality
   Party, Quivira, Godel Dock. Senator Denton Patreus officially declared war on Quivira,
@@ -19,6 +18,7 @@ bio: Quivira Electronics Plc is a organization in the Elite Dangerous universe, 
   class Interdictors have been spotted entering Quivira, as Patreus intends to drive
   all Independent influences from the system.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

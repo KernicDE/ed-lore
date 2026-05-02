@@ -8,10 +8,10 @@ mention_count: 2
 related_entities:
 - latugara
 - love-orbital
-inara_url: https://inara.cz/elite/minorfaction/?search=Latugara%20PLC
 bio: 'Latugara PLC is a organization in the Elite Dangerous universe, active from
   3302-09-15 to 3302-10-13. Frequently linked with Love Orbital, Latugara. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

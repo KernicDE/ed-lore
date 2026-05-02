@@ -11,7 +11,6 @@ related_entities:
 - wregoe
 - nahuaru
 - jaques-station
-inara_url: https://inara.cz/elite/minorfaction/?search=Holloway%20Bioscience%20Institute
 bio: 'Holloway Bioscience Institute is a research active in Elite Dangerous lore from
   3305-02-07 to 3312-04-15. Frequently associated with HIP 87621, October Consortium.
   Key activities include: *Pilots Federation ALERT* The Holloway Bioscience Institute
@@ -19,6 +18,7 @@ bio: 'Holloway Bioscience Institute is a research active in Elite Dangerous lore
   The superpowers agree to shut down Aegis permanently and establish independent anti-xeno
   taskforces.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

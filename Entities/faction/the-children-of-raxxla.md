@@ -9,12 +9,12 @@ related_entities:
 - federation
 - sereborv-terminal
 - hr-6421
-inara_url: https://inara.cz/elite/minorfaction/?search=The%20Children%20of%20Raxxla
 bio: The Children of Raxxla is a organization in the Elite Dangerous universe, active
   from 3302-12-01 to 3302-12-01. Frequently linked with HR 6421, Federation, Sereborv
   Terminal. The Children of Raxxla's appeal for exploration data received strong community
   support, outperforming a competing Federation initiative.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

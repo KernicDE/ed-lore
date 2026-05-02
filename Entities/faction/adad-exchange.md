@@ -10,7 +10,6 @@ related_entities:
 - sutekh
 - federation
 - archemides-gateway
-inara_url: https://inara.cz/elite/minorfaction/?search=Adad%20Exchange
 bio: Adad Exchange is a organization in the Elite Dangerous universe, active from
   3303-02-16 to 3303-02-23. Frequently linked with Sutekh, United Sutekh Future, Federation.
   A Federal convoy is destroyed in the Sutekh system and the Imperial faction Adad
@@ -19,6 +18,7 @@ bio: Adad Exchange is a organization in the Elite Dangerous universe, active fro
   forces from recovering sensitive Federal military intelligence from a destroyed
   convoy.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -11,12 +11,12 @@ related_entities:
 - alliance-interpol
 - league-of-reparation
 - church-of-eternal-void
-inara_url: https://inara.cz/elite/minorfaction/?search=Blackshadow%20Productions
 bio: Blackshadow Productions is a organization in the Elite Dangerous universe, active
   from 3304-07-28 to 3304-07-29. Frequently linked with Andromedaries Superlative
   Society, Church of Eternal Void. Blackshadow Productions promises a dark, blood-soaked
   journey of psychological discovery.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

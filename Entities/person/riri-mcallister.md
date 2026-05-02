@@ -5,7 +5,6 @@ type: person
 first_seen_date: '3304-04-13'
 last_seen_date: '3304-11-21'
 mention_count: 15
-inara_url: https://inara.cz/elite/cmdr-search/?search=Riri%20McAllister
 bio: 'Riri McAllister is a Admiral in Elite Dangerous lore, active from 3304-04-13
   to 3304-11-21. Affiliated with League of Reparation, Alliance, Alliance Defence
   Force. Notable activities include: Weekly summary covering Riri McAllister being
@@ -14,6 +13,7 @@ bio: 'Riri McAllister is a Admiral in Elite Dangerous lore, active from 3304-04-
   of Reparation and Riri McAllister''s arrest, the Church of Eternal Void being declared
   illegal...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

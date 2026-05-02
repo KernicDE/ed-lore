@@ -11,13 +11,13 @@ related_entities:
 - sirsir-co
 - zearla
 - sirsir
-inara_url: https://inara.cz/elite/minorfaction/?search=League%20of%20Zearla
 bio: League of Zearla is a organization in the Elite Dangerous universe, active from
   3305-01-03 to 3305-01-10. Frequently linked with Federal Navy, Sirsir, Imperial
   Navy. The League of Zearla and Sirsir Co run parallel military supply campaigns
   for the Federal and Imperial navies respectively, delivering battle weapons, armour
   and supplies.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

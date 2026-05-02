@@ -9,13 +9,13 @@ related_entities:
 - obotrima-organisation
 - thoreau-orbital
 - obotrima
-inara_url: https://inara.cz/elite/minorfaction/?search=Chimechilo%20Empire%20League
 bio: Chimechilo Empire League is a organization in the Elite Dangerous universe, active
   from 3302-09-15 to 3302-09-15. Frequently linked with Obotrima, Thoreau Orbital,
   Obotrima Organisation. Federal intelligence has uncovered an Imperial plot by the
   Chimechilo Empire League to destabilise Thoreau Orbital in Obotrima by flooding
   it with explosives.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

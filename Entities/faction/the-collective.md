@@ -11,7 +11,6 @@ related_entities:
 - alliance
 - federal-security-service
 - mars-tribune
-inara_url: https://inara.cz/elite/minorfaction/?search=The%20Collective
 bio: The Collective is a organization in the Elite Dangerous universe, active from
   3304-10-18 to 3304-10-27. Frequently linked with Rackham Capital Investments, Federal
   Times, Cordova Group. Technology journalist Harlow Nassry publishes an article in
@@ -19,6 +18,7 @@ bio: The Collective is a organization in the Elite Dangerous universe, active fr
   hacktivists. The Collective has no spokespersons or apparent leaders, making investigation
   difficult.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

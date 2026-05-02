@@ -5,12 +5,12 @@ type: person
 first_seen_date: '3301-08-09'
 last_seen_date: '3309-08-25'
 mention_count: 2
-inara_url: https://inara.cz/elite/cmdr-search/?search=Hesketh%20Duval
 bio: Hesketh Duval is a emperor in the Elite Dangerous universe, active from 3301-08-09
   to 3309-08-25. Archduke Otto Lombardo-Duval requests materials to construct Duval
   family statues across Imperial worlds, with mixed reactions from the palace. Historian
   Sima Kalhana recounts key moments from Emperor Hengist Duval’s life.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -5,7 +5,6 @@ type: person
 first_seen_date: '3303-10-19'
 last_seen_date: '3304-08-11'
 mention_count: 10
-inara_url: https://inara.cz/elite/cmdr-search/?search=Nestor%20Cartesius
 bio: 'Nestor Cartesius is a Senator in Elite Dangerous lore, active from 3303-10-19
   to 3304-08-11. Affiliated with Imperial Internal Security Service, INRA. Notable
   activities include: The murder of Imperial Senator Nestor Cartesius has sparked
@@ -13,6 +12,7 @@ bio: 'Nestor Cartesius is a Senator in Elite Dangerous lore, active from 3303-10
   discovered, revealing that the mycoid fungus was an unplanned by-product of research
   and was tested on li...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

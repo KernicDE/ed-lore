@@ -11,7 +11,6 @@ related_entities:
 - kumo-crew
 - california-sector-bv-y-c7
 - darwin-research-facility
-inara_url: https://inara.cz/elite/minorfaction/?search=Turner%20Research%20Group
 bio: 'Turner Research Group is a research active in Elite Dangerous lore from 3303-05-05
   to 3309-02-09. Frequently associated with Alliance, California Nebula, Kumo Crew.
   Key activities include: Weekly summary covering the dismantling of the League of
@@ -19,6 +18,7 @@ bio: 'Turner Research Group is a research active in Elite Dangerous lore from 33
   illegal...; Archon Delaine mobilizes the Kumo Crew to defend the California Nebula
   from Thargoid invasions, drawing skepticism from the Turner Research Group.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

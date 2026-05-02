@@ -11,7 +11,6 @@ related_entities:
 - imperial-navy
 - velites-squadron
 - carthage
-inara_url: https://inara.cz/elite/minorfaction/?search=Lavigny%27s%20Legion
 bio: 'Lavigny''s Legion is a organization active in Elite Dangerous lore from 3301-06-08
   to 3308-09-29. Frequently associated with Kumo Crew, Kamadhenu, Imperial Navy. Key
   activities include: Princess Aisling Duval launches a fundraiser in Cemiess, requesting
@@ -19,6 +18,7 @@ bio: 'Lavigny''s Legion is a organization active in Elite Dangerous lore from 33
   Senators Patreus and Lavigny-Duval launched a united Imperial offensive against
   the Kumo Crew after Cuchua came under attack.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

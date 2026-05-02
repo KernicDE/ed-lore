@@ -5,10 +5,10 @@ type: person
 first_seen_date: '3305-06-21'
 last_seen_date: '3308-11-01'
 mention_count: 2
-inara_url: https://inara.cz/elite/cmdr-search/?search=Tahir%20West
 bio: 'Tahir West is a admiral in the Elite Dangerous universe, active from 3305-06-21
   to 3308-11-01. Closely associated with Alliance, Council of Admirals. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

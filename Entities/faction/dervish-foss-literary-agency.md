@@ -9,12 +9,12 @@ related_entities:
 - bonespire-publishing
 - rhea-archipelago
 - skyglow-havens
-inara_url: https://inara.cz/elite/minorfaction/?search=Dervish-Foss%20Literary%20Agency
 bio: Dervish-Foss Literary Agency is a organization in the Elite Dangerous universe,
   active from 3304-11-17 to 3304-11-17. Frequently linked with Skyglow Havens, Rhea
   Archipelago, Bonespire Publishing. His literary agent Margot Hist confirms he is
   in good health and working on a new science fiction novel.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

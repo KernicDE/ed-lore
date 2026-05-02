@@ -11,11 +11,11 @@ related_entities:
 - federation
 - mu-koji-resistance
 - aksyonov-hub
-inara_url: https://inara.cz/elite/minorfaction/?search=Xuangu%20Crimson%20Major%20Network
 bio: 'Xuangu Crimson Major Network is a media in the Elite Dangerous universe, active
   from 3302-09-08 to 3302-09-15. Frequently linked with Mu Koji, Mu Koji Resistance,
   Empire. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

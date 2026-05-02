@@ -11,11 +11,11 @@ related_entities:
 - 9th-legion
 - iridium-wing
 - prismatic-imperium
-inara_url: https://inara.cz/elite/minorfaction/?search=SEPP
 bio: 'SEPP is a organization in the Elite Dangerous universe, active from 3302-11-05
   to 3302-11-05. Frequently linked with 9th Legion, Colonia Citizens Network, Earth
   Defense Fleet. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

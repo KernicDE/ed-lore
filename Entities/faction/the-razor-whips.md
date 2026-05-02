@@ -11,11 +11,11 @@ related_entities:
 - pilots-federation
 - kavanagh-spaceframes-ltd
 - harma
-inara_url: https://inara.cz/elite/minorfaction/?search=The%20Razor%20Whips
 bio: 'The Razor Whips is a organization in the Elite Dangerous universe, active from
   3307-04-15 to 3307-04-22. Frequently linked with Eol Prou PC-K c9-91, Kavanagh Spaceframes
   Ltd. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

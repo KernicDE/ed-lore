@@ -5,7 +5,6 @@ type: person
 first_seen_date: '3304-05-26'
 last_seen_date: '3304-08-30'
 mention_count: 11
-inara_url: https://inara.cz/elite/cmdr-search/?search=Jarl%20Toredo
 bio: 'Jarl Toredo is a Journalist in Elite Dangerous lore, active from 3304-05-26
   to 3304-08-30. Affiliated with Unchain. Notable activities include: Weekly summary
   covering Aisling Duval''s anti-slavery campaign merging with Universal Liberty to
@@ -13,6 +12,7 @@ bio: 'Jarl Toredo is a Journalist in Elite Dangerous lore, active from 3304-05-2
   the disappearance of Riri McAllister''s medical transport, Jarl Toredo''s resignation
   from Unchain, further FIA arrests of Fa...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

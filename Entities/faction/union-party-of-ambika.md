@@ -8,13 +8,13 @@ mention_count: 3
 related_entities:
 - ambika
 - goulart-city
-inara_url: https://inara.cz/elite/minorfaction/?search=Union%20Party%20of%20Ambika
 bio: Union Party of Ambika is a organization in the Elite Dangerous universe, active
   from 3302-08-04 to 3302-08-11. Frequently linked with Ambika, Goulart City. Authorities
   in the Ambika system report severe famine and civil unrest. The Union Party of Ambika
   has launched a campaign requesting pilots deliver food to Goulart City and neutralise
   pirates operating in the system.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

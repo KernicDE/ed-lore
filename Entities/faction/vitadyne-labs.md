@@ -11,7 +11,6 @@ related_entities:
 - neomedical-industries
 - vandermeer-corporation
 - nova-imperium
-inara_url: https://inara.cz/elite/minorfaction/?search=Vitadyne%20Labs
 bio: 'Vitadyne Labs is a organization active in Elite Dangerous lore from 3304-12-06
   to 3306-06-09. Frequently associated with Interstellar Health Organisation, Utopia.
   Key activities include: Weekly summary covering Juanita Bishop''s call to ban the
@@ -19,6 +18,7 @@ bio: 'Vitadyne Labs is a organization active in Elite Dangerous lore from 3304-1
   Ais...; Weekly summary covering Isolde Rochester''s appointment as Shadow Vice President,
   Imperial senators demanding Hadrian Duval''s recognition with Chanc...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

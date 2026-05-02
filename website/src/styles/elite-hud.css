@@ -392,6 +392,43 @@ html, body {
 .entity-icon.faction { background: rgba(255, 140, 0, 0.15); color: var(--elite-orange); border: 1px solid var(--elite-orange-dim); }
 .entity-icon.location { background: rgba(68, 255, 136, 0.1); color: var(--elite-green); border: 1px solid var(--elite-green-dim); }
 
+.entity-links {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+
+.entity-link {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--elite-blue);
+  text-decoration: none;
+  border: 1px solid var(--elite-blue-dim);
+  padding: 4px 10px;
+  border-radius: 2px;
+  white-space: nowrap;
+  transition: border-color 0.2s, color 0.2s;
+}
+
+.entity-link:hover {
+  border-color: var(--elite-blue);
+  color: var(--text-primary);
+}
+
+@media (max-width: 600px) {
+  .entity-links {
+    flex-direction: row;
+    gap: 8px;
+    align-items: center;
+  }
+  .entity-link {
+    font-size: 10px;
+    padding: 3px 8px;
+  }
+}
+
 .entity-name {
   font-size: 14px;
   font-weight: 500;

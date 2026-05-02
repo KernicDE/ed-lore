@@ -11,11 +11,11 @@ related_entities:
 - vox-galactica
 - federal-intelligence-agency
 - proactive-detection-bureau
-inara_url: https://inara.cz/elite/minorfaction/?search=True%20Chapters
 bio: True Chapters is a organization in the Elite Dangerous universe, active from
   3308-09-12 to 3308-09-29. Frequently linked with HIP 22460, The Federal Times, Vox
   Galactica.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

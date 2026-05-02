@@ -11,11 +11,11 @@ related_entities:
 - chaac
 - moon-prospect
 - turot
-inara_url: https://inara.cz/elite/minorfaction/?search=Ex%20Luna%20Scientia
 bio: 'Ex Luna Scientia is a organization in the Elite Dangerous universe, active from
   3302-07-18 to 3302-07-18. Frequently linked with Buckyball Racing Club, Chaac, Lem
   Dock. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

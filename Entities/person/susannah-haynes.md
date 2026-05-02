@@ -5,11 +5,11 @@ type: person
 first_seen_date: '3306-09-17'
 last_seen_date: '3308-05-09'
 mention_count: 3
-inara_url: https://inara.cz/elite/cmdr-search/?search=Susannah%20Haynes
 bio: 'Susannah Haynes is a prominent figure in the Elite Dangerous universe, active
   from 3306-09-17 to 3308-05-09. Closely associated with Kavanagh Spaceframes Ltd,
   Steel Castle Inc, Pilots Federation. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

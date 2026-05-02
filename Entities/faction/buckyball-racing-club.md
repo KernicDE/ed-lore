@@ -11,7 +11,6 @@ related_entities:
 - leesti
 - george-lucas-station
 - sol
-inara_url: https://inara.cz/elite/minorfaction/?search=Buckyball%20Racing%20Club
 bio: 'Buckyball Racing Club is a organization active in Elite Dangerous lore from
   3301-10-26 to 3303-02-23. Frequently associated with Pilots Federation, George Lucas
   Station, Leesti. Key activities include: The Buckyball Racing Club is hosting a
@@ -20,6 +19,7 @@ bio: 'Buckyball Racing Club is a organization active in Elite Dangerous lore fro
   Milk, announced the Kessel Run commemorative race from October 31 to November 15,
   3301.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

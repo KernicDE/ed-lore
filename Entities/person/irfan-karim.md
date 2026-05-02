@@ -5,11 +5,11 @@ type: person
 first_seen_date: '3306-12-01'
 last_seen_date: '3311-06-05'
 mention_count: 4
-inara_url: https://inara.cz/elite/cmdr-search/?search=Irfan%20Karim
 bio: Irfan Karim is a prominent figure in the Elite Dangerous universe, active from
   3306-12-01 to 3311-06-05. Closely associated with Alliance, Lakon Spaceways, Core
   Dynamics.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

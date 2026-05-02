@@ -10,10 +10,10 @@ related_entities:
 - kalana
 - moore-prospect
 - mu-koji
-inara_url: https://inara.cz/elite/minorfaction/?search=Cutter%20Club
 bio: 'Cutter Club is a organization in the Elite Dangerous universe, active from 3302-10-01
   to 3302-10-01. Frequently linked with Kalana, Kalana Independents. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -9,12 +9,12 @@ related_entities:
 - federal-intelligence-agency
 - far-god-cult
 - rana
-inara_url: https://inara.cz/elite/minorfaction/?search=Interstellar%20Association%20of%20Universities
 bio: Interstellar Association of Universities is a organization in the Elite Dangerous
   universe, active from 3304-08-18 to 3304-08-18. Frequently linked with Far God cult,
   Rana, Federal Intelligence Agency. Professor Siobhan Vogel of the Interstellar Association
   of Universities files a formal complaint, calling the arrest a dangerous precedent.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

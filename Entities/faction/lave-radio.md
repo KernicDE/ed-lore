@@ -8,11 +8,11 @@ mention_count: 1
 related_entities:
 - alliance
 - lave
-inara_url: https://inara.cz/elite/minorfaction/?search=Lave%20Radio
 bio: Lave Radio is a organization in the Elite Dangerous universe, active from 3305-08-02
   to 3305-08-02. Frequently linked with Alliance, Lave. Lave residents share mixed
   feelings about hosting the Alliance Festival of Culture's opening ceremony.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

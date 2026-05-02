@@ -5,12 +5,12 @@ type: person
 first_seen_date: '3301-08-18'
 last_seen_date: '3301-08-18'
 mention_count: 1
-inara_url: https://inara.cz/elite/cmdr-search/?search=Stateira%20Starcloak%20Eleshenar
 bio: Stateira Starcloak Eleshenar is a pilot in the Elite Dangerous universe, active
   from 3301-08-18 to 3301-08-18. Closely associated with Interstellar Press, Office
   of Imperial Statistics, Facece Empire Party. Early reviews from Commanders Corrigendum
   and Stateira 'Starcloak' Eleshenar praised its handling and combat performance.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

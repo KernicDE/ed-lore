@@ -11,7 +11,6 @@ related_entities:
 - kumo-crew
 - pilots-federation
 - adkins-port
-inara_url: https://inara.cz/elite/minorfaction/?search=Cayutorme%20Syndicate
 bio: Cayutorme Syndicate is a criminal in the Elite Dangerous universe, active from
   3301-11-04 to 3301-11-11. Frequently linked with Cayutorme, Imperial Navy, Kumo
   Crew. Imperial Navy forces and auxiliary commanders score major victories against
@@ -20,6 +19,7 @@ bio: Cayutorme Syndicate is a criminal in the Elite Dangerous universe, active f
   fleet, restoring order to the system; leader Kyle Kurowski is missing and captured
   vessels will be sold at a discount from Adkins Port.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

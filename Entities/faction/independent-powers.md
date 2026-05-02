@@ -10,12 +10,12 @@ related_entities:
 - federation
 - alliance
 - hip-87621
-inara_url: https://inara.cz/elite/minorfaction/?search=Independent%20Powers
 bio: Independent Powers is a organization in the Elite Dangerous universe, active
   from 3311-11-27 to 3311-11-27. Frequently linked with HIP 87621, Alliance, Empire.
   All major Powers deploy fleets to the HIP 87621 enclave after Radicoida unica's
   discovery, triggering the largest mobilisation since the Second Thargoid War.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

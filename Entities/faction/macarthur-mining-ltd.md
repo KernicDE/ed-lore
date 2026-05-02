@@ -11,7 +11,6 @@ related_entities:
 - federal-intelligence-agency
 - aegis
 - alliance
-inara_url: https://inara.cz/elite/minorfaction/?search=MacArthur%20Mining%20Ltd
 bio: MacArthur Mining Ltd is a organization in the Elite Dangerous universe, active
   from 3304-08-11 to 3304-08-19. Frequently linked with Beta Hydri, Homeland. A MacArthur
   Mining Ltd DG090 mining robot malfunctions and runs amok through a settlement on
@@ -19,6 +18,7 @@ bio: MacArthur Mining Ltd is a organization in the Elite Dangerous universe, act
   uses mining lasers and fusion drills to carve across the landing field, then burrows
   underground and disappears.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

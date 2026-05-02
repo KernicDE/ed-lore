@@ -11,13 +11,13 @@ related_entities:
 - lugh-for-equality
 - hartsfield-market
 - alliance
-inara_url: https://inara.cz/elite/minorfaction/?search=Sons%20of%20Conn
 bio: Sons of Conn is a organization in the Elite Dangerous universe, active from 3301-03-24
   to 3301-03-26. Frequently linked with Crimson State Group, Lugh, Lugh for Equality.
   The Crimson State Group and Sons of Conn captured Hartsfield Market from the Lugh
   for Equality Party in a devastating blow for the Federation. Federal pilots dominated
   the skies initially, with the Sons of Conn suffering heavy casualties.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -11,7 +11,6 @@ related_entities:
 - dove-enigma
 - randgnid
 - templar-barracks
-inara_url: https://inara.cz/elite/minorfaction/?search=Colonia%20Council
 bio: 'Colonia Council is a government active in Elite Dangerous lore from 3302-10-20
   to 3307-10-29. Frequently associated with Jaques Station, Pleiades Nebula, Dove
   Enigma. Key activities include: Huge numbers of citizens continue fleeing to Colonia,
@@ -19,6 +18,7 @@ bio: 'Colonia Council is a government active in Elite Dangerous lore from 3302-1
   the Dove Enigma, a Wells-class Carrier in the Colonia system, was thwarted by the
   galactic community.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -11,7 +11,6 @@ related_entities:
 - federal-security-service
 - federal-times
 - federal-intelligence-agency
-inara_url: https://inara.cz/elite/minorfaction/?search=Supratech
 bio: 'Supratech is a organization active in Elite Dangerous lore from 3304-08-17 to
   3312-03-03. Frequently associated with Herculean Machines, Alliance. Key activities
   include: Weekly summary covering the appearance of Thargoid Hydra vessels in the
@@ -19,6 +18,7 @@ bio: 'Supratech is a organization active in Elite Dangerous lore from 3304-08-17
   Weekly summary covering the Alliance Assembly''s agreement to vote on Kincaid''s
   constitutional changes, the fire destroying Supratech''s facility, in...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

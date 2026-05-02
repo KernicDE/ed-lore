@@ -11,12 +11,12 @@ related_entities:
 - triadius
 - contrail
 - balkan-intergalactic-guerrillas
-inara_url: https://inara.cz/elite/minorfaction/?search=Blood%20Brothers
 bio: Blood Brothers is a organization in the Elite Dangerous universe, active from
   3302-03-16 to 3302-03-16. Frequently linked with Adle's Armada, Alrai, Contrail.
   Competitors included Blood Brothers from Alrai, Ronin of Amarak, Triadius, Contrail,
   and the Balkan Intergalactic Guerrillas.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

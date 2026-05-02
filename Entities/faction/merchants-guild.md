@@ -10,10 +10,10 @@ related_entities:
 - prism
 - sol
 - titan
-inara_url: https://inara.cz/elite/minorfaction/?search=Merchants%20Guild
 bio: 'Merchants Guild is a organization in the Elite Dangerous universe, active from
   3301-03-17 to 3301-03-17. Frequently linked with Titan, Prism, Sol. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

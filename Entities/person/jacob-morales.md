@@ -5,12 +5,12 @@ type: person
 first_seen_date: '3307-05-21'
 last_seen_date: '3308-01-31'
 mention_count: 6
-inara_url: https://inara.cz/elite/cmdr-search/?search=Jacob%20Morales
 bio: 'Jacob Morales is a Admiral in Elite Dangerous lore, active from 3307-05-21 to
   3308-01-31. Affiliated with Aegis. Notable activities include: The Alexandria megaship
   jumps from Delphi to HIP 16538, triggering a Thargoid attack.; The Federal Navy
   warns the Alexandria megaship not to enter any Federal system.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

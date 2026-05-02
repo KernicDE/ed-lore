@@ -5,7 +5,6 @@ type: person
 first_seen_date: '3302-09-30'
 last_seen_date: '3303-02-03'
 mention_count: 4
-inara_url: https://inara.cz/elite/cmdr-search/?search=Kahina%20Loren
 bio: Kahina Loren is a senator in the Elite Dangerous universe, active from 3302-09-30
   to 3303-02-03. Closely associated with Children of Raxxla, Imperial Citizen. Princess
   Aisling Duval and former Imperial senator Lady Kahina Loren engaged in a heated
@@ -14,6 +13,7 @@ bio: Kahina Loren is a senator in the Elite Dangerous universe, active from 3302
   attack was a response to the guilty verdict passed on Kahina Loren, whom they referred
   to as Salomé.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

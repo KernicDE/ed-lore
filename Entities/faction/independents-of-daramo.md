@@ -11,11 +11,11 @@ related_entities:
 - imperial-navy
 - vaka-citizens-of-tradition
 - kumo-crew
-inara_url: https://inara.cz/elite/minorfaction/?search=Independents%20of%20Daramo
 bio: 'Independents of Daramo is a organization in the Elite Dangerous universe, active
   from 3302-06-23 to 3302-06-27. Frequently linked with Daramo, Federal Navy, Kumo
   Crew. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

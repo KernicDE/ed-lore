@@ -5,7 +5,6 @@ type: person
 first_seen_date: '3301-06-30'
 last_seen_date: '3302-03-23'
 mention_count: 8
-inara_url: https://inara.cz/elite/cmdr-search/?search=Carl%20Simmons
 bio: 'Carl Simmons is a Scientist in Elite Dangerous lore, active from 3301-06-30
   to 3302-03-23. Affiliated with Newton Dock Medical. Notable activities include:
   Medical personnel at Hart Station praised 765 independent pilots who delivered medicines
@@ -13,6 +12,7 @@ bio: 'Carl Simmons is a Scientist in Elite Dangerous lore, active from 3301-06-3
   Plague incidents in Dajoar, Eleu, and 20 Ophiuchi, believed to be travellers from
   BD...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

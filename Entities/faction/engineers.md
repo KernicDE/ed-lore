@@ -11,7 +11,6 @@ related_entities:
 - sirius-inc
 - pilots-federation
 - delphi
-inara_url: https://inara.cz/elite/minorfaction/?search=Engineers
 bio: 'Engineers is a organization active in Elite Dangerous lore from 3307-05-24 to
   3310-07-30. Frequently associated with Liz Ryder, Aegis, October. Key activities
   include: *Pilots Federation ALERT* The engineer Liz Ryder has requested mined materials
@@ -19,6 +18,7 @@ bio: 'Engineers is a organization active in Elite Dangerous lore from 3307-05-24
   in the Delphi system begins tumbling out of orbit after Thargoid attack causes cascading
   systems failure.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -11,12 +11,12 @@ related_entities:
 - pilots-federation
 - east-india-company
 - universal-cartographics
-inara_url: https://inara.cz/elite/minorfaction/?search=Jameson%20Memorial%20Review
 bio: Jameson Memorial Review is a organization in the Elite Dangerous universe, active
   from 3301-09-06 to 3301-10-13. Frequently linked with Interstellar Press, Jameson
   Memorial, Pilots Federation. Early reviews from Commanders Corrigendum and Stateira
   'Starcloak' Eleshenar praised its handling and combat performance.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

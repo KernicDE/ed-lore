@@ -11,7 +11,6 @@ related_entities:
 - vox-galactica
 - unchain
 - imperial-internal-security-service
-inara_url: https://inara.cz/elite/minorfaction/?search=Autonomy
 bio: 'Autonomy is a organization active in Elite Dangerous lore from 3305-06-15 to
   3305-07-13. Frequently associated with Eotienses, Tilbery Construction, Vox Galactica.
   Key activities include: The activist group Autonomy reveals that Tilbery Construction
@@ -19,6 +18,7 @@ bio: 'Autonomy is a organization active in Elite Dangerous lore from 3305-06-15 
   3 — t...; Four thousand forcibly emancipated Imperial slaves are left stranded on
   Eotienses A 3 without food, shelter or income, sparking a humanitarian cris...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

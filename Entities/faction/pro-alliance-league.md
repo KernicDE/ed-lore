@@ -11,11 +11,11 @@ related_entities:
 - workers-of-lave-liberals
 - reorte
 - lave
-inara_url: https://inara.cz/elite/minorfaction/?search=Pro-Alliance%20League
 bio: 'Pro-Alliance League is a organization in the Elite Dangerous universe, active
   from 3301-04-26 to 3301-04-26. Frequently linked with Workers of Lave Liberals,
   Davies High, Leesti. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -10,13 +10,13 @@ related_entities:
 - zagoro
 - axon-station
 - hip-17225-a-1
-inara_url: https://inara.cz/elite/minorfaction/?search=Zagoro%20Imperial%20Society
 bio: Zagoro Imperial Society is a organization in the Elite Dangerous universe, active
   from 3302-07-28 to 3302-08-04. Frequently linked with Zagoro, Empire, Axon Station.
   The Empire's appeal for meta-alloys concluded successfully, with large quantities
   delivered to Axon Station in the Zagoro system. The Zagoro Imperial Society stated
   this is the first step in challenging the Federal monopoly on the material.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

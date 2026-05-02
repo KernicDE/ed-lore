@@ -9,7 +9,6 @@ related_entities:
 - deep-space-surveys
 - beagle-point
 - ram-tah
-inara_url: https://inara.cz/elite/minorfaction/?search=Distant%20Worlds%203
 bio: 'Distant Worlds 3 is a organization active in Elite Dangerous lore from 3312-02-13
   to 3312-04-26. Frequently associated with Deep Space Surveys, Beagle Point. Key
   activities include: Distant Worlds 3 reports major milestones including Colonia
@@ -17,6 +16,7 @@ bio: 'Distant Worlds 3 is a organization active in Elite Dangerous lore from 331
   N...; Distant Worlds 3 departs Beagle Point for next phase into the Abyss, Acheron
   and Veils.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

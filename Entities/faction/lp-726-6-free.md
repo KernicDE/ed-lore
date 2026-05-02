@@ -11,13 +11,13 @@ related_entities:
 - coalition-of-uteran
 - gluscap-labour
 - azaladshu
-inara_url: https://inara.cz/elite/minorfaction/?search=Lp%20726-6%20Free
 bio: Lp 726-6 Free is a organization in the Elite Dangerous universe, active from
   3307-06-29 to 3307-07-21. Frequently linked with LTT 3919, Coalition of Uteran,
   Azaladshu. The Azaladshu Free faction secedes from the Federation, declaring its
   four systems independent in protest against surveillance laws. Azaladshu Free defeats
   Neche Inc and retains independence from the Federation.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

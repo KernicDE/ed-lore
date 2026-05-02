@@ -5,12 +5,12 @@ type: person
 first_seen_date: '3307-06-29'
 last_seen_date: '3307-07-08'
 mention_count: 3
-inara_url: https://inara.cz/elite/cmdr-search/?search=Constanza%20Noguera
 bio: Constanza Noguera is a president in the Elite Dangerous universe, active from
   3307-06-29 to 3307-07-08. Closely associated with Gluscap Labour, Azaladshu Free.
   Mayor Constanza Noguera calls the Federation corrupt and authoritarian. Mayor Constanza
   Noguera calls for supporters to defend sovereignty.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -5,7 +5,6 @@ type: person
 first_seen_date: '3302-11-10'
 last_seen_date: '3302-11-17'
 mention_count: 2
-inara_url: https://inara.cz/elite/cmdr-search/?search=Dr%20Arkady%20Cole
 bio: Dr Arkady Cole is a scientist in the Elite Dangerous universe, active from 3302-11-10
   to 3302-11-17. Closely associated with Zosi Major Corporation. Dr Arkady Cole, the
   organisation's chief research scientist, confirmed participating pilots should deliver
@@ -13,6 +12,7 @@ bio: Dr Arkady Cole is a scientist in the Elite Dangerous universe, active from 
   Zosi Major Corporation's request for thermic alloys, chemical manipulators and industrial
   firmware was warmly received by the galactic community.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

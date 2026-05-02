@@ -10,13 +10,13 @@ related_entities:
 - federal-intelligence-agency
 - mars
 - olympus-village
-inara_url: https://inara.cz/elite/minorfaction/?search=Federal%20Commerce%20Authority
 bio: Federal Commerce Authority is a organization in the Elite Dangerous universe,
   active from 3309-03-31 to 3309-03-31. Frequently linked with Federal Intelligence
   Agency, Caine Massey, Mars. Caine-Massey CEO Johann Fleischer is assassinated at
   a Federal Commerce Authority seminar on Mars using a modified Manticore Executioner
   rifle linked to Imperial agents.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -11,12 +11,12 @@ related_entities:
 - interstellar-health-organisation
 - vandermeer-corporation
 - vitadyne-labs
-inara_url: https://inara.cz/elite/minorfaction/?search=Neosalve%20Inc.
 bio: Neosalve Inc. is a organization in the Elite Dangerous universe, active from
   3304-12-05 to 3304-12-08. Frequently linked with Neomedical Industries, Allied Medical
   Industries, Vandermeer Corporation. Allied Medical Industries and Neosalve Inc.
   Weekly summary covering the merger of Allied Medical Industries and Neosalve Inc.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

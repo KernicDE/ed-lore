@@ -11,7 +11,6 @@ related_entities:
 - marlinist-colonies
 - nmla
 - alliance
-inara_url: https://inara.cz/elite/minorfaction/?search=Imperial%20Senate
 bio: 'Imperial Senate is a government active in Elite Dangerous lore from 3301-02-28
   to 3310-01-11. Frequently associated with Capitol, Achenar. Key activities include:
   Princess Aisling Duval revealed that some of Chancellor Anders Blaine''s advisors
@@ -19,6 +18,7 @@ bio: 'Imperial Senate is a government active in Elite Dangerous lore from 3301-0
   the Imperial Guard and IISS arrested several members of Chancellor Anders Blaine''s
   staff for conducting a slander campaign against Prince...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

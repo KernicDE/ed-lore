@@ -9,13 +9,13 @@ related_entities:
 - federation
 - merope
 - obsidian-orbital
-inara_url: https://inara.cz/elite/minorfaction/?search=Federal%20Auxiliary%20Navy
 bio: Federal Auxiliary Navy is a naval in the Elite Dangerous universe, active from
   3302-07-01 to 3302-07-01. Frequently linked with Merope, Obsidian Orbital. A Federal
   Auxiliary Navy captain flying an Asp Explorer was shot down by Federal vessels above
   Merope 2 A near a barnacle site. Rescue teams from Obsidian Orbital recovered the
   slightly injured pilot, and the Federal Auxiliary Navy announced a formal inquiry.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

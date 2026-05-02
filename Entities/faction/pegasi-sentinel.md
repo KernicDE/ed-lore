@@ -11,13 +11,13 @@ related_entities:
 - pilots-federation
 - harma
 - pegasi-sector-pn-t-c3-14
-inara_url: https://inara.cz/elite/minorfaction/?search=Pegasi%20Sentinel
 bio: 'Pegasi Sentinel is a organization active in Elite Dangerous lore from 3307-04-22
   to 3309-02-09. Frequently associated with Kumo Crew, Pilots Federation, Kumo Council.
   Key activities include: The Kumo Crew''s defence of the California Nebula succeeds,
   but its attempt to seize control of local ports is repelled by communities and the
   Turne...; The Kumo Crew''s starport construction campaign concludes successfully.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

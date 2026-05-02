@@ -9,13 +9,13 @@ related_entities:
 - snow-moon
 - bento
 - hel
-inara_url: https://inara.cz/elite/minorfaction/?search=Hel%20Purple%20Energy%20Industry
 bio: Hel Purple Energy Industry is a organization in the Elite Dangerous universe,
   active from 3301-12-17 to 3301-12-23. Frequently linked with Bento, Snow Moon, Hel.
   The Hel Purple Energy Industry requests Crystalline Spheres from Snow Moon in the
   Bento system to commemorate the winter solstice festival, offering pilots a week-long
   delivery contract.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

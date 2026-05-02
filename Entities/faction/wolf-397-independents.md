@@ -11,11 +11,11 @@ related_entities:
 - chelbin-service-station
 - federal-times
 - pleiades-sector-ir-w-d1-55
-inara_url: https://inara.cz/elite/minorfaction/?search=Wolf%20397%20Independents
 bio: 'Wolf 397 Independents is a organization in the Elite Dangerous universe, active
   from 3303-09-22 to 3303-09-29. Frequently linked with Chelbin Service Station, Aegis,
   Wolf 397. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

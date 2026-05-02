@@ -5,7 +5,6 @@ type: person
 first_seen_date: '3302-11-26'
 last_seen_date: '3302-11-26'
 mention_count: 1
-inara_url: https://inara.cz/elite/cmdr-search/?search=Commander%20Felix%20Macedonica
 bio: Commander Felix Macedonica is a commander in the Elite Dangerous universe, active
   from 3302-11-26 to 3302-11-26. Closely associated with Institute for Galactic Exploration
   and Research. Commander Chiggy Vonrictofen conducted a dramatic rescue of Commander
@@ -13,6 +12,7 @@ bio: Commander Felix Macedonica is a commander in the Elite Dangerous universe, 
   germanium to synthesise an FSD injection. Chiggy traveled to Colonia, fitted a mining
   laser, and crossed 30,000 light years to reach Felix within 48 hours.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -5,11 +5,11 @@ type: person
 first_seen_date: '3304-04-26'
 last_seen_date: '3304-04-26'
 mention_count: 1
-inara_url: https://inara.cz/elite/cmdr-search/?search=Solveig%20Smith
 bio: Solveig Smith is a commander in the Elite Dangerous universe, active from 3304-04-26
   to 3304-04-26. Closely associated with Imperial Navy, Utopia. Commander Solveig
   Smith, who has fought Thargoids in the Pleiades, dismissed the pessimism.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

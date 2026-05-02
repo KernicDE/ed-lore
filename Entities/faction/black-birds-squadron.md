@@ -11,11 +11,11 @@ related_entities:
 - lorens-legion
 - communism-interstellar
 - aislings-angels
-inara_url: https://inara.cz/elite/minorfaction/?search=Black%20Birds%20Squadron
 bio: 'Black Birds Squadron is a organization in the Elite Dangerous universe, active
   from 3302-01-12 to 3302-01-12. Frequently linked with Adle''s Armada, Guardians
   of Harmony, Utopia. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

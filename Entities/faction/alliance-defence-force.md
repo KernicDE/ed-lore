@@ -11,7 +11,6 @@ related_entities:
 - hip-22460
 - federal-navy
 - imperial-navy
-inara_url: https://inara.cz/elite/minorfaction/?search=Alliance%20Defence%20Force
 bio: 'Alliance Defence Force is a organization active in Elite Dangerous lore from
   3301-06-21 to 3308-09-30. Frequently associated with Alliance, Council of Admirals,
   HIP 22460. Key activities include: This week''s major stories include the murder
@@ -20,6 +19,7 @@ bio: 'Alliance Defence Force is a organization active in Elite Dangerous lore fr
   from all three superpowers and Sirius have resigned to join Salvation''s anti-xeno
   ...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

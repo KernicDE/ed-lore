@@ -11,12 +11,12 @@ related_entities:
 - nijotec-syndicate
 - nijotec
 - sol
-inara_url: https://inara.cz/elite/minorfaction/?search=Lycan%20Moon%20Mining%20Corporation
 bio: Lycan Moon Mining Corporation is a corporate in the Elite Dangerous universe,
   active from 3301-02-20 to 3301-02-20. Frequently linked with Federal Navy, Sol,
   Nijotec. The Lycan Moon Mining Corporation's abandonment of the region allowed the
   Syndicate to flourish.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

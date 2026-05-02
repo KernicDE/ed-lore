@@ -5,10 +5,10 @@ type: person
 first_seen_date: '3304-08-29'
 last_seen_date: '3309-02-20'
 mention_count: 3
-inara_url: https://inara.cz/elite/cmdr-search/?search=Petra%20Olmanova
 bio: 'Petra Olmanova is a engineer in the Elite Dangerous universe, active from 3304-08-29
   to 3309-02-20. Closely associated with Aegis. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

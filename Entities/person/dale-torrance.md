@@ -5,10 +5,10 @@ type: person
 first_seen_date: '3301-07-06'
 last_seen_date: '3301-07-06'
 mention_count: 1
-inara_url: https://inara.cz/elite/cmdr-search/?search=Dale%20Torrance
 bio: 'Dale Torrance is a prominent figure in the Elite Dangerous universe, active
   from 3301-07-06 to 3301-07-06. Closely associated with Pangborn Dock. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

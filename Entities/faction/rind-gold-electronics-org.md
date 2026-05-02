@@ -11,13 +11,13 @@ related_entities:
 - achenar
 - inra
 - angeli-imperial-enterprises
-inara_url: https://inara.cz/elite/minorfaction/?search=Rind%20Gold%20Electronics%20Org
 bio: Rind Gold Electronics Org is a organization in the Elite Dangerous universe,
   active from 3304-04-13 to 3304-04-22. Frequently linked with Wegner Market, Rind,
   Achenar. The Rind Gold Electronics Org successfully concluded its campaign for a
   pilot-training centre. The Rind Gold Electronics Org has announced the successful
   conclusion of its campaign.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

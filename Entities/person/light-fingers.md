@@ -5,11 +5,11 @@ type: person
 first_seen_date: '3301-06-08'
 last_seen_date: '3301-06-08'
 mention_count: 1
-inara_url: https://inara.cz/elite/cmdr-search/?search=Light%20Fingers
 bio: 'Light Fingers is a emperor in the Elite Dangerous universe, active from 3301-06-08
   to 3301-06-08. Closely associated with Imperial Senate, Imperial Internal Security
   Service. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

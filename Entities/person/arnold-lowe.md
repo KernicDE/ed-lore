@@ -5,7 +5,6 @@ type: person
 first_seen_date: '3301-08-11'
 last_seen_date: '3302-03-15'
 mention_count: 2
-inara_url: https://inara.cz/elite/cmdr-search/?search=Arnold%20Lowe
 bio: Arnold Lowe is a journalist in the Elite Dangerous universe, active from 3301-08-11
   to 3302-03-15. Closely associated with Federal Times. It alleges the deaths of Nigel
   Smeaton, Sean Richards, Arnold Lowe, Susan Monroe, Elaine Boyd, Emperor Hengist
@@ -14,6 +13,7 @@ bio: Arnold Lowe is a journalist in the Elite Dangerous universe, active from 33
   Arnold Lowe, a senior investigator in the Starship One disappearance, but received
   no comment.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

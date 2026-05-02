@@ -5,7 +5,6 @@ type: person
 first_seen_date: '3301-07-18'
 last_seen_date: '3309-09-01'
 mention_count: 17
-inara_url: https://inara.cz/elite/cmdr-search/?search=Florence%20Lavigny
 bio: 'Florence Lavigny is a Emperor in Elite Dangerous lore, active from 3301-07-18
   to 3309-09-01. Affiliated with Imperial Palace, Imperial Senate. Notable activities
   include: Archduke Otto Lombardo-Duval requests materials to construct Duval family
@@ -13,6 +12,7 @@ bio: 'Florence Lavigny is a Emperor in Elite Dangerous lore, active from 3301-07
   Duval appeared before the Senate, calling on senators to work together for the good
   of the Empire.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

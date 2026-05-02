@@ -8,13 +8,13 @@ mention_count: 1
 related_entities:
 - pan-galactic-mining-corp
 - zaonce
-inara_url: https://inara.cz/elite/minorfaction/?search=Federal%20Bar%20Council
 bio: Federal Bar Council is a government in the Elite Dangerous universe, active from
   3302-03-08 to 3302-03-08. Frequently linked with Pan Galactic Mining Corp, Zaonce.
   The case could set a precedent for galaxy-wide intellectual property rights, and
   legal experts including Professor Janus of the Federal Bar Council are watching
   closely.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

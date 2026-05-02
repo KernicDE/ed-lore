@@ -5,7 +5,6 @@ type: person
 first_seen_date: '3301-08-14'
 last_seen_date: '3303-01-28'
 mention_count: 7
-inara_url: https://inara.cz/elite/cmdr-search/?search=Ricardo%20Bentonio
 bio: 'Ricardo Bentonio is a Pirate in Elite Dangerous lore, active from 3301-08-14
   to 3303-01-28. Affiliated with Federal Navy, Kruger 60 Free. Notable activities
   include: Conspiracy theorist Ricardo Bentonio claims on his programme ''Behind the
@@ -13,6 +12,7 @@ bio: 'Ricardo Bentonio is a Pirate in Elite Dangerous lore, active from 3301-08-
   theorist Ricardo Bentonio claimed on his show The Hidden World that President Halsey
   was kidnapped by aliens when Starship One disappeared.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -5,10 +5,10 @@ type: person
 first_seen_date: '3307-02-12'
 last_seen_date: '3307-02-12'
 mention_count: 1
-inara_url: https://inara.cz/elite/cmdr-search/?search=Denton%20Patreus%20will%20be
 bio: 'Denton Patreus will be is a diplomat in the Elite Dangerous universe, active
   from 3307-02-12 to 3307-02-12. Closely associated with Marlinist. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

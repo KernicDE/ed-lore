@@ -5,7 +5,6 @@ type: person
 first_seen_date: '3304-11-17'
 last_seen_date: '3304-11-17'
 mention_count: 1
-inara_url: https://inara.cz/elite/cmdr-search/?search=Margot%20Hist
 bio: Margot Hist is a prominent figure in the Elite Dangerous universe, active from
   3304-11-17 to 3304-11-17. Closely associated with Dervish-Foss Literary Agency,
   Bonespire Publishing. His literary agent Margot Hist confirms he is in good health
@@ -13,6 +12,7 @@ bio: Margot Hist is a prominent figure in the Elite Dangerous universe, active f
   the concern because she was on holiday and there are no communication facilities
   at Skyglow Havens on the Rhea Archipelago.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -11,13 +11,13 @@ related_entities:
 - sol
 - league-of-reparation
 - lave-radio-network
-inara_url: https://inara.cz/elite/minorfaction/?search=Universal%20Liberty
 bio: Universal Liberty is a organization in the Elite Dangerous universe, active from
   3304-05-26 to 3304-06-17. Frequently linked with Unchain. Princess Aisling Duval's
   anti-slavery campaign merges with independent charity Universal Liberty to form
   Unchain. Jarl Toredo, former head of Universal Liberty who was born into slavery,
   announces the union and calls for the abolition of legal slavery across the Empire.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

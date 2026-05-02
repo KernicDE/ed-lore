@@ -9,13 +9,13 @@ related_entities:
 - aislings-13th-legion
 - chona
 - smoot-station
-inara_url: https://inara.cz/elite/minorfaction/?search=Winters%27%20Wolves
 bio: Winters' Wolves is a organization in the Elite Dangerous universe, active from
   3301-08-03 to 3301-08-03. Frequently linked with Smoot Station, Chona, Aisling's
   13th Legion. Legate Andariel of Aisling's 13th Legion officially ended the ceasefire
   with Winters' Wolves, citing reports of Winters' supporters undermining Aisling's
   control systems.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

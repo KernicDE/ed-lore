@@ -11,7 +11,6 @@ related_entities:
 - aegis
 - azimuth-biotech
 - hip-22460
-inara_url: https://inara.cz/elite/minorfaction/?search=Empire
 bio: 'Empire is a organization active in Elite Dangerous lore from 3302-07-01 to 3311-11-27.
   Frequently associated with Federation, Alliance, Aegis. Key activities include:
   Senator Zemina Torval has condemned the Federation''s deployment of warships in
@@ -19,6 +18,7 @@ bio: 'Empire is a organization active in Elite Dangerous lore from 3302-07-01 to
   General Alexander Lee of United Teaka First argued on Affairs of State that the
   Federation''s presence at barnacle sites is strategic resour...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

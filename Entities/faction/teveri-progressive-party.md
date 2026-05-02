@@ -11,11 +11,11 @@ related_entities:
 - lakon-spaceways
 - diso
 - lave
-inara_url: https://inara.cz/elite/minorfaction/?search=Teveri%20Progressive%20Party
 bio: 'Teveri Progressive Party is a organization in the Elite Dangerous universe,
   active from 3305-10-16 to 3305-10-16. Frequently linked with LFT 37, Riedquat, Interstellar
   Association for Agriculture. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

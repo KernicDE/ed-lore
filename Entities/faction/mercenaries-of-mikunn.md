@@ -11,7 +11,6 @@ related_entities:
 - hr-7327
 - law-party-of-hr-7327
 - col-285-sector-vg-1-b24-6
-inara_url: https://inara.cz/elite/minorfaction/?search=Mercenaries%20of%20Mikunn
 bio: Mercenaries of Mikunn is a organization in the Elite Dangerous universe, active
   from 3301-06-08 to 3301-07-27. Frequently linked with Sefrys, Dukes of Mikunn, HR
   7327. The Dukes of Mikunn mobilised their mercenaries to assist Cerberus Plague-affected
@@ -19,6 +18,7 @@ bio: Mercenaries of Mikunn is a organization in the Elite Dangerous universe, ac
   and Sefry, they are moving stockpiled medicine and medical scientists to find the
   source.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

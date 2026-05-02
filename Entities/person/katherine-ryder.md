@@ -5,7 +5,6 @@ type: person
 first_seen_date: '3301-09-17'
 last_seen_date: '3303-04-29'
 mention_count: 3
-inara_url: https://inara.cz/elite/cmdr-search/?search=Katherine%20Ryder
 bio: Katherine Ryder is a journalist in the Elite Dangerous universe, active from
   3301-09-17 to 3303-04-29. Closely associated with Imperial Navy, Emperor's Dawn,
   Imperial Herald. Freelance journalist Katherine Ryder commented that the conflict
@@ -13,6 +12,7 @@ bio: Katherine Ryder is a journalist in the Elite Dangerous universe, active fro
   open war. Journalist Katherine Ryder reported from the frontlines of Senator Patreus's
   campaign against Emperor's Dawn in the Dakshmandi and Maausk systems.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

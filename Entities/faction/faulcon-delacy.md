@@ -11,13 +11,13 @@ related_entities:
 - aegis
 - pilots-federation
 - universal-cartographics
-inara_url: https://inara.cz/elite/minorfaction/?search=Faulcon%20DeLacy
 bio: 'Faulcon DeLacy is a organization active in Elite Dangerous lore from 3303-11-11
   to 3311-04-24. Frequently associated with Zorgon Peterson, Achilles Aerospace. Key
   activities include: Two new ships marketed toward independent pilots are released.;
   Achilles Aerospace releases the full range of Supercruise Overcharge drives and
   upgrades, with Dr.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

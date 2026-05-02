@@ -11,7 +11,6 @@ related_entities:
 - alliance
 - code
 - lave
-inara_url: https://inara.cz/elite/minorfaction/?search=Adle%27s%20Armada
 bio: 'Adle''s Armada is a organization active in Elite Dangerous lore from 3301-04-03
   to 3303-06-30. Frequently associated with Cosmic State, Emperor''s Grace. Key activities
   include: As the war in Lave continues between CODE and Cosmic State, Cosmic State
@@ -19,6 +18,7 @@ bio: 'Adle''s Armada is a organization active in Elite Dangerous lore from 3301-
   Federal-leaning vigilante group, declared itself a sovereign power independent of
   all galactic powers.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

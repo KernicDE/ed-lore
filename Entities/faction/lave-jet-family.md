@@ -11,7 +11,6 @@ related_entities:
 - lave-station
 - diso
 - league-of-reparation
-inara_url: https://inara.cz/elite/minorfaction/?search=Lave%20Jet%20Family
 bio: 'Lave Jet Family is a organization active in Elite Dangerous lore from 3304-06-08
   to 3304-06-17. Frequently associated with Lave Radio Network, Lave, Lave Station.
   Key activities include: Weekly summary covering Aisling Duval''s anti-slavery campaign
@@ -19,6 +18,7 @@ bio: 'Lave Jet Family is a organization active in Elite Dangerous lore from 3304
   the Le...; Weekly summary covering the murder of INRA descendant Luca Hem by the
   League of Reparation, Aisling Duval hosting Jordan Rochester and Caspian Leop...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

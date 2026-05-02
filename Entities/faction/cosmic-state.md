@@ -11,7 +11,6 @@ related_entities:
 - adles-armada
 - hel
 - alliance
-inara_url: https://inara.cz/elite/minorfaction/?search=Cosmic%20State
 bio: Cosmic State is a organization in the Elite Dangerous universe, active from 3301-04-03
   to 3301-07-24. Frequently linked with Emperor's Grace, Hammer Arms, Adle's Armada.
   As the war in Lave continues between CODE and Cosmic State, Cosmic State has allied
@@ -19,6 +18,7 @@ bio: Cosmic State is a organization in the Elite Dangerous universe, active from
   Kudach are heading the operation to free Lave and potentially Leesti from the CODE
   threat.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

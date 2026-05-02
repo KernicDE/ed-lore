@@ -5,7 +5,6 @@ type: person
 first_seen_date: '3301-09-18'
 last_seen_date: '3302-03-16'
 mention_count: 7
-inara_url: https://inara.cz/elite/cmdr-search/?search=Damon%20Clarke
 bio: 'Damon Clarke is a Emperor in Elite Dangerous lore, active from 3301-09-18 to
   3302-03-16. Affiliated with Imperial Herald, Emperor''s Dawn, Imperial Internal
   Security Service. Notable activities include: Princess Aisling Duval revealed that
@@ -14,6 +13,7 @@ bio: 'Damon Clarke is a Emperor in Elite Dangerous lore, active from 3301-09-18 
   her office and Emperor''s Dawn, Princess Aisling Duval issued a statement denying
   all knowledge of th...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

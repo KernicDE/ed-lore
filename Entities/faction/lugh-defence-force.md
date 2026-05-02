@@ -11,7 +11,6 @@ related_entities:
 - lugh-for-equality-party
 - lugh
 - hartsfield-market
-inara_url: https://inara.cz/elite/minorfaction/?search=Lugh%20Defence%20Force
 bio: Lugh Defence Force is a organization in the Elite Dangerous universe, active
   from 3301-03-13 to 3301-03-13. Frequently linked with Federal Navy, Crimson State
   Group, Balandin Gateway. President Halsey officially declared war on the Crimson
@@ -19,6 +18,7 @@ bio: Lugh Defence Force is a organization in the Elite Dangerous universe, activ
   though the Lugh for Equality Party disputed this claiming less than 30% were politically
   engaged.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

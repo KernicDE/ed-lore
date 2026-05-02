@@ -5,11 +5,11 @@ type: person
 first_seen_date: '3302-03-24'
 last_seen_date: '3302-03-24'
 mention_count: 1
-inara_url: https://inara.cz/elite/cmdr-search/?search=Drusus%20Kane
 bio: Drusus Kane is a prominent figure in the Elite Dangerous universe, active from
   3302-03-24 to 3302-03-24. Closely associated with Blue Hand Gang, Imperial counter-insurgency
   unit. Drusus Kane suggests the abductors deliberately infected the victims.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -5,12 +5,12 @@ type: person
 first_seen_date: '3301-05-31'
 last_seen_date: '3301-05-31'
 mention_count: 1
-inara_url: https://inara.cz/elite/cmdr-search/?search=Ivan%20Shevchenko
 bio: Ivan Shevchenko is a pilot in the Elite Dangerous universe, active from 3301-05-31
   to 3301-05-31. Closely associated with Alioth Independents. Mercenary pilot Ivan
   Shevchenko noted the Sobek Boys were well-organised with heavily reinforced ships,
   making them a formidable opponent.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

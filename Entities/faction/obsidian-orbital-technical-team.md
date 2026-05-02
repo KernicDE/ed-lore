@@ -11,13 +11,13 @@ related_entities:
 - ackerman-market
 - eravate
 - von-bellingshausen-port
-inara_url: https://inara.cz/elite/minorfaction/?search=Obsidian%20Orbital%20technical%20team
 bio: Obsidian Orbital technical team is a organization in the Elite Dangerous universe,
   active from 3302-02-24 to 3302-04-22. Frequently linked with Bond Hub, Obsidian
   Orbital, Hinz Hub. Despite meta-alloys alleviating issues at Obsidian Orbital, Professor
   Palin's disappearance halted further research. Multiple starports have suspended
   services or are experiencing technical issues due to Unknown Artefact interference.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

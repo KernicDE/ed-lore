@@ -11,7 +11,6 @@ related_entities:
 - mars-tribune
 - alliance
 - achilles-corporation
-inara_url: https://inara.cz/elite/minorfaction/?search=Federal%20Security%20Service
 bio: 'Federal Security Service is a organization active in Elite Dangerous lore from
   3301-08-21 to 3308-03-25. Frequently associated with Mars, Federal Times, Mars Tribune.
   Key activities include: Weekly summary covering Gibson Kincaid''s re-election as
@@ -19,6 +18,7 @@ bio: 'Federal Security Service is a organization active in Elite Dangerous lore 
   The Mars T...; Weekly summary covering the Alliance Assembly''s decision to create
   the Office of the Alliance President without executive powers, Sirius Corporatio...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

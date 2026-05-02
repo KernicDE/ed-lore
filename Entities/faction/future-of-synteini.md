@@ -10,7 +10,6 @@ related_entities:
 - synteini
 - lagerkvist-gateway
 - william-sargent-vision
-inara_url: https://inara.cz/elite/minorfaction/?search=Future%20of%20Synteini
 bio: Future of Synteini is a organization in the Elite Dangerous universe, active
   from 3301-03-08 to 3301-03-08. Frequently linked with Lagerkvist Gateway, Imperial
   Slavers Association, Synteini. The Future of Synteini party called on commanders
@@ -19,6 +18,7 @@ bio: Future of Synteini is a organization in the Elite Dangerous universe, activ
   business at William Sargent Vision instead of Lagerkvist Gateway to starve the ISA
   and push Senator Torval out of Synteini.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

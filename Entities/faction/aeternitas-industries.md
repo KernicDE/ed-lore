@@ -8,7 +8,6 @@ mention_count: 2
 related_entities:
 - aeternitas
 - houtman-city
-inara_url: https://inara.cz/elite/minorfaction/?search=Aeternitas%20Industries
 bio: Aeternitas Industries is a organization in the Elite Dangerous universe, active
   from 3302-12-08 to 3302-12-15. Frequently linked with Aeternitas, Houtman City.
   Aeternitas Industries has issued a kill order on wanted ships in the Aeternitas
@@ -17,6 +16,7 @@ bio: Aeternitas Industries is a organization in the Elite Dangerous universe, ac
   agitators with the help of hundreds of pilots, and rewards are now available at
   Houtman City.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

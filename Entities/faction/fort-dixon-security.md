@@ -8,7 +8,6 @@ mention_count: 5
 related_entities:
 - vega
 - vox-galactica
-inara_url: https://inara.cz/elite/minorfaction/?search=Fort%20Dixon%20Security
 bio: 'Fort Dixon Security is a organization active in Elite Dangerous lore from 3305-04-25
   to 3305-05-31. Frequently associated with Vega, Vox Galactica. Key activities include:
   Commander Bjorn Lennox''s Diamondback Explorer is stolen from Fort Dixon in the
@@ -16,6 +15,7 @@ bio: 'Fort Dixon Security is a organization active in Elite Dangerous lore from 
   Security identifies starship technician Gan Romero as the individual who stole a
   docked Diamondback Explorer in the Vega system, though ...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

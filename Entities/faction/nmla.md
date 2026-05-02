@@ -11,7 +11,6 @@ related_entities:
 - marlinist-colonies
 - achenar
 - imperial-senate
-inara_url: https://inara.cz/elite/minorfaction/?search=NMLA
 bio: 'NMLA is a organization active in Elite Dangerous lore from 3306-09-10 to 3308-07-06.
   Frequently associated with Marlinist, Alliance, Achenar. Key activities include:
   The NMLA launches coordinated terrorist attacks on four Imperial starports — Mackenzie
@@ -19,6 +18,7 @@ bio: 'NMLA is a organization active in Elite Dangerous lore from 3306-09-10 to 3
   the NMLA starport bombings used customised explosives incorporating Thargoid technology
   and caustic enzymes.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

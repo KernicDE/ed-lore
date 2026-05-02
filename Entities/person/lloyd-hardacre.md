@@ -5,7 +5,6 @@ type: person
 first_seen_date: '3304-09-20'
 last_seen_date: '3304-09-29'
 mention_count: 4
-inara_url: https://inara.cz/elite/cmdr-search/?search=Lloyd%20Hardacre
 bio: Lloyd Hardacre is a president in the Elite Dangerous universe, active from 3304-09-20
   to 3304-09-29. Closely associated with Federal Security Service, Copernicus Shipping
   Ltd, Achilles Corporation. The robot projects off-the-books logs despite Hardacre's
@@ -13,6 +12,7 @@ bio: Lloyd Hardacre is a president in the Elite Dangerous universe, active from 
   investigates how the robot obtained the information and why it chose to make the
   data public.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

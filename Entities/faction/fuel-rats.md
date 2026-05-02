@@ -11,7 +11,6 @@ related_entities:
 - fuel-rats-mischief
 - jaques-station
 - beagle-point
-inara_url: https://inara.cz/elite/minorfaction/?search=Fuel%20Rats
 bio: 'Fuel Rats is a organization active in Elite Dangerous lore from 3301-06-24 to
   3303-01-12. Frequently associated with Pilots Federation, Sagittarius A*, Fuel Rats
   Mischief. Key activities include: Jaques Station, the galaxy''s only travelling
@@ -19,6 +18,7 @@ bio: 'Fuel Rats is a organization active in Elite Dangerous lore from 3301-06-24
   Point.; The Fuel Rats announce that Jaques Station has received sufficient fuel
   for its proposed jump to Beagle Point.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

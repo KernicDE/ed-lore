@@ -11,12 +11,12 @@ related_entities:
 - olympus-village
 - san-francisco
 - columbus-station
-inara_url: https://inara.cz/elite/minorfaction/?search=Kuiper%20Mining%20Inc.
 bio: 'Kuiper Mining Inc. is a organization in the Elite Dangerous universe, active
   from 3304-10-05 to 3304-10-05. Frequently linked with Achilles Corporation, Federal
   Security Service, Columbus Station. Two owners are identified: Don Zhao, CEO of
   Kuiper Mining Inc., and Anya Blackriver, a public-relations consultant.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

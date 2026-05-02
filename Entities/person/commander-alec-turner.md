@@ -5,10 +5,10 @@ type: person
 first_seen_date: '3302-03-30'
 last_seen_date: '3302-11-22'
 mention_count: 2
-inara_url: https://inara.cz/elite/cmdr-search/?search=Commander%20Alec%20Turner
 bio: 'Commander Alec Turner is a prominent figure in the Elite Dangerous universe,
   active from 3302-03-30 to 3302-11-22. Closely associated with Buckyball Racing Club. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

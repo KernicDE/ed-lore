@@ -11,13 +11,13 @@ related_entities:
 - lomas-racing-news
 - darboux-orbital
 - slough-orbital
-inara_url: https://inara.cz/elite/minorfaction/?search=XYZ%20Fight%20Club
 bio: XYZ Fight Club is a organization in the Elite Dangerous universe, active from
   3301-08-26 to 3301-10-26. Frequently linked with Athena, Sol. The XYZ Fight Club
   gladiatorial tournament took place in the Athena system. The XYZ Fight Club held
   its 'Cobra Crunch' event at Powell Terminal in the Athena system, featuring an all-on-all
   Cobra Mk III battle.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

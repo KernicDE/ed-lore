@@ -11,7 +11,6 @@ related_entities:
 - mudhrid
 - sacrosanct
 - vox-galactica
-inara_url: https://inara.cz/elite/minorfaction/?search=Theta%20Group
 bio: Theta Group is a organization in the Elite Dangerous universe, active from 3307-12-07
   to 3307-12-13. Frequently linked with Far God cult, NMLA, Mudhrid. ACT faces a tense
   standoff with Theta Seven, who holds thousands of Far God cultists hostage aboard
@@ -19,6 +18,7 @@ bio: Theta Group is a organization in the Elite Dangerous universe, active from 
   themselves by destroying the Sacrosanct megaship in Mudhrid, killing thousands of
   Far God cultists, as ACT confirms the NMLA leader is dead.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

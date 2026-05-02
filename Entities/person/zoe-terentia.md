@@ -5,10 +5,10 @@ type: person
 first_seen_date: '3309-11-14'
 last_seen_date: '3309-11-14'
 mention_count: 1
-inara_url: https://inara.cz/elite/cmdr-search/?search=Zoe%20Terentia
 bio: 'Zoe Terentia is a prominent figure in the Elite Dangerous universe, active from
   3309-11-14 to 3309-11-14. Closely associated with Azimuth, Aegis. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -9,7 +9,6 @@ related_entities:
 - imperial-senate
 - capitol
 - imperial-navy
-inara_url: https://inara.cz/elite/minorfaction/?search=Imperial%20Slave%20Association
 bio: Imperial Slave Association is a organization in the Elite Dangerous universe,
   active from 3301-08-21 to 3301-09-14. Frequently linked with Capitol, Imperial Senate,
   Imperial Navy. A special Imperial Senate committee conducted a surprise audit of
@@ -17,6 +16,7 @@ bio: Imperial Slave Association is a organization in the Elite Dangerous univers
   violations near Imperial borders, leading to indictments of border-security officers
   and pilots.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -11,7 +11,6 @@ related_entities:
 - lyakhov-dock
 - aegis
 - pilots-federation
-inara_url: https://inara.cz/elite/minorfaction/?search=EG%20Union
 bio: 'EG Union is a organization active in Elite Dangerous lore from 3304-03-23 to
   3307-12-31. Frequently associated with Federation, Lyakhov Dock, CPC 20 6743. Key
   activities include: Yuri Grom has announced an initiative to create a new shipyard
@@ -19,6 +18,7 @@ bio: 'EG Union is a organization active in Elite Dangerous lore from 3304-03-23 
   hu...; This week''s major stories include Aegis publishing a Thargoid report based
   on Ram Tah''s decrypted Guardian logs, revealing the two species'' ancient...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

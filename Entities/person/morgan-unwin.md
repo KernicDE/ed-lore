@@ -5,7 +5,6 @@ type: person
 first_seen_date: '3304-08-24'
 last_seen_date: '3304-10-20'
 mention_count: 3
-inara_url: https://inara.cz/elite/cmdr-search/?search=Morgan%20Unwin
 bio: Morgan Unwin is a prominent figure in the Elite Dangerous universe, active from
   3304-08-24 to 3304-10-20. Closely associated with Mars Tribune, Federal Security
   Service. The Mars Tribune publishes an exposé revealing Congressman Morgan Unwin's
@@ -13,6 +12,7 @@ bio: Morgan Unwin is a prominent figure in the Elite Dangerous universe, active 
   traffic drugs to hide his own addiction. Unwin is arrested by the Federal Security
   Service and faces expulsion from Congress.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

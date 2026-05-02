@@ -10,11 +10,11 @@ related_entities:
 - workers-party-of-g-176-29
 - graill-redd
 - j-g-ballard-gateway
-inara_url: https://inara.cz/elite/minorfaction/?search=Citizen%20Party%20of%20G146-60
 bio: 'Citizen Party of G146-60 is a organization in the Elite Dangerous universe,
   active from 3302-06-30 to 3302-06-30. Frequently linked with Workers Party of G
   176-29, Graill Redd Liberals, J. G. Ballard Gateway. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -11,7 +11,6 @@ related_entities:
 - varpet
 - akandinigua
 - tilialas-lament
-inara_url: https://inara.cz/elite/minorfaction/?search=Conservatives%20of%20Tiliala
 bio: Conservatives of Tiliala is a organization in the Elite Dangerous universe, active
   from 3303-11-11 to 3303-11-11. Frequently linked with Varpet, Tiliala, Akandinigua.
   The Black Fleet, an independent organization formerly based in Varpet, has become
@@ -19,6 +18,7 @@ bio: Conservatives of Tiliala is a organization in the Elite Dangerous universe,
   shared between the Black Fleet and the Conservatives of Tiliala, who have relocated
   to a Wells-class Carrier named Tiliala's Lament in nearby Akandinigua.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

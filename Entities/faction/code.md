@@ -11,13 +11,13 @@ related_entities:
 - adles-armada
 - lave
 - leesti
-inara_url: https://inara.cz/elite/minorfaction/?search=CODE
 bio: CODE is a organization in the Elite Dangerous universe, active from 3301-04-03
   to 3301-04-03. Frequently linked with Adle's Armada, Alliance, Leesti. As the war
   in Lave continues between CODE and Cosmic State, Cosmic State has allied with Adle's
   Armada in Operation Tomahawk. CODE is reportedly charging traders for 'travel passes'
   in the Lave system, claiming they provide protection against CODE attacks.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

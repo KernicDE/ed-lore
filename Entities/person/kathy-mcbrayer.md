@@ -5,11 +5,11 @@ type: person
 first_seen_date: '3301-09-06'
 last_seen_date: '3301-09-06'
 mention_count: 1
-inara_url: https://inara.cz/elite/cmdr-search/?search=Kathy%20McBrayer
 bio: 'Kathy McBrayer is a commander in the Elite Dangerous universe, active from 3301-09-06
   to 3301-09-06. Closely associated with Pilots Federation, Jameson Memorial Review,
   Universal Cartographics. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

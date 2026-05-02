@@ -11,11 +11,11 @@ related_entities:
 - wolf-1301
 - crom
 - chorel-survey
-inara_url: https://inara.cz/elite/minorfaction/?search=Crom%20Silver%20Boys
 bio: 'Crom Silver Boys is a organization in the Elite Dangerous universe, active from
   3302-06-09 to 3302-06-16. Frequently linked with Herthe, Walheim Enterprise, Wolf
   1301. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -11,7 +11,6 @@ related_entities:
 - dornier-terminal
 - falisci-purple-gang
 - dongzi
-inara_url: https://inara.cz/elite/minorfaction/?search=Citizens%20of%20Tradition
 bio: 'Citizens of Tradition is a organization active in Elite Dangerous lore from
   3301-02-27 to 3301-04-11. Frequently associated with Falisci, Ngaiawang, Dornier
   Terminal. Key activities include: Despite Senator Patreus''s warning, Falisci pirates
@@ -19,6 +18,7 @@ bio: 'Citizens of Tradition is a organization active in Elite Dangerous lore fro
   (1) The Federal Navy-Polahukuna Raiders conflict shifted as the Federation began
   construction of a new Farragut-class battlecruise...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

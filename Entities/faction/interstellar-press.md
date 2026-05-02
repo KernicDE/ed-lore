@@ -11,7 +11,6 @@ related_entities:
 - alioth
 - utopia
 - mars
-inara_url: https://inara.cz/elite/minorfaction/?search=Interstellar%20Press
 bio: 'Interstellar Press is a media active in Elite Dangerous lore from 3301-08-19
   to 3302-09-07. Frequently associated with Kumo Crew, Alioth, Alliance. Key activities
   include: Cynthia Sideris, chair of Universal Cartographics, comments on Jasmina
@@ -19,6 +18,7 @@ bio: 'Interstellar Press is a media active in Elite Dangerous lore from 3301-08-
   Professor Violet Belbin of the Xenological Research Institute expressed doubts about
   Professor Ishmael Palin''s meta-alloy research, cautioning that...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

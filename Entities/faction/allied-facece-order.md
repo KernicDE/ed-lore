@@ -11,7 +11,6 @@ related_entities:
 - imperial-navy
 - capitol
 - imperial-naval-auxiliary
-inara_url: https://inara.cz/elite/minorfaction/?search=Allied%20Facece%20Order
 bio: Allied Facece Order is a religious in the Elite Dangerous universe, active from
   3302-01-20 to 3302-07-02. Frequently linked with Facece, Imperial Herald, Imperial
   Navy. The independent faction Allied Facece Order has seized control of the Facece
@@ -19,6 +18,7 @@ bio: Allied Facece Order is a religious in the Elite Dangerous universe, active 
   forces. The Allied Facece Order occupied the Facece system two weeks ago, causing
   shockwaves through the Empire.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

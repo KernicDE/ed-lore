@@ -11,7 +11,6 @@ related_entities:
 - 78-ursae-majoris
 - maia
 - brewer-corporation
-inara_url: https://inara.cz/elite/minorfaction/?search=Canonn
 bio: 'Canonn is a organization active in Elite Dangerous lore from 3301-05-04 to 3308-11-11.
   Frequently associated with Federation, Universal Cartographics, 78 Ursae Majoris.
   Key activities include: Dr Arcanonn''s Canonn research team discovered that Unknown
@@ -19,6 +18,7 @@ bio: 'Canonn is a organization active in Elite Dangerous lore from 3301-05-04 to
   ce...; A version of the FSS scanning software used to track the Thargoid anomalies
   has been made available to the Pilots’ Federation.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

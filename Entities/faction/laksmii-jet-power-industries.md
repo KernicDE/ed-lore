@@ -9,7 +9,6 @@ related_entities:
 - independents-of-parun
 - parun
 - underwood-port
-inara_url: https://inara.cz/elite/minorfaction/?search=Laksmii%20Jet%20Power%20Industries
 bio: Laksmii Jet Power Industries is a organization in the Elite Dangerous universe,
   active from 3303-01-12 to 3303-01-19. Frequently linked with Independents of Parun,
   Parun, Underwood Port. Laksmii Jet Power Industries plans to smuggle weapons into
@@ -18,6 +17,7 @@ bio: Laksmii Jet Power Industries is a organization in the Elite Dangerous unive
   Industries' plot to smuggle weapons into Underwood Port by placing bounties on their
   ships, destroying hundreds of vessels.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

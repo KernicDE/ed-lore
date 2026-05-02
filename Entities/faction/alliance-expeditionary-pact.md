@@ -11,11 +11,11 @@ related_entities:
 - onoros
 - pilots-federation
 - shenve
-inara_url: https://inara.cz/elite/minorfaction/?search=Alliance%20Expeditionary%20Pact
 bio: Alliance Expeditionary Pact is a organization in the Elite Dangerous universe,
   active from 3306-10-15 to 3309-02-16. Frequently linked with Onoros, Witch Head
   Nebula, Alliance.
 ---
+
 
 
 <!-- AUTO-GENERATED -->
