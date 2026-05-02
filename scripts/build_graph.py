@@ -367,9 +367,30 @@ def build() -> dict[str, Any]:
             for key in ["coords", "allegiance", "government", "controlling_faction",
                         "population", "security", "economy", "second_economy",
                         "edsm_url", "inara_url", "parent_arc", "summary", "description",
-                        "status", "outcome", "phases", "key_entities", "bio"]:
+                        "status", "outcome", "phases", "key_entities", "bio", "related_entities"]:
                 if key in fm and fm[key] is not None:
                     rec[key] = fm[key]
+            # Extract full markdown biography after the frontmatter
+            body = parts[2].strip() if len(parts) > 2 else ""
+            # Strip auto-generated comment and header
+            if body.startswith("<!-- AUTO-GENERATED -->"):
+                body = body[len("<!-- AUTO-GENERATED -->"):].strip()
+            # Find the ## Biography section and extract only its content
+            import re
+            bio_match = re.search(r'^## Biography\s*\n+(.+)', body, re.DOTALL | re.MULTILINE)
+            if bio_match:
+                bio_text = bio_match.group(1).strip()
+                # Remove "*[To be enriched]*" placeholder
+                if bio_text and not bio_text.startswith('*[To be enriched]*'):
+                    rec["bio_full"] = bio_text
+            # If no ## Biography section, use the body after removing the title header
+            elif body:
+                # Remove the title line (# Entity Name)
+                lines = body.split('\n')
+                while lines and (lines[0].strip().startswith('# ') or lines[0].strip() == ''):
+                    lines.pop(0)
+                if lines:
+                    rec["bio_full"] = '\n'.join(lines).strip()
 
     # Build arc records
     print("Building arc records...")
@@ -411,7 +432,7 @@ def build() -> dict[str, Any]:
     print("Building co-occurrence matrix...")
     cooccurrence: dict[str, dict[str, int]] = {}
     for art in graph["articles"]:
-        ids = [make_entity_id(e) for e in art.get("entities", []) + art.get("groups", []) + art.get("locations", [])]
+        ids = [make_entity_id(e) for e in art.get("entities", []) + art.get("groups", []) + art.get("locations", []) + art.get("persons", []) + art.get("technologies", [])]
         for i, a in enumerate(ids):
             for b in ids[i + 1:]:
                 if a == b:

@@ -87,11 +87,16 @@ function formatNumber(n: number): string {
     </div>
 
     {/* Bio / Description */}
-    {entity?.bio && (
+    {(entity?.bio_full || entity?.bio) && (
       <div class="holo-panel">
-        <div class="holo-title">Description</div>
-        <div style="font-size: 14px; color: var(--text-secondary); line-height: 1.6;">
-          {entity.bio}
+        <div class="holo-title">
+          {entity?.type === 'person' ? 'Biography'
+            : entity?.type === 'location' ? 'System Overview'
+            : entity?.type === 'technology' ? 'Technical Overview'
+            : 'Description'}
+        </div>
+        <div style="font-size: 14px; color: var(--text-secondary); line-height: 1.6; white-space: pre-wrap;">
+          {entity.bio_full || entity.bio}
         </div>
       </div>
     )}
