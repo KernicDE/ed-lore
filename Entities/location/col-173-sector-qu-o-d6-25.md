@@ -1,0 +1,32 @@
+---
+id: col-173-sector-qu-o-d6-25
+name: Col 173 Sector QU-O d6-25
+type: location
+first_seen_date: '3304-02-28'
+last_seen_date: '3304-02-28'
+mention_count: 1
+related_entities:
+- hd-63154
+- synuefe-eu-q-c21-10
+- meene
+- phoenix-base
+---
+
+<!-- AUTO-GENERATED -->
+
+# Col 173 Sector QU-O d6-25
+
+First mentioned: **3304-02-28**  
+Last mentioned: **3304-02-28**  
+Total mentions: **1**
+
+## Related
+
+- [[HD 63154]] (1 co-mentions)
+- [[Synuefe EU-Q c21-10]] (1 co-mentions)
+- [[Meene]] (1 co-mentions)
+- [[Phoenix Base]] (1 co-mentions)
+
+## Biography
+
+*[To be enriched]*

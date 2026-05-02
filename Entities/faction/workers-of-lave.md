@@ -1,0 +1,32 @@
+---
+id: workers-of-lave
+name: Workers of Lave
+type: faction
+first_seen_date: '3301-08-10'
+last_seen_date: '3301-08-10'
+mention_count: 1
+related_entities:
+- lfo
+- defence-party
+- lave
+- lave-ii
+---
+
+<!-- AUTO-GENERATED -->
+
+# Workers of Lave
+
+First mentioned: **3301-08-10**  
+Last mentioned: **3301-08-10**  
+Total mentions: **1**
+
+## Related
+
+- [[LFO]] (1 co-mentions)
+- [[Defence Party]] (1 co-mentions)
+- [[Lave]] (1 co-mentions)
+- [[Lave II]] (1 co-mentions)
+
+## Biography
+
+*[To be enriched]*

@@ -59,6 +59,7 @@ MERGE_ALIASES: dict[str, str] = {
     "DeLacy": "Faulcon DeLacy",
     "Lakon": "Lakon Spaceways",
     "Saud Kruger": "Saud Kruger",
+    "Dr. Walden": "Hans Walden",
 }
 
 LOCATION_BLOCKLIST = {

@@ -17,7 +17,7 @@ persons:
 - Kahina Tijani Loren
 - Chancellor Blaine
 - Cuthrick Delaney
-- Dr. Walden
+- Hans Walden
 groups: []
 locations:
 - Capitol
