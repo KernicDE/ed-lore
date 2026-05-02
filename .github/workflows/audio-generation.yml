@@ -64,8 +64,8 @@ jobs:
             echo "Running FULL rebuild — all missing audio files..."
             python3 scripts/generate_audio.py --batch-size 0 --concurrency 8
           else
-            echo "Running incremental batch (500 newest missing)..."
-            python3 scripts/generate_audio.py --batch-size 500 --sort recent --concurrency 8
+            echo "Running timed batch — generate as many missing files as possible in ~55 min..."
+            python3 scripts/generate_audio.py --batch-size 0 --max-runtime 3300 --concurrency 8
           fi
 
       - name: Generate lore_graph.json

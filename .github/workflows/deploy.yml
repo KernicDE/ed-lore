@@ -9,6 +9,7 @@ permissions:
   contents: read
   pages: write
   id-token: write
+  actions: write  # required to trigger audio-generation workflow
 
 concurrency:
   group: pages
@@ -89,9 +90,11 @@ jobs:
           else
             MISSING=$((ARTICLE_COUNT - MP3_COUNT))
             echo "⚠️  Audio incomplete — $MISSING articles missing audio, $EMPTY_MP3S empty/truncated files."
-            echo "The hourly audio-generation workflow will fill the gaps automatically."
-            echo "To force a full rebuild, run the 'Audio Generation' workflow manually with 'full_rebuild' checked."
+            echo "Triggering audio-generation workflow to fill gaps..."
+            gh workflow run audio-generation.yml --repo ${{ github.repository }}
           fi
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5

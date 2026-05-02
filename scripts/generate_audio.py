@@ -9,6 +9,7 @@ import hashlib
 import json
 import re
 import sys
+import time
 from pathlib import Path
 
 import yaml
@@ -116,6 +117,7 @@ async def main():
     parser.add_argument("--batch-size", type=int, default=0, help="Max articles to generate (0 = all)")
     parser.add_argument("--sort", choices=["recent", "oldest"], default="oldest", help="Process order")
     parser.add_argument("--concurrency", type=int, default=CONCURRENCY, help="Parallel requests")
+    parser.add_argument("--max-runtime", type=int, default=0, help="Max runtime in seconds (0 = no limit)")
     args = parser.parse_args()
     
     manifest = {}
@@ -171,6 +173,7 @@ async def main():
         print("Nothing to do — all audio up to date.")
         return
     
+    start_time = time.monotonic()
     semaphore = asyncio.Semaphore(args.concurrency)
     generated = failed = 0
     
@@ -191,6 +194,14 @@ async def main():
         total_done = len([u for u, h in manifest.items() if any(u == q[0] for q in queue)])
         print(f"  Batch {i//batch_size + 1}/{(len(queue) + batch_size - 1)//batch_size}: "
               f"{generated} generated, {failed} failed")
+        
+        if args.max_runtime > 0:
+            elapsed = time.monotonic() - start_time
+            if elapsed >= args.max_runtime:
+                remaining = len(queue) - (generated + failed)
+                print(f"\n⏱️  Runtime limit reached ({int(elapsed)}s). "
+                      f"{remaining} articles remaining for next run.")
+                break
     
     print(f"\nDone: {generated} generated, {failed} failed")
     print(f"Audio files: {len(manifest)} in manifest, {len(list(AUDIO_DIR.glob('*.mp3')))} on disk")
