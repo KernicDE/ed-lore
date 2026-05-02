@@ -79,10 +79,10 @@ def list_r2_objects(token: str, account_id: str) -> dict[str, int]:
         # result can be a list (empty bucket) or a dict with objects
         if isinstance(result, list):
             for obj in result:
-                objects[obj["key"]] = obj["size"]
+                objects[obj["key"]] = (obj["size"], obj.get("etag", ""))
             break  # no pagination for list response
         for obj in result.get("objects", []):
-            objects[obj["key"]] = obj["size"]
+            objects[obj["key"]] = (obj["size"], obj.get("etag", ""))
         if not result.get("truncated", False):
             break
         cursor = result.get("cursor")
