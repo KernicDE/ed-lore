@@ -71,6 +71,28 @@ jobs:
           cd website
           pnpm build
 
+      - name: Validate audio files
+        run: |
+          echo "=== Audio Validation ==="
+          ARTICLE_COUNT=$(python3 -c "import json; print(json.load(open('website/public/data/version.json'))['article_count'])")
+          MANIFEST_COUNT=$(python3 -c "import json,os; p='scripts/audio_manifest.json'; print(len(json.load(open(p))) if os.path.exists(p) else 0)")
+          MP3_COUNT=$(find website/public/audio -maxdepth 1 -name '*.mp3' | wc -l)
+          EMPTY_MP3S=$(find website/public/audio -maxdepth 1 -name '*.mp3' -size -2k | wc -l)
+
+          echo "Articles in version.json:     $ARTICLE_COUNT"
+          echo "Entries in audio_manifest:    $MANIFEST_COUNT"
+          echo "MP3 files on disk:            $MP3_COUNT"
+          echo "Empty/truncated MP3s (<2KB):  $EMPTY_MP3S"
+
+          if [ "$MP3_COUNT" -eq "$ARTICLE_COUNT" ] && [ "$EMPTY_MP3S" -eq 0 ]; then
+            echo "✅ Audio coverage complete — all $ARTICLE_COUNT articles have valid audio."
+          else
+            MISSING=$((ARTICLE_COUNT - MP3_COUNT))
+            echo "⚠️  Audio incomplete — $MISSING articles missing audio, $EMPTY_MP3S empty/truncated files."
+            echo "The hourly audio-generation workflow will fill the gaps automatically."
+            echo "To force a full rebuild, run the 'Audio Generation' workflow manually with 'full_rebuild' checked."
+          fi
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5
         with:

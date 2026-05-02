@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: '0 * * * *'  # Every hour
   workflow_dispatch:
+    inputs:
+      full_rebuild:
+        description: 'Generate ALL missing audio files (not just 500 newest)'
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -53,8 +58,15 @@ jobs:
           key: manifest-cache-${{ github.run_id }}
           restore-keys: manifest-cache-
 
-      - name: Generate audio batch (500 newest)
-        run: python3 scripts/generate_audio.py --batch-size 500 --sort recent --concurrency 8
+      - name: Generate audio
+        run: |
+          if [ "${{ github.event.inputs.full_rebuild }}" == "true" ]; then
+            echo "Running FULL rebuild — all missing audio files..."
+            python3 scripts/generate_audio.py --batch-size 0 --concurrency 8
+          else
+            echo "Running incremental batch (500 newest missing)..."
+            python3 scripts/generate_audio.py --batch-size 500 --sort recent --concurrency 8
+          fi
 
       - name: Generate lore_graph.json
         run: python3 scripts/build_graph.py
