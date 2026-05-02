@@ -61,10 +61,14 @@ export default function AppShell() {
   const [visibleUuids, setVisibleUuids] = useState<string[]>([]);
   const [searchOpen, setSearchOpen] = useState(false);
 
+  const cacheBuster = typeof window !== 'undefined' && (window as any).GALNET_BUILD
+    ? `?v=${encodeURIComponent((window as any).GALNET_BUILD)}`
+    : `?t=${Date.now()}`;
+
   useEffect(() => {
     Promise.all([
-      fetch(`${BASE}/data/galnet-meta.json`).then((r) => r.json()),
-      fetch(`${BASE}/data/search-index.json`).then((r) => r.json()),
+      fetch(`${BASE}/data/galnet-meta.json${cacheBuster}`).then((r) => r.json()),
+      fetch(`${BASE}/data/search-index.json${cacheBuster}`).then((r) => r.json()),
     ]).then(([meta, search]) => {
       setArticles(meta.articles);
       setEntities(meta.entities);
@@ -80,7 +84,7 @@ export default function AppShell() {
   const loadBodies = useCallback(() => {
     if (bodies !== null || bodiesLoading.current) return;
     bodiesLoading.current = true;
-    fetch(`${BASE}/data/galnet-bodies.json`)
+    fetch(`${BASE}/data/galnet-bodies.json${cacheBuster}`)
       .then((r) => r.json())
       .then((data) => setBodies(data));
   }, [bodies]);

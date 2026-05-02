@@ -563,6 +563,15 @@ def main() -> int:
     (WEBSITE_DATA_DIR / "galnet-bodies.json").write_text(json.dumps(bodies, ensure_ascii=False), encoding="utf-8")
     (WEBSITE_DATA_DIR / "search-index.json").write_text(json.dumps(search_articles, ensure_ascii=False), encoding="utf-8")
 
+    # Write tiny version file for cache busting + dynamic header counts
+    version = {
+        "build": graph["meta"]["generated_at"],
+        "article_count": graph["meta"]["article_count"],
+        "entity_count": graph["meta"]["entity_count"],
+        "arc_count": graph["meta"]["arc_count"],
+    }
+    (WEBSITE_DATA_DIR / "version.json").write_text(json.dumps(version, ensure_ascii=False), encoding="utf-8")
+
     meta_size = (WEBSITE_DATA_DIR / 'galnet-meta.json').stat().st_size
     bodies_size = (WEBSITE_DATA_DIR / 'galnet-bodies.json').stat().st_size
     search_size = (WEBSITE_DATA_DIR / 'search-index.json').stat().st_size

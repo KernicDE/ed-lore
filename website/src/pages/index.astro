@@ -1,14 +1,29 @@
 ---
+import fs from 'node:fs';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import AppShell from '../components/AppShell';
+
+const versionPath = './public/data/version.json';
+let version = { build: Date.now().toString(), article_count: 0, entity_count: 0, arc_count: 0 };
+try {
+  version = JSON.parse(fs.readFileSync(versionPath, 'utf-8'));
+} catch {
+  // fallback if version.json hasn't been generated yet
+}
+const articleCount = version.article_count.toLocaleString();
+const buildId = version.build;
 ---
 
 <BaseLayout title="GalNet Chronicle — Elite Dangerous Lore Explorer">
+  <script is:inline define:vars={{ buildId }}>
+    window.GALNET_BUILD = buildId;
+  </script>
+
   <header class="hud-header">
     <div>
       <span class="hud-title">GalNet Chronicle</span>
       <span class="hud-subtitle" style="margin-left: 16px;">
-        2,543 articles · 3301–3312
+        {articleCount} articles · 3301–3312
       </span>
     </div>
     <button class="hud-search-btn" id="search-trigger">
