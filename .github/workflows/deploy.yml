@@ -9,7 +9,6 @@ permissions:
   contents: read
   pages: write
   id-token: write
-  actions: write  # required to trigger audio-generation workflow
 
 concurrency:
   group: pages
@@ -38,21 +37,7 @@ jobs:
           python-version: '3.12'
 
       - name: Install Python deps
-        run: pip install pyyaml requests
-
-      - name: Restore audio cache
-        uses: actions/cache@v5
-        with:
-          path: website/public/audio
-          key: audio-cache-${{ github.run_id }}
-          restore-keys: audio-cache-
-
-      - name: Restore manifest cache
-        uses: actions/cache@v5
-        with:
-          path: scripts/audio_manifest.json
-          key: manifest-cache-${{ github.run_id }}
-          restore-keys: manifest-cache-
+        run: pip install pyyaml
 
       - name: Generate lore_graph.json
         run: python3 scripts/build_graph.py
@@ -67,31 +52,10 @@ jobs:
           mkdir -p website/src/data
           cp lore_graph.json website/src/data/
 
-      - name: Remove MP3s before build (served from R2)
-        run: |
-          mkdir -p /tmp/audio-staging
-          mv website/public/audio/*.mp3 /tmp/audio-staging/ || true
-
       - name: Build website
         run: |
           cd website
           pnpm build
-
-      - name: Sync audio to R2 (incremental)
-        run: python3 scripts/sync_audio_to_r2.py
-        env:
-          CLOUDFLARE_R2_TOKEN: ${{ secrets.CLOUDFLARE_R2_TOKEN }}
-
-      - name: Validate R2 audio coverage
-        run: |
-          echo "=== R2 Audio Validation ==="
-          python3 scripts/sync_audio_to_r2.py --check || {
-            echo "⚠️  R2 audio incomplete — triggering audio-generation workflow..."
-            gh workflow run audio-generation.yml --repo ${{ github.repository }}
-          }
-        env:
-          CLOUDFLARE_R2_TOKEN: ${{ secrets.CLOUDFLARE_R2_TOKEN }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5

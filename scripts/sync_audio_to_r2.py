@@ -140,9 +140,20 @@ def main():
     for fpath in local_files:
         key = f"audio/{fpath.name}"
         local_size = fpath.stat().st_size
-        r2_size = r2_objects.get(key)
-        if r2_size is None or r2_size != local_size:
+        r2_info = r2_objects.get(key)
+        if r2_info is None:
             to_upload.append((key, fpath))
+            continue
+        r2_size, r2_etag = r2_info
+        if r2_size != local_size:
+            to_upload.append((key, fpath))
+            continue
+        # Size matches — check MD5 vs etag to catch edge-tts regeneration drift
+        local_md5 = md5_file(fpath)
+        if local_md5 != r2_etag:
+            print(f"    {key}: size matches but MD5 differs (local={local_md5}, r2={r2_etag})")
+            to_upload.append((key, fpath))
+            continue
 
     print(f"Files to upload: {len(to_upload)}")
 
