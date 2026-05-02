@@ -523,15 +523,55 @@ def main() -> int:
 
     print("Writing split JSON for async loading...")
     WEBSITE_DATA_DIR.mkdir(parents=True, exist_ok=True)
+
+    # Fields NOT needed by client-side React app:
+    # slug, significance, legacy_weight, related_uuids, archive_path, source, word_count, arc_chapter
+    CLIENT_ARTICLE_STRIP = {
+        "slug", "significance", "legacy_weight", "related_uuids",
+        "archive_path", "source", "word_count", "arc_chapter", "body_full",
+    }
+
+    # Build lite articles for client (timeline + context panel)
+    client_articles = []
+    search_articles = []
+    for a in graph["articles"]:
+        client_articles.append({k: v for k, v in a.items() if k not in CLIENT_ARTICLE_STRIP})
+        search_articles.append({
+            "uuid": a["uuid"],
+            "title": a["title"],
+            "date": a["date"],
+            "body_preview": a.get("body_preview", ""),
+        })
+
+    # Strip server-only fields from entities for client JSON
+    # article_uuids is only needed by server-rendered entity/arc pages
+    client_entities = {}
+    for eid, rec in graph["entities"].items():
+        client_rec = {k: v for k, v in rec.items() if k != "article_uuids"}
+        client_entities[eid] = client_rec
+
     meta = {
         **graph,
-        "articles": [{k: v for k, v in a.items() if k != "body_full"} for a in graph["articles"]],
+        "articles": client_articles,
+        "entities": client_entities,
     }
     bodies = {a["uuid"]: a.get("body_full", "") for a in graph["articles"]}
+
     (WEBSITE_DATA_DIR / "galnet-meta.json").write_text(json.dumps(meta, ensure_ascii=False), encoding="utf-8")
     (WEBSITE_DATA_DIR / "galnet-bodies.json").write_text(json.dumps(bodies, ensure_ascii=False), encoding="utf-8")
-    print(f"  galnet-meta.json: {(WEBSITE_DATA_DIR / 'galnet-meta.json').stat().st_size // 1024}KB")
-    print(f"  galnet-bodies.json: {(WEBSITE_DATA_DIR / 'galnet-bodies.json').stat().st_size // 1024}KB")
+    (WEBSITE_DATA_DIR / "search-index.json").write_text(json.dumps(search_articles, ensure_ascii=False), encoding="utf-8")
+
+    # Gzip compress for smaller transfer
+    import gzip
+    for fname in ["galnet-meta.json", "galnet-bodies.json", "search-index.json"]:
+        fpath = WEBSITE_DATA_DIR / fname
+        gzpath = WEBSITE_DATA_DIR / (fname + ".gz")
+        with open(fpath, "rb") as f_in, gzip.open(gzpath, "wb", compresslevel=9) as f_out:
+            f_out.write(f_in.read())
+        orig = fpath.stat().st_size
+        gz = gzpath.stat().st_size
+        print(f"  {fname}: {orig//1024}KB → {gz//1024}KB ({gz/orig*100:.1f}%)")
+
 
     print("Writing profiles...")
     write_profiles(graph)

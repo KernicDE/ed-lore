@@ -7,19 +7,16 @@ import AudioPlayer from './audio/AudioPlayer';
 interface Article {
   uuid: string;
   title: string;
-  slug: string;
   date: string;
   arc_id: string | null;
-  significance: string;
   summary: string;
   player_impact: string;
   modern_impact: string;
-  body_preview: string;
   entities: string[];
   groups: string[];
   locations: string[];
   topics: string[];
-  legacy_weight: number;
+  has_audio: boolean;
   persons?: string[];
   technologies?: string[];
 }
@@ -44,10 +41,30 @@ interface Arc {
 
 const BASE = (import.meta.env.BASE_URL || '/').replace(/\/$/, '');
 
+async function fetchGzJson<T>(url: string): Promise<T> {
+  const gzUrl = url.replace(/\.json$/, '.json.gz');
+  const response = await fetch(gzUrl);
+  if (!response.ok) {
+    const fallback = await fetch(url);
+    if (!fallback.ok) throw new Error(`HTTP ${fallback.status}`);
+    return fallback.json();
+  }
+  const blob = await response.blob();
+  if (typeof DecompressionStream === 'undefined') {
+    const fallback = await fetch(url);
+    return fallback.json();
+  }
+  const ds = new DecompressionStream('gzip');
+  const decompressed = await new Response(blob.stream().pipeThrough(ds)).blob();
+  const text = await decompressed.text();
+  return JSON.parse(text);
+}
+
 export default function AppShell() {
   const [articles, setArticles] = useState<Article[]>([]);
   const [entities, setEntities] = useState<Record<string, Entity>>({});
   const [arcs, setArcs] = useState<Record<string, Arc>>({});
+  const [searchIndex, setSearchIndex] = useState<{ uuid: string; title: string; date: string; body_preview: string }[]>([]);
   const [loading, setLoading] = useState(true);
 
   // Lazy body cache: null = not loaded, {} = loading started, {...} = loaded
@@ -64,21 +81,25 @@ export default function AppShell() {
   const [searchOpen, setSearchOpen] = useState(false);
 
   useEffect(() => {
-    fetch(`${BASE}/data/galnet-meta.json`)
-      .then((r) => r.json())
-      .then((data) => {
-        setArticles(data.articles);
-        setEntities(data.entities);
-        setArcs(data.arcs);
-        setLoading(false);
-      });
+    Promise.all([
+      fetchGzJson<any>(`${BASE}/data/galnet-meta.json.gz`),
+      fetchGzJson<any>(`${BASE}/data/search-index.json.gz`),
+    ]).then(([meta, search]) => {
+      setArticles(meta.articles);
+      setEntities(meta.entities);
+      setArcs(meta.arcs);
+      setSearchIndex(search);
+      setLoading(false);
+    }).catch((err) => {
+      console.error('Failed to load data:', err);
+      setLoading(false);
+    });
   }, []);
 
   const loadBodies = useCallback(() => {
     if (bodies !== null || bodiesLoading.current) return;
     bodiesLoading.current = true;
-    fetch(`${BASE}/data/galnet-bodies.json`)
-      .then((r) => r.json())
+    fetchGzJson<Record<string, string>>(`${BASE}/data/galnet-bodies.json`)
       .then((data) => setBodies(data));
   }, [bodies]);
 
@@ -233,7 +254,7 @@ export default function AppShell() {
       </div>
       {searchOpen && (
         <CommandConsole
-          articles={articles}
+          searchIndex={searchIndex}
           entities={entities}
           arcs={arcs}
           onArticleNavigate={handleArticleNavigate}

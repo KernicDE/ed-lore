@@ -12,14 +12,14 @@ interface SearchItem {
 }
 
 interface CommandConsoleProps {
-  articles: { uuid: string; title: string; date: string; body_preview: string; archive_path: string; arc_id: string | null }[];
+  searchIndex: { uuid: string; title: string; date: string; body_preview: string }[];
   entities: Record<string, { id: string; name: string; type: string }>;
   arcs: Record<string, { id: string; name: string }>;
   onArticleNavigate: (uuid: string) => void;
   onClose: () => void;
 }
 
-export default function CommandConsole({ articles, entities, arcs, onArticleNavigate, onClose }: CommandConsoleProps) {
+export default function CommandConsole({ searchIndex, entities, arcs, onArticleNavigate, onClose }: CommandConsoleProps) {
   const [query, setQuery] = useState('');
   const [selectedIdx, setSelectedIdx] = useState(0);
   const inputRef = useRef<HTMLInputElement>(null);
@@ -27,7 +27,7 @@ export default function CommandConsole({ articles, entities, arcs, onArticleNavi
 
   const fuse = useMemo(() => {
     const items: SearchItem[] = [
-      ...articles.map((a) => ({
+      ...searchIndex.map((a) => ({
         id: a.uuid,
         title: a.title,
         type: 'article' as const,
@@ -58,7 +58,7 @@ export default function CommandConsole({ articles, entities, arcs, onArticleNavi
       threshold: 0.3,
       includeScore: true,
     });
-  }, [articles, entities, arcs, baseUrl]);
+  }, [searchIndex, entities, arcs, baseUrl]);
 
   const results = useMemo(() => {
     if (!query.trim()) return [];
