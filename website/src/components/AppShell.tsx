@@ -41,25 +41,6 @@ interface Arc {
 
 const BASE = (import.meta.env.BASE_URL || '/').replace(/\/$/, '');
 
-async function fetchGzJson<T>(url: string): Promise<T> {
-  const gzUrl = url.replace(/\.json$/, '.json.gz');
-  const response = await fetch(gzUrl);
-  if (!response.ok) {
-    const fallback = await fetch(url);
-    if (!fallback.ok) throw new Error(`HTTP ${fallback.status}`);
-    return fallback.json();
-  }
-  const blob = await response.blob();
-  if (typeof DecompressionStream === 'undefined') {
-    const fallback = await fetch(url);
-    return fallback.json();
-  }
-  const ds = new DecompressionStream('gzip');
-  const decompressed = await new Response(blob.stream().pipeThrough(ds)).blob();
-  const text = await decompressed.text();
-  return JSON.parse(text);
-}
-
 export default function AppShell() {
   const [articles, setArticles] = useState<Article[]>([]);
   const [entities, setEntities] = useState<Record<string, Entity>>({});
@@ -82,8 +63,8 @@ export default function AppShell() {
 
   useEffect(() => {
     Promise.all([
-      fetchGzJson<any>(`${BASE}/data/galnet-meta.json.gz`),
-      fetchGzJson<any>(`${BASE}/data/search-index.json.gz`),
+      fetch(`${BASE}/data/galnet-meta.json`).then((r) => r.json()),
+      fetch(`${BASE}/data/search-index.json`).then((r) => r.json()),
     ]).then(([meta, search]) => {
       setArticles(meta.articles);
       setEntities(meta.entities);
@@ -99,7 +80,8 @@ export default function AppShell() {
   const loadBodies = useCallback(() => {
     if (bodies !== null || bodiesLoading.current) return;
     bodiesLoading.current = true;
-    fetchGzJson<Record<string, string>>(`${BASE}/data/galnet-bodies.json`)
+    fetch(`${BASE}/data/galnet-bodies.json`)
+      .then((r) => r.json())
       .then((data) => setBodies(data));
   }, [bodies]);
 

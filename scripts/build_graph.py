@@ -529,6 +529,7 @@ def main() -> int:
     CLIENT_ARTICLE_STRIP = {
         "slug", "significance", "legacy_weight", "related_uuids",
         "archive_path", "source", "word_count", "arc_chapter", "body_full",
+        "body_preview",  # moved to search-index.json
     }
 
     # Build lite articles for client (timeline + context panel)
@@ -561,16 +562,12 @@ def main() -> int:
     (WEBSITE_DATA_DIR / "galnet-bodies.json").write_text(json.dumps(bodies, ensure_ascii=False), encoding="utf-8")
     (WEBSITE_DATA_DIR / "search-index.json").write_text(json.dumps(search_articles, ensure_ascii=False), encoding="utf-8")
 
-    # Gzip compress for smaller transfer
-    import gzip
-    for fname in ["galnet-meta.json", "galnet-bodies.json", "search-index.json"]:
-        fpath = WEBSITE_DATA_DIR / fname
-        gzpath = WEBSITE_DATA_DIR / (fname + ".gz")
-        with open(fpath, "rb") as f_in, gzip.open(gzpath, "wb", compresslevel=9) as f_out:
-            f_out.write(f_in.read())
-        orig = fpath.stat().st_size
-        gz = gzpath.stat().st_size
-        print(f"  {fname}: {orig//1024}KB → {gz//1024}KB ({gz/orig*100:.1f}%)")
+    meta_size = (WEBSITE_DATA_DIR / 'galnet-meta.json').stat().st_size
+    bodies_size = (WEBSITE_DATA_DIR / 'galnet-bodies.json').stat().st_size
+    search_size = (WEBSITE_DATA_DIR / 'search-index.json').stat().st_size
+    print(f"  galnet-meta.json: {meta_size//1024}KB")
+    print(f"  galnet-bodies.json: {bodies_size//1024}KB")
+    print(f"  search-index.json: {search_size//1024}KB")
 
 
     print("Writing profiles...")
