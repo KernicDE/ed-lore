@@ -12,6 +12,16 @@ interface AudioPlayerProps {
 
 const BASE = (import.meta.env.BASE_URL || '/').replace(/\/$/, '');
 
+// Cloudflare R2 public bucket URL
+const R2_AUDIO_BASE = 'https://pub-4404b20907c141e1b68f3dc578038230.r2.dev/audio';
+
+function getAudioUrl(uuid: string): string {
+  if (R2_AUDIO_BASE) {
+    return `${R2_AUDIO_BASE}/${uuid}.mp3`;
+  }
+  return `${BASE}/audio/${uuid}.mp3`;
+}
+
 export default function AudioPlayer({ article }: AudioPlayerProps) {
   const [isPlaying, setIsPlaying] = useState(false);
   const [currentTime, setCurrentTime] = useState(0);
@@ -20,7 +30,7 @@ export default function AudioPlayer({ article }: AudioPlayerProps) {
   const audioRef = useRef<HTMLAudioElement | null>(null);
   const rafRef = useRef<number>(0);
 
-  const audioUrl = article ? `${BASE}/audio/${article.uuid}.mp3` : null;
+  const audioUrl = article ? getAudioUrl(article.uuid) : null;
 
   // Load and auto-play when article changes
   useEffect(() => {

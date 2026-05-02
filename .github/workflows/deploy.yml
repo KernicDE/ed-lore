@@ -38,7 +38,7 @@ jobs:
           python-version: '3.12'
 
       - name: Install Python deps
-        run: pip install pyyaml
+        run: pip install pyyaml requests
 
       - name: Restore audio cache
         uses: actions/cache@v5
@@ -67,33 +67,30 @@ jobs:
           mkdir -p website/src/data
           cp lore_graph.json website/src/data/
 
+      - name: Remove MP3s before build (served from R2)
+        run: |
+          mkdir -p /tmp/audio-staging
+          mv website/public/audio/*.mp3 /tmp/audio-staging/ || true
+
       - name: Build website
         run: |
           cd website
           pnpm build
 
-      - name: Validate audio files
-        run: |
-          echo "=== Audio Validation ==="
-          ARTICLE_COUNT=$(python3 -c "import json; print(json.load(open('website/public/data/version.json'))['article_count'])")
-          MANIFEST_COUNT=$(python3 -c "import json,os; p='scripts/audio_manifest.json'; print(len(json.load(open(p))) if os.path.exists(p) else 0)")
-          MP3_COUNT=$(find website/public/audio -maxdepth 1 -name '*.mp3' | wc -l)
-          EMPTY_MP3S=$(find website/public/audio -maxdepth 1 -name '*.mp3' -size -2k | wc -l)
-
-          echo "Articles in version.json:     $ARTICLE_COUNT"
-          echo "Entries in audio_manifest:    $MANIFEST_COUNT"
-          echo "MP3 files on disk:            $MP3_COUNT"
-          echo "Empty/truncated MP3s (<2KB):  $EMPTY_MP3S"
-
-          if [ "$MP3_COUNT" -eq "$ARTICLE_COUNT" ] && [ "$EMPTY_MP3S" -eq 0 ]; then
-            echo "✅ Audio coverage complete — all $ARTICLE_COUNT articles have valid audio."
-          else
-            MISSING=$((ARTICLE_COUNT - MP3_COUNT))
-            echo "⚠️  Audio incomplete — $MISSING articles missing audio, $EMPTY_MP3S empty/truncated files."
-            echo "Triggering audio-generation workflow to fill gaps..."
-            gh workflow run audio-generation.yml --repo ${{ github.repository }}
-          fi
+      - name: Sync audio to R2 (incremental)
+        run: python3 scripts/sync_audio_to_r2.py
         env:
+          CLOUDFLARE_R2_TOKEN: ${{ secrets.CLOUDFLARE_R2_TOKEN }}
+
+      - name: Validate R2 audio coverage
+        run: |
+          echo "=== R2 Audio Validation ==="
+          python3 scripts/sync_audio_to_r2.py --check || {
+            echo "⚠️  R2 audio incomplete — triggering audio-generation workflow..."
+            gh workflow run audio-generation.yml --repo ${{ github.repository }}
+          }
+        env:
+          CLOUDFLARE_R2_TOKEN: ${{ secrets.CLOUDFLARE_R2_TOKEN }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Upload artifact
