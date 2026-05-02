@@ -20,52 +20,52 @@ Live site: https://kernicde.github.io/ed-lore/
 
 ---
 
-## Current Status (as of 2026-05-01)
+## Current Status (as of 2026-05-02)
 
 ### Data Completeness
 
 | Metric | Count | Status |
 |--------|-------|--------|
-| Articles | 2,543 | 100% archived |
-| Articles with summary | 2,543 | 100% enriched |
-| Articles with player_impact | 2,543 | 100% enriched |
-| Articles with related_uuids | 2,543 | 100% linked |
-| Entity profiles | 3,447 | 100% have auto-generated bios |
+| Articles | **2,551** | 100% archived |
+| Articles with summary | 2,551 | 100% enriched |
+| Articles with player_impact | 2,551 | 100% enriched |
+| Entity profiles | **3,484** | 100% have bios |
 | Arc profiles | 30 | 100% have descriptions |
-| Locations with EDSM coords | ~769 | ~55% of star systems mapped |
+| Audio coverage | **2,551** | **100%** — hosted on Cloudflare R2 |
 
 ### Features Deployed
 
 - ✅ Interactive timeline (newest-first, year slider, article expansion)
-- ✅ Entity profile pages (bios, related entities, mention timeline, EDSM data)
+- ✅ Entity profile pages (bios, related entities, mention timeline)
 - ✅ Arc profile pages (descriptions, key figures, chronology)
 - ✅ Context panel (dynamic related arcs + top entities based on viewport)
 - ✅ Search modal (Cmd+K, article/entity/arc search)
-- ✅ Audio player (mini-player for article TTS, en-GB-SoniaNeural voice)
-- ✅ Daily audio generation cron (500 articles/night, newest first)
+- ✅ Audio player (mini-player loading from Cloudflare R2, en-GB-SoniaNeural voice)
+- ✅ Cache-busted JSON loading (`?v=<build-timestamp>`)
+- ✅ Dynamic article count in header (from `version.json`)
+- ✅ Self-healing audio pipeline (hourly generation + R2 upload)
 
-### Audio Generation Pipeline
+### Audio Pipeline
 
-- **Local**: `python scripts/generate_audio.py --sort recent --concurrency 8`
-- **CI**: `.github/workflows/audio-generation.yml` runs daily at midnight UTC
-- **Batch size**: 500 articles/day
+- **Hosting**: Cloudflare R2 (`ed-lore-audio` bucket)
+- **Public URL**: `https://pub-4404b20907c141e1b68f3dc578038230.r2.dev/audio/{uuid}.mp3`
+- **Generation**: GitHub Actions `audio-generation` workflow (hourly + manual trigger)
 - **Voice**: `en-GB-SoniaNeural`
-- **Structure**: "Title on date" → body → "AI analysis: Arc. Player impact. Future impact."
-- **Manifest**: `scripts/audio_manifest.json` tracks which articles have audio
+- **Deduplication**: MD5/etag comparison prevents re-uploading unchanged files
+- **Full rebuild**: Manual trigger with `full_rebuild` checkbox (~2–3 hours)
 
 ### Known Limitations
 
-1. **Audio coverage**: ~135/2,543 articles have audio (batch in progress, 500/day)
-2. **Entity bios**: Auto-generated from article summaries — functional but repetitive
-3. **EDSM coverage**: 644 locations unmatched (mostly stations, nebulae, planets — not star systems)
-4. **Bio quality**: Top 1,000 entities have the best bios; remaining 2,400+ are template-based
+1. **Entity bios**: Auto-generated from article summaries — functional but repetitive for lesser-known entities
+2. **EDSM coverage**: Many stations, nebulae, planets are not in EDSM (only star systems are reliably mapped)
+3. **R2 dependency**: Audio requires Cloudflare R2 bucket to be accessible; if R2 is down, audio fails gracefully with "Audio not available"
 
 ---
 
 ## Architecture Decisions
 
 ### Why Astro + React?
-- Astro for static site generation (3,400+ pages)
+- Astro for static site generation (~3,477 pages)
 - React for interactive components (timeline, search, audio player)
 - Split JSON loading: `galnet-meta.json` (async) + `galnet-bodies.json` (lazy)
 
@@ -79,12 +79,18 @@ Live site: https://kernicde.github.io/ed-lore/
 - Free, no API key needed
 - High quality neural voices
 - `en-GB-SoniaNeural` matches the British sci-fi aesthetic of Elite Dangerous
-- Incremental generation via hash manifest
+- Incremental generation via text hash manifest
+
+### Why Cloudflare R2 for audio?
+- 10 GB free tier (1.44 GB used)
+- Zero egress fees (critical for a public website)
+- S3-compatible API
+- Decouples audio from GitHub Pages deploy artifact (shrinks artifact from 1.5 GB to ~50 MB)
 
 ### Why GitHub Pages?
 - Free hosting for static sites
-- Custom domain support
 - GitHub Actions integration for CI/CD
+- Automatic deploy on every push to `main`
 
 ---
 
@@ -93,8 +99,11 @@ Live site: https://kernicde.github.io/ed-lore/
 **API keys, tokens, and passwords must NEVER be committed to this repository or shown in any code/output.**
 - No `.env` files, no hardcoded keys in scripts, no secrets in workflow files
 - The repo is public on GitHub — treat everything as publicly visible
-- If an external API requires a key (e.g. Inara, EDSM), it must be passed via environment variables at runtime, never stored in source control
-- `.gitignore` blocks `.env*`, `*.key`, and `secrets/` — verify before committing
+- Cloudflare R2 token is stored in GitHub Secrets (`CLOUDFLARE_R2_TOKEN`)
+- If an external API requires a key, it must be passed via environment variables at runtime
+- `.gitignore` blocks `.env*`, `*.key`, `secrets/`, `website/public/audio/`, and generated JSONs
+
+---
 
 ## Workflow Philosophy
 
@@ -102,13 +111,13 @@ Live site: https://kernicde.github.io/ed-lore/
 We don't just archive raw text — we add structured metadata (entities, arcs, impacts) that makes the lore explorable.
 
 ### Incremental everything
-- Audio: 500 files/day batches
+- Audio: hourly generation with hash-based skip + R2 deduplication
 - Entity bios: generated automatically from article analysis
 - Deploy: triggered on every push to main
 
 ### Human-in-the-loop for quality
 - Auto-generation for scale (bios, audio)
-- Manual review for important content (arc descriptions, key entity bios)
+- Manual review for important content (arc descriptions, key entity bios, new articles)
 - Validation scripts catch common errors
 
 ---
@@ -117,15 +126,15 @@ We don't just archive raw text — we add structured metadata (entities, arcs, i
 
 | File | Purpose |
 |------|---------|
-| `fetch.py` | Download new articles from Frontier API + GitHub |
-| `scripts/build_graph.py` | Build `lore_graph.json` + split async JSON |
+| `scripts/fetch.py` | Download new articles from Frontier API |
+| `scripts/build_graph.py` | Build `lore_graph.json` + split client JSONs + `version.json` |
 | `scripts/generate_audio.py` | TTS audio generation with incremental skip |
-| `scripts/generate_entity_bios.py` | Auto-generate entity bios from articles |
+| `scripts/sync_audio_to_r2.py` | Upload MP3s to Cloudflare R2 with MD5/etag dedup |
+| `scripts/enrich.py` | Bulk enrichment (initial import only) |
 | `scripts/validate_enrichment.py` | Check article frontmatter for errors |
-| `scripts/format_articles.py` | Idempotent formatting pass |
-| `scripts/populate_related_uuids.py` | Add related article links |
-| `scripts/enrich_locations_from_edsm.py` | Query EDSM API for system coords |
-| `DAILY_PROMPT.md` | Copy-paste prompt for daily automation |
+| `scripts/audit_api_vs_archive.py` | Compare API with local archive |
+| `scripts/audit_arcs_and_uuids.py` | Check arc consistency |
+| `.kimi/prompts/fetch-enrich-deploy.md` | Step-by-step guide for importing & enriching new articles |
 | `AGENTS.md` | Technical conventions and operational details |
 
 ---
@@ -134,13 +143,12 @@ We don't just archive raw text — we add structured metadata (entities, arcs, i
 
 | Trigger | Action |
 |---------|--------|
-| New GalNet season announced | Run `fetch.py` immediately, then enrichment |
-| Daily / every few days | Run DAILY_PROMPT.md workflow |
+| New GalNet season announced | Run `scripts/fetch.py`, then manual enrichment per `.kimi/prompts/fetch-enrich-deploy.md` |
 | After enrichment edits | `python scripts/build_graph.py && cd website && pnpm build` |
 | Before committing | `python scripts/validate_enrichment.py` |
-| Audio batch needed | `python scripts/generate_audio.py --batch-size 500 --sort recent` |
-| Format cleanup | `python scripts/format_articles.py` |
+| Audio missing / corrupted | GitHub Actions → Audio Generation → Run workflow → ✅ full_rebuild |
+| Format cleanup | Manual editing (format_articles.py was removed) |
 
 ---
 
-*Last updated: 2026-05-01*
+*Last updated: 2026-05-02*

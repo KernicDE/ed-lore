@@ -10,23 +10,26 @@
 - This is a **public GitHub repo** — all commits, issues, and workflow logs are visible
 - No hardcoded credentials in Python scripts, Astro components, or workflow YAML files
 - No `.env` files committed (`.gitignore` blocks `.env*`, `*.key`, `secrets/`)
-- If an external API requires authentication (e.g. Inara API, EDSM), the key must be passed via **environment variables at runtime only**
+- Secrets are passed via **GitHub Actions Secrets** (`CLOUDFLARE_R2_TOKEN`) or environment variables at runtime only
 - Never echo secrets in CI logs or local output
 - If a key is accidentally committed: rotate it immediately, scrub from git history
+
+---
 
 ## 1. Project Overview
 
 This project is **"The GalNet Chronicle"** — an archive and knowledge system for *Elite: Dangerous* GalNet articles.
 
 **Current state:**
-- 2,543 Markdown articles in `Archive/YYYY/MM/DD_slug.md` (in-game year/month/day)
-- 3,447 entity profiles in `Entities/` (persons, factions, arcs, technologies, locations) — 100% have bios
-- 30 story arcs in `Entities/Arcs/` — 100% have descriptions
+- **2,551** Markdown articles in `Archive/YYYY/MM/DD_slug.md` (in-game year/month/day)
+- **3,484** entity profiles in `Entities/` (persons, factions, arcs, technologies, locations)
+- **30** story arcs in `Entities/Arcs/`
 - Static website built with **Astro 6.2 + React 19**, deployed to **GitHub Pages**
 - Data pipeline: `scripts/build_graph.py` → `lore_graph.json` + split async JSON → website
-- Audio pipeline: `scripts/generate_audio.py` → `website/public/audio/*.mp3` (incremental, 500/day batch)
+- Audio pipeline: **GitHub Actions** generates TTS → uploads to **Cloudflare R2** → site loads from R2
+- Deploy artifact: ~50 MB (HTML/CSS/JS only — audio is served from R2)
 
-**Output:** ~3,408 static pages deployed to `https://kernicde.github.io/ed-lore/`
+**Output:** ~3,477 static pages deployed to `https://kernicde.github.io/ed-lore/`
 
 ---
 
@@ -38,12 +41,14 @@ This project is **"The GalNet Chronicle"** — an archive and knowledge system f
 | HTTP client | `httpx` (async) |
 | Frontmatter | `pyyaml` |
 | Data format | Markdown + YAML frontmatter |
-| Build pipeline | `scripts/build_graph.py` → `lore_graph.json` |
+| Build pipeline | `scripts/build_graph.py` → `lore_graph.json` + client JSONs |
 | SSG | Astro 6.2 + React 19 |
 | Package manager | `pnpm` |
 | Deployment | GitHub Actions → GitHub Pages |
+| Audio hosting | Cloudflare R2 (public bucket) |
+| TTS | edge-tts (`en-GB-SoniaNeural`) |
 
-Python dependencies: `pyyaml`, `httpx`, `tqdm`, `edge-tts`
+Python dependencies: `pyyaml`, `httpx`, `tqdm`, `edge-tts`, `requests`
 
 ---
 
@@ -51,23 +56,22 @@ Python dependencies: `pyyaml`, `httpx`, `tqdm`, `edge-tts`
 
 ```
 ed-lore/
-├── fetch.py                   # Async article fetcher & normalizer
-├── lore_graph.json            # Built data file (auto-generated)
-├── prompt.md                  # High-level product vision
 ├── AGENTS.md                  # This file
+├── prompt.md                  # High-level product vision
 ├── scripts/
-│   ├── build_graph.py         # Builds lore_graph.json + split async JSON
-│   ├── generate_audio.py      # Incremental TTS audio generation (edge-tts)
-│   ├── generate_entity_bios.py # Auto-generate entity bios from article analysis
-│   ├── populate_related_uuids.py # Add related article links
-│   ├── enrich_locations_from_edsm.py # Query EDSM API for system coords
-│   ├── format_articles.py     # Idempotent formatting pass for all Archive/*.md
-│   └── validate_enrichment.py # Validates article frontmatter
+│   ├── build_graph.py         # Builds lore_graph.json + split client JSONs + version.json
+│   ├── fetch.py               # Async article fetcher from Frontier API
+│   ├── enrich.py              # Bulk enrichment (initial import only)
+│   ├── generate_audio.py      # TTS audio generation (edge-tts)
+│   ├── sync_audio_to_r2.py    # Upload MP3s to Cloudflare R2 with MD5/etag dedup
+│   ├── validate_enrichment.py # Validates article frontmatter
+│   ├── audit_api_vs_archive.py # Compares API with local archive
+│   └── audit_arcs_and_uuids.py # Checks arc consistency
 ├── Archive/                   # Canonical article archive (YYYY/MM/DD_slug.md)
 │   ├── 3301/02/08_....md
 │   ├── 3307/08/02_....md
 │   └── ... 3301–3312
-├── Entities/                  # Auto-generated + hand-curated entity profiles
+├── Entities/                  # Entity profiles
 │   ├── Arcs/
 │   ├── faction/
 │   ├── person/
@@ -75,13 +79,10 @@ ed-lore/
 │   └── location/
 └── website/                   # Astro 6.2 static site
     ├── src/
-    │   └── data/
-    │       └── lore_graph.json   # MUST copy root lore_graph.json here before build
+    │   ├── components/        # React components (AppShell, Timeline, AudioPlayer, etc.)
+    │   └── pages/             # Astro pages
     ├── public/
-    │   ├── audio/                # Generated MP3s — NOT in git
-    │   └── data/
-    │       ├── galnet-meta.json  # Articles (no body_full) + entities + arcs — loaded async
-    │       └── galnet-bodies.json # {uuid: body_full} — loaded lazily on first expand
+    │   └── data/              # Generated JSONs (galnet-meta.json, galnet-bodies.json, search-index.json, version.json)
     ├── astro.config.mjs
     └── package.json
 ```
@@ -106,7 +107,7 @@ Every article has YAML frontmatter followed by a blank line and the article body
 | `title` | Original headline |
 | `slug` | URL-safe slug |
 | `date` | In-game date `YYYY-MM-DD` (quoted string) |
-| `source` | `"GitHub"` or `"API"` |
+| `source_url` | Link to original GalNet article |
 
 ### Enrichment fields (added manually)
 
@@ -114,16 +115,11 @@ Every article has YAML frontmatter followed by a blank line and the article body
 |-------|-------------|
 | `summary` | 1–3 sentence summary of the article's content |
 | `player_impact` | What pilots could do / did in this event |
-| `persons` | List of named individuals (canonical full names) |
-| `groups` | List of factions, corporations, political bodies |
-| `locations` | List of star systems or significant places |
-| `technologies` | List of named ships, weapons, gadgets |
-| `topics` | Tags like `terrorism`, `diplomacy`, `corporate expansion` |
-| `arc_id` | Single story-arc identifier (or omitted) |
-| `related_uuids` | List of related article UUIDs |
 | `modern_impact` | Why this still matters today |
-| `legacy_weight` | 1–5 scale of long-term importance |
-| `significance` | `low` / `medium` / `high` |
+| `topics` | Tags like `terrorism`, `diplomacy`, `corporate expansion` |
+| `entities` | List of `{name, type, role}` objects |
+| `locations` | List of star systems or significant places |
+| `arc_id` | Single story-arc identifier (or omitted) |
 
 ### Banned topics (remove unless explicitly legitimate)
 
@@ -135,18 +131,16 @@ Legitimate exceptions exist (e.g. `medicine` for Titan quarantine articles).
 
 - Plain text / minimal Markdown
 - No images, no inline links, no headings, no blockquotes
-- Older GitHub-sourced files may have `*` bullet prefixes
 - API-sourced bodies have HTML stripped
 
 ---
 
-## 5. The Fetch Script (`fetch.py`)
+## 5. The Fetch Script (`scripts/fetch.py`)
 
 **WARNING:** `fetch.py` is a **destructive-sync** script. It re-downloads and overwrites articles every run.
 
-1. **GitHub Phase** — Scrapes `elitedangereuse/LoreExplorer` (`.org` files, years 3300–3306)
-2. **API Phase** — Paginates Frontier's JSON API (`cms.zaonce.net`)
-3. **Write Phase** — Writes to `Archive/YYYY/MM/DD_slug.md`
+1. **API Phase** — Paginates Frontier's JSON API (`cms.zaonce.net`)
+2. **Write Phase** — Writes to `Archive/YYYY/MM/DD_slug.md`
 
 **DO NOT RUN** while enriching or editing articles, as it will overwrite your work.
 
@@ -162,72 +156,64 @@ python scripts/build_graph.py
 
 Reads all articles in `Archive/` and entity files in `Entities/`, then writes:
 - `lore_graph.json` — full graph (used by entity/arc static pages)
-- `website/public/data/galnet-meta.json` — articles without `body_full` + entities + arcs (~8MB, loaded async by the timeline)
-- `website/public/data/galnet-bodies.json` — `{uuid: body_full}` map (~3MB, loaded lazily on first article expand)
+- `website/public/data/galnet-meta.json` — articles without `body_full` + entities + arcs (~6 MB, loaded async)
+- `website/public/data/galnet-bodies.json` — `{uuid: body_full}` map (~3 MB, loaded lazily on first article expand)
+- `website/public/data/search-index.json` — search-optimized articles (~1.5 MB)
+- `website/public/data/version.json` — build timestamp + counts (used for cache busting)
 
-**Critical:** The script handles `None`/null values in list fields safely:
-```python
-for g in fm.get("groups") or []:
-```
-
-### Step 2: Generate audio (optional, incremental)
+### Step 2: Local Build Test (optional)
 
 ```bash
-pip install edge-tts
-python scripts/generate_audio.py
+cd website
+pnpm install
+pnpm build
 ```
 
-- Uses **edge-tts** with `en-GB-SoniaNeural` voice
-- Generates MP3s in `website/public/audio/{uuid}.mp3`
-- **Incremental:** Only regenerates audio for new or modified articles (hash-based skip via `scripts/audio_manifest.json`)
-- TTS structure: `"$Title on $date"` → article body → `"AI analysis: Arc (if applicable). Player impact: $player_impact. Future impact: $future_impact."`
-- Audio files are **not committed to git** (in `.gitignore`); generated in CI or locally
-- Full batch (~2,500 articles) takes ~3–4 hours; CI runs it automatically
+Output goes to `website/dist/`.
 
-### Step 3: Copy to website (for entity/arc pages only)
+### Step 3: Deploy
 
-```bash
-cp lore_graph.json website/src/data/lore_graph.json
-```
-
-Only needed for entity/arc static page generation. The main index.astro no longer imports it — it fetches `galnet-meta.json` async at runtime.
-
-### Step 4: Build
-
-```bash
-cd website && pnpm build
-```
-
-Output goes to `website/dist/`. The `public/data/*.json` files are automatically included.
-
-### Step 4: Deploy
-
-**CRITICAL:** Deployment is handled by the GitHub Actions workflow `.github/workflows/deploy.yml`. It triggers **only on pushes to `main`**.
-
-The `git subtree push --prefix website/dist origin gh-pages` approach is **legacy and inactive**. Pushing to the `gh-pages` branch does **not** trigger a deployment.
+**CRITICAL:** Deployment is handled by GitHub Actions.
 
 **Correct deployment flow:**
-1. Make your changes (enrich articles, fix bugs, etc.)
+1. Make your changes
 2. Build locally: `python scripts/build_graph.py && cd website && pnpm build`
-3. Commit everything (including `website/dist/` changes if you want them tracked, though the CI rebuilds from scratch)
+3. Commit everything
 4. Push to `main`: `git push origin main`
 5. The GitHub Actions workflow will rebuild and deploy to GitHub Pages automatically
 
 Monitor deployment status at: https://github.com/KernicDE/ed-lore/actions
 
-### Formatting pass (optional, idempotent)
+---
 
-```bash
-python scripts/format_articles.py           # full run
-python scripts/format_articles.py --dry-run  # preview only
-python scripts/format_articles.py --sample 5 # test on 5 files
-```
+## 7. Audio Pipeline (Fully Automated)
 
-Normalizes YAML key order, strips duplicate titles, collapses blank lines, normalizes `*italic*` → `**bold**`. Safe to re-run any time. See `project_formatting.md` in Claude memory for details and known broken files.
+**DO NOT generate audio locally.** All audio is handled by GitHub Actions.
+
+### How it works
+
+1. `audio-generation` workflow runs hourly (or manual trigger)
+2. Restores MP3 cache + manifest cache from GitHub Actions Cache
+3. Generates missing/changed audio via `scripts/generate_audio.py` (edge-tts)
+4. Uploads MP3s to **Cloudflare R2** via `scripts/sync_audio_to_r2.py`
+   - Uses MD5/etag comparison to skip already-uploaded files
+5. Removes MP3s from build, builds Astro site, deploys
+6. Saves MP3 cache for next run
+
+### R2 Configuration
+
+- **Bucket:** `ed-lore-audio`
+- **Public URL:** `https://pub-4404b20907c141e1b68f3dc578038230.r2.dev/audio/{uuid}.mp3`
+- **Cost:** $0 (within 10 GB free tier)
+
+### Manual full rebuild
+
+If audio is completely missing or corrupted:
+- GitHub → Actions → Audio Generation → Run workflow → ✅ **full_rebuild**
 
 ---
 
-## 7. Validation
+## 8. Validation
 
 ```bash
 python scripts/validate_enrichment.py
@@ -239,35 +225,29 @@ Checks:
 - No banned topics
 - No bad locations (sentence fragments)
 - YAML parseable
-- Arc consistency (warns for large arcs with empty `related_uuids`)
+- Arc consistency
 
 ---
 
-## 8. Article Enrichment Workflow
+## 9. Article Enrichment Workflow
 
-Articles dated before 3309 require manual enrichment. Start with the most recent unenriched files and work backwards.
+New articles require **manual enrichment**. See `.kimi/prompts/fetch-enrich-deploy.md` for the full process.
 
 ### Rules
 - **Read every file fully** before editing. No Python scripts, no batch processing, no guessing, no hallucination.
 - **Skip already-enriched files** (those with `summary` and `player_impact` fields).
-- Add fields: `summary`, `player_impact`, `persons`, `groups`, `locations`, `technologies`, `related_uuids` where appropriate.
+- Add fields: `summary`, `player_impact`, `modern_impact`, `entities`, `locations`, `topics`, `arc_id` where appropriate.
 - **Clean garbage auto-extraction:**
-  - Remove `entities:` field entirely.
   - Remove sentence-fragment locations like `"With the"`, `"Our endeavour in"`.
   - Never put `"Thargoid"` as a location.
-  - Deduplicate groups (e.g. `"Sirius Corp"` → `"Sirius Corporation"`).
-  - Do **not** use `ACT` as an entity — it is a procedural taskforce, not a narrative entity.
+  - Deduplicate groups.
 - Fix `modern_impact` when it is clearly wrong.
 - Use `ReadFile` to inspect each file, then `StrReplaceFile` with exact old text.
 - Validate YAML after edits with `python scripts/validate_enrichment.py`.
 
-### Deployment cadence
-
-Deploy after every ~50 enriched files by committing and pushing `main`.
-
 ---
 
-## 9. Entity Files
+## 10. Entity Files
 
 Entity profiles live in `Entities/` and are auto-generated stubs plus hand-curated enrichment.
 
@@ -289,47 +269,42 @@ When new persons or groups are introduced in articles, the build script may crea
 
 ---
 
-## 10. Git & GitHub
+## 11. Git & GitHub
 
 - Repository: `https://github.com/KernicDE/ed-lore.git`
 - Branch: `main`
-- The `gh` CLI is authenticated for user **KernicDE**
-- GitHub Actions auto-deploys the website on every push to `main` via `.github/workflows/deploy.yml`
+- GitHub Actions auto-deploys the website on every push to `main`
 - **Do not use** `git subtree push` to `gh-pages` — it is legacy and does not trigger deployments
-- The CI pipeline rebuilds the site from scratch (runs `build_graph.py`, `pnpm install`, `pnpm build`, then `deploy-pages`)
-- Always verify deployment succeeded at https://github.com/KernicDE/ed-lore/deployments
+- The CI pipeline rebuilds the site from scratch
+- Always verify deployment succeeded at https://github.com/KernicDE/ed-lore/actions
 
 ---
 
-## 11. Quick Reference
+## 12. Quick Reference
 
 | Task | Command |
 |------|---------|
-| Install Python deps | `pip install pyyaml httpx tqdm edge-tts` |
-| Daily automation prompt | See `DAILY_PROMPT.md` |
-| Fetch / refresh archive | `python fetch.py` *(destructive)* |
+| Install Python deps | `pip install pyyaml httpx tqdm edge-tts requests` |
+| Fetch / refresh archive | `python scripts/fetch.py` *(destructive)* |
 | Validate enrichment | `python scripts/validate_enrichment.py` |
-| Build graph + split JSON | `python scripts/build_graph.py` |
-| Generate entity bios | `python scripts/generate_entity_bios.py` |
-| Generate audio (incremental) | `python scripts/generate_audio.py --sort recent --concurrency 8` |
-| Generate audio batch | `python scripts/generate_audio.py --batch-size 500 --sort recent` |
-| Copy graph to website | `cp lore_graph.json website/src/data/lore_graph.json` |
-| Format archive articles | `python scripts/format_articles.py` |
+| Build graph + client JSONs | `python scripts/build_graph.py` |
 | Build website | `cd website && pnpm build` |
 | Count articles | `find Archive -type f \| wc -l` |
 | Push to GitHub (triggers deploy) | `git push origin main` |
 | Check deployment status | https://github.com/KernicDE/ed-lore/actions |
+| Trigger audio full rebuild | GitHub Actions → Audio Generation → Run workflow → ✅ full_rebuild |
+| New article workflow | See `.kimi/prompts/fetch-enrich-deploy.md` |
 
 ---
 
-## 12. Related Files
+## 13. Related Files
 
 | File | Purpose |
 |------|---------|
-| `DAILY_PROMPT.md` | Copy-paste prompt for daily automation workflow |
-| `CLAUDE.md` | High-level project context and strategic overview |
+| `.kimi/prompts/fetch-enrich-deploy.md` | Step-by-step guide for importing & enriching new articles |
+| `prompt.md` | High-level project vision |
 | `AGENTS.md` | This file — technical conventions and operational details |
 
 ---
 
-*Last updated: 2026-05-01*
+*Last updated: 2026-05-02*

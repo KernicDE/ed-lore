@@ -22,15 +22,26 @@ function getAudioUrl(uuid: string): string {
   return `${BASE}/audio/${uuid}.mp3`;
 }
 
+const LOAD_TIMEOUT_MS = 20_000; // 20 seconds before showing error
+
 export default function AudioPlayer({ article }: AudioPlayerProps) {
   const [isPlaying, setIsPlaying] = useState(false);
   const [currentTime, setCurrentTime] = useState(0);
   const [duration, setDuration] = useState(0);
   const [error, setError] = useState<string | null>(null);
+  const [isLoading, setIsLoading] = useState(false);
   const audioRef = useRef<HTMLAudioElement | null>(null);
   const rafRef = useRef<number>(0);
+  const loadTimeoutRef = useRef<ReturnType<typeof setTimeout> | null>(null);
 
   const audioUrl = article ? getAudioUrl(article.uuid) : null;
+
+  const clearLoadTimeout = useCallback(() => {
+    if (loadTimeoutRef.current) {
+      clearTimeout(loadTimeoutRef.current);
+      loadTimeoutRef.current = null;
+    }
+  }, []);
 
   // Load and auto-play when article changes
   useEffect(() => {
@@ -38,6 +49,9 @@ export default function AudioPlayer({ article }: AudioPlayerProps) {
     setCurrentTime(0);
     setDuration(0);
     setError(null);
+    setIsLoading(false);
+    clearLoadTimeout();
+
     if (audioRef.current) {
       audioRef.current.pause();
       audioRef.current.src = '';
@@ -48,6 +62,13 @@ export default function AudioPlayer({ article }: AudioPlayerProps) {
     }
 
     if (!audioUrl) return;
+
+    setIsLoading(true);
+    loadTimeoutRef.current = setTimeout(() => {
+      setIsLoading(false);
+      setError('Audio not available');
+      setIsPlaying(false);
+    }, LOAD_TIMEOUT_MS);
 
     const audio = new Audio(audioUrl);
     audioRef.current = audio;
@@ -62,19 +83,27 @@ export default function AudioPlayer({ article }: AudioPlayerProps) {
     });
 
     audio.addEventListener('error', () => {
+      clearLoadTimeout();
+      setIsLoading(false);
       setError('Audio not available');
       setIsPlaying(false);
     });
 
     audio.addEventListener('canplay', () => {
+      clearLoadTimeout();
+      setIsLoading(false);
       setError(null);
     });
 
     audio.play().then(() => {
+      clearLoadTimeout();
       setIsPlaying(true);
+      setIsLoading(false);
       setError(null);
       rafRef.current = requestAnimationFrame(updateTime);
     }).catch(() => {
+      clearLoadTimeout();
+      setIsLoading(false);
       setError('Audio not available');
     });
   }, [article?.uuid]);
@@ -93,6 +122,13 @@ export default function AudioPlayer({ article }: AudioPlayerProps) {
     if (!audioUrl) return;
 
     if (!audioRef.current) {
+      setIsLoading(true);
+      loadTimeoutRef.current = setTimeout(() => {
+        setIsLoading(false);
+        setError('Audio not available');
+        setIsPlaying(false);
+      }, LOAD_TIMEOUT_MS);
+
       const audio = new Audio(audioUrl);
       audioRef.current = audio;
 
@@ -106,11 +142,15 @@ export default function AudioPlayer({ article }: AudioPlayerProps) {
       });
 
       audio.addEventListener('error', () => {
+        clearLoadTimeout();
+        setIsLoading(false);
         setError('Audio not available');
         setIsPlaying(false);
       });
 
       audio.addEventListener('canplay', () => {
+        clearLoadTimeout();
+        setIsLoading(false);
         setError(null);
       });
     }
@@ -124,24 +164,29 @@ export default function AudioPlayer({ article }: AudioPlayerProps) {
     } else {
       try {
         await audio.play();
+        clearLoadTimeout();
         setIsPlaying(true);
+        setIsLoading(false);
         setError(null);
         rafRef.current = requestAnimationFrame(updateTime);
       } catch (e) {
+        clearLoadTimeout();
+        setIsLoading(false);
         setError('Audio not available');
       }
     }
-  }, [audioUrl, isPlaying, updateTime]);
+  }, [audioUrl, isPlaying, updateTime, clearLoadTimeout]);
 
   useEffect(() => {
     return () => {
+      clearLoadTimeout();
       if (rafRef.current) cancelAnimationFrame(rafRef.current);
       if (audioRef.current) {
         audioRef.current.pause();
         audioRef.current = null;
       }
     };
-  }, []);
+  }, [clearLoadTimeout]);
 
   const formatTime = (t: number) => {
     if (!isFinite(t) || isNaN(t)) return '00:00';
@@ -164,16 +209,18 @@ export default function AudioPlayer({ article }: AudioPlayerProps) {
         onClick={togglePlay}
         className="audio-play-btn"
         title={isPlaying ? 'Pause' : 'Play'}
-        disabled={!!error}
+        disabled={!!error && !isLoading}
       >
-        {isPlaying ? '⏸' : '▶'}
+        {isLoading ? '◌' : isPlaying ? '⏸' : '▶'}
       </button>
       <div className="audio-info">
         <div className="audio-title" title={article.title}>
           {article.title.length > 30 ? article.title.slice(0, 28) + '…' : article.title}
         </div>
         <div className="audio-time">
-          {error ? (
+          {isLoading ? (
+            <span style={{ color: 'var(--text-secondary)' }}>Loading audio…</span>
+          ) : error ? (
             <span style={{ color: 'var(--elite-red)' }}>{error}</span>
           ) : (
             <>
