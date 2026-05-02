@@ -19,11 +19,12 @@ population: 473723
 security: Anarchy
 economy: Service
 second_economy: High Tech
-edsm_url: https://www.edsm.net/en/system?search=Carcosa
+edsm_url: https://www.edsm.net/en/system/id/13729302/name/Carcosa
 inara_url: https://inara.cz/elite/starsystem/?search=Carcosa
 bio: 'Carcosa is a star system in the Elite Dangerous universe, significant from 3303-10-20
   to 3303-10-20. Associated with The Nameless, Colonia Council. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

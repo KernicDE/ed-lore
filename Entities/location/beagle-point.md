@@ -15,7 +15,7 @@ coords:
   x: -1111.5625
   y: -134.21875
   z: 65269.75
-edsm_url: https://www.edsm.net/en/system?search=Beagle%20Point
+edsm_url: https://www.edsm.net/en/system/id/124406/name/Beagle%20Point
 inara_url: https://inara.cz/elite/starsystem/?search=Beagle%20Point
 bio: 'Beagle Point is a system in Elite Dangerous, significant from 3302-03-29 to
   3312-03-19. Associated with Deep Space Surveys. Notable events include: The second
@@ -24,6 +24,7 @@ bio: 'Beagle Point is a system in Elite Dangerous, significant from 3302-03-29 t
   only travelling starport, prepares for an ambitious long-distance jump from Gliese
   1269 to Beagle Point.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

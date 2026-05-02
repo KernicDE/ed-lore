@@ -22,13 +22,14 @@ population: 66750
 security: High
 economy: Agriculture
 second_economy: None
-edsm_url: https://www.edsm.net/en/system?search=Lembass
+edsm_url: https://www.edsm.net/en/system/id/189033/name/Lembass
 inara_url: https://inara.cz/elite/starsystem/?search=Lembass
 bio: Lembass is a star system in the Elite Dangerous universe, significant from 3306-10-15
   to 3306-10-15. Associated with Pilots Federation, Alliance, Alliance Expeditionary
   Pact. Thargoids reappear in the Witch Head Nebula, swarming through Onoros, Lembass,
   Haki, Wellington and Shenve.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

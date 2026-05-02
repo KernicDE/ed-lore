@@ -20,13 +20,14 @@ population: 4955645791
 security: High
 economy: Agriculture
 second_economy: Industrial
-edsm_url: https://www.edsm.net/en/system?search=Pancienses
+edsm_url: https://www.edsm.net/en/system/id/12390/name/Pancienses
 inara_url: https://inara.cz/elite/starsystem/?search=Pancienses
 bio: Pancienses is a star system in the Elite Dangerous universe, significant from
   3301-07-15 to 3301-07-15. Associated with Lavigny's Legion, Velites Squadron. During
   the Pancienses war, he discovered his manoeuvres prevented weapons lock from Fer-de-Lance
   interdictors.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

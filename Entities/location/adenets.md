@@ -21,7 +21,7 @@ population: 3362140353
 security: High
 economy: Agriculture
 second_economy: Industrial
-edsm_url: https://www.edsm.net/en/system?search=Adenets
+edsm_url: https://www.edsm.net/en/system/id/3707/name/Adenets
 inara_url: https://inara.cz/elite/starsystem/?search=Adenets
 bio: Adenets is a star system in the Elite Dangerous universe, significant from 3304-11-29
   to 3304-11-29. Associated with Achilles Corporation, Adenets Pro-Alliance Bond.
@@ -29,6 +29,7 @@ bio: Adenets is a star system in the Elite Dangerous universe, significant from 
   and microcontrollers to Henslow Market in the Adenets system for manufacturing new
   PA912 administration robots.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

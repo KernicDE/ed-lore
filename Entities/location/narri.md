@@ -22,7 +22,7 @@ population: 4870963
 security: High
 economy: Industrial
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Narri
+edsm_url: https://www.edsm.net/en/system/id/19625/name/Narri
 inara_url: https://inara.cz/elite/starsystem/?search=Narri
 bio: Narri is a star system in the Elite Dangerous universe, significant from 3304-05-04
   to 3304-05-13. Associated with Utopia, Narri Justice Party. The Utopia commune has
@@ -31,6 +31,7 @@ bio: Narri is a star system in the Elite Dangerous universe, significant from 33
   construction and has requested pilots deliver materials to Bobko City while protecting
   traders from pirates.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

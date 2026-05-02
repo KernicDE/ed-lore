@@ -22,12 +22,13 @@ population: 4659549
 security: Medium
 economy: High Tech
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Harm
+edsm_url: https://www.edsm.net/en/system/id/17408/name/Harm
 inara_url: https://inara.cz/elite/starsystem/?search=Harm
 bio: Harm is a star system in the Elite Dangerous universe, significant from 3301-04-15
   to 3301-04-15. The route includes stations such as Gentil Hub in Harm, Hiya Orbital
   in Arjung, and Kagawa Vision in Nidayiman.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

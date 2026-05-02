@@ -22,7 +22,7 @@ population: 135969
 security: Low
 economy: Refinery
 second_economy: Military
-edsm_url: https://www.edsm.net/en/system?search=Volungu
+edsm_url: https://www.edsm.net/en/system/id/18767/name/Volungu
 inara_url: https://inara.cz/elite/starsystem/?search=Volungu
 bio: Volungu is a star system in the Elite Dangerous universe, significant from 3301-02-26
   to 3301-05-25. Associated with Faveol family, Blossom family, Patron's Principles.
@@ -32,6 +32,7 @@ bio: Volungu is a star system in the Elite Dangerous universe, significant from 
   cure brings relief to hundreds of thousands currently awaiting treatment aboard
   local stations.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

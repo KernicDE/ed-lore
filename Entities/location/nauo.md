@@ -22,13 +22,14 @@ population: 37279
 security: Low
 economy: Agriculture
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Nauo
+edsm_url: https://www.edsm.net/en/system/id/20102/name/Nauo
 inara_url: https://inara.cz/elite/starsystem/?search=Nauo
 bio: Nauo is a star system in the Elite Dangerous universe, significant from 3302-09-08
   to 3302-10-27. Associated with United Research Council. The United Research Council
   lifted preparatory restrictions near the Clayakarma, Nauo, Gyhldekala, Boga, and
   Kpaniya systems.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

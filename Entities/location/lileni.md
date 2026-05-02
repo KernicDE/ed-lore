@@ -22,11 +22,12 @@ population: 36405827
 security: High
 economy: High Tech
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Lileni
+edsm_url: https://www.edsm.net/en/system/id/3540/name/Lileni
 inara_url: https://inara.cz/elite/starsystem/?search=Lileni
 bio: 'Lileni is a star system in the Elite Dangerous universe, significant from 3301-04-15
   to 3301-04-15. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

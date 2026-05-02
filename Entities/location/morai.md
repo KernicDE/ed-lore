@@ -19,13 +19,14 @@ controlling_faction: Imperial Self Defense Force
 population: 2437946
 security: Medium
 economy: Industrial
-edsm_url: https://www.edsm.net/en/system?search=Morai
+edsm_url: https://www.edsm.net/en/system/id/2244/name/Morai
 inara_url: https://inara.cz/elite/starsystem/?search=Morai
 bio: Morai is a star system in the Elite Dangerous universe, significant from 3302-08-25
   to 3302-09-01. Associated with Morai Nobles, Empire. Pilots are asked to deliver
   autofabricators, tantalum, and superconductors to van de Hulst Vision in the Morai
   system.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

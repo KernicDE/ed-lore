@@ -22,13 +22,14 @@ population: 882793
 security: Low
 economy: Extraction
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Akandinigua
+edsm_url: https://www.edsm.net/en/system/id/17036/name/Akandinigua
 inara_url: https://inara.cz/elite/starsystem/?search=Akandinigua
 bio: Akandinigua is a star system in the Elite Dangerous universe, significant from
   3303-11-11 to 3303-11-11. Associated with Conservatives of Tiliala, Black Fleet.
   Access rights are now shared between the Black Fleet and the Conservatives of Tiliala,
   who have relocated to a Wells-class Carrier named Tiliala's Lament in nearby Akandinigua.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

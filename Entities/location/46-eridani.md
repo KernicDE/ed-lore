@@ -13,11 +13,12 @@ coords:
   x: 268.125
   y: -450.4375
   z: -640.71875
-edsm_url: https://www.edsm.net/en/system?search=46%20Eridani
+edsm_url: https://www.edsm.net/en/system/id/1866069/name/46%20Eridani
 inara_url: https://inara.cz/elite/starsystem/?search=46%20Eridani
 bio: '46 Eridani is a star system in the Elite Dangerous universe, significant from
   3303-05-04 to 3303-05-04. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

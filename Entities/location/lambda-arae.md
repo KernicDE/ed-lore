@@ -22,7 +22,7 @@ population: 14271466281
 security: High
 economy: Agriculture
 second_economy: Industrial
-edsm_url: https://www.edsm.net/en/system?search=Lambda%20Arae
+edsm_url: https://www.edsm.net/en/system/id/5205/name/Lambda%20Arae
 inara_url: https://inara.cz/elite/starsystem/?search=Lambda%20Arae
 bio: Lambda Arae is a star system in the Elite Dangerous universe, significant from
   3304-04-06 to 3304-04-15. Associated with Atlas Corporation, Aegis, Pegasi Sector
@@ -31,6 +31,7 @@ bio: Lambda Arae is a star system in the Elite Dangerous universe, significant f
   the successful conclusion of its campaign to build a megaship in the Lambda Arae
   system.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

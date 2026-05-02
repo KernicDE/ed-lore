@@ -22,13 +22,14 @@ population: 4551427
 security: Medium
 economy: Industrial
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Huichi
+edsm_url: https://www.edsm.net/en/system/id/5361/name/Huichi
 inara_url: https://inara.cz/elite/starsystem/?search=Huichi
 bio: Huichi is a star system in the Elite Dangerous universe, significant from 3301-07-24
   to 3301-07-24. Associated with Kumo Crew. Commander Corrigendum of Lavigny's Legion
   reported Archon's forces have been routed from Imperial space, with heavy clashes
   in Anedjete, Sopontet, and Huichi.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

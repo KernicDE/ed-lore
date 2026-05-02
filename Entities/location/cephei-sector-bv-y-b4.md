@@ -15,12 +15,13 @@ coords:
 security: Anarchy
 economy: None
 second_economy: None
-edsm_url: https://www.edsm.net/en/system?search=Cephei%20Sector%20BV-Y%20B4
+edsm_url: https://www.edsm.net/en/system/id/44253/name/Cephei%20Sector%20BV-Y%20B4
 inara_url: https://inara.cz/elite/starsystem/?search=Cephei%20Sector%20BV-Y%20B4
 bio: Cephei Sector BV-Y B4 is a star system in the Elite Dangerous universe, significant
   from 3310-04-24 to 3310-04-24. Associated with Aegis. Titan Oya is confirmed destroyed
   in the Cephei Sector BV-Y B4 system, leaving five Titans operational.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -22,12 +22,13 @@ population: 65996343
 security: Medium
 economy: High Tech
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Tenche
+edsm_url: https://www.edsm.net/en/system/id/17089/name/Tenche
 inara_url: https://inara.cz/elite/starsystem/?search=Tenche
 bio: 'Tenche is a star system in the Elite Dangerous universe, significant from 3306-09-17
   to 3306-09-21. Associated with Kavanagh Spaceframes Ltd, Steel Castle Inc, Pilots
   Federation. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

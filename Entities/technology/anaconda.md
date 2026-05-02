@@ -5,7 +5,6 @@ type: technology
 first_seen_date: '3301-03-18'
 last_seen_date: '3302-12-23'
 mention_count: 3
-inara_url: https://inara.cz/elite/commodity/?search=Anaconda
 bio: Anaconda is a technology in the Elite Dangerous universe, mentioned from 3301-03-18
   to 3302-12-23. Developed or used by Virgil Kyle, Buckyball Racing Club. Commander
   Allitnil has set a new record by travelling from Sol to Jaques Station in Colonia
@@ -13,6 +12,7 @@ bio: Anaconda is a technology in the Elite Dangerous universe, mentioned from 33
   days aboard an Anaconda. Due to jump distances, the system is only reachable by
   Asps and Anacondas fitted for near-maximum jump ranges.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

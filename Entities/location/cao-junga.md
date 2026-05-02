@@ -22,11 +22,12 @@ population: 53706
 security: Medium
 economy: Agriculture
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=CAO%20Junga
+edsm_url: https://www.edsm.net/en/system/id/9659/name/CAO%20Junga
 inara_url: https://inara.cz/elite/starsystem/?search=CAO%20Junga
 bio: 'CAO Junga is a star system in the Elite Dangerous universe, significant from
   3301-03-12 to 3301-03-12. Associated with Sirius Corporation. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -22,11 +22,12 @@ population: 356737
 security: Low
 economy: Industrial
 second_economy: Military
-edsm_url: https://www.edsm.net/en/system?search=Musca%20Dark%20Region%20IM-V%20C2-24
+edsm_url: https://www.edsm.net/en/system/id/361127/name/Musca%20Dark%20Region%20IM-V%20C2-24
 inara_url: https://inara.cz/elite/starsystem/?search=Musca%20Dark%20Region%20IM-V%20C2-24
 bio: 'Musca Dark Region IM-V C2-24 is a star system in the Elite Dangerous universe,
   significant from 3306-11-26 to 3306-11-26. Associated with Pilots Federation, Alliance. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

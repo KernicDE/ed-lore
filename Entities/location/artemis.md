@@ -22,13 +22,14 @@ population: 1525606
 security: Medium
 economy: Tourism
 second_economy: Industrial
-edsm_url: https://www.edsm.net/en/system?search=Artemis
+edsm_url: https://www.edsm.net/en/system/id/5780/name/Artemis
 inara_url: https://inara.cz/elite/starsystem/?search=Artemis
 bio: Artemis is a star system in the Elite Dangerous universe, significant from 3301-08-11
   to 3312-03-03. Associated with Federal Times. Two transport safety officials died
   when their personal transport collided with a Lakon Type-9 Heavy vessel near Laphria
   Shipyard in the Artemis system.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

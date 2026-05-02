@@ -22,12 +22,13 @@ population: 1200000
 security: Medium
 economy: Industrial
 second_economy: None
-edsm_url: https://www.edsm.net/en/system?search=Celaeno
+edsm_url: https://www.edsm.net/en/system/id/23684/name/Celaeno
 inara_url: https://inara.cz/elite/starsystem/?search=Celaeno
 bio: Celaeno is a star system in the Elite Dangerous universe, significant from 3303-11-14
   to 3303-12-02. An intriguing message has been discovered in the Celaeno system,
   recovered from a listening post.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

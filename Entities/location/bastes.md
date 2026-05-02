@@ -22,7 +22,7 @@ population: 2350810
 security: Medium
 economy: Industrial
 second_economy: High Tech
-edsm_url: https://www.edsm.net/en/system?search=Bastes
+edsm_url: https://www.edsm.net/en/system/id/12044/name/Bastes
 inara_url: https://inara.cz/elite/starsystem/?search=Bastes
 bio: Bastes is a star system in the Elite Dangerous universe, significant from 3301-07-23
   to 3301-08-06. Fresh Cerberus Plague cases caused mass panic at Shepherd Hub in
@@ -30,6 +30,7 @@ bio: Bastes is a star system in the Elite Dangerous universe, significant from 3
   a cure being found, the Cerberus Plague continues to affect starports in Bastes,
   Maheou Ti, Ochoeng, Una, and Santjalan.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

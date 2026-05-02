@@ -22,13 +22,14 @@ population: 8470496826
 security: High
 economy: Extraction
 second_economy: Service
-edsm_url: https://www.edsm.net/en/system?search=Alkaid
+edsm_url: https://www.edsm.net/en/system/id/6626/name/Alkaid
 inara_url: https://inara.cz/elite/starsystem/?search=Alkaid
 bio: Alkaid is a star system in the Elite Dangerous universe, significant from 3307-05-17
   to 3307-05-28. Associated with Alliance, Alliance Tribune. Mahon defends his record
   on prosperity at a business conference on Industry in Zaonce, while Kaine criticises
   Alliance spending on Aegis and Lakon at a protest march on New Caledonia in Alkaid.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

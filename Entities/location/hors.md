@@ -19,13 +19,14 @@ population: 121533
 security: Anarchy
 economy: High Tech
 second_economy: Agriculture
-edsm_url: https://www.edsm.net/en/system?search=Hors
+edsm_url: https://www.edsm.net/en/system/id/18968/name/Hors
 inara_url: https://inara.cz/elite/starsystem/?search=Hors
 bio: Hors is a star system in the Elite Dangerous universe, significant from 3301-04-07
   to 3301-04-07. Associated with Federal Navy, Brightlight Training Corporation. Shadow
   President Hudson, accompanied by Admiral Vincent's aides, visited the Hors system
   to meet Duke Sanders and discuss extending Brightlight Training's Federal contracts.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

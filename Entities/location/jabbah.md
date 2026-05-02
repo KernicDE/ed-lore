@@ -21,13 +21,14 @@ population: 101104
 security: Low
 economy: Industrial
 second_economy: None
-edsm_url: https://www.edsm.net/en/system?search=Jabbah
+edsm_url: https://www.edsm.net/en/system/id/57095/name/Jabbah
 inara_url: https://inara.cz/elite/starsystem/?search=Jabbah
 bio: Jabbah is a star system in the Elite Dangerous universe, significant from 3301-10-26
   to 3301-10-26. Associated with Buckyball Racing Club. Starting at George Lucas station
   in Leesti and ending in the Jabbah system, participants must dock at every station
   named 'Kessel' in any order.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

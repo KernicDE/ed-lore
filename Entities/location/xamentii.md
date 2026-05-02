@@ -22,7 +22,7 @@ population: 64284
 security: Low
 economy: Military
 second_economy: Industrial
-edsm_url: https://www.edsm.net/en/system?search=Xamentii
+edsm_url: https://www.edsm.net/en/system/id/2099/name/Xamentii
 inara_url: https://inara.cz/elite/starsystem/?search=Xamentii
 bio: Xamentii is a star system in the Elite Dangerous universe, significant from 3301-07-30
   to 3301-08-06. Fresh Cerberus Plague outbreaks have appeared in Chongguls, Xamentii,
@@ -30,6 +30,7 @@ bio: Xamentii is a star system in the Elite Dangerous universe, significant from
   The plague has been eradicated from Dajoar, Bastes, Maheou Ti, Eleu, Ochoeng, 20
   Ophiuchi, Una, Santjalan, BD-02 4304, Chongguls, Xamentii, and G 139-50.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

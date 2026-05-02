@@ -5,13 +5,13 @@ type: technology
 first_seen_date: '3308-09-05'
 last_seen_date: '3308-09-30'
 mention_count: 3
-inara_url: https://inara.cz/elite/commodity/?search=Full%20Spectrum%20System%20Scanner
 bio: Full Spectrum System Scanner is a technology in the Elite Dangerous universe,
   mentioned from 3308-09-05 to 3308-09-30. Developed or used by Pilots Federation,
   Universal Cartographics, Eva Llewellyn. Independent explorers report an unexplained
   reddish-orange flare near Barnard's Loop that produces strange FSS scanner feedback,
   with no official scientific explanation yet.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

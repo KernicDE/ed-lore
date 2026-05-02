@@ -14,7 +14,7 @@ coords:
   x: -73.625
   y: -135.75
   z: -359.71875
-edsm_url: https://www.edsm.net/en/system?search=Pleiades%20Sector%20JC-U%20B3-2
+edsm_url: https://www.edsm.net/en/system/id/244481/name/Pleiades%20Sector%20JC-U%20B3-2
 inara_url: https://inara.cz/elite/starsystem/?search=Pleiades%20Sector%20JC-U%20B3-2
 bio: Pleiades Sector JC-U B3-2 is a star system in the Elite Dangerous universe, significant
   from 3302-01-15 to 3302-01-15. Associated with Canonn Interstellar Research Group.
@@ -23,6 +23,7 @@ bio: Pleiades Sector JC-U B3-2 is a star system in the Elite Dangerous universe,
   Octo discovered the first barnacles on Merope 5c, with additional sites found on
   Pleiades Sector JC-U B3-2.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -22,7 +22,7 @@ population: 1200000
 security: Medium
 economy: Industrial
 second_economy: None
-edsm_url: https://www.edsm.net/en/system?search=Electra
+edsm_url: https://www.edsm.net/en/system/id/24482/name/Electra
 inara_url: https://inara.cz/elite/starsystem/?search=Electra
 bio: Electra is a star system in the Elite Dangerous universe, significant from 3303-11-16
   to 3303-12-02. Associated with Aegis, Pilots Federation. A new kind of Thargoid
@@ -30,6 +30,7 @@ bio: Electra is a star system in the Elite Dangerous universe, significant from 
   encountered in the Electra system. The operation will focus on Electra, where high
   concentrations of Thargoid vessels have been reported.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

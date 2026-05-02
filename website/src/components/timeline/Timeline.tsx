@@ -107,7 +107,7 @@ function CopyLinkButton({ uuid }: { uuid: string }) {
       style={{
         background: 'transparent',
         border: '1px solid var(--border-glow)',
-        color: copied ? 'var(--elite-green)' : 'var(--text-dim)',
+        color: copied ? 'var(--elite-green)' : 'var(--text-secondary)',
         fontFamily: 'var(--font-mono)',
         fontSize: 11,
         padding: '4px 10px',
@@ -328,6 +328,8 @@ export default function Timeline({
             value={Math.max(0, sliderIndex)}
             onChange={handleSliderChange}
             className="timeline-range-input"
+            aria-label="Select year"
+            title="Select year"
           />
           <div className="timeline-slider-ticks">
             <span>{sliderYears[0]}</span>

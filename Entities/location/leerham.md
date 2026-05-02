@@ -22,7 +22,7 @@ population: 27776305
 security: High
 economy: Industrial
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Leerham
+edsm_url: https://www.edsm.net/en/system/id/7556/name/Leerham
 inara_url: https://inara.cz/elite/starsystem/?search=Leerham
 bio: Leerham is a star system in the Elite Dangerous universe, significant from 3301-07-30
   to 3301-08-06. Fresh Cerberus Plague outbreaks have appeared in Chongguls, Xamentii,
@@ -30,6 +30,7 @@ bio: Leerham is a star system in the Elite Dangerous universe, significant from 
   Affected systems include Cantjarisni, Rajukru, HIP 10175, Amahu, Leerham, BD-11
   4280, and Louguala.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

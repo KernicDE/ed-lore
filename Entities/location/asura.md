@@ -22,11 +22,12 @@ population: 465564
 security: Low
 economy: Service
 second_economy: Industrial
-edsm_url: https://www.edsm.net/en/system?search=Asura
+edsm_url: https://www.edsm.net/en/system/id/13729129/name/Asura
 inara_url: https://inara.cz/elite/starsystem/?search=Asura
 bio: 'Asura is a star system in the Elite Dangerous universe, significant from 3304-08-29
   to 3304-08-29. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

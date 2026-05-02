@@ -20,7 +20,7 @@ population: 600017409
 security: High
 economy: Agriculture
 second_economy: High Tech
-edsm_url: https://www.edsm.net/en/system?search=Vega
+edsm_url: https://www.edsm.net/en/system/id/11009/name/Vega
 inara_url: https://inara.cz/elite/starsystem/?search=Vega
 bio: 'Vega is a system in Elite Dangerous, significant from 3305-04-25 to 3305-05-31.
   Associated with Fort Dixon Security, Vox Galactica. Notable events include: Commander
@@ -29,6 +29,7 @@ bio: 'Vega is a system in Elite Dangerous, significant from 3305-04-25 to 3305-0
   identifies starship technician Gan Romero as the individual who stole a docked Diamondback
   Explorer in the Vega system, though ...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -22,13 +22,14 @@ population: 1315247213
 security: High
 economy: Agriculture
 second_economy: Industrial
-edsm_url: https://www.edsm.net/en/system?search=Cherets
+edsm_url: https://www.edsm.net/en/system/id/16312/name/Cherets
 inara_url: https://inara.cz/elite/starsystem/?search=Cherets
 bio: Cherets is a star system in the Elite Dangerous universe, significant from 3301-12-30
   to 3302-01-07. Associated with Independent Cherets Labour. Independent Cherets Labour
   announced that its appeal for Anduliga Fireworks was successful, with independent
   combat pilots protecting delivery routes to Bucky Hub in the Cherets system.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

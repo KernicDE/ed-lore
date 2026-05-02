@@ -20,11 +20,12 @@ population: 174037
 security: Medium
 economy: Refinery
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Styx
+edsm_url: https://www.edsm.net/en/system/id/10/name/Styx
 inara_url: https://inara.cz/elite/starsystem/?search=Styx
 bio: 'Styx is a star system in the Elite Dangerous universe, significant from 3302-10-21
   to 3302-10-21. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

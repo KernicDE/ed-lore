@@ -22,7 +22,7 @@ population: 20094430
 security: High
 economy: Industrial
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Zavijah
+edsm_url: https://www.edsm.net/en/system/id/3594/name/Zavijah
 inara_url: https://inara.cz/elite/starsystem/?search=Zavijah
 bio: Zavijah is a star system in the Elite Dangerous universe, significant from 3304-08-31
   to 3304-09-09. Associated with Far God cult, LHS 2541 Alliance Combine. An open
@@ -31,6 +31,7 @@ bio: Zavijah is a star system in the Elite Dangerous universe, significant from 
   of pilots delivered commodities to Wheelock Ring in the Zavijah system and protected
   traders from agitators.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -22,11 +22,12 @@ population: 486030
 security: High
 economy: Extraction
 second_economy: High Tech
-edsm_url: https://www.edsm.net/en/system?search=Siniang
+edsm_url: https://www.edsm.net/en/system/id/47677930/name/Siniang
 inara_url: https://inara.cz/elite/starsystem/?search=Siniang
 bio: 'Siniang is a star system in the Elite Dangerous universe, significant from 3308-04-13
   to 3308-04-13. Associated with Alliance. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -22,7 +22,7 @@ population: 25000000000
 security: High
 economy: Agriculture
 second_economy: None
-edsm_url: https://www.edsm.net/en/system?search=Lave
+edsm_url: https://www.edsm.net/en/system/id/18/name/Lave
 inara_url: https://inara.cz/elite/starsystem/?search=Lave
 bio: 'Lave is a system in Elite Dangerous, significant from 3301-04-03 to 3312-01-26.
   Associated with Alliance, Alliance Defence Force. Notable events include: This week''s
@@ -31,6 +31,7 @@ bio: 'Lave is a system in Elite Dangerous, significant from 3301-04-03 to 3312-0
   Aisling Duval''s anti-slavery campaign merging with Universal Liberty to form Unchain,
   Lori Jameson''s denunciation of the Le...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

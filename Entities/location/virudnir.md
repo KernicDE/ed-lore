@@ -22,11 +22,12 @@ population: 11810
 security: Low
 economy: Refinery
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Virudnir
+edsm_url: https://www.edsm.net/en/system/id/17712/name/Virudnir
 inara_url: https://inara.cz/elite/starsystem/?search=Virudnir
 bio: 'Virudnir is a star system in the Elite Dangerous universe, significant from
   3307-04-02 to 3307-04-02. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

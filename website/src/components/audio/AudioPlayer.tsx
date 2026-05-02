@@ -143,7 +143,7 @@ export default function AudioPlayer({ article }: AudioPlayerProps) {
   if (!article) {
     return (
       <div className="audio-player">
-        <span style={{ fontSize: 11, color: 'var(--text-dim)' }}>Click ▶ Audio on an article to play</span>
+        <span style={{ fontSize: 11, color: 'var(--text-secondary)' }}>Click ▶ Audio on an article to play</span>
       </div>
     );
   }

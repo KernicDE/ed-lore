@@ -19,11 +19,12 @@ population: 18064289
 security: High
 economy: Industrial
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Ocshooit
+edsm_url: https://www.edsm.net/en/system/id/11186/name/Ocshooit
 inara_url: https://inara.cz/elite/starsystem/?search=Ocshooit
 bio: 'Ocshooit is a star system in the Elite Dangerous universe, significant from
   3302-07-27 to 3302-07-27. Associated with Interstellar Press. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

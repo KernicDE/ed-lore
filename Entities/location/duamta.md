@@ -22,12 +22,13 @@ population: 13327723347
 security: High
 economy: High Tech
 second_economy: Agriculture
-edsm_url: https://www.edsm.net/en/system?search=Duamta
+edsm_url: https://www.edsm.net/en/system/id/8420/name/Duamta
 inara_url: https://inara.cz/elite/starsystem/?search=Duamta
 bio: Duamta is a star system in the Elite Dangerous universe, significant from 3309-02-23
   to 3310-10-18. Associated with Alliance, Aegis. Aegis requests resource deliveries
   in Duamta to fast-track mass production of the caustic sink launcher module.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

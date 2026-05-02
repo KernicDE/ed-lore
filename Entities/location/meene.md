@@ -22,7 +22,7 @@ population: 10893550
 security: Medium
 economy: Industrial
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Meene
+edsm_url: https://www.edsm.net/en/system/id/16797/name/Meene
 inara_url: https://inara.cz/elite/starsystem/?search=Meene
 bio: 'Meene is a system in Elite Dangerous, significant from 3302-11-03 to 3310-07-06.
   Associated with Meene Defence Force, Sirius Corporation. Notable events include:
@@ -31,6 +31,7 @@ bio: 'Meene is a system in Elite Dangerous, significant from 3302-11-03 to 3310-
   summary covering the Alliance Assembly''s decision to create the Office of the Alliance
   President without executive powers, Sirius Corporatio...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

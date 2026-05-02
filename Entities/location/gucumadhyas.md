@@ -19,11 +19,12 @@ population: 5209259
 security: Medium
 economy: Industrial
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Gucumadhyas
+edsm_url: https://www.edsm.net/en/system/id/18664/name/Gucumadhyas
 inara_url: https://inara.cz/elite/starsystem/?search=Gucumadhyas
 bio: 'Gucumadhyas is a star system in the Elite Dangerous universe, significant from
   3303-04-14 to 3303-04-21. Associated with Utopia Commune. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

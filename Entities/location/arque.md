@@ -22,7 +22,7 @@ population: 111849
 security: Low
 economy: Extraction
 second_economy: Agriculture
-edsm_url: https://www.edsm.net/en/system?search=Arque
+edsm_url: https://www.edsm.net/en/system/id/7551/name/Arque
 inara_url: https://inara.cz/elite/starsystem/?search=Arque
 bio: 'Arque is a system in Elite Dangerous, significant from 3302-08-18 to 3310-02-08.
   Associated with Aegis, Arque Commodities. Notable events include: Professor Ishmael
@@ -30,6 +30,7 @@ bio: 'Arque is a system in Elite Dangerous, significant from 3302-08-18 to 3310-
   meta-alloy shipments.; Professor Ishmael Palin launches phase two of his Thargoid
   research project, requesting fresh alien artefacts for study.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

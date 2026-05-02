@@ -22,13 +22,14 @@ population: 3550284859
 security: High
 economy: Agriculture
 second_economy: Industrial
-edsm_url: https://www.edsm.net/en/system?search=Kappa%20Ophiuchi
+edsm_url: https://www.edsm.net/en/system/id/19215/name/Kappa%20Ophiuchi
 inara_url: https://inara.cz/elite/starsystem/?search=Kappa%20Ophiuchi
 bio: Kappa Ophiuchi is a star system in the Elite Dangerous universe, significant
   from 3301-08-06 to 3301-08-06. Associated with Union of Bast Liberals. Newly affected
   systems include Altair, 39 Tauri, Kamorin, Delta Phoenicis, Kappa Ophiuchi, Murung,
   LTT 14850, Gali, Cauani, LTT 6705, Watha, Asgaa, and Svent.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

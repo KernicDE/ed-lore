@@ -5,7 +5,6 @@ type: technology
 first_seen_date: '3307-06-15'
 last_seen_date: '3307-06-24'
 mention_count: 3
-inara_url: https://inara.cz/elite/commodity/?search=Engineered%20Detailed%20Surface%20Scanner%20V1
 bio: Engineered Detailed Surface Scanner V1 is a technology in the Elite Dangerous
   universe, mentioned from 3307-06-15 to 3307-06-24. Developed or used by Sirius Corporation,
   Sirius Atmospherics, Pilots Federation. Sirius Corporation requests commodities
@@ -13,6 +12,7 @@ bio: Engineered Detailed Surface Scanner V1 is a technology in the Elite Dangero
   reward from Sirius Atmospherics' terraforming programme. Marketing director Sinclair
   Faraldo announces the module will have twice the probe coverage of standard scanners.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -21,11 +21,12 @@ population: 41011
 security: Low
 economy: Extraction
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Pallaeni
+edsm_url: https://www.edsm.net/en/system/id/1093/name/Pallaeni
 inara_url: https://inara.cz/elite/starsystem/?search=Pallaeni
 bio: 'Pallaeni is a star system in the Elite Dangerous universe, significant from
   3305-01-04 to 3305-05-02. Associated with Vox Galactica. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

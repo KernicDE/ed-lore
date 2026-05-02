@@ -21,13 +21,14 @@ population: 301089
 security: Medium
 economy: Refinery
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Amber
+edsm_url: https://www.edsm.net/en/system/id/5516/name/Amber
 inara_url: https://inara.cz/elite/starsystem/?search=Amber
 bio: Amber is a star system in the Elite Dangerous universe, significant from 3304-09-07
   to 3304-09-13. Associated with Alliance, Alioth Independents. An open order is placed
   for Esuseku Caviar, Ceremonial Heike Tea, and Live Hecate Sea Worms to be delivered
   to Smith Landing in the Amber system.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

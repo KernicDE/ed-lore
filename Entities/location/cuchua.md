@@ -22,7 +22,7 @@ population: 1711615225
 security: Medium
 economy: Agriculture
 second_economy: Industrial
-edsm_url: https://www.edsm.net/en/system?search=Cuchua
+edsm_url: https://www.edsm.net/en/system/id/9516/name/Cuchua
 inara_url: https://inara.cz/elite/starsystem/?search=Cuchua
 bio: Cuchua is a star system in the Elite Dangerous universe, significant from 3301-07-08
   to 3301-07-24. Associated with Kumo Crew, Lavigny's Legion. Senators Patreus and
@@ -31,6 +31,7 @@ bio: Cuchua is a star system in the Elite Dangerous universe, significant from 3
   Velites Squadron spearheading operations code-named 'Charybdis' and 'Davy Jones'
   in Cuchua and Harma.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

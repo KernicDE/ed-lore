@@ -22,13 +22,14 @@ population: 16837
 security: Low
 economy: Extraction
 second_economy: Industrial
-edsm_url: https://www.edsm.net/en/system?search=Dahan
+edsm_url: https://www.edsm.net/en/system/id/5/name/Dahan
 inara_url: https://inara.cz/elite/starsystem/?search=Dahan
 bio: Dahan is a star system in the Elite Dangerous universe, significant from 3301-06-10
   to 3301-12-21. Associated with Alliance. Following the failed Federal invasion of
   Eranin in late 3300, Federal and Alliance campaigners clashed politically in the
   Dahan sector.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

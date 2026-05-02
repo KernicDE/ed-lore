@@ -22,13 +22,14 @@ population: 6656965
 security: High
 economy: Industrial
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=San%20Muss
+edsm_url: https://www.edsm.net/en/system/id/14924/name/San%20Muss
 inara_url: https://inara.cz/elite/starsystem/?search=San%20Muss
 bio: San Muss is a star system in the Elite Dangerous universe, significant from 3301-06-24
   to 3301-06-24. Associated with Kumo Crew, Federal Navy. Archon Delaine's Kumo Crew
   continues their expansion across the Pegasi sector, establishing new strongholds
   in Arawere, Huaich, LTT 16548 and San Muss.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

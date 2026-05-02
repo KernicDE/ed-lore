@@ -22,13 +22,14 @@ population: 4120424
 security: Medium
 economy: Industrial
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Berrivi
+edsm_url: https://www.edsm.net/en/system/id/11231/name/Berrivi
 inara_url: https://inara.cz/elite/starsystem/?search=Berrivi
 bio: Berrivi is a star system in the Elite Dangerous universe, significant from 3301-04-02
   to 3301-04-02. Associated with Tanmark Defence Force, Kappa Fornacis Farmers Union.
   Despite the Federal ban, Onionhead sales continue to grow from Panem's Harvestport,
   with supply reaching as far as Berrivi and Aapelinja.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

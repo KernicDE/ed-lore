@@ -22,11 +22,12 @@ population: 10326175
 security: Medium
 economy: High Tech
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Diaguandri
+edsm_url: https://www.edsm.net/en/system/id/7479/name/Diaguandri
 inara_url: https://inara.cz/elite/starsystem/?search=Diaguandri
 bio: Diaguandri is a star system in the Elite Dangerous universe, significant from
   3302-01-04 to 3302-02-24.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

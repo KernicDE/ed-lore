@@ -22,13 +22,14 @@ population: 14458872
 security: Medium
 economy: Industrial
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Bhal
+edsm_url: https://www.edsm.net/en/system/id/8856/name/Bhal
 inara_url: https://inara.cz/elite/starsystem/?search=Bhal
 bio: Bhal is a star system in the Elite Dangerous universe, significant from 3304-06-22
   to 3304-06-24. Associated with Aegis. Carter Armstrong of Aegis Core announces Armstrong
   Enterprise in the Bhal system and Beaufoy Vision in the Nauni system are now open.
   Their forces have been pushed back to the Bhal system, their initial beachhead.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -22,13 +22,14 @@ population: 2234198
 security: Medium
 economy: Industrial
 second_economy: Colony
-edsm_url: https://www.edsm.net/en/system?search=Bava
+edsm_url: https://www.edsm.net/en/system/id/10699/name/Bava
 inara_url: https://inara.cz/elite/starsystem/?search=Bava
 bio: Bava is a star system in the Elite Dangerous universe, significant from 3302-07-14
   to 3302-07-21. Associated with Empire, Bava Blue Travel Systems, Federation. The
   Empire has launched a campaign to find additional barnacles by asking pilots to
   deliver exploration data to Bauschinger City in the Bava system.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

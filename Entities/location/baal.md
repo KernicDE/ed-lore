@@ -22,11 +22,12 @@ population: 4272655540
 security: High
 economy: Agriculture
 second_economy: Industrial
-edsm_url: https://www.edsm.net/en/system?search=Baal
+edsm_url: https://www.edsm.net/en/system/id/8242/name/Baal
 inara_url: https://inara.cz/elite/starsystem/?search=Baal
 bio: 'Baal is a star system in the Elite Dangerous universe, significant from 3306-09-24
   to 3306-09-24. Associated with Pilots Federation, Alliance. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

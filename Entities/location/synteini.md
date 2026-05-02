@@ -22,7 +22,7 @@ population: 12756306529
 security: Medium
 economy: Agriculture
 second_economy: Tourism
-edsm_url: https://www.edsm.net/en/system?search=Synteini
+edsm_url: https://www.edsm.net/en/system/id/6376/name/Synteini
 inara_url: https://inara.cz/elite/starsystem/?search=Synteini
 bio: 'Synteini is a system in Elite Dangerous, significant from 3301-03-01 to 3310-01-11.
   Associated with Imperial Slavers Association. Notable events include: Senator Zemina
@@ -30,6 +30,7 @@ bio: 'Synteini is a system in Elite Dangerous, significant from 3301-03-01 to 33
   the Empire''s citizens truly support.; The ''Great Slaver Showdown'' between Zemina
   Torval and Aisling Duval concluded with Torval''s victory.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

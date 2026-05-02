@@ -19,12 +19,13 @@ population: 2079491591
 security: High
 economy: Terraforming
 second_economy: Agriculture
-edsm_url: https://www.edsm.net/en/system?search=Ngam
+edsm_url: https://www.edsm.net/en/system/id/1085/name/Ngam
 inara_url: https://inara.cz/elite/starsystem/?search=Ngam
 bio: Ngam is a star system in the Elite Dangerous universe, significant from 3301-08-12
   to 3301-08-12. Associated with Kumo Crew, Imperial Fleet. Sieges of systems like
   Ngam have been repeatedly broken by the Empire and re-laid by pirates.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

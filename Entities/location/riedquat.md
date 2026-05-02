@@ -22,12 +22,13 @@ population: 2000000000
 security: Medium
 economy: Agriculture
 second_economy: Industrial
-edsm_url: https://www.edsm.net/en/system?search=Riedquat
+edsm_url: https://www.edsm.net/en/system/id/7540/name/Riedquat
 inara_url: https://inara.cz/elite/starsystem/?search=Riedquat
 bio: Riedquat is a star system in the Elite Dangerous universe, significant from 3305-09-18
   to 3305-10-22. Associated with Rockforth Corporation, Interstellar Association for
   Agriculture, Lakon Spaceways.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

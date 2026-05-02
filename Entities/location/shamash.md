@@ -16,7 +16,7 @@ population: 152848
 security: Medium
 economy: Military
 second_economy: Agriculture
-edsm_url: https://www.edsm.net/en/system?search=Shamash
+edsm_url: https://www.edsm.net/en/system/id/10974/name/Shamash
 inara_url: https://inara.cz/elite/starsystem/?search=Shamash
 bio: Shamash is a star system in the Elite Dangerous universe, significant from 3309-10-26
   to 3309-10-27. A naval squadron goes rogue in Shamash after an anomalous signal
@@ -24,6 +24,7 @@ bio: Shamash is a star system in the Elite Dangerous universe, significant from 
   in Shamash must be destroyed after crews become homicidal from an unexplained mass
   hysteria, with no cure found.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

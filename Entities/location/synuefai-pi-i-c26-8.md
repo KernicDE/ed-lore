@@ -13,11 +13,12 @@ coords:
   x: -716.78125
   y: -85.125
   z: 92.65625
-edsm_url: https://www.edsm.net/en/system?search=Synuefai%20PI-I%20c26-8
+edsm_url: https://www.edsm.net/en/system/id/396822/name/Synuefai%20PI-I%20c26-8
 inara_url: https://inara.cz/elite/starsystem/?search=Synuefai%20PI-I%20c26-8
 bio: 'Synuefai PI-I c26-8 is a star system in the Elite Dangerous universe, significant
   from 3302-07-01 to 3302-07-01. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

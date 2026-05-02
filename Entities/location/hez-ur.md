@@ -22,11 +22,12 @@ population: 147069
 security: Low
 economy: Terraforming
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Hez%20Ur
+edsm_url: https://www.edsm.net/en/system/id/4361/name/Hez%20Ur
 inara_url: https://inara.cz/elite/starsystem/?search=Hez%20Ur
 bio: 'Hez Ur is a star system in the Elite Dangerous universe, significant from 3307-04-02
   to 3307-04-02. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

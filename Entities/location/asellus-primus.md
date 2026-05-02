@@ -22,7 +22,7 @@ population: 64998
 security: High
 economy: Extraction
 second_economy: High Tech
-edsm_url: https://www.edsm.net/en/system?search=Asellus%20Primus
+edsm_url: https://www.edsm.net/en/system/id/14/name/Asellus%20Primus
 inara_url: https://inara.cz/elite/starsystem/?search=Asellus%20Primus
 bio: Asellus Primus is a star system in the Elite Dangerous universe, significant
   from 3303-06-30 to 3303-07-07. Associated with Pilots Federation, Adle's Armada.
@@ -32,6 +32,7 @@ bio: Asellus Primus is a star system in the Elite Dangerous universe, significan
   of its campaign to clear agitators from the LHS 3447, Eravate and Asellus Primus
   systems.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

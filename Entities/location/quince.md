@@ -22,11 +22,12 @@ population: 10000000
 security: High
 economy: Agriculture
 second_economy: Tourism
-edsm_url: https://www.edsm.net/en/system?search=Quince
+edsm_url: https://www.edsm.net/en/system/id/26772/name/Quince
 inara_url: https://inara.cz/elite/starsystem/?search=Quince
 bio: 'Quince is a star system in the Elite Dangerous universe, significant from 3302-04-12
   to 3302-04-12. Associated with Interstellar Press. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

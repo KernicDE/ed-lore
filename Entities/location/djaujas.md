@@ -22,12 +22,13 @@ population: 2682764
 security: Medium
 economy: Agriculture
 second_economy: Industrial
-edsm_url: https://www.edsm.net/en/system?search=Djaujas
+edsm_url: https://www.edsm.net/en/system/id/7983/name/Djaujas
 inara_url: https://inara.cz/elite/starsystem/?search=Djaujas
 bio: Djaujas is a star system in the Elite Dangerous universe, significant from 3301-03-03
   to 3301-03-03. Associated with Alliance, Big G Corporation. The first set includes
   Djaujas A 1, Khona 3, Dohkwithi A 1, Hip 54692 3 and Milelbis 4.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

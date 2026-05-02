@@ -22,13 +22,14 @@ population: 3750205654
 security: Medium
 economy: Agriculture
 second_economy: Colony
-edsm_url: https://www.edsm.net/en/system?search=Eta%20Horologii
+edsm_url: https://www.edsm.net/en/system/id/15088/name/Eta%20Horologii
 inara_url: https://inara.cz/elite/starsystem/?search=Eta%20Horologii
 bio: Eta Horologii is a star system in the Elite Dangerous universe, significant from
   3301-03-06 to 3301-03-06. Stop Slavery Stupid announced it would accept Imperial
   slaves for emancipation at Mackenzie Relay in Cemiess, Thiele Orbital in Ngun and
   Naubakht City in Eta Horologii.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

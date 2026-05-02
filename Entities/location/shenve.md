@@ -22,13 +22,14 @@ population: 428575
 security: High
 economy: Agriculture
 second_economy: High Tech
-edsm_url: https://www.edsm.net/en/system?search=Shenve
+edsm_url: https://www.edsm.net/en/system/id/47637187/name/Shenve
 inara_url: https://inara.cz/elite/starsystem/?search=Shenve
 bio: Shenve is a star system in the Elite Dangerous universe, significant from 3306-10-15
   to 3309-02-16. Associated with Alliance Expeditionary Pact, Pilots Federation. Thargoids
   reappear in the Witch Head Nebula, swarming through Onoros, Lembass, Haki, Wellington
   and Shenve.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

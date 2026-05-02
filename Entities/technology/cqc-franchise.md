@@ -5,12 +5,12 @@ type: technology
 first_seen_date: '3301-05-16'
 last_seen_date: '3301-05-16'
 mention_count: 1
-inara_url: https://inara.cz/elite/commodity/?search=CQC%20franchise
 bio: CQC franchise is a technology in the Elite Dangerous universe, mentioned from
   3301-05-16 to 3301-05-16. Developed or used by Utopixx Entertainment, Reynhardt
   IntelliSys. The company attributed losses partly to development of new VR-Streams
   including the latest CQC franchise instalment.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

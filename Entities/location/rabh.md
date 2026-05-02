@@ -22,13 +22,14 @@ population: 50148625
 security: High
 economy: High Tech
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Rabh
+edsm_url: https://www.edsm.net/en/system/id/8520/name/Rabh
 inara_url: https://inara.cz/elite/starsystem/?search=Rabh
 bio: Rabh is a star system in the Elite Dangerous universe, significant from 3306-09-10
   to 3306-09-17. Associated with NMLA. The NMLA launches coordinated terrorist attacks
   on four Imperial starports — Mackenzie Relay in Cemiess, Tsiolkovsky Terminal in
   Gabjaujis, Garrido Market in LHS 4031, and Muller Terminal in Rabh.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

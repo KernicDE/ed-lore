@@ -21,11 +21,12 @@ population: 2118186970
 security: High
 economy: Agriculture
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Arimpox
+edsm_url: https://www.edsm.net/en/system/id/4668/name/Arimpox
 inara_url: https://inara.cz/elite/starsystem/?search=Arimpox
 bio: 'Arimpox is a star system in the Elite Dangerous universe, significant from 3308-02-08
   to 3308-02-08. Associated with Alliance, Sirius Corporation. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

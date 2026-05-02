@@ -22,7 +22,7 @@ population: 64737759
 security: High
 economy: High Tech
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Tabaldak
+edsm_url: https://www.edsm.net/en/system/id/3724/name/Tabaldak
 inara_url: https://inara.cz/elite/starsystem/?search=Tabaldak
 bio: 'Tabaldak is a star system in the Elite Dangerous universe, significant from
   3301-10-08 to 3301-10-28. Associated with Emperor''s Dawn, Imperial Navy. Senator
@@ -30,6 +30,7 @@ bio: 'Tabaldak is a star system in the Elite Dangerous universe, significant fro
   and LTT 874. The Imperial Internal Security Service identified five additional systems
   containing Emperor''s Dawn bases: Namarii, Tabaldak, LTT 874, Shambhala, and Svari.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -15,7 +15,7 @@ coords:
   x: -368.03125
   y: -321.6875
   z: -1047.625
-edsm_url: https://www.edsm.net/en/system?search=Perseus%20Dark%20Region%20KC-V%20c2-2
+edsm_url: https://www.edsm.net/en/system/id/4561578/name/Perseus%20Dark%20Region%20KC-V%20c2-2
 inara_url: https://inara.cz/elite/starsystem/?search=Perseus%20Dark%20Region%20KC-V%20c2-2
 bio: 'Perseus Dark Region KC-V c2-2 is a system in Elite Dangerous, significant from
   3307-04-12 to 3308-06-23. Associated with Azimuth Biochemicals, Wallglass Investigations
@@ -24,6 +24,7 @@ bio: 'Perseus Dark Region KC-V c2-2 is a system in Elite Dangerous, significant 
   figure ''Salvation'' sends a message to pilots who discovered the Hesperus, authorising
   Taurus Mining Ventures to pay for logs and pro...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

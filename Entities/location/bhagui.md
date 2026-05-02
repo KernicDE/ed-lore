@@ -22,7 +22,7 @@ population: 4541134
 security: Medium
 economy: Industrial
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Bhagui
+edsm_url: https://www.edsm.net/en/system/id/13870/name/Bhagui
 inara_url: https://inara.cz/elite/starsystem/?search=Bhagui
 bio: Bhagui is a star system in the Elite Dangerous universe, significant from 3304-09-27
   to 3304-10-06. Associated with Mould Federal Mining Incorporated, Herculean Machines,
@@ -31,6 +31,7 @@ bio: Bhagui is a star system in the Elite Dangerous universe, significant from 3
   for animal meat, fish, and beer, promising rewards for deliveries to Leavitt Port
   in the Bhagui system.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

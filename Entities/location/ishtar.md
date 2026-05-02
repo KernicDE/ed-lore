@@ -21,13 +21,14 @@ population: 8539
 security: Low
 economy: Extraction
 second_economy: Industrial
-edsm_url: https://www.edsm.net/en/system?search=Ishtar
+edsm_url: https://www.edsm.net/en/system/id/3733/name/Ishtar
 inara_url: https://inara.cz/elite/starsystem/?search=Ishtar
 bio: Ishtar is a star system in the Elite Dangerous universe, significant from 3303-06-04
   to 3303-06-04. Associated with Colonia Citizens Network. The Mercury Seven expedition
   returns to Colonia after 96 days of deep-space exploration, with discoveries in
   the Orio-Persean Conflux, Wagar's Reach, and Ishtar.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -22,12 +22,13 @@ population: 10748010
 security: Medium
 economy: Industrial
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Teveri
+edsm_url: https://www.edsm.net/en/system/id/3535/name/Teveri
 inara_url: https://inara.cz/elite/starsystem/?search=Teveri
 bio: 'Teveri is a star system in the Elite Dangerous universe, significant from 3305-10-16
   to 3305-10-16. Associated with Interstellar Association for Agriculture, Teveri
   Progressive Party. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

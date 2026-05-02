@@ -22,7 +22,7 @@ population: 135982
 security: Medium
 economy: Colony
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Exphiay
+edsm_url: https://www.edsm.net/en/system/id/26056/name/Exphiay
 inara_url: https://inara.cz/elite/starsystem/?search=Exphiay
 bio: Exphiay is a star system in the Elite Dangerous universe, significant from 3301-04-10
   to 3301-04-10. Associated with Worster Insurance, Better Green Developments. Shadow
@@ -30,6 +30,7 @@ bio: Exphiay is a star system in the Elite Dangerous universe, significant from 
   Hall of Gallant Investment, Paul Wiggins of Wiggins Development Trust, and Patricia
   Spellman of Sirius Finance.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

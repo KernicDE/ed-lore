@@ -19,11 +19,12 @@ population: 183401
 security: Medium
 economy: Industrial
 second_economy: Agriculture
-edsm_url: https://www.edsm.net/en/system?search=Dijkstra
+edsm_url: https://www.edsm.net/en/system/id/12253/name/Dijkstra
 inara_url: https://inara.cz/elite/starsystem/?search=Dijkstra
 bio: 'Dijkstra is a star system in the Elite Dangerous universe, significant from
   3302-06-18 to 3302-06-18. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

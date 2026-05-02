@@ -19,7 +19,7 @@ population: 7194162238
 security: Medium
 economy: Agriculture
 second_economy: Tourism
-edsm_url: https://www.edsm.net/en/system?search=Tchernobog
+edsm_url: https://www.edsm.net/en/system/id/10411/name/Tchernobog
 inara_url: https://inara.cz/elite/starsystem/?search=Tchernobog
 bio: Tchernobog is a star system in the Elite Dangerous universe, significant from
   3302-11-24 to 3302-12-01. Associated with Tchernobog Free. Tchernobog Free, a retail
@@ -28,6 +28,7 @@ bio: Tchernobog is a star system in the Elite Dangerous universe, significant fr
   Free's appeal for consumer goods was enthusiastically received, with pilots delivering
   huge quantities to Vancouver Ring to meet high demand from recent one-day deals.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

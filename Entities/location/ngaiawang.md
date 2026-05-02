@@ -22,7 +22,7 @@ population: 23001240
 security: High
 economy: High Tech
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Ngaiawang
+edsm_url: https://www.edsm.net/en/system/id/7429/name/Ngaiawang
 inara_url: https://inara.cz/elite/starsystem/?search=Ngaiawang
 bio: Ngaiawang is a star system in the Elite Dangerous universe, significant from
   3301-02-27 to 3301-03-07. Associated with Citizens of Tradition. Despite Senator
@@ -30,6 +30,7 @@ bio: Ngaiawang is a star system in the Elite Dangerous universe, significant fro
   and Ngaiawang. Imperial commanders willing to join the fight should seek out the
   Citizens of Tradition at Dornier Terminal in Ngaiawang.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

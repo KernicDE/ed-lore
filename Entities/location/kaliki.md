@@ -22,11 +22,12 @@ population: 8306659
 security: High
 economy: High Tech
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Kaliki
+edsm_url: https://www.edsm.net/en/system/id/2292/name/Kaliki
 inara_url: https://inara.cz/elite/starsystem/?search=Kaliki
 bio: 'Kaliki is a star system in the Elite Dangerous universe, significant from 3301-04-15
   to 3301-04-15. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

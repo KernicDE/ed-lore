@@ -22,13 +22,14 @@ population: 9743192
 security: Medium
 economy: Industrial
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Ngalia
+edsm_url: https://www.edsm.net/en/system/id/1829/name/Ngalia
 inara_url: https://inara.cz/elite/starsystem/?search=Ngalia
 bio: Ngalia is a star system in the Elite Dangerous universe, significant from 3302-02-24
   to 3304-01-12. Associated with Sirius Inc. Hundreds of pilots delivered commodities
   to Green Enterprise in the Ngalia system and eliminated agitators to ensure trader
   safety.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

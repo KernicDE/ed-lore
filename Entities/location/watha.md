@@ -22,13 +22,14 @@ population: 1139858930
 security: High
 economy: Agriculture
 second_economy: Colony
-edsm_url: https://www.edsm.net/en/system?search=Watha
+edsm_url: https://www.edsm.net/en/system/id/7475/name/Watha
 inara_url: https://inara.cz/elite/starsystem/?search=Watha
 bio: Watha is a star system in the Elite Dangerous universe, significant from 3301-08-06
   to 3301-08-06. Associated with Union of Bast Liberals. Newly affected systems include
   Altair, 39 Tauri, Kamorin, Delta Phoenicis, Kappa Ophiuchi, Murung, LTT 14850, Gali,
   Cauani, LTT 6705, Watha, Asgaa, and Svent.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

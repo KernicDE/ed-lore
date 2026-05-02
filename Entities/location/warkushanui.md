@@ -22,13 +22,14 @@ population: 1640887409
 security: Medium
 economy: Agriculture
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Warkushanui
+edsm_url: https://www.edsm.net/en/system/id/17338/name/Warkushanui
 inara_url: https://inara.cz/elite/starsystem/?search=Warkushanui
 bio: 'Warkushanui is a system in Elite Dangerous, significant from 3301-10-16 to 3304-08-26.
   Notable events include: Lakon Spaceways announces the Alliance Crusader, a new ship
   based on the Alliance Chieftain with a fighter bay and three internal military compartm...;
   The technological plague continues to affect starports across inhabited space.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

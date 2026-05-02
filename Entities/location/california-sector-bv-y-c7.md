@@ -21,7 +21,7 @@ population: 29245
 security: Medium
 economy: Agriculture
 second_economy: Service
-edsm_url: https://www.edsm.net/en/system?search=California%20Sector%20BV-Y%20c7
+edsm_url: https://www.edsm.net/en/system/id/1314476/name/California%20Sector%20BV-Y%20c7
 inara_url: https://inara.cz/elite/starsystem/?search=California%20Sector%20BV-Y%20c7
 bio: California Sector BV-Y c7 is a star system in the Elite Dangerous universe, significant
   from 3303-05-05 to 3304-01-05. Associated with Alliance, Turner Research Group.
@@ -30,6 +30,7 @@ bio: California Sector BV-Y c7 is a star system in the Elite Dangerous universe,
   The Alliance's appeal for construction materials for a new California Nebula outpost
   concluded successfully with massive pilot support.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

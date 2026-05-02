@@ -22,11 +22,12 @@ population: 5254
 security: Low
 economy: Extraction
 second_economy: Colony
-edsm_url: https://www.edsm.net/en/system?search=Canopus
+edsm_url: https://www.edsm.net/en/system/id/20522/name/Canopus
 inara_url: https://inara.cz/elite/starsystem/?search=Canopus
 bio: 'Canopus is a star system in the Elite Dangerous universe, significant from 3302-04-12
   to 3302-04-12. Associated with Interstellar Press. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

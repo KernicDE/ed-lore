@@ -22,7 +22,7 @@ population: 53140874
 security: High
 economy: Industrial
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Azaladshu
+edsm_url: https://www.edsm.net/en/system/id/11780/name/Azaladshu
 inara_url: https://inara.cz/elite/starsystem/?search=Azaladshu
 bio: Azaladshu is a star system in the Elite Dangerous universe, significant from
   3307-06-29 to 3307-07-21. Associated with Coalition of Uteran, Lp 726-6 Free, Azaladshu
@@ -30,6 +30,7 @@ bio: Azaladshu is a star system in the Elite Dangerous universe, significant fro
   systems independent in protest against surveillance laws. Azaladshu Free defeats
   Neche Inc and retains independence from the Federation.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

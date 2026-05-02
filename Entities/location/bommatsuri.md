@@ -22,11 +22,12 @@ population: 413032873
 security: Medium
 economy: Agriculture
 second_economy: Industrial
-edsm_url: https://www.edsm.net/en/system?search=Bommatsuri
+edsm_url: https://www.edsm.net/en/system/id/14171/name/Bommatsuri
 inara_url: https://inara.cz/elite/starsystem/?search=Bommatsuri
 bio: 'Bommatsuri is a star system in the Elite Dangerous universe, significant from
   3301-04-15 to 3301-04-15. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

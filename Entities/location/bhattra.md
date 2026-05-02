@@ -20,11 +20,12 @@ population: 2760450
 security: Low
 economy: Extraction
 second_economy: Industrial
-edsm_url: https://www.edsm.net/en/system?search=Bhattra
+edsm_url: https://www.edsm.net/en/system/id/12886/name/Bhattra
 inara_url: https://inara.cz/elite/starsystem/?search=Bhattra
 bio: 'Bhattra is a star system in the Elite Dangerous universe, significant from 3307-12-09
   to 3307-12-09. Associated with Core Dynamics, Vodel. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

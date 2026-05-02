@@ -19,7 +19,7 @@ population: 8713581
 security: High
 economy: High Tech
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Lidpar
+edsm_url: https://www.edsm.net/en/system/id/17770/name/Lidpar
 inara_url: https://inara.cz/elite/starsystem/?search=Lidpar
 bio: Lidpar is a star system in the Elite Dangerous universe, significant from 3303-03-23
   to 3303-03-30. Associated with Union of Lidpar Green Party. Authorities in the Lidpar
@@ -27,6 +27,7 @@ bio: Lidpar is a star system in the Elite Dangerous universe, significant from 3
   The Union of Lidpar Green Party placed a kill order on wanted ships and requested
   battle weapons, reactive armour and advanced medicines for local security forces.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

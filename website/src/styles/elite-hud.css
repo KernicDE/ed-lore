@@ -56,6 +56,26 @@ html, body {
   overflow-y: auto;
 }
 
+/* ── Skip Link ──────────────────────────────────────────────────────────── */
+.skip-link {
+  position: absolute;
+  top: -40px;
+  left: 0;
+  background: var(--elite-orange);
+  color: var(--bg-primary);
+  font-family: var(--font-mono);
+  font-size: 13px;
+  font-weight: 600;
+  padding: 8px 16px;
+  z-index: 10000;
+  text-decoration: none;
+  transition: top 0.2s;
+}
+
+.skip-link:focus {
+  top: 0;
+}
+
 /* ── HUD Header ─────────────────────────────────────────────────────────── */
 .hud-header {
   height: 56px;
@@ -269,7 +289,7 @@ html, body {
 .timeline-date {
   font-family: var(--font-mono);
   font-size: 12px;
-  color: var(--text-dim);
+  color: var(--text-secondary);
   margin-bottom: 4px;
 }
 
@@ -318,7 +338,7 @@ html, body {
 
 .timeline-badge.topic {
   border-color: var(--border-glow);
-  color: var(--text-dim);
+  color: var(--text-secondary);
 }
 
 /* ── Entity Cards ───────────────────────────────────────────────────────── */
@@ -818,17 +838,37 @@ html, body {
 
 @media (max-width: 900px) {
   .audio-player-bar {
-    right: 8px;
+    left: 0;
+    right: 0;
     top: auto;
-    bottom: 8px;
+    bottom: 0;
     transform: none;
-    height: auto;
+    height: 52px;
+    background: var(--bg-panel);
+    border-top: 1px solid var(--border-default);
+    padding: 0 16px;
+    justify-content: space-between;
+  }
+  .audio-player-bar::before {
+    content: '';
+    position: absolute;
+    top: -1px;
+    left: 0;
+    right: 0;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, var(--elite-orange-dim), transparent);
   }
   .audio-player {
-    padding: 4px 10px;
+    padding: 0;
+    width: 100%;
+    justify-content: flex-start;
+    gap: 12px;
   }
   .audio-title {
-    max-width: 120px;
+    max-width: 60vw;
+  }
+  .timeline-pane {
+    padding-bottom: 52px;
   }
 }
 

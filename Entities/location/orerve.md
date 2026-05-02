@@ -22,7 +22,7 @@ population: 2500000000
 security: Medium
 economy: Agriculture
 second_economy: None
-edsm_url: https://www.edsm.net/en/system?search=Orerve
+edsm_url: https://www.edsm.net/en/system/id/7421/name/Orerve
 inara_url: https://inara.cz/elite/starsystem/?search=Orerve
 bio: 'Orerve is a system in Elite Dangerous, significant from 3305-09-13 to 3305-10-31.
   Associated with Interstellar Association for Agriculture, Rockforth Corporation.
@@ -30,6 +30,7 @@ bio: 'Orerve is a system in Elite Dangerous, significant from 3305-09-13 to 3305
   the blight.; The IAA, Rockforth, Vandermeer and Neomedical develop an agronomic
   treatment that reverses the blight''s effects.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

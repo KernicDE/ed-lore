@@ -16,11 +16,12 @@ coords:
 security: Anarchy
 economy: None
 second_economy: None
-edsm_url: https://www.edsm.net/en/system?search=IC%202391%20Sector%20GW-V%20b2-4
+edsm_url: https://www.edsm.net/en/system/id/6785168/name/IC%202391%20Sector%20GW-V%20b2-4
 inara_url: https://inara.cz/elite/starsystem/?search=IC%202391%20Sector%20GW-V%20b2-4
 bio: 'IC 2391 Sector GW-V b2-4 is a star system in the Elite Dangerous universe, significant
   from 3303-01-24 to 3303-01-24. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -5,7 +5,6 @@ type: technology
 first_seen_date: '3309-12-11'
 last_seen_date: '3309-12-21'
 mention_count: 2
-inara_url: https://inara.cz/elite/commodity/?search=Nemesis%20Failsafe
 bio: Nemesis Failsafe is a technology in the Elite Dangerous universe, mentioned from
   3309-12-11 to 3309-12-21. Developed or used by Azimuth, Utopia, Caleb Wycherley.
   Pranav Antal discusses Utopia's analysis of Salvation's Nemesis Failsafe schematics,
@@ -13,6 +12,7 @@ bio: Nemesis Failsafe is a technology in the Elite Dangerous universe, mentioned
   Seo Jin-ae returns from Utopia after discussing Salvation's Nemesis Failsafe with
   Pranav Antal, with both agreeing to keep their conclusions confidential.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

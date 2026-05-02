@@ -21,11 +21,12 @@ population: 1315233
 security: Medium
 economy: Industrial
 second_economy: Military
-edsm_url: https://www.edsm.net/en/system?search=Medzistha
+edsm_url: https://www.edsm.net/en/system/id/19178/name/Medzistha
 inara_url: https://inara.cz/elite/starsystem/?search=Medzistha
 bio: 'Medzistha is a star system in the Elite Dangerous universe, significant from
   3302-09-07 to 3302-09-07. Associated with Buckyball Racing Club, Pilots Federation. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

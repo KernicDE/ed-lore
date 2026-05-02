@@ -22,7 +22,7 @@ population: 511342
 security: Medium
 economy: High Tech
 second_economy: Terraforming
-edsm_url: https://www.edsm.net/en/system?search=Ceos
+edsm_url: https://www.edsm.net/en/system/id/29543/name/Ceos
 inara_url: https://inara.cz/elite/starsystem/?search=Ceos
 bio: Ceos is a star system in the Elite Dangerous universe, significant from 3301-10-15
   to 3304-03-24. Associated with Sirius Corporation, Money Matters. Sirius Corporation
@@ -30,6 +30,7 @@ bio: Ceos is a star system in the Elite Dangerous universe, significant from 330
   Technical personnel at New Dawn Station in the Ceos system announced that meta-alloys
   can now be applied twice as efficiently to counter Unknown Artefact-related interference.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

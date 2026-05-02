@@ -22,7 +22,7 @@ population: 29847881
 security: High
 economy: Industrial
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Fedmich
+edsm_url: https://www.edsm.net/en/system/id/16264/name/Fedmich
 inara_url: https://inara.cz/elite/starsystem/?search=Fedmich
 bio: 'Fedmich is a system in Elite Dangerous, significant from 3303-01-26 to 3304-09-29.
   Associated with Herculean Machines, Supratech. Notable events include: Weekly summary
@@ -30,6 +30,7 @@ bio: 'Fedmich is a system in Elite Dangerous, significant from 3303-01-26 to 330
   arrest after his robot exposed corporate fr...; An Alliance convoy transporting
   personnel and military equipment is attacked in the Fedmich system.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

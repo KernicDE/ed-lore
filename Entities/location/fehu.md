@@ -22,11 +22,12 @@ population: 3014684
 security: Medium
 economy: Agriculture
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Fehu
+edsm_url: https://www.edsm.net/en/system/id/31416/name/Fehu
 inara_url: https://inara.cz/elite/starsystem/?search=Fehu
 bio: 'Fehu is a star system in the Elite Dangerous universe, significant from 3302-04-12
   to 3302-04-12. Associated with Interstellar Press. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

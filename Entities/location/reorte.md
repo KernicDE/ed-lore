@@ -22,7 +22,7 @@ population: 3100002947
 security: Medium
 economy: Extraction
 second_economy: Agriculture
-edsm_url: https://www.edsm.net/en/system?search=Reorte
+edsm_url: https://www.edsm.net/en/system/id/19328/name/Reorte
 inara_url: https://inara.cz/elite/starsystem/?search=Reorte
 bio: 'Reorte is a system in Elite Dangerous, significant from 3301-04-26 to 3311-12-02.
   Associated with Alliance, Sirius Corporation. Notable events include: The Reorte
@@ -30,6 +30,7 @@ bio: 'Reorte is a system in Elite Dangerous, significant from 3301-04-26 to 3311
   system.; The Reorte Pro-Alliance League''s victory ensures Reorte remains within
   the Alliance.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

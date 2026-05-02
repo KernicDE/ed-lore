@@ -22,7 +22,7 @@ population: 13324
 security: Low
 economy: Agriculture
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Mikunn
+edsm_url: https://www.edsm.net/en/system/id/2005/name/Mikunn
 inara_url: https://inara.cz/elite/starsystem/?search=Mikunn
 bio: Mikunn is a star system in the Elite Dangerous universe, significant from 3301-07-27
   to 3302-07-07. Associated with Dukes of Mikunn. The Dukes of Mikunn mobilised their
@@ -30,6 +30,7 @@ bio: Mikunn is a star system in the Elite Dangerous universe, significant from 3
   a similar plague in HR 7327, Mikunn, Sukua, and Sefry, they are moving stockpiled
   medicine and medical scientists to find the source.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

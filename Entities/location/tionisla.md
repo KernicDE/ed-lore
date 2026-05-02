@@ -22,7 +22,7 @@ population: 5200016905
 security: High
 economy: Industrial
 second_economy: High Tech
-edsm_url: https://www.edsm.net/en/system?search=Tionisla
+edsm_url: https://www.edsm.net/en/system/id/9216/name/Tionisla
 inara_url: https://inara.cz/elite/starsystem/?search=Tionisla
 bio: 'Tionisla is a system in Elite Dangerous, significant from 3302-08-05 to 3310-08-29.
   Associated with Alliance, Sirius Corporation. Notable events include: The Alliance
@@ -30,6 +30,7 @@ bio: 'Tionisla is a system in Elite Dangerous, significant from 3302-08-05 to 33
   minister.; Nakato Kaine''s Tionisla delivery campaign fails to reach its target,
   with Yong-Rui blaming Assembly obstruction and Kaine reaffirming Alliance self...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

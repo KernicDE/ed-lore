@@ -20,7 +20,7 @@ population: 6337473
 security: Medium
 economy: Industrial
 second_economy: Military
-edsm_url: https://www.edsm.net/en/system?search=Guaras
+edsm_url: https://www.edsm.net/en/system/id/4905/name/Guaras
 inara_url: https://inara.cz/elite/starsystem/?search=Guaras
 bio: Guaras is a star system in the Elite Dangerous universe, significant from 3303-12-22
   to 3303-12-29. Associated with Core Dynamics, Guaras Blue Creative Partners. Guaras
@@ -28,6 +28,7 @@ bio: Guaras is a star system in the Elite Dangerous universe, significant from 3
   power converters, and superconductors. Hundreds of pilots delivered materials to
   Klimuk Ring and eliminated agitators in the Guaras system.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

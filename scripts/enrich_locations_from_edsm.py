@@ -5,7 +5,7 @@ import yaml
 from pathlib import Path
 import httpx
 import time
-from urllib.parse import urlencode
+from urllib.parse import urlencode, quote
 
 ENTITIES_DIR = Path("Entities/location")
 BATCH_SIZE = 20
@@ -29,7 +29,7 @@ def parse_frontmatter(path):
 
 def fetch_systems_batch(names):
     """Fetch system data from EDSM for a batch of names."""
-    params = [("showInformation", "1"), ("showCoordinates", "1")]
+    params = [("showInformation", "1"), ("showCoordinates", "1"), ("showId", "1")]
     for name in names:
         params.append(("systemName[]", name))
 
@@ -103,9 +103,14 @@ def main():
             if info.get("secondEconomy"):
                 fm["second_economy"] = info["secondEconomy"]
 
-            # Add Inara/EDSM links
-            fm["edsm_url"] = f"https://www.edsm.net/en/system?search={loc['name'].replace(' ', '%20')}"
-            fm["inara_url"] = f"https://inara.cz/elite/starsystem/?search={loc['name'].replace(' ', '%20')}"
+            # Add Inara/EDSM links (use direct EDSM URL with ID)
+            system_id = result.get("id")
+            encoded_name = quote(loc["name"])
+            if system_id:
+                fm["edsm_url"] = f"https://www.edsm.net/en/system/id/{system_id}/name/{encoded_name}"
+            else:
+                fm["edsm_url"] = f"https://www.edsm.net/en/system?search={encoded_name}"
+            fm["inara_url"] = f"https://inara.cz/elite/starsystem/?search={encoded_name}"
 
             # Write back
             new_fm = yaml.dump(fm, default_flow_style=False, allow_unicode=True, sort_keys=False)

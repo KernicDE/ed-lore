@@ -22,7 +22,7 @@ population: 10602326
 security: High
 economy: High Tech
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Nehet
+edsm_url: https://www.edsm.net/en/system/id/10372/name/Nehet
 inara_url: https://inara.cz/elite/starsystem/?search=Nehet
 bio: Nehet is a star system in the Elite Dangerous universe, significant from 3301-04-15
   to 3301-04-27. Associated with Imperial Court. Arissa Lavigny-Duval directed attacks
@@ -30,6 +30,7 @@ bio: Nehet is a star system in the Elite Dangerous universe, significant from 33
   levels. Princess Arissa's fleet disrupted criminal operations in Nehet and Mictlan,
   uncovering evidence that led to LTT 9810.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

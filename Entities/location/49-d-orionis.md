@@ -22,11 +22,12 @@ population: 29053417
 security: Medium
 economy: Extraction
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=49%20D%20Orionis
+edsm_url: https://www.edsm.net/en/system/id/13756/name/49%20D%20Orionis
 inara_url: https://inara.cz/elite/starsystem/?search=49%20D%20Orionis
 bio: '49 D Orionis is a star system in the Elite Dangerous universe, significant from
   3302-01-22 to 3302-01-22. Associated with Buckyball Racing Club. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

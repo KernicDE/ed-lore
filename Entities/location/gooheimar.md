@@ -20,7 +20,7 @@ population: 2399943
 security: Low
 economy: Industrial
 second_economy: None
-edsm_url: https://www.edsm.net/en/system?search=Gooheimar
+edsm_url: https://www.edsm.net/en/system/id/10996/name/Gooheimar
 inara_url: https://inara.cz/elite/starsystem/?search=Gooheimar
 bio: Gooheimar is a star system in the Elite Dangerous universe, significant from
   3302-08-04 to 3302-08-11. Associated with Federation, Workers of Gooheimar Alliance.
@@ -28,6 +28,7 @@ bio: Gooheimar is a star system in the Elite Dangerous universe, significant fro
   Brady Horizons in the Gooheimar system. Hundreds of pilots delivered materials to
   Brady Horizons in the Gooheimar system, allowing work on the first vessel to begin.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

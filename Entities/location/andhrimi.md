@@ -21,7 +21,7 @@ population: 48597994
 security: High
 economy: High Tech
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Andhrimi
+edsm_url: https://www.edsm.net/en/system/id/922/name/Andhrimi
 inara_url: https://inara.cz/elite/starsystem/?search=Andhrimi
 bio: Andhrimi is a star system in the Elite Dangerous universe, significant from 3303-03-16
   to 3303-03-23. Associated with Alectrona Imperial Society, Empire, Federation. The
@@ -29,6 +29,7 @@ bio: Andhrimi is a star system in the Elite Dangerous universe, significant from
   of independent pilots supported the operation to build an outpost in the Andhrimi
   system.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

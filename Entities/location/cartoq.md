@@ -19,7 +19,7 @@ population: 569899
 security: Medium
 economy: Military
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Cartoq
+edsm_url: https://www.edsm.net/en/system/id/366/name/Cartoq
 inara_url: https://inara.cz/elite/starsystem/?search=Cartoq
 bio: Cartoq is a star system in the Elite Dangerous universe, significant from 3303-04-28
   to 3303-05-05. Associated with Cartoq Purple Major Organisation. The Cartoq Purple
@@ -28,6 +28,7 @@ bio: Cartoq is a star system in the Elite Dangerous universe, significant from 3
   successfully cleared the Cartoq system of agitators with support from hundreds of
   pilots.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

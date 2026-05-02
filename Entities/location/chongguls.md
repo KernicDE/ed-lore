@@ -22,7 +22,7 @@ population: 24363862
 security: High
 economy: Industrial
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Chongguls
+edsm_url: https://www.edsm.net/en/system/id/4955/name/Chongguls
 inara_url: https://inara.cz/elite/starsystem/?search=Chongguls
 bio: Chongguls is a star system in the Elite Dangerous universe, significant from
   3301-07-30 to 3301-08-06. Fresh Cerberus Plague outbreaks have appeared in Chongguls,
@@ -30,6 +30,7 @@ bio: Chongguls is a star system in the Elite Dangerous universe, significant fro
   and Louguala. The plague has been eradicated from Dajoar, Bastes, Maheou Ti, Eleu,
   Ochoeng, 20 Ophiuchi, Una, Santjalan, BD-02 4304, Chongguls, Xamentii, and G 139-50.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

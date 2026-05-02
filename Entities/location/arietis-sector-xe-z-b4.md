@@ -22,7 +22,7 @@ population: 27924
 security: Medium
 economy: Military
 second_economy: Agriculture
-edsm_url: https://www.edsm.net/en/system?search=Arietis%20Sector%20XE-Z%20b4
+edsm_url: https://www.edsm.net/en/system/id/782252/name/Arietis%20Sector%20XE-Z%20b4
 inara_url: https://inara.cz/elite/starsystem/?search=Arietis%20Sector%20XE-Z%20b4
 bio: Arietis Sector XE-Z b4 is a star system in the Elite Dangerous universe, significant
   from 3304-02-23 to 3304-03-04. Associated with Federation. The new operation targets
@@ -31,6 +31,7 @@ bio: Arietis Sector XE-Z b4 is a star system in the Elite Dangerous universe, si
   conclusion of a joint Federal-Imperial operation in the Pleiades Sector OI-T c3-7
   and Arietis Sector XE-Z b4 systems.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

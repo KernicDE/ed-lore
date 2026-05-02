@@ -22,7 +22,7 @@ population: 15281152111
 security: High
 economy: Agriculture
 second_economy: Industrial
-edsm_url: https://www.edsm.net/en/system?search=Lugh
+edsm_url: https://www.edsm.net/en/system/id/11288/name/Lugh
 inara_url: https://inara.cz/elite/starsystem/?search=Lugh
 bio: 'Lugh is a system in Elite Dangerous, significant from 3301-02-22 to 3301-03-26.
   Associated with Crimson State Group, Federal Navy. Notable events include: President
@@ -31,6 +31,7 @@ bio: 'Lugh is a system in Elite Dangerous, significant from 3301-02-22 to 3301-0
   when Éamonn Uí Laoghire addressed crowds after his second failed attempt to gain
   an Alliance audience.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

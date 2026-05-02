@@ -5,7 +5,6 @@ type: technology
 first_seen_date: '3301-09-13'
 last_seen_date: '3301-09-20'
 mention_count: 2
-inara_url: https://inara.cz/elite/commodity/?search=Anomalous%20Extraterrestrial%20Object
 bio: Anomalous Extraterrestrial Object is a technology in the Elite Dangerous universe,
   mentioned from 3301-09-13 to 3301-09-20. Developed or used by Ishmael Palin, Homeland
   Scientific Council. The Federal research programme studying anomalous extraterrestrial
@@ -14,6 +13,7 @@ bio: Anomalous Extraterrestrial Object is a technology in the Elite Dangerous un
   location data across vast distances, were considered the scientific find of the
   decade.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

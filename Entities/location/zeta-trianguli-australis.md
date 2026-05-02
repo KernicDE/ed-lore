@@ -19,11 +19,12 @@ population: 44371970
 security: High
 economy: High Tech
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Zeta%20Trianguli%20Australis
+edsm_url: https://www.edsm.net/en/system/id/2133/name/Zeta%20Trianguli%20Australis
 inara_url: https://inara.cz/elite/starsystem/?search=Zeta%20Trianguli%20Australis
 bio: 'Zeta Trianguli Australis is a star system in the Elite Dangerous universe, significant
   from 3309-09-18 to 3309-09-18. Associated with Wallglass. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

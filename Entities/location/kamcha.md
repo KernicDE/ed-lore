@@ -22,7 +22,7 @@ population: 6255565619
 security: High
 economy: Agriculture
 second_economy: Industrial
-edsm_url: https://www.edsm.net/en/system?search=Kamcha
+edsm_url: https://www.edsm.net/en/system/id/16222/name/Kamcha
 inara_url: https://inara.cz/elite/starsystem/?search=Kamcha
 bio: Kamcha is a star system in the Elite Dangerous universe, significant from 3301-08-20
   to 3301-08-20. Associated with Emperor's Dawn. Battle Weapons go to Saarinen Station
@@ -31,6 +31,7 @@ bio: Kamcha is a star system in the Elite Dangerous universe, significant from 3
   have considerable resources and is offering lucrative payments to participating
   traders.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

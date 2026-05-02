@@ -21,7 +21,7 @@ controlling_faction: Marquis du Ma'a
 population: 1652129
 security: Low
 economy: Industrial
-edsm_url: https://www.edsm.net/en/system?search=Azaleach
+edsm_url: https://www.edsm.net/en/system/id/10453/name/Azaleach
 inara_url: https://inara.cz/elite/starsystem/?search=Azaleach
 bio: 'Azaleach is a system in Elite Dangerous, significant from 3301-05-26 to 3307-01-27.
   Associated with Azaleach Partnership, Leoniceno Orbital medical staff. Notable events
@@ -30,6 +30,7 @@ bio: 'Azaleach is a system in Elite Dangerous, significant from 3301-05-26 to 33
   Three ships from Starship One''s Guardian Wing made contact with Navy HQ but could
   not explain the disappearance.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

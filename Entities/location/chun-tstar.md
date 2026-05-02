@@ -20,12 +20,13 @@ population: 380928446
 security: Medium
 economy: Agriculture
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Chun%20Tstar
+edsm_url: https://www.edsm.net/en/system/id/11684/name/Chun%20Tstar
 inara_url: https://inara.cz/elite/starsystem/?search=Chun%20Tstar
 bio: 'Chun Tstar is a star system in the Elite Dangerous universe, significant from
   3305-03-14 to 3305-03-22. Associated with Children of Tothos, Federal Intelligence
   Agency. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -22,7 +22,7 @@ population: 3506390
 security: Medium
 economy: Industrial
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Apathaam
+edsm_url: https://www.edsm.net/en/system/id/1061/name/Apathaam
 inara_url: https://inara.cz/elite/starsystem/?search=Apathaam
 bio: Apathaam is a star system in the Elite Dangerous universe, significant from 3302-03-16
   to 3302-03-16. Associated with Emperor's Dawn, Imperial Internal Security Service.
@@ -30,6 +30,7 @@ bio: Apathaam is a star system in the Elite Dangerous universe, significant from
   Aisling Duval's inner circle, was caught by the IISS in Apathaam and brought back
   to Achenar.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

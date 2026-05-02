@@ -18,12 +18,13 @@ population: 7575671
 security: Low
 economy: High Tech
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Nervi
+edsm_url: https://www.edsm.net/en/system/id/9277/name/Nervi
 inara_url: https://inara.cz/elite/starsystem/?search=Nervi
 bio: Nervi is a star system in the Elite Dangerous universe, significant from 3302-07-14
   to 3302-07-14. Associated with EG Pilots. The second heat of the Rise to Power competition
   tasked pilots with stealing technical blueprints in the Nervi system.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

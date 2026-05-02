@@ -19,8 +19,8 @@ population: 3238379117
 security: High
 economy: Agriculture
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Qa'wakana
-inara_url: https://inara.cz/elite/starsystem/?search=Qa'wakana
+edsm_url: https://www.edsm.net/en/system/id/1328/name/Qa%27wakana
+inara_url: https://inara.cz/elite/starsystem/?search=Qa%27wakana
 bio: Qa'wakana is a star system in the Elite Dangerous universe, significant from
   3303-06-09 to 3303-06-16. Associated with Knights of Karma. The Knights of Karma
   announced plans to establish a new mining facility among the rings of Qa'wakana
@@ -28,6 +28,7 @@ bio: Qa'wakana is a star system in the Elite Dangerous universe, significant fro
   The Knights of Karma's campaign to establish a new mining facility in the Qa'wakana
   system concluded successfully, with material targets met.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

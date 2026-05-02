@@ -16,13 +16,14 @@ population: 70197
 security: Medium
 economy: Military
 second_economy: Agriculture
-edsm_url: https://www.edsm.net/en/system?search=Durius
+edsm_url: https://www.edsm.net/en/system/id/17478/name/Durius
 inara_url: https://inara.cz/elite/starsystem/?search=Durius
 bio: Durius is a star system in the Elite Dangerous universe, significant from 3301-02-16
   to 3301-02-16. The temporary sale of Imperial Slaves from Durius has ended after
   12,070 citizens underwent debt relief retraining and were exported to other parts
   of the Empire.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

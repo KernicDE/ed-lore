@@ -21,11 +21,12 @@ population: 16530925
 security: High
 economy: High Tech
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Faust%2068
+edsm_url: https://www.edsm.net/en/system/id/2549/name/Faust%2068
 inara_url: https://inara.cz/elite/starsystem/?search=Faust%2068
 bio: 'Faust 68 is a star system in the Elite Dangerous universe, significant from
   3301-11-04 to 3301-11-04. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

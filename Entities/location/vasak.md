@@ -22,11 +22,12 @@ population: 1350474382
 security: Medium
 economy: Agriculture
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Vasak
+edsm_url: https://www.edsm.net/en/system/id/4742/name/Vasak
 inara_url: https://inara.cz/elite/starsystem/?search=Vasak
 bio: 'Vasak is a star system in the Elite Dangerous universe, significant from 3302-01-22
   to 3302-01-22. Associated with Buckyball Racing Club. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

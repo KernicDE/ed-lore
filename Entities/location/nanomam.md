@@ -22,11 +22,12 @@ population: 2121852318
 security: High
 economy: Agriculture
 second_economy: High Tech
-edsm_url: https://www.edsm.net/en/system?search=Nanomam
+edsm_url: https://www.edsm.net/en/system/id/10954/name/Nanomam
 inara_url: https://inara.cz/elite/starsystem/?search=Nanomam
 bio: 'Nanomam is a star system in the Elite Dangerous universe, significant from 3307-04-29
   to 3307-05-06. Associated with Pilots Federation. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

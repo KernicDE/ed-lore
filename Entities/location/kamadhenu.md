@@ -22,7 +22,7 @@ population: 4901406228
 security: High
 economy: Agriculture
 second_economy: Industrial
-edsm_url: https://www.edsm.net/en/system?search=Kamadhenu
+edsm_url: https://www.edsm.net/en/system/id/15133/name/Kamadhenu
 inara_url: https://inara.cz/elite/starsystem/?search=Kamadhenu
 bio: 'Kamadhenu is a system in Elite Dangerous, significant from 3301-05-23 to 3310-01-04.
   Associated with Alliance. Notable events include: *Pilots Federation ALERT* Explosions
@@ -31,6 +31,7 @@ bio: 'Kamadhenu is a system in Elite Dangerous, significant from 3301-05-23 to 3
   Cabinet members have been killed in The recent terrorist attack on a starport orbiting
   Earth.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

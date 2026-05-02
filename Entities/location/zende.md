@@ -20,13 +20,14 @@ population: 4227516
 security: High
 economy: Extraction
 second_economy: Industrial
-edsm_url: https://www.edsm.net/en/system?search=Zende
+edsm_url: https://www.edsm.net/en/system/id/6672/name/Zende
 inara_url: https://inara.cz/elite/starsystem/?search=Zende
 bio: Zende is a star system in the Elite Dangerous universe, significant from 3305-05-09
   to 3305-05-16. Associated with Zende Partners, Segnen Exchange. Zende Partners launches
   a weekly megaship transport service from Zende to Synuefe EN-H d11-96, establishing
   The Prospect outpost in Guardian space to support research and technology development.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -22,7 +22,7 @@ population: 6019569785
 security: Medium
 economy: Agriculture
 second_economy: Terraforming
-edsm_url: https://www.edsm.net/en/system?search=Paresa
+edsm_url: https://www.edsm.net/en/system/id/18949/name/Paresa
 inara_url: https://inara.cz/elite/starsystem/?search=Paresa
 bio: 'Paresa is a system in Elite Dangerous, significant from 3305-01-05 to 3309-06-05.
   Associated with Nova Imperium, Imperial Herald. Notable events include: The Empire
@@ -31,6 +31,7 @@ bio: 'Paresa is a system in Elite Dangerous, significant from 3305-01-05 to 3309
   in the Battle of Paresa by Imperial forces led by Yupini Limited, with Senator Patreus
   warning that the Empire will not t...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

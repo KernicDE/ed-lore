@@ -22,7 +22,7 @@ population: 4917879
 security: High
 economy: Extraction
 second_economy: Industrial
-edsm_url: https://www.edsm.net/en/system?search=Dakshmandi
+edsm_url: https://www.edsm.net/en/system/id/13785/name/Dakshmandi
 inara_url: https://inara.cz/elite/starsystem/?search=Dakshmandi
 bio: 'Dakshmandi is a system in Elite Dangerous, significant from 3301-09-11 to 3302-02-05.
   Associated with Emperor''s Dawn, Imperial Navy. Notable events include: Senator
@@ -31,6 +31,7 @@ bio: 'Dakshmandi is a system in Elite Dangerous, significant from 3301-09-11 to 
   Security Service discovered Emperor''s Dawn ''shadow'' cells in the Dakshmandi,
   Ipilyaqa, and Ch''i Lin systems.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

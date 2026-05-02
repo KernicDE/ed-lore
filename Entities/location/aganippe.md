@@ -21,7 +21,7 @@ population: 3338466
 security: Medium
 economy: High Tech
 second_economy: Agriculture
-edsm_url: https://www.edsm.net/en/system?search=Aganippe
+edsm_url: https://www.edsm.net/en/system/id/7506/name/Aganippe
 inara_url: https://inara.cz/elite/starsystem/?search=Aganippe
 bio: Aganippe is a star system in the Elite Dangerous universe, significant from 3301-10-08
   to 3301-10-15. Associated with Revolutionary Noti Value Party, Federal Times. He
@@ -30,6 +30,7 @@ bio: Aganippe is a star system in the Elite Dangerous universe, significant from
   appeal for Aganippe Rush concluded successfully, with hundreds of independent pilots
   delivering the rare commodity to Weber Gateway.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -16,11 +16,12 @@ coords:
 security: Anarchy
 economy: None
 second_economy: None
-edsm_url: https://www.edsm.net/en/system?search=Synuefe%20TP-F%20b44-0
+edsm_url: https://www.edsm.net/en/system/id/9629387/name/Synuefe%20TP-F%20b44-0
 inara_url: https://inara.cz/elite/starsystem/?search=Synuefe%20TP-F%20b44-0
 bio: 'Synuefe TP-F b44-0 is a star system in the Elite Dangerous universe, significant
   from 3303-02-10 to 3303-02-10. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

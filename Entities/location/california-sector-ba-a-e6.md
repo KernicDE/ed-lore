@@ -21,13 +21,14 @@ controlling_faction: Turner Research Group
 population: 10000
 security: Medium
 economy: High Tech
-edsm_url: https://www.edsm.net/en/system?search=California%20Sector%20BA-A%20E6
+edsm_url: https://www.edsm.net/en/system/id/87417/name/California%20Sector%20BA-A%20E6
 inara_url: https://inara.cz/elite/starsystem/?search=California%20Sector%20BA-A%20E6
 bio: California Sector BA-A E6 is a star system in the Elite Dangerous universe, significant
   from 3302-10-13 to 3302-10-27. Associated with Alliance, 160 SOAR. The Alliance
   announced plans to construct a scientific outpost on California Sector BA-A E6 4
   in the California Nebula to research organic structures and meta-alloys.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

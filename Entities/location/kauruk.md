@@ -20,7 +20,7 @@ population: 14889089
 security: High
 economy: Industrial
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Kauruk
+edsm_url: https://www.edsm.net/en/system/id/11095/name/Kauruk
 inara_url: https://inara.cz/elite/starsystem/?search=Kauruk
 bio: Kauruk is a star system in the Elite Dangerous universe, significant from 3303-10-13
   to 3303-10-20. Associated with Labour Union of Kauruk. The Labour Union of Kauruk
@@ -29,6 +29,7 @@ bio: Kauruk is a star system in the Elite Dangerous universe, significant from 3
   of Kauruk's Remembrance Week concluded successfully, with hundreds of pilots gathering
   at Moore Terminal to pay respects to departed friends and loved ones.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

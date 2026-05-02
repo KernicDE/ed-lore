@@ -22,7 +22,7 @@ population: 50244562
 security: Medium
 economy: High Tech
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Nganji
+edsm_url: https://www.edsm.net/en/system/id/5449/name/Nganji
 inara_url: https://inara.cz/elite/starsystem/?search=Nganji
 bio: 'Nganji is a system in Elite Dangerous, significant from 3301-10-26 to 3302-02-24.
   Notable events include: Professor Ishmael Palin announced the resumption of his
@@ -30,6 +30,7 @@ bio: 'Nganji is a system in Elite Dangerous, significant from 3301-10-26 to 3302
   was ca...; The technological plague continues to affect starports across inhabited
   space.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

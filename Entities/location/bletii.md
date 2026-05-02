@@ -22,11 +22,12 @@ population: 6108032
 security: Medium
 economy: Terraforming
 second_economy: Service
-edsm_url: https://www.edsm.net/en/system?search=Bletii
+edsm_url: https://www.edsm.net/en/system/id/17817/name/Bletii
 inara_url: https://inara.cz/elite/starsystem/?search=Bletii
 bio: 'Bletii is a star system in the Elite Dangerous universe, significant from 3311-03-19
   to 3311-03-19. Associated with Brewer Corporation. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

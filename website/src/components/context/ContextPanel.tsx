@@ -173,6 +173,8 @@ export default function ContextPanel({
               value={Math.max(0, sliderIndex)}
               onChange={handleSliderChange}
               className="year-range-input"
+              aria-label="Jump to year"
+              title="Jump to year"
               style={{
                 width: '100%',
                 height: 4,
@@ -191,14 +193,14 @@ export default function ContextPanel({
                 marginTop: 8,
                 fontFamily: 'var(--font-mono)',
                 fontSize: 10,
-                color: 'var(--text-dim)',
+                color: 'var(--text-secondary)',
               }}
             >
               {sliderYears.map((year) => (
                 <span
                   key={year}
                   style={{
-                    color: year === currentYear ? 'var(--elite-orange)' : 'var(--text-dim)',
+                    color: year === currentYear ? 'var(--elite-orange)' : 'var(--text-secondary)',
                     fontWeight: year === currentYear ? 700 : 400,
                   }}
                 >
@@ -241,7 +243,7 @@ export default function ContextPanel({
               <div style={{ fontSize: 15, fontWeight: 500, color: 'var(--text-primary)' }}>
                 {arc.name}
               </div>
-              <div style={{ fontFamily: 'var(--font-mono)', fontSize: 11, color: 'var(--text-dim)', marginTop: 2 }}>
+              <div style={{ fontFamily: 'var(--font-mono)', fontSize: 11, color: 'var(--text-secondary)', marginTop: 2 }}>
                 {arc.first_seen_date} → {arc.last_seen_date} · {arc.mention_count} articles
               </div>
             </a>
@@ -279,7 +281,7 @@ export default function ContextPanel({
 
       {activeArcs.length === 0 && contextEntities.length === 0 && (
         <div className="holo-panel" style={{ textAlign: 'center', padding: 40 }}>
-          <div style={{ fontFamily: 'var(--font-mono)', fontSize: 13, color: 'var(--text-dim)' }}>
+          <div style={{ fontFamily: 'var(--font-mono)', fontSize: 13, color: 'var(--text-secondary)' }}>
             No data for this period
           </div>
         </div>

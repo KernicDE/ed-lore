@@ -21,7 +21,7 @@ population: 2612461
 security: High
 economy: Industrial
 second_economy: Military
-edsm_url: https://www.edsm.net/en/system?search=Malaikudi
+edsm_url: https://www.edsm.net/en/system/id/5566/name/Malaikudi
 inara_url: https://inara.cz/elite/starsystem/?search=Malaikudi
 bio: Malaikudi is a star system in the Elite Dangerous universe, significant from
   3303-02-23 to 3303-02-23. Associated with Buckyball Racing Club. The Buckyball Racing
@@ -29,6 +29,7 @@ bio: Malaikudi is a star system in the Elite Dangerous universe, significant fro
   to navigate tunnels at scientific and military installations between Malaikudi and
   Parutis.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

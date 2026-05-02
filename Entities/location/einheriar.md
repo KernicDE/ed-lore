@@ -19,13 +19,14 @@ population: 468662
 security: Medium
 economy: Service
 second_economy: Agriculture
-edsm_url: https://www.edsm.net/en/system?search=Einheriar
+edsm_url: https://www.edsm.net/en/system/id/13729264/name/Einheriar
 inara_url: https://inara.cz/elite/starsystem/?search=Einheriar
 bio: Einheriar is a star system in the Elite Dangerous universe, significant from
   3303-12-08 to 3303-12-16. Associated with Colonia Council. Scores of pilots delivered
   materials to Pilkington Orbital and eliminated agitators in the Einheriar system
   to support immigrants fleeing the Thargoid threat.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

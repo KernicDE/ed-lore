@@ -11,11 +11,12 @@ coords:
   x: -0.5
   y: 1214.84375
   z: -0.84375
-edsm_url: https://www.edsm.net/en/system?search=Wregoe%20TV-L%20C24-0
+edsm_url: https://www.edsm.net/en/system/id/5483173/name/Wregoe%20TV-L%20C24-0
 inara_url: https://inara.cz/elite/starsystem/?search=Wregoe%20TV-L%20C24-0
 bio: 'Wregoe TV-L C24-0 is a star system in the Elite Dangerous universe, significant
   from 3301-03-18 to 3301-03-18. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

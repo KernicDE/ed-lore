@@ -22,7 +22,7 @@ population: 90509
 security: Medium
 economy: Military
 second_economy: High Tech
-edsm_url: https://www.edsm.net/en/system?search=Kui%20Hsien
+edsm_url: https://www.edsm.net/en/system/id/12490/name/Kui%20Hsien
 inara_url: https://inara.cz/elite/starsystem/?search=Kui%20Hsien
 bio: Kui Hsien is a star system in the Elite Dangerous universe, significant from
   3301-04-13 to 3301-04-20. Associated with Silver Universal PLC, Friends of Kui Hsien,
@@ -30,6 +30,7 @@ bio: Kui Hsien is a star system in the Elite Dangerous universe, significant fro
   Kui Hsien and Quivira refused to acknowledge Silver Universal's legal right to increase
   rates and halted all payments.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

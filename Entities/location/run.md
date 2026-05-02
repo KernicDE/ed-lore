@@ -21,7 +21,7 @@ population: 3030580
 security: High
 economy: High Tech
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Run
+edsm_url: https://www.edsm.net/en/system/id/5061/name/Run
 inara_url: https://inara.cz/elite/starsystem/?search=Run
 bio: Run is a star system in the Elite Dangerous universe, significant from 3303-12-01
   to 3303-12-08. Associated with Rogue Runners. The Rogue Runners, an independent
@@ -29,6 +29,7 @@ bio: Run is a star system in the Elite Dangerous universe, significant from 3303
   an asteroid base. The Rogue Runners have announced the successful conclusion of
   their campaign to renovate Leif Enterprise asteroid base in the Run system.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

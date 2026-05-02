@@ -20,7 +20,7 @@ population: 3972743
 security: Medium
 economy: Industrial
 second_economy: Colony
-edsm_url: https://www.edsm.net/en/system?search=Parun
+edsm_url: https://www.edsm.net/en/system/id/16447/name/Parun
 inara_url: https://inara.cz/elite/starsystem/?search=Parun
 bio: Parun is a star system in the Elite Dangerous universe, significant from 3303-01-12
   to 3303-01-19. Associated with Independents of Parun, Laksmii Jet Power Industries.
@@ -30,6 +30,7 @@ bio: Parun is a star system in the Elite Dangerous universe, significant from 33
   weapons into Underwood Port by placing bounties on their ships, destroying hundreds
   of vessels.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

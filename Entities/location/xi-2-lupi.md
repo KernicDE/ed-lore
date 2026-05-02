@@ -19,12 +19,13 @@ population: 5728059
 security: High
 economy: Industrial
 second_economy: High Tech
-edsm_url: https://www.edsm.net/en/system?search=XI-2%20Lupi
+edsm_url: https://www.edsm.net/en/system/id/13466/name/XI-2%20Lupi
 inara_url: https://inara.cz/elite/starsystem/?search=XI-2%20Lupi
 bio: XI-2 Lupi is a star system in the Elite Dangerous universe, significant from
   3303-03-09 to 3303-03-16. Associated with Military Militia. Work can now begin on
   the Soldiers' Respite installation in the XI-2 Lupi system.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

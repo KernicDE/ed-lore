@@ -22,13 +22,14 @@ population: 434780
 security: Medium
 economy: Refinery
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Svari
+edsm_url: https://www.edsm.net/en/system/id/7452/name/Svari
 inara_url: https://inara.cz/elite/starsystem/?search=Svari
 bio: 'Svari is a star system in the Elite Dangerous universe, significant from 3301-10-08
   to 3301-10-08. Associated with Emperor''s Dawn, Imperial Internal Security Service.
   The Imperial Internal Security Service identified five additional systems containing
   Emperor''s Dawn bases: Namarii, Tabaldak, LTT 874, Shambhala, and Svari.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

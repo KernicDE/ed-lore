@@ -22,7 +22,7 @@ population: 106811
 security: Medium
 economy: Extraction
 second_economy: High Tech
-edsm_url: https://www.edsm.net/en/system?search=Alpha%20Centauri
+edsm_url: https://www.edsm.net/en/system/id/6903/name/Alpha%20Centauri
 inara_url: https://inara.cz/elite/starsystem/?search=Alpha%20Centauri
 bio: 'Alpha Centauri is a system in Elite Dangerous, significant from 3301-09-03 to
   3310-12-06. Associated with BlipMagnet. Notable events include: Seven of eight rescue
@@ -30,6 +30,7 @@ bio: 'Alpha Centauri is a system in Elite Dangerous, significant from 3301-09-03
   leaving only Rescue Ship Hutner and R...; The technological plague continues to
   affect starports across inhabited space.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

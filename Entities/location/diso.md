@@ -22,7 +22,7 @@ population: 4100025331
 security: Medium
 economy: Extraction
 second_economy: Agriculture
-edsm_url: https://www.edsm.net/en/system?search=Diso
+edsm_url: https://www.edsm.net/en/system/id/15480/name/Diso
 inara_url: https://inara.cz/elite/starsystem/?search=Diso
 bio: 'Diso is a system in Elite Dangerous, significant from 3301-05-08 to 3307-01-19.
   Associated with Interstellar Association for Agriculture. Notable events include:
@@ -31,6 +31,7 @@ bio: 'Diso is a system in Elite Dangerous, significant from 3301-05-08 to 3307-0
   by the League of Reparation, Aisling Duval hosting Jordan Rochester and Caspian
   Leop...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

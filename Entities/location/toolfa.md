@@ -19,12 +19,13 @@ population: 49769105
 security: High
 economy: High Tech
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Toolfa
+edsm_url: https://www.edsm.net/en/system/id/3310/name/Toolfa
 inara_url: https://inara.cz/elite/starsystem/?search=Toolfa
 bio: Toolfa is a star system in the Elite Dangerous universe, significant from 3301-02-25
   to 3301-02-25. Raw gold from Stone's discovery was found aboard his abandoned Sidewinder
   at Crook's Hub in Toolfa.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

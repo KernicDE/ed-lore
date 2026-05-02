@@ -22,7 +22,7 @@ population: 5300007550
 security: High
 economy: Industrial
 second_economy: Colony
-edsm_url: https://www.edsm.net/en/system?search=Zaonce
+edsm_url: https://www.edsm.net/en/system/id/17892/name/Zaonce
 inara_url: https://inara.cz/elite/starsystem/?search=Zaonce
 bio: 'Zaonce is a system in Elite Dangerous, significant from 3301-05-01 to 3308-11-15.
   Associated with Alliance, Alliance Assembly, Bank of Zaonce. Notable events include:
@@ -31,6 +31,7 @@ bio: 'Zaonce is a system in Elite Dangerous, significant from 3301-05-01 to 3308
   that the rogue signal sources heading towards the core systems are Thargoid in origin
   has caused unease within the general public.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -22,7 +22,7 @@ population: 12801179
 security: High
 economy: High Tech
 second_economy: Service
-edsm_url: https://www.edsm.net/en/system?search=Alrai
+edsm_url: https://www.edsm.net/en/system/id/10746/name/Alrai
 inara_url: https://inara.cz/elite/starsystem/?search=Alrai
 bio: Alrai is a star system in the Elite Dangerous universe, significant from 3302-03-16
   to 3312-01-17. Associated with Deep Space Surveys, Distant Worlds, Balkan Intergalactic
@@ -30,6 +30,7 @@ bio: Alrai is a star system in the Elite Dangerous universe, significant from 33
   Competitors included Blood Brothers from Alrai, Ronin of Amarak, Triadius, Contrail,
   and the Balkan Intergalactic Guerrillas.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

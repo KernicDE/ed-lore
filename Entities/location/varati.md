@@ -22,7 +22,7 @@ population: 9111872
 security: Medium
 economy: Industrial
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Varati
+edsm_url: https://www.edsm.net/en/system/id/16714/name/Varati
 inara_url: https://inara.cz/elite/starsystem/?search=Varati
 bio: 'Varati is a system in Elite Dangerous, significant from 3301-09-27 to 3303-05-25.
   Associated with Canonn Interstellar Research Group. Notable events include: Dr Arcanonn
@@ -30,6 +30,7 @@ bio: 'Varati is a system in Elite Dangerous, significant from 3301-09-27 to 3303
   citing a strong correlation between UA sales ...; The technological plague continues
   to affect starports across inhabited space.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

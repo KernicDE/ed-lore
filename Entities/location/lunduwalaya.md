@@ -22,11 +22,12 @@ population: 39978
 security: Low
 economy: Refinery
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Lunduwalaya
+edsm_url: https://www.edsm.net/en/system/id/6326/name/Lunduwalaya
 inara_url: https://inara.cz/elite/starsystem/?search=Lunduwalaya
 bio: 'Lunduwalaya is a star system in the Elite Dangerous universe, significant from
   3302-09-01 to 3302-09-02. Associated with United Research Council. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

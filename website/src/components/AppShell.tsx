@@ -207,7 +207,7 @@ export default function AppShell() {
 
   return (
     <>
-      <div className="main-layout">
+      <main id="main-content" className="main-layout">
         <Timeline
           articles={sortedArticles}
           bodies={bodies}
@@ -227,7 +227,7 @@ export default function AppShell() {
           allYears={allYears}
           onYearSelect={handleYearSelect}
         />
-      </div>
+      </main>
       <div className="audio-player-bar">
         <AudioPlayer article={audioArticle} />
       </div>

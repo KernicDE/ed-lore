@@ -22,13 +22,14 @@ population: 10914548
 security: High
 economy: High Tech
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Almad
+edsm_url: https://www.edsm.net/en/system/id/6692/name/Almad
 inara_url: https://inara.cz/elite/starsystem/?search=Almad
 bio: Almad is a star system in the Elite Dangerous universe, significant from 3301-04-16
   to 3301-04-16. Associated with Mictlan Cartel. Evidence uncovered pointed to Almad
   criminals facilitating the Emperor's attack. Commanders can sign up at Heinkel City
   in Almad and Gutierrez Terminal in LTT 9810.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

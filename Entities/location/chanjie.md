@@ -22,11 +22,12 @@ population: 2466088
 security: Low
 economy: Industrial
 second_economy: Colony
-edsm_url: https://www.edsm.net/en/system?search=Ch'anjie
-inara_url: https://inara.cz/elite/starsystem/?search=Ch'anjie
+edsm_url: https://www.edsm.net/en/system/id/6215/name/Ch%27anjie
+inara_url: https://inara.cz/elite/starsystem/?search=Ch%27anjie
 bio: 'Ch''anjie is a star system in the Elite Dangerous universe, significant from
   3308-04-28 to 3308-05-12. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

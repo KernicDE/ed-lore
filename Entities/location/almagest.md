@@ -22,13 +22,14 @@ population: 423224
 security: High
 economy: Agriculture
 second_economy: Terraforming
-edsm_url: https://www.edsm.net/en/system?search=Almagest
+edsm_url: https://www.edsm.net/en/system/id/29538/name/Almagest
 inara_url: https://inara.cz/elite/starsystem/?search=Almagest
 bio: Almagest is a star system in the Elite Dangerous universe, significant from 3301-10-15
   to 3301-10-15. Associated with Money Matters. Sirius Corporation CEO Li Yong-Rui
   announced ambitious revitalization plans for systems brought under corporate control
   earlier in the year, including HIP 8396, Almagest, Sothis, Ceos, and Robigo.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

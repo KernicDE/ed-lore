@@ -12,7 +12,7 @@ coords:
   x: 526.125
   y: -90.96875
   z: 97.125
-edsm_url: https://www.edsm.net/en/system?search=I%20Carinae
+edsm_url: https://www.edsm.net/en/system/id/18168951/name/I%20Carinae
 inara_url: https://inara.cz/elite/starsystem/?search=I%20Carinae
 bio: I Carinae is a star system in the Elite Dangerous universe, significant from
   3303-10-06 to 3303-10-13. Associated with Secret Billionaires. The Secret Billionaires
@@ -20,6 +20,7 @@ bio: I Carinae is a star system in the Elite Dangerous universe, significant fro
   of pilots. The Secret Billionaires, based in I Carinae, have reported a sharp increase
   in criminal activity.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

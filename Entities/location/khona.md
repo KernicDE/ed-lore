@@ -22,12 +22,13 @@ population: 211920
 security: Anarchy
 economy: Military
 second_economy: Agriculture
-edsm_url: https://www.edsm.net/en/system?search=Khona
+edsm_url: https://www.edsm.net/en/system/id/13948/name/Khona
 inara_url: https://inara.cz/elite/starsystem/?search=Khona
 bio: Khona is a star system in the Elite Dangerous universe, significant from 3301-03-03
   to 3301-03-03. Associated with Alliance. The first set includes Djaujas A 1, Khona
   3, Dohkwithi A 1, Hip 54692 3 and Milelbis 4.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -22,7 +22,7 @@ population: 13245059
 security: Medium
 economy: High Tech
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Ipilyaqa
+edsm_url: https://www.edsm.net/en/system/id/3477/name/Ipilyaqa
 inara_url: https://inara.cz/elite/starsystem/?search=Ipilyaqa
 bio: Ipilyaqa is a star system in the Elite Dangerous universe, significant from 3301-09-11
   to 3302-02-05. Associated with Emperor's Dawn, Imperial Internal Security Service.
@@ -31,6 +31,7 @@ bio: Ipilyaqa is a star system in the Elite Dangerous universe, significant from
   Ipilyaqa, and Ch'i Lin systems. The Imperial Internal Security Service discovered
   Emperor's Dawn 'shadow' cells in the Dakshmandi, Ipilyaqa, and Ch'i Lin systems.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

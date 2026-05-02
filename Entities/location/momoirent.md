@@ -20,11 +20,12 @@ population: 14065471
 security: High
 economy: Refinery
 second_economy: Industrial
-edsm_url: https://www.edsm.net/en/system?search=Momoirent
+edsm_url: https://www.edsm.net/en/system/id/8631/name/Momoirent
 inara_url: https://inara.cz/elite/starsystem/?search=Momoirent
 bio: 'Momoirent is a star system in the Elite Dangerous universe, significant from
   3304-02-16 to 3304-02-23. Associated with Momoirent Central and Co, Aegis. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

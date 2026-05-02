@@ -22,12 +22,13 @@ population: 23805656
 security: High
 economy: High Tech
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Arjung
+edsm_url: https://www.edsm.net/en/system/id/3403/name/Arjung
 inara_url: https://inara.cz/elite/starsystem/?search=Arjung
 bio: Arjung is a star system in the Elite Dangerous universe, significant from 3301-04-15
   to 3301-04-15. The route includes stations such as Gentil Hub in Harm, Hiya Orbital
   in Arjung, and Kagawa Vision in Nidayiman.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

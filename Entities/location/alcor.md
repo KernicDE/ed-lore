@@ -22,11 +22,12 @@ population: 703831
 security: Medium
 economy: Refinery
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Alcor
+edsm_url: https://www.edsm.net/en/system/id/6523/name/Alcor
 inara_url: https://inara.cz/elite/starsystem/?search=Alcor
 bio: 'Alcor is a star system in the Elite Dangerous universe, significant from 3307-12-31
   to 3307-12-31. Associated with Imperial Senate, Brewer Corporation, EG Union. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -22,12 +22,13 @@ population: 3515633106
 security: Medium
 economy: Agriculture
 second_economy: Tourism
-edsm_url: https://www.edsm.net/en/system?search=Gyvatices
+edsm_url: https://www.edsm.net/en/system/id/13291/name/Gyvatices
 inara_url: https://inara.cz/elite/starsystem/?search=Gyvatices
 bio: Gyvatices is a star system in the Elite Dangerous universe, significant from
   3302-10-20 to 3303-10-13. Associated with Gyvatices Crimson Advanced Holdings, Wonderful
   Walter's Fish and Coffee Emporium.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

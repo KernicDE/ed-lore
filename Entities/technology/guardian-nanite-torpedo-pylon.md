@@ -5,13 +5,13 @@ type: technology
 first_seen_date: '3310-03-15'
 last_seen_date: '3310-12-12'
 mention_count: 7
-inara_url: https://inara.cz/elite/commodity/?search=Guardian%20Nanite%20Torpedo%20Pylon
 bio: 'Guardian Nanite Torpedo Pylon is a technology in Elite Dangerous, mentioned
   from 3310-03-15 to 3310-12-12. Used by Aden Tanner. Key developments: An urgent
   call to all pilots to participate in the final assault on Titan Leigong, the second
   Thargoid mothership.; An urgent call to all pilots to participate in the final assault
   on Titan Oya, the third Thargoid mothership.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

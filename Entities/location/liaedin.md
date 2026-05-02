@@ -22,7 +22,7 @@ population: 53013370
 security: Medium
 economy: Extraction
 second_economy: Colony
-edsm_url: https://www.edsm.net/en/system?search=Liaedin
+edsm_url: https://www.edsm.net/en/system/id/10533/name/Liaedin
 inara_url: https://inara.cz/elite/starsystem/?search=Liaedin
 bio: 'Liaedin is a system in Elite Dangerous, significant from 3301-02-17 to 3301-05-25.
   Associated with Faveol family. Notable events include: The Volungu Blight has spread
@@ -31,6 +31,7 @@ bio: 'Liaedin is a system in Elite Dangerous, significant from 3301-02-17 to 330
   a breakthrough in treating the Volungu Blight after doctors supplied by Aisling
   Duval identified the pa...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

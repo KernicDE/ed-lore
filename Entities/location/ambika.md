@@ -19,7 +19,7 @@ population: 4042241
 security: Low
 economy: Industrial
 second_economy: Colony
-edsm_url: https://www.edsm.net/en/system?search=Ambika
+edsm_url: https://www.edsm.net/en/system/id/1480/name/Ambika
 inara_url: https://inara.cz/elite/starsystem/?search=Ambika
 bio: Ambika is a star system in the Elite Dangerous universe, significant from 3302-08-04
   to 3302-08-11. Associated with Union Party of Ambika. Authorities in the Ambika
@@ -27,6 +27,7 @@ bio: Ambika is a star system in the Elite Dangerous universe, significant from 3
   a campaign requesting pilots deliver food to Goulart City and neutralise pirates
   operating in the system.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

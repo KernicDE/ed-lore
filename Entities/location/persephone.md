@@ -21,7 +21,7 @@ controlling_faction: G.O.M. Collective
 population: 150000
 security: Medium
 economy: Service
-edsm_url: https://www.edsm.net/en/system?search=Persephone
+edsm_url: https://www.edsm.net/en/system/id/17890/name/Persephone
 inara_url: https://inara.cz/elite/starsystem/?search=Persephone
 bio: 'Persephone is a system in Elite Dangerous, significant from 3301-05-11 to 3302-03-29.
   Notable events include: Senator Denton Patreus officially declared war on Quivira,
@@ -29,6 +29,7 @@ bio: 'Persephone is a system in Elite Dangerous, significant from 3301-05-11 to 
   Patreus declared war on Quivira, sending thousands of Imperial vessels to attack
   non-Imperial ships.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -21,7 +21,7 @@ population: 21833431
 security: Medium
 economy: Industrial
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Zagoro
+edsm_url: https://www.edsm.net/en/system/id/19465/name/Zagoro
 inara_url: https://inara.cz/elite/starsystem/?search=Zagoro
 bio: Zagoro is a star system in the Elite Dangerous universe, significant from 3302-07-28
   to 3302-08-04. Associated with Empire, Zagoro Imperial Society. The Empire's appeal
@@ -29,6 +29,7 @@ bio: Zagoro is a star system in the Elite Dangerous universe, significant from 3
   Station in the Zagoro system. The Zagoro Imperial Society stated this is the first
   step in challenging the Federal monopoly on the material.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

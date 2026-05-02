@@ -22,7 +22,7 @@ population: 107293
 security: Low
 economy: Agriculture
 second_economy: High Tech
-edsm_url: https://www.edsm.net/en/system?search=Krisha
+edsm_url: https://www.edsm.net/en/system/id/6355/name/Krisha
 inara_url: https://inara.cz/elite/starsystem/?search=Krisha
 bio: Krisha is a star system in the Elite Dangerous universe, significant from 3301-06-05
   to 3301-06-12. Associated with Kumo Crew, Camorra of Krisha, Hand Gang of Gandii.
@@ -31,6 +31,7 @@ bio: Krisha is a star system in the Elite Dangerous universe, significant from 3
   failure means disappearance. The Hand Gang of Gandii and Camorra of Krisha's call
   for Kumo Crew allies yielded disappointing recruitment.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

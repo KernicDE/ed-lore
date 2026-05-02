@@ -22,7 +22,7 @@ population: 44364
 security: Anarchy
 economy: Refinery
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Othime
+edsm_url: https://www.edsm.net/en/system/id/13909/name/Othime
 inara_url: https://inara.cz/elite/starsystem/?search=Othime
 bio: Othime is a star system in the Elite Dangerous universe, significant from 3304-03-09
   to 3304-03-16. Associated with Coalition of Othime, Aegis. The Coalition of Othime
@@ -30,6 +30,7 @@ bio: Othime is a star system in the Elite Dangerous universe, significant from 3
   of Othime has announced plans to develop refinery facilities in the Othime system
   by constructing a new asteroid base.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

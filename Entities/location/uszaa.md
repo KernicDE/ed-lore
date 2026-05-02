@@ -22,11 +22,12 @@ population: 3200014163
 security: Low
 economy: Industrial
 second_economy: Military
-edsm_url: https://www.edsm.net/en/system?search=Uszaa
+edsm_url: https://www.edsm.net/en/system/id/11436/name/Uszaa
 inara_url: https://inara.cz/elite/starsystem/?search=Uszaa
 bio: 'Uszaa is a star system in the Elite Dangerous universe, significant from 3308-05-12
   to 3308-05-12. Associated with Federal Times. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

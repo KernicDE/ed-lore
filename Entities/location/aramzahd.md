@@ -21,7 +21,7 @@ population: 12042723
 security: High
 economy: Extraction
 second_economy: Agriculture
-edsm_url: https://www.edsm.net/en/system?search=Aramzahd
+edsm_url: https://www.edsm.net/en/system/id/5633/name/Aramzahd
 inara_url: https://inara.cz/elite/starsystem/?search=Aramzahd
 bio: Aramzahd is a star system in the Elite Dangerous universe, significant from 3302-10-13
   to 3302-10-20. Associated with Aramzahd Empire Party, Annual Galactic Games Organisation.
@@ -29,6 +29,7 @@ bio: Aramzahd is a star system in the Elite Dangerous universe, significant from
   Bingo Palace in the Aramzahd system. The Aramzahd Empire Party has requested rare
   foods and alcohol, and issued a kill order on wanted ships for event security.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

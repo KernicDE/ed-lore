@@ -19,7 +19,7 @@ population: 880443570
 security: Medium
 economy: Agriculture
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Arek
+edsm_url: https://www.edsm.net/en/system/id/18075/name/Arek
 inara_url: https://inara.cz/elite/starsystem/?search=Arek
 bio: Arek is a star system in the Elite Dangerous universe, significant from 3304-03-02
   to 3304-03-09. Associated with Arek Crimson Vision Corporation. Arek Crimson Vision
@@ -28,6 +28,7 @@ bio: Arek is a star system in the Elite Dangerous universe, significant from 330
   Vision Corporation has announced the successful conclusion of its weapons appeal,
   with a massive influx of deliveries to the organisation's base.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

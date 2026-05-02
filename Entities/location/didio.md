@@ -22,7 +22,7 @@ population: 1925756065
 security: High
 economy: Industrial
 second_economy: Agriculture
-edsm_url: https://www.edsm.net/en/system?search=Didio
+edsm_url: https://www.edsm.net/en/system/id/3869/name/Didio
 inara_url: https://inara.cz/elite/starsystem/?search=Didio
 bio: 'Didio is a system in Elite Dangerous, significant from 3308-04-21 to 3308-06-29.
   Associated with Salvation, Alliance. Notable events include: Thargoid fleets invade
@@ -30,6 +30,7 @@ bio: 'Didio is a system in Elite Dangerous, significant from 3308-04-21 to 3308-
   Corporation claims the Thargoid incursions prove the necessity of its strategic
   defence pact with the Alliance.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

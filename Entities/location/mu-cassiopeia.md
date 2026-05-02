@@ -15,11 +15,12 @@ coords:
   x: -26.125
   y: -24.625
   z: 17.34375
-edsm_url: https://www.edsm.net/en/system?search=Mu%20Cassiopeia
+edsm_url: https://www.edsm.net/en/system/id/25365/name/Mu%20Cassiopeia
 inara_url: https://inara.cz/elite/starsystem/?search=Mu%20Cassiopeia
 bio: 'Mu Cassiopeia is a star system in the Elite Dangerous universe, significant
   from 3307-04-02 to 3307-04-02. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

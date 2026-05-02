@@ -21,7 +21,7 @@ controlling_faction: Turner Research Group
 population: 15000
 security: Medium
 economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Synuefai%20EB-R%20c7-5
+edsm_url: https://www.edsm.net/en/system/id/1266186/name/Synuefai%20EB-R%20c7-5
 inara_url: https://inara.cz/elite/starsystem/?search=Synuefai%20EB-R%20c7-5
 bio: 'Synuefai EB-R c7-5 is a system in Elite Dangerous, significant from 3304-02-02
   to 3304-08-05. Associated with Alliance. Notable events include: Weekly summary
@@ -30,6 +30,7 @@ bio: 'Synuefai EB-R c7-5 is a system in Elite Dangerous, significant from 3304-0
   plans to build an Orbis starport in the Synuefai EB-R c7-5 system, between the core
   systems and the Alliance''s Californi...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

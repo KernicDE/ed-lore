@@ -22,8 +22,8 @@ population: 9242228
 security: High
 economy: Industrial
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Ch'i%20Lin
-inara_url: https://inara.cz/elite/starsystem/?search=Ch'i%20Lin
+edsm_url: https://www.edsm.net/en/system/id/4487/name/Ch%27i%20Lin
+inara_url: https://inara.cz/elite/starsystem/?search=Ch%27i%20Lin
 bio: Ch'i Lin is a star system in the Elite Dangerous universe, significant from 3301-09-11
   to 3302-02-05. Associated with Emperor's Dawn, Imperial Internal Security Service.
   Senator Denton Patreus revealed that Emperor's Dawn has survived the Federal Navy's
@@ -31,6 +31,7 @@ bio: Ch'i Lin is a star system in the Elite Dangerous universe, significant from
   Ipilyaqa, and Ch'i Lin systems. The Imperial Internal Security Service discovered
   Emperor's Dawn 'shadow' cells in the Dakshmandi, Ipilyaqa, and Ch'i Lin systems.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

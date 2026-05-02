@@ -22,7 +22,7 @@ population: 396317
 security: Low
 economy: Agriculture
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Betel
+edsm_url: https://www.edsm.net/en/system/id/6709/name/Betel
 inara_url: https://inara.cz/elite/starsystem/?search=Betel
 bio: Betel is a star system in the Elite Dangerous universe, significant from 3304-08-24
   to 3304-09-02. Associated with Betel Free, Silver Creative Network, Betel security.
@@ -30,6 +30,7 @@ bio: Betel is a star system in the Elite Dangerous universe, significant from 33
   in the Betel system has ended. General Hollis of Betel security expresses hope for
   a period of prolonged peace.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

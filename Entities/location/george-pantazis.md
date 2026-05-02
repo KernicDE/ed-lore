@@ -22,11 +22,12 @@ population: 3910114
 security: Medium
 economy: Refinery
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=George%20Pantazis
+edsm_url: https://www.edsm.net/en/system/id/24533/name/George%20Pantazis
 inara_url: https://inara.cz/elite/starsystem/?search=George%20Pantazis
 bio: 'George Pantazis is a star system in the Elite Dangerous universe, significant
   from 3308-05-12 to 3308-05-12. Associated with Federal Times. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

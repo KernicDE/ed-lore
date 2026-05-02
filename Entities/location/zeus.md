@@ -19,7 +19,7 @@ population: 209112
 security: Low
 economy: Extraction
 second_economy: Colony
-edsm_url: https://www.edsm.net/en/system?search=Zeus
+edsm_url: https://www.edsm.net/en/system/id/9933/name/Zeus
 inara_url: https://inara.cz/elite/starsystem/?search=Zeus
 bio: Zeus is a star system in the Elite Dangerous universe, significant from 3303-05-19
   to 3303-05-26. Associated with Zeus Bureau. The Zeus Bureau is hosting a gathering
@@ -28,6 +28,7 @@ bio: Zeus is a star system in the Elite Dangerous universe, significant from 330
   luxury goods reached a successful conclusion, with the event boosting Zeus's economy
   and attracting the Wells-class carrier The Midas.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

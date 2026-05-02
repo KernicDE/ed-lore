@@ -19,11 +19,12 @@ population: 10010869
 security: Medium
 economy: High Tech
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=DS%20Leonis
+edsm_url: https://www.edsm.net/en/system/id/10828/name/DS%20Leonis
 inara_url: https://inara.cz/elite/starsystem/?search=DS%20Leonis
 bio: 'DS Leonis is a star system in the Elite Dangerous universe, significant from
   3305-02-28 to 3305-03-07. Associated with Macrosphere, DS Leonis Industries. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

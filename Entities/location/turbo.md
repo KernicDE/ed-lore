@@ -22,11 +22,12 @@ population: 3461673
 security: Low
 economy: Industrial
 second_economy: Military
-edsm_url: https://www.edsm.net/en/system?search=Turbo
+edsm_url: https://www.edsm.net/en/system/id/10970/name/Turbo
 inara_url: https://inara.cz/elite/starsystem/?search=Turbo
 bio: 'Turbo is a star system in the Elite Dangerous universe, significant from 3302-01-22
   to 3302-01-22. Associated with Buckyball Racing Club. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

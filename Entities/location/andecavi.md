@@ -21,11 +21,12 @@ population: 110709
 security: Low
 economy: Refinery
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Andecavi
+edsm_url: https://www.edsm.net/en/system/id/4646/name/Andecavi
 inara_url: https://inara.cz/elite/starsystem/?search=Andecavi
 bio: 'Andecavi is a star system in the Elite Dangerous universe, significant from
   3308-10-11 to 3308-10-11. Associated with Alliance, Azimuth. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

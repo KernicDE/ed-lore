@@ -19,7 +19,7 @@ population: 4525064923
 security: Anarchy
 economy: Industrial
 second_economy: Agriculture
-edsm_url: https://www.edsm.net/en/system?search=Drevlyada
+edsm_url: https://www.edsm.net/en/system/id/17187/name/Drevlyada
 inara_url: https://inara.cz/elite/starsystem/?search=Drevlyada
 bio: Drevlyada is a star system in the Elite Dangerous universe, significant from
   3305-02-21 to 3305-02-28. Associated with Namab Purple Brothers, Drevlyada League.
@@ -27,6 +27,7 @@ bio: Drevlyada is a star system in the Elite Dangerous universe, significant fro
   and Marshal Cooper of the Drevlyada League escalates into open conflict in the Drevlyada
   system.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

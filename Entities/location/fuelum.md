@@ -20,11 +20,12 @@ population: 47605125
 security: High
 economy: Industrial
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Fuelum
+edsm_url: https://www.edsm.net/en/system/id/1464/name/Fuelum
 inara_url: https://inara.cz/elite/starsystem/?search=Fuelum
 bio: 'Fuelum is a star system in the Elite Dangerous universe, significant from 3303-01-12
   to 3303-01-12. Associated with Fuel Rats. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

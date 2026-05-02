@@ -22,7 +22,7 @@ population: 1615694
 security: Low
 economy: Industrial
 second_economy: High Tech
-edsm_url: https://www.edsm.net/en/system?search=Zlota
+edsm_url: https://www.edsm.net/en/system/id/684/name/Zlota
 inara_url: https://inara.cz/elite/starsystem/?search=Zlota
 bio: 'Zlota is a system in Elite Dangerous, significant from 3304-12-06 to 3308-05-12.
   Associated with Children of Tothos, Zlota Federal Holdings, Federal Intelligence
@@ -30,6 +30,7 @@ bio: 'Zlota is a system in Elite Dangerous, significant from 3304-12-06 to 3308-
   while Salvation constructs anti-xeno superweapons.; Salvation''s anti-xeno superweapons
   completely repel Thargoid forces from Didio, Novas, and Sosong.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

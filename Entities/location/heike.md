@@ -22,7 +22,7 @@ population: 669482091
 security: Medium
 economy: Agriculture
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Heike
+edsm_url: https://www.edsm.net/en/system/id/13250/name/Heike
 inara_url: https://inara.cz/elite/starsystem/?search=Heike
 bio: 'Heike is a system in Elite Dangerous, significant from 3301-07-29 to 3305-09-05.
   Notable events include: Medical personnel at Hart Station praised 765 independent
@@ -30,6 +30,7 @@ bio: 'Heike is a system in Elite Dangerous, significant from 3301-07-29 to 3305-
   hosting a tribute race at Hart Station in the Bast system to honour the independent
   pilots who helped discover and dis...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

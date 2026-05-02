@@ -22,13 +22,14 @@ population: 6373446
 security: Medium
 economy: Industrial
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=64%20Arietis
+edsm_url: https://www.edsm.net/en/system/id/3944/name/64%20Arietis
 inara_url: https://inara.cz/elite/starsystem/?search=64%20Arietis
 bio: '64 Arietis is a system in Elite Dangerous, significant from 3301-10-29 to 3303-12-02.
   Notable events include: The technological plague continues to affect starports across
   inhabited space.; Several starports previously closed due to Unknown Artefact-related
   interference have been restored through the application of meta-alloys.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

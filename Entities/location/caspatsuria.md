@@ -21,12 +21,13 @@ population: 11931312
 security: Medium
 economy: High Tech
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Caspatsuria
+edsm_url: https://www.edsm.net/en/system/id/16817/name/Caspatsuria
 inara_url: https://inara.cz/elite/starsystem/?search=Caspatsuria
 bio: Caspatsuria is a star system in the Elite Dangerous universe, significant from
   3301-06-19 to 3301-06-19. After Caspatsuria citizens proved motivated by financial
   incentives, Aisling's Angels shifted focus to Grovichun's social media networks.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -22,7 +22,7 @@ population: 6038704802
 security: Medium
 economy: Tourism
 second_economy: Agriculture
-edsm_url: https://www.edsm.net/en/system?search=Ienpalang
+edsm_url: https://www.edsm.net/en/system/id/8447/name/Ienpalang
 inara_url: https://inara.cz/elite/starsystem/?search=Ienpalang
 bio: Ienpalang is a star system in the Elite Dangerous universe, significant from
   3304-07-20 to 3304-07-27. Associated with League of Reparation. The tri-superpower
@@ -30,6 +30,7 @@ bio: Ienpalang is a star system in the Elite Dangerous universe, significant fro
   and Ienpalang. The operation in Zibal is coordinated by Zibal Power Co, while Ienpalang
   Corporation supports action in Ienpalang.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

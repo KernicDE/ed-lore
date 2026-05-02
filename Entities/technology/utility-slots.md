@@ -5,10 +5,10 @@ type: technology
 first_seen_date: '3311-04-08'
 last_seen_date: '3311-04-08'
 mention_count: 1
-inara_url: https://inara.cz/elite/commodity/?search=utility%20slots
 bio: 'utility slots is a technology in the Elite Dangerous universe, mentioned from
   3311-04-08 to 3311-04-08. Developed or used by Ines Allende, Imperial Navy. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

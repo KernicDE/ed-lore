@@ -22,7 +22,7 @@ population: 3928358
 security: Low
 economy: Extraction
 second_economy: Industrial
-edsm_url: https://www.edsm.net/en/system?search=Gliese%201269
+edsm_url: https://www.edsm.net/en/system/id/47896/name/Gliese%201269
 inara_url: https://inara.cz/elite/starsystem/?search=Gliese%201269
 bio: 'Gliese 1269 is a system in Elite Dangerous, significant from 3302-05-05 to 3302-06-30.
   Associated with Fuel Rats, Distant Worlds Expedition. Notable events include: Jaques
@@ -31,6 +31,7 @@ bio: 'Gliese 1269 is a system in Elite Dangerous, significant from 3302-05-05 to
   to Unknown Artefact-related interference have been restored through the application
   of meta-alloys.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

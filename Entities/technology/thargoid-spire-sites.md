@@ -5,7 +5,6 @@ type: technology
 first_seen_date: '3309-10-31'
 last_seen_date: '3309-12-07'
 mention_count: 2
-inara_url: https://inara.cz/elite/commodity/?search=Thargoid%20spire%20sites
 bio: Thargoid spire sites is a technology in the Elite Dangerous universe, mentioned
   from 3309-10-31 to 3309-12-07. Developed or used by Ishmael Palin, Aegis, Maximo
   Fonseca. Aegis prioritises research into rapidly evolving Thargoid spire sites,
@@ -13,6 +12,7 @@ bio: Thargoid spire sites is a technology in the Elite Dangerous universe, menti
   Palin's biological contaminant successfully halts Thargoid spire site operations
   in the Hyades Sector ST-Q B5-5 system, confirming a vulnerability in Thargoid infrastructure.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

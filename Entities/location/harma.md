@@ -22,7 +22,7 @@ population: 27790025
 security: Anarchy
 economy: Industrial
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Harma
+edsm_url: https://www.edsm.net/en/system/id/2172/name/Harma
 inara_url: https://inara.cz/elite/starsystem/?search=Harma
 bio: 'Harma is a system in Elite Dangerous, significant from 3301-06-03 to 3309-07-20.
   Associated with Kumo Crew, Pilots Federation. Notable events include: Azimuth requests
@@ -31,6 +31,7 @@ bio: 'Harma is a system in Elite Dangerous, significant from 3301-06-03 to 3309-
   the new Overcharged Gimballed AX Multi-Cannon with Auto Loader is released, with
   speculation about Holloway Biosc...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

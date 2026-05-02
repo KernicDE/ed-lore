@@ -22,11 +22,12 @@ population: 12641679
 security: Medium
 economy: Industrial
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Evejitaka
+edsm_url: https://www.edsm.net/en/system/id/6803/name/Evejitaka
 inara_url: https://inara.cz/elite/starsystem/?search=Evejitaka
 bio: Evejitaka is a star system in the Elite Dangerous universe, significant from
   3302-02-24 to 3302-05-20.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

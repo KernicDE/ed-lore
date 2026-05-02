@@ -18,7 +18,7 @@ coords:
 security: Anarchy
 economy: None
 second_economy: None
-edsm_url: https://www.edsm.net/en/system?search=Synuefe%20XR-H%20d11-102
+edsm_url: https://www.edsm.net/en/system/id/6379187/name/Synuefe%20XR-H%20d11-102
 inara_url: https://inara.cz/elite/starsystem/?search=Synuefe%20XR-H%20d11-102
 bio: 'Synuefe XR-H d11-102 is a system in Elite Dangerous, significant from 3302-10-31
   to 3303-02-10. Notable events include: Independent pilot ''xdeath'' discovered mysterious
@@ -26,6 +26,7 @@ bio: 'Synuefe XR-H d11-102 is a system in Elite Dangerous, significant from 3302
   Guardian sites, noting that while structures follow a pattern, codex-data pillar
   configurations diffe...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

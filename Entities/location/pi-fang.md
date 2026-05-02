@@ -20,11 +20,12 @@ population: 7591902
 security: Medium
 economy: Refinery
 second_economy: Agriculture
-edsm_url: https://www.edsm.net/en/system?search=Pi-Fang
+edsm_url: https://www.edsm.net/en/system/id/28/name/Pi-Fang
 inara_url: https://inara.cz/elite/starsystem/?search=Pi-Fang
 bio: 'Pi-Fang is a star system in the Elite Dangerous universe, significant from 3302-04-01
   to 3302-04-01. Associated with Universal Cartographics. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

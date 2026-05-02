@@ -5,7 +5,6 @@ type: technology
 first_seen_date: '3307-04-08'
 last_seen_date: '3307-04-19'
 mention_count: 2
-inara_url: https://inara.cz/elite/commodity/?search=Adamastor%20derelict%20megaship
 bio: Adamastor derelict megaship is a technology in the Elite Dangerous universe,
   mentioned from 3307-04-08 to 3307-04-19. Developed or used by Pilots Federation,
   Pharmasapien. A dormant communications beacon aboard the 200-year-old ghost ship
@@ -14,6 +13,7 @@ bio: Adamastor derelict megaship is a technology in the Elite Dangerous universe
   instructions from a figure calling himself "Salvation," who provides a decryption
   key for the Adamastor's mysterious signal.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

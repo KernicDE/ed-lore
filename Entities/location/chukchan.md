@@ -22,7 +22,7 @@ population: 5135743
 security: Medium
 economy: Industrial
 second_economy: Military
-edsm_url: https://www.edsm.net/en/system?search=Chukchan
+edsm_url: https://www.edsm.net/en/system/id/5961/name/Chukchan
 inara_url: https://inara.cz/elite/starsystem/?search=Chukchan
 bio: 'Chukchan is a system in Elite Dangerous, significant from 3306-10-29 to 3308-06-23.
   Associated with Pilots Federation, Azimuth Biochemicals. Notable events include:
@@ -31,6 +31,7 @@ bio: 'Chukchan is a system in Elite Dangerous, significant from 3306-10-29 to 33
   pilots report receiving anonymous instructions from a figure calling himself "Salvation,"
   who provides a decryption key for the Adamast...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

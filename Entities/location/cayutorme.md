@@ -22,7 +22,7 @@ population: 16579075
 security: Medium
 economy: Industrial
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Cayutorme
+edsm_url: https://www.edsm.net/en/system/id/17548/name/Cayutorme
 inara_url: https://inara.cz/elite/starsystem/?search=Cayutorme
 bio: Cayutorme is a star system in the Elite Dangerous universe, significant from
   3301-11-04 to 3301-11-11. Associated with Cayutorme Syndicate, Imperial Navy, Kumo
@@ -32,6 +32,7 @@ bio: Cayutorme is a star system in the Elite Dangerous universe, significant fro
   fleet, restoring order to the system; leader Kyle Kurowski is missing and captured
   vessels will be sold at a discount from Adkins Port.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

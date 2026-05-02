@@ -22,7 +22,7 @@ population: 200035136
 security: Medium
 economy: Industrial
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Hyades%20Sector%20RO-P%20b6-2
+edsm_url: https://www.edsm.net/en/system/id/21737/name/Hyades%20Sector%20RO-P%20b6-2
 inara_url: https://inara.cz/elite/starsystem/?search=Hyades%20Sector%20RO-P%20b6-2
 bio: 'Hyades Sector RO-P b6-2 is a system in Elite Dangerous, significant from 3307-04-09
   to 3307-07-22. Associated with Marlinist Colonies, NMLA, Marlinism Reformation Party.
@@ -31,6 +31,7 @@ bio: 'Hyades Sector RO-P b6-2 is a system in Elite Dangerous, significant from 3
   Lorcan Scordato negotiates a conditional amnesty for the Neo-Marlinist Order of
   Mudhrid.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

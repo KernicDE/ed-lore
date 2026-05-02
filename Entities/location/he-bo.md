@@ -20,11 +20,12 @@ population: 24383295269
 security: Medium
 economy: Agriculture
 second_economy: Colony
-edsm_url: https://www.edsm.net/en/system?search=He%20Bo
+edsm_url: https://www.edsm.net/en/system/id/8333/name/He%20Bo
 inara_url: https://inara.cz/elite/starsystem/?search=He%20Bo
 bio: 'He Bo is a star system in the Elite Dangerous universe, significant from 3301-05-04
   to 3301-05-04. Associated with Federal Navy, Canonn. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

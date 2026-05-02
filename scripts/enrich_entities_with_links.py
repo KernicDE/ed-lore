@@ -56,11 +56,13 @@ def enrich_type(subdir_name, url_template):
 def main():
     f_updated = enrich_type("faction", "https://inara.cz/elite/minorfaction/?search={encoded}")
     p_updated = enrich_type("person", "https://inara.cz/elite/cmdr-search/?search={encoded}")
-    t_updated = enrich_type("technology", "https://inara.cz/elite/commodity/?search={encoded}")
+    # Skip technology entities — Inara commodity search doesn't work for ships/modules.
+    # Only factions, persons, and star systems have reliable Inara search URLs.
+    t_updated = 0
 
     print(f"Updated {f_updated} factions with Inara links")
     print(f"Updated {p_updated} persons with Inara links")
-    print(f"Updated {t_updated} technologies with Inara links")
+    print(f"Skipped {t_updated} technologies (Inara commodity search unreliable for ships/modules)")
 
 
 if __name__ == "__main__":

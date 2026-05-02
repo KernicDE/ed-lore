@@ -19,7 +19,7 @@ population: 18147140
 security: High
 economy: High Tech
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Guuguyni
+edsm_url: https://www.edsm.net/en/system/id/7931/name/Guuguyni
 inara_url: https://inara.cz/elite/starsystem/?search=Guuguyni
 bio: Guuguyni is a star system in the Elite Dangerous universe, significant from 3304-01-19
   to 3304-01-26. Associated with Guuguyni Empire Consulate. Princess Aisling Duval
@@ -27,6 +27,7 @@ bio: Guuguyni is a star system in the Elite Dangerous universe, significant from
   an illegal slave-trading ring. Princess Aisling Duval's anti-slavery campaign in
   the Guuguyni system has concluded successfully.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

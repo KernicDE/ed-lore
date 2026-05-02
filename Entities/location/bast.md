@@ -22,7 +22,7 @@ population: 450000
 security: Medium
 economy: Agriculture
 second_economy: None
-edsm_url: https://www.edsm.net/en/system?search=Bast
+edsm_url: https://www.edsm.net/en/system/id/18816/name/Bast
 inara_url: https://inara.cz/elite/starsystem/?search=Bast
 bio: 'Bast is a system in Elite Dangerous, significant from 3301-07-23 to 3302-08-11.
   Associated with Union of Bast Liberals, Newton Dock Medical. Notable events include:
@@ -30,6 +30,7 @@ bio: 'Bast is a system in Elite Dangerous, significant from 3301-07-23 to 3302-0
   to the Bast system.; The Cerberus Plague has reached Hart Station in Bast, Hoard
   Orbital in Una, and Cantor Terminal in Santjalan.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

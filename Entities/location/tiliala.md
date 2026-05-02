@@ -22,7 +22,7 @@ population: 39255138
 security: Medium
 economy: Agriculture
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Tiliala
+edsm_url: https://www.edsm.net/en/system/id/10661/name/Tiliala
 inara_url: https://inara.cz/elite/starsystem/?search=Tiliala
 bio: Tiliala is a star system in the Elite Dangerous universe, significant from 3303-11-11
   to 3303-11-11. Associated with Conservatives of Tiliala, Black Fleet. The Black
@@ -31,6 +31,7 @@ bio: Tiliala is a star system in the Elite Dangerous universe, significant from 
   the Black Fleet and the Conservatives of Tiliala, who have relocated to a Wells-class
   Carrier named Tiliala's Lament in nearby Akandinigua.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

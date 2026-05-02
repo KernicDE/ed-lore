@@ -22,7 +22,7 @@ population: 6435599008
 security: High
 economy: Agriculture
 second_economy: Military
-edsm_url: https://www.edsm.net/en/system?search=Zearla
+edsm_url: https://www.edsm.net/en/system/id/14145/name/Zearla
 inara_url: https://inara.cz/elite/starsystem/?search=Zearla
 bio: Zearla is a star system in the Elite Dangerous universe, significant from 3302-11-18
   to 3305-01-10. Associated with Imperial Navy, Federal Navy, League of Zearla. The
@@ -31,6 +31,7 @@ bio: Zearla is a star system in the Elite Dangerous universe, significant from 3
   Wreaken Construction has assembled a large convoy of heavy construction ships and
   support vessels in the Zearla system.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

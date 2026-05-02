@@ -21,7 +21,7 @@ population: 1532168
 security: Medium
 economy: Extraction
 second_economy: Service
-edsm_url: https://www.edsm.net/en/system?search=Jotunheim
+edsm_url: https://www.edsm.net/en/system/id/7330/name/Jotunheim
 inara_url: https://inara.cz/elite/starsystem/?search=Jotunheim
 bio: Jotunheim is a star system in the Elite Dangerous universe, significant from
   3303-06-02 to 3303-06-09. Associated with Revolutionary Jotunheim Resistance, Yum
@@ -29,6 +29,7 @@ bio: Jotunheim is a star system in the Elite Dangerous universe, significant fro
   Resistance successfully drove the Autocracy of Jotunheim from the system, with significant
   material support from Jasmina Halsey.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

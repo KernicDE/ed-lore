@@ -22,7 +22,7 @@ population: 603750583
 security: High
 economy: Agriculture
 second_economy: Industrial
-edsm_url: https://www.edsm.net/en/system?search=Kausalya
+edsm_url: https://www.edsm.net/en/system/id/9964/name/Kausalya
 inara_url: https://inara.cz/elite/starsystem/?search=Kausalya
 bio: Kausalya is a star system in the Elite Dangerous universe, significant from 3301-12-16
   to 3302-04-29. Associated with Emperor's Dawn, Federal Navy. Senator Denton Patreus
@@ -30,6 +30,7 @@ bio: Kausalya is a star system in the Elite Dangerous universe, significant from
   Kausalya base through secret 'shadow' cells in the Dakshmandi, Ipilyaqa, and Ch'i
   Lin systems.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

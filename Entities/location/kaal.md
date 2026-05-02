@@ -19,7 +19,7 @@ population: 390853
 security: Medium
 economy: Refinery
 second_economy: Colony
-edsm_url: https://www.edsm.net/en/system?search=Kaal
+edsm_url: https://www.edsm.net/en/system/id/8842/name/Kaal
 inara_url: https://inara.cz/elite/starsystem/?search=Kaal
 bio: Kaal is a star system in the Elite Dangerous universe, significant from 3303-08-18
   to 3303-08-25. Associated with Kuk Silver Fortune Company. Authorities in the Kaal
@@ -27,6 +27,7 @@ bio: Kaal is a star system in the Elite Dangerous universe, significant from 330
   and disrupting trade. The Kuk Silver Fortune Company announces the successful conclusion
   of its campaign to clear the Kaal system of agitators.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

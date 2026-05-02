@@ -22,7 +22,7 @@ population: 150060608
 security: High
 economy: Extraction
 second_economy: Agriculture
-edsm_url: https://www.edsm.net/en/system?search=Munshin
+edsm_url: https://www.edsm.net/en/system/id/15277/name/Munshin
 inara_url: https://inara.cz/elite/starsystem/?search=Munshin
 bio: 'Munshin is a system in Elite Dangerous, significant from 3301-08-13 to 3304-09-22.
   Associated with Libertas Cooperative, Kumo Crew. Notable events include: Weekly
@@ -31,6 +31,7 @@ bio: 'Munshin is a system in Elite Dangerous, significant from 3301-08-13 to 330
   Vanya Driscoll''s analysis of Alliance presidential candidates, Lloyd Hardacre''s
   arrest after his robot exposed corporate fr...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

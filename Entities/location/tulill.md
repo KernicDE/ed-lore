@@ -18,13 +18,14 @@ population: 7560607
 security: Medium
 economy: Terraforming
 second_economy: Industrial
-edsm_url: https://www.edsm.net/en/system?search=Tulill
+edsm_url: https://www.edsm.net/en/system/id/17816/name/Tulill
 inara_url: https://inara.cz/elite/starsystem/?search=Tulill
 bio: Tulill is a star system in the Elite Dangerous universe, significant from 3301-08-09
   to 3301-08-09. Associated with Russell Networks. Independent newsfeed Russell Networks
   in the Tulill system broadcast claimed holographic footage of Emperor Hengist Duval’s
   assassination.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

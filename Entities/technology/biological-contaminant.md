@@ -5,7 +5,6 @@ type: technology
 first_seen_date: '3309-11-10'
 last_seen_date: '3309-12-07'
 mention_count: 3
-inara_url: https://inara.cz/elite/commodity/?search=biological%20contaminant
 bio: biological contaminant is a technology in the Elite Dangerous universe, mentioned
   from 3309-11-10 to 3309-12-07. Developed or used by Ishmael Palin, Aegis, Maximo
   Fonseca. Professor Palin's biological contaminant successfully halts Thargoid spire
@@ -14,6 +13,7 @@ bio: biological contaminant is a technology in the Elite Dangerous universe, men
   compounds and Titan hull fragments, synthesising a biological contaminant to disrupt
   spire processing chains.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

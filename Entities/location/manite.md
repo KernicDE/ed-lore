@@ -22,11 +22,12 @@ population: 5327370
 security: Medium
 economy: Industrial
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Manite
+edsm_url: https://www.edsm.net/en/system/id/7972/name/Manite
 inara_url: https://inara.cz/elite/starsystem/?search=Manite
 bio: Manite is a star system in the Elite Dangerous universe, significant from 3302-02-24
   to 3302-07-07.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

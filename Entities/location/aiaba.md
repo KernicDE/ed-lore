@@ -20,11 +20,12 @@ population: 4030983
 security: Low
 economy: Industrial
 second_economy: Military
-edsm_url: https://www.edsm.net/en/system?search=Aiaba
+edsm_url: https://www.edsm.net/en/system/id/15937/name/Aiaba
 inara_url: https://inara.cz/elite/starsystem/?search=Aiaba
 bio: Aiaba is a star system in the Elite Dangerous universe, significant from 3311-07-17
   to 3311-07-24. Associated with Zorgon Peterson.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

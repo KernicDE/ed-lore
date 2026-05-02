@@ -20,13 +20,14 @@ population: 3469208
 security: Medium
 economy: Terraforming
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Balaikda
+edsm_url: https://www.edsm.net/en/system/id/374/name/Balaikda
 inara_url: https://inara.cz/elite/starsystem/?search=Balaikda
 bio: Balaikda is a star system in the Elite Dangerous universe, significant from 3301-02-08
   to 3301-02-08. Associated with Chelomy Vision Fight Club. The Chelomy Vision fight
   club in Balaikda hosts unsanctioned aerial brawls where pilots engage in unsafe
   combat above the station.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

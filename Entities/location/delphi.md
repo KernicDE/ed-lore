@@ -22,7 +22,7 @@ population: 305894
 security: Medium
 economy: High Tech
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Delphi
+edsm_url: https://www.edsm.net/en/system/id/30616616/name/Delphi
 inara_url: https://inara.cz/elite/starsystem/?search=Delphi
 bio: 'Delphi is a system in Elite Dangerous, significant from 3305-07-04 to 3309-12-15.
   Associated with Aegis, Pilots Federation. Notable events include: Thargoid forces
@@ -30,6 +30,7 @@ bio: 'Delphi is a system in Elite Dangerous, significant from 3305-07-04 to 3309
   Nebulas.; The Alexandria megaship jumps from Delphi to HIP 16538, triggering a Thargoid
   attack.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

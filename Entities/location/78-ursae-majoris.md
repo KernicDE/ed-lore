@@ -22,7 +22,7 @@ population: 10387930189
 security: High
 economy: Agriculture
 second_economy: Industrial
-edsm_url: https://www.edsm.net/en/system?search=78%20Ursae%20Majoris
+edsm_url: https://www.edsm.net/en/system/id/6871/name/78%20Ursae%20Majoris
 inara_url: https://inara.cz/elite/starsystem/?search=78%20Ursae%20Majoris
 bio: '78 Ursae Majoris is a system in Elite Dangerous, significant from 3301-03-17
   to 3301-05-31. Associated with Alioth Independents. Notable events include: The
@@ -31,6 +31,7 @@ bio: '78 Ursae Majoris is a system in Elite Dangerous, significant from 3301-03-
   Halsey announced a tour of Federal frontier systems to build stronger links between
   Sol and distant colonies.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

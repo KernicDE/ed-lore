@@ -20,7 +20,7 @@ population: 2836373
 security: Low
 economy: Industrial
 second_economy: High Tech
-edsm_url: https://www.edsm.net/en/system?search=Abroin
+edsm_url: https://www.edsm.net/en/system/id/5914/name/Abroin
 inara_url: https://inara.cz/elite/starsystem/?search=Abroin
 bio: Abroin is a star system in the Elite Dangerous universe, significant from 3303-07-21
   to 3303-07-28. Associated with Abroin Universal Plc. Abroin Universal Plc announces
@@ -28,6 +28,7 @@ bio: Abroin is a star system in the Elite Dangerous universe, significant from 3
   The organisation has placed an open order for semiconductors, lithium and energy
   grid assemblies for delivery to Campbell Horizons in the Abroin system.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

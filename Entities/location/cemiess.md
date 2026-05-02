@@ -22,7 +22,7 @@ population: 10000000000
 security: High
 economy: Refinery
 second_economy: Colony
-edsm_url: https://www.edsm.net/en/system?search=Cemiess
+edsm_url: https://www.edsm.net/en/system/id/2670/name/Cemiess
 inara_url: https://inara.cz/elite/starsystem/?search=Cemiess
 bio: 'Cemiess is a system in Elite Dangerous, significant from 3301-02-21 to 3308-09-29.
   Notable events include: An assassination attempt on Admiral Denton Patreus at Mackenzie
@@ -30,6 +30,7 @@ bio: 'Cemiess is a system in Elite Dangerous, significant from 3301-02-21 to 330
   Lady Kahina Tijani Loren, former senator of the Prism system, has been charged in
   connection with the attempted assassination of Admiral Denton Pat...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

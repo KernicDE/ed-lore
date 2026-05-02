@@ -22,7 +22,7 @@ population: 5777858
 security: High
 economy: Refinery
 second_economy: Industrial
-edsm_url: https://www.edsm.net/en/system?search=Niflhel
+edsm_url: https://www.edsm.net/en/system/id/647/name/Niflhel
 inara_url: https://inara.cz/elite/starsystem/?search=Niflhel
 bio: 'Niflhel is a system in Elite Dangerous, significant from 3304-06-15 to 3304-11-03.
   Associated with Niflhel Corp. Notable events include: Senator Caspian Leopold launches
@@ -31,6 +31,7 @@ bio: 'Niflhel is a system in Elite Dangerous, significant from 3304-06-15 to 330
   campaign merging with Universal Liberty to form Unchain, Lori Jameson''s denunciation
   of the Le...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

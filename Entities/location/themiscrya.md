@@ -21,7 +21,7 @@ controlling_faction: G.O.M. Collective
 population: 500000
 security: Medium
 economy: Agriculture
-edsm_url: https://www.edsm.net/en/system?search=Themiscrya
+edsm_url: https://www.edsm.net/en/system/id/3237/name/Themiscrya
 inara_url: https://inara.cz/elite/starsystem/?search=Themiscrya
 bio: Themiscrya is a star system in the Elite Dangerous universe, significant from
   3301-03-31 to 3301-04-08. Associated with Nationals of Themiscrya, Silver Universal
@@ -30,6 +30,7 @@ bio: Themiscrya is a star system in the Elite Dangerous universe, significant fr
   Patreus reached a new debt agreement with Themiscrya, while Silver Universal PLC
   announced interest rate hikes on outstanding debts.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

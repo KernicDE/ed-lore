@@ -22,7 +22,7 @@ population: 39599391
 security: High
 economy: Industrial
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Noti
+edsm_url: https://www.edsm.net/en/system/id/8126/name/Noti
 inara_url: https://inara.cz/elite/starsystem/?search=Noti
 bio: 'Noti is a system in Elite Dangerous, significant from 3301-10-08 to 3303-11-17.
   Associated with Federal Times, Revolutionary Noti Value Party. Notable events include:
@@ -31,6 +31,7 @@ bio: 'Noti is a system in Elite Dangerous, significant from 3301-10-08 to 3303-1
   message claimed that clandestine genetic experiments in the Noti system have created
   ''Master Chefs'' — slaves subjected to brutal train...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

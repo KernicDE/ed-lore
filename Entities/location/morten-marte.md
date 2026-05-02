@@ -21,11 +21,12 @@ population: 1500000
 security: Medium
 economy: Agriculture
 second_economy: None
-edsm_url: https://www.edsm.net/en/system?search=Morten-Marte
+edsm_url: https://www.edsm.net/en/system/id/3544/name/Morten-Marte
 inara_url: https://inara.cz/elite/starsystem/?search=Morten-Marte
 bio: 'Morten-Marte is a star system in the Elite Dangerous universe, significant from
   3308-05-05 to 3308-05-12. Associated with Alliance. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

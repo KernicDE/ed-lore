@@ -22,7 +22,7 @@ population: 7192853
 security: Medium
 economy: High Tech
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Wolf%20406
+edsm_url: https://www.edsm.net/en/system/id/3020/name/Wolf%20406
 inara_url: https://inara.cz/elite/starsystem/?search=Wolf%20406
 bio: Wolf 406 is a star system in the Elite Dangerous universe, significant from 3301-07-23
   to 3301-07-23. Associated with Alliance Defence Force, Wolf 406 Transport Co, Alliance.
@@ -30,6 +30,7 @@ bio: Wolf 406 is a star system in the Elite Dangerous universe, significant from
   Defence Force launched Operation Augeas to rid BD-22 3573 of criminal elements troubling
   miners and traders.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

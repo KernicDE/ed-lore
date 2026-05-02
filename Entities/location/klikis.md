@@ -22,11 +22,12 @@ population: 8277912
 security: Medium
 economy: Industrial
 second_economy: Service
-edsm_url: https://www.edsm.net/en/system?search=Klikis
+edsm_url: https://www.edsm.net/en/system/id/17621/name/Klikis
 inara_url: https://inara.cz/elite/starsystem/?search=Klikis
 bio: 'Klikis is a star system in the Elite Dangerous universe, significant from 3311-03-19
   to 3311-03-19. Associated with Brewer Corporation. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

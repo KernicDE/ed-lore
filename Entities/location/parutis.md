@@ -22,7 +22,7 @@ population: 3893844490
 security: High
 economy: Agriculture
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Parutis
+edsm_url: https://www.edsm.net/en/system/id/3994/name/Parutis
 inara_url: https://inara.cz/elite/starsystem/?search=Parutis
 bio: Parutis is a star system in the Elite Dangerous universe, significant from 3303-02-23
   to 3306-11-26. Associated with Buckyball Racing Club. The Buckyball Racing Club
@@ -30,6 +30,7 @@ bio: Parutis is a star system in the Elite Dangerous universe, significant from 
   to navigate tunnels at scientific and military installations between Malaikudi and
   Parutis.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

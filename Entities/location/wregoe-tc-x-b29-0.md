@@ -15,13 +15,14 @@ coords:
   x: 160.28125
   y: 137.59375
   z: -421.875
-edsm_url: https://www.edsm.net/en/system?search=Wregoe%20TC-X%20b29-0
+edsm_url: https://www.edsm.net/en/system/id/237189/name/Wregoe%20TC-X%20b29-0
 inara_url: https://inara.cz/elite/starsystem/?search=Wregoe%20TC-X%20b29-0
 bio: Wregoe TC-X b29-0 is a star system in the Elite Dangerous universe, significant
   from 3308-01-22 to 3308-06-28. Associated with Aegis, Azimuth Biochemicals. The
   missing Aegis megaship Alexandria is discovered in the Wregoe TC-X B29-0 system
   with evidence of Azimuth's involvement.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

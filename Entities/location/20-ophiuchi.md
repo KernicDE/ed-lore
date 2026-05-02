@@ -22,7 +22,7 @@ population: 23460685
 security: High
 economy: Industrial
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=20%20Ophiuchi
+edsm_url: https://www.edsm.net/en/system/id/6927/name/20%20Ophiuchi
 inara_url: https://inara.cz/elite/starsystem/?search=20%20Ophiuchi
 bio: 20 Ophiuchi is a star system in the Elite Dangerous universe, significant from
   3301-07-14 to 3301-08-06. Associated with Newton Dock Medical. Chief Medical Officer
@@ -31,6 +31,7 @@ bio: 20 Ophiuchi is a star system in the Elite Dangerous universe, significant f
   Dajoar, Eleu, and 20 Ophiuchi declared states of emergency due to the Cerberus Plague
   and called on bounty hunters and combat pilots to protect relief efforts.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -22,7 +22,7 @@ population: 5061479
 security: Medium
 economy: Extraction
 second_economy: Agriculture
-edsm_url: https://www.edsm.net/en/system?search=Tanmark
+edsm_url: https://www.edsm.net/en/system/id/3404/name/Tanmark
 inara_url: https://inara.cz/elite/starsystem/?search=Tanmark
 bio: 'Tanmark is a system in Elite Dangerous, significant from 3301-02-24 to 3307-07-12.
   Associated with Defence Force of Tanmark. Notable events include: The Canonn Interstellar
@@ -31,6 +31,7 @@ bio: 'Tanmark is a system in Elite Dangerous, significant from 3301-02-24 to 330
   the Farmers Union of Kappa Fornacis announced success in increasing local Lucan
   Onionhead production.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

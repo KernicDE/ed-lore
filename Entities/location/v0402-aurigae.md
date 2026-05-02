@@ -21,11 +21,12 @@ population: 61365071
 security: Low
 economy: Agriculture
 second_economy: Tourism
-edsm_url: https://www.edsm.net/en/system?search=V0402%20Aurigae
+edsm_url: https://www.edsm.net/en/system/id/248179/name/V0402%20Aurigae
 inara_url: https://inara.cz/elite/starsystem/?search=V0402%20Aurigae
 bio: 'V0402 Aurigae is a star system in the Elite Dangerous universe, significant
   from 3308-08-27 to 3308-08-27. Associated with Federal Navy. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

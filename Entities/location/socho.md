@@ -22,13 +22,14 @@ population: 2946720
 security: Medium
 economy: Industrial
 second_economy: Military
-edsm_url: https://www.edsm.net/en/system?search=Socho
+edsm_url: https://www.edsm.net/en/system/id/14206/name/Socho
 inara_url: https://inara.cz/elite/starsystem/?search=Socho
 bio: 'Socho is a system in Elite Dangerous, significant from 3304-03-16 to 3304-09-02.
   Associated with Aegis. Notable events include: Following Thargoid incursions into
   the core systems, Aegis Core has launched a counter-Thargoid operation in Socho.;
   The operation to clear Socho of Thargoids has concluded successfully.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

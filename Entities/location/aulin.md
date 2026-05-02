@@ -22,13 +22,14 @@ population: 7508467
 security: Medium
 economy: High Tech
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Aulin
+edsm_url: https://www.edsm.net/en/system/id/26/name/Aulin
 inara_url: https://inara.cz/elite/starsystem/?search=Aulin
 bio: Aulin is a star system in the Elite Dangerous universe, significant from 3301-06-10
   to 3301-06-10. Associated with Alliance. The real winner appears to be Shadow President
   Winters, whose Liberals took the lead in historically Republican Aulin and are establishing
   a new command centre aboard Aulin Enterprise.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

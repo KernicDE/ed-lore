@@ -19,13 +19,14 @@ population: 7776780
 security: Low
 economy: High Tech
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Tjakiri
+edsm_url: https://www.edsm.net/en/system/id/4423/name/Tjakiri
 inara_url: https://inara.cz/elite/starsystem/?search=Tjakiri
 bio: Tjakiri is a star system in the Elite Dangerous universe, significant from 3301-08-30
   to 3301-08-30. Associated with Kumo Crew, Imperial Navy. An Imperial Navy commando
   unit raided a hidden Kumo Crew forward command post in the Tjakiri system, finding
   evidence of recent occupation including ice in a glass.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

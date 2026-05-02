@@ -19,13 +19,14 @@ population: 29867147
 security: High
 economy: High Tech
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Elli
+edsm_url: https://www.edsm.net/en/system/id/12893/name/Elli
 inara_url: https://inara.cz/elite/starsystem/?search=Elli
 bio: Elli is a star system in the Elite Dangerous universe, significant from 3302-11-10
   to 3302-11-10. Associated with Revolution Incorporated. Wright City in the Elli
   system has fallen prey to a chemical-weapon attack believed to have been executed
   by the anarchist organisation Revolution Incorporated.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

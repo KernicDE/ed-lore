@@ -22,12 +22,13 @@ population: 7494503
 security: Medium
 economy: Industrial
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Dongzi
+edsm_url: https://www.edsm.net/en/system/id/11033/name/Dongzi
 inara_url: https://inara.cz/elite/starsystem/?search=Dongzi
 bio: Dongzi is a star system in the Elite Dangerous universe, significant from 3301-02-27
   to 3301-02-28. Associated with Citizens of Tradition. Despite Senator Patreus's
   warning, Falisci pirates continue plundering traders en route to Dongzi and Ngaiawang.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

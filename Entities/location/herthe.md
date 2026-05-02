@@ -22,11 +22,12 @@ population: 21532829
 security: High
 economy: Industrial
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Herthe
+edsm_url: https://www.edsm.net/en/system/id/9463/name/Herthe
 inara_url: https://inara.cz/elite/starsystem/?search=Herthe
 bio: 'Herthe is a star system in the Elite Dangerous universe, significant from 3302-06-09
   to 3302-06-16. Associated with Crom Silver Boys. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

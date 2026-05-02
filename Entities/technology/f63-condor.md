@@ -5,10 +5,10 @@ type: technology
 first_seen_date: '3301-12-06'
 last_seen_date: '3301-12-06'
 mention_count: 1
-inara_url: https://inara.cz/elite/commodity/?search=F63%20Condor
 bio: 'F63 Condor is a technology in the Elite Dangerous universe, mentioned from 3301-12-06
   to 3301-12-06. Developed or used by Gutamaya Shipyards, Pascal Roux, Imperial Herald. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

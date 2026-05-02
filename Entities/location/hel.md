@@ -22,7 +22,7 @@ population: 4301515
 security: Medium
 economy: Industrial
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Hel
+edsm_url: https://www.edsm.net/en/system/id/11398/name/Hel
 inara_url: https://inara.cz/elite/starsystem/?search=Hel
 bio: Hel is a star system in the Elite Dangerous universe, significant from 3301-07-08
   to 3301-12-17. Associated with Emperor's Grace, Cosmic State, Hammer Arms. They
@@ -30,6 +30,7 @@ bio: Hel is a star system in the Elite Dangerous universe, significant from 3301
   a joint military exercise in the Hel system. Leader Tyllerius Adle III condemned
   the deal and laid siege to the League of Hel, putting the system in lockdown.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

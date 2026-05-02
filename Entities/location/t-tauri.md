@@ -22,7 +22,7 @@ population: 21264
 security: Medium
 economy: Extraction
 second_economy: Agriculture
-edsm_url: https://www.edsm.net/en/system?search=T%20Tauri
+edsm_url: https://www.edsm.net/en/system/id/31528/name/T%20Tauri
 inara_url: https://inara.cz/elite/starsystem/?search=T%20Tauri
 bio: 'T Tauri is a system in Elite Dangerous, significant from 3307-05-07 to 3309-01-30.
   Associated with Azimuth Biotech, Salvation, Taurus Mining Ventures. Notable events
@@ -30,6 +30,7 @@ bio: 'T Tauri is a system in Elite Dangerous, significant from 3307-05-07 to 330
   the Hesperus, authorising Taurus Mining Ventures to pay for logs and pro...; Pilots
   report new contact from ''Salvation'' near the Hesperus and Adamastor.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

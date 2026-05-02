@@ -22,7 +22,7 @@ population: 1107574149
 security: High
 economy: Agriculture
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Mu%20Koji
+edsm_url: https://www.edsm.net/en/system/id/4803/name/Mu%20Koji
 inara_url: https://inara.cz/elite/starsystem/?search=Mu%20Koji
 bio: 'Mu Koji is a system in Elite Dangerous, significant from 3302-09-08 to 3302-10-04.
   Associated with Kalana Independents, Xuangu Crimson Major Network, Mu Koji Resistance.
@@ -31,6 +31,7 @@ bio: 'Mu Koji is a system in Elite Dangerous, significant from 3302-09-08 to 330
   The Xuangu Crimson Major Network has announced the successful conclusion of an Imperial
   operation to recover intelligence from Federal convoys in t...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

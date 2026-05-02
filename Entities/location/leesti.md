@@ -22,7 +22,7 @@ population: 5000017277
 security: High
 economy: High Tech
 second_economy: Industrial
-edsm_url: https://www.edsm.net/en/system?search=Leesti
+edsm_url: https://www.edsm.net/en/system/id/13814/name/Leesti
 inara_url: https://inara.cz/elite/starsystem/?search=Leesti
 bio: 'Leesti is a system in Elite Dangerous, significant from 3301-04-03 to 3308-09-23.
   Associated with Alliance, Sirius Corporation. Notable events include: The Reorte
@@ -30,6 +30,7 @@ bio: 'Leesti is a system in Elite Dangerous, significant from 3301-04-03 to 3308
   system.; Sirius Corporation organises humanitarian support for the Didio system
   under Thargoid attack.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

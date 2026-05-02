@@ -22,7 +22,7 @@ population: 10000
 security: Medium
 economy: High Tech
 second_economy: None
-edsm_url: https://www.edsm.net/en/system?search=California%20Sector%20HR-W%20d1-28
+edsm_url: https://www.edsm.net/en/system/id/401258/name/California%20Sector%20HR-W%20d1-28
 inara_url: https://inara.cz/elite/starsystem/?search=California%20Sector%20HR-W%20d1-28
 bio: California Sector HR-W d1-28 is a star system in the Elite Dangerous universe,
   significant from 3309-02-02 to 3309-02-09. Associated with Kumo Crew, Alliance,
@@ -32,6 +32,7 @@ bio: California Sector HR-W d1-28 is a star system in the Elite Dangerous univer
   attempt to seize control of local ports is repelled by communities and the Turner
   Research Group.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

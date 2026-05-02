@@ -22,7 +22,7 @@ population: 18561357265
 security: Medium
 economy: Agriculture
 second_economy: Tourism
-edsm_url: https://www.edsm.net/en/system?search=Procyon
+edsm_url: https://www.edsm.net/en/system/id/4989/name/Procyon
 inara_url: https://inara.cz/elite/starsystem/?search=Procyon
 bio: 'Procyon is a system in Elite Dangerous, significant from 3301-12-22 to 3310-10-16.
   Associated with Sirius Corporation. Notable events include: Aegis scientists at
@@ -31,6 +31,7 @@ bio: 'Procyon is a system in Elite Dangerous, significant from 3301-12-22 to 331
   of Reparation raids, the Thargoid fifth column theory, Jordan Rochester''s profile,
   Olav Redcourt''s book tour, the Di...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

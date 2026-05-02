@@ -18,13 +18,14 @@ population: 272300
 security: Low
 economy: Tourism
 second_economy: Colony
-edsm_url: https://www.edsm.net/en/system?search=Huveang%20De
+edsm_url: https://www.edsm.net/en/system/id/10657/name/Huveang%20De
 inara_url: https://inara.cz/elite/starsystem/?search=Huveang%20De
 bio: Huveang De is a star system in the Elite Dangerous universe, significant from
   3304-03-17 to 3304-03-17. Associated with Huveang De security forces. Local security
   services in the Huveang De system report no new Thargoid sightings over the last
   24 hours.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

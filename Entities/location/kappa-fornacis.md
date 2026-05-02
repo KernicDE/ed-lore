@@ -22,7 +22,7 @@ population: 7650577
 security: Medium
 economy: Extraction
 second_economy: Agriculture
-edsm_url: https://www.edsm.net/en/system?search=Kappa%20Fornacis
+edsm_url: https://www.edsm.net/en/system/id/8920/name/Kappa%20Fornacis
 inara_url: https://inara.cz/elite/starsystem/?search=Kappa%20Fornacis
 bio: 'Kappa Fornacis is a system in Elite Dangerous, significant from 3301-02-24 to
   3307-07-20. Associated with Kappa Fornacis Farmers Union. Notable events include:
@@ -31,6 +31,7 @@ bio: 'Kappa Fornacis is a system in Elite Dangerous, significant from 3301-02-24
   was made illegal in Federal space, the Federation launched a violent campaign against
   Kappa Fornacis farmers led by Geor...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

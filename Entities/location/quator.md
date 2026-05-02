@@ -22,13 +22,14 @@ population: 5079
 security: Low
 economy: Extraction
 second_economy: Agriculture
-edsm_url: https://www.edsm.net/en/system?search=Quator
+edsm_url: https://www.edsm.net/en/system/id/16460/name/Quator
 inara_url: https://inara.cz/elite/starsystem/?search=Quator
 bio: Quator is a star system in the Elite Dangerous universe, significant from 3305-10-22
   to 3305-10-28. Associated with Scythe of Panem, Federal Intelligence Agency, Bruthanvan
   Co. Militant members respond with violence in the Quator system. Scythe of Panem
   militants are defeated in the Quator system.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

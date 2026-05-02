@@ -18,11 +18,12 @@ population: 8902908
 security: Medium
 economy: Agriculture
 second_economy: Military
-edsm_url: https://www.edsm.net/en/system?search=Ethgreze
+edsm_url: https://www.edsm.net/en/system/id/17908/name/Ethgreze
 inara_url: https://inara.cz/elite/starsystem/?search=Ethgreze
 bio: 'Ethgreze is a star system in the Elite Dangerous universe, significant from
   3310-03-21 to 3310-03-21. Associated with Achilles Aerospace. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

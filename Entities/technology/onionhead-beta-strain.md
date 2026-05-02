@@ -5,11 +5,11 @@ type: technology
 first_seen_date: '3307-07-12'
 last_seen_date: '3307-07-12'
 mention_count: 1
-inara_url: https://inara.cz/elite/commodity/?search=Onionhead%20beta%20strain
 bio: 'Onionhead beta strain is a technology in the Elite Dangerous universe, mentioned
   from 3307-07-12 to 3307-07-12. Developed or used by Scythe of Panem, Vox Galactica,
   Kumo Crew. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -5,13 +5,13 @@ type: technology
 first_seen_date: '3307-05-06'
 last_seen_date: '3307-05-06'
 mention_count: 1
-inara_url: https://inara.cz/elite/commodity/?search=Harmony%27s%20Shield%20megaship
 bio: Harmony's Shield megaship is a technology in the Elite Dangerous universe, mentioned
   from 3307-05-06 to 3307-05-06. Developed or used by League of Mandu, Hadrian Duval,
   Natalia Lee. Admiral Natalia Lee of the Harmony's Shield declares the Federation
   will enact justice for the NMLA bombings, while Hadrian Duval calls for Imperial
   defence under the Treaty of Paresa.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

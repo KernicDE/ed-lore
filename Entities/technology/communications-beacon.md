@@ -5,7 +5,6 @@ type: technology
 first_seen_date: '3307-04-08'
 last_seen_date: '3307-06-11'
 mention_count: 5
-inara_url: https://inara.cz/elite/commodity/?search=Communications%20beacon
 bio: Communications beacon is a technology in the Elite Dangerous universe, mentioned
   from 3307-04-08 to 3307-06-11. Developed or used by Azimuth Biochemicals, Pilots
   Federation. A dormant communications beacon aboard the 200-year-old ghost ship Adamastor
@@ -13,6 +12,7 @@ bio: Communications beacon is a technology in the Elite Dangerous universe, ment
   interstellar signal. Commander Tyler Thorsen describes receiving a request to locate
   old signal beacons that could help find survivors from the megaship.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

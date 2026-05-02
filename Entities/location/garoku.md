@@ -19,11 +19,12 @@ population: 548112990
 security: High
 economy: Agriculture
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Garoku
+edsm_url: https://www.edsm.net/en/system/id/5823/name/Garoku
 inara_url: https://inara.cz/elite/starsystem/?search=Garoku
 bio: 'Garoku is a star system in the Elite Dangerous universe, significant from 3302-06-16
   to 3302-06-23. Associated with Utopia. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

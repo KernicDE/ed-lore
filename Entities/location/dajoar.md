@@ -22,7 +22,7 @@ population: 2752579715
 security: High
 economy: Agriculture
 second_economy: Industrial
-edsm_url: https://www.edsm.net/en/system?search=Dajoar
+edsm_url: https://www.edsm.net/en/system/id/15548/name/Dajoar
 inara_url: https://inara.cz/elite/starsystem/?search=Dajoar
 bio: Dajoar is a star system in the Elite Dangerous universe, significant from 3301-07-14
   to 3301-08-06. Associated with Newton Dock Medical. Chief Medical Officer Carl Simmons
@@ -31,6 +31,7 @@ bio: Dajoar is a star system in the Elite Dangerous universe, significant from 3
   and 20 Ophiuchi declared states of emergency due to the Cerberus Plague and called
   on bounty hunters and combat pilots to protect relief efforts.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

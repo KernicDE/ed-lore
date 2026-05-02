@@ -20,7 +20,7 @@ population: 4337438
 security: Anarchy
 economy: Industrial
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Balones
+edsm_url: https://www.edsm.net/en/system/id/10329/name/Balones
 inara_url: https://inara.cz/elite/starsystem/?search=Balones
 bio: Balones is a star system in the Elite Dangerous universe, significant from 3303-01-05
   to 3303-01-12. Associated with Balones Gold Touch Systems. Balones Gold Touch Systems
@@ -29,6 +29,7 @@ bio: Balones is a star system in the Elite Dangerous universe, significant from 
   Balones Gold Touch Systems' appeal for materials to build deep-space probes concludes
   successfully.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

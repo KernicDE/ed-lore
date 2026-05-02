@@ -19,12 +19,13 @@ population: 29524653
 security: Medium
 economy: Industrial
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Contiku
+edsm_url: https://www.edsm.net/en/system/id/13803/name/Contiku
 inara_url: https://inara.cz/elite/starsystem/?search=Contiku
 bio: Contiku is a star system in the Elite Dangerous universe, significant from 3301-08-22
   to 3301-08-22. Associated with Kumo Crew, Interstellar Press. The campaign successfully
   pushed Contiku into turmoil.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

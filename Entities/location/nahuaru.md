@@ -19,7 +19,7 @@ population: 6057723
 security: Medium
 economy: High Tech
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Nahuaru
+edsm_url: https://www.edsm.net/en/system/id/7866/name/Nahuaru
 inara_url: https://inara.cz/elite/starsystem/?search=Nahuaru
 bio: Nahuaru is a star system in the Elite Dangerous universe, significant from 3305-02-07
   to 3305-02-14. Associated with Holloway Bioscience Institute, Nahuaru Crimson Bridge
@@ -27,6 +27,7 @@ bio: Nahuaru is a star system in the Elite Dangerous universe, significant from 
   tantalum and exploration data to construct a xenological research centre in the
   Nahuaru system.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

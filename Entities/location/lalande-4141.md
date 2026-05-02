@@ -22,13 +22,14 @@ population: 4513309
 security: Low
 economy: Agriculture
 second_economy: Colony
-edsm_url: https://www.edsm.net/en/system?search=Lalande%204141
+edsm_url: https://www.edsm.net/en/system/id/6068/name/Lalande%204141
 inara_url: https://inara.cz/elite/starsystem/?search=Lalande%204141
 bio: Lalande 4141 is a star system in the Elite Dangerous universe, significant from
   3304-06-01 to 3304-06-03. Associated with Aegis, Federal Times. Admiral Aden Tanner
   tells the Federal Times that without this data, more starports would have been attacked,
   citing successful resistance in Lwalama and Lalande 4141 due to early warnings.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

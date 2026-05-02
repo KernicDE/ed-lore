@@ -22,13 +22,14 @@ population: 5796835958
 security: Medium
 economy: Agriculture
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Jang%20Di
+edsm_url: https://www.edsm.net/en/system/id/10860/name/Jang%20Di
 inara_url: https://inara.cz/elite/starsystem/?search=Jang%20Di
 bio: Jang Di is a star system in the Elite Dangerous universe, significant from 3301-08-20
   to 3301-08-20. Associated with Emperor's Dawn. Battle Weapons go to Saarinen Station
   in Kamcha, Ceremonial Heike Tea to Sikorsky Orbital in Jang Di, and Toxic Waste
   to Blaauw Port in Dinkas.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

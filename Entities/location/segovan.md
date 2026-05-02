@@ -22,7 +22,7 @@ population: 25064133
 security: Medium
 economy: Industrial
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Segovan
+edsm_url: https://www.edsm.net/en/system/id/3139/name/Segovan
 inara_url: https://inara.cz/elite/starsystem/?search=Segovan
 bio: 'Segovan is a system in Elite Dangerous, significant from 3302-07-07 to 3302-07-13.
   Associated with Federation, Future of Segovan, Empire. Notable events include: The
@@ -31,6 +31,7 @@ bio: 'Segovan is a system in Elite Dangerous, significant from 3302-07-07 to 330
   commanders known as Taskforce Athena has declared the Segovan system a no-fly zone
   and placed Ramsbottom Hub in lockd...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

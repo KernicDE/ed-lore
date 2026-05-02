@@ -5,11 +5,11 @@ type: technology
 first_seen_date: '3301-11-26'
 last_seen_date: '3301-11-26'
 mention_count: 1
-inara_url: https://inara.cz/elite/commodity/?search=holographic%20technology
 bio: 'holographic technology is a technology in the Elite Dangerous universe, mentioned
   from 3301-11-26 to 3301-11-26. Developed or used by Federal Times, Revolutionary
   Noti Values Party. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -22,7 +22,7 @@ population: 440244
 security: High
 economy: Agriculture
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Sothis
+edsm_url: https://www.edsm.net/en/system/id/29174/name/Sothis
 inara_url: https://inara.cz/elite/starsystem/?search=Sothis
 bio: 'Sothis is a system in Elite Dangerous, significant from 3301-09-25 to 3307-04-30.
   Associated with Sirius Corporation. Notable events include: This week''s major stories
@@ -31,6 +31,7 @@ bio: 'Sothis is a system in Elite Dangerous, significant from 3301-09-25 to 3307
   announced ambitious revitalization plans for systems brought under corporate control
   earlier in the year, includ...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

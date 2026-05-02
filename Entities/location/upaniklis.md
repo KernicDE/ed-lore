@@ -22,7 +22,7 @@ population: 7172144
 security: Medium
 economy: Military
 second_economy: Industrial
-edsm_url: https://www.edsm.net/en/system?search=Upaniklis
+edsm_url: https://www.edsm.net/en/system/id/6657/name/Upaniklis
 inara_url: https://inara.cz/elite/starsystem/?search=Upaniklis
 bio: 'Upaniklis is a system in Elite Dangerous, significant from 3305-11-08 to 3308-06-17.
   Associated with Upaniklis Vision Incorporated. Notable events include: An inhabited
@@ -30,6 +30,7 @@ bio: 'Upaniklis is a system in Elite Dangerous, significant from 3305-11-08 to 3
   hosts a week-long trillionaire celebration in Beta Hydri, requesting rare goods
   from pilots.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

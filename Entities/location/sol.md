@@ -22,7 +22,7 @@ population: 18320926115
 security: High
 economy: Refinery
 second_economy: Service
-edsm_url: https://www.edsm.net/en/system?search=Sol
+edsm_url: https://www.edsm.net/en/system/id/27/name/Sol
 inara_url: https://inara.cz/elite/starsystem/?search=Sol
 bio: 'Sol is a system in Elite Dangerous, significant from 3301-02-08 to 3311-12-18.
   Associated with Federal Times, Federal Navy. Notable events include: President Halsey
@@ -31,6 +31,7 @@ bio: 'Sol is a system in Elite Dangerous, significant from 3301-02-08 to 3311-12
   on Mars for Shadow President Zachary Hudson''s Vote of No Confidence against the
   Liberal Administration.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

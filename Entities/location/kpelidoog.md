@@ -19,7 +19,7 @@ population: 1015031687
 security: High
 economy: Industrial
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Kpelidoog
+edsm_url: https://www.edsm.net/en/system/id/16892/name/Kpelidoog
 inara_url: https://inara.cz/elite/starsystem/?search=Kpelidoog
 bio: Kpelidoog is a star system in the Elite Dangerous universe, significant from
   3303-08-22 to 3303-08-25. Associated with Kpelidoog Empire Assembly. The Kpelidoog
@@ -27,6 +27,7 @@ bio: Kpelidoog is a star system in the Elite Dangerous universe, significant fro
   research. The organisation has placed an open order for titanium, semiconductors
   and power generators for delivery to Hipparchus Terminal in the Kpelidoog system.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -22,13 +22,14 @@ population: 12958908273
 security: High
 economy: Agriculture
 second_economy: Tourism
-edsm_url: https://www.edsm.net/en/system?search=Rhea
+edsm_url: https://www.edsm.net/en/system/id/17719/name/Rhea
 inara_url: https://inara.cz/elite/starsystem/?search=Rhea
 bio: 'Rhea is a system in Elite Dangerous, significant from 3301-07-31 to 3311-05-15.
   Associated with Sirius Corporation. Notable events include: The Reorte Mining Coalition
   succeeds in forcing Sirius Corporation to withdraw from the Reorte system.; Sirius
   Corporation organises humanitarian support for the Didio system under Thargoid attack.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -22,7 +22,7 @@ population: 145173
 security: Anarchy
 economy: Industrial
 second_economy: High Tech
-edsm_url: https://www.edsm.net/en/system?search=Eurybia
+edsm_url: https://www.edsm.net/en/system/id/3013/name/Eurybia
 inara_url: https://inara.cz/elite/starsystem/?search=Eurybia
 bio: 'Eurybia is a system in Elite Dangerous, significant from 3303-09-22 to 3307-02-12.
   Associated with Eurybia Blue Mafia. Notable events include: Aegis recruits engineers
@@ -30,6 +30,7 @@ bio: 'Eurybia is a system in Elite Dangerous, significant from 3303-09-22 to 330
   against the Thargoids.; Aegis announces the successful conclusion of its appeal
   for Thargoid-related materials.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

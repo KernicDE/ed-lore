@@ -22,7 +22,7 @@ population: 3855056172
 security: High
 economy: Agriculture
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Lambda%20Andromedae
+edsm_url: https://www.edsm.net/en/system/id/18218/name/Lambda%20Andromedae
 inara_url: https://inara.cz/elite/starsystem/?search=Lambda%20Andromedae
 bio: Lambda Andromedae is a star system in the Elite Dangerous universe, significant
   from 3301-02-23 to 3301-02-28. Associated with Universal Cartographics, Sirius Corporation,
@@ -32,6 +32,7 @@ bio: Lambda Andromedae is a star system in the Elite Dangerous universe, signifi
   by explorers, with a deadline approaching for submissions to Nourse Orbital in Lambda
   Andromedae.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

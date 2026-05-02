@@ -18,7 +18,7 @@ population: 6274726
 security: Medium
 economy: High Tech
 second_economy: Industrial
-edsm_url: https://www.edsm.net/en/system?search=Carns
+edsm_url: https://www.edsm.net/en/system/id/2364/name/Carns
 inara_url: https://inara.cz/elite/starsystem/?search=Carns
 bio: Carns is a star system in the Elite Dangerous universe, significant from 3301-07-08
   to 3301-07-24. Associated with Humason Orbital. Humason Orbital in Carns announced
@@ -27,6 +27,7 @@ bio: Carns is a star system in the Elite Dangerous universe, significant from 33
   mining to high-tech, Deputy Communications Officer Ramon Lamor outlined plans to
   retrain or sell the system's imperial slave workforce.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

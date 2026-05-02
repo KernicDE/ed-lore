@@ -22,7 +22,7 @@ population: 27637512817
 security: Medium
 economy: Agriculture
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Blatrimpe
+edsm_url: https://www.edsm.net/en/system/id/17262/name/Blatrimpe
 inara_url: https://inara.cz/elite/starsystem/?search=Blatrimpe
 bio: Blatrimpe is a star system in the Elite Dangerous universe, significant from
   3304-07-05 to 3305-01-03. Associated with Bonespire Publishing, Federal Navy. Bonespire
@@ -30,6 +30,7 @@ bio: Blatrimpe is a star system in the Elite Dangerous universe, significant fro
   an urgent need for consumer technology, hardware diagnostic sensors, and computer
   components to be delivered to Boltzmann Hub in the Blatrimpe system.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

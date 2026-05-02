@@ -22,11 +22,12 @@ population: 351227
 security: Medium
 economy: Colony
 second_economy: Agriculture
-edsm_url: https://www.edsm.net/en/system?search=Wolf%20397
+edsm_url: https://www.edsm.net/en/system/id/2987/name/Wolf%20397
 inara_url: https://inara.cz/elite/starsystem/?search=Wolf%20397
 bio: Wolf 397 is a star system in the Elite Dangerous universe, significant from 3303-09-22
   to 3303-10-06. Associated with Aegis, Wolf 397 Independents, Federal Times.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

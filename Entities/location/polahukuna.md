@@ -21,7 +21,7 @@ population: 6942524
 security: Medium
 economy: Industrial
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Polahukuna
+edsm_url: https://www.edsm.net/en/system/id/7181/name/Polahukuna
 inara_url: https://inara.cz/elite/starsystem/?search=Polahukuna
 bio: Polahukuna is a star system in the Elite Dangerous universe, significant from
   3301-02-20 to 3301-02-20. Associated with Polahukuna Raiders, Federal Navy. Following
@@ -30,6 +30,7 @@ bio: Polahukuna is a star system in the Elite Dangerous universe, significant fr
   stated that the Federation will not allow terrorists to break its laws or brainwash
   its people, and that the Polahukuna Raiders must learn their actions have consequences.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

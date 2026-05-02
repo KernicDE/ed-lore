@@ -15,7 +15,7 @@ coords:
   x: 818.25
   y: 99.59375
   z: -1944.375
-edsm_url: https://www.edsm.net/en/system?search=Cone%20Sector%20FN-J%20B9-0
+edsm_url: https://www.edsm.net/en/system/id/28107130/name/Cone%20Sector%20FN-J%20B9-0
 inara_url: https://inara.cz/elite/starsystem/?search=Cone%20Sector%20FN-J%20B9-0
 bio: Cone Sector FN-J B9-0 is a star system in the Elite Dangerous universe, significant
   from 3304-08-30 to 3304-09-07. Associated with Canonn Interstellar Research Group,
@@ -24,6 +24,7 @@ bio: Cone Sector FN-J B9-0 is a star system in the Elite Dangerous universe, sig
   of the Canonn Interstellar Research Group, is left stranded after a Thargoid hyperdiction
   during a jump toward the Cone Sector FN-J B9-0 system.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -22,11 +22,12 @@ population: 232008
 security: Low
 economy: Refinery
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Ninabin
+edsm_url: https://www.edsm.net/en/system/id/2593/name/Ninabin
 inara_url: https://inara.cz/elite/starsystem/?search=Ninabin
 bio: 'Ninabin is a star system in the Elite Dangerous universe, significant from 3306-09-21
   to 3306-10-01. Associated with Pilots Federation. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

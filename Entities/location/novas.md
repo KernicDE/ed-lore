@@ -22,7 +22,7 @@ population: 4993114443
 security: High
 economy: Industrial
 second_economy: Agriculture
-edsm_url: https://www.edsm.net/en/system?search=Novas
+edsm_url: https://www.edsm.net/en/system/id/17272/name/Novas
 inara_url: https://inara.cz/elite/starsystem/?search=Novas
 bio: 'Novas is a system in Elite Dangerous, significant from 3302-11-03 to 3308-06-29.
   Associated with Salvation, Alliance, Imperial Navy. Notable events include: Thargoid
@@ -30,6 +30,7 @@ bio: 'Novas is a system in Elite Dangerous, significant from 3302-11-03 to 3308-
   at risk.; Sirius Corporation claims the Thargoid incursions prove the necessity
   of its strategic defence pact with the Alliance.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -18,13 +18,14 @@ population: 564373351
 security: Medium
 economy: Agriculture
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Dulos
+edsm_url: https://www.edsm.net/en/system/id/13122/name/Dulos
 inara_url: https://inara.cz/elite/starsystem/?search=Dulos
 bio: Dulos is a star system in the Elite Dangerous universe, significant from 3308-01-11
   to 3308-01-20. Senator Zemina Torval's company bids to acquire a mining contract
   from Caine-Massey in the Dulos system. Caine-Massey and Torval Mining Ltd compete
   for a decade-long mining contract in the Dulos system.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

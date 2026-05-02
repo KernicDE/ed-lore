@@ -22,13 +22,14 @@ population: 25079107
 security: Medium
 economy: Military
 second_economy: Service
-edsm_url: https://www.edsm.net/en/system?search=Summerland
+edsm_url: https://www.edsm.net/en/system/id/8064/name/Summerland
 inara_url: https://inara.cz/elite/starsystem/?search=Summerland
 bio: 'Summerland is a system in Elite Dangerous, significant from 3301-05-11 to 3308-02-24.
   Notable events include: Emperor Arissa Lavigny-Duval is rescued after being secretly
   imprisoned by Darkwater Inc for nearly a year.; The Empire declares Darkwater Inc
   a hostile military target for abducting Emperor Arissa.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

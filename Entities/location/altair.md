@@ -22,7 +22,7 @@ population: 14696030
 security: High
 economy: Industrial
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Altair
+edsm_url: https://www.edsm.net/en/system/id/8228/name/Altair
 inara_url: https://inara.cz/elite/starsystem/?search=Altair
 bio: 'Altair is a system in Elite Dangerous, significant from 3301-02-14 to 3308-05-19.
   Associated with Core Dynamics. Notable events include: Weekly summary covering the
@@ -30,6 +30,7 @@ bio: 'Altair is a system in Elite Dangerous, significant from 3301-02-14 to 3308
   of Eternal Void being declared illegal...; Fresh outbreaks of the Cerberus Plague
   are appearing in new systems while medical teams work to deliver antidotes elsewhere.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

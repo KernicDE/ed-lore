@@ -5,7 +5,6 @@ type: technology
 first_seen_date: '3303-12-17'
 last_seen_date: '3303-12-22'
 mention_count: 2
-inara_url: https://inara.cz/elite/commodity/?search=Type-10%20Defender
 bio: Type-10 Defender is a technology in the Elite Dangerous universe, mentioned from
   3303-12-17 to 3303-12-22. Developed or used by Lakon Spaceways, Alliance. The Alliance
   has commissioned Lakon Spaceways to produce the Type-10 Defender, a comprehensive
@@ -13,6 +12,7 @@ bio: Type-10 Defender is a technology in the Elite Dangerous universe, mentioned
   Lakon Spaceways has announced that the Type-10 Defender is now available to the
   public.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

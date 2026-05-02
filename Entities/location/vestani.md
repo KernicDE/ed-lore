@@ -19,7 +19,7 @@ population: 13237812
 security: High
 economy: Industrial
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Vestani
+edsm_url: https://www.edsm.net/en/system/id/19019/name/Vestani
 inara_url: https://inara.cz/elite/starsystem/?search=Vestani
 bio: Vestani is a star system in the Elite Dangerous universe, significant from 3303-02-09
   to 3303-02-16. Associated with Vestani Conservatives. Vestani Conservatives' Valentine's
@@ -28,6 +28,7 @@ bio: Vestani is a star system in the Elite Dangerous universe, significant from 
   including Thrutis Cream, Deuringas Truffles and Esuseku Caviar to meet Valentine's
   Day demand.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -22,7 +22,7 @@ population: 18561459277
 security: High
 economy: Agriculture
 second_economy: Industrial
-edsm_url: https://www.edsm.net/en/system?search=Aeternitas
+edsm_url: https://www.edsm.net/en/system/id/1592/name/Aeternitas
 inara_url: https://inara.cz/elite/starsystem/?search=Aeternitas
 bio: Aeternitas is a star system in the Elite Dangerous universe, significant from
   3302-12-08 to 3304-06-10. Associated with Aeternitas Industries, INRA, League of
@@ -32,6 +32,7 @@ bio: Aeternitas is a star system in the Elite Dangerous universe, significant fr
   system of agitators with the help of hundreds of pilots, and rewards are now available
   at Houtman City.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

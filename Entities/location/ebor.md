@@ -22,7 +22,7 @@ population: 20519241
 security: Medium
 economy: Industrial
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Ebor
+edsm_url: https://www.edsm.net/en/system/id/3801/name/Ebor
 inara_url: https://inara.cz/elite/starsystem/?search=Ebor
 bio: Ebor is a star system in the Elite Dangerous universe, significant from 3304-07-13
   to 3304-07-22. Associated with Cobra Wing. Cobra Wing launches an initiative to
@@ -30,6 +30,7 @@ bio: Ebor is a star system in the Elite Dangerous universe, significant from 330
   communication research. Cobra Wing announces its Ebor research outpost campaign
   was enthusiastically received.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

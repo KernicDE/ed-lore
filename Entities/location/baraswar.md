@@ -22,11 +22,12 @@ population: 3141624
 security: Anarchy
 economy: Industrial
 second_economy: Colony
-edsm_url: https://www.edsm.net/en/system?search=Baraswar
+edsm_url: https://www.edsm.net/en/system/id/8596/name/Baraswar
 inara_url: https://inara.cz/elite/starsystem/?search=Baraswar
 bio: 'Baraswar is a star system in the Elite Dangerous universe, significant from
   3307-07-23 to 3307-07-23. Associated with Vox Galactica, Kumo Crew. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

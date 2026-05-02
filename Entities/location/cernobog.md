@@ -18,13 +18,14 @@ population: 23191719
 security: Medium
 economy: High Tech
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Cernobog
+edsm_url: https://www.edsm.net/en/system/id/13259/name/Cernobog
 inara_url: https://inara.cz/elite/starsystem/?search=Cernobog
 bio: Cernobog is a star system in the Elite Dangerous universe, significant from 3302-08-25
   to 3302-08-25. Associated with Buckyball Racing Club. The Buckyball Racing Club
   announced the Total Recall 2 race in the Cernobog system to demonstrate the durability
   of TrakMark SRV tyres.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -21,7 +21,7 @@ population: 18086109
 security: Medium
 economy: Industrial
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Sutekh
+edsm_url: https://www.edsm.net/en/system/id/4714/name/Sutekh
 inara_url: https://inara.cz/elite/starsystem/?search=Sutekh
 bio: Sutekh is a star system in the Elite Dangerous universe, significant from 3303-02-16
   to 3303-02-23. Associated with Adad Exchange, United Sutekh Future, Federation.
@@ -31,6 +31,7 @@ bio: Sutekh is a star system in the Elite Dangerous universe, significant from 3
   forces from recovering sensitive Federal military intelligence from a destroyed
   convoy.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

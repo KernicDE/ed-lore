@@ -18,12 +18,13 @@ population: 10012395
 security: Low
 economy: Tourism
 second_economy: Industrial
-edsm_url: https://www.edsm.net/en/system?search=Phekda
+edsm_url: https://www.edsm.net/en/system/id/10054/name/Phekda
 inara_url: https://inara.cz/elite/starsystem/?search=Phekda
 bio: Phekda is a star system in the Elite Dangerous universe, significant from 3305-08-10
   to 3305-08-10. Associated with Alliance. The Alliance Festival of Culture's third
   week features a massive music festival in the Phekda system.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

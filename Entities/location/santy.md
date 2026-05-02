@@ -21,12 +21,13 @@ population: 89672
 security: Medium
 economy: Military
 second_economy: Industrial
-edsm_url: https://www.edsm.net/en/system?search=Santy
+edsm_url: https://www.edsm.net/en/system/id/7392/name/Santy
 inara_url: https://inara.cz/elite/starsystem/?search=Santy
 bio: Santy is a star system in the Elite Dangerous universe, significant from 3311-07-17
   to 3311-07-17. Associated with Sirius Corporation. Aisling retained Daikulcandi
   but lost Gondul and Santy.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

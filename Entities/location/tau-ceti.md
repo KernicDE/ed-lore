@@ -22,12 +22,13 @@ population: 5000152143
 security: High
 economy: Extraction
 second_economy: Agriculture
-edsm_url: https://www.edsm.net/en/system?search=Tau%20Ceti
+edsm_url: https://www.edsm.net/en/system/id/1293/name/Tau%20Ceti
 inara_url: https://inara.cz/elite/starsystem/?search=Tau%20Ceti
 bio: Tau Ceti is a star system in the Elite Dangerous universe, significant from 3301-07-05
   to 3307-04-13. In 2242, the Federation Accord united many colonies, with Taylor
   Colony in Tau Ceti becoming the first signatory outside Sol.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

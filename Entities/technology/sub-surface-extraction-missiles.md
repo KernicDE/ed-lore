@@ -5,7 +5,6 @@ type: technology
 first_seen_date: '3309-10-05'
 last_seen_date: '3309-10-30'
 mention_count: 3
-inara_url: https://inara.cz/elite/commodity/?search=sub-surface%20extraction%20missiles
 bio: sub-surface extraction missiles is a technology in the Elite Dangerous universe,
   mentioned from 3309-10-05 to 3309-10-30. Developed or used by Aegis, Aden Tanner.
   Aegis deploys sub-surface extraction missiles to rescue captives from Thargoid Titans,
@@ -13,6 +12,7 @@ bio: sub-surface extraction missiles is a technology in the Elite Dangerous univ
   from Thargoid Titans arrive and survive extraction, with Dr Grey observing their
   physical and psychological state.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

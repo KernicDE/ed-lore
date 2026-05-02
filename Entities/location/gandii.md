@@ -22,7 +22,7 @@ population: 39892034
 security: Medium
 economy: Industrial
 second_economy: Colony
-edsm_url: https://www.edsm.net/en/system?search=Gandii
+edsm_url: https://www.edsm.net/en/system/id/6795/name/Gandii
 inara_url: https://inara.cz/elite/starsystem/?search=Gandii
 bio: Gandii is a star system in the Elite Dangerous universe, significant from 3301-06-05
   to 3303-04-14. Associated with Hand Gang of Gandii, Kumo Crew. The Hand Gang of
@@ -31,6 +31,7 @@ bio: Gandii is a star system in the Elite Dangerous universe, significant from 3
   The Hand Gang of Gandii and Camorra of Krisha's call for Kumo Crew allies yielded
   disappointing recruitment.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -22,13 +22,14 @@ population: 1520811
 security: Low
 economy: High Tech
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Tarach%20Tor
+edsm_url: https://www.edsm.net/en/system/id/8350/name/Tarach%20Tor
 inara_url: https://inara.cz/elite/starsystem/?search=Tarach%20Tor
 bio: Tarach Tor is a star system in the Elite Dangerous universe, significant from
   3303-11-17 to 3303-11-24. Associated with Independent Leesti for Equality, Guardians
   of Tranquillity. Spokesperson General Hunter O'Brien stated the festival will showcase
   regional cuisine and libations from Tarach Tor's vineyards and breweries.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

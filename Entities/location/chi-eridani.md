@@ -16,12 +16,13 @@ population: 2534904
 security: Medium
 economy: Agriculture
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Chi%20Eridani
+edsm_url: https://www.edsm.net/en/system/id/13353/name/Chi%20Eridani
 inara_url: https://inara.cz/elite/starsystem/?search=Chi%20Eridani
 bio: Chi Eridani is a star system in the Elite Dangerous universe, significant from
   3311-04-03 to 3311-04-03. Imperial agents spark combat between Jerome Archer and
   Denton Patreus supporters in the Federally controlled Chi Eridani system.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

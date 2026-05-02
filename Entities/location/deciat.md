@@ -22,13 +22,14 @@ population: 31778844
 security: High
 economy: Industrial
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Deciat
+edsm_url: https://www.edsm.net/en/system/id/1547/name/Deciat
 inara_url: https://inara.cz/elite/starsystem/?search=Deciat
 bio: Deciat is a star system in the Elite Dangerous universe, significant from 3304-06-29
   to 3304-07-01. Associated with Aegis. Aegis confirms Thargoids have returned to
   the core systems with an incursion into Deciat. Admiral Aden Tanner reports Eagle
   Eye data shows Thargoid surface sites have reactivated, pinpointing Deciat.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

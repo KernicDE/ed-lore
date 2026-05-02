@@ -22,11 +22,12 @@ population: 9000007098
 security: High
 economy: Agriculture
 second_economy: Colony
-edsm_url: https://www.edsm.net/en/system?search=Eta%20Cassiopeiae
+edsm_url: https://www.edsm.net/en/system/id/10516/name/Eta%20Cassiopeiae
 inara_url: https://inara.cz/elite/starsystem/?search=Eta%20Cassiopeiae
 bio: Eta Cassiopeiae is a star system in the Elite Dangerous universe, significant
   from 3308-08-02 to 3310-12-18. Associated with Aegis.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -22,13 +22,14 @@ population: 444782
 security: Medium
 economy: Extraction
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Robigo
+edsm_url: https://www.edsm.net/en/system/id/27302/name/Robigo
 inara_url: https://inara.cz/elite/starsystem/?search=Robigo
 bio: 'Robigo is a system in Elite Dangerous, significant from 3301-10-15 to 3302-05-20.
   Notable events include: The technological plague continues to affect starports across
   inhabited space.; Several starports previously closed due to Unknown Artefact-related
   interference have been restored through the application of meta-alloys.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

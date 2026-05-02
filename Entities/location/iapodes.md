@@ -22,11 +22,12 @@ population: 154301
 security: Low
 economy: Refinery
 second_economy: Terraforming
-edsm_url: https://www.edsm.net/en/system?search=Iapodes
+edsm_url: https://www.edsm.net/en/system/id/19959/name/Iapodes
 inara_url: https://inara.cz/elite/starsystem/?search=Iapodes
 bio: Iapodes is a star system in the Elite Dangerous universe, significant from 3301-11-19
   to 3302-02-24.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

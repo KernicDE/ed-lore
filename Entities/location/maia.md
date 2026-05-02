@@ -22,7 +22,7 @@ population: 139152
 security: High
 economy: Industrial
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Maia
+edsm_url: https://www.edsm.net/en/system/id/25341/name/Maia
 inara_url: https://inara.cz/elite/starsystem/?search=Maia
 bio: 'Maia is a system in Elite Dangerous, significant from 3301-07-10 to 3308-09-01.
   Associated with Pleiades Resource Enterprise, Aegis. Notable events include: Dr
@@ -31,6 +31,7 @@ bio: 'Maia is a system in Elite Dangerous, significant from 3301-07-10 to 3308-0
   Research Group decoded part of the transmissions from Unknown Artefacts (AEOs),
   discovering they contain schematic diagrams...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

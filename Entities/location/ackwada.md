@@ -22,7 +22,7 @@ population: 90021259
 security: Medium
 economy: Extraction
 second_economy: Agriculture
-edsm_url: https://www.edsm.net/en/system?search=Ackwada
+edsm_url: https://www.edsm.net/en/system/id/5464/name/Ackwada
 inara_url: https://inara.cz/elite/starsystem/?search=Ackwada
 bio: Ackwada is a star system in the Elite Dangerous universe, significant from 3306-09-30
   to 3306-10-14. Associated with Imperial Internal Security Service, Duduseklis Empire
@@ -30,6 +30,7 @@ bio: Ackwada is a star system in the Elite Dangerous universe, significant from 
   Nahuatl. The Empire targets the Duduseklis Empire League in Ackwada, suspecting
   it of NMLA recruitment.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -22,13 +22,14 @@ population: 150000000
 security: Medium
 economy: Service
 second_economy: None
-edsm_url: https://www.edsm.net/en/system?search=39%20Tauri
+edsm_url: https://www.edsm.net/en/system/id/8642/name/39%20Tauri
 inara_url: https://inara.cz/elite/starsystem/?search=39%20Tauri
 bio: 39 Tauri is a star system in the Elite Dangerous universe, significant from 3301-07-09
   to 3301-08-06. Associated with Utopia. Newly affected systems include Altair, 39
   Tauri, Kamorin, Delta Phoenicis, Kappa Ophiuchi, Murung, LTT 14850, Gali, Cauani,
   LTT 6705, Watha, Asgaa, and Svent.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

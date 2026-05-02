@@ -5,7 +5,6 @@ type: technology
 first_seen_date: '3310-10-15'
 last_seen_date: '3310-10-31'
 mention_count: 2
-inara_url: https://inara.cz/elite/commodity/?search=Mandalay
 bio: Mandalay is a technology in the Elite Dangerous universe, mentioned from 3310-10-15
   to 3310-10-31. Developed or used by Devin Kaneda, Zorgon Peterson, Faulcon DeLacy.
   Zorgon Peterson unveils the Mandalay, its first new vessel in six years, designed
@@ -14,6 +13,7 @@ bio: Mandalay is a technology in the Elite Dangerous universe, mentioned from 33
   SCO frame shift drive, is now available for purchase at shipyards across the core
   systems.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

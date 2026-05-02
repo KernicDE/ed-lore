@@ -20,12 +20,13 @@ population: 44070788
 security: Medium
 economy: High Tech
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Lembava
+edsm_url: https://www.edsm.net/en/system/id/13579/name/Lembava
 inara_url: https://inara.cz/elite/starsystem/?search=Lembava
 bio: Lembava is a star system in the Elite Dangerous universe, significant from 3301-07-07
   to 3301-07-07. Associated with Sirius Corporation, Utopia. Freelance commanders
   can sign the pact in Lembava or Polevnic.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

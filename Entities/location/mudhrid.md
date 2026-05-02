@@ -22,7 +22,7 @@ population: 10738806
 security: High
 economy: Industrial
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Mudhrid
+edsm_url: https://www.edsm.net/en/system/id/11393/name/Mudhrid
 inara_url: https://inara.cz/elite/starsystem/?search=Mudhrid
 bio: 'Mudhrid is a system in Elite Dangerous, significant from 3307-04-01 to 3307-12-31.
   Associated with NMLA, Neo-Marlinist Order of Mudhrid, Marlinist Colonies. Notable
@@ -31,6 +31,7 @@ bio: 'Mudhrid is a system in Elite Dangerous, significant from 3307-04-01 to 330
   Fornacis Empire Group attacks the Neo-Marlinist Order of Mudhrid after ACT confirms
   the faction provided logistical support for the NML...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

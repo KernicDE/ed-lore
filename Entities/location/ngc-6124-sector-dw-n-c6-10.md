@@ -9,12 +9,13 @@ coords:
   x: 477.65625
   y: 19.125
   z: 1650.40625
-edsm_url: https://www.edsm.net/en/system?search=NGC%206124%20SECTOR%20DW-N%20C6-10
+edsm_url: https://www.edsm.net/en/system/id/30672704/name/NGC%206124%20SECTOR%20DW-N%20C6-10
 inara_url: https://inara.cz/elite/starsystem/?search=NGC%206124%20SECTOR%20DW-N%20C6-10
 bio: NGC 6124 SECTOR DW-N C6-10 is a star system in the Elite Dangerous universe,
   significant from 3301-04-25 to 3301-04-25. survived warping into the corona of the
   'B' Star in NGC 6124 SECTOR DW-N C6-10, which is abnormally close to the 'A' Star.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

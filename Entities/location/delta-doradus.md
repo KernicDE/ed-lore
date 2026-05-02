@@ -19,13 +19,14 @@ population: 5206335
 security: High
 economy: Industrial
 second_economy: Colony
-edsm_url: https://www.edsm.net/en/system?search=Delta%20Doradus
+edsm_url: https://www.edsm.net/en/system/id/8857/name/Delta%20Doradus
 inara_url: https://inara.cz/elite/starsystem/?search=Delta%20Doradus
 bio: Delta Doradus is a star system in the Elite Dangerous universe, significant from
   3301-10-29 to 3301-10-29. Associated with Kumo Crew. Evidence pointed to growing
   corruption in the Delta Doradus region, with disturbing correlations to Kumo Crew
   influence in systems they sought to overthrow.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

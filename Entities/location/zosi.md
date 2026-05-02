@@ -19,7 +19,7 @@ population: 4366492
 security: Medium
 economy: Industrial
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Zosi
+edsm_url: https://www.edsm.net/en/system/id/13695/name/Zosi
 inara_url: https://inara.cz/elite/starsystem/?search=Zosi
 bio: Zosi is a star system in the Elite Dangerous universe, significant from 3302-11-10
   to 3302-11-17. Associated with Zosi Major Corporation. The Zosi Major Corporation
@@ -28,6 +28,7 @@ bio: Zosi is a star system in the Elite Dangerous universe, significant from 330
   organisation's chief research scientist, confirmed participating pilots should deliver
   resources to Citi Enterprise in the Zosi system.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

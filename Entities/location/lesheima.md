@@ -22,11 +22,12 @@ population: 19275935
 security: Medium
 economy: Industrial
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Lesheima
+edsm_url: https://www.edsm.net/en/system/id/5059/name/Lesheima
 inara_url: https://inara.cz/elite/starsystem/?search=Lesheima
 bio: 'Lesheima is a star system in the Elite Dangerous universe, significant from
   3308-04-28 to 3308-05-12. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

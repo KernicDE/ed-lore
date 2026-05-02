@@ -21,11 +21,12 @@ population: 265876
 security: Medium
 economy: Colony
 second_economy: Agriculture
-edsm_url: https://www.edsm.net/en/system?search=Aerial
+edsm_url: https://www.edsm.net/en/system/id/1055/name/Aerial
 inara_url: https://inara.cz/elite/starsystem/?search=Aerial
 bio: 'Aerial is a star system in the Elite Dangerous universe, significant from 3307-02-18
   to 3307-02-25. Associated with Alliance, Sirius Corporation. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -22,7 +22,7 @@ population: 2051044702
 security: High
 economy: Agriculture
 second_economy: Industrial
-edsm_url: https://www.edsm.net/en/system?search=Aranbarahun
+edsm_url: https://www.edsm.net/en/system/id/10473/name/Aranbarahun
 inara_url: https://inara.cz/elite/starsystem/?search=Aranbarahun
 bio: 'Aranbarahun is a system in Elite Dangerous, significant from 3304-06-30 to 3304-08-12.
   Associated with Aranbarahun Purple Creative, League of Reparation. Notable events
@@ -31,6 +31,7 @@ bio: 'Aranbarahun is a system in Elite Dangerous, significant from 3304-06-30 to
   on Aisling Duval, Riri McAllister being shot during her trial, the FIA investigation
   into ...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -14,15 +14,16 @@ coords:
 allegiance: Independent
 government: Anarchy
 controlling_faction: Space Tourism Action Board
-population: 65320760
+population: 65324262
 security: Anarchy
 economy: High Tech
 second_economy: Tourism
-edsm_url: https://www.edsm.net/en/system?search=Lalande%2025224
+edsm_url: https://www.edsm.net/en/system/id/1011603/name/Lalande%2025224
 inara_url: https://inara.cz/elite/starsystem/?search=Lalande%2025224
 bio: 'Lalande 25224 is a star system in the Elite Dangerous universe, significant
   from 3311-03-24 to 3311-03-24. Associated with Brewer Corporation. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

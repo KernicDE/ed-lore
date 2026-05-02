@@ -21,13 +21,14 @@ population: 74830
 security: Low
 economy: Agriculture
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Ngaliba
+edsm_url: https://www.edsm.net/en/system/id/5120/name/Ngaliba
 inara_url: https://inara.cz/elite/starsystem/?search=Ngaliba
 bio: Ngaliba is a star system in the Elite Dangerous universe, significant from 3301-06-22
   to 3301-06-22. Associated with Adle's Armada, Federation. They will now operate
   as their own power primarily in Ngaliba, Mbukuravi, and Kremainn, creating their
   own governance system.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

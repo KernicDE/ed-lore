@@ -22,7 +22,7 @@ population: 6342671
 security: Medium
 economy: Refinery
 second_economy: Industrial
-edsm_url: https://www.edsm.net/en/system?search=Rishair
+edsm_url: https://www.edsm.net/en/system/id/10937/name/Rishair
 inara_url: https://inara.cz/elite/starsystem/?search=Rishair
 bio: Rishair is a star system in the Elite Dangerous universe, significant from 3301-07-05
   to 3301-08-14. Associated with Emperor's Grace, Imperial Navy, Aisling's Angels.
@@ -31,6 +31,7 @@ bio: Rishair is a star system in the Elite Dangerous universe, significant from 
   Inquisition will meet Admiral Varrwen Mako Brennus of Emperor’s Grace at Lindblad
   Port in Rishair.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

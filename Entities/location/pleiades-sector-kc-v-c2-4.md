@@ -21,7 +21,7 @@ controlling_faction: Operation Ida
 population: 1200000
 security: Medium
 economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Pleiades%20Sector%20KC-V%20c2-4
+edsm_url: https://www.edsm.net/en/system/id/214029/name/Pleiades%20Sector%20KC-V%20c2-4
 inara_url: https://inara.cz/elite/starsystem/?search=Pleiades%20Sector%20KC-V%20c2-4
 bio: Pleiades Sector KC-V c2-4 is a star system in the Elite Dangerous universe, significant
   from 3304-03-10 to 3304-03-10. Aegis has launched the Eagle Eye initiative to monitor
@@ -29,6 +29,7 @@ bio: Pleiades Sector KC-V c2-4 is a star system in the Elite Dangerous universe,
   17692, HIP 17892, HR 1185, Pleiades Sector IR-W d1-55, and Pleiades Sector KC-V
   c2-4.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

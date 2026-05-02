@@ -22,7 +22,7 @@ population: 26601150
 security: Anarchy
 economy: Industrial
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Zibal
+edsm_url: https://www.edsm.net/en/system/id/8321/name/Zibal
 inara_url: https://inara.cz/elite/starsystem/?search=Zibal
 bio: Zibal is a star system in the Elite Dangerous universe, significant from 3304-07-20
   to 3304-07-27. Associated with League of Reparation. The tri-superpower taskforce
@@ -30,6 +30,7 @@ bio: Zibal is a star system in the Elite Dangerous universe, significant from 33
   The operation in Zibal is coordinated by Zibal Power Co, while Ienpalang Corporation
   supports action in Ienpalang.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

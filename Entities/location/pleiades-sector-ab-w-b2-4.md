@@ -22,7 +22,7 @@ population: 26652
 security: High
 economy: Military
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Pleiades%20Sector%20AB-W%20B2-4
+edsm_url: https://www.edsm.net/en/system/id/315359/name/Pleiades%20Sector%20AB-W%20B2-4
 inara_url: https://inara.cz/elite/starsystem/?search=Pleiades%20Sector%20AB-W%20B2-4
 bio: 'Pleiades Sector AB-W B2-4 is a system in Elite Dangerous, significant from 3302-08-31
   to 3303-10-14. Associated with Federation, Empire. Notable events include: Independent
@@ -31,6 +31,7 @@ bio: 'Pleiades Sector AB-W B2-4 is a system in Elite Dangerous, significant from
   Imperial deputation including a Majestic-class Interdictor to the Pleiades Sector
   AB-W B2-4 system over the non-human shipwr...'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

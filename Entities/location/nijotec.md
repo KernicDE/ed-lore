@@ -22,13 +22,14 @@ population: 31326
 security: Low
 economy: Colony
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Nijotec
+edsm_url: https://www.edsm.net/en/system/id/15141/name/Nijotec
 inara_url: https://inara.cz/elite/starsystem/?search=Nijotec
 bio: Nijotec is a star system in the Elite Dangerous universe, significant from 3301-02-20
   to 3301-02-20. Associated with Federal Navy, Lycan Moon Mining Corporation, Federal
   Congress. Nijotec, home to 21,500 people, was once rich in minerals but has been
   strip-mined to near exhaustion.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

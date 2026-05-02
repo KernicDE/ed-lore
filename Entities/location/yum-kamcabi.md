@@ -20,7 +20,7 @@ population: 246938
 security: Medium
 economy: Refinery
 second_economy: Terraforming
-edsm_url: https://www.edsm.net/en/system?search=Yum%20Kamcabi
+edsm_url: https://www.edsm.net/en/system/id/9040/name/Yum%20Kamcabi
 inara_url: https://inara.cz/elite/starsystem/?search=Yum%20Kamcabi
 bio: Yum Kamcabi is a star system in the Elite Dangerous universe, significant from
   3303-02-02 to 3303-04-06. Associated with Yum Kamcabi Purple Life Industry, Revolutionary
@@ -28,6 +28,7 @@ bio: Yum Kamcabi is a star system in the Elite Dangerous universe, significant f
   Former Federal President Jasmina Halsey appealed for relief for refugees at Dirichlet
   Orbital in the Yum Kamcabi system.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

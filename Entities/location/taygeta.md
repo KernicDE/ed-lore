@@ -22,7 +22,7 @@ population: 1212636
 security: Medium
 economy: Extraction
 second_economy: Agriculture
-edsm_url: https://www.edsm.net/en/system?search=Taygeta
+edsm_url: https://www.edsm.net/en/system/id/25809/name/Taygeta
 inara_url: https://inara.cz/elite/starsystem/?search=Taygeta
 bio: Taygeta is a star system in the Elite Dangerous universe, significant from 3303-12-02
   to 3303-12-21. Associated with Aegis. The affected stations are Titan's Daughter
@@ -30,6 +30,7 @@ bio: Taygeta is a star system in the Elite Dangerous universe, significant from 
   Following the Thargoid attacks on three starports in the Pleiades, authorities in
   the Taygeta system have urged the public not to panic.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -22,11 +22,12 @@ population: 5154485
 security: Medium
 economy: Industrial
 second_economy: Colony
-edsm_url: https://www.edsm.net/en/system?search=Turot
+edsm_url: https://www.edsm.net/en/system/id/2132/name/Turot
 inara_url: https://inara.cz/elite/starsystem/?search=Turot
 bio: 'Turot is a star system in the Elite Dangerous universe, significant from 3302-07-18
   to 3302-07-18. Associated with Buckyball Racing Club, Ex Luna Scientia. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

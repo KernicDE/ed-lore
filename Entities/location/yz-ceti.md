@@ -18,11 +18,12 @@ population: 7654650
 security: High
 economy: High Tech
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=YZ%20Ceti
+edsm_url: https://www.edsm.net/en/system/id/16912/name/YZ%20Ceti
 inara_url: https://inara.cz/elite/starsystem/?search=YZ%20Ceti
 bio: 'YZ Ceti is a star system in the Elite Dangerous universe, significant from 3310-02-15
   to 3310-02-26. Associated with Aegis. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -20,7 +20,7 @@ population: 4196380
 security: High
 economy: Service
 second_economy: High Tech
-edsm_url: https://www.edsm.net/en/system?search=Synuefe%20EN-H%20d11-96
+edsm_url: https://www.edsm.net/en/system/id/9760904/name/Synuefe%20EN-H%20d11-96
 inara_url: https://inara.cz/elite/starsystem/?search=Synuefe%20EN-H%20d11-96
 bio: Synuefe EN-H d11-96 is a star system in the Elite Dangerous universe, significant
   from 3305-05-09 to 3305-05-30. Associated with Zende Partners, Segnen Exchange.
@@ -30,6 +30,7 @@ bio: Synuefe EN-H d11-96 is a star system in the Elite Dangerous universe, signi
   in Synuefe EN-H d11-96, securing control of both outposts and beginning manufacture
   of the Advanced Multi-cannon at The Prospect.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

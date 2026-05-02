@@ -22,7 +22,7 @@ population: 23834536
 security: Medium
 economy: Industrial
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Loha
+edsm_url: https://www.edsm.net/en/system/id/6218/name/Loha
 inara_url: https://inara.cz/elite/starsystem/?search=Loha
 bio: Loha is a star system in the Elite Dangerous universe, significant from 3304-11-22
   to 3304-12-01. Associated with New Loha Party, Loha Holdings, Sirius Corporation.
@@ -30,6 +30,7 @@ bio: Loha is a star system in the Elite Dangerous universe, significant from 330
   A long-standing rivalry between Loha Holdings and the New Loha Party in the Loha
   system erupts into full-scale conflict.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

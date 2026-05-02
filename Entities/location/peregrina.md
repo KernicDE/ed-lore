@@ -22,11 +22,12 @@ population: 18503
 security: Low
 economy: Extraction
 second_economy: Colony
-edsm_url: https://www.edsm.net/en/system?search=Peregrina
+edsm_url: https://www.edsm.net/en/system/id/11593/name/Peregrina
 inara_url: https://inara.cz/elite/starsystem/?search=Peregrina
 bio: Peregrina is a star system in the Elite Dangerous universe, significant from
   3302-01-04 to 3302-02-24.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -22,12 +22,13 @@ population: 145825
 security: High
 economy: Agriculture
 second_economy: None
-edsm_url: https://www.edsm.net/en/system?search=Haki
+edsm_url: https://www.edsm.net/en/system/id/47661996/name/Haki
 inara_url: https://inara.cz/elite/starsystem/?search=Haki
 bio: Haki is a star system in the Elite Dangerous universe, significant from 3306-10-15
   to 3306-10-15. Associated with Pilots Federation, Alliance. Thargoids reappear in
   the Witch Head Nebula, swarming through Onoros, Lembass, Haki, Wellington and Shenve.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -19,7 +19,7 @@ population: 3338260230
 security: High
 economy: Agriculture
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system?search=Secoya
+edsm_url: https://www.edsm.net/en/system/id/6850/name/Secoya
 inara_url: https://inara.cz/elite/starsystem/?search=Secoya
 bio: Secoya is a star system in the Elite Dangerous universe, significant from 3303-08-18
   to 3303-08-25. Associated with Secoya Emperor's Grace. Secoya Emperor's Grace announces
@@ -27,6 +27,7 @@ bio: Secoya is a star system in the Elite Dangerous universe, significant from 3
   in the Secoya system. Secoya Emperor's Grace announces the successful conclusion
   of its luxury goods appeal for the Sigma Summit in the Secoya system.
 ---
+
 
 
 <!-- AUTO-GENERATED -->

@@ -22,7 +22,7 @@ population: 5386073
 security: High
 economy: Industrial
 second_economy: Extraction
-edsm_url: https://www.edsm.net/en/system?search=Namarii
+edsm_url: https://www.edsm.net/en/system/id/2686/name/Namarii
 inara_url: https://inara.cz/elite/starsystem/?search=Namarii
 bio: 'Namarii is a star system in the Elite Dangerous universe, significant from 3301-10-08
   to 3301-10-28. Associated with Emperor''s Dawn, Imperial Navy. Senator Denton Patreus
@@ -30,6 +30,7 @@ bio: 'Namarii is a star system in the Elite Dangerous universe, significant from
   874. The Imperial Internal Security Service identified five additional systems containing
   Emperor''s Dawn bases: Namarii, Tabaldak, LTT 874, Shambhala, and Svari.'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

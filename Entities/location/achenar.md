@@ -22,13 +22,14 @@ population: 16380054761
 security: High
 economy: Refinery
 second_economy: Service
-edsm_url: https://www.edsm.net/en/system?search=Achenar
+edsm_url: https://www.edsm.net/en/system/id/12523/name/Achenar
 inara_url: https://inara.cz/elite/starsystem/?search=Achenar
 bio: 'Achenar is a system in Elite Dangerous, significant from 3301-04-20 to 3311-04-01.
   Associated with Imperial Senate, Alliance. Notable events include: Historian Sima
   Kalhana covers the Empire''s founding.; Historian Sima Kalhana covers the first
   Federation-Achenar war (2323-2325).'
 ---
+
 
 
 <!-- AUTO-GENERATED -->

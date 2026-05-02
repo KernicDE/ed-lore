@@ -5,10 +5,10 @@ type: technology
 first_seen_date: '3309-12-29'
 last_seen_date: '3309-12-29'
 mention_count: 1
-inara_url: https://inara.cz/elite/commodity/?search=sub-surface%20extraction%20missile
 bio: 'sub-surface extraction missile is a technology in the Elite Dangerous universe,
   mentioned from 3309-12-29 to 3309-12-29. Developed or used by Jade Sanderlyn. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->

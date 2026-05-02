@@ -5,10 +5,10 @@ type: technology
 first_seen_date: '3310-02-15'
 last_seen_date: '3310-10-25'
 mention_count: 3
-inara_url: https://inara.cz/elite/commodity/?search=Guardian%20nanite%20torpedo
 bio: 'Guardian nanite torpedo is a technology in the Elite Dangerous universe, mentioned
   from 3310-02-15 to 3310-10-25. Developed or used by Aegis, Aden Tanner. '
 ---
+
 
 
 <!-- AUTO-GENERATED -->
