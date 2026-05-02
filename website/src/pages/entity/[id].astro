@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import graphData from '../../data/lore_graph.json';
+import { marked } from 'marked';
 
 export function getStaticPaths() {
   return Object.values(graphData.entities).map((e) => ({
@@ -95,9 +96,7 @@ function formatNumber(n: number): string {
             : entity?.type === 'technology' ? 'Technical Overview'
             : 'Description'}
         </div>
-        <div style="font-size: 14px; color: var(--text-secondary); line-height: 1.6; white-space: pre-wrap;">
-          {entity.bio_full || entity.bio}
-        </div>
+        <div class="entity-bio" set:html={marked.parse(entity.bio_full || entity.bio || '')} />
       </div>
     )}
 
