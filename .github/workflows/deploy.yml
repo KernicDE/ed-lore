@@ -39,6 +39,20 @@ jobs:
       - name: Install Python deps
         run: pip install pyyaml
 
+      - name: Restore audio cache
+        uses: actions/cache@v5
+        with:
+          path: website/public/audio
+          key: audio-cache-${{ github.run_id }}
+          restore-keys: audio-cache-
+
+      - name: Restore manifest cache
+        uses: actions/cache@v5
+        with:
+          path: scripts/audio_manifest.json
+          key: manifest-cache-${{ github.run_id }}
+          restore-keys: manifest-cache-
+
       - name: Generate lore_graph.json
         run: python3 scripts/build_graph.py
 
