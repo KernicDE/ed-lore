@@ -72,6 +72,8 @@ export default function EntityGraph({ mode, miniData, baseUrl = '', height: heig
   const graphRef = useRef<any>(null);
   const [width, setWidth] = useState(0);
   const hoveredIdRef = useRef<string | null>(null);
+  const labelThresholdRef = useRef<number>(Infinity);
+  const nodesRef = useRef<GraphNode[]>([]);
 
   useEffect(() => {
     import('react-force-graph-2d').then((mod) => setForceGraph(() => mod.default));
@@ -139,6 +141,8 @@ export default function EntityGraph({ mode, miniData, baseUrl = '', height: heig
     const cutoff = Math.max(0, Math.floor(sorted.length * 0.1) - 1);
     return sorted[cutoff]?.mentions ?? 0;
   }, [mode, graphData.nodes]);
+  labelThresholdRef.current = labelThreshold;
+  nodesRef.current = graphData.nodes as GraphNode[];
 
   const getNodeColor = useCallback((node: GraphNode): string => {
     const base = TYPE_COLORS[node.type] || '#888888';
@@ -168,11 +172,15 @@ export default function EntityGraph({ mode, miniData, baseUrl = '', height: heig
 
   const getNodeVal = useCallback((node: GraphNode): number => getVal(node, mode), [mode]);
 
-  // Labels drawn after default circle; ctx is NOT pre-translated (use node.x, node.y)
+  // Labels drawn after default circle; ctx is NOT pre-translated (use node.x, node.y).
+  // Reads from refs so the force-graph animation loop always sees current values
+  // without depending on React re-renders updating the callback.
   const nodeCanvasObject = useCallback((node: GraphNode, ctx: CanvasRenderingContext2D, globalScale: number) => {
+    const hId = hoveredIdRef.current;
+    const lThreshold = labelThresholdRef.current;
     const showLabel = mode === 'mini'
-      ? (node.depth === 0 || node.depth === 1)
-      : (node.mentions >= labelThreshold || node.id === hoveredId);
+      ? (node.depth === 0 || node.depth === 1 || node.id === hId)
+      : (node.mentions >= lThreshold || node.id === hId);
     if (!showLabel) return;
 
     const label = node.name.length > 22 ? node.name.slice(0, 20) + '…' : node.name;
@@ -191,7 +199,55 @@ export default function EntityGraph({ mode, miniData, baseUrl = '', height: heig
     ctx.fillRect(node.x - tw / 2 - pad, yOff, tw + pad * 2, bh);
     ctx.fillStyle = node.depth === 0 ? '#ffffff' : 'rgba(200,200,200,0.95)';
     ctx.fillText(label, node.x, yOff + pad * 0.5);
-  }, [mode, labelThreshold, hoveredId]);
+  }, [mode]); // stable — reads all dynamic state from refs
+
+  // Window-level capture: fires before d3-drag can stopPropagation, so ALL nodes are clickable
+  useEffect(() => {
+    let downX = 0, downY = 0;
+
+    const onDown = (e: PointerEvent) => { downX = e.clientX; downY = e.clientY; };
+
+    const onUp = (e: PointerEvent) => {
+      const dx = e.clientX - downX;
+      const dy = e.clientY - downY;
+      if (dx * dx + dy * dy > 36) return; // > 6px = drag
+
+      const fg = graphRef.current;
+      const wrapper = wrapperRef.current;
+      if (!fg || !wrapper) return;
+
+      const rect = wrapper.getBoundingClientRect();
+      if (e.clientX < rect.left || e.clientX > rect.right ||
+          e.clientY < rect.top  || e.clientY > rect.bottom) return;
+
+      const gc = fg.screen2GraphCoords(e.clientX - rect.left, e.clientY - rect.top);
+      const zoom: number = fg.zoom() ?? 1;
+      const minR = 8 / zoom;
+
+      let found: GraphNode | null = null;
+      let best = Infinity;
+      for (const node of nodesRef.current as any[]) {
+        if (node.x == null || node.y == null) continue;
+        const ndx = node.x - gc.x;
+        const ndy = node.y - gc.y;
+        const r = Math.max(minR, visRadius(node as GraphNode, mode));
+        const distSq = ndx * ndx + ndy * ndy;
+        if (distSq <= r * r && distSq < best) { best = distSq; found = node as GraphNode; }
+      }
+
+      if (found) {
+        if (found.type === 'arc') window.location.href = `${baseUrl}/arc/${found.id}/`;
+        else window.location.href = `${baseUrl}/entity/${found.id}/`;
+      }
+    };
+
+    window.addEventListener('pointerdown', onDown, { capture: true });
+    window.addEventListener('pointerup', onUp, { capture: true });
+    return () => {
+      window.removeEventListener('pointerdown', onDown, { capture: true });
+      window.removeEventListener('pointerup', onUp, { capture: true });
+    };
+  }, [mode, baseUrl]);
 
   // Manual hover detection — bypasses shadow canvas entirely
   const handlePointerMove = useCallback((e: React.MouseEvent<HTMLDivElement>) => {
@@ -318,10 +374,7 @@ export default function EntityGraph({ mode, miniData, baseUrl = '', height: heig
                 ? Math.max(1.5, Math.log(((link.weight as number) || 1) + 1) * 1.2)
                 : Math.max(0.8, Math.log(((link.weight as number) || 1) + 1) * 0.65)
             }
-            onNodeClick={(node: GraphNode) => {
-              if (node.type === 'arc') window.location.href = `${baseUrl}/arc/${node.id}/`;
-              else window.location.href = `${baseUrl}/entity/${node.id}/`;
-            }}
+            onNodeClick={() => null}
             onNodeHover={() => null}
             onEngineStart={configureForces}
             onEngineStop={handleEngineStop}
