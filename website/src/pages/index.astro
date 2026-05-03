@@ -26,8 +26,9 @@ const buildId = version.build;
         {articleCount} articles · 3301–3312
       </span>
     </div>
-    <div style="display: flex; align-items: center; gap: 16px;">
-      <a href={`${(import.meta.env.BASE_URL || '').replace(/\/$/, '')}/map/`} class="hud-nav-link">Map</a>
+    <div style="display: flex; align-items: center; gap: 12px;">
+      <span id="audio-portal" style="display: flex; align-items: center;"></span>
+      <a href={`${(import.meta.env.BASE_URL || '').replace(/\/$/, '')}/map/`} class="hud-search-btn hud-map-btn">◈ Map</a>
       <button class="hud-search-btn" id="search-trigger">
         <span style="margin-right: 6px;">⌘</span> Search
       </button>

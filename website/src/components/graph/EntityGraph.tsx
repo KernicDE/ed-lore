@@ -23,6 +23,7 @@ interface EntityGraphProps {
   mode: 'mini' | 'full';
   miniData?: MiniGraphData;
   baseUrl?: string;
+  height?: number;
 }
 
 const TYPE_COLORS: Record<string, string> = {
@@ -40,11 +41,11 @@ function hexToRgba(hex: string, alpha: number): string {
   return `rgba(${r},${g},${b},${alpha})`;
 }
 
-function nodeId(n: string | GraphNode): string {
+function resolveId(n: string | GraphNode): string {
   return typeof n === 'object' ? n.id : n;
 }
 
-export default function EntityGraph({ mode, miniData, baseUrl = '' }: EntityGraphProps) {
+export default function EntityGraph({ mode, miniData, baseUrl = '', height: heightProp }: EntityGraphProps) {
   const [ForceGraph, setForceGraph] = useState<any>(null);
   const [fullData, setFullData] = useState<{ nodes: GraphNode[]; edges: { source: string; target: string; weight: number }[] } | null>(null);
   const [nodeCount, setNodeCount] = useState(200);
@@ -52,10 +53,11 @@ export default function EntityGraph({ mode, miniData, baseUrl = '' }: EntityGrap
     person: true, faction: true, location: true, technology: true,
   });
   const [hoveredId, setHoveredId] = useState<string | null>(null);
-  const containerRef = useRef<HTMLDivElement>(null);
-  const [width, setWidth] = useState(600);
+  const wrapperRef = useRef<HTMLDivElement>(null);
+  const graphRef = useRef<any>(null);
+  const [width, setWidth] = useState(0);
 
-  // Dynamic import — keeps SSR safe and defers the heavy library
+  // Dynamic import — keeps the heavy library out of SSR and initial bundle
   useEffect(() => {
     import('react-force-graph-2d').then((mod) => setForceGraph(() => mod.default));
   }, []);
@@ -69,21 +71,22 @@ export default function EntityGraph({ mode, miniData, baseUrl = '' }: EntityGrap
       .catch(() => setFullData({ nodes: [], edges: [] }));
   }, [mode, baseUrl]);
 
-  // Track container width for responsive canvas
+  // Measure wrapper width — runs even before ForceGraph loads
   useEffect(() => {
-    if (!containerRef.current) return;
-    const ro = new ResizeObserver((entries) => {
-      setWidth(entries[0].contentRect.width || 600);
-    });
-    ro.observe(containerRef.current);
-    setWidth(containerRef.current.offsetWidth || 600);
+    if (!wrapperRef.current) return;
+    const measure = () => {
+      const w = wrapperRef.current?.offsetWidth;
+      if (w && w > 0) setWidth(w);
+    };
+    measure();
+    const ro = new ResizeObserver(measure);
+    ro.observe(wrapperRef.current);
     return () => ro.disconnect();
   }, []);
 
+  // Build display graph
   const graphData = useMemo(() => {
-    if (mode === 'mini') {
-      return miniData ?? { nodes: [], links: [] };
-    }
+    if (mode === 'mini') return miniData ?? { nodes: [], links: [] };
     if (!fullData) return { nodes: [], links: [] };
     const sorted = [...fullData.nodes]
       .filter((n) => typeFilter[n.type] !== false)
@@ -98,12 +101,12 @@ export default function EntityGraph({ mode, miniData, baseUrl = '' }: EntityGrap
     };
   }, [mode, miniData, fullData, nodeCount, typeFilter]);
 
-  // Precompute neighbour map for hover dimming in full mode
+  // Precompute neighbour map for hover dimming
   const neighborMap = useMemo(() => {
     const map = new Map<string, Set<string>>();
     for (const link of graphData.links) {
-      const s = nodeId(link.source);
-      const t = nodeId(link.target);
+      const s = resolveId(link.source);
+      const t = resolveId(link.target);
       if (!map.has(s)) map.set(s, new Set());
       if (!map.has(t)) map.set(t, new Set());
       map.get(s)!.add(t);
@@ -112,12 +115,10 @@ export default function EntityGraph({ mode, miniData, baseUrl = '' }: EntityGrap
     return map;
   }, [graphData.links]);
 
-  // Precompute depth map for mini mode link dimming
+  // Precompute depth map for mini-mode link dimming
   const depthMap = useMemo(() => {
     const map = new Map<string, number>();
-    for (const node of graphData.nodes) {
-      map.set(node.id, node.depth ?? 1);
-    }
+    for (const node of graphData.nodes) map.set(node.id, node.depth ?? 1);
     return map;
   }, [graphData.nodes]);
 
@@ -135,13 +136,12 @@ export default function EntityGraph({ mode, miniData, baseUrl = '' }: EntityGrap
   }, [mode, hoveredId, neighborMap]);
 
   const getLinkColor = useCallback((link: GraphLink): string => {
-    const s = nodeId(link.source);
-    const t = nodeId(link.target);
+    const s = resolveId(link.source);
+    const t = resolveId(link.target);
     if (mode === 'mini') {
-      if ((depthMap.get(s) ?? 1) === 2 || (depthMap.get(t) ?? 1) === 2) {
-        return 'rgba(255,255,255,0.07)';
-      }
-      return 'rgba(255,255,255,0.28)';
+      const sd = depthMap.get(s) ?? 1;
+      const td = depthMap.get(t) ?? 1;
+      return (sd === 2 || td === 2) ? 'rgba(255,255,255,0.07)' : 'rgba(255,255,255,0.3)';
     }
     if (!hoveredId) return 'rgba(255,255,255,0.12)';
     if (s === hoveredId || t === hoveredId) return 'rgba(255,255,255,0.55)';
@@ -150,11 +150,22 @@ export default function EntityGraph({ mode, miniData, baseUrl = '' }: EntityGrap
 
   const getNodeVal = useCallback((node: GraphNode): number => {
     if (mode === 'mini') {
-      if (node.depth === 0) return 10;
-      if (node.depth === 2) return 1.5;
-      return 4;
+      if (node.depth === 0) return 12;
+      if (node.depth === 2) return 3;
+      return 5;
     }
-    return Math.max(1, Math.log(node.mentions + 1) * 2);
+    return Math.max(3, Math.log(node.mentions + 1) * 2.5);
+  }, [mode]);
+
+  // Extend hit area beyond visual node so small nodes are clickable
+  const nodePointerAreaPaint = useCallback((node: any, color: string, ctx: CanvasRenderingContext2D) => {
+    const val = mode === 'mini'
+      ? (node.depth === 0 ? 12 : node.depth === 2 ? 3 : 5)
+      : Math.max(3, Math.log((node.mentions || 1) + 1) * 2.5);
+    ctx.fillStyle = color;
+    ctx.beginPath();
+    ctx.arc(node.x || 0, node.y || 0, Math.max(8, Math.sqrt(val) * 5), 0, 2 * Math.PI);
+    ctx.fill();
   }, [mode]);
 
   const handleNodeClick = useCallback((node: GraphNode) => {
@@ -165,22 +176,19 @@ export default function EntityGraph({ mode, miniData, baseUrl = '' }: EntityGrap
     }
   }, [baseUrl]);
 
-  const height = mode === 'mini' ? 340 : Math.max(500, (typeof window !== 'undefined' ? window.innerHeight : 800) - 180);
+  // Configure D3 forces for better clustering when simulation starts
+  const configureForces = useCallback(() => {
+    const fg = graphRef.current;
+    if (!fg || mode !== 'full') return;
+    fg.d3Force('charge')?.strength(-200);
+    fg.d3Force('link')?.distance((link: any) =>
+      Math.max(15, 60 / Math.log((link.weight || 1) + 2))
+    );
+  }, [mode]);
 
-  const placeholder = (
-    <div
-      ref={containerRef}
-      className="graph-placeholder"
-      style={{ height }}
-    >
-      <span style={{ color: 'var(--text-dim)', fontFamily: 'var(--font-mono)', fontSize: 12 }}>
-        {mode === 'full' && !fullData ? 'Loading graph data…' : 'Initialising graph…'}
-      </span>
-    </div>
-  );
+  const height = heightProp ?? (mode === 'mini' ? 340 : Math.max(500, (typeof window !== 'undefined' ? window.innerHeight : 800) - 180));
 
-  if (!ForceGraph) return placeholder;
-  if (mode === 'full' && !fullData) return placeholder;
+  const isReady = ForceGraph && width > 0 && (mode !== 'full' || fullData !== null);
 
   return (
     <div>
@@ -191,10 +199,7 @@ export default function EntityGraph({ mode, miniData, baseUrl = '' }: EntityGrap
               Nodes: <strong>{nodeCount}</strong>
             </label>
             <input
-              type="range"
-              min={50}
-              max={1110}
-              step={10}
+              type="range" min={50} max={1110} step={10}
               value={nodeCount}
               onChange={(e) => setNodeCount(Number(e.target.value))}
               className="graph-slider"
@@ -222,28 +227,41 @@ export default function EntityGraph({ mode, miniData, baseUrl = '' }: EntityGrap
           </div>
         </div>
       )}
-      <div ref={containerRef}>
-        <ForceGraph
-          graphData={graphData}
-          width={width}
-          height={height}
-          nodeId="id"
-          nodeColor={getNodeColor}
-          nodeVal={getNodeVal}
-          nodeLabel={(n: GraphNode) => `${n.name} (${n.mentions} mentions)`}
-          linkColor={getLinkColor}
-          linkWidth={(link: GraphLink) => Math.max(0.5, Math.log((link.weight as number || 1) + 1) * 0.3)}
-          onNodeClick={handleNodeClick}
-          onNodeHover={(node: GraphNode | null) => setHoveredId(node?.id ?? null)}
-          backgroundColor="transparent"
-          cooldownTicks={mode === 'mini' ? 80 : 150}
-          d3AlphaDecay={mode === 'mini' ? 0.04 : 0.02}
-          d3VelocityDecay={0.35}
-          enableNodeDrag={true}
-          enableZoomInteraction={true}
-          minZoom={0.1}
-          maxZoom={10}
-        />
+
+      {/* Wrapper is always in DOM so ResizeObserver can measure it */}
+      <div ref={wrapperRef} style={{ width: '100%' }}>
+        {!isReady ? (
+          <div className="graph-placeholder" style={{ height }}>
+            <span style={{ color: 'var(--text-dim)', fontFamily: 'var(--font-mono)', fontSize: 12 }}>
+              {mode === 'full' && !fullData ? 'Loading graph data…' : 'Initialising graph…'}
+            </span>
+          </div>
+        ) : (
+          <ForceGraph
+            ref={graphRef}
+            graphData={graphData}
+            width={width}
+            height={height}
+            nodeId="id"
+            nodeColor={getNodeColor}
+            nodeVal={getNodeVal}
+            nodeLabel={(n: GraphNode) => `${n.name} (${n.mentions} mentions)`}
+            nodePointerAreaPaint={nodePointerAreaPaint}
+            linkColor={getLinkColor}
+            linkWidth={(link: GraphLink) => Math.max(0.5, Math.log(((link.weight as number) || 1) + 1) * 0.4)}
+            onNodeClick={handleNodeClick}
+            onNodeHover={(node: GraphNode | null) => setHoveredId(node?.id ?? null)}
+            onEngineStart={configureForces}
+            backgroundColor="transparent"
+            cooldownTicks={mode === 'mini' ? 80 : 200}
+            d3AlphaDecay={mode === 'mini' ? 0.04 : 0.01}
+            d3VelocityDecay={0.3}
+            enableNodeDrag={true}
+            enableZoomInteraction={true}
+            minZoom={0.1}
+            maxZoom={12}
+          />
+        )}
       </div>
     </div>
   );

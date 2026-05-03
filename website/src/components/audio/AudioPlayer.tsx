@@ -195,13 +195,7 @@ export default function AudioPlayer({ article }: AudioPlayerProps) {
     return `${m.toString().padStart(2, '0')}:${s.toString().padStart(2, '0')}`;
   };
 
-  if (!article) {
-    return (
-      <div className="audio-player">
-        <span style={{ fontSize: 11, color: 'var(--text-secondary)' }}>Click ▶ Audio on an article to play</span>
-      </div>
-    );
-  }
+  if (!article) return null;
 
   return (
     <div className="audio-player">

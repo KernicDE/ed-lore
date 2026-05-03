@@ -1,4 +1,6 @@
 import { useMemo } from 'react';
+import EntityGraph from '../graph/EntityGraph';
+import type { MiniGraphData } from '../graph/EntityGraph';
 
 interface Entity {
   id: string;
@@ -140,6 +142,29 @@ export default function ContextPanel({
       .slice(0, 10);
   }, [visibleArticles, entities, currentDate]);
 
+  const contextGraphData = useMemo((): MiniGraphData | null => {
+    if (contextEntities.length < 3) return null;
+    const nodes: MiniGraphData['nodes'] = [];
+    const links: MiniGraphData['links'] = [];
+    const nodeIds = new Set<string>();
+
+    for (const e of contextEntities) {
+      nodes.push({ id: e.id, name: e.name, type: e.type, mentions: e.count, depth: 1 });
+      nodeIds.add(e.id);
+    }
+    for (const arc of activeArcs.slice(0, 4)) {
+      nodes.push({ id: arc.id, name: arc.name, type: 'arc', mentions: arc.mention_count, depth: 0 });
+      nodeIds.add(arc.id);
+      for (const ke of arc.key_entities) {
+        if (nodeIds.has(ke.id)) {
+          links.push({ source: arc.id, target: ke.id, weight: ke.mentions });
+        }
+      }
+    }
+    if (links.length === 0) return null;
+    return { nodes, links };
+  }, [contextEntities, activeArcs]);
+
   const currentYear = currentDate?.split('-')[0] || '';
 
   // Slider: left = past (oldest), right = present (newest)
@@ -163,38 +188,6 @@ export default function ContextPanel({
 
   return (
     <div className="context-pane">
-      {/* Map link */}
-      <a
-        href={`${baseUrl}/map/`}
-        style={{
-          display: 'flex',
-          alignItems: 'center',
-          justifyContent: 'center',
-          gap: 8,
-          padding: '10px 16px',
-          margin: '12px 12px 0',
-          border: '1px solid var(--border-glow)',
-          borderRadius: 'var(--panel-radius)',
-          color: 'var(--elite-orange)',
-          fontFamily: 'var(--font-hud)',
-          fontSize: 12,
-          letterSpacing: '0.1em',
-          textDecoration: 'none',
-          textTransform: 'uppercase',
-          transition: 'border-color 0.2s, box-shadow 0.2s',
-        }}
-        onMouseEnter={(e) => {
-          (e.currentTarget as HTMLAnchorElement).style.borderColor = 'var(--elite-orange)';
-          (e.currentTarget as HTMLAnchorElement).style.boxShadow = 'var(--glow-orange)';
-        }}
-        onMouseLeave={(e) => {
-          (e.currentTarget as HTMLAnchorElement).style.borderColor = 'var(--border-glow)';
-          (e.currentTarget as HTMLAnchorElement).style.boxShadow = 'none';
-        }}
-      >
-        ◈ Relationship Map
-      </a>
-
       {/* Year Slider */}
       {sliderYears.length > 0 && (
         <div className="holo-panel">
@@ -282,6 +275,14 @@ export default function ContextPanel({
               </div>
             </a>
           ))}
+        </div>
+      )}
+
+      {/* Context mini-graph */}
+      {contextGraphData && (
+        <div className="holo-panel" style={{ padding: 0, overflow: 'hidden' }}>
+          <div style={{ padding: '14px 16px 0' }}><div className="holo-title">Active Connections</div></div>
+          <EntityGraph mode="mini" miniData={contextGraphData} baseUrl={baseUrl} height={220} />
         </div>
       )}
 

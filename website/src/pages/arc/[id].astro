@@ -187,7 +187,7 @@ const sigColors: Record<string, string> = {
     {/* Relationship mini-map */}
     {miniNodes.length > 1 && (
       <div class="holo-panel" style="padding: 0; overflow: hidden;">
-        <div class="holo-title" style="padding: 16px 20px 0;">Connection Map</div>
+        <div style="padding: 20px 20px 0;"><div class="holo-title">Connection Map</div></div>
         <EntityGraph client:visible mode="mini" miniData={miniGraphData} baseUrl={baseUrl} />
       </div>
     )}

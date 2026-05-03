@@ -1,4 +1,5 @@
 import { useState, useCallback, useMemo, useEffect, useRef } from 'react';
+import { createPortal } from 'react-dom';
 import Timeline from './timeline/Timeline';
 import ContextPanel from './context/ContextPanel';
 import CommandConsole from './hud/CommandConsole';
@@ -60,6 +61,7 @@ export default function AppShell() {
   const [scrollToUuid, setScrollToUuid] = useState<string | null>(null);
   const [visibleUuids, setVisibleUuids] = useState<string[]>([]);
   const [searchOpen, setSearchOpen] = useState(false);
+  const [audioPortalEl, setAudioPortalEl] = useState<HTMLElement | null>(null);
 
   const cacheBuster = typeof window !== 'undefined' && (window as any).GALNET_BUILD
     ? `?v=${encodeURIComponent((window as any).GALNET_BUILD)}`
@@ -157,6 +159,10 @@ export default function AppShell() {
     }
   }, [sortedArticles]);
 
+  useEffect(() => {
+    setAudioPortalEl(document.getElementById('audio-portal'));
+  }, []);
+
   // Listen for header search button click
   useEffect(() => {
     const onOpen = () => setSearchOpen(true);
@@ -235,9 +241,7 @@ export default function AppShell() {
           onYearSelect={handleYearSelect}
         />
       </main>
-      <div className="audio-player-bar">
-        <AudioPlayer article={audioArticle} />
-      </div>
+      {audioArticle && audioPortalEl && createPortal(<AudioPlayer article={audioArticle} />, audioPortalEl)}
       {searchOpen && (
         <CommandConsole
           searchIndex={searchIndex}

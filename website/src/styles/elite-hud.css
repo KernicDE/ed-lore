@@ -131,6 +131,15 @@ html, body {
   box-shadow: var(--glow-blue);
 }
 
+.hud-map-btn {
+  color: var(--elite-orange);
+  text-decoration: none;
+}
+.hud-map-btn:hover {
+  border-color: var(--elite-orange);
+  box-shadow: var(--glow-orange);
+}
+
 /* ── Main Layout ────────────────────────────────────────────────────────── */
 .main-layout {
   display: flex;
@@ -806,11 +815,6 @@ html, body {
 
 /* ── Audio Player ───────────────────────────────────────────────────────── */
 .audio-player-bar {
-  position: fixed;
-  top: 0;
-  right: 140px;
-  z-index: 100;
-  height: 56px;
   display: flex;
   align-items: center;
 }
