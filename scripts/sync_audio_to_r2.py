@@ -57,9 +57,17 @@ def ensure_bucket(token: str, account_id: str) -> bool:
     return True
 
 
-def list_r2_objects(token: str, account_id: str) -> dict[str, int]:
+def md5_file(path: Path) -> str:
+    h = hashlib.md5()
+    with open(path, "rb") as f:
+        for chunk in iter(lambda: f.read(8192), b""):
+            h.update(chunk)
+    return h.hexdigest()
+
+
+def list_r2_objects(token: str, account_id: str) -> dict[str, tuple[int, str]]:
     """Return mapping of object key -> size for all objects in bucket."""
-    objects: dict[str, int] = {}
+    objects: dict[str, tuple[int, str]] = {}
     cursor = None
     while True:
         url = f"{API_BASE}/accounts/{account_id}/r2/buckets/{BUCKET_NAME}/objects"
