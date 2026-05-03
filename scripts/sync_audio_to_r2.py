@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 """
 sync_audio_to_r2.py — Upload GalNet audio MP3s to Cloudflare R2.
-Uses Cloudflare REST API. Skips files already present in R2 (by size check).
+Uses Cloudflare REST API. Skips files already present in R2 (by UUID key).
+Since audio files are named by article UUID and generate_audio.py handles
+regeneration when content changes, we only need to check existence in R2.
 """
 import argparse
-import hashlib
 import json
 import os
 import sys
@@ -57,17 +58,9 @@ def ensure_bucket(token: str, account_id: str) -> bool:
     return True
 
 
-def md5_file(path: Path) -> str:
-    h = hashlib.md5()
-    with open(path, "rb") as f:
-        for chunk in iter(lambda: f.read(8192), b""):
-            h.update(chunk)
-    return h.hexdigest()
-
-
-def list_r2_objects(token: str, account_id: str) -> dict[str, tuple[int, str]]:
-    """Return mapping of object key -> size for all objects in bucket."""
-    objects: dict[str, tuple[int, str]] = {}
+def list_r2_keys(token: str, account_id: str) -> set[str]:
+    """Return set of all object keys in bucket."""
+    keys: set[str] = set()
     cursor = None
     while True:
         url = f"{API_BASE}/accounts/{account_id}/r2/buckets/{BUCKET_NAME}/objects"
@@ -87,14 +80,14 @@ def list_r2_objects(token: str, account_id: str) -> dict[str, tuple[int, str]]:
         # result can be a list (empty bucket) or a dict with objects
         if isinstance(result, list):
             for obj in result:
-                objects[obj["key"]] = (obj["size"], obj.get("etag", ""))
+                keys.add(obj["key"])
             break  # no pagination for list response
         for obj in result.get("objects", []):
-            objects[obj["key"]] = (obj["size"], obj.get("etag", ""))
+            keys.add(obj["key"])
         if not result.get("truncated", False):
             break
         cursor = result.get("cursor")
-    return objects
+    return keys
 
 
 def upload_file(token: str, account_id: str, key: str, file_path: Path) -> bool:
@@ -141,27 +134,14 @@ def main():
     print(f"  Local files: {len(local_files)}")
 
     print("Listing R2 objects...")
-    r2_objects = list_r2_objects(token, account_id)
-    print(f"  R2 objects:  {len(r2_objects)}")
+    r2_keys = list_r2_keys(token, account_id)
+    print(f"  R2 objects:  {len(r2_keys)}")
 
     to_upload = []
     for fpath in local_files:
         key = f"audio/{fpath.name}"
-        local_size = fpath.stat().st_size
-        r2_info = r2_objects.get(key)
-        if r2_info is None:
+        if key not in r2_keys:
             to_upload.append((key, fpath))
-            continue
-        r2_size, r2_etag = r2_info
-        if r2_size != local_size:
-            to_upload.append((key, fpath))
-            continue
-        # Size matches — check MD5 vs etag to catch edge-tts regeneration drift
-        local_md5 = md5_file(fpath)
-        if local_md5 != r2_etag:
-            print(f"    {key}: size matches but MD5 differs (local={local_md5}, r2={r2_etag})")
-            to_upload.append((key, fpath))
-            continue
 
     print(f"Files to upload: {len(to_upload)}")
 
@@ -170,7 +150,7 @@ def main():
             print("✅ All audio files are present in R2.")
             sys.exit(0)
         else:
-            print(f"⚠️  {len(to_upload)} files missing or different in R2.")
+            print(f"⚠️  {len(to_upload)} files missing in R2.")
             sys.exit(1)
 
     if args.dry_run:
@@ -185,7 +165,7 @@ def main():
         print("✅ Nothing to upload — all files already in R2.")
         return
 
-    uploaded = failed = skipped = 0
+    uploaded = failed = 0
     for i, (key, fpath) in enumerate(to_upload, 1):
         print(f"  [{i}/{len(to_upload)}] Uploading {key} ...", end="", flush=True)
         if upload_file(token, account_id, key, fpath):
@@ -195,8 +175,8 @@ def main():
             print(" FAIL")
             failed += 1
 
-    print(f"\nDone: {uploaded} uploaded, {failed} failed, {skipped} skipped")
-    print(f"Total in R2: {len(r2_objects) + uploaded} objects")
+    print(f"\nDone: {uploaded} uploaded, {failed} failed")
+    print(f"Total in R2: {len(r2_keys) + uploaded} objects")
     if failed > 0:
         sys.exit(1)
 

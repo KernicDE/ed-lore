@@ -139,12 +139,15 @@ async def main():
     
     # Build work queue
     queue = []
+    missing_files = 0
     for uuid, fm, body in articles:
         tts_text = build_tts_text(fm, body)
         text_hash = compute_hash(tts_text)
-        if manifest.get(uuid) == text_hash:
-            continue
         output_path = AUDIO_DIR / f"{uuid}.mp3"
+        if manifest.get(uuid) == text_hash and output_path.exists():
+            continue
+        if manifest.get(uuid) == text_hash and not output_path.exists():
+            missing_files += 1
         
         if len(tts_text) > 4500:
             intro = f"{fm.get('title', 'Untitled')} on {fm.get('date', '')}."
@@ -168,7 +171,18 @@ async def main():
         if args.batch_size > 0 and len(queue) >= args.batch_size:
             break
     
+    # Clean up stale manifest entries for deleted articles
+    valid_uuids = {uuid for uuid, _, _ in articles}
+    stale = [u for u in list(manifest.keys()) if u not in valid_uuids]
+    for u in stale:
+        del manifest[u]
+    if stale:
+        print(f"Removed {len(stale)} stale manifest entries for deleted articles")
+        MANIFEST_PATH.write_text(json.dumps(manifest, indent=2), encoding="utf-8")
+
     print(f"Need to generate: {len(queue)} articles (skipped {len(articles) - len(queue)})")
+    if missing_files:
+        print(f"  ({missing_files} had manifest entries but missing MP3 files)")
     if not queue:
         print("Nothing to do — all audio up to date.")
         return
