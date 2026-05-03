@@ -41,10 +41,34 @@ This file tracks manual enrichment progress for entity profiles. Each entry is e
 | 25 | Imperial Herald | faction | ✅ Done | State media role, Darius profile, court politics, establishment coverage |
 | 26 | Kumo Crew | faction | ✅ Done | Archon Delaine, Pegasi Pirate War, Galactic Summit, pirate kingdom |
 
-### Batch 2: 25 entities — TBD
+### Batch 2: 25 entities — IN PROGRESS
 | # | Entity | Type | Status | Notes |
 |---|--------|------|--------|-------|
-| 27 | — | — | pending | |
+| 27 | Ishmael Palin | person | ✅ Done | Federal scientist, Palin Institute founder, kidnapping survivor, engineer at Abel Laboratory, Thargoid spire breakthrough |
+| 28 | Imperial Senate | faction | pending | |
+| 29 | Alioth | location | pending | |
+| 30 | Empire | faction | pending | |
+| 31 | Maia | location | pending | |
+| 32 | Federal Intelligence Agency | faction | pending | |
+| 33 | Zemina Torval | person | pending | |
+| 34 | Core Dynamics | faction | pending | |
+| 35 | Li Yong-Rui | person | pending | |
+| 36 | Archon Delaine | person | pending | |
+| 37 | Merope | location | pending | |
+| 38 | Imperial Internal Security Service | faction | pending | |
+| 39 | Pleiades Nebula | location | pending | |
+| 40 | Marlinist | faction | pending | |
+| 41 | Zachary Rackham | person | pending | |
+| 42 | Utopia | faction | pending | |
+| 43 | Nova Imperium | faction | pending | |
+| 44 | Canonn Interstellar Research Group | faction | pending | |
+| 45 | Hengist Duval | person | pending | |
+| 46 | Azimuth Biotech | faction | pending | |
+| 47 | Salvation | faction | pending | |
+| 48 | Federal Congress | faction | pending | |
+| 49 | Obsidian Orbital | location | pending | |
+| 50 | Jaques Station | location | pending | |
+| 51 | Pranav Antal | person | pending | |
 
 ## Stats
 - Total entities: 3,484
