@@ -441,13 +441,22 @@ def build() -> dict[str, Any]:
                 cooccurrence[a][b] += 1
                 cooccurrence.setdefault(b, {}).setdefault(a, 0)
                 cooccurrence[b][a] += 1
-    graph["entity_cooccurrence"] = cooccurrence
 
-    # Add related entities
+    # Add related entities using shared-connections score
+    # shared = how many of A's other neighbours also connect to candidate X
     for eid, rec in graph["entities"].items():
-        if eid in cooccurrence:
-            top = sorted(cooccurrence[eid].items(), key=lambda x: -x[1])[:10]
-            rec["related_entities"] = [{"id": rid, "mentions": c} for rid, c in top]
+        if eid not in cooccurrence:
+            continue
+        neighbors = set(cooccurrence[eid].keys())
+        scored: list[tuple[str, int, int]] = []
+        for candidate_id, raw_count in cooccurrence[eid].items():
+            if candidate_id not in graph["entities"]:
+                continue
+            candidate_neighbors = set(cooccurrence.get(candidate_id, {}).keys())
+            shared = len((neighbors - {candidate_id}) & (candidate_neighbors - {eid}))
+            scored.append((candidate_id, raw_count, shared))
+        scored.sort(key=lambda x: (-x[2], -x[1]))
+        rec["related_entities"] = [{"id": rid, "mentions": c, "shared": s} for rid, c, s in scored[:10]]
 
     # Add key entities to arcs
     for arc_id, rec in graph["arcs"].items():
@@ -540,7 +549,8 @@ def main() -> int:
     for art in graph["articles"]:
         art["has_audio"] = art["uuid"] in audio_uuids
 
-    OUTPUT_FILE.write_text(json.dumps(graph, indent=2, ensure_ascii=False), encoding="utf-8")
+    graph_out = {k: v for k, v in graph.items() if k != "entity_cooccurrence"}
+    OUTPUT_FILE.write_text(json.dumps(graph_out, indent=2, ensure_ascii=False), encoding="utf-8")
     print(f"Articles: {graph['meta']['article_count']}, Entities: {graph['meta']['entity_count']}, Arcs: {graph['meta']['arc_count']}")
 
     print("Writing split JSON for async loading...")
@@ -574,7 +584,7 @@ def main() -> int:
         client_entities[eid] = client_rec
 
     meta = {
-        **graph,
+        **{k: v for k, v in graph.items() if k != "entity_cooccurrence"},
         "articles": client_articles,
         "entities": client_entities,
     }
@@ -583,6 +593,45 @@ def main() -> int:
     (WEBSITE_DATA_DIR / "galnet-meta.json").write_text(json.dumps(meta, ensure_ascii=False), encoding="utf-8")
     (WEBSITE_DATA_DIR / "galnet-bodies.json").write_text(json.dumps(bodies, ensure_ascii=False), encoding="utf-8")
     (WEBSITE_DATA_DIR / "search-index.json").write_text(json.dumps(search_articles, ensure_ascii=False), encoding="utf-8")
+
+    # Build graph-data.json for the relationship map visualisation
+    graph_nodes = [
+        {"id": eid, "name": rec["name"], "type": rec.get("type", "person"), "mentions": rec.get("mention_count", 0)}
+        for eid, rec in graph["entities"].items()
+        if rec.get("mention_count", 0) >= 3
+    ]
+    graph_node_ids = {n["id"] for n in graph_nodes}
+    edge_map: dict[tuple[str, str], int] = {}
+    for eid, rec in graph["entities"].items():
+        if eid not in graph_node_ids:
+            continue
+        for rel in rec.get("related_entities", []):
+            rid = rel["id"]
+            if rid not in graph_node_ids:
+                continue
+            key = (min(eid, rid), max(eid, rid))
+            edge_map[key] = max(edge_map.get(key, 0), rel["mentions"])
+    graph_data_out = {
+        "nodes": graph_nodes,
+        "edges": [{"source": s, "target": t, "weight": w} for (s, t), w in edge_map.items()],
+    }
+    (WEBSITE_DATA_DIR / "graph-data.json").write_text(
+        json.dumps(graph_data_out, separators=(",", ":"), ensure_ascii=False), encoding="utf-8"
+    )
+    print(f"  graph-data.json: {len(graph_nodes)} nodes, {len(edge_map)} edges")
+
+    # Build entities-index.json for search on entity/arc pages (slim: id, name, type only)
+    entities_index = [
+        {"id": eid, "name": rec["name"], "type": rec.get("type", "person")}
+        for eid, rec in graph["entities"].items()
+    ] + [
+        {"id": arc_id, "name": rec["name"], "type": "arc"}
+        for arc_id, rec in graph["arcs"].items()
+    ]
+    (WEBSITE_DATA_DIR / "entities-index.json").write_text(
+        json.dumps(entities_index, separators=(",", ":"), ensure_ascii=False), encoding="utf-8"
+    )
+    print(f"  entities-index.json: {len(entities_index)} items")
 
     # Write tiny version file for cache busting + dynamic header counts
     version = {

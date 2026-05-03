@@ -2,6 +2,9 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import graphData from '../../data/lore_graph.json';
 import { marked } from 'marked';
+import SearchIsland from '../../components/hud/SearchIsland';
+import EntityGraph from '../../components/graph/EntityGraph';
+import type { MiniGraphData, GraphNode, GraphLink } from '../../components/graph/EntityGraph';
 
 export function getStaticPaths() {
   return Object.values(graphData.entities).map((e) => ({
@@ -10,19 +13,84 @@ export function getStaticPaths() {
 }
 
 const { id } = Astro.params;
-const entity = graphData.entities[id];
+const entity = graphData.entities[id] as any;
+const baseUrl = (import.meta.env.BASE_URL || '').replace(/\/$/, '');
 
 const entityArticles = graphData.articles
   .filter((a) => {
     const allNames = [...a.entities, ...a.groups, ...a.locations, ...(a.persons || []), ...(a.technologies || [])];
-    return allNames.some((n) => n.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/\s+/g, '-').replace(/[^\w-]/g, '') === id);
+    return allNames.some((n) => n.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/\s+/g, '-').replace(/[^\w-]/g, '') === id);
   })
   .sort((a, b) => (b.date || '').localeCompare(a.date || ''));
 
+// Display top 6 in the Related Entities panel (scored by shared connections)
 const related = (entity?.related_entities || [])
-  .slice(0, 8)
-  .map((r) => graphData.entities[r.id])
+  .slice(0, 6)
+  .map((r: any) => graphData.entities[r.id])
   .filter(Boolean);
+
+// Build 2-hop neighbourhood for the mini-map (computed at build time)
+const miniNodes: GraphNode[] = [];
+const miniLinks: GraphLink[] = [];
+const edgeSet = new Set<string>();
+
+if (entity) {
+  miniNodes.push({ id: entity.id, name: entity.name, type: entity.type, mentions: entity.mention_count ?? 0, depth: 0 });
+
+  const directIds = new Set<string>();
+
+  for (const rel of (entity.related_entities ?? []) as any[]) {
+    const neighbor = (graphData.entities as any)[rel.id];
+    if (!neighbor) continue;
+    directIds.add(rel.id);
+    miniNodes.push({ id: rel.id, name: neighbor.name, type: neighbor.type, mentions: neighbor.mention_count ?? 0, depth: 1 });
+    const key = [entity.id, rel.id].sort().join('|');
+    if (!edgeSet.has(key)) {
+      edgeSet.add(key);
+      miniLinks.push({ source: entity.id, target: rel.id, weight: rel.mentions ?? 1 });
+    }
+  }
+
+  // Edges between direct connections
+  for (const rel of (entity.related_entities ?? []) as any[]) {
+    const neighbor = (graphData.entities as any)[rel.id];
+    if (!neighbor) continue;
+    for (const rel2 of (neighbor.related_entities ?? []) as any[]) {
+      if (directIds.has(rel2.id) && rel2.id !== entity.id) {
+        const key = [rel.id, rel2.id].sort().join('|');
+        if (!edgeSet.has(key)) {
+          edgeSet.add(key);
+          miniLinks.push({ source: rel.id, target: rel2.id, weight: rel2.mentions ?? 1 });
+        }
+      }
+    }
+  }
+
+  // 2nd-degree connections (capped at 20)
+  const seen = new Set<string>([entity.id, ...directIds]);
+  let secondCount = 0;
+  outer: for (const rel of (entity.related_entities ?? []) as any[]) {
+    const neighbor = (graphData.entities as any)[rel.id];
+    if (!neighbor) continue;
+    for (const rel2 of (neighbor.related_entities ?? []) as any[]) {
+      if (secondCount >= 20) break outer;
+      if (!seen.has(rel2.id)) {
+        const n2 = (graphData.entities as any)[rel2.id];
+        if (!n2) continue;
+        seen.add(rel2.id);
+        secondCount++;
+        miniNodes.push({ id: rel2.id, name: n2.name, type: n2.type, mentions: n2.mention_count ?? 0, depth: 2 });
+        const key = [rel.id, rel2.id].sort().join('|');
+        if (!edgeSet.has(key)) {
+          edgeSet.add(key);
+          miniLinks.push({ source: rel.id, target: rel2.id, weight: rel2.mentions ?? 1 });
+        }
+      }
+    }
+  }
+}
+
+const miniGraphData: MiniGraphData = { nodes: miniNodes, links: miniLinks };
 
 const typeLabels: Record<string, string> = {
   person: 'Person',
@@ -42,11 +110,14 @@ function formatNumber(n: number): string {
 <BaseLayout title={`${entity?.name || id} — GalNet Chronicle`}>
   <header class="hud-header">
     <div>
-      <a href={`${(import.meta.env.BASE_URL || '').replace(/\/$/, '')}/`} style="text-decoration: none;" data-home-link>
+      <a href={`${baseUrl}/`} style="text-decoration: none;" data-home-link>
         <span class="hud-title">‹ GalNet Chronicle</span>
       </a>
     </div>
-    <span class="hud-subtitle">Entity Profile</span>
+    <div style="display: flex; align-items: center; gap: 16px;">
+      <a href={`${baseUrl}/map/`} class="hud-nav-link">Map</a>
+      <SearchIsland client:idle baseUrl={baseUrl} />
+    </div>
   </header>
 
   <div style="padding: 24px; max-width: 900px; margin: 0 auto;">
@@ -132,14 +203,20 @@ function formatNumber(n: number): string {
       </div>
     )}
 
-
+    {/* Relationship mini-map */}
+    {miniNodes.length > 1 && (
+      <div class="holo-panel" style="padding: 0; overflow: hidden;">
+        <div class="holo-title" style="padding: 16px 20px 0;">Connection Map</div>
+        <EntityGraph client:visible mode="mini" miniData={miniGraphData} baseUrl={baseUrl} />
+      </div>
+    )}
 
     {related.length > 0 && (
       <div class="holo-panel blue">
         <div class="holo-title blue">Related Entities</div>
         <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 8px;">
-          {related.map((rel) => (
-            <a href={`${(import.meta.env.BASE_URL || '').replace(/\/$/, '')}/entity/${rel.id}/`} class="entity-card" style="text-decoration: none;">
+          {related.map((rel: any) => (
+            <a href={`${baseUrl}/entity/${rel.id}/`} class="entity-card" style="text-decoration: none;">
               <div class={`entity-icon ${rel.type || 'person'}`}>
                 {rel.type === 'person' ? 'P' : rel.type === 'faction' ? 'F' : rel.type === 'technology' ? 'T' : 'L'}
               </div>
@@ -160,7 +237,7 @@ function formatNumber(n: number): string {
       {entityArticles.map((art) => (
         <div key={art.uuid} style="padding: 10px 0; border-bottom: 1px solid var(--border-default);">
           <div style="font-family: var(--font-mono); font-size: 11px; color: var(--text-dim);">{art.date}</div>
-          <a href={`${(import.meta.env.BASE_URL || '').replace(/\/$/, '')}/?article=${art.uuid}`} style="font-size: 14px; font-weight: 500; color: var(--text-primary); text-decoration: none;">
+          <a href={`${baseUrl}/?article=${art.uuid}`} style="font-size: 14px; font-weight: 500; color: var(--text-primary); text-decoration: none;">
             {art.title}
           </a>
           {art.summary && (

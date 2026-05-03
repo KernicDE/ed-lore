@@ -1,0 +1,37 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import EntityGraph from '../components/graph/EntityGraph';
+
+const baseUrl = (import.meta.env.BASE_URL || '').replace(/\/$/, '');
+---
+
+<BaseLayout
+  title="Entity Relationship Map — GalNet Chronicle"
+  description="Interactive network map of all Elite Dangerous lore entities and their relationships across 3301–3312."
+>
+  <header class="hud-header">
+    <div>
+      <a href={`${baseUrl}/`} style="text-decoration: none;" data-home-link>
+        <span class="hud-title">‹ GalNet Chronicle</span>
+      </a>
+    </div>
+    <span class="hud-subtitle">Relationship Map</span>
+  </header>
+
+  <div style="padding: 16px 24px 0;">
+    <div class="holo-panel">
+      <div class="holo-title">Entity Relationship Map</div>
+      <p style="margin: 4px 0 0; font-size: 13px; color: var(--text-secondary); line-height: 1.5;">
+        Network of lore entities connected by co-occurrence in GalNet articles.
+        Use the slider to control density. Click any node to open its profile.
+        Hover to highlight direct connections. Pinch or scroll to zoom.
+      </p>
+    </div>
+  </div>
+
+  <div style="padding: 0 24px 24px;">
+    <div class="holo-panel" style="padding: 0; overflow: hidden;">
+      <EntityGraph client:load mode="full" baseUrl={baseUrl} />
+    </div>
+  </div>
+</BaseLayout>

@@ -911,6 +911,102 @@ html, body {
   }
 }
 
+/* ── Nav link in entity/arc headers ────────────────────────────────────── */
+.hud-nav-link {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  color: var(--text-secondary);
+  text-decoration: none;
+  letter-spacing: 0.08em;
+  transition: color 0.15s;
+}
+.hud-nav-link:hover {
+  color: var(--elite-blue);
+}
+
+/* ── Relationship graph ─────────────────────────────────────────────────── */
+.graph-placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--bg-panel);
+  width: 100%;
+}
+
+.graph-controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  align-items: center;
+  padding: 14px 20px;
+  border-bottom: 1px solid var(--border-default);
+  background: var(--bg-elevated);
+}
+
+.graph-controls-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.graph-control-label {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  color: var(--text-secondary);
+  white-space: nowrap;
+}
+
+.graph-slider {
+  width: 160px;
+  accent-color: var(--elite-orange);
+  cursor: pointer;
+}
+
+.graph-type-filters {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.graph-filter-label {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-family: var(--font-mono);
+  font-size: 12px;
+  cursor: pointer;
+  text-transform: capitalize;
+}
+
+.graph-filter-label input[type="checkbox"] {
+  accent-color: currentColor;
+  cursor: pointer;
+}
+
+.graph-legend {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-left: auto;
+}
+
+.graph-legend-item {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--text-secondary);
+  text-transform: capitalize;
+}
+
+.graph-legend-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
 /* ── Responsive ─────────────────────────────────────────────────────────── */
 @media (max-width: 900px) {
   .context-pane {
@@ -935,5 +1031,16 @@ html, body {
   .timeline-year-header {
     padding: 8px 16px;
     font-size: 16px;
+  }
+  .graph-controls {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+  }
+  .graph-legend {
+    margin-left: 0;
+  }
+  .graph-slider {
+    width: 120px;
   }
 }
