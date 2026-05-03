@@ -29,6 +29,7 @@ interface Entity {
   first_seen_date: string;
   last_seen_date: string;
   mention_count: number;
+  related_entities?: { id: string; mentions: number; shared: number }[];
 }
 
 interface Arc {

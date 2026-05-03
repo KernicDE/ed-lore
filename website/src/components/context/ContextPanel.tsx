@@ -9,6 +9,7 @@ interface Entity {
   first_seen_date: string;
   last_seen_date: string;
   mention_count: number;
+  related_entities?: { id: string; mentions: number; shared: number }[];
 }
 
 interface Arc {
@@ -147,23 +148,77 @@ export default function ContextPanel({
     const nodes: MiniGraphData['nodes'] = [];
     const links: MiniGraphData['links'] = [];
     const nodeIds = new Set<string>();
+    const entityIds = new Set<string>();
 
+    // Primary context entity nodes (depth=1)
     for (const e of contextEntities) {
       nodes.push({ id: e.id, name: e.name, type: e.type, mentions: e.count, depth: 1 });
       nodeIds.add(e.id);
+      entityIds.add(e.id);
     }
+
+    // Direct entity-entity edges from related_entities
+    const addedLinks = new Set<string>();
+    for (const e of contextEntities) {
+      const full = entities[e.id];
+      if (!full?.related_entities) continue;
+      for (const rel of full.related_entities) {
+        if (!entityIds.has(rel.id)) continue;
+        const key = [e.id, rel.id].sort().join('|');
+        if (!addedLinks.has(key)) {
+          addedLinks.add(key);
+          links.push({ source: e.id, target: rel.id, weight: rel.shared || rel.mentions });
+        }
+      }
+    }
+
+    // Bridge nodes: entities in related_entities of ≥2 context entities (not already shown)
+    const bridgeCounts = new Map<string, string[]>();
+    for (const e of contextEntities) {
+      const full = entities[e.id];
+      if (!full?.related_entities) continue;
+      for (const rel of full.related_entities.slice(0, 6)) {
+        if (nodeIds.has(rel.id) || !entities[rel.id]) continue;
+        const entry = bridgeCounts.get(rel.id) || [];
+        entry.push(e.id);
+        bridgeCounts.set(rel.id, entry);
+      }
+    }
+    const bridges = Array.from(bridgeCounts.entries())
+      .filter(([, v]) => v.length >= 2)
+      .sort((a, b) => b[1].length - a[1].length)
+      .slice(0, 6);
+    for (const [bid, connectedTo] of bridges) {
+      const be = entities[bid];
+      if (!be) continue;
+      nodes.push({ id: bid, name: be.name, type: be.type, mentions: be.mention_count, depth: 2 });
+      nodeIds.add(bid);
+      for (const cid of connectedTo) {
+        const key = [bid, cid].sort().join('|');
+        if (!addedLinks.has(key)) {
+          addedLinks.add(key);
+          links.push({ source: bid, target: cid, weight: 1 });
+        }
+      }
+    }
+
+    // Arc nodes and arc-entity edges
     for (const arc of activeArcs.slice(0, 4)) {
       nodes.push({ id: arc.id, name: arc.name, type: 'arc', mentions: arc.mention_count, depth: 0 });
       nodeIds.add(arc.id);
       for (const ke of arc.key_entities) {
-        if (nodeIds.has(ke.id)) {
+        if (!nodeIds.has(ke.id)) continue;
+        const key = [arc.id, ke.id].sort().join('|');
+        if (!addedLinks.has(key)) {
+          addedLinks.add(key);
           links.push({ source: arc.id, target: ke.id, weight: ke.mentions });
         }
       }
     }
+
     if (links.length === 0) return null;
     return { nodes, links };
-  }, [contextEntities, activeArcs]);
+  }, [contextEntities, activeArcs, entities]);
 
   const currentYear = currentDate?.split('-')[0] || '';
 
