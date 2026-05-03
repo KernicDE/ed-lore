@@ -46,7 +46,7 @@ This file tracks manual enrichment progress for entity profiles. Each entry is e
 |---|--------|------|--------|-------|
 | 27 | Ishmael Palin | person | ✅ Done | Federal scientist, Palin Institute founder, kidnapping survivor, engineer at Abel Laboratory, Thargoid spire breakthrough |
 | 28 | Imperial Senate | faction | ✅ Done | Structure, powers, 3301 succession, NMLA crisis, Lords of Restoration scandal, 3309 heir debate |
-| 29 | Alioth | location | pending | |
+| 29 | Alioth | location | ✅ Done | Caker Rebellion, 3228 revolt, Alliance founding, Mic Turner & Meredith Argent, modern governance, corporate presence, key events |
 | 30 | Empire | faction | pending | |
 | 31 | Maia | location | pending | |
 | 32 | Federal Intelligence Agency | faction | pending | |
