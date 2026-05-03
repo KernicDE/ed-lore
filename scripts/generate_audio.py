@@ -171,13 +171,20 @@ async def main():
         if args.batch_size > 0 and len(queue) >= args.batch_size:
             break
     
-    # Clean up stale manifest entries for deleted articles
+    # Clean up stale manifest entries and MP3s for deleted articles
     valid_uuids = {uuid for uuid, _, _ in articles}
     stale = [u for u in list(manifest.keys()) if u not in valid_uuids]
+    removed_mp3s = 0
     for u in stale:
         del manifest[u]
+        stale_mp3 = AUDIO_DIR / f"{u}.mp3"
+        if stale_mp3.exists():
+            stale_mp3.unlink()
+            removed_mp3s += 1
     if stale:
         print(f"Removed {len(stale)} stale manifest entries for deleted articles")
+        if removed_mp3s:
+            print(f"  Also removed {removed_mp3s} stale MP3 files")
         MANIFEST_PATH.write_text(json.dumps(manifest, indent=2), encoding="utf-8")
 
     print(f"Need to generate: {len(queue)} articles (skipped {len(articles) - len(queue)})")
