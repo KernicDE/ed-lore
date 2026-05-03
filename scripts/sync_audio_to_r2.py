@@ -23,6 +23,7 @@ def get_account_id(token: str) -> str:
     resp = requests.get(
         f"{API_BASE}/accounts",
         headers={"Authorization": f"Bearer {token}"},
+        timeout=30,
     )
     resp.raise_for_status()
     data = resp.json()
@@ -37,7 +38,7 @@ def get_account_id(token: str) -> str:
 def ensure_bucket(token: str, account_id: str) -> bool:
     """Create bucket if it doesn't exist. Returns True if created."""
     url = f"{API_BASE}/accounts/{account_id}/r2/buckets/{BUCKET_NAME}"
-    resp = requests.put(url, headers={"Authorization": f"Bearer {token}"}, json={})
+    resp = requests.put(url, headers={"Authorization": f"Bearer {token}"}, json={}, timeout=30)
     if resp.status_code == 200:
         print(f"  Created bucket '{BUCKET_NAME}'")
         return True
@@ -48,6 +49,7 @@ def ensure_bucket(token: str, account_id: str) -> bool:
     list_resp = requests.get(
         f"{API_BASE}/accounts/{account_id}/r2/buckets",
         headers={"Authorization": f"Bearer {token}"},
+        timeout=30,
     )
     list_resp.raise_for_status()
     buckets = list_resp.json().get("result", {}).get("buckets", [])
@@ -62,31 +64,58 @@ def list_r2_keys(token: str, account_id: str) -> set[str]:
     """Return set of all object keys in bucket."""
     keys: set[str] = set()
     cursor = None
+    page = 0
     while True:
+        page += 1
         url = f"{API_BASE}/accounts/{account_id}/r2/buckets/{BUCKET_NAME}/objects"
-        params = {"limit": 1000}
+        params = {"per_page": 1000}
         if cursor:
             params["cursor"] = cursor
         resp = requests.get(
             url,
             headers={"Authorization": f"Bearer {token}"},
             params=params,
+            timeout=60,
         )
         resp.raise_for_status()
         data = resp.json()
         if not data.get("success"):
             raise RuntimeError(f"Failed to list objects: {data}")
+
         result = data.get("result", [])
-        # result can be a list (empty bucket) or a dict with objects
+        result_info = data.get("result_info", {})
+
+        # Cloudflare returns either a list of objects or a dict with {objects, truncated, cursor}
         if isinstance(result, list):
-            for obj in result:
-                keys.add(obj["key"])
-            break  # no pagination for list response
-        for obj in result.get("objects", []):
+            objects = result
+        else:
+            objects = result.get("objects", [])
+
+        for obj in objects:
             keys.add(obj["key"])
-        if not result.get("truncated", False):
+
+        print(f"  Listed page {page}: {len(objects)} objects (total: {len(keys)})")
+
+        # Determine next cursor — check both response formats
+        next_cursor = None
+        if result_info.get("cursor"):
+            next_cursor = result_info["cursor"]
+        elif isinstance(result, dict) and result.get("cursor"):
+            next_cursor = result["cursor"]
+
+        # Check if there are more pages
+        has_more = False
+        if result_info.get("cursor"):
+            has_more = True
+        elif isinstance(result, dict) and result.get("truncated", False):
+            has_more = True
+        elif len(objects) == 1000:
+            has_more = True  # fallback: full page likely means more
+
+        if not has_more or not next_cursor:
             break
-        cursor = result.get("cursor")
+        cursor = next_cursor
+
     return keys
 
 
@@ -100,6 +129,7 @@ def upload_file(token: str, account_id: str, key: str, file_path: Path) -> bool:
                 "Content-Type": "audio/mpeg",
             },
             data=f,
+            timeout=300,
         )
     if resp.status_code == 200:
         return True
@@ -136,10 +166,15 @@ def main():
     print("Listing R2 objects...")
     r2_keys = list_r2_keys(token, account_id)
     print(f"  R2 objects:  {len(r2_keys)}")
+    if r2_keys:
+        sample = sorted(r2_keys)[:5]
+        print(f"  Sample keys: {sample}")
+    else:
+        print("  WARNING: R2 bucket appears empty!")
 
     to_upload = []
     for fpath in local_files:
-        key = f"audio/{fpath.name}"
+        key = fpath.name
         if key not in r2_keys:
             to_upload.append((key, fpath))
 
