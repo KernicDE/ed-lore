@@ -72,7 +72,6 @@ export default function EntityGraph({ mode, miniData, baseUrl = '', height: heig
   const graphRef = useRef<any>(null);
   const [width, setWidth] = useState(0);
   const hoveredIdRef = useRef<string | null>(null);
-  const mouseDownRef = useRef<{ x: number; y: number } | null>(null);
 
   useEffect(() => {
     import('react-force-graph-2d').then((mod) => setForceGraph(() => mod.default));
@@ -173,7 +172,7 @@ export default function EntityGraph({ mode, miniData, baseUrl = '', height: heig
   const nodeCanvasObject = useCallback((node: GraphNode, ctx: CanvasRenderingContext2D, globalScale: number) => {
     const showLabel = mode === 'mini'
       ? (node.depth === 0 || node.depth === 1)
-      : node.mentions >= labelThreshold;
+      : (node.mentions >= labelThreshold || node.id === hoveredId);
     if (!showLabel) return;
 
     const label = node.name.length > 22 ? node.name.slice(0, 20) + '…' : node.name;
@@ -192,7 +191,7 @@ export default function EntityGraph({ mode, miniData, baseUrl = '', height: heig
     ctx.fillRect(node.x - tw / 2 - pad, yOff, tw + pad * 2, bh);
     ctx.fillStyle = node.depth === 0 ? '#ffffff' : 'rgba(200,200,200,0.95)';
     ctx.fillText(label, node.x, yOff + pad * 0.5);
-  }, [mode, labelThreshold]);
+  }, [mode, labelThreshold, hoveredId]);
 
   // Manual hover detection — bypasses shadow canvas entirely
   const handlePointerMove = useCallback((e: React.MouseEvent<HTMLDivElement>) => {
@@ -223,54 +222,18 @@ export default function EntityGraph({ mode, miniData, baseUrl = '', height: heig
     }
   }, [graphData.nodes, mode]);
 
-  const handlePointerDown = useCallback((e: React.MouseEvent) => {
-    mouseDownRef.current = { x: e.clientX, y: e.clientY };
-  }, []);
-
-  // Manual click detection — navigate if mouse didn't move (not a drag)
-  const handleClick = useCallback((e: React.MouseEvent<HTMLDivElement>) => {
-    const fg = graphRef.current;
-    if (!fg || !wrapperRef.current || !mouseDownRef.current) return;
-    const dx = e.clientX - mouseDownRef.current.x;
-    const dy = e.clientY - mouseDownRef.current.y;
-    if (dx * dx + dy * dy > 16) return; // was a drag
-
-    const rect = wrapperRef.current.getBoundingClientRect();
-    const gc = fg.screen2GraphCoords(e.clientX - rect.left, e.clientY - rect.top);
-    const zoom: number = fg.zoom() ?? 1;
-    const minR = 8 / zoom;
-
-    let found: GraphNode | null = null;
-    let best = Infinity;
-    for (const node of graphData.nodes as any[]) {
-      if (node.x == null || node.y == null) continue;
-      const ndx = node.x - gc.x;
-      const ndy = node.y - gc.y;
-      const r = Math.max(minR, visRadius(node as GraphNode, mode));
-      const distSq = ndx * ndx + ndy * ndy;
-      if (distSq <= r * r && distSq < best) {
-        best = distSq;
-        found = node as GraphNode;
-      }
-    }
-
-    if (found) {
-      if (found.type === 'arc') window.location.href = `${baseUrl}/arc/${found.id}/`;
-      else window.location.href = `${baseUrl}/entity/${found.id}/`;
-    }
-  }, [graphData.nodes, mode, baseUrl]);
 
   const configureForces = useCallback(() => {
     const fg = graphRef.current;
     if (!fg) return;
 
     if (mode === 'full') {
-      // Weight-based link distances cluster tightly connected nodes together
-      fg.d3Force('charge')?.strength(-180).distanceMax(150);
+      // Charge only repels locally; center pulls everything toward origin
+      fg.d3Force('charge')?.strength(-120).distanceMax(200);
       fg.d3Force('link')
-        ?.strength(0.5)
-        .distance((link: any) => Math.max(8, 60 / Math.log((link.weight || 1) + 2)));
-      fg.d3Force('center')?.strength(0.05);
+        ?.strength(0.6)
+        .distance((link: any) => Math.max(8, 50 / Math.log((link.weight || 1) + 2)));
+      fg.d3Force('center')?.strength(0.15); // stronger pull keeps isolated nodes from drifting
     }
 
     // Collision force keeps nodes from overlapping (uses actual visual radius)
@@ -330,8 +293,6 @@ export default function EntityGraph({ mode, miniData, baseUrl = '', height: heig
         style={{ width: '100%', cursor: hoveredId ? 'pointer' : 'default' }}
         onMouseMove={handlePointerMove}
         onMouseLeave={() => { hoveredIdRef.current = null; setHoveredId(null); }}
-        onMouseDown={handlePointerDown}
-        onClick={handleClick}
       >
         {!isReady ? (
           <div className="graph-placeholder" style={{ height }}>
@@ -357,7 +318,10 @@ export default function EntityGraph({ mode, miniData, baseUrl = '', height: heig
                 ? Math.max(1.5, Math.log(((link.weight as number) || 1) + 1) * 1.2)
                 : Math.max(0.8, Math.log(((link.weight as number) || 1) + 1) * 0.65)
             }
-            onNodeClick={() => null}
+            onNodeClick={(node: GraphNode) => {
+              if (node.type === 'arc') window.location.href = `${baseUrl}/arc/${node.id}/`;
+              else window.location.href = `${baseUrl}/entity/${node.id}/`;
+            }}
             onNodeHover={() => null}
             onEngineStart={configureForces}
             onEngineStop={handleEngineStop}
