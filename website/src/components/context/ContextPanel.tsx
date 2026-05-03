@@ -159,8 +159,42 @@ export default function ContextPanel({
     technology: 'T',
   };
 
+  const baseUrl = (import.meta.env.BASE_URL || '').replace(/\/$/, '');
+
   return (
     <div className="context-pane">
+      {/* Map link */}
+      <a
+        href={`${baseUrl}/map/`}
+        style={{
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'center',
+          gap: 8,
+          padding: '10px 16px',
+          margin: '12px 12px 0',
+          border: '1px solid var(--border-glow)',
+          borderRadius: 'var(--panel-radius)',
+          color: 'var(--elite-orange)',
+          fontFamily: 'var(--font-hud)',
+          fontSize: 12,
+          letterSpacing: '0.1em',
+          textDecoration: 'none',
+          textTransform: 'uppercase',
+          transition: 'border-color 0.2s, box-shadow 0.2s',
+        }}
+        onMouseEnter={(e) => {
+          (e.currentTarget as HTMLAnchorElement).style.borderColor = 'var(--elite-orange)';
+          (e.currentTarget as HTMLAnchorElement).style.boxShadow = 'var(--glow-orange)';
+        }}
+        onMouseLeave={(e) => {
+          (e.currentTarget as HTMLAnchorElement).style.borderColor = 'var(--border-glow)';
+          (e.currentTarget as HTMLAnchorElement).style.boxShadow = 'none';
+        }}
+      >
+        ◈ Relationship Map
+      </a>
+
       {/* Year Slider */}
       {sliderYears.length > 0 && (
         <div className="holo-panel">
