@@ -174,7 +174,7 @@ def main():
 
     to_upload = []
     for fpath in local_files:
-        key = fpath.name
+        key = f"audio/{fpath.name}"
         if key not in r2_keys:
             to_upload.append((key, fpath))
 
