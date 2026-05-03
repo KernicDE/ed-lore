@@ -45,6 +45,16 @@ function resolveId(n: string | GraphNode): string {
   return typeof n === 'object' ? n.id : n;
 }
 
+// Visual radius in graph units for a given node
+function nodeRadius(node: GraphNode, mode: string): number {
+  if (mode === 'mini') {
+    if (node.depth === 0) return Math.sqrt(8) * 2;
+    if (node.depth === 2) return Math.sqrt(2) * 2;
+    return Math.sqrt(4) * 2;
+  }
+  return Math.sqrt(Math.max(1.5, Math.log(node.mentions + 1) * 2)) * 2;
+}
+
 export default function EntityGraph({ mode, miniData, baseUrl = '', height: heightProp }: EntityGraphProps) {
   const [ForceGraph, setForceGraph] = useState<any>(null);
   const [fullData, setFullData] = useState<{ nodes: GraphNode[]; edges: { source: string; target: string; weight: number }[] } | null>(null);
@@ -116,11 +126,11 @@ export default function EntityGraph({ mode, miniData, baseUrl = '', height: heig
     return map;
   }, [graphData.nodes]);
 
-  // Threshold for full-mode labels: top ~10% of visible nodes
+  // Threshold for full-mode labels: top ~10% by mention count
   const labelThreshold = useMemo(() => {
     if (mode !== 'full' || graphData.nodes.length === 0) return Infinity;
     const sorted = [...graphData.nodes].sort((a, b) => b.mentions - a.mentions);
-    const cutoff = Math.max(1, Math.floor(sorted.length * 0.1)) - 1;
+    const cutoff = Math.max(0, Math.floor(sorted.length * 0.1) - 1);
     return sorted[cutoff]?.mentions ?? 0;
   }, [mode, graphData.nodes]);
 
@@ -128,13 +138,13 @@ export default function EntityGraph({ mode, miniData, baseUrl = '', height: heig
     const base = TYPE_COLORS[node.type] || '#888888';
     if (mode === 'mini') {
       if (node.depth === 0) return '#ffffff';
-      if (node.depth === 2) return hexToRgba(base, 0.35);
+      if (node.depth === 2) return hexToRgba(base, 0.4);
       return base;
     }
     if (!hoveredId) return base;
     if (node.id === hoveredId) return '#ffffff';
     if (neighborMap.get(hoveredId)?.has(node.id)) return base;
-    return hexToRgba(base, 0.15);
+    return hexToRgba(base, 0.12);
   }, [mode, hoveredId, neighborMap]);
 
   const getLinkColor = useCallback((link: GraphLink): string => {
@@ -143,59 +153,61 @@ export default function EntityGraph({ mode, miniData, baseUrl = '', height: heig
     if (mode === 'mini') {
       const sd = depthMap.get(s) ?? 1;
       const td = depthMap.get(t) ?? 1;
-      return (sd === 2 || td === 2) ? 'rgba(255,255,255,0.08)' : 'rgba(255,255,255,0.45)';
+      return (sd === 2 || td === 2) ? 'rgba(255,255,255,0.15)' : 'rgba(255,255,255,0.6)';
     }
-    if (!hoveredId) return 'rgba(255,255,255,0.12)';
-    if (s === hoveredId || t === hoveredId) return 'rgba(255,255,255,0.55)';
-    return 'rgba(255,255,255,0.03)';
+    if (!hoveredId) return 'rgba(255,255,255,0.18)';
+    if (s === hoveredId || t === hoveredId) return 'rgba(255,255,255,0.7)';
+    return 'rgba(255,255,255,0.04)';
   }, [mode, hoveredId, depthMap]);
 
   const getNodeVal = useCallback((node: GraphNode): number => {
     if (mode === 'mini') {
-      if (node.depth === 0) return 22;
-      if (node.depth === 2) return 6;
-      return 12;
+      if (node.depth === 0) return 8;
+      if (node.depth === 2) return 2;
+      return 4;
     }
-    return Math.max(6, Math.log(node.mentions + 1) * 4.5);
+    return Math.max(1.5, Math.log(node.mentions + 1) * 2);
   }, [mode]);
 
-  // nodeCanvasObject draws labels after the default circle (mode="after")
-  const nodeCanvasObject = useCallback((node: GraphNode, ctx: CanvasRenderingContext2D) => {
-    // ctx is pre-translated to node position — 0,0 = node center
+  // Labels drawn on top of the default circle (nodeCanvasObjectMode="after")
+  // ctx is NOT pre-translated — use node.x, node.y as origin
+  const nodeCanvasObject = useCallback((node: GraphNode, ctx: CanvasRenderingContext2D, globalScale: number) => {
     const showLabel = mode === 'mini'
       ? (node.depth === 0 || node.depth === 1)
       : node.mentions >= labelThreshold;
     if (!showLabel) return;
 
     const label = node.name.length > 20 ? node.name.slice(0, 18) + '…' : node.name;
-    const nodeRadius = Math.sqrt(getNodeVal(node)) * 2;
+    const r = nodeRadius(node, mode);
 
-    const fontSize = mode === 'mini' && node.depth === 0 ? 4.5 : 3.5;
+    // Keep font at ~11px on screen regardless of zoom
+    const fontSize = 11 / globalScale;
     ctx.font = `${fontSize}px monospace`;
     ctx.textAlign = 'center';
     ctx.textBaseline = 'top';
 
     const textWidth = ctx.measureText(label).width;
-    const yOffset = nodeRadius * 0.6 + 1;
-    const bh = fontSize + 1.5;
+    const pad = 1.5 / globalScale;
+    const yOff = node.y + r + 1.5 / globalScale;
+    const bh = fontSize + pad * 2;
 
-    ctx.fillStyle = 'rgba(8, 10, 18, 0.82)';
-    ctx.fillRect(-textWidth / 2 - 1, yOffset, textWidth + 2, bh);
+    ctx.fillStyle = 'rgba(6, 8, 16, 0.85)';
+    ctx.fillRect(node.x - textWidth / 2 - pad, yOff, textWidth + pad * 2, bh);
 
-    ctx.fillStyle = node.depth === 0 ? '#ffffff' : 'rgba(210, 210, 210, 0.95)';
-    ctx.fillText(label, 0, yOffset + 0.5);
-  }, [mode, labelThreshold, getNodeVal]);
+    ctx.fillStyle = mode === 'mini' && node.depth === 0 ? '#ffffff' : 'rgba(200,200,200,0.95)';
+    ctx.fillText(label, node.x, yOff + pad * 0.5);
+  }, [mode, labelThreshold]);
 
-  // Extended hit area — nodePointerAreaPaint coords are NOT pre-translated
-  const nodePointerAreaPaint = useCallback((node: any, color: string, ctx: CanvasRenderingContext2D) => {
-    const val = mode === 'mini'
-      ? (node.depth === 0 ? 22 : node.depth === 2 ? 6 : 12)
-      : Math.max(6, Math.log((node.mentions || 1) + 1) * 4.5);
+  // Hit area — ctx is NOT pre-translated; enforce minimum 8px screen radius at any zoom
+  const nodePointerAreaPaint = useCallback((node: any, color: string, ctx: CanvasRenderingContext2D, globalScale: number) => {
+    const val = getNodeVal(node as GraphNode);
+    const minScreenPx = 8;
+    const radius = Math.max(minScreenPx / globalScale, Math.sqrt(val) * 2);
     ctx.fillStyle = color;
     ctx.beginPath();
-    ctx.arc(node.x ?? 0, node.y ?? 0, Math.max(10, Math.sqrt(val) * 2.5), 0, 2 * Math.PI);
+    ctx.arc(node.x ?? 0, node.y ?? 0, radius, 0, 2 * Math.PI);
     ctx.fill();
-  }, [mode]);
+  }, [getNodeVal]);
 
   const handleNodeClick = useCallback((node: GraphNode) => {
     if (node.type === 'arc') {
@@ -208,14 +220,13 @@ export default function EntityGraph({ mode, miniData, baseUrl = '', height: heig
   const configureForces = useCallback(() => {
     const fg = graphRef.current;
     if (!fg || mode !== 'full') return;
-    // Stronger repulsion + weight-based link distances push clusters apart
-    fg.d3Force('charge')?.strength(-400).distanceMax(300);
-    fg.d3Force('link')?.distance((link: any) =>
-      Math.max(20, 80 / Math.log((link.weight || 1) + 2))
-    );
+    // Strong local repulsion keeps nodes apart; weight-based link distances cluster tightly connected nodes
+    fg.d3Force('charge')?.strength(-250).distanceMax(120);
+    fg.d3Force('link')
+      ?.strength(0.4)
+      .distance((link: any) => Math.max(5, 80 / Math.log((link.weight || 1) + 2)));
   }, [mode]);
 
-  // After simulation settles, fit mini graphs into view
   const handleEngineStop = useCallback(() => {
     const fg = graphRef.current;
     if (!fg || mode !== 'mini') return;
@@ -223,6 +234,7 @@ export default function EntityGraph({ mode, miniData, baseUrl = '', height: heig
   }, [mode]);
 
   const height = heightProp ?? (mode === 'mini' ? 340 : Math.max(500, (typeof window !== 'undefined' ? window.innerHeight : 800) - 180));
+  const maxNodes = fullData?.nodes.length ?? 3484;
 
   const isReady = ForceGraph && width > 0 && (mode !== 'full' || fullData !== null);
 
@@ -235,7 +247,7 @@ export default function EntityGraph({ mode, miniData, baseUrl = '', height: heig
               Nodes: <strong>{nodeCount}</strong>
             </label>
             <input
-              type="range" min={50} max={fullData?.nodes.length ?? 1110} step={10}
+              type="range" min={50} max={maxNodes} step={10}
               value={nodeCount}
               onChange={(e) => setNodeCount(Number(e.target.value))}
               className="graph-slider"
@@ -287,8 +299,8 @@ export default function EntityGraph({ mode, miniData, baseUrl = '', height: heig
             linkColor={getLinkColor}
             linkWidth={(link: GraphLink) =>
               mode === 'mini'
-                ? Math.max(1, Math.log(((link.weight as number) || 1) + 1) * 0.9)
-                : Math.max(0.5, Math.log(((link.weight as number) || 1) + 1) * 0.4)
+                ? Math.max(1.5, Math.log(((link.weight as number) || 1) + 1) * 1.2)
+                : Math.max(0.8, Math.log(((link.weight as number) || 1) + 1) * 0.6)
             }
             onNodeClick={handleNodeClick}
             onNodeHover={(node: GraphNode | null) => setHoveredId(node?.id ?? null)}
@@ -296,13 +308,13 @@ export default function EntityGraph({ mode, miniData, baseUrl = '', height: heig
             onEngineStop={handleEngineStop}
             backgroundColor="transparent"
             autoPauseRedraw={false}
-            warmupTicks={mode === 'mini' ? 60 : 120}
-            cooldownTicks={mode === 'mini' ? 60 : 150}
-            d3AlphaDecay={mode === 'mini' ? 0.04 : 0.02}
-            d3VelocityDecay={0.3}
+            warmupTicks={mode === 'mini' ? 80 : 150}
+            cooldownTicks={mode === 'mini' ? 50 : 100}
+            d3AlphaDecay={mode === 'mini' ? 0.05 : 0.025}
+            d3VelocityDecay={0.4}
             enableNodeDrag={true}
             enableZoomInteraction={true}
-            minZoom={0.1}
+            minZoom={0.05}
             maxZoom={12}
           />
         )}

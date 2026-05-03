@@ -598,7 +598,7 @@ def main() -> int:
     graph_nodes = [
         {"id": eid, "name": rec["name"], "type": rec.get("type", "person"), "mentions": rec.get("mention_count", 0)}
         for eid, rec in graph["entities"].items()
-        if rec.get("mention_count", 0) >= 3
+        if rec.get("mention_count", 0) >= 1
     ]
     graph_node_ids = {n["id"] for n in graph_nodes}
     edge_map: dict[tuple[str, str], int] = {}
