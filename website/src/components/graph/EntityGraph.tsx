@@ -1,4 +1,5 @@
 import { useState, useEffect, useRef, useMemo, useCallback } from 'react';
+import { forceCollide } from 'd3-force-3d';
 
 export interface GraphNode {
   id: string;
@@ -45,14 +46,18 @@ function resolveId(n: string | GraphNode): string {
   return typeof n === 'object' ? n.id : n;
 }
 
-// Visual radius in graph units for a given node
-function nodeRadius(node: GraphNode, mode: string): number {
+// nodeVal matches getNodeVal below; visual radius = sqrt(val) * 4 (library nodeRelSize=4)
+function getVal(node: GraphNode, mode: string): number {
   if (mode === 'mini') {
-    if (node.depth === 0) return Math.sqrt(8) * 2;
-    if (node.depth === 2) return Math.sqrt(2) * 2;
-    return Math.sqrt(4) * 2;
+    if (node.depth === 0) return 4;
+    if (node.depth === 2) return 1;
+    return 2;
   }
-  return Math.sqrt(Math.max(1.5, Math.log(node.mentions + 1) * 2)) * 2;
+  return Math.max(0.7, Math.log(node.mentions + 1) * 1.0);
+}
+
+function visRadius(node: GraphNode, mode: string): number {
+  return Math.sqrt(getVal(node, mode)) * 4; // must match library nodeRelSize=4
 }
 
 export default function EntityGraph({ mode, miniData, baseUrl = '', height: heightProp }: EntityGraphProps) {
@@ -66,6 +71,8 @@ export default function EntityGraph({ mode, miniData, baseUrl = '', height: heig
   const wrapperRef = useRef<HTMLDivElement>(null);
   const graphRef = useRef<any>(null);
   const [width, setWidth] = useState(0);
+  const hoveredIdRef = useRef<string | null>(null);
+  const mouseDownRef = useRef<{ x: number; y: number } | null>(null);
 
   useEffect(() => {
     import('react-force-graph-2d').then((mod) => setForceGraph(() => mod.default));
@@ -126,7 +133,7 @@ export default function EntityGraph({ mode, miniData, baseUrl = '', height: heig
     return map;
   }, [graphData.nodes]);
 
-  // Threshold for full-mode labels: top ~10% by mention count
+  // Top 10% by mentions get permanent labels
   const labelThreshold = useMemo(() => {
     if (mode !== 'full' || graphData.nodes.length === 0) return Infinity;
     const sorted = [...graphData.nodes].sort((a, b) => b.mentions - a.mentions);
@@ -153,89 +160,131 @@ export default function EntityGraph({ mode, miniData, baseUrl = '', height: heig
     if (mode === 'mini') {
       const sd = depthMap.get(s) ?? 1;
       const td = depthMap.get(t) ?? 1;
-      return (sd === 2 || td === 2) ? 'rgba(255,255,255,0.15)' : 'rgba(255,255,255,0.6)';
+      return (sd === 2 || td === 2) ? 'rgba(255,255,255,0.15)' : 'rgba(255,255,255,0.65)';
     }
-    if (!hoveredId) return 'rgba(255,255,255,0.18)';
-    if (s === hoveredId || t === hoveredId) return 'rgba(255,255,255,0.7)';
+    if (!hoveredId) return 'rgba(255,255,255,0.2)';
+    if (s === hoveredId || t === hoveredId) return 'rgba(255,255,255,0.75)';
     return 'rgba(255,255,255,0.04)';
   }, [mode, hoveredId, depthMap]);
 
-  const getNodeVal = useCallback((node: GraphNode): number => {
-    if (mode === 'mini') {
-      if (node.depth === 0) return 8;
-      if (node.depth === 2) return 2;
-      return 4;
-    }
-    return Math.max(1.5, Math.log(node.mentions + 1) * 2);
-  }, [mode]);
+  const getNodeVal = useCallback((node: GraphNode): number => getVal(node, mode), [mode]);
 
-  // Labels drawn on top of the default circle (nodeCanvasObjectMode="after")
-  // ctx is NOT pre-translated — use node.x, node.y as origin
+  // Labels drawn after default circle; ctx is NOT pre-translated (use node.x, node.y)
   const nodeCanvasObject = useCallback((node: GraphNode, ctx: CanvasRenderingContext2D, globalScale: number) => {
     const showLabel = mode === 'mini'
       ? (node.depth === 0 || node.depth === 1)
       : node.mentions >= labelThreshold;
     if (!showLabel) return;
 
-    const label = node.name.length > 20 ? node.name.slice(0, 18) + '…' : node.name;
-    const r = nodeRadius(node, mode);
-
-    // Keep font at ~11px on screen regardless of zoom
-    const fontSize = 11 / globalScale;
+    const label = node.name.length > 22 ? node.name.slice(0, 20) + '…' : node.name;
+    const r = visRadius(node, mode);
+    const fontSize = 11 / globalScale; // 11px on screen at any zoom
     ctx.font = `${fontSize}px monospace`;
     ctx.textAlign = 'center';
     ctx.textBaseline = 'top';
 
-    const textWidth = ctx.measureText(label).width;
+    const tw = ctx.measureText(label).width;
     const pad = 1.5 / globalScale;
-    const yOff = node.y + r + 1.5 / globalScale;
+    const yOff = node.y + r + 2 / globalScale;
     const bh = fontSize + pad * 2;
 
-    ctx.fillStyle = 'rgba(6, 8, 16, 0.85)';
-    ctx.fillRect(node.x - textWidth / 2 - pad, yOff, textWidth + pad * 2, bh);
-
-    ctx.fillStyle = mode === 'mini' && node.depth === 0 ? '#ffffff' : 'rgba(200,200,200,0.95)';
+    ctx.fillStyle = 'rgba(6,8,16,0.88)';
+    ctx.fillRect(node.x - tw / 2 - pad, yOff, tw + pad * 2, bh);
+    ctx.fillStyle = node.depth === 0 ? '#ffffff' : 'rgba(200,200,200,0.95)';
     ctx.fillText(label, node.x, yOff + pad * 0.5);
   }, [mode, labelThreshold]);
 
-  // Hit area — ctx is NOT pre-translated; enforce minimum 8px screen radius at any zoom
-  const nodePointerAreaPaint = useCallback((node: any, color: string, ctx: CanvasRenderingContext2D, globalScale: number) => {
-    const val = getNodeVal(node as GraphNode);
-    const minScreenPx = 8;
-    const radius = Math.max(minScreenPx / globalScale, Math.sqrt(val) * 2);
-    ctx.fillStyle = color;
-    ctx.beginPath();
-    ctx.arc(node.x ?? 0, node.y ?? 0, radius, 0, 2 * Math.PI);
-    ctx.fill();
-  }, [getNodeVal]);
+  // Manual hover detection — bypasses shadow canvas entirely
+  const handlePointerMove = useCallback((e: React.MouseEvent<HTMLDivElement>) => {
+    const fg = graphRef.current;
+    if (!fg || !wrapperRef.current) return;
+    const rect = wrapperRef.current.getBoundingClientRect();
+    const gc = fg.screen2GraphCoords(e.clientX - rect.left, e.clientY - rect.top);
+    const zoom: number = fg.zoom() ?? 1;
+    const minR = 6 / zoom; // 6px screen minimum
 
-  const handleNodeClick = useCallback((node: GraphNode) => {
-    if (node.type === 'arc') {
-      window.location.href = `${baseUrl}/arc/${node.id}/`;
-    } else {
-      window.location.href = `${baseUrl}/entity/${node.id}/`;
+    let found: string | null = null;
+    let best = Infinity;
+    for (const node of graphData.nodes as any[]) {
+      if (node.x == null || node.y == null) continue;
+      const dx = node.x - gc.x;
+      const dy = node.y - gc.y;
+      const r = Math.max(minR, visRadius(node as GraphNode, mode));
+      const distSq = dx * dx + dy * dy;
+      if (distSq <= r * r && distSq < best) {
+        best = distSq;
+        found = node.id;
+      }
     }
-  }, [baseUrl]);
+
+    if (found !== hoveredIdRef.current) {
+      hoveredIdRef.current = found;
+      setHoveredId(found);
+    }
+  }, [graphData.nodes, mode]);
+
+  const handlePointerDown = useCallback((e: React.MouseEvent) => {
+    mouseDownRef.current = { x: e.clientX, y: e.clientY };
+  }, []);
+
+  // Manual click detection — navigate if mouse didn't move (not a drag)
+  const handleClick = useCallback((e: React.MouseEvent<HTMLDivElement>) => {
+    const fg = graphRef.current;
+    if (!fg || !wrapperRef.current || !mouseDownRef.current) return;
+    const dx = e.clientX - mouseDownRef.current.x;
+    const dy = e.clientY - mouseDownRef.current.y;
+    if (dx * dx + dy * dy > 16) return; // was a drag
+
+    const rect = wrapperRef.current.getBoundingClientRect();
+    const gc = fg.screen2GraphCoords(e.clientX - rect.left, e.clientY - rect.top);
+    const zoom: number = fg.zoom() ?? 1;
+    const minR = 8 / zoom;
+
+    let found: GraphNode | null = null;
+    let best = Infinity;
+    for (const node of graphData.nodes as any[]) {
+      if (node.x == null || node.y == null) continue;
+      const ndx = node.x - gc.x;
+      const ndy = node.y - gc.y;
+      const r = Math.max(minR, visRadius(node as GraphNode, mode));
+      const distSq = ndx * ndx + ndy * ndy;
+      if (distSq <= r * r && distSq < best) {
+        best = distSq;
+        found = node as GraphNode;
+      }
+    }
+
+    if (found) {
+      if (found.type === 'arc') window.location.href = `${baseUrl}/arc/${found.id}/`;
+      else window.location.href = `${baseUrl}/entity/${found.id}/`;
+    }
+  }, [graphData.nodes, mode, baseUrl]);
 
   const configureForces = useCallback(() => {
     const fg = graphRef.current;
-    if (!fg || mode !== 'full') return;
-    // Strong local repulsion keeps nodes apart; weight-based link distances cluster tightly connected nodes
-    fg.d3Force('charge')?.strength(-250).distanceMax(120);
-    fg.d3Force('link')
-      ?.strength(0.4)
-      .distance((link: any) => Math.max(5, 80 / Math.log((link.weight || 1) + 2)));
+    if (!fg) return;
+
+    if (mode === 'full') {
+      // Weight-based link distances cluster tightly connected nodes together
+      fg.d3Force('charge')?.strength(-180).distanceMax(150);
+      fg.d3Force('link')
+        ?.strength(0.5)
+        .distance((link: any) => Math.max(8, 60 / Math.log((link.weight || 1) + 2)));
+      fg.d3Force('center')?.strength(0.05);
+    }
+
+    // Collision force keeps nodes from overlapping (uses actual visual radius)
+    fg.d3Force('collide', forceCollide((node: any) => visRadius(node as GraphNode, mode) + 2));
   }, [mode]);
 
   const handleEngineStop = useCallback(() => {
     const fg = graphRef.current;
     if (!fg || mode !== 'mini') return;
-    fg.zoomToFit(300, 16);
+    fg.zoomToFit(300, 20);
   }, [mode]);
 
   const height = heightProp ?? (mode === 'mini' ? 340 : Math.max(500, (typeof window !== 'undefined' ? window.innerHeight : 800) - 180));
   const maxNodes = fullData?.nodes.length ?? 3484;
-
   const isReady = ForceGraph && width > 0 && (mode !== 'full' || fullData !== null);
 
   return (
@@ -276,7 +325,14 @@ export default function EntityGraph({ mode, miniData, baseUrl = '', height: heig
         </div>
       )}
 
-      <div ref={wrapperRef} style={{ width: '100%' }}>
+      <div
+        ref={wrapperRef}
+        style={{ width: '100%', cursor: hoveredId ? 'pointer' : 'default' }}
+        onMouseMove={handlePointerMove}
+        onMouseLeave={() => { hoveredIdRef.current = null; setHoveredId(null); }}
+        onMouseDown={handlePointerDown}
+        onClick={handleClick}
+      >
         {!isReady ? (
           <div className="graph-placeholder" style={{ height }}>
             <span style={{ color: 'var(--text-dim)', fontFamily: 'var(--font-mono)', fontSize: 12 }}>
@@ -295,23 +351,22 @@ export default function EntityGraph({ mode, miniData, baseUrl = '', height: heig
             nodeLabel={(n: GraphNode) => `${n.name} (${n.mentions} mentions)`}
             nodeCanvasObjectMode="after"
             nodeCanvasObject={nodeCanvasObject}
-            nodePointerAreaPaint={nodePointerAreaPaint}
             linkColor={getLinkColor}
             linkWidth={(link: GraphLink) =>
               mode === 'mini'
                 ? Math.max(1.5, Math.log(((link.weight as number) || 1) + 1) * 1.2)
-                : Math.max(0.8, Math.log(((link.weight as number) || 1) + 1) * 0.6)
+                : Math.max(0.8, Math.log(((link.weight as number) || 1) + 1) * 0.65)
             }
-            onNodeClick={handleNodeClick}
-            onNodeHover={(node: GraphNode | null) => setHoveredId(node?.id ?? null)}
+            onNodeClick={() => null}
+            onNodeHover={() => null}
             onEngineStart={configureForces}
             onEngineStop={handleEngineStop}
             backgroundColor="transparent"
             autoPauseRedraw={false}
-            warmupTicks={mode === 'mini' ? 80 : 150}
-            cooldownTicks={mode === 'mini' ? 50 : 100}
-            d3AlphaDecay={mode === 'mini' ? 0.05 : 0.025}
-            d3VelocityDecay={0.4}
+            warmupTicks={mode === 'mini' ? 20 : 0}
+            cooldownTicks={mode === 'mini' ? 80 : 200}
+            d3AlphaDecay={mode === 'mini' ? 0.03 : 0.015}
+            d3VelocityDecay={0.35}
             enableNodeDrag={true}
             enableZoomInteraction={true}
             minZoom={0.05}
