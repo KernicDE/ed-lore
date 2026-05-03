@@ -172,33 +172,40 @@ export default function EntityGraph({ mode, miniData, baseUrl = '', height: heig
 
   const getNodeVal = useCallback((node: GraphNode): number => getVal(node, mode), [mode]);
 
-  // Labels drawn after default circle; ctx is NOT pre-translated (use node.x, node.y).
-  // Reads from refs so the force-graph animation loop always sees current values
-  // without depending on React re-renders updating the callback.
-  const nodeCanvasObject = useCallback((node: GraphNode, ctx: CanvasRenderingContext2D, globalScale: number) => {
+  // Draw ALL labels after ALL nodes/links — avoids node circles covering labels.
+  // onRenderFramePost fires once per frame after the full scene is painted.
+  // Reads from refs so the stable callback always sees current values.
+  const onRenderFramePost = useCallback((ctx: CanvasRenderingContext2D, globalScale: number) => {
     const hId = hoveredIdRef.current;
     const lThreshold = labelThresholdRef.current;
-    const showLabel = mode === 'mini'
-      ? (node.depth === 0 || node.depth === 1 || node.id === hId)
-      : (node.mentions >= lThreshold || node.id === hId);
-    if (!showLabel) return;
+    const nodes = nodesRef.current as any[];
+    if (nodes.length === 0) return;
 
-    const label = node.name.length > 22 ? node.name.slice(0, 20) + '…' : node.name;
-    const r = visRadius(node, mode);
-    const fontSize = 11 / globalScale; // 11px on screen at any zoom
+    const fontSize = 11 / globalScale;
+    const pad = 1.5 / globalScale;
     ctx.font = `${fontSize}px monospace`;
     ctx.textAlign = 'center';
     ctx.textBaseline = 'top';
 
-    const tw = ctx.measureText(label).width;
-    const pad = 1.5 / globalScale;
-    const yOff = node.y + r + 2 / globalScale;
-    const bh = fontSize + pad * 2;
+    for (const node of nodes) {
+      if (node.x == null || node.y == null) continue;
+      const showLabel = mode === 'mini'
+        ? (node.depth === 0 || node.depth === 1 || node.id === hId)
+        : (node.mentions >= lThreshold || node.id === hId);
+      if (!showLabel) continue;
 
-    ctx.fillStyle = 'rgba(6,8,16,0.88)';
-    ctx.fillRect(node.x - tw / 2 - pad, yOff, tw + pad * 2, bh);
-    ctx.fillStyle = node.depth === 0 ? '#ffffff' : 'rgba(200,200,200,0.95)';
-    ctx.fillText(label, node.x, yOff + pad * 0.5);
+      const label = (node.name as string).length > 22
+        ? (node.name as string).slice(0, 20) + '…'
+        : (node.name as string);
+      const r = visRadius(node as GraphNode, mode);
+      const tw = ctx.measureText(label).width;
+      const yOff = node.y + r + 2 / globalScale;
+
+      ctx.fillStyle = 'rgba(6,8,16,0.88)';
+      ctx.fillRect(node.x - tw / 2 - pad, yOff, tw + pad * 2, fontSize + pad * 2);
+      ctx.fillStyle = node.depth === 0 ? '#ffffff' : 'rgba(200,200,200,0.95)';
+      ctx.fillText(label, node.x, yOff + pad * 0.5);
+    }
   }, [mode]); // stable — reads all dynamic state from refs
 
   // Window-level capture: fires before d3-drag can stopPropagation, so ALL nodes are clickable
@@ -365,9 +372,8 @@ export default function EntityGraph({ mode, miniData, baseUrl = '', height: heig
             nodeId="id"
             nodeColor={getNodeColor}
             nodeVal={getNodeVal}
-            nodeLabel={(n: GraphNode) => `${n.name} (${n.mentions} mentions)`}
-            nodeCanvasObjectMode="after"
-            nodeCanvasObject={nodeCanvasObject}
+            nodeLabel={() => ''}
+            onRenderFramePost={onRenderFramePost}
             linkColor={getLinkColor}
             linkWidth={(link: GraphLink) =>
               mode === 'mini'
