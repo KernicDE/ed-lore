@@ -15,7 +15,6 @@ function escapeXml(str: string): string {
 export const GET: APIRoute = () => {
   const baseUrl = 'https://kernicde.github.io/ed-lore';
   const articles = (graphData.articles as any[])
-    .filter((a) => a.summary)
     .sort((a, b) => (b.date || '').localeCompare(a.date || ''))
     .slice(0, 200);
 
@@ -26,12 +25,9 @@ export const GET: APIRoute = () => {
     const pubDate = art.date
       ? new Date(art.date.replace(/^(\d{4})-(\d{2})-(\d{2})$/, '$1-$2-$3T12:00:00Z')).toUTCString()
       : lastBuildDate;
-    const description = art.summary
-      ? escapeXml(art.summary)
-      : escapeXml(art.body_preview || '');
-    const content = art.body_full
-      ? escapeXml(art.body_full.slice(0, 2000))
-      : description;
+    const body = art.body_full
+      ? escapeXml(art.body_full)
+      : '';
 
     return `
     <item>
@@ -39,15 +35,11 @@ export const GET: APIRoute = () => {
       <link>${link}</link>
       <guid isPermaLink="false">${art.uuid}</guid>
       <pubDate>${pubDate}</pubDate>
-      <description>${description}</description>
+      <description>${body.slice(0, 500)}${body.length > 500 ? '…' : ''}</description>
       <content:encoded><![CDATA[
-        <p>${description}</p>
-        <h3>Article</h3>
-        <p>${content.replace(/\n/g, '<br/>')}</p>
-        ${art.player_impact ? `<h3>Player Impact</h3><p>${escapeXml(art.player_impact)}</p>` : ''}
-        ${art.modern_impact ? `<h3>Future Impact</h3><p>${escapeXml(art.modern_impact)}</p>` : ''}
+        <p>${body.replace(/\n/g, '<br/>')}</p>
       ]]></content:encoded>
-      ${art.arc_id ? `<category>${escapeXml(art.arc_id)}</category>` : ''}
+      ${art.source_url ? `<source url="${escapeXml(art.source_url)}">GalNet</source>` : ''}
     </item>`;
   }).join('');
 
@@ -56,12 +48,12 @@ export const GET: APIRoute = () => {
   xmlns:content="http://purl.org/rss/1.0/modules/content/"
   xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>GalNet Chronicle — Elite Dangerous Lore</title>
+    <title>GalNet Chronicle — Elite Dangerous Lore (Raw)</title>
     <link>${baseUrl}/</link>
-    <description>AI-enriched GalNet articles from the Elite Dangerous universe (3301–3312)</description>
+    <description>Raw GalNet articles from the Elite Dangerous universe (3301–3312)</description>
     <language>en</language>
     <lastBuildDate>${lastBuildDate}</lastBuildDate>
-    <atom:link href="${baseUrl}/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="${baseUrl}/rss-raw.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>${baseUrl}/favicon.svg</url>
       <title>GalNet Chronicle</title>

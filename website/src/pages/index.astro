@@ -32,7 +32,7 @@ const buildId = version.build;
       <span id="audio-portal" style="display: flex; align-items: center;"></span>
       <ThemeToggle />
       <AiModeToggle />
-      <a href={`${(import.meta.env.BASE_URL || '').replace(/\/$/, '')}/map/`} class="hud-search-btn hud-map-btn">◈ Map</a>
+      <span class="ai-content-inline"><a href={`${(import.meta.env.BASE_URL || '').replace(/\/$/, '')}/map/`} class="hud-search-btn hud-map-btn">◈ Map</a></span>
       <button class="hud-search-btn" id="search-trigger">
         <span style="margin-right: 6px;">⌘</span> Search
       </button>

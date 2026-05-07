@@ -15,7 +15,6 @@ function escapeXml(str: string): string {
 export const GET: APIRoute = () => {
   const baseUrl = 'https://kernicde.github.io/ed-lore';
   const articles = (graphData.articles as any[])
-    .filter((a) => a.summary)
     .sort((a, b) => (b.date || '').localeCompare(a.date || ''))
     .slice(0, 200);
 
@@ -26,12 +25,9 @@ export const GET: APIRoute = () => {
     const updated = art.date
       ? art.date.replace(/^(\d{4})-(\d{2})-(\d{2})$/, '$1-$2-$3T12:00:00Z')
       : now;
-    const summary = art.summary
-      ? escapeXml(art.summary)
-      : escapeXml(art.body_preview || '');
-    const content = art.body_full
-      ? escapeXml(art.body_full.slice(0, 2000))
-      : summary;
+    const body = art.body_full
+      ? escapeXml(art.body_full)
+      : '';
 
     return `
   <entry>
@@ -39,27 +35,22 @@ export const GET: APIRoute = () => {
     <link href="${link}" rel="alternate" type="text/html" />
     <id>urn:uuid:${art.uuid}</id>
     <updated>${updated}</updated>
-    <summary type="html">${summary}</summary>
     <content type="html">
-      &lt;p&gt;${summary}&lt;/p&gt;
-      &lt;h3&gt;Article&lt;/h3&gt;
-      &lt;p&gt;${content.replace(/\n/g, '&lt;br/&gt;')}&lt;/p&gt;
-      ${art.player_impact ? `&lt;h3&gt;Player Impact&lt;/h3&gt;&lt;p&gt;${escapeXml(art.player_impact)}&lt;/p&gt;` : ''}
-      ${art.modern_impact ? `&lt;h3&gt;Future Impact&lt;/h3&gt;&lt;p&gt;${escapeXml(art.modern_impact)}&lt;/p&gt;` : ''}
+      &lt;p&gt;${body.replace(/\n/g, '&lt;br/&gt;')}&lt;/p&gt;
     </content>
-    ${art.arc_id ? `<category term="${escapeXml(art.arc_id)}" />` : ''}
+    ${art.source_url ? `<link href="${escapeXml(art.source_url)}" rel="related" />` : ''}
   </entry>`;
   }).join('');
 
   const atom = `<?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"
       xml:lang="en">
-  <title>GalNet Chronicle — Elite Dangerous Lore</title>
-  <subtitle>AI-enriched GalNet articles from the Elite Dangerous universe (3301–3312)</subtitle>
-  <link href="${baseUrl}/atom.xml" rel="self" type="application/atom+xml" />
+  <title>GalNet Chronicle — Elite Dangerous Lore (Raw)</title>
+  <subtitle>Raw GalNet articles from the Elite Dangerous universe (3301–3312)</subtitle>
+  <link href="${baseUrl}/atom-raw.xml" rel="self" type="application/atom+xml" />
   <link href="${baseUrl}/" rel="alternate" type="text/html" />
   <updated>${now}</updated>
-  <id>${baseUrl}/</id>
+  <id>${baseUrl}/atom-raw.xml</id>
   <icon>${baseUrl}/favicon.svg</icon>
   <logo>${baseUrl}/favicon.svg</logo>
   <author>

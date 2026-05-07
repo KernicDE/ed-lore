@@ -574,6 +574,7 @@ def main() -> int:
             "title": a["title"],
             "date": a["date"],
             "body_preview": a.get("body_preview", ""),
+            "body_full": a.get("body_full", ""),
         })
 
     # Strip server-only fields from entities for client JSON

@@ -24,20 +24,32 @@ const baseUrl = (import.meta.env.BASE_URL || '').replace(/\/$/, '');
     </div>
   </header>
 
-  <div style="padding: 16px 24px 0;">
-    <div class="holo-panel">
-      <div class="holo-title">Entity Relationship Map</div>
-      <p style="margin: 4px 0 0; font-size: 13px; color: var(--text-secondary); line-height: 1.5;">
-        Network of lore entities connected by co-occurrence in GalNet articles.
-        Use the slider to control density. Click any node to open its profile.
-        Hover to highlight direct connections. Pinch or scroll to zoom.
-      </p>
+  <div class="ai-content">
+    <div style="padding: 16px 24px 0;">
+      <div class="holo-panel">
+        <div class="holo-title">Entity Relationship Map</div>
+        <p style="margin: 4px 0 0; font-size: 13px; color: var(--text-secondary); line-height: 1.5;">
+          Network of lore entities connected by co-occurrence in GalNet articles.
+          Use the slider to control density. Click any node to open its profile.
+          Hover to highlight direct connections. Pinch or scroll to zoom.
+        </p>
+      </div>
+    </div>
+
+    <div style="padding: 0 24px 24px;">
+      <div class="holo-panel" style="padding: 0; overflow: hidden;">
+        <EntityGraph client:load mode="full" baseUrl={baseUrl} />
+      </div>
     </div>
   </div>
 
-  <div style="padding: 0 24px 24px;">
-    <div class="holo-panel" style="padding: 0; overflow: hidden;">
-      <EntityGraph client:load mode="full" baseUrl={baseUrl} />
+  <div class="raw-only" style="padding: 60px 24px; text-align: center;">
+    <div style="font-family: var(--font-hud); font-size: 18px; color: var(--elite-orange); letter-spacing: 2px; margin-bottom: 12px;">
+      RELATIONSHIP MAP UNAVAILABLE
+    </div>
+    <div style="font-family: var(--font-mono); font-size: 13px; color: var(--text-secondary); max-width: 500px; margin: 0 auto; line-height: 1.6;">
+      The relationship map is built from AI-extracted entities and their co-occurrence patterns.
+      Switch to AI-enhanced mode to explore the interactive network.
     </div>
   </div>
 </BaseLayout>

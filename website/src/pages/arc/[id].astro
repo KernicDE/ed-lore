@@ -107,7 +107,7 @@ const sigColors: Record<string, string> = {
     <div style="display: flex; align-items: center; gap: 12px;">
       <ThemeToggle />
       <AiModeToggle />
-      <a href={`${baseUrl}/map/`} class="hud-search-btn hud-map-btn">◈ Map</a>
+      <span class="ai-content-inline"><a href={`${baseUrl}/map/`} class="hud-search-btn hud-map-btn">◈ Map</a></span>
       <SearchIsland client:idle baseUrl={baseUrl} />
     </div>
   </header>
@@ -123,7 +123,7 @@ const sigColors: Record<string, string> = {
         </div>
       </div>
       {arc?.significance && (
-        <div style="display: flex; align-items: center; gap: 8px;">
+        <div class="ai-content" style="display: flex; align-items: center; gap: 8px;">
           <span style="font-family: var(--font-mono); font-size: 10px; color: var(--text-dim); text-transform: uppercase;">Significance</span>
           <span style={{
             fontFamily: 'var(--font-mono)',
@@ -138,81 +138,85 @@ const sigColors: Record<string, string> = {
       )}
     </div>
 
-    {arc?.summary && (
-      <div class="holo-panel">
-        <div class="holo-title">Summary</div>
-        <div style="font-size: 14px; color: var(--text-secondary); line-height: 1.6;">
-          {arc.summary}
+    <div class="ai-content">
+      {arc?.summary && (
+        <div class="holo-panel">
+          <div class="holo-title">Summary</div>
+          <div style="font-size: 14px; color: var(--text-secondary); line-height: 1.6;">
+            {arc.summary}
+          </div>
         </div>
-      </div>
-    )}
+      )}
 
-    {arc?.description && (
-      <div class="holo-panel">
-        <div class="holo-title">Overview</div>
-        <div style="font-size: 14px; color: var(--text-secondary); line-height: 1.6;">
-          {arc.description}
+      {arc?.description && (
+        <div class="holo-panel">
+          <div class="holo-title">Overview</div>
+          <div style="font-size: 14px; color: var(--text-secondary); line-height: 1.6;">
+            {arc.description}
+          </div>
         </div>
-      </div>
-    )}
+      )}
 
-    {arc?.status && (
-      <div class="holo-panel">
-        <div class="holo-title">Status</div>
-        <div style="font-size: 14px; color: var(--text-secondary); line-height: 1.6;">
-          {arc.status}
+      {arc?.status && (
+        <div class="holo-panel">
+          <div class="holo-title">Status</div>
+          <div style="font-size: 14px; color: var(--text-secondary); line-height: 1.6;">
+            {arc.status}
+          </div>
         </div>
-      </div>
-    )}
+      )}
 
-    {arc?.outcome && (
-      <div class="holo-panel">
-        <div class="holo-title">Outcome</div>
-        <div style="font-size: 14px; color: var(--text-secondary); line-height: 1.6;">
-          {arc.outcome}
+      {arc?.outcome && (
+        <div class="holo-panel">
+          <div class="holo-title">Outcome</div>
+          <div style="font-size: 14px; color: var(--text-secondary); line-height: 1.6;">
+            {arc.outcome}
+          </div>
         </div>
-      </div>
-    )}
+      )}
 
-    {arc?.phases && arc.phases.length > 0 && (
-      <div class="holo-panel">
-        <div class="holo-title">Phases</div>
-        <div style="display: flex; flex-direction: column; gap: 8px;">
-          {arc.phases.map((phase: string, idx: number) => (
-            <div style="display: flex; align-items: center; gap: 12px;">
-              <span style="font-family: var(--font-mono); font-size: 11px; color: var(--elite-blue); min-width: 24px;">{String(idx + 1).padStart(2, '0')}</span>
-              <span style="font-size: 13px; color: var(--text-primary);">{phase}</span>
-            </div>
-          ))}
-        </div>
-      </div>
-    )}
-
-    {/* Relationship mini-map */}
-    {miniNodes.length > 1 && (
-      <div class="holo-panel" style="padding: 0; overflow: hidden;">
-        <div style="padding: 20px 20px 0;"><div class="holo-title">Connection Map</div></div>
-        <EntityGraph client:visible mode="mini" miniData={miniGraphData} baseUrl={baseUrl} />
-      </div>
-    )}
-
-    {keyEntities.length > 0 && (
-      <div class="holo-panel">
-        <div class="holo-title">Key Figures</div>
-        <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 8px;">
-          {keyEntities.map((ent: any) => (
-            <a href={`${baseUrl}/entity/${ent.id}/`} class="entity-card" style="text-decoration: none;">
-              <div class={`entity-icon ${ent.type || 'person'}`}>
-                {ent.type === 'person' ? 'P' : ent.type === 'faction' ? 'F' : 'L'}
+      {arc?.phases && arc.phases.length > 0 && (
+        <div class="holo-panel">
+          <div class="holo-title">Phases</div>
+          <div style="display: flex; flex-direction: column; gap: 8px;">
+            {arc.phases.map((phase: string, idx: number) => (
+              <div style="display: flex; align-items: center; gap: 12px;">
+                <span style="font-family: var(--font-mono); font-size: 11px; color: var(--elite-blue); min-width: 24px;">{String(idx + 1).padStart(2, '0')}</span>
+                <span style="font-size: 13px; color: var(--text-primary);">{phase}</span>
               </div>
-              <div>
-                <div class="entity-name">{ent.name}</div>
-              </div>
-            </a>
-          ))}
+            ))}
+          </div>
         </div>
-      </div>
-    )}
+      )}
+    </div>
+
+    <div class="ai-content">
+      {/* Relationship mini-map */}
+      {miniNodes.length > 1 && (
+        <div class="holo-panel" style="padding: 0; overflow: hidden;">
+          <div style="padding: 20px 20px 0;"><div class="holo-title">Connection Map</div></div>
+          <EntityGraph client:visible mode="mini" miniData={miniGraphData} baseUrl={baseUrl} />
+        </div>
+      )}
+
+      {keyEntities.length > 0 && (
+        <div class="holo-panel">
+          <div class="holo-title">Key Figures</div>
+          <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 8px;">
+            {keyEntities.map((ent: any) => (
+              <a href={`${baseUrl}/entity/${ent.id}/`} class="entity-card" style="text-decoration: none;">
+                <div class={`entity-icon ${ent.type || 'person'}`}>
+                  {ent.type === 'person' ? 'P' : ent.type === 'faction' ? 'F' : 'L'}
+                </div>
+                <div>
+                  <div class="entity-name">{ent.name}</div>
+                </div>
+              </a>
+            ))}
+          </div>
+        </div>
+      )}
+    </div>
 
     <div class="holo-panel">
       <div class="holo-title">Chronology ({arcArticles.length} articles)</div>

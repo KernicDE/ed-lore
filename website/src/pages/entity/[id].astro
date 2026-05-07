@@ -119,7 +119,7 @@ function formatNumber(n: number): string {
     <div style="display: flex; align-items: center; gap: 12px;">
       <ThemeToggle />
       <AiModeToggle />
-      <a href={`${baseUrl}/map/`} class="hud-search-btn hud-map-btn">◈ Map</a>
+      <span class="ai-content-inline"><a href={`${baseUrl}/map/`} class="hud-search-btn hud-map-btn">◈ Map</a></span>
       <SearchIsland client:idle baseUrl={baseUrl} />
     </div>
   </header>
@@ -164,7 +164,7 @@ function formatNumber(n: number): string {
 
     {/* Bio / Description */}
     {(entity?.bio_full || entity?.bio) && (
-      <div class="holo-panel">
+      <div class="holo-panel ai-content">
         <div class="holo-title">
           {entity?.type === 'person' ? 'Biography'
             : entity?.type === 'location' ? 'System Overview'
@@ -207,17 +207,18 @@ function formatNumber(n: number): string {
       </div>
     )}
 
-    {/* Relationship mini-map */}
-    {miniNodes.length > 1 && (
-      <div class="holo-panel" style="padding: 0; overflow: hidden;">
-        <div style="padding: 20px 20px 0;"><div class="holo-title">Connection Map</div></div>
-        <EntityGraph client:visible mode="mini" miniData={miniGraphData} baseUrl={baseUrl} />
-      </div>
-    )}
+    <div class="ai-content">
+      {/* Relationship mini-map */}
+      {miniNodes.length > 1 && (
+        <div class="holo-panel" style="padding: 0; overflow: hidden;">
+          <div style="padding: 20px 20px 0;"><div class="holo-title">Connection Map</div></div>
+          <EntityGraph client:visible mode="mini" miniData={miniGraphData} baseUrl={baseUrl} />
+        </div>
+      )}
 
-    {related.length > 0 && (
-      <div class="holo-panel blue">
-        <div class="holo-title blue">Related Entities</div>
+      {related.length > 0 && (
+        <div class="holo-panel blue">
+          <div class="holo-title blue">Related Entities</div>
         <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 8px;">
           {related.map((rel: any) => (
             <a href={`${baseUrl}/entity/${rel.id}/`} class="entity-card" style="text-decoration: none;">
@@ -232,6 +233,7 @@ function formatNumber(n: number): string {
         </div>
       </div>
     )}
+    </div>
 
     <div class="holo-panel">
       <div class="holo-title">Mentions Timeline ({entityArticles.length} articles)</div>

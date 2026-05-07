@@ -211,7 +211,7 @@ export default function AudioPlayer({ article }: AudioPlayerProps) {
   if (!article) return null;
 
   return (
-    <div className="audio-player">
+    <div className="audio-player ai-content">
       <button
         onClick={togglePlay}
         className="audio-play-btn"

@@ -7,12 +7,13 @@ interface SearchItem {
   type: 'article' | 'entity' | 'arc' | 'location';
   date?: string;
   desc?: string;
+  body_full?: string;
   path: string;
   isArticle: boolean;
 }
 
 interface CommandConsoleProps {
-  searchIndex: { uuid: string; title: string; date: string; body_preview: string }[];
+  searchIndex: { uuid: string; title: string; date: string; body_preview: string; body_full?: string }[];
   entities: Record<string, { id: string; name: string; type: string }>;
   arcs: Record<string, { id: string; name: string }>;
   onArticleNavigate: (uuid: string) => void;
@@ -25,6 +26,19 @@ export default function CommandConsole({ searchIndex, entities, arcs, onArticleN
   const inputRef = useRef<HTMLInputElement>(null);
   const baseUrl = (import.meta.env.BASE_URL || '').replace(/\/$/, '');
 
+  const [aiMode, setAiMode] = useState(() => {
+    if (typeof document === 'undefined') return true;
+    return document.documentElement.getAttribute('data-ai-mode') !== 'off';
+  });
+
+  useEffect(() => {
+    const observer = new MutationObserver(() => {
+      setAiMode(document.documentElement.getAttribute('data-ai-mode') !== 'off');
+    });
+    observer.observe(document.documentElement, { attributes: true, attributeFilter: ['data-ai-mode'] });
+    return () => observer.disconnect();
+  }, []);
+
   const fuse = useMemo(() => {
     const items: SearchItem[] = [
       ...searchIndex.map((a) => ({
@@ -33,32 +47,33 @@ export default function CommandConsole({ searchIndex, entities, arcs, onArticleN
         type: 'article' as const,
         date: a.date,
         desc: a.body_preview?.slice(0, 120) + '...',
+        body_full: a.body_full || '',
         path: `${baseUrl}/?article=${a.uuid}`,
         isArticle: true,
       })),
-      ...Object.values(entities).map((e) => ({
+      ...(aiMode ? Object.values(entities).map((e) => ({
         id: e.id,
         title: e.name,
         type: 'entity' as const,
         desc: `Type: ${e.type}`,
         path: `${baseUrl}/entity/${e.id}/`,
         isArticle: false,
-      })),
-      ...Object.values(arcs).map((a) => ({
+      })) : []),
+      ...(aiMode ? Object.values(arcs).map((a) => ({
         id: a.id,
         title: a.name,
         type: 'arc' as const,
         desc: `${a.id.replace(/-/g, ' ')}`,
         path: `${baseUrl}/arc/${a.id}/`,
         isArticle: false,
-      })),
+      })) : []),
     ];
     return new Fuse(items, {
-      keys: ['title', 'desc'],
+      keys: aiMode ? ['title', 'desc'] : ['title', 'body_full'],
       threshold: 0.3,
       includeScore: true,
     });
-  }, [searchIndex, entities, arcs, baseUrl]);
+  }, [searchIndex, entities, arcs, baseUrl, aiMode]);
 
   const results = useMemo(() => {
     if (!query.trim()) return [];
@@ -124,12 +139,17 @@ export default function CommandConsole({ searchIndex, entities, arcs, onArticleN
           <input
             ref={inputRef}
             className="search-input"
-            placeholder="Search articles, entities, arcs..."
+            placeholder={aiMode ? "Search articles, entities, arcs..." : "Search raw article text..."}
             value={query}
             onChange={(e) => setQuery(e.target.value)}
           />
           <span className="search-shortcut">ESC</span>
         </div>
+        {!aiMode && (
+          <div style={{ padding: '6px 24px', fontFamily: 'var(--font-mono)', fontSize: 11, color: 'var(--text-dim)', borderBottom: '1px solid var(--border-default)' }}>
+            Raw mode — searching article titles and full body text
+          </div>
+        )}
         <div className="search-results">
           {results.length === 0 && query.trim() && (
             <div style={{ padding: 24, textAlign: 'center', color: 'var(--text-dim)', fontSize: 15 }}>
