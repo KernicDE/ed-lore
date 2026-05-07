@@ -75,7 +75,7 @@ export default function EntityGraph({ mode, miniData, baseUrl = '', height: heig
   const hoveredIdRef = useRef<string | null>(null);
   const labelThresholdRef = useRef<number>(Infinity);
   const nodesRef = useRef<GraphNode[]>([]);
-  const degreeMapRef = useRef<Map<string, number>>(new Map());
+  const coreDistRef = useRef<Map<string, number>>(new Map());
   const themeRef = useRef<'dark' | 'light'>('dark');
 
   useEffect(() => {
@@ -143,16 +143,47 @@ export default function EntityGraph({ mode, miniData, baseUrl = '', height: heig
     return map;
   }, [graphData.links]);
 
-  const degreeMap = useMemo(() => {
+  // BFS distance from the top 3 hubs — how many hops each node is from the core.
+  // Nodes at the tip of a long arm get high distance → strong inward pull.
+  const coreDistMap = useMemo(() => {
     const map = new Map<string, number>();
+    if (graphData.nodes.length === 0) return map;
+
+    // Build adjacency list
+    const adj = new Map<string, string[]>();
+    for (const node of graphData.nodes) adj.set(node.id, []);
     for (const link of graphData.links) {
       const s = resolveId(link.source);
       const t = resolveId(link.target);
-      map.set(s, (map.get(s) || 0) + 1);
-      map.set(t, (map.get(t) || 0) + 1);
+      adj.get(s)?.push(t);
+      adj.get(t)?.push(s);
+    }
+
+    // Find top 3 hubs by degree
+    const degrees = new Map<string, number>();
+    for (const [id, neighbors] of adj) degrees.set(id, neighbors.length);
+    const hubs = [...degrees.entries()]
+      .sort((a, b) => b[1] - a[1])
+      .slice(0, 3)
+      .map(([id]) => id);
+
+    // Multi-source BFS
+    const queue: [string, number][] = [];
+    for (const hub of hubs) {
+      map.set(hub, 0);
+      queue.push([hub, 0]);
+    }
+    while (queue.length > 0) {
+      const [id, dist] = queue.shift()!;
+      for (const n of adj.get(id) || []) {
+        if (!map.has(n)) {
+          map.set(n, dist + 1);
+          queue.push([n, dist + 1]);
+        }
+      }
     }
     return map;
-  }, [graphData.links]);
+  }, [graphData.nodes, graphData.links]);
 
   const depthMap = useMemo(() => {
     const map = new Map<string, number>();
@@ -169,7 +200,7 @@ export default function EntityGraph({ mode, miniData, baseUrl = '', height: heig
   }, [mode, graphData.nodes]);
   labelThresholdRef.current = labelThreshold;
   nodesRef.current = graphData.nodes as GraphNode[];
-  degreeMapRef.current = degreeMap;
+  coreDistRef.current = coreDistMap;
 
   const getNodeColor = useCallback((node: GraphNode): string => {
     const base = TYPE_COLORS[node.type] || '#888888';
@@ -335,38 +366,38 @@ export default function EntityGraph({ mode, miniData, baseUrl = '', height: heig
       // Disable group-level center translation
       fg.d3Force('center')?.strength(0);
 
-      // Local repulsion — gives the dense inner cluster breathing room
-      fg.d3Force('charge')?.strength(-8).distanceMax(35);
+      // Stronger local repulsion + wider range for breathing room in the dense center
+      fg.d3Force('charge')?.strength(-12).distanceMax(50);
 
-      // Link forces keep clusters together
+      // Slightly weaker links so clusters aren't pulled too tight
       fg.d3Force('link')
-        ?.strength(0.4)
-        .distance((link: any) => Math.max(6, 38 / Math.log((link.weight || 1) + 2)));
+        ?.strength(0.35)
+        .distance((link: any) => Math.max(6, 42 / Math.log((link.weight || 1) + 2)));
 
-      // Remove the ineffective custom gravity
+      // Remove old forces
       fg.d3Force('gravity', null as any);
 
-      // Per-node centering strength based on graph degree:
-      //  - Hubs (degree ≥ 20): barely nudged → core stays spacious
-      //  - Well-connected (≥ 8): gentle pull
-      //  - Moderate (≥ 3): moderate pull
-      //  - Leaves (≥ 1): strong pull
-      //  - Singletons (0): reeled in aggressively → can't drift into void
-      const degMap = degreeMapRef.current;
+      // Per-node centering strength based on BFS distance from core hubs:
+      //  - Core (dist 0–1): almost nothing → spacious center
+      //  - Nearby (dist 2–3): gentle
+      //  - Mid-range (dist 4–6): moderate
+      //  - Far reaches of arms (dist 7+): strong → arms fold inward
+      //  - Disconnected: very strong → singletons can't drift into void
+      const distMap = coreDistRef.current;
       const nodeStrength = (node: any): number => {
-        const d = degMap.get(node.id) || 0;
-        if (d >= 20) return 0.02;
-        if (d >= 8)  return 0.06;
-        if (d >= 3)  return 0.15;
-        if (d >= 1)  return 0.30;
-        return 0.55;
+        const d = distMap.get(node.id);
+        if (d === undefined) return 0.70;  // disconnected
+        if (d <= 1) return 0.01;            // core hub + direct neighbors
+        if (d <= 3) return 0.05;            // nearby
+        if (d <= 6) return 0.18;            // mid-range
+        return 0.45;                         // far reaches of long arms
       };
       fg.d3Force('x', forceX(0).strength(nodeStrength));
       fg.d3Force('y', forceY(0).strength(nodeStrength));
     }
 
     // Collision force keeps nodes from overlapping
-    fg.d3Force('collide', forceCollide((node: any) => visRadius(node as GraphNode, mode) + 2));
+    fg.d3Force('collide', forceCollide((node: any) => visRadius(node as GraphNode, mode) + 3));
   }, [mode]);
 
   const handleEngineStop = useCallback(() => {
@@ -453,9 +484,9 @@ export default function EntityGraph({ mode, miniData, baseUrl = '', height: heig
             backgroundColor="transparent"
             autoPauseRedraw={false}
             warmupTicks={mode === 'mini' ? 20 : 0}
-            cooldownTicks={mode === 'mini' ? 80 : 120}
-            d3AlphaDecay={mode === 'mini' ? 0.03 : 0.03}
-            d3VelocityDecay={0.5}
+            cooldownTicks={mode === 'mini' ? 80 : 150}
+            d3AlphaDecay={mode === 'mini' ? 0.03 : 0.025}
+            d3VelocityDecay={0.6}
             enableNodeDrag={true}
             enableZoomInteraction={true}
             minZoom={0.05}
