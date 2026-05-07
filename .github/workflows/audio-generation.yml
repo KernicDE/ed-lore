@@ -42,7 +42,17 @@ jobs:
           python-version: '3.12'
 
       - name: Install Python deps
-        run: pip install pyyaml edge-tts requests
+        run: pip install pyyaml edge-tts requests httpx tqdm
+
+      - name: Fetch new articles
+        run: python3 scripts/fetch.py --api-only --no-overwrite
+
+      - name: Commit new articles
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add Archive/
+          git diff --cached --quiet || git commit -m "Add new GalNet articles [skip ci]"
 
       - name: Restore audio cache
         uses: actions/cache@v5
@@ -105,7 +115,7 @@ jobs:
         with:
           path: website/dist
 
-      - name: Commit manifest
+      - name: Commit manifest and push
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"

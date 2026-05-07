@@ -48,8 +48,8 @@ This file tracks manual enrichment progress for entity profiles. Each entry is e
 | 28 | Imperial Senate | faction | ✅ Done | Structure, powers, 3301 succession, NMLA crisis, Lords of Restoration scandal, 3309 heir debate |
 | 29 | Alioth | location | ✅ Done | Caker Rebellion, 3228 revolt, Alliance founding, Mic Turner & Meredith Argent, modern governance, corporate presence, key events |
 | 30 | Empire | faction | ✅ Done | Marlin Duval founding, Battle of Achenar, cliens system, Imperial slavery, NMLA crisis, Lords of Restoration, succession debate |
-| 31 | Maia | location | pending | |
-| 32 | Federal Intelligence Agency | faction | pending | |
+| 31 | Maia | location | ✅ Done | Pleiades epicenter, Obsidian Orbital, meta-alloy research, Palin base, superpower proxy war, first Thargoid capital ship kill
+| 32 | Federal Intelligence Agency | faction | ✅ Done | League of Reparation taskforce, Far God cult arrests, Lucifer Device/Children of Tothos, Joel Xander arrest
 | 33 | Zemina Torval | person | pending | |
 | 34 | Core Dynamics | faction | pending | |
 | 35 | Li Yong-Rui | person | pending | |

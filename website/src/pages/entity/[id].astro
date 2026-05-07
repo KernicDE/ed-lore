@@ -4,6 +4,7 @@ import graphData from '../../data/lore_graph.json';
 import { marked } from 'marked';
 import SearchIsland from '../../components/hud/SearchIsland';
 import EntityGraph from '../../components/graph/EntityGraph';
+import ThemeToggle from '../../components/ThemeToggle.astro';
 import type { MiniGraphData, GraphNode, GraphLink } from '../../components/graph/EntityGraph';
 
 export function getStaticPaths() {
@@ -114,7 +115,8 @@ function formatNumber(n: number): string {
         <span class="hud-title">‹ GalNet Chronicle</span>
       </a>
     </div>
-    <div style="display: flex; align-items: center; gap: 16px;">
+    <div style="display: flex; align-items: center; gap: 12px;">
+      <ThemeToggle />
       <a href={`${baseUrl}/map/`} class="hud-search-btn hud-map-btn">◈ Map</a>
       <SearchIsland client:idle baseUrl={baseUrl} />
     </div>

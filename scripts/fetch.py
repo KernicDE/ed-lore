@@ -4,13 +4,14 @@ import asyncio
 import uuid
 import yaml
 import httpx
+import argparse
 from datetime import datetime
 from tqdm.asyncio import tqdm
 
 # --- KONFIGURATION ---
-BASE_DIR = "GalNet"
+BASE_DIR = "Archive"
 ED_YEAR_OFFSET = 1286
-MAX_PARALLEL_TASKS = 15 
+MAX_PARALLEL_TASKS = 15
 RETRIES = 3
 
 JSON_API_URL = "https://cms.zaonce.net/en-GB/jsonapi/node/galnet_article?&sort=-published_at&page[limit]=50"
@@ -53,19 +54,22 @@ def _write_file(path, content):
         f.write(content)
 
 # --- CORE PROCESSING ---
-async def save_article(semaphore, date_obj, title, body, source):
+async def save_article(semaphore, date_obj, title, body, source, no_overwrite=False):
     async with semaphore:
         year_real = date_obj.year
         year_ed = year_real + ED_YEAR_OFFSET
-        date_ed_str = f"{year_ed}-{date_obj.strftime('%m-%d')}"
+        month = date_obj.strftime('%m')
+        day = date_obj.strftime('%d')
+        date_ed_str = f"{year_ed}-{month}-{day}"
         master_slug = slugify(title)
 
-        folder_name = f"{year_real}-{year_ed}"
-        filename = f"{date_ed_str}-{master_slug}.md"
-        full_dir = os.path.join(BASE_DIR, folder_name)
+        full_dir = os.path.join(BASE_DIR, str(year_ed), month)
+        filename = f"{day}_{master_slug}.md"
         full_path = os.path.join(full_dir, filename)
 
-        # Ordner asynchron erstellen
+        if no_overwrite and os.path.exists(full_path):
+            return None
+
         await asyncio.to_thread(os.makedirs, full_dir, exist_ok=True)
 
         uid = generate_article_uuid(date_obj, title)
@@ -74,9 +78,8 @@ async def save_article(semaphore, date_obj, title, body, source):
             "uuid": uid,
             "title": title,
             "slug": master_slug,
-            "ed_date": date_ed_str,
-            "lang": "en",
-            "source": source
+            "date": date_ed_str,
+            "source": source,
         }
 
         try:
@@ -85,13 +88,12 @@ async def save_article(semaphore, date_obj, title, body, source):
             await asyncio.to_thread(_write_file, full_path, content)
             return full_path
         except Exception as e:
-            print(f"Fehler beim Schreiben von {filename}: {e}")
+            print(f"Error writing {filename}: {e}")
             return None
 
 # --- FETCHING ---
-async def fetch_github_file(semaphore, client, file_info, year_ed):
+async def fetch_github_file(semaphore, client, file_info, year_ed, no_overwrite=False):
     raw_name = file_info['name']
-    # Extrahiert Datum (YYYYMMDD) aus dem Dateinamen
     d_str = raw_name.split('-')[0]
     try:
         date_obj = datetime(int(d_str[:4]) - ED_YEAR_OFFSET, int(d_str[4:6]), int(d_str[6:8]))
@@ -104,22 +106,26 @@ async def fetch_github_file(semaphore, client, file_info, year_ed):
             if res.status_code == 200:
                 content = res.text
                 title = clean_github_title(raw_name, content)
-                # Entfernt alle Zeilen mit Metadaten (#+TITLE, #+DATE, etc.)
                 body = re.sub(r'^\s*#\+.*$', '', content, flags=re.MULTILINE | re.IGNORECASE).strip()
-                
-                path = await save_article(semaphore, date_obj, title, body, "GitHub")
+
+                path = await save_article(semaphore, date_obj, title, body, "GitHub", no_overwrite)
                 if path: return path
 
         except Exception as e:
             if attempt == RETRIES:
-                print(f"Fehler bei {raw_name}: {e}")
+                print(f"Error fetching {raw_name}: {e}")
 
         if attempt < RETRIES:
-            await asyncio.sleep(1 * attempt) 
+            await asyncio.sleep(1 * attempt)
 
     return None
 
 async def main():
+    parser = argparse.ArgumentParser(description="Fetch GalNet articles")
+    parser.add_argument("--no-overwrite", action="store_true", help="Skip existing articles")
+    parser.add_argument("--api-only", action="store_true", help="Only fetch from Frontier API")
+    args = parser.parse_args()
+
     semaphore = asyncio.Semaphore(MAX_PARALLEL_TASKS)
 
     if not os.path.exists(BASE_DIR):
@@ -128,28 +134,29 @@ async def main():
     limits = httpx.Limits(max_keepalive_connections=10, max_connections=30)
     async with httpx.AsyncClient(timeout=30.0, limits=limits, follow_redirects=True) as client:
 
-        # --- PHASE 1: GITHUB ---
-        print("\n[1/2] Lade GitHub-Archiv (Historie)...")
-        gh_tasks = []
-        for year_ed in range(3300, 3307):
-            try:
-                r = await client.get(f"{REPO_API_URL}/{year_ed}")
-                if r.status_code == 200:
-                    files = [f for f in r.json() if f['name'].endswith('.org')]
-                    for f_info in files:
-                        gh_tasks.append(fetch_github_file(semaphore, client, f_info, year_ed))
-                elif r.status_code == 403:
-                    print(f"GitHub Rate Limit bei Jahr {year_ed} erreicht.")
-                    break
-            except Exception as e:
-                print(f"Verbindung zu GitHub Jahr {year_ed} fehlgeschlagen: {e}")
+        if not args.api_only:
+            # --- PHASE 1: GITHUB ---
+            print("\n[1/2] Loading GitHub archive (history)...")
+            gh_tasks = []
+            for year_ed in range(3300, 3307):
+                try:
+                    r = await client.get(f"{REPO_API_URL}/{year_ed}")
+                    if r.status_code == 200:
+                        files = [f for f in r.json() if f['name'].endswith('.org')]
+                        for f_info in files:
+                            gh_tasks.append(fetch_github_file(semaphore, client, f_info, year_ed, args.no_overwrite))
+                    elif r.status_code == 403:
+                        print(f"GitHub rate limit hit for year {year_ed}.")
+                        break
+                except Exception as e:
+                    print(f"Failed to connect to GitHub year {year_ed}: {e}")
 
-        if gh_tasks:
-            results = await tqdm.gather(*gh_tasks, desc="GitHub Archiv")
-            print(f"-> GitHub: {len([r for r in results if r])} Dateien verarbeitet.")
+            if gh_tasks:
+                results = await tqdm.gather(*gh_tasks, desc="GitHub Archive")
+                print(f"-> GitHub: {len([r for r in results if r])} files processed.")
 
         # --- PHASE 2: API ---
-        print("\n[2/2] Lade Frontier API (Aktuell & Veredelung)...")
+        print("\n[2/2] Loading Frontier API (current)...")
         api_tasks = []
         url = JSON_API_URL
         while url:
@@ -161,20 +168,22 @@ async def main():
                     attr = art['attributes']
                     date_obj = datetime.fromisoformat(attr['published_at'].replace('Z', '+00:00'))
                     body = re.sub('<[^<]+?>', '', attr['body']['value']).strip()
-                    api_tasks.append(save_article(semaphore, date_obj, attr['title'], body, "API"))
+                    api_tasks.append(save_article(semaphore, date_obj, attr['title'], body, "API", args.no_overwrite))
 
                 next_link = data.get('links', {}).get('next')
                 url = next_link.get('href') if isinstance(next_link, dict) else next_link
                 if not data.get('data'): break
-            except: 
+            except:
                 break
-        
+
         if api_tasks:
             results = await tqdm.gather(*api_tasks, desc="API Sync")
-            print(f"-> API: {len([r for r in results if r])} Dateien verarbeitet/aktualisiert.")
+            new_count = len([r for r in results if r])
+            skipped_count = len(results) - new_count
+            print(f"-> API: {new_count} new articles, {skipped_count} skipped.")
 
     total_files = sum([len(files) for r, d, files in os.walk(BASE_DIR)])
-    print(f"\n[FERTIG] Archiv enthält {total_files} Artikel.")
+    print(f"\n[DONE] Archive contains {total_files} articles.")
 
 if __name__ == "__main__":
     asyncio.run(main())

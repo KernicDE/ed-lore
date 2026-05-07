@@ -27,7 +27,17 @@ const canonicalUrl = canonical ? `${baseUrl}${canonical}` : baseUrl + Astro.url.
   <meta name="author" content="GalNet Chronicle" />
   <meta name="robots" content="index, follow" />
   <meta name="theme-color" content="#080a0f" />
-  <meta name="color-scheme" content="dark" />
+  <meta name="color-scheme" content="light dark" />
+  <script is:inline>
+    (function() {
+      const stored = localStorage.getItem('galnet-theme');
+      const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+      const theme = stored || (prefersDark ? 'dark' : 'light');
+      document.documentElement.setAttribute('data-theme', theme);
+      const meta = document.querySelector('meta[name="theme-color"]');
+      if (meta) meta.setAttribute('content', theme === 'dark' ? '#080a0f' : '#f5f7fa');
+    })();
+  </script>
   
   <!-- Canonical -->
   <link rel="canonical" href={canonicalUrl} />

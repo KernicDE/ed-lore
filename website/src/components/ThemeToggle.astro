@@ -1,0 +1,29 @@
+<button class="hud-search-btn theme-toggle" id="theme-toggle" aria-label="Toggle theme">
+  <span class="theme-icon">☀</span>
+</button>
+
+<script is:inline>
+  (function() {
+    const btn = document.getElementById('theme-toggle');
+    const icon = btn?.querySelector('.theme-icon');
+    if (!btn || !icon) return;
+
+    function updateIcon() {
+      const theme = document.documentElement.getAttribute('data-theme') || 'dark';
+      icon.textContent = theme === 'dark' ? '☀' : '🌙';
+    }
+
+    updateIcon();
+
+    btn.addEventListener('click', () => {
+      const html = document.documentElement;
+      const current = html.getAttribute('data-theme') || 'dark';
+      const next = current === 'dark' ? 'light' : 'dark';
+      html.setAttribute('data-theme', next);
+      localStorage.setItem('galnet-theme', next);
+      const meta = document.querySelector('meta[name="theme-color"]');
+      if (meta) meta.setAttribute('content', next === 'dark' ? '#080a0f' : '#f5f7fa');
+      updateIcon();
+    });
+  })();
+</script>
