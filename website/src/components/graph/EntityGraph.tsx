@@ -319,12 +319,12 @@ export default function EntityGraph({ mode, miniData, baseUrl = '', height: heig
     if (!fg) return;
 
     if (mode === 'full') {
-      // Charge only repels locally; center pulls everything toward origin
-      fg.d3Force('charge')?.strength(-120).distanceMax(200);
+      // Softer charge keeps single / small-cluster nodes nearer the core
+      fg.d3Force('charge')?.strength(-50).distanceMax(90);
       fg.d3Force('link')
-        ?.strength(0.6)
-        .distance((link: any) => Math.max(8, 50 / Math.log((link.weight || 1) + 2)));
-      fg.d3Force('center')?.strength(0.15); // stronger pull keeps isolated nodes from drifting
+        ?.strength(0.8)
+        .distance((link: any) => Math.max(8, 40 / Math.log((link.weight || 1) + 2)));
+      fg.d3Force('center')?.strength(0.28);
     }
 
     // Collision force keeps nodes from overlapping (uses actual visual radius)
