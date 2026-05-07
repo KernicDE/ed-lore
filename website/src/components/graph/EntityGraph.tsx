@@ -324,8 +324,9 @@ export default function EntityGraph({ mode, miniData, baseUrl = '', height: heig
       // drifting to the periphery.
       fg.d3Force('center')?.strength(0);
 
-      // Very gentle repulsion — just enough breathing room, no explosion
-      fg.d3Force('charge')?.strength(-12).distanceMax(60);
+      // Charge completely disabled — it was the source of the outward explosion.
+      // Collision alone prevents overlap without propelling nodes into the void.
+      fg.d3Force('charge')?.strength(0);
 
       // Moderate link strength: clusters hold together but don't become
       // so dense that collision ejects leaf nodes into the outer void.
@@ -333,14 +334,15 @@ export default function EntityGraph({ mode, miniData, baseUrl = '', height: heig
         ?.strength(0.5)
         .distance((link: any) => Math.max(6, 32 / Math.log((link.weight || 1) + 2)));
 
-      // Constant inward pull on every node individually — this is what
-      // actually keeps wolves-of-jonai-style singletons near the core.
-      fg.d3Force('x', forceX(0).strength(0.12));
-      fg.d3Force('y', forceY(0).strength(0.12));
+      // Strong inward pull on every node individually — counteracts any
+      // outward drift from collision during the initial warmup phase.
+      fg.d3Force('x', forceX(0).strength(0.22));
+      fg.d3Force('y', forceY(0).strength(0.22));
     }
 
-    // Collision force keeps nodes from overlapping (uses actual visual radius)
-    fg.d3Force('collide', forceCollide((node: any) => visRadius(node as GraphNode, mode) + 2));
+    // Collision force keeps nodes from overlapping (tighter padding = less
+    // outward push from the dense center)
+    fg.d3Force('collide', forceCollide((node: any) => visRadius(node as GraphNode, mode) + 1));
   }, [mode]);
 
   const handleEngineStop = useCallback(() => {
@@ -427,9 +429,9 @@ export default function EntityGraph({ mode, miniData, baseUrl = '', height: heig
             backgroundColor="transparent"
             autoPauseRedraw={false}
             warmupTicks={mode === 'mini' ? 20 : 0}
-            cooldownTicks={mode === 'mini' ? 80 : 200}
-            d3AlphaDecay={mode === 'mini' ? 0.03 : 0.015}
-            d3VelocityDecay={0.35}
+            cooldownTicks={mode === 'mini' ? 80 : 100}
+            d3AlphaDecay={mode === 'mini' ? 0.03 : 0.04}
+            d3VelocityDecay={0.6}
             enableNodeDrag={true}
             enableZoomInteraction={true}
             minZoom={0.05}
