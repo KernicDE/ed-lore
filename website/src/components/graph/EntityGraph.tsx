@@ -68,12 +68,14 @@ export default function EntityGraph({ mode, miniData, baseUrl = '', height: heig
     person: true, faction: true, location: true, technology: true,
   });
   const [hoveredId, setHoveredId] = useState<string | null>(null);
+  const [theme, setTheme] = useState<'dark' | 'light'>('dark');
   const wrapperRef = useRef<HTMLDivElement>(null);
   const graphRef = useRef<any>(null);
   const [width, setWidth] = useState(0);
   const hoveredIdRef = useRef<string | null>(null);
   const labelThresholdRef = useRef<number>(Infinity);
   const nodesRef = useRef<GraphNode[]>([]);
+  const themeRef = useRef<'dark' | 'light'>('dark');
 
   useEffect(() => {
     import('react-force-graph-2d').then((mod) => setForceGraph(() => mod.default));
@@ -97,6 +99,18 @@ export default function EntityGraph({ mode, miniData, baseUrl = '', height: heig
     const ro = new ResizeObserver(measure);
     ro.observe(wrapperRef.current);
     return () => ro.disconnect();
+  }, []);
+
+  useEffect(() => {
+    const update = () => {
+      const t = (document.documentElement.getAttribute('data-theme') || 'dark') as 'dark' | 'light';
+      themeRef.current = t;
+      setTheme(t);
+    };
+    update();
+    const observer = new MutationObserver(update);
+    observer.observe(document.documentElement, { attributes: true, attributeFilter: ['data-theme'] });
+    return () => observer.disconnect();
   }, []);
 
   const graphData = useMemo(() => {
@@ -147,15 +161,15 @@ export default function EntityGraph({ mode, miniData, baseUrl = '', height: heig
   const getNodeColor = useCallback((node: GraphNode): string => {
     const base = TYPE_COLORS[node.type] || '#888888';
     if (mode === 'mini') {
-      if (node.depth === 0) return '#ffffff';
+      if (node.depth === 0) return theme === 'light' ? '#333333' : '#ffffff';
       if (node.depth === 2) return hexToRgba(base, 0.4);
       return base;
     }
     if (!hoveredId) return base;
-    if (node.id === hoveredId) return '#ffffff';
+    if (node.id === hoveredId) return theme === 'light' ? '#111111' : '#ffffff';
     if (neighborMap.get(hoveredId)?.has(node.id)) return base;
     return hexToRgba(base, 0.12);
-  }, [mode, hoveredId, neighborMap]);
+  }, [mode, hoveredId, neighborMap, theme]);
 
   const getLinkColor = useCallback((link: GraphLink): string => {
     const s = resolveId(link.source);
@@ -163,12 +177,19 @@ export default function EntityGraph({ mode, miniData, baseUrl = '', height: heig
     if (mode === 'mini') {
       const sd = depthMap.get(s) ?? 1;
       const td = depthMap.get(t) ?? 1;
+      if (theme === 'light') {
+        return (sd === 2 || td === 2) ? 'rgba(80,80,80,0.15)' : 'rgba(80,80,80,0.55)';
+      }
       return (sd === 2 || td === 2) ? 'rgba(255,255,255,0.15)' : 'rgba(255,255,255,0.65)';
     }
-    if (!hoveredId) return 'rgba(255,255,255,0.2)';
-    if (s === hoveredId || t === hoveredId) return 'rgba(255,255,255,0.75)';
-    return 'rgba(255,255,255,0.04)';
-  }, [mode, hoveredId, depthMap]);
+    if (!hoveredId) {
+      return theme === 'light' ? 'rgba(80,80,80,0.25)' : 'rgba(255,255,255,0.2)';
+    }
+    if (s === hoveredId || t === hoveredId) {
+      return theme === 'light' ? 'rgba(60,60,60,0.7)' : 'rgba(255,255,255,0.75)';
+    }
+    return theme === 'light' ? 'rgba(180,180,180,0.1)' : 'rgba(255,255,255,0.04)';
+  }, [mode, hoveredId, depthMap, theme]);
 
   const getNodeVal = useCallback((node: GraphNode): number => getVal(node, mode), [mode]);
 
@@ -179,6 +200,7 @@ export default function EntityGraph({ mode, miniData, baseUrl = '', height: heig
     const hId = hoveredIdRef.current;
     const lThreshold = labelThresholdRef.current;
     const nodes = nodesRef.current as any[];
+    const t = themeRef.current;
     if (nodes.length === 0) return;
 
     const fontSize = 11 / globalScale;
@@ -201,9 +223,15 @@ export default function EntityGraph({ mode, miniData, baseUrl = '', height: heig
       const tw = ctx.measureText(label).width;
       const yOff = node.y + r + 2 / globalScale;
 
-      ctx.fillStyle = 'rgba(6,8,16,0.88)';
-      ctx.fillRect(node.x - tw / 2 - pad, yOff, tw + pad * 2, fontSize + pad * 2);
-      ctx.fillStyle = node.depth === 0 ? '#ffffff' : 'rgba(200,200,200,0.95)';
+      if (t === 'light') {
+        ctx.fillStyle = 'rgba(220,220,220,0.92)';
+        ctx.fillRect(node.x - tw / 2 - pad, yOff, tw + pad * 2, fontSize + pad * 2);
+        ctx.fillStyle = node.depth === 0 ? '#1a1a1a' : 'rgba(40,40,40,0.95)';
+      } else {
+        ctx.fillStyle = 'rgba(6,8,16,0.88)';
+        ctx.fillRect(node.x - tw / 2 - pad, yOff, tw + pad * 2, fontSize + pad * 2);
+        ctx.fillStyle = node.depth === 0 ? '#ffffff' : 'rgba(200,200,200,0.95)';
+      }
       ctx.fillText(label, node.x, yOff + pad * 0.5);
     }
   }, [mode]); // stable — reads all dynamic state from refs
