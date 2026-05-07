@@ -3,8 +3,8 @@ id: brewer-corporation
 name: Brewer Corporation
 type: faction
 first_seen_date: '3301-10-22'
-last_seen_date: '3311-11-11'
-mention_count: 35
+last_seen_date: '3312-05-07'
+mention_count: 36
 related_entities:
 - universal-cartographics
 - jaques-station
@@ -27,8 +27,8 @@ bio: 'Brewer Corporation is a corporation active in Elite Dangerous lore from 33
 # Brewer Corporation
 
 First mentioned: **3301-10-22**  
-Last mentioned: **3311-11-11**  
-Total mentions: **35**
+Last mentioned: **3312-05-07**  
+Total mentions: **36**
 
 ## Related
 

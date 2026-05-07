@@ -3,8 +3,8 @@ id: vox-galactica
 name: Vox Galactica
 type: faction
 first_seen_date: '3304-09-12'
-last_seen_date: '3312-04-30'
-mention_count: 30
+last_seen_date: '3312-05-07'
+mention_count: 31
 related_entities:
 - pilots-federation
 - interstellar-health-organisation
@@ -27,8 +27,8 @@ bio: 'Vox Galactica is a organization active in Elite Dangerous lore from 3304-0
 # Vox Galactica
 
 First mentioned: **3304-09-12**  
-Last mentioned: **3312-04-30**  
-Total mentions: **30**
+Last mentioned: **3312-05-07**  
+Total mentions: **31**
 
 ## Related
 

@@ -2,8 +2,8 @@
 id: trailblazer-colonisation
 name: Trailblazer Colonisation
 first_seen_date: '3311-01-30'
-last_seen_date: '3311-11-11'
-mention_count: 11
+last_seen_date: '3312-05-07'
+mention_count: 12
 significance: medium
 key_entities:
 - brewer-corporation
@@ -24,6 +24,7 @@ phases:
 - Initial events (3311-01-30)
 - Escalation (3311-03-13)
 - Resolution (3311-11-11)
+- Dodec full production (3312-05-07)
 ---
 
 
@@ -33,8 +34,8 @@ phases:
 # Trailblazer Colonisation
 
 First seen: **3311-01-30**  
-Last seen: **3311-11-11**  
-Articles: **11**
+Last seen: **3312-05-07**  
+Articles: **12**
 
 ## Key Figures
 
