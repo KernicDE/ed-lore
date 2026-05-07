@@ -1,5 +1,5 @@
 import { useState, useEffect, useRef, useMemo, useCallback } from 'react';
-import { forceCollide } from 'd3-force-3d';
+import { forceCollide, forceX, forceY } from 'd3-force-3d';
 
 export interface GraphNode {
   id: string;
@@ -319,12 +319,24 @@ export default function EntityGraph({ mode, miniData, baseUrl = '', height: heig
     if (!fg) return;
 
     if (mode === 'full') {
-      // Softer charge keeps single / small-cluster nodes nearer the core
-      fg.d3Force('charge')?.strength(-50).distanceMax(90);
+      // Remove group-level centering; replace with per-node positional pull
+      // so isolated / low-degree nodes are drawn back to the core instead of
+      // drifting to the periphery.
+      fg.d3Force('center')?.strength(0);
+
+      // Very gentle repulsion — just enough breathing room, no explosion
+      fg.d3Force('charge')?.strength(-12).distanceMax(60);
+
+      // Moderate link strength: clusters hold together but don't become
+      // so dense that collision ejects leaf nodes into the outer void.
       fg.d3Force('link')
-        ?.strength(0.8)
-        .distance((link: any) => Math.max(8, 40 / Math.log((link.weight || 1) + 2)));
-      fg.d3Force('center')?.strength(0.28);
+        ?.strength(0.5)
+        .distance((link: any) => Math.max(6, 32 / Math.log((link.weight || 1) + 2)));
+
+      // Constant inward pull on every node individually — this is what
+      // actually keeps wolves-of-jonai-style singletons near the core.
+      fg.d3Force('x', forceX(0).strength(0.12));
+      fg.d3Force('y', forceY(0).strength(0.12));
     }
 
     // Collision force keeps nodes from overlapping (uses actual visual radius)
