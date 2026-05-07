@@ -36,6 +36,19 @@ export default function AudioPlayer({ article }: AudioPlayerProps) {
 
   const audioUrl = article ? getAudioUrl(article.uuid) : null;
 
+  // Stop playback when AI mode is turned off
+  useEffect(() => {
+    const observer = new MutationObserver(() => {
+      const mode = document.documentElement.getAttribute('data-ai-mode');
+      if (mode === 'off' && audioRef.current) {
+        audioRef.current.pause();
+        setIsPlaying(false);
+      }
+    });
+    observer.observe(document.documentElement, { attributes: true, attributeFilter: ['data-ai-mode'] });
+    return () => observer.disconnect();
+  }, []);
+
   const clearLoadTimeout = useCallback(() => {
     if (loadTimeoutRef.current) {
       clearTimeout(loadTimeoutRef.current);

@@ -1,0 +1,29 @@
+<button class="hud-search-btn ai-mode-toggle" id="ai-mode-toggle" aria-label="Toggle AI content">
+  <span class="ai-mode-icon">🤖</span>
+</button>
+
+<script is:inline>
+  (function() {
+    const btn = document.getElementById('ai-mode-toggle');
+    const icon = btn?.querySelector('.ai-mode-icon');
+    if (!btn || !icon) return;
+
+    function update() {
+      const mode = document.documentElement.getAttribute('data-ai-mode') || 'on';
+      icon.textContent = mode === 'on' ? '🤖' : '📰';
+      btn.style.opacity = mode === 'on' ? '1' : '0.6';
+      btn.title = mode === 'on' ? 'AI enhanced (click for raw)' : 'Raw only (click for AI enhanced)';
+    }
+
+    update();
+
+    btn.addEventListener('click', () => {
+      const html = document.documentElement;
+      const current = html.getAttribute('data-ai-mode') || 'on';
+      const next = current === 'on' ? 'off' : 'on';
+      html.setAttribute('data-ai-mode', next);
+      localStorage.setItem('galnet-ai-mode', next);
+      update();
+    });
+  })();
+</script>

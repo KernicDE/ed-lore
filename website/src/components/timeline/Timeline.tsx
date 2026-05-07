@@ -371,9 +371,9 @@ export default function Timeline({
                     <div className="timeline-date">{art.date}</div>
                     <div className="timeline-title">{art.title}</div>
                     {!isSelected && art.summary && (
-                      <div className="timeline-preview">{art.summary}</div>
+                      <div className="timeline-preview ai-content">{art.summary}</div>
                     )}
-                    <div className="timeline-meta">
+                    <div className="timeline-meta ai-content-flex">
                       {art.arc_id && (
                         <span className="timeline-badge arc">{art.arc_id.replace(/-/g, ' ')}</span>
                       )}
@@ -384,7 +384,11 @@ export default function Timeline({
                   </div>
                   <div style={{ display: 'flex', flexDirection: 'column', marginLeft: 'auto', flexShrink: 0 }}>
                     <CopyLinkButton uuid={art.uuid} />
-                    {art.has_audio && <PlayAudioButton uuid={art.uuid} title={art.title} />}
+                    {art.has_audio && (
+                      <span className="ai-content-inline">
+                        <PlayAudioButton uuid={art.uuid} title={art.title} />
+                      </span>
+                    )}
                   </div>
                 </div>
 
@@ -395,7 +399,7 @@ export default function Timeline({
                   return (
                   <div className="detail-view" onClick={(e) => e.stopPropagation()}>
                     {art.summary && (
-                      <div className="detail-summary">
+                      <div className="detail-summary ai-content">
                         <div className="detail-summary-label">AI Summary</div>
                         <div className="detail-summary-text">{art.summary}</div>
                       </div>
@@ -413,7 +417,7 @@ export default function Timeline({
                     />
                     )}
                     {(art.player_impact || art.modern_impact) && (
-                      <div className="detail-analysis">
+                      <div className="detail-analysis ai-content">
                         <div className="detail-analysis-label">AI Analysis</div>
                         {art.player_impact && (
                           <div className="detail-analysis-section">
@@ -433,10 +437,12 @@ export default function Timeline({
                         )}
                       </div>
                     )}
-                    <TagList items={art.persons || []} color="var(--elite-blue)" baseUrl={baseUrl} />
-                    <TagList items={art.groups || []} color="var(--elite-orange)" baseUrl={baseUrl} />
-                    <TagList items={art.technologies || []} color="var(--elite-green)" baseUrl={baseUrl} />
-                    <TagList items={art.entities || []} color="var(--elite-yellow)" baseUrl={baseUrl} />
+                    <div className="ai-content">
+                      <TagList items={art.persons || []} color="var(--elite-blue)" baseUrl={baseUrl} />
+                      <TagList items={art.groups || []} color="var(--elite-orange)" baseUrl={baseUrl} />
+                      <TagList items={art.technologies || []} color="var(--elite-green)" baseUrl={baseUrl} />
+                      <TagList items={art.entities || []} color="var(--elite-yellow)" baseUrl={baseUrl} />
+                    </div>
                   </div>
                   );
                 })()}

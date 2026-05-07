@@ -36,6 +36,14 @@ const canonicalUrl = canonical ? `${baseUrl}${canonical}` : baseUrl + Astro.url.
       document.documentElement.setAttribute('data-theme', theme);
       const meta = document.querySelector('meta[name="theme-color"]');
       if (meta) meta.setAttribute('content', theme === 'dark' ? '#080a0f' : '#f5f7fa');
+
+      const params = new URLSearchParams(window.location.search);
+      const urlMode = params.get('ai');
+      const storedAi = localStorage.getItem('galnet-ai-mode');
+      const aiMode = urlMode === 'off' || urlMode === 'false' ? 'off'
+                    : urlMode === 'on' || urlMode === 'true' ? 'on'
+                    : storedAi || 'on';
+      document.documentElement.setAttribute('data-ai-mode', aiMode);
     })();
   </script>
   

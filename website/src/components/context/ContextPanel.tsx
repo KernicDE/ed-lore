@@ -308,7 +308,7 @@ export default function ContextPanel({
 
       {/* Related Arcs */}
       {activeArcs.length > 0 && (
-        <div className="holo-panel blue">
+        <div className="holo-panel blue ai-content">
           <div className="holo-title blue">Related Arcs</div>
           {activeArcs.map((arc) => (
             <a
@@ -335,7 +335,7 @@ export default function ContextPanel({
 
       {/* Context mini-graph */}
       {contextGraphData && (
-        <div className="holo-panel" style={{ padding: 0, overflow: 'hidden' }}>
+        <div className="holo-panel ai-content" style={{ padding: 0, overflow: 'hidden' }}>
           <div style={{ padding: '14px 16px 0' }}><div className="holo-title">Active Connections</div></div>
           <EntityGraph mode="mini" miniData={contextGraphData} baseUrl={baseUrl} height={220} />
         </div>
@@ -343,7 +343,7 @@ export default function ContextPanel({
 
       {/* Context */}
       {contextEntities.length > 0 && (
-        <div className="holo-panel">
+        <div className="holo-panel ai-content">
           <div className="holo-title">Context</div>
           {contextEntities.map((fig) => {
             const classified = !isUnlocked(fig.first_seen_date);

@@ -1042,6 +1042,26 @@ html, body {
   flex-shrink: 0;
 }
 
+/* ── AI Mode Overrides ──────────────────────────────────────────────────── */
+.ai-content,
+.ai-content-inline,
+.ai-content-flex {
+  display: block;
+}
+
+.ai-content-inline { display: inline; }
+.ai-content-flex { display: flex; }
+
+.raw-only { display: none; }
+
+[data-ai-mode="off"] .ai-content,
+[data-ai-mode="off"] .ai-content-inline,
+[data-ai-mode="off"] .ai-content-flex {
+  display: none !important;
+}
+
+[data-ai-mode="off"] .raw-only { display: block; }
+
 /* ── Light Theme Overrides ──────────────────────────────────────────────── */
 [data-theme="light"] .timeline-year-header {
   background: linear-gradient(180deg, var(--bg-primary) 0%, rgba(245,247,250,0.95) 100%);
