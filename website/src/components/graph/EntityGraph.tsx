@@ -1,5 +1,5 @@
 import { useState, useEffect, useRef, useMemo, useCallback } from 'react';
-import { forceCollide } from 'd3-force-3d';
+import { forceCollide, forceX, forceY } from 'd3-force-3d';
 
 export interface GraphNode {
   id: string;
@@ -75,6 +75,7 @@ export default function EntityGraph({ mode, miniData, baseUrl = '', height: heig
   const hoveredIdRef = useRef<string | null>(null);
   const labelThresholdRef = useRef<number>(Infinity);
   const nodesRef = useRef<GraphNode[]>([]);
+  const degreeMapRef = useRef<Map<string, number>>(new Map());
   const themeRef = useRef<'dark' | 'light'>('dark');
 
   useEffect(() => {
@@ -142,6 +143,17 @@ export default function EntityGraph({ mode, miniData, baseUrl = '', height: heig
     return map;
   }, [graphData.links]);
 
+  const degreeMap = useMemo(() => {
+    const map = new Map<string, number>();
+    for (const link of graphData.links) {
+      const s = resolveId(link.source);
+      const t = resolveId(link.target);
+      map.set(s, (map.get(s) || 0) + 1);
+      map.set(t, (map.get(t) || 0) + 1);
+    }
+    return map;
+  }, [graphData.links]);
+
   const depthMap = useMemo(() => {
     const map = new Map<string, number>();
     for (const node of graphData.nodes) map.set(node.id, node.depth ?? 1);
@@ -157,6 +169,7 @@ export default function EntityGraph({ mode, miniData, baseUrl = '', height: heig
   }, [mode, graphData.nodes]);
   labelThresholdRef.current = labelThreshold;
   nodesRef.current = graphData.nodes as GraphNode[];
+  degreeMapRef.current = degreeMap;
 
   const getNodeColor = useCallback((node: GraphNode): string => {
     const base = TYPE_COLORS[node.type] || '#888888';
@@ -319,37 +332,37 @@ export default function EntityGraph({ mode, miniData, baseUrl = '', height: heig
     if (!fg) return;
 
     if (mode === 'full') {
-      // Disable group-level center translation (useless for individual nodes)
+      // Disable group-level center translation
       fg.d3Force('center')?.strength(0);
 
-      // Tiny local repulsion — only affects immediate neighbours (distanceMax=30).
-      // This gives the dense inner cluster breathing room without blasting
-      // singletons into the outer void.
-      fg.d3Force('charge')?.strength(-6).distanceMax(30);
+      // Local repulsion — gives the dense inner cluster breathing room
+      fg.d3Force('charge')?.strength(-8).distanceMax(35);
 
-      // Slightly longer links so clusters aren't compressed too tightly
+      // Link forces keep clusters together
       fg.d3Force('link')
         ?.strength(0.4)
         .distance((link: any) => Math.max(6, 38 / Math.log((link.weight || 1) + 2)));
 
-      // Remove old linear x/y forces (replaced by custom radial gravity below)
-      fg.d3Force('x', null as any);
-      fg.d3Force('y', null as any);
+      // Remove the ineffective custom gravity
+      fg.d3Force('gravity', null as any);
 
-      // Custom radial gravity: pulls toward origin with strength proportional
-      // to distance from center.
-      //  - Nodes near center feel almost nothing → spacious inner cluster.
-      //  - Nodes far out feel strong inward acceleration → outer clusters
-      //    get reeled back in instead of drifting in the void.
-      fg.d3Force('gravity', function (alpha: number) {
-        for (let i = 0; i < (this as any).nodes.length; ++i) {
-          const node = (this as any).nodes[i];
-          if (node.x == null || node.y == null) continue;
-          const k = 0.0015 * alpha;
-          node.vx -= node.x * k;
-          node.vy -= node.y * k;
-        }
-      });
+      // Per-node centering strength based on graph degree:
+      //  - Hubs (degree ≥ 20): barely nudged → core stays spacious
+      //  - Well-connected (≥ 8): gentle pull
+      //  - Moderate (≥ 3): moderate pull
+      //  - Leaves (≥ 1): strong pull
+      //  - Singletons (0): reeled in aggressively → can't drift into void
+      const degMap = degreeMapRef.current;
+      const nodeStrength = (node: any): number => {
+        const d = degMap.get(node.id) || 0;
+        if (d >= 20) return 0.02;
+        if (d >= 8)  return 0.06;
+        if (d >= 3)  return 0.15;
+        if (d >= 1)  return 0.30;
+        return 0.55;
+      };
+      fg.d3Force('x', forceX(0).strength(nodeStrength));
+      fg.d3Force('y', forceY(0).strength(nodeStrength));
     }
 
     // Collision force keeps nodes from overlapping
