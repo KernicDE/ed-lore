@@ -1,5 +1,5 @@
 import { useState, useEffect, useRef, useMemo, useCallback } from 'react';
-import { forceCollide, forceX, forceY } from 'd3-force-3d';
+import { forceCollide } from 'd3-force-3d';
 
 export interface GraphNode {
   id: string;
@@ -319,30 +319,41 @@ export default function EntityGraph({ mode, miniData, baseUrl = '', height: heig
     if (!fg) return;
 
     if (mode === 'full') {
-      // Remove group-level centering; replace with per-node positional pull
-      // so isolated / low-degree nodes are drawn back to the core instead of
-      // drifting to the periphery.
+      // Disable group-level center translation (useless for individual nodes)
       fg.d3Force('center')?.strength(0);
 
-      // Charge completely disabled — it was the source of the outward explosion.
-      // Collision alone prevents overlap without propelling nodes into the void.
-      fg.d3Force('charge')?.strength(0);
+      // Tiny local repulsion — only affects immediate neighbours (distanceMax=30).
+      // This gives the dense inner cluster breathing room without blasting
+      // singletons into the outer void.
+      fg.d3Force('charge')?.strength(-6).distanceMax(30);
 
-      // Moderate link strength: clusters hold together but don't become
-      // so dense that collision ejects leaf nodes into the outer void.
+      // Slightly longer links so clusters aren't compressed too tightly
       fg.d3Force('link')
-        ?.strength(0.5)
-        .distance((link: any) => Math.max(6, 32 / Math.log((link.weight || 1) + 2)));
+        ?.strength(0.4)
+        .distance((link: any) => Math.max(6, 38 / Math.log((link.weight || 1) + 2)));
 
-      // Strong inward pull on every node individually — counteracts any
-      // outward drift from collision during the initial warmup phase.
-      fg.d3Force('x', forceX(0).strength(0.22));
-      fg.d3Force('y', forceY(0).strength(0.22));
+      // Remove old linear x/y forces (replaced by custom radial gravity below)
+      fg.d3Force('x', null as any);
+      fg.d3Force('y', null as any);
+
+      // Custom radial gravity: pulls toward origin with strength proportional
+      // to distance from center.
+      //  - Nodes near center feel almost nothing → spacious inner cluster.
+      //  - Nodes far out feel strong inward acceleration → outer clusters
+      //    get reeled back in instead of drifting in the void.
+      fg.d3Force('gravity', function (alpha: number) {
+        for (let i = 0; i < (this as any).nodes.length; ++i) {
+          const node = (this as any).nodes[i];
+          if (node.x == null || node.y == null) continue;
+          const k = 0.0015 * alpha;
+          node.vx -= node.x * k;
+          node.vy -= node.y * k;
+        }
+      });
     }
 
-    // Collision force keeps nodes from overlapping (tighter padding = less
-    // outward push from the dense center)
-    fg.d3Force('collide', forceCollide((node: any) => visRadius(node as GraphNode, mode) + 1));
+    // Collision force keeps nodes from overlapping
+    fg.d3Force('collide', forceCollide((node: any) => visRadius(node as GraphNode, mode) + 2));
   }, [mode]);
 
   const handleEngineStop = useCallback(() => {
@@ -429,9 +440,9 @@ export default function EntityGraph({ mode, miniData, baseUrl = '', height: heig
             backgroundColor="transparent"
             autoPauseRedraw={false}
             warmupTicks={mode === 'mini' ? 20 : 0}
-            cooldownTicks={mode === 'mini' ? 80 : 100}
-            d3AlphaDecay={mode === 'mini' ? 0.03 : 0.04}
-            d3VelocityDecay={0.6}
+            cooldownTicks={mode === 'mini' ? 80 : 120}
+            d3AlphaDecay={mode === 'mini' ? 0.03 : 0.03}
+            d3VelocityDecay={0.5}
             enableNodeDrag={true}
             enableZoomInteraction={true}
             minZoom={0.05}
