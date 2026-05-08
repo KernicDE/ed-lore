@@ -242,7 +242,12 @@ export default function AppShell() {
           onYearSelect={handleYearSelect}
         />
       </main>
-      {audioArticle && audioPortalEl && createPortal(<AudioPlayer article={audioArticle} />, audioPortalEl)}
+      {audioArticle && audioPortalEl && createPortal(
+      <div className="audio-player-bar ai-content">
+        <AudioPlayer article={audioArticle} />
+      </div>,
+      audioPortalEl
+    )}
       {searchOpen && (
         <CommandConsole
           searchIndex={searchIndex}

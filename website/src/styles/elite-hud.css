@@ -152,9 +152,16 @@ html, body {
   color: var(--elite-blue);
   font-family: var(--font-mono);
   font-size: 13px;
-  padding: 8px 18px;
+  padding: 0 14px;
+  height: 36px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   cursor: pointer;
   transition: all 0.2s;
+  text-decoration: none;
+  line-height: 1;
+  white-space: nowrap;
 }
 
 .hud-search-btn:hover {
@@ -916,6 +923,8 @@ html, body {
 
 @media (max-width: 900px) {
   .audio-player-bar {
+    position: fixed;
+    z-index: 100;
     left: 0;
     right: 0;
     top: auto;
@@ -1155,5 +1164,10 @@ html, body {
   }
   .graph-slider {
     width: 120px;
+  }
+  .hud-search-btn {
+    font-size: 12px;
+    padding: 0 10px;
+    height: 32px;
   }
 }
