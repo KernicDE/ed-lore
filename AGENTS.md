@@ -251,7 +251,17 @@ New articles require **manual enrichment**. See `.kimi/prompts/fetch-enrich-depl
 
 Entity profiles live in `Entities/` and are auto-generated stubs plus hand-curated enrichment.
 
-**Auto-generated stubs** have this format:
+### Enriched Description Style Guide
+All manually enriched entity and arc profiles must follow a **compact, Wikipedia-style length**:
+
+- **Reference:** `Entities/faction/alliance.md` is the canonical example (~45 lines, 2 concise paragraphs)
+- **Rule:** No enriched profile may exceed the Alliance length by more than **5%**
+- **Method:** Manual trimming only — analyze and edit each file individually; **never** use scripts or batch processing for trimming
+- **Rendering priority:** The site displays `bio_full` extracted from the `## Biography` markdown body. The YAML `bio` field is only a fallback. Always trim the markdown body content.
+- **Content:** Cover founding/origin, governance/role, and key historical significance in 1–2 tight paragraphs. Remove redundant detail, lists, and verbose exposition.
+
+### Auto-generated stubs
+Stubs have this format:
 ```yaml
 ---
 id: person-name
@@ -265,7 +275,7 @@ mention_count: 3
 <!-- AUTO-GENERATED -->
 ```
 
-When new persons or groups are introduced in articles, the build script may create stubs. These can be enriched later with biographical details.
+When new persons or groups are introduced in articles, the build script may create stubs. These can be enriched later with biographical details following the style guide above.
 
 ---
 
@@ -307,4 +317,4 @@ When new persons or groups are introduced in articles, the build script may crea
 
 ---
 
-*Last updated: 2026-05-02*
+*Last updated: 2026-05-09*

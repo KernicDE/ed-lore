@@ -119,6 +119,15 @@ grep -ri "entity name" Entities/ | head -10
 ls Entities/person/ | head -20
 ```
 
+### Entity & Arc Description Style Guide
+All manually enriched entity and arc profiles must follow a **compact, Wikipedia-style length**:
+
+- **Reference:** `Entities/faction/alliance.md` is the canonical example (~45 lines, 2 concise paragraphs)
+- **Rule:** No enriched profile may exceed the Alliance length by more than **5%**
+- **Method:** Manual trimming only — analyze and edit each file individually; **never** use scripts or batch processing for trimming
+- **Rendering priority:** The site displays `bio_full` extracted from the `## Biography` markdown body. The YAML `bio` field is only a fallback. Always trim the markdown body content.
+- **Content:** Cover founding/origin, governance/role, and key historical significance in 1–2 tight paragraphs. Remove redundant detail, lists, and verbose exposition.
+
 ### Creating a New Entity
 Create `Entities/<type>/<slug>.md`:
 ```yaml
@@ -129,7 +138,9 @@ first_appearance: "330X-XX-XX"
 related_entities:
   - "other-entity-slug"
 ---
-Biography or description here.
+## Biography
+
+Concise description following the style guide above.
 ```
 
 ### Updating an Existing Entity
@@ -137,6 +148,7 @@ Open the entity file and add:
 - New appearances (dates)
 - New relationships
 - Updated biography if new information revealed
+- **If the profile exceeds the length cap, trim it** following the style guide above
 
 ## Important Notes
 - **Always enrich manually** — do NOT run `scripts/enrich.py` automatically. It was used for bulk initial import and makes assumptions that don't hold for nuanced new articles.
