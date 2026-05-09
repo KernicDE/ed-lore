@@ -37,4 +37,6 @@ Total mentions: **43**
 
 ## Biography
 
-*[To be enriched]*
+Obsidian Orbital is a starport in the Maia system, constructed in 3301 through a community-driven campaign to establish a permanent human presence in the Pleiades Nebula. It quickly became the primary research hub for studying Thargoid barnacles and meta-alloys, with Professor Ishmael Palin operating a research base aboard the station. Its location at the epicentre of first contact made it invaluable to scientists and a priority target for Thargoid forces.
+
+The station suffered repeated crises, from the mysterious technical malfunctions caused by Unknown Artefact interference to direct Thargoid assaults during the escalating war. Despite these challenges, Obsidian Orbital remained operational longer than many other Pleiades outposts, serving as a lifeline for researchers, traders, and independent pilots operating on the alien frontier. Its survival and continued function symbolise humanity's determination to maintain a foothold in one of the galaxy's most dangerous regions.

@@ -38,4 +38,6 @@ Total mentions: **49**
 
 ## Biography
 
-*[To be enriched]*
+Nova Imperium is an isolationist movement that challenged the Empire's traditional engagement with the galaxy, founded by Kaeso Mordanticus and claiming Imperator Hadrian Duval — the illegitimate grandson of Emperor Hengist — as its figurehead. The group argued that the Empire should withdraw from foreign wars and focus on internal strength, a position that drew support from senators disillusioned with Arissa Lavigny-Duval's aggressive policies. In 3305, Imperial forces defeated Nova Imperium in the Battle of Paresa, and Mordanticus was executed by Senator Denton Patreus on the Senate floor.
+
+The movement survived its founder's death, with Hadrian Duval eventually seeking reintegration into the Imperial Family as Prince Hadrian. An NMLA assassination attempt in 3306 nearly killed him, but Princess Aisling Duval's intervention saved his life and paved the way for his acceptance as a legitimate Duval heir. Though Nova Imperium as an armed insurrection was crushed, its isolationist ideology continues to influence Imperial political discourse.

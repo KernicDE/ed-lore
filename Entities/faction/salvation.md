@@ -38,4 +38,6 @@ Total mentions: **46**
 
 ## Biography
 
-*[To be enriched]*
+Salvation was the anonymous public face of Azimuth Biotech's anti-xeno weapons program, a messianic figure who positioned himself as humanity's sole defence against the Thargoids. Emerging in 3308 with uncannily accurate predictions of Thargoid attacks, he rapidly gained the trust of all three superpowers by demonstrating Guardian-based superweapons capable of purging entire systems of alien vessels. His forces, coordinated by Commodore Morag Halloran and supported by defecting naval crews, won decisive victories at Cornsar and later in the simultaneous invasions of Delphi, Maia, and Merope.
+
+Salvation's rhetoric grew increasingly grandiose as his power expanded, culminating in the declaration that HIP 22460 would be the "final battlefield" where the Proteus Wave would eradicate the Thargoids from the galaxy entirely. The weapon malfunctioned during the August 3308 battle, killing Salvation and triggering a catastrophic Thargoid reprisal that unleashed the Maelstroms upon the core systems. Posthumously revealed as the successor to Azimuth Biochemicals founder Caleb Wycherley, Salvation remains one of the most controversial figures in human history — a saviour to some, a reckless fanatic to others.

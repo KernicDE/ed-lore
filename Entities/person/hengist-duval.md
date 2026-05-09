@@ -27,4 +27,6 @@ Total mentions: **48**
 
 ## Biography
 
-*[To be enriched]*
+Hengist Duval was the 15th Emperor of the Empire, ruling for decades before his assassination in 3301 triggered the most severe succession crisis in Imperial history. Long in poor health and comatose for extended periods, he shocked the Empire by announcing his intention to marry Florence Lavigny — a move designed to secure the Duval bloodline and produce a legitimate heir. During the wedding ceremony on Capitol, he was stabbed by Brendan Paul Darius, a high-ranking official with ties to the isolationist insurgent group Emperor's Dawn, and died en route to medical facilities.
+
+Hengist's reign was defined by his controversial declaration that his son Harold Duval was unfit for the throne, leaving the succession ambiguous. His death revealed the existence of an illegitimate son, whose own child — Hadrian Duval — would later become the figurehead of the Nova Imperium movement. The Emperor's assassination exposed deep fractures in Imperial stability, fractures that would widen through the NMLA crisis and the eventual Lords of Restoration scandal.

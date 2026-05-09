@@ -58,16 +58,16 @@ This file tracks manual enrichment progress for entity profiles. Each entry is e
 | 38 | Imperial Internal Security Service | faction | ✅ Done | Imperial intelligence, NMLA crackdowns, Liz Ryder case |
 | 39 | Pleiades Nebula | location | ✅ Done | First Thargoid contact region, superpower proxy battlefield |
 | 40 | Marlinist | faction | ✅ Done | Marlin Duval ideology, NMLA terror, refugee crisis, colonies |
-| 41 | Zachary Rackham | person | pending | |
-| 42 | Utopia | faction | pending | |
-| 43 | Nova Imperium | faction | pending | |
-| 44 | Canonn Interstellar Research Group | faction | pending | |
-| 45 | Hengist Duval | person | pending | |
-| 46 | Azimuth Biotech | faction | pending | |
-| 47 | Salvation | faction | pending | |
-| 48 | Federal Congress | faction | pending | |
-| 49 | Obsidian Orbital | location | pending | |
-| 50 | Jaques Station | location | pending | |
+| 41 | Zachary Rackham | person | ✅ Done | Ex-pirate "Calico Zack", Rackham Capital, Federation President |
+| 42 | Utopia | faction | ✅ Done | Pranav Antal's communal society, nanomeds, Sim-Archive |
+| 43 | Nova Imperium | faction | ✅ Done | Isolationist movement, Hadrian Duval, Mordanticus executed |
+| 44 | Canonn Interstellar Research Group | faction | ✅ Done | Dr Arcanonn, barnacles, Unknown Artefacts, xeno-research |
+| 45 | Hengist Duval | person | ✅ Done | 15th Emperor, wedding assassination, succession crisis |
+| 46 | Azimuth Biotech | faction | ✅ Done | Azimuth successor, Proteus Wave, Project Seraph, HIP 22460 |
+| 47 | Salvation | faction | ✅ Done | Anonymous Azimuth scientist, superweapons, messianic rhetoric |
+| 48 | Federal Congress | faction | ✅ Done | Federal legislature, Mars, PDB, corporate influence |
+| 49 | Obsidian Orbital | location | ✅ Done | Maia starport, meta-alloy research, Thargoid frontier |
+| 50 | Jaques Station | location | ✅ Done | Mobile starport, Beagle Point attempt, Colonia founder |
 | 51 | Pranav Antal | person | pending | |
 
 ## Stats
@@ -75,8 +75,9 @@ This file tracks manual enrichment progress for entity profiles. Each entry is e
 - Enriched (Batch 1): 26
 - Enriched (Batch 2): 6
 - Enriched (Batch 3): 8
-- Total enriched: 40
-- Remaining: 3,444
+- Enriched (Batch 4): 10
+- Total enriched: 50
+- Remaining: 3,434
 
 ## Notes
 - All enriched entities trimmed to compact Wikipedia-style descriptions (1-2 paragraphs)

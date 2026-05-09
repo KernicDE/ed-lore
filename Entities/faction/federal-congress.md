@@ -39,4 +39,6 @@ Total mentions: **45**
 
 ## Biography
 
-*[To be enriched]*
+The Federal Congress is the bicameral legislature of the Federation, convening on Mars to debate policy, approve presidential appointments, and declare war. Its members — Congressmen and Congresswomen elected from across Federal space — wield considerable influence over the Federation's corporate-driven democracy, though real power often rests with the President and the shadowy alliances between political factions and megacorporations. The Congress has been the stage for some of the Federation's most dramatic political moments, including the vote of no confidence against President Jasmina Halsey and the authorisation of the Proactive Detection Bureau mass surveillance program.
+
+Congressional politics are defined by the tension between the two major parties and the ever-present influence of corporate donors. The Congress approved the creation of the PDB in 3307, granting the government sweeping powers to monitor civilian communications under the guise of counter-terrorism — a decision that critics condemned as the death knell of Federal civil liberties. Whether debating refugee policy, military appropriations, or corporate mergers, the Federal Congress remains where Federal democracy is most visibly practiced and most visibly compromised.

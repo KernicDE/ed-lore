@@ -39,4 +39,6 @@ Total mentions: **49**
 
 ## Biography
 
-*[To be enriched]*
+Utopia is a highly advanced communal society founded and led by Simguru Pranav Antal, operating from its headquarters in the Polevnic system. The colony employs cutting-edge nanotechnology, neural interfaces, and social engineering to maintain a post-scarcity existence for its citizens, producing innovations such as revolutionary nanomedicines. Its isolationist stance and refusal to engage in galactic politics have made it an enigma to the superpowers, though its technology is frequently coveted — as when Vitadyne Labs admitted in 3305 that its flagship nanomeds were salvaged from a crashed Utopian transport.
+
+Antal has consistently positioned Utopia as a refuge for humanity's knowledge and culture, proposing the Sim-Archive as a means to preserve human consciousness should the Thargoids prevail. While critics dismiss Utopia as an escapist cult, its technological achievements and Antal's quiet influence in galactic affairs have made it far more significant than its small population would suggest.
