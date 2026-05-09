@@ -72,5 +72,11 @@ This file tracks manual enrichment progress for entity profiles. Each entry is e
 
 ## Stats
 - Total entities: 3,484
-- Enriched (Batch 1): 25
-- Remaining: 3,459
+- Enriched (Batch 1): 26
+- Enriched (Batch 2): 6
+- Total enriched: 32
+- Remaining: 3,452
+
+## Notes
+- All enriched entities trimmed to compact Wikipedia-style descriptions (1-2 paragraphs)
+- Batch 1 + Batch 2 fully trimmed and committed

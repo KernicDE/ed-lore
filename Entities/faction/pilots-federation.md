@@ -11,17 +11,13 @@ related_entities:
 - delphi
 - nmla
 - kumo-crew
-bio: The Pilots Federation is a secretive, politically neutral organisation founded
-  in 2805 that oversees and represents the galaxy's independent pilots. Almost all
-  independent pilots are licensed members, granted the title "Commander." The Federation
-  maintains a strict code of conduct, operates the ubiquitous GalNet data network (its
-  primary source of income), and manages a comprehensive ranking system that grades
-  pilots from Harmless to Elite across combat, trade, exploration, mercenary work,
-  exobiology, and CQC championship participation. It directly controls only a handful
-  of systems, most notably Shinrarta Dezhra — accessible only by invitation to Elite-ranked
-  pilots — and the Pilots' Federation District for newly licensed commanders. The organisation's
-  Rescue Rangers provide free recovery services to members who lose their ships, and
-  its ALERT system coordinates community-wide crisis responses.
+bio: The Pilots Federation is a politically neutral organisation founded in 2805
+  that oversees the galaxy's independent pilots. It operates the GalNet data network,
+  maintains a strict code of conduct, and manages the universal ranking system from
+  Harmless to Elite across combat, trade, exploration, and other fields. The Federation
+  controls only a handful of systems, notably Shinrarta Dezhra for Elite pilots. Its
+  Rescue Rangers provide free ship recovery, while the ALERT system coordinates community
+  responses to crises.
 ---
 
 
@@ -44,12 +40,8 @@ Total mentions: **136**
 
 ## Biography
 
-The Pilots Federation was established in 2805 during a surge in private starship ownership. Its original purpose was to allow pilots to share reliable trade-route information and provide mutual protection against interstellar piracy. At the time, independent pilots were widely mistrusted; the Federation's strict code of conduct transformed this perception, and over time its members gained galaxy-wide respect.
+The Pilots Federation was established in 2805 to allow pilots to share trade-route information and provide mutual protection against piracy. Its strict code of conduct transformed independent pilots from widely mistrusted outsiders into respected professionals.
 
-The organisation's primary source of wealth is the GalNet data network, which evolved from a simple ship, bounty, and star-chart database into the dominant interstellar aggregator of market information and galactic news. By 3300, the Pilots Federation was not only the main provider of this information but also the principal manufacturer of the hardware and software that serve it — Pilots Federation systems are fitted as standard on virtually all independent starships.
+The organisation's primary source of wealth is the GalNet data network, which evolved from a simple database into the dominant interstellar aggregator of market information and galactic news. By 3300, Pilots Federation systems were fitted as standard on virtually all independent starships.
 
-The Federation's ranking system, introduced shortly after its founding and expanded in 3290 to include trade and exploration, is the universal benchmark for pilot capability. Pilots progress from Harmless (or equivalent) to Elite across six career fields: combat, trade, exploration, CQC championship, mercenary work, and exobiology. Those who achieve Elite rank in combat, trade, and exploration attain the coveted status of "Triple Elite." Elite-ranked pilots receive permits to Shinrarta Dezhra, home to Jameson Memorial station, where all ships and modules are available at a discount.
-
-Despite its enormous wealth and influence, the Pilots Federation maintains strict political neutrality. It controls only a few systems directly: Shinrarta Dezhra (invitation-only), the Pilots' Federation District for new commanders, and a handful of administrative systems. Its Rescue Rangers provide free ship recovery to members, and its ALERT system coordinates rapid community responses to crises ranging from Thargoid attacks to humanitarian emergencies.
-
-The Pilots Federation's relationship with the superpowers is complex. While it refuses to take sides in political conflicts, its members frequently serve as contractors for all three superpowers — fighting in their navies, trading in their markets, and exploring their territories. This neutrality has occasionally been tested, most notably during the Thargoid conflicts when the Federation's ALERT system coordinated independent pilot responses to station attacks and evacuation operations.
+The ranking system is the universal benchmark for pilot capability, progressing from Harmless to Elite across six career fields. Elite pilots receive permits to Shinrarta Dezhra, home to Jameson Memorial station. Despite enormous wealth and influence, the Federation maintains strict political neutrality, with its members frequently serving as contractors for all three superpowers. Its Rescue Rangers and ALERT system coordinate responses to crises ranging from Thargoid attacks to humanitarian emergencies.

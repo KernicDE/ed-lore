@@ -5,20 +5,12 @@ type: person
 first_seen_date: '3303-08-05'
 last_seen_date: '3311-06-03'
 mention_count: 93
-bio: Professor Alba Tesreau is a leading xenologist and the founding scientific director
-  of Aegis, the tri-superpower organisation formed in 3303 to research and counter the
-  Thargoid threat. Based at the Achenar Research Council, Tesreau championed a research-first
-  approach to understanding Thargoid biology and technology, prioritising scientific
-  cooperation over military escalation. Under her leadership, Aegis achieved breakthroughs
-  in anti-xeno weaponry, meta-alloy research, and Guardian technology integration. She
-  was forced to resign in August 3307 following the disappearance of the Aegis megaship
-  Alexandria and the subsequent Baumann Report, which cited organisational failures.
-  After Aegis's dissolution in January 3308, Tesreau became one of Salvation's most
-  prominent critics, exposing his true identity as Dr. Caleb Wycherley and his connection
-  to the mycoid bioweapon and the Alexandria sabotage. She also organised the independent
-  search that located the Alexandria's wreckage in Wregoe TC-X b29-0 in January 3308,
-  proving the ship had been sabotaged by Azimuth Biochemicals rather than destroyed
-  by Thargoids.
+bio: Professor Alba Tesreau is a leading xenologist and founding scientific director
+  of Aegis. She championed a research-first approach to the Thargoid threat, achieving
+  breakthroughs in anti-xeno weaponry and Guardian technology integration. Forced to resign
+  in 3307 after the Alexandria disaster, she became one of Salvation's most prominent
+  critics — exposing his identity as Dr. Caleb Wycherley and organising the search that
+  located the Alexandria's wreckage, proving Azimuth sabotage.
 ---
 
 
