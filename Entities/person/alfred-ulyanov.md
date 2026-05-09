@@ -28,4 +28,6 @@ Total mentions: **25**
 
 ## Biography
 
-*[To be enriched]*
+Dr Alfred Ulyanov is a leading academic expert in exotheology — the study of alien religions — and the foremost authority on the Order of the Far God. His scholarly work traces the cult's theological foundations, organisational structure, and historical evolution, providing rare empirical insight into a movement most observers dismiss as mere fanaticism. Ulyanov approaches his subject with clinical detachment, analysing Far God doctrine as a genuine belief system rather than a psychological pathology.
+
+Ulyanov's expertise has made him a sought-after commentator during crises involving the cult, including the Dedicant megaship disaster of 3309. His observation that the cultists had no way of communicating with the Thargoids — and that the alien arrival was "unexpected, and certainly not the rapturous experience they believed it would be" — directly contradicted President Hudson's narrative of deliberate collusion. Ulyanov's work thus serves as both scientific documentation and quiet political resistance against the demonisation of religious minorities.

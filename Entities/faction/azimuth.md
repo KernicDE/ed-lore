@@ -38,4 +38,6 @@ Total mentions: **28**
 
 ## Biography
 
-*[To be enriched]*
+Azimuth Biochemicals — commonly referred to simply as Azimuth — is a pharmaceutical and biotechnology corporation that emerged from the shadows of INRA's legacy to become the most controversial corporate actor in the Second Thargoid War. Under the leadership of the enigmatic figure known as Salvation, Azimuth developed experimental anti-xeno superweapons including the Proteus Wave, achieving military results that dwarfed the efforts of the superpower navies and Aegis combined.
+
+The corporation's methods proved as divisive as its results. Azimuth's research relied on Guardian technology, human test subjects, and provocation strategies that deliberately escalated Thargoid aggression — all while operating outside meaningful regulatory oversight. When evidence linked Salvation to INRA's historical crimes and the sabotage of the Aegis megaship Alexandria, public opinion polarised between those who viewed Azimuth as humanity's only hope and those who condemned it as a repeat of INRA's darkest excesses. The eventual failure of the Proteus Wave at HIP 22460 in 3309, which triggered catastrophic Thargoid retaliation, vindicated Azimuth's critics and shattered the corporation's credibility.

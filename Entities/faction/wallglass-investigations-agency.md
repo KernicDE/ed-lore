@@ -39,4 +39,6 @@ Total mentions: **25**
 
 ## Biography
 
-*[To be enriched]*
+The Wallglass Investigations Agency is a premier private detective and corporate intelligence firm headquartered in the Alliance, renowned for meticulous forensic analysis and politically fearless reporting. The agency gained galactic prominence through its investigation of President Gibson Kincaid's conspiracy, producing the detailed report that — combined with Admiral Frederick Yamamoto's testimony — provided the evidentiary foundation for Kincaid's impeachment and trial.
+
+Led by senior investigator Francesca Wolfe, Wallglass has tackled cases ranging from political corruption to deep-space mysteries, including the discovery of the ghost ship Hesperus alongside the Scriveners Clan dredger in the Perseus Dark Region. The agency's independence from superpower funding allows it to pursue leads that government investigators avoid, though this same independence means its findings are sometimes dismissed by establishment figures until corroborated by official sources.

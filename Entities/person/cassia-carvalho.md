@@ -28,4 +28,6 @@ Total mentions: **22**
 
 ## Biography
 
-*[To be enriched]*
+Cassia Carvalho is a senior political correspondent for the Imperial Herald, one of the Empire's most influential news outlets. Her reporting has covered the most consequential events in recent Imperial history, including the Nova Imperium crisis, the execution of Imperator Kaeso Mordanticus on the Senate floor, and the subsequent Empire-wide purge of isolationist supporters. Her eyewitness account of Mordanticus's death — describing Senator Denton Patreus drawing his personal sidearm before the Emperor — remains the definitive record of that watershed moment.
+
+Carvalho's journalism exemplifies the Imperial Herald's role as both chronicler and shaper of Imperial political narrative. Her access to the Senate floor and proximity to power provide insights unavailable to independent journalists, though critics question whether this access comes at the cost of editorial independence. Her continued coverage of Imperial politics through the NMLA crisis and the Thargoid war has established her as one of the most authoritative voices reporting from within the Empire's highest corridors of power.

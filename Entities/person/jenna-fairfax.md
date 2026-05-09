@@ -28,4 +28,6 @@ Total mentions: **24**
 
 ## Biography
 
-*[To be enriched]*
+Dr Jenna Fairfax is a prominent leader within the Marlinist community and a key figure in the political structures that emerged from the Marlinist refugee crisis. As the Marlinist Parliament's spokesperson, she has consistently sought to distance mainstream Marlinism from the terrorist tactics of the Neo-Marlinist Liberation Army (NMLA), cooperating with both Federal and Imperial authorities to identify extremists hiding among refugee populations.
+
+Fairfax's political position reflects the impossible tightrope Marlinist leaders must walk: condemning terrorism without abandoning the democratic principles that define Marlinism, and building new colonial governments while navigating superpower suspicion. Her public statement denouncing NMLA members discovered among refugees — "These killers do not represent the principles of Marlinism, and we are happy to cooperate in expelling them" — exemplifies the pragmatic accommodation required of a political movement born from persecution and struggling for legitimacy.

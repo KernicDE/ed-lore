@@ -28,4 +28,6 @@ Total mentions: **26**
 
 ## Biography
 
-*[To be enriched]*
+Torben Rademaker is the CEO of Azimuth Biochemicals and the public face of the corporation's anti-xeno weapons programme. A brash, confident executive, Rademaker has consistently defended Azimuth's controversial research methods — including human experimentation and the exploitation of Guardian technology — as necessary sacrifices in humanity's existential struggle against the Thargoids. His rhetoric frames Azimuth as the only organisation capable of developing effective countermeasures, dismissing critics as "alien-loving traitors."
+
+Rademaker's stewardship of Azimuth reached its zenith with the Proteus Wave project at HIP 22460 and the subsequent arms conventions that showcased new AX weaponry such as the Overcharged Gimballed AX Multi-Cannon. His corporate ambitions extend beyond weapons development; under his leadership, Azimuth has pursued partnerships with institutions like the Holloway Bioscience Institute, positioning the corporation to dominate xenological research regardless of the ethical cost. The catastrophic failure of the Proteus Wave in 3309 and Salvation's death left Rademaker's legacy in ruins.

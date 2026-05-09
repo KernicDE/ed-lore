@@ -40,4 +40,6 @@ Total mentions: **24**
 
 ## Biography
 
-*[To be enriched]*
+The Alliance Assembly is the unicameral parliament of the Alliance of Independent Systems, composed of elected representatives from each member system who debate legislation, ratify treaties, and — in exceptional circumstances — exercise direct authority over the executive. Unlike the autocratic governance of the Empire or the corporate-influenced Congress of the Federation, the Assembly operates on principles of consensus and proportional representation, with the Prime Minister serving as first among equals rather than a supreme executive.
+
+The Assembly's most dramatic interventions have occurred during constitutional crises. In 3305, it impeached and removed President Gibson Kincaid on charges of treason, murder, and corruption — subsequently abolishing the presidential office entirely to prevent future concentration of power. The Assembly's deliberative approach can frustrate those seeking swift decisive action, particularly during the Thargoid war when military coordination with Sirius Corporation required lengthy ratification debates. Yet this same caution embodies the Alliance's core promise: that no single leader, however charismatic or ambitious, can override the collective will of its member systems.

@@ -52,4 +52,6 @@ Total mentions: **24**
 
 ## Biography
 
-*[To be enriched]*
+Paresa is an Imperial agricultural system with a population of six billion, located on the fringes of Imperial space and historically the primary stronghold of the Nova Imperium isolationist movement. Governed under patronage by Nova Paresa, the system became the battlefield for one of the most significant internal conflicts in recent Imperial history when Emperor Arissa Lavigny-Duval declared open war on Nova Imperium in 3305.
+
+The Battle of Paresa ended with Imperial forces — led by Senator Denton Patreus's auxiliaries — crushing the isolationist rebellion and executing its leader, Imperator Kaeso Mordanticus, on the Senate floor. Hadrian Duval, the Nova Imperium's figurehead, survived the purge and was later pardoned, but Paresa's association with the failed uprising permanently shaped its identity. The system remains a potent symbol of both Imperial unity and the lethal consequences of challenging the throne.

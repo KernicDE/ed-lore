@@ -39,4 +39,6 @@ Total mentions: **24**
 
 ## Biography
 
-*[To be enriched]*
+Azimuth Biochemicals is a pharmaceutical and biotechnology corporation that serves as the corporate vehicle for the anti-xeno research programme led by the figure known as Salvation. Headquartered in the Chukchan system and drawing direct lineage from INRA's clandestine First Thargoid War programmes, Azimuth developed the Proteus Wave superweapon and a range of experimental AX technologies that achieved military results conventional forces could not match.
+
+The corporation's history is inseparable from its darkest experiments. Project Seraph — which subjected human test subjects to Thargoid neural interface implants — produced Seo Jin-ae, the only survivor. Azimuth's sabotage of the Aegis megaship Alexandria, its exploitation of Guardian technology, and its deliberate provocation of Thargoid forces all occurred under the corporation's operational umbrella. The catastrophic failure of the Proteus Wave at HIP 22460 in 3309, which triggered devastating Thargoid retaliation rather than victory, exposed the fatal hubris of Azimuth's approach and shattered both Salvation's reputation and the corporation's future.

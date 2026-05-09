@@ -39,4 +39,6 @@ Total mentions: **29**
 
 ## Biography
 
-*[To be enriched]*
+The League of Reparation is a terrorist organisation that emerged in 3304 with a singular, chilling mandate: to execute the descendants of individuals who served in the Intergalactic Naval Reserve Arm (INRA) during the First Thargoid War. Operating across all three superpowers, the League employs nerve agents and ship-to-ship attacks, claiming its murders are acts of historical justice for INRA's alleged crimes — including the deployment of biological weapons and the betrayal of human colonies.
+
+The group was dismantled later in 3304 following a coordinated investigation by Alliance Interpol, the Imperial Internal Security Service, and the Federal Intelligence Agency. Its leader, Riri McAllister, was exposed as a descendant of INRA personnel herself — a tortured irony that suggested the League's ideology was as much personal vengeance as political statement. The case forced uncomfortable public reckonings with INRA's legacy and whether historical atrocities could ever justify contemporary terrorism.

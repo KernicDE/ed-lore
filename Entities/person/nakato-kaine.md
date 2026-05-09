@@ -28,4 +28,6 @@ Total mentions: **27**
 
 ## Biography
 
-*[To be enriched]*
+Nakato Kaine is an Alliance Assembly councillor representing the Tionisla system and the most vocal critic of the Alliance-Sirius Corporation defence pact. A pragmatic politician with a background in resource management, Kaine has consistently challenged Prime Minister Edmund Mahon's reliance on corporate partnerships, arguing that the Alliance's strategic dependence on Sirius undermines both its sovereignty and its anti-xeno capabilities.
+
+In 3309, Kaine launched a high-profile resource drive to demonstrate that the Alliance could stockpile vital military materials independently of Sirius support. Her accusations — that Li Yong-Rui negotiated favourable contracts with Allied corporations using unfair market leverage — forced a formal Assembly inquiry into the pact's true costs. While Mahon has remained characteristically cautious in his public responses, Kaine's campaign has galvanised a growing faction within the Assembly that questions whether corporate collaboration has become indistinguishable from corporate capture.

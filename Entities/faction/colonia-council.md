@@ -39,4 +39,6 @@ Total mentions: **28**
 
 ## Biography
 
-*[To be enriched]*
+The Colonia Council is the governing body of the Colonia region, a rapidly growing human settlement some 22,000 light years from the core systems centred on Jaques Station. Established to manage the influx of colonists fleeing Thargoid threats, corporate exploitation, and superpower politics, the Council has steered Colonia's transformation from a remote outpost into a self-sustaining civilisation with its own economy, infrastructure, and political culture.
+
+The Council's pragmatic approach to governance prioritises survival and cooperation over ideological purity. It has overseen major infrastructure projects including the Colonia Bridge — a network of starports connecting the core systems to Colonia — and coordinated defence against sabotage attempts such as the failed attack on the Dove Enigma carrier. While nominally independent, the Council maintains careful relationships with the core systems' superpowers, corporations, and the Pilots Federation, recognising that Colonia's continued prosperity depends on balancing self-reliance with strategic alliances.

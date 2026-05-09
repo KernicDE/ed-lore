@@ -28,4 +28,6 @@ Total mentions: **22**
 
 ## Biography
 
-*[To be enriched]*
+Commodore Morag Halloran is an Alliance naval officer who defected from the Alliance Defence Force to join Salvation's anti-xeno project in 3308, becoming one of hundreds of officers from all three superpowers who resigned their commissions to serve Azimuth Biochemicals' experimental weapons programme. Her defection exemplified the crisis of confidence that plagued military establishments during the Second Thargoid War, when conventional forces proved unable to halt the Maelstrom onslaught and Salvation's superweapons offered seemingly miraculous results.
+
+Halloran's decision to abandon the ADF for Azimuth was politically explosive, forcing Alliance leaders to confront the inadequacy of their own military capabilities and the seductive appeal of unethical shortcuts. Her subsequent role in Salvation's operations — coordinating naval assets and personnel drawn from multiple superpowers — demonstrated both her tactical competence and the dangerous erosion of institutional loyalty that Azimuth's success provoked. The failure of the Proteus Wave left Halloran and her fellow defectors professionally and morally stranded.

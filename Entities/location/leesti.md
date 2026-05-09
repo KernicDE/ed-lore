@@ -51,4 +51,6 @@ Total mentions: **22**
 
 ## Biography
 
-*[To be enriched]*
+Leesti is a heavily populated high-tech system in the Old Worlds cluster and a founding member of the Alliance of Independent Systems. With over five billion inhabitants, a cooperative government, and the Alliance Rapid-reaction Corps as its controlling faction, Leesti exemplifies the Alliance's vision of prosperous, self-governing systems bound together by mutual interest rather than imperial decree. Its high-tech and industrial economy makes it a significant manufacturing and research centre within Alliance space.
+
+The system's political importance extends beyond its economic output. Leesti's proximity to Lave, Reorte, and other Old Worlds systems places it at the heart of Alliance core territory, while its history of resisting external corporate influence — including careful scrutiny of Sirius Corporation activities — reflects the enduring tension between Alliance ideals and the practical necessities of galactic power politics. Leesti remains a bellwether for Alliance political sentiment, its cooperative governance model serving as both inspiration and challenge for newer member systems.

@@ -37,4 +37,6 @@ Total mentions: **25**
 
 ## Biography
 
-*[To be enriched]*
+The California Nebula is a major emission nebula located approximately 1,000 light years from Sol, named for its resemblance to the ancient Earth territory. Beyond its astronomical significance, the nebula became a focal point of human-Thargoid contact when alien barnacles were discovered within its boundaries in 3302 — confirming that Thargoid biological activity extended far beyond the Pleiades. The Turner Research Group and Canonn Interstellar Research Group led scientific efforts to map and study the region.
+
+The nebula's strategic value escalated dramatically with the Thargoid invasion of 3308, when the Coalsack and California nebulae became primary theatres of anti-xeno warfare. Alliance and independent forces launched coordinated campaigns to establish defensive perimeters, while the Kumo Crew exploited the chaos to expand criminal operations in neighbouring systems. The California Nebula thus represents both the frontier of human exploration and the front line of humanity's existential struggle.

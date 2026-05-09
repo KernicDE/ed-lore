@@ -50,4 +50,6 @@ Total mentions: **25**
 
 ## Biography
 
-*[To be enriched]*
+Rhea is a heavily populated Federal agricultural and tourism system with nearly thirteen billion inhabitants, governed under corporate administration by the Federal Liberal Command. Located strategically between the core Federal territories and the Pleiades region, Rhea has served as both a logistical hub for Sirius Corporation operations and a flashpoint in disputes over corporate influence in Federal space.
+
+The system's political significance intensified during the Reorte crisis of 3308, when the Reorte Mining Coalition successfully forced Sirius Corporation to withdraw from the neighbouring Reorte system — a rare popular victory against corporate expansion that resonated across Rhea and other Federal systems. Rhea's dual economy of agriculture and tourism makes it economically resilient, while its high security rating reflects both its Federal affiliation and its importance as a waypoint for travellers heading toward Thargoid-affected regions.

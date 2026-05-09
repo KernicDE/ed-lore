@@ -52,4 +52,6 @@ Total mentions: **26**
 
 ## Biography
 
-*[To be enriched]*
+Meene is an independent industrial system on the fringes of the Pleiades region, best known as the location of Phoenix Base — the research outpost of the Guardian technology expert Ram Tah. The system's strategic position near Thargoid-active space made it a natural hub for xenological research, and its confederate government under the Brazilian League of Pilots has maintained a policy of welcoming scientific missions while defending against incursion.
+
+The system's prominence grew through Ram Tah's groundbreaking work decoding Guardian artefacts and developing defensive technologies for independent pilots. Meene Defence Force coordinates local security, while Felice Dock serves as the primary trade and resupply hub. The system's association with both cutting-edge research and pragmatic frontier governance exemplifies how independent systems can punch above their weight in galactic affairs — though its proximity to Thargoid territory means Meene lives under the perpetual shadow of alien threat.

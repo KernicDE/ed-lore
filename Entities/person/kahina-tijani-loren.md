@@ -27,4 +27,6 @@ Total mentions: **28**
 
 ## Biography
 
-*[To be enriched]*
+Kahina Tijani Loren is a former Imperial Senator who represented the remote Prism system before her dramatic disappearance in 3301. A vocal critic of Admiral Denton Patreus's expansionist campaigns, Loren cultivated a reputation as an independent voice within the Imperial Senate — one willing to challenge military adventurism despite the political risks. Her disappearance from her Imperial suite on Capitol triggered one of the galaxy's most enduring mysteries.
+
+Loren's Imperial Courier, the *Seven Veils*, was found stripped of equipment at Capitol spaceport, containing only her tiara and a medallion bearing the word "Salomé" alongside a symbol associated with the secretive Dark Wheel organisation. She was later charged in absentia with the attempted assassination of Patreus at Mackenzie Relay in Cemiess — charges widely viewed as politically motivated. Whether she is alive, dead, or operating under another identity remains unknown, and her case continues to fuel speculation among independent pilots and conspiracy theorists alike.

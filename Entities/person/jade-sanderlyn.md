@@ -27,4 +27,6 @@ Total mentions: **24**
 
 ## Biography
 
-*[To be enriched]*
+Jade Sanderlyn is a veteran war correspondent for Vox Galactica who has become the definitive journalistic voice of the Second Thargoid War. Her monthly frontline reports combine military analysis with human-interest storytelling, delivering updates on anti-xeno operations, scientific developments, and the civilian cost of the conflict to audiences across the bubble. Her dispatches from occupied systems and refugee evacuation zones have made her one of the most recognised names in galactic journalism.
+
+Sanderlyn's reporting is characterised by cautious optimism tempered with unflinching realism. She has covered every major phase of the war, from the initial Maelstrom arrivals through the Aegis-Azimuth rivalry and the controversial Proteus Wave project. Her ability to contextualise complex military and scientific developments for general audiences — while maintaining the critical distance that distinguishes Vox Galactica from superpower-controlled outlets — has made her dispatches essential reading for independent pilots and civilian observers alike.

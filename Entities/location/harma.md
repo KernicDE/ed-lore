@@ -52,4 +52,6 @@ Total mentions: **24**
 
 ## Biography
 
-*[To be enriched]*
+Harma is an independent industrial system in the Pegasi Sector, controlled by the Harma Silver Cartel and functioning as a key logistics hub within Kumo Crew territory. The system's anarchy government and industrial economy make it ideally suited for the pirate syndicate's needs, providing manufacturing capabilities and a permissive regulatory environment for operations that would attract immediate suppression in superpower space.
+
+The system's strategic location on the fringes of the core systems has also made it a waypoint for expeditions heading toward the California Nebula and other frontier regions. During the Thargoid war, Harma hosted Azimuth Biochemicals business conventions and became associated with the corporation's arms development programme. The system's dual identity — as both pirate stronghold and corporate conference venue — captures the messy reality of frontier governance, where legitimate commerce and criminal enterprise coexist under the nominal control of whoever possesses the most firepower.
