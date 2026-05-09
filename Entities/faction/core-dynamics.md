@@ -38,4 +38,6 @@ Total mentions: **59**
 
 ## Biography
 
-*[To be enriched]*
+Core Dynamics is one of the Federation's largest shipbuilding corporations, manufacturing combat-focused vessels including the Eagle, Vulture, and Federal Assault Ship lines. Long a key supplier to the Federal Navy, the company expanded through acquisitions, purchasing Vodel in 3305 and attempting a controversial hostile takeover of Lakon Spaceways in 3306 — a move that alarmed the Alliance due to Lakon's strategic partnership with the superpower.
+
+The corporation was thrown into crisis when CEO Jupiter Rochester was convicted of mass murder and imprisoned for life in 3307. Rochester's corporatist ideology spawned the rogue Jupiter Division, which broke away from Core Dynamics and seized multiple systems before being defeated by Federal forces. Under new CEO Owen McKenna, Core Dynamics has worked to purge Rochester's influence and restore its position as the Federation's premier military contractor, though the scandal left lasting reputational damage.

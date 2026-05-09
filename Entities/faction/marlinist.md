@@ -38,4 +38,6 @@ Total mentions: **51**
 
 ## Biography
 
-*[To be enriched]*
+Marlinism is a political ideology founded by Marlin Duval, who established the Republic of Achenar in the 23rd century before her brother Henson Duval transformed it into the Empire. Marlinists advocate replacing hereditary imperial rule with an elected senate and democratic representation, drawing support particularly from the Empire's fringe systems where imperial authority is weakest. The ideology remained a minority faith for centuries until the Neo-Marlinist Liberation Army (NMLA) launched a terror campaign in the 3300s, bombing starports and assassinating imperial officials.
+
+The NMLA's violence triggered a mass exodus of Marlinist refugees to the Federation, creating a humanitarian crisis that threatened inter-superpower war. In 3306, Sirius Corporation brokered a settlement by establishing independent Marlinist Colonies, while the Marlinist Parliament attempted to disavow the terrorists. The Marlinism Reformation Party's attempt to politically represent the NMLA failed, and the colonies have since struggled to maintain independence amid political infighting and foreign interference.

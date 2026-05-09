@@ -52,4 +52,6 @@ Total mentions: **55**
 
 ## Biography
 
-*[To be enriched]*
+Merope is a key system in the Pleiades Nebula and one of the first locations where humanity encountered direct evidence of Thargoid activity. Alien barnacle structures were discovered on its planets in 3301, followed by Unknown Artefacts that broadcast distorted signals pointing to the nearest celestial body. The system became a focal point for superpower rivalry, with both Federation and Empire deploying forces to secure access to meta-alloys — the valuable material produced by the barnacles.
+
+The Atlas Research Group established a significant presence in Merope, operating from Reed's Rest and launching defence initiatives to protect shipping from Thargoid attacks. Despite these efforts, Merope remained vulnerable; by 3305 Thargoid forces had returned in strength, and the system became a frontline in the escalating conflict. Today Merope stands as a symbol of both humanity's first alien contact and the persistent danger of the Thargoid frontier.

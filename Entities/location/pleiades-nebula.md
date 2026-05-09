@@ -37,4 +37,6 @@ Total mentions: **52**
 
 ## Biography
 
-*[To be enriched]*
+The Pleiades Nebula is the region where humanity made first contact with the Thargoids, transforming from an astronomical curiosity into the most contested space in the galaxy. In 3301, Commander pilots and Canonn researchers discovered alien barnacle structures and Unknown Artefacts in systems such as Merope and Maia, triggering a scientific and military gold rush. The superpowers rapidly deployed fleets to secure access to meta-alloys, the valuable material produced by the barnacles, turning the nebula into a proxy battlefield.
+
+The region's significance only grew as Thargoid forces returned in strength, attacking stations and research outposts. Aegis established key facilities here, including the Palin Research Centre, but was forced to evacuate personnel multiple times as the conflict escalated. By 3305 the Pleiades had become a frontline in the Thargoid war, its once-pristine systems scarred by caustic weaponry and abandoned outposts — a stark monument to the cost of first contact.

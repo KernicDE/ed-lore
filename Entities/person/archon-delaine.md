@@ -28,4 +28,6 @@ Total mentions: **58**
 
 ## Biography
 
-*[To be enriched]*
+Archon Delaine is the self-styled Pirate King and warlord of the Kumo Crew, one of the galaxy's largest criminal syndicates. He seized control at age 15 by beating the previous Kumo Crew leader to death with his bare hands, then spent two decades defeating every challenger before restructuring the organisation from a loose drug cartel into a disciplined paramilitary force. His rule is absolute: loyalty is rewarded, opposition is crushed, and the systems under his control function — in some cases better than before he took them.
+
+Delaine has survived numerous threats to his power, including a failed 3308 coup masterminded by his former lieutenant Vidar Trask and Kay Volantyne of the Blue Viper Club dredger clan. During the Thargoid war, he repositioned the Kumo Crew as protectors of neglected colonies, mobilising to defend the California Nebula while accusing the superpowers of abandoning fringe systems. This rhetorical manoeuvre — pirates as the only defenders of the vulnerable — has become a recurring theme in his propaganda.

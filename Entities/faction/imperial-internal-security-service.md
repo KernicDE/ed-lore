@@ -39,4 +39,6 @@ Total mentions: **54**
 
 ## Biography
 
-*[To be enriched]*
+The Imperial Internal Security Service (IISS) is the Empire's primary intelligence and security agency, responsible for counter-terrorism, internal surveillance, and protecting Imperial interests from subversion. Operating under the authority of the Senate and the Imperial Palace, the IISS has broad powers to detain suspects, conduct covert operations, and suppress threats to the established order — powers it has exercised frequently during periods of crisis.
+
+The service's record is mixed. It successfully investigated the League of Reparation and cleared engineer Liz Ryder of NMLA bomb-making charges, but senior leaders admitted to being "unprepared" for the scale and organisation of the Neo-Marlinist Liberation Army during the Nine Martyrs campaign. The IISS also played a central role in the crackdown on Emperor's Dawn and the mass arrests of Marlinist refugees — actions critics argue may have radicalised sympathisers rather than neutralised the threat.

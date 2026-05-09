@@ -50,14 +50,14 @@ This file tracks manual enrichment progress for entity profiles. Each entry is e
 | 30 | Empire | faction | ✅ Done | Marlin Duval founding, Battle of Achenar, cliens system, Imperial slavery, NMLA crisis, Lords of Restoration, succession debate |
 | 31 | Maia | location | ✅ Done | Pleiades epicenter, Obsidian Orbital, meta-alloy research, Palin base, superpower proxy war, first Thargoid capital ship kill
 | 32 | Federal Intelligence Agency | faction | ✅ Done | League of Reparation taskforce, Far God cult arrests, Lucifer Device/Children of Tothos, Joel Xander arrest
-| 33 | Zemina Torval | person | pending | |
-| 34 | Core Dynamics | faction | pending | |
-| 35 | Li Yong-Rui | person | pending | |
-| 36 | Archon Delaine | person | pending | |
-| 37 | Merope | location | pending | |
-| 38 | Imperial Internal Security Service | faction | pending | |
-| 39 | Pleiades Nebula | location | pending | |
-| 40 | Marlinist | faction | pending | |
+| 33 | Zemina Torval | person | ✅ Done | Senator, Mastopolos Mining, slavery defender, Arissa backer |
+| 34 | Core Dynamics | faction | ✅ Done | Federal shipbuilder, Jupiter Rochester scandal, Jupiter Division |
+| 35 | Li Yong-Rui | person | ✅ Done | Sirius CEO, Alliance defence pact, Marlinist colonies broker |
+| 36 | Archon Delaine | person | ✅ Done | Pirate King, Kumo Crew warlord, California Nebula defence |
+| 37 | Merope | location | ✅ Done | Pleiades system, first Thargoid barnacles, Atlas Research Group |
+| 38 | Imperial Internal Security Service | faction | ✅ Done | Imperial intelligence, NMLA crackdowns, Liz Ryder case |
+| 39 | Pleiades Nebula | location | ✅ Done | First Thargoid contact region, superpower proxy battlefield |
+| 40 | Marlinist | faction | ✅ Done | Marlin Duval ideology, NMLA terror, refugee crisis, colonies |
 | 41 | Zachary Rackham | person | pending | |
 | 42 | Utopia | faction | pending | |
 | 43 | Nova Imperium | faction | pending | |
@@ -74,8 +74,9 @@ This file tracks manual enrichment progress for entity profiles. Each entry is e
 - Total entities: 3,484
 - Enriched (Batch 1): 26
 - Enriched (Batch 2): 6
-- Total enriched: 32
-- Remaining: 3,452
+- Enriched (Batch 3): 8
+- Total enriched: 40
+- Remaining: 3,444
 
 ## Notes
 - All enriched entities trimmed to compact Wikipedia-style descriptions (1-2 paragraphs)
