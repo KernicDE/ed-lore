@@ -40,4 +40,6 @@ Total mentions: **35**
 
 ## Biography
 
-*[To be enriched]*
+Universal Cartographics is the galaxy's premier exploration data and stellar cartography organisation, maintaining the definitive database of star systems, planetary bodies, and navigational hazards across human-settled space. Founded in partnership with the Pilots Federation, it operates as a neutral scientific authority serving all three superpowers — though its close ties to Sirius Corporation and Brewer Corporation have occasionally raised questions about corporate influence over supposedly impartial cartographic data.
+
+Under the leadership of chair Cynthia Sideris, Universal Cartographics has overseen major initiatives including the Colonia Bridge mapping project and the charting of regions affected by Thargoid Maelstroms. The organisation's data-sharing agreements with the Pilots Federation make it an essential infrastructure provider for independent pilots, while its scientific collaborations — such as the Rackham's Peak outpost at the galactic zenith — demonstrate its commitment to pushing the boundaries of known space.

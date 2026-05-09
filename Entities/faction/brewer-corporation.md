@@ -40,4 +40,6 @@ Total mentions: **36**
 
 ## Biography
 
-*[To be enriched]*
+Brewer Corporation is a major exploration and infrastructure conglomerate best known for its deep-space colonisation initiatives, including the Colonia Bridge project that established a network of starports connecting the core systems to the Colonia Nebula. Founded on a philosophy of aggressive frontier expansion, Brewer has consistently positioned itself at the vanguard of human exploration, funding survey missions, constructing outposts in uninhabited systems, and supporting long-range expeditions such as Distant Worlds.
+
+The corporation's partnership with Universal Cartographics and the Pilots Federation has made it an indispensable facilitator of exploration data and cartographic services. While Brewer presents itself as a neutral corporate entity serving all three superpowers, its strategic control of deep-space infrastructure gives it significant leverage in galactic affairs — particularly as humanity's frontier continues to expand beyond the bubble into regions threatened by Thargoid incursion.

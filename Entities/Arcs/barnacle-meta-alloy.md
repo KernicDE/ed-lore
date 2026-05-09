@@ -47,4 +47,6 @@ Articles: **70**
 
 ## Description
 
-Scientific investigation of alien barnacle structures discovered in the Pleiades Nebula and the properties of meta-alloys. Led by Professor Ishmael Palin and the Canonn Interstellar Research Group, this research proved crucial in understanding Thargoid biology and technology.
+The Barnacle Meta-Alloy arc covers the discovery and exploitation of alien barnacle structures in the Pleiades Nebula beginning in 3302. Independent pilots and Canonn researchers found these organic formations producing meta-alloys — a unique material capable of repairing Thargoid-induced station malfunctions and protecting against sensor damage. The discovery triggered a scientific gold rush and immediate superpower rivalry, with Federation, Empire, and Alliance forces all deploying to secure access to the resource.
+
+Professor Ishmael Palin's research established meta-alloys as humanity's first commercially viable alien product, while the barnacles themselves provided crucial early insights into Thargoid biology. The arc also exposed the dangers of first contact: many barnacle sites were guarded by Thargoid vessels, and the rush to harvest meta-alloys brought independent pilots into direct conflict with alien defences long before the formal outbreak of war.

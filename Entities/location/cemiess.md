@@ -51,4 +51,6 @@ Total mentions: **30**
 
 ## Biography
 
-*[To be enriched]*
+Cemiess is a wealthy Imperial refinery system with a population of ten billion, controlled by Lavigny's Legion and deeply tied to the Duval dynasty's power base. The system's political significance extends far beyond its economic output — it was the site of a foiled assassination attempt on Admiral Denton Patreus at Mackenzie Relay, an attack for which former Senator Kahina Tijani Loren was charged.
+
+As a high-security Imperial stronghold, Cemiess exemplifies the concentration of military and political power in the Empire's core territories. Its association with both Patreus's military campaigns and Aisling Duval's anti-slavery charity Unchain — which operated extensively in the region — illustrates how Imperial systems serve as battlegrounds for competing ideological visions within the Empire's rigid social hierarchy.

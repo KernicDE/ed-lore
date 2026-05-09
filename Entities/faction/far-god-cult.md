@@ -39,4 +39,6 @@ Total mentions: **34**
 
 ## Biography
 
-*[To be enriched]*
+The Order of the Far God is a doomsday cult that worships the Thargoids as divine harbingers of an apocalyptic cleansing. Emerging in 3304, the cult teaches that the "Far God" — a Thargoid entity — will eventually consume all life in the galaxy, and that humanity can only achieve salvation by embracing this fate. Its adherents often restructure megaship interiors into deliberately confusing hive-like environments, with secret compartments and traps designed to deter outsiders.
+
+The cult drew Federal Intelligence Agency scrutiny after hundreds of followers entered cryogenic suspension aboard abandoned outposts, awaiting the Far God's arrival. Many recruits were vulnerable individuals seeking shelter rather than true believers, as revealed by survivor Kiona O'Connor. The cult's most notorious connection came through Theta Seven, an NMLA bomb-maker who was a former member, and its continued obsession with Seo Jin-ae — whom adherents venerate as "the Preceptor" for her neural link to the Thargoid hive mind.

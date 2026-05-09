@@ -40,4 +40,6 @@ Total mentions: **30**
 
 ## Biography
 
-*[To be enriched]*
+The Alliance Defence Force (ADF) is the military arm of the Alliance of Independent Systems, operating under the strategic direction of the Council of Admirals rather than a single commander-in-chief. This distributed command structure reflects the Alliance's founding ethos: member systems contribute naval assets and personnel while retaining significant autonomy, with Fleet Admirals from each major member rotating through leadership positions on the Council.
+
+The ADF's operational history includes major campaigns against Thargoid forces in the Coalsack and Witch Head nebulae, where it fought alongside Federal and Imperial counterparts despite political tensions. The murder of Fleet Admiral Tulimaq Buchanan by the League of Reparation in 3305 exposed vulnerabilities in the ADF's command structure, while the defection of hundreds of officers to Salvation's anti-xeno project in 3308 raised questions about morale and loyalty. The ADF remains smaller than its Federal and Imperial equivalents, relying on coordination with Sirius Corporation under the 3308 defence pact to compensate for its limited resources.

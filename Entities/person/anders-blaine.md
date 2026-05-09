@@ -28,4 +28,6 @@ Total mentions: **36**
 
 ## Biography
 
-*[To be enriched]*
+Chancellor Anders Blaine is the highest-ranking official in the Imperial government after the Emperor, serving as head of the Imperial Senate and principal advisor to the throne. A consummate political survivor, Blaine has navigated multiple succession crises, assassination attempts, and ideological purges while maintaining his position at the apex of Imperial power. His endorsement of Arissa Lavigny-Duval's claim to the throne in 3301 was decisive in securing her election as Empress.
+
+Blaine's reputation suffered in 3301 when Princess Aisling Duval revealed that some of his advisors had connections to Emperor's Dawn, the insurgent group responsible for Hengist Duval's assassination. Though Blaine himself was never directly implicated, the scandal exposed the dangerous proximity of his circle to anti-establishment extremists. In the decades since, he has worked to rebuild his image as a steady hand guiding the Empire through the NMLA crisis and the Thargoid war — a symbol of Imperial continuity in turbulent times.

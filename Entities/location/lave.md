@@ -52,4 +52,6 @@ Total mentions: **33**
 
 ## Biography
 
-*[To be enriched]*
+Lave is a heavily populated agricultural system in the Old Worlds cluster, historically one of the founding members of the Alliance of Independent Systems. For decades it operated under Alliance governance before shifting to independent corporate rule by Lave Radio Network. This transition was not bloodless — military conflict preceded the change of control, and the system's political identity remains contested, with Alliance leaders continuing to claim Lave as part of their cultural sphere.
+
+The system's 25 billion inhabitants make it one of the most populous independent systems in the galaxy, and its agricultural output supports multiple neighbouring sectors. Lave Station serves as the system's commercial and cultural hub, famous for Lave Radio and the equally renowned Lave Brandy. The annual Alliance Festival of Culture has twice opened in Lave, a gesture Prime Minister Edmund Mahon used to underscore the system's enduring Alliance heritage despite its formal independence.

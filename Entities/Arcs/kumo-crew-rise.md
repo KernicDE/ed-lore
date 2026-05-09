@@ -46,4 +46,6 @@ Articles: **41**
 
 ## Description
 
-Archon Delaine's brutal expansion of the Kumo Crew across the Pegasi Sector. Styling himself as Pirate King, Delaine demanded tribute from systems, clashed with Federal and Imperial forces, and attempted to forge a unified pirate federation through violence and intimidation.
+The Kumo Crew Rise arc traces Archon Delaine's transformation of a loose collection of Pegasi pirates into one of the galaxy's most formidable criminal syndicates. Beginning in 3301, Delaine — a teenage murderer who seized control by beating his predecessor to death — systematically eliminated rivals and demanded tribute from systems across the sector. His rule combined ruthless violence with pragmatic governance: loyalists were rewarded, dissenters disappeared, and the systems under his control often functioned better than under previous administrations.
+
+The arc features multiple challenges to Delaine's authority, including military campaigns by the Imperial Navy and Federal forces, and a failed 3308 coup masterminded by his former lieutenant Vidar Trask. Throughout, Delaine has maintained his grip through a combination of personal charisma, terror, and strategic alliances — most recently repositioning the Kumo Crew as protectors of neglected colonies during the Thargoid war, a propaganda manoeuvre that belies the syndicate's fundamentally predatory nature.

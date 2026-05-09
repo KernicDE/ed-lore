@@ -28,4 +28,6 @@ Total mentions: **40**
 
 ## Biography
 
-*[To be enriched]*
+Jerome Archer is the Vice President of the Federation and a key figure in the Hudson administration's hardline security policies. Appointed in 3307 after the death of Brad Mitchell in the Nine Martyrs terrorist attacks, Archer brought a law-enforcement background to the executive branch and immediately pushed for expanded surveillance powers. He was instrumental in establishing the Proactive Detection Bureau (PDB), which scans civilian communications for terrorist activity — a measure critics condemned as the most invasive Federal surveillance programme in history.
+
+Archer's political ascent continued as he became the public face of the administration's anti-terror and anti-xeno policies. His rhetoric consistently emphasises security over civil liberties, framing dissent as a luxury humanity cannot afford in an era of Thargoid invasion and domestic terrorism. While popular among hawkish voters, his legacy remains deeply controversial, with civil rights groups blaming him for the erosion of Federal democratic norms.

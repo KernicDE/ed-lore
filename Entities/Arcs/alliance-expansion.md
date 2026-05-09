@@ -47,4 +47,6 @@ Articles: **31**
 
 ## Description
 
-The Alliance's diplomatic and economic expansion under Prime Minister Edmund Mahon, encompassing open trade agreements with the Old Worlds and Lave clusters, support for independence movements such as Lugh, and efforts to position the Alliance as a third superpower between the Federation and Empire.
+The Alliance Expansion arc traces the rise of the Alliance of Independent Systems from a loose confederation of breakaway systems to the galaxy's third superpower under Prime Minister Edmund Mahon's leadership. Beginning in 3301, the expansion relied primarily on diplomatic and economic tools rather than military conquest — open trade agreements, mutual defence pacts, and support for independence movements in systems such as Lugh seeking to escape Federal or Imperial control.
+
+The arc highlights the Alliance's distinctive approach to power projection. Rather than imposing centralised rule, Mahon's government offered membership on terms of autonomy and shared prosperity, appealing to systems disillusioned with superpower heavy-handedness. The 3308 Sirius Corporation defence pact represented both the culmination of this strategy and its potential vulnerability — granting the Alliance advanced military technology in exchange for economic access, but raising concerns about corporate capture of Alliance sovereignty.

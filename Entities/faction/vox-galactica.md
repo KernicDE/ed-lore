@@ -40,4 +40,6 @@ Total mentions: **31**
 
 ## Biography
 
-*[To be enriched]*
+Vox Galactica is an independent news agency that has established itself as one of the galaxy's most reliable sources for investigative reporting on scientific, humanitarian, and corporate affairs. Unlike superpower-controlled outlets such as the Federal Times or Imperial Citizen, Vox Galactica operates without direct government sponsorship — though its editorial independence has not insulated it from corporate pressure, particularly when reporting on Core Dynamics and other major conglomerates.
+
+The agency gained prominence through its coverage of major expeditions including Distant Worlds, the Far God cult survivor Kiona O'Connor, and the Vitadyne nanomedicine controversy. Its anonymous sources within corporations have repeatedly broken stories of market irregularities and executive misconduct, making Vox Galactica essential reading for pilots seeking perspectives outside the official narratives of the three superpowers.

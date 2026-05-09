@@ -28,4 +28,6 @@ Total mentions: **33**
 
 ## Biography
 
-*[To be enriched]*
+Gibson Kincaid served as President of the Alliance from 3304 to 3305, winning office on a platform of strengthening the Alliance's executive branch. His presidency was dominated by a controversial constitutional reform campaign that sought to transform the largely ceremonial office into a powerful executive position with direct command of military forces — a move critics condemned as a creeping authoritarianism alien to the Alliance's consensual traditions.
+
+Kincaid's downfall came in 3305 when investigations revealed a conspiracy involving murder, treason, and corruption. Admiral Frederick Yamamoto's testimony and a Wallglass Investigations Agency report exposed Kincaid's role in the assassination of his political rival Fazia Silva and his attempts to flee Zaonce during impeachment proceedings. The Alliance Assembly abolished the presidency entirely in the aftermath, making Kincaid both the first and last holder of an office that lasted barely a year.

@@ -36,4 +36,6 @@ Total mentions: **34**
 
 ## Biography
 
-*[To be enriched]*
+The Maelstroms are eight colossal Thargoid-generated gas clouds that appeared in the core systems in late 3308, each serving as a beachhead for the most devastating phase of the Second Thargoid War. These anomalous regions of caustic, electrically charged atmosphere house Titan-class vessels — planet-sized motherships that deploy countless smaller craft — and render surrounding systems uninhabitable through environmental destruction and mass civilian displacement.
+
+Each Maelstrom is a self-sustaining invasion ecosystem. Caustic clouds corrupt ship systems, Thargoid interceptors patrol perimeters, and the Titans themselves serve as command nodes for coordinated assaults on human starports. By 3310, the Maelstroms had enabled Thargoid forces to conquer dozens of systems and establish persistent footholds within the bubble, forcing humanity to develop entirely new defensive strategies and weaponry simply to survive in their proximity.

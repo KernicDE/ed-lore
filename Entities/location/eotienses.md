@@ -51,4 +51,6 @@ Total mentions: **30**
 
 ## Biography
 
-*[To be enriched]*
+Eotienses is a major Imperial agricultural system with a population of over six billion, governed under patronage and controlled by Nova Paresa. Its capital, Port Isabelle on Eotienses A 3, became the flashpoint for one of the largest slavery controversies in recent Imperial history when the activist group Autonomy — operating through a front company called Tilbery Construction — purchased and forcibly liberated 4,000 Imperial slaves in 3305.
+
+The mass emancipation triggered a humanitarian crisis in Port Isabelle, with thousands of freed individuals left without employment, legal status, or welfare support. Princess Aisling Duval condemned Autonomy's methods as reckless, while anti-slavery advocates hailed the action as a moral victory. The incident exposed deep fractures in the Empire's indentured servitude system and intensified debate over reform versus radical emancipation.

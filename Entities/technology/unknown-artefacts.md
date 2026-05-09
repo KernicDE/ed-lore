@@ -28,4 +28,6 @@ Total mentions: **18**
 
 ## Biography
 
-*[To be enriched]*
+Unknown Artefacts — later identified as Thargoid Sensors — were the first alien objects encountered by humanity in the 34th century, predating the discovery of barnacles and active Thargoid vessels. These flower-like devices emitted distinctive sounds, caused ship malfunctions, and broadcast schematic diagrams when decoded by the Canonn Interstellar Research Group. Found primarily in the Pleiades Nebula and near Merope, they were humanity's first tangible evidence that the Thargoids were not merely legend.
+
+The artefacts proved both scientifically invaluable and dangerously disruptive. Their electromagnetic emissions could disable starport systems, and their apparent sensitivity to human presence suggested an active — if incomprehensible — purpose. Research by Dr Arcanonn and Professor Ishmael Palin established that the artefacts were biological-mechanical hybrids pointing toward nearby celestial bodies, effectively serving as Thargoid navigation beacons. This early work laid the groundwork for all subsequent xeno-research and confirmed that humanity was dealing with a technologically superior species.

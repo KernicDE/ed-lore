@@ -40,4 +40,6 @@ Total mentions: **37**
 
 ## Biography
 
-*[To be enriched]*
+Emperor's Dawn was an isolationist insurgent group that opposed the Empire's engagement with the wider galaxy and sought to restore what it considered traditional Imperial values. The movement gained notoriety in 3301 when one of its members, Brendan Paul Darius, assassinated Emperor Hengist Duval during his wedding ceremony — an act that triggered the most severe succession crisis in Imperial history. The group's radical agenda included demanding the right to appoint a new Emperor and disbanding the Senate in favour of direct rule by "worthy" Imperial citizens.
+
+The Imperial Internal Security Service and Imperial Navy launched a coordinated campaign against Emperor's Dawn, uncovering connections to Chancellor Anders Blaine's advisory circle that embarrassed the Imperial establishment. Though the organisation was effectively dismantled by 3303, its ideology survived in mutated form through Nova Imperium and other isolationist movements, proving that the tension between Imperial expansionism and traditionalist withdrawal remained a persistent fault line in Imperial politics.

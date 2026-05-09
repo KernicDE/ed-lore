@@ -51,4 +51,6 @@ Total mentions: **32**
 
 ## Biography
 
-*[To be enriched]*
+Prism is an Imperial system on the fringes of settled space, governed as a patronage under Senator Kahina Tijani Loren and her paramilitary force, Loren's Legion. The system's low population and remote location belied its political significance when Loren emerged as a vocal critic of Imperial foreign policy, particularly Admiral Denton Patreus's expansionist campaigns. Her disappearance from her Imperial suite on Capitol in 3302 triggered a prolonged mystery.
+
+The system became a focal point of intrigue when Loren was later charged in connection with an assassination attempt on Patreus — charges that many observers viewed as politically motivated. Loren's Legion continues to maintain order in Prism, though the senator's eventual fate remains one of the Empire's most debated unresolved cases. The system's association with both Imperial loyalism and dissident politics captures the volatile nature of power on the Imperial periphery.

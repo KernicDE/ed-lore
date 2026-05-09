@@ -28,4 +28,6 @@ Total mentions: **32**
 
 ## Biography
 
-*[To be enriched]*
+Jupiter Rochester is the CEO of Core Dynamics, one of the Federation's largest aerospace and defence conglomerates, and a scion of the powerful Rochester family. Under his leadership, Core Dynamics aggressively expanded through acquisitions — most notably the hostile takeover of Lakon Spaceways in 3306, a move that Alliance leaders condemned as a threat to their strategic shipbuilding capacity. Internal critics within Core Dynamics described the merger as driven by Rochester's personal greed rather than corporate logic.
+
+Rochester's business practices have attracted scrutiny from the Independent Commission for Market Equality over irregular share transfers and potential criminal market manipulation. His political connections run deep through the Rochester family's influence in Federal diplomacy, though his corporate focus has often clashed with the more public-facing political careers of relatives such as Jordan Rochester.

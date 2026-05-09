@@ -46,4 +46,6 @@ Articles: **37**
 
 ## Description
 
-Corporate and exploratory expansion into the Pleiades Nebula, featuring the construction of Obsidian Orbital and other deep-space platforms. Tensions arose between mining operations, scientific research groups, and the growing Thargoid presence in the region.
+The Pleiades Expansion arc covers humanity's push into the Pleiades Nebula during the early 3300s, driven by corporate mining interests, scientific curiosity, and superpower rivalry. The construction of Obsidian Orbital in Maia marked the first permanent human outpost in the nebula, while the Explorers' Association and Canonn Interstellar Research Group led efforts to map and study the region. The discovery of alien barnacles and meta-alloys transformed the expansion from a commercial venture into a strategic priority.
+
+Tensions escalated rapidly as the Federation, Empire, and Alliance all established military and research facilities to secure access to Thargoid-related resources. The arc established the Pleiades as the primary flashpoint for first contact, with corporate miners, independent scientists, and superpower military forces operating in increasingly dangerous proximity to alien structures — a volatile mix that would eventually ignite into full-scale war.
