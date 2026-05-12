@@ -2,9 +2,9 @@
 id: lhou-mans
 name: Lhou Mans
 type: location
-first_seen_date: '3312-05-11'
+first_seen_date: '3312-04-28'
 last_seen_date: '3312-05-11'
-mention_count: 1
+mention_count: 2
 related_entities:
 - vox-galactica
 - lady-zi
@@ -15,9 +15,9 @@ related_entities:
 
 # Lhou Mans
 
-First mentioned: **3312-05-11**  
+First mentioned: **3312-04-28**  
 Last mentioned: **3312-05-11**  
-Total mentions: **1**
+Total mentions: **2**
 
 ## Related
 

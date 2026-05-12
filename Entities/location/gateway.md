@@ -3,8 +3,8 @@ id: gateway
 name: Gateway
 type: location
 first_seen_date: '3307-05-20'
-last_seen_date: '3312-04-28'
-mention_count: 14
+last_seen_date: '3309-10-31'
+mention_count: 13
 related_entities:
 - alliance
 - pilots-federation
@@ -38,8 +38,8 @@ bio: 'Gateway is a system in Elite Dangerous, significant from 3307-05-20 to 331
 # Gateway
 
 First mentioned: **3307-05-20**  
-Last mentioned: **3312-04-28**  
-Total mentions: **14**
+Last mentioned: **3309-10-31**  
+Total mentions: **13**
 
 ## Related
 

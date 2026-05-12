@@ -9,21 +9,14 @@ summary: Coordinated criminal attacks damage four ports in Lhou Mans. Authoritie
 player_impact: Combat and rescue CG in Lhou Mans. Evacuate civilians from damaged
   ports; eliminate criminal hostiles. Zorgon Peterson accelerated Lynx release to
   assist.
-persons:
-- Mira Bukowski
 groups:
 - Lhou Mans Security
 - Zorgon Peterson
 locations:
-- A spokesperson for Lhou Mans
-- Authorities in the Lhou Mans
-- Enterprise
-- Gateway
+- Lhou Mans
 topics:
 - crime
 - humanitarian
-- safety
-- ship
 technologies:
 - Lynx Highliner
 modern_impact: Coordinated criminal attacks on tourist facilities with no claimed
@@ -35,6 +28,7 @@ significance: low
 related_uuids:
 - 5b4b06c3-8a29-548e-924f-3f36a4293edd
 - 46b8ec38-ca04-5680-b3a2-01de047bc6c4
+- c76cadee-b3d0-501f-8231-6caf7589bc3a
 ---
 
 

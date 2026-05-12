@@ -3,11 +3,11 @@ id: mira-bukowski
 name: Mira Bukowski
 type: person
 first_seen_date: '3307-11-22'
-last_seen_date: '3312-04-28'
+last_seen_date: '3312-05-11'
 mention_count: 4
-bio: Mira Bukowski is a emperor in the Elite Dangerous universe, active from 3307-11-22
-  to 3312-04-28. Closely associated with Achilles Corporation, Wallglass Investigations
-  Agency, FIA.
+bio: Mira Bukowski is a crime correspondent for Vox Galactica who has reported on
+  criminal activities and security concerns across the galaxy, from art heists to coordinated
+  raids on civilian and military installations.
 ---
 
 
@@ -17,7 +17,7 @@ bio: Mira Bukowski is a emperor in the Elite Dangerous universe, active from 330
 # Mira Bukowski
 
 First mentioned: **3307-11-22**  
-Last mentioned: **3312-04-28**  
+Last mentioned: **3312-05-11**  
 Total mentions: **4**
 
 ## Related
@@ -25,4 +25,4 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Mira Bukowski is a crime correspondent for Vox Galactica who has reported on criminal activities and security concerns across the galaxy, from art heists to coordinated raids on civilian and military installations.
