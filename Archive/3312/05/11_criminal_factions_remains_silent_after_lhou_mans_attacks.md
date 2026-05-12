@@ -4,6 +4,33 @@ title: Criminal Factions Remains Silent After Lhou Mans Attacks
 slug: criminal_factions_remains_silent_after_lhou_mans_attacks
 date: '3312-05-11'
 source: API
+summary: Investigations into the Lhou Mans starport attacks reveal evidence linking
+  the coordinated strikes to a criminal syndicate directed by the rogue pirate admiral
+  known as 'Lady Zi'. The attacks bear similarities to earlier coordinated strikes
+  on military installations in the core systems.
+player_impact: Independent pilots assisted with evacuation efforts in Lhou Mans following
+  the attacks. Investigators warn that the system may have been selected for reasons
+  beyond simple disruption, suggesting future combat operations against Lady Zi's coalition
+  fleet may be required.
+modern_impact: The emergence of Lady Zi as a coordinated criminal threat in the core
+  systems signals a significant escalation in organised piracy, with potential implications
+  for regional security and the rise of a new major syndicate.
+persons:
+- Lady Zi
+- Mira Bukowski
+groups:
+- Vox Galactica
+locations:
+- Lhou Mans
+topics:
+- crime
+- terrorism
+- piracy
+technologies: []
+legacy_weight: 3
+significance: medium
+related_uuids:
+- 1bb577e6-52b3-5a63-a983-f1975e27d66b
 ---
 
 Questions remain unanswered following last week’s unprovoked attacks on starport facilities across Lhou Mans.
