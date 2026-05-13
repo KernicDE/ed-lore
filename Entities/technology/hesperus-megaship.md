@@ -1,33 +1,18 @@
 ---
 id: hesperus-megaship
-name: Hesperus megaship
+name: Hesperus Megaship
 type: technology
-first_seen_date: '3307-04-27'
-last_seen_date: '3307-07-09'
+first_seen_date: '3307-04-01'
+last_seen_date: '3309-05-18'
 mention_count: 5
-bio: Hesperus megaship is a technology in the Elite Dangerous universe, mentioned
-  from 3307-04-27 to 3307-07-09. Developed or used by Azimuth Biochemicals. Francesca
-  Wolfe details the discovery of the Hesperus alongside the Scriveners Clan dredger
-  in the Perseus Dark Region. The mysterious figure 'Salvation' sends a message to
-  pilots who discovered the Hesperus, authorising Taurus Mining Ventures to pay for
-  logs and promising further work.
+bio: The Hesperus is a 200-year-old ghost ship once owned by Azimuth Biochemicals. Launched
+  in 3113, it was overtaken by saboteurs from rival Pharmasapien. The Scriveners Clan later
+  salvaged it in the Perseus Dark Region, stripping its innards before departing and leaving
+  a mostly intact hull.
 ---
 
 
 
-<!-- AUTO-GENERATED -->
+# Hesperus Megaship
 
-# Hesperus megaship
-
-First mentioned: **3307-04-27**  
-Last mentioned: **3307-07-09**  
-Total mentions: **5**
-
-## Related
-
-
-## Biography
-
-The Hesperus was a research megaship owned by Azimuth Biochemicals, sister vessel to the Adamastor, that disappeared in 3113 during a xenological survey mission. It was rediscovered in 3307 in the Perseus Dark Region KC-V c2-2 system by the nomadic Scriveners Clan, who had salvaged its data drives from a dredger.
-
-Investigations revealed that the Hesperus had been seized by sleeper agents from Pharmasapien, Azimuth's corporate rival, resulting in the deaths of most of the crew. The surviving scientists escaped aboard a secondary craft named Proteus, which they converted into a research facility on Trapezium Sector YU-X c1-2 1a to study Guardian relics. The Hesperus's rediscovery proved pivotal: it provided the mysterious figure known as Salvation with the knowledge and coordinates needed to locate the Proteus and its Guardian-Thargoid battleground, setting in motion the chain of events that would reshape the anti-xeno war.
+The Hesperus is a 200-year-old megaship launched in 3113 by Azimuth Biochemicals for a secret research mission. The vessel was overtaken by saboteurs from rival corporation Pharmasapien during its voyage. Its secondary vessel, the Anaconda Proteus, escaped to a Guardian-Thargoid battlefield where the science team conducted research before perishing. The Hesperus drifted as a ghost ship for two centuries until the Scriveners Clan discovered it in the Perseus Dark Region KC-V c2-2 system in 3307. The nomadic clan stripped the megaship's innards for materials and data before departing abruptly, leaving behind a mostly intact hull that became a focal point for scientific and corporate claims.

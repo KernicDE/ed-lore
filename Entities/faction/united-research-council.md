@@ -11,15 +11,11 @@ related_entities:
 - freng
 - lunduwalaya
 - clayakarma
-bio: United Research Council is a government in the Elite Dangerous universe, active
-  from 3302-09-01 to 3302-10-27. Frequently linked with Darian, Freng, Coritab. The
-  United Research Council lifted preparatory restrictions near the Clayakarma, Nauo,
-  Gyhldekala, Boga, and Kpaniya systems.
+bio: The United Research Council is one of the galaxy's largest independent scientific
+  organisations. In 3302 it announced a six-week research programme encompassing systems
+  within 30 light-years of Coritab, Darian, Freng and Lunduwalaya, with all three superpowers
+  granting exclusive access.
 ---
-
-
-
-<!-- AUTO-GENERATED -->
 
 # United Research Council
 
@@ -37,4 +33,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+The United Research Council is one of the galaxy's largest independent scientific organisations. In 3302, under the direction of Professor Ray Miller, it announced an ambitious six-week research programme encompassing systems within a 30 light-year radius of Coritab, Darian, Freng and Lunduwalaya.
+
+The Alliance, Empire and Federation all agreed to grant the Council exclusive access to the target systems for the duration of the programme. The initiative monitored radiation levels and recorded celestial body positions — routine science, but conducted with rare tri-superpower cooperation. The project illustrated both the potential and the political fragility of inter-power scientific collaboration.

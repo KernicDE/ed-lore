@@ -1,65 +1,48 @@
 ---
 id: federal-politics
 name: Federal Politics
-first_seen_date: '3301-02-13'
-last_seen_date: '3310-10-31'
-mention_count: 78
-significance: high
+type: arc
+start_date: '3301-03-16'
+end_date: null
+article_count: 25
 key_entities:
-- federal-times
-- core-dynamics
-- federation
-- federal-congress
-- proactive-detection-bureau
-description: The Federal Politics arc traces the transformation of the Federation from
-  a Liberal administration under President Jasmina Halsey to a militarised corporate
-  state under President Zachary Hudson, and the subsequent Liberal restoration under
-  President-elect Felicia Winters. The arc encompasses the disastrous War for Lugh,
-  the Starship One conspiracy, the Proactive Detection Bureau surveillance programme,
-  the Core Dynamics-Lakon Spaceways takeover scandal, and the election of 3309 that
-  ended a decade of Republican dominance. It reveals the deep structural tensions in
-  Federal governance — between corporate and popular interests, between security and
-  civil liberties, and between military expansionism and diplomatic engagement.
-summary: The transformation of Federal governance from the Liberal Halsey administration
-  through the Republican Hudson era to the election of Felicia Winters, exposing the
-  structural tensions between corporate power, military interests, and democratic accountability.
-status: Concluded
-outcome: The 3309 election installed Felicia Winters as President, ending a decade of
-  Republican dominance. Hudson's legacy legislation — corporate tax rebates, media regulation,
-  and PDB integration into naval intelligence — faces repeal, but the corporate-military
-  alliance he strengthened remains deeply entrenched in Federal politics.
+- Zachary Hudson
+- Felicia Winters
+- Jasmina Halsey
+- Federal Congress
+- Republican Party
+description: The turbulent political landscape of the Federation, marked by presidential
+  succession crises, constitutional power struggles, and the shifting balance between
+  Hudson's Republican Party and Winters' Liberal Party.
 phases:
-- Initial events (3301-02-15)
-- Escalation (3307-04-29)
-- Resolution (3310-10-31)
+- 'Phase 1: Halsey to Hudson (3301-03-16)'
+- 'Phase 2: The Power Struggle (3301-06-02)'
+- 'Phase 3: Term Limits (3308-02-04)'
+summary: The Federal political landscape from Halsey's presidency through Hudson's rise
+  and his subsequent attempts to consolidate power beyond constitutional limits.
+status: Ongoing
+outcome: Hudson remains president. Winters leads opposition. The eight-year term limit
+  was challenged but remains contested.
+significance: medium
 ---
 
 
 
-<!-- AUTO-GENERATED -->
-
 # Federal Politics
 
-First seen: **3301-02-13**  
-Last seen: **3310-10-31**  
-Articles: **78**
+## Summary
+Federal politics in the 3300s has been defined by instability, power struggles, and constitutional stress. President Jasmina Halsey's disappearance in 3301 triggered a succession crisis that elevated Zachary Hudson to the presidency. Hudson's Republican Party consolidated power through security legislation and military expansion, while Shadow President Felicia Winters' Liberal Party provided vocal opposition. By 3308, Hudson attempted to remove the eight-year presidential term limit, framing it as necessary for "extraordinary times" but sparking accusations of authoritarianism.
 
-## Key Figures
+## Phases
 
-- [[Federal Times]] (20 mentions)
-- [[Core Dynamics]] (15 mentions)
-- [[Federation]] (13 mentions)
-- [[Federal Congress]] (10 mentions)
-- [[Proactive Detection Bureau]] (10 mentions)
+### Phase 1: Halsey to Hudson (3301-03-16)
+President Halsey's administration pursued idealistic frontier policies while facing criticism from then-Congressman Zachary Hudson. When Starship One disappeared in May 3301, Hudson accused Halsey of weakness and campaigned for a harder line. Halsey's absence created a power vacuum that Hudson exploited, positioning himself as the candidate who could restore Federal strength. The official ruling of mechanical failure—disputed by conspiracy theorists—cleared the path for Hudson's ascension.
 
-## Description
+### Phase 2: The Power Struggle (3301-06-02)
+Hudson became President and immediately pursued a militarist agenda, expanding the Federal Navy and implementing aggressive security policies. Shadow President Winters opposed him at every turn, championing civil liberties and social welfare programs. The rivalry between Hudson's Republicans and Winters' Liberals dominated Federal politics for years. Hudson's surveillance laws drew particular criticism from Winters, who accused him of violating the Federal Accord's protections.
 
-The Federal Politics arc traces a decade of transformation in the Federation's governance, from the collapse of the Liberal Party under President Jasmina Halsey to the Republican dominance of Zachary Hudson and the eventual Liberal restoration under Felicia Winters. It reveals how corporate interests, military expansionism, and surveillance technology reshaped Federal democracy — and how deeply these changes have become embedded in the superpower's political structure.
+### Phase 3: Term Limits (3308-02-04)
+With Hudson's eight-year term approaching its end in 3309, Secretary of State Lana Berkovich proposed suspending the constitutional limitation to allow Hudson to continue. Winters condemned the move as dictatorial: "Hudson has already violated the Federal Accord with his surveillance laws, but now we can see how little he values our constitution." A few Republican congressmen reluctantly agreed with Winters, but analysts believed Hudson enjoyed Cabinet and party majority support. The proposal represented the most serious constitutional challenge in modern Federal history.
 
-## Narrative
-
-The arc begins in early 3301 with the collapse of the Halsey administration. Elected on a platform of social reform, President Jasmina Halsey saw her approval rating plummet to 16% after the disastrous War for Lugh, including an attack on an unarmed refugee convoy that killed approximately 9,322 civilians. On 26 May 3301, her vessel Starship One disappeared; the subsequent Vote of No Confidence installed Zachary Hudson. In 3307, the truth emerged: Fleet Admiral Lucas Vincent and Core Dynamics CEO Jupiter Rochester had conspired to destroy Starship One and assassinate Halsey to install Hudson as President.
-
-The Hudson administration (3301–3310) dramatically increased military spending, established the Proactive Detection Bureau to monitor private communications, and pursued corporate tax rebates that enriched allies while cutting social programmes. Hudson survived a mandatory Vote of No Confidence in 3305 by a narrow margin. The arc's final phase began with the 3309 election, when Hudson's chosen successor Jerome Archer proved unpopular. Felicia Winters — Halsey's former Secretary of State — campaigned on dismantling the PDB and restoring civil liberties, winning the presidency and taking office on 31 October 3310.
-
-Whether Winters can reverse a decade of Republican entrenchment remains uncertain. The corporate interests and military-industrial complex that shaped Hudson's policies remain deeply embedded in Federal governance, while the Thargoid threat continues to justify expansive security measures.
+## Modern Relevance
+Federal politics reflects a superpower grappling with the tension between security and liberty in an age of alien threat. Hudson's power consolidation—surveillance laws, military expansion, term limit challenges—echoes historical patterns of democratic backsliding under crisis conditions. Winters' opposition maintains the Liberal Party as a viable alternative, but the structural advantages of incumbency and crisis rhetoric favour the Republicans. Whether the Federation can maintain its democratic character while confronting existential threats remains an open question.

@@ -1,33 +1,17 @@
 ---
 id: communications-beacon
-name: Communications beacon
+name: Communications Beacon
 type: technology
-first_seen_date: '3307-04-08'
-last_seen_date: '3307-06-11'
+first_seen_date: '3307-04-01'
+last_seen_date: '3309-05-18'
 mention_count: 5
-bio: Communications beacon is a technology in the Elite Dangerous universe, mentioned
-  from 3307-04-08 to 3307-06-11. Developed or used by Azimuth Biochemicals, Pilots
-  Federation. A dormant communications beacon aboard the 200-year-old ghost ship Adamastor
-  in the Chukchan system suddenly activates, receiving and rebroadcasting an encrypted
-  interstellar signal. Commander Tyler Thorsen describes receiving a request to locate
-  old signal beacons that could help find survivors from the megaship.
+bio: Communications beacons are devices used to transmit signals across space. In the context
+  of the Hesperus mystery, beacons deployed by the megaship nearly 200 years ago were used
+  by pilots to track down the Proteus and locate the Guardian-Thargoid battlefield.
 ---
 
 
 
-<!-- AUTO-GENERATED -->
+# Communications Beacon
 
-# Communications beacon
-
-First mentioned: **3307-04-08**  
-Last mentioned: **3307-06-11**  
-Total mentions: **5**
-
-## Related
-
-
-## Biography
-
-The communications beacon aboard the Adamastor megaship was a pivotal piece of technology that launched the Salvation saga. In 3307, Alliance Salvage Guild teams investigating the 200-year-old ghost ship in the Chukchan system discovered an undeployed beacon in one of its damaged cargo holds. After powering it up, the beacon automatically activated and began receiving and rebroadcasting a long-range encrypted interstellar signal of unknown origin.
-
-The mysterious signal — later revealed to have been sent by Salvation — could not be traced to any identifiable source, but its encoded content provided the decryption key needed to locate the Hesperus, the Adamastor's sister ship. Without this ancient communications technology, the trail leading from Azimuth Biochemicals' 31st-century expedition to Salvation's 34th-century anti-xeno campaign might never have been uncovered.
+Communications beacons are signal transmission devices used for navigation, distress calls, and data relay across space. In the Hesperus mystery, beacons deployed by the megaship nearly 200 years ago proved critical to solving the case. Pilots tracked down a series of these ancient beacons following instructions provided by the anonymous Salvation, which led them to the Proteus Anaconda at a Guardian-Thargoid battlefield on Trapezium Sector YU-X c1-2 1a. The beacons' ability to survive for two centuries and still transmit usable data demonstrated remarkable engineering, though their original purpose—whether navigational markers or deliberate clues—remains debated.

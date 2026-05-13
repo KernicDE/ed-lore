@@ -5,39 +5,15 @@ type: faction
 first_seen_date: '3304-01-05'
 last_seen_date: '3308-09-12'
 mention_count: 4
-related_entities:
-- 42-n-persei
-- ngalia
-- green-enterprise
-- pilots-federation
-- maia
-bio: Sirius Inc is a organization in the Elite Dangerous universe, active from 3304-01-05
-  to 3308-09-12. Frequently linked with 42 n Persei, Ngalia, Green Enterprise. Sirius
-  Inc has announced plans to construct a flight-operations megaship named the Dionysus
-  in the 42 n Persei system, a strategic position on the route to Maia. Sirius Inc
-  has announced the successful conclusion of its construction initiative.
+bio: Sirius Inc is a corporate subsidiary of Sirius Corporation that operates independently
+  in frontier systems. In 3304, it constructed the flight-operations megaship Dionysus
+  in the 42 n Persei system to improve services along the route to Maia. Senior Aide
+  Humberto Guthrie stated that if superpowers could not protect them, they would protect
+  themselves.
 ---
 
 
 
-<!-- AUTO-GENERATED -->
-
 # Sirius Inc
 
-First mentioned: **3304-01-05**  
-Last mentioned: **3308-09-12**  
-Total mentions: **4**
-
-## Related
-
-- [[42 n Persei]] (3 co-mentions)
-- [[Ngalia]] (2 co-mentions)
-- [[Green Enterprise]] (2 co-mentions)
-- [[Pilots Federation]] (2 co-mentions)
-- [[Maia]] (1 co-mentions)
-
-## Biography
-
-Sirius Inc is a subsidiary corporation of Sirius Corporation that handles specialised infrastructure and construction projects across the galaxy. In 3304, the company announced plans to construct a flight-operations megaship named the Dionysus in the 42 n Persei system, a strategic position on the route to Maia.
-
-In 3308, Sirius Inc was involved in defensive operations when Thargoid forces invaded the 42 n Persei system. The corporation's initiatives demonstrate how Sirius Corporation's subsidiaries extend the megacorp's reach into frontier systems, leveraging Sirius's vast resources to undertake projects that smaller organisations could never fund independently.
+Sirius Inc operates as a semi-autonomous corporate entity under the Sirius Corporation umbrella, focusing on frontier system development and self-defence infrastructure. In early 3304, the organisation announced construction of the Dionysus—a flight-operations megaship in the 42 n Persei system, strategically positioned on the route to Maia. Senior Aide Humberto Guthrie made clear the motivation: "We are disturbed by recent events in the Pleiades and the vulnerability of our systems. If the superpowers cannot protect us, we will protect ourselves." The initiative reflected corporate frustration with superpower inaction in the face of Thargoid activity, establishing a template for private entities to build their own defensive capabilities.

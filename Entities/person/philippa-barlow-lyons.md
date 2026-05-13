@@ -5,13 +5,10 @@ type: person
 first_seen_date: '3309-03-31'
 last_seen_date: '3309-04-25'
 mention_count: 5
-bio: Philippa Barlow-Lyons is a ceo in the Elite Dangerous universe, active from 3309-03-31
-  to 3309-04-25.
+bio: Philippa Barlow-Lyons is the COO and acting CEO of Caine-Massey who led the corporation
+  through the assassination of Johann Fleischer and the ensuing conflict with Torval
+  Mining.
 ---
-
-
-
-<!-- AUTO-GENERATED -->
 
 # Philippa Barlow-Lyons
 
@@ -24,4 +21,6 @@ Total mentions: **5**
 
 ## Biography
 
-Philippa Barlow-Lyons is a corporate executive who served as CEO of a major galactic firm in 3309. Her brief tenure attracted media attention due to internal boardroom disputes and questions about corporate governance. While details of her specific contributions remain limited, her case illustrates the volatile nature of executive leadership in the competitive interstellar corporate environment, where leadership changes can reflect broader strategic shifts within major commercial entities.
+Philippa Barlow-Lyons is the Chief Operating Officer and acting CEO of Caine-Massey, a major Federal mining corporation. In 3309, she assumed leadership after the assassination of CEO Johann Fleischer at a Federal Commerce Authority seminar on Mars. Barlow-Lyons publicly condemned the murder and demanded that no effort be spared in finding the killer.
+
+When circumstantial evidence linked the assassin to Torval Mining Ltd, Barlow-Lyons directed Caine-Massey's partner faction Tavgi Blue Life Inc into open conflict with Torval Mining in the Tavgi system. After Federal auxiliaries helped capture the Orchestral Falcon megaship, Torval Mining surrendered the assassin to Federal authorities. Barlow-Lyons declared that justice would finally be served, cementing her reputation as a decisive leader willing to use corporate warfare to protect her company's interests.

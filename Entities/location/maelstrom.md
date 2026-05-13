@@ -11,14 +11,10 @@ related_entities:
 - alliance
 - federal-navy
 - universal-cartographics
-bio: 'Maelstrom is a system in Elite Dangerous, significant from 3309-01-20 to 3310-04-24.
-  Associated with Aegis. Notable events include: Vox Galactica reporter Jade Sanderlyn
-  summarizes the devastating state of the Second Thargoid War following the arrival
-  of the eight Maelstroms.; Anti-authoritarian protests surge across the superpowers
-  as activists blame government leaders for allowing the Thargoid war to escalate.'
+bio: The Maelstroms are eight colossal Thargoid-generated gas clouds that appeared
+  in the core systems in late 3308, each serving as a beachhead for the most devastating
+  phase of the Second Thargoid War.
 ---
-
-<!-- AUTO-GENERATED -->
 
 # Maelstrom
 

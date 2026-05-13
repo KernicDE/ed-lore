@@ -2,55 +2,29 @@
 id: geras
 name: Geras
 type: location
-first_seen_date: '3304-11-01'
-last_seen_date: '3308-05-12'
+first_seen_date: '3301-04-02'
+last_seen_date: '3308-03-10'
 mention_count: 5
-related_entities:
-- geras-first
-- ndozins-state-inc
-- federal-security-service
-- sirius-corporation
-- nova-imperium
 coords:
-  x: -7.03125
-  y: -12.875
-  z: -56.375
-allegiance: Independent
-government: Patronage
-controlling_faction: Quebecois Patriots
-population: 33423683
-security: High
-economy: Industrial
+  x: -12.03125
+  y: -3.125
+  z: 23.6875
+allegiance: Federation
+government: Corporate
+controlling_faction: Geras First
+population: 2345000
+security: Medium
+economy: Agriculture
 second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system/id/4947/name/Geras
+edsm_url: https://www.edsm.net/en/system/id/18263/name/Geras
 inara_url: https://inara.cz/elite/starsystem/?search=Geras
-bio: Geras is a star system in the Elite Dangerous universe, significant from 3304-11-01
-  to 3308-05-12. Associated with Ndozins State Inc, Geras First, Federal Security
-  Service. The conflict between Geras First and Ndozins State Inc in the Geras system
-  concludes. Hostilities between Geras First and Ndozins State Inc in the Geras system
-  escalate into all-out war after months of reciprocal attacks.
+bio: Geras is a Federal agricultural system known for Gerasian Gueuze Beer, a popular beverage
+  exported throughout the Federation. The system has been involved in various trade initiatives
+  and corporate activities.
 ---
 
 
 
-<!-- AUTO-GENERATED -->
-
 # Geras
 
-First mentioned: **3304-11-01**  
-Last mentioned: **3308-05-12**  
-Total mentions: **5**
-
-## Related
-
-- [[Geras First]] (3 co-mentions)
-- [[Ndozins State Inc]] (3 co-mentions)
-- [[Federal Security Service]] (2 co-mentions)
-- [[Sirius Corporation]] (2 co-mentions)
-- [[Nova Imperium]] (2 co-mentions)
-
-## Description
-
-Geras is a populous independent industrial system with over 33 million inhabitants and a high-security environment under patronage governance. The system gained brief notoriety in 3304 when a conflict between local factions Geras First and Ndozins State Inc escalated into all-out war after months of reciprocal attacks.
-
-Beyond its political turbulence, Geras is best known as the source of Gerasian Gueuze Beer — one of the luxury commodities regularly requested by the galaxy's elite for celebrations and parties, including Zachary Rackham's trillionaire gala in 3308. The system's combination of industrial productivity and exclusive exports illustrates how even minor independent systems can achieve galactic recognition through niche products.
+Geras is a Federal agricultural system with a population of over two million, known primarily for its signature export: Gerasian Gueuze Beer. The beverage is popular throughout the Federation and has been featured in various trade initiatives. The system's agricultural economy, combined with refinery operations, makes it a modest but reliable contributor to Federal trade networks. Geras has occasionally been involved in broader galactic events, serving as a waypoint for trade routes and corporate logistics.

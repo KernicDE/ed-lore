@@ -2,34 +2,16 @@
 id: archambault-terminal
 name: Archambault Terminal
 type: location
-first_seen_date: '3305-03-14'
-last_seen_date: '3305-04-11'
+first_seen_date: '3304-10-18'
+last_seen_date: '3304-10-18'
 mention_count: 5
-related_entities:
-- federal-intelligence-agency
-- children-of-tothos
-- federal-times
-- chun-tstar
-bio: Archambault Terminal is a star system in the Elite Dangerous universe, significant
-  from 3305-03-14 to 3305-04-11. Associated with Children of Tothos, Federal Intelligence
-  Agency, Federal Times.
+bio: Archambault Terminal is a starport in the Gottena system. In October 3304, it was seized
+  by the Children of Tothos doomsday cult, who threatened to detonate a nuclear device unless
+  their demands were met.
 ---
 
-<!-- AUTO-GENERATED -->
+
 
 # Archambault Terminal
 
-First mentioned: **3305-03-14**  
-Last mentioned: **3305-04-11**  
-Total mentions: **5**
-
-## Related
-
-- [[Federal Intelligence Agency]] (5 co-mentions)
-- [[Children of Tothos]] (5 co-mentions)
-- [[Federal Times]] (3 co-mentions)
-- [[Chun Tstar]] (2 co-mentions)
-
-## Biography
-
-*[To be enriched]*
+Archambault Terminal is a starport located in the Gottena system. In October 3304, the station was seized by the Children of Tothos, a doomsday cult that threatened to detonate a nuclear device unless their demands were met. The cult's leader, the self-styled prophet Barnabas Cole, had convinced his followers that the only way to survive an impending apocalypse was to trigger a mass extinction event themselves. Independent pilots were called upon to intervene, and the crisis was eventually resolved without the detonation of the device. The incident highlighted the ongoing threat of extremist ideologies in the frontier.

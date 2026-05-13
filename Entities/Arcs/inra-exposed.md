@@ -1,50 +1,47 @@
 ---
 id: inra-exposed
-name: Inra Exposed
-first_seen_date: '3304-04-21'
-last_seen_date: '3304-05-24'
-mention_count: 5
-significance: medium
+name: INRA Exposed
+type: arc
+start_date: '3303-10-12'
+end_date: null
+article_count: 5
 key_entities:
-- inra
-- league-of-reparation
-- imperial-internal-security-service
-- angeli-imperial-enterprises
-- rind-gold-electronics-org
-description: The exposure of the Intergalactic Naval Reserve Arm (INRA), a covert
-  organization from the First Thargoid War. The truth emerged through the League of
-  Reparation's assassinations of individuals linked to INRA's ethically dubious research
-  and biological weapons programs.
-summary: The revelation of the Intergalactic Naval Reserve Arm's dark history, including
-  unethical experiments on Thargoids and human subjects during the first Thargoid
-  war.
-status: Revealed
-outcome: The INRA revelations shocked the galaxy, damaged superpower credibility,
-  and fueled anti-establishment sentiment among independent pilots.
+- Intergalactic Naval Reserve Arm
+- Nestor Cartesius
+- mycoid fungus
+- Thargoid
+description: The rediscovery of abandoned INRA outposts revealing the organisation's covert
+  development of chemical weapons against Thargoids, including the mycoid fungus tested
+  on living specimens.
 phases:
-- Initial events (3304-04-21)
-- Escalation (3304-05-05)
-- Resolution (3304-05-24)
+- 'Phase 1: First Discovery (3303-10-12)'
+- 'Phase 2: Further Bases (3303-10-19)'
+- 'Phase 3: Political Fallout (3303-12-14)'
+summary: The rediscovery of INRA bases and logs revealing covert chemical weapons research,
+  including the mycoid fungus tested on living Thargoids, sparking galactic ethical debate.
+status: Resolved
+outcome: INRA's activities were publicly exposed. Galactic leaders condemned the organisation.
+  The mycoid fungus became a focal point for debates about anti-xeno warfare ethics.
+significance: high
 ---
 
 
 
-<!-- AUTO-GENERATED -->
+# INRA Exposed
 
-# Inra Exposed
+## Summary
+The Intergalactic Naval Reserve Arm (INRA) was a joint Federal-Imperial initiative established in the 3100s to counter Thargoid incursions. For centuries, its activities were shrouded in secrecy. In 3303, independent pilots discovered abandoned INRA outposts throughout the core systems, and the logs they recovered revealed a disturbing story: INRA had developed the mycoid fungus, a chemical weapon designed to target Thargoid technology, and tested it on living Thargoid specimens. The revelations sparked intense ethical debate and forced galactic leaders to confront an uncomfortable chapter of human history.
 
-First seen: **3304-04-21**  
-Last seen: **3304-05-24**  
-Articles: **5**
+## Phases
 
-## Key Figures
+### Phase 1: First Discovery (3303-10-12)
+An abandoned planetary outpost was discovered in the Hermitage system. Images and records confirmed it had been controlled by INRA, the joint Federal-Imperial organisation established in the 3100s to address Thargoid incursions. Very little was publicly known about INRA, but historical reports asserted it developed a chemical weapon designed to target Thargoid technology. The discovery site contained logs describing INRA research, though full corroboration was still pending.
 
-- [[INRA]] (5 mentions)
-- [[League of Reparation]] (3 mentions)
-- [[Imperial Internal Security Service]] (2 mentions)
-- [[Angeli Imperial Enterprises]] (1 mentions)
-- [[Rind Gold Electronics Org]] (1 mentions)
+### Phase 2: Further Bases (3303-10-19)
+Additional abandoned INRA outposts were discovered across the core systems. Their logs revealed that the mycoid fungus—instrumental in countering the Thargoid incursions of the 3100s—was actually an unplanned by-product of INRA research. More disturbingly, the records indicated that INRA tested the mycoid on living Thargoid specimens. One log stated: "We have created a weapon that can prevent such a catastrophe. We have a moral obligation to use it." Another researcher offered a different view: "Progress at any cost, might makes right—all our worst impulses channelled into an unaccountable organisation focused solely on making bigger and more powerful weapons."
 
-## Description
+### Phase 3: Political Fallout (3303-12-14)
+Galactic leaders condemned INRA's activities. Ethical groups censured the testing on living specimens. Public response was divided: some argued the INRA's actions were necessary for human survival, while others maintained they were war crimes. Imperial Senator Nestor Cartesius defended the organisation, stating: "There is nothing in the organisation's past of which we need feel ashamed." The debate fundamentally shaped how humanity would approach the returning Thargoid threat—whether with the same ruthless pragmatism or with greater ethical constraints.
 
-The exposure of the Intergalactic Naval Reserve Arm (INRA), a covert organization from the First Thargoid War. The truth emerged through the League of Reparation's assassinations of individuals linked to INRA's ethically dubious research and biological weapons programs.
+## Modern Relevance
+The INRA revelations fundamentally shaped the ethical framework for anti-xeno warfare. The discovery that humanity had previously used biological weapons against the Thargoids—and tested them on living subjects—complicated efforts to portray human civilisation as morally superior to the aliens. The debate also influenced the formation of Aegis, which was explicitly designed to be more transparent and accountable than INRA. The mycoid fungus remains a theoretical weapon, its formula known but its use debated, representing a line that some argue humanity should never cross again.

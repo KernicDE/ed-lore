@@ -2,40 +2,15 @@
 id: ross-310-natural-services
 name: Ross 310 Natural Services
 type: faction
-first_seen_date: '3304-03-30'
-last_seen_date: '3304-04-07'
+first_seen_date: '3301-02-19'
+last_seen_date: '3301-02-19'
 mention_count: 4
-related_entities:
-- ross-310-cartel
-- ross-310
-- aegis
-- pilots-federation
-- eg-union
-bio: Ross 310 Natural Services is a organization in the Elite Dangerous universe,
-  active from 3304-03-30 to 3304-04-07. Frequently linked with Ross 310, Ross 310
-  Cartel, Aegis. Conflict erupted in Ross 310 between Ross 310 Natural Services and
-  the Ross 310 Cartel. The EG Union successfully concluded its campaign to build a
-  shipyard in Ross 720.
+bio: Ross 310 Natural Services is a faction operating in the Ross 310 system. It has been
+  involved in local system politics and resource management activities.
 ---
 
 
 
-<!-- AUTO-GENERATED -->
-
 # Ross 310 Natural Services
 
-First mentioned: **3304-03-30**  
-Last mentioned: **3304-04-07**  
-Total mentions: **4**
-
-## Related
-
-- [[Ross 310 Cartel]] (4 co-mentions)
-- [[Ross 310]] (4 co-mentions)
-- [[Aegis]] (2 co-mentions)
-- [[Pilots Federation]] (2 co-mentions)
-- [[EG Union]] (2 co-mentions)
-
-## Biography
-
-*[To be enriched]*
+Ross 310 Natural Services is a faction that operates in the Ross 310 system, focusing on resource extraction and environmental management. The organisation has played a role in local system politics, balancing commercial interests with the sustainable development of the system's natural resources. As with many frontier factions, its influence has waxed and waned depending on broader regional dynamics and the shifting allegiances of local populations.

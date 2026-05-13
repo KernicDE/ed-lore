@@ -1,66 +1,51 @@
 ---
 id: salvation-azimuth
-name: Salvation Azimuth
-first_seen_date: '3307-04-08'
-last_seen_date: '3309-12-21'
-mention_count: 106
-significance: critical
+name: Salvation and Azimuth
+type: arc
+start_date: '3307-04-01'
+end_date: null
+article_count: 28
 key_entities:
-- salvation
-- alliance
-- azimuth-biotech
-- aegis
-- azimuth
-description: The Salvation-Azimuth arc traces the rise and fall of Dr. Caleb Wycherley,
-  a 200-year-old scientist who operated under the aliases "Salvation" and "The Witch."
-  As vice-president of research at Azimuth Biochemicals, Wycherley had assisted INRA
-  in developing the mycoid bioweapon during the First Thargoid War. In 3307 he re-emerged,
-  using the corporate front Taurus Mining Ventures to recruit independent pilots and
-  construct Guardian-derived anti-xeno superweapons. His methods — including deliberately
-  luring Thargoids into populated systems to test his weapons, sabotaging the Aegis megaship
-  Alexandria to steal Guardian artefacts, and conducting human experimentation in Project
-  Seraph — were ruthlessly effective but ethically monstrous. The arc culminated in
-  the Proteus Wave activation at HIP 22460 in August 3308, which triggered a catastrophic
-  Thargoid counter-attack that destroyed the Bright Sentinel megaship and killed Wycherley.
-summary: The rise and fall of Salvation (Dr. Caleb Wycherley), a centuries-old Azimuth
-  scientist who deployed Guardian-derived superweapons against the Thargoids through
-  ruthless manipulation of independent pilots, superpower militaries, and Aegis itself.
-status: Concluded
-outcome: Salvation was killed during the Thargoid counter-attack at HIP 22460. His
-  legacy included devastating Thargoid casualties, the collapse of Aegis, and the escalation
-  of the Second Thargoid War to unprecedented intensity.
+- Salvation
+- Caleb Wycherley
+- Azimuth Biochemicals
+- Aegis
+- Alba Tesreau
+- Proteus Wave
+- Bright Sentinel
+description: The rise of the anonymous scientist Salvation, his anti-xeno superweapons
+  derived from Guardian technology, and the revelation that he was Dr Caleb Wycherley
+  of Azimuth Biochemicals—a man with a two-century history of unethical research.
 phases:
-- Initial events (3307-04-08)
-- Escalation (3308-07-22)
-- Resolution (3309-12-21)
+- 'Phase 1: The Anonymous Saviour (3307-04-01)'
+- 'Phase 2: Superpower Alliance (3308-04-18)'
+- 'Phase 3: The Proteus Wave (3308-08-25)'
+summary: The mysterious scientist Salvation's development of anti-xeno superweapons,
+  his manipulation of superpowers, and his death during the catastrophic Proteus Wave
+  activation.
+status: Resolved
+outcome: Salvation was identified as Dr Caleb Wycherley and confirmed dead. The Proteus
+  Wave failed catastrophically. Azimuth Biotech continued operations under new leadership.
+significance: high
 ---
 
 
 
-<!-- AUTO-GENERATED -->
+# Salvation and Azimuth
 
-# Salvation Azimuth
+## Summary
+Salvation appeared in 3307 as an anonymous scientist offering humanity a way to defeat the Thargoids. Through Taurus Mining Ventures, he deployed anti-xeno superweapons derived from Guardian technology, achieving victories that Aegis could not match. Superpowers flocked to support him, seconding naval personnel to his fleet. But Salvation's true identity was Dr Caleb Wycherley, a figure connected to Azimuth Biochemicals—a company with a 200-year history of unethical research. His ultimate weapon, the Proteus Wave, activated in HIP 22460 with catastrophic consequences, killing Salvation and revealing the dark truth behind his promises.
 
-First seen: **3307-04-08**  
-Last seen: **3309-12-21**  
-Articles: **106**
+## Phases
 
-## Key Figures
+### Phase 1: The Anonymous Saviour (3307-04-01)
+Salvation emerged as an anonymous figure communicating through encrypted channels and proxy organisations. He directed pilots to Guardian sites and provided technology that proved devastatingly effective against Thargoid vessels. Aegis, led by Professor Alba Tesreau, initially competed with Salvation for Guardian artefacts but was increasingly overshadowed. Salvation's weapons worked where Aegis's research had stalled, making him the preferred anti-xeno strategist for an anxious galaxy.
 
-- [[Salvation]] (39 mentions)
-- [[Alliance]] (37 mentions)
-- [[Azimuth Biotech]] (37 mentions)
-- [[Aegis]] (34 mentions)
-- [[Azimuth]] (23 mentions)
+### Phase 2: Superpower Alliance (3308-04-18)
+All three superpowers formally seconded military personnel to Salvation's fleet. Lieutenant Andrew Jones spoke for many: "Most of us are here because it feels like Salvation is the only one taking the fight to the Thargoids. Now that Aegis is as good as gone, he's our best hope." Salvation strengthened bonds with political leaders while his researchers developed increasingly powerful weapons. Questions about his identity and methods were dismissed in the face of apparent success.
 
-## Description
+### Phase 3: The Proteus Wave (3308-08-25)
+Salvation's ultimate weapon, the Proteus Wave, was activated in HIP 22460 aboard the Bright Sentinel. The device was intended to destroy Thargoid forces en masse but backfired catastrophically. The Bright Sentinel was destroyed, and Salvation—identified as Dr Caleb Wycherley—was found dead in his command chair, surrounded by shattered cybernetic implants. A rescue team confirmed: "Nobody else could possibly look so old." The Proteus Wave's failure not only killed its creator but also demonstrated the dangers of unaccountable weapons development.
 
-The Salvation-Azimuth arc is one of the darkest chapters in the Second Thargoid War, centred on Dr. Caleb Wycherley — a scientist who survived for over two centuries through progenitor cell treatments and operated under the aliases "Salvation" and "The Witch." As vice-president of research at Azimuth Biochemicals during the First Thargoid War, Wycherley had assisted INRA in developing the mycoid bioweapon. In 3307, he resurfaced with a new agenda: to supplant Aegis and destroy the Thargoids using Guardian-derived technology, regardless of the human cost.
-
-## Narrative
-
-Wycherley first contacted independent pilots in April 3307 through the ghost ship Adamastor, using the corporate front Taurus Mining Ventures to direct them to the Proteus — an Azimuth expedition vessel at an ancient Guardian-Thargoid battlefield. The recovered technology became the foundation for Salvation's anti-xeno superweapon: a Guardian-derived electromagnetic pulse capable of disabling Thargoid vessels across an entire system.
-
-His methods were ruthlessly effective and ethically abhorrent. In September 3307, he seeded the inhabited Cornsar system with Guardian fragments to lure Thargoids, then deployed his prototype using civilians as bait. The superpowers redirected resources from Aegis to Salvation, while Admiral Aden Tanner's investigation was defeated and he was court-martialed. The full extent of Salvation's crimes emerged gradually: the sabotage of the Alexandria megaship, Project Seraph's human experimentation, and Tesreau's confirmation that Salvation was the centuries-old Wycherley who had helped develop the mycoid bioweapon.
-
-The arc culminated at HIP 22460 in August 3308. Salvation activated the Proteus Wave, which triggered a catastrophic Thargoid counter-attack deploying Titan-class vessels that destroyed the Bright Sentinel and killed Wycherley. His legacy remains contested: supporters credit him with killing millions of Thargoids, while detractors condemn him as a mass murderer whose actions provoked devastating retaliation and contributed to Aegis's collapse.
+## Modern Relevance
+The Salvation affair exposed the dangers of outsourcing defence to anonymous actors. Superpowers that had eagerly seconded personnel to Salvation's fleet found themselves complicit in the work of a centuries-old unethical researcher. The crisis also highlighted the tension between scientific accountability and military necessity—Aegis's transparent, deliberative approach had been abandoned for Salvation's secretive, results-driven methods, with disastrous results. Azimuth Biotech survived under new leadership, but the shadow of Wycherley's legacy continues to haunt anti-xeno research.

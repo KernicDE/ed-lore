@@ -11,14 +11,10 @@ related_entities:
 - vox-galactica
 - federal-intelligence-agency
 - proactive-detection-bureau
-bio: True Chapters is a organization in the Elite Dangerous universe, active from
-  3308-09-12 to 3308-09-29. Frequently linked with HIP 22460, The Federal Times, Vox
-  Galactica.
+bio: The True Chapters is a radical sect that broke away from the Far God cult in
+  3308 following the Battle of HIP 22460. Its members abandoned orthodox hive-chapels
+  to worship the First Apostle as a holy messenger of the Far God.
 ---
-
-
-
-<!-- AUTO-GENERATED -->
 
 # True Chapters
 
@@ -36,4 +32,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+The True Chapters is a radical sect that broke away from the Far God cult in the aftermath of the Battle of HIP 22460 in 3308. Unlike orthodox Far God worshippers who passively await the Thargoids' apocalyptic arrival, True Chapters adherents hail the First Apostle as a holy messenger and have abandoned traditional hive-chapels for more militant devotion.
+
+Dr Alfred Ulyanov, the leading academic authority on the Far God faith, noted that the Thargoid victory in HIP 22460 triggered unprecedented excitement among cultists but also caused discord, with worshippers defecting to the True Chapters in significant numbers. The Federal Intelligence Agency monitored the sect closely, concerned by its radicalisation and the Testament megaship's efforts to locate a permanent base for new converts.

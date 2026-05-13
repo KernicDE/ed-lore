@@ -24,17 +24,9 @@ economy: Agriculture
 second_economy: None
 edsm_url: https://www.edsm.net/en/system/id/18/name/Lave
 inara_url: https://inara.cz/elite/starsystem/?search=Lave
-bio: 'Lave is a system in Elite Dangerous, significant from 3301-04-03 to 3312-01-26.
-  Associated with Alliance, Alliance Defence Force. Notable events include: This week''s
-  major stories include the murder of Fleet Admiral Tulimaq Buchanan of the Alliance
-  Council of Admirals by the League of Reparation, lin...; Weekly summary covering
-  Aisling Duval''s anti-slavery campaign merging with Universal Liberty to form Unchain,
-  Lori Jameson''s denunciation of the Le...'
+bio: Lave is a heavily populated agricultural system in the Old Worlds, founding member
+  of the Alliance, now independently governed.
 ---
-
-
-
-<!-- AUTO-GENERATED -->
 
 # Lave
 

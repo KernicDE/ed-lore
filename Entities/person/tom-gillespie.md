@@ -5,13 +5,9 @@ type: person
 first_seen_date: '3309-02-10'
 last_seen_date: '3309-03-23'
 mention_count: 5
-bio: Tom Gillespie is a scientist in the Elite Dangerous universe, active from 3309-02-10
-  to 3309-03-23. Closely associated with Aegis.
+bio: Tom Gillespie is a Federal Congressman who coordinated the Federation's involvement
+  in Aegis reform in 3309 and oversaw the ammonia world survey.
 ---
-
-
-
-<!-- AUTO-GENERATED -->
 
 # Tom Gillespie
 

@@ -1,51 +1,50 @@
 ---
 id: pleiades-expansion
 name: Pleiades Expansion
-first_seen_date: '3301-03-05'
-last_seen_date: '3304-01-05'
-mention_count: 37
-significance: medium
+type: arc
+start_date: '3302-01-14'
+end_date: null
+article_count: 14
 key_entities:
-- pleiades-resource-enterprise
-- explorers-association
-- merope-expeditionary-fleet
-- ant-hill-mob
-- federation
-description: Corporate and exploratory expansion into the Pleiades Nebula, featuring
-  the construction of Obsidian Orbital and other deep-space platforms. Tensions arose
-  between mining operations, scientific research groups, and the growing Thargoid
-  presence in the region.
-summary: Corporate and independent expansion into the Pleiades Nebula, driven by Thargoid-related
-  discoveries and meta-alloy exploitation.
-status: Ongoing
-outcome: The Pleiades became a contested zone between human corporations and Thargoid
-  forces, with multiple research outposts and military installations established.
+- Pleiades Nebula
+- Merope
+- Maia
+- Aegis
+- Federation
+- Empire
+- Alliance
+description: The scramble by all three superpowers to establish military and research
+  outposts in the Pleiades Nebula following the discovery of Thargoid barnacles and alien
+  activity.
 phases:
-- Initial events (3301-03-05)
-- Escalation (3302-10-27)
-- Resolution (3304-01-05)
+- 'Phase 1: The Rush (3302-01-14)'
+- 'Phase 2: Military Bases (3302-09-08)'
+- 'Phase 3: Aegis Research (3303-01-01)'
+summary: The superpower race to colonise and militarise the Pleiades Nebula after barnacle
+  discoveries and Thargoid activity made the region strategically vital.
+status: Ongoing
+outcome: The Pleiades became a contested military zone. Aegis established research outposts.
+  All three superpowers maintain permanent military presence.
+significance: high
 ---
 
 
 
-<!-- AUTO-GENERATED -->
-
 # Pleiades Expansion
 
-First seen: **3301-03-05**  
-Last seen: **3304-01-05**  
-Articles: **37**
+## Summary
+The Pleiades Nebula transformed almost overnight from an astronomical curiosity into the galaxy's most contested real estate. When barnacles were discovered on Merope 5c in 3302, the superpowers recognised both the scientific value and strategic threat of alien structures in human space. What followed was a scramble to establish military bases, research outposts, and territorial claims. The Federation, Empire, and Alliance all deployed forces, transforming the nebula from a peaceful region into a militarised frontier where human ambitions collided with Thargoid presence.
 
-## Key Figures
+## Phases
 
-- [[Pleiades Resource Enterprise]] (14 mentions)
-- [[Explorers' Association]] (7 mentions)
-- [[Merope Expeditionary Fleet]] (6 mentions)
-- [[Ant Hill Mob]] (6 mentions)
-- [[Federation]] (4 mentions)
+### Phase 1: The Rush (3302-01-14)
+An unidentified signal in the Pleiades Nebula led explorers to Merope, where Commander Octo discovered the first barnacles. The Canonn Interstellar Research Group launched a systematic search, finding multiple sites. The significance was immediately apparent: these were alien structures producing meta-alloys, and they were located deep within what humans considered their territory. Superpowers began quietly planning expeditions while publicly expressing scientific interest.
 
-## Description
+### Phase 2: Military Bases (3302-09-08)
+The Empire deployed ships to Pleiades Sector AB-W B2-4 and established a permanent base. The Federation responded by stationing battle cruisers at Merope barnacle sites. The Alliance, initially slower to react, established outposts in the California Nebula adjacent to Pleiades. The region became a tinderbox of superpower rivalry, with each side accusing the others of aggression while building up their own forces. Research became increasingly difficult as military priorities overrode scientific ones.
 
-The Pleiades Expansion arc covers humanity's push into the Pleiades Nebula during the early 3300s, driven by corporate mining interests, scientific curiosity, and superpower rivalry. The construction of Obsidian Orbital in Maia marked the first permanent human outpost in the nebula, while the Explorers' Association and Canonn Interstellar Research Group led efforts to map and study the region. The discovery of alien barnacles and meta-alloys transformed the expansion from a commercial venture into a strategic priority.
+### Phase 3: Aegis Research (3303-01-01)
+Aegis was formed as a tri-superpower research initiative to coordinate the study of Thargoid activity in the Pleiades. Professor Alba Tesreau and other leading scientists established research outposts, attempting to understand Thargoid biology, technology, and intentions. The effort was complicated by superpower competition for access to Thargoid materials and the increasingly hostile alien presence. When Thargoids returned to the Pleiades in force in 3305, Aegis was forced to evacuate key personnel, demonstrating that human claims to the region were contingent on Thargoid forbearance.
 
-Tensions escalated rapidly as the Federation, Empire, and Alliance all established military and research facilities to secure access to Thargoid-related resources. The arc established the Pleiades as the primary flashpoint for first contact, with corporate miners, independent scientists, and superpower military forces operating in increasingly dangerous proximity to alien structures — a volatile mix that would eventually ignite into full-scale war.
+## Modern Relevance
+The Pleiades expansion established the pattern for how humanity responds to alien presence: military escalation disguised as scientific research, superpower competition overriding cooperation, and territorial claims that prove meaningless against superior alien force. The region remains a militarised zone where Thargoid activity determines which human installations survive. Whether the Pleiades will ever return to peaceful research or remain a permanent battlefield depends on the trajectory of human-Thargoid relations.

@@ -5,14 +5,9 @@ type: person
 first_seen_date: '3307-08-11'
 last_seen_date: '3308-01-12'
 mention_count: 5
-bio: Paul Baumann is a admiral in the Elite Dangerous universe, active from 3307-08-11
-  to 3308-01-12. Closely associated with Aegis, Salvation. The Baumann Report recommends
-  dismantling Aegis while Admiral Tanner's court martial is halted by Ram Tah's evidence.
+bio: Dr Paul Baumann is the chair of the independent board of inquiry that investigated
+  Aegis's operational failures, recommending the agency's dismantlement in 3308.
 ---
-
-
-
-<!-- AUTO-GENERATED -->
 
 # Paul Baumann
 

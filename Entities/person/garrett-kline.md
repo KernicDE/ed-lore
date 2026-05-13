@@ -3,27 +3,16 @@ id: garrett-kline
 name: Garrett Kline
 type: person
 first_seen_date: '3305-06-08'
-last_seen_date: '3305-07-13'
+last_seen_date: '3305-06-08'
 mention_count: 5
-bio: Garrett Kline is a prominent figure in the Elite Dangerous universe, active from
-  3305-06-08 to 3305-07-13. Closely associated with Autonomy, Unchain, Tilbery Construction.
+bio: Garrett Kline is the CEO of Tilbery Construction, a company based in the Eotienses
+  system. In June 3305, his company purchased 4,000 Imperial slaves for a water treatment
+  facility project, drawing protests from anti-slavery charity Unchain over the company's
+  inexperience and the risks of mass transport.
 ---
 
 
 
-<!-- AUTO-GENERATED -->
-
 # Garrett Kline
 
-First mentioned: **3305-06-08**  
-Last mentioned: **3305-07-13**  
-Total mentions: **5**
-
-## Related
-
-
-## Biography
-
-Garrett Kline is the CEO of Tilbery Construction and a member of Autonomy, an anti-slavery activist group. In June 3305, Kline orchestrated one of the largest mass emancipations in Imperial history by purchasing four thousand Imperial slaves under the pretense of needing labour for a water treatment facility in Port Isabelle, Eotienses.
-
-Using the legitimate cover of a construction contract, Kline transported the slaves outside the city and freed them, announcing: "As members of the group Autonomy, we renounce institutionalised abuse and fight for human dignity." The audacious operation drew both admiration and condemnation. Aisling Duval praised the liberation while security experts criticised the risks of transporting so many people. Kline's actions demonstrated how activist networks could exploit the mechanisms of Imperial slavery to subvert the system from within, turning the legal fiction of "indentured servitude" into a vehicle for mass emancipation.
+Garrett Kline is the CEO of Tilbery Construction, a young company based in the Eotienses system. In June 3305, Kline arranged the purchase of four thousand Imperial slaves to serve as workforce for a new water treatment facility on Eotienses A 3, serving the city of Port Isabelle. He defended the decision by explaining that the company had not yet acquired the personnel required to meet the project's ambitious deadline. The anti-slavery charity Unchain lodged a formal protest, expressing concern about the lack of information regarding Tilbery Construction and noting that Kline appeared to have no experience managing such projects. The incident was later revealed to be connected to Autonomy's mass emancipation operation.

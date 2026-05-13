@@ -11,16 +11,11 @@ related_entities:
 - heike
 - brunel-city-station
 - altair
-bio: Union of Bast Liberals is a organization in the Elite Dangerous universe, active
-  from 3301-08-02 to 3301-08-10. Frequently linked with Bast, Hart Station, Brunel
-  City Station. A total of 1,869 independent pilots helped eliminate pirate vessels
-  targeting medical supply ships in the Bast system. The Union of Bast Liberals confirmed
-  the campaign was successful, allowing the Cerberus antidote to reach affected systems.
+bio: The Union of Bast Liberals is a local faction in the Bast system that coordinated
+  the defence of medical supply ships during the Cerberus Plague crisis in 3301. It
+  placed bounties on pirates and organised pilot efforts to ensure antidote deliveries
+  reached affected systems.
 ---
-
-
-
-<!-- AUTO-GENERATED -->
 
 # Union of Bast Liberals
 
@@ -38,4 +33,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+The Union of Bast Liberals is a local faction in the Bast system that played a critical role during the Cerberus Plague crisis of 3301. When pirate vessels began targeting medical supply ships carrying the Cerberus antidote, the Union placed bounties on the pirates and organised independent pilots to eliminate the threat.
+
+The campaign was resoundingly successful: 1,869 pilots participated, allowing the antidote to reach over twenty affected systems and effectively eradicating the plague from systems including Cantjarisni, Rajukru, Altair and 39 Tauri. The Union's spokesperson expressed profound gratitude, noting that the pilots had saved thousands of lives through their collective effort.

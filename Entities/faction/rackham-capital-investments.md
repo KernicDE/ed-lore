@@ -11,17 +11,10 @@ related_entities:
 - herculean-machines
 - colonia-hub
 - mars
-bio: 'Rackham Capital Investments is a organization active in Elite Dangerous lore
-  from 3304-06-20 to 3311-09-08. Frequently associated with Federal Times. Key activities
-  include: Weekly summary covering Thargoids being repelled from core systems to Bhal,
-  three starports restored to full functionality, Aisling Duval''s engagem...; Weekly
-  summary covering Gibson Kincaid''s re-election as Alliance President, the foiled
-  raid on Ram Tah''s Phoenix Base, the FSS targeting The Mars T...'
+bio: Rackham Capital Investments is the vast corporate empire of billionaire Zachary
+  Rackham, marked by hacking, boardroom battles and major public initiatives including
+  Colonia region shipyards and exploration campaigns.
 ---
-
-
-
-<!-- AUTO-GENERATED -->
 
 # Rackham Capital Investments
 

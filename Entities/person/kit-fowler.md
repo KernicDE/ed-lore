@@ -3,30 +3,17 @@ id: kit-fowler
 name: Kit Fowler
 type: person
 first_seen_date: '3307-08-20'
-last_seen_date: '3309-03-20'
+last_seen_date: '3308-08-23'
 mention_count: 5
-bio: Kit Fowler is a journalist in the Elite Dangerous universe, active from 3307-08-20
-  to 3309-03-20. Closely associated with Utopia, Wallglass Investigations Agency.
-  Independent journalist Flint 'Firemaker' Lafosse begins broadcasting Kit Fowler's
-  conspiracy show End Times on the Rewired network, linking Black Flight crimes to
-  Thargoid cover-ups.
+bio: Kit Fowler is a conspiracy theorist and engineer who broadcasts the show End Times
+  from his workshop in the Capoya system. He has made outlandish claims including labelling
+  Salvation an AI construct, accusing Utopia of secretly creating a new species of human,
+  and arguing that the universe's true shape is being concealed by superpower-sponsored
+  holograms.
 ---
 
 
 
-<!-- AUTO-GENERATED -->
-
 # Kit Fowler
 
-First mentioned: **3307-08-20**  
-Last mentioned: **3309-03-20**  
-Total mentions: **5**
-
-## Related
-
-
-## Biography
-
-Kit Fowler is an independent broadcaster and conspiracy theorist known for his "End Times" news feed, which covers Thargoid-related phenomena from an anti-establishment perspective. In 3308, he was among the few broadcasters who refused to accept official silence about an alleged "Thargoid roar" detected by multiple pilots in the HIP 22460 system, noting that the Federal Navy classified all data from the incident while the Alliance Defence Force dismissed it as "collective trauma or hysteria."
-
-Fowler also discussed the disappearance of Seo Jin-ae in 3309, highlighting rumours that black ops teams had either kidnapped or assassinated her because of the unique Thargoid neural connection provided by her cortical implant. He cited intercepted comms fragments mentioning "Bright Sentinel" and "Nemesis protocol" as evidence of a deeper conspiracy. Fowler's willingness to platform unsubstantiated claims has made him a controversial figure — respected by those who distrust official narratives and dismissed by establishment media as a provocateur who "stirs up trouble."
+Kit Fowler is an independent engineer and conspiracy theorist who operates from his workshop in the Capoya system. He broadcasts a show called End Times through the Rewired network, hosted by journalist Flint "Firemaker" Lafosse. Fowler has gained notoriety for a series of outlandish claims, including labelling the mysterious anti-xeno figure Salvation as an AI construct, accusing Utopia of secretly creating a new species of human, and arguing that the universe's true shape is being concealed by superpower-sponsored holograms. One of his more grounded theories concerned Black Flight, a sinister group he claimed committed multiple crimes including murder to suppress evidence of Thargoid activity after the First War.

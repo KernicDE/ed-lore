@@ -24,13 +24,9 @@ economy: Agriculture
 second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system/id/11768/name/Cornsar
 inara_url: https://inara.cz/elite/starsystem/?search=Cornsar
-bio: Cornsar is a star system in the Elite Dangerous universe, significant from 3307-12-14
-  to 3308-08-26. Associated with Taurus Mining Ventures, Aegis.
+bio: Cornsar is an agricultural system where Salvation tested his anti-xeno superweapon
+  against a Thargoid fleet in 3307.
 ---
-
-
-
-<!-- AUTO-GENERATED -->
 
 # Cornsar
 

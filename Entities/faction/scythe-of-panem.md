@@ -2,40 +2,16 @@
 id: scythe-of-panem
 name: Scythe of Panem
 type: faction
-first_seen_date: '3305-10-22'
-last_seen_date: '3305-11-02'
+first_seen_date: '3305-10-28'
+last_seen_date: '3305-10-28'
 mention_count: 4
-related_entities:
-- panem
-- federal-intelligence-agency
-- kappa-fornacis
-- rockforth-corporation
-- bruthanvan-co
-bio: Scythe of Panem is a organization in the Elite Dangerous universe, active from
-  3305-10-22 to 3305-11-02. Frequently linked with Panem, Federal Intelligence Agency,
-  Kappa Fornacis. The extremist group Scythe of Panem is identified as responsible
-  for contaminating Rockforth's EX7 fertiliser. The Coalition for Onion Head Legalisation
-  distances itself from Scythe of Panem.
+bio: The Scythe of Panem is a militant group that was identified as responsible for the
+  blight crisis in 3305. They deployed a synthetic contaminant that caused mass crop spoilage
+  across hundreds of systems before being defeated by system security forces.
 ---
 
 
 
-<!-- AUTO-GENERATED -->
-
 # Scythe of Panem
 
-First mentioned: **3305-10-22**  
-Last mentioned: **3305-11-02**  
-Total mentions: **4**
-
-## Related
-
-- [[Panem]] (5 co-mentions)
-- [[Federal Intelligence Agency]] (3 co-mentions)
-- [[Kappa Fornacis]] (3 co-mentions)
-- [[Rockforth Corporation]] (2 co-mentions)
-- [[Bruthanvan Co]] (2 co-mentions)
-
-## Biography
-
-*[To be enriched]*
+The Scythe of Panem is a militant extremist group that triggered the devastating blight crisis of 3305. The organisation deployed a synthetic contaminant that caused mass crop spoilage across hundreds of agricultural systems, threatening billions with famine. Their actions were eventually traced by investigators, and the group was defeated by system security forces. The revelation that the blight was an act of deliberate biological terrorism rather than a natural outbreak transformed the crisis from an agricultural disaster into a major security incident, prompting renewed focus on counter-terrorism measures across the galaxy.

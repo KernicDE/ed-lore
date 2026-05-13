@@ -1,51 +1,48 @@
 ---
 id: kumo-crew-rise
 name: Kumo Crew Rise
-first_seen_date: '3301-05-14'
-last_seen_date: '3307-07-15'
-mention_count: 41
-significance: medium
+type: arc
+start_date: '3301-06-05'
+end_date: null
+article_count: 14
 key_entities:
-- kumo-crew
-- imperial-navy
-- pilots-federation
-- lavignys-legion
-- kumo-council
-description: Archon Delaine's brutal expansion of the Kumo Crew across the Pegasi
-  Sector. Styling himself as Pirate King, Delaine demanded tribute from systems, clashed
-  with Federal and Imperial forces, and attempted to forge a unified pirate federation
-  through violence and intimidation.
-summary: Archon Delaine's brutal consolidation of the Kumo Crew pirate syndicate,
-  expanding their territory through violence and intimidation across the Pegasi Sector.
-status: Ongoing
-outcome: The Kumo Crew continues to control the Pegasi Sector through force and intimidation,
-  surviving multiple challenges to Delaine's leadership.
+- Archon Delaine
+- Kumo Crew
+- Pegasi Sector
+- Kumo City
+- Kumo Council
+description: The rise of Archon Delaine's Kumo Crew from a pirate confederation to a
+  quasi-state power controlling the Pegasi Sector, complete with its own economy, military,
+  and political structures.
 phases:
-- Initial events (3301-05-14)
-- Escalation (3301-08-19)
-- Resolution (3307-07-15)
+- 'Phase 1: Unification (3301-06-05)'
+- 'Phase 2: Expansion (3307-04-30)'
+- 'Phase 3: Anti-Xeno Turn (3309-02-09)'
+summary: Archon Delaine's transformation of the Kumo Crew from a loose pirate confederation
+  into an organised political and military force controlling the Pegasi Sector.
+status: Ongoing
+outcome: The Kumo Crew controls the Pegasi Sector, operates starports, and maintains
+  a military capable of both anti-xeno operations and territorial expansion.
+significance: medium
 ---
 
 
 
-<!-- AUTO-GENERATED -->
-
 # Kumo Crew Rise
 
-First seen: **3301-05-14**  
-Last seen: **3307-07-15**  
-Articles: **41**
+## Summary
+The Kumo Crew began as a loose confederation of pirates operating in the Pegasi Sector. Under Archon Delaine's leadership, it transformed into something unprecedented: a pirate nation with its own territory, economy, and military. The Kumo Crew operates Kumo City and other starports, maintains a council structure for governance, and fields a militia capable of both conventional piracy and anti-xeno warfare. This evolution from criminal syndicate to quasi-state challenges traditional definitions of sovereignty and raises uncomfortable questions about how the galaxy's power structures accommodate non-traditional political entities.
 
-## Key Figures
+## Phases
 
-- [[Kumo Crew]] (33 mentions)
-- [[Imperial Navy]] (9 mentions)
-- [[Pilots Federation]] (8 mentions)
-- [[Lavigny's Legion]] (6 mentions)
-- [[Kumo Council]] (5 mentions)
+### Phase 1: Unification (3301-06-05)
+Archon Delaine united the scattered pirate groups of the Pegasi Sector under a single banner. Early efforts were marked by internal power struggles, with rival factions resisting centralised control. Delaine's combination of ruthlessness and strategic vision gradually eliminated opposition and established the Kumo Crew as the dominant force in the region. The group's initial activities were purely criminal—raiding, smuggling, and extortion—but Delaine had larger ambitions.
 
-## Description
+### Phase 2: Expansion (3307-04-30)
+The Kumo Crew opened starports for business and launched initiatives to produce new commodities, effectively transitioning from a raiding economy to a trade-based one. Kumo City became a functional port rather than merely a pirate haven. The Kumo Council formalised governance structures, and Delaine began behaving less like a pirate lord and more like a head of state. The arrival of a dredger clan at Kumo City further integrated the Kumo Crew into broader frontier networks.
 
-The Kumo Crew Rise arc traces Archon Delaine's transformation of a loose collection of Pegasi pirates into one of the galaxy's most formidable criminal syndicates. Beginning in 3301, Delaine — a teenage murderer who seized control by beating his predecessor to death — systematically eliminated rivals and demanded tribute from systems across the sector. His rule combined ruthless violence with pragmatic governance: loyalists were rewarded, dissenters disappeared, and the systems under his control often functioned better than under previous administrations.
+### Phase 3: Anti-Xeno Turn (3309-02-09)
+When Thargoids invaded the California Nebula, the Kumo Crew organised an anti-xeno militia that successfully defended the region. Local residents acknowledged that Delaine's actions saved lives, but remained wary of his reputation. When the Kumo Council attempted to seize control of local ports under the guise of "emergency security measures," communities repelled them. The Turner Research Group regained control, and the Alliance launched an inquiry. The incident encapsulated the paradox of the Kumo Crew: capable of genuine defence, yet unable to resist exploiting crises for territorial gain.
 
-The arc features multiple challenges to Delaine's authority, including military campaigns by the Imperial Navy and Federal forces, and a failed 3308 coup masterminded by his former lieutenant Vidar Trask. Throughout, Delaine has maintained his grip through a combination of personal charisma, terror, and strategic alliances — most recently repositioning the Kumo Crew as protectors of neglected colonies during the Thargoid war, a propaganda manoeuvre that belies the syndicate's fundamentally predatory nature.
+## Modern Relevance
+The Kumo Crew's evolution challenges conventional categories. Is it a criminal organisation, a de facto state, or something new? Its ability to provide anti-xeno defence while simultaneously attempting territorial seizure demonstrates how frontier power structures blur the lines between legitimate and illegitimate authority. The Alliance's inquiry into Kumo Crew activities in the California Nebula will likely establish precedents for how superpowers interact with non-state actors that possess both military capability and political ambition.

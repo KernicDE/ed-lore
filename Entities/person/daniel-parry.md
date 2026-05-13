@@ -3,25 +3,15 @@ id: daniel-parry
 name: Daniel Parry
 type: person
 first_seen_date: '3309-02-10'
-last_seen_date: '3309-05-12'
+last_seen_date: '3309-05-10'
 mention_count: 5
-bio: Daniel Parry is a prominent figure in the Elite Dangerous universe, active from
-  3309-02-10 to 3309-05-12. Closely associated with Aegis, Federal Navy.
+bio: Daniel Parry is a Rear Admiral in the Federal Navy and the Federal military liaison
+  to Aegis. In 3309, he coordinated Federal involvement in anti-xeno activities and reported
+  on the first pathfinder missions into the Maelstroms.
 ---
 
 
 
-<!-- AUTO-GENERATED -->
-
 # Daniel Parry
 
-First mentioned: **3309-02-10**  
-Last mentioned: **3309-05-12**  
-Total mentions: **5**
-
-## Related
-
-
-## Biography
-
-Daniel Parry is a Federal Navy officer who served in anti-xeno operations during the early 3300s. He was involved in Aegis-affiliated missions against Thargoid forces, participating in combat operations that shaped the Federation's military response to the alien threat. Parry's service illustrates the heavy burden placed on Federal military personnel during the Thargoid conflict, where officers were routinely deployed against an enemy with vastly superior technology and little regard for human life.
+Daniel Parry serves as a Rear Admiral in the Federal Navy and acts as the Federal military liaison to Aegis. In February 3309, he was assigned to this role—a reduced version of the position formerly occupied by Admiral Aden Tanner—as the Federation pledged ships, personnel, and materials to support Aegis's reformation. In May 3309, Parry reported on the first pathfinder missions into the Maelstroms, confirming that armed ships crewed by military and xenology specialists had entered each Maelstrom to gather tactical and environmental data. His reports provided crucial intelligence on Thargoid presence in the core regions of the caustic clouds.

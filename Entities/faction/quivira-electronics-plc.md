@@ -1,42 +1,16 @@
 ---
 id: quivira-electronics-plc
-name: Quivira Electronics Plc
+name: Quivira Electronics PLC
 type: faction
-first_seen_date: '3301-05-01'
-last_seen_date: '3301-05-19'
+first_seen_date: '3301-02-19'
+last_seen_date: '3301-02-19'
 mention_count: 4
-related_entities:
-- peoples-quivira-for-equality-party
-- quivira
-- godel-dock
-- stapledon-dock
-- summerland
-bio: Quivira Electronics Plc is a organization in the Elite Dangerous universe, active
-  from 3301-05-01 to 3301-05-19. Frequently linked with People's Quivira for Equality
-  Party, Quivira, Godel Dock. Senator Denton Patreus officially declared war on Quivira,
-  with thousands of Imperial vessels attacking non-Imperial ships. Imperial Majestic
-  class Interdictors have been spotted entering Quivira, as Patreus intends to drive
-  all Independent influences from the system.
+bio: Quivira Electronics PLC is a corporate faction operating in the Quivira system. It
+  has been involved in electronics manufacturing and trade within the region.
 ---
 
 
 
-<!-- AUTO-GENERATED -->
+# Quivira Electronics PLC
 
-# Quivira Electronics Plc
-
-First mentioned: **3301-05-01**  
-Last mentioned: **3301-05-19**  
-Total mentions: **4**
-
-## Related
-
-- [[People's Quivira for Equality Party]] (4 co-mentions)
-- [[Quivira]] (4 co-mentions)
-- [[Godel Dock]] (4 co-mentions)
-- [[Stapledon Dock]] (2 co-mentions)
-- [[Summerland]] (2 co-mentions)
-
-## Biography
-
-*[To be enriched]*
+Quivira Electronics PLC is a corporate faction based in the Quivira system, specialising in electronics manufacturing and technology trade. The company has been a significant local employer and economic driver, producing components used in various industries across the region. Like many corporate entities in contested systems, Quivira Electronics has had to navigate the complex political landscape of frontier space, maintaining operations amid shifting power dynamics between independent factions and superpower-aligned forces.

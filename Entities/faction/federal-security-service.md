@@ -11,17 +11,10 @@ related_entities:
 - mars-tribune
 - alliance
 - achilles-corporation
-bio: 'Federal Security Service is a organization active in Elite Dangerous lore from
-  3301-08-21 to 3308-03-25. Frequently associated with Mars, Federal Times, Mars Tribune.
-  Key activities include: Weekly summary covering Gibson Kincaid''s re-election as
-  Alliance President, the foiled raid on Ram Tah''s Phoenix Base, the FSS targeting
-  The Mars T...; Weekly summary covering the Alliance Assembly''s decision to create
-  the Office of the Alliance President without executive powers, Sirius Corporatio...'
+bio: The Federal Security Service is the Federation's domestic intelligence agency,
+  responsible for counter-terrorism, internal surveillance and protecting Federal institutions
+  from subversion.
 ---
-
-
-
-<!-- AUTO-GENERATED -->
 
 # Federal Security Service
 

@@ -3,54 +3,30 @@ id: etain
 name: Etain
 type: location
 first_seen_date: '3304-11-28'
-last_seen_date: '3307-07-19'
+last_seen_date: '3305-03-23'
 mention_count: 5
-related_entities:
-- far-god-cult
-- achilles-corporation
-- aegis
-- sirius-corporation
-- meene
 coords:
-  x: 12.5
-  y: 35.03125
-  z: -37.1875
-allegiance: Independent
-government: Dictatorship
-controlling_faction: Civitas Dei
-population: 109265
-security: Low
-economy: Colony
-second_economy: High Tech
-edsm_url: https://www.edsm.net/en/system/id/12251/name/Etain
+  x: 22.65625
+  y: 16.25
+  z: 9.125
+allegiance: Federation
+government: Corporate
+controlling_faction: Etain Blue Crew
+population: 5239610
+security: Medium
+economy: Refinery
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system/id/12920/name/Etain
 inara_url: https://inara.cz/elite/starsystem/?search=Etain
-bio: Etain is a star system in the Elite Dangerous universe, significant from 3304-11-28
-  to 3307-07-19. Associated with Far God cult, Achilles Corporation, Aegis. Exotheologian
-  Dr Alfred Ulyanov discusses abandoned Far God outposts discovered in the Etain system.
-  Evidence indicates both Etain 4a and 4c settlements were attacked, but whether by
-  Thargoids or humans remains unclear.
+bio: Etain is a Federal system that became notable for abandoned Far God cult outposts
+  discovered on Etain 4a and 4c. Exotheologian Dr Alfred Ulyanov studied the sites and
+  suggested sect members had fled to secret outposts and entered suspended animation to
+  await the Far God's arrival. Evidence indicated both settlements were attacked, but
+  no trace of inhabitants remained.
 ---
 
 
 
-<!-- AUTO-GENERATED -->
-
 # Etain
 
-First mentioned: **3304-11-28**  
-Last mentioned: **3307-07-19**  
-Total mentions: **5**
-
-## Related
-
-- [[Far God cult]] (2 co-mentions)
-- [[Achilles Corporation]] (2 co-mentions)
-- [[Aegis]] (1 co-mentions)
-- [[Sirius Corporation]] (1 co-mentions)
-- [[Meene]] (1 co-mentions)
-
-## Description
-
-Etain is a small independent colony system that became significant for its connection to the Far God cult. In 3304, exotheologian Dr Alfred Ulyanov discovered abandoned Far God outposts on Etain 4a and 4c, including void-temples where cultists had willingly entombed themselves in suspended animation to await the Far God's arrival.
-
-The settlements showed signs of attack, though whether by Thargoids or human forces remains unresolved. The FIA later scanned the abandoned base with customised military sensors as part of a search for a missing undercover agent who had infiltrated the cult. Etain's association with the Far God cult provides rare physical evidence of the sect's practices, offering insight into the psychology of devotees who embraced extinction as a form of transcendence.
+Etain is a Federal system controlled by the Etain Blue Crew, with a refinery and extraction economy supporting a population of over five million. The system gained galactic attention in late 3304 when explorers discovered abandoned Far God cult outposts on Etain 4a and 4c. Exotheologian Dr Alfred Ulyanov studied the sites and concluded that missing sect members had fled to these secret outposts to enter suspended animation, awaiting the Far God's arrival. Personal logs revealed surprising details about what motivated individuals to devote themselves to the faith. Evidence suggested both settlements came under attack, though whether by Thargoids or human forces remained unclear. Mysteriously, no trace of the inhabitants remained.

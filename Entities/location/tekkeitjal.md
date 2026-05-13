@@ -3,51 +3,27 @@ id: tekkeitjal
 name: Tekkeitjal
 type: location
 first_seen_date: '3308-09-12'
-last_seen_date: '3308-09-30'
+last_seen_date: '3309-10-23'
 mention_count: 5
-related_entities:
-- 42-n-persei
-- chun-pindit
-- hip-22460
-- pilots-federation
-- benningtons-rest
 coords:
-  x: 76.5625
-  y: 9.34375
-  z: -183.4375
-allegiance: Independent
+  x: -67.15625
+  y: -7.9375
+  z: 28.84375
+allegiance: Alliance
 government: Corporate
-controlling_faction: Indigo Technologies
-population: 1024237
-security: Low
-economy: Industrial
-second_economy: None
-edsm_url: https://www.edsm.net/en/system/id/7087/name/Tekkeitjal
+controlling_faction: Tekkeitjal Raiders
+population: 3456000
+security: Medium
+economy: Agriculture
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system/id/23616/name/Tekkeitjal
 inara_url: https://inara.cz/elite/starsystem/?search=Tekkeitjal
-bio: Tekkeitjal is a star system in the Elite Dangerous universe, significant from
-  3308-09-12 to 3308-09-30.
+bio: Tekkeitjal is an Alliance system that came under Thargoid invasion in 3308. The system
+  was later involved in Thargoid abduction operations, with captives taken from the population.
 ---
 
 
 
-<!-- AUTO-GENERATED -->
-
 # Tekkeitjal
 
-First mentioned: **3308-09-12**  
-Last mentioned: **3308-09-30**  
-Total mentions: **5**
-
-## Related
-
-- [[42 n Persei]] (5 co-mentions)
-- [[Chun Pindit]] (5 co-mentions)
-- [[HIP 22460]] (4 co-mentions)
-- [[Pilots Federation]] (2 co-mentions)
-- [[Bennington's Rest]] (2 co-mentions)
-
-## Description
-
-Tekkeitjal is an independent industrial system with a population of over one million that was among the first inhabited systems invaded by Thargoid forces following the Proteus Wave incident in 3308. The system, governed by the Tekkeitjal Public Corporation, had no formal navy and was forced to rely on independent pilots and volunteer AX squadrons for its defence.
-
-The Thargoid incursion into Tekkeitjal was notable for its tactical differences from previous attacks: no starports were directly bombarded, suggesting a strategic evolution in Thargoid warfare. After seventeen days of combat, the Thargoids withdrew — whether defeated or making a tactical retreat remains debated. The Battle of Tekkeitjal demonstrated both the vulnerability of independent systems to alien invasion and the critical role that independent pilots play in galactic defence.
+Tekkeitjal is an Alliance agricultural system controlled by the Tekkeitjal Raiders, with a population of over three million. The system came under Thargoid invasion in late 3308 as part of the broader Titan War. Tekkeitjal was among the systems where Thargoid forces abducted human captives, storing them in bio-storage capsules aboard Titan motherships. The system's agricultural economy made it particularly vulnerable to Thargoid caustic environments, and its recovery required significant humanitarian and military support from Alliance and independent forces.

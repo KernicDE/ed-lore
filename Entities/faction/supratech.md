@@ -11,17 +11,9 @@ related_entities:
 - federal-security-service
 - federal-times
 - federal-intelligence-agency
-bio: 'Supratech is a organization active in Elite Dangerous lore from 3304-08-17 to
-  3312-03-03. Frequently associated with Herculean Machines, Alliance. Key activities
-  include: Weekly summary covering the appearance of Thargoid Hydra vessels in the
-  Pleiades Nebula and core systems, Aegis Core''s relocation from Socho to Sol...;
-  Weekly summary covering the Alliance Assembly''s agreement to vote on Kincaid''s
-  constitutional changes, the fire destroying Supratech''s facility, in...'
+bio: Supratech is a computer technology company that developed the Torc holographic
+  personal computer, which malfunctioned catastrophically at the Rackham Ultratech Expo.
 ---
-
-
-
-<!-- AUTO-GENERATED -->
 
 # Supratech
 

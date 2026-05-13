@@ -2,29 +2,17 @@
 id: farragut-battle-cruiser
 name: Farragut Battle Cruiser
 type: technology
-first_seen_date: '3302-06-18'
-last_seen_date: '3302-07-02'
+first_seen_date: '3301-04-02'
+last_seen_date: '3309-05-18'
 mention_count: 4
-bio: Farragut Battle Cruiser is a technology in the Elite Dangerous universe, mentioned
-  from 3302-06-18 to 3302-07-02. Developed or used by Dr. Arcanonn, Canonn Interstellar
-  Research Group, Admiral Maxton Price.
+bio: The Farragut-class Battle Cruiser is the primary capital ship of the Federal Navy.
+  Massive and heavily armed, these vessels serve as flagships for Federal fleets and are
+  capable of deploying fighter squadrons. They represent the pinnacle of Federal military
+  engineering.
 ---
 
 
 
-<!-- AUTO-GENERATED -->
-
 # Farragut Battle Cruiser
 
-First mentioned: **3302-06-18**  
-Last mentioned: **3302-07-02**  
-Total mentions: **4**
-
-## Related
-
-
-## Biography
-
-The Farragut-class Battle Cruiser is the Federation's primary capital ship, serving as the backbone of the Federal Navy's fleet. These massive vessels combine heavy armour, extensive fighter bays and formidable long-range weaponry, making them among the most powerful warships in human space. Farraguts are typically deployed as fleet command vessels during major military operations.
-
-In 3302, Admiral Maxton Price commanded Farragut-class cruisers during Federal operations, demonstrating their role in projecting Federal military power. During the Thargoid war, Farraguts were retrofitted with specialist anti-xeno weaponry and deployed to contested systems. Their presence in a combat zone signals a significant escalation in Federal military commitment.
+The Farragut-class Battle Cruiser is the Federal Navy's primary capital ship and the largest vessel in its fleet. These massive warships serve as fleet flagships, capable of deploying squadrons of F63 Condor fighters and unleashing devastating broadsides. Their presence in a system signals serious Federal military commitment. Farraguts have been deployed in major conflicts including the fight against Thargoid forces and various system liberation campaigns. Despite their firepower, they have proven vulnerable to concentrated Thargoid attack, with several lost during the Titan War.

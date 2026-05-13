@@ -1,64 +1,49 @@
 ---
 id: thargoid-contact
 name: Thargoid Contact
-first_seen_date: '3302-01-15'
-last_seen_date: '3309-08-14'
-mention_count: 196
-significance: critical
+type: arc
+start_date: '3301-05-04'
+end_date: null
+article_count: 45
 key_entities:
-- aegis
-- federation
-- alliance
-- pilots-federation
-- empire
-description: The Second Thargoid Contact arc encompasses humanity's rediscovery of
-  the Thargoids in the 34th century, beginning with mysterious barnacle formations
-  in the Pleiades Nebula and escalating to full-scale interstellar war. Unlike the
-  First Thargoid War (3125–3151), which was suppressed and largely forgotten, the
-  Second Contact unfolded in an era of mass communication and independent pilot networks,
-  making it impossible for governments to control the narrative. The arc traces the
-  evolution from scientific curiosity to military crisis, the formation of Aegis as
-  a tri-superpower response, and the eventual recognition that humanity faced a technologically
-  superior species with unclear but clearly hostile intentions.
-summary: Humanity's rediscovery of the Thargoids in the 34th century, from barnacle
-  discoveries in the Pleiades to full-scale interstellar war, marking the beginning
-  of the Second Thargoid War.
-status: Escalated to War
-outcome: Initial scientific curiosity escalated into full-scale war. The Thargoids
-  proved to be a technologically superior hostile species with the capacity for systematic
-  destruction of human infrastructure.
+- Thargoid
+- Canonn Interstellar Research Group
+- Professor Ishmael Palin
+- Aegis
+- Unknown Artefacts
+- Barnacles
+description: Humanity's first encounters with the Thargoids in the 33rd century, from
+  the discovery of Unknown Artefacts and barnacles to the confirmation of Thargoid identity
+  and the beginning of active hostilities.
 phases:
-- Initial events (3302-01-15)
-- Escalation (3304-02-16)
-- Resolution (3309-08-14)
+- 'Phase 1: Harbingers (3301-05-04)'
+- 'Phase 2: Barnacles (3302-01-15)'
+- 'Phase 3: The Return (3303-06-17)'
+summary: The progressive revelation of Thargoid presence, from mysterious artefacts
+  and barnacles to open confirmation of alien ships and the beginning of active hostilities.
+status: Ongoing
+outcome: Thargoid identity was confirmed. Active hostilities began. Aegis was formed
+  to coordinate research and defense.
+significance: high
 ---
 
 
 
-<!-- AUTO-GENERATED -->
-
 # Thargoid Contact
 
-First seen: **3302-01-15**  
-Last seen: **3309-08-14**  
-Articles: **196**
+## Summary
+Humanity's first contact with the Thargoids in the 33rd century was not a sudden event but a gradual revelation spanning years. It began with mysterious Unknown Artefacts recovered from Federal Navy convoys in 3301, continued with the discovery of alien barnacles in the Pleiades Nebula in 3302, and culminated in June 3303 when Professor Ishmael Palin conclusively identified the so-called "Unknown Ships" as Thargoid vessels. By then, the Thargoids had already been among us—mapping our infrastructure, growing their structures in our nebulae, and preparing for a conflict that would reshape galactic civilization.
 
-## Key Figures
+## Phases
 
-- [[Aegis]] (93 mentions)
-- [[Federation]] (30 mentions)
-- [[Alliance]] (27 mentions)
-- [[Pilots Federation]] (23 mentions)
-- [[Empire]] (21 mentions)
+### Phase 1: Harbingers (3301-05-04)
+The first signs of Thargoid presence came not as ships but as artefacts. Unknown Artefacts—later identified as Thargoid probes—began appearing in Federal Navy convoys. The Canonn Interstellar Research Group, led by Dr Arcanonn, discovered that these objects emitted Morse code signals identifying nearby celestial bodies and caused progressive equipment malfunctions. The market value of Unknown Artefacts spiked as someone unknown began paying heavily for them. These were not random encounters; the artefacts were scouts, mapping human territory in preparation for something larger.
 
-## Description
+### Phase 2: Barnacles (3302-01-15)
+The discovery of barnacle structures on Merope 5c in the Pleiades Nebula confirmed that Thargoid activity was not limited to probes. These organic-mechanical structures produced meta-alloys and emitted sounds similar to Unknown Artefacts. The superpowers scrambled to control access, with the Federation deploying battle cruisers and the Empire launching exploration campaigns. The barnacles represented something more disturbing than mere reconnaissance—they were installations, suggesting the Thargoids considered the Pleiades their territory.
 
-The Thargoid Contact arc covers humanity's rediscovery of the Thargoids in the 34th century — the opening phase of the Second Thargoid War. It began with the discovery of organic barnacle structures in the Pleiades Nebula and escalated through hyperdictions, station attacks, and full-scale incursions into the Core Systems. The arc transformed the Thargoids from an obscure legend into an existential threat and drove the formation of Aegis, the first tri-superpower defence organisation in human history.
+### Phase 3: The Return (3303-06-17)
+Professor Ishmael Palin compared data from Unknown Ships with historical Thargoid samples and reached a conclusive identification: the Unknown Ships were Thargoid vessels. Federal agents seized his data, but their transport ship was attacked by Thargoids en route, and the information entered the public domain. Kelvin Masters captured the public mood: "Look at the history books. Every time we've met the Thargoids, there's bloodshed." The superpowers formed Aegis to coordinate research and defence, but the Thargoids had already established a presence that human forces struggled to dislodge.
 
-## Narrative
-
-By the 34th century, the Thargoids had been relegated to urban legend after the First Thargoid War (3125–3151) was suppressed by INRA. That changed in 3302, when independent pilots discovered organic barnacle structures in the Pleiades Nebula producing meta-alloys. What began as scientific curiosity escalated rapidly when pilots encountered flower-like vessels that could pull ships from hyperspace and disable their systems.
-
-The superpowers struggled to coordinate their response. While the Federation and Empire dispatched warships, the Alliance pushed for scientific cooperation. In 3303, Thargoid vessels began attacking ships outright and devastating stations with caustic weaponry. The formation of Aegis in August 3303 represented unprecedented tri-superpower cooperation, but proved insufficient against Thargoid technology far beyond human capabilities.
-
-By 3304, the conflict had spread into the Core Systems, forcing mass evacuations and revealing abandoned INRA bases that showed humanity had previously defeated the Thargoids using a biological weapon called mycoid. The Contact arc established the fundamental parameters of the Second Thargoid War: humanity was fighting a species it barely understood, with technology it could not match, and with political institutions ill-suited to existential crisis.
+## Modern Relevance
+Thargoid Contact redefined humanity's place in the galaxy. The gradual nature of the revelation—probes, then barnacles, then ships—suggests a deliberate escalation rather than accidental encounter. Whether the Thargoids are acting out of territorial defense, resource extraction, or something else entirely remains debated. What is clear is that humanity was not prepared for contact with a technologically superior civilization, and the scramble to develop countermeasures continues to drive galactic politics, research, and military spending.

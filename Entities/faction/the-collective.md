@@ -11,17 +11,10 @@ related_entities:
 - alliance
 - federal-security-service
 - mars-tribune
-bio: The Collective is a organization in the Elite Dangerous universe, active from
-  3304-10-18 to 3304-10-27. Frequently linked with Rackham Capital Investments, Federal
-  Times, Cordova Group. Technology journalist Harlow Nassry publishes an article in
-  The Federal Times about The Collective, a mysterious criminal group of anti-authority
-  hacktivists. The Collective has no spokespersons or apparent leaders, making investigation
-  difficult.
+bio: The Collective is a mysterious group of anti-authority hacktivists active in
+  3304. They believe all information should be publicly available and have no spokespersons
+  or apparent leaders, making them nearly impossible to investigate.
 ---
-
-
-
-<!-- AUTO-GENERATED -->
 
 # The Collective
 
@@ -39,4 +32,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+The Collective is a group of anti-authority hacktivists who believe that all information should be publicly available. Active in 3304, they gained notoriety for the theft of one billion credits from billionaire Zachary Rackham's personal account, which they redistributed to former employees denied pensions.
+
+The group has no spokespersons or apparent leaders, making investigation exceptionally difficult. As anarchists, they delight in flouting the law while keeping their own identities secret. Some view them as irresponsible criminals, others as modern-day Robin Hoods. Their existence underscores the vulnerability of even the wealthiest individuals to determined cyberattack.

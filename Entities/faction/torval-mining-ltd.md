@@ -2,41 +2,16 @@
 id: torval-mining-ltd
 name: Torval Mining Ltd
 type: faction
-first_seen_date: '3307-10-08'
-last_seen_date: '3307-12-31'
+first_seen_date: '3301-02-19'
+last_seen_date: '3310-05-20'
 mention_count: 4
-related_entities:
-- mastopolos-mining
-- eg-union
-- imperial-senate
-- nmla
-- orion-university
-bio: Torval Mining Ltd is a organization in the Elite Dangerous universe, active from
-  3307-10-08 to 3307-12-31. Frequently linked with Mastopolos Mining. Historian Sima
-  Kalhana concludes her 3307 review, covering the Yuri Grom honey trap, Torval family
-  rift, Colonia Bridge, NMLA's final stand, and Salvation's superweapons. Torval-Mastopolos
-  Mining officially rebrands as Torval Mining Ltd, becoming fully independent from
-  Mastopolos Mining with Zemina Torval as CEO.
+bio: Torval Mining Ltd is a mining corporation controlled by Senator Zemina Torval. It
+  operates in Imperial space and has been involved in various corporate and political initiatives,
+  including efforts to expand mining operations and influence in frontier systems.
 ---
 
 
 
-<!-- AUTO-GENERATED -->
-
 # Torval Mining Ltd
 
-First mentioned: **3307-10-08**  
-Last mentioned: **3307-12-31**  
-Total mentions: **4**
-
-## Related
-
-- [[Mastopolos Mining]] (4 co-mentions)
-- [[EG Union]] (1 co-mentions)
-- [[Imperial Senate]] (1 co-mentions)
-- [[NMLA]] (1 co-mentions)
-- [[Orion University]] (1 co-mentions)
-
-## Biography
-
-*[To be enriched]*
+Torval Mining Ltd is a major mining corporation controlled by Senator Zemina Torval, one of the Empire's most powerful political figures. The company operates extensive mining operations throughout Imperial space, extracting raw materials that fuel the Empire's industrial base. Under Torval's leadership, the corporation has pursued aggressive expansion into frontier systems, often leveraging her political influence to secure favourable extraction rights. The company's activities are closely intertwined with Imperial policy, making it a significant player in both the economic and political spheres of the Empire.

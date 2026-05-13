@@ -11,17 +11,11 @@ related_entities:
 - beaumont-dock
 - synuefai-lx-r-d5-28
 - bd22-4939
-bio: Spinward Marches Alliance Concern is a organization in the Elite Dangerous universe,
-  active from 3302-04-28 to 3303-11-17. Frequently linked with Alliance, Morrina system,
-  Beaumont Dock. The Spinward Marches Alliance Concern's humanitarian campaign for
-  the Morrina system concludes successfully. Senior operative Saool Aledon stated
-  they want to leverage their expertise to support Alliance operations far from the
-  core systems.
+bio: The Spinward Marches Alliance Concern is an Alliance-aligned humanitarian organisation.
+  In 3302 it led a successful relief campaign for the Morrina system following criminal
+  gang activity and civil unrest, and later supported Alliance exploration outposts
+  in the California Nebula.
 ---
-
-
-
-<!-- AUTO-GENERATED -->
 
 # Spinward Marches Alliance Concern
 
@@ -39,4 +33,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+The Spinward Marches Alliance Concern is an Alliance-aligned humanitarian organisation that specialises in post-conflict relief and infrastructure restoration. In 3302, it launched a major appeal for the Morrina system after criminal gangs and civil unrest left citizens without water and power. Commanders Saool and Dennehy coordinated the effort, which successfully delivered medicines, water purifiers and power generators to Beaumont Dock.
+
+Following the Morrina campaign, the organisation expressed ambitions to support Alliance operations far from the core systems, including terraforming Morrina 4 and establishing exploration outposts deep in the Orion Arm. Its work exemplifies how Alliance-affiliated groups extend humanitarian aid beyond traditional military and political boundaries.

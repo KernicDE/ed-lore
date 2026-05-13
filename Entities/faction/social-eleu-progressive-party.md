@@ -2,40 +2,17 @@
 id: social-eleu-progressive-party
 name: Social Eleu Progressive Party
 type: faction
-first_seen_date: '3302-06-02'
-last_seen_date: '3302-07-07'
+first_seen_date: '3301-07-14'
+last_seen_date: '3301-08-06'
 mention_count: 4
-related_entities:
-- border-coalition
-- galcop
-- alliance-elite-diplomatic-corps
-- interstellar-communist-union
-- the-sovereign
-bio: Social Eleu Progressive Party is a organization in the Elite Dangerous universe,
-  active from 3302-06-02 to 3302-07-07. Frequently linked with Border Coalition, GalCop,
-  Interstellar Communist Union. The Border Coalition has unanimously decided to back
-  the Social Eleu Progressive Party in the Rise to Power campaign after an emergency
-  meeting at Iren's Dock.
+bio: The Social Eleu Progressive Party is the controlling faction of the 20 Ophiuchi system.
+  During the Cerberus Plague outbreak in 3301, the system was one of those affected by
+  isolated incidents believed to be travellers from BD-02 4304 before restrictions were
+  imposed.
 ---
 
 
 
-<!-- AUTO-GENERATED -->
-
 # Social Eleu Progressive Party
 
-First mentioned: **3302-06-02**  
-Last mentioned: **3302-07-07**  
-Total mentions: **4**
-
-## Related
-
-- [[Border Coalition]] (4 co-mentions)
-- [[GalCop]] (4 co-mentions)
-- [[Alliance Elite Diplomatic Corps]] (3 co-mentions)
-- [[Interstellar Communist Union]] (3 co-mentions)
-- [[The Sovereign]] (3 co-mentions)
-
-## Biography
-
-*[To be enriched]*
+The Social Eleu Progressive Party controls the 20 Ophiuchi system, an independent system with an industrial and refinery economy. In July 3301, the system was one of several—including Dajoar and Eleu—that reported isolated Cerberus Plague incidents. Chief Medical Officer Carl Simmons of Newton Dock believed these cases were travellers from BD-02 4304 who had managed to leave before quarantine restrictions were imposed. The Social Eleu Progressive Party coordinated with regional authorities to initiate containment operations and called on independent pilots to help prevent the isolated cases from developing into full outbreaks.

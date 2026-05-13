@@ -1,29 +1,18 @@
 ---
 id: signal-beacon
-name: Signal beacon
+name: Signal Beacon
 type: technology
-first_seen_date: '3307-05-07'
-last_seen_date: '3307-07-09'
+first_seen_date: '3307-04-01'
+last_seen_date: '3307-10-18'
 mention_count: 4
-bio: Signal beacon is a technology in the Elite Dangerous universe, mentioned from
-  3307-05-07 to 3307-07-09. Developed or used by Azimuth Biochemicals, Pilots Federation.
-  Commander Tyler Thorsen describes receiving a request to locate old signal beacons
-  that could help find survivors from the megaship.
+bio: Signal beacons are devices that emit electromagnetic signals for detection and location.
+  In the Hesperus mystery, Salvation directed pilots to track ancient signal beacons deployed
+  by the megaship, which ultimately led to the discovery of the Proteus at a Guardian-Thargoid
+  battlefield.
 ---
 
 
 
-<!-- AUTO-GENERATED -->
+# Signal Beacon
 
-# Signal beacon
-
-First mentioned: **3307-05-07**  
-Last mentioned: **3307-07-09**  
-Total mentions: **4**
-
-## Related
-
-
-## Biography
-
-*[To be enriched]*
+Signal beacons are electromagnetic transmission devices used to mark locations, relay information, or guide navigation. In the context of the Hesperus mystery, ancient signal beacons deployed by the megaship nearly 200 years ago became the key to unlocking the case. The anonymous figure Salvation provided instructions that allowed pilots to track these beacons across systems, following a trail that ultimately led to the discovery of the Proteus Anaconda at a Guardian-Thargoid battlefield. The beacons demonstrated remarkable longevity, continuing to transmit after two centuries of exposure to space, and their sequential deployment suggested a deliberate effort to document the Hesperus's final voyage.

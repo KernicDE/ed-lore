@@ -9,17 +9,11 @@ related_entities:
 - zlota
 - children-of-tothos
 - federal-intelligence-agency
-bio: Zlota Federal Holdings is a organization in the Elite Dangerous universe, active
-  from 3304-12-06 to 3305-03-01. Frequently linked with Zlota, Children of Tothos,
-  Federal Intelligence Agency. The Children of Tothos, an obscure cult led by Barnabas
-  Cole in the Zlota system, requests rare commodities for an arcane ceremony. The
-  rare commodity delivery initiative for the Children of Tothos cult in the Zlota
-  system concludes successfully.
+bio: Zlota Federal Holdings is a corporate entity in the Zlota system with alleged
+  connections to the Children of Tothos cult. In 3304–3305 the FIA discovered that
+  its executives had covertly redirected public funds to finance illegal nuclear weapons
+  research, including the Lucifer Device.
 ---
-
-
-
-<!-- AUTO-GENERATED -->
 
 # Zlota Federal Holdings
 
@@ -35,4 +29,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Zlota Federal Holdings is a corporate entity in the Zlota system with suspected connections to the Children of Tothos cult. In late 3304, the company requested rare commodities including Aganippe Rush, Motrona Experience Jelly and Onion Head for what was described as an arcane ceremony.
+
+In 3305, Federal Intelligence Agency Senior Agent Rochelle Karim revealed that Zlota Federal Holdings executives had been covertly redirecting public funds to finance illegal nuclear weapons research. The FIA suspected that one executive arranged the theft of the prototype Lucifer Device to sell on the black market. The case exposed how corrupt corporate officials could fund weapons of mass destruction using public money.

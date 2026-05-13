@@ -2,28 +2,17 @@
 id: timothy-culver
 name: Timothy Culver
 type: person
-first_seen_date: '3308-09-14'
-last_seen_date: '3309-08-17'
+first_seen_date: '3309-02-07'
+last_seen_date: '3309-05-18'
 mention_count: 5
-bio: Timothy Culver is a diplomat in the Elite Dangerous universe, active from 3308-09-14
-  to 3309-08-17. Closely associated with The Sovereign. Xeno-peace activist Timothy
-  Culver argues that Thargoid incursions are defensive reprisals for the Proteus Wave
-  and mycoid bioweapon, calling for diplomatic dialogue rather than military action.
+bio: Timothy Culver is a peace activist who has criticised superpower leadership for their
+  handling of the Thargoid conflict. He has spoken at rallies arguing that humanity's aggressive
+  stance toward the Thargoids is counterproductive and that diplomatic alternatives should
+  be pursued.
 ---
 
 
 
-<!-- AUTO-GENERATED -->
-
 # Timothy Culver
 
-First mentioned: **3308-09-14**  
-Last mentioned: **3309-08-17**  
-Total mentions: **5**
-
-## Related
-
-
-## Biography
-
-Timothy Culver is a prominent xeno-peace activist and diplomat who argues that Thargoid incursions into human space are defensive reprisals rather than unprovoked aggression. He cites the Proteus Wave and the mycoid bioweapon as historical provocations that justify Thargoid hostility, advocating for diplomatic dialogue and de-escalation rather than military confrontation. Culver's position places him at odds with both Federal and Imperial military establishments, as well as with Aegis's more militant factions. His activism represents a minority but vocal perspective in galactic politics — one that challenges the prevailing narrative of Thargoids as irredeemable enemies and calls for a fundamentally different approach to interspecies relations.
+Timothy Culver is a prominent peace activist who has become a vocal critic of superpower military policy toward the Thargoids. In early 3309, he spoke at rallies blaming leaders for escalating the Thargoid war, arguing that humanity's aggressive stance was counterproductive. Culver has advocated for diplomatic alternatives to military confrontation, challenging the consensus that the Thargoids are an existential threat that can only be met with force. His activism has drawn both support from those weary of the war and criticism from those who view his position as naive in the face of proven Thargoid hostility.

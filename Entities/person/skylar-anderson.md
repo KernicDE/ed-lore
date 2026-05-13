@@ -5,13 +5,9 @@ type: person
 first_seen_date: '3309-01-31'
 last_seen_date: '3309-09-07'
 mention_count: 5
-bio: Skylar Anderson is a emperor in the Elite Dangerous universe, active from 3309-01-31
-  to 3309-09-07. Closely associated with Aegis.
+bio: Skylar Anderson is an Imperial Navy Vice Admiral who served as the Empire's military
+  liaison to Aegis during the Thargoid Titan War.
 ---
-
-
-
-<!-- AUTO-GENERATED -->
 
 # Skylar Anderson
 

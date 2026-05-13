@@ -11,16 +11,9 @@ related_entities:
 - alliance
 - kumo-crew
 - allied-medical-industries
-bio: 'Neomedical Industries is a organization active in Elite Dangerous lore from
-  3304-12-05 to 3307-09-16. Frequently associated with Vandermeer Corporation, Vitadyne
-  Labs, Kumo Crew. Key activities include: The blight pathogen mutates into a self-sufficient
-  form capable of surviving without the fertiliser.; The IAA, Rockforth, Vandermeer
-  and Neomedical develop an agronomic treatment that reverses the blight''s effects.'
+bio: Neomedical Industries is an Alliance pharmaceutical corporation that competed
+  for Vitadyne nanomedicine licences and contributed to the blight cure.
 ---
-
-
-
-<!-- AUTO-GENERATED -->
 
 # Neomedical Industries
 

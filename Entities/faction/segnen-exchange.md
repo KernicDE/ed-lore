@@ -2,38 +2,17 @@
 id: segnen-exchange
 name: Segnen Exchange
 type: faction
-first_seen_date: '3305-05-09'
+first_seen_date: '3305-05-23'
 last_seen_date: '3305-05-30'
 mention_count: 4
-related_entities:
-- zende-partners
-- synuefe-en-h-d11-96
-- zende
-bio: Segnen Exchange is a organization in the Elite Dangerous universe, active from
-  3305-05-09 to 3305-05-30. Frequently linked with Zende Partners, Synuefe EN-H d11-96,
-  Zende. Zende Partners defeats Segnen Exchange's expansion attempt in Synuefe EN-H
-  d11-96, securing control of both outposts and beginning manufacture of the Advanced
-  Multi-cannon at The Prospect. Segnen Exchange announces plans to build Indigo Dock
-  in Synuefe EN-H d11-96, positioning itself as a rival to Zende Partners in the burgeoning
-  Guardian technology research market.
+bio: Segnen Exchange is a corporation that clashed with Zende Partners in Synuefe EN-H
+  d11-96 over control of Guardian commodity trade. CEO Cedrik Stone accused Zende of attempting
+  to monopolise Guardian commodities and asked independent pilots to support Segnen Exchange
+  vessels while his company developed an Advanced Dumbfire Launcher.
 ---
 
 
 
-<!-- AUTO-GENERATED -->
-
 # Segnen Exchange
 
-First mentioned: **3305-05-09**  
-Last mentioned: **3305-05-30**  
-Total mentions: **4**
-
-## Related
-
-- [[Zende Partners]] (4 co-mentions)
-- [[Synuefe EN-H d11-96]] (4 co-mentions)
-- [[Zende]] (1 co-mentions)
-
-## Biography
-
-*[To be enriched]*
+Segnen Exchange is a corporate entity that competed with Zende Partners for control of Guardian commodity trade in Synuefe EN-H d11-96. In May 3305, CEO Cedrik Stone accused Zende Partners of attempting to monopolise the Guardian commodities market, suggesting this was the true reason for violent resistance to Zende's operation. Stone framed Segnen's military response as "appropriate self-defence" and appealed to independent pilots to support his company's vessels. Segnen Exchange established Indigo Dock as its base of operations and sought to complete development of an Advanced Dumbfire Launcher derived from Guardian-human hybrid technology. The conflict demonstrated how corporate competition over alien resources could escalate into open warfare.
