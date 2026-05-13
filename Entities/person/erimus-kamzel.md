@@ -24,4 +24,4 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Erimus Kamzel is a legendary explorer and community leader famous for organising the Distant Worlds expeditions — the largest collaborative exploration events in galactic history. Kamzel's leadership brought thousands of independent pilots together to journey to the far reaches of the galaxy, establishing waypoints and infrastructure that transformed deep-space exploration from a solitary activity into a mass community event.

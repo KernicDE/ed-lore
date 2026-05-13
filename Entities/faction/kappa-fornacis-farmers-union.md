@@ -38,4 +38,4 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+The Kappa Fornacis Farmers Union is an agricultural collective based in the Kappa Fornacis system, best known as the original cultivators of onionhead — the psychoactive crop that became one of the galaxy's most controversial and lucrative narcotics. In 3301, the union resumed onionhead sales at Harvestport around Panem after a period of suppression, attracting thousands of traders back to the system. Their defiance of Federal prohibition established Kappa Fornacis as the spiritual home of onionhead production and made the Farmers Union a symbol of agricultural independence versus federal drug policy.

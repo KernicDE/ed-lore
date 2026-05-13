@@ -38,4 +38,4 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+The Merchant Marines is a paramilitary trading organisation that operates armed convoys to protect commercial shipping in high-risk regions. In 3301–3302, the group was active in systems affected by the technological plague, helping to maintain supply lines when starport malfunctions disrupted normal trade routes. The Merchant Marines represent a class of independent security-for-hire organisations that fill the gap between corporate security and naval protection, offering armed escorts to traders who cannot afford Federal or Imperial military convoys.

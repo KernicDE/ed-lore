@@ -38,4 +38,6 @@ Total mentions: **5**
 
 ## Biography
 
-*[To be enriched]*
+The Pegasi Sentinel is a newsfeed that serves as the primary media outlet for the Kumo Crew syndicate and the broader Pegasi Sector. It publishes reports on Kumo Crew activities, often presenting the pirate organisation's actions in a favourable light while downplaying their criminal nature.
+
+In 3309, the Sentinel reported on the Kumo Crew's defence of the California Nebula against Thargoid invaders, noting that 'there can be no doubt that Archon Delaine takes the security of the California Nebula seriously.' The newsfeed also covered the syndicate's starport construction campaigns and internal power struggles. As a propaganda organ for the Kumo Crew, the Pegasi Sentinel illustrates how even criminal organisations maintain sophisticated media operations to shape public perception of their activities.

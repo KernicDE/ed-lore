@@ -37,4 +37,4 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Onnes Gateway is a starport in the LFT 37 system that was affected by the technological plague of 3302, when Unknown Artefact interference disabled station systems across inhabited space. The station was among those restored to full operational status after the crisis. The starport also gained attention when the Paladin Consortium liberated Imperial slaves there, though bureaucratic delays prevented the freed individuals from legally obtaining housing or employment — highlighting the gap between humanitarian ideals and bureaucratic reality in Federal systems.

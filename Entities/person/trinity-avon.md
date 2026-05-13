@@ -25,4 +25,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Trinity Avon established herself as one of *The Sovereign*'s most visible reporters during the Dangerous Games of 3302, a semi-official competition that determined which rising faction would join the galaxy's major powers. When five established factions — the Alliance Elite Diplomatic Corps, Border Coalition, GalCop, Interstellar Communist Union, and Social Eleu Progressive Party — announced they would compete for official recognition, Avon broke the story and explained how smaller factions could fight their way into the contest through a series of Wildcard events.
+
+Her reporting followed the competition through its conclusion, including the EG Pilots' surprise victory in the Wildcard and their subsequent entry into the main tournament. Avon's commentary captured the drama of an unprecedented political experiment: 'Each faction has enjoyed its share of success, but ultimately there could be only one winner.' Her coverage demonstrated how independent media could shape public understanding of emerging power structures long before the superpowers acknowledged their significance.

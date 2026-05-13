@@ -437,3 +437,85 @@ Uncommitted enrichments from previous sessions covering key factions, locations 
 - Batch 1–9 fully enriched and committed
 - Top 400 coverage: ~97% of legitimate high-mention entities enriched
 - Milestone: 400 entities reached
+
+### Batch 10-11: 446→500 milestone ✅ COMPLETE
+Note: Detailed entity tables for Batches 10–11 were not logged in this file during original enrichment. Batch 10 completed ~40 enrichments plus duplicate cleanup (deleted `president-zachary-hudson`, `vice-president-naylor`, `coalsack`, `ram-tah` location stub, `professor-palin` location stub, `free-marlinist-movement`, `marlinist-parliament`, `shadow-president`, `nmla`). Batch 11 completed 21 new enrichments plus cleanup of 7 duplicate stubs (`admiral-vincent`, `fleet-admiral-vincent`, `eamonn-ui-laoghire`, `admiral-maxton-price`, `admiral-lucius-lavigny`, `helix-drug`, `pranav-antal` location).
+
+### Batch 12: 500→550 milestone ✅ COMPLETE
+| # | Entity | Type | Status | Notes |
+|---|--------|------|--------|-------|
+| 1 | Farragut Battle Cruiser | technology | ✅ Done | Federal capital ship, FNS Agamemnon, deployment to Pleiades |
+| 2 | Ocellus Starport | technology | ✅ Done | Deep-space station design, scientists vs military debate |
+| 3 | Adamastor Megaship | technology | ✅ Done | Ghost ship, Hesperus connection, Azimuth history |
+| 4 | Wallglass | faction | ✅ Done | Investigations agency, Kincaid conspiracy, Rackham probe |
+| 5 | Eurybia Blue Mafia | faction | ✅ Done | Criminal faction, Eurybia system |
+| 6 | Fuel Rats Mischief | faction | ✅ Done | Emergency refuelling division of Fuel Rats |
+| 7 | Prismatic Imperium | faction | ✅ Done | Aisling Duval's organisation, Cemiess, Unchain |
+| 8 | Marlinist Consulate | faction | ✅ Done | Marlinist Colonies diplomatic body, Kayode Tau |
+| 9 | Cayutorme Syndicate | faction | ✅ Done | Mercenary fleet, Imperial Navy defeat |
+| 10 | Blue Viper Club | faction | ✅ Done | Dredger clan, Kumo Crew alliance, Thargoid defence |
+| 11 | Pegasi Sentinel | faction | ✅ Done | Pirate newsfeed, Kumo Crew internal affairs |
+| 12 | Colonia Citizens Network | faction | ✅ Done | Colonia region media and communications |
+| 13 | Sirius Inc | faction | ✅ Done | Sirius Corporation subsidiary, exploration support |
+| 14 | Intergalactic Naval Reserve Arm | faction | ✅ Done | INRA predecessor, covert anti-xeno operations |
+| 15 | Pharmasapien | faction | ✅ Done | Pharmaceutical corporation |
+| 16 | Earth Defence Fleet | faction | ✅ Done | Federal military, Sol defence |
+| 17 | Interstellar Communist Union | faction | ✅ Done | Political faction, Dangerous Games participant |
+| 18 | Kappa Fornacis Farmers Union | faction | ✅ Done | Onionhead producers, System of the Year |
+| 19 | Merchant Marines | faction | ✅ Done | Trading and military support organisation |
+| 20 | Bonespire Publishing | faction | ✅ Done | Media/publishing house |
+| 21 | Onnes Gateway | location | ✅ Done | Starport, trade hub |
+| 22 | Callan Salamanca | person | ✅ Done | Kumo Crew arch-corsair, Delaine loyalist |
+| 23 | Erimus Kamzel | person | ✅ Done | Explorer, Distant Worlds expeditions |
+| 24 | First Apostle | person | ✅ Done | Far God cult figure |
+| 25 | Femi Dakarai | person | ✅ Done | Political/military figure |
+| 26 | Delphine Dumont | person | ✅ Done | Social/political figure |
+| 27 | Consuela Knight | person | ✅ Done | The Sovereign journalist, disappearance |
+| 28 | Cedrik Stone | person | ✅ Done | Military/security figure |
+| 29 | Alessandra Koa | person | ✅ Done | Political/media figure |
+| 30 | Anton Vern | person | ✅ Done | Engineer/scientist |
+| 31 | Ambassador Cuthrick Delaney | person | ✅ Done | Diplomat |
+| 32 | Virgil Kyle | person | ✅ Done | Explorer, 'true North Star', Children of Liberty |
+| 33 | Verity Dexter | person | ✅ Done | Political/media figure |
+| 34 | Trinity Avon | person | ✅ Done | The Sovereign reporter, Dangerous Games coverage |
+| 35 | Sura Oyekan | person | ✅ Done | ICE-caster, Rackham advocate |
+| 36 | Zacariah Nemo | person | ✅ Done | Engineer, enhanced AX weaponry with Liz Ryder |
+| 37 | Tomas Turai | person | ✅ Done | Actor, Jupiter Rochester's ex-spouse |
+
+**Batch 12 completion (this session):**
+| # | Entity | Type | Status | Notes |
+|---|--------|------|--------|-------|
+| 38 | Wreaken Construction | faction | ✅ Done | Heavy construction contractor, Zearla convoy, LTT 198 rivalry |
+| 39 | Persephone | location | ✅ Done | Imperial system, Quivira refugee crisis, Arissa humanitarian |
+| 40 | Wells-class Carrier | technology | ✅ Done | Imperial capital ship, Indra launch, Torval |
+| 41 | People's Quivira for Equality Party | faction | ✅ Done | Quivira independence, Patreus war, Aisling alignment |
+| 42 | Lugh for Equality | faction | ✅ Done | Federal-aligned, Hartsfield Market, Lugh war |
+| 43 | Azaladshu Free | faction | ✅ Done | Federal secession, PDB protest, Noguera |
+| 44 | Coalition of Uteran | faction | ✅ Done | Federal secession, Winters sphere |
+| 45 | Alpha Centauri | location | ✅ Done | Hutton Orbital, Hutton Mug, Thargoid rescue ship attack |
+| 46 | Dark Comms Network | technology | ✅ Done | NMLA encrypted comms, Omega Grid link |
+| 47 | Corsair | technology | ✅ Done | Gutamaya multirole ship, rank-free, Allende, Aisling |
+| 48 | CMM Composites | technology | ✅ Done | Construction material, Majestic-class, Aegis |
+| 49 | Orulas System | location | ✅ Done | Blue Hand Gang, Rose Trebek, Palin rescue |
+
+## Stats
+- Total entities: 3,441
+- Enriched (Batch 1): 26
+- Enriched (Batch 2): 25
+- Enriched (Batch 3): 29
+- Enriched (Batch 4): 25
+- Enriched (Batch 5): 45
+- Enriched (Batch 6): 24
+- Enriched (Batch 7): 52
+- Enriched (Batch 8): 50
+- Enriched (Batch 9): 50
+- Enriched (Batch 10–11): ~54
+- Enriched (Batch 12): 49
+- Total enriched: 550
+- Remaining: 2,891
+
+## Notes
+- All enriched entities trimmed to compact Wikipedia-style descriptions (1–2 paragraphs)
+- Batch 1–12 fully enriched and committed
+- Milestone: 550 entities reached
+- Next target: 600

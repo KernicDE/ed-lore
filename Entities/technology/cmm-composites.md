@@ -24,4 +24,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+CMM composites are a high-grade construction material essential for building large-scale spacecraft and military vessels, most prominently used in the construction of Imperial Majestic-class Interdictors. In July 3302, Lavigny's Legion launched a campaign to build three new Interdictors for the Imperial fleet, placing open orders for thallium, thermal cooling units, and CMM composites at Marker Depot in the Carthage system. Scores of independent pilots responded, delivering the materials needed to expand the Empire's capital ship force.
+
+The material's strategic importance extended beyond Imperial shipbuilding. In September 3303, Aegis listed CMM composites among the resources required for its second anti-Thargoid development initiative, alongside tantalum and Thargoid tissue samples. This dual use — supporting both conventional military expansion and experimental xeno-defence research — established CMM composites as a critical industrial resource whose availability could determine the pace of humanity's military preparedness.

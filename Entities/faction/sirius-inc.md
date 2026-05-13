@@ -38,4 +38,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Sirius Inc is a subsidiary corporation of Sirius Corporation that handles specialised infrastructure and construction projects across the galaxy. In 3304, the company announced plans to construct a flight-operations megaship named the Dionysus in the 42 n Persei system, a strategic position on the route to Maia.
+
+In 3308, Sirius Inc was involved in defensive operations when Thargoid forces invaded the 42 n Persei system. The corporation's initiatives demonstrate how Sirius Corporation's subsidiaries extend the megacorp's reach into frontier systems, leveraging Sirius's vast resources to undertake projects that smaller organisations could never fund independently.

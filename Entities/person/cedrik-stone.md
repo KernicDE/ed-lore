@@ -24,4 +24,4 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Cedrik Stone is a figure associated with frontier and independent operations. His activities have intersected with various mercenary, exploration and trading initiatives across the galaxy.

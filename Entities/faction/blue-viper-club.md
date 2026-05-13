@@ -39,4 +39,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+The Blue Viper Club is a nomadic dredger clan that became entangled with the Kumo Crew syndicate's narcotics operations in 3307. The clan's dredger entered the Pegasi Sector PN-T c3-14 system and took position near Kumo City, where they became the suspected source of a new recreational drug called 'helix'.
+
+The Interstellar Health Organisation later analysed the drug and concluded that its sophisticated composition suggested development by an unidentified research facility rather than the Blue Viper Club itself. The nomads likely acquired the gamma strain of onionhead from another source and cut a distribution deal with the Kumo Crew. The Blue Viper Club represents a recurring pattern in frontier space — isolated communities with mobile infrastructure that can be exploited by larger criminal organisations for transport and distribution.

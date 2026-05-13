@@ -40,4 +40,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+The Cayutorme Syndicate was a mercenary fleet that operated in the Cayutorme system in late 3301. The syndicate posed a significant threat to Imperial interests until the Imperial Navy and auxiliary commanders launched a coordinated campaign against them.
+
+In November 3301, Imperial forces scored major victories against the syndicate fleet, forcing it into a defensive position and ultimately defeating the mercenary force. Syndicate leader Kyle Kurowski went missing during the fighting, and captured vessels were sold at discount from Adkins Port. The swift destruction of the Cayutorme Syndicate demonstrated the Imperial Navy's capacity to neutralise organised threats to Imperial systems, though the syndicate's funding and backing remained unclear.

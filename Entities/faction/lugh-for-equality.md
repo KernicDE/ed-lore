@@ -39,4 +39,6 @@ Total mentions: **5**
 
 ## Biography
 
-*[To be enriched]*
+The Lugh for Equality Party was the Federal-aligned governing faction in Lugh during the independence crisis of 3301, though its authority rested on shaky foundations. When the Crimson State Group accused the party of complicity in 25,431 child disappearances, Lugh Ambassador Éamonn Uí Laoghaire used the claim to rally popular support for separation from Federal rule. The party disputed the independence movement's claim of 91% popular approval, releasing statistics suggesting less than 30% of residents were politically engaged — a rebuttal that failed to stop the momentum toward war.
+
+The party's control of Hartsfield Market made it a strategic target, and when Federal Navy strikes on refugees caused mass confusion among loyalist pilots, the Crimson State Group exploited the chaos to seize the station. By late March 3301, the Lugh for Equality Party had been forced into a temporary ceasefire with the rebels, though neither side commanded the trust of a war-weary population that resented both Federal Congress and the independence fighters.

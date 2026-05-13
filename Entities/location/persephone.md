@@ -50,4 +50,6 @@ Total mentions: **5**
 
 ## Biography
 
-*[To be enriched]*
+During the Quivira crisis of 3301, the Imperial system of Persephone became a refuge for civilians fleeing Senator Denton Patreus's war of debt enforcement. While millions of Quivira residents were evacuated to Summerland with the aid of independent commanders, Persephone also received displaced populations seeking safety from the Imperial assault on their home system.
+
+The system gained political significance when Princess Arissa Lavigny-Duval established a humanitarian presence there, operating agents from Lambardelli's Legacy to assist refugees. This placed Persephone at the intersection of competing Imperial compassion — Arissa's organised relief efforts versus Aisling Duval's parallel campaign in Summerland — as both princesses leveraged the crisis to build political support among displaced populations.

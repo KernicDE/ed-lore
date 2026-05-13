@@ -38,4 +38,6 @@ Total mentions: **5**
 
 ## Biography
 
-*[To be enriched]*
+The Coalition of Uteran was among the first wave of Federal factions to declare independence in 3307, following Azaladshu Free's lead in rejecting the Proactive Detection Bureau's surveillance regime. Though smaller than Azaladshu, the Coalition's secession contributed to a constitutional crisis that saw ten systems and approximately a billion people abandon Federal membership within a matter of weeks.
+
+Like the other seceding factions, the Coalition fell within Shadow President Felicia Winters's sphere of political influence, though Winters publicly renounced any support for the breakaway movements. The Federal Intelligence Agency's subsequent arrest of secessionist leaders under what civil rights group Advocacy called 'spurious charges' demonstrated the government's determination to prevent the rebellion from spreading — and the Coalition's fate became a test case for whether Federal unity could be enforced at the cost of democratic legitimacy.

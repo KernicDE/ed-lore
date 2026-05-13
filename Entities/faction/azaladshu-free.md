@@ -38,4 +38,6 @@ Total mentions: **5**
 
 ## Biography
 
-*[To be enriched]*
+In June 3307, Azaladshu Free became the first Federal faction to formally secede from the Federation in the modern era, breaking with the superpower over the Proactive Detection Bureau's mass surveillance of civilian communications. Controlling four systems — Azaladshu, LFT 824, LHS 277, and LTT 3919 — the faction's new leadership under Mayor Constanza Noguera declared that 'the Federation has become corrupt, authoritarian and untrustworthy,' and that from that moment forward the systems would govern themselves as independent sovereign nations.
+
+Congress responded by declaring secession illegal under the Federal Accord and placing the Federal Navy on alert, but Azaladshu's defiance triggered a chain reaction. Three additional factions followed its lead, making ten systems and a billion people independent within weeks. President Hudson dismissed the secessionists as organised criminals, while Shadow President Winters argued that 'removing our citizens' right to privacy is the cause of this rebellion, not the solution' — a split that exposed the Federal government's inability to reconcile security with liberty.

@@ -39,4 +39,6 @@ Total mentions: **5**
 
 ## Biography
 
-*[To be enriched]*
+The Colonia Citizens Network is an independent media organisation based in the Colonia region that documents events and discoveries on the galactic frontier. In 3302–3303, the network reported on the August Exodus — a historic migration of independent pilots to Colonia — and the fungal growths discovered on the airless world Colonia 3 C A.
+
+The network serves as a vital communication link between the remote Colonia region and the Core Systems, covering scientific discoveries, community events and infrastructure developments that would otherwise go unreported by major galactic newsfeeds. Its work highlights how frontier communities develop their own media ecosystems to maintain connectivity with the wider galaxy.

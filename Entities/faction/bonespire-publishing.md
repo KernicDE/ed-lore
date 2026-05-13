@@ -39,4 +39,4 @@ Total mentions: **5**
 
 ## Biography
 
-*[To be enriched]*
+Bonespire Publishing is a media company that produces educational and entertainment content for the galactic market. While less prominent than major newsfeeds like Vox Galactica or the Federal Times, the publisher maintains a niche in specialised content for frontier and independent communities.

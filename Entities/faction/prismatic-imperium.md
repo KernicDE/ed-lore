@@ -37,4 +37,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+The Prismatic Imperium is an organisation devoted to advancing Princess Aisling Duval's anti-slavery agenda within the Empire. Based in the Prism system, the group coordinates initiatives to free indentured servants and campaigns against Imperial slavery practices.
+
+In 3302, the Prismatic Imperium successfully concluded one of Aisling's most significant anti-slavery initiatives, freeing numerous indentured workers across Imperial systems. The organisation serves as both a political advocacy group and a practical operational force, mobilising pilots and resources to support Aisling's humanitarian goals. Its existence reflects the tension within Imperial society between traditional practices and reformist movements led by progressive members of the Imperial family.

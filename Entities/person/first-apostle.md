@@ -24,4 +24,4 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+The First Apostle is the highest-ranking leader of the True Chapters, a sect of the Far God cult that interprets the Thargoids as divine harbingers of apocalypse. In 3308, the First Apostle claimed that the mysterious 'Thargoid roar' detected during the Battle of HIP 22460 was 'the voice of the Far God calling to the faithful,' asserting that the manifestation had begun. The First Apostle's rhetoric exemplifies how the Far God cult transforms military defeats into theological affirmations, framing humanity's destruction as a sacred transition rather than a catastrophe.

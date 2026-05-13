@@ -38,4 +38,4 @@ Total mentions: **3**
 
 ## Biography
 
-*[To be enriched]*
+The Earth Defence Fleet is a Federal naval group tasked with protecting the Sol system and its surrounding territories. In 3302, the fleet launched an ambitious initiative to transform Okinura into a high-tech trading hub positioned between President Hudson and Shadow President Winters' spheres of influence. The project aimed to boost economic development and strengthen Federal presence in the region. The initiative concluded successfully later that year, demonstrating the fleet's dual role in both military defence and economic development.

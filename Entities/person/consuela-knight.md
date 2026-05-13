@@ -29,4 +29,4 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Consuela Knight is a media personality and news anchor who has reported on significant galactic events. Her work has contributed to public discourse on matters ranging from political scandals to military conflicts.

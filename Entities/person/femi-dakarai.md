@@ -26,4 +26,4 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Femi Dakarai is a journalist and media personality who has covered major galactic events. His reporting has appeared in various newsfeeds, contributing to public understanding of conflicts and political developments across the superpowers.

@@ -36,4 +36,6 @@ Total mentions: **2**
 
 ## Biography
 
-*[To be enriched]*
+Pharmasapien was a corporate rival of Azimuth Biochemicals that engaged in industrial espionage and sabotage during the early 32nd century. In 3113, Pharmasapien sleeper agents seized control of the Hesperus megaship near the Col 69 Sector LY-H c10-0 system, massacring the Azimuth crew in an attempt to steal their xenological research.
+
+The Pharmasapien operatives met their own end when Private Adriana Velasco, an Azimuth crew member who had remained hidden aboard the ship, released toxic gas into the ventilation system, killing all the infiltrators. The incident exposed the brutal lengths to which competing corporations would go in the race to exploit alien technology. Pharmasapien's eventual fate is unclear, though its corporate rivalry with Azimuth helped set in motion the chain of events that would lead to Salvation's emergence two centuries later.

@@ -37,4 +37,6 @@ Total mentions: **3**
 
 ## Biography
 
-*[To be enriched]*
+Wallglass Investigations Agency is a private detective firm known for conducting deep-dive background investigations on high-profile individuals. In 3309, detectives Erik Gunnarson and Francesca Wolfe were hired by Federal Times journalist Bryanna Blanco to investigate trillionaire Zachary Rackham's alleged criminal past.
+
+The agency uncovered evidence linking Rackham to the pirate alias 'Calico Zack', including a message archive found on Zeta Trianguli Australis A 7 a. The findings were strong enough to force Rackham to withdraw his presidential candidacy. Wallglass's work on the Rackham case demonstrated the growing influence of private investigative agencies in Federal politics, where traditional law enforcement often lacks the resources or political will to scrutinise the powerful.

@@ -36,4 +36,4 @@ Total mentions: **3**
 
 ## Biography
 
-*[To be enriched]*
+The Interstellar Communist Union is a political movement that advocates for collectivist governance and workers' rights across independent systems. In 3302, the union was linked to several border systems and engaged in diplomatic activities with the Alliance Elite Diplomatic Corps and the Border Coalition. While never a major galactic power, the union represents a persistent ideological alternative to the corporate capitalism of the Federation and the patronage system of the Empire. Its influence remains limited to a handful of independent systems where local populations have rejected both superpower alignment and corporate control.

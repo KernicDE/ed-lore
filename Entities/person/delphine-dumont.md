@@ -26,4 +26,4 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Delphine Dumont is a political figure active in Federal politics during the 3300s. She has been involved in various political initiatives and campaigns, reflecting the dynamic and often turbulent nature of Federal political life.

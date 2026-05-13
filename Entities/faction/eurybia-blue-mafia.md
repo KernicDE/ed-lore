@@ -37,4 +37,6 @@ Total mentions: **3**
 
 ## Biography
 
-*[To be enriched]*
+The Eurybia Blue Mafia is a criminal organisation based in the Eurybia system that became notorious in 3306 for protecting engineer Liz Ryder from Imperial capture. When the Imperial Internal Security Service linked explosives used in terrorist attacks on Imperial starports to Ryder's engineering work, the Empire dispatched forces to arrest her.
+
+The Blue Mafia successfully fought off the Imperial incursion, demonstrating both their military capabilities and their willingness to challenge Imperial authority directly. The conflict highlighted the complex relationship between independent engineers and criminal organisations in the frontier systems, where technical expertise often attracts protection from powerful underworld factions. The Eurybia Blue Mafia's victory established them as a significant regional power with enough firepower to repel Imperial military operations.

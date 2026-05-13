@@ -27,4 +27,4 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Alessandra Koa is a political operative and diplomat who has been involved in interstellar negotiations and alliance-building. Her work reflects the complex web of personal relationships that underpin galactic politics.

@@ -28,4 +28,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+In mid-3303, the Empire announced plans to expand its naval presence in the Pleiades Nebula with the construction of a new Wells-class carrier — one of the largest vessels in the Imperial fleet. The project, coordinated by the Merope Expeditionary Fleet, represented a direct counter to Federal expansion in the same region and underscored the military dimension of the superpower scramble for Thargoid-adjacent territory.
+
+The carrier Indra was formally launched in the HR 1185 system the following month, with Senator Zemina Torval presiding over its maiden voyage. Torval's understated declaration — "Space is by nature hostile. The Indra will make this particular system less so" — captured the vessel's dual purpose as both an astronomical research platform and a projection of Imperial power. The Wells-class thus joined the Majestic-class interdictor as a symbol of the Empire's determination to maintain strategic parity with the Federation in contested space.

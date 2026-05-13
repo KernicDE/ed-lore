@@ -38,4 +38,6 @@ Total mentions: **3**
 
 ## Biography
 
-*[To be enriched]*
+Fuel Rats Mischief is the operational division of the Fuel Rats, an independent pilots' organisation famous for rescuing stranded commanders who have run out of fuel in deep space. The Mischief handles logistics and infrastructure for the group's rescue operations, including establishing extraction outposts near remote waypoints like Jaques Station.
+
+By 3303, the Fuel Rats had completed their 20,000th rescue since June 3301, establishing themselves as one of the most respected independent organisations in the galaxy. Their operations rely entirely on volunteer pilots who drop everything to cross vast distances to deliver fuel to stranded explorers. The Fuel Rats Mischief represents the organisational backbone that keeps these volunteer efforts running smoothly across the galaxy's most remote regions.

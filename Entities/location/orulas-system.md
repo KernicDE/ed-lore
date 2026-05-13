@@ -43,4 +43,6 @@ Total mentions: **5**
 
 ## Biography
 
-*[To be enriched]*
+For years, the sparsely populated Orulas system languished under the grip of the Blue Hand Gang, a criminal organisation that trafficked in stolen escape pods sold to shady pseudo-scientific outfits conducting illegal human experiments. Local authorities turned a blind eye to the trade, leading to speculation that officials received regular kickbacks from the gang — a charge that gained credibility when former soldier Rose Trebek established the Joint Security Taskforce in February 3302 and found herself operating without government support.
+
+Hundreds of combat pilots answered Trebek's call to intercept Blue Hand convoys and recover escape pods. The campaign succeeded beyond expectations, liberating countless prisoners — including Professor Ishmael Palin and his research team, who had been kidnapped en route to Maia. Though Trebek cautioned that 'the war is far from over,' the operation demonstrated how community-led resistance could succeed where official law enforcement had failed, transforming Orulas from a criminal fiefdom into a symbol of independent vigilante justice.

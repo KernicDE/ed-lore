@@ -25,4 +25,4 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Callan Salamanca is a senior member of the Kumo Crew syndicate who served on the Kumo Council under Archon Delaine. In 3308, he was involved in the syndicate's operations against the Trask Death Corsairs during the failed coup led by Vidar Trask. Salamanca's loyalty to Delaine and his role in council operations exemplify the tight-knit power structure that maintains the Kumo Crew's dominance in pirate-controlled space.

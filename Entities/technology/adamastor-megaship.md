@@ -27,4 +27,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+The Adamastor was a research megaship owned by Azimuth Biochemicals that vanished in 3111 after what may have been humanity's first recorded encounter with the Thargoids. The vessel reappeared in 3306 when it entered the Chukchan system on autopilot after nearly 200 years of sublight travel, with no sign of its crew.
+
+Investigations revealed that the Adamastor had collected survivors from a planetary survey team in the Musca Dark Region PJ-P b6-1 system who had encountered Thargoid artefacts. The derelict's return triggered a chain of events that would reshape the anti-xeno war: a dormant communications beacon aboard the ship received a mysterious signal from the anonymous figure known as Salvation, leading to the discovery of the Hesperus and ultimately the Proteus research facility. The Adamastor's journey from 3111 to 3306 stands as one of the most remarkable ghost ship stories in galactic history.

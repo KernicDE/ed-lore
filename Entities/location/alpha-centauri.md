@@ -51,4 +51,6 @@ Total mentions: **5**
 
 ## Biography
 
-*[To be enriched]*
+Alpha Centauri is best known to pilots not for its astronomical significance but for Hutton Orbital, a starport located an exhausting 0.22 light-years from the system's entry point — a distance that has stranded countless novice pilots who failed to check their fuel reserves before attempting the approach. In 3301, novelty manufacturer BlipMagnet capitalised on the station's notoriety by producing the Hutton Mug, a commemorative beaker supposedly made from salvaged frame shift drive plates of ships that ran out of fuel en route, turning a navigational hazard into a badge of honour.
+
+The system's darker significance emerged in December 3310, when Thargoid forces destroyed Rescue Ship Cavell in Alpha Centauri within minutes of its arrival as part of a coordinated assault on rescue megaships deployed near Sol. The precision of the attack — one of seven simultaneous strikes that left only two megaships operational — suggested the Thargoids had intelligence on humanitarian deployments, transforming Alpha Centauri from a pilgrimage site for stubborn pilots into a frontline casualty of the Titan War.
