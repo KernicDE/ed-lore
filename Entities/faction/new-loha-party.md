@@ -11,11 +11,9 @@ related_entities:
 - alliance
 - federal-security-service
 - sirius-corporation
-bio: New Loha Party is a organization in the Elite Dangerous universe, active from
-  3304-11-22 to 3304-11-29. Frequently linked with Loha, Loha Holdings, Cordova Group.
-  The conflict between Loha Holdings and the New Loha Party in the Loha system ends.
-  A long-standing rivalry between Loha Holdings and the New Loha Party in the Loha
-  system erupts into full-scale conflict.
+bio: 'A political faction in the Loha system, the New Loha Party fought a brief war
+  against corporate rival Loha Holdings in late 3304, ending a long-standing rivalry
+  that had defined local politics.'
 ---
 
 
@@ -38,4 +36,6 @@ Total mentions: **3**
 
 ## Biography
 
-*[To be enriched]*
+The New Loha Party represented the political opposition to corporate dominance in the Loha system when long-simmering tensions finally erupted into full-scale conflict in November 3304. For years, the party had challenged Loha Holdings' grip on the system's economy, advocating for policies that would redistribute wealth and decision-making power away from the corporate boardroom and toward democratic institutions.
+
+The war lasted barely a week before both sides accepted a cessation of hostilities, suggesting that neither faction possessed the resources or popular support necessary for a prolonged campaign. The New Loha Party's connections to Alliance political networks and its willingness to challenge a corporation backed by the Cordova Group demonstrated both courage and political naivety. The conflict's inconclusive outcome left the fundamental question of Loha's governance unresolved, ensuring that the rivalry between corporate and democratic forces would continue through political rather than military means.

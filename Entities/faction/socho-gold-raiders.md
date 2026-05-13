@@ -21,22 +21,6 @@ bio: Socho Gold Raiders is a organization in the Elite Dangerous universe, activ
 
 
 
-<!-- AUTO-GENERATED -->
+Socho Gold Raiders functioned as a criminal organisation that executed a brazen takeover of the Socho system in 3304, seizing control of a region that served as headquarters for Aegis Core. Their infiltration represented a significant security breach, as Socho housed critical anti-Thargoid research facilities and personnel. The Raiders demonstrated both strategic cunning and military capability in displacing legitimate authorities from a system of galactic importance.
 
-# Socho Gold Raiders
-
-First mentioned: **3304-05-31**  
-Last mentioned: **3304-08-31**  
-Total mentions: **3**
-
-## Related
-
-- [[Aegis]] (3 co-mentions)
-- [[Socho]] (3 co-mentions)
-- [[Dantec Enterprise]] (2 co-mentions)
-- [[Rewired]] (1 co-mentions)
-- [[Pilots Federation]] (1 co-mentions)
-
-## Biography
-
-*[To be enriched]*
+A courier carrying an urgent message from Aegis scientist Dr Mia Valencourt managed to escape the occupied system and broadcast a plea for assistance. The transmission revealed that the Raiders had fabricated a Thargoid distress signal to lure security forces into an ambush, showcasing their willingness to exploit the ongoing alien threat for criminal gain. Their occupation of Socho created a dangerous precedent by demonstrating that even systems vital to humanity's defence could fall to organised criminal elements.

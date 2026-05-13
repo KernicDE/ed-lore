@@ -11,12 +11,9 @@ related_entities:
 - volungu
 - liaedin
 - sirius-corporation
-bio: Patron's Principles is a organization in the Elite Dangerous universe, active
-  from 3301-03-27 to 3301-04-30. Frequently linked with Blossom family, Volungu, Liaedin.
-  A skirmish broke out between Imperial and Federal forces in Volungu after the Patron's
-  Principles, an Empire-aligned organisation from Liaedin, attempted to expand beyond
-  Liaedin's borders. Chancellor Blaine stated the Patron's Principles acted without
-  Imperial Senate support.
+bio: 'An Empire-aligned organisation from Liaedin, Patron''s Principles triggered a
+  skirmish between Imperial and Federal forces in Volungu in early 3301 when it attempted
+  unauthorised territorial expansion.'
 ---
 
 
@@ -39,4 +36,6 @@ Total mentions: **3**
 
 ## Biography
 
-*[To be enriched]*
+In March 3301, the Patron's Principles learned a hard lesson about the limits of Imperial patience. The organisation, aligned with the Empire but operating from Liaedin, attempted to expand beyond its home system's borders into Volungu — a move that triggered a skirmish between Imperial and Federal forces when the Federation interpreted the incursion as an act of Imperial aggression.
+
+Chancellor Anders Blaine moved quickly to contain the diplomatic damage, stating unequivocally that the Patron's Principles had acted without Imperial Senate support. The repudiation exposed the precarious position of Empire-aligned factions that pursued independent expansionist policies without formal authorisation from Capitol. Though connected to the Faveol and Blossom families — powerful aristocratic houses with their own territorial ambitions — the Patron's Principles found itself isolated when its actions threatened to escalate into superpower conflict. The episode demonstrated that Imperial alignment conferred privileges only when subordinate factions remained within bounds approved by the Senate.

@@ -18,19 +18,6 @@ bio: Saud Kruger is a organization in the Elite Dangerous universe, active from 
 
 
 
-<!-- AUTO-GENERATED -->
+A renowned ship manufacturer specialising in luxury passenger vessels, Saud Kruger has built its reputation on crafting some of the most elegant and expensive ships in human space. Their Dolphin, Orca, and Beluga Liner models dominate the high-end tourism and VIP transport markets, offering opulent interiors and advanced life-support systems that cater to the galaxy's wealthiest travellers. The company's brand is synonymous with comfort and prestige, making its ships the preferred choice for cruise lines and dignitaries alike.
 
-# Saud Kruger
-
-First mentioned: **3305-01-24**  
-Last mentioned: **3307-09-30**  
-Total mentions: **3**
-
-## Related
-
-- [[The Sovereign]] (1 co-mentions)
-- [[Astrogator Tours]] (1 co-mentions)
-
-## Biography
-
-*[To be enriched]*
+In 3305, Saud Kruger partnered with Astrogator Tours to launch a campaign seeking new Earth-like worlds for holiday cruise destinations. Pilots were invited to submit exploration data and imagery of promising planets, with the company planning to install tourist beacons at the most suitable locations. This initiative demonstrated Saud Kruger's commitment to expanding the frontiers of luxury tourism beyond established routes.

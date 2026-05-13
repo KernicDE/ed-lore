@@ -11,11 +11,8 @@ related_entities:
 - alliance
 - federal-security-service
 - sirius-corporation
-bio: Geras First is a organization in the Elite Dangerous universe, active from 3304-11-01
-  to 3304-11-08. Frequently linked with Geras, Ndozins State Inc, Federal Security
-  Service. The conflict between Geras First and Ndozins State Inc in the Geras system
-  concludes. Hostilities between Geras First and Ndozins State Inc in the Geras system
-  escalate into all-out war after months of reciprocal attacks.
+bio: 'A faction in the Geras system, Geras First fought an all-out war against
+  Ndozins State Inc in late 3304 before hostilities abruptly concluded.'
 ---
 
 
@@ -38,4 +35,6 @@ Total mentions: **3**
 
 ## Biography
 
-*[To be enriched]*
+In November 3304, the Geras system became a microcosm of the factional warfare that plagued independent territories across the galaxy. Geras First, having endured months of reciprocal attacks from Ndozins State Inc, found itself locked in all-out war with its rival — a conflict that drew attention from the Federal Security Service and Sirius Corporation due to the system's strategic position.
+
+The war ended as suddenly as it had intensified, with both factions accepting a cessation of hostilities within days of the formal declaration of total war. The rapid resolution suggested either external pressure from superpower observers or mutual recognition that continued fighting would destroy the economic basis both factions sought to control. Geras First's experience demonstrated how factional conflicts in independent systems often followed patterns of escalation and abrupt de-escalation that defied conventional military logic, driven more by economic calculation than by strategic objectives.

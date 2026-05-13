@@ -11,11 +11,9 @@ related_entities:
 - kumo-crew
 - imperial-navy
 - libertas-cooperative
-bio: Defence Force of Amitrite is a organization in the Elite Dangerous universe,
-  active from 3301-09-23 to 3301-09-29. Frequently linked with Amitrite, Munshin,
-  Kumo Crew. Pirates attacked refugees fleeing the Pegasi Pirate War in the Amitrite
-  system. The Defence Force of Amitrite warned their forces were stretched too thin
-  and urged refugees to avoid the system or fly in convoys.
+bio: 'The local security force of the Amitrite system, the Defence Force found itself
+  overwhelmed in September 3301 when pirates attacked refugees fleeing the Pegasi Pirate
+  War.'
 ---
 
 
@@ -38,4 +36,6 @@ Total mentions: **3**
 
 ## Biography
 
-*[To be enriched]*
+In September 3301, the Defence Force of Amitrite confronted a crisis that exposed the limits of local security capabilities. As refugees fleeing the Pegasi Pirate War poured into the system, pirate gangs from the Kumo Crew and other predatory factions began attacking the vulnerable convoys. The Defence Force issued a stark warning: their resources were stretched too thin to protect everyone, and refugees should either avoid Amitrite entirely or travel in heavily armed convoys.
+
+The plea revealed both the humanity and the helplessness of a small security force facing a crisis far beyond its design capacity. Controlled by Lavigny's Legion within an Imperial patronage system, the Defence Force lacked the personnel and equipment to simultaneously maintain order and provide comprehensive escort services. Their warning, though necessary, amounted to an admission that the state could not protect its most vulnerable residents — a grim reality that refugee populations across the galaxy would encounter repeatedly during the turbulent years that followed.

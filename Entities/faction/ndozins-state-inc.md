@@ -11,11 +11,8 @@ related_entities:
 - alliance
 - federal-security-service
 - sirius-corporation
-bio: Ndozins State Inc is a organization in the Elite Dangerous universe, active from
-  3304-11-01 to 3304-11-08. Frequently linked with Geras, Geras First, Federal Security
-  Service. The conflict between Geras First and Ndozins State Inc in the Geras system
-  concludes. Hostilities between Geras First and Ndozins State Inc in the Geras system
-  escalate into all-out war after months of reciprocal attacks.
+bio: 'A corporate faction in the Geras system, Ndozins State Inc fought an all-out
+  war against Geras First in late 3304 after months of escalating reciprocal attacks.'
 ---
 
 
@@ -38,4 +35,6 @@ Total mentions: **3**
 
 ## Biography
 
-*[To be enriched]*
+Ndozins State Inc represented the corporate establishment in the Geras system when long-simmering tensions with rival faction Geras First finally erupted into open warfare in November 3304. Months of reciprocal attacks — sabotage, asset seizures and proxy skirmishes — had depleted both sides' reserves, yet neither faction had achieved sufficient advantage to force a settlement.
+
+The declaration of all-out war transformed a low-intensity conflict into a system-wide crisis that drew attention from the Federal Security Service and Sirius Corporation. Within days, however, hostilities concluded as abruptly as they had intensified, suggesting that external pressure or mutual exhaustion had overcome the factions' determination to destroy each other. Ndozins State Inc's experience illustrated the precariousness of corporate governance in independent systems, where market dominance provided no guarantee of military superiority against determined ideological or populist opponents.

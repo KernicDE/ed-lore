@@ -11,12 +11,9 @@ related_entities:
 - watson-settlement
 - new-galactic-cooperative-of-worlds
 - federal-navy
-bio: GR 316 Silver Universal Group is a organization in the Elite Dangerous universe,
-  active from 3302-05-19 to 3302-05-26. Frequently linked with Neits system, Neits
-  Jet Life Ltd, Watson Settlement. The Neits system erupts into conflict as Federation-aligned
-  Neits Jet Life Ltd clashes with Imperial GR 316 Silver Universal Group. After a
-  week of intense conflict, Federation-aligned Neits Jet Life Ltd defeats the Imperial
-  GR 316 Silver Universal Group in the Neits system.
+bio: 'An Imperial-aligned faction active in early 3302, GR 316 Silver Universal Group
+  was defeated by Federation-aligned Neits Jet Life Ltd after a week of intense conflict
+  in the Neits system.'
 ---
 
 
@@ -39,4 +36,6 @@ Total mentions: **3**
 
 ## Biography
 
-*[To be enriched]*
+In May 3302, the Neits system erupted into open warfare when Federation-aligned Neits Jet Life Ltd clashed with the Imperial-aligned GR 316 Silver Universal Group. The conflict represented yet another proxy battle in the ongoing Cold War between superpowers, fought through local factions that bore the costs of violence while distant capitals provided only moral support and limited material aid.
+
+After a week of intense combat, Neits Jet Life Ltd emerged victorious, driving GR 316 Silver Universal Group from its positions in the system. The defeat highlighted the risks Imperial factions faced when operating far from the core territories where Imperial Navy support remained readily available. Though the Silver Universal Group maintained connections to the New Galactic Cooperative of Worlds and Watson Settlement, its loss in Neits demonstrated that Imperial alignment alone was no guarantee of military success in contested frontier systems.

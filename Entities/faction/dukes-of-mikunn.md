@@ -11,12 +11,9 @@ related_entities:
 - hr-7327
 - alliance
 - federal-navy
-bio: Dukes of Mikunn is a organization in the Elite Dangerous universe, active from
-  3301-03-26 to 3301-07-27. Frequently linked with HR 7327, Sefrys, Mercenaries of
-  Mikunn. Guerrilla forces including the Dukes of Mikunn, Emperor's Grace, and East
-  India Company kept Federal attention diverted while the CSG obtained intelligence
-  and weapons. The Dukes of Mikunn mobilised their mercenaries to assist Cerberus
-  Plague-affected systems.
+bio: 'A mercenary faction active in early 3301, the Dukes of Mikunn fought as guerrilla
+  forces during the Lugh crisis and later mobilised to assist systems affected by the
+  Cerberus Plague.'
 ---
 
 
@@ -39,4 +36,6 @@ Total mentions: **3**
 
 ## Biography
 
-*[To be enriched]*
+The Dukes of Mikunn proved that mercenary factions could serve multiple masters without losing their operational effectiveness. In March 3301, they fought alongside Emperor's Grace and the East India Company as guerrilla forces during the Lugh crisis, keeping Federal attention diverted while the Crimson State Group obtained intelligence and weapons. Their mercenary network, operating through HR 7327 and Sefrys, provided the flexible strike capacity that insurgent campaigns required.
+
+Four months later, the same organisation demonstrated a very different face, mobilising its forces to assist systems ravaged by the Cerberus Plague. This humanitarian pivot revealed that the Dukes of Mikunn viewed themselves as more than simple guns for hire — they were a self-directed military force capable of choosing its own campaigns. The faction's dual role in both warfare and relief operations illustrated how mercenary groups in the early 3300s increasingly blurred the lines between commercial violence and civic responsibility.

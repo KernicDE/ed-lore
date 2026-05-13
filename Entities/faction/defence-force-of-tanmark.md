@@ -11,12 +11,9 @@ related_entities:
 - tanmark-posse
 - luca
 - farmers-union-of-kappa-fornacis
-bio: Defence Force of Tanmark is a organization in the Elite Dangerous universe, active
-  from 3301-02-24 to 3301-03-06. Frequently linked with Tanmark, Cassie-L-Peia, Tanmark
-  Posse. The Defence Force of Tanmark and the Farmers Union of Kappa Fornacis announced
-  success in increasing local Lucan Onionhead production. Conflict broke out between
-  the Defence Force of Tanmark and the Tanmark Posse criminal gang, the main force
-  behind Lucan Onionhead cultivation in hidden facilities on Luca.
+bio: 'The local security force of the Tanmark system, the Defence Force found itself
+  simultaneously involved in Onionhead agricultural partnerships and open warfare against
+  the Tanmark Posse criminal gang in early 3301.'
 ---
 
 
@@ -39,4 +36,6 @@ Total mentions: **3**
 
 ## Biography
 
-*[To be enriched]*
+The Defence Force of Tanmark navigated a paradoxical position in early 3301, partnering with the Farmers Union of Kappa Fornacis to increase Lucan Onionhead production while simultaneously battling the Tanmark Posse — the criminal organisation responsible for much of that same crop's illicit cultivation. The contradiction exposed the blurry lines between sanctioned agriculture and illegal narcotics in a system where Onionhead served as both a traditional medicine and a controlled substance.
+
+Open conflict erupted when the Defence Force moved against hidden Onionhead facilities on Luca, facing determined resistance from the Tanmark Posse. The gang's deep integration into Tanmark's agricultural economy made it far more than a simple criminal nuisance; it represented an alternative power structure with its own supply chains, distribution networks and political influence. The Defence Force's campaign illustrated how difficult it was to suppress Onionhead production without disrupting the legitimate farmers who depended on the same crop for their livelihoods.

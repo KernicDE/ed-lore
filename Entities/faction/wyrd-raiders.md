@@ -18,19 +18,6 @@ bio: Wyrd Raiders is a organization in the Elite Dangerous universe, active from
 
 
 
-<!-- AUTO-GENERATED -->
+Wyrd Raiders operated as an independent organisation based in the Wyrd system, where they established Gareth Edwards Park as their centre of operations. During mid-3302, the group launched a resource-gathering campaign focused on tantalum, a valuable mineral essential for advanced electronics and ship components. They issued an open call to independent pilots, acknowledging that sourcing sufficient quantities would require additional time and effort from the galactic community.
 
-# Wyrd Raiders
-
-First mentioned: **3302-05-05**  
-Last mentioned: **3302-05-19**  
-Total mentions: **3**
-
-## Related
-
-- [[Wyrd system]] (3 co-mentions)
-- [[Gareth Edwards Park]] (3 co-mentions)
-
-## Biography
-
-*[To be enriched]*
+The campaign ultimately concluded successfully, with the Raiders receiving massive deliveries of tantalum at Gareth Edwards Park. This achievement demonstrated their ability to mobilise independent pilots for large-scale logistics operations, a model increasingly common among frontier factions seeking to develop local infrastructure. Their activities in Wyrd illustrated how resource-focused campaigns could strengthen a faction's economic position within a single system.

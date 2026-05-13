@@ -11,12 +11,9 @@ related_entities:
 - patrons-principles
 - blossom-family
 - federal-navy
-bio: Faveol family is a organization in the Elite Dangerous universe, active from
-  3301-04-27 to 3301-05-25. Frequently linked with Volungu, Liaedin, Blossom family.
-  She stated that recent destabilisation in Liaedin was a deliberate act by unruly
-  Faveol family members attempting to expand into Volungu. Federal pilots successfully
-  repelled an attack on Volungu by the Patron's Principles, a group of young Faveol
-  family members from Liaedin seeking glory.
+bio: 'An influential family faction active in Liaedin and Volungu in early 3301, the
+  Faveol family became embroiled in internal disputes that spilled over into Federal
+  territorial conflicts.'
 ---
 
 
@@ -39,4 +36,6 @@ Total mentions: **3**
 
 ## Biography
 
-*[To be enriched]*
+The Faveol family's influence extended across multiple systems in early 3301, but internal divisions threatened to tear the organisation apart. A family spokesperson acknowledged that destabilisation in Liaedin was a deliberate act by unruly members attempting to expand into Volungu — an admission that exposed the faction's lack of centralised control over its own ambitious youth.
+
+The Patron's Principles, a group of young Faveol family members from Liaedin, launched an attack on Volungu seeking glory and territorial expansion. Federal pilots successfully repelled the incursion, demonstrating both the Empire's limited control over its aristocratic houses and the Federation's readiness to defend its borders against even opportunistic raids. The Faveol family's experience illustrated how dynastic politics in the Empire could generate unplanned military conflicts when younger members pursued personal ambitions without senior approval.

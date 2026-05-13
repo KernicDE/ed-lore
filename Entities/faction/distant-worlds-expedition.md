@@ -11,10 +11,9 @@ related_entities:
 - ceeckia-zq-l-c24-0
 - sol
 - federal-times
-bio: Distant Worlds Expedition is a organization in the Elite Dangerous universe,
-  active from 3302-03-29 to 3302-06-17. Frequently linked with Beagle Point, Gliese
-  1269, Ceeckia ZQ-L c24-0. The Distant Worlds Expedition announces that some members
-  of the fleet have reached Beagle Point, approximately 65,000 light years from Sol.
+bio: 'One of the most ambitious collaborative exploration endeavours in galactic history,
+  the Distant Worlds Expedition saw hundreds of pilots travel approximately 65,000 light-years
+  to reach Beagle Point in mid-3302.'
 ---
 
 
@@ -37,4 +36,6 @@ Total mentions: **3**
 
 ## Biography
 
-*[To be enriched]*
+In March 3302, the Distant Worlds Expedition launched what would become the defining collaborative exploration event of the early 3300s. Hundreds of pilots departed from the core worlds, forming a fleet that would traverse approximately 65,000 light-years to reach Beagle Point — one of the most distant locations accessible to human vessels. By June, expedition leaders announced that advance elements had reached their destination, completing a journey that tested the limits of both starship engineering and human endurance.
+
+The expedition was more than a sightseeing tour. It established waypoints, shared route data and created the social infrastructure that would support subsequent mass exploration events. Participants including Commander Salomé and Dr Kaii documented previously uncharted systems, adding thousands of celestial bodies to galactic databases. The Federal Times covered the achievement, bringing exploration into mainstream public consciousness. Distant Worlds proved that independent pilots, working collaboratively, could accomplish feats that exceeded the official exploration programmes of all three superpowers combined.

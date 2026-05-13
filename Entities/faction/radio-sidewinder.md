@@ -11,8 +11,9 @@ related_entities:
 - alliance
 - interstellar-press
 - alioth
-bio: Radio Sidewinder is a organization in the Elite Dangerous universe, active from
-  3301-08-26 to 3302-03-22. Frequently linked with Fuel Rats.
+bio: 'An independent media organisation active between 3301 and 3302, Radio Sidewinder
+  maintained close ties to the Fuel Rats and covered exploration events including expeditions
+  to Sagittarius A*.'
 ---
 
 
@@ -35,4 +36,6 @@ Total mentions: **3**
 
 ## Biography
 
-*[To be enriched]*
+Radio Sidewinder carved out a unique niche in the galactic media landscape by focusing on the stories that mainstream networks ignored: the rescues, the exploration milestones and the everyday heroism of independent pilots. Between 3301 and 3302, the organisation built a loyal following through its association with the Fuel Rats, broadcasting stories of pilots saved from fuel exhaustion in the depths of space.
+
+The station's coverage extended beyond rescue operations to major exploration events, including expeditions to Sagittarius A* — the supermassive black hole at the galaxy's centre. Its connections to the Alliance, Interstellar Press and Alioth suggested that Radio Sidewinder's independent voice had earned respect even within the established media ecosystem. Though never as large as Vox Galactica or the Federal Times, Radio Sidewinder demonstrated that there was an audience for journalism that celebrated pilot achievements rather than superpower politics.

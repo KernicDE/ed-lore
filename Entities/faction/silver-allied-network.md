@@ -22,22 +22,6 @@ bio: Silver Allied Network is a media in the Elite Dangerous universe, active fr
 
 
 
-<!-- AUTO-GENERATED -->
+Silver Allied Network operated as a financial consultancy with operations spanning multiple systems, including Nehet and Mictlan. During an investigation led by Princess Arissa Lavigny-Duval's forensic accountants, a rogue division of the network was discovered to have provided financial services to Imperial crime families. This revelation exposed how ostensibly legitimate corporate structures could be subverted to support organised criminal activity within the Empire.
 
-# Silver Allied Network
-
-First mentioned: **3301-04-20**  
-Last mentioned: **3301-04-27**  
-Total mentions: **3**
-
-## Related
-
-- [[Nehet]] (2 co-mentions)
-- [[Mictlan]] (2 co-mentions)
-- [[Silver Universal PLC]] (2 co-mentions)
-- [[Emperor's Grace]] (2 co-mentions)
-- [[HR 706]] (2 co-mentions)
-
-## Biography
-
-*[To be enriched]*
+The investigation traced attack funds from rogue members of Silver Allied Network through Silver Universal PLC to accounts in HR 706. These financial channels linked the consultancy directly to hostile operations, implicating the organisation in conspiracies that threatened Imperial security. The scandal underscored the challenges facing authorities in monitoring corporate entities that operate across jurisdictional boundaries.

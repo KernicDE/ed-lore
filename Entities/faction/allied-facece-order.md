@@ -11,12 +11,9 @@ related_entities:
 - imperial-navy
 - capitol
 - imperial-naval-auxiliary
-bio: Allied Facece Order is a religious in the Elite Dangerous universe, active from
-  3302-01-20 to 3302-07-02. Frequently linked with Facece, Imperial Herald, Imperial
-  Navy. The independent faction Allied Facece Order has seized control of the Facece
-  system from the Empire after achieving strategic victories against Imperial Naval
-  forces. The Allied Facece Order occupied the Facece system two weeks ago, causing
-  shockwaves through the Empire.
+bio: 'A religious faction that achieved the remarkable feat of seizing control of
+  the strategically vital Facece system from the Empire in early 3302, the Allied Facece
+  Order sent shockwaves through Imperial political and military circles.'
 ---
 
 
@@ -39,4 +36,6 @@ Total mentions: **3**
 
 ## Biography
 
-*[To be enriched]*
+In January 3302, the Allied Facece Order accomplished what few independent factions had dared attempt: seizing control of Facece, a system of profound strategic importance to the Empire, from Imperial Naval forces. The religious faction's strategic victories against seasoned Imperial commanders exposed vulnerabilities in the superpower's territorial defence that would have been unthinkable just years earlier.
+
+The occupation sent shockwaves through the Empire, prompting emergency sessions among naval planners and raising questions about how an independent religious movement had assembled sufficient combat capacity to defeat Imperial forces on their home ground. The Imperial Herald covered the crisis extensively, while Capitol monitored developments with growing concern. Though the Facece system would eventually return to Imperial control, the Allied Facece Order's temporary victory demonstrated that even the most secure superpower territories could be challenged by determined insurgent factions.

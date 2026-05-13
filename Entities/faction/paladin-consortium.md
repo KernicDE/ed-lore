@@ -9,12 +9,9 @@ related_entities:
 - onnes-gateway
 - lft-37-system
 - diamond-frogs
-bio: Paladin Consortium is a organization in the Elite Dangerous universe, active
-  from 3302-02-04 to 3302-02-11. Frequently linked with LFT 37 system, Onnes Gateway,
-  Diamond Frogs. The Paladin Consortium liberated Imperial slaves at Onnes Gateway
-  in LFT 37 but bureaucratic delays prevent them from legally obtaining housing or
-  employment. The Consortium appeals for water purifiers to ensure basic sanitation
-  while awaiting official release.
+bio: 'An anti-slavery organisation active in early 3302, the Paladin Consortium liberated
+  Imperial slaves at Onnes Gateway in LFT 37 and struggled against bureaucratic obstacles
+  to secure their basic needs.'
 ---
 
 
@@ -35,4 +32,6 @@ Total mentions: **3**
 
 ## Biography
 
-*[To be enriched]*
+In February 3302, the Paladin Consortium executed a daring liberation operation at Onnes Gateway in the LFT 37 system, freeing Imperial slaves held at the station. Yet the triumph of liberation quickly gave way to the grinding reality of bureaucratic inertia — the freed individuals could not legally obtain housing or employment while awaiting official release documentation, leaving them in a state of limbo that the Consortium described as barely better than bondage.
+
+The organisation appealed for water purifiers to ensure basic sanitation for the liberated slaves during the indefinite waiting period. Its connections to the Diamond Frogs suggested an alliance with other independent groups committed to direct action against Imperial labour practices. The Paladin Consortium's experience exposed the cruel paradox of anti-slavery work in the Empire: even successful liberation operations could be neutralised by administrative delays designed to discourage precisely such humanitarian interventions.

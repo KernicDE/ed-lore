@@ -9,12 +9,9 @@ related_entities:
 - leoniceno-orbital
 - azaleach
 - federal-times
-bio: Leoniceno Orbital medical staff is a medical in the Elite Dangerous universe,
-  active from 3302-03-23 to 3302-03-29. Frequently linked with Leoniceno Orbital,
-  Azaleach. Medical personnel at Leoniceno Orbital announce they will soon bring former
-  Federal President Jasmina Halsey out of her induced coma. President Zachary Hudson
-  confirms that former President Jasmina Halsey has been brought out of her induced
-  coma at Leoniceno Orbital.
+bio: 'The medical team at Leoniceno Orbital in the Azaleach system gained galactic
+  attention in March 3302 when they treated former Federal President Jasmina Halsey
+  after her rescue from deep space.'
 ---
 
 
@@ -35,4 +32,6 @@ Total mentions: **3**
 
 ## Biography
 
-*[To be enriched]*
+In March 3302, the medical staff at Leoniceno Orbital found themselves at the centre of a political and medical drama of galactic significance. Former Federal President Jasmina Halsey, who had been presumed dead after the destruction of Starship One, had been discovered alive in an escape pod and transported to the Azaleach system for emergency treatment. The medical team announced they would soon bring her out of an induced coma that had preserved her life during the long rescue operation.
+
+President Zachary Hudson confirmed the successful procedure, transforming a routine medical announcement into a moment of profound political implications. Halsey's survival threatened to destabilise the Hudson administration, which had consolidated power in her absence. The Leoniceno Orbital medical staff thus became unwitting participants in Federal succession politics, their clinical expertise enabling a political resurrection that would reverberate through Mars and beyond for years to come.

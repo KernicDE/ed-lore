@@ -11,11 +11,8 @@ related_entities:
 - felice-dock
 - phoenix-base
 - imperial-internal-security-service
-bio: HIP 29241 Green Party is a organization in the Elite Dangerous universe, active
-  from 3304-11-08 to 3304-11-17. Frequently linked with Meene Defence Force, Meene,
-  Felice Dock. The HIP 29241 Green Party oversees the initiative. The HIP 29241 Green
-  Party announces the successful conclusion of its escape pod recovery operation in
-  the Meene system.
+bio: 'An environmental and humanitarian faction active in late 3304, the HIP 29241
+  Green Party oversaw a successful escape pod recovery operation in the Meene system.'
 ---
 
 
@@ -38,4 +35,6 @@ Total mentions: **3**
 
 ## Biography
 
-*[To be enriched]*
+In November 3304, the HIP 29241 Green Party demonstrated that environmental factions could pivot effectively to humanitarian operations when crisis demanded. Working with the Meene Defence Force and operating from Felice Dock, the party launched an escape pod recovery operation in the Meene system — a search-and-rescue effort that located and retrieved pilots who had been stranded or lost in the region's dangerous space.
+
+The campaign's successful conclusion within days reflected both the party's organisational capacity and the willingness of independent pilots to support rescue operations regardless of political affiliation. The Green Party's involvement highlighted how factions traditionally focused on ecological issues could leverage their logistics networks for emergency response. Its connections to Phoenix Base and the Imperial Internal Security Service suggested that the rescue effort had broader strategic implications, possibly related to intelligence collection or the recovery of sensitive personnel from hostile territory.

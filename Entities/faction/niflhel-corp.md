@@ -11,11 +11,9 @@ related_entities:
 - aegis
 - alliance-interpol
 - league-of-reparation
-bio: Niflhel Corp is a corporate in the Elite Dangerous universe, active from 3304-06-15
-  to 3304-06-24. Frequently linked with Biruni Port, Niflhel, Rackham Capital Investments.
-  The Niflhel Corp places an open order for Cobalt, Semiconductors and Synthetic Fabrics,
-  to be delivered to Biruni Port in the Niflhel system. Hundreds of pilots delivered
-  commodities to Biruni Port in the Niflhel system and protected traders.
+bio: 'A corporate logistics firm active in the Niflhel system in mid-3304, Niflhel Corp
+  coordinated large-scale commodity deliveries to Biruni Port with support from hundreds
+  of independent pilots.'
 ---
 
 
@@ -38,4 +36,6 @@ Total mentions: **3**
 
 ## Biography
 
-*[To be enriched]*
+In June 3304, Niflhel Corp demonstrated the efficiency of corporate supply chain management when it placed open orders for cobalt, semiconductors and synthetic fabrics to be delivered to Biruni Port. Hundreds of pilots responded, creating a logistical surge that showcased both the corporation's procurement capacity and the pilot community's readiness to participate in well-organised commercial campaigns.
+
+The firm's connections to Rackham Capital Investments and its proximity to Aegis and Alliance Interpol operations suggested it operated within a network of organisations managing the material requirements of the anti-Thargoid war effort. Its brief but intense period of documented activity coincided with the League of Reparation crisis, during which Biruni Port served as both a logistics hub and a site of political significance. Niflhel Corp's ability to secure deliveries amid regional instability demonstrated the resilience of corporate logistics networks even during periods of heightened security concern.

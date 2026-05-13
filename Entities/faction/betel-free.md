@@ -11,11 +11,9 @@ related_entities:
 - betel-security
 - carrier-enterprise
 - alliance
-bio: Betel Free is a organization in the Elite Dangerous universe, active from 3304-08-24
-  to 3304-08-31. Frequently linked with Betel, Silver Creative Network, Carrier Enterprise.
-  Authorities confirm the conflict between the Silver Creative Network and Betel Free
-  in the Betel system has ended. General Hollis of Betel security expresses hope for
-  a period of prolonged peace.
+bio: 'One of two factions involved in a brief civil conflict in the Betel system in
+  late 3304, Betel Free ultimately accepted the end of hostilities alongside the Silver
+  Creative Network.'
 ---
 
 
@@ -38,4 +36,6 @@ Total mentions: **3**
 
 ## Biography
 
-*[To be enriched]*
+Betel Free emerged as one of the primary belligerents in the brief but intense civil conflict that erupted in the Betel system during August 3304. Opposing the Silver Creative Network for control of the small agricultural democracy, the faction represented a competing vision for Betel's future that drew support from segments of the population alienated by the Network's cultural and commercial policies.
+
+The conflict ended within days, with authorities confirming that both sides had accepted a cessation of hostilities. General Hollis of Betel security expressed hope for prolonged peace, though the speed of resolution suggested neither faction had achieved decisive advantage. Betel Free's participation in the conflict illustrated how even minor democratic systems could experience internal fractures when competing factions offered incompatible models of governance. The organisation's subsequent low profile indicated it either integrated into post-conflict political arrangements or lost sufficient support to remain a significant force.

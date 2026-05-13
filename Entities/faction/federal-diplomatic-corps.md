@@ -11,11 +11,9 @@ related_entities:
 - imperial-herald
 - core-dynamics
 - liberal-party
-bio: Federal Diplomatic Corps is a corporate in the Elite Dangerous universe, active
-  from 3304-07-07 to 3307-05-21. Frequently linked with Nova Imperium, Paresa, Core
-  Dynamics. Nova Imperium defeats the Federal-backed League of Mandu in the Paresa
-  system. Ambassador Catherine Carlisle of the Federal Diplomatic Corps admits Federal
-  intermediaries acted hastily and will depart.
+bio: 'The Federal Diplomatic Corps represented the Federation''s official foreign policy
+  apparatus, with Ambassador Catherine Carlisle admitting to missteps during the Nova Imperium
+  crisis in 3304.'
 ---
 
 
@@ -38,4 +36,6 @@ Total mentions: **3**
 
 ## Biography
 
-*[To be enriched]*
+The Federal Diplomatic Corps found itself in an uncharacteristically defensive position in July 3304 when Nova Imperium defeated the Federal-backed League of Mandu in the Paresa system. Ambassador Catherine Carlisle, the Corps' senior representative in the region, was forced to admit that Federal intermediaries had acted hastily in supporting the League and announced their immediate departure from the conflict zone.
+
+The episode damaged the Corps' reputation for strategic patience and careful assessment. By backing the League of Mandu without fully understanding local Imperial political dynamics, the Federation had squandered both resources and credibility. Carlisle's concession — rare for a senior diplomat — reflected the reality that Nova Imperium's grassroots support within the Empire had been underestimated. The Federal Diplomatic Corps would spend years rebuilding its analytical capabilities after this humiliation, though the Paresa debacle remained a cautionary tale within foreign policy circles.

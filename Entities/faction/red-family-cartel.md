@@ -10,12 +10,9 @@ related_entities:
 - olympus-village
 - sol
 - federal-times
-bio: Red Family Cartel is a criminal in the Elite Dangerous universe, active from
-  3305-07-05 to 3305-08-02. Frequently linked with Federal Intelligence Agency, Olympus
-  Village. Red Family co-founder Jan Sandoval reveals the cartel has developed a genetically
-  engineered designer narcotic far more addictive than existing substances. A mercenary
-  hit squad infiltrates FIA headquarters in Olympus Village attempting to assassinate
-  Red Family co-founder Jan Sandoval in protective custody.
+bio: 'A powerful narcotics cartel active in mid-3305, the Red Family developed a genetically
+  engineered designer drug and became embroiled in a deadly confrontation with the Federal
+  Intelligence Agency.'
 ---
 
 
@@ -37,4 +34,6 @@ Total mentions: **3**
 
 ## Biography
 
-*[To be enriched]*
+In July 3305, the Red Family Cartel revealed its most terrifying product yet: a genetically engineered designer narcotic far more addictive than any existing substance. Co-founder Jan Sandoval's disclosure sent shockwaves through law enforcement agencies, prompting the Federal Intelligence Agency to place her in protective custody at its Olympus Village headquarters in the Sol system.
+
+The cartel responded with chilling efficiency. A mercenary hit squad infiltrated FIA headquarters in an audacious assassination attempt against Sandoval — an operation that demonstrated both the Red Family's resources and its willingness to strike at the heart of Federal power. The Federal Times covered the crisis extensively, transforming a narcotics investigation into a national security emergency. The Red Family Cartel's ability to challenge the FIA on its home turf established it as one of the most dangerous criminal organisations in Federal territory, capable of operating at a level previously associated only with superpower intelligence agencies.

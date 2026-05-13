@@ -11,12 +11,9 @@ related_entities:
 - social-falisci-partnership
 - social-falisci-partnership-party
 - ngaiawang
-bio: Falisci Purple Gang is a criminal in the Elite Dangerous universe, active from
-  3301-03-04 to 3301-03-27. Frequently linked with Citizens of Tradition, Falisci,
-  Social Falisci Partnership. Imperial forces decimated the Falisci Purple Gang's
-  fleet five days after the Citizens of Tradition declared war against them. Only
-  a handful of pirates remain to defend their territory against the Citizens of Tradition
-  and thousands of loyal Imperial citizens who flocked to Falisci.
+bio: 'A pirate collective active in the Falisci system in early 3301, the Falisci Purple
+  Gang was rapidly crushed by Imperial forces after the Citizens of Tradition declared
+  war on them.'
 ---
 
 
@@ -39,4 +36,6 @@ Total mentions: **3**
 
 ## Biography
 
-*[To be enriched]*
+The Falisci Purple Gang's reign over the Falisci system ended with shocking speed in March 3301. Five days after the Citizens of Tradition declared war on the pirate collective, Imperial forces had decimated their fleet, leaving only a handful of survivors to defend crumbling territorial claims against both the Citizens of Tradition and thousands of loyal Imperial citizens who flocked to the system to participate in the rout.
+
+The gang's rapid collapse exposed the vulnerability of criminal organisations that depended on local intimidation rather than institutional support. Unlike the Kumo Crew or larger syndicates with diversified revenue streams, the Falisci Purple Gang had concentrated its assets in a single system, making it an easy target for coordinated military action. The Social Falisci Partnership's subsequent dominance in the region demonstrated how quickly legitimate governance could be restored when both imperial authority and local militias aligned against organised crime.

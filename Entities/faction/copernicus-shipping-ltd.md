@@ -11,9 +11,9 @@ related_entities:
 - burnell-station
 - alliance
 - libertas-cooperative
-bio: Copernicus Shipping Ltd is a organization in the Elite Dangerous universe, active
-  from 3304-09-20 to 3304-09-28. Frequently linked with Federal Security Service,
-  Achilles Corporation, Burnell Station.
+bio: 'A logistics firm active in late 3304, Copernicus Shipping Ltd maintained close
+  ties to the Federal Security Service and Achilles Corporation while operating from
+  Burnell Station.'
 ---
 
 
@@ -36,4 +36,6 @@ Total mentions: **3**
 
 ## Biography
 
-*[To be enriched]*
+Copernicus Shipping Ltd operated at the intersection of legitimate commerce and Federal security interests during September 3304. The firm's close relationship with the Federal Security Service suggested its logistics networks served purposes beyond simple freight transport, while its partnership with Achilles Corporation placed it within the orbit of one of the Federation's most aggressive defence contractors.
+
+The Alliance and Libertas Cooperative also maintained connections to the firm, indicating that Copernicus Shipping's operations extended across superpower boundaries despite its Federal roots. Operating from Burnell Station, the company handled cargo flows that linked military, corporate and political actors in ways that resisted simple categorisation. Though its period of documented activity lasted barely a week, the firm's web of relationships hinted at the complex logistics infrastructure that supported both overt and covert operations across inhabited space.

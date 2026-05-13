@@ -20,22 +20,6 @@ bio: Silver Creative Network is a media in the Elite Dangerous universe, active 
 
 
 
-<!-- AUTO-GENERATED -->
+Silver Creative Network functioned as a media organisation active within the Betel system, where it became embroiled in a prolonged feud with the local faction Betel Free. What began as political or ideological disagreement escalated into open violence during late 3304, drawing in system security forces and attracting wider attention from neighbouring powers. The conflict highlighted how media entities in frontier systems could become direct participants in local power struggles rather than neutral observers.
 
-# Silver Creative Network
-
-First mentioned: **3304-08-24**  
-Last mentioned: **3304-08-31**  
-Total mentions: **3**
-
-## Related
-
-- [[Betel Free]] (3 co-mentions)
-- [[Betel]] (3 co-mentions)
-- [[Betel security]] (2 co-mentions)
-- [[Carrier Enterprise]] (2 co-mentions)
-- [[Alliance]] (1 co-mentions)
-
-## Biography
-
-*[To be enriched]*
+Authorities eventually confirmed the cessation of hostilities between Silver Creative Network and Betel Free, though the underlying grievances that sparked the confrontation remained largely undisclosed. The episode served as an example of how quickly tensions could escalate in systems where multiple factions compete for influence, with media organisations sometimes finding themselves on the front lines of territorial disputes.

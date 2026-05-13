@@ -11,12 +11,9 @@ related_entities:
 - bobko-city
 - aegis
 - iiss
-bio: Narri Justice Party is a organization in the Elite Dangerous universe, active
-  from 3304-05-04 to 3304-05-13. Frequently linked with Utopia, Narri, Bobko City.
-  The Utopia commune has launched a project to build a military installation in the
-  Narri system to defend the Sim-Archive from potential Thargoid attack. The Narri
-  Justice Party is overseeing construction and has requested pilots deliver materials
-  to Bobko City while protecting traders from pirates.
+bio: 'A local faction in the Narri system, the Narri Justice Party oversaw construction
+  of a Utopian military installation to defend the Sim-Archive from Thargoid attack
+  in mid-3304.'
 ---
 
 
@@ -39,4 +36,6 @@ Total mentions: **3**
 
 ## Biography
 
-*[To be enriched]*
+In May 3304, the Narri Justice Party assumed responsibility for one of Utopia's most strategically sensitive projects: constructing a military installation to defend the Sim-Archive from potential Thargoid attack. The Sim-Archive, which contained the digitised consciousness patterns of Utopian citizens, represented a unique cultural and technological asset that Pranav Antal was determined to protect at all costs.
+
+The Justice Party coordinated material deliveries to Bobko City and organised trader protection against pirate raids that sought to exploit the construction traffic. Their connections to Aegis and the Imperial Internal Security Service hinted at broader defensive coordination beyond Utopia's usual isolationist posture. The Narri Justice Party's role demonstrated how even local factions could be drawn into galaxy-spanning strategic concerns when their territory housed assets of universal significance.

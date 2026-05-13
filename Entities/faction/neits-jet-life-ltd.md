@@ -11,12 +11,9 @@ related_entities:
 - watson-settlement
 - new-galactic-cooperative-of-worlds
 - federal-navy
-bio: Neits Jet Life Ltd is a organization in the Elite Dangerous universe, active
-  from 3302-05-19 to 3302-05-26. Frequently linked with GR 316 Silver Universal Group,
-  Neits system, Watson Settlement. The Neits system erupts into conflict as Federation-aligned
-  Neits Jet Life Ltd clashes with Imperial GR 316 Silver Universal Group. After a
-  week of intense conflict, Federation-aligned Neits Jet Life Ltd defeats the Imperial
-  GR 316 Silver Universal Group in the Neits system.
+bio: 'A Federation-aligned faction active in early 3302, Neits Jet Life Ltd defeated
+  the Imperial-aligned GR 316 Silver Universal Group after a week of intense conflict
+  in the Neits system.'
 ---
 
 
@@ -39,4 +36,6 @@ Total mentions: **3**
 
 ## Biography
 
-*[To be enriched]*
+In May 3302, Neits Jet Life Ltd emerged victorious from a brutal week-long conflict that pitted Federation-aligned forces against the Imperial-backed GR 316 Silver Universal Group in the Neits system. The victory demonstrated that Federation support, even when indirect, could tip the balance in frontier proxy wars where both sides fielded roughly equivalent military capacity.
+
+The faction's connections to Watson Settlement and the New Galactic Cooperative of Worlds suggested a network of allied progressive movements that supported each other across multiple systems. Neits Jet Life Ltd's triumph in Neits provided a morale boost for Federal interests in a region where Imperial factions had been making steady gains. However, the limited Federal Navy involvement also revealed the superpower's reluctance to commit uniformed forces to conflicts that might escalate into direct superpower confrontation.

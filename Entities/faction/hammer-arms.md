@@ -11,12 +11,9 @@ related_entities:
 - hel
 - adles-armada
 - labour-party-of-caill-reddi
-bio: Hammer Arms is a organization in the Elite Dangerous universe, active from 3301-07-08
-  to 3301-07-24. Frequently linked with Emperor's Grace, Cosmic State, Hel. Hammer
-  Arms of Cosmic State reached an unprecedented agreement with Emperor's Grace, the
-  first such deal between the independent group and an Imperial faction. Adle's Armada,
-  a Federally aligned militia, responded to reports of an illegal arms deal between
-  Cosmic State's Hammer Arms and Emperor's Grace.
+bio: 'The military wing of Cosmic State, Hammer Arms negotiated an unprecedented arms
+  agreement with Emperor''s Grace in mid-3301 — the first such deal between an independent
+  group and an Imperial faction.'
 ---
 
 
@@ -39,4 +36,6 @@ Total mentions: **3**
 
 ## Biography
 
-*[To be enriched]*
+In July 3301, Hammer Arms achieved a diplomatic breakthrough that sent shockwaves through superpower intelligence networks. The military wing of Cosmic State reached an unprecedented agreement with Emperor's Grace, marking the first formal arms deal between an independent organisation and an Imperial faction. The arrangement suggested that Imperial hardliners were willing to circumvent official channels to acquire weapons and support from unconventional allies.
+
+Adle's Armada, a Federally aligned militia, responded immediately to reports of the deal, treating the independent-Imperial collaboration as a threat to regional stability. The incident highlighted how blurred the lines between legitimate factional alliances and illegal arms trafficking had become in the early 3300s. Hammer Arms' ability to bridge the gap between independent and Imperial military structures demonstrated both the flexibility of non-superpower actors and the risks such arrangements posed to the formal diplomatic order.

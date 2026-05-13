@@ -21,22 +21,6 @@ bio: Steel Castle Inc is a organization in the Elite Dangerous universe, active 
 
 
 
-<!-- AUTO-GENERATED -->
+Steel Castle Inc operates as a construction and engineering firm specialising in industrial infrastructure development across multiple systems including Tenche and Nagasairu. In 3306, the company formed a strategic partnership with Kavanagh Spaceframes Ltd and Brewer Corporation to upgrade existing refinery outposts into full starports. This collaboration aimed to expand fleet carrier refuelling access for larger vessels, addressing a critical infrastructure gap that had limited deep-space logistics operations.
 
-# Steel Castle Inc
-
-First mentioned: **3306-09-11**  
-Last mentioned: **3306-09-21**  
-Total mentions: **3**
-
-## Related
-
-- [[Kavanagh Spaceframes Ltd]] (3 co-mentions)
-- [[Pilots Federation]] (2 co-mentions)
-- [[Tenche]] (2 co-mentions)
-- [[Nagasairu]] (2 co-mentions)
-- [[Brewer Corporation]] (1 co-mentions)
-
-## Biography
-
-*[To be enriched]*
+The joint initiative required substantial commodity deliveries from independent pilots to complete conversions across ten target systems. Steel Castle Inc's expertise in heavy construction proved essential to the project, demonstrating how specialised engineering firms could partner with major corporations to reshape the galaxy's port infrastructure. Their involvement highlighted the ongoing expansion of human presence into frontier regions through systematic infrastructure upgrades.

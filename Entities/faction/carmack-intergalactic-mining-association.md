@@ -8,13 +8,9 @@ mention_count: 3
 related_entities:
 - halbara
 - wasden-colony
-bio: Carmack Intergalactic Mining Association is a organization in the Elite Dangerous
-  universe, active from 3302-02-22 to 3302-05-06. Frequently linked with Halbara,
-  Wasden Colony. Benjamin Gorrister of the Carmack Intergalactic Mining Association
-  launches an initiative to discover pristine metallic ring locations. Maxim 'VicTic'
-  Kammerer of the Carmack Intergalactic Mining Association announces that the CIMA
-  prospectors' competition has doubled the number of known pristine metallic ring
-  locations.
+bio: 'An independent mining consortium active in early 3302, the Carmack Intergalactic
+  Mining Association organised a prospectors'' competition that doubled the number of
+  known pristine metallic ring locations.'
 ---
 
 
@@ -34,4 +30,6 @@ Total mentions: **3**
 
 ## Biography
 
-*[To be enriched]*
+The Carmack Intergalactic Mining Association understood that exploration and commerce were two sides of the same coin. In February 3302, Benjamin Gorrister launched an initiative calling on pilots to discover pristine metallic ring locations — asteroid fields rich in valuable minerals that had not yet been exploited by major mining corporations. The response exceeded all expectations.
+
+By May, Maxim "VicTic" Kammerer announced that the CIMA prospectors' competition had doubled the number of known pristine metallic ring locations in galactic databases. The achievement represented a triumph of crowdsourced cartography, demonstrating how independent pilots could advance collective knowledge faster than corporate survey teams operating within traditional hierarchies. The Association's work fundamentally expanded the economic map of the galaxy, identifying new resource frontiers that would support decades of subsequent mining operations.

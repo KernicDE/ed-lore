@@ -11,11 +11,8 @@ related_entities:
 - alliance
 - federal-security-service
 - sirius-corporation
-bio: Loha Holdings is a organization in the Elite Dangerous universe, active from
-  3304-11-22 to 3304-11-29. Frequently linked with Loha, New Loha Party, Cordova Group.
-  The conflict between Loha Holdings and the New Loha Party in the Loha system ends.
-  A long-standing rivalry between Loha Holdings and the New Loha Party in the Loha
-  system erupts into full-scale conflict.
+bio: 'A corporate faction in the Loha system, Loha Holdings fought a brief but intense
+  war against the New Loha Party in late 3304, ending a long-standing rivalry.'
 ---
 
 
@@ -38,4 +35,6 @@ Total mentions: **3**
 
 ## Biography
 
-*[To be enriched]*
+In November 3304, a long-standing rivalry between Loha Holdings and the New Loha Party erupted into full-scale conflict in the Loha system. The corporate faction, backed by interests including the Cordova Group, faced off against its political rival in a war that reflected deep divisions within the system's governance structure — divisions that had festered for years beneath a surface of cooperative stability.
+
+The conflict ended as abruptly as it began, with both factions accepting a cessation of hostilities within days. The rapid resolution suggested that neither side had achieved decisive advantage, or that external pressure from Alliance and Sirius Corporation observers had forced a negotiated settlement. Loha Holdings' role in the episode illustrated how corporate entities in independent systems could behave as political factions in their own right, fielding military forces and competing for territorial control with the same intensity as ideological or democratic movements.

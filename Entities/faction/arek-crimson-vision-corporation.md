@@ -11,12 +11,9 @@ related_entities:
 - aegis
 - pilots-federation
 - colonia-council
-bio: Arek Crimson Vision Corporation is a corporate in the Elite Dangerous universe,
-  active from 3304-03-02 to 3304-03-09. Frequently linked with Gold Hub, Arek, Aegis.
-  Arek Crimson Vision Corporation has launched a campaign to boost Colonia's military
-  strength by providing weapons to the region, in direct response to ongoing Thargoid
-  hostility. The corporation has placed an open order for weapons and promises rewards
-  to pilots who deliver goods to Gold Hub.
+bio: 'A corporate arms supplier active in early 3304, Arek Crimson Vision Corporation
+  launched a weapons supply campaign to bolster Colonia''s defences against the Thargoid
+  threat.'
 ---
 
 
@@ -39,4 +36,6 @@ Total mentions: **3**
 
 ## Biography
 
-*[To be enriched]*
+In March 3304, Arek Crimson Vision Corporation identified an emerging market in the Colonia region's need for military materiel. With Thargoid hostility escalating across inhabited space, the remote colony lacked the industrial base to produce its own weapons in sufficient quantities. The corporation launched a campaign to boost Colonia's military strength by supplying arms directly, placing open orders for weapons and promising rewards to pilots who delivered goods to Gold Hub.
+
+The initiative attracted support from Aegis and the Pilots Federation, both recognising that a defenceless Colonia would represent a catastrophic vulnerability in humanity's strategic posture. Arek Crimson Vision Corporation's ability to mobilise supply chains across thousands of light-years demonstrated the increasing sophistication of corporate logistics networks in the mid-3300s. Though its campaign lasted barely a week, the weapons delivered during that window contributed to Colonia's defensive capacity during a critical period of Thargoid expansion.
