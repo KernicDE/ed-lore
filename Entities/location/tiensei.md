@@ -24,11 +24,9 @@ economy: Agriculture
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system/id/18988/name/T%27iensei
 inara_url: https://inara.cz/elite/starsystem/?search=T%27iensei
-bio: T'iensei is a star system in the Elite Dangerous universe, significant from 3304-05-25
-  to 3304-06-03. Associated with Autocracy of T’iensei, League of Reparation, Los
-  Chupacabras. The Autocracy of T'iensei placed kill orders on criminals in their
-  system. The Autocracy of T'iensei announces its campaign to clear the system of
-  agitators has been successful.
+bio: 'A populous independent agricultural communist system with over three billion
+  inhabitants, T'iensei experienced internal unrest in mid-3304 that drew in the League
+  of Reparation and Los Chupacabras.'
 ---
 
 
@@ -51,4 +49,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+With over three billion inhabitants sustained by agriculture and refinery operations, T'iensei represented one of the larger independent communist systems in its sector. In May 3304, the Autocracy of T'iensei — the system's governing faction despite the communist classification — found itself battling widespread criminal activity and agitators whose connections extended to both the League of Reparation and the Los Chupacabras pirate collective.
+
+The faction responded with uncompromising force, placing kill orders on all wanted vessels and promising substantial rewards to pilots who delivered bounty vouchers to Dzhanibekov Port. Within days, the Autocracy announced that its campaign had succeeded in clearing the system of disruptive elements. T'iensei's rapid restoration of order demonstrated how even large populations could be secured when factions were willing to pay for mercenary enforcement — a model that independent systems across the galaxy would increasingly adopt as superpower influence waxed and waned.

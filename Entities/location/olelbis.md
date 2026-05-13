@@ -24,11 +24,8 @@ economy: Industrial
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system/id/6826/name/Olelbis
 inara_url: https://inara.cz/elite/starsystem/?search=Olelbis
-bio: Olelbis is a star system in the Elite Dangerous universe, significant from 3304-11-15
-  to 3304-11-24. Associated with Olelbis Holdings, Cordova Group, Mars Tribune. Olelbis
-  Holdings announces an elaborate social function at Polyakov Orbital in the Olelbis
-  system. Olelbis Holdings announces the successful conclusion of its commodity appeal
-  for a social function at Polyakov Orbital.
+bio: 'A Federation corporate industrial system with four million inhabitants, Olelbis
+  briefly hosted an elaborate social function at Polyakov Orbital in late 3304.'
 ---
 
 
@@ -51,4 +48,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+In November 3304, Olelbis Holdings announced plans for an elaborate social function at Polyakov Orbital, transforming the modest industrial system into an unlikely venue for corporate entertainment. The event required a significant commodity appeal to secure the necessary supplies, drawing pilots into hauling operations for what was essentially a high-society party hosted by a Federal reclamation corporation.
+
+The system's connections to both the Cordova Group and Nova Imperium hinted at political dimensions beneath the social surface. Olelbis Holdings' ability to mobilise resources from across the system demonstrated how even relatively small corporate entities could project influence when they controlled critical infrastructure. The successful conclusion of the appeal within days underscored the efficiency of pilot-driven logistics networks, even when deployed for purposes that many independent commanders might have considered frivolous.

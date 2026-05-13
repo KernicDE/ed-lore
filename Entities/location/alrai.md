@@ -24,11 +24,9 @@ economy: High Tech
 second_economy: Service
 edsm_url: https://www.edsm.net/en/system/id/10746/name/Alrai
 inara_url: https://inara.cz/elite/starsystem/?search=Alrai
-bio: Alrai is a star system in the Elite Dangerous universe, significant from 3302-03-16
-  to 3312-01-17. Associated with Deep Space Surveys, Distant Worlds, Balkan Intergalactic
-  Guerrillas. Contributing pilots may collect rewards at Surveyor's Reach in Alrai.
-  Competitors included Blood Brothers from Alrai, Ronin of Amarak, Triadius, Contrail,
-  and the Balkan Intergalactic Guerrillas.
+bio: 'A Federation high-tech democracy, Alrai served as a waypoint and logistics hub
+  for deep-space expeditions including Distant Worlds, with Surveyor''s Reach as its
+  primary starport.'
 ---
 
 
@@ -51,4 +49,6 @@ Total mentions: **3**
 
 ## Biography
 
-*[To be enriched]*
+Alrai's Surveyor's Reach starport established the system as an essential waypoint for deep-space expeditions during the early 3300s. The Distant Worlds Expedition and Deep Space Survey programmes both used Alrai as a staging point, drawing pilots from across the galaxy into a competitive environment where factions like the Blood Brothers, Ronin of Amarak, Triadius and the Balkan Intergalactic Guerrillas vied for recognition alongside more conventional explorers.
+
+The system's high-tech economy and democratic governance under the Blood Brothers from Alrai created an unusual political culture that welcomed independent pilots rather than treating them as temporary visitors. Over the following decade, Alrai continued to appear in expedition-related records, suggesting it maintained its reputation as a reliable resupply point for journeys into the galactic outer reaches. Its persistence in the records across ten years demonstrated how well-positioned systems could build lasting identities around exploration support.

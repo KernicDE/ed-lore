@@ -9,11 +9,9 @@ related_entities:
 - rakapila
 - stone-enterprise
 - supratech
-bio: People's Rakapila Progressive Party is a organization in the Elite Dangerous
-  universe, active from 3303-06-30 to 3305-02-07. Frequently linked with Rakapila,
-  Stone Enterprise, Supratech. The People's Rakapila Progressive Party has issued
-  a request for domestic appliances, consumer technology and clothing to stimulate
-  the Rakapila system's economy following a population spike.
+bio: 'A progressive faction in the Rakapila system, the People''s Rakapila Progressive
+  Party organised commodity drives to stimulate economic growth after a population surge
+  between 3303 and 3305.'
 ---
 
 
@@ -34,4 +32,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Responding to rapid population growth that strained existing infrastructure, the People's Rakapila Progressive Party launched a series of commodity drives calling for domestic appliances, consumer technology and clothing. Working alongside Stone Enterprise and Supratech, the faction sought to transform a demographic challenge into an economic opportunity by ensuring that new arrivals had access to the goods necessary for establishing households and productive lives.
+
+The initiative spanned nearly two years, reflecting both the scale of the population spike and the faction's methodical approach to development. Unlike factions that relied on military expansion or political manoeuvring, the Progressive Party focused on tangible quality-of-life improvements. Its partnership with major technology firms like Supratech ensured that Rakapila's growing population received modern equipment, positioning the system for sustainable expansion rather than the chaotic overcrowding that plagued less organised colonies.

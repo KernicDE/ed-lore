@@ -11,11 +11,9 @@ related_entities:
 - alliance
 - church-of-eternal-void
 - far-god-cult
-bio: Cobra Wing is a organization in the Elite Dangerous universe, active from 3304-07-13
-  to 3304-07-22. Frequently linked with Ebor, Morris Enterprise. Cobra Wing launches
-  an initiative to build a new research outpost in the Ebor system focused on Thargoid
-  inter-species communication research. Cobra Wing announces its Ebor research outpost
-  campaign was enthusiastically received.
+bio: 'An independent faction active in mid-3304, Cobra Wing pursued the controversial
+  goal of establishing Thargoid inter-species communication research at a new outpost
+  in the Ebor system.'
 ---
 
 
@@ -38,4 +36,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+In July 3304, Cobra Wing announced an ambitious and controversial initiative: constructing a dedicated research outpost in the Ebor system to study Thargoid inter-species communication. While most anti-xeno efforts focused on military deterrence, Cobra Wing's approach reflected the influence of the Church of Eternal Void and Far God cult — factions that viewed alien contact through theological rather than strategic lenses.
+
+The campaign attracted enthusiastic pilot support, and the outpost was soon operational. Working from Morris Enterprise facilities, Cobra Wing's researchers began analysing Thargoid behavioural patterns for evidence of linguistic or symbolic communication. Though mainstream scientists and Aegis officials remained deeply sceptical, the project represented a rare attempt to understand rather than destroy the galaxy's most enigmatic intelligence. Cobra Wing's work challenged the prevailing assumption that humanity's only viable relationship with Thargoids was one of total war.

@@ -17,12 +17,9 @@ coords:
   z: 0.4375
 population: 944213230
 edsm_url: https://www.edsm.net/en/system?search=Morrina
-bio: Morrina system is a star system in the Elite Dangerous universe, significant
-  from 3302-04-07 to 3302-05-05. Associated with Alliance, Morrina Pro-Alliance Party,
-  Spinward Marches Alliance Concern. The Morrina system faces widespread civil unrest
-  due to rampant criminal activity. The Morrina Pro-Alliance Party places a kill order
-  on all wanted ships and promises rewards for pilots who deliver bounty vouchers
-  to Barjavel Vision.
+bio: 'An Alliance system with nearly a billion inhabitants, Morrina experienced severe
+  civil unrest in early 3302 due to rampant criminal activity that prompted the Pro-Alliance
+  Party to issue system-wide kill orders.'
 ---
 
 <!-- AUTO-GENERATED -->
@@ -43,4 +40,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+By April 3302, the Morrina system had descended into chaos. Widespread civil unrest, fuelled by rampant criminal activity, threatened to destabilise a population of nearly a billion people. The Morrina Pro-Alliance Party, working with the Spinward Marches Alliance Concern, responded with extraordinary measures: kill orders on all wanted ships and substantial rewards for pilots delivering bounty vouchers to Barjavel Vision.
+
+The campaign reflected both the severity of the crisis and the Alliance's characteristic reliance on independent pilots for internal security. Unlike the Empire or Federation, which might have deployed uniformed troops, the Alliance delegated law enforcement to bounty hunters and volunteer combatants. The Morrina system's experience demonstrated how this model could succeed under extreme pressure — provided enough pilots answered the call. Within weeks, the Pro-Alliance Party announced significant progress in restoring order.

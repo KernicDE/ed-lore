@@ -24,8 +24,8 @@ economy: Refinery
 second_economy: Terraforming
 edsm_url: https://www.edsm.net/en/system/id/19959/name/Iapodes
 inara_url: https://inara.cz/elite/starsystem/?search=Iapodes
-bio: Iapodes is a star system in the Elite Dangerous universe, significant from 3301-11-19
-  to 3302-02-24.
+bio: 'A small independent democracy with a refinery economy, Iapodes was controlled
+  by Sirius Inc during a brief period of mention in late 3301 and early 3302.'
 ---
 
 
@@ -48,4 +48,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Iapodes supported barely a hundred and fifty thousand inhabitants when it entered galactic records in late 3301, a tiny independent democracy governed from afar by Sirius Inc. The system's refinery and terraforming economy placed it within a cluster of similarly modest settlements that included 49 Arietis, 64 Arietis and Warkushanui — all experiencing the technological plague's early disruptions.
+
+Though Iapodes itself never became a major story, its co-mention patterns revealed how the plague and other crises of 3301–3302 affected systems across vast distances simultaneously. The system's low-security environment and small population made it typical of the frontier territories where Sirius Corporation expanded its influence through corporate governance rather than direct ownership. Iapodes represented the kind of quiet, unremarkable system that formed the connective tissue of inhabited space.

@@ -24,11 +24,9 @@ economy: Extraction
 second_economy: Agriculture
 edsm_url: https://www.edsm.net/en/system/id/5464/name/Ackwada
 inara_url: https://inara.cz/elite/starsystem/?search=Ackwada
-bio: Ackwada is a star system in the Elite Dangerous universe, significant from 3306-09-30
-  to 3306-10-14. Associated with Imperial Internal Security Service, Duduseklis Empire
-  League, Pilots Federation. Martial law is declared in Ackwada, Beatis, Chana and
-  Nahuatl. The Empire targets the Duduseklis Empire League in Ackwada, suspecting
-  it of NMLA recruitment.
+bio: 'An Imperial extraction system with ninety million inhabitants, Ackwada was placed
+  under martial law in September 3306 after the Empire suspected the Duduseklis Empire
+  League of NMLA recruitment activities.'
 ---
 
 
@@ -51,4 +49,6 @@ Total mentions: **3**
 
 ## Biography
 
-*[To be enriched]*
+In September 3306, martial law descended on Ackwada alongside three other systems — Beatis, Chana and Nahuatl — as the Imperial Internal Security Service launched a coordinated crackdown on suspected NMLA sympathisers. The Duduseklis Empire League, which had operated openly in Ackwada for years, suddenly found itself the target of mass arrests and asset seizures as the Empire sought to sever terrorist recruitment networks at their roots.
+
+The speed and scale of the operation reflected both the seriousness of the NMLA threat and the Empire's willingness to suspend normal governance when security was at stake. For Ackwada's ninety million inhabitants, the transition from corporate stability to military occupation occurred with minimal warning. The system's experience demonstrated how even well-established Imperial territories could become emergency zones when the ruling power detected existential threats to its authority.

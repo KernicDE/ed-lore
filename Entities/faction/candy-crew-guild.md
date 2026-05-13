@@ -8,12 +8,8 @@ mention_count: 3
 related_entities:
 - irusan
 - bella-port
-bio: Candy Crew Guild is a criminal in the Elite Dangerous universe, active from 3302-12-06
-  to 3303-10-06. Frequently linked with Bella Port, Irusan. The Candy Crew Guild is
-  dominating the midpoint of the Kick The Alien Buckyball race, with Commander Nookie
-  Mr.Smith leading followed by Commanders Raijiin and Rewision. The Candy Crew Guild
-  announces plans to establish a capital shipyard and scientific research vessel in
-  the Irusan system.
+bio: 'A criminal faction with unorthodox ambitions, the Candy Crew Guild combined illegal
+  activities with legitimate racing and scientific endeavours between 3302 and 3303.'
 ---
 
 
@@ -33,4 +29,6 @@ Total mentions: **3**
 
 ## Biography
 
-*[To be enriched]*
+The Candy Crew Guild defied easy categorisation as a criminal organisation. While firmly classified as illegal, its activities ranged from traditional smuggling to sponsoring Buckyball racers — including Commander Nookie Mr.Smith, who led the Kick The Alien race at its midpoint, followed by fellow guild members Raijiin and Rewision. This dual identity allowed the faction to operate in plain sight while maintaining profitable criminal sidelines.
+
+In late 3303, the Guild announced even more ambitious plans: establishing a capital shipyard and scientific research vessel in the Irusan system. The proposal suggested long-term strategic thinking unusual for criminal organisations, positioning the Candy Crew Guild as a faction that sought legitimacy through infrastructure rather than through political alliances. Whether the shipyard was ever completed remains unclear, but the announcement alone demonstrated how the boundaries between criminal and corporate enterprise had blurred in the frontier systems of the early 3300s.

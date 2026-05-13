@@ -11,8 +11,9 @@ related_entities:
 - alioth
 - eotienses
 - kamadhenu
-bio: Rhea and Sol is a star system in the Elite Dangerous universe, significant from
-  3307-03-12 to 3307-03-25. Associated with NMLA.
+bio: 'A system that became briefly associated with NMLA activity in March 3307, Rhea
+  and Sol surfaced in GalNet coverage during the early days of the Neo-Marlinist terrorist
+  campaign.'
 ---
 
 <!-- AUTO-GENERATED -->
@@ -33,4 +34,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+In March 3307, Rhea and Sol appeared in GalNet's coverage of the emerging Neo-Marlinist Liberation Army threat alongside better-known targets like Achenar, Alioth, Eotienses and Kamadhenu. The system's inclusion in this select group suggested that NMLA planners viewed it as strategically significant, though the exact nature of the terrorist connection remained partially obscured by ongoing investigations.
+
+The co-mention pattern revealed NMLA's ambition to strike across superpower boundaries simultaneously — Rhea and Sol's position within the Federation made it a natural target alongside Imperial systems like Achenar and Eotienses. Though the details of any specific attack or foiled plot were never fully disclosed, the system's brief but intense association with the NMLA narrative underscored how nowhere in inhabited space could consider itself immune from the terrorist organisation's reach.

@@ -24,12 +24,8 @@ economy: Military
 second_economy: Agriculture
 edsm_url: https://www.edsm.net/en/system/id/782252/name/Arietis%20Sector%20XE-Z%20b4
 inara_url: https://inara.cz/elite/starsystem/?search=Arietis%20Sector%20XE-Z%20b4
-bio: Arietis Sector XE-Z b4 is a star system in the Elite Dangerous universe, significant
-  from 3304-02-23 to 3304-03-04. Associated with Federation. The new operation targets
-  Pleiades Sector OI-T c3-7 and Arietis Sector XE-Z b4, where large concentrations
-  of Thargoid ships have been reported. Admiral Denton Patreus has announced the successful
-  conclusion of a joint Federal-Imperial operation in the Pleiades Sector OI-T c3-7
-  and Arietis Sector XE-Z b4 systems.
+bio: 'A sparsely populated independent military system, Arietis Sector XE-Z b4 was
+  the site of a rare joint Federal-Imperial anti-Thargoid operation in early 3304.'
 ---
 
 
@@ -52,4 +48,6 @@ Total mentions: **3**
 
 ## Biography
 
-*[To be enriched]*
+In February 3304, Arietis Sector XE-Z b4 became one of two systems targeted by a rare joint Federal-Imperial operation after large concentrations of Thargoid ships were detected within its bounds. Admiral Denton Patreus announced the campaign's successful conclusion within days, highlighting the unusual cooperation between superpowers that typically treated each other as strategic competitors.
+
+The system's tiny population of under thirty thousand, governed by the Anti Xeno Initiative under an independent patronage charter, offered minimal indigenous defence capacity. Most combat operations centred on Orcus Crag and the PRE Logistics Support Beta installation, with both Federal and Imperial naval vessels operating in coordination — a sight almost unprecedented in recent galactic history. Arietis Sector XE-Z b4 demonstrated that even bitter rivals could find common ground when faced with an existential alien threat, though observers noted that the cooperation ended as abruptly as it began once the immediate crisis passed.

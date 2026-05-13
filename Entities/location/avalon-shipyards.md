@@ -11,11 +11,9 @@ related_entities:
 - imperial-herald
 - alliance
 - federation
-bio: Avalon shipyards is a star system in the Elite Dangerous universe, significant
-  from 3301-05-02 to 3301-07-21. Associated with Imperial Herald. Leaked images from
-  the Avalon shipyards suggest Senator Kahina Tijani Loren's Imperial Courier 'Seven
-  Veils' is undergoing significant upgrades to drives, shields and frame-shift drive
-  components.
+bio: 'A high-profile shipyard facility, Avalon became briefly famous in mid-3301 when
+  leaked images revealed Senator Kahina Tijani Loren''s Imperial Courier Seven Veils
+  undergoing significant performance upgrades.'
 ---
 
 <!-- AUTO-GENERATED -->
@@ -36,4 +34,6 @@ Total mentions: **3**
 
 ## Biography
 
-*[To be enriched]*
+The Avalon shipyards achieved galactic notoriety in May 3301 when leaked images revealed that Senator Kahina Tijani Loren's personal Imperial Courier, the Seven Veils, was undergoing extensive modifications. The upgrades encompassed drives, shields and frame-shift drive components — enhancements that suggested Loren anticipated situations requiring both enhanced mobility and defensive capability.
+
+The leak, reported by the Imperial Herald, fuelled speculation about Loren's future plans at a time when her political position remained precarious. A senator preparing her personal vessel for high-performance operations might be planning anything from extended diplomatic travel to rapid evacuation. The Avalon shipyards' role in the episode demonstrated how even routine maintenance facilities could become centres of political intrigue when their clients included figures as controversial as the "Lady of the Prism." The shipyard's association with both Sol and the Imperial court underscored its position at the intersection of superpower military-industrial complexes.

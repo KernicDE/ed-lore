@@ -11,9 +11,8 @@ related_entities:
 - sirius-corporation
 - sirius-atmospherics
 - core-dynamics
-bio: Ashby City is a star system in the Elite Dangerous universe, significant from
-  3301-02-14 to 3307-06-24. Traders at Ashby City in Luyten's Star reported pilots
-  performing dangerous manoeuvres through docking slots and around stations.
+bio: 'A starport in Luyten''s Star, Ashby City was repeatedly mentioned between 3301
+  and 3307 for reports of reckless pilot activity in its docking bays.'
 ---
 
 <!-- AUTO-GENERATED -->
@@ -34,4 +33,6 @@ Total mentions: **3**
 
 ## Biography
 
-*[To be enriched]*
+Ashby City developed an unusual reputation during the early 3300s as a starport where reckless pilot behaviour became a persistent problem. Traders at the Luyten's Star facility repeatedly reported commanders performing dangerous manoeuvres through docking slots and around station superstructures — stunts that endangered both the pilots themselves and the civilian vessels attempting normal operations.
+
+The station's connections to Sirius Corporation, Sirius Atmospherics and Core Dynamics suggested a busy commercial environment where high-volume traffic created both opportunities and hazards for showboating. Over six years, the reports continued intermittently, indicating that neither station authorities nor the Pilots Federation managed to curb the behaviour entirely. Ashby City's experience illustrated how even routine logistical hubs could develop distinctive local cultures, in this case one that tolerated — or even encouraged — the kind of daredevil flying that most stations would have suppressed through strict enforcement.

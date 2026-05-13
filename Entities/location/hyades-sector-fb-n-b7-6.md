@@ -20,11 +20,9 @@ economy: None
 second_economy: None
 edsm_url: https://www.edsm.net/en/system/id/78411/name/Hyades%20Sector%20FB-N%20b7-6
 inara_url: https://inara.cz/elite/starsystem/?search=Hyades%20Sector%20FB-N%20b7-6
-bio: Hyades Sector FB-N b7-6 is a star system in the Elite Dangerous universe, significant
-  from 3308-11-28 to 3309-01-03. Associated with Imperial Navy, Federal Navy. The
-  Taranis anomaly has arrived in Hyades Sector FB-N b7-6, triggering a ferocious wave
-  of Thargoid attacks in the region. The Hyades Sector FB-N b7-6 system has been identified
-  as the location where the rogue signal source named Taranis will finally arrive.
+bio: 'An anarchy system in the Hyades region, Hyades Sector FB-N b7-6 became ground
+  zero for the Taranis anomaly in late 3308, triggering a ferocious wave of Thargoid
+  attacks.'
 ---
 
 
@@ -47,4 +45,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Late 3308 brought a terrifying development to the Hyades region when the rogue signal source designated Taranis finally arrived in Hyades Sector FB-N b7-6. The system's anarchy status — no formal government, no economy, no permanent population — offered no defensive infrastructure to slow the Thargoid onslaught that followed. Within days, the region was engulfed in what military analysts described as the most ferocious wave of alien attacks since the initial Pleiades incursions.
+
+All three superpowers committed naval forces to the defence of surrounding systems, yet the anarchy at the epicentre itself remained beyond their capacity to hold. The Taranis anomaly demonstrated that Thargoid strategic capabilities had evolved far beyond the isolated skirmishes of previous years, and that the rogue signal sources represented something fundamentally different from conventional invasion fleets. Hyades Sector FB-N b7-6 thus marked a turning point in the war — the moment when humanity realised it was no longer fighting scattered incursions, but a coordinated planetary-scale assault.

@@ -24,12 +24,9 @@ economy: Extraction
 second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system/id/1578411/name/Pleiades%20Sector%20OI-T%20c3-7
 inara_url: https://inara.cz/elite/starsystem/?search=Pleiades%20Sector%20OI-T%20c3-7
-bio: Pleiades Sector OI-T c3-7 is a star system in the Elite Dangerous universe, significant
-  from 3303-06-04 to 3304-03-04. Associated with Federation. The new operation targets
-  Pleiades Sector OI-T c3-7 and Arietis Sector XE-Z b4, where large concentrations
-  of Thargoid ships have been reported. The Merope Expeditionary Fleet will oversee
-  combat operations while the Pleiades Resource Enterprise coordinates rescue and
-  recovery.
+bio: 'A sparsely populated Imperial extraction system near the Pleiades, Pleiades Sector
+  OI-T c3-7 became a major combat theatre in 3303 after large Thargoid concentrations
+  were detected.'
 ---
 
 
@@ -52,4 +49,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+By mid-3303, Pleiades Sector OI-T c3-7 had joined Arietis Sector XE-Z b4 as a priority combat zone after sensors detected large concentrations of Thargoid vessels operating within its bounds. The Merope Expeditionary Fleet assumed tactical command while the Pleiades Resource Enterprise managed rescue and recovery operations — a division of labour that reflected the Empire's approach to the crisis, separating military engagement from humanitarian logistics.
+
+The system's tiny permanent population of barely fifty thousand, governed by the Knights of the People under Imperial patronage, offered minimal resistance to the alien incursion. Most inhabitants were evacuated or sheltered in underground extraction facilities while combat pilots engaged Thargoid ships in the system's skies. Pleiades Sector OI-T c3-7 demonstrated how even the most marginal settlements could become strategically vital when positioned along the frontier of an interspecies war.

@@ -11,8 +11,9 @@ related_entities:
 - the-panjabell
 - pilots-federation
 - moore-hub
-bio: Agassiz Settlement is a outpost in the Elite Dangerous universe, significant
-  from 3307-07-19 to 3307-07-29. Associated with Order of the Far God, Pleiades Concordat.
+bio: 'An outpost in the Pleiades region, Agassiz Settlement became associated with
+  the Order of the Far God and the Pleiades Concordat during the heightened tensions
+  of mid-3307.'
 ---
 
 <!-- AUTO-GENERATED -->
@@ -33,4 +34,6 @@ Total mentions: **3**
 
 ## Biography
 
-*[To be enriched]*
+Agassiz Settlement occupied a peripheral but telling position in the Pleiades region's complex political landscape during July 3307. The outpost's connections to both the Order of the Far God — the Thargoid-worshipping cult that mainstream society viewed with hostility — and the Pleiades Concordat, a local governance body attempting to maintain order amid alien incursions, placed it at an uncomfortable intersection of conflicting loyalties.
+
+The Panjabell and Moore Hub, both linked to Agassiz Settlement through shared supply lines and defence agreements, found themselves similarly caught between accommodating cult activities and maintaining Pilots Federation operational standards. The outpost's brief period of prominence in GalNet records illustrated how even the smallest settlements in the Pleiades could become entangled in the region's overarching struggle to define humanity's relationship with the Thargoid presence.
