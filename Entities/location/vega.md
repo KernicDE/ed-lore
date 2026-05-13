@@ -48,4 +48,6 @@ Total mentions: **6**
 
 ## Biography
 
-*[To be enriched]*
+Vega is a major inhabited system that became the focal point of one of the most baffling criminal mysteries of the 3300s. In April 3305, Commander Bjorn Lennox's Diamondback Explorer was stolen from Fort Dixon starport by an unknown thief who bypassed all security protocols, overriding authorisation checks to fly out of the station unchallenged. Security Chief Misaki Sanders admitted that station authorities were "at a loss to explain" the theft.
+
+The case took an even stranger turn when the thief — later identified as Gan Romero — was linked to former President Jasmina Halsey's visions and dream-driven disappearances, raising questions about possible telepathic alien contact. Vega's Fort Dixon incident demonstrated how even the most secure starport systems could be compromised by forces that defied conventional explanation, and became one of the era's most intriguing unsolved mysteries.

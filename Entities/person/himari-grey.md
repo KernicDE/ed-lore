@@ -28,4 +28,6 @@ Total mentions: **6**
 
 ## Biography
 
-*[To be enriched]*
+Dr Himari Grey is a healthcare analyst who became a prominent voice in the ethical debate surrounding Vitadyne Labs's nanomedicines in January 3305. The Interstellar Health Organisation was reviewing the company's revolutionary healthcare technology, which Vitadyne admitted was based on advanced technology originally developed by Utopia.
+
+Grey discussed the situation via Vox Galactica, noting that Pranav Antal had formally complained that replicating Utopian technology without permission was "tantamount to theft." She outlined the competing ethical considerations: many in the medical community argued that Utopia was selfish to hoard medicines capable of treating many illnesses and injuries, while investors had pumped millions into Vitadyne Labs convinced that profits would run into the billions. Grey warned that if nanomeds became a commercial commodity, "only the very wealthy will be able to afford Vitadyne's product." Her analysis exposed the fundamental tension between proprietary communal technology and galactic healthcare needs, framing a debate that would resonate throughout the pharmaceutical industry and influence the IHO's eventual ruling.

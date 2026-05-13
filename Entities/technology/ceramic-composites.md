@@ -27,4 +27,6 @@ Total mentions: **6**
 
 ## Biography
 
-*[To be enriched]*
+Ceramic composites are advanced construction materials used in large-scale orbital infrastructure projects throughout the galaxy. In mid-3307, the Kumo Crew syndicate placed open orders for ceramic composites as part of a campaign to construct up to five new Orbis starports in uninhabited systems near key trading regions, demonstrating the material's importance in modern starport construction.
+
+The composites — alongside polymers and other raw materials — form a critical component of the structural frameworks used in Orbis and Coriolis station designs. Their heat-resistant and high-strength properties make them essential for withstanding the thermal and mechanical stresses of orbital habitats. The Kumo Crew's successful starport construction campaign, which concluded with multiple new stations operational by June 3307, illustrated how even criminal syndicates could leverage industrial-scale material sourcing to establish permanent infrastructure.

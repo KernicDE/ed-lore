@@ -39,4 +39,6 @@ Total mentions: **6**
 
 ## Biography
 
-*[To be enriched]*
+The Imperial Slavers Association is the official guild that regulates the practice of Imperial slavery, a sanctioned form of indentured servitude permitted within the Empire's borders. The ISA operates under Senate authority and certifies the training and sale of Imperial slaves, ensuring that the practice adheres to Imperial law and tradition.
+
+In June 3301, the ISA condemned the mass sale of Imperial slaves to Kumo Crew black markets on the fringes of Imperial space, issuing a statement that "the sale of Imperial Slaves outside of the borders of Imperial space is strictly prohibited by order of the Senate." The guild warned that any members caught engaging in such activity would be removed from the guild and reported to authorities. The incident exposed the tensions between the ISA's regulatory role and the reality of frontier enforcement, where Imperial security services sometimes turned a blind eye to illegal slave trading. The ISA's public stance reinforced the Empire's formal position that Imperial slavery was a regulated institution distinct from the unregulated chattel slavery practised by criminal organisations.

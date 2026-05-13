@@ -50,4 +50,6 @@ Total mentions: **6**
 
 ## Biography
 
-*[To be enriched]*
+Robigo is an independent system that was brought under Sirius Corporation control as part of the company's expansion programme in 3301. The system became one of several — alongside HIP 8396, Almagest, Sothis, and Ceos — that Sirius Corporation acquired with plans to revitalise their economies through subsidised initiatives relying on independent contractors and pilots.
+
+Robigo's controlling faction operates Robigo Mines, a starport that became famous throughout the galaxy for its high-paying passenger transport missions to remote destinations. The system's economy, built on extraction and tourism, made it a popular destination for pilots seeking lucrative contracts. Robigo's experience under Sirius Corporation management illustrated how corporate control could reshape frontier economies, though economist Roberta Unwin characterised such expansion as "speculative" — often undertaken without immediate profit in mind.

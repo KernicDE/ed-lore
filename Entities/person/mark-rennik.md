@@ -28,4 +28,6 @@ Total mentions: **6**
 
 ## Biography
 
-*[To be enriched]*
+Mark Rennik is the Chief Operating Officer of Brewer Corporation, one of the galaxy's leading construction and infrastructure companies. In November 3311, Rennik announced the formal withdrawal of the company's Trailblazer megaship fleet — a move framed as a "vote of confidence" in the self-sustainability of thousands of new colonies that the fleet had supported.
+
+Rennik declared that "the success of the Trailblazer fleet will leave its mark in the history books of human colonisation," and confirmed that the vessels would be refitted for "other duties" after their crews took a well-deserved rest. He also unveiled the newly commissioned Dodec starport design for Tier 3 colonisation projects, stating that Brewer Corporation recognised the demand for smaller starports and that "the Dodec is the perfect solution." Rennik's comments about the Trailblazer fleet continuing to serve Brewer in other duties proved prescient: within weeks, the Trailblazer Dream in HIP 90578 was deployed as a staging point for the HIP 87621 enclave construction, demonstrating Brewer's ability to rapidly repurpose assets for emerging conflicts.

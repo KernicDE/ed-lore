@@ -27,4 +27,6 @@ Total mentions: **6**
 
 ## Biography
 
-*[To be enriched]*
+Jonathon Forester is the captain of the Golconda, a generation ship launched centuries before the invention of faster-than-light travel, whose population spent over a thousand years in deep space before being rediscovered by the galactic community. In November 3305, engineering experts confirmed that the ancient vessel could no longer meet the colony's needs, forcing the Golconda's leaders to reluctantly decide to abandon the ship.
+
+Forester, however, insisted that the population remain together in one location rather than dispersing across multiple settlements. His determination to preserve the Golconda community's unity became a central factor in the competition between the Empire and Federation to provide a new home for the crew. The Empire offered a planetside home to fulfil the ship's original mission, while the Federation proposed a modern outpost that would allow the Golconda's spacefaring traditions to continue. Forester's leadership during the migration to Forester's Choice — the new settlement named in his honour — exemplified the challenges of integrating an isolated, centuries-old culture into the modern galaxy while preserving its unique identity.

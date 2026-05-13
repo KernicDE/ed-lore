@@ -37,4 +37,6 @@ Total mentions: **6**
 
 ## Biography
 
-*[To be enriched]*
+Heart of Taurus is an Azimuth Biotech megaship that served as the primary delivery point and logistics hub for the Proteus Wave superweapon construction in the HIP 22460 system during June and July 3308. The megaship was one of several Azimuth vessels mobilised for what Salvation declared would be "the final battlefield in the Thargoid war."
+
+Commodore Morag Halloran coordinated the operation from aboard the Bright Sentinel, with the Heart of Taurus receiving incoming resources from independent pilots supporting the construction effort. Two other megaships — Musashi and Glorious Prospect — were stationed in the nearby Pleiades Sector CW-U B3-2 system to provide additional logistical support. Alliance Defence Force, Federal Navy, and Imperial Navy forces also took up positions in HIP 22460, with their ships modified for anti-xeno combat. The Heart of Taurus's role as the supply nexus for the Proteus Wave made it one of the most critical logistical nodes in the galaxy during the countdown to the superweapon's catastrophic activation.

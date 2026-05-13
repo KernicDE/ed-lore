@@ -49,4 +49,6 @@ Total mentions: **6**
 
 ## Biography
 
-*[To be enriched]*
+Wangal is an independent system that has experienced periodic outbreaks of criminal activity requiring independent pilot intervention. In January 3304, authorities reported a sharp increase in the number of criminals operating in the system, with agitators attacking pilots, disrupting trade, and causing discord.
+
+Angeli Imperial Enterprises responded by placing kill orders on all wanted ships and rewarding pilots who delivered bounty vouchers to Nelder City. The system's vulnerability to criminal disruption illustrated the challenges faced by frontier settlements in maintaining security without the backing of a major superpower navy. Wangal's reliance on corporate-sponsored bounty programmes to restore order demonstrated how private entities could step in to fill security gaps in systems where formal law enforcement was stretched thin. The system's experience was typical of many independent worlds that depended on the Pilots Federation and corporate militias for protection against piracy and organised crime.

@@ -39,4 +39,6 @@ Total mentions: **6**
 
 ## Biography
 
-*[To be enriched]*
+The Citizens of Tradition is an Imperial faction well known for its staunch support of Senator Denton Patreus. In early 3301, the faction's warships were spotted massing on the borders of Falisci after Patreus issued a stern warning to pirates who had been plundering traders en route to Dongzi and Ngaiawang.
+
+Commander Shole of the Citizens of Tradition stated that the faction had orders to protect traders and warned the Falisci pirates against crossing the border. Imperial commanders willing to join the fight were directed to seek out the Citizens of Tradition at Dornier Terminal in Ngaiawang. The faction's military mobilisation demonstrated Patreus's aggressive expansionist policies and his use of proxy forces to secure Imperial trade routes, while also illustrating how Imperial senators could deploy allied factions to enforce their will beyond the Senate chamber.

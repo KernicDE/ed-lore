@@ -37,4 +37,6 @@ Total mentions: **6**
 
 ## Biography
 
-*[To be enriched]*
+Ramsbottom Hub is a starport in the Segovan system that became a flashpoint for Federal-Imperial tensions during the Federation's expansion into the Pleiades region in July 3302. The Federation launched a campaign to construct a new Federal outpost in Segovan, with Ramsbottom Hub serving as the collection point for construction materials. Imperial pilots began targeting traders delivering cargo to the starport, prompting system authorities to impose a system-wide lockdown.
+
+The Federation responded by dispatching two Farragut-class Battlecruisers to the system, convincing authorities to lift the lockdown and allowing the campaign to resume. A Federal spokesperson noted that "the huge quantity of material delivered to Ramsbottom Hub prior to the lockdown means we are still confident we can meet our baseline targets." Ramsbottom Hub's experience exemplified the proxy warfare between the Empire and Federation over Pleiades expansion — a rivalry that would escalate dramatically with the arrival of the Thargoids and transform the region into humanity's primary alien war zone.

@@ -39,4 +39,6 @@ Total mentions: **6**
 
 ## Biography
 
-*[To be enriched]*
+The Ant Hill Mob is an independent faction that has repeatedly challenged the Pleiades Resource Enterprise's control of the Maia system in the Pleiades Nebula. In November 3302, the Mob instigated a military campaign designed to weaken the Federal-aligned Enterprise's position in Maia, with hundreds of independent pilots supporting the effort by targeting PRE fighters and delivering battle weapons to system security forces.
+
+Despite sustained independent opposition, the Pleiades Resource Enterprise maintained its position and emerged victorious from the conflict. A PRE spokesperson declared that "the galactic community supports our position in Maia" and that "the Ant Hill Mob needs to accept that the Pleiades Resource Enterprise is here to stay." The Ant Hill Mob's resistance represented one of the early attempts by independent factions to contest Federal expansion into the Pleiades — a region that would soon become the epicentre of the Thargoid conflict and one of the most strategically contested sectors in the galaxy.

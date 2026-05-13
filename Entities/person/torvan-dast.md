@@ -28,4 +28,6 @@ Total mentions: **6**
 
 ## Biography
 
-*[To be enriched]*
+Torvan Dast is an Alliance official who has served as a spokesperson and project coordinator for Alliance infrastructure initiatives. In February 3304, he announced plans to build an Orbis starport in the Synuefai EB-R c7-5 system, positioned between the core systems and the Alliance's California Nebula outposts.
+
+Dast stated that the new starport would "bridge the gap between the settlements and the galactic core, and lessen the risk to ships journeying to and from the California Nebula." The initiative was overseen by the LP 128-32 Corporation, which placed open orders for raw materials and kill orders on wanted ships to protect traders. Dast's role in the starport project exemplified the Alliance's strategy of investing in deep-space infrastructure to strengthen connectivity to its frontier territories, supporting both trade and scientific expansion into the California Nebula region.

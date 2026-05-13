@@ -28,4 +28,6 @@ Total mentions: **6**
 
 ## Biography
 
-*[To be enriched]*
+Fleet Admiral Tayo Maikori is a senior commander in the Federal Navy who served as a key liaison for anti-xeno military operations during the Thargoid War. In January 3309, Admiral Aden Tanner — following his resignation from the Federal Navy after a presidential pardon overturned his court martial — announced that he would continue developing anti-xeno strategies as an independent military specialist and would liaise directly with Fleet Admiral Maikori to contribute to the navy's war efforts.
+
+Tanner's decision to collaborate with Maikori while operating outside the formal chain of command highlighted the Federal Navy's flexibility in leveraging experienced commanders during the crisis, even as Tanner cited "bureaucratic restrictions" as his reason for leaving active service. Maikori's role as the primary naval contact for Tanner's independent operations demonstrated the navy's recognition that traditional military structures needed to adapt to the unprecedented threat posed by the Thargoid invasion, drawing on expertise regardless of formal rank or appointment.

@@ -52,4 +52,6 @@ Total mentions: **6**
 
 ## Biography
 
-*[To be enriched]*
+Pleiades Sector CW-U B3-2 is an independent system in the Pleiades region that became a critical staging area during the Proteus Wave crisis of 3308. The system, controlled by the Anti Xeno Initiative under a patronage government, hosted the Musashi megaship — which served as a redeployment point for pilots engaged in defending Salvation's superweapon project in nearby HIP 22460.
+
+In July 3308, Commodore Morag Halloran announced that Thargoid combat bonds for pilots defending the Proteus Wave could be handed in at the Musashi megaship in the Pleiades Sector CW-U B3-2 system, with the most dedicated commanders rewarded with Salvation's pre-engineered Guardian gauss cannons. The system's strategic location near HIP 22460 made it a vital logistics hub for the coalition of superpower naval forces supporting Azimuth Biotech's operations. Pleiades Sector CW-U B3-2's role in the Proteus Wave campaign exemplified how frontier systems could become focal points for galaxy-defining military operations.

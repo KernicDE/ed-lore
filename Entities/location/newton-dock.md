@@ -37,4 +37,6 @@ Total mentions: **6**
 
 ## Biography
 
-*[To be enriched]*
+Newton Dock is a starport in the BD-02 4304 system that became a critical centre of medical research during the Cerberus Plague outbreak of 3301. The station's Chief Medical Officer, Carl Simmons, led the search for a cure after the plague spread beyond its initial outbreak zone and infected multiple systems including Bast, Una, and Santjalan.
+
+In July 3301, Simmons confirmed a potential breakthrough when patients at Hart Station in the Bast system who were offered Ceremonial Heike Tea showed improvement. Tests revealed that the rare tea, found only in the Heike system, contained ingredients that could actually cure those afflicted with the pathogen. Simmons warned, however, that gathering sufficient quantities would be challenging. Newton Dock's role as the coordination centre for plague research exemplified how starports could serve as hubs for galactic health crises, and Simmons's work there represented one of the first successful collaborations between independent pilots and medical authorities to combat a system-wide epidemic.

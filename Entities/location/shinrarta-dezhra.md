@@ -51,4 +51,6 @@ Total mentions: **6**
 
 ## Biography
 
-*[To be enriched]*
+Shinrarta Dezhra is an independent system located approximately 55 light-years from Sol that serves as the headquarters of the Pilots Federation. The system is accessible only by invitation, typically extended to pilots who achieve high rank within the Pilots Federation — a stipulation that has contributed to perceptions of the organisation as secretive and exclusive.
+
+The system's most notable feature is Jameson Memorial, a starport orbiting Shinrarta Dezhra A 1 that is widely regarded as the premier shipyard in the galaxy, offering every ship and module available to independent pilots. Historian Sima Kalhana noted that the Pilots Federation was established in 2805 to allow pilots to share reliable trade-route information and provide mutual protection against piracy, evolving into the dominant GalNet provider and the main manufacturer of the hardware and software fitted as standard on virtually all independent starships. Shinrarta Dezhra's exclusivity makes it a symbol of the elite status that accomplished pilots strive to achieve.

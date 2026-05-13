@@ -27,4 +27,6 @@ Total mentions: **6**
 
 ## Biography
 
-*[To be enriched]*
+Congressman Harlan Turk is a Federal politician who served as Zachary Rackham's running mate during Rackham's presidential election campaign. In November 3305, Turk outlined the Federation's offer to the Golconda generation ship crew, proposing a modern outpost where the Golconda's spacefaring traditions could continue with vastly superior amenities and facilities for new trade relationships within Federal market guidelines.
+
+In September 3309, when the Federal Times hired the Wallglass Investigations Agency to investigate Rackham's alleged pirate past, Turk lobbied Congress to halt the investigation. He asserted that "the Federal Times is breaching the impartiality rules of journalism, and violating the security measures afforded to all presidential candidates." Turk's defence of Rackham positioned him as a loyal political ally willing to use legislative pressure to shield his running mate from scrutiny, even as independent journalists like Flint Lafosse connected Rackham to the Jokers' Deck gambling circle and the Collective hacktivist group's billion-credit heist. Turk's role in the campaign illustrated the political alliances formed around Rackham's unconventional bid for the Federal presidency.

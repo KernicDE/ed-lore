@@ -361,8 +361,79 @@ Uncommitted enrichments from previous sessions covering key factions, locations 
 - Total enriched: 350
 - Remaining: 3,091
 
+### Batch 9: 400 milestone ✅ COMPLETE
+| # | Entity | Type | Status | Notes |
+|---|--------|------|--------|-------|
+| 1 | Marlin Duval | person | ✅ Done | Founder of the Empire, Achenar colony, democratic rule |
+| 2 | Unknown Artefact | technology | ✅ Done | Alien objects, Morse code signals, technological plague |
+| 3 | Shinrarta Dezhra | location | ✅ Done | Pilots Federation headquarters, Jameson Memorial |
+| 4 | Blue Hand Gang | faction | ✅ Done | Orulas criminal organisation, escape pod trade |
+| 5 | Achilles Aerospace | faction | ✅ Done | Titan Drive Component research, anti-Sirius monopoly |
+| 6 | Vega | location | ✅ Done | Fort Dixon ship theft, Gan Romero mystery |
+| 7 | Robigo | location | ✅ Done | Sirius Corporation control, passenger transport |
+| 8 | Newton Dock | location | ✅ Done | Cerberus Plague research, Carl Simmons |
+| 9 | Heike | location | ✅ Done | Ceremonial Heike Tea source, plague cure |
+| 10 | Trapezium Sector YU-X c1-2 | location | ✅ Done | Guardian-Thargoid battlefield, Proteus Anaconda |
+| 11 | Starship One | technology | ✅ Done | Presidential vessel, sabotage, Hudson-Vincent conspiracy |
+| 12 | Tritium | technology | ✅ Done | Fleet carrier fuel, Brewer Corporation infrastructure |
+| 13 | Kumo Council | faction | ✅ Done | Pirate governance, Archon Delaine, corsairs |
+| 14 | Zende Partners | faction | ✅ Done | Guardian space ferry service, Synuefe EN-H d11-96 |
+| 15 | Imperial Slavers Association | faction | ✅ Done | Imperial slavery guild, regulatory body |
+| 16 | Epsilon Fornacis Empire Group | faction | ✅ Done | Imperial military, Mudhrid battle, Patreus loyal |
+| 17 | Procyon | location | ✅ Done | Davy Dock, Antares search, Sirius Corporation |
+| 18 | Frost Dock | location | ✅ Done | Njambalba outpost, festive logistics |
+| 19 | Korolyov Hub | location | ✅ Done | Arawere, technological plague, Unknown Artefact |
+| 20 | 63 G. Capricorni | location | ✅ Done | Skvortsov Orbital, Distant Worlds gala |
+| 21 | Citizens of Tradition | faction | ✅ Done | Patreus supporter, Falisci conflict |
+| 22 | Alliance Elite Diplomatic Corps | faction | ✅ Done | Operation Augeas, Alliance interests |
+| 23 | Adle's Armada | faction | ✅ Done | Federal vigilante group, declared sovereignty |
+| 24 | Pleiades Sector CW-U B3-2 | location | ✅ Done | Musashi megaship, Proteus Wave logistics |
+| 25 | Hyades Sector RO-P b6-2 | location | ✅ Done | Marlinist Colonies, political development |
+| 26 | HIP 22550 | location | ✅ Done | NMLA bombing, Steel Majesty/Fairfax Vision |
+| 27 | Stuemeae FG-Y d7561 | location | ✅ Done | Galactic Centre, Explorer's Anchorage, Distant Worlds II |
+| 28 | Niflhel | location | ✅ Done | Refugee centre, Caspian Leopold humanitarian |
+| 29 | Lagerkvist Gateway | location | ✅ Done | Synteini, Imperial slavery wager, ISA training |
+| 30 | Hartsfield Market | location | ✅ Done | Lugh War, Crimson State Group capture |
+| 31 | Torvan Dast | person | ✅ Done | Alliance official, California Nebula starport |
+| 32 | Tayo Maikori | person | ✅ Done | Fleet Admiral, Federal Navy anti-xeno liaison |
+| 33 | Saskia Landau | person | ✅ Done | ACT co-leader, Lords of Restoration exposé |
+| 34 | Rory Webster | person | ✅ Done | Chief Technician, Starship One saboteur |
+| 35 | Mark Rennik | person | ✅ Done | Brewer Corporation COO, Trailblazer/Dodec |
+| 36 | Jonathon Forester | person | ✅ Done | Golconda captain, generation ship migration |
+| 37 | Jacob Morales | person | ✅ Done | Alexandria captain, missing presumed dead |
+| 38 | Himari Grey | person | ✅ Done | Healthcare analyst, Vitadyne nanomed ethics |
+| 39 | Harlan Turk | person | ✅ Done | Congressman, Rackham running mate, Golconda |
+| 40 | Alexei Keel | person | ✅ Done | Freelance journalist, Salvation resistance |
+| 41 | Ant Hill Mob | faction | ✅ Done | Maia conflict, Pleiades Resource Enterprise opposition |
+| 42 | Unknown Probes | technology | ✅ Done | Alien objects, encrypted images, Canonn research |
+| 43 | Ceramic composites | technology | ✅ Done | Construction material, starport building |
+| 44 | Polymers | technology | ✅ Done | Construction material, Golconda resettlement |
+| 45 | Heart of Taurus | location | ✅ Done | Azimuth megaship, Proteus Wave supply hub |
+| 46 | Hudson Dock | location | ✅ Done | BD+03 2338 shipyard, Federal capital ships |
+| 47 | Ocrinox's Orbiter | location | ✅ Done | Munshin starport, manatee farming megaship |
+| 48 | Ramsbottom Hub | location | ✅ Done | Segovan, Federal-Imperial proxy conflict |
+| 49 | Wangal | location | ✅ Done | Criminal activity, Angeli Imperial Enterprises |
+| 50 | Njambalba | location | ✅ Done | Frost Dock, festive charitable logistics |
+
+**Cleanup performed:**
+- Deleted 5 duplicate/bad entities: `president-hudson` (duplicate of Zachary Hudson), `the-achenar` (bad artifact), `coalsack` (duplicate of Coalsack Nebula), `order-of-the-far-god` (duplicate of Far God cult), `neo-marlinist-liberation-army` (duplicate of NMLA)
+
+## Stats
+- Total entities: 3,441
+- Enriched (Batch 1): 26
+- Enriched (Batch 2): 25
+- Enriched (Batch 3): 29
+- Enriched (Batch 4): 25
+- Enriched (Batch 5): 45
+- Enriched (Batch 6): 24
+- Enriched (Batch 7): 52
+- Enriched (Batch 8): 50
+- Enriched (Batch 9): 50
+- Total enriched: 400
+- Remaining: 3,041
+
 ## Notes
 - All enriched entities trimmed to compact Wikipedia-style descriptions (1-2 paragraphs)
-- Batch 1–8 fully enriched and committed
-- Top 350 coverage: ~98% of legitimate high-mention entities enriched
-- Milestone: 350 entities reached
+- Batch 1–9 fully enriched and committed
+- Top 400 coverage: ~97% of legitimate high-mention entities enriched
+- Milestone: 400 entities reached

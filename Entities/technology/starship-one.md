@@ -27,4 +27,6 @@ Total mentions: **6**
 
 ## Biography
 
-*[To be enriched]*
+Starship One is the presidential vessel of the Federation, a technologically advanced passenger liner that served as the primary transport for the Federal President. In May 3301, the ship disappeared during a voyage with President Jasmina Halsey aboard, triggering a massive search operation and one of the most significant political crises in Federal history.
+
+The official investigation initially suggested an explosive drive failure in hyperspace, but in October 3306, Chief Technician Rory Webster was put on trial for mass murder and treason, charged with ordering his engineering team to sabotage Starship One's hyperdrive systems. During the trial, Webster changed his plea to guilty and claimed he had acted on "orders from the top" — a confession that threatened to expose high-level conspiracy. The case became deeply entangled with Federal politics, with President Zachary Hudson using the public outcry to reposition himself as "the Federation's strongman" while Shadow President Felicia Winters's acceptance of Marlinist refugees lost popularity. The destruction of Starship One and the subsequent trial exposed the fragility of Federal governance and the depths of political intrigue at the highest levels.

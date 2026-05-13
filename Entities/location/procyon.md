@@ -52,4 +52,6 @@ Total mentions: **6**
 
 ## Biography
 
-*[To be enriched]*
+Procyon is a binary star system located just 11.5 light-years from Sol, making it one of the closest inhabited systems to humanity's birthplace. The system is home to Davy Dock, a Sirius Corporation research base that served as the coordination centre for one of the most ambitious search operations in recent history.
+
+In December 3301, Sirius Corporation CEO Li Yong-Rui announced an official search for the Antares — a technologically revolutionary passenger liner that disappeared during its maiden voyage in 3251. Pilots were invited to deliver wreckage components to Davy Dock in Procyon for comprehensive analysis, with the goal of determining the ship's fate. The search leveraged advances in scanning technology developed over the 50 years since the Antares was lost. Procyon's proximity to Sol and its status as a Sirius Corporation research hub made it the logical base for the operation, which sought to solve a mystery that had tarnished the company's reputation and stalled its plans to develop superfast liners.

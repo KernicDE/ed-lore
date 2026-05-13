@@ -36,4 +36,6 @@ Total mentions: **6**
 
 ## Biography
 
-*[To be enriched]*
+Hartsfield Market is a starport in the Lugh system that became the decisive battleground of the Lugh War for Independence in March 3301. The station, which housed the master controls of Lugh's entire military defence network, was captured by the Crimson State Group and Sons of Conn from the Lugh for Equality Party in what was described as a devastating blow for the Federation.
+
+The fighting was particularly bloody, with tens of thousands killed on both sides. Federal forces managed to hold the Bridge for almost 78 hours after the rest of the station fell, but the Sons of Conn eventually broke through to claim their prize. The capture gave the Crimson State Group control of Lugh's satellite defence system, allowing them to exert influence across the entire system. President Jasmina Halsey officially declared war on the Crimson State Group in response. Hartsfield Market's fall marked a turning point in the conflict and demonstrated how control of a single starport's command protocols could determine the fate of an entire system.

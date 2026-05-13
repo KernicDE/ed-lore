@@ -50,4 +50,6 @@ Total mentions: **6**
 
 ## Biography
 
-*[To be enriched]*
+63 G. Capricorni is a system best known for Skvortsov Orbital, a starport that hosted one of the most celebrated community events of the early exploration era. In May 3302, as the Distant Worlds Expedition neared its successful conclusion, O'Malligan's Coffee Bar at Skvortsov Orbital announced plans to throw "the party of the century" for the returning explorers.
+
+The Diamond Frogs, the system's controlling faction, coordinated with the Pilots Federation to gather alcohol and recreational substances for the gala. Commander Paramemetic, the Diamond Frogs' chief logistics officer, noted that "Diamond Frogs pilots alone will consume all of O'Malligan's stock within a matter of hours," necessitating community support. Pilots who contributed to the celebration were rewarded by the faction. The event demonstrated how frontier systems could serve as gathering points for the exploration community, and 63 G. Capricorni's association with the Distant Worlds Expedition made it a symbol of the collaborative spirit that characterised the early 3300s exploration boom.

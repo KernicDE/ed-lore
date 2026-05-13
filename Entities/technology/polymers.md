@@ -27,4 +27,6 @@ Total mentions: **6**
 
 ## Biography
 
-*[To be enriched]*
+Polymers are synthetic materials widely used in construction, manufacturing, and shipbuilding across the galaxy. In November 3305, polymers were among the commodities requested by both the Empire and Federation as part of their competing initiatives to provide a new home for the crew of the Golconda generation ship. The materials were delivered to megaships in the Upaniklis system to support the construction of either a planetary settlement or a modern outpost.
+
+The material's versatility makes it essential for everything from habitat sealing to equipment fabrication. The Golconda resettlement effort — which saw millions of tonnes of polymers, CMM composites, titanium, beryllium, and thallium contributed by independent pilots — demonstrated how polymer supply chains could be mobilised for humanitarian purposes. Polymers have also featured in numerous other construction campaigns, including the Kumo Crew's starport building initiative in 3307, where they were used alongside ceramic composites for orbital infrastructure.

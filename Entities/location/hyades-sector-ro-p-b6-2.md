@@ -52,4 +52,6 @@ Total mentions: **6**
 
 ## Biography
 
-*[To be enriched]*
+Hyades Sector RO-P b6-2 is an independent system that became one of the primary locations for the Marlinist Colonies' political development following the NMLA crisis. The system, controlled by the Exiled Marlinist Assembly of Baltah'Sine under a patronage government, hosted key infrastructure for the nascent Marlinist state.
+
+In mid-3307, the system was a focal point for Marlinist political activity as the Free Marlinist Movement and Marlinism Reformation Party competed for influence in the colonies' first elections. The system was linked to the broader Marlinist refugee resettlement effort that saw millions of Imperial citizens displaced by anti-terrorism lockdowns find new homes beyond the Empire's borders. Hyades Sector RO-P b6-2's association with the Marlinist political experiment made it a symbol of the ideological fracture within Imperial society and the challenges of building democratic governance from the ruins of a terrorist campaign.

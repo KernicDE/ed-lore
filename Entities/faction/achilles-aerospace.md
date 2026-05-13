@@ -39,4 +39,6 @@ Total mentions: **7**
 
 ## Biography
 
-*[To be enriched]*
+Achilles Aerospace is the aerospace subdivision of Achilles Corporation, a robotics and technology company that has become a major player in post-Thargoid War research and development. In March 3310, the company launched an ambitious research programme centred on Titan travel technology, urging independent pilots to retrieve Titan Drive Components from the wreckage of destroyed Thargoid Titans.
+
+The company's research aims to understand how Thargoid Titans achieve faster-than-light travel at speeds beyond humanity's current technological capacity. A spokesperson explicitly framed the initiative as a challenge to Sirius Corporation's "strict monopoly" on frame shift drive technology, declaring that "under that monopoly, progress seems to have stagnated entirely." Achilles Aerospace positioned itself as "a corporation built on the iteration and refinement of technology," aiming to bring space travel into a new age by reverse-engineering alien propulsion systems.

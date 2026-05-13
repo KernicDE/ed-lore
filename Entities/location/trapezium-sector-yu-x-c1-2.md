@@ -45,4 +45,6 @@ Total mentions: **6**
 
 ## Biography
 
-*[To be enriched]*
+Trapezium Sector YU-X c1-2 is a remote system that became the site of one of the most significant xenoarchaeological discoveries in galactic history. In June 3307, pilots tracking signal beacons following instructions from the mysterious figure known as "Salvation" discovered the Proteus — an Anaconda from the ancient Hesperus megaship — on the moon Trapezium Sector YU-X c1-2 1a.
+
+The site contained physical evidence of the ancient war between the Guardians and the Thargoids, with both Guardian and Thargoid technology found in close proximity. The Proteus had been converted into a research facility by an Azimuth Biochemicals science team that fled the Hesperus after it was overtaken by saboteurs from rival company Pharmasapien in 3113. Professor Alba Tesreau of Aegis Research described the discovery as "physical evidence of the war between the Guardians and the Thargoids," and Aegis prepared a megaship to conduct surveys, hoping the site would provide a fresh source of Guardian artefacts for anti-xeno research following the Alexandria's disappearance.

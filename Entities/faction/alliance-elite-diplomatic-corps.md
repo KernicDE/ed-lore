@@ -40,4 +40,6 @@ Total mentions: **6**
 
 ## Biography
 
-*[To be enriched]*
+The Alliance Elite Diplomatic Corps is a diplomatic and paramilitary organisation affiliated with the Alliance that operates to secure Alliance interests across disputed territories. In July 3301, Victoria Wolf VI of Wolf 406 Transport Co and Commodore Helena Stone of the Alliance Defence Force — both board members of the Alliance Elite Diplomatic Corps — launched Operation Augeas, a campaign to rid BD-22 3573 of criminal elements troubling local miners and traders.
+
+The operation offered bounty bonuses for all bounties cashed at Planck Orbital, with the ADF observing the situation and intervening only in case of escalation, as the system did not fall under Alliance jurisdiction. The Corps has also been involved in returning control of systems such as Reorte to Alliance-aligned factions and deputising pilots to combat pirate crews terrorising the Old Worlds. The Alliance Elite Diplomatic Corps represents the Alliance's preferred approach to conflict: diplomatic engagement backed by measured military support, in contrast to the Empire's overt imperialism or the Federation's corporate-driven interventions.

@@ -52,4 +52,6 @@ Total mentions: **6**
 
 ## Biography
 
-*[To be enriched]*
+Niflhel is an independent democratic system that became a centre of humanitarian relief during the Thargoid conflict of the mid-3300s. In June 3304, Senator Caspian Leopold launched an initiative to construct a rehabilitation centre for civilians affected by heightened military action in the core systems, with the Niflhel Corp overseeing the project.
+
+The initiative required deliveries of cobalt, semiconductors, and synthetic fabrics to Biruni Port in the Niflhel system, with the organisation placing kill orders on wanted ships to protect contributing traders. A spokesperson for Senator Leopold stated that "an escalation in hostilities from both Thargoid and human parties has left a lot of innocent civilians without food or shelter," and that the sanctuary would guarantee refugee safety. Niflhel's role as a humanitarian hub demonstrated how frontier systems could mobilise resources for civilian protection amid galactic warfare, and Senator Leopold's initiative there exemplified the individual political response to the human cost of the Thargoid conflict.

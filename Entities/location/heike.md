@@ -51,4 +51,6 @@ Total mentions: **6**
 
 ## Biography
 
-*[To be enriched]*
+Heike is an independent system best known as the sole source of Ceremonial Heike Tea, a rare beverage that proved to contain the cure for the devastating Cerberus Plague outbreak of 3301. The tea was originally offered to patients at Hart Station in the Bast system simply to lift their spirits, but medical personnel noticed that those who drank it showed marked improvement in their health.
+
+When other patients experienced similar recoveries, samples were sent to Chief Medical Officer Carl Simmons at Newton Dock in BD-02 4304, who confirmed that the tea contained ingredients capable of curing the Cerberus pathogen. The discovery transformed Heike from a relatively obscure system into a critical logistical hub, as the galactic community raced to gather sufficient quantities of the rare tea to distribute to plague-affected stations across inhabited space. Heike's experience demonstrated how a single commodity from a remote system could become the difference between life and death for millions during a galactic health crisis.

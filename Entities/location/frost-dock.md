@@ -37,4 +37,6 @@ Total mentions: **6**
 
 ## Biography
 
-*[To be enriched]*
+Frost Dock is an outpost in the Njambalba system that became an unlikely hub of festive activity during the holiday seasons of the late 3300s. The outpost was used as a distribution centre for seasonal gift deliveries, with independent pilots recruited to transport presents to children across the core systems when commercial transport fleets were reassigned to humanitarian missions.
+
+In December 3308, Sandra Corrs — CEO of Sandra's Workshop, the largest manufacturer of children's toys in the core systems — requested help from independent pilots after her partner company Dolph's Routes assigned its transport fleet to evacuation support in the war-torn 63 Tauri system. Pilots collected festive gifts from Frost Dock in Njambalba and delivered them to maintain holiday traditions amid the Thargoid conflict. The outpost also hosted community celebrations and commodity drives, serving as a gathering point for pilots participating in seasonal events. Frost Dock's role illustrated how even remote outposts could become critical logistical nodes during times of crisis.

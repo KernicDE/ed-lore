@@ -28,4 +28,6 @@ Total mentions: **6**
 
 ## Biography
 
-*[To be enriched]*
+Alexei Keel is a freelance journalist who has reported on some of the most controversial developments in the Thargoid War for Vox Galactica. In September 3307, Keel produced a special report on the emerging resistance movement against Salvation, the anonymous scientist whose anti-xeno superweapons had attracted both fervent support and deep suspicion.
+
+Keel documented how a counter-initiative formed by pilots who distrusted Salvation's motivations acquired weapon components — disguised as basic medicines — and destroyed them rather than delivering them. The resistance included believers in non-aggression against the Thargoids and others who feared the weapon might endanger Cornsar's population. Keel noted that "whether or not this partial blockade impacted the weapon's effectiveness remains unknown, but it acted as a substantial opposition to Salvation's scheme." His reporting captured the growing polarisation within the anti-xeno community between those who saw Salvation as humanity's only hope and those who viewed his secretive methods and messianic rhetoric as a threat as dangerous as the Thargoids themselves. Keel's journalism exemplified the role of independent media in scrutinising figures who operated outside democratic accountability.

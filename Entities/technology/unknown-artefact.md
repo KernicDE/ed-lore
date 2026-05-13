@@ -26,4 +26,6 @@ Total mentions: **6**
 
 ## Biography
 
-*[To be enriched]*
+Unknown Artefacts — also known as Anomalous Extraterrestrial Objects or AEOs — are alien objects first discovered in the Pleiades region that became the earliest physical evidence of non-human intelligence in the galaxy. In July 3301, Dr Arcanonn's Canonn research team discovered that the artefacts emit a distorted but audible signal matching Morse code, broadcasting the identity of the nearest celestial body when released into free space.
+
+The artefacts' apparent knowledge of human signalling technology raised profound questions about their origin — theories ranged from alien scanners and navigational aids to Thargoid homing beacons. More alarmingly, the objects were found to cause severe technical malfunctions in starport systems, leading to the "technological plague" that spread across inhabited space in late 3301 and early 3302. The crisis was eventually traced to Unknown Artefact interference, and meta-alloys discovered in the Pleiades were found to reverse the damage. The artefacts proved to be the first tangible evidence of the Thargoid presence that would soon escalate into full-scale war.

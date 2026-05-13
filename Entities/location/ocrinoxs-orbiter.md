@@ -37,4 +37,6 @@ Total mentions: **6**
 
 ## Biography
 
-*[To be enriched]*
+Ocrinox's Orbiter is a starport in the Munshin system that became the focal point of an unusual agricultural megaship construction project in September 3304. The Libertas Cooperative announced plans to construct a manatee farming megaship on behalf of food supplier Munshin Manatee Meat, with the creatures to be bred, processed, and prepared for distribution aboard the vessel.
+
+Progenitor Selena Conley of the Libertas Cooperative stated the project would "bring their product to a much wider consumer base," with open orders placed for land enrichment systems, animal monitors, aquaponic systems, and marine equipment to be delivered to Ocrinox's Orbiter. The starport also served as a logistics hub for refugee resettlement efforts in the Pegasi sector, with the Libertas Cooperative overseeing humanitarian initiatives in the region. Ocrinox's Orbiter's association with both the manatee megaship project and refugee support illustrated how frontier starports could serve as centres for innovative economic and humanitarian programmes.

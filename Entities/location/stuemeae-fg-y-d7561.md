@@ -52,4 +52,6 @@ Total mentions: **6**
 
 ## Biography
 
-*[To be enriched]*
+Stuemeae FG-Y d7561 is an independent democratic system in the Galactic Centre region, controlled by Deep Space Surveys, that became the site of humanity's first permanent starport construction in the heart of the galaxy. In January 3305, the Omega Mining Corporation requested raw material deliveries to build an Orbis starport in the system as part of the ambitious Distant Worlds II expedition.
+
+Project leader Erimus Kamzel described the initiative as "humanity's first starport in the Galactic Centre region," with independent miners delivering indite, gallite, praseodymium, and cobalt to the Omega Mining Operation. The completed starport, known as Explorer's Anchorage, provided a permanent base for scientific observation of the nearby supermassive black hole Sagittarius A* and supported deep-space exploration efforts. Stuemeae FG-Y d7561's transformation from an empty system to a hub of scientific infrastructure represented a milestone in humanity's expansion beyond the core systems.

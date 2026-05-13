@@ -39,4 +39,6 @@ Total mentions: **7**
 
 ## Biography
 
-*[To be enriched]*
+The Epsilon Fornacis Empire Group is an Imperial faction loyal to Senator Denton Patreus that serves as a key military force in the Empire's campaigns against both external and internal threats. The faction orchestrated its operations from Payne-Scott City starport during the critical Battle of Mudhrid in late 3307, where it engaged the Neo-Marlinist Order of Mudhrid in open warfare.
+
+Senator Patreus requested that Imperial auxiliaries provide combat support to the Epsilon Fornacis Empire Group during the Mudhrid campaign, which aimed to prevent NMLA leader Theta Seven from escaping aboard the Sacrosanct megaship. In December 3307, the faction defeated the Neo-Marlinist forces with the aid of independent pilots and ACT commandos led by Milo Castile, who retook the Steel Majesty megaship from NMLA troops. The Epsilon Fornacis Empire Group's victory represented a significant blow to the NMLA's operational capacity and demonstrated Patreus's ability to mobilise Imperial military resources against terrorist threats.

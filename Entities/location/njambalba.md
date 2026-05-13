@@ -52,4 +52,6 @@ Total mentions: **6**
 
 ## Biography
 
-*[To be enriched]*
+Njambalba is an independent system best known for Frost Dock, an outpost that has served as a seasonal logistics hub for charitable and festive initiatives. In December 3301, Clauss Incorporated launched a successful appeal for Special Gifts, with hundreds of pilots transporting commodities from Frost Dock in Njambalba to Clauss Port in Santa Muerte. CEO Nicolas St Clauss thanked contributors and gave away hundreds of free ships to participating pilots.
+
+The system later became associated with Sandra's Workshop, the largest manufacturer of children's toys in the core systems, which used Frost Dock as a distribution centre for festive gift deliveries. When commercial transport fleets were reassigned to evacuation support during the Thargoid conflict, independent pilots stepped in to deliver presents from Njambalba to children across the core systems. Njambalba's role as a hub for community-driven charitable efforts demonstrated how even remote systems could become critical nodes for galactic-scale humanitarian and festive logistics.

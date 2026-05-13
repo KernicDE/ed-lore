@@ -39,4 +39,6 @@ Total mentions: **7**
 
 ## Biography
 
-*[To be enriched]*
+The Blue Hand Gang is a ruthless criminal organisation that dominated the sparsely populated Orulas system for years before being challenged by a citizen-led defence initiative. The gang specialised in ferrying stolen escape pods in convoys to fences, selling them to shady pseudo-scientific outfits conducting illegal human experiments.
+
+In February 3302, former soldier Rose Trebek established the Joint Security Taskforce to clean up the Orulas system, recruiting experienced combat pilots to intercept Blue Hand convoys and recover escape pods. The gang's activities exemplified the brutal trade in human cargo that flourished on the fringes of civilised space, where local governments sometimes turned a blind eye to criminal operations in exchange for kickbacks. The Blue Hand Gang's eventual defeat demonstrated how community-led resistance could succeed where official law enforcement had failed.

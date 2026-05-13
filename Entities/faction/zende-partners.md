@@ -35,4 +35,6 @@ Total mentions: **6**
 
 ## Biography
 
-*[To be enriched]*
+Zende Partners is a transportation and technology company that became the first corporate entity to establish regular ferry services between the core systems and Guardian space. In April 3305, CEO Freya Taine announced plans to construct a megaship transport service connecting the core systems to a termination outpost in Guardian space, inviting the galactic community to vote on the destination system from five candidates.
+
+The service launched in May 3305 with two megaships — Sadler's Song and The Conduit — making weekly trips between Zende and Synuefe EN-H d11-96, where The Prospect outpost was established. Zende Partners also announced development of an advanced military module based on Guardian technology. The initiative marked the beginning of corporate-led infrastructure expansion into previously inaccessible regions, making Guardian archaeological sites available to mainstream pilot activity. Rival arms manufacturer Segnen Exchange, represented by CEO Cedrik Stone, cautioned that Zende Partners did not hold a monopoly on Guardian artefacts from the region, highlighting the competitive corporate interest in xenoarchaeological research and technology development.
