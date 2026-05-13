@@ -51,4 +51,6 @@ Total mentions: **7**
 
 ## Biography
 
-*[To be enriched]*
+Sosong is a Federation-aligned system that was one of three superpower core systems invaded by Thargoid fleets in April 3308, alongside Didio and Novas. The simultaneous attack placed over ten billion lives at risk and starports were directly struck with caustic enzyme weapons, causing hundreds of thousands of deaths.
+
+The invasion occurred shortly after Aegis was officially disbanded, leaving Frontline Solutions to temporarily operate the former Aegis fleet with volunteer pilots. The Alliance, Empire and Federation liaised with Salvation, whose Guardian-derived superweapons had proved effective against similar incursions. Sosong's invasion exemplified the catastrophic vulnerability of human space after Aegis's dissolution and the superpowers' desperate reliance on unproven weapons and mercenary logistics to defend their core territories.

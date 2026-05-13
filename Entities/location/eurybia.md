@@ -51,4 +51,6 @@ Total mentions: **7**
 
 ## Biography
 
-*[To be enriched]*
+Eurybia is an independent system governed by the Eurybia Blue Mafia that became a focal point for anti-Thargoid weapons development in late 3303. Aegis recruited engineer Liz Ryder, a specialist in explosive weaponry, to work at Awyra Flirble in Eurybia to develop new defensive and offensive technologies against the Thargoids.
+
+The system served as a collection point for Thargoid materials including unknown technology samples, biological matter, ancient relics and explosives, which pilots delivered to support Ryder's research. Eurybia's role in the early Aegis engineering programme made it a strategically significant location in humanity's first organised response to the Thargoid threat, even as its anarchic government remained outside direct superpower control.

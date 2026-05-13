@@ -28,4 +28,6 @@ Total mentions: **8**
 
 ## Biography
 
-*[To be enriched]*
+Marlon Royce is a business analyst for Vox Galactica who has reported on major financial and corporate developments across the galaxy. In June 3307, he published a widely discussed analysis of Sirius Corporation's growing political influence, examining how the megacorp had leveraged refugee resettlement, the Galactic Summit, secret deals with the Kumo Crew, and Coalsack Nebula colonisation to position itself as a "de facto fourth superpower."
+
+Royce also reported on the overnight bankruptcy of the Ambrose Foundation in February 3305, when three hundred billion credits were liquidated and transferred to anonymous accounts, alongside the disappearance of heiress Lady Talitha Ambrose. His work for Vox Galactica has made him a leading voice in galactic business journalism, with his analyses frequently cited in discussions of corporate power and political influence.

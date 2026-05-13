@@ -45,4 +45,6 @@ Total mentions: **7**
 
 ## Biography
 
-*[To be enriched]*
+The Perseus Dark Region KC-V c2-2 system is a remote system in the Perseus Dark Region that became a focal point of one of the most significant archaeological discoveries in recent galactic history. In April 3307, independent pilots traced a decoded signal from the derelict Adamastor megaship to this system, where they found the Hesperus — the Adamastor's sister ship — adrift in an asteroid belt around its second star.
+
+The Hesperus was not alone: alongside it hovered a dredger belonging to the Scriveners Clan, a nomadic tribe of salvagers who had claimed the megaship as salvage. Pilots hacked gaps in the dredger's antiquated firewalls to recover four encoded data files from the Hesperus, revealing a disturbing story of corporate rivalry, murder, and Azimuth Biochemicals' 200-year-old xenological research programme. The discovery also introduced "Salvation," a shadowy figure who had directed pilots to the site and would go on to become one of the most consequential — and controversial — figures in the Thargoid war.

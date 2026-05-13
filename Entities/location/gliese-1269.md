@@ -52,4 +52,6 @@ Total mentions: **7**
 
 ## Biography
 
-*[To be enriched]*
+Gliese 1269 is an independent democratic system in the core worlds with a population of approximately 3.9 million. In May 3302, the system served as the launch point for one of the most ambitious expeditions in galactic history: Jaques Station, the galaxy's only travelling starport, attempted a long-distance jump from Gliese 1269 to Beagle Point, the furthest reachable system from Sol.
+
+Thousands of tonnes of fuel were contributed by the galactic community to support the campaign, organised in part by the Distant Worlds Expedition. The station departed but was not heard from again, prompting a galaxy-wide search. Commander Cly eventually discovered Jaques Station in the Eol Prou RS-T d3-94 system, thousands of light-years off course and suffering from technical issues believed to be caused by Unknown Artefact-related interference. The jump from Gliese 1269, though it failed to reach its destination, accidentally established the settlement that would become Colonia — one of humanity's most successful deep-space colonies.

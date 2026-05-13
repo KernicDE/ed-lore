@@ -37,4 +37,6 @@ Total mentions: **7**
 
 ## Biography
 
-*[To be enriched]*
+Homeland is a planet in the Beta Hydri system, best known as the birthplace of Zachary Rackham — the billionaire entrepreneur, would-be Federal president, and rumoured former pirate known as "Calico Zack." Rackham Capital Investments owns a majority of shares in the Beta Hydri Corporation, giving Rackham a governing role in the system for many years.
+
+In April 3308, a spokesperson for Rackham Capital Investments stated that Rackham was "enthusiastic about giving back to his former community," citing investments in local companies including MacArthur Mining Ltd and the construction of Rackham's Spire, which revived the construction industry in Los Pioneros. However, Federal Times journalist Bryanna Blanco noted that Rackham's citizenship documents had never been made public, fuelling speculation that he might hail from "some anarchic backwater where piracy is a way of life" rather than the Federation. Homeland thus became a symbol of the blurred lines between legitimate enterprise and criminal origins in Rackham's contested biography.

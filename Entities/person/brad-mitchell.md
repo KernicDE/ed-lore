@@ -28,4 +28,6 @@ Total mentions: **7**
 
 ## Biography
 
-*[To be enriched]*
+Brad Mitchell was the Vice President of the Federation who was killed in the NMLA's Nine Martyrs terrorist attack in March 3307. The NMLA planted caustic enzyme explosives at Li Qing Jao station, where a government meeting was taking place, and Mitchell was confirmed among the tens of thousands of casualties across nine simultaneously bombed starports.
+
+President Zachary Hudson, who was attending the Galactic Summit during the attack, declared the atrocity "nothing less than a declaration of war" and vowed to respond accordingly. Hudson described Mitchell as a "close friend" and promised to personally appoint replacements to the Cabinet positions. Mitchell's death underscored the vulnerability of Federal leadership to terrorist attacks and catalysed the Federation's hardline response to both the NMLA and Marlinist communities.

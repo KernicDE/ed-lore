@@ -36,4 +36,6 @@ Total mentions: **7**
 
 ## Biography
 
-*[To be enriched]*
+Hart Station is a starport in the Bast system that became a focal point during the Cerberus Plague outbreak of 3301. In July 3301, the station was among the first to report infections outside the initial outbreak zone, with hospitals rapidly becoming overloaded as infection rates rose.
+
+Medical personnel at Hart Station praised the 765 independent pilots who delivered medicines to the Bast system, which allowed them to devote time to searching for a cure. The breakthrough came when patients given Ceremonial Heike Tea showed improvement, leading to the discovery that the rare tea from Heike could cure the pathogen. Hart Station's experience exemplified how starports could coordinate humanitarian responses to galactic health crises and the critical role of community-driven aid in medical emergencies.

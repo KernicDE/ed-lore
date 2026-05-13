@@ -35,4 +35,6 @@ Total mentions: **7**
 
 ## Biography
 
-*[To be enriched]*
+The Golconda is an ancient generation ship launched in the 22nd century that was discovered in the Upaniklis system in November 3305, still inhabited by the descendants of its original crew. The vessel had survived for more than a millennium as the home of a self-reliant society, though its outdated facilities were struggling to meet the crew's needs.
+
+The ship's inhabitants were suffering from a virus called "the wasting kiss" and lacked maintenance materials and medical supplies. After receiving humanitarian aid from independent pilots, the Golconda's population eventually migrated to Forester's Choice, a new orbital outpost in Upaniklis, in December 3305. The discovery of a living generation ship society became one of the most significant anthropological events of the era, demonstrating how pre-hyperdrive humanity had attempted to colonise the stars and how those isolated societies could survive for centuries before re-establishing contact with the wider galaxy.

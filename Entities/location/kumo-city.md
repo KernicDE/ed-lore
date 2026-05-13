@@ -36,4 +36,6 @@ Total mentions: **7**
 
 ## Biography
 
-*[To be enriched]*
+Kumo City is an Orbis starport in the Pegasi Sector PN-T c3-14 system, one of five starports constructed by pirate warlord Archon Delaine as part of his Kumo Crew syndicate's territorial expansion. The station serves as a major hub for the syndicate's operations in the Pegasi Sector, a region synonymous with piracy and organised crime.
+
+In July 3307, a Blue Viper Club dredger — a nomadic Dredger Clan with a reputation for drug running and raiding — arrived and took position near Kumo City. Unmarked personnel shuttles travelling between the dredger and the station suggested a partnership between the clan and the Kumo Crew. The alliance produced "helix," a recreational drug that later became known as Onionhead gamma strain, and marked the first time a Dredger Clan had entered inhabited space. The partnership lasted until May 3308, when the Blue Viper Club abruptly severed ties and departed during an attempted coup against Delaine.

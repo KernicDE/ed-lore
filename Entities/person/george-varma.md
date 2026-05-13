@@ -28,4 +28,6 @@ Total mentions: **7**
 
 ## Biography
 
-*[To be enriched]*
+Admiral George Varma was a member of the Alliance Council of Admirals who was arrested in July 3304 for his alleged role as "Nexus," the coordinator of the League of Reparation terrorist organisation. Captain Niamh Seutonia and Senior Agent Tanya Ramirez confronted Varma during a meeting of admiralty staff at Donaldson starport in Alioth, placing him under arrest despite protests.
+
+The tri-superpower taskforce investigating the League of Reparation had evidence that Varma was secretly redirecting cargo shipments from the Alliance Defence Force to terrorist cells, providing them with military-issue weapons, equipment and encryption. The arrest created diplomatic ripples, with Federal and Imperial ambassadors summoned before the Alliance Assembly. Council member Jed Trager called the arrest an "egregious transgression," though Prime Minister Edmund Mahon stated that the body of evidence against Varma was considerable. His case exposed the vulnerability of Alliance military institutions to infiltration and the challenges of coordinating counter-terrorism across superpower boundaries.

@@ -27,4 +27,6 @@ Total mentions: **7**
 
 ## Biography
 
-*[To be enriched]*
+The Guardian Nanite Torpedo Pylon is a specialised anti-Thargoid weapon developed for use in the assaults on Thargoid Titan motherships during the Second Thargoid War. Deployed alongside the Thargoid Pulse Neutraliser and Caustic Sink Launcher, the pylon fires torpedoes carrying Guardian-derived nanites designed to hamper a Titan's vents and render the massive vessel vulnerable to conventional damage.
+
+The weapon was first deployed in March 3310 during the assault on Titan Leigong, the second Thargoid mothership to come under siege after Titan Taranis. Aegis made the module readily available at Rescue Megaships for participating pilots, establishing it as a standard component of Titan assault loadouts. The Guardian Nanite Torpedo Pylon represented the culmination of Aegis's research into Guardian technology, translating ancient xenoarchaeological discoveries into practical battlefield applications. Its effectiveness against the Titans' biomechanical architecture demonstrated how humanity's growing understanding of Guardian science could be weaponised against the Thargoids, even as the ethical implications of deploying extinct-civilisation technology in active warfare remained debated.

@@ -28,4 +28,6 @@ Total mentions: **7**
 
 ## Biography
 
-*[To be enriched]*
+Harper Vargas is the Security Chief of Phoenix Base in the Meene system, the research facility of engineer Ram Tah. In October 3304, Vargas led the defence of Phoenix Base against armed intruders who attempted to breach the base's perimeter in an apparent attempt to steal Guardian technology research.
+
+Vargas reported that defensive systems alerted security teams to the breach, and his teams engaged the intruders in combat and forced them back to a waiting ship. Although the intruders used explosives to sabotage the base's power network, Vargas's quick response prevented the theft of research data or Guardian technology samples. The raid highlighted the vulnerability of independent scientific operations to corporate or state-sponsored espionage, and Vargas's leadership ensured that Ram Tah's critical research into Guardian technology continued uninterrupted.

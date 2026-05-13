@@ -39,4 +39,6 @@ Total mentions: **7**
 
 ## Biography
 
-*[To be enriched]*
+Loren's Legion is an independent faction that controls the Prism system and its starport Hiram's Anchorage. The organisation takes its name from Lady Kahina Tijani Loren, the Imperial senator and explorer also known as Salomé, whose controversial trial in October 3302 brought the faction to galactic prominence.
+
+During Loren's trial at the Prism Hall of Justice, Loren's Legion enforced tight security around Hiram's Anchorage alongside Imperial forces, while Admiral Denton Patreus's presence raised questions about judicial independence. In March 3303, the faction launched a successful appeal for tantalum to address economic issues, with hundreds of independent pilots delivering materials to Hiram's Anchorage. Loren's Legion's connection to the Salomé conspiracy, the Antares mystery, and the broader power struggles within the Empire made it a significant player in the political intrigues of the early 3300s, even as its founder's fate remained shrouded in controversy.

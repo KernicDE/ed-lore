@@ -28,4 +28,6 @@ Total mentions: **8**
 
 ## Biography
 
-*[To be enriched]*
+Admiral Frederick Yamamoto was the head of the Alliance fleet in Zaonce who was arrested in June 3305 for the assassination of former Alliance presidential candidate Fazia Silva. A private investigation by Tashmira Silva, Fazia's sister and CEO of Silva Holdings Inc, hired the Wallglass Investigations Agency to uncover the truth after the official inquiry closed without resolution.
+
+The Wallglass report identified that Yamamoto had personally arranged to have Fazia killed during the presidential election campaign, presumably to remove her political threat to his friend Gibson Kincaid. Alliance Interpol verified the report and detained Yamamoto pending trial, placing the Zaonce fleet under joint command of the Council of Admirals. Yamamoto's arrest exposed a deep conspiracy within the Alliance military-political establishment and triggered the eventual impeachment of President Kincaid.

@@ -51,4 +51,6 @@ Total mentions: **7**
 
 ## Biography
 
-*[To be enriched]*
+Synteini is an independent system that became a focal point for debates over Imperial slavery in early 3301. In March 3301, Senator Zemina Torval opened a new Imperial Slavers Association training facility aboard Lagerkvist Gateway, featuring skill implantation terminals and body sculpting shops. The facility was promoted as a model for bringing unregulated workforces up to Imperial standards.
+
+The system later hosted the "Great Slaver Showdown" between Senator Torval and Princess Aisling Duval, a public challenge to determine whose position on slavery the Empire's citizens truly supported. Torval's victory in the contest reinforced traditional Imperial labour practices, though Aisling's anti-slavery campaign continued to gain momentum. Synteini's association with the Imperial Slavers Association made it a symbol of both the Empire's commitment to its labour traditions and the growing reform movement seeking to abolish the practice.

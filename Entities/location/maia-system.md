@@ -44,4 +44,6 @@ Total mentions: **7**
 
 ## Biography
 
-*[To be enriched]*
+The Maia system is an independent system in the Pleiades Nebula that became the epicentre of Thargoid research and the first major battleground of human-alien contact. In early 3302, Professor Ishmael Palin established a research outpost on Maia b1ba to study Unknown Artefacts and meta-alloys, while Obsidian Orbital served as the system's primary starport and research hub.
+
+Molecular chemist Lea Tantaga at Obsidian Orbital made a breakthrough in meta-alloy research, discovering that the material could neutralise the effects of Unknown Artefacts on starport systems. The system was later affected by the technological plague spreading from Thargoid artefacts, and became a focal point for superpower military operations as the Thargoid conflict escalated. Maia's role as both a scientific frontier and a combat zone made it the defining location of the early Thargoid war.

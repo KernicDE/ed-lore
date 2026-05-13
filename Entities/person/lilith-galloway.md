@@ -27,4 +27,6 @@ Total mentions: **7**
 
 ## Biography
 
-*[To be enriched]*
+Lilith Galloway is a Senior Engineer with Aegis who played a key role in the organisation's Guardian technology programme. In April 3305, she announced Aegis's partnership with engineer Ram Tah to manufacture Guardian-related technology on a larger scale, bringing Aegis's considerable resources to bear on the production of hybrid weaponry.
+
+Galloway confirmed that technology brokers would remain licensed distributors of the Trident, Javelin and Lance XG fighters. Her leadership in the Aegis-Ram Tah partnership helped institutionalise Guardian technology research within humanity's primary anti-xeno organisation, ensuring sustained development of the hybrid modules that became critical in the fight against the Thargoids.

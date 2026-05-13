@@ -51,4 +51,6 @@ Total mentions: **7**
 
 ## Biography
 
-*[To be enriched]*
+Bast is a Federal system that was affected by the Cerberus Plague in mid-3301. Hart Station in Bast was among the first starports outside the initial outbreak zone to report infections, alongside Hoard Orbital in Una and Cantor Terminal in Santjalan. Hospitals and care facilities were rapidly overloaded as infection rates rose, with volunteers and local security personnel aiding health services.
+
+The Bast outbreak highlighted the speed at which the plague could spread beyond containment boundaries. Chief Medical Officer Carl Simmons of Newton Dock called for pilots to deliver medical aid to the affected starports. Bast's experience exemplified the challenge of coordinating inter-system responses to galactic health emergencies and the critical role of independent pilots in humanitarian relief efforts.

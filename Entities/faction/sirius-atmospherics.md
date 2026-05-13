@@ -39,4 +39,6 @@ Total mentions: **7**
 
 ## Biography
 
-*[To be enriched]*
+Sirius Atmospherics is a subsidiary of Sirius Corporation that specialises in planetary terraforming and atmospheric engineering. In late 3306, the company launched a major project in partnership with the Alliance to terraform ammonia worlds in the Coalsack Nebula, developing revolutionary new procedures for terrestrial planets with ammonia-based atmospheres.
+
+The company requested exploration data from independent pilots to identify suitable targets for environmental conversion, establishing a research facility at Betancourt Base in the Musca Dark Region. Project director Dr Maximilian North outlined the goal of transforming the region into a more human-friendly environment. Sirius Atmospherics' work expanded humanity's habitable frontier and demonstrated how corporate scientific expertise could be leveraged for large-scale colonisation projects, though the Coalsack initiative later stalled amid concerns that the terraforming activity had provoked Thargoid retaliation.

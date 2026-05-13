@@ -41,4 +41,6 @@ Total mentions: **7**
 
 ## Biography
 
-*[To be enriched]*
+Wregoe is a remote system in the Wregoe sector, far from the core worlds, that became notable in the late 3300s for two unrelated but significant events. In August 3309, Commander Renia Rakowski reported a non-aggressive Thargoid interceptor encounter in the Wregoe GA-X B3-0 system — hundreds of light years from the Maelstrom invasion fronts — raising profound questions about whether the Thargoid presence extended far beyond known conflict zones.
+
+More critically, in January 3308 debris from the missing megaship Alexandria was discovered scattered across the planetary rings of Wregoe TC-X b29-0 AB 2 A. Captain Morales's report revealed that the ship had been sabotaged and raided by a quasi-military force obeying orders from someone called "the Witch," before its hyperdrive failure caused the destruction. This discovery proved that Azimuth Biochemicals — supposedly liquidated two centuries earlier — had survived into the present day, and that the Alexandria's cargo of Guardian artefacts had been hijacked as part of Azimuth's ongoing xenological research programme.

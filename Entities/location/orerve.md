@@ -51,4 +51,6 @@ Total mentions: **7**
 
 ## Biography
 
-*[To be enriched]*
+Orerve is a major Federation agricultural system with a population of 2.5 billion, governed corporately under the Terra-EX Astro Corp. Located in the core worlds, the system's economy is built on agriculture and it serves as one of the primary breadbaskets of inhabited space.
+
+In October 3305, Orerve was among the first systems ravaged by a devastating crop blight that spread across hundreds of agricultural worlds. The Interstellar Association for Agriculture designated Orerve and Diso as priority centres for recovery, and an agronomic treatment developed by the IAA in collaboration with Rockforth Corporation, Vandermeer Corporation, and Neomedical Industries was distributed to Watson Station in Orerve. The treatment proved effective within hours, eliminating the mutated pathogen and facilitating recovery of living crops. Orerve's role as a test case for the anti-blight cure demonstrated the power of interstellar scientific collaboration in averting mass starvation.

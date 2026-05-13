@@ -37,4 +37,6 @@ Total mentions: **7**
 
 ## Biography
 
-*[To be enriched]*
+Jameson Memorial is a starport located in the Shinrarta Dezhra system, named in honour of the legendary pilot Commander John Jameson. The station is operated by the Pilots Federation and serves as a memorial to Jameson's service, particularly his role in the first Thargoid war and his subsequent betrayal by the INRA.
+
+In September 3310, Jameson Memorial became a focal point of the Thargoid invasion when a Thargoid fleet emerged in Shinrarta Dezhra, catching anti-xeno forces by surprise. Acting starport commander Florian Baljak praised the thousands of commanders who helped repel the invasion. The station's significance extends beyond its military role — it represents the Pilots Federation's commemoration of one of humanity's most celebrated pilots, whose legacy became intertwined with both heroic sacrifice and tragic betrayal.

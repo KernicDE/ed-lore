@@ -29,4 +29,6 @@ Total mentions: **7**
 
 ## Biography
 
-*[To be enriched]*
+Damon Clarke was an Imperial industrialist and patron of Princess Aisling Duval whose shipping company, D and C Shipping Inc., became embroiled in the Emperor's Dawn scandal of late 3301. The Imperial Herald published evidence that Clarke's company had funded and organised weapon shipments to known Emperor's Dawn members three years earlier, creating a crisis for Aisling's campaign.
+
+While no direct connection between Aisling and the insurgency was alleged, the scandal caused a dramatic fall in her popularity polls. Clarke was unavailable for comment, but his company defended its operations as legitimate shipping business. In March 3302, Clarke was found dead, bringing a grim conclusion to the investigation. His case remains one of the murkiest episodes in the succession crisis, highlighting how Imperial politics could be destabilised by the actions of wealthy backers.

@@ -28,4 +28,6 @@ Total mentions: **7**
 
 ## Biography
 
-*[To be enriched]*
+Professor Alexei de la Vega is a scientist who led a research project for the Colonia Co-operative in the remote Colonia region. In May 3304, he oversaw a campaign to supply the project with microresources, with hundreds of independent pilots delivering materials to Foster Terminal in the Coeus system.
+
+De la Vega stated that the materials would allow the Colonia Co-operative to "establish a framework for how the region can expand," charting a roadmap for Colonia's future growth. His work represented the scientific infrastructure development that underpinned Colonia's transformation from a remote outpost into a viable deep-space settlement, demonstrating how coordinated research programmes could sustain human expansion far beyond the core systems.

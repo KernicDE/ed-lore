@@ -26,4 +26,6 @@ Total mentions: **8**
 
 ## Biography
 
-*[To be enriched]*
+Marcus Macmillan is a political commentator who wrote a series of GalNet profiles in mid-3301 examining the major political figures of the era. His articles profiled Princess Aisling Duval, Senator Arissa Lavigny-Duval, President Zachary Hudson, Senator Denton Patreus, Prime Minister Edmund Mahon, Shadow President Felicia Winters, Senator Zemina Torval and CEO Li Yong-Rui, offering readers insight into their backgrounds, political platforms and succession prospects.
+
+Macmillan's profiles were notable for their balanced analysis of Imperial politics, describing Aisling Duval as a populist reformer whose compassion stemmed from personal tragedy, while portraying Arissa Lavigny-Duval as a senator who preferred to be judged by her achievements rather than her royal bloodline. His work established him as one of the most-read political commentators in the galaxy during the critical succession period following Emperor Hengist Duval's declining health.

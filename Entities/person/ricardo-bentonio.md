@@ -28,4 +28,6 @@ Total mentions: **7**
 
 ## Biography
 
-*[To be enriched]*
+Ricardo Bentonio is a conspiracy theorist and host of the investigative show "The Hidden World" who has promoted fringe theories about alien influence over human society. In August 3301, he claimed on his programme that President Jasmina Halsey had been kidnapped by aliens when Starship One disappeared, dismissing the official report findings.
+
+Bentonio's theories gained enough traction that Federal Navy officials were forced to refuse comment on his allegations, while some congressmen openly mocked him. In early 3303, he resurfaced with claims that Thargoids were exerting direct influence over human society and walking among the population. While widely dismissed as a "loon" by mainstream politicians, Bentonio's show attracted a dedicated following among those suspicious of official narratives, making him a persistent if marginal figure in galactic media.

@@ -47,4 +47,6 @@ Total mentions: **7**
 
 ## Biography
 
-*[To be enriched]*
+Synuefe XR-H d11-102 is a remote system that became one of the most important archaeological sites in galactic history when independent pilot "xdeath" discovered mysterious ancient ruins there in October 3302. Images of the site showed complex structures and earthworks that immediately fuelled speculation about non-human origin.
+
+The discovery prompted a galaxy-wide rush of pilots to investigate the site, and although a formal survey was not immediately conducted, the ruins were quickly recognised as belonging to the Guardian civilisation — the first confirmed evidence of a prior intelligent species in the galaxy. Engineer Ram Tah later commented on the find, noting that while Guardian structures followed recognisable patterns, the codex-data pillar configurations differed from site to site. The Synuefe discovery fundamentally reshaped xenoarchaeology and established that humanity was not alone in having built a civilisation in the galaxy, setting the stage for the Guardian research programmes that would later prove critical in the war against the Thargoids.

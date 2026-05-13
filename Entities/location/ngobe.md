@@ -50,4 +50,6 @@ Total mentions: **7**
 
 ## Biography
 
-*[To be enriched]*
+Ngobe is an independent democratic system located in the core worlds with a population of approximately 7 million. Governed by the Future of Ngobe faction, the system's economy is based on services and extraction. Its starport Hinz Hub was among the earliest stations affected by the technological plague that swept across inhabited space in late 3301 and early 3302.
+
+In November 3301, reports of mysterious technical issues at Hinz Hub joined a growing list of affected stations including those in Warkushanui, 49 Arietis, and 64 Arietis. By January 3302, the technological plague had spread to 22 systems, with Ngobe among those experiencing malfunctions. The crisis was eventually traced to Unknown Artefacts — alien objects that interfered with station systems. Ngobe's experience was typical of the early plague wave: initially unexplained malfunctions that escalated into service suspensions, foreshadowing the larger xeno-threat that would dominate the coming decades.

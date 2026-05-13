@@ -50,4 +50,6 @@ Total mentions: **7**
 
 ## Biography
 
-*[To be enriched]*
+Polevnic is an independent system that serves as a key location in the Utopian Commune Programme. Under Simguru Pranav Antal, Utopia expanded from its original base on Antal to include Polevnic, Neris, HIP 117972 and HIP 1389, attracting hundreds of thousands of scientists and engineers who develop advanced technologies for mass production.
+
+The system is governed by the Guardians of Harmony under a communist government structure. Polevnic's role in Utopia's network of technological communes reflects the organisation's commitment to freely sharing knowledge regardless of factional leanings. The system requires substantial material supplies to sustain its workshops, with Utopia offering bonuses to traders who deliver metals to support its ambitious research programmes.

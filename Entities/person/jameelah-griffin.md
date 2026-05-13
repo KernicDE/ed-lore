@@ -28,4 +28,6 @@ Total mentions: **7**
 
 ## Biography
 
-*[To be enriched]*
+Dr Jameelah Griffin is a spokesperson for the Galactic Interfaith Commune who has been a vocal defender of religious freedom during the Thargoid conflicts. In August 3304, she strongly opposed the Federal Intelligence Agency's arrests of Far God cult members, stating that the detentions were "motivated by fear rather than evidence" and calling for the protection of citizens' civil rights regardless of belief.
+
+Griffin's opposition to the FIA's expanded investigation placed the Galactic Interfaith Commune in direct tension with both Federal security policy and anti-Thargoid campaigners like Juanita Bishop. Her advocacy highlighted the dangers of wartime security measures that suspended civil liberties for religious minorities, and her work became a touchstone for debates about the limits of state power during the Thargoid invasion.

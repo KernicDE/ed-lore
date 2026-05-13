@@ -294,8 +294,75 @@ Uncommitted enrichments from previous sessions covering key factions, locations 
 - Total enriched: 300
 - Remaining: 3,141
 
+### Batch 8: 350 milestone ✅ COMPLETE
+| # | Entity | Type | Status | Notes |
+|---|--------|------|--------|-------|
+| 1 | Marlon Royce | person | ✅ Done | Federal Times journalist, Nine Martyrs investigation |
+| 2 | Marcus Macmillan | person | ✅ Done | Ambassador, Alliance diplomacy, Kumo Crew negotiations |
+| 3 | Harlow Nassry | person | ✅ Done | Explorer, Distant Worlds Expedition, Beagle Point |
+| 4 | Frederick Yamamoto | person | ✅ Done | Corporate executive, Core Dynamics board |
+| 5 | Ricardo Bentonio | person | ✅ Done | Independent pilot, Buckyball Racing champion |
+| 6 | Patience Middleton | person | ✅ Done | Alliance diplomat, Galactic Summit delegate |
+| 7 | Lilith Galloway | person | ✅ Done | Imperial citizen, Aisling Duval charity beneficiary |
+| 8 | Leon Banerjee | person | ✅ Done | Scientist, Palin Institute researcher |
+| 9 | Lana Berkovich | person | ✅ Done | Engineer, ship module specialist |
+| 10 | Jameelah Griffin | person | ✅ Done | Federal Navy officer, anti-piracy operations |
+| 11 | Cora Shaw | person | ✅ Done | Journalist, Imperial Herald correspondent |
+| 12 | Brad Mitchell | person | ✅ Done | Commander, explorer, Colonia pioneer |
+| 13 | Damon Clarke | person | ✅ Done | Alliance Council member, trade policy |
+| 14 | Harper Vargas | person | ✅ Done | Mercenary, conflict zone contractor |
+| 15 | George Varma | person | ✅ Done | Entrepreneur, Rackham Capital associate |
+| 16 | Summerland | location | ✅ Done | Imperial system, Aisling Duval's retreat |
+| 17 | Sosong | location | ✅ Done | Corporate system, agricultural exports |
+| 18 | Polevnic | location | ✅ Done | Prison system, Deep Space Correctional Facility |
+| 19 | Bast | location | ✅ Done | Cerberus Plague outbreak, Hart Station |
+| 20 | Eurybia | location | ✅ Done | Blue Viper Club, Onionhead trade |
+| 21 | Wolf 1301 | location | ✅ Done | Saunders's Dive, technological plague |
+| 22 | Jameson Memorial | location | ✅ Done | Shinrarta Dezhra, Pilots Federation headquarters |
+| 23 | Varati system | location | ✅ Done | Canonn headquarters, xeno-research hub |
+| 24 | Synteini | location | ✅ Done | Imperial system, Nova Imperium base |
+| 25 | Golconda | location | ✅ Done | Generation ship, Upaniklis resettlement |
+| 26 | Gudrun Vestergaard | person | ✅ Done | Imperial Herald royal correspondent, Aisling-Arissa politics |
+| 27 | Alexei de la Vega | person | ✅ Done | Scientist, Colonia Co-operative research project |
+| 28 | Maia system | location | ✅ Done | Pleiades epicentre, Thargoid research, Obsidian Orbital |
+| 29 | Hart Station | location | ✅ Done | Cerberus Plague breakthrough, Heike Tea cure |
+| 30 | Sirius Atmospherics | faction | ✅ Done | Terraforming subsidiary, Coalsack Nebula project |
+| 31 | Alfred Jeffress | person | ✅ Done | Reclusive philanthropist, galaxy-wide treasure hunts |
+| 32 | Turner's World | location | ✅ Done | Alioth system, art theft, League of Reparation murder |
+| 33 | Perseus Dark Region KC-V c2-2 | location | ✅ Done | Hesperus discovery, Scriveners Clan, Azimuth history |
+| 34 | Orerve | location | ✅ Done | Federation agricultural system, blight crisis |
+| 35 | Ngobe | location | ✅ Done | Technological plague, Hinz Hub malfunctions |
+| 36 | Luyten's Star | location | ✅ Done | Underground racing, Order of the Far God |
+| 37 | Kumo City | location | ✅ Done | Kumo Crew starport, Blue Viper Club alliance |
+| 38 | Homeland | location | ✅ Done | Beta Hydri, Zachary Rackham birthplace |
+| 39 | Gliese 1269 | location | ✅ Done | Jaques Station departure point, Beagle Point attempt |
+| 40 | Gaiman Dock | location | ✅ Done | Technological plague, Unknown Artefact effects |
+| 41 | Wregoe | location | ✅ Done | Thargoid encounter, Alexandria debris discovery |
+| 42 | Synuefe XR-H d11-102 | location | ✅ Done | Ancient Guardian ruins, xenoarchaeology |
+| 43 | HIP 17692 | location | ✅ Done | Federal asteroid base, Pleiades Thargoid monitoring |
+| 44 | Carnoeck | location | ✅ Done | Bacon City, Bacon Protests anniversary |
+| 45 | Arawere | location | ✅ Done | Pegasi sector, Kumo Crew stronghold, technological plague |
+| 46 | 42 n Persei | location | ✅ Done | Thargoid invasion, independent system |
+| 47 | Loren's Legion | faction | ✅ Done | Prism system, Kahina Loren/Salomé, Hiram's Anchorage |
+| 48 | Radicoida unica | technology | ✅ Done | HIP 87621 plant, symbiotic properties, performance enhancement |
+| 49 | Caustic Sink Launcher | technology | ✅ Done | Aegis module, Maelstrom protection, Titan assault |
+| 50 | Guardian Nanite Torpedo Pylon | technology | ✅ Done | Anti-Titan weapon, Guardian-derived nanites |
+
+## Stats
+- Total entities: 3,441
+- Enriched (Batch 1): 26
+- Enriched (Batch 2): 25
+- Enriched (Batch 3): 29
+- Enriched (Batch 4): 25
+- Enriched (Batch 5): 45
+- Enriched (Batch 6): 24
+- Enriched (Batch 7): 52
+- Enriched (Batch 8): 50
+- Total enriched: 350
+- Remaining: 3,091
+
 ## Notes
 - All enriched entities trimmed to compact Wikipedia-style descriptions (1-2 paragraphs)
-- Batch 1–7 fully enriched and committed
-- Top 300 coverage: ~99% of legitimate high-mention entities enriched
-- Milestone: 300 entities reached
+- Batch 1–8 fully enriched and committed
+- Top 350 coverage: ~98% of legitimate high-mention entities enriched
+- Milestone: 350 entities reached

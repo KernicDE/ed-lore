@@ -28,4 +28,6 @@ Total mentions: **7**
 
 ## Biography
 
-*[To be enriched]*
+Leon Banerjee is a science correspondent for Vox Galactica who has reported on major exploration and scientific initiatives across the galaxy. In January 3305, he provided an overview of the second Distant Worlds expedition, which involved nearly four thousand Commanders travelling over 200,000 light years through the galactic core, including the construction of a research starport near Sagittarius A*.
+
+Banerjee later reported on the rivalry between Aegis and Azimuth Biotech in June 3309, when both organisations launched competing campaigns to collect Titan tissue samples for research. His coverage of scientific developments has made him a key voice in galactic science journalism, chronicling humanity's efforts to understand both the galaxy's unexplored regions and the biology of its greatest alien threat.

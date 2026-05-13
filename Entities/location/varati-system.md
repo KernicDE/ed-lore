@@ -44,4 +44,6 @@ Total mentions: **7**
 
 ## Biography
 
-*[To be enriched]*
+Varati is an independent system that served as a key research hub during the technological plague of 3301–3302. In November 3301, Bond Hub in Varati reported technical malfunctions and power failures similar to those affecting 64 Arietis, Warkushanui and Weyn Dock, as the wave of mysterious station problems spread across inhabited space.
+
+The system became a focal point for the Canonn Interstellar Research Group's efforts to understand Unknown Artefacts, with researchers appealing for meta-alloys to reverse the plague's effects. Professor D Luffy at Bond Hub coordinated research into the alien artefacts causing the malfunctions. Varati's role in the early scientific response to Thargoid artefacts demonstrated how independent systems could become centres of critical research when official channels were slow to respond to the alien threat.

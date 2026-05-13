@@ -28,4 +28,6 @@ Total mentions: **7**
 
 ## Biography
 
-*[To be enriched]*
+Patience Middleton is a representative of Taurus Mining Ventures, the commercial partner of the mysterious anti-xeno scientist known as Salvation. In May 3307, she announced that Salvation had authorised payments of two million credits or ten units of void opals for pilots who delivered logs from the Hesperus megaship to the Hind Mine asteroid base in the T Tauri system.
+
+Middleton's role as a corporate intermediary allowed Salvation to maintain anonymity while recruiting pilots for his operations. She relayed Salvation's message that his scientific breakthroughs would "literally save all of humanity," and confirmed that further work would be offered to intrepid agents. Her position at Taurus Mining Ventures exemplified how Salvation used legitimate corporate structures to mask his Azimuth Biochemicals background and acquire resources for his Guardian-derived superweapon research.

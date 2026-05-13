@@ -51,4 +51,6 @@ Total mentions: **7**
 
 ## Biography
 
-*[To be enriched]*
+Carnoeck is a major Federation system with a population of over 34 million, governed corporately with high security and a high-tech economy supported by refinery operations. The system is best known for Bacon City, a starport that became the unlikely centre of one of the galaxy's most unusual community events.
+
+In October 3301, Bacon City hosted the inaugural Bacon Protests anniversary celebration, commemorating the repeal of a 3288 meat ban that had affected Carnoeck's citizens. The event attracted revellers, traders, and pirates from across the galaxy, with hundreds of pilots ferrying animal meat and narcotics to fuel the festivities. At one point, animal-rights activists blockaded the station and ordered meat-carrying ships to jettison cargo at gunpoint. The United Carnoeck for Equality faction, which sponsored the event, anticipated such disruption and set aside funds for a post-party cleanup, offering bounty hunters rewards to clear agitators from the spaceways. Carnoeck's Bacon City celebrations demonstrated how even light-hearted community events could attract both celebration and conflict on the galactic frontier.

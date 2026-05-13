@@ -27,4 +27,6 @@ Total mentions: **8**
 
 ## Biography
 
-*[To be enriched]*
+The Caustic Sink Launcher is an Aegis-developed ship module designed to protect vessels operating within the caustic environments of Thargoid Maelstrom clouds. In February 3309, Aegis launched an initiative to fast-track mass production of the module, with Professor Alba Tesreau announcing that Admiral Aden Tanner had personally tested the prototype.
+
+The module works by channelling the electrochemical reactions within Maelstrom clouds into semi-liquid anodes for ejection, keeping ship hulls intact for considerably longer than unprotected vessels. Production required advanced catalysers, heatsink interlinks, palladium, and caustic tissue samples obtained from generators inside the Maelstroms — materials crowdsourced from independent pilots. Director Ivano Colombera of the Imperial Science Academy noted that the caustic sink launcher would allow more data on the Maelstroms to be gathered, furthering understanding of Thargoid capabilities. The module became one of three key technologies for the Titan assault campaign, alongside the Thargoid Pulse Neutraliser and the Guardian Nanite Torpedo Pylon, and represented Aegis's renewed operational model of collaborative, transparent research directly integrated with the galactic community.

@@ -50,4 +50,6 @@ Total mentions: **7**
 
 ## Biography
 
-*[To be enriched]*
+Arawere is an independent confederacy system with a population of approximately 11.6 million and an industrial economy supported by extraction. Located in the Pegasi sector, the system first came to galactic attention in June 3301 when Archon Delaine's Kumo Crew established it as one of their expanding strongholds, bringing the pirate syndicate's network to over 160 systems.
+
+Arawere was later caught up in the technological plague that swept across inhabited space in late 3301 and early 3302. Its starport Korolyov Hub was among those where services were suspended due to Unknown Artefact-related interference, and by February 3302 the station was listed among the systems experiencing the most severe disruptions. The system's experience exemplified the dual pressures faced by frontier settlements: vulnerability to both organised piracy on one side and mysterious alien technological interference on the other. Arawere's location in the volatile Pegasi sector made it a bellwether for the instability that characterised the era.

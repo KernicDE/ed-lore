@@ -52,4 +52,6 @@ Total mentions: **7**
 
 ## Biography
 
-*[To be enriched]*
+Luyten's Star is a Federation system located just 12.4 light-years from Sol, making it one of the closest inhabited systems to humanity's birthplace. With a population of over 13 million, the system is governed corporately by the Earth Defense Fleet and has an extraction-based economy. Its starport Ashby City has served as a waypoint for travellers between Sol and the outer Federation territories.
+
+The system's notoriety began in February 3301 when traders at Ashby City reported Core Dynamics Eagle fighters conducting dangerous high-speed races through docking slots — part of an underground racing circuit that had reportedly originated in the Earth-Moon system. Federal Security Forces conspicuously failed to intervene. In March 3309, Luyten's Star made headlines again when the Testament megaship of the outlawed Order of the Far God departed the system after rescuing Seo Jin-ae from unidentified attackers, reigniting debate about the cult's status and its role in protecting Aegis personnel.

@@ -50,4 +50,6 @@ Total mentions: **7**
 
 ## Biography
 
-*[To be enriched]*
+Summerland is an Imperial system that became the site of the decisive Battle of Summerland in February 3308, which ended the NMLA terrorist threat. The private military firm Darkwater Inc, which had trained NMLA terrorists and held Emperor Arissa Lavigny-Duval captive for nearly a year on the orders of the Lords of Restoration, was destroyed by a combination of Imperial forces and independent pilots.
+
+Colonel Ronan Brock, the mercenaries' leader, was killed during the fighting when he fled from the Onyx Storm megaship and was shot down by Imperial auxiliaries. Following the battle, the Empire installed the Praetorian Vigil as the new controlling faction, which reports directly to the Emperor. The victory marked the end of large-scale NMLA military capability, though ACT noted that individual Neo-Marlinist extremists might remain. Summerland thus represents the final battleground of the NMLA crisis and the restoration of Imperial authority.
