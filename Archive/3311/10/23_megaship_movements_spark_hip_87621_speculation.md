@@ -17,7 +17,7 @@ topics:
 - war
 - diplomacy
 technologies: []
-arc_id: hip87621-conflict
+arc_id: hip-87621-conflict
 modern_impact: Conrad Sterling's observation proves accurate — within five days, Brewer
   Corporation confirms a massive construction campaign for the enclave. The private
   Power messages to pilots show superpowers were preparing for open conflict while

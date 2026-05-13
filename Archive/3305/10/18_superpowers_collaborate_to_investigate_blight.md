@@ -17,6 +17,7 @@ groups:
 topics:
 - investigation
 - terrorism
+arc_id: blight
 modern_impact: The unprecedented superpower collaboration reflects the severity of
   the blight crisis and the threat to billions of lives.
 legacy_weight: 3

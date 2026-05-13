@@ -19,7 +19,7 @@ locations:
 topics:
 - war
 technologies: []
-arc_id: hip87621-conflict
+arc_id: hip-87621-conflict
 modern_impact: Vista Genomics' confirmation that Radicoida unica is 'wholly unique'
   with 'potential advancements' validates the military investment and explains the
   rapid escalation. The leaked prediction that war will continue until 'one Power

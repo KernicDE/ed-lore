@@ -17,6 +17,7 @@ groups:
 topics:
 - investigation
 - terrorism
+arc_id: blight
 modern_impact: The confirmation of deliberate sabotage shifts the crisis from agricultural
   accident to interstellar terrorism, triggering cargo checks at starports.
 legacy_weight: 4

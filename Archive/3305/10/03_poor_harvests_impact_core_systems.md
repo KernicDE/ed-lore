@@ -16,6 +16,7 @@ groups:
 - Interstellar Association for Agriculture
 topics:
 - trade
+arc_id: blight
 modern_impact: The initial reports of poor harvests foreshadow the devastating blight
   crisis that will soon affect hundreds of systems.
 legacy_weight: 3

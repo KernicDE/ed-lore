@@ -18,7 +18,7 @@ topics:
 - research
 - war
 technologies: []
-arc_id: hip87621-conflict
+arc_id: hip-87621-conflict
 modern_impact: Imperial-aligned Powers (Arissa and Aisling) control 13 of 25 reported
   systems, demonstrating Imperial dominance in the enclave. The complete absence of
   Federation representation — Jerome Archer already eliminated — foreshadows the Federation's

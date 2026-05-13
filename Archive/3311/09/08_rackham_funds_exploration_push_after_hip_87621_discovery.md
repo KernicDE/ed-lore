@@ -23,7 +23,7 @@ topics:
 - exploration
 - research
 technologies: []
-arc_id: hip87621-conflict
+arc_id: hip-87621-conflict
 modern_impact: The 37-light-year colonisation blockade around HIP 87621 is the first
   concrete evidence of October Consortium's active territorial control — they weren't
   just holding a permit, they were restricting expansion in a massive radius. Rackham's

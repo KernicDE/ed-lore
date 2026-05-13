@@ -21,7 +21,7 @@ topics:
 - engineering
 - research
 - xenoarchaeology
-arc_id: hip87621-conflict
+arc_id: hip-87621-conflict
 modern_impact: Ram Tah's offer to collaborate directly links the Radicoida mystery
   to Guardian research. If ancient engineered origins are confirmed, Guardian artefacts
   may provide comparative genetic data. October Consortium's promise to share data

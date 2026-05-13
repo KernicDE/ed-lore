@@ -26,7 +26,7 @@ topics:
 - crime
 - diplomacy
 - war
-arc_id: null
+arc_id: galactic-summit
 modern_impact: '"This event contributed to the evolving political and security landscape
   of the galaxy in 3307."'
 legacy_weight: 2

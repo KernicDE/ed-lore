@@ -24,6 +24,7 @@ locations:
 topics:
 - terrorism
 - war
+arc_id: blight
 modern_impact: The defeat of Scythe of Panem ends the terrorist threat but leaves
   unanswered questions about whether the blight damage can be reversed.
 legacy_weight: 4

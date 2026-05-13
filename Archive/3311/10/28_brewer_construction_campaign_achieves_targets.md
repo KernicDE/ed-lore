@@ -23,7 +23,7 @@ topics:
 - corporate expansion
 entities: []
 technologies: []
-arc_id: hip87621-conflict
+arc_id: hip-87621-conflict
 modern_impact: The record-speed construction validates Brewer's logistical dominance
   and reveals superpower coordination at a scale previously unseen outside wartime.
   Lexi October's silence signals she was caught off-guard by the mobilisation speed

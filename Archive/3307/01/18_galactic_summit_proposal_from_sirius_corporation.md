@@ -26,7 +26,7 @@ locations:
 topics:
 - corporate expansion
 - diplomacy
-arc_id: null
+arc_id: galactic-summit
 modern_impact: '"It is not Utopia''s tradition to become involved with politics."
   The Galactic Summit represented a rare moment of superpower diplomacy, though its
   cancellation underscored the fragility of interstellar cooperation.'

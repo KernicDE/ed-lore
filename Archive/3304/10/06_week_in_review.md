@@ -40,6 +40,7 @@ topics:
 - crime
 - politics
 - trade
+arc_id: null
 modern_impact: This week sees a seismic political assassination, major corporate competition
   outcomes, and growing revelations about surveillance technology abuses across the
   Federation.

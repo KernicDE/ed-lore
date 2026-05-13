@@ -20,7 +20,7 @@ topics:
 - research
 technologies:
 - Radicoida unica
-arc_id: hip87621-conflict
+arc_id: hip-87621-conflict
 modern_impact: Engineered DNA markers on an eon timescale raise the possibility of
   precursor civilization intervention. If connected to Guardians or other ancient
   species, Radicoida may be part of a distributed biological legacy across the galaxy.

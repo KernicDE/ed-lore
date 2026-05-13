@@ -16,6 +16,7 @@ groups:
 - Scriveners Clan
 topics:
 - research
+arc_id: scriveners-clan
 modern_impact: The Scriveners Clan dredger remains a subject of dispute between academic
   institutions and the nomadic society that inhabits it.
 legacy_weight: 2

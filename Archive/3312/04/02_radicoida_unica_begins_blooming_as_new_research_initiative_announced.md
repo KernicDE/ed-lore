@@ -19,7 +19,7 @@ topics:
 - research
 technologies:
 - Radicoida unica
-arc_id: hip87621-conflict
+arc_id: hip-87621-conflict
 modern_impact: Active reproductive phase confirms Radicoida responds to biological
   proximity, suggesting possible symbiotic or sentient-adjacent behavior. Performance-enhancing
   seed pods entering controlled collection foreshadow potential black-market trade

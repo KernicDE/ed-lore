@@ -25,6 +25,7 @@ topics:
 - corporate expansion
 - scandal
 - trade
+arc_id: spy-robot-scandal
 modern_impact: Achilles' replacement initiative attempts to rebuild customer trust
   following the spy robot scandal by offering free replacements and securing supply
   chains through independent pilots.

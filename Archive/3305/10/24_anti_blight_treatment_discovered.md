@@ -23,6 +23,7 @@ locations:
 topics:
 - medicine
 - trade
+arc_id: blight
 modern_impact: The discovery of the anti-blight treatment marks the turning point
   in the crisis, offering hope for crop recovery across affected systems.
 legacy_weight: 4

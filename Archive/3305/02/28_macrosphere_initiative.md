@@ -18,6 +18,7 @@ locations:
 topics:
 - corporate expansion
 - technology
+arc_id: spy-robot-scandal
 modern_impact: The Mech Scanner initiative addressed growing concerns about robotic
   security vulnerabilities, though its effectiveness against sophisticated reprogramming
   remained debated.

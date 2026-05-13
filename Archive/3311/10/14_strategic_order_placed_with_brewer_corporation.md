@@ -22,7 +22,7 @@ topics:
 - corporate expansion
 - trade
 technologies: []
-arc_id: hip87621-conflict
+arc_id: hip-87621-conflict
 modern_impact: Madelyn Teague's refusal to name clients while confirming 'considerable'
   scale is the first clear signal that superpowers are secretly mobilising around
   HIP 87621. The use of the Trailblazer Dream — ostensibly a colonisation support

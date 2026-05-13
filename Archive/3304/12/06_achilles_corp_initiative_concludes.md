@@ -22,6 +22,7 @@ topics:
 - corporate expansion
 - scandal
 - trade
+arc_id: spy-robot-scandal
 modern_impact: The Achilles spy robot scandal continues to influence corporate public
   relations strategies, with the company attempting to rebuild trust through replacement
   initiatives and security updates.

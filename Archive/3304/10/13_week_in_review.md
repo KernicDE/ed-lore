@@ -38,6 +38,7 @@ topics:
 - investigation
 - religion
 - trade
+arc_id: null
 modern_impact: This week spans religious persecution aftermath, surveillance technology
   crises, corporate product launches, and political campaigning, illustrating the
   breadth of galactic developments.

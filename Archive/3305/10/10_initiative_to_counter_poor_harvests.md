@@ -21,6 +21,7 @@ locations:
 topics:
 - trade
 - research
+arc_id: blight
 modern_impact: The early trade initiatives provide temporary relief but prove insufficient
   against the rapidly spreading blight.
 legacy_weight: 3

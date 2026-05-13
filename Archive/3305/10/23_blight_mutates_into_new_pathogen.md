@@ -24,6 +24,7 @@ topics:
 - medicine
 - research
 - terrorism
+arc_id: blight
 modern_impact: The mutation transforms the blight from a contained threat into a potentially
   permanent ecological danger requiring ongoing treatment.
 legacy_weight: 4

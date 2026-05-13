@@ -24,6 +24,7 @@ topics:
 - crime
 - investigation
 - corporate expansion
+arc_id: spy-robot-scandal
 modern_impact: The discovery of the surveillance program reveals a sophisticated corporate
   espionage operation, raising concerns about who is planting spy robots and for what
   purposes beyond exposing fraud.

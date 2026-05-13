@@ -28,7 +28,7 @@ entities:
 - Roy Casimir
 technologies:
 - Radicoida unica
-arc_id: hip87621-conflict
+arc_id: hip-87621-conflict
 modern_impact: First public data on Radicoida unica seeds a future pharmacological
   research arms race. October Consortium's data redaction hints at proprietary military
   or civilian enhancement applications. The seed pod compounds' ability to improve

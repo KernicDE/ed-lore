@@ -21,6 +21,7 @@ topics:
 - crime
 - investigation
 - corporate expansion
+arc_id: spy-robot-scandal
 modern_impact: The growing robophobia and destruction of personal robots signals a
   crisis of confidence in domestic automation technology, with potential long-term
   consequences for the robotics industry.

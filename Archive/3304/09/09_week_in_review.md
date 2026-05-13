@@ -39,6 +39,7 @@ topics:
 - research
 - politics
 - religion
+arc_id: null
 modern_impact: This week sees political, corporate, and existential crises converging
   across the galaxy, from constitutional challenges to Thargoid attacks and mass disappearances.
 legacy_weight: 5

@@ -31,7 +31,7 @@ entities:
 - Felicia Winters
 technologies:
 - Radicoida unica
-arc_id: hip87621-conflict
+arc_id: hip-87621-conflict
 modern_impact: Corporate custodianship of disputed territory sets a legal precedent
   for non-state actors mediating between superpowers. October Consortium's rise from
   tech investor to geopolitical broker demonstrates how exobiological discoveries

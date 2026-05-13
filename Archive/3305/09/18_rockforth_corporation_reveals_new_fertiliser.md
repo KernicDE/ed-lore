@@ -19,6 +19,7 @@ locations:
 topics:
 - corporate expansion
 - trade
+arc_id: blight
 modern_impact: The rushed release of EX7 fertiliser, prioritising profit over safety
   checks, becomes the primary vector for the devastating blight pathogen.
 legacy_weight: 4

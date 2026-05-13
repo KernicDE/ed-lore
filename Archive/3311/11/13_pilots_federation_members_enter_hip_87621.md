@@ -25,7 +25,7 @@ topics:
 - exploration
 technologies:
 - Radicoida unica
-arc_id: hip87621-conflict
+arc_id: hip-87621-conflict
 modern_impact: The permanent fleet carrier ban and 'spoofing' explanation reveal October
   Consortium had been actively concealing the system's true nature for years. Exclusive
   Pilots' Federation access — excluding civilian, corporate, and government organisations

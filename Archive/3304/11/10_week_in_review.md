@@ -34,6 +34,7 @@ topics:
 - investigation
 - succession
 - war
+arc_id: null
 modern_impact: This week's events span corporate espionage, whistle-blower suppression,
   isolationist political mobilisation, and the conclusion of local conflicts, illustrating
   the galaxy's multifaceted instability.

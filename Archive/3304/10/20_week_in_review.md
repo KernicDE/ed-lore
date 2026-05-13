@@ -43,6 +43,7 @@ topics:
 - research
 - trade
 - xenoarchaeology
+arc_id: null
 modern_impact: This week spans electoral politics, corporate espionage, cybercrime,
   and scientific research, illustrating the complex interplay of power, technology,
   and independent action across the galaxy.

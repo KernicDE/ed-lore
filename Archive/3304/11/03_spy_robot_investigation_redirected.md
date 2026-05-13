@@ -23,6 +23,7 @@ locations:
 topics:
 - investigation
 - scandal
+arc_id: spy-robot-scandal
 modern_impact: The sudden termination of the FSS investigation fuels suspicions of
   high-level corruption and raises concerns about surveillance technology being used
   for blackmail by media organisations.

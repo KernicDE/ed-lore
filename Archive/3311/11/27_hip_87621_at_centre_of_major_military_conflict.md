@@ -25,7 +25,7 @@ topics:
 - war
 technologies:
 - Radicoida unica
-arc_id: hip87621-conflict
+arc_id: hip-87621-conflict
 modern_impact: The Patreus versus Kaine framing — 'Imperial order' versus 'bully snatching
   a legally claimed system' — establishes the moral narratives each side uses throughout
   the conflict. Patreus's claim that 'only Imperial governance has the authority'

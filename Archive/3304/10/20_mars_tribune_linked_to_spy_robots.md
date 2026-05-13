@@ -29,6 +29,7 @@ topics:
 - investigation
 - scandal
 - crime
+arc_id: spy-robot-scandal
 modern_impact: The direct link between Mars Tribune exclusives and spy robot owners
   provides compelling evidence of systematic corporate surveillance for journalistic
   gain, threatening the newsfeed's existence.

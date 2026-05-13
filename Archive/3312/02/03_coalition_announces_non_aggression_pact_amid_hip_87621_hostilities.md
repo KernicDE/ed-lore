@@ -23,7 +23,7 @@ topics:
 - research
 - succession
 - war
-arc_id: hip87621-conflict
+arc_id: hip-87621-conflict
 modern_impact: Informal power coalition without Federal representation shifts the
   post-war superpower balance. Exclusion of Pranav Antal and the Federation creates
   new diplomatic fault lines. This model of independent pilot-led peace agreements

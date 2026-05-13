@@ -17,6 +17,7 @@ groups:
 topics:
 - corporate expansion
 - trade
+arc_id: blight
 modern_impact: The sales spike demonstrates how market pressure and profit motives
   overrode safety concerns, enabling the blight's rapid spread.
 legacy_weight: 3

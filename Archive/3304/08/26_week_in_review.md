@@ -47,6 +47,7 @@ topics:
 - slavery
 - war
 - religion
+arc_id: null
 modern_impact: This week spans political scandal, corporate rivalry, religious persecution,
   and factional warfare, illustrating the diverse challenges facing galactic civilisation.
 legacy_weight: 3

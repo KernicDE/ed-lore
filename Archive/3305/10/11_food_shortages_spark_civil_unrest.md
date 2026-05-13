@@ -19,6 +19,7 @@ locations:
 topics:
 - trade
 - humanitarian
+arc_id: blight
 modern_impact: The food crisis exposes the fragility of interstellar agricultural
   supply chains and triggers social instability.
 legacy_weight: 3

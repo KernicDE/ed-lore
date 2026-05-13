@@ -19,7 +19,7 @@ topics:
 - research
 - diplomacy
 technologies: []
-arc_id: hip87621-conflict
+arc_id: hip-87621-conflict
 modern_impact: Lexi October's counter-attack on Rackham's credibility — highlighting
   his failure to share a 'single piece of scan data' — is a sophisticated deflection
   that partially succeeds in shifting scrutiny. Her framing of the conflict as 'lawful

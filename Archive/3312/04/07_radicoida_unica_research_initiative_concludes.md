@@ -21,7 +21,7 @@ topics:
 - war
 technologies:
 - Radicoida unica
-arc_id: hip87621-conflict
+arc_id: hip-87621-conflict
 modern_impact: Mass seed pod collection provides October Consortium with unprecedented
   biological material stockpile. Dr. Casimir's explicit denial of a Ventura connection
   actually amplifies suspicion by raising the comparison, suggesting the wellness

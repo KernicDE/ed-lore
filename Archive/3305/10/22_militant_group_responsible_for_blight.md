@@ -25,6 +25,7 @@ locations:
 topics:
 - terrorism
 - investigation
+arc_id: blight
 modern_impact: The identification of Scythe of Panem as the perpetrator links the
   blight to historical Federation drug enforcement policy and anti-capitalist extremism.
 legacy_weight: 4

@@ -20,6 +20,7 @@ locations:
 topics:
 - terrorism
 - corporate expansion
+arc_id: blight
 modern_impact: The blight crisis leads to stricter agricultural regulations and exposes
   vulnerabilities in the interstellar food supply chain.
 legacy_weight: 4

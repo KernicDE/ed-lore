@@ -26,6 +26,7 @@ topics:
 - crime
 - investigation
 - corporate expansion
+arc_id: spy-robot-scandal
 modern_impact: The discovery of additional spy robots reveals a widespread surveillance
   network affecting prominent Federal citizens, intensifying scrutiny of Achilles
   Corporation and raising concerns about corporate accountability.

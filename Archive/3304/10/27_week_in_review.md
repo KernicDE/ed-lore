@@ -45,6 +45,7 @@ topics:
 - scandal
 - politics
 - xenoarchaeology
+arc_id: null
 modern_impact: This week sees significant political restructuring in the Alliance,
   corporate manoeuvring around Guardian technology, and the emergence of a new cybercriminal
   force, reshaping power dynamics across multiple sectors.

@@ -25,6 +25,7 @@ locations:
 topics:
 - scandal
 - corporate expansion
+arc_id: spy-robot-scandal
 modern_impact: The direct link between Cordova and the spy robots confirms large-scale
   corporate blackmail and surveillance, prompting Achilles to remotely purge the malicious
   software from all affected robots.

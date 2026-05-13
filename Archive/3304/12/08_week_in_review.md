@@ -35,6 +35,7 @@ topics:
 - succession
 - trade
 - religion
+arc_id: null
 modern_impact: Multiple significant developments this week reshape corporate, medical,
   and political landscapes across the galaxy, from pharmaceutical mergers to an imperial
   succession crisis.

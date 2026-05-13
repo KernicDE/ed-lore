@@ -22,6 +22,7 @@ locations:
 topics:
 - investigation
 - scandal
+arc_id: spy-robot-scandal
 modern_impact: Thorne's suspension exposes potential corruption within the FSS and
   galvanises media organisations to take a stand against surveillance abuses and corrupt
   journalism.

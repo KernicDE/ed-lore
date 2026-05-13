@@ -24,6 +24,7 @@ topics:
 - crime
 - investigation
 - scandal
+arc_id: spy-robot-scandal
 modern_impact: Cordova's defiant response and thinly veiled threat to expose robot
   owners' secrets escalates tensions between the media conglomerate and Federal law
   enforcement, raising the stakes for both sides.

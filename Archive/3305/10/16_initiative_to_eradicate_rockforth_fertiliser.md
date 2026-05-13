@@ -29,6 +29,7 @@ locations:
 topics:
 - investigation
 - trade
+arc_id: blight
 modern_impact: The fertiliser recall marks the first concrete action against the blight's
   spread, though the pathogen has already mutated beyond its original delivery mechanism.
 legacy_weight: 4

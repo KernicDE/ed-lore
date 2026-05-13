@@ -18,6 +18,7 @@ locations:
 topics:
 - investigation
 - research
+arc_id: blight
 modern_impact: The identification of common symptoms confirms the blight is a coordinated
   biological threat rather than isolated crop failures.
 legacy_weight: 3

@@ -19,6 +19,7 @@ locations:
 topics:
 - medicine
 - humanitarian
+arc_id: blight
 modern_impact: The successful cure of the blight pathogen averts mass starvation and
   demonstrates the power of interstellar scientific collaboration.
 legacy_weight: 4

@@ -22,7 +22,7 @@ topics:
 - research
 - investigation
 technologies: []
-arc_id: hip87621-conflict
+arc_id: hip-87621-conflict
 modern_impact: Professor Raddix's three questions — why is access restricted, who
   operates the permit, and what did Terri find — frame the narrative that drives the
   entire HIP 87621 arc. The October Consortium's claim of a 'routine survey expedition'

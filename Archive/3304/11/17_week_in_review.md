@@ -46,6 +46,7 @@ topics:
 - trade
 - war
 - politics
+arc_id: null
 modern_impact: This week exposes deep corruption across multiple sectors, from corporate
   blackmail and military infiltration to political radicalisation within the Imperial
   Navy.

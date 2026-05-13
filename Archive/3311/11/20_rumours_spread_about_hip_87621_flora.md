@@ -16,7 +16,7 @@ topics:
 - research
 technologies:
 - Radicoida unica
-arc_id: hip87621-conflict
+arc_id: hip-87621-conflict
 modern_impact: 'The detail that Radicoida unica ''can remain dormant for centuries''
   hints at artificial or engineered origins — a suspicion confirmed in April 3312
   when phylogenetic studies suggest ancient non-natural intervention. The critics''

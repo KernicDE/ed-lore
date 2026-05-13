@@ -23,7 +23,7 @@ topics:
 - piracy
 - research
 technologies: []
-arc_id: hip87621-conflict
+arc_id: hip-87621-conflict
 modern_impact: 'Rackham''s promise to share data publicly — which he never fulfills
   — becomes a key point Lexi October exploits in her October 3311 defence. Blanco''s
   accusation that Rackham is ''Calico Zack'' adds a criminal dimension to the scientific

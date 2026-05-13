@@ -28,6 +28,7 @@ topics:
 - scandal
 - crime
 - corporate expansion
+arc_id: spy-robot-scandal
 modern_impact: The closure of the Mars Tribune and arrest of its owner marks a significant
   victory against corporate blackmail and surveillance abuse, setting a precedent
   for holding media conglomerates accountable.

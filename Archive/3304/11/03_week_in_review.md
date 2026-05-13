@@ -38,6 +38,7 @@ topics:
 - politics
 - war
 - xenoarchaeology
+arc_id: null
 modern_impact: This week sees major developments across all three superpowers, from
   unresolved political assassinations to the rise of isolationist movements and corporate
   attempts to control advanced technology.

@@ -20,7 +20,7 @@ topics:
 - ship
 - trade
 - war
-arc_id: hip87621-conflict
+arc_id: hip-87621-conflict
 modern_impact: Security vacuum created by superpower military concentration demonstrates
   the fragility of colonial defenses. Pirate groups learn to exploit great-power conflicts
   for territorial gain, a pattern likely to repeat whenever major forces are drawn

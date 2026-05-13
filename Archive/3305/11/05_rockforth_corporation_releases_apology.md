@@ -19,6 +19,7 @@ groups:
 topics:
 - corporate expansion
 - investigation
+arc_id: blight
 modern_impact: The apology and restitution fund mark Rockforth's attempt to recover
   from the blight scandal, though public trust remains damaged.
 legacy_weight: 3

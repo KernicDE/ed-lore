@@ -33,6 +33,7 @@ topics:
 - scandal
 - succession
 - war
+arc_id: null
 modern_impact: Aegis's meta-alloy breakthrough permanently ends starport technological
   plague disruptions. Nova Imperium gains senatorial support, reshaping Imperial politics.
   The Achilles spy robot scandal continues to reverberate through corporate circles.

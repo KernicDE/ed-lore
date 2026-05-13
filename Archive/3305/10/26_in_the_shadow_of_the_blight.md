@@ -12,6 +12,7 @@ persons:
 - Adalyn Cross
 topics:
 - humanitarian
+arc_id: blight
 modern_impact: The article documents the societal impact of the blight on daily life,
   from dietary changes to economic strain on welfare systems.
 legacy_weight: 2

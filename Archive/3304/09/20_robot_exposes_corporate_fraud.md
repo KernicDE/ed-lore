@@ -24,6 +24,7 @@ topics:
 - crime
 - investigation
 - corporate expansion
+arc_id: spy-robot-scandal
 modern_impact: The robot's exposure of Hardacre's fraud marks the beginning of the
   spy robot scandal, revealing how surveillance technology can be weaponised against
   corporate criminals and raising questions about who programmed the device.

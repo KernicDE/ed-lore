@@ -21,7 +21,7 @@ topics:
 - corporate expansion
 - research
 technologies: []
-arc_id: hip87621-conflict
+arc_id: hip-87621-conflict
 modern_impact: 'Lexi October''s warning about ''dangerous precedence'' for independent
   entities proves prophetic — within three weeks, superpower fleets invade the enclave.
   Her decision to allow Pilots'' Federation access rather than superpower forces is

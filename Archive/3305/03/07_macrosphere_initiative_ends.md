@@ -18,6 +18,7 @@ locations:
 topics:
 - corporate expansion
 - technology
+arc_id: spy-robot-scandal
 modern_impact: The Mech Scanner represented an early civilian application of robotics
   verification technology, though its broader adoption remained limited.
 legacy_weight: 2

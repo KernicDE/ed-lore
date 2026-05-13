@@ -44,6 +44,7 @@ topics:
 - trade
 - war
 - politics
+arc_id: null
 modern_impact: This week sees Alliance military reorganisation, Federal justice against
   corporate corruption, Sirius damage control, and Nova Imperium's open challenge
   to Imperial rule.

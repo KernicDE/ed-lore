@@ -22,7 +22,7 @@ locations:
 topics:
 - research
 technologies: []
-arc_id: hip87621-conflict
+arc_id: hip-87621-conflict
 modern_impact: Alexei Keel's investigative journalism transforms the mystery from
   a scientific disappearance into a corporate accountability story. The superpowers'
   admission that they are 'following developments closely' — while denying involvement

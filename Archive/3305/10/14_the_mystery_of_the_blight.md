@@ -17,6 +17,7 @@ groups:
 topics:
 - research
 - investigation
+arc_id: blight
 modern_impact: The blight mystery deepens the food crisis as scientists race to identify
   the pathogen's origin and develop a treatment.
 legacy_weight: 4
