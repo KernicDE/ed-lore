@@ -39,4 +39,6 @@ Total mentions: **5**
 
 ## Biography
 
-*[To be enriched]*
+The Red Family is a well-established narcotics cartel that supplies illegal drugs across multiple Federal systems. In mid-3305, the organisation faced its greatest crisis when co-founder Jan Sandoval surrendered to the Federal Intelligence Agency and offered to testify against all prominent members of the cartel, including kingpin Oberon Church.
+
+The cartel responded with a mercenary hit squad that infiltrated FIA headquarters in Olympus Village in an attempt to assassinate Sandoval, but the squad was neutralised before reaching her. The FIA subsequently launched multi-system crackdowns using Proactive Detection Bureau intelligence, and by late 3305 the cartel's leadership was being systematically dismantled. The Red Family case became a landmark in Federal narcotics enforcement, demonstrating both the vulnerability of even the most entrenched criminal organisations to insider testimony and the lengths to which cartels will go to silence potential informants.

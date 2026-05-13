@@ -28,4 +28,6 @@ Total mentions: **5**
 
 ## Biography
 
-*[To be enriched]*
+Gan Romero is a starship technician who became the centre of one of the most bizarre criminal mysteries of 3305 after stealing a Diamondback Explorer from Fort Dixon in the Vega system. Romero bypassed all starport security protocols, gained entry to a sealed ship, and overrode authorisation checks to fly out unchallenged — leaving station authorities baffled.
+
+The case took an even stranger turn when Romero's dream journal was discovered. His entries described vivid visions of "caretakers of our galaxy" and "bodiless voices" directing his actions, bearing striking similarities to former President Jasmina Halsey's visions following the Starship One disaster three years earlier. Journalist Flint "Firemaker" Lafosse speculated that both Halseey and Romero may have been telepathically contacted by the same incorporeal intelligence. Romero's case elevated a common thief to a figure of cosmic significance, fueling widespread speculation about telepathic alien contact with ordinary humans.

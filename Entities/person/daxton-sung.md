@@ -28,4 +28,6 @@ Total mentions: **6**
 
 ## Biography
 
-*[To be enriched]*
+Daxton Sung is a political commentator for the Imperial Herald who covered the Federal-Imperial cold war in the Pleiades Nebula during 3303. In August 3303, he reported on the Sirius Corporation's establishment of outposts in the Merope system, arguing that the megacorporation was "playing the long game" by positioning itself near Thargoid barnacles to seize control of meta-alloy extraction if the Federation withdrew.
+
+Sung's analysis proved prescient as both superpowers did indeed pull their military forces from the Pleiades later that year, effectively ending the cold war. His commentary highlighted the growing strategic importance of Thargoid-derived materials and the willingness of corporate actors like Sirius to exploit gaps left by superpower retrenchment. Sung's reporting exemplified the Imperial Herald's focus on Federal corporate strategy during the early Thargoid contact period.

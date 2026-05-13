@@ -27,4 +27,6 @@ Total mentions: **5**
 
 ## Biography
 
-*[To be enriched]*
+Archduke Otto Lombardo-Duval is a member of the Imperial Duval dynasty, related to the main line through Emperor Hengist Duval's extended family. He holds the title of Archduke and is counted among the senior Imperial Family members who publicly supported Emperor Arissa during the succession crisis and Nova Imperium conflict.
+
+In 3309, Otto joined Princess Aisling Duval, Countess Guinevere Lavigny and other family members in sending well-wishes to Lady Florence Lavigny — the Emperor's mother — during a medical emergency. His inclusion in such family communications underscores his status as a recognised member of the Duval-Lavigny extended family, though he holds no direct claim to the throne. Otto's public role has been limited to ceremonial and familial duties rather than political or military leadership.

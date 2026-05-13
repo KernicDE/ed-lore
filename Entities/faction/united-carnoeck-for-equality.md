@@ -40,4 +40,6 @@ Total mentions: **6**
 
 ## Biography
 
-*[To be enriched]*
+United Carnoeck for Equality is a Federation-aligned faction based in the Carnoeck system, best known for organising the inaugural Bacon Protests anniversary celebration at Bacon City in October 3301. The event commemorated the repeal of a 3288 meat ban that had affected Carnoeck's citizens, attracting revellers, traders, and pirates from across the galaxy.
+
+The faction demonstrated both its community spirit and its pragmatic approach to security by anticipating the disruptive elements the festival would attract. When animal-rights activists blockaded Bacon City and ordered meat-carrying ships to jettison cargo at gunpoint, United Carnoeck for Equality had already set aside funds for a post-party cleanup, offering rewards to bounty hunters who cleared agitators from the spaceways. The faction's ability to sponsor large-scale community events while maintaining public safety exemplifies how local governance in the Federation balances celebration with law enforcement.

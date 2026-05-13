@@ -38,4 +38,6 @@ Total mentions: **5**
 
 ## Biography
 
-*[To be enriched]*
+Gutamaya Shipyards is the Empire's premier starship manufacturer, producing iconic vessels such as the Imperial Cutter, Clipper, Courier and Eagle. The shipyard is synonymous with Imperial engineering excellence and has supplied military and civilian craft to the Empire for centuries. Its designs are noted for elegant aesthetics, powerful shielding and luxurious internal fittings that reflect Imperial values of refinement and prestige.
+
+In 3305, Gutamaya Shipyards formed a strategic partnership with Core Dynamics, its Federal counterpart, to manufacture a limited run of the Eagle Mk II — a variant combining Imperial design philosophy with Federal combat expertise. The collaboration attracted controversy, with Imperial traditionalists objecting to any cooperation with a Federal manufacturer, but the resulting craft proved popular with independent pilots. Gutamaya's continued dominance in Imperial ship production makes it one of the most economically significant corporations in the Empire.

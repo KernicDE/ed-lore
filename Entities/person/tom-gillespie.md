@@ -24,4 +24,6 @@ Total mentions: **5**
 
 ## Biography
 
-*[To be enriched]*
+Tom Gillespie is a Federal Congressman who volunteered in 3309 to coordinate the Federation's involvement in the reformation of Aegis. Following the Alliance Assembly's vote to support a collaborative anti-xeno agency, Gillespie worked to align Federal resources with the tri-superpower initiative, praising independent pilots as "absolutely unmatched in dedication and expertise."
+
+Gillespie also oversaw the ammonia world survey conducted by Aegis and Universal Cartographics, which mapped terrestrial planets with ammonia-based atmospheres to identify potential Thargoid staging grounds. His role as a congressional liaison between the Federal government and Aegis made him a key figure in the political rehabilitation of the agency after its dissolution in 3308. Gillespie's tenure reflected the broader shift in Federal policy toward renewed multilateral cooperation against the Thargoids.

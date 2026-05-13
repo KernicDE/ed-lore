@@ -24,4 +24,6 @@ Total mentions: **5**
 
 ## Biography
 
-*[To be enriched]*
+Vice Admiral Skylar Anderson is an Imperial Navy officer who served as the Empire's military liaison to Aegis during the Thargoid Titan War. In 3309, she was selected by Princess Aisling Duval as part of the Imperial delegation to a reformed Aegis, alongside Senator Caspian Leopold and xenological specialist Ivano Colombera.
+
+Anderson provided strategic oversight for the ammonia world survey, noting that the data would be used to deploy concealed sensor buoys in systems containing ammonia worlds — alerting Aegis to Thargoid vessels or Maelstrom manifestations and providing advance warning for evacuations or pre-emptive strikes. Her military perspective emphasised the tactical value of exploration data in a war where Thargoid incursions could appear without warning. Anderson's appointment to the Aegis liaison role represented the Empire's cautious re-engagement with tri-superpower anti-xeno cooperation after Emperor Arissa's isolationist turn.

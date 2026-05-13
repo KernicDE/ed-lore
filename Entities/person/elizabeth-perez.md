@@ -28,4 +28,6 @@ Total mentions: **6**
 
 ## Biography
 
-*[To be enriched]*
+Professor Elizabeth Perez is head of anthropology at Orion Independent University and a leading expert on isolated human cultures. In 3305, she conducted the first academic study of the generation ship Golconda after its discovery in the Upaniklis system, examining how the vessel's inhabitants maintained a recognisably 22nd-century society after more than a thousand years of isolation.
+
+Perez's analysis revealed a rigidly structured community with a custodian, a chaplain, and deeply ingrained isolationist tendencies. She warned that contact with outsiders could "irrevocably damage" the Golconda's unique culture, comparing it to historical cases where isolated societies collapsed upon first contact. Her work informed the Federation's resettlement strategy, which ultimately relocated the Golconda's population to Forester's Choice while attempting to preserve their social structures. Perez's research remains a foundational text in the study of long-duration spacefaring societies.

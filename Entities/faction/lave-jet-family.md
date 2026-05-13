@@ -39,4 +39,6 @@ Total mentions: **6**
 
 ## Biography
 
-*[To be enriched]*
+The Lave Jet Family is an independent faction based in the Lave system that has maintained a long-standing rivalry with the Lave Radio Network. In June 3304, the conflict escalated when the Lave Radio Network announced plans to broadcast its annual conference from the Diso system and placed an open order for commodities to support the event.
+
+The Lave Jet Family responded with a rival campaign designed to undermine the broadcast, inviting pilots to deliver commodities to help construct a signal jammer capable of blocking the transmission. Both factions set week-long operations to achieve their aims, turning a media dispute into a community-driven logistical competition. The rivalry exemplifies how competing local factions in the Old Worlds cluster use pilot networks to settle disputes through economic warfare rather than direct military confrontation, reflecting the region's tradition of corporate and media-based power struggles.

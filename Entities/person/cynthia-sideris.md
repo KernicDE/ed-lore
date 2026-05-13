@@ -29,4 +29,6 @@ Total mentions: **6**
 
 ## Biography
 
-*[To be enriched]*
+Cynthia Sideris is the chair of Universal Cartographics, the galaxy's preeminent stellar cartography and exploration data organisation. In January 3306, she oversaw the renaming of fifteen systems in the Witch Head Enclave to make them more explorer-friendly, replacing unwieldy designations like "Witch Head Sector FB-X c1-7" with memorable names such as "Wisanye."
+
+Sideris has also directed major xenological surveys, including a 3309 initiative to map ammonia worlds as potential Thargoid staging grounds. She publicly commented on President Jasmina Halsey's controversial search for the "architects of creation," noting that while Halsey's visions were fascinating, they lacked the rigorous verification standards that Universal Cartographics applies to all its data. Sideris's leadership has shaped the organisation's dual role as both a scientific institution and a service provider for the galactic exploration community.

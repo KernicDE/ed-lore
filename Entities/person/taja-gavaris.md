@@ -24,4 +24,6 @@ Total mentions: **5**
 
 ## Biography
 
-*[To be enriched]*
+Taja Gavaris is the former Chief Financial Officer of Rackham Capital Investments, the corporate empire founded by ex-pirate Zachary Rackham. In April 3305, Gavaris unexpectedly resigned and emigrated from Federal space, accompanied by several loyal employees who waived approximately 365 million credits in final salaries and bonuses.
+
+Journalist Bryanna Blanco of the Federal Times alleged that Rackham had used imposter FIA agents to acquire compromising data on Gavaris, effectively blackmailing her into resignation — "the corporate equivalent of assassinating a rival." The departure removed a key opponent to Rackham's control of his company and underscored the brutal internal politics of his corporate empire. Rackham Capital Investments subsequently donated 36.5 million credits to the Federal Times, which the company described as recognition for "ethical journalism" but which critics viewed as hush money.

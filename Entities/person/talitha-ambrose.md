@@ -28,4 +28,6 @@ Total mentions: **6**
 
 ## Biography
 
-*[To be enriched]*
+Lady Talitha Ambrose is the disgraced heiress of the Ambrose Foundation, a multi-billion credit institution that lost its entire fortune overnight in February 3305. Independent journalist Flint "Firemaker" Lafosse revealed that Talitha had long been associated with Jokers' Deck, an exclusive gambling circle whose members include corporate CEOs, politicians, and cartel kingpins. She allegedly staked and lost the entire Ambrose estate during a high-stakes game of deadlock poker.
+
+Baroness Oksana Ambrose, Talitha's mother, initially claimed her daughter had been kidnapped and forced to surrender the inheritance. However, the gambling revelation shifted public perception, and Baroness Oksana ultimately disowned Talitha entirely. Talitha later gave a candid statement to Vox Galactica, admitting her gambling addiction and expressing a desire to raise funds for addiction support charities. Her case remains one of the most spectacular examples of how gambling addiction can destroy even the wealthiest dynasties.

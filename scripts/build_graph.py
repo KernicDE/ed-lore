@@ -68,11 +68,21 @@ MERGE_ALIASES: dict[str, str] = {
     "Commander Corrigendum": "Corrigendum",
     "Admiral Denton Patreus": "Denton Patreus",
     "President Jasmina Halsey": "Jasmina Halsey",
+    "President Zachary Hudson": "Zachary Hudson",
+    "President Hudson": "Zachary Hudson",
+    "Vice President Naylor": "Ethan Naylor",
     "Princess Aisling Duval": "Aisling Duval",
     "Chancellor Blaine": "Anders Blaine",
     "Chancellor Anders Blaine": "Anders Blaine",
     "Commander Lord Zoltan": "Lord Zoltan",
     "Proactive Detection Bureau surveillance system": "Proactive Detection Bureau",
+    "Shadow President": "Felicia Winters",
+    "Order of the Far God": "Far God cult",
+    "Neo-Marlinist Liberation Army": "NMLA",
+    "Marlinist Parliament": "Marlinist Colonies",
+    "Free Marlinist Movement": "Marlinist Colonies",
+    "Coalsack": "Coalsack Nebula",
+    "Professor Palin": "Ishmael Palin",
     "Proactive Detection Bureau surveillance algorithms": "Proactive Detection Bureau",
 }
 
@@ -86,6 +96,7 @@ LOCATION_BLOCKLIST = {
     "Musca", "Ophiuchus", "Cepheus", "Pegasi Sector", "NGC",
     # NLP extraction artifacts
     "none specified",
+    "Ishmael Palin", "Ram Tah", "Professor Palin",
 }
 
 ENTITY_BLOCKLIST = {
@@ -172,9 +183,10 @@ def normalize_entity(name: str) -> str | None:
     name = name.strip()
     if not name or len(name) < 3:
         return None
+    name = MERGE_ALIASES.get(name, name)
     if name in ENTITY_BLOCKLIST:
         return None
-    return MERGE_ALIASES.get(name, name)
+    return name
 
 
 def normalize_location(name: str) -> str | None:
@@ -183,7 +195,7 @@ def normalize_location(name: str) -> str | None:
         return None
     if name in LOCATION_BLOCKLIST:
         return None
-    return name
+    return MERGE_ALIASES.get(name, name)
 
 
 def make_entity_id(name: str) -> str:
