@@ -24,11 +24,9 @@ economy: High Tech
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system/id/19896/name/Chi%20Orionis
 inara_url: https://inara.cz/elite/starsystem/?search=Chi%20Orionis
-bio: 'Chi Orionis is a system in Elite Dangerous, significant from 3302-08-12 to 3302-10-14.
-  Associated with MetaDrive Inc., Gutamaya, Galactic Finance Times. Notable events
-  include: The Galactic Finance Times reported evidence of a significant economic
-  downturn among major corporations including Sirius, Gutamaya, and Core Dynam...;
-  Independent auditor BigSix reported financial anomalies leading to MetaDrive Inc.'
+bio: 'A Federation high-tech system near Sol, Chi Orionis became the focal point
+  of a major corporate scandal in 3302 when financial irregularities brought down
+  MetaDrive Inc.'
 ---
 
 
@@ -51,4 +49,6 @@ Total mentions: **5**
 
 ## Biography
 
-*[To be enriched]*
+In August 3302, the Galactic Finance Times reported evidence of a significant economic downturn affecting major corporations including Sirius, Gutamaya and Core Dynamics. The malaise soon found a focal point in Chi Orionis, where independent auditor BigSix uncovered severe financial anomalies at MetaDrive Inc., a prominent technology firm headquartered in the system.
+
+The revelations triggered a cascade of investigations that exposed accounting irregularities and executive misconduct. As one of the Federation's corporate strongholds, governed by the Earth Defense Fleet and sustained by high-tech manufacturing, Chi Orionis had built its reputation on innovation and commercial probity. The MetaDrive scandal shattered that image and contributed to broader market instability, raising questions about regulatory oversight in an era of increasingly complex interstellar corporate structures.

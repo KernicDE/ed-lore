@@ -5,11 +5,8 @@ type: person
 first_seen_date: '3308-04-21'
 last_seen_date: '3308-04-30'
 mention_count: 4
-bio: Henry Paul Atherton is a admiral in the Elite Dangerous universe, active from
-  3308-04-21 to 3308-04-30. Closely associated with Imperial Navy, Salvation. Vox
-  Galactica's Jade Sanderlyn interviews Imperial Navy Admiral Henry Paul Atherton
-  about the Thargoid invasion of Novas. Vox Galactica's Jade Sanderlyn continues her
-  interview with Admiral Henry Paul Atherton aboard the INV Succession.
+bio: 'An Imperial Navy admiral tasked with defending the Novas system during the
+  devastating Thargoid invasions of 3308.'
 ---
 
 
@@ -27,4 +24,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Admiral Henry Paul Atherton of the Imperial Navy was thrust into the spotlight in April 3308, when Thargoid fleets invaded the superpowers' core systems simultaneously. Atherton was selected to coordinate the defence of Novas, an Imperial system facing overwhelming numbers of hostile vessels and caustic enzyme attacks that had already killed hundreds of thousands.
+
+The challenge was compounded by Aegis's recent dissolution, which left Frontline Solutions operating the disbanded organisation's fleet on a temporary volunteer basis. Atherton's candid interviews with Vox Galactica's Jade Sanderlyn aboard the INV Succession offered rare insight into the desperation of superpower military commanders, who found themselves liaising with the controversial figure Salvation for access to experimental anti-xeno weaponry even as billions of lives hung in the balance.

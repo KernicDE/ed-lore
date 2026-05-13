@@ -11,9 +11,8 @@ related_entities:
 - halbangaay
 - 64-arietis
 - arawere
-bio: Haack Gateway is a star system in the Elite Dangerous universe, significant from
-  3302-01-20 to 3302-05-20. Ackerman Market, Gabriel Enterprise, Weyn Dock, and Onnes
-  Gateway are now fully operational, while other stations remain affected.
+bio: 'An orbital station in the Halbangaay system, Haack Gateway was among the earliest
+  casualties of the technological plague.'
 ---
 
 <!-- AUTO-GENERATED -->
@@ -34,4 +33,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Haack Gateway was an orbital station in the Halbangaay system that in January 3302 was forced to suspend all services except docking and shipyard access, becoming one of the first twelve starports crippled by the technological plague. The mysterious malfunctions, later linked to Unknown Artefact interference, struck without warning and spread with alarming speed across inhabited space.
+
+Unlike some stations that were restored to full operation through meta-alloy treatments by May 3302, Haack Gateway's recovery was slower, remaining on the list of affected facilities for months. The station's prolonged closure exemplified the technological plague's uneven impact and the limitations of early countermeasures, serving as a cautionary tale about humanity's vulnerability to alien technological disruption.

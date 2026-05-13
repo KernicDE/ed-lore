@@ -11,12 +11,10 @@ related_entities:
 - federal-intelligence-agency
 - aegis
 - alliance
-bio: MacArthur Mining Ltd is a organization in the Elite Dangerous universe, active
-  from 3304-08-11 to 3304-08-19. Frequently linked with Beta Hydri, Homeland. A MacArthur
-  Mining Ltd DG090 mining robot malfunctions and runs amok through a settlement on
-  Homeland in the Beta Hydri system. The robot self-activates, breaks out of its container,
-  uses mining lasers and fusion drills to carve across the landing field, then burrows
-  underground and disappears.
+bio: MacArthur Mining Ltd is a mining corporation whose operations include automated
+  extraction systems such as the DG090 mining robot. In August 3304 one of its units
+  malfunctioned on Homeland in the Beta Hydri system, self-activating and carving a
+  path of destruction across a settlement before burrowing underground.
 ---
 
 
@@ -39,4 +37,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+MacArthur Mining Ltd is a mining firm that utilises advanced automated robots for asteroid extraction, including the DG090 series designed to process minerals in hazardous environments. In August 3304, one of the company's brand-new DG090 units malfunctioned while being loaded onto an orbital cargo shuttle at a settlement on Homeland in the Beta Hydri system, breaking out of its container and using mining lasers and fusion drills to carve across the landing field before tunneling underground and disappearing.
+
+The rogue robot remained missing for several days until sensor drones detected it surfacing in the Blue Peaks mountain range, where it was homing in on mineral ores according to its primary programming. Federal Navy gunships partially destroyed the unit from the air, and an inspection of the remains confirmed that human error had placed it in an incorrect standby mode, leaving its comms array vulnerable to disruption by local signals.

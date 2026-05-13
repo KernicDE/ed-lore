@@ -11,10 +11,8 @@ related_entities:
 - gurragchaa-gateway
 - warkushanui
 - ngobe
-bio: 'Hinz Hub is a system in Elite Dangerous, significant from 3301-11-19 to 3302-04-18.
-  Notable events include: The technological plague continues to affect starports across
-  inhabited space.; Fozard Dock in the HIP 19934 system suspends all services except
-  docking and shipyard access due to Unknown Artefact-related interference, bringing...'
+bio: 'An orbital station in the Ngobe system affected by the technological plague
+  that swept across inhabited space in early 3302.'
 ---
 
 <!-- AUTO-GENERATED -->
@@ -35,4 +33,6 @@ Total mentions: **5**
 
 ## Biography
 
-*[To be enriched]*
+Hinz Hub is an orbital station in the Ngobe system that experienced significant technical issues during the technological plague crisis of late 3301 and early 3302. The station was among dozens of facilities across inhabited space that reported mysterious malfunctions later attributed to the destabilising influence of Unknown Artefacts.
+
+Like many affected stations, Hinz Hub's operational disruptions formed part of the growing evidence that alien technology was interfering with human starport systems. The crisis prompted the first major efforts to locate and harvest meta-alloys from barnacle sites in the Pleiades sector, which eventually proved capable of reversing the damage and restoring affected stations to full functionality.

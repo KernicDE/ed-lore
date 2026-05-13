@@ -24,11 +24,9 @@ economy: High Tech
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system/id/5449/name/Nganji
 inara_url: https://inara.cz/elite/starsystem/?search=Nganji
-bio: 'Nganji is a system in Elite Dangerous, significant from 3301-10-26 to 3302-02-24.
-  Notable events include: Professor Ishmael Palin announced the resumption of his
-  research into anomalous extraterrestrial objects after his Federation-backed program
-  was ca...; The technological plague continues to affect starports across inhabited
-  space.'
+bio: 'An independent high-tech communist system controlled by the Nagii Union, Nganji
+  briefly hosted Professor Ishmael Palin''s extraterrestrial research before the technological
+  plague disrupted operations across inhabited space.'
 ---
 
 
@@ -51,4 +49,6 @@ Total mentions: **5**
 
 ## Biography
 
-*[To be enriched]*
+Professor Ishmael Palin chose Nganji as the site for resuming his research into anomalous extraterrestrial objects after his Federation-backed programme was cancelled. The Nagii Union's independent communist governance offered him refuge from political interference, and for several weeks the system's laboratories buzzed with renewed activity as his team examined Unknown Artefact fragments.
+
+The work was cut short when the technological plague — a cascading systems failure triggered by proximity to alien objects — began crippling starports across inhabited space. Nganji was among the systems affected, forcing Palin to suspend operations once again. The incident demonstrated how extraterrestrial artefacts could disrupt even the most isolated research programmes.

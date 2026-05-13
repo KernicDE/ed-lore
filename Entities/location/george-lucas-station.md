@@ -11,12 +11,8 @@ related_entities:
 - independent-leesti-for-equality
 - jabbah
 - kessel
-bio: George Lucas Station is a starport in the Elite Dangerous universe, significant
-  from 3301-10-26 to 3303-11-24. Associated with Buckyball Racing Club, Independent
-  Leesti for Equality. A massive influx of deliveries to George Lucas station enabled
-  the Lunch in Leesti gastronomic festival. Starting at George Lucas station in Leesti
-  and ending in the Jabbah system, participants must dock at every station named 'Kessel'
-  in any order.
+bio: 'An orbital station in the Leesti system, George Lucas Station has hosted some
+  of the galaxy''s more whimsical cultural events.'
 ---
 
 <!-- AUTO-GENERATED -->
@@ -37,4 +33,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+George Lucas Station orbits in the Leesti system, a location that has served as both a racing start line and a culinary destination. In October 3301, the Buckyball Racing Club sponsored by Leesti Azure Milk chose the station as the starting point for the Kessel Run, a commemorative race ending in the Jabbah system that required participants to dock at every station named "Kessel" along the way.
+
+Two years later, the station hosted the "Lunch in Leesti" gastronomic festival, drawing a massive influx of deliveries that showcased the system's culinary capabilities. These events, though lighthearted, demonstrated how even amid galactic conflict, frontier stations could become centres of community culture and shared celebration.

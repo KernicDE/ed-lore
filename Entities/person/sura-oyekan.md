@@ -3,27 +3,15 @@ id: sura-oyekan
 name: Sura Oyekan
 type: person
 first_seen_date: '3309-05-01'
-last_seen_date: '3309-09-18'
+last_seen_date: '3309-05-01'
 mention_count: 4
-bio: Sura Oyekan is a pirate in the Elite Dangerous universe, active from 3309-05-01
-  to 3309-09-18. Closely associated with Federal Times.
+bio: Sura Oyekan is a youthful but popular ICE-caster who attended Zachary Rackham's
+  presidential fundraiser in May 3309. She was among the celebrity endorsements organised
+  by Rackham's campaign manager Anya Blackriver.
 ---
 
 
 
-<!-- AUTO-GENERATED -->
-
 # Sura Oyekan
 
-First mentioned: **3309-05-01**  
-Last mentioned: **3309-09-18**  
-Total mentions: **4**
-
-## Related
-
-
-## Biography
-
-Sura Oyekan built a reputation as a political ICE-caster operating on the fringes of Federal media, promoting unconventional perspectives that mainstream outlets ignored. During the 3309 presidential campaign, she emerged as one of Zachary Rackham's most vocal advocates, arguing that voting for the independent candidate was 'a way to revolutionise society' — a position that placed her well outside the conventional debate between Republican and Liberal Party orthodoxies.
-
-Oyekan's loyalty to Rackham was absolute. When the *Federal Times* hired the Wallglass Investigations Agency to probe Rackham's alleged pirate past, she condemned the investigation as 'an outrageous attack on the reputation of a respected public figure, a great man who has contributed so much to Federal commerce and culture.' Her defence revealed both the intensity of Rackham's grassroots support and the willingness of his followers to treat investigative journalism as political warfare.
+Sura Oyekan is a popular ICE-caster—an immersive content entertainer—known for her youthful appeal and wide audience across Federal space. In May 3309, she attended Zachary Rackham's lavish presidential fundraiser at Fort Rackham on Taylor Colony, lending her celebrity endorsement to the independent candidate's campaign. Her presence was part of a carefully orchestrated event organised by campaign manager Anya Blackriver, which also included media barons Elias Metaxas and Neive McFarlane, and business magnate Randolph Plaskett. Oyekan's involvement demonstrated Rackham's strategy of using popular culture figures to build momentum outside traditional political channels.

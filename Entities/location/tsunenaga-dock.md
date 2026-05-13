@@ -11,10 +11,11 @@ related_entities:
 - gurragchaa-gateway
 - warkushanui
 - hinz-hub
-bio: Tsunenaga Dock is a starport in the Elite Dangerous universe, significant from
-  3301-11-19 to 3302-02-24. Technical issues at Gabriel Enterprise in the Harma system
-  have worsened, leading to suspension of all services except docking and shipyard
-  access.
+bio: Tsunenaga Dock is a starport in the Iapodes system that experienced mysterious
+  technical malfunctions during the early spread of the technological plague in late
+  3301 and early 3302. The station was listed among facilities suffering from service
+  disruptions later attributed to Unknown Artefact interference, though it initially
+  avoided the full suspension of services seen at other ports.
 ---
 
 <!-- AUTO-GENERATED -->
@@ -35,4 +36,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Tsunenaga Dock is a starport in the Iapodes system that reported mysterious technical issues beginning in November 3301, as part of the first wave of station malfunctions that would later be recognised as the technological plague. The dock appeared on early lists of affected facilities alongside Hinz Hub in Ngobe and Li Qing Jao in Sol, with engineers noting symptoms similar to those plaguing starports in the Warkushanui and Arietis systems.
+
+As the crisis escalated into 3302, Tsunenaga Dock was classified among starports experiencing technical issues rather than those with fully suspended services, though authorities warned that closures could become inevitable if the root cause was not addressed. The station's troubles were ultimately traced to the same Unknown Artefact interference that crippled dozens of facilities across inhabited space, contributing to the growing realisation that humanity faced an extraterrestrial threat.

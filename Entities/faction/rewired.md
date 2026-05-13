@@ -11,11 +11,9 @@ related_entities:
 - socho-gold-raiders
 - socho
 - alliance-interpol
-bio: 'Rewired is a organization active in Elite Dangerous lore from 3302-06-16 to
-  3304-07-08. Frequently associated with INRA. Key activities include: The Socho system,
-  headquarters of Aegis Core, has been overtaken by the Socho Gold Raiders criminal
-  faction.; Independent journalist Flint ''Firemaker'' Lafosse publishes a theory
-  linking the League of Reparation to unsolved homicides going back one to five y...'
+bio: 'An independent news feed known for prolific output and guerrilla-style journalism,
+  Rewired has broken major stories across the galaxy despite criticism over its rapid-fire
+  publishing pace.'
 ---
 
 
@@ -38,4 +36,6 @@ Total mentions: **5**
 
 ## Biography
 
-*[To be enriched]*
+Rewired is an independent news channel known across the galaxy for its extraordinary publishing volume, sometimes releasing hundreds of stories in a single day. While critics have accused the feed of prioritising speed over accuracy, its guerrilla-style approach has allowed it to react faster than larger, more established rivals and break several significant stories.
+
+In mid-3302, Rewired was the first to report that engineers Broo Tarquin and Didi Vatermann had significantly reduced their material requirements for ship modifications, a development that made engineering services far more accessible to independent pilots. The channel's coverage of the Socho system crisis and its connections to Aegis Core operations further demonstrated its ability to report on sensitive military-industrial topics.

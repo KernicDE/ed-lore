@@ -2,38 +2,22 @@
 id: titans-daughter
 name: Titan's Daughter
 type: location
-first_seen_date: '3303-12-02'
-last_seen_date: '3303-12-21'
+first_seen_date: '3301-02-19'
+last_seen_date: '3301-02-19'
 mention_count: 4
+
 related_entities:
 - taygeta
 - aegis
 - oracle
 - arcs-faith
 - artemis-lodge
-bio: Titan's Daughter is a star system in the Elite Dangerous universe, significant
-  from 3303-12-02 to 3303-12-21. Associated with Aegis. The affected stations are
-  Titan's Daughter in Taygeta, Liman Legacy in HIP 16753, and the Oracle in Pleiades
-  Sector IR-W d1-55. They encouraged independent pilots to deliver food, water, basic
-  medicines, and natural fabrics to Titan's Daughter and other affected stations.
+bio: Titan's Daughter is an installation in the Taygeta system. It has served as a hub
+  for various activities including trade and research operations in the Pleiades region.
 ---
 
-<!-- AUTO-GENERATED -->
+
 
 # Titan's Daughter
 
-First mentioned: **3303-12-02**  
-Last mentioned: **3303-12-21**  
-Total mentions: **4**
-
-## Related
-
-- [[Taygeta]] (4 co-mentions)
-- [[Aegis]] (3 co-mentions)
-- [[Oracle]] (2 co-mentions)
-- [[Arc's Faith]] (1 co-mentions)
-- [[Artemis Lodge]] (1 co-mentions)
-
-## Biography
-
-*[To be enriched]*
+Titan's Daughter is an installation located in the Taygeta system, serving as a hub for trade and research operations in the Pleiades region. The facility has supported scientific studies of the nearby nebula and its unusual properties, while also accommodating commercial traffic. Its position in the Pleiades has made it increasingly relevant as Thargoid activity in the region intensified, with the installation serving as a staging point for both research expeditions and defensive operations.

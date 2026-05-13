@@ -11,10 +11,8 @@ related_entities:
 - aegis
 - pilots-federation
 - ross-310-natural-services
-bio: Lyakhov Dock is a starport in the Elite Dangerous universe, significant from
-  3304-03-23 to 3304-04-07. Associated with EG Union, Aegis, Ross 310 Cartel. Hundreds
-  of pilots delivered commodities to Lyakhov Dock and eliminated agitators in surrounding
-  systems to ensure trader safety.
+bio: 'An orbital station in the CPC 20 6743 system, Lyakhov Dock served as the logistics
+  hub for Yuri Grom''s ambitious capital ship shipyard project in 3304.'
 ---
 
 <!-- AUTO-GENERATED -->
@@ -35,4 +33,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Lyakhov Dock is an orbital station in the CPC 20 6743 system that became a focal point of independent military infrastructure development in early 3304. Yuri Grom's EG Union selected the station as the delivery point for commodities needed to construct a new shipyard capable of producing Farragut-class capital ships, intended to bolster defences against both human and alien threats.
+
+Hundreds of independent pilots delivered construction materials to Lyakhov Dock while EG Pilots and allied combat forces eliminated agitators in surrounding systems to protect trade routes. The campaign represented a significant investment by independent powers in heavy military manufacturing, reflecting growing concerns about humanity's preparedness for a potential Thargoid invasion.

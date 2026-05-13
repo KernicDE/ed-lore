@@ -24,12 +24,8 @@ economy: Agriculture
 second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system/id/15548/name/Dajoar
 inara_url: https://inara.cz/elite/starsystem/?search=Dajoar
-bio: Dajoar is a star system in the Elite Dangerous universe, significant from 3301-07-14
-  to 3301-08-06. Associated with Newton Dock Medical. Chief Medical Officer Carl Simmons
-  confirmed isolated Cerberus Plague incidents in Dajoar, Eleu, and 20 Ophiuchi, believed
-  to be travellers from BD-02 4304 before restrictions were imposed. Dajoar, Eleu,
-  and 20 Ophiuchi declared states of emergency due to the Cerberus Plague and called
-  on bounty hunters and combat pilots to protect relief efforts.
+bio: 'A populous independent agricultural system, Dajoar was among the first systems
+  outside the initial outbreak zone to be struck by the Cerberus Plague in mid-3301.'
 ---
 
 
@@ -52,4 +48,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Home to over two and a half billion inhabitants, Dajoar operates as an independent agricultural cooperative under the Social Eleu Progressive Party. Its economy revolves around farming and industry, making it one of the more densely populated independent systems in its sector.
+
+July 3301 brought an unprecedented crisis when isolated Cerberus Plague cases appeared, linked to travellers who had left the BD-02 4304 quarantine before restrictions could be enforced. Chief Medical Officer Carl Simmons confirmed the infections shortly after similar reports from Eleu and 20 Ophiuchi. All three systems declared states of emergency and requested combat pilot protection for their relief convoys, exposing how quickly disease could leap across light-years when interstellar travel outpaced containment protocols.

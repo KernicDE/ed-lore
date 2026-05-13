@@ -9,11 +9,8 @@ related_entities:
 - yum-kamcabi
 - yum-kamcabi-purple-life-industry
 - revolutionary-patani-labour
-bio: Dirichlet Orbital is a starport in the Elite Dangerous universe, significant
-  from 3303-02-02 to 3303-04-06. Associated with Yum Kamcabi Purple Life Industry,
-  Revolutionary Patani Labour. Hundreds of pilots delivered construction materials
-  to Dirichlet Orbital. Former Federal President Jasmina Halsey appealed for relief
-  for refugees at Dirichlet Orbital in the Yum Kamcabi system.
+bio: 'An orbital station in the Yum Kamcabi system, Dirichlet Orbital became the logistical
+  hub for one of Jasmina Halsey''s post-presidency humanitarian campaigns.'
 ---
 
 <!-- AUTO-GENERATED -->
@@ -32,4 +29,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Dirichlet Orbital orbits in the Yum Kamcabi system, a location that in early 3303 became the centre of an unusual humanitarian initiative. Former Federal President Jasmina Halsey, recently discharged from the Clearwater Clinic after her controversial removal from office, chose Dirichlet Orbital as the delivery point for a campaign to construct a rehabilitation centre for victims of the Federal-Imperial conflict.
+
+The Yum Kamcabi Purple Life Industry provided financial backing for the project, which sought not only to feed and shelter war victims but to reunite families and help refugees relocate to new systems. Pilots who delivered power generators, tantalum and polymers to Dirichlet Orbital were supporting Halsey's transformation from disgraced politician to peace advocate.

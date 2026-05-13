@@ -24,11 +24,8 @@ economy: High Tech
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system/id/10372/name/Nehet
 inara_url: https://inara.cz/elite/starsystem/?search=Nehet
-bio: Nehet is a star system in the Elite Dangerous universe, significant from 3301-04-15
-  to 3301-04-27. Associated with Imperial Court. Arissa Lavigny-Duval directed attacks
-  on the Nehet Silver Ring under Patrons of Law guidance, bringing crime to manageable
-  levels. Princess Arissa's fleet disrupted criminal operations in Nehet and Mictlan,
-  uncovering evidence that led to LTT 9810.
+bio: 'An Imperial feudal system with high security, Nehet was the site of Princess
+  Arissa Lavigny-Duval''s early campaign against organised crime in 3301.'
 ---
 
 
@@ -51,4 +48,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Nehet is an Imperial feudal system with a population exceeding ten million, notable for its high security and technology-focused economy. In April 3301, it became one of the first testing grounds for Princess Arissa Lavigny-Duval's anti-corruption crusade when she directed attacks against the Nehet Silver Ring, a criminal organisation operating within the system under the guise of the Patrons of Law.
+
+The Princess's campaign succeeded in reducing crime to manageable levels and yielded unexpected dividends: evidence uncovered in Nehet and the neighbouring Mictlan system pointed to criminal networks in LTT 9810, extending the operation's reach. These early victories burnished Arissa's reputation as a reformer willing to confront corruption directly, a platform that would prove central to her successful bid for the Imperial throne.

@@ -3,28 +3,16 @@ id: casey-kilpatrick
 name: Casey Kilpatrick
 type: person
 first_seen_date: '3307-10-22'
-last_seen_date: '3308-11-15'
+last_seen_date: '3307-12-03'
 mention_count: 5
-bio: Casey Kilpatrick is a prominent figure in the Elite Dangerous universe, active
-  from 3307-10-22 to 3308-11-15. Closely associated with Orion University, Scriveners
-  Clan, Canonn Interstellar Research Group.
+bio: Casey Kilpatrick is a freelance reporter for Vox Galactica who covered the Scriveners
+  Clan standoff with Orion University. He witnessed Orion's megaship Scientia Aeterna
+  remotely disable the dredger's hyperdrive, and reported on the clan's resistance including
+  sealed airlocks and an electrified hull.
 ---
 
 
 
-<!-- AUTO-GENERATED -->
-
 # Casey Kilpatrick
 
-First mentioned: **3307-10-22**  
-Last mentioned: **3308-11-15**  
-Total mentions: **5**
-
-## Related
-
-
-## Biography
-
-Casey Kilpatrick is a freelance journalist who reported on the Scriveners Clan dredger crisis in 3307. When Orion University used override codes to trap the nomadic tribe's dredger in the Oochost PC-C c29-0 system, Kilpatrick was among the first independent observers to document the life-threatening consequences.
-
-Kilpatrick explained that dredger-class bulk cruisers "must always keep moving, constantly gathering raw materials to synthesize into fuel, air and other resources." By preventing the Scriveners from departing, Orion University was effectively starving the vessel's systems; Kilpatrick reported malfunctions in power and life support and warned that "Orion might inherit the dredger after all, but it will be a ship of the dead." His reporting brought public pressure to bear on Orion University, which eventually claimed its actions were motivated by academic interest in the Scriveners' culture. Kilpatrick's coverage demonstrated how independent journalism can expose the human cost of institutional overreach in the distant reaches of the galaxy.
+Casey Kilpatrick is a freelance reporter who contributes to Vox Galactica. In October 3307, he provided an eyewitness account from the Oochost PC-C c29-0 system of the standoff between the Scriveners Clan and Orion University. Kilpatrick reported that Orion's megaship, Scientia Aeterna, had remotely disabled the dredger's hyperdrive using override codes from the university's archives. He witnessed the Scriveners' refusal to communicate and their physical resistance to boarding attempts, including sealed airlocks and an electrified hull. Kilpatrick also highlighted the university's likely interest in the clan's Knowledge Core—a database containing everything the scholarly society had learned during its long voyage.

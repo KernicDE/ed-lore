@@ -11,11 +11,9 @@ related_entities:
 - coalition-of-uteran
 - lp-726-6-free
 - azaladshu
-bio: 'Gluscap Labour is a organization active in Elite Dangerous lore from 3307-06-29
-  to 3307-07-30. Frequently associated with Coalition of Uteran, Azaladshu Free, Federal
-  Congress. Key activities include: The Azaladshu Free faction secedes from the Federation,
-  declaring its four systems independent in protest against surveillance laws.; Azaladshu
-  Free defeats Neche Inc and retains independence from the Federation.'
+bio: 'A Federal faction that seceded from the Federation in 3307 in protest against
+  the Proactive Detection Bureau surveillance laws, joining a wave of independence
+  declarations across Federal space.'
 ---
 
 
@@ -38,4 +36,6 @@ Total mentions: **5**
 
 ## Biography
 
-*[To be enriched]*
+Gluscap Labour was a Federal-aligned faction whose systems declared independence from the Federation in July 3307, inspired by Azaladshu Free's successful military defence against Federal forces. The secession formed part of a broader constitutional crisis triggered by widespread opposition to the Proactive Detection Bureau's mass civilian surveillance programme.
+
+The faction's departure from the Federation, alongside the Coalition of Uteran and Lp 726-6 Free, demonstrated the depth of resistance to the PDB within systems traditionally aligned with Shadow President Felicia Winters. President Zachary Hudson's inability to prevent or reverse these secessions undermined his administration and marked one of the most serious challenges to Federal unity in decades.

@@ -24,10 +24,8 @@ economy: Service
 second_economy: High Tech
 edsm_url: https://www.edsm.net/en/system/id/13741295/name/Tir
 inara_url: https://inara.cz/elite/starsystem/?search=Tir
-bio: Tir is a star system in the Elite Dangerous universe, significant from 3304-06-29
-  to 3304-08-29. Associated with Tir Technology Services. Tir Technology Services
-  is running a campaign to deliver commodities to Bolden's Enterprise in the Tir system.
-  Hundreds of independent pilots delivered commodities to Tir Technology Services.
+bio: 'An independent cooperative system in the Colonia region, Tir serves as a logistical
+  hub for scientific and infrastructure projects in humanity's most remote settlement.'
 ---
 
 
@@ -50,4 +48,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Tir is an independent cooperative system located in the Colonia region, notable for its role in supporting the distant settlement's expansion and scientific development. In mid-3304, Tir Technology Services coordinated a campaign to deliver commodities to Bolden's Enterprise in the system, supporting the construction of a resource management outpost designed to monitor Colonia's rapidly growing population.
+
+The system's service and high-tech economy makes it a vital logistical node for Colonia's ongoing development. Its partnership with scientific organisations underscores the collaborative approach that has enabled humanity's most remote settlement to thrive despite its distance from the core systems.

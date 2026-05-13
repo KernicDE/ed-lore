@@ -5,13 +5,11 @@ type: technology
 first_seen_date: '3311-04-01'
 last_seen_date: '3311-04-25'
 mention_count: 4
-bio: Corsair is a technology in the Elite Dangerous universe, mentioned from 3311-04-01
-  to 3311-04-25. Developed or used by Imperial Navy, Aisling Duval, Harald Gomes.
-  Gutamaya unveils the Corsair at a Capitol launch event, marking its first commercially
-  available multipurpose ship without Imperial Navy rank requirements. Gutamaya's
-  Corsair enters early delivery as the first commercially available multirole Imperial
-  ship without Navy rank requirement, praised by lead engineer Ines Allende and Princess
-  Aisling Duval.
+bio: The Corsair is a medium-sized multirole ship manufactured by Gutamaya Shipyards,
+  introduced in April 3311 as the first commercially available Imperial vessel that
+  required no Navy rank qualification for purchase. Princess Aisling Duval publicly
+  endorsed the ship at its Capitol launch event, signalling a shift in Imperial industrial
+  policy toward broader pilot markets.
 ---
 
 

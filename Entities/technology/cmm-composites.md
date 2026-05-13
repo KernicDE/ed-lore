@@ -5,8 +5,11 @@ type: technology
 first_seen_date: '3302-07-21'
 last_seen_date: '3307-06-24'
 mention_count: 4
-bio: CMM composites is a technology in the Elite Dangerous universe, mentioned from
-  3302-07-21 to 3307-06-24. Developed or used by Lavigny's Legion.
+bio: CMM composites are a high-grade construction material essential for building
+  large-scale spacecraft and military vessels, most prominently used in Imperial Majestic-class
+  Interdictors. They have also been requested for Aegis anti-Thargoid development
+  initiatives, establishing them as a critical dual-use resource in both conventional
+  and xeno-defence shipbuilding.
 ---
 
 

@@ -24,12 +24,8 @@ economy: High Tech
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system/id/3477/name/Ipilyaqa
 inara_url: https://inara.cz/elite/starsystem/?search=Ipilyaqa
-bio: Ipilyaqa is a star system in the Elite Dangerous universe, significant from 3301-09-11
-  to 3302-02-05. Associated with Emperor's Dawn, Imperial Internal Security Service.
-  Senator Denton Patreus revealed that Emperor's Dawn has survived the Federal Navy's
-  destruction of its Kausalya base through secret 'shadow' cells in the Dakshmandi,
-  Ipilyaqa, and Ch'i Lin systems. The Imperial Internal Security Service discovered
-  Emperor's Dawn 'shadow' cells in the Dakshmandi, Ipilyaqa, and Ch'i Lin systems.
+bio: 'An Imperial high-tech system where Emperor''s Dawn insurgents maintained a
+  secret "shadow cell" after their main base was destroyed.'
 ---
 
 
@@ -52,4 +48,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Ipilyaqa is an Imperial high-tech system with a population of over thirteen million, controlled by the Likedeeler of Michel faction. In late 3301, the Imperial Internal Security Service discovered that Emperor's Dawn — the insurgent group responsible for Emperor Hengist Duval's assassination — had survived the destruction of its Kausalya base by establishing secret "shadow cells" in Ipilyaqa, Dakshmandi and Ch'i Lin.
+
+Senator Denton Patreus, who was leading the campaign against the terrorists, publicly revealed the discovery and vowed to eradicate the remaining cells. The existence of these hidden bases demonstrated both the resilience of the insurgent network and the limitations of initial military victories, forcing the Empire to confront a more diffuse and persistent threat than it had initially assumed.

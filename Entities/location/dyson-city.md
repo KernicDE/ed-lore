@@ -11,8 +11,8 @@ related_entities:
 - league-of-mandu
 - pilots-federation
 - imperial-herald
-bio: Dyson City is a star system in the Elite Dangerous universe, significant from
-  3307-05-06 to 3307-12-09. Associated with Nova Imperium, League of Mandu.
+bio: 'An orbital station in the Paresa system, Dyson City became the reward hub for
+  one of the most significant military confrontations between the Empire and Nova Imperium.'
 ---
 
 <!-- AUTO-GENERATED -->
@@ -33,4 +33,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Dyson City is an orbital station in the Paresa system, a location that in January 3305 became the focal point of Imperial efforts to crush the Nova Imperium insurrection. After Imperial organisation Yupini Limited defeated the isolationist faction in the Battle of Paresa, pilots who had supported either side collected their rewards from Dyson City.
+
+Senator Denton Patreus used the victory to deliver a stark warning: "The Empire will not tolerate insurrection." Though Nova Imperium's military forces were depleted at Paresa, the survival of Hadrian Duval and the movement's ideology meant Dyson City's role in the conflict was only one chapter in a longer struggle over the Empire's future direction.

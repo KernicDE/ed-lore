@@ -11,11 +11,8 @@ related_entities:
 - alliance
 - church-of-eternal-void
 - far-god-cult
-bio: Morris Enterprise is a star system in the Elite Dangerous universe, significant
-  from 3304-07-13 to 3304-07-22. Associated with Cobra Wing. They place an open order
-  for commodities and a kill order on wanted ships to protect traders delivering to
-  Morris Enterprise. Scores of pilots delivered commodities to Morris Enterprise and
-  eliminated agitators.
+bio: 'An orbital station in the Ebor system, Morris Enterprise became the focal point
+  of a rare attempt to pursue inter-species communication with the Thargoids.'
 ---
 
 <!-- AUTO-GENERATED -->
@@ -36,4 +33,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Morris Enterprise orbits in the Ebor system, a location that in July 3304 attracted attention for an unusually peaceful purpose. The independent organisation Cobra Wing used the station as a collection hub for commodities needed to build a research outpost dedicated not to weapons development but to Thargoid inter-species communication — a stark contrast to the military-focused approach dominating most anti-xeno efforts.
+
+A spokesperson for Cobra Wing framed the project in philosophical terms: "Without communication, there can be no understanding. Without understanding, there can be no peace." Pilots who delivered materials to Morris Enterprise were supporting one of the few scientific initiatives seeking diplomatic solutions to the Thargoid conflict, even as the galaxy's superpowers poured resources into ever more destructive superweapons.

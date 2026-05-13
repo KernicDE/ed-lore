@@ -11,11 +11,8 @@ related_entities:
 - emperors-grace
 - alliance
 - inra
-bio: Leydenfrost Dock is a starport in the Elite Dangerous universe, significant from
-  3304-07-06 to 3304-07-15. Associated with Didiomanja Emperor's Grace, Emperor's
-  Grace. Large quantities of exotic food, drink, and mined resources were delivered
-  to Leydenfrost Dock, allowing a sumptuous banquet and the construction of a monument
-  honouring Admiral Mira Tiverion.
+bio: 'An orbital station in the Didiomanja system, Leydenfrost Dock served as the
+  logistics hub for a grand Imperial celebration in July 3304.'
 ---
 
 <!-- AUTO-GENERATED -->
@@ -36,4 +33,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Leydenfrost Dock lies in the Didiomanja system, an Imperial-aligned territory that in July 3304 became the staging ground for an unusual combination of military commemoration and gastronomic excess. The Didiomanja Emperor's Grace faction used the station as a collection point for exotic foods, rare drinks and gold to mark the inauguration of the Tiverion Academy, a new flight school for Imperial naval cadets.
+
+The campaign's dual purpose — stocking a lavish banquet while sourcing material for a monument to the late Admiral Mira Tiverion, the organisation's founding member — illustrated how Imperial factions wove together practical training infrastructure and symbolic tribute. Pilots who delivered commodities to Leydenfrost Dock were supporting both the Empire's future pilots and its reverence for military tradition.

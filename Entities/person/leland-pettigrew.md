@@ -3,25 +3,16 @@ id: leland-pettigrew
 name: Leland Pettigrew
 type: person
 first_seen_date: '3307-10-13'
-last_seen_date: '3307-11-25'
+last_seen_date: '3307-10-13'
 mention_count: 5
-bio: Leland Pettigrew is a pilot in the Elite Dangerous universe, active from 3307-10-13
-  to 3307-11-25. Closely associated with Orion University, Scriveners Clan, Alliance.
+bio: Leland Pettigrew is the Vice Chancellor of Orion University, the largest independent
+  educational institution in the core systems. In October 3307, he claimed legal ownership
+  of the Scriveners Clan dredger based on historical records showing it was commissioned
+  in 3088 by Scrivener College, which was absorbed into Orion University in 3125.
 ---
 
 
 
-<!-- AUTO-GENERATED -->
-
 # Leland Pettigrew
 
-First mentioned: **3307-10-13**  
-Last mentioned: **3307-11-25**  
-Total mentions: **5**
-
-## Related
-
-
-## Biography
-
-Leland Pettigrew is a senior lecturer at Orion University and a leading expert on the Scriveners Clan, a nomadic community that salvages technology from abandoned settlements. In late 3307, Pettigrew was recruited by the Alliance to help establish diplomatic contact with the Clan after their dredger entered Alliance space. He facilitated the historic first meeting between the Alliance and the Scriveners, providing crucial cultural and linguistic context that enabled peaceful negotiations. His work represented a rare instance of academic expertise being directly applied to interstellar diplomacy, bridging the gap between isolated salvager communities and major galactic powers.
+Leland Pettigrew serves as Vice Chancellor of Orion University, the largest independent educational institution in the core systems, rivalled only by the Imperial Science Academy and Olympus Village University. In October 3307, Pettigrew made a controversial legal claim to ownership of the Scriveners Clan dredger, citing recently discovered archival documents. He stated that Dredger J-403 was commissioned in 3088 by Scrivener College for an exploration mission, and that this institution was absorbed into Orion University in 3125, making the vessel university property. While insisting the university bore no ill will toward the dredger's current inhabitants, Pettigrew's claim initiated a tense standoff with the nomadic clan.

@@ -11,12 +11,8 @@ related_entities:
 - explorers-association
 - universal-cartographics
 - pleiades-nebula
-bio: Neville Horizons is a star system in the Elite Dangerous universe, significant
-  from 3301-10-22 to 3303-08-18. Associated with Universal Cartographics, Brewer Corporation,
-  Explorers' Association. The Kaushpoos Pro-Alliance Union will oversee the campaign
-  at Neville Horizons in the Kaushpoos system. The Alliance announces the successful
-  conclusion of its research initiative, with huge quantities of resources delivered
-  to Neville Horizons.
+bio: 'A starport in the Kaushpoos system, Neville Horizons has served as a logistical
+  centre for both exploratory expansion and anti-xeno research efforts.'
 ---
 
 <!-- AUTO-GENERATED -->
@@ -37,4 +33,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Neville Horizons sits in the Kaushpoos system, a jumping-off point for some of the most ambitious projects in the Pleiades Nebula. In late 3301, the Explorer's Association, backed by Brewer Corporation and Universal Cartographics, used the station as a collection hub for metals needed to construct the first deep-space starport in the nebula — a milestone in humanity's expansion into uninhabited space.
+
+Two years later, the Alliance established a research initiative at Neville Horizons to develop instruments for analysing Thargoid material. The campaign sought unknown ship signatures, organic circuitry and technology components, reflecting how the station evolved from a beacon of exploration to a frontline facility in the struggle to understand the alien threat.

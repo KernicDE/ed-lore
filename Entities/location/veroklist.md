@@ -24,10 +24,11 @@ economy: Extraction
 second_economy: High Tech
 edsm_url: https://www.edsm.net/en/system/id/9810/name/Veroklist
 inara_url: https://inara.cz/elite/starsystem/?search=Veroklist
-bio: Veroklist is a star system in the Elite Dangerous universe, significant from
-  3304-05-11 to 3304-05-20. Associated with Moritasgus Imperial Corporation, Aegis.
-  The Moritasgus Imperial Corporation successfully completed a commodities appeal
-  in Veroklist. The Empire announced plans for a new Riker-Class Prison Ship in Veroklist.
+bio: Veroklist is an independent star system located in the periphery of inhabited
+  space, governed as a democracy with a low population and an extraction-based economy.
+  In May 3304 it was selected by the Empire as the site for a new Riker-Class Prison
+  Ship, with the Moritasgus Imperial Corporation overseeing construction and commodity
+  appeals.
 ---
 
 
@@ -50,4 +51,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Veroklist is a sparsely populated independent system on the fringes of civilised space, characterised by low security and an economy focused on extraction and high technology. In May 3304, the Empire announced plans to construct a new Riker-Class Prison Ship in the system, a facility designed to house criminals who had accepted Imperial slavery but proved too dangerous or unstable for standard corrective punishment.
+
+The Moritasgus Imperial Corporation managed the project from Vaucouleurs Vision, launching a successful commodities appeal for Imperial slaves and non-lethal weapons that drew hundreds of pilots to the system. Superintendent Arnold Cochran confirmed that the expanded facilities could now safely contain some of the Empire's worst offenders, cementing Veroklist's role as a remote penal outpost.

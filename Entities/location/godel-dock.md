@@ -11,11 +11,8 @@ related_entities:
 - quivira
 - stapledon-dock
 - summerland
-bio: Godel Dock is a starport in the Elite Dangerous universe, significant from 3301-05-01
-  to 3301-05-19. Associated with People's Quivira for Equality Party, Quivira Electronics
-  Plc. Imperial forces loyal to Senator Patreus secured Godel Dock in Quivira, ending
-  the war. Quivira Electronics Plc, acting on Patreus's behalf, seizes Stepledon Dock
-  and hires freelance reclamation agents.
+bio: 'An orbital station in the Quivira system, Godel Dock became the unlikely headquarters
+  of a popular resistance movement against Imperial debt reclamation.'
 ---
 
 <!-- AUTO-GENERATED -->
@@ -36,4 +33,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Godel Dock orbited in the independent system of Quivira, a nation of 37.5 million residents that had maintained its independence through industrial trade until a recession forced it to take bridge loans from Silver Universal Plc. In May 3301, when Senator Denton Patreus initiated legal action to reclaim the debt, the People's Quivira for Equality Party established its defence headquarters aboard Godel Dock.
+
+The station became a rallying point for independent pilots opposed to Patreus's aggressive tactics, with the Bank of Zaonce funding a defence pool for those who came to Quivira's aid. Though Imperial forces eventually secured the station and ended the conflict, Godel Dock's role in the resistance made it a symbol of how quickly commercial disputes could escalate into system-wide confrontations involving mercenaries, corporations and superpower senators.

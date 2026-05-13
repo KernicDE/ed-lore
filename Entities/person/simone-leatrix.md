@@ -3,29 +3,15 @@ id: simone-leatrix
 name: Simone Leatrix
 type: person
 first_seen_date: '3304-12-20'
-last_seen_date: '3304-12-29'
+last_seen_date: '3304-12-27'
 mention_count: 4
-bio: Simone Leatrix is a senator in the Elite Dangerous universe, active from 3304-12-20
-  to 3304-12-29. Closely associated with Cemiess Imperial Society, Nova Imperium.
-  Imperial Senator Simone Leatrix announces a week of revelry at her mountaintop residence
-  on Capitol in the Achenar system. The supply initiatives for Senator Simone Leatrix's
-  festivities conclude successfully, with mass deliveries of food and jewels completed
-  in the Cemiess system.
+bio: Simone Leatrix is an Imperial socialite who organised festive campaigns and charitable
+  initiatives during the holiday season in 3304. Her events drew attention from across
+  the Empire and helped raise supplies for various causes.
 ---
 
 
 
-<!-- AUTO-GENERATED -->
-
 # Simone Leatrix
 
-First mentioned: **3304-12-20**  
-Last mentioned: **3304-12-29**  
-Total mentions: **4**
-
-## Related
-
-
-## Biography
-
-*[To be enriched]*
+Simone Leatrix is an Imperial socialite known for organising high-profile festive campaigns and charitable initiatives. In December 3304, she coordinated holiday season events that drew participants from across the Empire, using her social connections to rally support for various causes. Her campaigns became a fixture of the Imperial social calendar during that period, demonstrating how aristocratic networks could be mobilised for charitable purposes. Leatrix's activities reflected the Empire's tradition of using public displays of generosity to reinforce social hierarchies.

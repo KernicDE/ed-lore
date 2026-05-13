@@ -24,11 +24,8 @@ economy: Terraforming
 second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system/id/1525/name/Didiomanja
 inara_url: https://inara.cz/elite/starsystem/?search=Didiomanja
-bio: Didiomanja is a star system in the Elite Dangerous universe, significant from
-  3304-07-06 to 3304-07-15. Associated with Didiomanja Emperor's Grace, Emperor's
-  Grace. The Didiomanja Emperor's Grace completes the Tiverion Academy, a flight school
-  for Imperial naval cadets, and hosts an inaugural banquet. The Didiomanja Emperor's
-  Grace Academy announces its initiative reached a successful conclusion.
+bio: 'A Federal corporate system with a terraforming economy, Didiomanja became home
+  to an Imperial naval flight school in 3304.'
 ---
 
 
@@ -51,4 +48,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Didiomanja is a Federal corporate system with a population exceeding 370 million, notable for its ongoing terraforming projects and industrial infrastructure. In July 3304, the Didiomanja Emperor's Grace faction completed construction of the Tiverion Academy, a flight school designed to train new generations of Imperial naval cadets.
+
+The academy was named for Admiral Mira Tiverion, the faction's founding member, and its inauguration was marked by a lavish banquet at Leydenfrost Dock requiring exotic foods, rare drinks and gold for a commemorative monument. The project illustrated how Imperial-aligned factions within Federal territory could maintain and expand military training infrastructure, even as tensions between the superpowers remained high.

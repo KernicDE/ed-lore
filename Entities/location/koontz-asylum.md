@@ -11,11 +11,8 @@ related_entities:
 - imperial-herald
 - imperial-citizen
 - federation
-bio: Koontz Asylum is a star system in the Elite Dangerous universe, significant from
-  3302-10-28 to 3303-03-24. Kahina Tijani Loren was found guilty of attempted assassination
-  of Admiral Denton Patreus and sentenced to life imprisonment at Koontz Asylum in
-  the Daibo system. A prisoner convoy was interdicted and destroyed in the Daibo system
-  while en route to Koontz Asylum.
+bio: 'A high-security prison facility in the Daibo system, Koontz Asylum was intended
+  to be the final destination of one of the Empire''s most notorious prisoners.'
 ---
 
 <!-- AUTO-GENERATED -->
@@ -36,4 +33,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Koontz Asylum is a high-security penal facility located in the Daibo system, designed to house the Empire's most dangerous criminals. In late 3302, it was selected as the destination for Lady Kahina Tijani Loren after she was found guilty of attempted assassination and stripped of her senatorial rank, with a life sentence intended to end her political career permanently.
+
+The prison never received its famous inmate. A prisoner convoy transporting Loren through the Daibo system was interdicted and destroyed en route to Koontz Asylum, allowing her to escape. The attack, later claimed by the Children of Raxxla, transformed what should have been the end of Loren's story into the beginning of her far more mysterious second act as Salomé.

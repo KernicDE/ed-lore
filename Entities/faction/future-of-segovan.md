@@ -11,12 +11,8 @@ related_entities:
 - segovan
 - obsidian-orbital
 - hip-17225-a-1
-bio: 'Future of Segovan is a organization active in Elite Dangerous lore from 3302-07-07
-  to 3302-08-04. Frequently associated with Federation, Ramsbottom Hub, Segovan. Key
-  activities include: The Federation announces plans to establish a new planetary
-  outpost on HIP 17225 A 1, a known barnacle site, requesting tantalum, building fabricat...;
-  The Federation''s appeal for construction materials concluded successfully, with
-  thousands of tonnes delivered to Obsidian Orbital for a new outpost...'
+bio: 'A Federal organisation based in the Segovan system that spearheaded military
+  infrastructure expansion toward the Pleiades sector in 3302.'
 ---
 
 
@@ -39,4 +35,6 @@ Total mentions: **5**
 
 ## Biography
 
-*[To be enriched]*
+The Future of Segovan is a Federal organisation based in the Segovan system that launched an ambitious campaign in July 3302 to construct a chain of Federal Naval outposts extending from Segovan into the Pleiades sector. The initiative sought to establish resupply points for Federal vessels and support ongoing operations near the region's barnacle sites and emerging Thargoid presence.
+
+Despite repeated attempts by Imperial pilots to disrupt deliveries, the campaign successfully collected large quantities of construction materials at Ramsbottom Hub, enabling work to begin on the first outpost. The project represented an early phase of overt Federal military expansion toward the Pleiades, setting the stage for subsequent proxy conflicts with the Empire over access to meta-alloys and alien sites.

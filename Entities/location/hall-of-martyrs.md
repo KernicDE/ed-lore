@@ -11,12 +11,9 @@ related_entities:
 - imperial-naval-infantry
 - imperial-guard
 - imperial-intelligence-security-service
-bio: 'Hall of Martyrs is a system in Elite Dangerous, significant from 3301-08-06
-  to 3304-08-03. Associated with Imperial Palace, Imperial Naval Infantry, Imperial
-  Guard. Notable events include: Chancellor Anders Blaine declared the beginning of
-  the four-week official mourning period for Emperor Hengist Duval.; Senator Patreus
-  and his followers endured abuse on Capitol over his connection to assassin Brendan
-  Paul Darius.'
+bio: 'A vast ceremonial hall beneath the Imperial Palace on Capitol, constructed
+  over 600 years ago to honour the Empire's fallen and reserved for the most distinguished
+  burials.'
 ---
 
 <!-- AUTO-GENERATED -->
@@ -37,4 +34,6 @@ Total mentions: **5**
 
 ## Biography
 
-*[To be enriched]*
+The Hall of Martyrs is an ancient ceremonial complex located beneath the Imperial Palace on Capitol, constructed more than 600 years ago following the Empire's first major conflict with the Federation. The vast hall contains 16,032 obsidian pillars and serves as the final resting place for the most honoured members of Imperial society, including emperors and heroes of the Empire.
+
+The Hall is opened to the public only during official mourning periods, most notably following the assassination of Emperor Hengist Duval in 3301, when his body was placed in the vestibule for public viewing. The site also became a flashpoint during the succession crisis when Senator Denton Patreus faced a hostile mob while attempting to pay his respects, requiring Imperial Naval Infantry to intervene.

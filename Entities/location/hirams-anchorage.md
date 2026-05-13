@@ -8,10 +8,8 @@ mention_count: 4
 related_entities:
 - lorens-legion
 - prism
-bio: Hiram's Anchorage is a star system in the Elite Dangerous universe, significant
-  from 3302-10-26 to 3303-03-16. Associated with Loren's Legion. The organisation's
-  facility at Hiram's Anchorage is running at full capacity. Hundreds of pilots delivered
-  materials to Hiram's Anchorage.
+bio: 'An orbital station in the Prism system, Hiram''s Anchorage serves as the primary
+  facility for Loren''s Legion, an Imperial organisation with extensive commercial interests.'
 ---
 
 <!-- AUTO-GENERATED -->
@@ -29,4 +27,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Hiram's Anchorage is an orbital station in the Prism system, home to Loren's Legion, an Imperial organisation with a wide range of business interests tied to the Antares mystery and the Salomé conspiracy. In March 3303, the facility was operating at full capacity when a spike in client demand forced the Legion to place an open order for tantalum, drawing hundreds of independent pilots to the station.
+
+The organisation's reliance on Hiram's Anchorage as both its logistical hub and public face underscored how Imperial commercial interests could operate with considerable autonomy from direct superpower control. The station's connection to Loren's Legion also made it a point of interest for those following the tangled web of intrigue surrounding the Antares disaster and the hidden identity of Salomé.

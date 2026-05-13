@@ -24,11 +24,8 @@ economy: Agriculture
 second_economy: Tourism
 edsm_url: https://www.edsm.net/en/system/id/20003/name/Ross%20310
 inara_url: https://inara.cz/elite/starsystem/?search=Ross%20310
-bio: Ross 310 is a star system in the Elite Dangerous universe, significant from 3304-03-30
-  to 3304-04-07. Associated with Ross 310 Cartel, Ross 310 Natural Services, Aegis.
-  Conflict erupted in Ross 310 between Ross 310 Natural Services and the Ross 310
-  Cartel. The EG Union successfully concluded its campaign to build a shipyard in
-  Ross 720.
+bio: 'A populous independent system with an agricultural economy, Ross 310 became
+  a battleground between lawful and criminal factions in early 3304.'
 ---
 
 
@@ -51,4 +48,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Criminal ambitions nearly seized control of Ross 310 in March 3304, when the Ross 310 Cartel launched a coordinated offensive against Ross 310 Natural Services, the system's governing faction. Toru Jacobs, speaking for the Natural Services, warned that the Cartel was "well equipped and highly organised," appealing to independent combat pilots to help repel the takeover.
+
+The conflict drew mercenaries and independent commanders to the system, with both factions offering substantial rewards for support. By early April, order had been restored and the Cartel's bid for power was defeated, though the episode demonstrated how quickly criminal organisations could threaten established governance in populous independent systems.

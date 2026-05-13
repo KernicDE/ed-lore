@@ -11,11 +11,9 @@ related_entities:
 - tenche
 - nagasairu
 - kumo-crew
-bio: 'Kavanagh Spaceframes Ltd is a organization active in Elite Dangerous lore from
-  3306-09-11 to 3307-04-22. Frequently associated with Pilots Federation, Steel Castle
-  Inc, Tenche. Key activities include: The Kumo Crew syndicate launches a campaign
-  to construct up to five new Orbis starports in uninhabited systems near key trading
-  regions.; The Kumo Crew''s starport construction campaign concludes successfully.'
+bio: 'An independent construction firm specialising in Orbis starports, Kavanagh
+  Spaceframes Ltd has been contracted for major infrastructure projects by both legitimate
+  corporations and criminal syndicates.'
 ---
 
 
@@ -38,4 +36,6 @@ Total mentions: **5**
 
 ## Biography
 
-*[To be enriched]*
+Kavanagh Spaceframes Ltd is an independent construction company specialising in the design and assembly of Orbis-class starports. In late 3306, the firm partnered with Brewer Corporation and Steel Castle Inc to upgrade refinery outposts into fully functional starports, a project aimed at improving refuelling access for the growing fleet carrier market.
+
+The company's expertise in orbital habitat construction attracted further attention in 3307, when the Kumo Crew syndicate privately contracted Kavanagh Spaceframes to build up to five new Orbis stations in strategically significant regions including the California Nebula, Coalsack Nebula, and Colonia. This contract demonstrated the firm's willingness to work across the political spectrum, from legitimate corporate partnerships to criminal syndicate projects.

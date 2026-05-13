@@ -11,12 +11,8 @@ related_entities:
 - norma-expanse
 - sol
 - rho-cassiopeiae
-bio: Formidine Rift is a star system in the Elite Dangerous universe, significant
-  from 3302-04-08 to 3303-02-03. Associated with Mars High Astrocartography. Early
-  analysis of recovered data reveals new routes to Beagle Point, the Core, the Formidine
-  Rift, and other regions. Commander turkwinif becomes the first pilot to reach Rho
-  Cassiopeiae, a class-F hypergiant visible from Earth located in the difficult-to-navigate
-  Formidine Rift.
+bio: 'A vast and treacherous region of space, the Formidine Rift has tested the
+  limits of exploration technology and human endurance.'
 ---
 
 <!-- AUTO-GENERATED -->
@@ -37,4 +33,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+The Formidine Rift is a notoriously difficult-to-navigate region of space, characterised by sparse star density and treacherous routing that has defeated many would-be explorers. In April 3302, Commander turkwinif achieved what many had considered impossible by reaching Rho Cassiopeiae, a class-F hypergiant visible from Earth with the naked eye, located deep within the Rift.
+
+The journey required an Anaconda specially outfitted for long-distance hyperspace jumps, careful route planning, and numerous FSD fuel injections. The expedition proved that even the most hostile regions of the galaxy were not beyond the reach of determined pilots, and the Formidine Rift subsequently became a destination for elite explorers seeking to test their skills against one of space's most challenging environments.

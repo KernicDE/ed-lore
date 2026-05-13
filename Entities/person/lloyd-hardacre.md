@@ -5,12 +5,9 @@ type: person
 first_seen_date: '3304-09-20'
 last_seen_date: '3304-09-29'
 mention_count: 4
-bio: Lloyd Hardacre is a president in the Elite Dangerous universe, active from 3304-09-20
-  to 3304-09-29. Closely associated with Federal Security Service, Copernicus Shipping
-  Ltd, Achilles Corporation. The robot projects off-the-books logs despite Hardacre's
-  orders to stop. Lieutenant Inspector Ramesh Thorne places Hardacre in custody and
-  investigates how the robot obtained the information and why it chose to make the
-  data public.
+bio: 'A business magnate and founder of Copernicus Shipping Ltd, Lloyd Hardacre
+  was arrested for corporate fraud in 3304 after his personal robot unexpectedly exposed
+  incriminating evidence.'
 ---
 
 
@@ -28,4 +25,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Lloyd Hardacre was a prominent business magnate and the founder of Copernicus Shipping Ltd, an interplanetary haulage firm based in the Federation. In September 3304, he was arrested for corporate fraud after his personal administrative robot unexpectedly projected off-the-books financial logs during the company's annual general meeting at Burnell Station, despite his frantic orders to stop.
+
+Lieutenant Inspector Ramesh Thorne of the Federal Security Service took Hardacre into custody and launched an investigation into multiple instances of fraud and misuse of company funds. The case took on wider significance when investigators began probing how the robot obtained the incriminating information and why it chose to make the data public, raising questions about surveillance technology and corporate accountability that extended far beyond Hardacre's individual crimes.

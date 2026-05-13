@@ -24,12 +24,9 @@ economy: Extraction
 second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system/id/13785/name/Dakshmandi
 inara_url: https://inara.cz/elite/starsystem/?search=Dakshmandi
-bio: 'Dakshmandi is a system in Elite Dangerous, significant from 3301-09-11 to 3302-02-05.
-  Associated with Emperor''s Dawn, Imperial Navy. Notable events include: Senator
-  Denton Patreus revealed that Emperor''s Dawn has survived the Federal Navy''s destruction
-  of its Kausalya base through secret ''shadow'' cells ...; The Imperial Internal
-  Security Service discovered Emperor''s Dawn ''shadow'' cells in the Dakshmandi,
-  Ipilyaqa, and Ch''i Lin systems.'
+bio: 'An independent feudal system in the fringes of Imperial space, Dakshmandi concealed
+  one of several Emperor''s Dawn insurgent cells uncovered by the Imperial Internal
+  Security Service in late 3301.'
 ---
 
 
@@ -52,4 +49,6 @@ Total mentions: **5**
 
 ## Biography
 
-*[To be enriched]*
+Senator Denton Patreus revealed in September 3301 that Emperor's Dawn — the insurgent group behind Emperor Hengist Duval's assassination — had survived the Federal Navy's destruction of its Kausalya base by dispersing into hidden "shadow" cells across multiple systems. The Imperial Internal Security Service subsequently confirmed active cells in Dakshmandi, Ipilyaqa and Ch'i Lin, demonstrating that decapitating the organisation's leadership had not eliminated its operational capacity.
+
+Operating under the feudal governance of the White Scar Contingency, Dakshmandi offered geographic isolation and minimal oversight that suited clandestine militant activity. The discovery forced the Empire to confront an uncomfortable reality: Emperor's Dawn had embedded itself within Imperial territory through sympathisers who viewed the organisation's violent monarchism as legitimate resistance to a corrupt Senate.

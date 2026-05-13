@@ -22,11 +22,9 @@ economy: Industrial
 second_economy: High Tech
 edsm_url: https://www.edsm.net/en/system/id/36/name/Rakapila
 inara_url: https://inara.cz/elite/starsystem/?search=Rakapila
-bio: Rakapila is a star system in the Elite Dangerous universe, significant from 3303-06-30
-  to 3305-02-07. Associated with People's Rakapila Progressive Party, Supratech. The
-  People's Rakapila Progressive Party has issued a request for domestic appliances,
-  consumer technology and clothing to stimulate the Rakapila system's economy following
-  a population spike.
+bio: 'An independent corporate system with an industrial and high-tech economy,
+  Rakapila has been the focus of local economic development initiatives and corporate
+  investment.'
 ---
 
 
@@ -47,4 +45,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Rakapila is an independent corporate system with a population of approximately 89,000 and an economy based on industrial manufacturing and high technology. In mid-3303, the People's Rakapila Progressive Party launched a commodity drive to stimulate the system's economy following a population spike, requesting domestic appliances, consumer technology and clothing to be delivered to Stone Enterprise.
+
+The system's economic profile attracted further attention in early 3305 when an investor set sights on Supratech, a corporation with operations in Rakapila. These developments illustrate how smaller independent systems leverage community-driven initiatives and external investment to manage growth and diversify their economies.

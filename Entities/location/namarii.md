@@ -24,11 +24,9 @@ economy: Industrial
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system/id/2686/name/Namarii
 inara_url: https://inara.cz/elite/starsystem/?search=Namarii
-bio: 'Namarii is a star system in the Elite Dangerous universe, significant from 3301-10-08
-  to 3301-10-28. Associated with Emperor''s Dawn, Imperial Navy. Senator Denton Patreus
-  dispatched military fleets to Emperor''s Dawn bases in Namarii, Tabaldak, and LTT
-  874. The Imperial Internal Security Service identified five additional systems containing
-  Emperor''s Dawn bases: Namarii, Tabaldak, LTT 874, Shambhala, and Svari.'
+bio: 'An Imperial industrial system with high security, Namarii was identified as
+  one of five locations containing bases belonging to the insurgent organisation Emperor''s
+  Dawn during the 3301 succession crisis.'
 ---
 
 
@@ -51,4 +49,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Namarii is an Imperial industrial system under the control of the Imperial Privateers faction, notable for its high security and substantial population. In October 3301, the Imperial Internal Security Service identified Namarii as one of five systems containing bases belonging to Emperor's Dawn, the insurgent organisation responsible for the assassination of Emperor Hengist Duval.
+
+Senator Denton Patreus, who was leading the Imperial campaign against the insurgents, dispatched military fleets to Namarii alongside simultaneous operations in Tabaldak and LTT 874. Empire-aligned factions were authorised to reward pilots who joined the fight, while Emperor's Dawn offered counter-rewards to defenders, making the system a focal point of the Empire's effort to eradicate the terrorist organisation before Arissa Lavigny-Duval's coronation.

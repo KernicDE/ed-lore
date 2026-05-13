@@ -24,11 +24,8 @@ economy: Industrial
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system/id/3801/name/Ebor
 inara_url: https://inara.cz/elite/starsystem/?search=Ebor
-bio: Ebor is a star system in the Elite Dangerous universe, significant from 3304-07-13
-  to 3304-07-22. Associated with Cobra Wing. Cobra Wing launches an initiative to
-  build a new research outpost in the Ebor system focused on Thargoid inter-species
-  communication research. Cobra Wing announces its Ebor research outpost campaign
-  was enthusiastically received.
+bio: 'An independent democratic system with an industrial economy, Ebor became the
+  site of an unusual scientific initiative focused on peaceful Thargoid communication.'
 ---
 
 
@@ -51,4 +48,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Ebor is an independent democratic system with a population of over twenty million, controlled by the Cobra Wing faction. In July 3304, this otherwise unremarkable industrial system became the focus of galactic attention when Cobra Wing launched a campaign to construct a research outpost dedicated to inter-species communication with the Thargoids — a rare peaceful initiative amid the prevailing military approach to the alien threat.
+
+The campaign was enthusiastically received, with pilots delivering commodities to Morris Enterprise in the system to support construction. Cobra Wing framed the project in idealistic terms, arguing that without communication there could be no understanding, and without understanding, no peace. Ebor thus became a symbol of those who believed diplomacy, rather than destruction, offered the best hope for resolving the Thargoid conflict.

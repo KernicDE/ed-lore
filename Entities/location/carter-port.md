@@ -11,10 +11,8 @@ related_entities:
 - harma
 - pic-tok
 - rhea
-bio: 'Carter Port is a starport in Elite Dangerous, significant from 3302-01-04 to
-  3302-05-20. Notable events include: The technological plague continues to affect
-  starports across inhabited space.; Several starports previously closed due to Unknown
-  Artefact-related interference have been restored through the application of meta-alloys.'
+bio: 'An orbital station in the Rhea system that was among the starports crippled
+  by the technological plague in early 3302.'
 ---
 
 <!-- AUTO-GENERATED -->
@@ -35,4 +33,6 @@ Total mentions: **5**
 
 ## Biography
 
-*[To be enriched]*
+Carter Port is an orbital station in the Rhea system that was forced to suspend all services except docking and shipyard access in early 3302, becoming one of the casualties of the technological plague. The station's mysterious malfunctions were part of a widespread crisis affecting starports across inhabited space, later attributed to the destabilising influence of Unknown Artefacts.
+
+The station's closure contributed to the growing urgency for solutions, which eventually came in the form of meta-alloys harvested from barnacle sites in the Pleiades sector. Carter Port was among the facilities restored through this treatment, demonstrating both the vulnerability of human infrastructure to alien interference and the efficacy of meta-alloys as a countermeasure.

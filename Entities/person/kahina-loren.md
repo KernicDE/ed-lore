@@ -5,13 +5,8 @@ type: person
 first_seen_date: '3302-09-30'
 last_seen_date: '3303-02-03'
 mention_count: 4
-bio: Kahina Loren is a senator in the Elite Dangerous universe, active from 3302-09-30
-  to 3303-02-03. Closely associated with Children of Raxxla, Imperial Citizen. Princess
-  Aisling Duval and former Imperial senator Lady Kahina Loren engaged in a heated
-  impromptu debate organised by The Imperial Citizen, with portions broadcast live
-  ahead of Loren's trial. The Children of Raxxla claimed responsibility, stating the
-  attack was a response to the guilty verdict passed on Kahina Loren, whom they referred
-  to as Salomé.
+bio: 'A former Imperial senator from Prism whose dramatic fall from grace and secret
+  identity as Salomé made her one of the most controversial figures in Imperial politics.'
 ---
 
 
@@ -29,4 +24,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Few Imperial careers ended as spectacularly as that of Lady Kahina Loren, the senator from Prism who was stripped of her rank and title in late 3302 after being implicated in an assassination attempt on Senator Denton Patreus. Her trial was preceded by a now-famous televised exchange with Princess Aisling Duval, in which Loren dismissed the charges as a setup and retorted to Duval's attacks with withering contempt.
+
+Behind her public persona, Loren was also known as Salomé, a figure revered by the secretive Children of Raxxla. The group's claim of responsibility for violent acts carried out in her name, and their reference to her by this alias, fuelled speculation that her political downfall was connected to far deeper mysteries surrounding Raxxla and Imperial power structures.

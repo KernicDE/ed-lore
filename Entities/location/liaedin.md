@@ -24,12 +24,8 @@ economy: Extraction
 second_economy: Colony
 edsm_url: https://www.edsm.net/en/system/id/10533/name/Liaedin
 inara_url: https://inara.cz/elite/starsystem/?search=Liaedin
-bio: 'Liaedin is a system in Elite Dangerous, significant from 3301-02-17 to 3301-05-25.
-  Associated with Faveol family. Notable events include: The Volungu Blight has spread
-  unchecked despite containment efforts in Liaedin, LHS 3505, and Furbaide, claiming
-  hundreds of lives since it first a...; Medical staff aboard Effinger Port achieved
-  a breakthrough in treating the Volungu Blight after doctors supplied by Aisling
-  Duval identified the pa...'
+bio: 'A Federation extraction system controlled by the Volungu Crimson Fortune Company,
+  Liaedin was among the systems worst hit by the Volungu Blight in early 3301.'
 ---
 
 
@@ -52,4 +48,6 @@ Total mentions: **5**
 
 ## Biography
 
-*[To be enriched]*
+By February 3301, the Volungu Blight had already claimed hundreds of lives across Liaedin, LHS 3505 and Furbaide despite quarantine efforts. The pathogen spread rapidly through populations, overwhelming local medical facilities and exposing the limitations of corporate healthcare infrastructure in frontier extraction systems.
+
+Hope emerged aboard Effinger Port when medical staff achieved a treatment breakthrough. Aisling Duval had supplied research teams and diagnostic equipment from her personal patronage network, enabling doctors to identify the pathogen's behaviour and develop an effective therapeutic response. The success burnished Duval's reputation as a humanitarian patron while proving that rapid interstellar cooperation could overcome even novel biological threats.

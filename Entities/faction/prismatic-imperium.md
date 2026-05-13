@@ -2,41 +2,23 @@
 id: prismatic-imperium
 name: Prismatic Imperium
 type: faction
-first_seen_date: '3302-02-18'
-last_seen_date: '3302-11-05'
+first_seen_date: '3301-03-20'
+last_seen_date: '3301-03-20'
 mention_count: 4
+
 related_entities:
 - uibuth-system
 - navigators-guild
 - darrest-station
 - prism
 - achenar
-bio: Prismatic Imperium is a organization in the Elite Dangerous universe, active
-  from 3302-02-18 to 3302-11-05. Frequently linked with Uibuth system, Navigators
-  Guild, D'Arrest Station. The Prismatic Imperium announces the successful conclusion
-  of Princess Aisling Duval's initiative to free indentured slaves.
+bio: The Prismatic Imperium is a faction associated with Princess Aisling Duval and her
+  political movement. It promotes social reform within the Empire, including opposition
+  to Imperial slavery and support for progressive policies.
 ---
 
 
 
-<!-- AUTO-GENERATED -->
-
 # Prismatic Imperium
 
-First mentioned: **3302-02-18**  
-Last mentioned: **3302-11-05**  
-Total mentions: **4**
-
-## Related
-
-- [[Uibuth system]] (3 co-mentions)
-- [[Navigators Guild]] (2 co-mentions)
-- [[D'Arrest Station]] (2 co-mentions)
-- [[Prism]] (2 co-mentions)
-- [[Achenar]] (1 co-mentions)
-
-## Biography
-
-The Prismatic Imperium is an organisation devoted to advancing Princess Aisling Duval's anti-slavery agenda within the Empire. Based in the Prism system, the group coordinates initiatives to free indentured servants and campaigns against Imperial slavery practices.
-
-In 3302, the Prismatic Imperium successfully concluded one of Aisling's most significant anti-slavery initiatives, freeing numerous indentured workers across Imperial systems. The organisation serves as both a political advocacy group and a practical operational force, mobilising pilots and resources to support Aisling's humanitarian goals. Its existence reflects the tension within Imperial society between traditional practices and reformist movements led by progressive members of the Imperial family.
+The Prismatic Imperium is a political faction closely associated with Princess Aisling Duval and her reformist agenda within the Empire. The organisation promotes progressive policies including opposition to Imperial slavery, increased social welfare, and greater transparency in Imperial governance. Drawing support from younger nobles and commoners alike, the Prismatic Imperium represents a counterweight to the Empire's more conservative elements. Its association with Aisling Duval—one of the most popular figures in the Imperial hierarchy—has given it significant influence despite resistance from traditionalist senators.

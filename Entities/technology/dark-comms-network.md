@@ -5,10 +5,11 @@ type: technology
 first_seen_date: '3307-04-23'
 last_seen_date: '3307-07-26'
 mention_count: 4
-bio: Dark-comms network is a technology in the Elite Dangerous universe, mentioned
-  from 3307-04-23 to 3307-07-26. Developed or used by NMLA, Zachary Hudson, Felicia
-  Winters. Senior Agent Tanya Ramirez reports no significant breakthroughs due to
-  the NMLA's dark-comms network and compartmentalised cells.
+bio: The dark-comms network is an encrypted communications system used by the Neo-Marlinist
+  Liberation Army to coordinate terrorist operations across the galaxy. In 3307 it
+  was identified by ACT investigators as bearing striking similarities to the Omega
+  Grid employed by Imperial Intelligence, raising disturbing questions about how the
+  NMLA obtained such sophisticated technology.
 ---
 
 

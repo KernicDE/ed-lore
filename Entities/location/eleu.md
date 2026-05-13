@@ -24,12 +24,8 @@ economy: Agriculture
 second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system/id/17394/name/Eleu
 inara_url: https://inara.cz/elite/starsystem/?search=Eleu
-bio: Eleu is a star system in the Elite Dangerous universe, significant from 3301-07-14
-  to 3301-08-06. Associated with Newton Dock Medical. Chief Medical Officer Carl Simmons
-  confirmed isolated Cerberus Plague incidents in Dajoar, Eleu, and 20 Ophiuchi, believed
-  to be travellers from BD-02 4304 before restrictions were imposed. Dajoar, Eleu,
-  and 20 Ophiuchi declared states of emergency due to the Cerberus Plague and called
-  on bounty hunters and combat pilots to protect relief efforts.
+bio: 'A populous independent agricultural system, Eleu was among the first systems
+  outside the initial outbreak zone to report Cerberus Plague infections in mid-3301.'
 ---
 
 
@@ -52,4 +48,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Eleu is an independent cooperative system with over two billion inhabitants, governed by the Social Eleu Progressive Party and protected by high security forces. In July 3301, it became one of three systems to confirm isolated Cerberus Plague incidents after the disease escaped containment at Newton Dock in BD-02 4304.
+
+Chief Medical Officer Carl Simmons attributed the infections to travellers who had left the quarantine zone before restrictions were imposed. Eleu, alongside Dajoar and 20 Ophiuchi, declared a state of emergency and appealed to independent pilots for assistance in preventing a full-blown outbreak. The system's rapid response highlighted both the vulnerability of interstellar travel to disease vectors and the critical role independent commanders played in humanitarian crises.

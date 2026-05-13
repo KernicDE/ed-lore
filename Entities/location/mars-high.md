@@ -11,11 +11,9 @@ related_entities:
 - earth
 - federation
 - children-of-raxxla
-bio: Mars High is a star system in the Elite Dangerous universe, significant from
-  3301-03-06 to 3302-12-23. Senator Kahina Tijani Loren's Imperial Courier was denied
-  docking clearance at Mars High. Senator Kahina Tijani Loren's Imperial Courier was
-  fined at Mars High for activating boosters within the station, causing a deafening
-  roar and cracking the docking administration office windows.
+bio: 'A major orbital station in the Mars system, Mars High is one of the Federation''s
+  most prominent starports and the site of a memorable diplomatic incident involving
+  Senator Kahina Tijani Loren.'
 ---
 
 <!-- AUTO-GENERATED -->
@@ -36,4 +34,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Mars High is a prominent orbital station in the Mars system, serving as a major hub within the Federation's core territories. In March 3301, the station became the scene of a minor diplomatic incident when Senator Kahina Tijani Loren of Prism was denied docking clearance for her Imperial Courier. Rather than accept the delay, Loren positioned her ship directly in the station's docking entrance and refused to move until granted a landing pad, later remarking that she did not like to be late.
+
+The incident highlighted the tensions between Imperial and Federal administrative protocols, with unofficial trader reports suggesting that Mars High personnel had deliberately routed the Senator's ship to the back of the queue. The station's role in this episode cemented its place in the lore surrounding Loren's controversial tour of Federation space.

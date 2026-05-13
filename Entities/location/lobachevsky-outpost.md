@@ -11,10 +11,8 @@ related_entities:
 - harma
 - pic-tok
 - rhea
-bio: 'Lobachevsky Outpost is a outpost in Elite Dangerous, significant from 3302-01-04
-  to 3302-05-20. Notable events include: The technological plague continues to affect
-  starports across inhabited space.; Several starports previously closed due to Unknown
-  Artefact-related interference have been restored through the application of meta-alloys.'
+bio: 'An outpost in the Pic Tok system that was among the starports affected by
+  the technological plague of early 3302.'
 ---
 
 <!-- AUTO-GENERATED -->
@@ -35,4 +33,6 @@ Total mentions: **5**
 
 ## Biography
 
-*[To be enriched]*
+Lobachevsky Outpost is an orbital station in the Pic Tok system that was forced to suspend all services except docking and shipyard access in early 3302, becoming one of the first casualties of what became known as the technological plague. The station's mysterious malfunctions were part of a widespread crisis affecting facilities across inhabited space, later linked to the destabilising effects of Unknown Artefacts.
+
+The outpost was among several stations restored to full operation after the application of meta-alloys, the mysterious material harvested from barnacle sites in the Pleiades sector. Its experience exemplified the vulnerability of orbital infrastructure to alien technological interference during the first wave of Thargoid-related phenomena.

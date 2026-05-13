@@ -11,10 +11,9 @@ related_entities:
 - alliance
 - nmla
 - capitol
-bio: Dawes Hub is a star system in the Elite Dangerous universe, significant from
-  3301-10-15 to 3307-03-29. Associated with Imperial Navy. Emperor Arissa Lavigny-Duval
-  expressed gratitude to the hundreds of pilots who delivered slaves as coronation
-  gifts to Dawes Hub in Achenar.
+bio: 'An orbital station in the Empire''s capital system of Achenar, Dawes Hub became
+  the unlikely destination for coronation gifts when Arissa Lavigny-Duval ascended
+  to the throne in 3301.'
 ---
 
 <!-- AUTO-GENERATED -->
@@ -35,4 +34,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Dawes Hub is an orbital station in the Achenar system, the political heart of the Empire and home to the Imperial Palace on Capitol. In October 3301, it became the collection point for an extraordinary coronation tradition when Emperor-elect Arissa Lavigny-Duval invited galactic citizens to deliver slaves as gifts to mark her ascension — the first time such an invitation had been extended beyond Imperial borders.
+
+The future Emperor argued that non-Imperial slaves delivered to Dawes Hub would be reclassified as Imperial slaves, thereby improving their conditions. Participants were offered discounts on Imperial ships and temporary access to vessels normally restricted by Navy rank requirements, along with a rare lifting of Achenar's normally strict permit restrictions. The event cemented Dawes Hub's place in Imperial ceremonial history while sparking controversy among anti-slavery groups across the galaxy.

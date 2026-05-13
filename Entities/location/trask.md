@@ -11,10 +11,9 @@ related_entities:
 - capitol
 - imperial-palace
 - alliance
-bio: Trask is a star system in the Elite Dangerous universe, significant from 3308-02-16
-  to 3309-04-25. Associated with Kumo Crew. Details emerge about Vidar Trask's failed
-  coup against Archon Delaine, masterminded with Kay Volantyne of the Blue Viper Club
-  dredger clan.
+bio: 'Vidar Trask was a senior Kumo Council member and arch-corsair who led a failed
+  coup against Archon Delaine in 3308, masterminded alongside Kay Volantyne of the
+  Blue Viper Club dredger clan.'
 ---
 
 <!-- AUTO-GENERATED -->
@@ -35,4 +34,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Vidar Trask was a senior member of the Kumo Council and long-time advisor to Archon Delaine who, in May 3308, launched a coordinated coup attempt against the pirate lord he had served for years. Frustrated by what he viewed as Delaine's stagnant leadership, Trask secretly gathered loyalists and purchased the support of independent pirate gangs and mercenaries, funding his rebellion through successful gambling at the exclusive Jokers' Deck circle.
+
+The coup nearly succeeded, with Trask's forces almost overwhelming the Kumo Crew before Delaine rallied his supporters. Investigations later revealed that Trask had masterminded the plot alongside Arch-Corsair Kay Volantyne, who supplied over a thousand fighters from her native Blue Viper Club Dredger clan. After the rebellion was crushed, the remaining Trask Death Corsairs were hunted down by Delaine's forces.

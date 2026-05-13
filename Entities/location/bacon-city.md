@@ -9,12 +9,9 @@ related_entities:
 - carnoeck
 - united-carnoeck-for-equality
 - bacon-cats
-bio: 'Bacon City is a system in Elite Dangerous, significant from 3301-10-02 to 3304-05-25.
-  Associated with United Carnoeck for Equality, Bacon Cats. Notable events include:
-  The Bacon Cats cooperative announced plans for a major celebration commemorating
-  the anniversary of the ''Bacon Protests'' in the Carnoeck system.; The inaugural
-  Bacon Protests anniversary celebration at Bacon City in Carnoeck attracted revellers
-  and pirates alike.'
+bio: 'A starport in the Carnoeck system, Bacon City is best known as the venue for
+  the annual Bacon Protests anniversary celebrations, a peculiar tradition blending political
+  satire with community festivity.'
 ---
 
 <!-- AUTO-GENERATED -->
@@ -33,4 +30,6 @@ Total mentions: **5**
 
 ## Biography
 
-*[To be enriched]*
+The Bacon Cats cooperative established an unusual tradition when they began commemorating the "Bacon Protests" with an annual celebration at Bacon City. What began as a local political demonstration evolved into a system-wide festival that drew revellers from across the sector, including — somewhat inevitably — pirate crews looking for easy prey among the crowds.
+
+By October 3304, the event had become a fixture of Carnoeck's cultural calendar. The United Carnoeck for Equality faction used the platform to push progressive messaging, while independent traders capitalised on the influx of visitors. Bacon City's ability to host such gatherings highlighted how even minor starports could become centres of community identity in a galaxy where most stations served purely functional roles.

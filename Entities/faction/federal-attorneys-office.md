@@ -11,11 +11,11 @@ related_entities:
 - azimuth-biotech
 - t-tauri
 - hind-mine
-bio: Federal Attorney's Office is a organization in the Elite Dangerous universe,
-  active from 3306-09-12 to 3308-09-16. Frequently linked with Federal Navy. The Federal
-  Attorney's Office concludes that Starship One was destroyed by deliberate sabotage
-  in 3301. Chief Technician Rory Webster of the Federal Navy Engineering Corps is
-  arrested for sabotaging Starship One.
+bio: The Federal Attorney's Office is the Federation's principal prosecutorial authority,
+  responsible for investigating criminal conduct by federal officials and military personnel.
+  Led by Senior Attorney Milandu Okoro in the mid-3300s, the office played a central role
+  in uncovering the sabotage of Starship One in 3301 and later advocated for the review
+  of Admiral Aden Tanner's conviction.
 ---
 
 
@@ -38,4 +38,6 @@ Total mentions: **3**
 
 ## Biography
 
-*[To be enriched]*
+The Federal Attorney's Office conducted an independent inquiry into the destruction of Starship One in 3306, concluding that the presidential vessel was destroyed by deliberate sabotage rather than mechanical failure. Senior Attorney Milandu Okoro announced that a grand jury had recommended criminal charges, leading to the arrest of Chief Technician Rory Webster for ordering unauthorised hyperdrive modifications. The office's investigation formed the evidentiary foundation for the Federal High Court trial that would eventually expose a conspiracy reaching the highest levels of the Federal Navy.
+
+Beyond the Starship One case, the Federal Attorney's Office has pursued justice in matters of military misconduct, including calling for the review of Admiral Aden Tanner's conviction in 3308. Senior Attorney Fiona Logan argued that Tanner's allegations about Salvation deliberately attracting Thargoids were substantiated by Ram Tah's analysis of the Proteus Wave. While the Federal Navy Criminal Court upheld Tanner's dishonourable discharge, the office's intervention ensured the tribunal acknowledged the ethical context of his actions, commuting his sentence to time served.

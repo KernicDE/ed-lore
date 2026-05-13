@@ -11,11 +11,10 @@ related_entities:
 - aegis
 - iiss
 - utopia
-bio: Moritasgus Imperial Corporation is a corporate in the Elite Dangerous universe,
-  active from 3304-05-11 to 3304-05-20. Frequently linked with Veroklist, Vaucouleurs
-  Vision, Aegis. The Moritasgus Imperial Corporation successfully completed a commodities
-  appeal in Veroklist. The ship will house criminals who accepted Imperial slavery
-  but proved too dangerous for corrective punishment.
+bio: Moritasgus Imperial Corporation is an Imperial corporate entity that oversees security
+  and correctional infrastructure contracts. In May 3304 it was awarded the contract
+  to construct a new Riker-Class Prison Ship in the Veroklist system, placing commodity
+  orders for Imperial slaves and non-lethal weapons to staff the facility.
 ---
 
 
@@ -38,4 +37,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Moritasgus Imperial Corporation is an Imperial contractor specialising in correctional and security infrastructure, frequently working with the Empire to expand its penal facilities. In May 3304, the corporation was commissioned to build a new Riker-Class Prison Ship in the Veroklist system, a vessel designed to house criminals who had accepted Imperial slavery but were deemed too dangerous or unstable for standard corrective punishment.
+
+The organisation launched a successful commodities appeal for Imperial slaves and non-lethal weapons to be delivered to Vaucouleurs Vision, with hundreds of pilots contributing materials and protecting traders. Upon completion, spokesperson Superintendent Arnold Cochran announced that the expanded facilities could now safely contain some of the worst criminals in the Empire.

@@ -24,11 +24,8 @@ economy: Extraction
 second_economy: Agriculture
 edsm_url: https://www.edsm.net/en/system/id/25809/name/Taygeta
 inara_url: https://inara.cz/elite/starsystem/?search=Taygeta
-bio: Taygeta is a star system in the Elite Dangerous universe, significant from 3303-12-02
-  to 3303-12-21. Associated with Aegis. The affected stations are Titan's Daughter
-  in Taygeta, Liman Legacy in HIP 16753, and the Oracle in Pleiades Sector IR-W d1-55.
-  Following the Thargoid attacks on three starports in the Pleiades, authorities in
-  the Taygeta system have urged the public not to panic.
+bio: 'An independent extraction system in the Pleiades Nebula, Taygeta was the site
+  of one of the first Thargoid Medusa-class Interceptor attacks on a civilian starport.'
 ---
 
 
@@ -51,4 +48,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Taygeta is an independent cooperative system in the Pleiades Nebula with an economy based on extraction and agriculture. In December 3303, the system became a focal point of the Thargoid conflict when Titan's Daughter, its primary orbital station, was attacked by a previously unseen class of Thargoid craft classified as an Interceptor Medusa.
+
+The assault marked a terrifying escalation in Thargoid aggression, with the alien vessel using shutdown fields to neutralise station defences before targeting the main reactor. The attack caused significant damage and hundreds of casualties, prompting system authorities to urge calm while requesting emergency supplies and civilian evacuation support from independent pilots.

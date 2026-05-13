@@ -11,8 +11,11 @@ related_entities:
 - hermitage
 - core-systems
 - aegis
-bio: Intergalactic Naval Reserve Arm is a naval in the Elite Dangerous universe, active
-  from 3302-08-12 to 3308-05-30. Frequently linked with Imperial Navy, Veliaze. An
+bio: The Intergalactic Naval Reserve Arm (INRA) was a joint Federal-Imperial initiative
+  established in the 3100s to address Thargoid incursions into human space. It developed
+  chemical weapons including the mycoid fungus designed to target Thargoid technology,
+  and tested them on living Thargoid specimens. The organisation was disbanded and its
+  activities covered up for centuries.
   abandoned planetary outpost controlled by the Intergalactic Naval Reserve Arm (INRA)
   has been discovered in the Hermitage system.
 ---

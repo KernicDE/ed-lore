@@ -10,10 +10,9 @@ related_entities:
 - california-sector-bv-y-c7
 - california-nebula
 - turner-research-group
-bio: Darwin Research Facility is a star system in the Elite Dangerous universe, significant
-  from 3303-05-05 to 3304-01-05. Associated with Alliance, Turner Research Group.
-  The Alliance announced plans to construct a new outpost in the California Nebula,
-  supported by the Turner Research Group, with an open order for construction materials.
+bio: 'A research outpost in the California Nebula, Darwin Research Facility served
+  as the Alliance''s foothold for scientific exploration in one of the galaxy''s most
+  fascinating regions.'
 ---
 
 <!-- AUTO-GENERATED -->
@@ -33,4 +32,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Darwin Research Facility is located in the California Sector BV-Y c7 system, deep within the California Nebula. In May 3303, the Alliance selected it as the base of operations for a campaign to expand its presence in the nebula, arguing that while the Federation and Empire were "mired in hostility," the Alliance would pursue a more exploratory agenda.
+
+The Turner Research Group supported the initiative, which called for deliveries of geological equipment, micro-weave cooling hoses, building fabricators and energy grid assemblies to construct new outposts. Darwin Research Facility thus became a symbol of the Alliance's scientific ambitions, establishing a permanent research presence in a region rich with barnacle sites and Thargoid-related phenomena.

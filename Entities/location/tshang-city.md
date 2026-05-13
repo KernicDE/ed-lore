@@ -11,10 +11,11 @@ related_entities:
 - 160-soar
 - california-nebula
 - california-sector-ba-a-e6
-bio: Tshang City is a star system in the Elite Dangerous universe, significant from
-  3302-10-13 to 3303-01-05. Associated with Alliance, 160 SOAR. 160 SOAR is coordinating
-  an appeal for geological equipment, hazardous-environment suits, and pesticides
-  to be delivered to Tshang City in the Furuhjelm III-674 system.
+bio: Tshang City is a starport in the Furuhjelm III-674 system that served as the
+  logistics hub for Alliance efforts to establish a scientific outpost in the California
+  Nebula. In late 3302 the port received construction materials delivered by independent
+  pilots supporting 160 SOAR's campaign to build a research station on California
+  Sector BA-A E6 4.
 ---
 
 <!-- AUTO-GENERATED -->
@@ -35,4 +36,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Tshang City is a starport located in the Furuhjelm III-674 system that became a critical logistics node during the Alliance's push into the California Nebula in late 3302. The port served as the collection point for a 160 SOAR-coordinated appeal for geological equipment, hazardous-environment suits and pesticides, all destined for the construction of a new scientific outpost on California Sector BA-A E6 4.
+
+Hundreds of independent pilots responded to the appeal, delivering materials to Tshang City in sufficient quantities to meet the campaign targets. The successful initiative allowed the Alliance to establish a permanent research presence in the nebula to study barnacles and meta-alloys, though some critics argued the outpost represented an attempt to claim ownership of the organic structures.

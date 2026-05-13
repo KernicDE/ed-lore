@@ -24,11 +24,8 @@ economy: High Tech
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system/id/3724/name/Tabaldak
 inara_url: https://inara.cz/elite/starsystem/?search=Tabaldak
-bio: 'Tabaldak is a star system in the Elite Dangerous universe, significant from
-  3301-10-08 to 3301-10-28. Associated with Emperor''s Dawn, Imperial Navy. Senator
-  Denton Patreus dispatched military fleets to Emperor''s Dawn bases in Namarii, Tabaldak,
-  and LTT 874. The Imperial Internal Security Service identified five additional systems
-  containing Emperor''s Dawn bases: Namarii, Tabaldak, LTT 874, Shambhala, and Svari.'
+bio: 'An independent high-tech system that became a battleground during the Empire''s
+  campaign against the Emperor''s Dawn insurgency in 3301.'
 ---
 
 
@@ -51,4 +48,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Tabaldak is an independent high-tech system that became one of five identified locations containing bases belonging to the insurgent organisation Emperor's Dawn during the Imperial succession crisis of 3301. The Imperial Internal Security Service pinpointed the system through analysis of exploration data submitted by independent pilots, leading Senator Denton Patreus to dispatch military fleets against the insurgent outposts.
+
+The campaign in Tabaldak, alongside simultaneous operations in Namarii, LTT 874, Shambhala, and Svari, represented a major offensive to eradicate the terrorist organisation responsible for Emperor Hengist Duval's assassination. Patreus publicly vowed that the Empire would crush the insurgents, declaring that they could not withstand the full might of Imperial military forces.

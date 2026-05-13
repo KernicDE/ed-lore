@@ -3,27 +3,15 @@ id: zacariah-nemo
 name: Zacariah Nemo
 type: person
 first_seen_date: '3308-12-06'
-last_seen_date: '3309-01-26'
+last_seen_date: '3308-12-29'
 mention_count: 4
-bio: Zacariah Nemo is a pilot in the Elite Dangerous universe, active from 3308-12-06
-  to 3309-01-26. Closely associated with Engineers, Aegis, Imperial Herald.
+bio: Zacariah Nemo is an engineer who specialises in kinetic weapon modifications. In
+  December 3308, he collaborated with Liz Ryder to reveal designs for enhanced anti-xeno
+  weaponry, improving the efficiency of AX ammunition delivery systems.
 ---
 
 
 
-<!-- AUTO-GENERATED -->
-
 # Zacariah Nemo
 
-First mentioned: **3308-12-06**  
-Last mentioned: **3309-01-26**  
-Total mentions: **4**
-
-## Related
-
-
-## Biography
-
-An engineer with a passion for kinetic weapons and an unconventional working style, Zacariah Nemo emerged from relative obscurity in late 3308 to address one of the Thargoid war's most pressing needs: better anti-xeno firepower. Collaborating with fellow engineer Liz Ryder — who described him as "a weird guy but fascinating to work with" — Nemo spent years refining the original Aegis AX weapon designs in his spare time, treating the project as a hobby until the Taranis signal and subsequent Thargoid invasion made public release urgent.
-
-By January 3309, the collaboration had produced enhanced variants of AX multi-cannons and missile racks in fixed, turreted, and gimballed configurations. These weapons, distributed through rescue megaships across the core systems, offered independent pilots improved efficiency in delivering the hazardous compounds that damage Thargoid vessels. Nemo's contribution proved particularly valuable in Maelstrom systems, where Guardian-based technology had proven ineffective and conventional firepower became essential to survival.
+Zacariah Nemo is an engineer specialising in kinetic weapon modifications, known for his eccentric personality and technical brilliance. In December 3308, he collaborated with fellow engineer Liz Ryder to reveal enhanced anti-xeno weapon designs they had been developing as a private project. The collaboration focused on improving the efficiency of delivering the compound that tips AX ammunition—a substance hazardous to Thargoid vessels. Nemo and Ryder had worked on the designs for over a year, treating it as a passion project to "unwind after a long week's work." The invasion of human space by Thargoid forces made the need for these upgrades urgent, prompting the engineers to seek help from independent pilots to finish prototypes and establish manufacturing.

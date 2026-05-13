@@ -5,12 +5,10 @@ type: person
 first_seen_date: '3307-03-29'
 last_seen_date: '3307-07-15'
 mention_count: 8
-bio: 'Lorcan Scordato is a Senator in Elite Dangerous lore, active from 3307-03-29
-  to 3307-07-15. Affiliated with NMLA, Marlinist Colonies, Imperial Senate. Notable
-  activities include: The fear of Further starport bombings has placed internal and
-  external pressure on the Empire to address the threat posed by the NMLA.; Senator
-  Lorcan Scordato negotiates a conditional amnesty for the Neo-Marlinist Order of
-  Mudhrid.'
+bio: Lorcan Scordato is an Imperial Senator who served as a key diplomat during the
+  Neo-Marlinist crisis of 3307. He negotiated a conditional amnesty for the Neo-Marlinist
+  Order of Mudhrid, securing intelligence that advanced the Affiliated Counter-Terrorism
+  unit's investigation into the NMLA.
 ---
 
 

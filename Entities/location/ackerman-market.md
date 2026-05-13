@@ -11,11 +11,9 @@ related_entities:
 - halbangaay
 - 64-arietis
 - arawere
-bio: 'Ackerman Market is a system in Elite Dangerous, significant from 3302-01-20
-  to 3302-05-20. Notable events include: The technological plague continues to affect
-  starports across inhabited space.; An Alliance of Commanders including Kermit Laphroaig,
-  ThatDamnRanga, Ollobrains, and Zenith Ddraiglas forms to saturate Ackerman Market
-  in Eravate ...'
+bio: 'A starport in the Eravate system, Ackerman Market was among the first stations
+  crippled by the technological plague in early 3302, later becoming a symbol of player-driven
+  cooperative restoration.'
 ---
 
 <!-- AUTO-GENERATED -->
@@ -36,4 +34,6 @@ Total mentions: **5**
 
 ## Biography
 
-*[To be enriched]*
+Before the technological plague reached it in January 3302, Ackerman Market had been a popular rest stop for newly licensed commanders beginning their careers in the Eravate system. The station's sudden shutdown — all services suspended except docking and shipyard access — offered an early warning of how unknown artefacts could disrupt critical infrastructure across dozens of systems.
+
+Hope arrived in March when an self-styled "Alliance of Commanders" led by Kermit Laphroaig, ThatDamnRanga, Ollobrains and Zenith Ddraiglas launched a cooperative effort to saturate the market with meta-alloys. Their joint statement emphasised putting aside differences to restore the station, drawing pilots of all allegiances into a collaborative hauling operation. Ackerman Market's recovery became one of the first documented cases of independent pilots using meta-alloys to reverse alien-induced technological decay.

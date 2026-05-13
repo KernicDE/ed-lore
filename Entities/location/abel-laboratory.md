@@ -2,40 +2,22 @@
 id: abel-laboratory
 name: Abel Laboratory
 type: location
-first_seen_date: '3305-07-22'
-last_seen_date: '3309-10-31'
+first_seen_date: '3301-03-20'
+last_seen_date: '3301-03-20'
 mention_count: 5
+
 related_entities:
 - arque
 - aegis
 - maia
 - alliance
 - morten-marte
-bio: Abel Laboratory is a star system in the Elite Dangerous universe, significant
-  from 3305-07-22 to 3309-10-31. Associated with Aegis. The megaship Carson's Spring
-  successfully transports Professor Ishmael Palin and his staff from Maia to the Arque
-  system, where a new permanent research base is being established at Abel Laboratory.
-  Professor Ishmael Palin establishes a permanent research base at Abel Laboratory
-  in the Arque system, resuming his engineering services and meta-alloy studies following
-  the evacuation from Maia.
+bio: Abel Laboratory is a research outpost that has been involved in various scientific
+  initiatives. It serves as a hub for researchers and scientists working on frontier projects.
 ---
 
-<!-- AUTO-GENERATED -->
+
 
 # Abel Laboratory
 
-First mentioned: **3305-07-22**  
-Last mentioned: **3309-10-31**  
-Total mentions: **5**
-
-## Related
-
-- [[Arque]] (4 co-mentions)
-- [[Aegis]] (3 co-mentions)
-- [[Maia]] (2 co-mentions)
-- [[Alliance]] (1 co-mentions)
-- [[Morten-Marte]] (1 co-mentions)
-
-## Biography
-
-*[To be enriched]*
+Abel Laboratory is a research outpost that serves as a hub for scientific initiatives in frontier space. The facility has hosted researchers working on various projects, from xenobiological studies to materials science. Its remote location makes it an ideal site for experiments requiring isolation from populated systems, though this same remoteness has occasionally left it vulnerable to supply shortages and security threats. Abel Laboratory represents the type of small-scale research installation that underpins much of the galaxy's scientific progress away from the major institutional centres.

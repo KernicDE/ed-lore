@@ -24,11 +24,8 @@ economy: Industrial
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system/id/6218/name/Loha
 inara_url: https://inara.cz/elite/starsystem/?search=Loha
-bio: Loha is a star system in the Elite Dangerous universe, significant from 3304-11-22
-  to 3304-12-01. Associated with New Loha Party, Loha Holdings, Sirius Corporation.
-  The conflict between Loha Holdings and the New Loha Party in the Loha system ends.
-  A long-standing rivalry between Loha Holdings and the New Loha Party in the Loha
-  system erupts into full-scale conflict.
+bio: 'A Federal industrial system where a long-standing corporate rivalry exploded
+  into open warfare in late 3304.'
 ---
 
 
@@ -51,4 +48,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Loha is a Federal corporate system with a population of nearly twenty-four million and an industrial economy, controlled by the Federal Liberal Command faction. In November 3304, a bitter rivalry between Loha Holdings and the New Loha Party detonated into full-scale conflict after years of simmering tension.
+
+Loha Holdings accused its rivals of hijacking transport ships and murdering their crews, allegations the New Loha Party dismissed as a false flag operation designed to discredit them. With neither side commanding sufficient forces to prevail alone, both factions appealed to independent combat pilots, offering substantial rewards for support in a week-long struggle for control of the system.

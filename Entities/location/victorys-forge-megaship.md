@@ -11,10 +11,11 @@ related_entities:
 - tsao-tach
 - silver-legal-group
 - vox-galactica
-bio: Victory's Forge megaship is a star system in the Elite Dangerous universe, significant
-  from 3307-06-02 to 3307-06-21. Associated with Jupiter Division, Core Dynamics.
-  The faction has retaken control of multiple systems and its megaship Victory's Forge
-  repelled Federal troops.
+bio: Victory's Forge is a megaship commanded by Jupiter Division, the breakaway corporatist
+  faction founded by former Core Dynamics CEO Jupiter Rochester. In mid-3307 the vessel
+  served as the faction's mobile headquarters, repelling Federal troops and surviving
+  as a symbol of the corporatist movement until Jupiter Division's defeat in the Ts'ao
+  Tach system.
 ---
 
 <!-- AUTO-GENERATED -->
@@ -35,4 +36,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Victory's Forge is a megaship that served as the mobile command centre for Jupiter Division, the rogue corporate faction created by imprisoned ex-CEO Jupiter Rochester to advance his vision of replacing Federal democracy with corporatocracy. In June 3307, the vessel became a rallying point for the movement after it successfully repelled Federal troops and remained under Jupiter Division's control despite the faction's earlier military defeats.
+
+The megaship's survival proved short-lived; after Core Dynamics and its ally the Silver Legal Group launched a decisive assault against Jupiter Division in the Ts'ao Tach system, the breakaway faction was defeated and subsumed by Core Enterprises. Victory's Forge was stripped of its strategic importance, and the corporatist movement that had gathered around it suffered a severe blow from which it would not recover.

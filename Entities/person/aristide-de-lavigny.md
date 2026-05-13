@@ -5,12 +5,9 @@ type: person
 first_seen_date: '3301-06-20'
 last_seen_date: '3309-07-03'
 mention_count: 4
-bio: Aristide de Lavigny is a emperor in the Elite Dangerous universe, active from
-  3301-06-20 to 3309-07-03. Closely associated with Imperial Senate. Blaine praised
-  Princess Arissa Lavigny-Duval for her assistance in tracking down conspirators,
-  noting her father Aristide would be proud. Lady Florence Lavigny suffers a sudden
-  illness, prompting Emperor Arissa to cancel all appointments; family members including
-  Hadrian send well-wishes in an apparent reconciliation gesture.
+bio: 'The deceased father of Emperor Arissa Lavigny-Duval and former head of the
+  Lavigny family, Aristide de Lavigny is remembered primarily through his descendants''
+  actions and the political legacy they continue to shape.'
 ---
 
 
@@ -28,4 +25,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Little is recorded of Aristide de Lavigny's personal history, yet his shadow looms large over Imperial politics through his daughter Arissa, who ascended to the throne as Arissa Lavigny-Duval. Chancellor Blaine once praised the Emperor for her assistance in tracking down conspirators, adding that her father would have been proud — a rare public invocation of a man whose memory remains politically potent within the Imperial hierarchy.
+
+Aristide's family continued to make headlines long after his death. In 3309, when Lady Florence Lavigny suffered a sudden illness that prompted Arissa to cancel all appointments, family members including Hadrian Duval sent well-wishes in what observers interpreted as a tentative reconciliation gesture. These moments revealed how the Lavigny lineage, rooted in Aristide's generation, remained central to the Empire's dynastic narrative even as new crises reshaped the galaxy.

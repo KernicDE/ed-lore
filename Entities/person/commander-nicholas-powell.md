@@ -5,10 +5,8 @@ type: person
 first_seen_date: '3302-06-07'
 last_seen_date: '3302-07-15'
 mention_count: 4
-bio: Commander Nicholas Powell is a commander in the Elite Dangerous universe, active
-  from 3302-06-07 to 3302-07-15. Closely associated with Canonn Interstellar Research
-  Group. The Canonn Interstellar Research Group has published 'Barnacle Search Criteria'
-  advising commanders on planetary conditions likely to host barnacles.
+bio: 'A commander with the Canonn Interstellar Research Group who helped pioneer systematic
+  methods for locating barnacle sites across the galaxy.'
 ---
 
 
@@ -26,4 +24,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Commander Nicholas Powell was among the early members of the Canonn Interstellar Research Group who transformed barnacle hunting from chance discovery into systematic science. In mid-3302, he contributed to the publication of "Barnacle Search Criteria," a document that advised pilots on the planetary conditions most likely to host the mysterious alien growths.
+
+His work came at a critical moment. While Commander Wobblytickle's discovery of barnacles in the California Nebula was being celebrated, Powell and his colleagues were already noting with concern the loss of several Pleiades barnacles through destruction or over-harvesting. The search criteria he helped develop enabled more efficient location of new sites, directly supporting the expanding research into meta-alloys and their role in countering the technological plague.

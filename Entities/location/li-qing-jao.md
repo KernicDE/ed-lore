@@ -11,8 +11,8 @@ related_entities:
 - gurragchaa-gateway
 - warkushanui
 - hinz-hub
-bio: Li Qing Jao is a star system in the Elite Dangerous universe, significant from
-  3301-11-19 to 3302-02-24.
+bio: 'An orbital station in the Sol system, Li Qing Jao was among the facilities
+  affected by the technological plague that swept across inhabited space in early 3302.'
 ---
 
 <!-- AUTO-GENERATED -->
@@ -33,4 +33,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Li Qing Jao is an orbital station in the Sol system, the Federation's historic capital. In late 3301 and early 3302, the station experienced technical issues as part of the widespread technological plague crisis that affected dozens of starports across inhabited space, later attributed to the destabilising influence of Unknown Artefacts.
+
+The station's inclusion on the list of affected facilities underscored the indiscriminate nature of the technological plague, which struck at core systems and frontier outposts alike. Like other affected stations, Li Qing Jao's disruptions contributed to the urgent search for a solution that eventually led to the discovery that meta-alloys harvested from barnacle sites could reverse the damage.

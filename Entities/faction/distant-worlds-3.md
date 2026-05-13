@@ -9,12 +9,9 @@ related_entities:
 - deep-space-surveys
 - beagle-point
 - ram-tah
-bio: 'Distant Worlds 3 is a organization active in Elite Dangerous lore from 3312-02-13
-  to 3312-04-26. Frequently associated with Deep Space Surveys, Beagle Point. Key
-  activities include: Distant Worlds 3 reports major milestones including Colonia
-  regrouping, hazardous surface landing near white dwarf Spoihaae XE-X d2-9, Seldowitch
-  N...; Distant Worlds 3 departs Beagle Point for next phase into the Abyss, Acheron
-  and Veils.'
+bio: 'A massive deep-space expedition launched in 3312, Distant Worlds 3 coordinated
+  thousands of independent pilots in a scientific survey of the galaxy's most remote
+  regions.'
 ---
 
 
@@ -35,4 +32,6 @@ Total mentions: **5**
 
 ## Biography
 
-*[To be enriched]*
+Distant Worlds 3 is a collaborative deep-space expedition organised by Deep Space Surveys that assembled a fleet of thousands of independent pilots in 3312 for an ambitious scientific survey of the galaxy's uncharted regions. The expedition successfully cleared inhabited space and established its first major staging post at Colonia, before conducting a hazardous surface insertion near the white dwarf Spoihaae XE-X d2-9 and reaching the Seldowitch Nebula.
+
+After arriving at Beagle Point, the historic terminus of the original Distant Worlds journey, the fleet continued into the Abyss, Acheron and Veils regions to conduct large-scale stellar density and spectral distribution surveys. The operation was sustained by an extensive network of fleet carriers and independent miners who replenished tritium stocks in remote systems, demonstrating the logistical capabilities of coordinated civilian exploration.

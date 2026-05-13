@@ -24,8 +24,8 @@ economy: Agriculture
 second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system/id/10592/name/Halbangaay
 inara_url: https://inara.cz/elite/starsystem/?search=Halbangaay
-bio: Halbangaay is a star system in the Elite Dangerous universe, significant from
-  3302-01-20 to 3302-05-20.
+bio: 'A populous independent agricultural system, Halbangaay was among the systems
+  hit by the technological plague when Haack Gateway was forced to close in early 3302.'
 ---
 
 
@@ -48,4 +48,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Halbangaay is an independent democratic system with nearly four billion inhabitants, governed by the G-CLAN faction and sustained by agricultural and industrial production. In January 3302, the system was drawn into the technological plague crisis when Haack Gateway, its primary orbital station, was forced to suspend all services except docking and shipyard access due to Unknown Artefact-related interference.
+
+The closure of Haack Gateway was part of a rapidly expanding crisis that would eventually affect dozens of starports across inhabited space. Halbangaay's experience illustrated how even high-security systems with substantial populations could be crippled by alien technological disruption, contributing to the growing urgency for solutions that would eventually lead to the meta-alloy breakthrough.

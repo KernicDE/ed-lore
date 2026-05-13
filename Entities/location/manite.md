@@ -24,8 +24,8 @@ economy: Industrial
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system/id/7972/name/Manite
 inara_url: https://inara.cz/elite/starsystem/?search=Manite
-bio: Manite is a star system in the Elite Dangerous universe, significant from 3302-02-24
-  to 3302-07-07.
+bio: 'An Imperial industrial system, Manite was among the systems affected by the
+  technological plague that crippled starports across inhabited space in early 3302.'
 ---
 
 
@@ -48,4 +48,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Manite is an Imperial industrial system with a medium security rating and an economy based on industrial production and extraction. In early 3302, the system was affected by the technological plague when Iren's Dock, its primary orbital station, began experiencing the mysterious malfunctions later linked to Unknown Artefact interference.
+
+While some starports were restored through the application of meta-alloys by May 3302, Iren's Dock in Manite remained among those still closed, highlighting both the patchy availability of the cure and the persistent vulnerability of orbital infrastructure to alien technological disruption during the first wave of Thargoid-related phenomena.

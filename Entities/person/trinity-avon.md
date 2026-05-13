@@ -5,9 +5,10 @@ type: person
 first_seen_date: '3302-06-02'
 last_seen_date: '3302-07-21'
 mention_count: 4
-bio: Trinity Avon is a pilot in the Elite Dangerous universe, active from 3302-06-02
-  to 3302-07-21. Closely associated with The Sovereign, Interstellar Communist Union,
-  Alliance Elite Diplomatic Corps.
+bio: Trinity Avon is a reporter for The Sovereign who covered the Dangerous Games
+  in 3302. She reported on the competition between five major factions seeking recognition
+  as official powers, including the Alliance Elite Diplomatic Corps and the Interstellar
+  Communist Union.
 ---
 
 

@@ -5,11 +5,9 @@ type: person
 first_seen_date: '3304-05-31'
 last_seen_date: '3308-10-03'
 mention_count: 4
-bio: Mia Valencourt is a scientist in the Elite Dangerous universe, active from 3304-05-31
-  to 3308-10-03. Closely associated with Aegis, Socho Gold Raiders. A courier carrying
-  a message from Aegis scientist Dr Mia Valencourt escaped and broadcast an urgent
-  plea for help, describing how the Raiders faked a Thargoid signal to ambush security
-  forces.
+bio: 'An Aegis scientist who worked at Aegis Core in the Socho system, Dr Mia
+  Valencourt became a key witness to one of the most brazen criminal takeovers of
+  a research facility.'
 ---
 
 
@@ -27,4 +25,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Dr Mia Valencourt is an Aegis scientist who was stationed at Aegis Core in the Socho system when the facility was overtaken by the Socho Gold Raiders criminal faction in May 3304. A courier carrying her urgent message managed to escape the system, and her broadcast plea was picked up by the Rewired news service and relayed across the galaxy.
+
+In her message, Valencourt revealed how the Raiders had faked a Thargoid signal to lure security forces into an ambush, allowing the criminals to seize control of the system and shut down vital anti-xeno research. Her testimony exposed both the vulnerability of critical defence infrastructure and the ruthless tactics employed by organised criminal elements during the Thargoid conflict.

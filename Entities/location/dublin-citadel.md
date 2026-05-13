@@ -11,9 +11,8 @@ related_entities:
 - gateway
 - tionisla
 - brett-high
-bio: Dublin Citadel is a star system in the Elite Dangerous universe, significant
-  from 3307-05-20 to 3307-06-25. Pilots who contributed can collect rewards from Dublin
-  Citadel.
+bio: 'An orbital station in the Gateway system, Dublin Citadel became a focal point
+  for Alliance political campaigning in 3307.'
 ---
 
 <!-- AUTO-GENERATED -->
@@ -34,4 +33,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Dublin Citadel orbits in the Gateway system, a Federal territory that in May 3307 became entangled in Alliance politics when Prime Minister Edmund Mahon selected it as the delivery point for his re-election campaign. Mahon requested ceramic composites, polymers and superconductors to demonstrate his expansion-focused agenda, competing directly with Councillor Nakato Kaine's rival initiative at Brett High in Tionisla.
+
+The community drive at Dublin Citadel was more than symbolic — its outcome was designed to shape the policies of the successful candidate. Mahon's victory, which polls had predicted, meant the station's deliveries directly contributed to a subsequent tritium mining initiative and the construction of new Alliance starports, cementing Dublin Citadel's place in the administrative history of the Alliance's expansion.

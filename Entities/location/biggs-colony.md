@@ -11,11 +11,9 @@ related_entities:
 - sol
 - mars
 - olympus-village
-bio: 'Biggs Colony is a system in Elite Dangerous, significant from 3304-05-24 to
-  3308-09-28. Notable events include: Weekly summary covering the dismantling of the
-  League of Reparation and Riri McAllister''s arrest, the Church of Eternal Void being
-  declared illegal...; Professor Alba Tesreau announces a media forum to propose reinstating
-  Aegis as a reformed tri-superpower anti-xeno research agency, citing the ACT ...'
+bio: 'A Federal system with close ties to Core Dynamics and the Sol region, Biggs
+  Colony was the site of Professor Alba Tesreau''s 3308 media forum proposing Aegis
+  reform.'
 ---
 
 <!-- AUTO-GENERATED -->
@@ -36,4 +34,6 @@ Total mentions: **5**
 
 ## Biography
 
-*[To be enriched]*
+Biggs Colony occupies a position of strategic significance near Sol, Altair and Mars, with strong industrial links to Core Dynamics. In May 3304, the system featured in GalNet's weekly summary during the dismantling of the League of Reparation and the arrest of its leader Riri McAllister, events that reverberated through Federal security circles.
+
+Four years later, Professor Alba Tesreau chose Biggs Colony to announce a media forum calling for Aegis to be reinstated as a reformed tri-superpower anti-xeno research agency. Citing the success of the Alliance-funded Affiliated Counter-Terrorism unit in combating the League of Reparation, Tesreau argued that coordinated superpower collaboration remained essential for addressing the Thargoid threat. The location underscored how systems near the Federal core increasingly served as venues for debates shaping humanity's collective response to extinction-level challenges.

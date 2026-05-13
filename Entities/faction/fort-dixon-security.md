@@ -8,12 +8,9 @@ mention_count: 5
 related_entities:
 - vega
 - vox-galactica
-bio: 'Fort Dixon Security is a organization active in Elite Dangerous lore from 3305-04-25
-  to 3305-05-31. Frequently associated with Vega, Vox Galactica. Key activities include:
-  Commander Bjorn Lennox''s Diamondback Explorer is stolen from Fort Dixon in the
-  Vega system by an unknown thief who bypassed all security protocols,...; Fort Dixon
-  Security identifies starship technician Gan Romero as the individual who stole a
-  docked Diamondback Explorer in the Vega system, though ...'
+bio: 'The security force responsible for Fort Dixon starport in the Vega system,
+  Fort Dixon Security became embroiled in one of the era's most puzzling criminal
+  investigations.'
 ---
 
 
@@ -33,4 +30,6 @@ Total mentions: **5**
 
 ## Biography
 
-*[To be enriched]*
+Fort Dixon Security is the law enforcement and station security division responsible for Fort Dixon starport in the Vega system. In April 3305, the unit launched a major investigation after Commander Bjorn Lennox's docked Diamondback Explorer was stolen from a sealed hangar bay, with the thief somehow bypassing every layer of the station's security network and authorisation checks.
+
+The investigation, led by Security Chief Misaki Sanders, identified starship technician Gan Romero as the culprit. Romero had worked at Fort Dixon for eleven years with no criminal record, a stable family life, and no apparent motive. The case deepened into one of the era's most intriguing mysteries, with speculation eventually linking Romero's inexplicable actions to telepathic contact with an unknown alien intelligence and former President Jasmina Halsey's reported visions.

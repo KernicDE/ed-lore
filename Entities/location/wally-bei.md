@@ -24,12 +24,10 @@ economy: Terraforming
 second_economy: Agriculture
 edsm_url: https://www.edsm.net/en/system/id/1216/name/Wally%20Bei
 inara_url: https://inara.cz/elite/starsystem/?search=Wally%20Bei
-bio: Wally Bei is a star system in the Elite Dangerous universe, significant from
-  3304-12-13 to 3304-12-22. Associated with Wally Bei Technical, Traditional Wally
-  Bei Constitution Party, Vitadyne Labs. Conflict erupts between Wally Bei Technical
-  and the Traditional Wally Bei Constitution Party in the Wally Bei system. Wally
-  Bei Technical accuses its rival of transporting stolen food shipments, which the
-  Constitution Party denies as slander.
+bio: Wally Bei is an independent star system with a corporate government and a population
+  of over five billion, located in the core worlds. In December 3304 it became the flashpoint
+  for a brief but intense conflict between Wally Bei Technical and the Traditional Wally
+  Bei Constitution Party over accusations of stolen food shipments.
 ---
 
 
@@ -52,4 +50,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+The Wally Bei system is a heavily populated independent system governed by corporate interests, with a terraforming economy supplemented by agriculture. In December 3304, hostilities erupted between two local factions — Wally Bei Technical and the Traditional Wally Bei Constitution Party — after the former accused the latter of transporting stolen food shipments, a claim the Constitution Party denounced as slander designed to damage its trade relationships.
+
+Both factions issued calls to independent combat pilots and fought a week-long campaign that significantly reduced their fleets. On 20 December 3304, the organisations' leaders issued a joint statement acknowledging that military leaders had overreacted, and they agreed to end hostilities for humanitarian reasons while honouring rewards owed to pilots on both sides.

@@ -11,12 +11,9 @@ related_entities:
 - autocracy-of-jotunheim
 - revolutionary-jotunheim-resistance
 - jotunheim
-bio: 'Yum Kamcabi Purple Life Industry is a organization active in Elite Dangerous
-  lore from 3303-02-02 to 3303-06-09. Frequently associated with Dirichlet Orbital,
-  Yum Kamcabi, Jotunheim. Key activities include: Former Federal President Jasmina
-  Halsey announces plans to build a rehabilitation centre for victims of the Federal-Imperial
-  conflict.; Former Federal President Jasmina Halsey''s campaign to establish a rehabilitation
-  centre for war victims concludes successfully.'
+bio: 'A corporate entity based in the Yum Kamcabi system, Yum Kamcabi Purple Life
+  Industry provided crucial financial backing for humanitarian construction efforts
+  during the 3300s.'
 ---
 
 
@@ -39,4 +36,6 @@ Total mentions: **5**
 
 ## Biography
 
-*[To be enriched]*
+Yum Kamcabi Purple Life Industry is a corporate entity based in the Yum Kamcabi system, best known for its financial support of former Federal President Jasmina Halsey's humanitarian campaigns in early 3303. The company provided the funding necessary to establish a rehabilitation centre for victims of the Federal-Imperial conflict, with construction materials delivered to Dirichlet Orbital in its home system.
+
+The company's involvement highlighted the role that independent corporate interests could play in post-conflict recovery, even as Federal and Imperial authorities remained divided. Its partnership with Halsey underscored the former president's transition from political office to peace advocacy following her controversial removal from power.

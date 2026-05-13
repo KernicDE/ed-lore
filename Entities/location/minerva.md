@@ -24,8 +24,8 @@ economy: High Tech
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system/id/5533/name/Minerva
 inara_url: https://inara.cz/elite/starsystem/?search=Minerva
-bio: Minerva is a star system in the Elite Dangerous universe, significant from 3311-02-20
-  to 3311-03-19. Associated with Brewer Corporation.
+bio: 'An independent high-tech system that became the staging ground for Brewer Corporation''s
+  Trailblazer megaship fleet expansion in 3311.'
 ---
 
 
@@ -48,4 +48,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Brewer Corporation turned to the Minerva system in February 3311 to supply a new wave of Trailblazer megaships designed to support independent colonisation efforts. Mark Rennik, the corporation's chief operating officer, called for deliveries to Starlace Station to meet a tight two-week deadline, arguing that early colonies on the fringes of populated space needed mobile market support.
+
+The campaign succeeded, adding five Trailblazer megaships to the fleet. Rennik cited the response as proof of "great appetite for breaching the latest frontier." A secondary bounty initiative to protect traders foreshadowed the security challenges that would later plague colonisation convoys, making Minerva a symbol of both human ambition and frontier vulnerability.

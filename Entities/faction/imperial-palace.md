@@ -11,11 +11,10 @@ related_entities:
 - alliance
 - emerald
 - imperial-senate
-bio: Imperial Palace is a organization in the Elite Dangerous universe, active from
-  3301-06-20 to 3301-08-18. Frequently linked with Capitol. Emperor Hengist Duval
-  died en route to the Imperial Navy Medical Facility near the Imperial Palace after
-  being stabbed during his wedding ceremony. An Imperial Intelligence Service source
-  identified the attacker as belonging to Senator Denton Patreus's party.
+bio: The Imperial Palace is the seat of the Imperial government on Capitol in the Achenar
+  system, serving as the residence of the Emperor and the administrative heart of the
+  Empire. In early 3301 it was the site of a foiled assassination attempt on Emperor
+  Hengist Duval when tampering with his medication was discovered in the Palace pharmacy.
 ---
 
 
@@ -38,4 +37,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+The Imperial Palace on Capitol stands as the ceremonial and administrative centre of the Empire, housing the Emperor's residence and the offices of the Imperial Court. In April 3301, a would-be assassin infiltrated the Palace and tampered with Emperor Hengist Duval's medication, a plot that was foiled only when a janitorial worker noticed that the Palace pharmacy had been left unlocked, prompting a full inventory that revealed the tampering.
+
+The incident triggered a massive security response and an investigation led by Princess Arissa Lavigny-Duval, who used her agents to capture the assailant. Chancellor Blaine confirmed that the Emperor would almost certainly have been killed had the attack gone undetected much longer, and the foiled plot heightened tensions around Imperial succession while exposing vulnerabilities in Palace security protocols.

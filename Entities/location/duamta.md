@@ -24,9 +24,8 @@ economy: High Tech
 second_economy: Agriculture
 edsm_url: https://www.edsm.net/en/system/id/8420/name/Duamta
 inara_url: https://inara.cz/elite/starsystem/?search=Duamta
-bio: Duamta is a star system in the Elite Dangerous universe, significant from 3309-02-23
-  to 3310-10-18. Associated with Alliance, Aegis. Aegis requests resource deliveries
-  in Duamta to fast-track mass production of the caustic sink launcher module.
+bio: 'A populous Federal corporate system, Duamta became a critical manufacturing
+  hub for Aegis during the Thargoid Titan War in 3309.'
 ---
 
 
@@ -49,4 +48,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Duamta is a Federal corporate system with over thirteen billion inhabitants, a high-tech economy, and high security provided by the Duamta Gold Creative Corp. In February 3309, it was selected by the reformed Aegis as the production site for the caustic sink launcher, a module designed to protect ships in the caustic environments of Thargoid Maelstroms.
+
+Professor Alba Tesreau coordinated an open order for advanced catalysers, heatsink interlinks, palladium and caustic tissue samples — the latter obtained from inside the Maelstroms themselves. The initiative drew contributions from the Alliance, Empire and Federation, demonstrating a rare moment of tri-superpower collaboration. Director Ivano Colombera of the Imperial Science Academy declared that Aegis had "immediately justified its reformation with this contribution to the war effort."

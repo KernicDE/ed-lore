@@ -24,12 +24,8 @@ economy: Industrial
 second_economy: Colony
 edsm_url: https://www.edsm.net/en/system/id/6795/name/Gandii
 inara_url: https://inara.cz/elite/starsystem/?search=Gandii
-bio: Gandii is a star system in the Elite Dangerous universe, significant from 3301-06-05
-  to 3303-04-14. Associated with Hand Gang of Gandii, Kumo Crew. The Hand Gang of
-  Gandii and Camorra of Krisha are attempting to take direct control of systems within
-  Archon's domain; success means acceptance into the Kumo Crew, failure means disappearance.
-  The Hand Gang of Gandii and Camorra of Krisha's call for Kumo Crew allies yielded
-  disappointing recruitment.
+bio: 'A Federal democratic system with an industrial economy, Gandii became a proving
+  ground for aspiring pirates seeking entry into the Kumo Crew.'
 ---
 
 
@@ -52,4 +48,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Gandii is a Federal democratic system with nearly forty million inhabitants and an industrial economy, controlled by the New Gandii Democrats. In mid-3301, it was selected by Archon Delaine as the target for a brutal initiation rite: the Hand Gang of Gandii was ordered to seize the system, with success granting them full membership in the Kumo Crew and failure meaning they would "likely never be seen again."
+
+The campaign drew pirates and mercenaries to the system, though the Hand Gang's call for allies yielded disappointing recruitment. Gandii's transformation from a stable Federal holding into a pirate battleground exemplified how Delaine's expansionist policies disrupted governance across the Pegasi sector, replacing democratic administration with criminal warlord rule.

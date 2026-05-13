@@ -11,12 +11,9 @@ related_entities:
 - league-of-reparation
 - universal-liberty
 - unchain
-bio: 'Biruni Port is a starport in Elite Dangerous, significant from 3304-06-15 to
-  3304-11-01. Associated with Niflhel Corp. Notable events include: Senator Caspian
-  Leopold launches an initiative to construct a rehabilitation centre for civilians
-  affected by heightened military action in the cor...; Weekly summary covering Aisling
-  Duval''s anti-slavery campaign merging with Universal Liberty to form Unchain, Lori
-  Jameson''s denunciation of the Le...'
+bio: 'A starport in the Niflhel system, Biruni Port hosted Senator Caspian Leopold''s
+  initiative to build a civilian rehabilitation centre for those affected by intensified
+  military operations in 3304.'
 ---
 
 <!-- AUTO-GENERATED -->
@@ -37,4 +34,6 @@ Total mentions: **5**
 
 ## Biography
 
-*[To be enriched]*
+Senator Caspian Leopold selected Biruni Port as the site for an ambitious rehabilitation centre designed to support civilians displaced by heightened military action in nearby systems. The project reflected growing Senate concern about collateral damage from the Empire's expanding frontier campaigns, and Niflhel Corp provided logistical backing for the construction effort.
+
+Later that year, Biruni Port appeared in broader GalNet coverage when Aisling Duval's anti-slavery campaign merged with Universal Liberty to form Unchain, and Lori Jameson denounced the League of Reparation's activities. The station thus served as both a physical rehabilitation site and a symbolic location where competing narratives of Imperial reform and vigilante justice intersected.

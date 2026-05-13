@@ -11,12 +11,10 @@ related_entities:
 - alliance
 - federal-security-service
 - herculean-machines
-bio: Mould Federal Mining Incorporated is a corporate in the Elite Dangerous universe,
-  active from 3304-09-27 to 3304-10-06. Frequently linked with Bhagui, Leavitt Port,
-  Herculean Machines. Local suppliers cannot meet demand, so Mould Federal Mining
-  Incorporated finances an emergency initiative. Mould Federal Mining Incorporated
-  confirms its commodity appeal for a Bhagui Oktoberfest celebration has been enthusiastically
-  received.
+bio: Mould Federal Mining Incorporated is a Federal mining corporation active in the
+  Bhagui system. In September 3304 it financed an emergency supply initiative to support
+  a local Oktoberfest celebration, placing orders for animal meat, fish and beer when
+  local suppliers could not meet demand.
 ---
 
 
@@ -39,4 +37,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Mould Federal Mining Incorporated is a Federal mining company that stepped in to finance a major community festival in the Bhagui system during September 3304. When local suppliers proved unable to meet the unprecedented demand for the revived Oktoberfest celebration, the corporation placed an open order for animal meat, fish and beer, promising rewards to pilots who delivered the commodities to Leavitt Port.
+
+The campaign was enthusiastically received, with hundreds of pilots delivering goods and protecting traders throughout the system. A spokesperson for the company confirmed that the successful supply drive allowed the festival to proceed, demonstrating how corporate entities could foster goodwill by supporting frontier cultural traditions.

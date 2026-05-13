@@ -24,10 +24,8 @@ economy: Colony
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system/id/14020/name/Qarato
 inara_url: https://inara.cz/elite/starsystem/?search=Qarato
-bio: Qarato is a star system in the Elite Dangerous universe, significant from 3307-12-09
-  to 3308-09-01. Associated with Pilots Federation. Azimuth Biotech director Torben
-  Rademaker condemns Operation Wych Hunt protestors as alien-loving traitors after
-  Azimuth assets are expelled from Merope and Qarato and Hind Mine is attacked.
+bio: 'An independent democratic colony system, Qarato served as a critical logistics
+  hub during Salvation''s anti-Thargoid campaigns in late 3307.'
 ---
 
 
@@ -50,4 +48,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Qarato is an independent democratic system with a colony and refinery economy, located in a strategically important position near the Pleiades Nebula. In December 3307, the system became a vital logistics hub when Salvation's forces used the Heart of Taurus megaship in Qarato as a collection point for classified experimental equipment destined for anti-xeno superweapon deployments.
+
+Pilots collected the experimental components from Qarato and delivered them to megaships in Delphi, Maia and Merope, enabling Salvation to deploy his weapons against Thargoid invasions. The system's role in this operation underscored how frontier colonies could become critical nodes in galaxy-wide military logistics networks, particularly during the escalating Thargoid conflict.
