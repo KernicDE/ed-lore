@@ -38,4 +38,6 @@ Total mentions: **10**
 
 ## Biography
 
-*[To be enriched]*
+The Liberal Party is a Federal political faction that became embroiled in the Marlinist refugee crisis of late 3306. Vice President Brad Mitchell accused the Liberal Party of inviting NMLA terrorists into Federal communities after the Federal Security Service uncovered nine NMLA members hiding among Marlinist asylum-seekers.
+
+The party's support for refugee resettlement made it a target for anti-immigration rhetoric during a period of heightened fear of Neo-Marlinist infiltration. The Liberal Party's position on the refugee issue highlighted the tension between Federal humanitarian obligations and security concerns, with protestors on several Federal worlds demanding that all refugees be sent back to the Empire while counter-protestors called for welcoming Marlinists as fellow believers in democratic government.

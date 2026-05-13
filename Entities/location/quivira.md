@@ -52,4 +52,6 @@ Total mentions: **9**
 
 ## Biography
 
-*[To be enriched]*
+Quivira is an independent system that became the focal point of one of the earliest high-profile conflicts of the 34th century. In May 3301, Senator Denton Patreus officially declared war on Quivira to enforce debt claims, sending thousands of Imperial vessels to attack non-Imperial ships. Imperial ground troops seized Godel Dock, and the People's Quivira for Equality Party was forced to retreat to Brendan Gateway before launching a counterattack with help from independent and Federal pilots.
+
+The conflict escalated further when Imperial Majestic-class Interdictors entered Quivira's airspace, and millions of refugees were evacuated to Summerland and Persephone. The war highlighted the brutal reality of Imperial debt enforcement and the willingness of superpowers to deploy capital ships against independent systems. Quivira's resistance, supported by Federal and independent commanders, became an early demonstration of how galactic powers could clash over economic claims with devastating humanitarian consequences.

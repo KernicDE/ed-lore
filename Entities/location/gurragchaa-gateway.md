@@ -35,4 +35,6 @@ Total mentions: **9**
 
 ## Biography
 
-*[To be enriched]*
+Gurragchaa Gateway is a starport in the Warkushanui system that was affected by the technological plague of early 3302. The station experienced technical issues as part of a wave of mysterious malfunctions that spread across 22 systems, with services suspended alongside other starports including Ackerman Market in Eravate and Weyn Dock in 64 Arietis.
+
+The technological plague was later understood to be caused by proximity to Unknown Artefacts — Thargoid technology that interfered with station systems. Gurragchaa Gateway's experience was typical of the early phase of Thargoid contact, when the nature of the threat was still misunderstood and stations across human space were falling victim to cascading power failures and system malfunctions.

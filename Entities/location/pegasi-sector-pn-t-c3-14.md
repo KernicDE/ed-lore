@@ -51,4 +51,6 @@ Total mentions: **10**
 
 ## Biography
 
-*[To be enriched]*
+Pegasi Sector PN-T c3-14 is a system in the Pegasi Sector that served as the base of operations for the Blue Viper Club dredger clan during its partnership with the Kumo Crew. In May 3308, the Blue Viper Club unexpectedly severed ties with Archon Delaine's syndicate and departed the system for an unknown destination, taking Kay Volantyne with them.
+
+The clan had formed its partnership with the Kumo Crew in July 3307, providing a new narcotic crop that became known as the Onionhead gamma strain. The abrupt departure from Pegasi Sector PN-T c3-14 raised questions about whether Volantyne and Vidar Trask had conspired to depose Delaine, with speculation that a secret meeting at the Jokers' Deck gambling circle had provided the financial backing for a joint coup. The system's role in the Kumo Crew civil war highlighted the fragility of alliances between pirate syndicates and nomadic dredger clans.

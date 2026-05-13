@@ -27,4 +27,6 @@ Total mentions: **8**
 
 ## Biography
 
-*[To be enriched]*
+Pal Vespasian is an Imperial Senator who served during the turbulent period following the murder of Senator Nestor Cartesius in April 3304. Vespasian appealed for the Cartesius family to be given space to grieve, offering a measured response amid widespread speculation about the Intergalactic Naval Reserve Arm's involvement in the assassination.
+
+Vespasian's call for restraint contrasted with the more inflammatory reactions from other quarters, including media speculation about INRA's dark history and Commander Jameson's betrayal. His role in the Senate during this period exemplified the diplomatic challenges faced by Imperial politicians when dealing with crimes that touched on sensitive historical matters, particularly those involving the Empire's past actions against the Thargoids.

@@ -35,4 +35,6 @@ Total mentions: **8**
 
 ## Biography
 
-*[To be enriched]*
+Gabriel Enterprise is a starport in the Harma system that was affected by the technological plague of 3301–3302. In December 3301, the station reported extensive technical problems including system failures and blackouts, part of a spreading wave of malfunctions that affected multiple starports across inhabited space.
+
+The station's malfunctions were eventually traced to Unknown Artefacts, and Gabriel Enterprise was later restored through the application of meta-alloys. The starport's experience exemplified the mysterious and disruptive nature of early Thargoid artefacts, which could shut down critical infrastructure before humanity understood their origin or how to counteract their effects.

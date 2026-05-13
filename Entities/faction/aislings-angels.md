@@ -39,4 +39,6 @@ Total mentions: **9**
 
 ## Biography
 
-*[To be enriched]*
+Aisling's Angels is a support organisation and political faction that backs Princess Aisling Duval's progressive agenda within the Empire. The group has been instrumental in her anti-slavery campaigns, helping free, retrain and rehome millions of Imperial slaves in accordance with Aisling's wishes.
+
+In mid-3301, the Angels demonstrated their organisational capacity by rallying thousands of Imperial citizens to Aisling's cause after she lost a bet to Senator Zemina Torval — a setback that many expected would end her campaign. Instead, the Angels pivoted to social media outreach and financial incentives to compete with Torval for influence near the Empire's core systems. The faction represents the grassroots arm of Aisling's political movement, combining humanitarian work with electoral strategy.

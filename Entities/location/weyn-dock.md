@@ -35,4 +35,6 @@ Total mentions: **9**
 
 ## Biography
 
-*[To be enriched]*
+Weyn Dock is a starport in the 64 Arietis system that was among the first to be affected by the technological plague of 3301–3302. In October 3301, technical supervisor Laura Bishop reported power outages and widespread system failures, with the cause initially unknown. The station's malfunctions were part of a broader pattern affecting multiple systems including Warkushanui.
+
+The technological plague was eventually traced to Unknown Artefacts, and Weyn Dock was later restored through the application of meta-alloys. The station's experience exemplified the mysterious and disruptive nature of early Thargoid artefacts, which could shut down starport systems across inhabited space before humanity understood their origin or purpose.

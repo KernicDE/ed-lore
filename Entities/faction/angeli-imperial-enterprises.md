@@ -39,4 +39,6 @@ Total mentions: **9**
 
 ## Biography
 
-*[To be enriched]*
+Angeli Imperial Enterprises is an Imperial-aligned corporation that launched a successful commodity appeal in late 3303 to build a Dionysus-class Agricultural Vessel for resource-extraction operations in the Pleiades. The campaign received enthusiastic support from the galactic community, resulting in a massive influx of deliveries to Potagos Port in the Wangal system.
+
+The agricultural vessel was intended to support ongoing resource-extraction operations in the Pleiades during the early Thargoid contact period, providing mobile agricultural capacity to sustain workers in the region. Angeli Imperial Enterprises' initiative demonstrated how corporate logistics campaigns could mobilise independent pilots to support frontier industrial development.

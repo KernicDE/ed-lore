@@ -29,4 +29,6 @@ Total mentions: **8**
 
 ## Biography
 
-*[To be enriched]*
+Rochelle Karim is a Senior Agent of the Federal Intelligence Agency who led operations against the Children of Tothos cult in early 3305. In February 3305, she investigated the attack on a secret Federal research outpost where a prototype nuclear weapon had been stolen. Karim later went deep undercover within the cult, posing as a Tothos worshipper to infiltrate their ranks.
+
+In April 3305, Karim's unit prevented the cult from detonating the stolen nuclear weapon at Archambault Terminal. As cult leader Barnabas Cole prepared to activate the device, Karim — still posing as a follower — shot him dead, while other FIA operatives arrested the acolytes and secured the control deck. Her operation demonstrated the effectiveness of deep-cover infiltration in preventing mass-casualty terrorism and showcased the FIA's willingness to use lethal force when necessary to protect civilian populations.

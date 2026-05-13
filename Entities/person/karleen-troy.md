@@ -28,4 +28,6 @@ Total mentions: **10**
 
 ## Biography
 
-*[To be enriched]*
+Karleen Troy is a freelance war correspondent who reports for Vox Galactica, covering conflicts across the superpowers. In April 3309, her reporting on the Pichch system brought international attention to the accidental destruction of an anti-xeno supply convoy by Imperial-aligned forces, which mistakenly identified the vessels as Federal resupply ships.
+
+Troy's account catalysed direct intervention from both Emperor Arissa Lavigny-Duval and President Zachary Hudson, who ordered an immediate ceasefire between the Gliese 44 Citizens' Forum and Gauluujja Exchange. Her work exemplifies how independent journalism can shape superpower policy during wartime, particularly when reporting on humanitarian crises that threaten broader strategic efforts against the Thargoid invasion.

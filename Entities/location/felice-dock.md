@@ -36,4 +36,6 @@ Total mentions: **9**
 
 ## Biography
 
-*[To be enriched]*
+Felice Dock is a starport in the Meene system that housed Ram Tah's research centre until it was severely damaged in an act of vandalism in December 3302. The attack targeted Ram Tah's investigation into the Synuefe XR-H d11-102 Guardian ruins, leaving many facilities irreparably damaged.
+
+Local security forces dismissed the incident as "probably the work of opportunists" and considered it low priority, but Ram Tah stated that the attack was a deliberate attempt to undermine his research. He relocated his programme to Phoenix Base with strict security protocols, noting that several agencies had made clear their desire to capitalise on the ruins for personal, political or military gain. Felice Dock's destruction marked a turning point in the security of xenological research.

@@ -37,4 +37,6 @@ Total mentions: **8**
 
 ## Biography
 
-*[To be enriched]*
+Bond Hub is a starport in the Varati system that was affected by the technological plague of 3301–3302. In November 3301, engineer Stana Chapple confirmed that the station was experiencing technical difficulties including system malfunctions and power failures, part of a spreading wave of problems that also affected 64 Arietis, Warkushanui and Weyn Dock.
+
+The station became a focal point for the Canonn Interstellar Research Group's efforts to understand Unknown Artefacts, with Professor D Luffy appealing for meta-alloys to reverse the technological plague. Bond Hub was eventually restored, and the Canonn used the station as a base for coordinating research into the alien artefacts that were causing station malfunctions across inhabited space.

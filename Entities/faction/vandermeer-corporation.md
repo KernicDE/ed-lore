@@ -38,4 +38,6 @@ Total mentions: **9**
 
 ## Biography
 
-*[To be enriched]*
+Vandermeer Corporation is a pharmaceutical and biotech company that became involved in several major medical crises in the 3300s. In October 3305, the corporation offered to assist the Interstellar Association for Agriculture with research into a devastating crop blight, bringing its molecular diagnostics expertise to bear on the pathogen that was causing mass spoilage across agricultural worlds.
+
+The corporation later became involved in the development of medical applications for Onion Head, working with Neomedical Industries and the Interstellar Health Organisation to verify its medicinal benefits in 3307. Vandermeer's role in these crises highlights the pharmaceutical industry's importance in addressing galaxy-wide health emergencies, though its commercial interests also raised questions about the privatisation of crisis response.

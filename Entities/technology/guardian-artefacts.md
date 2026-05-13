@@ -27,4 +27,6 @@ Total mentions: **9**
 
 ## Biography
 
-*[To be enriched]*
+Guardian artefacts are the remnants of the ancient Guardian civilisation, a technologically advanced species that existed millennia before human spaceflight. In 3305, Zende Partners established a weekly megaship transport service to Synuefe EN-H d11-96, an outpost in Guardian space, to support research and technology development based on recovered Guardian technology.
+
+The artefacts have been used to develop advanced military modules and hybrid technologies, with corporations such as Zende Partners and Segnen Exchange competing for access to Guardian commodities. Guardian artefacts are distinct from Unknown Artefacts of Thargoid origin, though both represent alien technologies that have profoundly influenced human scientific and military development. The race to exploit Guardian technology accelerated following the Thargoid invasion, as superpowers sought any advantage against the alien threat.

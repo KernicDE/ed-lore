@@ -28,4 +28,6 @@ Total mentions: **8**
 
 ## Biography
 
-*[To be enriched]*
+Astrid Minerva-Duval is the consort of Imperator Hadrian Duval and a former Imperial pilot who aided Nova Imperium at the Battle of Paresa in 3305. She married Hadrian in a closed ceremony in April 3307 attended by Princess Aisling Duval, becoming Lady Astrid Minerva-Duval and drawing both congratulations and criticism from Imperial media.
+
+The wedding became deeply suspect when allegations emerged later that month claiming Astrid was an NMLA agent who had converted Hadrian to Neo-Marlinism. These accusations, though later declared inconclusive, highlighted the vulnerability of Imperial nobility to terrorist infiltration. Astrid gave birth to a son in December 3307, securing the Duval line and placing pressure on Emperor Arissa and Princess Aisling, neither of whom had consorts. Her case remains one of the most controversial marriages in Imperial history.

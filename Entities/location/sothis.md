@@ -52,4 +52,6 @@ Total mentions: **8**
 
 ## Biography
 
-*[To be enriched]*
+Sothis is a Federation-aligned system that became notable for the discovery of Sothis Crystalline Gold in late 3301. Scientists at Newholm Station found that exposing ordinary gold to thermal vent gases on planets Sothis A5 and A6 produced a unique metalloid with unknown properties, offering pilots quantities of the rare material in exchange for delivering gold for further testing.
+
+The system later became embroiled in corporate politics when Sirius Corporation announced revitalisation plans for Sothis and other systems brought under its control in 3304. Sothis represents the intersection of exploration, scientific discovery and corporate expansion, demonstrating how remote systems could attract major corporate interest when unique resources were discovered.

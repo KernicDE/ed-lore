@@ -29,4 +29,6 @@ Total mentions: **8**
 
 ## Biography
 
-*[To be enriched]*
+Ethan Takahashi is a crime correspondent for the Federal Times who reported on major criminal investigations in the 3300s. In April 3305, he delivered a special report on the FIA's successful prevention of a nuclear detonation at Archambault Terminal by the Children of Tothos cult, detailing how Senior Agent Rochelle Karim had infiltrated the group and shot leader Barnabas Cole dead as he prepared to activate the stolen Lucifer Device.
+
+Takahashi's reporting highlighted the lethal threat posed by apocalyptic cults and the effectiveness of deep-cover operations in preventing mass-casualty terrorism. His work for the Federal Times made him a key chronicler of Federal law enforcement successes, providing the public with detailed accounts of operations that often remained classified until his reports brought them to light.

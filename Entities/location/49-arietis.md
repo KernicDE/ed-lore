@@ -50,4 +50,6 @@ Total mentions: **8**
 
 ## Biography
 
-*[To be enriched]*
+49 Arietis is an independent system that was affected by the technological plague of 3301–3302. In October 3301, Gaiman Dock in the system began experiencing technical problems similar to those in Warkushanui, including power outages and system failures. Commercial pilot Blake Fry speculated that the issues were connected to Unknown Artefacts being transported to the station.
+
+The system's malfunctions were part of a broader pattern affecting multiple starports across inhabited space, eventually traced to Thargoid artefacts. 49 Arietis exemplified how the technological plague could disrupt industrial systems far from the Pleiades Nebula, demonstrating the galaxy-wide reach of alien technology even before humanity understood its origin or purpose.

@@ -51,4 +51,6 @@ Total mentions: **10**
 
 ## Biography
 
-*[To be enriched]*
+Novas is a system that was among those invaded by Thargoid forces in May 3308. The Thargoid incursion into Novas, alongside Didio and Sosong, was initially repelled by the use of Salvation's unique Guardian-based superweapons — a victory that convinced all three superpowers to support Azimuth Biotech in developing the technology further.
+
+The successful defence of Novas represented a turning point in the Thargoid war, demonstrating that Salvation's weapons could neutralise Thargoid vessels on a scale previously thought impossible. However, the later failure of the Proteus Wave at HIP 22460 would reveal the catastrophic risks of relying on Azimuth's technology, and the Thargoids would eventually return to systems like Novas with even greater force as the Maelstroms arrived.

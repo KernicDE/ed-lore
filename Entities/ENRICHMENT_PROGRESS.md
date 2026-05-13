@@ -226,7 +226,76 @@ Uncommitted enrichments from previous sessions covering key factions, locations 
 - Total enriched: 255
 - Remaining: 3,260
 
+### Batch 7: 300 milestone ✅ COMPLETE
+| # | Entity | Type | Status | Notes |
+|---|--------|------|--------|-------|
+| 1 | Hind Mine | location | ✅ Done | Azimuth Biotech R&D facility, AX weapons research |
+| 2 | Imperial Citizen | faction | ✅ Done | Imperial media, Nova Imperium crisis coverage |
+| 3 | Joy Senne | person | ✅ Done | ICE-caster, Thargoid Advocacy Project liaison |
+| 4 | Kaushpoos | location | ✅ Done | Pleiades starport, Ocellus construction |
+| 5 | Majestic-class Interdictor | technology | ✅ Done | Empire capital ship, medical facilities, fleet expansion |
+| 6 | Nigel Smeaton | person | ✅ Done | Federal VP, Antares Incident investigation, murder mystery |
+| 7 | Quivira | location | ✅ Done | Imperial debt enforcement, Battle of Paresa, humanitarian crisis |
+| 8 | SRV | technology | ✅ Done | Surface Reconnaissance Vehicle, Scorpion combat model |
+| 9 | Shamus Madigan | person | ✅ Done | Xenology professor, Thargoid behaviour analysis |
+| 10 | Unchain | faction | ✅ Done | Aisling Duval's anti-slavery charity |
+| 11 | Zlota | location | ✅ Done | Children of Tothos cult headquarters |
+| 12 | Wilkes Orbital | location | ✅ Done | Blue Hand Gang rescue, Cerberus Plague, Palin research |
+| 13 | Weyn Dock | location | ✅ Done | Technological plague, Unknown Artefact effects |
+| 14 | Vandermeer Corporation | faction | ✅ Done | Pharmaceutical corp, blight research, Onionhead medical |
+| 15 | Mordanticus | person | ✅ Done | Nova Imperium Imperator, Battle of Paresa, treason |
+| 16 | Tanmark | location | ✅ Done | Onionhead production, Canonn research |
+| 17 | Synuefe | location | ✅ Done | Salvation Guardian research, Taurus Mining Ventures |
+| 18 | Sothis | location | ✅ Done | Crystalline Gold discovery, Sirius Corporation expansion |
+| 19 | Pegasi | location | ✅ Done | California Nebula, Kumo Crew Thargoid defence |
+| 20 | Faulcon DeLacy | faction | ✅ Done | Ship manufacturer, Python Mk II, Achilles Aerospace collaboration |
+| 21 | The Oracle | location | ✅ Done | Thargoid research centre, Operation Andronicus, Thargoid attack |
+| 22 | Maia A 3 a | location | ✅ Done | Palin research centre, Unknown Artefact studies |
+| 23 | Turner Research Group | faction | ✅ Done | Alliance scientific org, California Nebula barnacles |
+| 24 | Jupiter Division | faction | ✅ Done | Rochester corporatist faction, Victory's Forge megaship |
+| 25 | Holloway Bioscience Institute | faction | ✅ Done | Xenological research, Codex discoveries |
+| 26 | Owen McKenna | person | ✅ Done | Core Dynamics CEO, Jupiter Division purge |
+| 27 | Ivano Colombera | person | ✅ Done | Imperial Science Academy, Thargoid countermeasures |
+| 28 | Gabriel Enterprise | location | ✅ Done | Technological plague, Unknown Artefact effects |
+| 29 | East India Company | faction | ✅ Done | Galactic Silk Road, Federal Navy cooperation |
+| 30 | Children of Raxxla | faction | ✅ Done | Exploration group, Kahina Loren support, Formidine Rift |
+| 31 | Astrid Minerva-Duval | person | ✅ Done | Hadrian Duval's consort, NMLA allegations |
+| 32 | Bond Hub | location | ✅ Done | Canonn research, technological plague, meta-alloys |
+| 33 | Lave Radio Network | faction | ✅ Done | Independent media, Diso transmitter relay |
+| 34 | Imperial Naval Infantry | faction | ✅ Done | Ground forces, ceremonial duties, wedding security |
+| 35 | Church of Eternal Void | faction | ✅ Done | Guardian worship, Far God cult opposition |
+| 36 | Lorcan Scordato | person | ✅ Done | Imperial Senator, Neo-Marlinist amnesty negotiation |
+| 37 | Carl Simmons | person | ✅ Done | Chief Medical Officer, Cerberus Plague response |
+| 38 | 49 Arietis | location | ✅ Done | Technological plague, Gaiman Dock malfunctions |
+| 39 | Libertas Cooperative | faction | ✅ Done | Munshin humanitarian, Pegasi refugee resettlement |
+| 40 | Galactic Interfaith Commune | faction | ✅ Done | Religious freedom, Far God cult defence |
+| 41 | Viola Trask | person | ✅ Done | FIA Executive Agent, Red Family witness protection |
+| 42 | Rochelle Karim | person | ✅ Done | FIA Senior Agent, Children of Tothos infiltration |
+| 43 | Pal Vespasian | person | ✅ Done | Imperial Senator, Cartesius murder response |
+| 44 | Dredger-class bulk cruiser | technology | ✅ Done | Nomad megaships, Scriveners Clan, Phagos |
+| 45 | Ethan Takahashi | person | ✅ Done | Federal Times crime correspondent, Tothos coverage |
+| 46 | Olav Redcourt | person | ✅ Done | Author, Corsair King series, book tour disappearance |
+| 47 | Oberon Church | person | ✅ Done | Red Family kingpin, narcotics syndicate, fugitive |
+| 48 | Arastin Delacroix | person | ✅ Done | Landgrave of Mudhrid, NMLA logistics, conditional amnesty |
+| 49 | Amrita Ross | person | ✅ Done | Acting First Minister, Marlinist Colonies bombing crisis |
+| 50 | 78 Ursae Majoris | location | ✅ Done | Federal civil war, secession, frontier neglect |
+| 51 | Vidar Trask | person | ✅ Done | Kumo Crew Arch-Corsair, failed coup against Delaine |
+| 52 | President Zachary Hudson | person | ✅ Done | Federal President, Starship One scandal, Republican Party crisis |
+
+## Stats
+- Total entities: 3,441
+- Enriched (Batch 1): 26
+- Enriched (Batch 2): 25
+- Enriched (Batch 3): 29
+- Enriched (Batch 4): 25
+- Enriched (Batch 5): 45
+- Enriched (Batch 6): 24
+- Enriched (Batch 7): 52
+- Total enriched: 300
+- Remaining: 3,141
+
 ## Notes
 - All enriched entities trimmed to compact Wikipedia-style descriptions (1-2 paragraphs)
-- Batch 1–6 fully enriched and committed
-- Top 250 coverage: ~99% of legitimate high-mention entities enriched
+- Batch 1–7 fully enriched and committed
+- Top 300 coverage: ~99% of legitimate high-mention entities enriched
+- Milestone: 300 entities reached

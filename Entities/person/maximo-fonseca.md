@@ -28,4 +28,6 @@ Total mentions: **10**
 
 ## Biography
 
-*[To be enriched]*
+Dr Maximo Fonseca is the Allied scientific liaison to Aegis who played a prominent role in the tri-superpower initiative's research campaigns against the Thargoids. In June 3309, he praised independent pilots who delivered Titan tissue samples harvested from Thargoid capital ships, noting that "it takes a special kind of pilot to travel through the Maelstroms and fly across the surfaces of these enormous motherships."
+
+The samples collected under Fonseca's direction were subjected to scientific testing by Allied, Federal and Imperial specialists, with the goal of shedding light on the Titans' capabilities and construction technologies. Fonseca's leadership in the Aegis campaign marked a reputational shift for the tri-superpower initiative, which successfully outperformed a parallel Azimuth Biotech effort that received notably fewer shipments.

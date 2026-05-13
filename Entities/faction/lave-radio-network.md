@@ -39,4 +39,6 @@ Total mentions: **8**
 
 ## Biography
 
-*[To be enriched]*
+The Lave Radio Network is an independent media organisation based at Lave Station that broadcasts across the galaxy. In March 3302, the network launched a campaign to construct a new interstellar transmitter relay in the Diso system after discovering their existing transmitter had been broken and scavenged. They appealed to pilots for blood crystals from the Cherbones system, a rare material used in their transmitter equipment.
+
+The network's activities highlighted the challenges facing independent media in the galaxy, including raiders scavenging equipment and the rising cost of real estate in the Lave system. The Lave Radio Network's campaigns demonstrated how community-driven initiatives could sustain interstellar communication infrastructure, providing an alternative to corporate-controlled media networks.

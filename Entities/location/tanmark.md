@@ -52,4 +52,6 @@ Total mentions: **8**
 
 ## Biography
 
-*[To be enriched]*
+Tanmark is an Imperial system known for its role in the Onionhead trade and agricultural production. In early 3301, the Defence Force of Tanmark partnered with the Farmers Union of Kappa Fornacis to increase local Lucan Onionhead production, delivering over 500,000 tons of land enrichment systems to Cassie-L-Peia. President Jasmina Halsey's office reiterated that Onionhead was illegal in all Federal jurisdictions, highlighting the tension between Federal prohibition and local agricultural economies.
+
+The system was also linked to xenological research when the Canonn Interstellar Research Group decoded Unknown Artefact transmissions in 3301. Tanmark's dual significance in both the narcotics trade and early alien research illustrates how peripheral systems could become focal points for multiple galaxy-wide controversies.

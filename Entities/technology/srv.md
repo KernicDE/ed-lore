@@ -28,4 +28,6 @@ Total mentions: **9**
 
 ## Biography
 
-*[To be enriched]*
+The Surface Reconnaissance Vehicle (SRV) is a planetary rover used for surface exploration, combat and troop support. In December 3307, Vodel officially released the Scorpion, the first new mass-production SRV model in many years, designed specifically for combat operations. The Scorpion's development was accelerated by Vodel's acquisition by Core Dynamics in 3305, which provided significant financial resources to Vodel's engineering teams.
+
+The Scorpion features a two-crew cabin with additional protection, a plasma surge repeater and the proprietary Aculeus missile launcher for engaging shielded and armoured targets. Its raw power provides exceptional torque for handling harsh terrain and steep climbs. The SRV family represents a key technology for planetary operations, with the Scorpion marking a significant advancement in surface combat capabilities for both independent operatives and military forces.

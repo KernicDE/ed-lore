@@ -36,4 +36,6 @@ Total mentions: **9**
 
 ## Biography
 
-*[To be enriched]*
+Wilkes Orbital is a starport in the Nespeleve system that became a focal point for several major events in 3302. It served as the destination for escape pods recovered from the Blue Hand Gang in the Orulas system, which unexpectedly contained Professor Ishmael Palin and his research team who had been kidnapped. Following their rescue, Governor Lawrence discovered that Palin and others had been infected with a new strain of Cerberus Plague, prompting an appeal for Ceremonial Heike Tea to cure the infected.
+
+Wilkes Orbital's role in these events connected the criminal underworld, xenological research and public health crises. The starport also hosted subsequent appeals by Professor Palin after his recovery, making it a key location in the early study of Thargoid artefacts and the human response to alien contact.

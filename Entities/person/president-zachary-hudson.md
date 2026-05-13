@@ -28,4 +28,6 @@ Total mentions: **7**
 
 ## Biography
 
-*[To be enriched]*
+Zachary Hudson is the President of the Federation who led the Republican Party through some of the most turbulent periods in Federal history. His presidency was severely destabilised in late 3306 when Fleet Admiral Lucas Vincent was charged with sabotaging Starship One, leading to hundreds of deaths. Hudson's close relationship with Vincent triggered a public outcry and accusations of a conspiracy to assassinate then-President Jasmina Halsey.
+
+Political support for Hudson plummeted as over a dozen congressmen resigned in protest, and opinion polls showed the Liberal Party gaining majority support for the first time in years. Shadow President Felicia Winters capitalised on the scandal, stressing that no elected ruler could be above the law. Hudson's administration survived the crisis but was permanently weakened, and his legacy became synonymous with the corruption and corporate influence that characterised the Republican Party's declining years.

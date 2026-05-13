@@ -28,4 +28,6 @@ Total mentions: **9**
 
 ## Biography
 
-*[To be enriched]*
+Shamus Madigan is a professor of xenology at Olympus Village University and a leading academic authority on Thargoid behaviour. In September 3308, he published a paper in The Empirical analysing the Thargoids' resistance to the Proteus Wave superweapon in HIP 22460, arguing that their upgraded technology and altered behaviour indicated that humanity had become "a problem that must be dealt with."
+
+Madigan also analysed classified footage leaked from the Battle of HIP 22460, interpreting the so-called "Thargoid roar" as "residual electromagnetic radiation from the Thargoids' energy pulse." His scholarly work provided a grounded scientific counterpoint to more alarmist theories, though he consistently warned that humanity's lack of understanding of Thargoid biology and technology left the species dangerously unprepared for the escalating conflict.

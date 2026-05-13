@@ -28,4 +28,6 @@ Total mentions: **9**
 
 ## Biography
 
-*[To be enriched]*
+Adalyn Cross is a journalist for Vox Galactica who reported extensively on the societal impact of the 3305 blight crisis. Her coverage documented how core systems adapted to food shortages, with freeze-dried goods returning to favour, restaurant menus shrinking, and the fishing industry experiencing a boom as pescatarian diets rose.
+
+Cross noted that billions relied on food cartridges and ration packs offering only basic nutrition, while welfare charities were stretched to breaking point. She also reviewed the blight's aftermath, reporting on the Interstellar Association for Agriculture's pledge to intensify screening regulations and intelligence agencies' reviews of strategies for tackling interstellar terrorism. Her journalism captured both the immediate humanitarian crisis and the longer-term policy shifts that followed the Scythe of Panem's biochemical attack.

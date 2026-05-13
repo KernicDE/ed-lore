@@ -51,4 +51,6 @@ Total mentions: **9**
 
 ## Biography
 
-*[To be enriched]*
+Altair is a Federal system that became the site of underground racing activity in early 3301, with unauthorised competitors spotted in and around the system. The system's role in the racing scene reflected the broader culture of unsanctioned competitive events that flourished in Federal space.
+
+In 3308, Altair hosted Rackham's lavish celebration, demonstrating the system's continued significance as a venue for high-profile social and commercial events. Altair's proximity to Sol and its Federal allegiance make it a strategically positioned system that serves both as a hub for civilian activity and as part of the Federation's defensive perimeter.

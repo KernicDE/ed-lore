@@ -27,4 +27,6 @@ Total mentions: **10**
 
 ## Biography
 
-*[To be enriched]*
+Leo Magnus is the Praetor and head of security for Nova Imperium, the isolationist movement led by Imperator Hadrian Augustus Duval. In November 3306, Magnus commented on Princess Aisling Duval's unorthodox intervention to save Hadrian following an NMLA assassination attempt, noting that while the Praetorian Guard appreciated Her Highness's assistance, it remained a mystery how the terrorists came so close to succeeding.
+
+As Nova Imperium's chief security officer, Magnus oversees the protection of the movement's leadership and investigates threats against its members. His role places him at the intersection of Imperial politics and counter-terrorism, defending an organisation that the Empire has outlawed for sedition while maintaining its own security apparatus independent of the Imperial Guard.

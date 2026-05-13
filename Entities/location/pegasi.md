@@ -42,4 +42,6 @@ Total mentions: **8**
 
 ## Biography
 
-*[To be enriched]*
+Pegasi is a system in the California Nebula that became a focal point during the Thargoid invasion of 3309. Archon Delaine mobilised the Kumo Crew to defend the California Nebula from Thargoid forces, arguing that the Alliance considered the colony expendable while pirates would protect its citizens. The Pegasi Sentinel newsfeed supported this mobilisation as a temporary measure for coordinated resistance.
+
+The Turner Research Group, which controlled several invaded systems, rejected Delaine's claims as a pretext for a power grab. Pegasi thus became a symbol of how non-state actors could position themselves as defenders of neglected colonies during the Thargoid war, challenging the narrative that only superpower navies could organise effective anti-xeno resistance.

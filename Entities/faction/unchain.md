@@ -39,4 +39,6 @@ Total mentions: **9**
 
 ## Biography
 
-*[To be enriched]*
+Unchain is an anti-slavery charity founded and patronised by Princess Aisling Duval, dedicated to replacing Imperial slavery with welfare and employment programmes. In mid-3304, Aisling Duval's anti-slavery campaign merged with Universal Liberty to form Unchain, establishing the organisation as a prominent force for abolition within the Empire.
+
+In July 3305, Unchain purchased the contracts of 4,000 Imperial slaves who had been forcibly emancipated by the activist group Autonomy on Eotienses A 3, employing them to build a new headquarters while they paid off their debts. Princess Aisling acknowledged the irony of an anti-slavery organisation hiring indentured workers, describing it as a practical solution to a problem of the Empire's own making. Unchain's work highlights both the vulnerabilities of Imperial slavery and the complex political dynamics surrounding abolition within the Empire.

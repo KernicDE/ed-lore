@@ -52,4 +52,6 @@ Total mentions: **9**
 
 ## Biography
 
-*[To be enriched]*
+Facece is an Imperial system that served as a base for Princess Arissa Lavigny-Duval's anti-corruption campaign in early 3301. Thousands of criminals were apprehended by commanders working on her behalf, though only a handful provided clues about who ordered the attack on Emperor Hengist Duval.
+
+The system is also home to the Imperial Slavers Association, which competed with Aisling's Angels in the slavery wager of April 3301. The ISA acquired 2,387,567 unregulated slaves for retraining at Lagerkvist Gateway, compared to Aisling's 1,149,756 freed Imperial slaves. Facece's role in both Arissa's law enforcement campaign and the slavery debate made it a symbolic battleground for competing visions of Imperial governance.

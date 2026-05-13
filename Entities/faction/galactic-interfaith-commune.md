@@ -38,4 +38,6 @@ Total mentions: **8**
 
 ## Biography
 
-*[To be enriched]*
+The Galactic Interfaith Commune is a religious organisation that advocates for spiritual freedom and tolerance across the galaxy. In September 3308, the Commune condemned the Federal government's crackdown on the Order of the Far God, joining Advocacy and the Spiritual Freedom Movement in opposing President Hudson's decision to declare the cult a potential enemy of the state.
+
+The Commune's opposition to the crackdown highlighted concerns about religious persecution during wartime, arguing that concrete evidence was needed before citizens could be treated as enemies. The organisation's stance placed it in tension with both Federal security policy and more militant religious groups like the Church of Eternal Void, demonstrating the complex role of faith-based organisations in galactic politics during the Thargoid conflicts.

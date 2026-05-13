@@ -41,4 +41,6 @@ Total mentions: **8**
 
 ## Biography
 
-*[To be enriched]*
+Synuefe is a remote system in Guardian space that became a key location for Salvation's research operations in 3308. Taurus Mining Ventures conducted scientific studies and mining operations in the Synuefe CE-R C21-6 system on behalf of Salvation, extracting resources linked to Guardian technology. The system's lack of atypical radiation raised questions about the true purpose of the mining operations.
+
+Synuefe's role in Salvation's network exemplified how anonymous scientific figures could mobilise corporate resources in uncharted regions to acquire alien technology. The system's connection to Guardian sites made it strategically significant in the broader Thargoid conflict, even as the superpowers debated whether Salvation's methods were ethical or effective.

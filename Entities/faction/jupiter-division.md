@@ -39,4 +39,6 @@ Total mentions: **8**
 
 ## Biography
 
-*[To be enriched]*
+Jupiter Division is a breakaway faction from Core Dynamics founded by ex-CEO Jupiter Rochester, advocating for the replacement of democratic governance with corporatocracy in the Federation. Despite Rochester's imprisonment for mass murder in early 3307, the faction survived and grew by attracting believers in corporate rule, retaking control of HIP 54530 and several neighbouring systems.
+
+The faction's megaship, Victory's Forge, successfully repelled Federal troops and remained under Jupiter Division's command for several months. New Core Dynamics CEO Owen McKenna vowed to destroy the rogue department, and Federal forces eventually defeated Jupiter Division in June 3307. The faction's brief success demonstrated that corporatist sentiment persisted within the Federation, creating a political undercurrent that challenged democratic ideals even after Rochester's fall.

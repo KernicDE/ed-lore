@@ -28,4 +28,6 @@ Total mentions: **8**
 
 ## Biography
 
-*[To be enriched]*
+Ivano Colombera is the director of xenological studies at the Imperial Science Academy and a leading authority on Thargoid behaviour. In September 3308, he responded to the Thargoids' resistance to the Proteus Wave superweapon in HIP 22460, hypothesising that their ability to disrupt Guardian technology was first conceived millions of years ago during the Guardian-Thargoid conflict.
+
+Colombera's academic work focused on developing practical countermeasures against Thargoid capabilities, though he acknowledged that humanity's understanding of Thargoid biology remained extremely limited. His research contributed to Aegis's development of the caustic sink launcher module and other anti-xeno technologies, bridging the gap between theoretical xenology and military application during the escalating Thargoid war.

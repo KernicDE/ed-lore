@@ -28,4 +28,6 @@ Total mentions: **10**
 
 ## Biography
 
-*[To be enriched]*
+Nestor Cartesius is an Imperial senator who became a target of the League of Reparation, the terrorist organisation that hunted descendants of INRA personnel. In July 3304, the tri-superpower taskforce investigating the League confirmed that Senator Cartesius was among the high-profile individuals targeted by the group, which left "For Jameson" messages at attack sites.
+
+The League's campaign against Cartesius and others was designed to generate exposure and spread terror to families with an INRA connection. Following the decryption of the League's communications network, taskforce officers arrested or eliminated every member of the organisation, with Cartesius surviving the threat. The League's dismantling closed a dark chapter of INRA-related terrorism, though questions lingered about the true motivations of its architect, Riri McAllister.

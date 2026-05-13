@@ -28,4 +28,6 @@ Total mentions: **8**
 
 ## Biography
 
-*[To be enriched]*
+Arastin Delacroix is the Landgrave of Mudhrid and leader of the Neo-Marlinist Order of Mudhrid, a faction that provided logistical support for the NMLA's starport bombings. In April 3307, an ACT investigation confirmed that Delacroix's agents had infiltrated local factions to transport enzyme bombs to their targets. He declared a revolution against the Imperial Family from his flagship, the Steel Majesty, calling on all who sought to change the established order to join him.
+
+Delacroix's forces were defeated by the Epsilon Fornacis Empire Group, and he later negotiated a conditional amnesty with Senator Lorcan Scordato. In exchange for revealing NMLA leadership identities, Delacroix and his inner circle received life imprisonment while the Steel Majesty's population underwent security vetting. His case exemplified how Imperial nobility could be drawn into terrorist movements, and his cooperation provided crucial intelligence for ACT's ongoing investigations.

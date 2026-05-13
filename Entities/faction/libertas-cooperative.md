@@ -39,4 +39,6 @@ Total mentions: **8**
 
 ## Biography
 
-*[To be enriched]*
+The Libertas Cooperative is a faction based in the Munshin system that launched humanitarian initiatives during the Pegasi Pirate War. In September 3301, officials at Ocrinox's Orbiter announced plans to build a state-of-the-art resettlement facility for refugees from the Pegasi Sector, leveraging Munshin's distance from the war, available food and jobs, and supporting infrastructure.
+
+The cooperative requested urgent medical supply deliveries from the Pilots Federation and Princess Aisling Duval to support the refugee resettlement effort. Libertas Cooperative's work highlighted the humanitarian crisis caused by pirate conflicts and demonstrated how local factions could organise large-scale relief efforts when superpower navies were preoccupied with other priorities.

@@ -39,4 +39,6 @@ Total mentions: **8**
 
 ## Biography
 
-*[To be enriched]*
+The Imperial Naval Infantry is the Empire's ground military force, responsible for planetary security, ceremonial duties and combat operations. In August 3301, the Naval Infantry provided security in their finest dress whites for Emperor Hengist Duval's wedding procession to Florence Lavigny, with Sergeant Jenner describing the assignment as the greatest honour of her 30-year career.
+
+The Naval Infantry's presence at the wedding underscored the ceremonial importance of the Imperial military, though the assassination of Emperor Hengist during the ceremony revealed the vulnerability of even the most heavily guarded events. The Infantry has continued to serve as both a combat force and a symbol of Imperial prestige, reflecting the Empire's tradition of blending military function with political theatre.

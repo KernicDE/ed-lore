@@ -28,4 +28,6 @@ Total mentions: **8**
 
 ## Biography
 
-*[To be enriched]*
+Lorcan Scordato is an Imperial Senator who played a key diplomatic role in resolving the Neo-Marlinist crisis of 3307. In April 3307, he negotiated a conditional amnesty for the Neo-Marlinist Order of Mudhrid, securing an agreement where Landgrave Arastin Delacroix and his inner circle would cooperate with the Affiliated Counter-Terrorism unit to reveal NMLA leadership identities in exchange for life imprisonment.
+
+Scordato's diplomatic efforts provided ACT with crucial intelligence on the NMLA, though the information also led to the false allegation that Hadrian Duval was the terrorist mastermind. Chancellor Anders Blaine approved Scordato's proposal as "precisely the sort of creative solution the Emperor requires." His work demonstrated how political negotiation could achieve results that military force alone could not, even as the NMLA threat continued to challenge Imperial security.

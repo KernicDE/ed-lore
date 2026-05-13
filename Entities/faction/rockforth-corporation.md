@@ -38,4 +38,6 @@ Total mentions: **10**
 
 ## Biography
 
-*[To be enriched]*
+Rockforth Corporation is an agricultural conglomerate that caused the devastating blight crisis of 3305 by distributing contaminated EX7 fertiliser. The blight pathogen, which ravaged crops across hundreds of systems, was introduced into the fertiliser by Scythe of Panem extremists — though critics highlighted Rockforth's haste to increase profits as a contributing factor.
+
+CEO Sylvia Rockforth issued a public apology and established a restitution fund using profits from EX7, while former marketing director Rex Whitlock was dismissed for dismissing regulatory practices. The Interstellar Association for Agriculture intensified screening regulations in response, and the scandal exposed vulnerabilities in the interstellar food supply chain. Rockforth's reputation never fully recovered despite its efforts at restitution.

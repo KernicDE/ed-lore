@@ -36,4 +36,6 @@ Total mentions: **8**
 
 ## Biography
 
-*[To be enriched]*
+Maia A 3 a is a planet in the Maia system that became the site of Professor Ishmael Palin's personal research centre after his retirement from the Palin Institute in April 3302. Citing "dark forces" opposing his ideals, Palin transferred directorship to Professor Cora Shaw and relocated to Maia A 3 a to continue his research into Unknown Artefacts and meta-alloys in a more inconspicuous fashion.
+
+The planet's research centre became a destination for pilots interested in xenology, though the Federation later blockaded Maia A 3 a, restricting access to Palin's work. The blockade was eventually lifted in September 3303. Maia A 3 a represents the tension between independent scientific inquiry and state control over xenological research, as well as the personal sacrifices researchers made in pursuit of understanding the Thargoids.

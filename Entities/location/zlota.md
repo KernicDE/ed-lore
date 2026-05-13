@@ -51,4 +51,6 @@ Total mentions: **9**
 
 ## Biography
 
-*[To be enriched]*
+Zlota is a system in the Core Systems that became the headquarters of the Children of Tothos, an obscure cult led by Barnabas Cole. In December 3304, the cult requested rare commodities including Aganippe Rush, Motrona Experience Jelly and Onion Head for an arcane ceremony, with Zlota Federal Holdings placing kill orders to protect traders delivering the items.
+
+The system was also caught up in the Thargoid conflicts of 3308, when Salvation's anti-xeno superweapons repelled Thargoid forces from the region. Zlota's association with fringe religious movements and its role in the broader Thargoid war illustrate how even relatively minor systems could become focal points for both esoteric cult activity and galaxy-wide military campaigns.

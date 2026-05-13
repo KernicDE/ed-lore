@@ -39,4 +39,6 @@ Total mentions: **8**
 
 ## Biography
 
-*[To be enriched]*
+The Children of Raxxla is an independent organisation and exploration group that became involved in the political controversies surrounding Lady Kahina Tijani Loren in 3302–3303. The group supported Loren, the former senator of the Prism system who was implicated in an assassination attempt on Admiral Denton Patreus, and challenged the official narratives presented by Imperial media outlets.
+
+In late 3302, the Children of Raxxla derailed the Federation's exploration data appeal by launching a competing initiative, contributing to the resignation of Mars High administrators. The group later released reports on the Formidine Rift discovery in 3303, expanding humanity's knowledge of the galaxy's mysterious regions. The Children of Raxxla represent the intersection of exploration, political dissent and alternative media in Elite Dangerous lore.

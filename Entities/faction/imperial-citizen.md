@@ -39,4 +39,6 @@ Total mentions: **9**
 
 ## Biography
 
-*[To be enriched]*
+Imperial Citizen is a media outlet and political faction that reported on the Empire's internal conflicts, including the Nova Imperium crisis of early 3305. The faction's coverage documented Senator Denton Patreus's call for Imperial auxiliaries to support Yupini Limited against the isolationist fleet in the Paresa system, as well as Imperator Mordanticus's appeals for galactic support.
+
+Imperial Citizen's reporting on the Battle of Paresa highlighted the Empire's willingness to use military force against internal dissent, marking the first open confrontation with a significant dissident faction since the Marlinist refugee crisis. The faction's role as an Imperial news source made it a key channel for state propaganda during periods of political instability, including the succession debates that followed Emperor Hengist Duval's assassination.

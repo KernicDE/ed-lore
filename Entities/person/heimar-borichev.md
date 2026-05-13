@@ -28,4 +28,6 @@ Total mentions: **10**
 
 ## Biography
 
-*[To be enriched]*
+Heimar Borichev is a political activist and writer for the independent newsfeed The Sovereign who emerged as a prominent voice in the anti-authoritarian protest movements of 3309. As the Thargoid war escalated following the arrival of the Maelstroms, Borichev blamed superpower leaders for allowing the conflict to escalate, claiming that "institutional corruption requires radical solutions."
+
+His commentary aligned with a broader wave of activism across the Alliance, Empire and Federation that accused governments of prioritising corporate arms profits over civilian lives. While xeno-peace figureheads such as Joy Senne distanced themselves from the more radical elements of the movement, Borichev continued to advocate for direct action against what he viewed as the military-industrial complex's profiteering from the Thargoid invasion.

@@ -28,4 +28,6 @@ Total mentions: **9**
 
 ## Biography
 
-*[To be enriched]*
+The Majestic-class Interdictor is the Empire's primary capital ship, a massive vessel designed for system control and fleet command. In late 3306, the Imperial Navy completed construction of four new Majestic-class Interdictors as part of a parallel military build-up with the Federation, which simultaneously commissioned five Farragut-class Battle Cruisers.
+
+The Majestic-class Interdictor features advanced medical facilities capable of treating critical casualties, as demonstrated when Princess Aisling Duval transported Imperator Hadrian Duval to a Majestic-class medical bay following an NMLA assassination attempt in November 3306. The vessel serves as both a mobile command centre and a symbol of Imperial military power, with new ships conducting shakedown cruises in systems such as Chimechilo, Orannika, Theta Indi and Zelano.

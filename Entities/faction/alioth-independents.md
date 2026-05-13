@@ -39,4 +39,6 @@ Total mentions: **9**
 
 ## Biography
 
-*[To be enriched]*
+The Alioth Independents is a faction based in the Alioth system that represents the independent political tradition of the Alliance's founding world. The group has been involved in territorial disputes and power struggles that reflect broader tensions between Alliance federalism and local autonomy.
+
+The Independents' role in Alioth politics underscores the complex governance structure of the Alliance, where system-level factions negotiate with the central government for resources and authority. Their presence in the Alliance's capital system highlights the ongoing balance between the Alliance Assembly's collective decision-making and the desire of individual systems to maintain independent identities.

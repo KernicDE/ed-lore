@@ -37,4 +37,6 @@ Total mentions: **9**
 
 ## Biography
 
-*[To be enriched]*
+Hind Mine is an asteroid base in the T Tauri system that served as Azimuth Biotech's research and development facility in early 3309. CEO Torben Rademaker established a research division at Hind Mine specifically designed to improve anti-xeno armaments, seeking to increase the maximum number of AX weapons that ships could utilise.
+
+The facility represented Azimuth's strategic pivot away from Salvation's "esoteric" superweapon research toward more conventional weapons development following the Proteus Wave disaster at HIP 22460. Hind Mine's role in AX weapons research highlighted Azimuth's attempt to rehabilitate its public image while continuing to profit from the Thargoid war, though critics noted that the corporation's commercial interests remained inseparable from the conflict it had helped escalate.

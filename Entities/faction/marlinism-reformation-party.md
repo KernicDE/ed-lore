@@ -39,4 +39,6 @@ Total mentions: **10**
 
 ## Biography
 
-*[To be enriched]*
+The Marlinism Reformation Party is a Neo-Marlinist political faction led by Minister Aaron Whyte that emerged from the Marlinist Colonies in mid-3307. Whyte confirmed that the party aimed to politically represent the Neo-Marlinist fringe, advocating for "meaningful dialogue and public pressure" rather than violent uprising to end the Duval family's rule.
+
+The party's attempt to rebrand Neo-Marlinism as closer to mainstream Marlinist ideals caused widespread alarm, with observers noting that it might act as the political wing of the NMLA. In the Hyades Sector RO-P b6-2 system, voters removed the Marlinism Reformation Party from power after it granted asylum to survivors from the Neo-Marlinist Order of Mudhrid. The party's existence deepened divisions within the Marlinist Colonies over whether to engage with or reject extremist elements.

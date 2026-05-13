@@ -27,4 +27,6 @@ Total mentions: **7**
 
 ## Biography
 
-*[To be enriched]*
+Vidar Trask is a pirate and former Arch-Corsair of the Kumo Crew who led a failed coup against Archon Delaine in mid-3308. Trask rose to power beside Delaine but became frustrated under his rule, believing he could reorganise the syndicate along more efficient lines. He masterminded the coup alongside Kay Volantyne of the Blue Viper Club dredger clan, who supplied over a thousand fighters.
+
+Trask's motivations were primarily organisational, contrasting with Volantyne's desire to secure permanent homes for her nomadic tribe. The coup failed, and Trask's army was shattered by Delaine's forces. His rebellion exposed the internal fragility of criminal syndicates and demonstrated how even long-standing lieutenants could turn against their leaders when they perceived inefficiency or weakness. Trask's failed plot became a cautionary tale about the dangers of ambition within pirate organisations.

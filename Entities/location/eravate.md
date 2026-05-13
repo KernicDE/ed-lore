@@ -50,4 +50,6 @@ Total mentions: **9**
 
 ## Biography
 
-*[To be enriched]*
+Eravate is a Federal system that was among the first affected by the technological plague of early 3302. Ackerman Market in Eravate was one of three starports that suspended all services except docking and shipyard access as mysterious technical issues spread across 22 systems.
+
+The station's systems were afflicted by power failures and malfunctions later understood to be caused by proximity to Unknown Artefacts — early evidence of Thargoid technology interference. Eravate thus represents one of the first documented cases of what would escalate into a major threat to starport operations, with the technological plague foreshadowing the full-scale Thargoid conflict that would follow.

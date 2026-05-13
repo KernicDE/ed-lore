@@ -39,4 +39,6 @@ Total mentions: **8**
 
 ## Biography
 
-*[To be enriched]*
+The Turner Research Group is a scientific organisation established by the Alliance in 3302 to study the barnacles discovered in the California Nebula. The group has controlled several systems in the region and supported Alliance outpost construction, offering to reward pilots who delivered construction materials to Darwin Research Facility.
+
+In 3309, the Turner Research Group voiced skepticism about Archon Delaine's mobilisation of the Kumo Crew to defend the California Nebula from Thargoid invasions, with spokesperson Harrison Gladstone declaring that Delaine was using the Thargoid attacks as a pretext for a power grab. The group's scientific mandate has frequently placed it in tension with both pirate factions and military authorities, reflecting the California Nebula's complex political landscape.

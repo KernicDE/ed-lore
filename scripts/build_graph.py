@@ -60,6 +60,7 @@ MERGE_ALIASES: dict[str, str] = {
     "Lakon": "Lakon Spaceways",
     "Saud Kruger": "Saud Kruger",
     "Dr. Walden": "Hans Walden",
+    "Smeaton": "Nigel Smeaton",
     # Duplicate canonicalisation
     "Emperor Hengist Duval": "Hengist Duval",
     "Rochester": "Jupiter Rochester",
@@ -67,6 +68,12 @@ MERGE_ALIASES: dict[str, str] = {
     "Commander Corrigendum": "Corrigendum",
     "Admiral Denton Patreus": "Denton Patreus",
     "President Jasmina Halsey": "Jasmina Halsey",
+    "Princess Aisling Duval": "Aisling Duval",
+    "Chancellor Blaine": "Anders Blaine",
+    "Chancellor Anders Blaine": "Anders Blaine",
+    "Commander Lord Zoltan": "Lord Zoltan",
+    "Proactive Detection Bureau surveillance system": "Proactive Detection Bureau",
+    "Proactive Detection Bureau surveillance algorithms": "Proactive Detection Bureau",
 }
 
 LOCATION_BLOCKLIST = {
@@ -91,6 +98,7 @@ ENTITY_BLOCKLIST = {
     "Thargoid", "Guardian", "Aegis", "NMLA", "Marlinist", "Azimuth",
     "Salvation", "ACT", "INRA", "Emperor", "President", "Prime Minister",
     "Shadow President", "Senator", "Admiral", "General", "Commander", "CEO",
+    "The Sirius", "The Achenar",
     # NLP extraction artifacts
     "With", "Our", "Which", "Each", "Further", "Vessel", "Suspended",
     "Found", "Every", "Run", "All", "Any", "Both", "Can", "Had", "Has",

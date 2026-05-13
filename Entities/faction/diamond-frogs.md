@@ -40,4 +40,6 @@ Total mentions: **9**
 
 ## Biography
 
-*[To be enriched]*
+The Diamond Frogs is a private security firm and faction that has provided mercenary services across human space. In early 3302, the group was hired by the Paladin Consortium to protect cargo vessels delivering water purifiers to liberated Imperial slaves at Onnes Gateway in the LFT 37 system.
+
+The Diamond Frogs also coordinated with the Pilots Federation to gather supplies for the Distant Worlds explorers' gala at Skvortsov Orbital in May 3302. Commander Kermit Laphroaig praised the tenacity of his fellow mercenaries under hostile conditions, and Commander Felix Dyson reported on their activities for Radio Skvortsov. The faction exemplifies the independent private military companies that operate in the gaps between superpower navies.

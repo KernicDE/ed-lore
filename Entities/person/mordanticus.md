@@ -28,4 +28,6 @@ Total mentions: **8**
 
 ## Biography
 
-*[To be enriched]*
+Mordanticus, also known as Duke Kaeso Mordanticus, was the Imperator and military commander of Nova Imperium, an isolationist faction that challenged the Empire's political establishment in early 3305. He mustered military forces in the Paresa system and declared that Hadrian Duval should be Emperor, rejecting the authority of Emperor Arissa Lavigny-Duval and the Imperial Senate.
+
+In January 3305, the Empire declared open conflict with Nova Imperium, and Mordanticus was captured during the Battle of Paresa after his fleet was destroyed. He was brought before the full Imperial Senate to face charges of treason, with political observers speculating that Emperor Arissa intended to make a public example of him. His capture dealt a mortal blow to the isolationist cause, though Nova Imperium survived in the Paresa system and would later be integrated into the Imperial power structure under Hadrian Duval's leadership.

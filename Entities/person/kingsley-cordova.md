@@ -28,4 +28,6 @@ Total mentions: **10**
 
 ## Biography
 
-*[To be enriched]*
+Kingsley Cordova is the owner of the Mars Tribune and the Cordova Group, a Federal media conglomerate implicated in a large-scale corporate surveillance scandal in late 3304. An anonymous whistle-blower from the Achilles Corporation revealed that Cordova had blackmailed a robotics engineer into installing surveillance programs on PA912 robots belonging to well-known individuals in the Sol system.
+
+The accumulated data was relayed to the Cordova Group for publication in the Mars Tribune. The scandal prompted Achilles Corporation to release a coreware update with a remote kill switch that deleted the spy program from all affected robots. Cordova's actions demonstrated how media corporations could leverage technology for illicit intelligence gathering, blurring the boundary between journalism and corporate espionage.

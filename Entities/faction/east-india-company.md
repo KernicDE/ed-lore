@@ -39,4 +39,6 @@ Total mentions: **8**
 
 ## Biography
 
-*[To be enriched]*
+The East India Company is a pilots' federation member and trading organisation that established the Galactic Silk Road in April 3301. The route featured seventeen highly profitable stops across civilised space, with the company arranging patrols with the Federal Navy, Mercs of Mikunn, Merchant Marines and other factions to protect traders.
+
+The company played a role in the Federal military campaign against Kappa Fornacis farmers growing Lucan Onionhead, supporting the Federation's prohibition efforts. The East India Company's trading network and military cooperation demonstrated how player-organised factions could establish protected commerce routes and influence galactic economics, setting a precedent for cooperative trading initiatives across the galaxy.

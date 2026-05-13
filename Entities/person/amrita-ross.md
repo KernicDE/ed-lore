@@ -27,4 +27,6 @@ Total mentions: **8**
 
 ## Biography
 
-*[To be enriched]*
+Amrita Ross is a Marlinist politician who served as Acting First Minister of the Marlinist Colonies following the NMLA starport bombings of August 3307. The attacks killed over 35,000 civilians and claimed the life of First Minister Jenna Fairfax, plunging the Marlinist Parliament into political chaos. Ross assumed temporary leadership as the Constabulary tightened security and ACT launched urgent investigations.
+
+Ross's tenure during the crisis highlighted the vulnerability of the Marlinist Colonies to extremist violence, even as they sought to establish a democratic alternative to Imperial rule. The bombing campaign, carried out by Theta Group with logistical support from local Neo-Marlinists, demonstrated that the NMLA's terrorism could strike anywhere, including communities that shared their republican ideals. Ross's leadership during this period was marked by efforts to stabilise the government while coordinating relief with Alliance and Federation support.

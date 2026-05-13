@@ -52,4 +52,6 @@ Total mentions: **9**
 
 ## Biography
 
-*[To be enriched]*
+Kaushpoos is a system in the Pleiades Nebula that was the site of the first deep-space Ocellus starport construction project. In late 3301, the Explorers' Association launched an initiative to build the starport with support from independent pilots who delivered palladium and eliminated pirates disrupting the assembly.
+
+The successful construction of the starport in Kaushpoos opened new frontiers for exploration in the Pleiades and established a permanent human presence in the region years before the full-scale Thargoid invasion. Kaushpoos thus represents a milestone in deep-space infrastructure development, demonstrating how community-driven campaigns could establish footholds in previously uncolonised nebulae.

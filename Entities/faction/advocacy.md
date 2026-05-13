@@ -39,4 +39,6 @@ Total mentions: **9**
 
 ## Biography
 
-*[To be enriched]*
+Advocacy is a faction that promotes political reform and democratic values, particularly within the Federation. In 3309, the group was active in the anti-authoritarian protest movements that blamed superpower leaders for allowing the Thargoid war to escalate, with activists accusing governments of prioritising corporate arms profits over civilian lives.
+
+The faction's platform emphasises government accountability and opposition to the military-industrial complex's influence over superpower policy. Advocacy's alignment with the broader protest movement placed it in tension with surveillance agencies such as the Proactive Detection Bureau, which began identifying and "pre-cautioning" Federal citizens who expressed anti-authority sympathies during the unrest.

@@ -27,4 +27,6 @@ Total mentions: **10**
 
 ## Biography
 
-*[To be enriched]*
+Admiral Rachel Ziegler is a senior officer in the Alliance Defence Force who publicly condemned President Gibson Kincaid's military power grab in 3305. When Kincaid assumed direct command of the Zaonce fleet through Admiral Frederick Yamamoto — a personal friend — Ziegler denounced the decision as "political grandstanding that borders on treason."
+
+Her opposition highlighted the Council of Admirals' resistance to Kincaid's authoritarian ambitions, which included bypassing the existing ADF command structure. Ziegler's stance aligned with Prime Minister Edmund Mahon's demands for Kincaid's resignation, and her public condemnation demonstrated that senior military officers were willing to challenge political interference in the Alliance Defence Force's chain of command.

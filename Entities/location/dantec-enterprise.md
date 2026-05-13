@@ -35,4 +35,6 @@ Total mentions: **9**
 
 ## Biography
 
-*[To be enriched]*
+Dantec Enterprise is a starport in the Socho system that served as the collection point for Aegis Core's starport repair initiative in mid-3304. Following Thargoid strikes on the fringes of the core systems, Chief Administrator Carter Armstrong appealed to independent pilots to deliver construction materials to Dantec Enterprise, which were then shipped to affected starports for repairs.
+
+The initiative was designed to reassure citizens that normality would continue despite the alien threat, and to restore services in core systems to their previously high standard. Dantec Enterprise's role in the repair campaign highlighted the critical importance of logistics hubs in maintaining infrastructure during the early phases of Thargoid incursions.

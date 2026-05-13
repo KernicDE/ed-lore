@@ -36,4 +36,6 @@ Total mentions: **10**
 
 ## Biography
 
-*[To be enriched]*
+The Oracle is a starport in the Delphi system that suffered a catastrophic Thargoid attack in May 3307. The station's alignment thrusters were shut down by cascading systems failure after caustic enzyme damage, causing the entire starport to tumble out of orbit toward Delphi 5 a.
+
+With only hours before collision, independent pilots risked their lives to rescue thousands of trapped civilians while Engineers patched the alignment systems. The station was stabilised with hours to spare, preventing what Sirius Inc described as "one of the most horrific disasters in modern history." The Oracle incident revealed a Thargoid tactic of disabling station alignment systems to cause orbital decay, prompting unilateral efforts across human space to reinforce starports against similar attacks.

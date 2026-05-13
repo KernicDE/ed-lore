@@ -37,4 +37,6 @@ Total mentions: **8**
 
 ## Biography
 
-*[To be enriched]*
+The Oracle is an Ocellus starport that relocated to the Pleiades Sector IR-W d1-55 system in July 3303 to establish a dedicated research centre at a Thargoid structure site. Governor Ahmed, the starport's principal administrator, stated that the facility was essential for studying the Thargoids and answering fundamental questions about their intentions and communication.
+
+The starport was later targeted during the Thargoid escalation, suffering attacks as part of the broader offensive in the Pleiades Nebula. By May 3307, the Oracle had fallen to Thargoid forces, marking one of the most significant civilian casualties of the early Thargoid war. Its destruction underscored the vulnerability of scientific outposts positioned near alien sites and the risks researchers took in attempting first contact with an aggressive species.

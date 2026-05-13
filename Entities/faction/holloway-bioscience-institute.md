@@ -39,4 +39,6 @@ Total mentions: **8**
 
 ## Biography
 
-*[To be enriched]*
+The Holloway Bioscience Institute is a scientific research organisation dedicated to the study of xenological life forms. In February 3305, Dr Roy Casimir announced plans to construct a dedicated research centre in the Nahuaru system to analyse new life forms discovered through the Codex, requesting construction materials and exploration data from independent pilots.
+
+The Institute later became involved in broader Thargoid research, with senior member Dr Jeong-Hui Shin contributing to academic debates about Thargoid behaviour following the Proteus Wave disaster in 3308. The Holloway Bioscience Institute's work expanded humanity's biological knowledge beyond the Thargoid focus, studying the diverse alien ecosystems that pilots encountered across the galaxy.

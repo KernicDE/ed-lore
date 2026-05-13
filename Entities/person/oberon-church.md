@@ -28,4 +28,6 @@ Total mentions: **8**
 
 ## Biography
 
-*[To be enriched]*
+Oberon Church is the founder and kingpin of the Red Family, a notorious narcotics syndicate operating in Federal space. In mid-3305, Church developed a genetically engineered designer narcotic far more addictive than any existing substance, prompting co-founder Jan Sandoval to surrender to the Federal Intelligence Agency to prevent its mass production.
+
+Despite coordinated FIA raids that seized most of the organisation's assets and arrested numerous operatives, Church managed to evade capture. Federal Times crime correspondent Ethan Takahashi reported that Church had "lived up to his self-styled image as 'the man of smoke', forever drifting through the fingers of those who try to grasp him." Proactive Detection Bureau analysts worked to decrypt communications from captured data drives to pinpoint his location, but Church's ability to evade justice demonstrated the resilience of well-entrenched criminal networks even against the Federation's most advanced surveillance capabilities.

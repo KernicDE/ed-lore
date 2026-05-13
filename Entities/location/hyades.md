@@ -42,4 +42,6 @@ Total mentions: **10**
 
 ## Biography
 
-*[To be enriched]*
+The Hyades is a star cluster and region of space that became one of the primary battlegrounds of the Second Thargoid War. In late 3308, the Maelstrom known as Taranis arrived in the Hyades Sector FB-N b7-6 system, manifesting as a colossal gas cloud that immediately unleashed vast numbers of Thargoid vessels into neighbouring systems.
+
+The cluster's proximity to the core systems made it strategically vital, and the arrival of additional Maelstroms during December 3308 transformed the Hyades into a focal point of the Thargoid onslaught. The region's invasion caused millions of casualties and displaced millions more, establishing the devastating scale of the conflict that would dominate 3309. The Hyades thus represents the epicentre of the most intense phase of Thargoid aggression in modern history.

@@ -51,4 +51,6 @@ Total mentions: **9**
 
 ## Biography
 
-*[To be enriched]*
+Didio is a system that became a focal point of the Alliance-Sirius Corporation defence pact controversy in 3308. The system was one of the locations where the Alliance Defence Force deployed with logistical support from Sirius during the trial period of the strategic partnership, demonstrating the megacorp's capacity to support Allied military operations.
+
+In May 3308, Didio was among the systems invaded by Thargoid forces, and the successful defence using Salvation's superweapons convinced the superpowers to support Azimuth Biotech's technology. Didio's role in both the political debate over corporate-military alliances and the actual combat against Thargoid invasion made it a symbol of the Alliance's struggle to balance security needs with concerns about corporate infiltration.

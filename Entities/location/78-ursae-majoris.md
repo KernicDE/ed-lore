@@ -52,4 +52,6 @@ Total mentions: **8**
 
 ## Biography
 
-*[To be enriched]*
+78 Ursae Majoris is a heavily populated Federal system that erupted into civil war in March 3301 when rebels declared their intention to secede from the Federation. The conflict, which affected over 10 billion residents, began just hours after news of the planned secession broke, demonstrating how quickly political unrest could escalate into open warfare.
+
+Local farmer Gryph Jones criticised both the revolutionaries and the Federal government, arguing that the Federation's focus on distant conflicts like Lugh and the Onionhead crisis had left frontier systems neglected. The system's civil war illustrated the tension between Federal centralisation and local autonomy, and how the superpower's military commitments elsewhere could create instability closer to home. 78 Ursae Majoris was eventually stabilised, though the underlying grievances that sparked the rebellion continued to simmer in other frontier systems.

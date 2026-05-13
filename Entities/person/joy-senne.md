@@ -28,4 +28,6 @@ Total mentions: **9**
 
 ## Biography
 
-*[To be enriched]*
+Joy Senne is an ICE-caster and community liaison for the Thargoid Advocacy Project, a xeno-peace movement that advocated for diplomatic relations with the Thargoids. In late 3308, Senne distanced herself from radical anti-authoritarian protests that blamed superpower leaders for the Thargoid war, noting that many former xeno-peace members had abandoned the movement's principles.
+
+Senne's ICE-cast provided a platform for debate about Thargoid policy, including interviews with Bernadette Wells of the Thargoid Advocacy Project, who rejected claims that the approaching rogue signal sources were hostile. Senne's measured approach contrasted with more militant activists like Heimar Borichev, and her withdrawal from the radical fringe demonstrated the fracture within the xeno-peace movement as the Maelstroms made diplomatic solutions appear increasingly untenable.

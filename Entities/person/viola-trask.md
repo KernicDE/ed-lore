@@ -28,4 +28,6 @@ Total mentions: **8**
 
 ## Biography
 
-*[To be enriched]*
+Viola Trask is an Executive Agent of the Federal Intelligence Agency who oversaw the protective custody of Red Family cartel co-founder Jan Sandoval in mid-3305. In July 3305, a mercenary hit squad infiltrated FIA headquarters in Olympus Village attempting to assassinate Sandoval, who had surrendered to testify against the cartel's leadership.
+
+Trask described the breach as "extraordinary" and noted that the mercenaries carried false identification to bypass security checks. The assassination attempt was neutralised before the squad could reach Sandoval, reinforcing Trask's belief that Sandoval's testimony posed a legitimate threat to the Red Family's existence. Trask's leadership during the crisis demonstrated the FIA's commitment to protecting key witnesses, even as corrupt elements within the agency attempted to silence them.
