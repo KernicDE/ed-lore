@@ -14,17 +14,6 @@ bio: Project Seraph is a technology in the Elite Dangerous universe, mentioned f
 
 
 
-<!-- AUTO-GENERATED -->
+Project Seraph stands as one of the most disturbing chapters in Aegis's history, a classified research programme that subjected nearly two hundred human test subjects to experimental procedures intended to develop anti-Thargoid capabilities. The project represented the darker side of wartime scientific urgency, where ethical boundaries were crossed in pursuit of perceived survival imperatives. Only one subject survived the trials: Seo Jin-ae, whose experiences would transform her into one of the most determined adversaries of the programme's architect, Salvation.
 
-# Project Seraph
-
-First mentioned: **3310-10-18**  
-Last mentioned: **3311-06-03**  
-Total mentions: **3**
-
-## Related
-
-
-## Biography
-
-*[To be enriched]*
+In late 3310, Seo revealed the full scope of Project Seraph's atrocities and declared her intent to find and shut down Salvation, whom she believed had transcended physical death to persist as a consciousness within the HIP 22460 system. Her revelations, supported by Aegis figures including Alba Tesreau, exposed how the organisation had permitted or actively supported research that treated human beings as disposable experimental material. Project Seraph thus became a symbol of the moral corruption that could emerge when fear of an external threat justified any means of response, leaving lasting scars on both survivors and the institutions that had enabled such practices.

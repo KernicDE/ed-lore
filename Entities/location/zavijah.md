@@ -34,22 +34,6 @@ bio: Zavijah is a star system in the Elite Dangerous universe, significant from 
 
 
 
-<!-- AUTO-GENERATED -->
+Zavijah is an independent corporate system controlled by Sirius Corporation, home to over twenty million inhabitants with a high-security industrial economy supported by refinery operations. Located remarkably close to Sol by galactic standards, the system features Wheelock Ring as a primary installation and has historically maintained connections to both the Alliance and research organisations such as the Canonn Interstellar Research Group. Its corporate governance under one of the galaxy's most powerful companies distinguishes it from neighbouring independent systems.
 
-# Zavijah
-
-First mentioned: **3304-08-31**  
-Last mentioned: **3304-09-09**  
-Total mentions: **3**
-
-## Related
-
-- [[Far God cult]] (3 co-mentions)
-- [[LHS 2541 Alliance Combine]] (2 co-mentions)
-- [[Wheelock Ring]] (2 co-mentions)
-- [[Alliance]] (1 co-mentions)
-- [[Canonn Interstellar Research Group]] (1 co-mentions)
-
-## Biography
-
-*[To be enriched]*
+In late 3304, Zavijah became the focal point of a controversial campaign when an open order was placed for Thargoid materials to be delivered to Wheelock Ring, accompanied by a kill order on wanted ships to protect participating traders. The initiative attracted hundreds of pilots and drew attention from the Far God cult and the LHS 2541 Alliance Combine. This episode demonstrated how systems with corporate allegiances could become centres for anti-xeno activities that blurred the lines between research, commerce, and military preparation.

@@ -15,17 +15,6 @@ bio: Titan Cocijo is a technology in the Elite Dangerous universe, mentioned fro
 
 
 
-<!-- AUTO-GENERATED -->
+Titan Cocijo was one of the massive Thargoid bio-mechanical vessels that spearheaded the alien invasion of the 3310s, serving as both a mobile base of operations and a weapon of unprecedented destructive capability. These Titans represented the apex of Thargoid engineering, combining organic growth patterns with integrated technology to create self-sustaining warships capable of deploying vast numbers of smaller craft. Their appearance above human worlds marked the most severe escalation in the centuries-long conflict between humanity and the Thargoids.
 
-# Titan Cocijo
-
-First mentioned: **3310-12-05**  
-Last mentioned: **3311-06-18**  
-Total mentions: **3**
-
-## Related
-
-
-## Biography
-
-*[To be enriched]*
+Following its destruction, the wreckage of Titan Cocijo settled into orbit above Earth, becoming an unintended monument to both the devastation of the invasion and humanity's eventual capacity to resist it. Federal authorities struggled to enforce visitor limits as pilots flocked to the site seeking trophies, scientific knowledge, and personal memorials. Commodore Morayo Orina later presided over a formal memorial service at a beacon near the wreckage, honouring those lost in the battles that brought the Titan down and acknowledging the complex emotions the site evoked for a species that had faced extinction.

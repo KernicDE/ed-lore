@@ -13,17 +13,6 @@ bio: Supercharged Frame Shift Drive is a technology in the Elite Dangerous unive
 
 
 
-<!-- AUTO-GENERATED -->
+The Supercharged Frame Shift Drive represents a major leap in deep-space propulsion technology, developed through collaboration between Zorgon Peterson and Core Dynamics to address the persistent challenge of traversing vast interstellar distances efficiently. Unlike standard FSD units that operated within established safety parameters, the supercharged variant could temporarily push beyond conventional limits, generating extended jump ranges that opened previously inaccessible regions to small craft. This capability transformed the economics of exploration by allowing vessels that would normally require fleet carrier support to operate independently in the deep frontier.
 
-# Supercharged Frame Shift Drive
-
-First mentioned: **3312-02-24**  
-Last mentioned: **3312-04-28**  
-Total mentions: **3**
-
-## Related
-
-
-## Biography
-
-*[To be enriched]*
+Introduced in early 3312, the technology was specifically designed for extreme deep-space exploration missions where conventional range limitations would prove prohibitive. Its deployment on appropriately engineered hulls enabled independent pilots to push the boundaries of the galactic map with unprecedented speed and autonomy. The supercharged FSD exemplified how advances in frame shift technology continued to expand humanity's effective sphere of influence, making regions that had required weeks of travel accessible in days.

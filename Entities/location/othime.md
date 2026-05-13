@@ -33,22 +33,6 @@ bio: Othime is a star system in the Elite Dangerous universe, significant from 3
 
 
 
-<!-- AUTO-GENERATED -->
+Othime is an independent system governed under anarchy by the Diamond Frogs faction, home to approximately 44,000 inhabitants with a refinery economy supported by extraction operations. Located at coordinates placing it within reach of the Pleiades Nebula and major superpower territories, the system maintains its independence despite pressure from surrounding Federal and Imperial interests. Its small population and anarchy status belie its significance as a case study in how frontier systems can persist outside conventional governance structures.
 
-# Othime
-
-First mentioned: **3304-03-09**  
-Last mentioned: **3304-03-16**  
-Total mentions: **3**
-
-## Related
-
-- [[Coalition of Othime]] (3 co-mentions)
-- [[Aegis]] (1 co-mentions)
-- [[Federation]] (1 co-mentions)
-- [[Empire]] (1 co-mentions)
-- [[Pleiades Nebula]] (1 co-mentions)
-
-## Biography
-
-*[To be enriched]*
+In mid-3304, the Coalition of Othime announced plans to construct a new asteroid base to expand refinery facilities, representing a significant investment in local industrial capacity. The project demonstrated how even systems with unconventional political arrangements could pursue organised economic development. Othime's experience illustrated the diversity of governance models across human space, where anarchy did not necessarily imply chaos but rather the absence of hierarchical authority structures that characterised superpower-administered territories.

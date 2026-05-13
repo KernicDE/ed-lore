@@ -14,17 +14,6 @@ bio: Sinclair Faraldo is a engineer in the Elite Dangerous universe, active from
 
 
 
-<!-- AUTO-GENERATED -->
+Sinclair Faraldo served as marketing director for a technology division operating within the Pilots Federation and Sirius Corporation networks during mid-3307. His role required translating complex engineering capabilities into compelling value propositions for the independent pilot market, a demographic known for its sophistication and scepticism toward corporate messaging. In June 3307, he announced the development of an advanced scanner module that would deliver twice the probe coverage of standard equipment, positioning the innovation as a significant upgrade for exploration and survey operations.
 
-# Sinclair Faraldo
-
-First mentioned: **3307-06-17**  
-Last mentioned: **3307-07-23**  
-Total mentions: **3**
-
-## Related
-
-
-## Biography
-
-*[To be enriched]*
+Faraldo's subsequent confirmation that mass production had begun and that the module would soon be available through human technology brokers demonstrated the rapid development cycles that characterised competitive technology markets in the 3300s. His communications style balanced technical specificity with accessible explanations, reflecting an understanding that pilots required both performance data and practical context to make purchasing decisions. Through his work, Faraldo illustrated how marketing professionals served as critical intermediaries between engineering teams and the independent operators who ultimately determined commercial success in the galactic technology sector.

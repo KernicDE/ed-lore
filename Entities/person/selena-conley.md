@@ -14,17 +14,6 @@ bio: Selena Conley is a pilot in the Elite Dangerous universe, active from 3304-
 
 
 
-<!-- AUTO-GENERATED -->
+Selena Conley served as a progenitor and project leader within the Libertas Cooperative during the mid-3300s, championing an initiative to expand the distribution of Munshin Manatee Meat beyond its traditional regional market. Her vision centred on bringing the product to a wider consumer base across independent and aligned territories, requiring both logistical innovation and persuasive marketing to overcome the challenges of interstellar food distribution. The project represented a significant investment in local agricultural capacity with ambitions for galactic-scale commercial reach.
 
-# Selena Conley
-
-First mentioned: **3304-09-13**  
-Last mentioned: **3304-09-22**  
-Total mentions: **3**
-
-## Related
-
-
-## Biography
-
-*[To be enriched]*
+In September 3304, Conley publicly thanked the independent pilots who had supported the initiative, confirming that increased manatee meat production would generate substantial economic benefits for the Munshin system. Her statements framed the project as a model for how cooperative ventures could leverage pilot networks to achieve economic development goals that might otherwise require corporate or superpower intervention. Conley's work illustrated the entrepreneurial energy that characterised independent systems seeking to build sustainable economies through specialised agricultural and food production industries.

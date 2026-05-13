@@ -34,22 +34,6 @@ bio: Narri is a star system in the Elite Dangerous universe, significant from 33
 
 
 
-<!-- AUTO-GENERATED -->
+Narri is an independent corporate system governed by Zentech Enterprises, home to nearly five million inhabitants with a high-security industrial economy supported by extraction operations. Located within reach of both Utopia and core Federal territories, the system features Bobko City as a primary installation and has served as a flashpoint for competing political visions. Its substantial population and strategic positioning have made it a significant node in regional trade and security networks.
 
-# Narri
-
-First mentioned: **3304-05-04**  
-Last mentioned: **3304-05-13**  
-Total mentions: **3**
-
-## Related
-
-- [[Utopia]] (3 co-mentions)
-- [[Narri Justice Party]] (3 co-mentions)
-- [[Bobko City]] (3 co-mentions)
-- [[Aegis]] (1 co-mentions)
-- [[IISS]] (1 co-mentions)
-
-## Biography
-
-*[To be enriched]*
+In mid-3304, the Utopia commune launched an ambitious project to construct a military installation in Narri to defend the Sim-Archive from potential Thargoid attack, with the Narri Justice Party overseeing construction efforts. The project requested pilot deliveries of materials to Bobko City alongside protection for traders from pirate activity. This initiative illustrated how even nominally pacifist communities like Utopia recognised the necessity of military preparedness during the escalating alien conflict, while also demonstrating the reliance on independent pilots for large-scale logistical operations.

@@ -34,22 +34,6 @@ bio: Mentor is a star system in the Elite Dangerous universe, significant from 3
 
 
 
-<!-- AUTO-GENERATED -->
+Mentor is a substantial Federal democratic system home to over three billion inhabitants, governed by The Fatherhood faction with an agricultural economy supported by terraforming operations. Located within Federal space at coordinates that place it within reach of multiple strategic regions, the system features Lasswitz Terminal among its installations. Its medium security rating and massive population make it a significant administrative and economic centre within its Federal sector.
 
-# Mentor
-
-First mentioned: **3301-12-23**  
-Last mentioned: **3304-03-31**  
-Total mentions: **3**
-
-## Related
-
-- [[Aegis]] (2 co-mentions)
-- [[Lunguni]] (2 co-mentions)
-- [[HIP 21559]] (2 co-mentions)
-- [[Irandan]] (2 co-mentions)
-- [[Lasswitz Terminal]] (1 co-mentions)
-
-## Biography
-
-*[To be enriched]*
+The system's documented history reveals its multifaceted role in galactic affairs. In late 3301, Admiral Aden Tanner announced that Aegis vessels including the Acropolis and Vanguard would operate in Mentor and neighbouring Lunguni, establishing the system as part of the defensive network against emerging Thargoid threats. Concurrently, Alfred Jeffress's third treasure hunt concluded at Lasswitz Terminal in Mentor, where Commanders MAX RED and Sync Mercy solved riddles leading through multiple systems. These overlapping uses demonstrated how major population centres could simultaneously serve military, commercial, and recreational functions.

@@ -15,17 +15,6 @@ bio: Gabriella Mastopolos is a senator in the Elite Dangerous universe, active f
 
 
 
-<!-- AUTO-GENERATED -->
+Gabriella Mastopolos served as chief executive of Mastopolos Mining, one of the largest resource extraction corporations in Imperial space, while simultaneously holding a position in the Imperial Senate that gave her direct influence over the legislative framework governing her industry. This dual role exemplified the close relationship between corporate and political power within the Empire, where senators frequently maintained active business interests alongside their governmental responsibilities. Her leadership of Mastopolos Mining positioned her at the apex of an industrial empire that spanned dozens of systems and employed millions.
 
-# Gabriella Mastopolos
-
-First mentioned: **3307-08-10**  
-Last mentioned: **3307-10-08**  
-Total mentions: **3**
-
-## Related
-
-
-## Biography
-
-*[To be enriched]*
+In mid-3307, Senator Zemina Torval established Torval-Mastopolos Mining as an autonomous offshoot of Mastopolos Mining, creating a significant rift with Gabriella Mastopolos that would reshape the landscape of Imperial resource extraction. The subsequent rebranding of the subsidiary as Torval Mining Ltd, fully independent from its parent company, represented both a personal rupture between two powerful Imperial women and a strategic realignment of corporate assets. This split demonstrated how even the most established corporate structures could be fractured by the competing ambitions of Imperial aristocrats who viewed commercial empires as extensions of their political influence.

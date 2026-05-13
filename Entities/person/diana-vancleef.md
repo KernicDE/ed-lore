@@ -15,17 +15,6 @@ bio: Diana VanCleef is a scientist in the Elite Dangerous universe, active from 
 
 
 
-<!-- AUTO-GENERATED -->
+Professor Diana VanCleef served as a scientific adviser to the Colonia Council and the Colonia Research Division during the critical early phases of the distant colony's development. Her expertise in agricultural biotechnology made her an essential figure in addressing one of the colony's most pressing challenges: establishing reliable food production in a region thousands of light-years from the agricultural infrastructure of the core worlds. In mid-3304, she announced plans for a facility that would provide sustainable food supplies specifically tailored to the colony's unique environmental conditions.
 
-# Diana VanCleef
-
-First mentioned: **3304-08-17**  
-Last mentioned: **3304-08-26**  
-Total mentions: **3**
-
-## Related
-
-
-## Biography
-
-*[To be enriched]*
+The proposed facility incorporated both biofoods and super-grains alongside a dedicated research laboratory for developing new biotech crops adapted to local conditions. VanCleef's vision extended beyond immediate subsistence to encompass long-term agricultural innovation that could support continued population growth and economic diversification. Her work demonstrated how scientific expertise transferred from core systems could be applied to frontier challenges, establishing foundations for self-sufficiency that would prove essential to Colonia's survival as an independent civilisation.

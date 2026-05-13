@@ -17,22 +17,6 @@ bio: Smith Port is a starport in the Elite Dangerous universe, significant from 
   and modules.
 ---
 
-<!-- AUTO-GENERATED -->
+Smith Port functions as a key installation within the Run system, serving as both a logistical hub and a symbol of independent organisational capacity during the mid-3300s. The port became closely associated with the Rogue Runners and Rogue Security, factions that established a distinctive presence in the region through a combination of commercial activity and unconventional governance approaches. Its documented history from late 3303 through early 3308 placed it within a network of installations that supported emerging independent powers seeking to establish viable alternatives to superpower control.
 
-# Smith Port
-
-First mentioned: **3303-12-01**  
-Last mentioned: **3308-01-13**  
-Total mentions: **3**
-
-## Related
-
-- [[Rogue Runners]] (2 co-mentions)
-- [[Run]] (2 co-mentions)
-- [[Leif Enterprise]] (2 co-mentions)
-- [[Rogue Security]] (1 co-mentions)
-- [[Dulos]] (1 co-mentions)
-
-## Biography
-
-*[To be enriched]*
+In late 3303, founder Autumn Leif confirmed that Smith Port would soon expand its services to offer a large selection of ships and modules, thanking supporters who had contributed to the base's development. This announcement represented a significant milestone for the independent factions operating from the installation, demonstrating their ability to develop infrastructure capable of supporting pilot needs typically met only by major corporate or government starports. Smith Port's evolution illustrated how independent bases could grow from modest beginnings into functional economic centres through sustained community support.

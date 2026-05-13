@@ -14,17 +14,6 @@ bio: Imperial Eagle is a technology in the Elite Dangerous universe, mentioned f
 
 
 
-<!-- AUTO-GENERATED -->
+The Imperial Eagle represents Gutamaya Shipyards' refined interpretation of the classic Eagle Mk II light fighter design, re-engineered to meet Imperial Navy specifications while incorporating the aesthetic and performance priorities that distinguish Imperial craft. Unveiled in late 3301, the vessel featured enhanced manoeuvrability and speed that made it an exceptional interceptor and patrol craft, capable of engaging targets that heavier ships could not pursue effectively. Its streamlined profile and distinctive Imperial design language immediately established it as a recognisable symbol of Imperial naval presence.
 
-# Imperial Eagle
-
-First mentioned: **3301-09-10**  
-Last mentioned: **3302-11-19**  
-Total mentions: **3**
-
-## Related
-
-
-## Biography
-
-*[To be enriched]*
+Manufactured exclusively for the Imperial Navy and pilots who had attained at least Outsider rank within the Imperial hierarchy, the Imperial Eagle retailed at 110,825 credits — a price point that reflected both its specialised engineering and its role as a status marker for aspiring Imperial servants. The ship's association with Core Dynamics in its development hinted at the complex corporate relationships that underpinned even proudly Imperial military procurement. Through the Imperial Eagle, Gutamaya demonstrated how the Empire balanced practical combat requirements with the presentation of power that characterised its approach to military affairs.

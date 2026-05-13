@@ -31,22 +31,6 @@ bio: Xelabara is a star system in the Elite Dangerous universe, significant from
 
 
 
-<!-- AUTO-GENERATED -->
+Xelabara is a substantial Alliance system governed through democratic processes, home to over 240 million inhabitants with an economy centred on agriculture and colony development. Controlled by the Spearhead Charter faction, the system maintains Alliance allegiance while hosting diverse political movements including the Xelabara Republic Party. Its location within Alliance space and its agricultural productivity make it both economically significant and strategically relevant to the confederation's food security.
 
-# Xelabara
-
-First mentioned: **3301-11-19**  
-Last mentioned: **3301-11-25**  
-Total mentions: **3**
-
-## Related
-
-- [[Drug Empire of Xelabara]] (3 co-mentions)
-- [[Navigator Market]] (2 co-mentions)
-- [[Farmer's Cooperative of Kappa Fornacis]] (1 co-mentions)
-- [[Kappa Fornacis]] (1 co-mentions)
-- [[Xelabara Republic Party]] (1 co-mentions)
-
-## Biography
-
-*[To be enriched]*
+In late 3301, Xelabara gained notoriety when the Drug Empire of Xelabara emerged as a major criminal organisation operating from the system, drawing the attention of the Farmer's Cooperative of Kappa Fornacis and other external interests. The juxtaposition of legitimate agricultural enterprise with large-scale narcotics production illustrated the complex economic realities of frontier systems, where illicit industries could flourish alongside lawful commerce. Xelabara's experience demonstrated how even well-populated, formally democratic systems could harbour significant criminal elements that challenged both local and Alliance-wide authorities.

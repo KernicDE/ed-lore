@@ -14,17 +14,6 @@ bio: Highliner Antares is a technology in the Elite Dangerous universe, mentione
 
 
 
-<!-- AUTO-GENERATED -->
+The Highliner Antares stands as one of the most infamous vessels in human history, a passenger liner destroyed in 3251 under circumstances that remain controversial and partially classified more than half a century later. The disaster claimed thousands of lives and became a touchstone for debates about corporate accountability, transportation safety, and the limits of human knowledge regarding anomalous phenomena. The official investigation attributed the destruction to a drive malfunction, though alternative theories persisted among researchers and conspiracy theorists who questioned whether the full truth had been disclosed.
 
-# Highliner Antares
-
-First mentioned: **3301-05-27**  
-Last mentioned: **3302-07-01**  
-Total mentions: **3**
-
-## Related
-
-
-## Biography
-
-*[To be enriched]*
+In 3301, Sirius Corporation unveiled a memorial to the victims, acknowledging the enduring significance of the tragedy across generations. Political figures including Jasmina Halsey and Felicia Winters drew explicit parallels between the Antares disaster and contemporary policy challenges, using historical memory to shape present-day decision-making. The Highliner Antares thus functioned not merely as a historical event but as an active element in political discourse, a cautionary tale invoked whenever questions of corporate responsibility, technological risk, or governmental oversight arose in galactic affairs.

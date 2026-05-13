@@ -14,17 +14,6 @@ bio: Kyle Kurowski is a pilot in the Elite Dangerous universe, active from 3301-
 
 
 
-<!-- AUTO-GENERATED -->
+Kyle Kurowski emerged as the leader of the Cayutorme Syndicate mercenary fleet during the turbulent period of late 3301, commanding a force that challenged Imperial authority in contested systems. His operations drew the attention of both the Imperial Navy and independent observers, as the Syndicate's activities disrupted trade and governance across multiple territories. The precise origins of Kurowski's force remained obscure, though its tactical capabilities suggested professional military training and substantial logistical support.
 
-# Kyle Kurowski
-
-First mentioned: **3301-11-04**  
-Last mentioned: **3301-11-11**  
-Total mentions: **3**
-
-## Related
-
-
-## Biography
-
-*[To be enriched]*
+In November 3301, Imperial forces launched a decisive campaign against the Cayutorme Syndicate that culminated in the defeat of Kurowski's fleet and the restoration of order to the affected system. Kurowski himself went missing in the aftermath, while captured vessels were sold at discount from Adkins Port, generating speculation about whether he had escaped, been killed, or fallen into Imperial custody. The rapid suppression of his forces demonstrated the Empire's willingness to deploy overwhelming military power against mercenary groups that threatened its territorial control.
