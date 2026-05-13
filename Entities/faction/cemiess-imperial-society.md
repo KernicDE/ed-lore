@@ -11,12 +11,9 @@ related_entities:
 - nova-imperium
 - vitadyne-labs
 - achenar
-bio: Cemiess Imperial Society is a organization in the Elite Dangerous universe, active
-  from 3304-12-20 to 3304-12-29. Frequently linked with Cemiess, Mackenzie Relay,
-  Nova Imperium. Imperial Senator Simone Leatrix announces a week of revelry at her
-  mountaintop residence on Capitol in the Achenar system. The Cemiess Imperial Society
-  organises deliveries of food and refined jewels to Mackenzie Relay in the Cemiess
-  system to feed guests and decorate the residence.
+bio: 'A social organisation serving the Imperial elite, the Cemiess Imperial Society
+  coordinated lavish supply drives to support Senator Simone Leatrix''s celebrated festivities
+  at her Achenar residence in late 3304.'
 ---
 
 
@@ -39,4 +36,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+The Cemiess Imperial Society functioned as a logistical arm for the Empire's aristocratic social calendar, orchestrating the material requirements of events that few outside the Imperial hierarchy could imagine. In December 3304, the Society organised deliveries of food and refined jewels to Mackenzie Relay in Cemiess, all destined for Senator Simone Leatrix's mountaintop residence on Capitol in the Achenar system.
+
+The week of revelry that followed represented the height of Imperial excess — a celebration funded by organised supply drives that drew independent pilots into serving the aesthetic requirements of a single senator's party. That the Society could mobilise galactic-scale logistics for purely social purposes illustrated both the concentration of wealth within the Empire's upper echelons and the willingness of the pilot community to participate in exchange for modest rewards.

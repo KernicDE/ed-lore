@@ -24,12 +24,9 @@ economy: Industrial
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system/id/13870/name/Bhagui
 inara_url: https://inara.cz/elite/starsystem/?search=Bhagui
-bio: Bhagui is a star system in the Elite Dangerous universe, significant from 3304-09-27
-  to 3304-10-06. Associated with Mould Federal Mining Incorporated, Herculean Machines,
-  Achilles Corporation. Citizens of the Bhagui system attempt to resurrect the ancient
-  Oktoberfest celebration, an annual Earth tradition. The company places an open order
-  for animal meat, fish, and beer, promising rewards for deliveries to Leavitt Port
-  in the Bhagui system.
+bio: 'A Federal industrial corporate system with four and a half million inhabitants,
+  Bhagui briefly attracted galactic attention in late 3304 when its citizens attempted
+  to resurrect the ancient Earth tradition of Oktoberfest.'
 ---
 
 
@@ -52,4 +49,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+In late 3304, the citizens of Bhagui announced an ambitious plan to resurrect Oktoberfest, the ancient Bavarian harvest festival that had persisted on Earth for over a millennium. Mould Federal Mining Incorporated, the system's controlling corporate faction, backed the initiative with an open order for animal meat, fish and beer, promising rewards to pilots who delivered supplies to Leavitt Port.
+
+The celebration revealed a softer side of Federal corporate culture, where even mining conglomerates recognised the value of cultural traditions in maintaining morale among industrial populations. Though the system's connections to Herculean Machines and Achilles Corporation placed it within the broader network of technology and resource extraction firms, Bhagui's Oktoberfest drive demonstrated how frontier communities sought to preserve links to Earth heritage despite being separated by hundreds of light-years from humanity's birthplace.

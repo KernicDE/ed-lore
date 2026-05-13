@@ -11,8 +11,8 @@ related_entities:
 - gateway
 - tionisla
 - dublin-citadel
-bio: Brett High is a star system in the Elite Dangerous universe, significant from
-  3307-05-20 to 3307-06-25.
+bio: 'An Alliance system with close ties to the Pilots Federation, Gateway and Tionisla,
+  Brett High featured briefly in Alliance strategic communications during mid-3307.'
 ---
 
 <!-- AUTO-GENERATED -->
@@ -33,4 +33,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Brett High occupied a position of moderate strategic importance within the Alliance's network of systems, situated near Gateway and maintaining close ties to both the Pilots Federation and Tionisla. In mid-3307, the system appeared in Alliance communications with unusual frequency, suggesting either a temporary logistical concentration or a shift in regional defence posture.
+
+The system's proximity to Dublin Citadel — another key Alliance location — placed it within a cluster of politically significant territories that formed the backbone of Alliance expansion in that sector. Though Brett High itself never became the focal point of a major campaign or crisis, its repeated appearance alongside better-known systems indicated that Alliance planners viewed it as a reliable node in their broader strategic architecture.

@@ -11,10 +11,9 @@ related_entities:
 - uibuth-system
 - prism
 - uibuth-empire-party
-bio: D'Arrest Station is a starport in the Elite Dangerous universe, significant from
-  3302-02-18 to 3302-11-24. Associated with Navigators Guild, Prismatic Imperium.
-  Hundreds of pilots delivered slaves to the new colony at D'Arrest Station in the
-  Uibuth system.
+bio: 'A starport in the Uibuth system, D''Arrest Station became the destination for
+  a large-scale slave delivery campaign organised by the Prismatic Imperium and Navigators
+  Guild in 3302.'
 ---
 
 <!-- AUTO-GENERATED -->
@@ -35,4 +34,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+D'Arrest Station became the focal point of a controversial colonisation effort in early 3302 when the Prismatic Imperium and Navigators Guild organised a campaign to deliver slaves to a new colony being established at the starport. Hundreds of pilots participated in the operation, transporting human cargo from across Imperial space to the Uibuth system.
+
+The campaign highlighted the persistent role of Imperial slavery in frontier expansion — a labour model that the Prismatic Imperium promoted as economically efficient while critics condemned it as morally indefensible. D'Arrest Station's new colony thus embodied the contradictions of Imperial society: a settlement built through organised logistics and pilot cooperation, yet dependent on the legal bondage of its workforce. The station's association with both the Navigators Guild and the Uibuth Empire Party underscored how slavery remained institutionally embedded even in systems on the edge of Imperial territory.

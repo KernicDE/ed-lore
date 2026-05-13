@@ -24,11 +24,9 @@ economy: High Tech
 second_economy: Terraforming
 edsm_url: https://www.edsm.net/en/system/id/29543/name/Ceos
 inara_url: https://inara.cz/elite/starsystem/?search=Ceos
-bio: Ceos is a star system in the Elite Dangerous universe, significant from 3301-10-15
-  to 3304-03-24. Associated with Sirius Corporation, Money Matters. Sirius Corporation
-  announced expansion in Ceos and Sothis with new starports, settlements and megaships.
-  Technical personnel at New Dawn Station in the Ceos system announced that meta-alloys
-  can now be applied twice as efficiently to counter Unknown Artefact-related interference.
+bio: 'A Federation high-tech and terraforming colony on the fringes of inhabited space,
+  Ceos became a focal point for Sirius Corporation expansion and meta-alloy research
+  in the early 3300s.'
 ---
 
 
@@ -51,4 +49,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+On the fringes of Federation space, more than three hundred light-years from Sol, Ceos represented the kind of frontier colony that Sirius Corporation targeted for expansion. In late 3301, the corporate giant announced plans to build new starports, settlements and megaships in both Ceos and neighbouring Sothis, transforming a modest high-tech democracy into a hub of corporate development.
+
+The system's significance deepened in March 3304 when technical personnel at New Dawn Station announced a breakthrough: meta-alloys could now be applied twice as efficiently to counter unknown artefact-related interference. This discovery had immediate practical implications for stations crippled by the technological plague, and cemented Ceos's reputation as a centre for xeno-materials research within the Sirius Corporation sphere of influence.

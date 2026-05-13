@@ -24,12 +24,9 @@ economy: Industrial
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system/id/4487/name/Ch%27i%20Lin
 inara_url: https://inara.cz/elite/starsystem/?search=Ch%27i%20Lin
-bio: Ch'i Lin is a star system in the Elite Dangerous universe, significant from 3301-09-11
-  to 3302-02-05. Associated with Emperor's Dawn, Imperial Internal Security Service.
-  Senator Denton Patreus revealed that Emperor's Dawn has survived the Federal Navy's
-  destruction of its Kausalya base through secret 'shadow' cells in the Dakshmandi,
-  Ipilyaqa, and Ch'i Lin systems. The Imperial Internal Security Service discovered
-  Emperor's Dawn 'shadow' cells in the Dakshmandi, Ipilyaqa, and Ch'i Lin systems.
+bio: 'An Imperial industrial dictatorship controlled by the Imperial Navy Australia
+  faction, Ch''i Lin concealed one of several Emperor''s Dawn insurgent cells discovered
+  by the Imperial Internal Security Service in late 3301.'
 ---
 
 
@@ -52,4 +49,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Among the three systems where Emperor's Dawn embedded its secret "shadow" cells after the Federal Navy destroyed its Kausalya base, Ch'i Lin stood out as an Imperial dictatorship under the control of the Imperial Navy Australia faction. The IISS discovery confirmed that the insurgent group had penetrated not just independent fringe systems but territories directly aligned with the Empire itself.
+
+Senator Denton Patreus's revelation in September 3301 exposed the depth of the threat: Emperor's Dawn had prepared for decapitation by dispersing into multiple hidden cells, each capable of continuing operations independently. Ch'i Lin's high-security environment and industrial economy provided both cover and resources for clandestine militant activity. The discovery forced a painful reassessment of Imperial counter-insurgency capabilities, demonstrating that even systems with overtly loyalist governance could harbour enemies of the state.

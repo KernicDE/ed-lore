@@ -16,11 +16,9 @@ coords:
   y: 15.28125
   z: -1244.1875
 edsm_url: https://www.edsm.net/en/system?search=Col%2070%20Sector
-bio: Col 70 Sector is a star system in the Elite Dangerous universe, significant from
-  3303-01-27 to 3308-09-23. Associated with Wreaken Construction, Imperial intelligence
-  services. A weak signal from the Col 70 Sector has been detected, coinciding with
-  thousands of covert messages. An unidentified individual is found dead from radiation
-  exposure at a Wreaken Construction site in the COL 70 sector.
+bio: 'A distant sector more than twelve hundred light-years from Sol, Col 70 became
+  the source of mysterious signals and a fatal radiation incident at a Wreaken Construction
+  site between 3303 and 3308.'
 ---
 
 <!-- AUTO-GENERATED -->
@@ -41,4 +39,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+More than twelve hundred light-years from Sol, the Col 70 Sector occupies a region of space so remote that even the Pilots Federation maintains minimal presence there. In January 3303, sensors detected a weak signal emanating from the sector, coinciding with thousands of covert messages that intelligence analysts struggled to trace. The mystery deepened when an unidentified individual was found dead from radiation exposure at a Wreaken Construction site — a death that raised questions about what the mining conglomerate was building so far from inhabited space.
+
+Over the following five years, Col 70 continued to surface in intelligence reports linked to the Far God cult and Imperial intelligence services. The sector's extreme distance from the core worlds made it an ideal location for activities that required concealment, yet that same isolation meant incidents there often went uninvestigated. Col 70 represents one of the galaxy's many dark corners where official oversight fails and unofficial actors operate without accountability.

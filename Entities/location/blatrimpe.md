@@ -24,11 +24,9 @@ economy: Agriculture
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system/id/17262/name/Blatrimpe
 inara_url: https://inara.cz/elite/starsystem/?search=Blatrimpe
-bio: Blatrimpe is a star system in the Elite Dangerous universe, significant from
-  3304-07-05 to 3305-01-03. Associated with Bonespire Publishing, Federal Navy. Bonespire
-  Publishing organises the tour from Blatrimpe to Procyon. CEO Maddox Hurd announces
-  an urgent need for consumer technology, hardware diagnostic sensors, and computer
-  components to be delivered to Boltzmann Hub in the Blatrimpe system.
+bio: 'A heavily populated Federation corporate agricultural system with over twenty-seven
+  billion inhabitants, Blatrimpe became a logistics hub for Bonespire Publishing and
+  technology corporations in 3304.'
 ---
 
 
@@ -51,4 +49,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Twenty-seven billion people call Blatrimpe home, making it one of the most populous systems under Federal corporate governance. Controlled by the Minutemen faction and sustained by vast agricultural and refinery operations, the system's sheer scale attracted major commercial interests including Bonespire Publishing, which organised a high-profile tour from Blatrimpe to Procyon in mid-3304.
+
+The system's industrial importance deepened when Maddox Hurd, CEO of a major technology firm, announced an urgent need for consumer technology, hardware diagnostic sensors and computer components to be delivered to Boltzmann Hub. The campaign drew thousands of pilots into hauling operations, demonstrating how even systems with primarily agricultural economies could become focal points for high-tech logistics when corporate demand concentrated in a single location.

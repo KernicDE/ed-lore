@@ -11,11 +11,9 @@ related_entities:
 - inra
 - league-of-reparation
 - federal-intelligence-agency
-bio: Houtman City is a star system in the Elite Dangerous universe, significant from
-  3302-12-08 to 3304-06-10. Associated with Aeternitas Industries, INRA, League of
-  Reparation. Aeternitas Industries has successfully cleared the Aeternitas system
-  of agitators with the help of hundreds of pilots, and rewards are now available
-  at Houtman City.
+bio: 'A major starport in the Aeternitas system, Houtman City served as the administrative
+  and distribution hub for Aeternitas Industries and later became associated with INRA
+  and League of Reparation investigations.'
 ---
 
 <!-- AUTO-GENERATED -->
@@ -36,4 +34,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Houtman City functioned as the primary administrative hub for Aeternitas Industries throughout the turbulent period when the corporate entity battled criminal insurgencies in its parent system. In late 3302, the starport became the distribution centre for rewards paid to the hundreds of pilots who had helped clear Aeternitas of agitators, cementing its role as the system's commercial and logistical heart.
+
+The starport's reputation grew more complicated by 3304, when it surfaced in investigations linked to both INRA and the League of Reparation. These associations suggested that Houtman City's bustling markets and cargo bays may have served as transit points for materials or personnel connected to some of the galaxy's most secretive organisations. What began as a straightforward corporate reward station had become, by accident or design, a node in networks that extended far beyond legitimate commerce.

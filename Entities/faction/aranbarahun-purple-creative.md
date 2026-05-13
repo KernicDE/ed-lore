@@ -11,12 +11,9 @@ related_entities:
 - alliance
 - federal-intelligence-agency
 - league-of-reparation
-bio: Aranbarahun Purple Creative is a organization in the Elite Dangerous universe,
-  active from 3304-08-03 to 3304-08-12. Frequently linked with Aranbarahun, Barnes
-  Terminal, Federal Intelligence Agency. Aranbarahun Purple Creative announces plans
-  to build a massive cargo ship to transport goods from the booming Aranbarahun system.
-  An open order is placed for various commodities to be delivered to Barnes Terminal
-  in the Aranbarahun system, with a kill order on wanted ships to protect traders.
+bio: 'A cultural and logistics faction operating in the booming Aranbarahun system,
+  Aranbarahun Purple Creative organised commodity drives and construction projects during
+  the politically turbulent summer of 3304.'
 ---
 
 
@@ -39,4 +36,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Amid the political turbulence of 3304, the Aranbarahun Purple Creative faction distinguished itself by pursuing ambitious commercial projects rather than direct political engagement. In August of that year, the organisation announced plans to construct a massive cargo vessel for transporting goods from Aranbarahun's rapidly expanding economy, placing open orders for commodities to be delivered to Barnes Terminal under armed guard.
+
+The faction's ability to secure resources and coordinate large-scale construction while the Federal Intelligence Agency investigated League of Reparation activities in the same system demonstrated impressive operational focus. Though primarily a cultural organisation by classification, Aranbarahun Purple Creative behaved more like a commercial enterprise, capitalising on the system's booming population and industrial output to fund ever-larger projects.

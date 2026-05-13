@@ -9,10 +9,9 @@ related_entities:
 - leoniceno-orbital
 - azaleach
 - daurtu-jet-comms-plc
-bio: Azaleach Partnership is a organization in the Elite Dangerous universe, active
-  from 3302-02-04 to 3302-05-21. Frequently linked with Leoniceno Orbital, Azaleach,
-  Daurtu Jet Comms PLC. The Azaleach Partnership coordinates the campaign from Leoniceno
-  Orbital.
+bio: 'A player-driven faction active during the 3302 Rise to Power campaigns,
+  the Azaleach Partnership coordinated political operations from Leoniceno Orbital in
+  the Azaleach system.'
 ---
 
 
@@ -33,4 +32,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+During the Rise to Power campaigns of early 3302, the Azaleach Partnership emerged as a coordinating force for political operations centred on Leoniceno Orbital. Working in conjunction with Daurtu Jet Comms PLC, the faction leveraged its position in the Azaleach system to marshal pilot support and direct campaign resources toward its chosen objectives.
+
+The Partnership's relatively brief period of prominence — just under four months — reflected the volatile nature of the Rise to Power format, where factions could rise and fall based on weekly shifts in pilot allegiance. Though it never achieved the lasting recognition of major powers like Utopia or Sirius Gov, the Azaleach Partnership demonstrated how smaller organisations could punch above their weight by concentrating resources and maintaining disciplined logistics during competitive campaign windows.

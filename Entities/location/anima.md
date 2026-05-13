@@ -24,10 +24,9 @@ economy: Industrial
 second_economy: Colony
 edsm_url: https://www.edsm.net/en/system/id/8038/name/Anima
 inara_url: https://inara.cz/elite/starsystem/?search=Anima
-bio: Anima is a star system in the Elite Dangerous universe, significant from 3304-09-20
-  to 3304-09-29. Associated with Supratech, Herculean Machines. Herculean Machines
-  requests Consumer Technology, Hardware Diagnostic Sensors, and Computer Components
-  delivered to Cowper Dock in the Anima system.
+bio: 'An Imperial industrial patronage system with nearly three million inhabitants,
+  Anima served as a logistical hub for Herculean Machines during a major supply drive
+  in late 3304.'
 ---
 
 
@@ -50,4 +49,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+In September 3304, Herculean Machines selected Anima as the destination for a significant resource drive, requesting consumer technology, hardware diagnostic sensors and computer components to be delivered to Cowper Dock. The choice reflected the system's position within the Empire's industrial belt and its capacity to support advanced manufacturing operations under the Booty Bay Butchers' patronage governance.
+
+Supratech, Herculean Machines' rival in the personal computing market, also maintained connections to Anima, turning the system into an unlikely arena for corporate competition. Though the population remained modest at under three million, Anima's strategic value to both corporations demonstrated how even smaller Imperial colonies could become focal points for economic rivalry between major technology firms.

@@ -10,9 +10,9 @@ related_entities:
 - wallglass-investigations-agency
 - jokers-deck
 - diso
-bio: Ambrose Foundation is a organization in the Elite Dangerous universe, active
-  from 3305-02-09 to 3305-03-09. Frequently linked with Vox Galactica, Wallglass Investigations
-  Agency, Jokers' Deck.
+bio: 'A philanthropic research organisation active in early 3305, the Ambrose Foundation
+  became entangled in galactic media coverage alongside Vox Galactica, Wallglass Investigations
+  and the clandestine gambling ring Jokers'' Deck.'
 ---
 
 
@@ -34,4 +34,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+The Ambrose Foundation appeared in galactic headlines during February and March 3305 as part of a wider narrative involving investigative journalism and high-stakes intrigue. Vox Galactica and the Wallglass Investigations Agency both reported on the Foundation's activities, while its name surfaced in connection with Jokers' Deck — an exclusive gambling syndicate whose members included some of the galaxy's most powerful individuals.
+
+Though the exact nature of the Ambrose Foundation's work remained partially obscured by the secrecy surrounding Jokers' Deck, its prominence alongside major media and intelligence organisations suggested it operated at the intersection of research funding and elite patronage networks. The Foundation's brief but intense period of visibility illustrated how even ostensibly charitable organisations could become swept up in the galaxy's hidden power structures.

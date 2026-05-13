@@ -11,11 +11,9 @@ related_entities:
 - alliance-elite-diplomatic-corps
 - interstellar-communist-union
 - the-sovereign
-bio: Border Coalition is a religious in the Elite Dangerous universe, active from
-  3302-06-02 to 3302-07-07. Frequently linked with GalCop, Social Eleu Progressive
-  Party, Interstellar Communist Union. The Border Coalition has unanimously decided
-  to back the Social Eleu Progressive Party in the Rise to Power campaign after an
-  emergency meeting at Iren's Dock.
+bio: 'A religious faction that played a surprising role in the 3302 Rise to Power
+  campaigns, the Border Coalition threw its support behind the Social Eleu Progressive
+  Party after an emergency summit at Iren''s Dock.'
 ---
 
 
@@ -38,4 +36,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+During the Rise to Power campaigns of 3302, the Border Coalition emerged as an unexpected political force when its leadership unanimously decided to back the Social Eleu Progressive Party. The endorsement followed an emergency meeting at Iren's Dock and brought the Coalition into alliance with an eclectic mix of partners including GalCop, the Interstellar Communist Union and the Alliance Elite Diplomatic Corps.
+
+The decision puzzled political analysts, as the Border Coalition's religious character seemed at odds with the secular progressive platform of its chosen candidate. Yet the move demonstrated how the Rise to Power format — which explicitly rewarded factions capable of building broad coalitions — could produce strange bedfellows. For a few weeks in mid-3302, the Border Coalition's influence extended far beyond its usual sphere, before fading from the headlines as quickly as it had arrived.

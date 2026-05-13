@@ -24,13 +24,9 @@ economy: Industrial
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system/id/17548/name/Cayutorme
 inara_url: https://inara.cz/elite/starsystem/?search=Cayutorme
-bio: Cayutorme is a star system in the Elite Dangerous universe, significant from
-  3301-11-04 to 3301-11-11. Associated with Cayutorme Syndicate, Imperial Navy, Kumo
-  Crew. Imperial Navy forces and auxiliary commanders score major victories against
-  the Cayutorme Syndicate fleet, which may be forced to surrender or face destruction
-  as it deploys reinforcements. Imperial forces defeat the Cayutorme Syndicate mercenary
-  fleet, restoring order to the system; leader Kyle Kurowski is missing and captured
-  vessels will be sold at a discount from Adkins Port.
+bio: 'An independent industrial dictatorship, Cayutorme was the scene of a swift and
+  brutal Imperial Navy campaign in November 3301 that destroyed the Cayutorme Syndicate
+  mercenary fleet.'
 ---
 
 
@@ -53,4 +49,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+In November 3301, the Imperial Navy launched a punitive campaign against the Cayutorme Syndicate, whose mercenary fleet had established effective control over this independent industrial system. Imperial forces and their auxiliary commanders scored a series of crushing victories that left the syndicate with a stark choice: surrender or face total destruction as reinforcements poured in.
+
+The campaign concluded within a week. Imperial troops restored order to Cayutorme while syndicate leader Kyle Kurowski went missing, his fate unconfirmed. Captured vessels were put up for sale at discount prices from Adkins Port, offering independent pilots an unusual opportunity to acquire military-grade hardware. The operation demonstrated both the Empire's willingness to intervene in nominally independent systems and the devastating efficiency of Imperial naval tactics when directed against irregular forces.

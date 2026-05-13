@@ -24,11 +24,8 @@ economy: Agriculture
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system/id/6709/name/Betel
 inara_url: https://inara.cz/elite/starsystem/?search=Betel
-bio: Betel is a star system in the Elite Dangerous universe, significant from 3304-08-24
-  to 3304-09-02. Associated with Betel Free, Silver Creative Network, Betel security.
-  Authorities confirm the conflict between the Silver Creative Network and Betel Free
-  in the Betel system has ended. General Hollis of Betel security expresses hope for
-  a period of prolonged peace.
+bio: 'A small independent agricultural democracy, Betel experienced a brief but intense
+  civil conflict in late 3304 between the Silver Creative Network and Betel Free factions.'
 ---
 
 
@@ -51,4 +48,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+August 3304 brought open warfare to Betel when the Silver Creative Network and Betel Free clashed for control of the tiny agricultural democracy. With barely four hundred thousand inhabitants and a low-security environment managed by Flotta Stellare, the system offered limited resources but significant symbolic value to both factions seeking to expand their influence.
+
+By early September, authorities confirmed the conflict had ended. General Hollis of Betel security issued a statement expressing hope for prolonged peace, though the brevity of the war suggested neither side had achieved decisive victory. Betel's experience illustrated how even the smallest independent systems could become battlegrounds for proxy conflicts between factions whose ambitions far outstripped the territory's actual strategic importance.

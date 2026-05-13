@@ -11,10 +11,9 @@ related_entities:
 - 49-arietis
 - 64-arietis
 - arawere
-bio: Coats Hub is a star system in the Elite Dangerous universe, significant from
-  3301-10-16 to 3302-02-24. Technician Sam Norris at Coats Hub reported that Gurragchaa
-  Gateway appeared to be suffering worse conditions, though stable comms could not
-  be established to confirm the extent.
+bio: 'A starport that served as an observation point during the technological plague
+  crisis, Coats Hub provided early warnings about deteriorating conditions at nearby
+  stations in late 3301.'
 ---
 
 <!-- AUTO-GENERATED -->
@@ -35,4 +34,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+As the technological plague spread through starports across inhabited space in late 3301, Coats Hub became a critical observation post for tracking the crisis's progression. Technician Sam Norris reported that Gurragchaa Gateway appeared to be suffering particularly severe malfunctions, though unstable communications prevented confirmation of the full extent of damage.
+
+The station's location within a cluster that included Warkushanui, 49 Arietis and 64 Arietis placed it at the centre of one of the most affected regions. Coats Hub's reports contributed to the emerging understanding that the plague was not random but followed patterns linked to station proximity to unknown artefacts. Though never as celebrated as the stations that pioneered meta-alloy treatments, Coats Hub played a quiet but essential role in the early warning network that eventually helped contain the crisis.

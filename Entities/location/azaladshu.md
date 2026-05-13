@@ -24,11 +24,9 @@ economy: Industrial
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system/id/11780/name/Azaladshu
 inara_url: https://inara.cz/elite/starsystem/?search=Azaladshu
-bio: Azaladshu is a star system in the Elite Dangerous universe, significant from
-  3307-06-29 to 3307-07-21. Associated with Coalition of Uteran, Lp 726-6 Free, Azaladshu
-  Free. The Azaladshu Free faction secedes from the Federation, declaring its four
-  systems independent in protest against surveillance laws. Azaladshu Free defeats
-  Neche Inc and retains independence from the Federation.
+bio: 'A Federation industrial corporate system with over fifty million inhabitants,
+  Azaladshu became the flashpoint for a dramatic secession crisis in mid-3307 when the
+  Azaladshu Free faction declared independence from the Federation.'
 ---
 
 
@@ -51,4 +49,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+In June 3307, the Azaladshu Free faction made the extraordinary decision to secede from the Federation, declaring four systems — including Azaladshu itself — independent in direct protest against the surveillance laws enforced by the Proactive Detection Bureau. The rebellion represented one of the most serious internal challenges to Federal authority since the establishment of the modern superpower, and it sent shockwaves through congressional corridors on Mars.
+
+Federal forces mobilised to crush the insurrection, but Azaladshu Free defeated Neche Inc and retained its independence. The system's successful breakaway inspired similar secessionist movements in the Coalition of Uteran and LP 726-6 Free, demonstrating that even the Federation's core principles of democracy could not prevent populations from rejecting what they viewed as unconstitutional overreach. Azaladshu's rebellion remains a touchstone for debates about the limits of state security in a free society.

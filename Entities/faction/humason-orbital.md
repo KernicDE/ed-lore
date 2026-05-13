@@ -7,12 +7,9 @@ last_seen_date: '3301-07-24'
 mention_count: 4
 related_entities:
 - carns
-bio: Humason Orbital is a organization in the Elite Dangerous universe, active from
-  3301-07-08 to 3301-07-24. Frequently linked with Carns. Humason Orbital in Carns
-  announced plans to shift from mining to high-tech operations after reports suggested
-  mining would become uneconomical. Slaves with relevant skills are being prepared
-  for new roles, while others will be sold at Humason Orbital with a substantial discount
-  financed by the authorities until all slaves find new placements.
+bio: 'The corporate entity operating Carns'' primary starport, Humason Orbital oversaw
+  a controversial economic restructuring in mid-3301 that involved retraining or selling
+  the station''s imperial slave workforce.'
 ---
 
 
@@ -31,4 +28,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Humason Orbital's management announced a sweeping reorganisation in July 3301 when geological surveys indicated that Carns's mineral deposits were nearing depletion. The station's pivot from mining to high-tech operations required a fundamentally different labour force, forcing administrators to confront the fate of the imperial slaves who had sustained the previous economy.
+
+The solution was brutally pragmatic: slaves with transferable skills would be retrained for technology sector roles, while the rest would be sold at Humason Orbital at substantial discounts financed by local authorities. The announcement triggered widespread condemnation from anti-slavery advocates, who pointed out that treating human beings as depreciating assets to be liquidated during restructuring exposed the moral bankruptcy of Imperial labour practices. Humason Orbital's decision became a case study in how economic transitions in the Empire often disguised profound human suffering behind corporate euphemisms.

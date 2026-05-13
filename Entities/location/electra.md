@@ -24,11 +24,8 @@ economy: Industrial
 second_economy: None
 edsm_url: https://www.edsm.net/en/system/id/24482/name/Electra
 inara_url: https://inara.cz/elite/starsystem/?search=Electra
-bio: Electra is a star system in the Elite Dangerous universe, significant from 3303-11-16
-  to 3303-12-02. Associated with Aegis, Pilots Federation. A new kind of Thargoid
-  vessel, classified as the Basilisk Interceptor by the Pilots Federation, has been
-  encountered in the Electra system. The operation will focus on Electra, where high
-  concentrations of Thargoid vessels have been reported.
+bio: 'An independent cooperative system near the Pleiades, Electra was the site of
+  the first confirmed Basilisk Interceptor encounters in late 3303.'
 ---
 
 
@@ -51,4 +48,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+November 3303 brought a chilling escalation to the Thargoid conflict when pilots in the Electra system encountered a new class of alien vessel. The Pilots Federation quickly classified it as the Basilisk Interceptor — larger and more heavily armed than the Scout and Cycl variants previously documented. High concentrations of these vessels soon made Electra one of the most dangerous systems in inhabited space.
+
+Aegis responded by designating Electra as the focal point for anti-Thargoid operations, drawing combat pilots from across the galaxy into a desperate holding action. The Hive, the system's controlling cooperative faction, found its industrial economy overshadowed entirely by the military crisis unfolding in its skies. Electra's brief but intense moment in the headlines demonstrated how quickly the Thargoid threat was evolving, outpacing human defensive preparations with each new variant discovery.

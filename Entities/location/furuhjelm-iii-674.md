@@ -24,10 +24,9 @@ economy: Industrial
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system/id/2472/name/Furuhjelm%20III-674
 inara_url: https://inara.cz/elite/starsystem/?search=Furuhjelm%20III-674
-bio: Furuhjelm III-674 is a star system in the Elite Dangerous universe, significant
-  from 3302-10-13 to 3303-01-05. Associated with Alliance, 160 SOAR. 160 SOAR is coordinating
-  an appeal for geological equipment, hazardous-environment suits, and pesticides
-  to be delivered to Tshang City in the Furuhjelm III-674 system.
+bio: 'An Alliance industrial democracy with nearly forty million inhabitants, Furuhjelm
+  III-674 served as a logistics hub for the 160 S.O.A.R. faction''s California Nebula
+  colonisation efforts.'
 ---
 
 
@@ -50,4 +49,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+Furuhjelm III-674 anchored one corner of the Alliance's expansion into the California Nebula region during late 3302. The 160 S.O.A.R. faction, operating from the system's Tshang City starport, coordinated an ambitious supply drive calling for geological equipment, hazardous-environment suits and pesticides to support new settlements in the nebula.
+
+The campaign drew thousands of independent pilots into long-range hauling operations, connecting the industrial capacity of Furuhjelm III-674's nearly forty million inhabitants to the raw frontier beyond. As an Alliance democracy governed from Earth-style institutions, the system offered a stark contrast to the corporate and feudal models dominating much of the surrounding territory. Its role in the California Nebula colonisation demonstrated how Alliance expansion relied on volunteer logistics networks rather than the centrally directed corporate development favoured by Sirius Corporation.

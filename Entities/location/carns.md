@@ -20,12 +20,9 @@ economy: High Tech
 second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system/id/2364/name/Carns
 inara_url: https://inara.cz/elite/starsystem/?search=Carns
-bio: Carns is a star system in the Elite Dangerous universe, significant from 3301-07-08
-  to 3301-07-24. Associated with Humason Orbital. Humason Orbital in Carns announced
-  plans to shift from mining to high-tech operations after reports suggested mining
-  would become uneconomical. Following the announcement of Carns' economic shift from
-  mining to high-tech, Deputy Communications Officer Ramon Lamor outlined plans to
-  retrain or sell the system's imperial slave workforce.
+bio: 'An independent high-tech cooperative system, Carns underwent a controversial
+  economic restructuring in mid-3301 when Humason Orbital shifted from mining to technology
+  operations, raising difficult questions about the fate of its imperial slave workforce.'
 ---
 
 
@@ -44,4 +41,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+In July 3301, Humason Orbital announced that Carns would pivot from mining to high-tech operations after geological surveys indicated the system's mineral deposits were nearing economic exhaustion. The decision seemed straightforward enough — adapt or decline — but Deputy Communications Officer Ramon Lamor's follow-up statement exposed the human cost hidden beneath the corporate language.
+
+Lamor outlined plans to either retrain or sell the system's imperial slave workforce, treating human beings as transferable assets in a balance-sheet restructuring. The announcement triggered condemnation from anti-slavery advocates and highlighted how even cooperative-governed independent systems could perpetuate the Empire's most notorious labour practice. Carns's transformation from a mining outpost to a technology centre thus became a case study in the ethical compromises embedded in galactic economic development.

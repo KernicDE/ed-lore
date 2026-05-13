@@ -11,12 +11,9 @@ related_entities:
 - alliance
 - shifnalport
 - leesti
-bio: Birmingham is a star system in the Elite Dangerous universe, significant from
-  3301-05-08 to 3305-10-11. Associated with Alliance, Green Party of Diso. The Green
-  Party of Diso's rejuvenation project for Birmingham succeeded spectacularly when
-  5,187 commanders delivered over 15 million tonnes of machinery in just 65 hours.
-  The Alliance Festival of Culture concludes with a week-long food and drink celebration
-  in Birmingham, Diso.
+bio: 'An Alliance system that became the centrepiece of one of the most successful
+  community-driven rejuvenation projects in early 3301, later hosting cultural festivals
+  that celebrated Alliance identity.'
 ---
 
 <!-- AUTO-GENERATED -->
@@ -37,4 +34,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+In May 3301, the Green Party of Diso launched an ambitious rejuvenation project for Birmingham that captured the imagination of the pilot community. The response exceeded all projections: 5,187 commanders delivered more than fifteen million tonnes of machinery in just sixty-five hours, transforming a modest system upgrade into a demonstration of organised civilian capacity that few superpower bureaucracies could match.
+
+Birmingham's significance extended beyond infrastructure. The system later served as the venue for the Alliance Festival of Culture's week-long food and drink celebration, reinforcing its role as a symbol of Alliance communal values. While less strategically vital than systems like Alioth or Leesti, Birmingham represented the kind of bottom-up development that distinguished Alliance expansion from the centrally directed corporate and military models of its rivals.

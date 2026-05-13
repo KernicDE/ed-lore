@@ -11,12 +11,9 @@ related_entities:
 - league-of-reparation
 - alioth
 - donaldson-starport
-bio: Alliance Council of Admirals is a government in the Elite Dangerous universe,
-  active from 3303-01-26 to 3304-11-21. Frequently linked with Alliance, Alioth, League
-  of Reparation. Admiral George Varma of the Alliance Council of Admirals is arrested
-  by the League of Reparation taskforce at Donaldson starport in Alioth. Seutonia
-  accuses Varma of redirecting Alliance Defence Force cargo to terrorist cells and
-  being Nexus.
+bio: 'The supreme military command body of the Alliance, the Council of Admirals suffered
+  a devastating scandal in 3304 when one of its senior members was arrested for collusion
+  with terrorist networks.'
 ---
 
 
@@ -39,4 +36,6 @@ Total mentions: **4**
 
 ## Biography
 
-*[To be enriched]*
+The Alliance Council of Admirals serves as the highest military authority within the Alliance, coordinating the Alliance Defence Force and setting strategic policy for the superpower's armed operations. For decades, it projected an image of professional integrity distinct from the political manoeuvring that characterised Imperial and Federal military commands.
+
+That image shattered in November 3304 when Admiral George Varma was arrested at Donaldson Starport in Alioth by the League of Reparation taskforce. Agent Niamh Seutonia accused Varma of redirecting Alliance Defence Force cargo to terrorist cells and identified him as "Nexus" — a key conspirator within the League's command structure. The arrest sent shockwaves through the Alliance's military establishment and raised serious questions about how deeply the terrorist organisation had penetrated even the most trusted institutions of galactic governance.

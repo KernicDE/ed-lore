@@ -24,10 +24,9 @@ economy: High Tech
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system/id/10528/name/Antal
 inara_url: https://inara.cz/elite/starsystem/?search=Antal
-bio: 'Antal is a system in Elite Dangerous, significant from 3301-06-06 to 3301-08-01.
-  Associated with Utopia. Notable events include: Utopia''s compound on Antal has
-  long displayed technology years ahead of its time.; Profile of Simguru Pranav Antal,
-  heir to Rishi Antal''s legacy of transcendental technology.'
+bio: 'An independent high-tech communist system governed by the Guardians of Harmony,
+  Antal is the historical home of Utopia and the legacy of Rishi Antal''s transcendental
+  technology research.'
 ---
 
 
@@ -50,4 +49,6 @@ Total mentions: **5**
 
 ## Biography
 
-*[To be enriched]*
+Long before Pranav Antal became Simguru and established Utopia as a galactic power, the system of Antal served as the proving ground for his predecessor Rishi Antal's radical technological vision. Utopia's compound on Antal has reportedly housed devices years ahead of conventional Imperial or Federal technology, though the organisation remains characteristically secretive about the exact nature of these advances.
+
+The system's communist governance under the Guardians of Harmony reflects Utopia's philosophical commitment to collective benefit over individual accumulation. With nearly fifteen million inhabitants sustained by high-tech manufacturing and refinery operations, Antal represents the original template for the communes that would later spread across Utopian space. Its continued importance as both a population centre and a symbol of Antal family legacy ensures it remains central to the power's identity.
