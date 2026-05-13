@@ -183,6 +183,50 @@ Uncommitted enrichments from previous sessions covering key factions, locations 
 - Total enriched: 150
 - Remaining: 3,334
 
+### Batch 6: Top 250 fill + cleanup ✅ COMPLETE
+| # | Entity | Type | Status | Notes |
+|---|--------|------|--------|-------|
+| 1 | Arque | location | ✅ Done | Palin's research base, Abel Laboratory, meta-alloy studies |
+| 2 | Beta Hydri | location | ✅ Done | Rackham's headquarters, Homeland, corporate control |
+| 3 | Children of Tothos | faction | ✅ Done | Apocalyptic cult, Lucifer Device, Barnabas Cole |
+| 4 | EG Union | faction | ✅ Done | Yuri Grom's faction, Delta Pavonis victory |
+| 5 | Leoniceno Orbital | location | ✅ Done | Starship One search, Federal research outpost |
+| 6 | Mackenzie Relay | location | ✅ Done | NMLA bombing, Cemiess, Aisling's home system |
+| 7 | Meene Defence Force | faction | ✅ Done | Ram Tah security, Phoenix Base defence |
+| 8 | Munshin | location | ✅ Done | Pegasi refugee resettlement, Libertas Cooperative |
+| 9 | Musashi | location | ✅ Done | Azimuth Biotech market, AX weapons convention |
+| 10 | Neomedical Industries | faction | ✅ Done | Pharmaceutical corp, Vitadyne bid, blight cure |
+| 11 | Pleiades Sector AB-W B2-4 | location | ✅ Done | Alien wreckage, Imperial base, meta-alloy rush |
+| 12 | Skvortsov Orbital | location | ✅ Done | Distant Worlds gala, 63 G. Capricorni |
+| 13 | The Sovereign | faction | ✅ Done | Newsfeed, Consuela Knight disappearance |
+| 14 | 64 Arietis | location | ✅ Done | Station malfunctions, Unknown Artefact effects |
+| 15 | Bethany Blake | person | ✅ Done | FIA Deputy Director, Red Family crackdown, PDB |
+| 16 | Carter Armstrong | person | ✅ Done | Aegis Chief Administrator, Alexandria recovery |
+| 17 | Chukchan | location | ✅ Done | Adamastor ghost ship, Salvation contact |
+| 18 | Constantia Torval | person | ✅ Done | Torval-Mastopolos Mining, Zemina's daughter |
+| 19 | Cordova Group | faction | ✅ Done | Spy robot scandal, Mars Tribune, blackmail |
+| 20 | EG Pilots | faction | ✅ Done | Dangerous Games Wildcard winner |
+| 21 | Elaine Boyd | person | ✅ Done | Federal Times reporter, Antares scandal, suicide |
+| 22 | Engineers | faction | ✅ Done | Ship module upgrades, Liz Ryder solidarity |
+| 23 | Genevieve Kane | person | ✅ Done | IAA scientist, blight cure developer |
+| 24 | Glorious Prospect | location | ✅ Done | Azimuth megaship, weapon stabiliser production |
+
+**Cleanup performed:**
+- Deleted 5 duplicate entities: `emperor-hengist-duval` → `hengist-duval`, `rochester` → `jupiter-rochester`, `canonn` → `canonn-interstellar-research-group`, `commander-corrigendum` → `corrigendum`, `admiral-denton-patreus` → `denton-patreus`
+- Deleted 16 artifact entities: `with`, `our`, `which`, `the-sirius`, `president-jasmina-halsey`, `vessel`, `each`, `suspended`, `further`, `none-specified`, `every`, `found`, `run`
+
+## Stats
+- Total entities: 3,515
+- Enriched (Batch 1): 26
+- Enriched (Batch 2): 25
+- Enriched (Batch 3): 29
+- Enriched (Batch 4): 25
+- Enriched (Batch 5): 45
+- Enriched (Batch 6): 24
+- Total enriched: 255
+- Remaining: 3,260
+
 ## Notes
 - All enriched entities trimmed to compact Wikipedia-style descriptions (1-2 paragraphs)
-- Batch 1–5 fully enriched and committed
+- Batch 1–6 fully enriched and committed
+- Top 250 coverage: ~99% of legitimate high-mention entities enriched

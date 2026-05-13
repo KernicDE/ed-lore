@@ -5,15 +5,13 @@ type: person
 first_seen_date: '3307-02-18'
 last_seen_date: '3307-03-15'
 mention_count: 12
-bio: 'The Sirius is a Diplomat in Elite Dangerous lore, active from 3307-02-18 to
-  3307-03-15. Affiliated with Alliance, Sirius Corporation, Marlinist. Notable activities
-  include: Leaders from The Alliance, Empire and Federation have agreed a series of
-  minor treaties at the diplomatic gathering in The Sirius system.; Pirate warlord
-  Archon Delaine has unexpectedly appeared at The diplomatic conference and demanded
-  to participate as a political delegate.'
+related_entities:
+- sol
+- achenar
+- alioth
+- federal-navy
+- sirius-corporation
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 
@@ -25,6 +23,11 @@ Total mentions: **12**
 
 ## Related
 
+- [[Sol]] (5 co-mentions)
+- [[Achenar]] (5 co-mentions)
+- [[Alioth]] (6 co-mentions)
+- [[Federal Navy]] (1 co-mentions)
+- [[Sirius Corporation]] (6 co-mentions)
 
 ## Biography
 

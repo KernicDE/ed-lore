@@ -27,4 +27,6 @@ Total mentions: **10**
 
 ## Biography
 
-*[To be enriched]*
+Carter Armstrong is the Chief Administrator who made a public statement in January 3308 following the discovery of the missing Aegis megaship Alexandria in the Wregoe TC-X b29-0 system. The megaship had vanished in hyperspace seven months earlier while carrying Guardian artefacts, and its wreckage was found scattered across planetary rings by independent pilots instigated by Professor Alba Tesreau.
+
+Armstrong advocated for Aegis to remain operational until a full forensic analysis could determine the cause of the megaship's destruction, stating that the discovery provided an opportunity to learn what happened. His position contrasted with the Baumann Report's recommendation to dismantle Aegis, which had been instigated by the Alexandria's loss. Armstrong's statement represented institutional resistance to the premature dissolution of the superpower anti-xeno initiative.

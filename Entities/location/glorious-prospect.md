@@ -37,4 +37,6 @@ Total mentions: **10**
 
 ## Biography
 
-*[To be enriched]*
+Glorious Prospect is a megaship located in the LHS 1163 system that served as the manufacturing hub for Azimuth Biotech's experimental weapon stabiliser in early 3309. Azimuth requested deliveries of meta-alloys, insulating membranes, HN shock mounts and beryllium to the megaship to mass-produce the module, which allowed ships to outfit additional anti-xeno weapons.
+
+The initiative marked Azimuth's first major community-driven manufacturing campaign in the post-Salvation era, leveraging independent pilot contributions to scale production of a commercially proprietary war material. While the weapon stabiliser was broadly welcomed by pilots fighting the Thargoid threat, critics noted that Azimuth stood to commercially benefit from a conflict that many believed was triggered by its own Proteus Wave operation in HIP 22460.

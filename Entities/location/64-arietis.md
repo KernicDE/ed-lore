@@ -50,4 +50,6 @@ Total mentions: **10**
 
 ## Biography
 
-*[To be enriched]*
+64 Arietis is a system where starport technical malfunctions and power failures were reported in late 3301, part of a wave of mysterious station problems that also affected Warkushanui, Weyn Dock and Bond Hub in Varati. Engineers confirmed that the starports experienced similar system malfunctions, though the cause remained unidentified at the time.
+
+The incidents were later understood to be early evidence of Unknown Artefact proximity effects — the Thargoid technology interference that would become a major threat to stations across human space. 64 Arietis thus represents one of the first documented cases of what would escalate into the technological plague that threatened starport operations during the initial Thargoid contact period.

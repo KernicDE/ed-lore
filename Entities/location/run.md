@@ -6,31 +6,12 @@ first_seen_date: '3303-12-01'
 last_seen_date: '3303-12-08'
 mention_count: 2
 related_entities:
-- rogue-runners
-- smith-port
-- leif-enterprise
-- rogue-security
-coords:
-  x: 22.8125
-  y: -165.96875
-  z: 34.9375
-allegiance: Independent
-government: Cooperative
-controlling_faction: The Winged Hussars
-population: 3030580
-security: High
-economy: High Tech
-second_economy: Refinery
-edsm_url: https://www.edsm.net/en/system/id/5061/name/Run
-inara_url: https://inara.cz/elite/starsystem/?search=Run
-bio: Run is a star system in the Elite Dangerous universe, significant from 3303-12-01
-  to 3303-12-08. Associated with Rogue Runners. The Rogue Runners, an independent
-  group based in the Run system, have announced plans to restore and expand Leif Enterprise,
-  an asteroid base. The Rogue Runners have announced the successful conclusion of
-  their campaign to renovate Leif Enterprise asteroid base in the Run system.
+- president-zachary-hudson
+- zachary-hudson
+- core-dynamics
+- sirius-corporation
+- li-yong-rui
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 
@@ -42,10 +23,11 @@ Total mentions: **2**
 
 ## Related
 
-- [[Rogue Runners]] (2 co-mentions)
-- [[Smith Port]] (2 co-mentions)
-- [[Leif Enterprise]] (2 co-mentions)
-- [[Rogue Security]] (1 co-mentions)
+- [[President Zachary Hudson]] (2 co-mentions)
+- [[Zachary Hudson]] (2 co-mentions)
+- [[Core Dynamics]] (2 co-mentions)
+- [[Sirius Corporation]] (2 co-mentions)
+- [[Li Yong-Rui]] (2 co-mentions)
 
 ## Biography
 

@@ -27,4 +27,6 @@ Total mentions: **10**
 
 ## Biography
 
-*[To be enriched]*
+Dr Genevieve Kane is a scientist with the Interstellar Association for Agriculture who played a leading role in developing the agronomic treatment that cured the blight pathogen crisis in late 3305. Working alongside Rockforth Corporation research teams, Kane coordinated the collaborative effort that also included contributions from the Vandermeer Corporation and Neomedical Industries.
+
+Kane announced that the priority was to transport the treatment to the Diso and Orerve systems, which were among the first agricultural centres ravaged by the blight, with the goal of revitalising crop production across affected systems. Her leadership in the crisis demonstrated the power of interstellar scientific collaboration between corporate and regulatory bodies to avert mass starvation.

@@ -37,4 +37,6 @@ Total mentions: **11**
 
 ## Biography
 
-*[To be enriched]*
+Leoniceno Orbital is a Federal research outpost in the Azaleach system that served as the primary collection and analysis centre for the search for Starship One following its disappearance in May 3301. President Zachary Hudson announced in early 3302 that pilots delivering wreckage components to Leoniceno Orbital would receive generous reimbursements as part of the renewed Federal effort to determine the fate of then-President Jasmina Halsey and her crew.
+
+The outpost became a focal point for one of the Federation's most significant political mysteries, attracting independent pilots and a mysterious competing organisation called Daurtu Jet Comms PLC, which offered even larger rewards for search contributions. Leoniceno Orbital's role in the Starship One investigation connected local Federal infrastructure to galaxy-wide criminal proceedings that would eventually culminate in the trial of Fleet Admiral Lucas Vincent.

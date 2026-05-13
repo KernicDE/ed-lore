@@ -39,4 +39,6 @@ Total mentions: **10**
 
 ## Biography
 
-*[To be enriched]*
+The Cordova Group is a Federal media conglomerate owned by Kingsley Cordova that was directly linked to the Achilles Corporation spy robot scandal in late 3304. A whistle-blower robotics engineer revealed that Cordova had blackmailed her into installing surveillance programs on PA912 robots belonging to well-known individuals in the Sol system, with the accumulated data relayed to the Cordova Group for publication in the Mars Tribune.
+
+The scandal exposed large-scale corporate blackmail and surveillance operations, prompting Achilles Corporation to release a coreware update with a kill switch that remotely deleted the spy program from all affected robots. The Cordova Group's involvement in the affair demonstrated how media corporations could leverage technology for illicit intelligence gathering, blurring the line between journalism and corporate espionage.

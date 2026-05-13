@@ -52,4 +52,6 @@ Total mentions: **11**
 
 ## Biography
 
-*[To be enriched]*
+Munshin is a system that served as a refugee resettlement centre during the Pegasi Sector Pirate War in late 3301. Hundreds of independent pilots delivered vital medicines to Ocrinox's Orbiter in Munshin to support displaced civilians fleeing Kumo Crew raids. The Libertas Cooperative, a group of freed Imperial slaves and their descendants, led the resettlement effort by manning docking bays and working overtime to unload cargo ships.
+
+The Munshin government praised the Libertas Cooperative's quick action and dedication, while the cooperative invited Pegasi Sector refugees to seek employment with them. Munshin's role in the humanitarian crisis highlighted both the challenges of protecting civilian populations during pirate wars and the capacity of independent groups to organise effective relief efforts in frontier systems.

@@ -39,4 +39,6 @@ Total mentions: **10**
 
 ## Biography
 
-*[To be enriched]*
+Engineers are independent specialists across human space who provide customised ship module upgrades and modifications. In December 3306, the engineer network collaborated to offer a universal boost to upgrades in solidarity with Liz Ryder after the NMLA's abuse of her expertise left her unfairly maligned as a terrorist supporter.
+
+Lori Jameson, an engineer based in Shinrarta Dezhra, explained that communication links were established between every workshop to offer increased augmentation for engineered weapons and modules. Mel Brandon, one of four engineers in the Colonia Region, commented that the collaboration demonstrated the network's value to the whole galaxy and their need for better protection. The engineer network remains a vital resource for pilots seeking specialised ship modifications.

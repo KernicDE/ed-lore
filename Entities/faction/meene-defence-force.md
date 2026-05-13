@@ -39,4 +39,6 @@ Total mentions: **11**
 
 ## Biography
 
-*[To be enriched]*
+The Meene Defence Force is the local security authority in the Meene system, responsible for protecting Ram Tah's Phoenix Base research outpost. In November 3304, following a skirmish with mercenaries targeting Phoenix Base, Security Chief Harper Vargas of the Meene Defence Force launched an operation to recover occupied and damaged escape pods from the mercenary vessels in order to interrogate survivors and identify who hired them.
+
+The force worked in coordination with the HIP 29241 Green Party to oversee the recovery initiative, placing kill orders on wanted ships to protect contributing pilots. The Meene Defence Force's role in defending Ram Tah's xenological research demonstrated how frontier security organisations leveraged independent pilot support to gather intelligence following corporate-sponsored attacks on scientific facilities.

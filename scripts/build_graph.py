@@ -60,6 +60,13 @@ MERGE_ALIASES: dict[str, str] = {
     "Lakon": "Lakon Spaceways",
     "Saud Kruger": "Saud Kruger",
     "Dr. Walden": "Hans Walden",
+    # Duplicate canonicalisation
+    "Emperor Hengist Duval": "Hengist Duval",
+    "Rochester": "Jupiter Rochester",
+    "Canonn": "Canonn Interstellar Research Group",
+    "Commander Corrigendum": "Corrigendum",
+    "Admiral Denton Patreus": "Denton Patreus",
+    "President Jasmina Halsey": "Jasmina Halsey",
 }
 
 LOCATION_BLOCKLIST = {
@@ -70,6 +77,8 @@ LOCATION_BLOCKLIST = {
     "California Sector", "Witch Head Sector", "Coalsack Sector",
     "Pleiades Sector", "Hyades Sector", "Sirius Sector", "Achenar Sector",
     "Musca", "Ophiuchus", "Cepheus", "Pegasi Sector", "NGC",
+    # NLP extraction artifacts
+    "none specified",
 }
 
 ENTITY_BLOCKLIST = {
@@ -82,6 +91,50 @@ ENTITY_BLOCKLIST = {
     "Thargoid", "Guardian", "Aegis", "NMLA", "Marlinist", "Azimuth",
     "Salvation", "ACT", "INRA", "Emperor", "President", "Prime Minister",
     "Shadow President", "Senator", "Admiral", "General", "Commander", "CEO",
+    # NLP extraction artifacts
+    "With", "Our", "Which", "Each", "Further", "Vessel", "Suspended",
+    "Found", "Every", "Run", "All", "Any", "Both", "Can", "Had", "Has",
+    "Have", "Were", "Been", "Being", "Having", "Doing", "Said", "Says",
+    "Say", "Get", "Got", "Go", "Went", "Going", "Made", "Make", "Making",
+    "Take", "Took", "Taking", "Come", "Came", "Coming", "See", "Saw",
+    "Seen", "Seeing", "Know", "Knew", "Known", "Knowing", "Think", "Thought",
+    "Thinking", "Look", "Looked", "Looking", "Use", "Used", "Using", "Find",
+    "Finding", "Give", "Gave", "Given", "Giving", "Tell", "Told", "Telling",
+    "Work", "Worked", "Working", "Call", "Called", "Calling", "Try", "Tried",
+    "Trying", "Need", "Needed", "Needing", "Feel", "Felt", "Feeling", "Become",
+    "Became", "Becoming", "Leave", "Left", "Leaving", "Put", "Puts", "Putting",
+    "Mean", "Meant", "Meaning", "Keep", "Kept", "Keeping", "Let", "Lets",
+    "Letting", "Begin", "Began", "Begun", "Beginning", "Seem", "Seemed",
+    "Seeming", "Help", "Helped", "Helping", "Show", "Showed", "Shown",
+    "Showing", "Hear", "Heard", "Hearing", "Play", "Played", "Playing",
+    "Run", "Ran", "Running", "Move", "Moved", "Moving", "Live", "Lived",
+    "Living", "Believe", "Believed", "Believing", "Bring", "Brought",
+    "Bringing", "Happen", "Happened", "Happening", "Write", "Wrote",
+    "Written", "Writing", "Provide", "Provided", "Providing", "Sit", "Sat",
+    "Sitting", "Stand", "Stood", "Standing", "Lose", "Lost", "Losing",
+    "Pay", "Paid", "Paying", "Meet", "Met", "Meeting", "Include", "Included",
+    "Including", "Continue", "Continued", "Continuing", "Set", "Sets",
+    "Setting", "Learn", "Learned", "Learning", "Change", "Changed",
+    "Changing", "Lead", "Led", "Leading", "Understand", "Understood",
+    "Understanding", "Watch", "Watched", "Watching", "Follow", "Followed",
+    "Following", "Stop", "Stopped", "Stopping", "Create", "Created",
+    "Creating", "Speak", "Spoke", "Spoken", "Speaking", "Read", "Reads",
+    "Reading", "Allow", "Allowed", "Allowing", "Add", "Added", "Adding",
+    "Spend", "Spent", "Spending", "Grow", "Grew", "Grown", "Growing",
+    "Open", "Opened", "Opening", "Walk", "Walked", "Walking", "Win",
+    "Won", "Winning", "Offer", "Offered", "Offering", "Remember",
+    "Remembered", "Remembering", "Love", "Loved", "Loving", "Consider",
+    "Considered", "Considering", "Appear", "Appeared", "Appearing",
+    "Buy", "Bought", "Buying", "Wait", "Waited", "Waiting", "Serve",
+    "Served", "Serving", "Die", "Died", "Dying", "Send", "Sent",
+    "Sending", "Expect", "Expected", "Expecting", "Build", "Built",
+    "Building", "Stay", "Stayed", "Staying", "Fall", "Fell", "Fallen",
+    "Falling", "Cut", "Cuts", "Cutting", "Reach", "Reached", "Reaching",
+    "Kill", "Killed", "Killing", "Remain", "Remained", "Remaining",
+    "Suggest", "Suggested", "Suggesting", "Raise", "Raised", "Raising",
+    "Pass", "Passed", "Passing", "Sell", "Sold", "Selling", "Require",
+    "Required", "Requiring", "Report", "Reported", "Reporting", "Decide",
+    "Decided", "Deciding", "Pull", "Pulled", "Pulling",
 }
 
 
@@ -201,8 +254,10 @@ def build() -> dict[str, Any]:
         # Normalise groups
         clean_groups = []
         for g in fm.get("groups") or []:
-            c = normalize_entity(g) or g
-            if c and c not in seen:
+            c = normalize_entity(g)
+            if not c:
+                continue
+            if c not in seen:
                 clean_groups.append(c)
                 seen.add(c)
                 d = group_mentions[c]
@@ -231,27 +286,29 @@ def build() -> dict[str, Any]:
 
         # Normalise persons
         for p in fm.get("persons") or []:
-            c = normalize_entity(p) or p
-            if c:
-                d = person_mentions[c]
-                d["mentions"] += 1
-                d["articles"].append(uuid)
-                if not d["first_seen"] or date < d["first_seen"]:
-                    d["first_seen"] = date
-                if not d["last_seen"] or date > d["last_seen"]:
-                    d["last_seen"] = date
+            c = normalize_entity(p)
+            if not c:
+                continue
+            d = person_mentions[c]
+            d["mentions"] += 1
+            d["articles"].append(uuid)
+            if not d["first_seen"] or date < d["first_seen"]:
+                d["first_seen"] = date
+            if not d["last_seen"] or date > d["last_seen"]:
+                d["last_seen"] = date
 
         # Normalise technologies
         for t in fm.get("technologies") or []:
-            c = normalize_entity(t) or t
-            if c:
-                d = technology_mentions[c]
-                d["mentions"] += 1
-                d["articles"].append(uuid)
-                if not d["first_seen"] or date < d["first_seen"]:
-                    d["first_seen"] = date
-                if not d["last_seen"] or date > d["last_seen"]:
-                    d["last_seen"] = date
+            c = normalize_entity(t)
+            if not c:
+                continue
+            d = technology_mentions[c]
+            d["mentions"] += 1
+            d["articles"].append(uuid)
+            if not d["first_seen"] or date < d["first_seen"]:
+                d["first_seen"] = date
+            if not d["last_seen"] or date > d["last_seen"]:
+                d["last_seen"] = date
 
         if arc_id:
             d = arc_mentions[arc_id]
@@ -607,11 +664,16 @@ def main() -> int:
         if eid not in graph_node_ids:
             continue
         for rel in rec.get("related_entities", []):
-            rid = rel["id"]
+            if isinstance(rel, str):
+                rid = rel
+                mentions = 1
+            else:
+                rid = rel["id"]
+                mentions = rel.get("mentions", 1)
             if rid not in graph_node_ids:
                 continue
             key = (min(eid, rid), max(eid, rid))
-            edge_map[key] = max(edge_map.get(key, 0), rel["mentions"])
+            edge_map[key] = max(edge_map.get(key, 0), mentions)
     graph_data_out = {
         "nodes": graph_nodes,
         "edges": [{"source": s, "target": t, "weight": w} for (s, t), w in edge_map.items()],

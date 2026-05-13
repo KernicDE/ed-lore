@@ -36,4 +36,6 @@ Total mentions: **11**
 
 ## Biography
 
-*[To be enriched]*
+Musashi is a system that serves as one of Azimuth Biotech's core markets and operational centres. In 3309, Azimuth hosted an arms convention in the system where CEO Torben Rademaker unveiled the Overcharged Gimballed AX Multi-Cannon with Auto Loader, a new anti-xeno weapon developed from the company's century-long research into Thargoid combat technology.
+
+The system became a hub for Azimuth's post-Salvation manufacturing operations, with pilots delivering rare goods to support the corporation's weapons development. Musashi's association with Azimuth Biotech placed it at the centre of controversial debates about corporate accountability for the Proteus Wave catastrophe and Project Seraph's inhumane experiments, even as the system's facilities produced weapons considered vital to the ongoing Thargoid defence effort.

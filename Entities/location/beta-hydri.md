@@ -51,4 +51,6 @@ Total mentions: **11**
 
 ## Biography
 
-*[To be enriched]*
+Beta Hydri is a Federal system that became the commercial and political headquarters of entrepreneur Zachary Rackham in 3308. Rackham Capital Investments owns a majority of shares in the Beta Hydri Corporation, the system's controlling faction, giving Rackham direct influence over local governance through his seat on the board of directors.
+
+Rackham's investments in the system include Rackham's Spire, the Luxe Somptueux hotel chain (rebranded as Rackham's Rooms), and MacArthur Mining Ltd. His deepening entrenchment in Beta Hydri's governance structure raised questions about his constitutional eligibility for Federal office, particularly when he later ran for the Federal presidency. The planet Homeland within the system is claimed as Rackham's birthplace, though Federal Times journalist Bryanna Blanco noted that his citizenship documents were never publicly verified.

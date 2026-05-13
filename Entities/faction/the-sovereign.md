@@ -40,4 +40,6 @@ Total mentions: **11**
 
 ## Biography
 
-*[To be enriched]*
+The Sovereign is an independent newsfeed that reported on the mysterious disappearance of actor Consuela Knight and her crew in January 3305. Knight's luxury yacht arrived at port completely empty, with all five people — including the celebrity herself — having simultaneously vanished minutes before arrival, leaving unfinished meals and handheld equipment behind.
+
+The Sovereign's coverage of the baffling incident noted that the ship was in perfect condition with all escape pods intact, and that engineering and hyperspace experts found no survivors. The case became one of the era's most enduring mysteries, spawning conspiracy theories about hyperspace anomalies and Thargoid involvement. The Sovereign also covered the Dangerous Games Wildcard competition later that year, with reporter Trinity Avon commenting on the EG Pilots' victory.

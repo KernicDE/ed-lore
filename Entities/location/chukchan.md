@@ -52,4 +52,6 @@ Total mentions: **10**
 
 ## Biography
 
-*[To be enriched]*
+Chukchan is a system that became significant in late 3306 when the abandoned megaship Adamastor arrived on automatic pilot after two centuries of sublight travel. The derelict vessel, displaying no signs of life, was wrestled into safe orbit by tugs after being detected on a collision course with Chukchan 5 B. The Alliance Salvage Guild boarded the ship and confirmed it had been intended for clandestine operations, with all data drives deliberately erased.
+
+The Adamastor's discovery in Chukchan — along with the later appearance of the Hesperus in the same system — became a key piece of the historical superpower covert operations puzzle. In 3307, pilots in Chukchan reported being contacted by the mysterious figure "Salvation" near the Hesperus, making the system a focal point for investigations into Azimuth Biochemicals' hidden legacy.

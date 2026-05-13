@@ -28,4 +28,6 @@ Total mentions: **10**
 
 ## Biography
 
-*[To be enriched]*
+Elaine Boyd was a Federal Times reporter who became a central figure in the Antares conspiracy scandal in 3301. Accused of murdering her partner, Agent Susan Monroe of the Presidential Protection Detail, Boyd went into hiding before her body was discovered in a low-rent hotel in Wyrd following an anonymous tip-off.
+
+An off-the-record source revealed that a suicide note was found, allegedly stating that Boyd could no longer live with the guilt of killing her lover. The Federal Times refused to comment on her fate. Boyd's apparent suicide deepened the Federal scandal surrounding the Antares incident and Starship One conspiracy, adding a layer of personal tragedy to the political crisis that would eventually lead to the trial of Fleet Admiral Lucas Vincent.

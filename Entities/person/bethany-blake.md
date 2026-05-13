@@ -28,4 +28,6 @@ Total mentions: **10**
 
 ## Biography
 
-*[To be enriched]*
+Bethany Blake is the Deputy Director of the Federal Intelligence Agency who led a multi-system crackdown against the Red Family narcotics syndicate in 3308. The operation was made possible by intelligence gathered through the Proactive Detection Bureau, the Federal surveillance system established in 3307 following NMLA attacks.
+
+Blake's public statement to the Federal Times confirmed that the FIA's algorithms had intercepted key messages identifying Red Family's allies within local security forces and legal businesses, enabling mass arrests across over a dozen Federal systems. Her candid admission that "the Proactive Detection Bureau monitors all communications within the Federation" revealed how counter-terrorism surveillance infrastructure was rapidly repurposed for conventional law enforcement, raising significant civil liberties concerns.

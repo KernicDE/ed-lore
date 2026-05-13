@@ -38,4 +38,6 @@ Total mentions: **11**
 
 ## Biography
 
-*[To be enriched]*
+Neomedical Industries is an Alliance and independent pharmaceutical corporation that supplies medical products across non-Federal space. In early 3305, the company competed against the Vandermeer Corporation for a licence to mass-produce Vitadyne nanomedicines developed by Professor Katrien Rook, with deliveries requested at Piserchia Port in the Alignak system.
+
+Neomedical Industries also contributed essential research to the development of an agronomic treatment that reversed the blight pathogen crisis in late 3305, working alongside Rockforth Corporation, the Vandermeer Corporation and the Interstellar Association for Agriculture. The company's role in both the nanomedicine bidding war and the blight cure highlighted the political and commercial dimensions of healthcare distribution across superpower borders.

@@ -40,4 +40,6 @@ Total mentions: **11**
 
 ## Biography
 
-*[To be enriched]*
+The Children of Tothos is an apocalyptic cult that seized control of Archambault Terminal in early 3305 and threatened to detonate a portable 300-megaton nuclear warhead known as the Lucifer Device. The cult's leader, Barnabas Cole, orchestrated mass-sacrifice ceremonies intended to summon the deity Tothos by killing millions of starport inhabitants.
+
+In April 3305, as Cole prepared to activate the device, he was shot dead by Senior Agent Rochelle Karim of the Federal Intelligence Agency, who had infiltrated the cult by posing as a worshipper. The FIA successfully disarmed the Lucifer Device and arrested Cole's acolytes, though the cult officially disbanded in the aftermath. The incident demonstrated both the lethal threat posed by apocalyptic cults and the effectiveness of deep-cover intelligence operations in preventing mass-casualty terrorism.

@@ -36,4 +36,6 @@ Total mentions: **11**
 
 ## Biography
 
-*[To be enriched]*
+Skvortsov Orbital is a starport in the 63 G. Capricorni system that gained fame in May 3302 when O'Malligan's Coffee Bar announced plans to throw a massive party for returning Distant Worlds explorers. The Diamond Frogs, the system's controlling faction, coordinated with the Pilots Federation to gather alcohol and recreational substances for the gala, rewarding pilots who contributed to the celebration.
+
+The station became a symbol of the explorer community's camaraderie, with Universal Cartographics and the Pilots Federation supporting the event. Skvortsov Orbital's explorers' gala demonstrated how frontier starports could serve as gathering points for independent pilots returning from deep-space expeditions, bridging the gap between the bubble and the distant reaches of the galaxy.

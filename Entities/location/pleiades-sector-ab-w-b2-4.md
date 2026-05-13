@@ -52,4 +52,6 @@ Total mentions: **11**
 
 ## Biography
 
-*[To be enriched]*
+Pleiades Sector AB-W B2-4 is a system in the Pleiades Nebula that became significant during the early Thargoid contact period. In August 3302, independent pilots Noctrach and Ihazevich discovered the remains of a non-human starship on planet 9a following a galaxy-wide hunt coordinated by the Granger Gang. The wreckage — confirmed by Imperial veteran Augustus Sym as alien in origin — represented one of the first confirmed finds of non-human ship remains.
+
+The Imperial Navy's Merope Expeditionary Fleet later constructed a forward operating base in the system in September 3302 to counter Federal attempts to monopolise meta-alloy sources. The system's combination of alien archaeological significance and superpower military competition made it a key location in the escalating Pleiades conflict that preceded full-scale Thargoid hostilities.

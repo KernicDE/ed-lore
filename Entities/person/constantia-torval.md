@@ -28,4 +28,6 @@ Total mentions: **10**
 
 ## Biography
 
-*[To be enriched]*
+Constantia Torval is the operations director of Torval-Mastopolos Mining and daughter of Senator Zemina Torval. In early 3308, she announced a bid by Torval Mining to acquire a mining contract from the Caine-Massey corporation in the Dulos system, stating that the company sought to reach a broader customer base beyond the Empire.
+
+Following the boardroom coup that removed Zemina Torval from Mastopolos Mining in late 3307, Constantia's subsidiary was elected as the controlling authority of LTT 198, with permits available via the Pride of Bitterwood megaship. Constantia's leadership of Torval-Mastopolos Mining represented the Torval family's strategic pivot from direct corporate control of Mastopolos to building an independent mining empire through subsidiary operations, continuing her mother's legacy of combining political office with industrial expansion.

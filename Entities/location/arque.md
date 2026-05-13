@@ -51,4 +51,6 @@ Total mentions: **11**
 
 ## Biography
 
-*[To be enriched]*
+Arque is a system that became significant in 3305 when Professor Ishmael Palin established a permanent research base at Abel Laboratory on Arque 4 E, following his evacuation from the Maia system. Aegis Research confirmed the relocation, noting that Palin resumed his engineering services and meta-alloy studies at the new facility.
+
+The system served as a safe haven for Palin's work after the Thargoid incursions made Maia untenable. The megaship Carson's Spring facilitated the emergency evacuation of the Palin Research Centre before departing to resume other duties. Arque thus represents a key waypoint in the history of Thargoid research, preserving one of humanity's most important xenological engineering capabilities.
