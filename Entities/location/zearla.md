@@ -34,22 +34,6 @@ bio: Zearla is a star system in the Elite Dangerous universe, significant from 3
 
 
 
-<!-- AUTO-GENERATED -->
+Zearla is an independent corporate system of extraordinary scale, home to over six billion inhabitants under the governance of SSL Interstellar PLC with a high-security agricultural economy bolstered by military support. Located in a region that places it within reach of both Federal and Imperial territories, the system has historically served as a logistical hub where both superpowers maintained parallel supply operations. Its unique position has made it a rare example of a system where Federal and Imperial interests coexist without direct conflict, each pursuing separate objectives through local intermediaries.
 
-# Zearla
-
-First mentioned: **3302-11-18**  
-Last mentioned: **3305-01-10**  
-Total mentions: **3**
-
-## Related
-
-- [[Federal Navy]] (2 co-mentions)
-- [[Imperial Navy]] (2 co-mentions)
-- [[League of Zearla]] (2 co-mentions)
-- [[Sirsir Co]] (2 co-mentions)
-- [[Sirsir]] (2 co-mentions)
-
-## Biography
-
-*[To be enriched]*
+During late 3302, the League of Zearla and Sirsir Co ran parallel military supply campaigns for the Federal and Imperial navies respectively, delivering battle weapons, armour, and essential supplies to support ongoing operations. This arrangement demonstrated how neutral systems could profit from superpower competition by serving both sides simultaneously. Wreaken Construction subsequently assembled a large convoy of heavy construction ships in Zearla, suggesting that the system's strategic importance extended beyond immediate military logistics to encompass longer-term infrastructure development.

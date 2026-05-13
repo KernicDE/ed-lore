@@ -31,22 +31,6 @@ bio: Riedquat is a star system in the Elite Dangerous universe, significant from
 
 
 
-<!-- AUTO-GENERATED -->
+Riedquat is a substantial Federal corporate system home to two billion inhabitants, governed by Terra-EX Astro Corp with an agricultural economy supported by industrial processing. Located within Federal space at coordinates that place it within established trade networks, the system maintains medium security and connections to major corporate interests including the Rockforth Corporation and Lakon Spaceways. Its agricultural productivity makes it a significant contributor to regional food security within the Federation.
 
-# Riedquat
-
-First mentioned: **3305-09-18**  
-Last mentioned: **3305-10-22**  
-Total mentions: **3**
-
-## Related
-
-- [[Rockforth Corporation]] (3 co-mentions)
-- [[Interstellar Association for Agriculture]] (2 co-mentions)
-- [[Lakon Spaceways]] (1 co-mentions)
-- [[Teveri Progressive Party]] (1 co-mentions)
-- [[Diso]] (1 co-mentions)
-
-## Biography
-
-*[To be enriched]*
+In late 3305, Riedquat became the focal point of coordinated economic activity when multiple organisations launched campaigns involving the system. The Rockforth Corporation and Interstellar Association for Agriculture both maintained active interests there, reflecting the system's importance as a nexus for agricultural commerce and policy development. Riedquat's experience illustrated how even well-established Federal systems could become arenas for competing corporate and political interests, as various factions sought to leverage its productive capacity for their respective agendas.

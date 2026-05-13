@@ -32,22 +32,6 @@ bio: Hyades Sector RO-P b6-6 is a star system in the Elite Dangerous universe, s
 
 
 
-<!-- AUTO-GENERATED -->
+Hyades Sector RO-P b6-6 is an independent system governed under patronage by the Marlinists of New Chana, home to over 260 million inhabitants with an industrial economy supported by refinery operations. Located within the broader region that encompasses the Marlinist Colonies, the system became one of the primary destinations for refugees fleeing Imperial persecution following the exposure of the NMLA terrorist network. Its substantial population and strategic position made it both a symbol of Marlinist aspirations for self-determination and a target for those seeking to punish the movement.
 
-# Hyades Sector RO-P b6-6
-
-First mentioned: **3307-07-15**  
-Last mentioned: **3307-07-29**  
-Total mentions: **3**
-
-## Related
-
-- [[Marlinist Colonies]] (3 co-mentions)
-- [[NMLA]] (3 co-mentions)
-- [[Pilots Federation]] (3 co-mentions)
-- [[Marlinism Reformation Party]] (3 co-mentions)
-- [[Free Marlinist Movement]] (3 co-mentions)
-
-## Biography
-
-*[To be enriched]*
+In July 3307, the system suffered catastrophic terrorist attacks when NMLA bombs destroyed Tilman Point in Hyades Sector RO-P b6-6 and Stillman Hub in nearby HIP 22550, killing tens of thousands of civilians. These atrocities demonstrated that the NMLA's violence extended indiscriminately across both Imperial and Marlinist territories, undermining any claim that the terrorists acted in defence of Marlinist interests. The attacks on Hyades Sector RO-P b6-6 became defining moments in the narrative of Marlinist victimhood, galvanising support for the colonies while also deepening the trauma of a community that had sought only peaceful separation from the Empire.
