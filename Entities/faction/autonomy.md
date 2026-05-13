@@ -39,4 +39,4 @@ Total mentions: **5**
 
 ## Biography
 
-*[To be enriched]*
+Autonomy is an independent faction that advocates for system-level self-governance and resistance against corporate and governmental overreach. Operating primarily in independent systems, the group promotes local control over resource extraction, trade policy and security arrangements. Autonomy's ideology appeals to colonies and outposts that feel marginalised by the major powers, offering an alternative to Imperial, Federal or Alliance alignment. While not a military organisation, Autonomy has been known to support independence movements and resist corporate takeovers, making it a significant force in systems seeking to maintain their sovereignty against external domination.

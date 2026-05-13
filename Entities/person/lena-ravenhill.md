@@ -28,4 +28,4 @@ Total mentions: **5**
 
 ## Biography
 
-*[To be enriched]*
+Lena Ravenhill is the chief editor of the Federal Times, one of the Federation's most respected independent news publications. She gained prominence in 3304 during the Mars Tribune corruption scandal, when her newspaper's reporting exposed the Tribune's illegal surveillance operations and data theft. Ravenhill publicly accused the Federal Security Service of protecting the Tribune's parent company, the Cordova Group, and suggested that powerful figures feared what a full investigation might reveal. Her willingness to challenge both corporate media conglomerates and federal law enforcement established the Federal Times as a rare voice of investigative journalism in an era of increasing media consolidation.

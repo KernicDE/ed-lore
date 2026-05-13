@@ -26,4 +26,4 @@ Total mentions: **5**
 
 ## Biography
 
-*[To be enriched]*
+Rex Whitlock is a corporate marketing executive who served as marketing director for Rockforth Corporation, an agricultural technology firm. In 3305, he promoted the company's synthetic crop enhancement technology, which was later implicated in the blight crisis that devastated agricultural systems across the galaxy. When the full scale of the blight became apparent, Rockforth Corporation dismissed Whitlock, making him a scapegoat for the company's role in one of the most serious agricultural disasters in recent history. His case exemplifies how corporations deflect responsibility for systemic failures onto individual executives.

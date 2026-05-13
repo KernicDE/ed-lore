@@ -24,4 +24,4 @@ Total mentions: **5**
 
 ## Biography
 
-*[To be enriched]*
+Daniel Parry is a Federal Navy officer who served in anti-xeno operations during the early 3300s. He was involved in Aegis-affiliated missions against Thargoid forces, participating in combat operations that shaped the Federation's military response to the alien threat. Parry's service illustrates the heavy burden placed on Federal military personnel during the Thargoid conflict, where officers were routinely deployed against an enemy with vastly superior technology and little regard for human life.

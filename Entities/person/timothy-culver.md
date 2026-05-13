@@ -26,4 +26,4 @@ Total mentions: **5**
 
 ## Biography
 
-*[To be enriched]*
+Timothy Culver is a prominent xeno-peace activist and diplomat who argues that Thargoid incursions into human space are defensive reprisals rather than unprovoked aggression. He cites the Proteus Wave and the mycoid bioweapon as historical provocations that justify Thargoid hostility, advocating for diplomatic dialogue and de-escalation rather than military confrontation. Culver's position places him at odds with both Federal and Imperial military establishments, as well as with Aegis's more militant factions. His activism represents a minority but vocal perspective in galactic politics — one that challenges the prevailing narrative of Thargoids as irredeemable enemies and calls for a fundamentally different approach to interspecies relations.

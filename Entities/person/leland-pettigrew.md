@@ -24,4 +24,4 @@ Total mentions: **5**
 
 ## Biography
 
-*[To be enriched]*
+Leland Pettigrew is a senior lecturer at Orion University and a leading expert on the Scriveners Clan, a nomadic community that salvages technology from abandoned settlements. In late 3307, Pettigrew was recruited by the Alliance to help establish diplomatic contact with the Clan after their dredger entered Alliance space. He facilitated the historic first meeting between the Alliance and the Scriveners, providing crucial cultural and linguistic context that enabled peaceful negotiations. His work represented a rare instance of academic expertise being directly applied to interstellar diplomacy, bridging the gap between isolated salvager communities and major galactic powers.
