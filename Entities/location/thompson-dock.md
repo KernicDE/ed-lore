@@ -35,6 +35,8 @@ Total mentions: **5**
 - [[Bond Hub]] (1 co-mentions)
 - [[Varati]] (1 co-mentions)
 
-## Biography
+## Description
 
-*[To be enriched]*
+Thompson Dock is a starport in the Varati system that served as a key base for the Canonn Interstellar Research Group during the early investigations into Unknown Artefacts and Thargoid technology. In late 3301, over fifty Canonn scientists arrived at the station with equipment to investigate the correlation between Unknown Artefacts and starport malfunctions.
+
+The station's strategic location made it an ideal staging point for Canonn's pioneering xenoarchaeological research. From Thompson Dock, the Canonn launched campaigns to construct dedicated research outposts in systems such as Col 285 Sector IX-T d3-43, establishing the infrastructure that would eventually make them one of the galaxy's leading independent research organisations. Thompson Dock thus holds a significant place in the history of humanity's first organised response to the Thargoid threat.

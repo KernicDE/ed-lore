@@ -28,4 +28,6 @@ Total mentions: **5**
 
 ## Biography
 
-*[To be enriched]*
+The Hesperus was a research megaship owned by Azimuth Biochemicals, sister vessel to the Adamastor, that disappeared in 3113 during a xenological survey mission. It was rediscovered in 3307 in the Perseus Dark Region KC-V c2-2 system by the nomadic Scriveners Clan, who had salvaged its data drives from a dredger.
+
+Investigations revealed that the Hesperus had been seized by sleeper agents from Pharmasapien, Azimuth's corporate rival, resulting in the deaths of most of the crew. The surviving scientists escaped aboard a secondary craft named Proteus, which they converted into a research facility on Trapezium Sector YU-X c1-2 1a to study Guardian relics. The Hesperus's rediscovery proved pivotal: it provided the mysterious figure known as Salvation with the knowledge and coordinates needed to locate the Proteus and its Guardian-Thargoid battleground, setting in motion the chain of events that would reshape the anti-xeno war.

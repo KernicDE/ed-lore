@@ -28,4 +28,6 @@ Total mentions: **5**
 
 ## Biography
 
-*[To be enriched]*
+The communications beacon aboard the Adamastor megaship was a pivotal piece of technology that launched the Salvation saga. In 3307, Alliance Salvage Guild teams investigating the 200-year-old ghost ship in the Chukchan system discovered an undeployed beacon in one of its damaged cargo holds. After powering it up, the beacon automatically activated and began receiving and rebroadcasting a long-range encrypted interstellar signal of unknown origin.
+
+The mysterious signal — later revealed to have been sent by Salvation — could not be traced to any identifiable source, but its encoded content provided the decryption key needed to locate the Hesperus, the Adamastor's sister ship. Without this ancient communications technology, the trail leading from Azimuth Biochemicals' 31st-century expedition to Salvation's 34th-century anti-xeno campaign might never have been uncovered.

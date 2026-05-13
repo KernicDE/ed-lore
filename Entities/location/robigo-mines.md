@@ -33,6 +33,8 @@ Total mentions: **5**
 - [[Halbangaay]] (4 co-mentions)
 - [[64 Arietis]] (4 co-mentions)
 
-## Biography
+## Description
 
-*[To be enriched]*
+Robigo Mines is a starport in the Robigo system that became notable during the technological plague crisis of 3301–3302, when Unknown Artefact interference disabled stations across inhabited space. The starport was among those affected by the mysterious technology-disabling contagion, and later among those restored through the application of meta-alloys — the Thargoid-derived material that proved to be the only effective countermeasure.
+
+The Robigo system itself has long been associated with smuggling and black-market activity, with Robigo Mines serving as a hub for pilots running illicit passenger contracts. Its connection to both the technological plague and the shadow economy illustrates how frontier starports can simultaneously be sites of galactic crises and criminal enterprise.

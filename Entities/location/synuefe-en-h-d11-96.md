@@ -47,6 +47,8 @@ Total mentions: **5**
 - [[Segnen Exchange]] (4 co-mentions)
 - [[Zende]] (2 co-mentions)
 
-## Biography
+## Description
 
-*[To be enriched]*
+Synuefe EN-H d11-96 is a high-security independent system on the frontier of Guardian space that became a hub for xenoarchaeological research in 3305. The Zende Partners corporation established The Prospect — a permanent outpost in the system — and launched a weekly megaship transport service from Zende to support Guardian technology research.
+
+The system's strategic value attracted competition from the Segnen Exchange, which attempted to expand into Synuefe EN-H d11-96 and challenge Zende Partners' control. After a brief corporate conflict, Zende Partners prevailed, securing both outposts and commencing manufacture of the Advanced Multi-cannon at The Prospect. The system exemplifies how corporate competition on the frontier can drive both technological innovation and territorial disputes far from the jurisdiction of the major powers.

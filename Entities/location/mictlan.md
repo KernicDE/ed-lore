@@ -49,6 +49,8 @@ Total mentions: **5**
 - [[Silver Allied Network]] (2 co-mentions)
 - [[Xuesen Orbital]] (1 co-mentions)
 
-## Biography
+## Description
 
-*[To be enriched]*
+Mictlan is a populous Imperial industrial system with over 32 million inhabitants. In 3309, the Kumo Crew megaship of the same name was deployed to the California Nebula to coordinate anti-Thargoid defence operations, though the Turner Research Group accused Archon Delaine of using the crisis as a pretext for territorial expansion.
+
+The system itself has a medium-security environment with an industrial and extraction economy, controlled by the G.O.M. Collective. Mictlan's dual identity as both an Imperial system and the namesake of a Kumo Crew megaship illustrates the complex overlap between legitimate governance and criminal enterprise in the galaxy's border regions.

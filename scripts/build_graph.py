@@ -83,6 +83,13 @@ MERGE_ALIASES: dict[str, str] = {
     "Free Marlinist Movement": "Marlinist Colonies",
     "Coalsack": "Coalsack Nebula",
     "Professor Palin": "Ishmael Palin",
+    "Admiral Vincent": "Lucas Vincent",
+    "Fleet Admiral Vincent": "Lucas Vincent",
+    "Éamonn Uí Laoghire": "Éamonn Uí Laoghaire",
+    "Admiral Maxton Price": "Maxton Price",
+    "Admiral Lucius Lavigny": "Lucius Lavigny",
+    "Helix drug": "Onionhead gamma strain",
+    "Helix": "Onionhead gamma strain",
     "Proactive Detection Bureau surveillance algorithms": "Proactive Detection Bureau",
 }
 

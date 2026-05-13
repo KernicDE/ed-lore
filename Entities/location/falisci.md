@@ -49,6 +49,8 @@ Total mentions: **6**
 - [[Falisci Purple Gang]] (3 co-mentions)
 - [[Dongzi]] (2 co-mentions)
 
-## Biography
+## Description
 
-*[To be enriched]*
+Falisci is an Imperial system near the Core Systems that became a flashpoint for piracy and proxy warfare in 3301. The system was controlled by the Falisci Purple Gang, a pirate faction that plundered traders along the route to Dongzi and Ngaiawang despite warnings from Senator Denton Patreus.
+
+In response, the Citizens of Tradition — a Patreus-aligned faction — massed warships on Falisci's borders and invited Imperial pilots to join the fight. The conflict exemplified Patreus's aggressive expansionist strategy, using aligned private militias to secure trade routes without direct Imperial Navy involvement. Falisci's low-security, extraction-based economy made it an ideal haven for pirates and a testing ground for Patreus's proxy military doctrine.

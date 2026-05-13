@@ -32,6 +32,8 @@ Total mentions: **5**
 - [[Pilots Federation]] (3 co-mentions)
 - [[Marlinism Reformation Party]] (3 co-mentions)
 
-## Biography
+## Description
 
-*[To be enriched]*
+Stillman Hub is a starport in the HIP 22550 system that was devastated by a Neo-Marlinist Liberation Army (NMLA) bombing in 3307. The attack killed tens of thousands and formed part of the NMLA's broader campaign of terror against the Empire and its allies during the Marlinist crisis.
+
+The bombing of Stillman Hub — alongside Tilman Point in the Hyades Sector RO-P b6-6 — demonstrated the NMLA's willingness to target civilian infrastructure and their capacity to strike across Imperial-aligned space. The atrocity intensified anti-Marlinist sentiment in the Empire and contributed to the hardline policies that eventually led to the establishment of the Marlinist Colonies as a compromise solution. Stillman Hub remains a memorial to the victims of NMLA terrorism.

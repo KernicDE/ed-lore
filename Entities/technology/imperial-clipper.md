@@ -28,4 +28,6 @@ Total mentions: **5**
 
 ## Biography
 
-*[To be enriched]*
+The Imperial Clipper is a prestigious multipurpose vessel manufactured by Gutamaya Shipyards, distinguished by its elegant Imperial styling, powerful shielding and expansive cargo capacity. It has served as a symbol of Imperial engineering excellence for centuries, with access traditionally restricted to pilots who hold rank within the Imperial Navy.
+
+Following Emperor Hengist Duval's recovery from a coma in 3301, the Empire briefly lifted purchase restrictions to celebrate, allowing any active Imperial Navy pilot to acquire the Clipper. The restrictions were reinstated after the Emperor's assassination in 3303. The vessel's combination of speed, luxury and combat capability makes it one of the most versatile ships in Imperial service, equally suited to trade, combat and diplomatic missions. Its continued production underscores Gutamaya's dominance in the Imperial shipbuilding market.

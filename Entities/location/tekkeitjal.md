@@ -46,6 +46,8 @@ Total mentions: **5**
 - [[Pilots Federation]] (2 co-mentions)
 - [[Bennington's Rest]] (2 co-mentions)
 
-## Biography
+## Description
 
-*[To be enriched]*
+Tekkeitjal is an independent industrial system with a population of over one million that was among the first inhabited systems invaded by Thargoid forces following the Proteus Wave incident in 3308. The system, governed by the Tekkeitjal Public Corporation, had no formal navy and was forced to rely on independent pilots and volunteer AX squadrons for its defence.
+
+The Thargoid incursion into Tekkeitjal was notable for its tactical differences from previous attacks: no starports were directly bombarded, suggesting a strategic evolution in Thargoid warfare. After seventeen days of combat, the Thargoids withdrew — whether defeated or making a tactical retreat remains debated. The Battle of Tekkeitjal demonstrated both the vulnerability of independent systems to alien invasion and the critical role that independent pilots play in galactic defence.

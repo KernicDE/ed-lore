@@ -50,6 +50,8 @@ Total mentions: **5**
 - [[Clauss Incorporated]] (3 co-mentions)
 - [[Diamond Frogs]] (1 co-mentions)
 
-## Biography
+## Description
 
-*[To be enriched]*
+Santa Muerte is a small Alliance refinery system that became briefly notable in 3301–3303 through the commercial activities of Clauss Incorporated. The system's controlling faction, the Alliance Rapid-reaction Corps, maintained a medium-security environment while CEO Nicolas St Clauss orchestrated a public appeal for 'Special Gifts' — commodities transported from Frost Dock in Njambalba to Clauss Port in Santa Muerte.
+
+The campaign attracted hundreds of independent pilots and concluded successfully, demonstrating how even minor Alliance systems could become focal points for corporate marketing campaigns. Santa Muerte's cooperative governance and refinery economy exemplify the Alliance's decentralized model, where local corporate interests operate with minimal federal interference.

@@ -49,6 +49,8 @@ Total mentions: **5**
 - [[LP 128-32]] (2 co-mentions)
 - [[Bulychev Hub]] (2 co-mentions)
 
-## Biography
+## Description
 
-*[To be enriched]*
+Synuefai EB-R c7-5 is an Alliance extraction system on the frontier between the Core Systems and the California Nebula. In 3304, the Alliance announced plans to construct an Orbis starport in the system — designated California Gateway — to serve as a waypoint and logistical hub for expansion into the nebula region.
+
+The system's strategic location makes it a critical link in the Alliance's efforts to project influence beyond its traditional borders, connecting the industrial core with the resource-rich California Nebula frontier. Controlled by the Turner Research Group under a medium-security dictatorship, Synuefai EB-R c7-5 exemplifies how the Alliance uses infrastructure investment rather than military conquest to expand its sphere of influence.

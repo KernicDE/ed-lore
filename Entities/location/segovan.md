@@ -50,6 +50,8 @@ Total mentions: **5**
 - [[Empire]] (1 co-mentions)
 - [[Taskforce Athena]] (1 co-mentions)
 
-## Biography
+## Description
 
-*[To be enriched]*
+Segovan is a populous independent industrial system with over 25 million inhabitants that became a battleground in 3302 when Federal and Imperial proxy forces clashed over its future. The system was controlled by Sirius Inc when the Federation launched an expansion campaign, prompting the Empire-aligned coalition Taskforce Athena to declare Segovan a no-fly zone and place Ramsbottom Hub under lockdown.
+
+The conflict stranded thousands of pilots and demonstrated how proxy warfare between the superpowers could disrupt civilian infrastructure even in nominally independent systems. With no formal navy of its own, Segovan's population was caught between competing imperial ambitions, highlighting the vulnerability of democratic independent systems caught in the crossfire of Federal and Imperial expansionism.

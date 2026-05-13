@@ -35,6 +35,8 @@ Total mentions: **6**
 - [[Eol Prou RS-T d3-94]] (1 co-mentions)
 - [[Deep Recon X]] (1 co-mentions)
 
-## Biography
+## Description
 
-*[To be enriched]*
+Eol Prou is a region within the Colonia Nebula that serves as a key colonisation and research zone on the galactic frontier. The area contains multiple systems designated for expansion by the Colonia Council, including sites for experimental habitats established by the Holloway Bioscience Institute to study vacuum-dwelling lifeforms.
+
+In 3307, the Holloway Bioscience Institute selected several Eol Prou systems — including Eol Prou PC-K c9-221, Eol Prou LW-L c8-99 and Eol Prou KW-L c8-301 — as locations for experimental xenobiological habitats. These installations represent the cutting edge of frontier science, leveraging Colonia's remote location to conduct research that would be politically or logistically impossible in the Core Systems. Eol Prou exemplifies how the Colonia region has evolved from a remote outpost into a thriving scientific and colonisation hub.

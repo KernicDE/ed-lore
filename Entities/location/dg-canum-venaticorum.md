@@ -43,6 +43,8 @@ Total mentions: **6**
 - [[Alliance]] (4 co-mentions)
 - [[Empire]] (4 co-mentions)
 
-## Biography
+## Description
 
-*[To be enriched]*
+DG Canum Venaticorum is a system that became pivotal in the Salvation controversy when Aegis discovered INRA logs linking Azimuth Biochemicals to the mycoid virus project. In 3308, Professor Alba Tesreau presented evidence from the system that exposed Salvation's true identity as Dr Caleb Wycherley — a former Azimuth researcher and INRA collaborator who had faked his death decades earlier.
+
+The revelation polarised public opinion and prompted sharply different reactions from the superpowers. While the Empire prioritised military utility and Senator Patreus dismissed ethical concerns, the Federation reopened its investigation under Fleet Admiral Tayo Maikori, and the Alliance continued relying on Salvation's superweapons despite Admiral Rachel Ziegler acknowledging the seriousness of the accusations. DG Canum Venaticorum thus became the symbolic centre of the debate over whether defeating the Thargoids justified alliance with a man whose scientific legacy was built on bioweapons and corporate espionage.

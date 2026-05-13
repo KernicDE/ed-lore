@@ -28,4 +28,6 @@ Total mentions: **2**
 
 ## Biography
 
-*[To be enriched]*
+Éamonn Uí Laoghaire was the ambassador and public face of the Crimson State Group, leading the independence movement in the Lugh system in 3301. He championed Lugh's bid for sovereignty from the Federation, securing a 91% local approval rating for secession and seeking diplomatic recognition from the Alliance on Alioth.
+
+Uí Laoghaire became a symbol of defiance against Federal domination, invoking the ancient prophecy of the 'Leabhar Gabhála Lugh' — that the Sons of Conn would come to Lugh's aid in its darkest hour — and offering generous payouts to independent pilots who would fight for the Crimson State Group. When President Jasmina Halsey declared war and Federal forces stormed Seega Port, the rebellion was crushed and Uí Laoghaire's dream of an independent Lugh died with it. His legacy endures as a martyr for colonial self-determination, and the Lugh independence war remains one of the most notorious conflicts of Halsey's presidency.
