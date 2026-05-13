@@ -28,4 +28,6 @@ Total mentions: **22**
 
 ## Biography
 
-*[To be enriched]*
+Conrad Sterling is a political correspondent for Vox Galactica who has covered major inter-superpower diplomatic events and Federal politics. He is best known for his reporting from the Galactic Summit in February 3307, where he provided detailed accounts of the first-ever face-to-face discussions between Alliance, Imperial, and Federal leaders in the Sirius system.
+
+Sterling's journalism has tracked the rise of corporatist movements inspired by Jupiter Division, the evolving relationship between the Federation and independent powers such as Yuri Grom, and the political fallout from the Aegis dissolution. His dispatches from the Galactic Summit captured both the ceremonial optimism and underlying tensions of the conference, including the frostiness between Imperial and Marlinist delegations and the conspicuous absence of Federal Ambassador Jordan Rochester.

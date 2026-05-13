@@ -40,4 +40,6 @@ Total mentions: **18**
 
 ## Biography
 
-*[To be enriched]*
+The Buckyball Racing Club is an unsanctioned independent organisation that organises high-speed point-to-point rally races across the galaxy. Founded by enthusiasts of extreme piloting, the club established its reputation through a series of challenging endurance events that test both navigational skill and ship engineering under pressure.
+
+The club's most famous event is the Buckyball Run A*, a permanent endurance challenge established in 3301 that tasks pilots with racing from Sol to Sagittarius A* — the supermassive black hole at the galactic centre — in the shortest time possible. The Buckyball Racing Club has also organised commemorative themed races, charity events chauffeuring students, and seasonal competitions across the Old Worlds. While not endorsed by any official body, the club has become a celebrated institution within the independent pilot community, embodying the spirit of competitive exploration and risk-taking that defines the Pilots' Federation.

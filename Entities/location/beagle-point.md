@@ -45,4 +45,6 @@ Total mentions: **21**
 
 ## Biography
 
-*[To be enriched]*
+Beagle Point, formally designated Ceeckia ZQ-L c24-0, is one of the most distant known star systems from Sol, lying approximately 65,000 light years from humanity's birthplace on the far side of the Milky Way. It first entered galactic consciousness in 3302 as the destination of the Distant Worlds Expedition, in which roughly 1,000 pilots set out across the galaxy and an estimated 25% survived the perilous journey.
+
+The system has since become a pilgrimage site for explorers and a symbol of humanity's farthest reach. In 3302, the mobile starport Jaques Station was diverted toward Beagle Point in an ambitious relocation attempt, though it was ultimately hyperdicted by Thargoids and stranded in Colonia. Beagle Point remains a testament to the endurance and navigational skill of independent pilots, representing both the triumph and mortality of deep-space exploration.

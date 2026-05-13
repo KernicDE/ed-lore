@@ -39,4 +39,6 @@ Total mentions: **15**
 
 ## Biography
 
-*[To be enriched]*
+Vitadyne Labs is an independent pharmaceutical company led by Professor Katrien Rook, best known for its development of advanced nanomedicines announced in December 3304. The firm claimed its nanomeds could repair cellular damage on a molecular level, cure diseases and infections, and extend human lifespans by 30 to 50 years.
+
+The announcement triggered a protracted legal dispute when Simguru Pranav Antal of Utopia accused Vitadyne of stealing technology from a crashed Utopian transport. Rook admitted the original compounds had been obtained as salvage but argued that Vitadyne's recreated derivatives constituted independent intellectual property. The Interstellar Health Organisation ruled in Vitadyne's favour in January 3305, approving distribution through established pharmaceutical partners. After a year of negotiations, Vandermeer Corporation began manufacturing the nanomeds for galactic release in June 3306, despite continued condemnation from Utopia.

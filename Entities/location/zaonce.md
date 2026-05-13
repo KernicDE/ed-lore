@@ -52,4 +52,6 @@ Total mentions: **19**
 
 ## Biography
 
-*[To be enriched]*
+Zaonce is a major industrial system in the Alliance and a founding member of the Old Worlds, located within the Lave cluster. Home to Ridley Scott Station and the influential Bank of Zaonce, the system has long served as a financial and industrial hub. In 3301, it was at the centre of pilot-driven anti-piracy efforts when Silver United Solutions deputised thousands of commanders to crush the Zaonce Jet Gang and restore order to the sector.
+
+The system's political significance deepened when former governor Gibson Kincaid became Alliance President in 3303. Kincaid's 3305 attempt to commandeer the Zaonce fleet and his subsequent impeachment for treason, murder and corruption marked the Alliance's gravest constitutional crisis, with the Bank of Zaonce implicated in his conspiracy. Zaonce remains an Alliance stronghold and continues to play a key role in galactic finance, monitoring interstellar markets during crises such as the 3308 Thargoid threat.

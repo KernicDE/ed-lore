@@ -3,8 +3,8 @@ id: enterprise
 name: Enterprise
 type: location
 first_seen_date: '3309-04-06'
-last_seen_date: '3312-04-28'
-mention_count: 4
+last_seen_date: '3309-05-01'
+mention_count: 3
 related_entities:
 - mars
 - tavgi
@@ -20,8 +20,8 @@ bio: Enterprise is a star system in the Elite Dangerous universe, significant fr
 # Enterprise
 
 First mentioned: **3309-04-06**  
-Last mentioned: **3312-04-28**  
-Total mentions: **4**
+Last mentioned: **3309-05-01**  
+Total mentions: **3**
 
 ## Related
 

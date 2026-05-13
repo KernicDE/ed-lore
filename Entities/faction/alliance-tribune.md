@@ -39,4 +39,6 @@ Total mentions: **18**
 
 ## Biography
 
-*[To be enriched]*
+The Alliance Tribune is a major newsfeed serving the Alliance of Independent Systems, known for its investigative journalism and political coverage. The publication played a decisive role in Alliance politics through the work of journalist Vanya Driscoll, whose June 3305 exposé revealed President Gibson Kincaid's conspiracy to assassinate political rivals and transfer executive power to Zaonce. The report, based on Admiral Frederick Yamamoto's plea-bargain testimony, triggered Kincaid's impeachment and the eventual abolition of the Alliance presidency.
+
+The Tribune has consistently covered Alliance elections, defence policy, and superpower diplomacy, with correspondents including political journalist Vanya Driscoll and editor Milo Vesper. During the 3304 League of Reparation crisis, the Tribune criticised the tri-superpower taskforce for prioritising Imperial and Federal territories over Alliance space. Its editorial stance has generally favoured democratic accountability and military preparedness, making it a influential voice in Alliance public discourse.

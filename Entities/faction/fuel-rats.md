@@ -39,4 +39,6 @@ Total mentions: **15**
 
 ## Biography
 
-*[To be enriched]*
+The Fuel Rats are an independent search-and-rescue collective of volunteer pilots dedicated to saving commanders stranded without fuel in deep space. Founded in June 3301 and formally recognised by the Pilots Federation, the group patrols the outer fringes of civilisation to provide emergency refuelling before life support fails. At the time of their founding, an estimated 63% of deep space losses were attributed to fuel exhaustion, making their humanitarian mission critical to explorers and traders alike.
+
+The collective rapidly expanded from anarchic beginnings into a highly organised cooperative. They completed their 1,000th rescue by August 3301, reached 10,000 by April 3302, and celebrated their 20,000th rescue in January 3303. Operating with a success rate exceeding 95%, they have conducted complex relay operations thousands of light years from civilisation, including rescues near Sagittarius A* and during the search for Jaques Station. The Fuel Rats maintain strict neutrality, serving all pilots regardless of allegiance.

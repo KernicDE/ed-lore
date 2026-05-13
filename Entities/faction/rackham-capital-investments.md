@@ -39,4 +39,6 @@ Total mentions: **20**
 
 ## Biography
 
-*[To be enriched]*
+Rackham Capital Investments is the vast corporate empire of billionaire Zachary Rackham, a former independent trader rumoured to have operated as the pirate known as "Calico Zack". Established following his lucrative trading career, the company grew into one of the Federation's most prominent investment firms, acquiring assets including Kavanagh Spaceframes Ltd—renamed Rackham Spaceframes—which propelled Rackham's personal fortune past one trillion credits in 3308.
+
+The company's history has been marked by internal power struggles and criminal intrigue. In 3304, hackers known as The Collective withdrew one billion credits from Rackham's personal account and redistributed it to former employees denied pensions. The sudden death of long-serving CFO Aaron Salazar in 3305 triggered a boardroom battle with his replacement Taja Gavaris, who resigned weeks later amid allegations that Rackham used imposter intelligence agents to blackmail her. Rackham Capital has also funded major public initiatives, including new shipyards in the Colonia region and a galaxy-wide exploration campaign to investigate anomalous readings in the permit-locked HIP 87621 system.

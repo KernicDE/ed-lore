@@ -38,4 +38,6 @@ Total mentions: **17**
 
 ## Biography
 
-*[To be enriched]*
+The October Consortium is a corporate organisation controlled by billionaire investor Lexi October, known primarily for its controversial stewardship of the HIP 87621 system. The Consortium acquired permit rights to the system over a decade ago and maintained it as a closed research zone, blocking colonisation within a 37-light-year radius and restricting access to all but its own scientific teams.
+
+In 3311, the Consortium came under intense scrutiny after long-range scans detected anomalous exobiological readings in HIP 87621. Lexi October defended her organisation's legal ownership and questioned why rival billionaire Zachary Rackham had failed to share data from his galaxy-wide exploration campaign. When the Pilots' Federation brokered exclusive access for licensed Commanders, the Consortium dismissed data inconsistencies as "spoofing" and banned fleet carriers permanently. The October Consortium's opaque management of HIP 87621 made it a focal point for scientific intrigue and eventual superpower military confrontation.

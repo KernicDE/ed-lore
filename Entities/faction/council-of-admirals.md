@@ -40,4 +40,6 @@ Total mentions: **14**
 
 ## Biography
 
-*[To be enriched]*
+The Council of Admirals is the supreme military authority of the Alliance of Independent Systems, responsible for coordinating the Alliance Defence Force and setting strategic defence policy across member systems. Composed of senior admirals drawn from the Alliance's most powerful fleets, the Council represents the real military power behind the Alliance Assembly's civilian governance, a division of authority that has occasionally created tension between military and political leadership.
+
+The Council's history in the 34th century has been marked by crises and reform. In 3304, Admiral Frederick Yamamoto was appointed to fill a vacancy left by the exposure of Rear Admiral Riri McAllister as the terrorist coordinator "Nexus." Yamamoto himself was later disgraced and arrested for crimes committed on behalf of President Gibson Kincaid, leading to his replacement by Admiral Tahir West of the Tionisla fleet. The Council expressed grave concerns during the 3307 Core Dynamics takeover of Lakon Spaceways, warning that foreign ownership of a key defence contractor would compromise Alliance security — concerns that ultimately helped justify the Assembly's bailout of the shipbuilder.

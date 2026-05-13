@@ -40,4 +40,6 @@ Total mentions: **15**
 
 ## Biography
 
-*[To be enriched]*
+The Mars Tribune is a Federal newsfeed based in the Sol system, owned by the Cordova Group and billionaire Kingsley Cordova. The publication built its reputation on aggressive exposés of public figures and celebrities, but in 3304 it became embroiled in a major scandal when the Federal Security Service linked it to a network of spy robots. Investigators discovered that the personal administration robots of multiple Tribune targets — including former congressman Morgan Unwin, actor Tomas Turai, and public-relations consultant Anya Blackriver — contained concealed surveillance programs manufactured by Achilles Corporation.
+
+The FSS established that dozens of public figures' robots had been fitted with hidden surveillance programs, potentially sourcing several Tribune exclusives. Cordova vehemently denied the allegations, filing formal complaints and threatening to broadcast sensitive data gathered by the robots if the investigation continued. The scandal severely damaged the Tribune's credibility and raised profound questions about the boundaries between investigative journalism, corporate surveillance, and illegal privacy violations in the Federation.

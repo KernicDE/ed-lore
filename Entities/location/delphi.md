@@ -49,6 +49,8 @@ Total mentions: **17**
 - [[HIP 30944]] (5 co-mentions)
 - [[Maia]] (5 co-mentions)
 
-## Biography
+## Description
 
-*[To be enriched]*
+Delphi is a small independent system deep within the Pleiades Nebula that became a pivotal frontline in humanity's conflict with the Thargoids. Home to The Oracle starport, it served as a key research hub for Aegis, including the 3305 initiative to locate alternative meta-alloy sources as Pleiades barnacle sites depleted. Its remote location and research infrastructure drew intense Thargoid attention once Guardian artefacts began flowing through the system.
+
+In May 3307, Delphi was among the first systems hit by a coordinated mass Thargoid strike across multiple nebulae, an assault believed to have been triggered by Aegis's stockpiling of Guardian technology. The Alexandria megaship fled Delphi carrying those artefacts, only to be hyperdicted and lost with all hands weeks later. By December 3307, Salvation's anti-xeno superweapons had driven the Thargoids from Delphi, though the system's reputation as a danger zone persisted. Today it remains a high-tech outpost controlled by the Anti Xeno Initiative.

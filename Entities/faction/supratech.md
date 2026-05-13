@@ -39,4 +39,6 @@ Total mentions: **21**
 
 ## Biography
 
-*[To be enriched]*
+Supratech is a computer technology company that competed with Herculean Machines in 3304 to develop a next-generation personal computer. Led by CEO Scorpio DeVorrow, Supratech developed the Torc, a holographic-interface device that malfunctioned catastrophically during the Rackham Ultratech Expo, surrounding users with incomprehensible visual noise that induced nausea and handing market advantage to Herculean Machines' more reliable Duradrive.
+
+In September 3304, Supratech suffered a devastating setback when its main manufacturing complex was destroyed by fire. DeVorrow publicly questioned how the state-of-the-art facility's fire-suppression system, security cameras, internal alarms, and thermal sensors could all fail simultaneously, strongly implying sabotage. The blaze ruined dozens of prototype Torc units and left Supratech in a compromised position, unable to capitalise on its rival's earlier difficulties with organised-crime funding revelations.

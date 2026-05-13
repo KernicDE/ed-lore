@@ -28,4 +28,6 @@ Total mentions: **19**
 
 ## Biography
 
-*[To be enriched]*
+Scorpio DeVorrow is the CEO of Supratech, a computer technology company that engaged in a fierce rivalry with Herculean Machines during 3304 over competing personal computer designs. DeVorrow's company developed the Torc, a holographic-interface computer that malfunctioned catastrophically during the Rackham Ultratech Expo, causing nausea among users and ceding market advantage to Herculean Machines' Duradrive.
+
+In September 3304, Supratech suffered a devastating blow when its main manufacturing complex was destroyed by fire. DeVorrow publicly expressed incredulity that the facility's fire-suppression system, security cameras, internal alarms, and thermal sensors had all failed simultaneously, strongly implying sabotage. The blaze ruined dozens of prototype Torc units and cast serious doubt on whether Supratech could recover its competitive position.

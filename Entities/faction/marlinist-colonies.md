@@ -39,4 +39,6 @@ Total mentions: **19**
 
 ## Biography
 
-*[To be enriched]*
+The Marlinist Colonies were established in late 3306 when Sirius Corporation constructed self-governing settlements for Marlinist refugees fleeing Imperial persecution. Accepted by the Empire and Federation on the condition that NMLA members be returned, these republican colonies in uninhabited systems offered Marlinists independence from the superpowers they had abandoned, though they initially struggled with precarious conditions and external faction encroachment.
+
+In 3307 the colonies fractured when the Marlinism Reformation Party — the NMLA's political wing — triggered a civil war against anti-NMLA forces. After the terrorists' defeat, a 3308 referendum led Emperor Arissa to formally recognise the colonies' autonomy, though she demanded intelligence collaboration to prevent Neo-Marlinist extremism. The Marlinist Colonies remain a rare example of refugee populations achieving independent statehood through delicate diplomatic compromise.

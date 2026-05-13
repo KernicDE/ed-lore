@@ -41,7 +41,7 @@ This file tracks manual enrichment progress for entity profiles. Each entry is e
 | 25 | Imperial Herald | faction | ✅ Done | State media role, Darius profile, court politics, establishment coverage |
 | 26 | Kumo Crew | faction | ✅ Done | Archon Delaine, Pegasi Pirate War, Galactic Summit, pirate kingdom |
 
-### Batch 2: 25 entities — IN PROGRESS
+### Batch 2: 25 entities ✅ COMPLETE
 | # | Entity | Type | Status | Notes |
 |---|--------|------|--------|-------|
 | 27 | Ishmael Palin | person | ✅ Done | Federal scientist, Palin Institute founder, kidnapping survivor, engineer at Abel Laboratory, Thargoid spire breakthrough |
@@ -68,17 +68,50 @@ This file tracks manual enrichment progress for entity profiles. Each entry is e
 | 48 | Federal Congress | faction | ✅ Done | Federal legislature, Mars, PDB, corporate influence |
 | 49 | Obsidian Orbital | location | ✅ Done | Maia starport, meta-alloy research, Thargoid frontier |
 | 50 | Jaques Station | location | ✅ Done | Mobile starport, Beagle Point attempt, Colonia founder |
-| 51 | Pranav Antal | person | pending | |
+| 51 | Pranav Antal | person | ✅ Done | Simguru, Utopia founder, nanomeds dispute, Sim-Archive |
+
+### Batch 3: 29 entities ✅ COMPLETE
+Uncommitted enrichments from previous sessions covering key factions, locations and persons including: Lakon Spaceways, Marlinist Colonies, Yuri Grom, Earth, Zaonce, Lugh, Achilles Corporation, Imperial Guard, Interstellar Health Organisation, Alliance Interpol, Niamh Seutonia, Aaron Whyte, Octavia Volkov, Juanita Bishop, Proactive Detection Bureau, Vitadyne Labs, Fuel Rats, Florence Lavigny, Fazia Silva, Reorte, Diso, Delphi, Witch Head Nebula, Rackham Capital Investments, Interstellar Press, and others.
+
+### Batch 4: 25 entities ✅ COMPLETE
+| # | Entity | Type | Status | Notes |
+|---|--------|------|--------|-------|
+| 1 | Vanya Driscoll | person | ✅ Done | Alliance Tribune journalist, exposed Kincaid conspiracy |
+| 2 | Sima Kalhana | person | ✅ Done | Historian, GalNet series on defining moments |
+| 3 | Conrad Sterling | person | ✅ Done | Vox Galactica correspondent, Galactic Summit reporter |
+| 4 | Bryanna Blanco | person | ✅ Done | Federal Times financial journalist, Rackham investigator |
+| 5 | Maddox Hurd | person | ✅ Done | Herculean Machines CEO, Duradrive developer |
+| 6 | Scorpio DeVorrow | person | ✅ Done | Supratech CEO, Torc computer, facility fire |
+| 7 | Caspian Leopold | person | ✅ Done | Imperial Senator, Aisling Duval suitor |
+| 8 | Riri McAllister | person | ✅ Done | Rear Admiral, exposed as Nexus, League of Reparation |
+| 9 | Dalton Chase | person | ✅ Done | Federal Governor, xeno-peace advocate |
+| 10 | Flint Lafosse | person | ✅ Done | Independent journalist, League cold-case theory |
+| 11 | Olympus Village | location | ✅ Done | Federal capital on Mars, Congress site |
+| 12 | Beagle Point | location | ✅ Done | Distant Worlds destination, ~65,000 ly from Sol |
+| 13 | Jupiter | location | ✅ Done | Gas giant in Sol system, Federal navigational anchor |
+| 14 | Sagittarius A* | location | ✅ Done | Galactic centre black hole, Buckyball Run A* finish |
+| 15 | Tionisla | location | ✅ Done | Old Worlds, Orbital Graveyard |
+| 16 | HIP 87621 | location | ✅ Done | Permit-locked, October Consortium, Radicoida unica |
+| 17 | Pleiades Sector IR-W d1-55 | location | ✅ Done | Thargoid site, Oracle research centre |
+| 18 | Herculean Machines | faction | ✅ Done | Duradrive computer, Rackham Ultratech Expo |
+| 19 | Supratech | faction | ✅ Done | Torc computer, fire destruction |
+| 20 | Alliance Tribune | faction | ✅ Done | Exposed Kincaid conspiracy |
+| 21 | Pleiades Resource Enterprise | faction | ✅ Done | Maia expansion, Federal-aligned |
+| 22 | October Consortium | faction | ✅ Done | HIP 87621 permit control, Lexi October |
+| 23 | Buckyball Racing Club | faction | ✅ Done | Unsanctioned rally races, Buckyball Run A* |
+| 24 | Council of Admirals | faction | ✅ Done | Alliance military authority, ADF coordination |
+| 25 | Mars Tribune | faction | ✅ Done | Federal newsfeed, spy robot scandal |
 
 ## Stats
 - Total entities: 3,484
 - Enriched (Batch 1): 26
-- Enriched (Batch 2): 6
-- Enriched (Batch 3): 8
-- Enriched (Batch 4): 10
-- Total enriched: 50
-- Remaining: 3,434
+- Enriched (Batch 2): 25
+- Enriched (Batch 3): 29
+- Enriched (Batch 4): 25
+- Total enriched: 105
+- Remaining: 3,379
 
 ## Notes
 - All enriched entities trimmed to compact Wikipedia-style descriptions (1-2 paragraphs)
 - Batch 1 + Batch 2 fully trimmed and committed
+- Batch 3 and Batch 4 pending commit

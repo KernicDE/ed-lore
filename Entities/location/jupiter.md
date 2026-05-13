@@ -45,4 +45,6 @@ Total mentions: **18**
 
 ## Biography
 
-*[To be enriched]*
+Jupiter is the largest planet in the Sol system, a gas giant whose moons and orbit have served as waypoints for explorers, traders, and military fleets since the earliest days of human spaceflight. Located within the Federation's capital system, Jupiter's proximity to Earth and Mars has made it a strategically significant reference point for navigation and a symbolic landmark in Federal space.
+
+The planet and its surrounding space have been associated with major corporate and political developments, including Core Dynamics' military manufacturing interests and Federal Navy operations. During periods of superpower tension, Jupiter's orbit has served as a staging area for fleet manoeuvres. While not itself inhabited, the gas giant remains an enduring navigational anchor in the most politically significant system in human-occupied space.

@@ -39,4 +39,6 @@ Total mentions: **17**
 
 ## Biography
 
-*[To be enriched]*
+The Interstellar Health Organisation is an official inter-superpower body that regulates developments in medical science and pharmaceutical practice across the galaxy. It monitored the 3304 merger of Allied Medical Industries and Neosalve Inc. into Neomedical Industries, ensuring strict healthcare protocols were applied to the newly formed mega-corporation.
+
+The IHO has issued several influential and controversial rulings. In 3305 it approved Vitadyne Labs' commercialisation of nanomedicines originally developed by Utopia, ruling that lawful salvage conferred intellectual property rights. In 3307 it analysed Onionhead gamma strain and validated its medicinal properties for psychological and musculoskeletal conditions, directly challenging the Vandermeer Corporation's position that all onionhead variants were dangerous narcotics.

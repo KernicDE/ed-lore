@@ -35,6 +35,8 @@ Total mentions: **17**
 - [[Onoros]] (4 co-mentions)
 - [[Alliance Expeditionary Pact]] (3 co-mentions)
 
-## Biography
+## Description
 
-*[To be enriched]*
+The Witch Head Nebula is a distant region that evolved from a scientific curiosity into one of humanity's most embattled colonial frontiers. In 3302, the Canonn Interstellar Research Group confirmed the presence of Thargoid barnacle sites there, but the nebula remained obscure until 3305, when Aegis identified it as the primary alternative source of meta-alloys after Pleiades harvests collapsed. A superpower land rush followed, with the Alliance, Empire and Federation jointly establishing the Witch Head Enclave after independent pilots repelled Thargoid resistance.
+
+The enclave's survival proved fleeting. Thargoid incursions resumed in 3306, and by 3309 full-scale invasion forces had overrun populated systems including Shenve and Onoros, destroying the Golden Stag megaship and leaving tens of thousands dead. The Alliance Expeditionary Pact, tasked with defending the region, was shattered by the assault. Xenologists believe the Thargoids' determination to reclaim the nebula stems from its rich concentration of barnacle sites, making the Witch Head both a vital resource and a perennial battlefield.

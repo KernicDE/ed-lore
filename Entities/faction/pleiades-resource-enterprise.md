@@ -39,4 +39,6 @@ Total mentions: **18**
 
 ## Biography
 
-*[To be enriched]*
+The Pleiades Resource Enterprise is a corporate faction aligned with the Federation that played a significant role in the expansion of human influence into the Pleiades Nebula during the early Thargoid contact period. In late 3302, the Enterprise successfully overcame resistance from the Ant Hill Mob to establish a foothold in the strategically vital Maia system, denying claims that its expansion had been orchestrated by Federal officials and asserting it had acted independently.
+
+The Enterprise's victory in Maia was part of a broader pattern of corporate and superpower proxy competition in the Pleiades, as factions vied for control of systems rich in meta-alloys and Thargoid research potential. While less visible than major shipbuilders or media conglomerates, the Pleiades Resource Enterprise exemplifies how corporate entities served as the vanguard of territorial expansion into contested frontier regions during one of the most turbulent periods in recent galactic history.

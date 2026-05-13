@@ -36,4 +36,6 @@ Total mentions: **21**
 
 ## Biography
 
-*[To be enriched]*
+Olympus Village is the Federal capital city on Mars, serving as the administrative heart of the Federation since the planet became the superpower's primary seat of government in 2325. Located in the Sol system, the city houses the Federal Congress, the offices of the President, and the headquarters of numerous government agencies. Its universities and research institutions, including Olympus Village University, have produced leading figures in xenology and political science.
+
+The city has been the backdrop for major political events, including the inauguration of Presidents Hudson and Winters, and the 3308 xeno-peace debates led by Governor Dalton Chase. During the 3310 Thargoid invasion, Olympus Village was among the sites evacuated as Titan Cocijo assaulted the Sol system, though Federal military and independent pilots conducted extensive rescue operations to protect the civilian population.

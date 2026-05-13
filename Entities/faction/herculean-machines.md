@@ -39,4 +39,6 @@ Total mentions: **21**
 
 ## Biography
 
-*[To be enriched]*
+Herculean Machines is a technology company that rose to prominence in 3304 through its development of the Duradrive personal computer. Founded and led by CEO Maddox Hurd, the company engaged in a fierce rivalry with Supratech over competing designs for next-generation computing devices. Herculean Machines' Duradrive ultimately proved superior to Supratech's Torc at the Rackham Ultratech Expo, functioning perfectly where its rival's holographic systems induced nausea in users.
+
+The company's trajectory was nearly derailed when declassified Federal Security Service records revealed that Hurd had accepted financial contributions from organised-crime-connected individuals when establishing the firm. Hurd dismissed the revelation as a smear campaign by Supratech, and Herculean Machines recovered to dominate the expo and secure corporate funding. The affair illustrated both the cutthroat nature of the Federal technology sector and the resilience of Herculean Machines under public scrutiny.

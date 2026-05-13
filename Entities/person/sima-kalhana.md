@@ -26,4 +26,6 @@ Total mentions: **18**
 
 ## Biography
 
-*[To be enriched]*
+Sima Kalhana is a renowned historian and author whose GalNet series on defining moments in human history became one of the most widely read educational programmes of the early 3300s. Beginning in July 3301, her articles covered the founding of the Federation, the birth of the Empire, the first Federation-Achenar war, the rise of Sirius Corporation, and the history of the Thargoids and generation ships. Her work is credited with bringing foundational galactic history to a mass audience during a period of renewed interstellar tension.
+
+Kalhana's writing is characterised by rigorous archival research and a narrative style that connects ancient events to contemporary politics. She returned to prominence in late 3307 with a multi-part retrospective of that turbulent year, analysing the NMLA crisis, the Galactic Summit, and the fall of Aegis. Her histories remain standard reference points for understanding the deep roots of superpower rivalry and corporate power in human civilisation.

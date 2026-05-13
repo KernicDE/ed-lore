@@ -27,4 +27,6 @@ Total mentions: **20**
 
 ## Biography
 
-*[To be enriched]*
+Juanita Bishop is an anti-xeno campaigner who rose to prominence in 3304 through her vocal condemnation of the Far God cult, a fringe religion worshipping the Thargoids. Building a following on fear and paranoia, she demanded that governments expel cult members and accused them of being alien collaborators infiltrating human society.
+
+In August 3304, Bishop launched an independent candidacy for Federal Congress, promising to outlaw the Far God sect. She later called for capital punishment of all its adherents, triggering considerable debate among congressmen. Her campaign collapsed in October after journalist Gethin Okonkwo's investigation found no evidence linking the cult to the Thargoids, and Congress condemned her for cultivating civil unrest and violating religious freedom. She was later described as a disgraced politician when she unsuccessfully demanded a ban on Okonkwo's book about the sect.

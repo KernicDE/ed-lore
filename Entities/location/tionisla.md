@@ -51,4 +51,6 @@ Total mentions: **17**
 
 ## Biography
 
-*[To be enriched]*
+Tionisla is a system in the Old Worlds cluster, historically famous for the Tionisla Orbital Graveyard — a mausoleum established in the 3100s as a resting place for the rich and famous. The graveyard fell into disuse during an economic slump that devastated the Old Worlds, with many of its relics vandalised or looted over the centuries.
+
+In 3302, the graveyard made galactic headlines when a new vessel was interred there for the first time in over a hundred years. An antique Cobra Mk III with the unusual hull registry 'Cor meum et animam' briefly transmitted the repeating message "OTSEAFOTSEAF" before a power failure silenced its beacon, spawning theories and speculation that were dismissed by local officials as routine posthumous mischief. Politically, Tionisla has been notable as the home fleet of Admiral Tahir West, who was appointed to the Council of Admirals in 3305 following the Kincaid impeachment scandal.

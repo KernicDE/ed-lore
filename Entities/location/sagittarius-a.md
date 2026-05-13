@@ -45,4 +45,6 @@ Total mentions: **17**
 
 ## Biography
 
-*[To be enriched]*
+Sagittarius A* is the supermassive black hole at the centre of the Milky Way, one of the most iconic destinations for explorers and scientists in the 34th century. Its immense gravitational pull and the dense star fields surrounding it have made it both a navigational landmark and a subject of intense astronomical study since the earliest interstellar expeditions.
+
+The black hole became the finish line for the permanent Buckyball Run A* endurance rally, established in 3301, which challenged pilots to race from Sol to the galactic centre in the shortest time possible. Sagittarius A* also features in the lore of deep-space exploration as a destination that tests the limits of ship engineering and pilot skill. The region around it remains one of the most travelled yet dangerous sectors of the galaxy, drawing thousands of commanders seeking to witness the heart of the Milky Way firsthand.

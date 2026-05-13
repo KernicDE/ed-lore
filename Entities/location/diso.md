@@ -50,6 +50,8 @@ Total mentions: **18**
 - [[Alliance]] (4 co-mentions)
 - [[Lave Radio Network]] (4 co-mentions)
 
-## Biography
+## Description
 
-*[To be enriched]*
+Diso is a storied agricultural system in the Alliance's Old Worlds, renowned throughout the galaxy for its distinctive Diso Ma Corn. The crop's unique psychoactive dust coating can only be cultivated cost-effectively on Birmingham, where the planet's soil chemistry and constant solar wave bombardment from the parent star create ideal conditions. In 3301, the Green Party of Diso spearheaded a highly successful rejuvenation project that saw thousands of pilots deliver over 15 million tonnes of machinery in just 65 hours to expand Ma Corn production.
+
+The system is also the political home of Prime Minister Edmund Mahon, who launched his historic re-election campaign from Birmingham in 3307. Diso's agricultural importance made it a focal point during the 3305 blight crisis, when the Interstellar Association for Agriculture identified poor harvests there that were later linked to contaminated Rockforth fertiliser. The system's primary trade hub, Shifnalport, has long served as a gateway for the Old Worlds economy.

@@ -28,4 +28,6 @@ Total mentions: **20**
 
 ## Biography
 
-*[To be enriched]*
+Octavia Volkov is a Marlinist political leader who rose to prominence as head of the Exiled Marlinist Assembly of Baltah'Sine. She first gained power in the Hyades Sector RO-P b6-2 system in June 3307 after voters rejected the Marlinism Reformation Party for granting asylum to Neo-Marlinists. Volkov immediately distinguished herself as a fierce opponent of the NMLA, declaring that her party followed Marlin Duval's example by building independent democracies rather than reforming the Empire.
+
+In August 3307, Volkov led anti-NMLA forces to victory in the Marlinist Civil War against Aaron Whyte's faction. Elected First Minister days later, she consolidated control over all eight colony systems and established formal diplomatic channels with the Alliance and Federation. Under her leadership, the colonies navigated continued political challenges including a public referendum on Imperial protectorate status and the Thargoid threat. By 3309, Volkov had become a respected diplomatic figure, congratulating President-elect Felicia Winters on her Federal election victory.

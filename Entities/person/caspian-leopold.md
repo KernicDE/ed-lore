@@ -28,4 +28,6 @@ Total mentions: **18**
 
 ## Biography
 
-*[To be enriched]*
+Caspian Leopold is an Imperial Senator known for his considerable wealth, oratorical skill, and political influence within the Empire. In 3304, he was identified by entertainment media as one of three potential romantic suitors for Princess Aisling Duval, alongside anti-slavery campaigner Jarl Toredo and Federal Ambassador Jordan Rochester. Leopold had attended numerous meetings with the Princess and spoke warmly of her in public interviews, though the significant age gap between them fuelled speculation about the viability of a match.
+
+Leopold's political career has been characterised by careful cultivation of relationships across Imperial high society. His name emerged during the period of intense public interest in Aisling Duval's personal life following her rejection of Admiral Denton Patreus's earlier courtship. While no formal engagement materialised, Leopold's association with the People's Princess elevated his public profile considerably.

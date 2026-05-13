@@ -38,4 +38,6 @@ Total mentions: **19**
 
 ## Biography
 
-*[To be enriched]*
+Lakon Spaceways is a storied shipbuilding corporation known for producing practical, workhorse vessels including the Asp Explorer and Type series freighters. For years the company maintained a close partnership with the Alliance, jointly developing military craft such as the Type-10 Defender—an anti-Thargoid revision of the Type-9 Heavy commissioned in late 3303—and the Alliance Chieftain combat line unveiled in 3304.
+
+In late 3306, Federal giant Core Dynamics launched a hostile takeover bid that Lakon initially rejected. After a revised bid was accepted in January 3307, the Independent Commission for Market Equality declared the acquisition illegal, exposing bribery and blackmail by Core Dynamics CEO Jupiter Rochester. Facing insolvency, Lakon was rescued in February 3307 when the Alliance Assembly purchased a majority sharehold, relocating the firm's headquarters to Alioth and cementing its status as a key domestic defence contractor. The company has since continued to expand its catalogue with vessels such as the Type-8 freighter and Type-11 Prospector mining ship.

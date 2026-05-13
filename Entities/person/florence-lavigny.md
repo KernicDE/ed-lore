@@ -28,4 +28,6 @@ Total mentions: **17**
 
 ## Biography
 
-*[To be enriched]*
+Lady Florence Lavigny is an Imperial noblewoman, the widow of Prince Aristide de Lavigny and mother of Emperor Arissa Lavigny-Duval. Though she has typically sought to avoid the spotlight, she was thrust into prominence by her engagement to Emperor Hengist Duval in 3301. On their wedding day, the Emperor was fatally attacked, and Lavigny emerged as a dignified voice of calm amid the succession crisis.
+
+Decades earlier, her husband Prince Aristide died in a mysterious accident in 3250. The later revelation that Arissa had been sired by Hengist Duval transformed her family's standing, with Arissa adopting the surname Lavigny-Duval upon becoming Emperor. In 3309, a serious illness prompted renewed attention to Lavigny's role as a unifying figure within the Imperial Family, with observers suggesting she alone might heal the rifts between Arissa, Princess Aisling Duval, and Hadrian Duval.

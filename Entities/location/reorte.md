@@ -49,6 +49,8 @@ Total mentions: **19**
 - [[Lave]] (4 co-mentions)
 - [[Leesti]] (4 co-mentions)
 
-## Biography
+## Description
 
-*[To be enriched]*
+Reorte is a core Alliance system in the Old Worlds, historically significant as a bulwark against both piracy and corporate overreach. In 3301, the Alliance Elite Diplomatic Corps liberated Reorte from a pirate faction that had attempted to rename the Lave Cluster the "New Caribbean," restoring the Pro-Alliance League to power with 93% local approval. The system's primary starport, Davies High, has since remained a symbol of Allied sovereignty in the region.
+
+Reorte again made headlines in 3308 when its controlling faction, the Reorte Mining Coalition, blockaded and ejected Sirius Corporation's megaship Chariot of Rhea despite the Alliance's strategic defence pact with the megacorp. After open conflict, the Reorte Pro-Alliance League ultimately prevailed in a public initiative, ensuring the system retained its Alliance membership while rejecting unwanted corporate intrusion. More recently, Reorte served as the launch site for Zorgon Peterson's Caspian Explorer field trials in late 3311.

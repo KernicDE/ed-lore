@@ -28,4 +28,6 @@ Total mentions: **21**
 
 ## Biography
 
-*[To be enriched]*
+Bryanna Blanco is a financial journalist for The Federal Times known for her persistent investigative scrutiny of billionaire Zachary Rackham. In 3304, she publicly questioned the legitimacy of Rackham's billion-credit Federal Grand Lottery win, suggesting the windfall would be used to pay his company's gargantuan unpaid tax bill rather than donated to charity as he claimed. Her reporting cemented her reputation as one of the Federation's most skeptical financial commentators.
+
+Blanco maintained her critical coverage as Rackham's public profile grew, penning opinion pieces that highlighted his extragavant self-promotion — including the towering Rackham's Spire on Homeland — and warning that his lighthearted hints about running for president in 3308 were calculated steps toward a genuine campaign. She has repeatedly reminded the public of Rackham's former identity as "Calico Zack," one of the previous century's most notorious pirates, accusing mainstream newsfeeds of sanitising his history.

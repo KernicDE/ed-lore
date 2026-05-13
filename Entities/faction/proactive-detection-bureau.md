@@ -39,4 +39,6 @@ Total mentions: **15**
 
 ## Biography
 
-*[To be enriched]*
+The Proactive Detection Bureau was established in April 3307 by the Federal Intelligence Agency under the Domestic Counter-Terrorism Act, drafted by Vice President Jerome Archer in response to the NMLA bombings. Using advanced algorithms to scan all civilian communications across public and private networks, the PDB redirects flagged transmissions to regional hubs for investigator review under Deputy Director Bethany Blake.
+
+The bureau immediately became one of the most divisive institutions in Federal history. President Hudson championed it as essential to security, while Shadow President Winters and civil liberties groups denounced it as unconstitutional. The surveillance programme triggered mass secession beginning with the Azaladshu Free, eventually threatening nearly thirty systems, and remained a defining political issue with President-elect Winters pledging in 3309 to dismantle it upon taking office.

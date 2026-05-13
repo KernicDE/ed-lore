@@ -28,4 +28,6 @@ Total mentions: **15**
 
 ## Biography
 
-*[To be enriched]*
+Flint "Firemaker" Lafosse is an independent journalist who publishes through the Rewired newsfeed, known for his unconventional investigative methods and willingness to pursue theories dismissed by official sources. In June 3304, he published a groundbreaking report suggesting that the League of Reparation had been active for years before publicly claiming responsibility for its attacks, linking unsolved homicides and mysterious shipwrecks to victims with INRA connections.
+
+Lafosse's theory was initially dismissed by Alliance Interpol Chief Inspector Kay Kilbride as baseless conjecture, but his research identified four confirmed INRA-connected victims killed by nerve agents between one and five years prior to the League's emergence. His work raised alarming questions about how long the terrorist organisation had operated in secrecy and whether dozens or hundreds of deaths had gone unrecognised as politically motivated killings. Lafosse remains a controversial figure in galactic journalism, respected by conspiracy researchers and criticised by establishment media alike.
