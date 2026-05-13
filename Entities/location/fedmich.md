@@ -49,6 +49,8 @@ Total mentions: **5**
 - [[Alliance]] (3 co-mentions)
 - [[Roberts Port]] (3 co-mentions)
 
-## Biography
+## Description
 
-*[To be enriched]*
+Fedmich is an Alliance corporate system with nearly 30 million inhabitants that became notable in 3303 when an Alliance convoy transporting personnel and military equipment was attacked by criminals operating there. The Alliance Council of Admirals authorised Fedmich Electronics Partners to coordinate a rescue operation, rewarding pilots who recovered occupied escape pods and wreckage components from the attack site.
+
+The system later gained further attention through its association with the personal robot scandal involving Lloyd Hardacre, whose admin robot secretly recorded evidence of corporate fraud — one of the cases that exposed the Achilles Corporation's surveillance network. Fedmich's industrial economy and corporate governance model exemplify the Alliance's partnership between government and private enterprise.

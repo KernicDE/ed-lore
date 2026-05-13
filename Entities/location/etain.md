@@ -49,6 +49,8 @@ Total mentions: **5**
 - [[Sirius Corporation]] (1 co-mentions)
 - [[Meene]] (1 co-mentions)
 
-## Biography
+## Description
 
-*[To be enriched]*
+Etain is a small independent colony system that became significant for its connection to the Far God cult. In 3304, exotheologian Dr Alfred Ulyanov discovered abandoned Far God outposts on Etain 4a and 4c, including void-temples where cultists had willingly entombed themselves in suspended animation to await the Far God's arrival.
+
+The settlements showed signs of attack, though whether by Thargoids or human forces remains unresolved. The FIA later scanned the abandoned base with customised military sensors as part of a search for a missing undercover agent who had infiltrated the cult. Etain's association with the Far God cult provides rare physical evidence of the sect's practices, offering insight into the psychology of devotees who embraced extinction as a form of transcendence.

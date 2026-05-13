@@ -49,6 +49,8 @@ Total mentions: **5**
 - [[Sirius Corporation]] (2 co-mentions)
 - [[Nova Imperium]] (2 co-mentions)
 
-## Biography
+## Description
 
-*[To be enriched]*
+Geras is a populous independent industrial system with over 33 million inhabitants and a high-security environment under patronage governance. The system gained brief notoriety in 3304 when a conflict between local factions Geras First and Ndozins State Inc escalated into all-out war after months of reciprocal attacks.
+
+Beyond its political turbulence, Geras is best known as the source of Gerasian Gueuze Beer — one of the luxury commodities regularly requested by the galaxy's elite for celebrations and parties, including Zachary Rackham's trillionaire gala in 3308. The system's combination of industrial productivity and exclusive exports illustrates how even minor independent systems can achieve galactic recognition through niche products.

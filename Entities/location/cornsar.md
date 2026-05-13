@@ -46,6 +46,8 @@ Total mentions: **5**
 - [[T Tauri]] (3 co-mentions)
 - [[Delphi]] (2 co-mentions)
 
-## Biography
+## Description
 
-*[To be enriched]*
+Cornsar is an independent agricultural system with a population of over 350 million that became the testing ground for Salvation's anti-xeno superweapon in 3307. When Thargoid vessels swarmed into the system, Salvation warned of the impending attack and asked pilots to transport equipment from a Taurus Mining Ventures megaship to construct a prototype weapon.
+
+Four days later, the Thargoid fleet unexpectedly withdrew, leaving crashed alien vessels on planetary bodies and heavily damaged starports including Chadwick Port and Ito Market. Salvation claimed credit for developing an effective deterrent against the alien threat, though critics suggested he may have deliberately attracted the Thargoids by stockpiling Guardian artefacts — as had happened with the Alexandria megaship — to test his prototype. The Cornsar incident remains one of the most controversial episodes of the Thargoid war, raising profound questions about whether Salvation's methods were heroic or exploitative.
