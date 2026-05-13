@@ -13,17 +13,6 @@ bio: Hayley Sorokin is a admiral in the Elite Dangerous universe, active from 33
 
 
 
-<!-- AUTO-GENERATED -->
+Fleet Admiral Hayley Sorokin occupied one of the most senior positions within the Alliance military establishment during the mid-3300s, serving as a key figure in the Council of Admirals and maintaining connections to Sirius Corporation. Her rank placed her at the apex of Alliance naval command, responsible for coordinating defence policy across a diverse coalition of independent systems that had chosen to align under the Alliance banner. The position required not only military acumen but also considerable diplomatic skill to navigate the competing interests of member systems.
 
-# Hayley Sorokin
-
-First mentioned: **3304-11-21**  
-Last mentioned: **3308-11-01**  
-Total mentions: **3**
-
-## Related
-
-
-## Biography
-
-*[To be enriched]*
+In late 3304, Sorokin presided over the induction ceremony of Frederick Yamamoto, praising his experience commanding the Alliance Defence Force in Zaonce. This public endorsement highlighted her role in shaping Alliance military leadership and her willingness to recognise demonstrated competence regardless of background. Her documented activity through 3308 placed her within the Alliance's response to multiple concurrent crises, including the escalating Thargoid threat and internal security challenges that tested the loose confederation's cohesion.

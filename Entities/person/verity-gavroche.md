@@ -11,17 +11,6 @@ bio: 'Verity Gavroche is a pilot in the Elite Dangerous universe, active from 33
 
 
 
-<!-- AUTO-GENERATED -->
+Verity Gavroche served as a pilot affiliated with the Canonn Interstellar Research Group during early 3302. Her involvement with the organisation placed her within one of the most active independent research communities of the era, a collective dedicated to investigating phenomena that official institutions either overlooked or classified. As a pilot-researcher, she contributed to the group's distributed efforts to document anomalies, alien artefacts, and unexplained occurrences across explored space.
 
-# Verity Gavroche
-
-First mentioned: **3302-02-23**  
-Last mentioned: **3302-03-29**  
-Total mentions: **3**
-
-## Related
-
-
-## Biography
-
-*[To be enriched]*
+Her activity during this period coincided with escalating interest in Thargoid-related discoveries and other mysteries that would dominate scientific discourse for decades. Gavroche represented the growing cohort of independent pilots who combined exploration and combat skills with genuine scientific curiosity, challenging the monopoly that corporate and government laboratories held on formal research. Her association with Canonn demonstrated how grassroots scientific communities could attract dedicated participants from diverse backgrounds.

@@ -18,22 +18,6 @@ bio: Chelbin Service Station is a starport in the Elite Dangerous universe, sign
   technology development.
 ---
 
-<!-- AUTO-GENERATED -->
+Chelbin Service Station serves as a key installation within the Wolf 397 system, positioned to support operations in the nearby Pleiades region where Thargoid activity intensified during 3303. The station's infrastructure made it a natural logistics hub for Aegis, which established collection and research operations there as part of its broader anti-xeno programme. Its location placed it within reach of both the core systems and the frontier zones where alien encounters were becoming increasingly frequent.
 
-# Chelbin Service Station
-
-First mentioned: **3303-09-22**  
-Last mentioned: **3303-10-06**  
-Total mentions: **3**
-
-## Related
-
-- [[Aegis]] (3 co-mentions)
-- [[Wolf 397]] (3 co-mentions)
-- [[Wolf 397 Independents]] (2 co-mentions)
-- [[Federal Times]] (1 co-mentions)
-- [[Pleiades Sector IR-W d1-55]] (1 co-mentions)
-
-## Biography
-
-*[To be enriched]*
+In late 3303, Aegis launched a major appeal for Thargoid-related materials, requesting that independent pilots deliver biological samples, technological fragments, and other alien artefacts to Chelbin Service Station. The campaign concluded successfully with hundreds of pilots participating, demonstrating both the station's capacity to handle large-scale logistical operations and the willingness of the independent pilot community to support organised research efforts. This initiative contributed directly to the development of early anti-Thargoid technologies and established a template for subsequent Aegis collection campaigns.

@@ -13,17 +13,6 @@ bio: Edgar Starwalker is a commander in the Elite Dangerous universe, active fro
 
 
 
-<!-- AUTO-GENERATED -->
+Commander Edgar Starwalker emerged as an outspoken Imperial pilot during the turbulent political climate of 3301, openly aligning himself with Senator Arissa Lavigny-Duval's campaign against corruption. His public statements challenged the Imperial establishment's tendency to prioritise distant military expeditions over addressing systemic graft within its own territories. This stance placed him at odds with more traditionalist elements of Imperial society who viewed external expansion as essential to the Empire's prestige and security.
 
-# Edgar Starwalker
-
-First mentioned: **3301-07-29**  
-Last mentioned: **3301-08-26**  
-Total mentions: **3**
-
-## Related
-
-
-## Biography
-
-*[To be enriched]*
+Starwalker's associations extended beyond Imperial circles to include contacts with Kumo Crew and Lavigny's Legion, suggesting a pragmatic approach to alliance-building that transcended conventional factional boundaries. His willingness to question Imperial priorities from a position of loyalty rather than opposition distinguished him from more radical critics. In this respect, Starwalker represented a particular strain of Imperial reformism that sought to strengthen the Empire through internal purification rather than external conquest.

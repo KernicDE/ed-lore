@@ -33,22 +33,6 @@ bio: Epsilon Indi is a star system in the Elite Dangerous universe, significant 
 
 
 
-<!-- AUTO-GENERATED -->
+Epsilon Indi stands as a heavily populated independent system located remarkably close to Sol, hosting over four billion inhabitants under the cooperative governance of the Hutton Orbital Truckers Co-Operative. The system boasts high security and a diversified economy centred on agriculture and industry, with London Relay serving as one of its primary starports. Its proximity to humanity's birthplace and substantial population make it a significant hub for trade and transit within the core systems region.
 
-# Epsilon Indi
-
-First mentioned: **3301-11-05**  
-Last mentioned: **3302-06-17**  
-Total mentions: **3**
-
-## Related
-
-- [[Revolution Incorporated]] (2 co-mentions)
-- [[London Relay]] (2 co-mentions)
-- [[Alliance]] (1 co-mentions)
-- [[Emperor's Dawn]] (1 co-mentions)
-- [[Federal Times]] (1 co-mentions)
-
-## Biography
-
-*[To be enriched]*
+The system's stability faced notable challenges during 3301 and 3302 when authorities at London Relay reported dramatic spikes in smuggling activities linked to Revolution Incorporated. These incidents coincided with an approaching security summit, suggesting deliberate attempts to destabilise the region ahead of important diplomatic gatherings. Epsilon Indi's experience illustrated how even well-defended, prosperous systems could become targets for insurgent factions seeking to exploit high-profile events for maximum disruptive impact.

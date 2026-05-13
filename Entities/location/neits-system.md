@@ -24,22 +24,6 @@ bio: Neits system is a star system in the Elite Dangerous universe, significant 
   positioned system has long resisted both superpowers' influence.
 ---
 
-<!-- AUTO-GENERATED -->
+The Neits system occupies a strategically significant position near the boundaries between Federal and Imperial territories, a location that has long made it resistant to exclusive control by either superpower. Home to approximately 460,000 inhabitants, the system features Watson Settlement among its installations and maintains connections to broader cooperative movements including the New Galactic Cooperative of Worlds. Its geopolitical positioning has consistently placed it at the centre of superpower competition for influence.
 
-# Neits system
-
-First mentioned: **3302-05-19**  
-Last mentioned: **3302-05-26**  
-Total mentions: **3**
-
-## Related
-
-- [[Neits Jet Life Ltd]] (3 co-mentions)
-- [[GR 316 Silver Universal Group]] (3 co-mentions)
-- [[Watson Settlement]] (1 co-mentions)
-- [[New Galactic Cooperative of Worlds]] (1 co-mentions)
-- [[Federal Navy]] (1 co-mentions)
-
-## Biography
-
-*[To be enriched]*
+In mid-3302, this tension erupted into open conflict when Federation-aligned Neits Jet Life Ltd clashed with Imperial-backed GR 316 Silver Universal Group. The confrontation drew attention from the Federal Navy and highlighted how proxy conflicts between superpower-aligned factions could destabilise nominally independent systems. Neits's experience demonstrated the precarious nature of independence for systems caught between expanding superpower interests, where local disputes frequently became extensions of larger ideological and territorial struggles.

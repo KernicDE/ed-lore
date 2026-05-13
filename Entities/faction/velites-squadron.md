@@ -21,22 +21,6 @@ bio: Velites Squadron is a organization in the Elite Dangerous universe, active 
 
 
 
-<!-- AUTO-GENERATED -->
+Velites Squadron emerged as a specialised military unit formed under the patronage of Senator Denton Patreus during the early 3300s. Drawing inspiration from ancient light-infantry traditions, the squadron was designed as a training wing for pilots capable of executing stealthy precision strikes behind enemy lines. Their formation reflected Patreus's preference for elite, mobile forces that could operate independently of conventional fleet structures, projecting Imperial power through surgical rather than overwhelming force.
 
-# Velites Squadron
-
-First mentioned: **3301-07-08**  
-Last mentioned: **3301-07-29**  
-Total mentions: **3**
-
-## Related
-
-- [[Lavigny's Legion]] (3 co-mentions)
-- [[Kumo Crew]] (2 co-mentions)
-- [[Cuchua]] (1 co-mentions)
-- [[Harma]] (1 co-mentions)
-- [[Kamadhenu]] (1 co-mentions)
-
-## Biography
-
-*[To be enriched]*
+The unit saw its first major deployment in mid-3301, when Lavigny's Legion assisted Patreus's broader military operations with Velites Squadron spearheading targeted campaigns. Operations code-named 'Charybdis' and 'Davy Jones' in systems such as Cuchua and Harma demonstrated their capacity for coordinated strikes against hostile positions. These engagements established the squadron's reputation for disciplined, high-precision combat tactics that distinguished them from standard Imperial naval units.

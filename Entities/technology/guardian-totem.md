@@ -14,17 +14,6 @@ bio: Guardian totem is a technology in the Elite Dangerous universe, mentioned f
 
 
 
-<!-- AUTO-GENERATED -->
+Guardian totems constitute a category of artefacts left behind by the ancient Guardian civilisation, which thrived millions of years before human spaceflight before mysteriously vanishing. These objects, along with other Guardian relics, represent some of the most significant archaeological discoveries in human history, offering tantalising glimpses into a species that achieved technological sophistication comparable to or exceeding contemporary human capabilities. Their recovery and study have driven major research programmes across multiple scientific and military institutions.
 
-# Guardian totem
-
-First mentioned: **3307-04-22**  
-Last mentioned: **3307-06-24**  
-Total mentions: **3**
-
-## Related
-
-
-## Biography
-
-*[To be enriched]*
+During mid-3307, Aegis and Taurus Mining Ventures launched competing campaigns to collect Guardian artefacts, including totems, from sites in the PMD2009 48 system. Aegis specifically sought these objects to support a new anti-xeno research programme aimed at developing weapons and defensive technologies capable of countering Thargoid aggression. The rival collection efforts highlighted both the scientific value of Guardian technology and the strategic urgency of unlocking its secrets, as humanity confronted an alien adversary that conventional weaponry struggled to defeat.

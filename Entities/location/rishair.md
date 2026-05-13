@@ -34,22 +34,6 @@ bio: Rishair is a star system in the Elite Dangerous universe, significant from 
 
 
 
-<!-- AUTO-GENERATED -->
+Rishair is an independent system governed as a confederacy and home to over six million inhabitants, with an economy built on refinery and industrial processing. Controlled by the Browncoat Uprising faction, the system maintains its independence from direct superpower control while remaining embedded within the complex political networks of the surrounding region. Its medium security rating and substantial population make it a significant local power, capable of projecting influence across neighbouring systems.
 
-# Rishair
-
-First mentioned: **3301-07-05**  
-Last mentioned: **3301-08-14**  
-Total mentions: **3**
-
-## Related
-
-- [[Emperor's Grace]] (3 co-mentions)
-- [[Aisling's Angels]] (1 co-mentions)
-- [[Imperial Navy]] (1 co-mentions)
-- [[Chona]] (1 co-mentions)
-- [[Cosmic State]] (1 co-mentions)
-
-## Biography
-
-*[To be enriched]*
+In mid-3301, Rishair became a flashpoint in the Empire's internal struggles over slavery when Aisling Duval's anti-slavery activists were expelled from the system following intervention by Admiral Varrwen Mako Brennus of Emperor's Grace. The incident subsequently drew the attention of High Inquisitor Mavia Kain of the Imperial Inquisition, who arranged to meet Brennus at Lindblad Port. This sequence of events demonstrated how ostensibly independent systems could become arenas for Imperial factional conflict, as different power centres within the Empire competed to shape policy and suppress dissent.

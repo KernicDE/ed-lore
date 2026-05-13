@@ -16,22 +16,6 @@ bio: The Panjabell is a star system in the Elite Dangerous universe, significant
   The cult is pacifistic and has recently begun migrating to the Panjabell system.
 ---
 
-<!-- AUTO-GENERATED -->
+The Panjabell system became a focal point of religious migration during mid-3307, when the Order of the Far God — a cult devoted to the Thargoids as divine entities — began relocating its adherents there. This pacifistic sect believed that humanity's only salvation lay in submission to the alien civilisation, a doctrine that placed them at odds with both military authorities and mainstream religious institutions. Their choice of Panjabell reflected a pattern of seeking remote systems where their unconventional beliefs could be practised with minimal interference.
 
-# The Panjabell
-
-First mentioned: **3307-07-19**  
-Last mentioned: **3307-07-29**  
-Total mentions: **3**
-
-## Related
-
-- [[Order of the Far God]] (3 co-mentions)
-- [[Pleiades Concordat]] (3 co-mentions)
-- [[Agassiz Settlement]] (3 co-mentions)
-- [[Pilots Federation]] (2 co-mentions)
-- [[Moore Hub]] (2 co-mentions)
-
-## Biography
-
-*[To be enriched]*
+The migration drew attention from the Pleiades Concordat and independent observers, who monitored the cult's activities amid broader concerns about Thargoid influence on human populations. Agassiz Settlement and Moore Hub provided infrastructure for the influx of cult members, while the Pilots Federation tracked movements in the region. The Panjabell episode illustrated how the Thargoid conflict generated not only military and political responses but also profound religious and philosophical divisions within human society.

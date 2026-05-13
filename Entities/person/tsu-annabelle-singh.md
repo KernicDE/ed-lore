@@ -12,17 +12,6 @@ bio: Tsu Annabelle Singh is a commander in the Elite Dangerous universe, active 
 
 
 
-<!-- AUTO-GENERATED -->
+Commander Tsu Annabelle Singh operated as an independent pilot with documented connections to the Alliance during the politically charged period of 3303. Her name entered galactic records alongside several other prominent independent commanders when authorities placed increased bounties on her and her associates, including the infamous Salomé, Raan Corsen, and Yuri Nakamura. This grouping suggested shared involvement in activities that major powers considered threatening enough to warrant substantial financial incentives for their capture or elimination.
 
-# Tsu Annabelle Singh
-
-First mentioned: **3303-03-24**  
-Last mentioned: **3303-05-04**  
-Total mentions: **3**
-
-## Related
-
-
-## Biography
-
-*[To be enriched]*
+The bounty increases coincided with the chaotic aftermath of the Salomé conspiracy, when independent pilots and shadowy organisations clashed over information that could reshape public understanding of Imperial history. Singh's inclusion in this select group of targeted commanders indicated she possessed knowledge or capabilities that made her a perceived threat to established interests. Her story exemplifies how the independent pilot community, though officially celebrated by the Pilots Federation, could become the focus of intense official hostility when its members challenged powerful institutional narratives.

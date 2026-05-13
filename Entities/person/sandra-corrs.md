@@ -15,17 +15,6 @@ bio: Sandra Corrs is a pilot in the Elite Dangerous universe, active from 3308-1
 
 
 
-<!-- AUTO-GENERATED -->
+Sandra Corrs built a remarkable career as chief executive of the largest children's toy manufacturing company in the core systems, establishing her Our Dolph's Routes brand as a household name across Federal, Imperial, and independent territories. Her business acumen transformed a modest venture into an industrial powerhouse capable of producing and distributing goods across vast interstellar distances. The scale of her operations required sophisticated logistics networks and close coordination with shipping fleets, giving her unique insight into the practical challenges of galactic commerce.
 
-# Sandra Corrs
-
-First mentioned: **3308-12-15**  
-Last mentioned: **3311-12-15**  
-Total mentions: **3**
-
-## Related
-
-
-## Biography
-
-*[To be enriched]*
+Beyond her commercial success, Corrs demonstrated significant humanitarian commitment during the Thargoid invasion, when she initiated annual campaigns to deliver festive gifts to children displaced by the conflict. These efforts relied on volunteer pilots and her upgraded Our Dolph's Routes fleet, though the sheer scale of displacement often exceeded even her substantial logistical capabilities. Her charitable work illustrated how corporate leaders could leverage existing infrastructure for humanitarian purposes, providing moments of joy to young survivors amidst widespread destruction.

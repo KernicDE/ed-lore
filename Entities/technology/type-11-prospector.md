@@ -14,17 +14,6 @@ bio: Type-11 Prospector is a technology in the Elite Dangerous universe, mention
 
 
 
-<!-- AUTO-GENERATED -->
+The Type-11 Prospector represents Lakon Spaceways' dedicated entry into the specialised mining vessel market, designed to address the unique demands of deep-core and surface extraction operations that general-purpose ships could not efficiently perform. During extensive trials throughout late 3311, pilots reported unprecedented fragment yields from mining lasers and seismic charges, validating the design's focused optimisation for resource extraction. The vessel's hull configuration and internal layout prioritise cargo capacity, refinery integration, and manoeuvrability in dense asteroid fields over the combat or passenger capabilities that characterise multipurpose designs.
 
-# Type-11 Prospector
-
-First mentioned: **3311-09-29**  
-Last mentioned: **3312-01-22**  
-Total mentions: **3**
-
-## Related
-
-
-## Biography
-
-*[To be enriched]*
+Lakon Spaceways declared the mining trials a success and announced both full distribution of the Type-11 Prospector and a permanent eight percent enhancement to the Squadron mining perk available to affiliated pilots. The ship's entry into core system shipyards in early 3312 marked a significant expansion of Lakon's product line beyond their traditional transport and exploration vessels. The Type-11 Prospector's development illustrated how ship manufacturers responded to evolving market demands as mining became an increasingly sophisticated and lucrative profession requiring purpose-built equipment rather than adapted generalist designs.

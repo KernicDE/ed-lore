@@ -20,22 +20,6 @@ bio: Vadimo Patrons of Law is a organization in the Elite Dangerous universe, ac
 
 
 
-<!-- AUTO-GENERATED -->
+Vadimo Patrons of Law functioned as an Imperial organisation based in the Vadimo system, where they maintained influence from Sikorsky Station and other local installations. During 3304, the group announced plans to host an elaborate soirée, a cultural event reflecting the Imperial tradition of combining social gatherings with political networking. Such events served multiple purposes: reinforcing social hierarchies, displaying wealth and refinement, and providing cover for discreet negotiations among Imperial power brokers.
 
-# Vadimo Patrons of Law
-
-First mentioned: **3304-04-27**  
-Last mentioned: **3304-05-04**  
-Total mentions: **3**
-
-## Related
-
-- [[Vadimo]] (3 co-mentions)
-- [[Sikorsky Station]] (2 co-mentions)
-- [[INRA]] (1 co-mentions)
-- [[Imperial Internal Security Service]] (1 co-mentions)
-- [[Utopia]] (1 co-mentions)
-
-## Biography
-
-*[To be enriched]*
+The organisation's connections to both the Imperial Internal Security Service and INRA suggest it operated at the intersection of social prestige and state security interests. Its presence in Vadimo illustrated how Imperial influence extended through formally independent organisations that nevertheless maintained close ties to the Empire's administrative and intelligence apparatus. The Patrons of Law represented a particular strain of Imperial faction that wielded authority through cultural and social institutions rather than direct military or economic control.

@@ -15,17 +15,6 @@ bio: sub-surface extraction missiles is a technology in the Elite Dangerous univ
 
 
 
-<!-- AUTO-GENERATED -->
+Sub-surface extraction missiles represent a specialised technology developed for penetrating the hardened biological and structural materials of Thargoid Titans, the massive alien vessels that served as mobile bases during the invasion of the 3300s. Unlike conventional weaponry designed for surface engagement, these missiles were engineered to burrow into Titan hulls and internal chambers, creating breaches that allowed rescue teams to extract human captives held within the alien vessels. Their development marked a significant advancement in counter-xeno technology, addressing the unique challenge of operating within active alien megastructures.
 
-# sub-surface extraction missiles
-
-First mentioned: **3309-10-05**  
-Last mentioned: **3309-10-30**  
-Total mentions: **3**
-
-## Related
-
-
-## Biography
-
-*[To be enriched]*
+Aegis deployed these missiles during rescue operations in late 3309, with Admiral Aden Tanner explaining the hazardous extraction process to participating pilots. The first successful rescues produced survivors who arrived in critical condition, prompting medical teams led by Dr Grey to assess their physical and psychological states. The extraction missile programme demonstrated both the technical ingenuity required to counter Thargoid capabilities and the extraordinary risks that rescue personnel accepted to recover those trapped behind alien lines.

@@ -14,17 +14,6 @@ bio: Orbis starport is a technology in the Elite Dangerous universe, mentioned f
 
 
 
-<!-- AUTO-GENERATED -->
+The Orbis starport represents one of the most recognisable and ambitious station designs in human space, characterised by its distinctive rotating wheel structure that generates artificial gravity for occupants. These massive installations serve as major trade hubs, shipyards, and population centres, capable of supporting millions of residents and handling the largest vessels in civilian service. Their construction requires extraordinary material investment and engineering expertise, making each Orbis a significant statement of economic and industrial capability.
 
-# Orbis starport
-
-First mentioned: **3307-04-15**  
-Last mentioned: **3307-04-30**  
-Total mentions: **3**
-
-## Related
-
-
-## Biography
-
-*[To be enriched]*
+In 3307, the Kumo Crew syndicate launched an audacious campaign to construct up to five new Orbis starports in uninhabited systems near key trading regions, aiming to establish permanent criminal infrastructure on a scale previously unmatched. The campaign concluded successfully, demonstrating that even the most complex station designs could be deployed by non-state actors given sufficient resources and logistical support. This development alarmed authorities across all superpowers, as it established that major criminal organisations could project power through fixed installations rather than relying solely on mobile fleets.

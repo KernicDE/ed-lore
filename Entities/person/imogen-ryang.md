@@ -11,17 +11,6 @@ bio: 'Imogen Ryang is a commander in the Elite Dangerous universe, active from 3
 
 
 
-<!-- AUTO-GENERATED -->
+Imogen Ryang held the rank of commander within the Federal Navy, serving during a period of intensifying military activity across Federal space in the mid-3300s. Her commission placed her within the chain of command responsible for coordinating naval assets against emerging threats, including pirate syndicates and later the escalating Thargoid incursions that would reshape Federal defence priorities. The Federal Navy's reliance on capable commanders like Ryang increased as traditional fleet deployments proved insufficient for the dispersed conflicts of the era.
 
-# Imogen Ryang
-
-First mentioned: **3304-07-20**  
-Last mentioned: **3305-02-14**  
-Total mentions: **3**
-
-## Related
-
-
-## Biography
-
-*[To be enriched]*
+Her documented activity from mid-3304 through early 3305 coincided with major restructuring of Federal naval doctrine, as the service adapted from conventional inter-superpower deterrence to asymmetric warfare against alien and insurgent forces. Ryang's career trajectory illustrated the demands placed on Federal military personnel during this transitional period, when officers were expected to master new technologies and tactics while maintaining operational readiness across vast territorial commitments.

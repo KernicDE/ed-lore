@@ -31,22 +31,6 @@ bio: Tau Ceti is a star system in the Elite Dangerous universe, significant from
 
 
 
-<!-- AUTO-GENERATED -->
+Tau Ceti ranks among the most historically significant systems in human space, serving as the site of Taylor Colony, which became the first non-Sol signatory to the Federation Accord in 2242. This act of union established the precedent for interstellar cooperation that would eventually expand into the Federation as it exists today. With a population exceeding five billion under the feudal governance of the Equestrian Naval Fleet, Tau Ceti maintains high security and an economy based on extraction and agriculture, reflecting both its historical importance and ongoing industrial relevance.
 
-# Tau Ceti
-
-First mentioned: **3301-07-05**  
-Last mentioned: **3307-04-13**  
-Total mentions: **3**
-
-## Related
-
-- [[Sol]] (2 co-mentions)
-- [[Achenar]] (2 co-mentions)
-- [[Federation]] (1 co-mentions)
-- [[Mars]] (1 co-mentions)
-- [[Taylor Colony]] (1 co-mentions)
-
-## Biography
-
-*[To be enriched]*
+The system's proximity to Sol — approximately twelve light-years — and its deep connections to Federal identity have made it a touchstone in debates about the Federation's founding principles versus its contemporary political realities. Tau Ceti's continued association with both Sol and Achenar in galactic records highlights its position at the intersection of human civilisation's oldest power centres. Its endurance as a major population centre across more than a millennium of human expansion underscores the lasting significance of early colony sites in shaping the galaxy's political geography.

@@ -15,17 +15,6 @@ bio: Thargoid Interceptor is a technology in the Elite Dangerous universe, menti
 
 
 
-<!-- AUTO-GENERATED -->
+The Thargoid Interceptor represents a formidable class of alien vessel first encountered in significant numbers during the escalation of hostilities in 3303. Larger and more heavily armed than the initial scout craft that preceded them, Interceptors demonstrated capabilities that far exceeded human technological equivalents in several domains, including manoeuvrability, defensive shielding, and caustic weaponry. Their distinctive organic-mechanical design, featuring petal-like structures that open during combat, became an iconic and terrifying symbol of the alien threat.
 
-# Thargoid Interceptor
-
-First mentioned: **3303-09-16**  
-Last mentioned: **3303-10-14**  
-Total mentions: **3**
-
-## Related
-
-
-## Biography
-
-*[To be enriched]*
+A pivotal moment in human-Thargoid relations occurred in late 3303 when Federation authorities confirmed that a Farragut-class Battlecruiser and its accompanying vessels were destroyed by Interceptor-class ships in the Maia system. This catastrophe — the loss of one of humanity's most powerful warships to alien forces — prompted President Zachary Hudson to formally declare the Thargoids an enemy of the Federation and grant Admiral Aden Tanner total authority over Federal Navy resources dedicated to addressing the threat. The Interceptor's demonstrated ability to defeat capital ships fundamentally altered military planning across all superpowers.

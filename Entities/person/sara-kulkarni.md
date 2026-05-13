@@ -14,17 +14,6 @@ bio: Sara Kulkarni is a prominent figure in the Elite Dangerous universe, active
 
 
 
-<!-- AUTO-GENERATED -->
+Sara Kulkarni served as Security Chief for MacArthur Mining Ltd during the mid-3300s, responsible for protecting corporate assets and personnel across multiple extraction sites and facilities. Her position demanded expertise in threat assessment, emergency response coordination, and the management of private security forces operating in environments where official law enforcement might be hours or days away. In August 3304, she demonstrated the weight of her responsibilities by declaring a regional state of emergency in response to an unprecedented threat to mining operations.
 
-# Sara Kulkarni
-
-First mentioned: **3304-08-11**  
-Last mentioned: **3304-08-16**  
-Total mentions: **3**
-
-## Related
-
-
-## Biography
-
-*[To be enriched]*
+The crisis centred on sensor drone detection of an anomalous entity surfacing in the Blue Peaks mountain range, where it began homing in on mineral ore deposits. Kulkarni's rapid escalation to emergency status reflected both the potential scale of the threat and the limited information available about the phenomenon. Her handling of the incident illustrated how corporate security leaders in frontier industries regularly confronted situations that exceeded standard operational protocols, requiring decisive action based on incomplete intelligence.

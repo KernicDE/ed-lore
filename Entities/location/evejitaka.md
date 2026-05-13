@@ -30,22 +30,6 @@ bio: Evejitaka is a star system in the Elite Dangerous universe, significant fro
 
 
 
-<!-- AUTO-GENERATED -->
+Evejitaka is an independent system located at the fringes of the core worlds, home to approximately twelve million inhabitants under the cooperative governance of the Teaka Elite Altruists Bagging Cooperative. Its economy balances industrial manufacturing with resource extraction, supported by major installations including Ackerman Market and von Bellingshausen Port. The system's medium security rating and independent allegiance reflect its position as a self-governing community operating outside direct superpower control.
 
-# Evejitaka
-
-First mentioned: **3302-02-24**  
-Last mentioned: **3302-05-20**  
-Total mentions: **3**
-
-## Related
-
-- [[Ackerman Market]] (3 co-mentions)
-- [[Eravate]] (3 co-mentions)
-- [[von Bellingshausen Port]] (3 co-mentions)
-- [[Almar]] (3 co-mentions)
-- [[Haack Gateway]] (3 co-mentions)
-
-## Biography
-
-*[To be enriched]*
+The system's documented history during early 3302 placed it within a network of independent territories that maintained trade and diplomatic relationships with multiple external powers, including Eravate, Almar, and systems connected through Haack Gateway. Evejitaka's cooperative government structure distinguished it from the more centralised administrations typical of Federal and Imperial worlds, representing an alternative model of collective governance that persisted in frontier regions. Its experience demonstrated how mid-sized independent systems could maintain autonomy and economic viability despite pressure from larger neighbours.

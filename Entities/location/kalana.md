@@ -30,22 +30,6 @@ bio: Kalana is a star system in the Elite Dangerous universe, significant from 3
 
 
 
-<!-- AUTO-GENERATED -->
+Kalana is an Imperial system governed through the patronage system, home to approximately 1.8 million inhabitants and controlled by the Imperial Enforcement Division. Its economy revolves around extraction and industrial processing, with Bujold Enterprise and Moore Prospect among its key installations. The system's location at coordinates that place it within reach of both core Imperial territories and frontier regions has made it a crossroads for trade and political activity.
 
-# Kalana
-
-First mentioned: **3302-09-29**  
-Last mentioned: **3302-10-04**  
-Total mentions: **3**
-
-## Related
-
-- [[Kalana Independents]] (3 co-mentions)
-- [[Mu Koji]] (3 co-mentions)
-- [[Bujold Enterprise]] (2 co-mentions)
-- [[Cutter Club]] (1 co-mentions)
-- [[Moore Prospect]] (1 co-mentions)
-
-## Biography
-
-*[To be enriched]*
+During late 3302, Kalana experienced significant political tension as the Kalana Independents challenged Imperial authority, drawing support from neighbouring Mu Koji. This confrontation illustrated the recurring pattern of independent movements emerging within Imperial systems where local populations sought greater autonomy from aristocratic control. The presence of organisations like the Cutter Club suggested Kalana also served as a gathering point for pilots and interests connected to Imperial naval culture, reflecting the system's multifaceted role within the broader Imperial sphere.

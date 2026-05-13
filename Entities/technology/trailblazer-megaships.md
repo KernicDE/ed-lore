@@ -15,17 +15,6 @@ bio: Trailblazer megaships is a technology in the Elite Dangerous universe, ment
 
 
 
-<!-- AUTO-GENERATED -->
+Trailblazer megaships represent a class of mobile installations developed by Brewer Corporation specifically to support independent colonisation efforts across the galaxy. These massive vessels combine the mobility of megaships with specialised modules including navigation beacons and suite facilities designed to establish footholds in uninhabited or minimally developed systems. Their purpose is to provide the essential infrastructure that colonists need to survive and prosper in regions lacking permanent starports or established supply chains.
 
-# Trailblazer megaships
-
-First mentioned: **3311-02-20**  
-Last mentioned: **3311-03-19**  
-Total mentions: **3**
-
-## Related
-
-
-## Biography
-
-*[To be enriched]*
+In early 3311, Brewer Corporation launched a campaign to expand its Trailblazer fleet, with Chief Operating Officer Mark Rennik detailing the beacon and suite module technologies that distinguished these vessels from standard megaship designs. A subsequent community campaign successfully funded the addition of five new Trailblazer megaships to the corporation's colonisation support fleet. This expansion reflected both the continued growth of human settlement beyond the core worlds and the corporate sector's recognition that colonisation support represented a viable and expanding market.
