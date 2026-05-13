@@ -51,4 +51,6 @@ Total mentions: **13**
 
 ## Biography
 
-*[To be enriched]*
+Azaleach is a Federal system that served as a staging ground for search and rescue operations following the disappearance of Starship One in May 3301. The Federal Navy established operations at Leoniceno Orbital in Azaleach, requesting pilots sign up for search and rescue duty after President Jasmina Halsey's presidential vessel vanished along its secured route.
+
+The system gained renewed prominence in early 3307 when the Federal High Court on Mars opened the trial of Fleet Admiral Lucas Vincent, who was charged with conspiracy to commit murder and treason in connection with the Starship One disaster. Azaleach's role in the initial search effort connected it to one of the Federation's most significant political mysteries, linking local Federal infrastructure to galaxy-wide criminal proceedings.

@@ -51,4 +51,6 @@ Total mentions: **13**
 
 ## Biography
 
-*[To be enriched]*
+T Tauri is a system that became a battleground in the internal conflict over Salvation's anti-Thargoid campaign in late 3307. In November 3307, Admiral Aden Tanner led a rogue Aegis Defense force against Taurus Mining Ventures in the system, attempting to seize Hind Mine asteroid base to obtain evidence that Salvation's superweapon was deliberately designed to provoke the Thargoids. Taurus Mining Ventures defeated Tanner's forces, captured the Musashi megaship, and placed Tanner and key personnel in temporary custody.
+
+The battle in T Tauri represented a critical fracture in human anti-xeno strategy — pitting Aegis's official military leadership against Salvation's corporate allies. Tanner's defeat and capture marked the nadir of Aegis's operational independence, while Taurus Mining Ventures' victory cemented its role as Salvation's primary military proxy. The system thus stands as a symbol of how corporate-paramilitary forces eclipsed traditional superpower militaries during the Thargoid crisis.

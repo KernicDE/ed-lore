@@ -38,4 +38,6 @@ Total mentions: **15**
 
 ## Biography
 
-*[To be enriched]*
+The Crimson State Group is an independence movement that led the campaign for Lugh's secession from the Federation in 3301. Under the leadership of Éamonn Uí Laoghaire, the group achieved a 91% approval rating among the local populace for its independence platform, though these figures were disputed by the rival Lugh for Equality Party. The movement's success in mobilising popular support triggered one of the most consequential conflicts of the early 34th century.
+
+In March 3301, President Jasmina Halsey officially declared war on the Crimson State Group, launching the Federal Navy to reclaim the system. The ensuing War for Lugh became a defining moment of Halsey's presidency, exposing the brutality of Federal military intervention and contributing to the political instability that would eventually topple her administration. The Crimson State Group's resistance against Federal forces established Lugh as a symbol of anti-Federal independence movements across the galaxy.

@@ -39,4 +39,6 @@ Total mentions: **12**
 
 ## Biography
 
-*[To be enriched]*
+The Neo-Marlinist Order of Mudhrid is a faction based in the Mudhrid system that openly adopted Neo-Marlinism and provided logistical support for the NMLA's starport bombing campaign. Led by Landgrave Arastin Delacroix from his flagship the *Steel Majesty*, the faction was confirmed by ACT investigations to have infiltrated local factions across multiple systems to transport enzyme bombs to their targets.
+
+In April 3307, the Order of Mudhrid renamed itself the Neo-Marlinist Order of Mudhrid and Delacroix declared revolution against the Imperial Family. Senator Denton Patreus ordered the Epsilon Fornacis Empire Group to engage them in battle, marking the first open military confrontation between Imperial forces and a Neo-Marlinist faction. The faction was defeated by Imperial forces, though its existence established the pattern of proxy warfare that would define the NMLA conflict. It was never officially recognised by the Marlinist Colonies, whose Minister Aaron Whyte disavowed Delacroix's extremist tactics.

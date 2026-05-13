@@ -52,4 +52,6 @@ Total mentions: **16**
 
 ## Biography
 
-*[To be enriched]*
+Kamadhenu is an Imperial system that has served as a significant political and religious centre within the Empire. As a high-population system with strong Imperial allegiance, it has been repeatedly mentioned in contexts involving Imperial succession, senatorial politics, and military operations. The system has hosted initiatives tied to Arissa Lavigny-Duval's power base and has been a focal point for debates about Imperial governance and corruption.
+
+During periods of crisis, Kamadhenu has been drawn into broader Imperial political struggles, including the succession disputes following Hengist Duval's assassination and the NMLA terror campaign. Its enduring importance reflects the concentration of wealth and influence in core Imperial systems that have remained loyal to the Duval dynasty across generations.

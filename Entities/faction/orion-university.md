@@ -39,4 +39,6 @@ Total mentions: **14**
 
 ## Biography
 
-*[To be enriched]*
+Orion University is the largest independent educational institution in the core systems, rivalled only by the Imperial Science Academy and Olympus Village University. In 3307, the university became embroiled in a legal dispute with the Scriveners Clan when Vice Chancellor Leland Pettigrew claimed ownership of the nomadic group's dredger based on historical records from 3088. The documents showed that Scrivener College — the dredger's original operator — had been absorbed into Orion University in 3125.
+
+The university's claim was ultimately unsuccessful after the Scriveners Clan resisted outside contact and the Advocacy defended their right to self-determination. The affair highlighted tensions between academic institutions' proprietary claims over historical assets and the rights of nomadic societies that have transformed those assets into independent cultures over centuries. Orion University remains a major centre of galactic learning despite the reputational damage from its unsuccessful dredger claim.

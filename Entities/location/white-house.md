@@ -37,4 +37,6 @@ Total mentions: **12**
 
 ## Biography
 
-*[To be enriched]*
+The White House is the official residence and administrative centre of the Federal President on Mars in the Sol system. It serves as the primary venue for presidential press conferences, policy announcements and diplomatic receptions that shape Federal governance across human space.
+
+Notable events at the White House include President Zachary Hudson's 3301 press conference confirming investigations into the Antares conspiracy and Smeaton's murder, and his 3308 broadcast defending his controversial proposal to remove the single-term limit for the Federal presidency. The White House also featured in discussions of Princess Aisling Duval's engagement to Federal Ambassador Jordan Rochester, with observers speculating on whether the Imperial and Federal leadership would meet there for the wedding. As the symbolic seat of Federal executive power, it represents the institutional centre of the Federation's democratic — and increasingly contested — political system.

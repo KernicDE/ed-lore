@@ -50,4 +50,6 @@ Total mentions: **15**
 
 ## Biography
 
-*[To be enriched]*
+Warkushanui is a system that gained notoriety in late 3301 as one of the earliest locations affected by the technological plague — a wave of mysterious malfunctions that struck starports across inhabited space. In October 3301, multiple stations in the system reported power outages, communications failures, and docking system malfunctions. Technician Sam Norris at Coats Hub noted that Gurragchaa Gateway appeared to be suffering worse conditions, though stable communications could not be established to confirm the extent of the damage.
+
+The incidents in Warkushanui preceded a much wider crisis that would eventually be traced to Unknown Artefacts and meta-alloy contamination. The system's experience served as an early warning of the technological vulnerability of human infrastructure to Thargoid-related phenomena, foreshadowing the far more devastating station attacks that would follow in subsequent years.

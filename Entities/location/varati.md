@@ -51,4 +51,6 @@ Total mentions: **13**
 
 ## Biography
 
-*[To be enriched]*
+Varati is a system that was among those affected by the technological plague wave of late 3301. In November 3301, Bond Hub in Varati reported technical malfunctions and power failures similar to those simultaneously striking 64 Arietis, Warkushanui, and Weyn Dock — a pattern that would eventually be linked to Unknown Artefact contamination. Engineer Stana Chapple confirmed the station was experiencing system malfunctions of unknown origin.
+
+The system later became notable as a research hub for the Canonn Interstellar Research Group, which established scientific outposts to study the technological plague and Thargoid-related phenomena. Varati's experience illustrates how seemingly routine station maintenance issues were actually early indicators of a galaxy-wide crisis that would reshape human understanding of Thargoid technology and its capacity to disrupt human infrastructure.

@@ -38,4 +38,6 @@ Total mentions: **13**
 
 ## Biography
 
-*[To be enriched]*
+Zorgon Peterson is a shipbuilding corporation known for producing fast, aggressive vessel designs marketed primarily toward independent pilots. In December 3304, the company released the Mamba — touted as the fastest commercially available starship, based on a racing prototype and equipped with heavy weaponry hardpoints. The Mamba's design philosophy emphasised speed and firepower over versatility, appealing to combat-focused pilots and bounty hunters.
+
+The company continued to innovate into the 3310s, releasing the Mandalay in 3310 — an exploration-oriented vessel designed with supercruise overcharge-compatible frame shift drives. Zorgon Peterson's product line occupies a distinct niche in the shipbuilding market, catering to pilots who prioritise performance extremes over the multi-role flexibility offered by competitors such as Faulcon DeLacy and Lakon Spaceways.

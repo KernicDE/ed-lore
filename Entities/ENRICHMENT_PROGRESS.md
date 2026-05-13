@@ -111,7 +111,78 @@ Uncommitted enrichments from previous sessions covering key factions, locations 
 - Total enriched: 105
 - Remaining: 3,379
 
+### Batch 5: 45 entities ✅ COMPLETE
+| # | Entity | Type | Status | Notes |
+|---|--------|------|--------|-------|
+| 1 | Hengist Duval | person | ✅ Done | 15th Emperor, wedding assassination, father of Hector and Harold, grandfather of Arissa/Aisling |
+| 2 | Ramesh Thorne | person | ✅ Done | Alliance Tribune editor, Kincaid conspiracy exposé |
+| 3 | Gethin Okonkwo | person | ✅ Done | Federal Times journalist, Marlinist refugee crisis reporter |
+| 4 | Elijah Beck | person | ✅ Done | Marlinist community leader, refugee spokesman |
+| 5 | Katrien Rook | person | ✅ Done | Imperial Herald journalist, NMLA and Marlinist coverage |
+| 6 | Ernesto Rios | person | ✅ Done | Aegis chief engineer, Aegis Defence tech director |
+| 7 | Theta Seven | person | ✅ Done | NMLA co-founder, Theta Group bomb-maker, starport bombings |
+| 8 | Lexi October | person | ✅ Done | Explorer, October Consortium founder, HIP 87621 permit-locked system |
+| 9 | Mara Klatt | person | ✅ Done | Alliance Interpol, League of Reparation taskforce, Nexus identity |
+| 10 | Erik Gunnarson | person | ✅ Done | Vox Galactica journalist, Salvation investigation |
+| 11 | Nikolas Glass | person | ✅ Done | Banker, Herculean Machines investor, Rackham associate |
+| 12 | Micah Whitefield | person | ✅ Done | Civil servant, Eotienses attack survivor, Sirius-linked |
+| 13 | Sofia Trevino | person | ✅ Done | Reporter, Nine Martyrs bombing coverage |
+| 14 | Angela Corcoran | person | ✅ Done | Federal Times journalist, Antares conspiracy reporter |
+| 15 | Brendan Paul Darius | person | ✅ Done | NMLA bomber, Emperor's Dawn, Hengist assassination |
+| 16 | Kay Volantyne | person | ✅ Done | ACT co-leader, League of Reparation investigation |
+| 17 | John Jameson | person | ✅ Done | Legendary pilot, INRA mycoid deployment, personal logs |
+| 18 | Corrigendum | person | ✅ Done | Lavigny's Legion commander, Operation Davy Jones |
+| 19 | Caleb Wycherley | person | ✅ Done | Azimuth Biochemicals scientist, Salvation identity, Proteus Wave |
+| 20 | Tanya Ramirez | person | ✅ Done | Imperial Intelligence, League of Reparation investigation |
+| 21 | Kayode Tau | person | ✅ Done | Free Marlinist Movement leader, Marlinist Consulate candidate |
+| 22 | Jarl Toredo | person | ✅ Done | Universal Liberty leader, Unchain co-founder, former slave |
+| 23 | Barnabas Cole | person | ✅ Done | Children of Tothos cult leader, Lucifer Device, FIA takedown |
+| 24 | Solomon Helios | person | ✅ Done | Entertainment journalist, Aisling Duval romance coverage |
+| 25 | Francesca Wolfe | person | ✅ Done | Investigative journalist, Salvation and Hesperus coverage |
+| 26 | Kay Kilbride | person | ✅ Done | Alliance Interpol Chief Inspector, League of Reparation taskforce |
+| 27 | Emperor's Grace | faction | ✅ Done | Imperial faction, Emperor's Dawn cell, Brendan Paul Darius |
+| 28 | Scriveners Clan | faction | ✅ Done | Dredger clan, Hesperus salvage, knowledge preservation |
+| 29 | Taurus Mining Ventures | faction | ✅ Done | Mining corporation, Salvation associate, classified research |
+| 30 | Crimson State Group | faction | ✅ Done | Independent faction, Lugh conflict, Federal opposition |
+| 31 | Lavigny's Legion | faction | ✅ Done | Imperial forces, Senator Arissa Lavigny-Duval, anti-piracy |
+| 32 | Orion University | faction | ✅ Done | Academic institution, Proteus Wave research |
+| 33 | Deep Space Surveys | faction | ✅ Done | Exploration support, distant worlds expeditions |
+| 34 | Zorgon Peterson | faction | ✅ Done | Ship manufacturer, Fer-de-Lance, Cobra Mk III |
+| 35 | Merope Expeditionary Fleet | faction | ✅ Done | Imperial military, Pleiades base construction, meta-alloy rush |
+| 36 | Neo-Marlinist Order of Mudhrid | faction | ✅ Done | NMLA-aligned faction, Landgrave Delacroix, defeated by Empire |
+| 37 | Canonn Interstellar Research Group | faction | ✅ Done | Dr Arcanonn, xeno-research, barnacles, Unknown Artefacts |
+| 38 | Interstellar Association for Agriculture | faction | ✅ Done | Agricultural regulation, blight containment, EX7 crisis |
+| 39 | Mastopolos Mining | faction | ✅ Done | Mining conglomerate, Zemina Torval control, boardroom coup |
+| 40 | Palin Institute | faction | ✅ Done | Research institute, Ishmael Palin, meta-alloy science |
+| 41 | Bright Sentinel | location | ✅ Done | Megaship, Alliance military staging, Aegis support |
+| 42 | Upaniklis | location | ✅ Done | Marlinist refugee system, colony site |
+| 43 | Kamadhenu | location | ✅ Done | Imperial system, Arissa Lavigny-Duval powerbase |
+| 44 | Warkushanui | location | ✅ Done | Pleiades system, Thargoid incursion |
+| 45 | Coalsack Nebula | location | ✅ Done | Dark nebula, Thargoid presence, exploration route |
+| 46 | Mudhrid | location | ✅ Done | Neo-Marlinist Order base, NMLA logistics, Imperial assault |
+| 47 | Eol Prou RS-T d3-94 | location | ✅ Done | Colonia region, exploration waypoint |
+| 48 | Panem | location | ✅ Done | Agricultural system, blight impact, Scythe of Panem |
+| 49 | Emerald | location | ✅ Done | Aisling Duval's palace system, Cemiess region |
+| 50 | Azaleach | location | ✅ Done | Federal system, Starship One search, Vincent trial |
+| 51 | Socho | location | ✅ Done | Aegis Research facility, Thargoid study site |
+| 52 | Kappa Fornacis | location | ✅ Done | Onionhead origin, System of the Year |
+| 53 | Gateway | location | ✅ Done | Alliance system, Federal border |
+| 54 | Varati | location | ✅ Done | Canonn headquarters, xeno-research hub |
+| 55 | T Tauri | location | ✅ Done | Variable star system, Hind Mine, Scriveners Clan |
+| 56 | Phoenix Base | location | ✅ Done | Ram Tah research outpost, Guardian studies |
+| 57 | White House | location | ✅ Done | Federal presidential residence, Mars, Sol system |
+| 58 | Lave Station | location | ✅ Done | Historic starport, Galactic Co-operative birthplace |
+
+## Stats
+- Total entities: 3,484
+- Enriched (Batch 1): 26
+- Enriched (Batch 2): 25
+- Enriched (Batch 3): 29
+- Enriched (Batch 4): 25
+- Enriched (Batch 5): 45
+- Total enriched: 150
+- Remaining: 3,334
+
 ## Notes
 - All enriched entities trimmed to compact Wikipedia-style descriptions (1-2 paragraphs)
-- Batch 1 + Batch 2 fully trimmed and committed
-- Batch 3 and Batch 4 pending commit
+- Batch 1–5 fully enriched and committed

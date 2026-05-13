@@ -28,4 +28,6 @@ Total mentions: **11**
 
 ## Biography
 
-*[To be enriched]*
+Kay Kilbride is a Chief Inspector with Alliance Interpol who led the multi-agency taskforce investigating the League of Reparation in 3304. When independent journalist Flint "Firemaker" Lafosse published theories linking the League to unsolved homicides dating back several years, Kilbride publicly cautioned against "baseless conjecture" that spread confusion while investigators pursued more concrete leads.
+
+Kilbride's measured approach to the League investigation reflected Alliance Interpol's emphasis on evidence-based counter-terrorism during a period when the League was targeting INRA descendants across all three superpowers. Her leadership of the unified taskforce — which included cooperation with Imperial and Federal agencies — demonstrated that even amid superpower rivalry, law enforcement could coordinate against threats that transcended political boundaries.

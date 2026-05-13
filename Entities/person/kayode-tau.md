@@ -27,4 +27,6 @@ Total mentions: **12**
 
 ## Biography
 
-*[To be enriched]*
+Kayode Tau is a politician and leader of the Free Marlinist Movement who competed to become the first prime consul of the Marlinist Consulate in 3307. Tau positioned himself as the moderate alternative to Verity Dexter of the Marlinism Reformation Party — the NMLA's political wing — directly opposing Dexter's bid for Imperial patronage and her representation of Neo-Marlinist extremism.
+
+The Marlinist Consulate election became a referendum on whether the colonies would align with the NMLA's political apparatus or maintain independence from terrorism. Senator Lorcan Scordato championed Dexter's candidacy, which Chancellor Blaine approved as an Imperial patronage, but Tau's Free Marlinist Movement represented the anti-extremist faction that sought diplomatic legitimacy without terrorist associations. Tau's political career embodies the internal struggle within Marlinism between republican idealism and violent revolutionary tactics.

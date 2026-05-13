@@ -37,4 +37,6 @@ Total mentions: **12**
 
 ## Biography
 
-*[To be enriched]*
+Phoenix Base is a research outpost that became the primary laboratory for Ram Tah's investigation into the Synuefe XR-H d11-102 Guardian ruins after his original research centre at Felice Dock in the Meene system was severely damaged by vandals in December 3302. The relocation included strict security measures to protect the xenological research from further interference.
+
+The base served as Ram Tah's operational headquarters during his groundbreaking work decoding Guardian technology, which would later prove critical to understanding both Thargoid vulnerabilities and Salvation's Guardian-based superweapon. Phoenix Base thus represents a key site in the transition from frontier anomaly hunting to systematic xenoarchaeological science that shaped humanity's response to the Thargoid threat.

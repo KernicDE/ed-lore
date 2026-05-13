@@ -27,4 +27,6 @@ Total mentions: **12**
 
 ## Biography
 
-*[To be enriched]*
+Corrigendum is the military callsign of a commander within Lavigny's Legion, the Imperial forces loyal to Senator Arissa Lavigny-Duval. During Operation Davy Jones in July 3301, Corrigendum served as a frontline officer in the Imperial campaign against the Kumo Crew in the Pegasi sector, reporting that Archon Delaine's forces had been routed from Imperial space with heavy clashes in Anedjete, Sopontet and Huichi.
+
+Corrigendum publicly rejected any diplomatic settlement with the Kumo Crew, stating that the Empire "refuses to negotiate with captors" — a hardline position reflecting Lavigny-Duval's uncompromising stance against piracy and slavery. As both a combat leader and spokesperson for Lavigny's Legion, Corrigendum exemplified the Imperial Navy's aggressive posture during the Pegasi sector campaigns.

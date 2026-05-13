@@ -28,4 +28,6 @@ Total mentions: **14**
 
 ## Biography
 
-*[To be enriched]*
+Ernesto Rios is a field correspondent for Vox Galactica who has reported from some of the most dangerous frontlines of the Thargoid conflicts. In August 3308, he published a widely circulated dispatch from the aftermath of the HIP 22460 massacre, describing the information blackout imposed by authorities and the refusal of medical personnel to grant press access to survivors aboard Azimuth Biotech's surviving megaships.
+
+Rios's reporting has consistently highlighted the gap between official narratives and ground-level reality during the Thargoid war. His dispatches from HIP 22460 captured both the scale of human suffering and the deliberate obfuscation by military and corporate authorities, establishing him as one of the most courageous war correspondents covering the Second Thargoid War.

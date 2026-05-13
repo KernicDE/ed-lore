@@ -28,4 +28,6 @@ Total mentions: **12**
 
 ## Biography
 
-*[To be enriched]*
+Commander John Jameson was a legendary pilot of the 3100s who became a tragic symbol of the Intergalactic Naval Reserve Arm's moral bankruptcy. In the First Thargoid War, Jameson volunteered for a mission to deploy the mycoid virus — a biological weapon designed to cripple the Thargoid fleet. Unbeknownst to him, the INRA had sabotaged his ship to ensure he would not survive to reveal the truth, making him both the weapon's deliverer and its final victim.
+
+The discovery of Jameson's ship and logs in 3304 revealed the full extent of the INRA's betrayal, sparking widespread outrage and directly motivating the League of Reparation's terrorist campaign against INRA descendants. Jameson's fate transformed him from a forgotten war hero into a martyr whose sacrifice exposed the darkest chapters of human-xeno warfare. His story remains a cautionary tale about how military institutions sacrifice individual integrity for strategic advantage.

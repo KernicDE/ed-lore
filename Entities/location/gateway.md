@@ -51,4 +51,6 @@ Total mentions: **13**
 
 ## Biography
 
-*[To be enriched]*
+Gateway is a significant location within the Synteini system, notable for the Lagerkvist Gateway starport which houses one of the premier Imperial Slave training academies in the Empire. In 3301, the Imperial Slavers Association opened the facility in conjunction with Senator Zemina Torval, featuring state-of-the-art skill implantation terminals and body sculpting shops designed to bring unregulated workforces up to Imperial labour standards.
+
+The facility exemplifies the industrial scale of Imperial slavery infrastructure and the political patronage networks that sustain it. Torval's backing ensured Gateway's training centre became a flagship institution, demonstrating to the galaxy how the Empire transforms acquired populations into compliant labour assets. Gateway thus serves as both a practical hub of the slave trade and a symbolic assertion of Imperial labour philosophy.

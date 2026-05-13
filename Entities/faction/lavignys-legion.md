@@ -39,4 +39,6 @@ Total mentions: **14**
 
 ## Biography
 
-*[To be enriched]*
+Lavigny's Legion is an Imperial military force loyal to Senator Arissa Lavigny-Duval, formed from her supporters and retainers to project her power both within Imperial territory and abroad. The Legion played a significant role in Operation Davy Jones — the Imperial offensive into the Pegasi Sector to combat Archon Delaine's Kumo Crew piracy — while simultaneously conducting anti-corruption operations in home systems such as Kamadhenu.
+
+The Legion's dual mandate of external military intervention and internal security enforcement exemplifies the Imperial patronage system, whereby powerful senators maintain private military capabilities independent of the formal Imperial Navy chain of command. Under Arissa's direction, Lavigny's Legion replaced corrupt and repressive local governments with traditional patronages in several systems, demonstrating how Imperial power politics operates through a combination of military force and personal loyalty networks.

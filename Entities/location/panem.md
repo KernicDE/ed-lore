@@ -37,4 +37,6 @@ Total mentions: **14**
 
 ## Biography
 
-*[To be enriched]*
+Panem is a Federal system that became notorious in 3301 as the primary source of Onionhead — a controversial narcotic crop cultivated by the Kappa Fornacis Farmers Union. Despite Federal prohibition efforts, Onionhead sales from Panem increased by as much as 800% in some regions, triggering intense political pressure on President Jasmina Halsey to launch military strikes against the plantations. Halsey resisted, arguing that all-out assault would merely drive production underground.
+
+The system's role in the Onionhead trade made it a recurring flashpoint in Federal politics throughout the early 3300s. Shadow President Zachary Hudson repeatedly demanded punitive action against Panem, using the issue to attack Halsey's perceived weakness on law and order. The Panem affair demonstrated the limitations of prohibition in a galaxy where independent pilots and smuggling networks could circumvent superpower border controls with relative ease.

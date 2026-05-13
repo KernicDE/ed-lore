@@ -37,4 +37,6 @@ Total mentions: **12**
 
 ## Biography
 
-*[To be enriched]*
+Lave Station is the primary starport in the Lave system, one of the most historically significant locations in human space as the birthplace of the Galactic Co-operative of Worlds and a founding member of the Alliance. The station serves as a cultural and economic hub for a system that has shifted between Alliance membership and independent governance over centuries.
+
+In 3305, Lave hosted the opening ceremony of the Alliance Festival of Culture, though residents expressed mixed feelings about the event — some viewing it as political propaganda while others embraced their Alliance heritage. The station's markets were also involved in the distribution and subsequent collection of Rockforth Corporation's contaminated EX7 fertiliser during the blight crisis. Lave Station embodies the complex political identity of systems with deep historical ties to multiple galactic powers.

@@ -51,4 +51,6 @@ Total mentions: **17**
 
 ## Biography
 
-*[To be enriched]*
+Upaniklis is an independent system that became widely known in 3305 as the location where the generation ship Golconda was discovered. After more than a thousand years of isolation, the ancient vessel was found drifting in the system, its inhabitants maintaining a rigidly isolationist 22nd-century society. Upaniklis Vision Incorporated was the only organisation permitted to dock with the Golconda during the initial contact period, delivering vital supplies while anthropologists studied the unique culture.
+
+The discovery triggered a competitive diplomatic effort by all three superpowers to resettle the Golconda's population. The Federation ultimately succeeded, delivering the inhabitants to Forester's Choice — a newly constructed orbital outpost — where they began integrating with modern galactic society. Upaniklis remains notable as the site of one of the most significant first-contact events of the 34th century, demonstrating both the fragility of isolated cultures and the challenges of reintegration.

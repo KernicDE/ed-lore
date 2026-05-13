@@ -39,4 +39,6 @@ Total mentions: **12**
 
 ## Biography
 
-*[To be enriched]*
+The Palin Institute is a scientific research organisation founded by Professor Ishmael Palin to investigate the Unknown Artefacts and barnacle phenomena that emerged in 3301–3302. Headquartered as a dedicated research institute, it became the primary academic hub for meta-alloy research during the early Thargoid contact period, drawing scientists from across human space to study the alien biological and technological signatures.
+
+In April 3302, Palin announced his retirement as director, citing "dark forces" opposing his ideals, and transferred leadership to his long-time ally Professor Cora Shaw. Palin continued personal research at his centre on Maia A 3 a, while the Institute maintained its broader scientific mission under Shaw's direction. The Palin Institute's work established foundational understanding of Thargoid technology before the full-scale invasion, bridging the gap between frontier anomaly hunting and systematic xenological science.

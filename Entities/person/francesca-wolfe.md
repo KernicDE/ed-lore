@@ -27,4 +27,6 @@ Total mentions: **11**
 
 ## Biography
 
-*[To be enriched]*
+Francesca Wolfe is an investigative journalist and commentator on xenological and fringe-science topics. In mid-3307, she reported on pilots being contacted by the mysterious figure known as "Salvation" near the Hesperus and Adamastor megaships, documenting Commander Tyler Thorsen's account of receiving direct requests to locate old signal beacons that could help find survivors.
+
+Wolfe's reporting highlighted the expanding network of pilot contacts that Salvation was building, as well as his apparent access to Azimuth Biochemicals' historical data from two centuries prior. Her work on the Hesperus mystery — alongside Erik Gunnarson's investigations — helped piece together the connections between the ghost ships, the Scriveners Clan and Salvation's hidden agenda, foreshadowing the eventual revelation of his true identity as a figure with deep ties to Azimuth's legacy.

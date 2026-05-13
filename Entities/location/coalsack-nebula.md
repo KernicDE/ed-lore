@@ -37,4 +37,6 @@ Total mentions: **15**
 
 ## Biography
 
-*[To be enriched]*
+The Coalsack Nebula is a dark nebula that became a focal point of Alliance expansion and Thargoid conflict in the late 3300s. In November 3306, the Alliance launched a campaign to construct outposts in the nebula, prompted by planetary survey data discovered aboard the abandoned megaship Adamastor. The initiative aimed to establish commercial and scientific operations to locate fresh sources of meta-alloys, with Commodore Morag Halloran warning of a heavy anticipated Thargoid presence.
+
+The campaign was swiftly overtaken by events. In December 3306, Thargoid forces attacked both the Coalsack and Witch Head Nebulas, devastating the nascent outposts and confirming the extreme danger of corporate expansion into Thargoid-occupied regions. The Coalsack thus represents both the ambition of superpower expansionism and the catastrophic reality of humanity's unpreparedness for sustained Thargoid resistance.

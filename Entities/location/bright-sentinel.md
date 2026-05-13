@@ -37,4 +37,6 @@ Total mentions: **17**
 
 ## Biography
 
-*[To be enriched]*
+The Bright Sentinel is a megaship operated by Taurus Mining Ventures that became a mobile hub for anti-xeno technology distribution during the Thargoid conflicts of the late 3300s. In October 3307, the vessel relocated to the Merope system at Salvation's request, with tech brokers on board offering a Guardian-hybrid plasma charger and material cost discounts to support independent pilots fighting the Thargoid invasion.
+
+The megaship's deployment came during a critical period when Aegis was hobbled by the operational shutdown enforced by the Baumann Report public inquiry, leaving a vacuum in coordinated anti-xeno defence. The Bright Sentinel represented one of several corporate and independent efforts to fill that gap, though its close association with Salvation later drew scrutiny as the scientist's true identity and methods became increasingly controversial.

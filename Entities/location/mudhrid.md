@@ -52,4 +52,6 @@ Total mentions: **14**
 
 ## Biography
 
-*[To be enriched]*
+Mudhrid is a system that became central to the NMLA crisis of 3307 as the base of the Neo-Marlinist Order of Mudhrid, a paramilitary faction aligned with the terrorist organisation. After the Nine Martyrs starport bombings, Imperial forces attacked the Neo-Marlinists in Mudhrid, defeating them in battle. The survivors fled to the Hyades Sector RO-P b6-2 system, where Senator Lorcan Scordato negotiated a conditional amnesty: the Landgrave of Mudhrid and his inner circle would cooperate with ACT in exchange for life imprisonment.
+
+In April 3307, leaked information from Neo-Marlinist survivors falsely claimed that Imperator Hadrian Duval of Nova Imperium was the NMLA mastermind, alleging that the Order had transported enzyme bombs and assassins on his direct orders. Although the allegations were never verified, they created a severe crisis of confidence in the Imperial Family and demonstrated Mudhrid's role as both a terrorist stronghold and a source of disinformation that destabilised Imperial politics.

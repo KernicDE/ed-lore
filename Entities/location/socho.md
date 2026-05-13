@@ -50,4 +50,6 @@ Total mentions: **13**
 
 ## Biography
 
-*[To be enriched]*
+Socho is a system that became a focal point of anti-Thargoid military operations in March 3304, when Aegis Core launched a major counter-Thargoid purge following incursions into the core systems. The operation tasked independent pilots with destroying Thargoid vessels and delivering bio-mechanical conduits, propulsion elements, and weapon parts to Dantec Enterprise for comparative analysis between Scout and Interceptor variants.
+
+The Socho operation exemplified the early phase of humanity's militarised response to the Thargoids, in which Aegis sought to understand alien biology and technology by systematically collecting and analysing debris from destroyed vessels. Socho's location in the core systems made it a strategically significant testing ground for coordinated anti-xeno tactics before the conflict escalated into full-scale war across multiple nebulae.

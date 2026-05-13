@@ -28,4 +28,6 @@ Total mentions: **11**
 
 ## Biography
 
-*[To be enriched]*
+Barnabas Cole was the leader of the Children of Tothos, an apocalyptic cult that seized Archambault Terminal in early 3305 and threatened to detonate a nuclear weapon known as the Lucifer Device. Cole orchestrated a campaign of mass-sacrifice ceremonies intended to summon the deity Tothos by killing millions of starport inhabitants.
+
+In April 3305, as Cole prepared to activate the Lucifer Device, he was shot dead by Senior Agent Rochelle Karim of the Federal Intelligence Agency, who had infiltrated the cult by posing as a worshipper. The FIA's deep-cover operation — which included staging the death of a team member to gain access — successfully disarmed the device and arrested Cole's acolytes. The Children of Tothos incident demonstrated both the lethal threat posed by apocalyptic cults and the effectiveness of intelligence infiltration in preventing mass-casualty terrorism.

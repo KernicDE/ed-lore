@@ -39,4 +39,6 @@ Total mentions: **12**
 
 ## Biography
 
-*[To be enriched]*
+Mastopolos Mining is an Imperial mining and transportation conglomerate historically dominated by Senator Zemina Torval as its majority shareholder. For decades, Torval's personal control shaped the corporation's expansion and governance, making it an extension of her political and economic influence within the Empire.
+
+In October 3307, the board of directors passed a resolution removing Torval from their number and selling over half of her shares, drastically reducing her personal influence. Gabriella Mastopolos — the corporation's namesake — orchestrated the coup, which Torval reportedly accepted with minimal resistance. Observers speculated that Torval redirected the capital into Torval-Mastopolos Mining, a subsidiary run by her daughter Constantia, which was subsequently elected as the controlling authority of LTT 198. The episode exposed the fragility of Imperial corporate power structures when dynastic control clashes with boardroom independence.

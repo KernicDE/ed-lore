@@ -40,4 +40,6 @@ Total mentions: **13**
 
 ## Biography
 
-*[To be enriched]*
+Deep Space Surveys is an exploration-focused organisation that has supported major long-range expeditions into the galactic wilderness. The group was a partner in the Distant Worlds II initiative of 3305, which aimed to construct humanity's first starport in the Galactic Centre region — a permanent orbital facility near Sagittarius A* to enable sustained scientific observation of the supermassive black hole.
+
+Working alongside the Omega Mining Corporation and expedition leader Erimus Kamzel, Deep Space Surveys helped coordinate the industrial and scientific logistics of building civilian infrastructure at the farthest reaches of human exploration. The organisation represents the collaborative spirit of the explorer community, bridging the gap between recreational deep-space travel and serious scientific endeavour in the uncharted regions of the galaxy.

@@ -28,4 +28,6 @@ Total mentions: **11**
 
 ## Biography
 
-*[To be enriched]*
+Solomon Helios is an entertainment journalist who covers Imperial court politics and celebrity gossip, with a particular focus on Princess Aisling Duval's romantic life. In mid-3304, Helios secured exclusive coverage of Aisling's diplomatic functions with Federal Ambassador Jordan Rochester, correctly identifying Vice Admiral Juno Rochester as a potential "future in-law" before the engagement was announced.
+
+Helios's reporting on the Aisling-Rochester romance combined entertainment journalism with genuine political insight, speculating on whether Emperor Arissa Lavigny-Duval and President Hudson would attend the wedding or intervene to prevent the union. His commentary on the cancelled wedding in August 3304 — noting the political earthquake it caused — demonstrated that Imperial entertainment media could shape public perception of superpower diplomacy.

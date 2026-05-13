@@ -39,4 +39,6 @@ Total mentions: **15**
 
 ## Biography
 
-*[To be enriched]*
+Taurus Mining Ventures is a corporate faction that became a key logistical partner in the anti-xeno effort during the Thargoid conflicts of the late 3300s. The company operated the megaship Bright Sentinel, which deployed to threatened systems to distribute Guardian-hybrid technology and material discounts to independent pilots fighting Thargoid incursions. In April 3307, the firm served as the delivery point for encrypted logs recovered from the Hesperus megaship by pilots working for the anonymous scientist known as Salvation.
+
+The company's alliance with Salvation placed it at the centre of one of the most controversial developments in the Thargoid war. While Taurus Mining Ventures provided essential support to anti-xeno squadrons, its association with a figure whose superweapons escalated the conflict drew criticism from Aegis leaders such as Admiral Aden Tanner. The megaship's movements tracked the shifting frontlines of the Thargoid invasion, making Taurus Mining Ventures a symbol of corporate improvisation filling gaps left by crippled superpower institutions.

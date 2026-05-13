@@ -39,4 +39,6 @@ Total mentions: **12**
 
 ## Biography
 
-*[To be enriched]*
+The Merope Expeditionary Fleet is an Imperial military force tasked with expanding Imperial presence in the Pleiades Nebula during the early meta-alloy rush. In September 3302, the fleet initiated construction of a forward operating base in the Pleiades Sector AB-W B2-4 system to counter Federal attempts to monopolise meta-alloy sources around the barnacle sites.
+
+The fleet placed open orders for power generators, tantalum and auto-fabricators at Obsidian Orbital in the Maia system, inviting pilots to contribute to the Imperial build-out. Its operations represented the Empire's strategic effort to match Federal expansion into the Pleiades during the initial Thargoid contact era, positioning Imperial forces to secure meta-alloy resources before superpower tensions escalated into full-scale conflict.

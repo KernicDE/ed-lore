@@ -37,4 +37,6 @@ Total mentions: **14**
 
 ## Biography
 
-*[To be enriched]*
+Eol Prou RS-T d3-94 is a system in the Eol Prou AA-A H89 Nebula that became the birthplace of the Colonia region in 3302. The system was the landing site of Jaques Station, the legendary mobile starport, after its disastrous attempt to jump to Beagle Point resulted in hyperdiction by Thargoids and severe technical damage. Commander Cly discovered the stranded station in June 3302, confirming that Jaques had survived but was suffering from Unknown Artefact-related interference.
+
+The discovery triggered a massive community rescue and repair effort, followed by the decision to establish permanent settlement in the region. Eol Prou RS-T d3-94 thus transformed from an obscure nebula system into the anchor point for one of humanity's most successful deep-space colonisation projects. The system's history illustrates both the perils of Thargoid interference with human technology and the resilience of independent pilots in turning catastrophe into opportunity.

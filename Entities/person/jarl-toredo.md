@@ -28,4 +28,6 @@ Total mentions: **11**
 
 ## Biography
 
-*[To be enriched]*
+Jarl Toredo is a former slave and anti-slavery activist who led the independent charity Universal Liberty before merging it with Princess Aisling Duval's campaign to form Unchain in June 3304. Born into slavery — his parents died while still enslaved — Toredo brought grassroots credibility to the anti-slavery movement that complemented Aisling's royal platform.
+
+The merger created a powerful unified organisation within the Empire, with Toredo publicly demanding the abolition of legal slavery across Imperial space. When asked about rumours of a romance with Princess Duval, Toredo deflected by noting that "Her Highness's attention is focused elsewhere" — a prescient observation given Aisling's concurrent relationship with Federal Ambassador Jordan Rochester. By August 3304, Toredo had resigned from Unchain, though his brief leadership demonstrated that Imperial slavery reform could bridge aristocratic and abolitionist movements.

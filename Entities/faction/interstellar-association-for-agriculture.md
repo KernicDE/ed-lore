@@ -38,4 +38,6 @@ Total mentions: **12**
 
 ## Biography
 
-*[To be enriched]*
+The Interstellar Association for Agriculture (IAA) is a regulatory body overseeing galactic food production and agronomic standards. In late 3305, the IAA played a central role in containing the devastating blight pathogen that threatened mass starvation across multiple systems after Rockforth Corporation distributed contaminated EX7 fertiliser.
+
+The IAA coordinated the mass production and distribution of an agronomic treatment that successfully cured the blight, saving farming communities in Diso, Orerve and beyond. In the aftermath, the Association pledged to intensify screening regulations to prevent similar contamination crises. The blight scandal exposed vulnerabilities in the interstellar food supply chain and established the IAA as the primary authority for agricultural safety in human space.

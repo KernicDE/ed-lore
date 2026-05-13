@@ -27,4 +27,6 @@ Total mentions: **13**
 
 ## Biography
 
-*[To be enriched]*
+Erik Gunnarson is an investigative journalist with the Wallglass Investigations Agency who specialises in uncovering hidden or forgotten human societies. In 3307, he published a groundbreaking study of the Dredger Clans — nomadic tribes that roam deep space in converted bulk cruisers, scavenging and occasionally raiding to sustain tens of thousands of inhabitants whose cultures have evolved over centuries of isolation.
+
+Gunnarson's research revealed that these dredgers function as generation ships, with each clan hosting distinct societies that have diverged significantly from mainstream galactic culture. His work brought academic legitimacy to what had previously been dismissed as spacer folklore, including childhood nightmares about the Phagos clan's cannibalistic reputation. His article on the dredgers directly preceded the discovery of the Scriveners Clan alongside the Hesperus megaship, validating his thesis that these nomadic societies were not merely surviving but actively pursuing their own agendas in the galaxy's fringes.

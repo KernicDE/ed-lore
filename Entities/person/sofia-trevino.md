@@ -28,4 +28,6 @@ Total mentions: **12**
 
 ## Biography
 
-*[To be enriched]*
+Sofia Trevino is a political journalist for The Federal Times who has covered the major political upheavals of the late 3300s. In September 3307, she reported extensively on the wave of Federal faction secessions triggered by the Proactive Detection Bureau surveillance programme, documenting how minor factions across the Federation were severing ties with the superpower in protest against government monitoring of private communications.
+
+Trevino's journalism has tracked both the Hudson administration's defence of the PDB and Shadow President Felicia Winters's campaign to repeal the Domestic Counter-Terrorism Act. Her reporting highlighted the political cost of the surveillance programme, noting that while Vice President Jerome Archer dismissed the secessions as inconsequential, the rebellion represented an embarrassment for Republican governance and validated Winters's civil liberties arguments. Trevino remains a prominent voice in Federal political commentary.

@@ -37,4 +37,6 @@ Total mentions: **14**
 
 ## Biography
 
-*[To be enriched]*
+Emerald is the home planet of Princess Aisling Duval and a significant location within the Empire. As the base of operations for the People's Princess, Emerald has hosted numerous political and cultural events, including the unveiling of the Prism's Shades art installation — which Aisling toured with Federal Ambassador Jordan Rochester in 3304, fuelling speculation about a potential Imperial-Federal romantic alliance.
+
+The planet's association with Aisling has made it a symbol of her particular blend of aristocratic privilege and progressive anti-slavery advocacy. While Emerald lacks the political weight of Capitol or Achenar, its cultural significance as Aisling Duval's residence ensures it remains a site of media fascination and Imperial court gossip. The planet represents the softer, more cosmopolitan face of Imperial power in contrast to the military austerity of the core Duval systems.

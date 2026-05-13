@@ -26,4 +26,6 @@ Total mentions: **12**
 
 ## Biography
 
-*[To be enriched]*
+Kay Volantyne is an Arch-Corsair of the Kumo Council who has represented the Kumo Crew's interests in the galaxy's highest-stakes gambling circles. In 3307, she was identified as a regular participant in Jokers' Deck — an exclusive casino for the super-rich organised by multi-billionaire Lexi October. Volantyne was observed at the roue mortelle tables competing against Zachary Rackham, alongside fellow Kumo Council member Trask.
+
+Her presence in these elite social circles illustrates the complex status of the Kumo Crew under Archon Delaine's leadership: simultaneously a pirate confederation preying on shipping lanes and a political entity whose representatives mingle with senators, ambassadors, and corporate titans. Volantyne's activities suggest that the Kumo Council has evolved beyond simple piracy into a sophisticated power broker that uses wealth and social access to protect its territorial and commercial interests.

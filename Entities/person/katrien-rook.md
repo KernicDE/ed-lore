@@ -29,4 +29,6 @@ Total mentions: **15**
 
 ## Biography
 
-*[To be enriched]*
+Professor Katrien Rook is a leading scientist at Vitadyne Labs who announced a breakthrough in nanomedicine development in December 3304. Her team's pharmaceuticals use nanoscale materials to repair cell damage on a molecular level, with claimed capabilities including accelerated healing of injuries, cure of diseases and infections, and extension of human lifespan by 30 to 50 years through slowed cellular senescence.
+
+The announcement triggered immediate controversy when Simguru Pranav Antal accused Vitadyne of appropriating salvaged Utopian technology. The Interstellar Health Organisation reviewed the data, and in January 3305 Vitadyne admitted the nanomeds were of Utopian origin. The dispute highlighted tensions between corporate research institutions and communal societies over intellectual property, with the IHO ultimately ruling in Vitadyne's favour despite Utopia's objections.

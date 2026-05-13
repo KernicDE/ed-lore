@@ -28,4 +28,6 @@ Total mentions: **16**
 
 ## Biography
 
-*[To be enriched]*
+Lieutenant Inspector Ramesh Thorne is an officer of the Federal Security Service who led the investigation into the spy robot scandal of 3304. The case began when a PA912 administration robot manufactured by Achilles Corporation exposed corporate fraud during a shareholder meeting, and Thorne's inquiry subsequently uncovered dozens of similar robots fitted with concealed surveillance programs targeting prominent Federal citizens.
+
+Thorne's investigation established that the robots' owners included former congressman Morgan Unwin, actor Tomas Turai, and public-relations consultant Anya Blackriver — all of whom had been subjects of exclusives published by the Mars Tribune. The FSS used Thorne's findings to interview Tribune staff and explore links between corporate surveillance and journalistic sourcing, making the case one of the most significant privacy scandals in recent Federal history.

@@ -52,4 +52,6 @@ Total mentions: **13**
 
 ## Biography
 
-*[To be enriched]*
+Kappa Fornacis is a Federal system best known as the ancestral home of the Onionhead narcotic trade. The Kappa Fornacis Farmers Union has cultivated the crop for generations, resisting Federal prohibition efforts with a defiant independence ethos. In 3301, union representative Georgio Algeria publicly declared "you can't stop the crop" as Onionhead sales resumed around Panem, defying President Halsey's administration and provoking demands for military intervention from Shadow President Hudson.
+
+The system's resistance to Federal drug policy made Kappa Fornacis a symbol of the limitations of superpower authority over local agricultural economies. Despite repeated crackdowns, the Farmers Union maintained production by exploiting jurisdictional gaps and the logistical challenges of policing billions of cubic kilometres of space. Kappa Fornacis remains synonymous with the Onionhead conflict — one of the most persistent law enforcement challenges in Federal history.

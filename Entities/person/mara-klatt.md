@@ -28,4 +28,6 @@ Total mentions: **14**
 
 ## Biography
 
-*[To be enriched]*
+Deputy Inspector Mara Klatt is an officer of Alliance Interpol who played a pivotal role in dismantling the League of Reparation terrorist network in 3304. After her predecessor Chief Inspector Kay Kilbride was assassinated by the League, Klatt inherited Kilbride's evidence suggesting that Fleet Admiral Buchanan's murder could only have been arranged by a senior figure within the Alliance Defence Force.
+
+In July 3304, Klatt held a landmark press conference announcing that decrypted League communications had confirmed Rear Admiral Riri McAllister as "Nexus," the terrorist group's central coordinator. She revealed that McAllister had framed Admiral George Varma with false leads and secured McAllister's arrest on conspiracy to commit terrorism charges. Klatt's breakthrough exposed the most senior military betrayal in Alliance history and enabled the taskforce to locate and eradicate two major League enclaves.

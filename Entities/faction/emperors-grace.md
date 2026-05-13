@@ -39,4 +39,6 @@ Total mentions: **15**
 
 ## Biography
 
-*[To be enriched]*
+Emperor's Grace is an Imperial faction based in the HR 706 system with close historical ties to Senator Denton Patreus. In 3301, the faction's leadership was indicted in connection with an attempted poisoning of Emperor Hengist Duval at the Imperial Palace. Princess Arissa Lavigny-Duval's investigators traced assassination funds through Silver Allied Network and Silver Universal Plc to the system, implicating Emperor's Grace in the plot.
+
+The faction initially resisted Arissa's investigation, lodging an official protest with the Senate, but was forced to acquiesce under orders from Patreus himself. Patreus subsequently disavowed knowledge of the conspiracy, though he refused to allow Emperor's Grace members to be removed from HR 706. The scandal damaged Patreus's power base and intensified the Imperial succession crisis, while Emperor's Grace remains a cautionary example of how regional factions can become entangled in high-level court intrigue.

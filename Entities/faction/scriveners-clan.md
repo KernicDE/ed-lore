@@ -38,4 +38,6 @@ Total mentions: **15**
 
 ## Biography
 
-*[To be enriched]*
+The Scriveners Clan is a Dredger Clan — one of the nomadic societies that roam the galaxy in converted bulk cruisers — originally descended from a fleet of research vessels belonging to a long-forgotten academic consortium. Over centuries of isolation, they developed a self-sufficient culture that jealously guards its "Knowledge Core," a vast repository of accumulated data. Their society is organised around scholastic-military ranks including research-sergeants and lector-generals.
+
+In 3307, the Scriveners Clan gained galactic attention when their dredger was discovered alongside the Hesperus megaship in the Perseus Dark Region. They claimed the ancient Azimuth Biochemicals vessel as salvage and stripped its drives, but independent pilots managed to hack four encoded data files from the dredger's antiquated firewalls before upload. The clan later resisted attempts by Orion University to assert ownership over their dredger, with the Advocacy defending their right to remain independent. The Scriveners exemplify how isolation can preserve unique cultures, but also how such groups become targets for institutional claims on their accumulated knowledge.
