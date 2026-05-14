@@ -138,6 +138,7 @@ GARBAGE_ENTITY_IDS: set[str] = {
     "brunel-city", "blenkinsop-hub-in-the-andavandul",
     "buckey-hub",
     "denton", "dublin-citadel-in-the-gateway", "dawes-hub-in-the-achenar",
+    "davis-terminal-in-the-duamta",
 }
 
 LOCATION_BLOCKLIST = {
