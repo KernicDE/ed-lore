@@ -15,6 +15,13 @@ related_entities:
 - cemiess
 bio: 'Krylov Ring in the He Bo is a star system in the Elite Dangerous universe, significant
   from 3307-03-18 to 3307-03-18. '
+distance_to_arrival: 3711
+allegiance: Alliance
+government: Corporate
+economy: Agriculture
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

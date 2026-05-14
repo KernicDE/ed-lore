@@ -15,6 +15,14 @@ related_entities:
 - hip-22460
 bio: 'Bennington''s Rest is a star system in the Elite Dangerous universe, significant
   from 3308-09-12 to 3308-09-29. Associated with Pilots Federation. '
+distance_to_arrival: 332
+allegiance: Independent
+government: Patronage
+economy: Extraction
+second_economy: Extraction
+have_market: true
+have_shipyard: false
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

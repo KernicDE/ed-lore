@@ -15,6 +15,14 @@ related_entities:
 bio: Shifnalport is a starport in the Elite Dangerous universe, significant from 3301-05-11
   to 3301-05-11. Associated with Alliance. An increased supply of Diso Ma Corn has
   been released to markets aboard Shifnalport to stimulate the Old World sector economy.
+distance_to_arrival: 290
+allegiance: Alliance
+government: Cooperative
+economy: Agriculture
+second_economy: Agriculture
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

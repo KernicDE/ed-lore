@@ -16,6 +16,13 @@ bio: Townshend Hub is a star system in the Elite Dangerous universe, significant
   of Townshend Hub welcomed the attention but regretted she would not visit Alioth.
 system: 78 Ursae Majoris
 station_type: Orbital Station
+distance_to_arrival: 254
+allegiance: Alliance
+government: Confederacy
+economy: Agriculture
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

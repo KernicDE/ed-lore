@@ -18,6 +18,13 @@ bio: Kanai Enterprise is a star system in the Elite Dangerous universe, signific
   Imperial Enterprises successfully completed its campaign to build a Bowman-class
   science vessel. Angeli Imperial Enterprises has announced the Rekohu Project to
   build a Bowman-class science vessel.
+distance_to_arrival: 274.331972
+allegiance: Empire
+government: Feudal
+economy: Industrial
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

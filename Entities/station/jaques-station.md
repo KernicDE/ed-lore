@@ -19,6 +19,14 @@ bio: 'Jaques Station is a starport in Elite Dangerous, significant from 3302-05-
   who delivered living matter extracted from space-dwelling organisms.'
 system: Colonia
 station_type: Orbis Starport
+distance_to_arrival: 1011
+allegiance: Independent
+government: Cooperative
+economy: High Tech
+second_economy: Tourism
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

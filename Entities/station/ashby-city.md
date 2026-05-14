@@ -15,6 +15,14 @@ bio: A starport in Luyten's Star, Ashby City was repeatedly mentioned between 33
   and 3307 for reports of reckless pilot activity in its docking bays.
 system: Luyten's Star
 station_type: Orbital Station
+distance_to_arrival: 297
+allegiance: Federation
+government: Corporate
+economy: Industrial
+second_economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

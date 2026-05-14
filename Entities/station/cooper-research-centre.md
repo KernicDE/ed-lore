@@ -16,6 +16,13 @@ bio: Cooper Research Centre is a star system in the Elite Dangerous universe, si
   Edmund Mahon announces the completion of the Cooper Research Centre outpost in HIP
   19072. The station will serve scientific research and bolster Alliance reconnaissance
   capabilities on the fringes of inhabited space.
+distance_to_arrival: 1497.77439
+allegiance: Independent
+government: Patronage
+economy: Service
+have_market: true
+have_shipyard: false
+have_outfitting: false
 ---
 
 <!-- AUTO-GENERATED -->

@@ -15,6 +15,14 @@ bio: An orbital station in the Quivira system, Godel Dock became the unlikely he
   of a popular resistance movement against Imperial debt reclamation.
 system: Quivira
 station_type: Orbital Station
+distance_to_arrival: 2620
+allegiance: Empire
+government: Corporate
+economy: Industrial
+second_economy: Extraction
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

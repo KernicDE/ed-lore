@@ -18,6 +18,14 @@ bio: 'Skvortsov Orbital is a starport in Elite Dangerous, significant from 3302-
   through the application of meta-alloys.'
 system: 63 G. Capricorni
 station_type: Orbital Station
+distance_to_arrival: 557
+allegiance: Independent
+government: Anarchy
+economy: Agriculture
+second_economy: Agriculture
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

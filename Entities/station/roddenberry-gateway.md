@@ -17,6 +17,13 @@ bio: Roddenberry Gateway is a star system in the Elite Dangerous universe, signi
   from 3301-07-23 to 3301-07-23. Fresh Cerberus Plague cases caused mass panic at
   Shepherd Hub in Bastes, Yegorov Station in Maheou Ti, and Roddenberry Gateway in
   Ochoeng.
+distance_to_arrival: 484.553252
+allegiance: Independent
+government: Democracy
+economy: Agriculture
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

@@ -18,6 +18,13 @@ bio: London Relay is a star system in the Elite Dangerous universe, significant 
   with the upcoming security summit.
 system: Epsilon Indi
 station_type: Orbital Station
+distance_to_arrival: 684
+allegiance: Federation
+government: Corporate
+economy: Agriculture
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

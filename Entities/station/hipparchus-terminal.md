@@ -15,6 +15,13 @@ bio: Hipparchus Terminal is a star system in the Elite Dangerous universe, signi
   has placed an open order for titanium, semiconductors and power generators for delivery
   to Hipparchus Terminal in the Kpelidoog system. Pilots delivered construction materials
   to Hipparchus Terminal in the Kpelidoog system.
+distance_to_arrival: 225.787211
+allegiance: Empire
+government: Patronage
+economy: Industrial
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

@@ -12,6 +12,14 @@ related_entities:
 - i-carinae
 bio: 'Somerset Station is a starport in the Elite Dangerous universe, significant
   from 3303-10-06 to 3303-10-13. Associated with Secret Billionaires. '
+distance_to_arrival: 1353.214907
+allegiance: Independent
+government: Corporate
+economy: Agriculture
+second_economy: Agriculture
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

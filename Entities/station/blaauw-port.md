@@ -18,6 +18,14 @@ bio: Blaauw Port is a starport in the Elite Dangerous universe, significant from
   Dawn has issued open contracts for commodities to be delivered to specific starports.
   Battle Weapons go to Saarinen Station in Kamcha, Ceremonial Heike Tea to Sikorsky
   Orbital in Jang Di, and Toxic Waste to Blaauw Port in Dinkas.
+distance_to_arrival: 83633.92409
+allegiance: Independent
+government: Cooperative
+economy: Industrial
+second_economy: Extraction
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

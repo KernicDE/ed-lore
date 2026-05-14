@@ -15,6 +15,14 @@ related_entities:
 - federal-navy
 bio: 'Clement Orbital is a starport in the Elite Dangerous universe, significant from
   3309-05-02 to 3309-05-09. Associated with Aegis. '
+distance_to_arrival: 1231
+allegiance: Independent
+government: Feudal
+economy: High Tech
+second_economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

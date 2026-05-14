@@ -17,6 +17,13 @@ bio: 'Saunders''s Dive is a system in Elite Dangerous, significant from 3301-12-
   Artefact-related interference have been restored through the application of meta-alloys.'
 system: Wolf 1301
 station_type: Orbital Station
+distance_to_arrival: 852
+allegiance: Independent
+government: Democracy
+economy: High Tech
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

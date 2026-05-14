@@ -18,6 +18,14 @@ bio: Leif Enterprise is a star system in the Elite Dangerous universe, significa
   to restore and expand Leif Enterprise, an asteroid base. Founder Autumn Leif stated
   they hope to reinforce the superstructure with meta-alloys to make it resistant
   to Thargoid Sensor effects.
+distance_to_arrival: 2558
+allegiance: Independent
+government: Cooperative
+economy: Extraction
+second_economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

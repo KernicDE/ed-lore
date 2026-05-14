@@ -14,6 +14,14 @@ bio: Dove Enigma is a star system in the Elite Dangerous universe, significant f
   of Commander DoveEnigma13 and is the destination of the Enigma Expedition.
 system: Colonia
 station_type: Orbital Station
+distance_to_arrival: 3866
+allegiance: Independent
+government: Cooperative
+economy: Extraction
+second_economy: Industrial
+have_market: true
+have_shipyard: false
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

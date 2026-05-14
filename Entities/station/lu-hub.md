@@ -16,6 +16,13 @@ bio: Lu Hub is a star system in the Elite Dangerous universe, significant from 3
   are invited to aid these crews via Lu Hub and Fincke Depot.
 system: Gandii
 station_type: Orbital Station
+distance_to_arrival: 3591
+allegiance: Federation
+government: Democracy
+economy: Industrial
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

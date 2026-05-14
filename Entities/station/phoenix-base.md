@@ -19,6 +19,14 @@ bio: 'Phoenix Base is a outpost in Elite Dangerous, significant from 3302-12-02 
   President without executive powers, Sirius Corporatio...'
 system: Meene
 station_type: Planetary Port
+distance_to_arrival: 2232
+allegiance: Independent
+government: Workshop (Engineer)
+economy: Colony
+second_economy: Colony
+have_market: true
+have_shipyard: false
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

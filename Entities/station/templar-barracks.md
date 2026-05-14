@@ -17,6 +17,13 @@ bio: Templar Barracks is a star system in the Elite Dangerous universe, signific
   Templar Barracks in the Randgnid system.
 system: Randgnid
 station_type: Orbital Station
+distance_to_arrival: 474
+allegiance: Independent
+government: Patronage
+economy: Military
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

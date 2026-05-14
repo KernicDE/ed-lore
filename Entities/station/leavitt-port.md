@@ -16,6 +16,14 @@ bio: Leavitt Port is a starport in the Elite Dangerous universe, significant fro
   for deliveries to Leavitt Port in the Bhagui system. Hundreds of pilots delivered
   commodities to Leavitt Port and protected traders in the Bhagui system, allowing
   the festival to proceed.
+distance_to_arrival: 5036.144239
+allegiance: Federation
+government: Corporate
+economy: Industrial
+second_economy: Extraction
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

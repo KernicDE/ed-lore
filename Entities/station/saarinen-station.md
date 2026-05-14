@@ -17,6 +17,13 @@ bio: Saarinen Station is a starport in the Elite Dangerous universe, significant
   3301-08-20 to 3301-08-20. Associated with Emperor's Dawn. Battle Weapons go to Saarinen
   Station in Kamcha, Ceremonial Heike Tea to Sikorsky Orbital in Jang Di, and Toxic
   Waste to Blaauw Port in Dinkas.
+distance_to_arrival: 29
+allegiance: Independent
+government: Cooperative
+economy: Agriculture
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

@@ -17,7 +17,13 @@ bio: Jackson’s Lighthouse is a star system in the Elite Dangerous universe, si
   from 3301-08-10 to 3301-08-10. Associated with Judas Syndicate, Federal State Police.
   She and the Dragon Queen were last seen heading for Jackson’s Lighthouse, possibly
   pursuing the notorious Red Hourglass.
+coords:
+  x: 157
+  y: -27
+  z: -70
+edsm_url: https://www.edsm.net/en/system/id/15897/name/Jackson%27s+Lighthouse
 ---
+
 
 <!-- AUTO-GENERATED -->
 

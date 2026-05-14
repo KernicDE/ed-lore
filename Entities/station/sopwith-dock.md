@@ -15,6 +15,13 @@ bio: Sopwith Dock is a starport in the Elite Dangerous universe, significant fro
   for thorium, indium, and superconductors to be delivered to Sopwith Dock. Vast quantities
   of thorium, indium, and superconductors were delivered to Sopwith Dock in the HIP
   16038 system.
+distance_to_arrival: 847.831681
+allegiance: Independent
+government: Corporate
+economy: Industrial
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

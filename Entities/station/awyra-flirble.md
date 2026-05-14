@@ -19,6 +19,13 @@ bio: Awyra Flirble is a star system in the Elite Dangerous universe, significant
   Maia for Palin. Huge quantities were delivered to Awyra Flirble and Obsidian Orbital
   and will now be passed to engineers Liz Ryder and Ishmael Palin to develop new anti-Thargoid
   technologies.
+distance_to_arrival: 1679
+allegiance: Independent
+government: Anarchy
+economy: High Tech
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

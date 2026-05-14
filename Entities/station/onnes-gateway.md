@@ -19,6 +19,13 @@ bio: Onnes Gateway is a star system in the Elite Dangerous universe, significant
   obtaining housing or employment.
 system: LFT 37
 station_type: Orbital Station
+distance_to_arrival: 281
+allegiance: Independent
+government: Democracy
+economy: Industrial
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

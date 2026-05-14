@@ -14,6 +14,13 @@ bio: Pilkington Orbital is a starport in the Elite Dangerous universe, significa
   from 3303-12-08 to 3303-12-16. Associated with Colonia Council. Scores of pilots
   delivered materials to Pilkington Orbital and eliminated agitators in the Einheriar
   system to support immigrants fleeing the Thargoid threat.
+distance_to_arrival: 1011
+allegiance: Independent
+government: Democracy
+economy: Agriculture
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

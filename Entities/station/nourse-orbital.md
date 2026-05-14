@@ -20,6 +20,13 @@ bio: Nourse Orbital is a starport in the Elite Dangerous universe, significant f
   Andromedae.
 system: Lambda Andromedae
 station_type: Orbital Station
+distance_to_arrival: 746
+allegiance: Independent
+government: Corporate
+economy: Agriculture
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

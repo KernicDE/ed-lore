@@ -17,6 +17,14 @@ bio: Cantor Terminal is a star system in the Elite Dangerous universe, significa
   from 3301-07-23 to 3301-07-23. Associated with Newton Dock Medical. The Cerberus
   Plague has reached Hart Station in Bast, Hoard Orbital in Una, and Cantor Terminal
   in Santjalan.
+distance_to_arrival: 452
+allegiance: Independent
+government: Cooperative
+economy: High Tech
+second_economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

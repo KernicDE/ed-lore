@@ -18,6 +18,13 @@ bio: Tsunenaga Dock is a starport in the Iapodes system that experienced mysteri
   avoided the full suspension of services seen at other ports.
 system: Iapodes
 station_type: Orbital Station
+distance_to_arrival: 226
+allegiance: Independent
+government: Democracy
+economy: Terraforming
+have_market: true
+have_shipyard: false
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

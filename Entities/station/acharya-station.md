@@ -12,6 +12,14 @@ bio: 'Acharya Station is a starport in the Elite Dangerous universe, significant
   3303-02-23 to 3303-03-02. Associated with Alliance. '
 system: Rahu
 station_type: Orbital Station
+distance_to_arrival: 1843
+allegiance: Alliance
+government: Confederacy
+economy: Refinery
+second_economy: Extraction
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

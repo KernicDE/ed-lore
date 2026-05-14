@@ -15,6 +15,13 @@ bio: Vonarburg Co-operative is a star system in the Elite Dangerous universe, si
   from 3303-10-06 to 3303-10-13. Associated with Aegis, Wyrd Jet Power Industries.
   Aegis's third campaign concluded successfully with huge quantities of materials
   delivered to Vonarburg Co-operative.
+distance_to_arrival: 818
+allegiance: Independent
+government: Corporate
+economy: Agriculture
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

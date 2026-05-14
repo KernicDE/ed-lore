@@ -15,6 +15,14 @@ related_entities:
 - crown-terminal
 bio: 'Artsebarsky Gateway is a star system in the Elite Dangerous universe, significant
   from 3301-07-22 to 3301-07-22. '
+distance_to_arrival: 5714.463882
+allegiance: Independent
+government: Dictatorship
+economy: Industrial
+second_economy: Refinery
+have_market: true
+have_shipyard: false
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

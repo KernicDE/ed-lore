@@ -19,6 +19,14 @@ bio: Stapledon Dock is a starport in the Elite Dangerous universe, significant f
   Plc back to Stapledon Dock, reigniting the war with no quarter offered.
 system: Quivira
 station_type: Orbital Station
+distance_to_arrival: 28891.832648
+allegiance: Empire
+government: Corporate
+economy: Extraction
+second_economy: Industrial
+have_market: false
+have_shipyard: false
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

@@ -14,6 +14,13 @@ related_entities:
 - parutis
 bio: 'Evans Port is a starport in the Elite Dangerous universe, significant from 3303-02-23
   to 3303-02-23. Associated with Buckyball Racing Club. '
+distance_to_arrival: 302
+allegiance: Independent
+government: Cooperative
+economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

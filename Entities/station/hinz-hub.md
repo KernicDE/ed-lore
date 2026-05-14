@@ -15,6 +15,14 @@ bio: An orbital station in the Ngobe system affected by the technological plague
   swept across inhabited space in early 3302.
 system: Ngobe
 station_type: Orbital Station
+distance_to_arrival: 418
+allegiance: Independent
+government: Democracy
+economy: Extraction
+second_economy: Extraction
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

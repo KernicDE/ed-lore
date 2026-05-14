@@ -12,6 +12,14 @@ related_entities:
 - imperial-palace
 bio: 'Simpson Depot is a star system in the Elite Dangerous universe, significant
   from 3301-04-03 to 3301-04-03. Associated with Imperial Palace. '
+distance_to_arrival: 348
+allegiance: Empire
+government: Patronage
+economy: Military
+second_economy: Extraction
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

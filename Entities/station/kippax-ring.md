@@ -13,6 +13,13 @@ related_entities:
 - sagittarius-carina-arm
 bio: 'Kippax Ring is a star system in the Elite Dangerous universe, significant from
   3302-04-24 to 3302-04-24. Associated with First Great Expedition. '
+distance_to_arrival: 238
+allegiance: Independent
+government: Cooperative
+economy: Agriculture
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

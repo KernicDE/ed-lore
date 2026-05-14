@@ -16,6 +16,14 @@ related_entities:
 bio: 'Jones Orbital is a starport in the Elite Dangerous universe, significant from
   3301-07-16 to 3301-07-16. Associated with Adle''s Armada, Hammer Arms, League of
   Hel. '
+distance_to_arrival: 3077
+allegiance: Independent
+government: Cooperative
+economy: Industrial
+second_economy: Extraction
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

@@ -18,6 +18,14 @@ bio: Smith Landing is a star system in the Elite Dangerous universe, significant
   to be delivered to Smith Landing in the Amber system. Huge quantities of Esuseku
   Caviar, Ceremonial Heike Tea, and Live Hecate Sea Worms were delivered to Smith
   Landing.
+distance_to_arrival: 7
+allegiance: Alliance
+government: Confederacy
+economy: Refinery
+second_economy: Extraction
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

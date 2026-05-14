@@ -14,6 +14,14 @@ bio: Patterson Enterprise is a star system in the Elite Dangerous universe, sign
   from 3301-08-04 to 3301-08-04. Associated with Federal Times, Sirius Corporation.
   A Sirius Corporation shuttle was destroyed when its docking computer failed on approach
   to Patterson Enterprise in the Sirius system.
+distance_to_arrival: 4218
+allegiance: Independent
+government: Corporate
+economy: Industrial
+second_economy: Extraction
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

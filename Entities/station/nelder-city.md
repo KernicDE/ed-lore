@@ -12,6 +12,13 @@ bio: An orbital station in the Wangal system, Nelder City became the unlikely co
   site for one of the galaxy's more whimsical community projects.
 system: Wangal
 station_type: Orbital Station
+distance_to_arrival: 267
+allegiance: Empire
+government: Feudal
+economy: Agriculture
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

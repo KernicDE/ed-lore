@@ -16,6 +16,13 @@ bio: Dervish Platform is a star system in the Elite Dangerous universe, signific
   a campaign to establish a new Coriolis starport in the Ogmar system to support further
   expansion in the Colonia region. A huge number of deliveries to Dervish Platform
   will be used to build a new Coriolis starport in the Ogmar system.
+distance_to_arrival: 8
+allegiance: Independent
+government: Democracy
+economy: High Tech
+have_market: true
+have_shipyard: false
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

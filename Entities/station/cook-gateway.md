@@ -14,6 +14,13 @@ related_entities:
 - omicron-capricorni-b
 bio: 'Cook Gateway is a star system in the Elite Dangerous universe, significant from
   3302-09-07 to 3302-09-07. Associated with Buckyball Racing Club, Pilots Federation. '
+distance_to_arrival: 1623
+allegiance: Independent
+government: Feudal
+economy: Industrial
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

@@ -14,6 +14,14 @@ bio: Fraser Orbital is a starport in the Elite Dangerous universe, significant f
   will receive discounts at Fraser Orbital shipyard in addition to financial reimbursements.
 system: LHS 2936
 station_type: Orbital Station
+distance_to_arrival: 21
+allegiance: Alliance
+government: Democracy
+economy: High Tech
+second_economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

@@ -17,6 +17,13 @@ bio: William Sargent Vision is a star system in the Elite Dangerous universe, si
   of Synteini. They urged pilots to do business at William Sargent Vision instead
   of Lagerkvist Gateway to starve the ISA and push Senator Torval out of Synteini.
   Lagerkvist Gateway orbits the second planet; William Sargent Vision orbits the fourth.
+distance_to_arrival: 650
+allegiance: Independent
+government: Dictatorship
+economy: Tourism
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

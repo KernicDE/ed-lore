@@ -17,6 +17,14 @@ bio: Wheelock Ring is a star system in the Elite Dangerous universe, significant
   Ring in the Zavijah system, with a kill order on wanted ships to protect traders.
   Hundreds of pilots delivered commodities to Wheelock Ring in the Zavijah system
   and protected traders from agitators.
+distance_to_arrival: 675
+allegiance: Independent
+government: Corporate
+economy: Industrial
+second_economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

@@ -16,6 +16,14 @@ related_entities:
 bio: Ising Dock is a starport in the Elite Dangerous universe, significant from 3302-05-20
   to 3302-05-20. Ackerman Market, Gabriel Enterprise, Weyn Dock, and Onnes Gateway
   are now fully operational, while other stations remain affected.
+distance_to_arrival: 1924
+allegiance: Independent
+government: Cooperative
+economy: Industrial
+second_economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

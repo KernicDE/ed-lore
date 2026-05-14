@@ -17,6 +17,14 @@ bio: Cowper Dock is a starport in the Elite Dangerous universe, significant from
   to 3304-09-27. Associated with Herculean Machines, Supratech. Herculean Machines
   requests Consumer Technology, Hardware Diagnostic Sensors, and Computer Components
   delivered to Cowper Dock in the Anima system.
+distance_to_arrival: 1094
+allegiance: Empire
+government: Patronage
+economy: Industrial
+second_economy: Industrial
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

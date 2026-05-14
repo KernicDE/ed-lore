@@ -18,6 +18,14 @@ bio: Bobko City is a star system in the Elite Dangerous universe, significant fr
   materials to Bobko City for building defences to protect the Sim-Archive.
 system: Narri
 station_type: Orbital Station
+distance_to_arrival: 414
+allegiance: Independent
+government: Corporate
+economy: Industrial
+second_economy: Extraction
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

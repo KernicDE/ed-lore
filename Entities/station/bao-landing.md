@@ -13,6 +13,14 @@ related_entities:
 - hip-17497
 - hudson-observatory
 - cavalieri
+distance_to_arrival: 1843
+allegiance: Independent
+government: Patronage
+economy: Extraction
+second_economy: Extraction
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

@@ -17,6 +17,13 @@ bio: 'Robigo Mines is a system in Elite Dangerous, significant from 3301-10-22 t
   Artefact-related interference have been restored through the application of meta-alloys.'
 system: Robigo
 station_type: Outpost
+distance_to_arrival: 1077
+allegiance: Independent
+government: Corporate
+economy: Extraction
+have_market: true
+have_shipyard: false
+have_outfitting: false
 ---
 
 <!-- AUTO-GENERATED -->

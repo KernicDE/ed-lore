@@ -15,6 +15,14 @@ bio: Akers Orbital is a starport in the Elite Dangerous universe, significant fr
   3304-06-29 to 3304-06-29. Associated with Blue Creative Company, Fousang security.
   The Blue Creative Company issues a kill order on wanted ships and offers rewards
   for bounty vouchers delivered to Akers Orbital.
+distance_to_arrival: 1780
+allegiance: Federation
+government: Corporate
+economy: Industrial
+second_economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

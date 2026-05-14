@@ -16,6 +16,14 @@ bio: An orbital station in the Paresa system, Dyson City became the reward hub f
   Imperium.
 system: Paresa
 station_type: Orbital Station
+distance_to_arrival: 261
+allegiance: Empire
+government: Patronage
+economy: Agriculture
+second_economy: Agriculture
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

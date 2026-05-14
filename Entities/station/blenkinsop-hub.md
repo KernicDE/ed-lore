@@ -10,6 +10,13 @@ station_type: Starport
 bio: Blenkinsop Hub in the Andavandul is a star system in the Elite Dangerous universe,
   significant from 3308-10-20 to 3308-10-20. Federal Governor Dalton Chase requests
   deliveries to the Andavandul system to establish a xeno-peace envoy vessel.
+distance_to_arrival: 1964.309712
+allegiance: Federation
+government: Corporate
+economy: Industrial
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

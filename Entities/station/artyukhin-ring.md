@@ -18,6 +18,14 @@ bio: Artyukhin Ring is a star system in the Elite Dangerous universe, significan
   Independent Autahenetsi Labour Party. The return of Onionhead to Panem has brought
   prosperity to Kappa Fornacis farmers but crime and piracy to neighbouring systems
   like BD-18 394.
+distance_to_arrival: 839
+allegiance: Empire
+government: Corporate
+economy: Industrial
+second_economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

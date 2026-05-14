@@ -14,6 +14,13 @@ bio: Foster Terminal is a star system in the Elite Dangerous universe, significa
   from 3304-05-18 to 3304-05-25. Associated with Colonia Co-operative. The Colonia
   Co-operative is asking pilots to deliver specialised microresources to Foster Terminal
   in the Coeus system to support this infrastructure research.
+distance_to_arrival: 2294
+allegiance: Independent
+government: Corporate
+economy: Service
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

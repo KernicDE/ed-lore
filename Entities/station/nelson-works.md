@@ -14,6 +14,13 @@ related_entities:
 - dahan
 bio: 'Nelson Works is a star system in the Elite Dangerous universe, significant from
   3301-12-21 to 3301-12-21. Associated with Canonn Interstellar Research Group. '
+distance_to_arrival: 464
+allegiance: Independent
+government: Corporate
+economy: Industrial
+have_market: true
+have_shipyard: false
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

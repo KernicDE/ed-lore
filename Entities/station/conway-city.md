@@ -15,6 +15,14 @@ bio: Conway City is a star system in the Elite Dangerous universe, significant f
   system.
 system: LTT 4961
 station_type: Orbital Station
+distance_to_arrival: 22
+allegiance: Independent
+government: Democracy
+economy: High Tech
+second_economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

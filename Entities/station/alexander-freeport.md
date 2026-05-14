@@ -15,6 +15,13 @@ bio: A starport in the Eravate system, Alexander Freeport was among the stations
   by the technological plague in early 3302.
 system: HIP 18843
 station_type: Outpost
+distance_to_arrival: 9764.807929
+allegiance: Independent
+government: Cooperative
+economy: Extraction
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

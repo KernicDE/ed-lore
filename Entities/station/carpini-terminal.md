@@ -12,6 +12,13 @@ bio: 'Carpini Terminal is a star system in the Elite Dangerous universe, signifi
   from 3303-06-09 to 3303-06-16. Associated with Knights of Karma. '
 system: Qa'wakana
 station_type: Orbital Station
+distance_to_arrival: 2506
+allegiance: Independent
+government: Feudal
+economy: Agriculture
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

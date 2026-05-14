@@ -16,6 +16,13 @@ bio: A starport in the Uibuth system, D'Arrest Station became the destination fo
   Guild in 3302.
 system: Uibuth
 station_type: Orbital Station
+distance_to_arrival: 638.321402
+allegiance: Independent
+government: Communism
+economy: Terraforming
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

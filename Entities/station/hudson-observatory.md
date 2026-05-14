@@ -13,6 +13,14 @@ related_entities:
 - hip-17497
 - cavalieri
 - bao-landing
+distance_to_arrival: 1662
+allegiance: Independent
+government: Patronage
+economy: High Tech
+second_economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

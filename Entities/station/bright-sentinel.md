@@ -19,6 +19,13 @@ bio: 'Bright Sentinel is a system in Elite Dangerous, significant from 3308-06-3
   in HIP 22460 to support Proteus Wave construction and def...'
 system: HIP 22460
 station_type: Megaship
+distance_to_arrival: 574
+allegiance: Independent
+government: Corporate
+economy: Industrial
+have_market: false
+have_shipyard: false
+have_outfitting: false
 ---
 
 <!-- AUTO-GENERATED -->

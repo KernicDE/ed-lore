@@ -15,6 +15,13 @@ related_entities:
 bio: Laming Orbital is a starport in the Elite Dangerous universe, significant from
   3301-04-24 to 3301-04-24. Associated with Silver Allied Network, Silver Universal
   PLC. Pilots can report for active duty aboard Laming Orbital.
+distance_to_arrival: 628
+allegiance: Empire
+government: Patronage
+economy: Agriculture
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

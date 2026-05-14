@@ -16,6 +16,13 @@ related_entities:
 bio: 'Brundage City is a star system in the Elite Dangerous universe, significant
   from 3304-07-20 to 3304-07-27. Associated with Ienpalang Corporation, Zibal Power
   Co. '
+distance_to_arrival: 625
+allegiance: Independent
+government: Cooperative
+economy: Agriculture
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

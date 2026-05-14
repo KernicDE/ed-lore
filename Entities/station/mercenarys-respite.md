@@ -17,6 +17,13 @@ bio: Mercenary's Respite is a star system in the Elite Dangerous universe, signi
   from 3301-06-08 to 3301-06-08. Associated with Law Party of HR 7327, Dukes of Mikunn.
   The Dukes of Mikunn opened Mercenary's Respite, a new Coriolis station in COL 285
   Sector VG-1 B24-6, renamed 'Sefrys' in honour of a fallen Mercs commander.
+distance_to_arrival: 894.820301
+allegiance: Independent
+government: Feudal
+economy: Military
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

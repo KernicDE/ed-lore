@@ -12,6 +12,14 @@ bio: 'Carlisle Station is a starport in the Elite Dangerous universe, significan
   from 3303-03-23 to 3303-03-30. Associated with Union of Lidpar Green Party. '
 system: Lidpar
 station_type: Orbital Station
+distance_to_arrival: 985
+allegiance: Independent
+government: Democracy
+economy: High Tech
+second_economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

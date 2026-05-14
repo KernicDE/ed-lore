@@ -15,6 +15,14 @@ related_entities:
 - pre-logistics-support-beta
 bio: 'Orcus Crag is a star system in the Elite Dangerous universe, significant from
   3304-03-02 to 3304-03-04. Associated with Empire. '
+distance_to_arrival: 34
+allegiance: Empire
+government: Patronage
+economy: Industrial
+second_economy: Extraction
+have_market: true
+have_shipyard: false
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

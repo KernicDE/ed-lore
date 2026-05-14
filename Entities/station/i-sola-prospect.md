@@ -19,6 +19,13 @@ bio: i Sola Prospect is a star system in the Elite Dangerous universe, significa
   to upgrade the station.
 system: Brestla
 station_type: Planetary Port
+distance_to_arrival: 15
+allegiance: Empire
+government: Patronage
+economy: Colony
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

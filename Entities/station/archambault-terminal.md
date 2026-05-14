@@ -10,9 +10,14 @@ bio: Archambault Terminal is a starport in the Gottena system. In October 3304, 
   nuclear device unless their demands were met.
 system: Chun Tstar
 station_type: Orbital Station
+distance_to_arrival: 13
+allegiance: Empire
+government: Patronage
+economy: Extraction
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
-
-
 
 # Archambault Terminal
 

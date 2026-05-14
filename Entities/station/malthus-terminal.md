@@ -11,6 +11,14 @@ related_entities:
 - pleiades-sector-kc-v-c2-11
 - pleiades-sector-hr-w-d1-41
 - kipling-orbital
+distance_to_arrival: 922
+allegiance: Independent
+government: Cooperative
+economy: Refinery
+second_economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

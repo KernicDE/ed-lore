@@ -16,6 +16,14 @@ related_entities:
 bio: Beaufoy Vision is a star system in the Elite Dangerous universe, significant
   from 3304-06-22 to 3304-06-24. Carter Armstrong of Aegis Core announces Armstrong
   Enterprise in the Bhal system and Beaufoy Vision in the Nauni system are now open.
+distance_to_arrival: 1655
+allegiance: Independent
+government: Corporate
+economy: Industrial
+second_economy: Extraction
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

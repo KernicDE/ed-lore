@@ -14,6 +14,14 @@ related_entities:
 bio: Whitworth Station is a starport in the Elite Dangerous universe, significant
   from 3304-11-29 to 3304-11-29. Associated with New Loha Party, Loha Holdings. Both
   factions authorise pilots to collect rewards from Whitworth Station.
+distance_to_arrival: 149
+allegiance: Federation
+government: Corporate
+economy: Industrial
+second_economy: Extraction
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

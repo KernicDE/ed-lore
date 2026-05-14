@@ -16,6 +16,13 @@ bio: Godel Ring is a star system in the Elite Dangerous universe, significant fr
   To celebrate the pre-release, NVIDIA is offering a competition where the first five
   pilots to sell a canister of prototypes back to NVIDIA HQ aboard Godel Ring will
   win a commercial grade model.
+distance_to_arrival: 1113
+allegiance: Independent
+government: Cooperative
+economy: Industrial
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

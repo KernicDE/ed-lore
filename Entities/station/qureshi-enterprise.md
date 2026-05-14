@@ -17,6 +17,14 @@ bio: Qureshi Enterprise is a star system in the Elite Dangerous universe, signif
   from 3301-03-25 to 3301-03-25. Associated with Lugh for Equality, Federal Navy,
   Crimson State Group. Congress temporarily withdrew the Federal Navy from Lugh, diverting
   vessels to Qureshi Enterprise in Khaka pending a decision on how to end the conflict.
+distance_to_arrival: 371
+allegiance: Independent
+government: Patronage
+economy: Industrial
+second_economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

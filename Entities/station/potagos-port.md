@@ -17,6 +17,13 @@ bio: Potagos Port is a starport in the Elite Dangerous universe, significant fro
   support resource-extraction operations in the Pleiades. A massive influx of deliveries
   to Potagos Port will be used to build a Dionysus-class Agricultural Vessel to support
   resource-extraction operations in the Pleiades.
+distance_to_arrival: 65
+allegiance: Empire
+government: Feudal
+economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

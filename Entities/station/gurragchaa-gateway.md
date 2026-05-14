@@ -17,6 +17,13 @@ bio: 'Gurragchaa Gateway is a system in Elite Dangerous, significant from 3301-1
   Artefact-related interference have been restored through the application of meta-alloys.'
 system: Warkushanui
 station_type: Coriolis Starport
+distance_to_arrival: 86
+allegiance: Independent
+government: Democracy
+economy: Agriculture
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

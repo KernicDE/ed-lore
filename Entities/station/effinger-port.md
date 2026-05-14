@@ -18,6 +18,14 @@ bio: Effinger Port is a starport in the Elite Dangerous universe, significant fr
   to Effinger Port to donate supplies needed to stop the Blight's spread.
 system: Furbaide
 station_type: Orbital Station
+distance_to_arrival: 2062.419388
+allegiance: Federation
+government: Corporate
+economy: Industrial
+second_economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

@@ -17,6 +17,13 @@ bio: Brady Horizons is a star system in the Elite Dangerous universe, significan
   begin.
 system: Gooheimar
 station_type: Orbital Station
+distance_to_arrival: 6388.427254
+allegiance: Independent
+government: Feudal
+economy: Industrial
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

@@ -2,6 +2,7 @@
 id: lugh-6
 name: Lugh 6
 type: body
+system: Lugh
 first_seen_date: '3301-03-20'
 last_seen_date: '3301-03-20'
 mention_count: 1

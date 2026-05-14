@@ -17,6 +17,13 @@ bio: California Gateway is a star system in the Elite Dangerous universe, signif
   the starport will make travel to the California Nebula safer for traders and colonists.
 system: Synuefai EB-R c7-5
 station_type: Orbital Station
+distance_to_arrival: 1201.624581
+allegiance: Alliance
+government: Dictatorship
+economy: Extraction
+have_market: true
+have_shipyard: false
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

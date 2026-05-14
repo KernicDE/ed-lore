@@ -17,6 +17,13 @@ bio: Leopold Heckmann Ring is a star system in the Elite Dangerous universe, sig
   Racing Club announces its first full-length race of 3303, Tunnel Vision, requiring
   competitors to navigate tunnels at scientific and military installations between
   Malaikudi and Parutis.
+distance_to_arrival: 694
+allegiance: Empire
+government: Patronage
+economy: Industrial
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

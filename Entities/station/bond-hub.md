@@ -19,6 +19,14 @@ bio: 'Bond Hub is a system in Elite Dangerous, significant from 3301-11-02 to 33
   between UA sales ...'
 system: Varati
 station_type: Orbital Station
+distance_to_arrival: 223.586937
+allegiance: Independent
+government: Cooperative
+economy: Industrial
+second_economy: Extraction
+have_market: true
+have_shipyard: false
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

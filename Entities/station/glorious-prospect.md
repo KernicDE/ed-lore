@@ -19,6 +19,13 @@ bio: 'Glorious Prospect is a system in Elite Dangerous, significant from 3308-06
   LHS 157, seeking to rebuild corporate infr...'
 system: LHS 1163
 station_type: Megaship
+distance_to_arrival: 1020.494151
+allegiance: Independent
+government: Corporate
+economy: High Tech
+have_market: true
+have_shipyard: false
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

@@ -16,6 +16,13 @@ bio: A starport in the Eravate system, Ackerman Market was among the first stati
   cooperative restoration.
 system: Eravate
 station_type: Orbital Station
+distance_to_arrival: 273
+allegiance: Federation
+government: Corporate
+economy: Agriculture
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

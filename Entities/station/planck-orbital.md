@@ -16,6 +16,13 @@ related_entities:
 bio: Planck Orbital is a starport in the Elite Dangerous universe, significant from
   3301-07-23 to 3301-07-23. Associated with Alliance Defence Force, Wolf 406 Transport
   Co, Alliance. Bounty bonuses are being paid at Planck Orbital.
+distance_to_arrival: 146
+allegiance: Independent
+government: Corporate
+economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

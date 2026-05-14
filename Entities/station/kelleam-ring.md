@@ -14,6 +14,14 @@ bio: Kelleam Ring is a star system in the Elite Dangerous universe, significant 
   deliveries of reactive armour to Kelleam Ring to bolster security.
 system: Slink's Eye
 station_type: Orbital Station
+distance_to_arrival: 1062
+allegiance: Independent
+government: Feudal
+economy: Industrial
+second_economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

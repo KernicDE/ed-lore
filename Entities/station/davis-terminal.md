@@ -15,6 +15,14 @@ related_entities:
 - cemiess
 bio: 'Davis Terminal in the Duamta is a star system in the Elite Dangerous universe,
   significant from 3307-03-18 to 3307-03-18. '
+distance_to_arrival: 546
+allegiance: Federation
+government: Corporate
+economy: Agriculture
+second_economy: Agriculture
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

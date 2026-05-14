@@ -15,6 +15,14 @@ bio: An orbital station in the CPC 20 6743 system, Lyakhov Dock served as the lo
   hub for Yuri Grom's ambitious capital ship shipyard project in 3304.
 system: CPC 20 6743
 station_type: Orbital Station
+distance_to_arrival: 3220
+allegiance: Independent
+government: Dictatorship
+economy: Industrial
+second_economy: Extraction
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

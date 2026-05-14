@@ -16,6 +16,14 @@ related_entities:
 bio: 'Payne-Scott City is a star system in the Elite Dangerous universe, significant
   from 3307-04-08 to 3307-12-02. Associated with Neo-Marlinist Order of Mudhrid, NMLA,
   Epsilon Fornacis Empire Group. '
+distance_to_arrival: 860
+allegiance: Empire
+government: Corporate
+economy: Industrial
+second_economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

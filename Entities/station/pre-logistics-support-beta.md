@@ -17,6 +17,13 @@ bio: PRE Logistics Support Beta is a starport in the Elite Dangerous universe, s
   from 3304-03-02 to 3304-03-04. Associated with Empire. Scores of independent pilots
   supported the campaign by eliminating Thargoids and recovering black boxes and personal
   effects from Thargoid attack sites.
+distance_to_arrival: 1845.750774
+allegiance: Independent
+government: Patronage
+economy: Military
+have_market: true
+have_shipyard: false
+have_outfitting: false
 ---
 
 <!-- AUTO-GENERATED -->

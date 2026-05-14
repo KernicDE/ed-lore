@@ -15,6 +15,13 @@ bio: Svavarsson Terminal is a star system in the Elite Dangerous universe, signi
   is offering rewards for delivering industrial materials to Svavarsson Terminal.
 system: Apalar
 station_type: Orbital Station
+distance_to_arrival: 440
+allegiance: Independent
+government: Cooperative
+economy: High Tech
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

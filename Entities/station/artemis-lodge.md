@@ -15,6 +15,14 @@ related_entities:
 - electra
 bio: 'Artemis Lodge is a star system in the Elite Dangerous universe, significant
   from 3303-12-02 to 3303-12-02. '
+distance_to_arrival: 46
+allegiance: Independent
+government: Patronage
+economy: Industrial
+second_economy: Industrial
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

@@ -13,10 +13,21 @@ related_entities:
 - sol
 - mars
 - olympus-village
-bio: 'A Federal system with close ties to Core Dynamics and the Sol region, Biggs
-  Colony was the site of Professor Alba Tesreau''s 3308 media forum proposing Aegis
-  reform.'
+bio: A Federal system with close ties to Core Dynamics and the Sol region, Biggs Colony
+  was the site of Professor Alba Tesreau's 3308 media forum proposing Aegis reform.
+distance_to_arrival: 2106
+gravity: 1.1155
+surface_temperature: 316
+terraforming_state: Terraformed
+atmosphere_type: Thick Suitable for water-based life
+volcanism_type: No volcanism
+orbital_period: 1316.0
+semi_major_axis: 4.22
+rotational_period: 1.2152
+radius: 6275.79
+earth_masses: 1.08
 ---
+
 
 <!-- AUTO-GENERATED -->
 

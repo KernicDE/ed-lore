@@ -18,6 +18,14 @@ bio: Meredith City is a star system in the Elite Dangerous universe, significant
   delivered commodities to Meredith City.
 system: LFT 926
 station_type: Orbital Station
+distance_to_arrival: 1627
+allegiance: Independent
+government: Democracy
+economy: High Tech
+second_economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

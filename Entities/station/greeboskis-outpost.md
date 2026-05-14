@@ -17,6 +17,13 @@ bio: Greeboski's Outpost is a outpost in the Elite Dangerous universe, significa
   services and facilities.
 system: Phiagre
 station_type: Outpost
+distance_to_arrival: 85
+allegiance: Independent
+government: Dictatorship
+economy: Industrial
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

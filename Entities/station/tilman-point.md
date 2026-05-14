@@ -17,6 +17,14 @@ bio: Tilman Point is a star system in the Elite Dangerous universe, significant 
   b6-6, killing tens of thousands.
 system: Hyades Sector RO-P b6-6
 station_type: Orbital Station
+distance_to_arrival: 493
+allegiance: Independent
+government: Patronage
+economy: Industrial
+second_economy: Industrial
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

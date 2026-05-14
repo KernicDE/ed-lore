@@ -14,6 +14,13 @@ bio: Levi-Montalcini Dock is a starport in the Elite Dangerous universe, signifi
   from 3304-03-16 to 3304-03-16. Associated with Coalition of Othime. Hundreds of
   pilots delivered commodities to Levi Montalcini Dock and eliminated agitators in
   Othime to ensure trader safety.
+distance_to_arrival: 996.185559
+allegiance: Independent
+government: Anarchy
+economy: Refinery
+have_market: true
+have_shipyard: false
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

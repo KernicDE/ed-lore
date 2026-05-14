@@ -16,6 +16,14 @@ bio: Green Enterprise is a star system in the Elite Dangerous universe, signific
   from 3304-01-05 to 3304-01-12. Associated with Sirius Inc. Hundreds of pilots delivered
   commodities to Green Enterprise in the Ngalia system and eliminated agitators to
   ensure trader safety.
+distance_to_arrival: 24
+allegiance: Independent
+government: Patronage
+economy: Industrial
+second_economy: Extraction
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

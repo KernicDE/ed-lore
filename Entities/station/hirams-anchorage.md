@@ -13,6 +13,13 @@ bio: An orbital station in the Prism system, Hiram's Anchorage serves as the pri
   interests.
 system: Prism
 station_type: Orbital Station
+distance_to_arrival: 279677
+allegiance: Empire
+government: Patronage
+economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

@@ -16,6 +16,13 @@ related_entities:
 bio: Knight Dock is a starport in the Elite Dangerous universe, significant from 3301-03-20
   to 3301-03-20. Associated with Federal Marines, Crimson State Group. The CSG fleet
   has adopted defensive positions around Balandin Gateway and Knight Dock.
+distance_to_arrival: 92
+allegiance: Independent
+government: Corporate
+economy: Industrial
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

@@ -15,6 +15,14 @@ bio: Gaiman Port is a starport in the Elite Dangerous universe, significant from
   report a rise in criminals attacking pilots and disrupting trade. Kamici Incorporated
   places a kill order on wanted ships and promises rewards for bounty vouchers delivered
   to Gaiman Port.
+distance_to_arrival: 679
+allegiance: Alliance
+government: Corporate
+economy: Industrial
+second_economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

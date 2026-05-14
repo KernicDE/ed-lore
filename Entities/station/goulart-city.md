@@ -16,6 +16,13 @@ bio: Goulart City is a star system in the Elite Dangerous universe, significant 
   at Goulart City and system agitators neutralised.
 system: Ambika
 station_type: Orbital Station
+distance_to_arrival: 795
+allegiance: Independent
+government: Cooperative
+economy: Industrial
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

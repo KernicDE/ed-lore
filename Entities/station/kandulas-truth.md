@@ -15,6 +15,12 @@ related_entities:
 - li-chyou-winds
 bio: 'Kandula''s Truth is a star system in the Elite Dangerous universe, significant
   from 3308-04-13 to 3308-04-13. Associated with Alliance, Sirius Corporation. '
+distance_to_arrival: 451
+allegiance: Independent
+government: Corporate
+have_market: true
+have_shipyard: false
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

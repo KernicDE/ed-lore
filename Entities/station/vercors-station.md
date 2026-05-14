@@ -14,6 +14,14 @@ bio: Vercors Station is a starport in the Elite Dangerous universe, significant 
   bounty vouchers delivered to Vercors Station.
 system: Kaal
 station_type: Orbital Station
+distance_to_arrival: 1168
+allegiance: Alliance
+government: Confederacy
+economy: Refinery
+second_economy: Extraction
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

@@ -16,7 +16,21 @@ bio: Topaz is a star system in the Elite Dangerous universe, significant from 33
   Lavigny-Duval addressed supporters from the Lavigny family home on Topaz ahead of
   a closed Senate meeting. Jaques had begun his epic journey from orbit around the
   moon of Topaz into the great unknown.
+system: Facece
+body_type: Earth-like world
+distance_to_arrival: 1547
+gravity: 0.9537
+surface_temperature: 280
+terraforming_state: Terraformed
+atmosphere_type: Suitable for water-based life
+volcanism_type: Minor Rocky Magma
+orbital_period: 987.0
+semi_major_axis: 3.1
+rotational_period: 1.3591
+radius: 5580.1755
+earth_masses: 0.73
 ---
+
 
 <!-- AUTO-GENERATED -->
 

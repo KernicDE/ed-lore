@@ -16,6 +16,13 @@ bio: A major starport in the Aeternitas system, Houtman City served as the admin
   INRA and League of Reparation investigations.
 system: Aeternitas
 station_type: Orbital Station
+distance_to_arrival: 9
+allegiance: Federation
+government: Corporate
+economy: Industrial
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

@@ -15,6 +15,13 @@ related_entities:
 - geras
 bio: 'Edmondson High is a star system in the Elite Dangerous universe, significant
   from 3308-05-12 to 3308-05-19. Associated with Federal Times. '
+distance_to_arrival: 245
+allegiance: Federation
+government: Corporate
+economy: Extraction
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

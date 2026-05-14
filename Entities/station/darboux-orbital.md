@@ -17,6 +17,14 @@ bio: Darboux Orbital is a starport in the Elite Dangerous universe, significant 
   3301-08-26 to 3301-08-26. Associated with XYZ Fight Club. Despite a criminal attack
   on participant Commander Angel Rose forcing evacuation of Darboux Orbital, contingency
   arenas allowed the event to continue.
+distance_to_arrival: 7584.270221
+allegiance: Federation
+government: Corporate
+economy: Industrial
+second_economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

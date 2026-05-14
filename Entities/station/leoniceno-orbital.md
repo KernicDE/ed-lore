@@ -19,6 +19,13 @@ bio: 'Leoniceno Orbital is a starport in Elite Dangerous, significant from 3301-
   positive response.'
 system: Azaleach
 station_type: Orbital Station
+distance_to_arrival: 19069.451407
+allegiance: Independent
+government: Feudal
+economy: Industrial
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

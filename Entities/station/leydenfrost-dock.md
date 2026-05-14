@@ -15,6 +15,13 @@ bio: An orbital station in the Didiomanja system, Leydenfrost Dock served as the
   hub for a grand Imperial celebration in July 3304.
 system: Didiomanja
 station_type: Orbital Station
+distance_to_arrival: 442.976148
+allegiance: Federation
+government: Corporate
+economy: Terraforming
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

@@ -15,6 +15,14 @@ bio: Obsidian Orbital is a starport in the Maia system, primary research hub for
   barnacles and meta-alloys in the Pleiades Nebula.
 system: Maia
 station_type: Ocellus Starport
+distance_to_arrival: 636
+allegiance: Independent
+government: Patronage
+economy: High Tech
+second_economy: High Tech
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 # Obsidian Orbital

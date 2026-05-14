@@ -17,6 +17,14 @@ bio: Adkins Port is a starport in the Elite Dangerous universe, significant from
   Imperial forces defeat the Cayutorme Syndicate mercenary fleet, restoring order
   to the system; leader Kyle Kurowski is missing and captured vessels will be sold
   at a discount from Adkins Port.
+distance_to_arrival: 2919.722148
+allegiance: Independent
+government: Dictatorship
+economy: Industrial
+second_economy: Extraction
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

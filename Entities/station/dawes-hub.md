@@ -16,6 +16,14 @@ bio: An orbital station in the Empire's capital system of Achenar, Dawes Hub bec
   to the throne in 3301.
 system: Achenar
 station_type: Orbital Station
+distance_to_arrival: 20651
+allegiance: Empire
+government: Patronage
+economy: Service
+second_economy: Service
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

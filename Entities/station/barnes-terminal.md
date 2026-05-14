@@ -19,6 +19,13 @@ bio: Barnes Terminal is a star system in the Elite Dangerous universe, significa
   trader safety.
 system: Aranbarahun
 station_type: Orbital Station
+distance_to_arrival: 60
+allegiance: Federation
+government: Corporate
+economy: Agriculture
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

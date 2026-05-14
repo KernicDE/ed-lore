@@ -19,6 +19,13 @@ bio: Yegorov Station is a starport in the Elite Dangerous universe, significant 
   Station authorities appealed for calm, restricted movement to essential travel only,
   and declared states of emergency with open contracts for urgent medical and aid
   supplies.
+distance_to_arrival: 920.995251
+allegiance: Independent
+government: Democracy
+economy: Agriculture
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

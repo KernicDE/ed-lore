@@ -15,6 +15,13 @@ related_entities:
 - siniang
 bio: 'Li Chyou Winds is a star system in the Elite Dangerous universe, significant
   from 3308-04-13 to 3308-04-13. Associated with Alliance, Sirius Corporation. '
+distance_to_arrival: 64
+allegiance: Independent
+government: Corporate
+economy: High Tech
+have_market: false
+have_shipyard: false
+have_outfitting: false
 ---
 
 <!-- AUTO-GENERATED -->

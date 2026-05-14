@@ -14,6 +14,14 @@ bio: A starport in the Carnoeck system, Bacon City is best known as the venue fo
   political satire with community festivity.
 system: Carnoeck
 station_type: Orbital Station
+distance_to_arrival: 105
+allegiance: Federation
+government: Corporate
+economy: High Tech
+second_economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

@@ -13,7 +13,21 @@ bio: Nanomam 1 is a star system in the Elite Dangerous universe, significant fro
   Crew claims responsibility for an explosion targeting Shadow President-elect Jerome
   Archer on Nanomam 1, also implying responsibility for the earlier ambush on Emperor
   Arissa.
+system: Nanomam
+body_type: Earth-like world
+distance_to_arrival: 399
+gravity: 0.5744
+surface_temperature: 317
+terraforming_state: Terraformed
+atmosphere_type: Suitable for water-based life
+volcanism_type: No volcanism
+orbital_period: 22.049
+semi_major_axis: 0.0006
+rotational_period: -34.9494
+radius: 3613.26
+earth_masses: 0.1844
 ---
+
 
 <!-- AUTO-GENERATED -->
 

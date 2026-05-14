@@ -18,6 +18,13 @@ bio: Chelbin Service Station is a starport in the Elite Dangerous universe, sign
   technology development.
 system: Wolf 397
 station_type: Orbital Station
+distance_to_arrival: 280
+allegiance: Alliance
+government: Corporate
+economy: Agriculture
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 Chelbin Service Station serves as a key installation within the Wolf 397 system, positioned to support operations in the nearby Pleiades region where Thargoid activity intensified during 3303. The station's infrastructure made it a natural logistics hub for Aegis, which established collection and research operations there as part of its broader anti-xeno programme. Its location placed it within reach of both the core systems and the frontier zones where alien encounters were becoming increasingly frequent.

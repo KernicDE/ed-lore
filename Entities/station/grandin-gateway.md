@@ -14,6 +14,14 @@ related_entities:
 bio: 'Grandin Gateway is a star system in the Elite Dangerous universe, significant
   from 3302-03-31 to 3302-03-31. Associated with Federal Government, Altair Purple
   Mob. '
+distance_to_arrival: 288
+allegiance: Federation
+government: Confederacy
+economy: Industrial
+second_economy: Refinery
+have_market: true
+have_shipyard: false
+have_outfitting: false
 ---
 
 <!-- AUTO-GENERATED -->

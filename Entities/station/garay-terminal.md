@@ -16,6 +16,14 @@ related_entities:
 bio: Garay Terminal is a star system in the Elite Dangerous universe, significant
   from 3304-06-29 to 3304-07-01. Associated with Aegis. Thargoid vessels are congregating
   in large numbers, threatening Garay Terminal starport and several megaships.
+distance_to_arrival: 2042
+allegiance: Independent
+government: Feudal
+economy: Industrial
+second_economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

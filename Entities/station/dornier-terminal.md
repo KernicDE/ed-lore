@@ -17,6 +17,14 @@ bio: Dornier Terminal is a star system in the Elite Dangerous universe, signific
   in Ngaiawang. Imperial veterans can collect payments from Dornier Terminal in Ngaiawang.
 system: Ngaiawang
 station_type: Orbital Station
+distance_to_arrival: 1521
+allegiance: Independent
+government: Cooperative
+economy: High Tech
+second_economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

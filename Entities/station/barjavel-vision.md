@@ -15,6 +15,13 @@ bio: Barjavel Vision is a star system in the Elite Dangerous universe, significa
   rewards for pilots who deliver bounty vouchers to Barjavel Vision.
 system: Morrina
 station_type: Orbital Station
+distance_to_arrival: 30.842171
+allegiance: Independent
+government: Cooperative
+economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

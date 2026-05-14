@@ -14,6 +14,14 @@ bio: Sikorsky Station is a starport in the Elite Dangerous universe, significant
   3304-04-27 to 3304-05-04. Associated with Vadimo Patrons of Law. They have placed
   an open order for commodities and promised rewards to pilots who deliver goods to
   Sikorsky Station, along with kill orders on wanted ships to protect traders.
+distance_to_arrival: 1994
+allegiance: Independent
+government: Dictatorship
+economy: Refinery
+second_economy: Extraction
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

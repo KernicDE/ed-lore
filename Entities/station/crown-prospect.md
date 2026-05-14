@@ -16,6 +16,14 @@ bio: Crown Prospect is a star system in the Elite Dangerous universe, significan
   for muon imagers is placed, with deliveries to Crown Prospect in the Kagutsuchi
   system. A huge number of muon imagers were delivered to Crown Prospect, enabling
   construction of a vessel to research the nebula surrounding the BD-12 1172 system.
+distance_to_arrival: 42
+allegiance: Independent
+government: Dictatorship
+economy: Extraction
+second_economy: Extraction
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

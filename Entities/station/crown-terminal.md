@@ -15,6 +15,13 @@ related_entities:
 - patrick-terminal
 bio: 'Crown Terminal is a star system in the Elite Dangerous universe, significant
   from 3301-07-22 to 3301-07-22. '
+distance_to_arrival: 3369
+allegiance: Independent
+government: Cooperative
+economy: Industrial
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

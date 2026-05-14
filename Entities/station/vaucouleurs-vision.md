@@ -13,6 +13,14 @@ related_entities:
 bio: Vaucouleurs Vision is a star system in the Elite Dangerous universe, significant
   from 3304-05-11 to 3304-05-18. Associated with Moritasgus Imperial Corporation.
   Hundreds of pilots delivered commodities to Vaucouleurs Vision and protected traders.
+distance_to_arrival: 295.941635
+allegiance: Independent
+government: Democracy
+economy: Extraction
+second_economy: Extraction
+have_market: true
+have_shipyard: false
+have_outfitting: false
 ---
 
 <!-- AUTO-GENERATED -->

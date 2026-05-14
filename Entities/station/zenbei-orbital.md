@@ -13,6 +13,14 @@ related_entities:
 bio: Zenbei Orbital is a starport in the Elite Dangerous universe, significant from
   3302-02-06 to 3302-02-06. Commander Doumaz_B reports a mysterious Diamondback Explorer
   sighting near Zenbei Orbital in Vaka.
+distance_to_arrival: 915
+allegiance: Empire
+government: Patronage
+economy: High Tech
+second_economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

@@ -13,6 +13,13 @@ related_entities:
 - blu-thua-ai-a-c14-10
 - lagoon-sector-ni-s-b4-10
 - eagle-sector-ir-w-d1-117
+distance_to_arrival: 123
+allegiance: Independent
+government: Cooperative
+economy: Colony
+have_market: true
+have_shipyard: false
+have_outfitting: false
 ---
 
 <!-- AUTO-GENERATED -->

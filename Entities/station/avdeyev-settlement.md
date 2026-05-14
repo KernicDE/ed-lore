@@ -12,6 +12,14 @@ bio: 'Avdeyev Settlement is a outpost in the Elite Dangerous universe, significa
   from 3303-04-28 to 3303-05-05. Associated with Cartoq Purple Major Organisation. '
 system: Cartoq
 station_type: Planetary Settlement
+distance_to_arrival: 10
+allegiance: Federation
+government: Corporate
+economy: Refinery
+second_economy: Extraction
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

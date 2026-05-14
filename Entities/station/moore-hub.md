@@ -15,6 +15,14 @@ related_entities:
 - agassiz-settlement
 bio: 'Moore Hub is a star system in the Elite Dangerous universe, significant from
   3307-07-22 to 3307-07-29. Associated with Pleiades Concordat, Pilots Federation. '
+distance_to_arrival: 125
+allegiance: Federation
+government: Corporate
+economy: Industrial
+second_economy: Extraction
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

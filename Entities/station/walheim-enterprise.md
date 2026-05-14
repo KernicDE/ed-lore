@@ -15,6 +15,14 @@ bio: 'Walheim Enterprise is a star system in the Elite Dangerous universe, signi
   from 3302-06-09 to 3302-06-16. Associated with Crom Silver Boys. '
 system: Herthe
 station_type: Orbital Station
+distance_to_arrival: 615.76286
+allegiance: Empire
+government: Feudal
+economy: Industrial
+second_economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

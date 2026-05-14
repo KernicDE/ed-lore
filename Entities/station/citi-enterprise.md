@@ -14,6 +14,14 @@ bio: Citi Enterprise is a star system in the Elite Dangerous universe, significa
   should deliver resources to Citi Enterprise in the Zosi system.
 system: Zosi
 station_type: Orbital Station
+distance_to_arrival: 351.750938
+allegiance: Alliance
+government: Corporate
+economy: Industrial
+second_economy: Extraction
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

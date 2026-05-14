@@ -18,6 +18,14 @@ bio: 'Felice Dock is a starport in Elite Dangerous, significant from 3302-11-03 
   will soon end.'
 system: Meene
 station_type: Orbital Station
+distance_to_arrival: 76
+allegiance: Independent
+government: Confederacy
+economy: Industrial
+second_economy: Extraction
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

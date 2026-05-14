@@ -18,6 +18,14 @@ bio: 'Wilkes Orbital is a starport in Elite Dangerous, significant from 3302-02-
   Institute and plans to relocate to a research centre on Maia A 3 a to study Unknown...'
 system: Nespeleve
 station_type: Orbital Station
+distance_to_arrival: 49.248383
+allegiance: Independent
+government: Cooperative
+economy: Industrial
+second_economy: Extraction
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

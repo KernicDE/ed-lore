@@ -16,6 +16,13 @@ bio: A starport serving the Pleiades Resource Enterprise and Merope Expeditionar
   Pleiades region between late 3302 and mid-3303.
 system: Pleiades Sector IH-V c2-5
 station_type: Outpost
+distance_to_arrival: 852
+allegiance: Independent
+government: Patronage
+economy: Military
+have_market: true
+have_shipyard: false
+have_outfitting: false
 ---
 
 <!-- AUTO-GENERATED -->

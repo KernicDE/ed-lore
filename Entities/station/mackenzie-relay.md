@@ -19,6 +19,14 @@ bio: 'Mackenzie Relay is a system in Elite Dangerous, significant from 3301-03-0
   medicines to treat casualties from The NMLA’s recent terrorist attack.'
 system: Cemiess
 station_type: Outpost
+distance_to_arrival: 689
+allegiance: Empire
+government: Patronage
+economy: Refinery
+second_economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

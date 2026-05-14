@@ -15,6 +15,14 @@ related_entities:
 - gresley-dock
 bio: 'Ito Orbital is a starport in the Elite Dangerous universe, significant from
   3307-04-29 to 3307-05-06. Associated with Pilots Federation. '
+distance_to_arrival: 905
+allegiance: Federation
+government: Corporate
+economy: Agriculture
+second_economy: Agriculture
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

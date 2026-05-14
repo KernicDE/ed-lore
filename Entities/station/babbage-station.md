@@ -18,6 +18,13 @@ bio: Babbage Station is a starport in the Elite Dangerous universe, significant 
   New Gandii Democrats. The Hand Gang fared better, establishing themselves as a credible
   threat at Babbage Station in Gandii, causing the New Gandii Democrats to reconsider
   opposing Archon Delaine.
+distance_to_arrival: 3591.732332
+allegiance: Federation
+government: Democracy
+economy: Industrial
+have_market: true
+have_shipyard: false
+have_outfitting: false
 ---
 
 <!-- AUTO-GENERATED -->

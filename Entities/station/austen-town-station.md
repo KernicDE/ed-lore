@@ -15,6 +15,13 @@ bio: Austen Town Station is a starport in the Elite Dangerous universe, signific
   and rewards are now available for collection at Austen Town Station.
 system: Arque
 station_type: Orbital Station
+distance_to_arrival: 589
+allegiance: Alliance
+government: Cooperative
+economy: Agriculture
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

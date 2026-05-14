@@ -14,6 +14,14 @@ bio: Rose Terminal is a star system in the Elite Dangerous universe, significant
   commodities to Rose Terminal.
 system: Vestani
 station_type: Orbital Station
+distance_to_arrival: 704.454198
+allegiance: Independent
+government: Corporate
+economy: Industrial
+second_economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

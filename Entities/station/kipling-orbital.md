@@ -11,6 +11,14 @@ related_entities:
 - pleiades-sector-kc-v-c2-11
 - pleiades-sector-hr-w-d1-41
 - malthus-terminal
+distance_to_arrival: 322
+allegiance: Independent
+government: Cooperative
+economy: High Tech
+second_economy: High Tech
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

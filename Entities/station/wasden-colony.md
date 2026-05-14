@@ -14,6 +14,13 @@ bio: Wasden Colony is a star system in the Elite Dangerous universe, significant
   3302-05-06 to 3302-05-06. Associated with Carmack Intergalactic Mining Association.
   Benjamin Gorrister, founder of the Carmack Intergalactic Mining Association, honours
   the winners of the CIMA prospectors competition at Wasden Colony in Halbara.
+distance_to_arrival: 1138
+allegiance: Independent
+government: Communism
+economy: Industrial
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

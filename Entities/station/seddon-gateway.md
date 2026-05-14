@@ -17,6 +17,13 @@ bio: Seddon Gateway is a star system in the Elite Dangerous universe, significan
   and cultural displays.
 system: 78 Ursae Majoris
 station_type: Orbital Station
+distance_to_arrival: 191
+allegiance: Alliance
+government: Confederacy
+economy: Industrial
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

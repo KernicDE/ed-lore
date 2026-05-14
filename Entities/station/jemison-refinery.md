@@ -16,6 +16,14 @@ related_entities:
 bio: 'Jemison Refinery is a star system in the Elite Dangerous universe, significant
   from 3301-04-27 to 3301-04-27. Associated with Faveol family, Imperial Senate, Patron''s
   Principles. '
+distance_to_arrival: 9.735923
+allegiance: Independent
+government: Dictatorship
+economy: Refinery
+second_economy: Extraction
+have_market: true
+have_shipyard: false
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

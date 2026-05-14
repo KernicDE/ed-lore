@@ -16,6 +16,14 @@ bio: Lindblad Port is a starport in the Elite Dangerous universe, significant fr
   3301-08-14 to 3301-08-14. Associated with Emperor's Grace, Kumo Crew, Imperial Inquisition.
   High Inquisitor Mavia Kain of the Imperial Inquisition will meet Admiral Varrwen
   Mako Brennus of Emperor’s Grace at Lindblad Port in Rishair.
+distance_to_arrival: 18
+allegiance: Independent
+government: Confederacy
+economy: Refinery
+second_economy: Industrial
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

@@ -15,6 +15,13 @@ bio: 'Syromyatnikov Horizons is a star system in the Elite Dangerous universe, s
   from 3301-04-11 to 3301-04-16. Associated with Citizens of Tradition. '
 system: Nu
 station_type: Orbital Station
+distance_to_arrival: 1425
+allegiance: Empire
+government: Patronage
+economy: High Tech
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

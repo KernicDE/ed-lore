@@ -15,6 +15,13 @@ bio: An orbital station in the Halbangaay system, Haack Gateway was among the ea
   casualties of the technological plague.
 system: Halbangaay
 station_type: Orbital Station
+distance_to_arrival: 892
+allegiance: Independent
+government: Democracy
+economy: Agriculture
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

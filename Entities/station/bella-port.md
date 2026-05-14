@@ -15,6 +15,14 @@ bio: Bella Port is a starport in the Elite Dangerous universe, significant from 
   open order for palladium, titanium and robotics for delivery to Bella Port in Irusan.
   A massive influx of deliveries to Bella Port enabled construction of the Dan Gurney
   Drive Yards and the Cave Johnson Memorial Science Lab.
+distance_to_arrival: 12
+allegiance: Independent
+government: Corporate
+economy: Industrial
+second_economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

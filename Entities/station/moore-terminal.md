@@ -18,6 +18,14 @@ bio: Moore Terminal is a star system in the Elite Dangerous universe, significan
   Terminal. The Labour Union of Kauruk's Remembrance Week concluded successfully,
   with hundreds of pilots gathering at Moore Terminal to pay respects to departed
   friends and loved ones.
+distance_to_arrival: 21.113148
+allegiance: Independent
+government: Democracy
+economy: Industrial
+second_economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

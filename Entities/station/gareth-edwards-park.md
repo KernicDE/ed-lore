@@ -14,6 +14,13 @@ bio: Gareth Edwards Park is a star system in the Elite Dangerous universe, signi
   at Gareth Edwards Park.
 system: Wyrd
 station_type: Orbital Station
+distance_to_arrival: 819
+allegiance: Independent
+government: Corporate
+economy: Extraction
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

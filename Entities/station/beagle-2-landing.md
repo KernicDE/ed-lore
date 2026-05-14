@@ -15,6 +15,13 @@ related_entities:
 - cleve-hub
 bio: 'Beagle 2 Landing is a star system in the Elite Dangerous universe, significant
   from 3303-07-07 to 3303-07-07. Associated with Pilots Federation. '
+distance_to_arrival: 342
+allegiance: Pilots Federation
+government: Democracy
+economy: High Tech
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

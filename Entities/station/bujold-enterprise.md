@@ -13,6 +13,13 @@ bio: 'Bujold Enterprise is a star system in the Elite Dangerous universe, signif
   from 3302-09-29 to 3302-10-04. Associated with Kalana Independents. '
 system: Kalana
 station_type: Orbital Station
+distance_to_arrival: 18.029502
+allegiance: Empire
+government: Patronage
+economy: Extraction
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

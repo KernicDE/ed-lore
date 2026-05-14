@@ -15,6 +15,13 @@ bio: Vancouver Ring is a star system in the Elite Dangerous universe, significan
   Ring to meet high demand from recent one-day deals.
 system: Tchernobog
 station_type: Orbital Station
+distance_to_arrival: 946.079899
+allegiance: Empire
+government: Feudal
+economy: Tourism
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

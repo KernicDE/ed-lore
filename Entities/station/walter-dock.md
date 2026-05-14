@@ -14,6 +14,13 @@ bio: 'Walter Dock is a starport in the Elite Dangerous universe, significant fro
   Walter''s Fish and Coffee Emporium. '
 system: Gyvatices
 station_type: Orbital Station
+distance_to_arrival: 9457.52685
+allegiance: Empire
+government: Patronage
+economy: Agriculture
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

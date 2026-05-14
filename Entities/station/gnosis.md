@@ -14,7 +14,9 @@ bio: Gnosis is a star system in the Elite Dangerous universe, significant from 3
   the Gnosis regarding the confirmation that Unknown Ships are of Thargoid origin.
   The Canonn Interstellar Research Group announced plans to construct the deep-space
   research vessel Gnosis, with open orders for indium, computer components, and tea.
+station_type: Megaship
 ---
+
 
 <!-- AUTO-GENERATED -->
 

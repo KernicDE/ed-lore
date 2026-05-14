@@ -16,6 +16,14 @@ related_entities:
 bio: Enterprise Market is a star system in the Elite Dangerous universe, significant
   from 3307-06-25 to 3307-06-25. Two new Alliance stations — Enterprise Market in
   LHS 2522 and Prosperity Core in Sharru Sector FW-W c1-19 — become operational.
+distance_to_arrival: 2747
+allegiance: Alliance
+government: Corporate
+economy: Industrial
+second_economy: Extraction
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

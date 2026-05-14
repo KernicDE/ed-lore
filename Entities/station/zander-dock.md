@@ -15,6 +15,14 @@ bio: Zander Dock is a starport in the Elite Dangerous universe, significant from
   rare liquors for delivery to Zander Dock to cater to wealthy tourists from core
   systems. The Winged Hussars' appeal for rare liquors concluded successfully, resulting
   in a massive influx of deliveries to Zander Dock.
+distance_to_arrival: 87.901505
+allegiance: Independent
+government: Cooperative
+economy: Extraction
+second_economy: Refinery
+have_market: true
+have_shipyard: false
+have_outfitting: false
 ---
 
 <!-- AUTO-GENERATED -->

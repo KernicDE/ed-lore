@@ -15,6 +15,13 @@ related_entities:
 - raleigh-orbital
 bio: 'Buckey Ring is a star system in the Elite Dangerous universe, significant from
   3302-03-14 to 3302-03-14. Associated with Buckyball Racing Club. '
+distance_to_arrival: 532.698432
+allegiance: Independent
+government: Feudal
+economy: Agriculture
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

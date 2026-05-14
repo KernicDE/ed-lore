@@ -14,6 +14,14 @@ bio: 'Zoline Port is a starport in the Elite Dangerous universe, significant fro
   377 Allied Co. '
 system: LTT 377
 station_type: Orbital Station
+distance_to_arrival: 642
+allegiance: Independent
+government: Cooperative
+economy: High Tech
+second_economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

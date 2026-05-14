@@ -15,6 +15,13 @@ related_entities:
 bio: 'Amphipolis is a star system in the Elite Dangerous universe, significant from
   3304-08-31 to 3304-08-31. Associated with Betel Free, Betel security, Silver Creative
   Network. '
+distance_to_arrival: 466.772858
+allegiance: Independent
+government: Democracy
+economy: Agriculture
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

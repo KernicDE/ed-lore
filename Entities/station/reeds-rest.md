@@ -15,6 +15,14 @@ bio: An orbital station in the Merope system, Reed's Rest was among the starport
   targeted by Thargoid attacks during the escalation of the alien conflict in 3304.
 system: Merope
 station_type: Orbital Station
+distance_to_arrival: 2101
+allegiance: Independent
+government: Patronage
+economy: High Tech
+second_economy: High Tech
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

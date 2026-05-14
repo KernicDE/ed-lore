@@ -12,6 +12,14 @@ related_entities:
 - guuguyni
 bio: 'Shen Terminal is a star system in the Elite Dangerous universe, significant
   from 3304-01-19 to 3304-01-26. Associated with Guuguyni Empire Consulate. '
+distance_to_arrival: 6
+allegiance: Independent
+government: Cooperative
+economy: High Tech
+second_economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

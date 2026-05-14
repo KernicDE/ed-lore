@@ -17,6 +17,14 @@ bio: Bell Orbital is a starport in the Elite Dangerous universe, significant fro
   Law Party. Gilya Signature Weapons return to production at Bell Orbital in the Gilya
   system following intervention from commercial interests, priests from Sacra Oculus,
   and Pilots Federation Commanders.
+distance_to_arrival: 459
+allegiance: Independent
+government: Cooperative
+economy: High Tech
+second_economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

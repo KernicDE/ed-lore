@@ -17,6 +17,13 @@ bio: Smith Port is a starport in the Elite Dangerous universe, significant from 
   and modules.
 system: Dulos
 station_type: Orbital Station
+distance_to_arrival: 37
+allegiance: Independent
+government: Dictatorship
+economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 Smith Port functions as a key installation within the Run system, serving as both a logistical hub and a symbol of independent organisational capacity during the mid-3300s. The port became closely associated with the Rogue Runners and Rogue Security, factions that established a distinctive presence in the region through a combination of commercial activity and unconventional governance approaches. Its documented history from late 3303 through early 3308 placed it within a network of installations that supported emerging independent powers seeking to establish viable alternatives to superpower control.

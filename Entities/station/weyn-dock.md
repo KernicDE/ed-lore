@@ -17,6 +17,14 @@ bio: 'Weyn Dock is a starport in Elite Dangerous, significant from 3301-10-29 to
   interference have been restored through the application of meta-alloys.'
 system: 64 Arietis
 station_type: Orbital Station
+distance_to_arrival: 161
+allegiance: Independent
+government: Dictatorship
+economy: Industrial
+second_economy: Extraction
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

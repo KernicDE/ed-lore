@@ -14,6 +14,13 @@ bio: Lomonosov City is a star system in the Elite Dangerous universe, significan
   from 3303-10-13 to 3303-10-13. Associated with Kuun-Lan. The Kuun-Lan's appeal for
   commodities concluded successfully with a massive influx of deliveries to Lomonosov
   City.
+distance_to_arrival: 1065.911781
+allegiance: Independent
+government: Feudal
+economy: Industrial
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

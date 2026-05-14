@@ -12,6 +12,14 @@ bio: 'Cenker City is a star system in the Elite Dangerous universe, significant 
   3303-04-14 to 3303-04-21. Associated with Utopia Commune. '
 system: Gucumadhyas
 station_type: Orbital Station
+distance_to_arrival: 334.569347
+allegiance: Independent
+government: Corporate
+economy: Industrial
+second_economy: Extraction
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

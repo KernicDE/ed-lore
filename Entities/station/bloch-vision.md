@@ -15,6 +15,14 @@ bio: Bloch Vision is a star system in the Elite Dangerous universe, significant 
   3302-02-24 to 3302-05-20.
 system: Loperada
 station_type: Orbital Station
+distance_to_arrival: 9
+allegiance: Independent
+government: Confederacy
+economy: High Tech
+second_economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

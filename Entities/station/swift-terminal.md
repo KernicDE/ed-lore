@@ -17,6 +17,13 @@ bio: Swift Terminal is a star system in the Elite Dangerous universe, significan
   in Eta Draconis. Silent Sidewinders penetrated the starport, captured the main control
   terminal, shut down docking bay power, and allowed the main assault force unrestricted
   access.
+distance_to_arrival: 10612.881393
+allegiance: Alliance
+government: Corporate
+economy: Agriculture
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

@@ -12,6 +12,13 @@ bio: 'Pellegrino Hub is a star system in the Elite Dangerous universe, significa
   from 3303-03-09 to 3303-03-16. Associated with Military Militia. '
 system: XI-2 Lupi
 station_type: Orbital Station
+distance_to_arrival: 2740.032525
+allegiance: Independent
+government: Theocracy
+economy: Industrial
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

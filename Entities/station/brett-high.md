@@ -15,6 +15,13 @@ bio: An Alliance system with close ties to the Pilots Federation, Gateway and Ti
   Brett High featured briefly in Alliance strategic communications during mid-3307.
 system: Tionisla
 station_type: Orbital Station
+distance_to_arrival: 1111
+allegiance: Alliance
+government: Cooperative
+economy: Industrial
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

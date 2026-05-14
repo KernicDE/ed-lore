@@ -16,6 +16,14 @@ bio: Smoot Station is a starport in the Elite Dangerous universe, significant fr
   The treaty, originally signed on July 17th 3301 to focus on the Imperial offensive
   against Archon Delaine, was dissolved in a press conference aboard Smoot Station
   in Chona.
+distance_to_arrival: 7
+allegiance: Independent
+government: Cooperative
+economy: High Tech
+second_economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

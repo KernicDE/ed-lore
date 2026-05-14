@@ -19,6 +19,13 @@ bio: Seega Port is a starport in the Elite Dangerous universe, significant from 
   Navy to suppress the uprising.
 system: Lugh
 station_type: Orbital Station
+distance_to_arrival: 1030.623529
+allegiance: Federation
+government: Corporate
+economy: Industrial
+have_market: true
+have_shipyard: false
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

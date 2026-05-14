@@ -13,6 +13,13 @@ related_entities:
 bio: Schneider Relay is a star system in the Elite Dangerous universe, significant
   from 3302-03-30 to 3302-03-30. Associated with Buckyball Racing Club. The event
   will run from Schneider Relay in the Epsilon Indi system.
+distance_to_arrival: 261
+allegiance: Independent
+government: Cooperative
+economy: Agriculture
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

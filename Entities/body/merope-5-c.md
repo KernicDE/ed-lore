@@ -16,7 +16,33 @@ bio: Merope 5 C is a star system in the Elite Dangerous universe, significant fr
   from an Unknown Probe directed at Merope 5c. The transmission contained octal data
   describing planetary characteristics, and researchers are now investigating what
   received the signal on Merope 5c.
+system: Merope
+body_type: Rocky body
+distance_to_arrival: 5092
+gravity: 0.1836
+surface_temperature: 296
+terraforming_state: Not terraformable
+atmosphere_type: No atmosphere
+volcanism_type: No volcanism
+orbital_period: 6.6255
+semi_major_axis: 0.0157
+rotational_period: 6.6256
+radius: 1477.6
+earth_masses: 0.0099
+materials:
+  Iron: 20.71
+  Sulphur: 18.44
+  Nickel: 15.66
+  Carbon: 15.5
+  Phosphorus: 9.92
+  Manganese: 8.55
+  Germanium: 5.48
+  Arsenic: 2.45
+  Yttrium: 1.24
+  Tungsten: 1.14
+  Mercury: 0.9
 ---
+
 
 <!-- AUTO-GENERATED -->
 

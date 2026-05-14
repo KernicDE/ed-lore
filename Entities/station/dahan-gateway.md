@@ -17,6 +17,14 @@ bio: Dahan Gateway is a star system in the Elite Dangerous universe, significant
   3301-06-10 to 3301-06-10. Associated with Alliance. Following the failed Federal
   invasion of Eranin in late 3300, Federal and Alliance campaigners clashed politically
   in the Dahan sector.
+distance_to_arrival: 464
+allegiance: Independent
+government: Corporate
+economy: Refinery
+second_economy: Industrial
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

@@ -18,6 +18,13 @@ bio: Read Gateway is a star system in the Elite Dangerous universe, significant 
   Dock.
 system: Lugh
 station_type: Orbital Station
+distance_to_arrival: 309.510513
+allegiance: Federation
+government: Democracy
+economy: Industrial
+have_market: true
+have_shipyard: false
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

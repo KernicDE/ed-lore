@@ -19,6 +19,13 @@ bio: Cassie-L-Peia is a star system in the Elite Dangerous universe, significant
   Cassie-L-Peia in Tanmark.
 system: Tanmark
 station_type: Orbital Station
+distance_to_arrival: 414.031422
+allegiance: Empire
+government: Corporate
+economy: Agriculture
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

@@ -15,6 +15,13 @@ bio: 'al-Din Prospect is a star system in the Elite Dangerous universe, signific
   from 3302-01-20 to 3302-02-24. '
 system: Alpha Centauri
 station_type: Planetary Port
+distance_to_arrival: 3994
+allegiance: Independent
+government: Cooperative
+economy: Extraction
+have_market: false
+have_shipyard: false
+have_outfitting: false
 ---
 
 <!-- AUTO-GENERATED -->

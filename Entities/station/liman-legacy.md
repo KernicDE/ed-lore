@@ -16,6 +16,14 @@ related_entities:
 bio: Liman Legacy is a star system in the Elite Dangerous universe, significant from
   3303-12-15 to 3303-12-15. The affected stations are Titan's Daughter in Taygeta,
   Liman Legacy in HIP 16753, and the Oracle in Pleiades Sector IR-W d1-55.
+distance_to_arrival: 2796
+allegiance: Independent
+government: Cooperative
+economy: Extraction
+second_economy: Extraction
+have_market: true
+have_shipyard: false
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

@@ -14,6 +14,14 @@ bio: Jones Estate is a star system in the Elite Dangerous universe, significant 
   3302-02-29 to 3302-02-29. Associated with Kruger 60 Free. Kruger 60 Free funds the
   one-day appeal, with deliveries requested at Jones Estate in the Groombridge 34
   system.
+distance_to_arrival: 10
+allegiance: Independent
+government: Feudal
+economy: High Tech
+second_economy: Extraction
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

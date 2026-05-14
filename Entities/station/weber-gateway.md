@@ -17,6 +17,14 @@ bio: Weber Gateway is a star system in the Elite Dangerous universe, significant
   with hundreds of independent pilots delivering the rare commodity to Weber Gateway.
 system: Noti
 station_type: Orbital Station
+distance_to_arrival: 4803
+allegiance: Federation
+government: Corporate
+economy: Industrial
+second_economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

@@ -16,6 +16,14 @@ bio: A starport in the Niflhel system, Biruni Port hosted Senator Caspian Leopol
   military operations in 3304.
 system: Niflhel
 station_type: Orbital Station
+distance_to_arrival: 1296
+allegiance: Independent
+government: Democracy
+economy: Refinery
+second_economy: Industrial
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

@@ -13,6 +13,13 @@ bio: 'Stevenson Base is a outpost in the Elite Dangerous universe, significant f
   3302-03-10 to 3302-03-17. Associated with Federal Navy, Beta Hydri Corporation. '
 system: Beta Hydri
 station_type: Planetary Port
+distance_to_arrival: 2102
+allegiance: Federation
+government: Democracy
+economy: Agriculture
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

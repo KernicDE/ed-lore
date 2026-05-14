@@ -15,6 +15,14 @@ related_entities:
 - turot
 bio: 'Lem Dock is a starport in the Elite Dangerous universe, significant from 3302-07-18
   to 3302-07-18. Associated with Buckyball Racing Club, Ex Luna Scientia. '
+distance_to_arrival: 622
+allegiance: Alliance
+government: Corporate
+economy: Refinery
+second_economy: Industrial
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

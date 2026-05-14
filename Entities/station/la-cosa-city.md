@@ -14,6 +14,13 @@ bio: la Cosa City is a star system in the Elite Dangerous universe, significant 
   3302-01-21 to 3302-01-21. Associated with Green Party of HIP 112974, Onionhead.
   Traders delivered the narcotic to la Cosa City while combat pilots defended the
   spaceways.
+distance_to_arrival: 8622.9595
+allegiance: Independent
+government: Confederacy
+economy: Agriculture
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

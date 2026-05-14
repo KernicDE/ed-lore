@@ -24,7 +24,21 @@ bio: 'Earth is a system in Elite Dangerous, significant from 3301-03-20 to 3311-
   the Empire''s founding.; Weekly summary covering Riri McAllister being unmasked
   as Nexus and framing Admiral Varma, the hunt for League strongholds in Zibal and
   Ienpalang, ...'
+system: Sol
+body_type: Earth-like world
+distance_to_arrival: 494
+gravity: 1.0
+surface_temperature: 288
+terraforming_state: Not terraformable
+atmosphere_type: Suitable for water-based life
+volcanism_type: Rocky Magma
+orbital_period: 365.2564
+semi_major_axis: 1.0
+rotational_period: 0.9973
+radius: 6378.1
+earth_masses: 1
 ---
+
 
 <!-- AUTO-GENERATED -->
 

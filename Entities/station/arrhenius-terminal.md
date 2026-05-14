@@ -17,6 +17,13 @@ bio: Arrhenius Terminal is a star system in the Elite Dangerous universe, signif
   from 3302-03-29 to 3302-03-29. Associated with Jeffress treasure hunt organisers.
   Thousands of pilots competed, solving riddles that led through Persephone in the
   Avalon system, Arrhenius Terminal in Bard, and finally to the Algol system.
+distance_to_arrival: 1551.727097
+allegiance: Independent
+government: Cooperative
+economy: Terraforming
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

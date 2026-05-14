@@ -14,6 +14,14 @@ related_entities:
 - fomalhaut
 bio: 'Slipher Hub is a star system in the Elite Dangerous universe, significant from
   3301-11-04 to 3301-11-04. '
+distance_to_arrival: 1710
+allegiance: Empire
+government: Corporate
+economy: High Tech
+second_economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

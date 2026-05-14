@@ -13,6 +13,14 @@ bio: Fisher Terminal is a star system in the Elite Dangerous universe, significa
   polymers to upgrade Fisher Terminal and offer privateer bonds for eliminating agitators.
 system: Okinura
 station_type: Orbital Station
+distance_to_arrival: 343
+allegiance: Federation
+government: Corporate
+economy: Service
+second_economy: Agriculture
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

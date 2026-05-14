@@ -16,6 +16,14 @@ bio: A starport in the Nganji system, Christian Dock served as the base for an i
   close-range vessel encounter in late 3301.
 system: Nganji
 station_type: Orbital Station
+distance_to_arrival: 84
+allegiance: Independent
+government: Communism
+economy: High Tech
+second_economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

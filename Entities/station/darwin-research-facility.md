@@ -15,6 +15,13 @@ bio: A research outpost in the California Nebula, Darwin Research Facility serve
   fascinating regions.
 system: California Sector BV-Y c7
 station_type: Planetary Port
+distance_to_arrival: 23
+allegiance: Alliance
+government: Theocracy
+economy: Service
+have_market: true
+have_shipyard: false
+have_outfitting: false
 ---
 
 <!-- AUTO-GENERATED -->

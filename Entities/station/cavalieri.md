@@ -13,6 +13,14 @@ bio: 'Cavalieri is a star system in the Elite Dangerous universe, significant fr
   3303-11-24 to 3303-12-01. Associated with Aegis, Pilots Federation. '
 system: Electra
 station_type: Orbital Station
+distance_to_arrival: 926
+allegiance: Independent
+government: Cooperative
+economy: Industrial
+second_economy: Industrial
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

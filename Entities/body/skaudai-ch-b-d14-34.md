@@ -11,7 +11,13 @@ related_entities:
 - blu-thua-ai-a-c14-10
 - lagoon-sector-ni-s-b4-10
 - eagle-sector-ir-w-d1-117
+system: Skaudai CH-B d14-34
+body_type: F (White) Star
+distance_to_arrival: 0
+surface_temperature: 6027
+rotational_period: 4.1404
 ---
+
 
 <!-- AUTO-GENERATED -->
 

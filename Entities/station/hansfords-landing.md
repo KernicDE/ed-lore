@@ -16,6 +16,13 @@ related_entities:
 bio: 'Hansford''s Landing is a star system in the Elite Dangerous universe, significant
   from 3303-11-10 to 3303-11-17. Associated with Alliance, Spinward Marches Alliance
   Concern. '
+distance_to_arrival: 986.928036
+allegiance: Independent
+government: Corporate
+economy: Agriculture
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

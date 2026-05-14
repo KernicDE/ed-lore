@@ -19,6 +19,14 @@ bio: Thoreau Orbital is a starport in the Elite Dangerous universe, significant 
   manufacturing centre.
 system: Obotrima
 station_type: Orbital Station
+distance_to_arrival: 857
+allegiance: Independent
+government: Dictatorship
+economy: Industrial
+second_economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

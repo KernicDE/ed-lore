@@ -16,6 +16,13 @@ bio: 'Forrester Station is a starport in the Elite Dangerous universe, significa
   Party. '
 system: BD-22 3573
 station_type: Orbital Station
+distance_to_arrival: 212
+allegiance: Independent
+government: Corporate
+economy: Agriculture
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

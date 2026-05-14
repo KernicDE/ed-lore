@@ -14,7 +14,33 @@ bio: Etain 4 c is a star system in the Elite Dangerous universe, significant fro
   Vox Galactica. The FIA discovers an intact cryogenic pod containing a survivor beneath
   a collapsed chamber at an abandoned Far God cult outpost on Etain 4 c, reviving
   efforts to locate a missing undercover agent.
+system: Etain
+body_type: Icy body
+distance_to_arrival: 2344
+gravity: 0.2193
+surface_temperature: 39
+terraforming_state: Not terraformable
+atmosphere_type: No atmosphere
+volcanism_type: No volcanism
+orbital_period: 44.556
+semi_major_axis: 0.029
+rotational_period: 44.5623
+radius: 3585.91
+earth_masses: 0.0693
+materials:
+  Sulphur: 27.52
+  Carbon: 23.14
+  Phosphorus: 14.82
+  Iron: 11.93
+  Nickel: 9.02
+  Manganese: 4.93
+  Zinc: 3.24
+  Germanium: 3.13
+  Niobium: 0.82
+  Tin: 0.74
+  Yttrium: 0.71
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -18,6 +18,13 @@ bio: Davies High is a star system in the Elite Dangerous universe, significant f
   groups to prepare for a swift retaking of Davies High.
 system: Reorte
 station_type: Orbital Station
+distance_to_arrival: 374
+allegiance: Alliance
+government: Cooperative
+economy: Agriculture
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

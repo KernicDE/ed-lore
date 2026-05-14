@@ -14,7 +14,9 @@ bio: Exigus campus is a star system in the Elite Dangerous universe, significant
   3302-02-15 to 3302-03-11. Associated with Buckyball Racing Club, Pilots Federation,
   Grant Academics. Veteran pilots will escort students from the Exigus campus to tourism
   hotspots in the region from 18-26 March, with Commander Seneh coordinating the event.
+station_type: Planetary Port
 ---
+
 
 <!-- AUTO-GENERATED -->
 

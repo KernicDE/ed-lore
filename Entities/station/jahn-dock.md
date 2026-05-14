@@ -15,6 +15,14 @@ bio: Jahn Dock is a starport in the Elite Dangerous universe, significant from 3
   to 3304-02-23. Associated with Momoirent Central and Co, Aegis. Scores of pilots
   delivered commodities to Jahn Dock for research into an automated Federal defense
   force.
+distance_to_arrival: 240491
+allegiance: Federation
+government: Democracy
+economy: Refinery
+second_economy: Industrial
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

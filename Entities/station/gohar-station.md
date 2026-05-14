@@ -17,6 +17,14 @@ bio: Gohar Station is a starport in the Elite Dangerous universe, significant fr
   signature weapons to Gohar Station in the Jaradharre system.
 system: Jaradharre
 station_type: Orbital Station
+distance_to_arrival: 525289
+allegiance: Independent
+government: Corporate
+economy: Industrial
+second_economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

@@ -15,6 +15,14 @@ related_entities:
 - cd-37-641
 bio: 'Raleigh Orbital is a starport in the Elite Dangerous universe, significant from
   3302-03-14 to 3302-03-14. Associated with Buckyball Racing Club. '
+distance_to_arrival: 1174
+allegiance: Independent
+government: Dictatorship
+economy: Industrial
+second_economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

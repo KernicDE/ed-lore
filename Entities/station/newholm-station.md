@@ -15,6 +15,14 @@ bio: Newholm Station is a starport in the Elite Dangerous universe, significant 
   to thermal vent gases on planets Sothis A5 and A6. Scientists are offering pilots
   quantities of the rare material in exchange for delivering gold to Newholm Station
   for further testing.
+distance_to_arrival: 113644
+allegiance: Federation
+government: Democracy
+economy: Terraforming
+second_economy: Terraforming
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

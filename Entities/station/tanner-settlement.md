@@ -17,6 +17,13 @@ bio: Tanner Settlement is a outpost in the Elite Dangerous universe, significant
   3301-06-12 to 3301-06-12. Associated with Federal Liberal Party, Utopia. Emissaries
   of Shadow President Felicia Winters were spotted meeting Utopian representatives
   aboard Tanner Settlement in Polevnic.
+distance_to_arrival: 49
+allegiance: Independent
+government: Communism
+economy: Extraction
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

@@ -12,6 +12,13 @@ related_entities:
 - hip-8396
 bio: 'Stepping Stone Base is a outpost in the Elite Dangerous universe, significant
   from 3301-11-18 to 3301-11-18. Associated with Sirius Corporation. '
+distance_to_arrival: 4140
+allegiance: Independent
+government: Corporate
+economy: Extraction
+have_market: true
+have_shipyard: false
+have_outfitting: false
 ---
 
 <!-- AUTO-GENERATED -->

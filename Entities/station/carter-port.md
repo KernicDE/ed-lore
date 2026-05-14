@@ -15,6 +15,13 @@ bio: An orbital station in the Rhea system that was among the starports crippled
   the technological plague in early 3302.
 system: Rhea
 station_type: Orbital Station
+distance_to_arrival: 912
+allegiance: Federation
+government: Corporate
+economy: Tourism
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

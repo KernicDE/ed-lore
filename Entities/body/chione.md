@@ -13,7 +13,19 @@ related_entities:
 - prism
 bio: 'Chione is a star system in the Elite Dangerous universe, significant from 3302-08-13
   to 3302-08-13. Associated with Reclamists, Imperial Citizen. '
+distance_to_arrival: 279677
+gravity: 1.0089
+surface_temperature: 310
+terraforming_state: Terraformed
+atmosphere_type: Thick Suitable for water-based life
+volcanism_type: Minor Rocky Magma
+orbital_period: 1.2
+semi_major_axis: 0.025
+rotational_period: 1.5929
+radius: 5750
+earth_masses: 0.82
 ---
+
 
 <!-- AUTO-GENERATED -->
 

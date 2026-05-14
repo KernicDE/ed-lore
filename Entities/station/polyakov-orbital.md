@@ -18,6 +18,14 @@ bio: Polyakov Orbital is a starport in the Elite Dangerous universe, significant
   commodity appeal for a social function at Polyakov Orbital.
 system: Olelbis
 station_type: Orbital Station
+distance_to_arrival: 451
+allegiance: Federation
+government: Corporate
+economy: Industrial
+second_economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

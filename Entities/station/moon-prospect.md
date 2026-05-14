@@ -15,6 +15,13 @@ related_entities:
 - turot
 bio: 'Moon Prospect is a star system in the Elite Dangerous universe, significant
   from 3302-07-18 to 3302-07-18. Associated with Buckyball Racing Club, Ex Luna Scientia. '
+distance_to_arrival: 578
+allegiance: Independent
+government: Cooperative
+economy: Colony
+have_market: true
+have_shipyard: false
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

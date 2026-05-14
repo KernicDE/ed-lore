@@ -15,6 +15,13 @@ bio: 'J. G. Ballard Gateway is a star system in the Elite Dangerous universe, si
   of G 176-29, Citizen Party of G146-60. '
 system: Graill Redd
 station_type: Orbital Station
+distance_to_arrival: 71
+allegiance: Alliance
+government: Corporate
+economy: Agriculture
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

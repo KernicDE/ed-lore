@@ -18,6 +18,13 @@ bio: Balandin Gateway is a star system in the Elite Dangerous universe, signific
   around Balandin Gateway and Knight Dock.
 system: Lugh
 station_type: Orbital Station
+distance_to_arrival: 52
+allegiance: Independent
+government: Corporate
+economy: Industrial
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

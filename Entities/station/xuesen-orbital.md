@@ -16,6 +16,14 @@ bio: Xuesen Orbital is a starport in the Elite Dangerous universe, significant f
   3301-04-15 to 3301-04-15. Associated with Imperial Court. She called on pilots to
   assist her investigative task force, with sign-ups available at Xuesen Orbital in
   Nehet and Kowal Dock in Mictlan.
+distance_to_arrival: 2573
+allegiance: Empire
+government: Feudal
+economy: High Tech
+second_economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

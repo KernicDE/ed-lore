@@ -16,6 +16,13 @@ bio: Underwood Port is a starport in the Elite Dangerous universe, significant f
   controlling faction. Both factions appeal for pilot support.
 system: Parun
 station_type: Orbital Station
+distance_to_arrival: 678
+allegiance: Independent
+government: Patronage
+economy: Industrial
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

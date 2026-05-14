@@ -15,6 +15,14 @@ bio: An orbital station in the Ebor system, Morris Enterprise became the focal p
   of a rare attempt to pursue inter-species communication with the Thargoids.
 system: Ebor
 station_type: Orbital Station
+distance_to_arrival: 30
+allegiance: Independent
+government: Democracy
+economy: Industrial
+second_economy: Extraction
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

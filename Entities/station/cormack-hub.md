@@ -12,6 +12,14 @@ bio: 'Cormack Hub is a star system in the Elite Dangerous universe, significant 
   3303-01-19 to 3303-01-20. Associated with Sirius Corporation. '
 system: Procyon
 station_type: Orbital Station
+distance_to_arrival: 776
+allegiance: Independent
+government: Corporate
+economy: Agriculture
+second_economy: Agriculture
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

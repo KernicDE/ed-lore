@@ -14,6 +14,13 @@ bio: Gold Hub is a star system in the Elite Dangerous universe, significant from
   to 3304-03-09. Associated with Arek Crimson Vision Corporation. The corporation
   has placed an open order for weapons and promises rewards to pilots who deliver
   goods to Gold Hub.
+distance_to_arrival: 408
+allegiance: Independent
+government: Corporate
+economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

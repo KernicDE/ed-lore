@@ -15,6 +15,14 @@ bio: An orbital station in the Sol system, Li Qing Jao was among the facilities 
   by the technological plague that swept across inhabited space in early 3302.
 system: Sol
 station_type: Orbital Station
+distance_to_arrival: 494
+allegiance: Federation
+government: Democracy
+economy: Service
+second_economy: Service
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

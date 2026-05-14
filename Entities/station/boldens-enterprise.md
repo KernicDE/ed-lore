@@ -14,6 +14,13 @@ bio: Bolden's Enterprise is a star system in the Elite Dangerous universe, signi
   from 3304-06-29 to 3304-07-06. Associated with Tir Technology Services. Tir Technology
   Services is running a campaign to deliver commodities to Bolden's Enterprise in
   the Tir system.
+distance_to_arrival: 3937
+allegiance: Independent
+government: Cooperative
+economy: High Tech
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

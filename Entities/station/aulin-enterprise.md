@@ -17,6 +17,14 @@ bio: Aulin Enterprise is a star system in the Elite Dangerous universe, signific
   from 3301-06-10 to 3301-06-10. Associated with Alliance. The real winner appears
   to be Shadow President Winters, whose Liberals took the lead in historically Republican
   Aulin and are establishing a new command centre aboard Aulin Enterprise.
+distance_to_arrival: 333
+allegiance: Independent
+government: Corporate
+economy: High Tech
+second_economy: High Tech
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

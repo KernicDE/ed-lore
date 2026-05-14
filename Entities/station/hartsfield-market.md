@@ -18,6 +18,13 @@ bio: 'Hartsfield Market is a system in Elite Dangerous, significant from 3301-03
   Market from the Lugh for Equality Party in a devastating blow for the Federation.'
 system: Lugh
 station_type: Orbital Station
+distance_to_arrival: 216.633944
+allegiance: Independent
+government: Corporate
+economy: Agriculture
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

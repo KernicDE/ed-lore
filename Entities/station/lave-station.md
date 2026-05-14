@@ -19,6 +19,14 @@ bio: 'Lave Station is a starport in Elite Dangerous, significant from 3302-03-03
   Reparation.'
 system: Lave
 station_type: Coriolis Starport
+distance_to_arrival: 281
+allegiance: Independent
+government: Corporate
+economy: Agriculture
+second_economy: Repair
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

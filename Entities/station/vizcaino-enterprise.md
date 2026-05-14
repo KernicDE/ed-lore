@@ -17,6 +17,14 @@ bio: Vizcaino Enterprise is a star system in the Elite Dangerous universe, signi
   access.
 system: Nganji
 station_type: Orbital Station
+distance_to_arrival: 84
+allegiance: Independent
+government: Communism
+economy: High Tech
+second_economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 Vizcaino Enterprise serves as a significant installation within a network of systems that includes 49 Arietis, 64 Arietis, Arawere, Diaguandri, and Harma, functioning as a waypoint for trade and transit across this well-travelled region. During early 3302, technical issues at Gabriel Enterprise in the nearby Harma system worsened dramatically, forcing the suspension of all services except docking and shipyard access. This disruption highlighted the interconnected nature of regional infrastructure, where problems at one major installation could redirect traffic and strain capacity at neighbouring facilities.

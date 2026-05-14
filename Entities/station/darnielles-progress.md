@@ -18,6 +18,14 @@ bio: Darnielle's Progress is a star system in the Elite Dangerous universe, sign
   system.
 system: Maia
 station_type: Planetary Port
+distance_to_arrival: 636
+allegiance: Independent
+government: Patronage
+economy: Extraction
+second_economy: Refinery
+have_market: true
+have_shipyard: false
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

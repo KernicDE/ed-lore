@@ -12,6 +12,14 @@ bio: Noctrach-Ihazevich Research facility is a star system in the Elite Dangerou
   universe, significant from 3302-11-22 to 3302-11-22. Associated with Buckyball Racing
   Club. The event starts at the Noctrach-Ihazevich Research facility and involves
   driving to a nearby crash site and back.
+station_type: Planetary Port
+distance_to_arrival: 4440
+allegiance: Independent
+government: Democracy
+economy: Military
+have_market: true
+have_shipyard: false
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

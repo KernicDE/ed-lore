@@ -20,6 +20,14 @@ bio: Colonia Hub is a star system in the Elite Dangerous universe, significant f
   January.
 system: Colonia
 station_type: Orbital Station
+distance_to_arrival: 1011
+allegiance: Independent
+government: Cooperative
+economy: High Tech
+second_economy: Industrial
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 Colonia Hub serves as a central installation within the Colonia region, the burgeoning colony established thousands of light-years from the core systems around Jaques Station. The hub functions as a primary waypoint and service centre for pilots traversing the Colonia Highway, the network of refuelling stops and outposts that makes the arduous journey between the bubble and this distant settlement feasible. Its strategic importance extends beyond logistics to encompass economic coordination, defence planning, and community governance for a region that has developed a distinct identity separate from the superpowers.

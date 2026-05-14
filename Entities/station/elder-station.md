@@ -16,6 +16,13 @@ related_entities:
 bio: Elder Station is a starport in the Elite Dangerous universe, significant from
   3301-07-22 to 3301-07-22. The Cerberus Plague has forced shutdown of key station
   services across multiple starports in Dajoar, Eleu, and 20 Ophiuchi.
+distance_to_arrival: 558.568277
+allegiance: Independent
+government: Cooperative
+economy: Industrial
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

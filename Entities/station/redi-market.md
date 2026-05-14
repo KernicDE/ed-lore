@@ -17,6 +17,13 @@ bio: Redi Market is a star system in the Elite Dangerous universe, significant f
   agitators in Lambda Arae to protect traders.
 system: Lambda Arae
 station_type: Orbital Station
+distance_to_arrival: 967.938048
+allegiance: Independent
+government: Dictatorship
+economy: Agriculture
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

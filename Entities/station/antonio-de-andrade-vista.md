@@ -15,6 +15,13 @@ related_entities:
 - matteucci-terminal
 bio: 'Antonio De Andrade Vista is a star system in the Elite Dangerous universe, significant
   from 3301-02-13 to 3301-02-13. Associated with Federal Navy. '
+distance_to_arrival: 531777
+allegiance: Independent
+government: Democracy
+economy: Tourism
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

@@ -18,6 +18,14 @@ bio: Phillips Landing is a star system in the Elite Dangerous universe, signific
   Tradition. However, civil war is brewing between the Citizens of Tradition and the
   Federal Social Falisci Partnership Party over Phillips Landing, potentially allowing
   Federation control.
+distance_to_arrival: 2254
+allegiance: Empire
+government: Patronage
+economy: Refinery
+second_economy: Extraction
+have_market: true
+have_shipyard: false
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

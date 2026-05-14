@@ -16,9 +16,15 @@ bio: Abel Laboratory is a research outpost that has been involved in various sci
   projects.
 system: Arque
 station_type: Planetary Port
+distance_to_arrival: 2379
+allegiance: Independent
+government: Workshop (Engineer)
+economy: Colony
+second_economy: Colony
+have_market: true
+have_shipyard: false
+have_outfitting: true
 ---
-
-
 
 # Abel Laboratory
 

@@ -21,10 +21,25 @@ government: Democracy
 edsm_url: https://www.edsm.net/en/system?search=Sol
 bio: Mars is the capital world of the Federation and the first planet successfully
   terraformed by humanity, with the process completed in 2291. Following the Federation's
-  defeat at the Battle of Achenar in 2325, the Federal capital was relocated from Earth
-  to Mars. Today it hosts the Federal Congress, government institutions, and major corporate
-  headquarters, supporting a population in the billions with a diversified economy.
+  defeat at the Battle of Achenar in 2325, the Federal capital was relocated from
+  Earth to Mars. Today it hosts the Federal Congress, government institutions, and
+  major corporate headquarters, supporting a population in the billions with a diversified
+  economy.
+system: Sol
+body_type: Earth-like world
+distance_to_arrival: 730
+gravity: 0.3774
+surface_temperature: 260
+terraforming_state: Terraformed
+atmosphere_type: Suitable for water-based life
+volcanism_type: No volcanism
+orbital_period: 686.971
+semi_major_axis: 1.5237
+rotational_period: 1.026
+radius: 3396.2
+earth_masses: 0.107
 ---
+
 
 <!-- AUTO-GENERATED -->
 

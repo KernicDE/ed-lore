@@ -17,6 +17,14 @@ bio: Sagan Port is a starport in the Mundjiga system that served as the construc
   Imperial logistics and community-driven military expansion.
 system: Mundjiga
 station_type: Orbital Station
+distance_to_arrival: 584.345827
+allegiance: Empire
+government: Patronage
+economy: High Tech
+second_economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

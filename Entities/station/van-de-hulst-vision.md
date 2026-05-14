@@ -15,6 +15,13 @@ bio: van de Hulst Vision is a star system in the Elite Dangerous universe, signi
   Vision in the Morai system.
 system: Morai
 station_type: Orbital Station
+distance_to_arrival: 1909.803754
+allegiance: Empire
+government: Patronage
+economy: Industrial
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

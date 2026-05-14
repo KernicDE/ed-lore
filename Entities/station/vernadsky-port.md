@@ -15,6 +15,14 @@ bio: Vernadsky Port is a starport in the Elite Dangerous universe, significant f
   criminal activity in the Ngolibardu system prompts Ngolibardu Electronics Solutions
   to place a kill order on all wanted ships and reward pilots who deliver bounty vouchers
   to Vernadsky Port.
+distance_to_arrival: 1956
+allegiance: Independent
+government: Democracy
+economy: Refinery
+second_economy: Industrial
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

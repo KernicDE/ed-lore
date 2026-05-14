@@ -17,6 +17,14 @@ bio: California Freeport is a starport in the Elite Dangerous universe, signific
   from 3307-05-13 to 3307-05-13. Associated with Kumo Crew, Pilots Federation. Thargoid
   forces invade the Delphi system and multiple systems in the California, Coalsack
   and Pleiades Nebulas.
+distance_to_arrival: 1424
+allegiance: Independent
+government: Feudal
+economy: Refinery
+second_economy: Extraction
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

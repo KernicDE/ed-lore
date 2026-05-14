@@ -15,6 +15,14 @@ bio: An orbital station in the Gateway system, Dublin Citadel became a focal poi
   for Alliance political campaigning in 3307.
 system: Gateway
 station_type: Orbital Station
+distance_to_arrival: 299
+allegiance: Alliance
+government: Corporate
+economy: Agriculture
+second_economy: Agriculture
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

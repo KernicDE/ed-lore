@@ -11,6 +11,13 @@ bio: Fort Harrison is a star system in the Elite Dangerous universe, significant
   3301-09-20 to 3301-09-20. The Federal research programme studying anomalous extraterrestrial
   objects was abruptly terminated by Fort Harrison station governor Aoishe Quaid only
   one week after its inauguration.
+distance_to_arrival: 1547
+allegiance: Alliance
+government: Feudal
+economy: Extraction
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

@@ -16,6 +16,13 @@ bio: Beaumont Dock is a starport in the Elite Dangerous universe, significant fr
   be distributed to those affected by recent conflicts.
 system: Morrina
 station_type: Orbital Station
+distance_to_arrival: 131
+allegiance: Independent
+government: Cooperative
+economy: Agriculture
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

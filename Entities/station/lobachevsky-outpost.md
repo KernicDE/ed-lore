@@ -15,6 +15,13 @@ bio: An outpost in the Pic Tok system that was among the starports affected by t
   technological plague of early 3302.
 system: Pic Tok
 station_type: Outpost
+distance_to_arrival: 431.864087
+allegiance: Independent
+government: Democracy
+economy: Extraction
+have_market: true
+have_shipyard: false
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

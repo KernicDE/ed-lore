@@ -13,6 +13,14 @@ related_entities:
 - sirius-corporation
 bio: 'Muller Terminal is a star system in the Elite Dangerous universe, significant
   from 3309-05-25 to 3309-09-14. Associated with Aegis, Sirius Corporation. '
+distance_to_arrival: 30.267823
+allegiance: Empire
+government: Patronage
+economy: High Tech
+second_economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

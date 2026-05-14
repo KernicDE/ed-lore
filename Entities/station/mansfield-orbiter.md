@@ -19,6 +19,13 @@ bio: Mansfield Orbiter is a star system in the Elite Dangerous universe, signifi
   rare liquors.
 system: Epsilon Indi
 station_type: Orbital Station
+distance_to_arrival: 143
+allegiance: Independent
+government: Cooperative
+economy: Agriculture
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

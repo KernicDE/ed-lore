@@ -13,6 +13,13 @@ bio: An orbital station in the Yum Kamcabi system, Dirichlet Orbital became the 
   hub for one of Jasmina Halsey's post-presidency humanitarian campaigns.
 system: Yum Kamcabi
 station_type: Orbital Station
+distance_to_arrival: 57
+allegiance: Independent
+government: Corporate
+economy: Terraforming
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

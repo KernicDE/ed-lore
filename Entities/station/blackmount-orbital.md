@@ -15,6 +15,13 @@ bio: A Federal outpost constructed in the HIP 17692 system near the Pleiades Neb
   Blackmount Orbital was built specifically to monitor Thargoid activity in the region.
 system: HIP 17692
 station_type: Orbital Station
+distance_to_arrival: 1986
+allegiance: Independent
+government: Patronage
+economy: Extraction
+have_market: true
+have_shipyard: false
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

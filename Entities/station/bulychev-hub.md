@@ -16,6 +16,14 @@ related_entities:
 bio: Bulychev Hub is a star system in the Elite Dangerous universe, significant from
   3304-02-02 to 3304-02-09. Associated with Alliance. Huge quantities of raw materials
   were delivered to Bulychev Hub.
+distance_to_arrival: 1560
+allegiance: Alliance
+government: Corporate
+economy: High Tech
+second_economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

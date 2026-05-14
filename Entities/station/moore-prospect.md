@@ -14,6 +14,13 @@ related_entities:
 - mu-koji
 bio: 'Moore Prospect is a star system in the Elite Dangerous universe, significant
   from 3302-10-01 to 3302-10-01. Associated with Cutter Club, Kalana Independents. '
+distance_to_arrival: 18
+allegiance: Empire
+government: Patronage
+economy: Colony
+have_market: false
+have_shipyard: false
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

@@ -19,6 +19,14 @@ bio: 'Jameson Memorial is a system in Elite Dangerous, significant from 3301-09-
   the thousands of C...'
 system: Shinrarta Dezhra
 station_type: Orbis Starport
+distance_to_arrival: 3434
+allegiance: Pilots Federation
+government: Democracy
+economy: High Tech
+second_economy: Industrial
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

@@ -16,6 +16,14 @@ related_entities:
 bio: Patterson Vision is a star system in the Elite Dangerous universe, significant
   from 3303-10-27 to 3303-11-03. Associated with Hallowed Chapter of LHS 2094. Hundreds
   of pilots delivered goods to Patterson Vision and protected traders from agitators.
+distance_to_arrival: 36030
+allegiance: Independent
+government: Corporate
+economy: Refinery
+second_economy: Industrial
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

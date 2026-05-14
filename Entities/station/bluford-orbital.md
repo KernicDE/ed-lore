@@ -19,6 +19,13 @@ bio: Bluford Orbital is a starport in the Elite Dangerous universe, significant 
   3447 system.
 system: LHS 3447
 station_type: Orbital Station
+distance_to_arrival: 2114.140959
+allegiance: Pilots Federation
+government: Democracy
+economy: Agriculture
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

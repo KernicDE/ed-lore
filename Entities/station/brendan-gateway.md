@@ -18,6 +18,14 @@ bio: Brendan Gateway is a star system in the Elite Dangerous universe, significa
   ground troops seized Godel Dock, the People's Quivira for Equality Party retreated
   to Brendan Gateway before launching a counterattack with independent and Federal
   pilots.
+distance_to_arrival: 40.977537
+allegiance: Empire
+government: Corporate
+economy: Industrial
+second_economy: Extraction
+have_market: true
+have_shipyard: false
+have_outfitting: false
 ---
 
 <!-- AUTO-GENERATED -->

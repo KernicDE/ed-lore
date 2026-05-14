@@ -15,6 +15,13 @@ related_entities:
 - hip-22460
 bio: 'Riemann Colony is a star system in the Elite Dangerous universe, significant
   from 3308-09-12 to 3308-09-29. Associated with Pilots Federation. '
+distance_to_arrival: 1360
+allegiance: Independent
+government: Corporate
+economy: Industrial
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

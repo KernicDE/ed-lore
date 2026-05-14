@@ -17,6 +17,13 @@ bio: Naubakht City is a star system in the Elite Dangerous universe, significant
   3301-03-06 to 3301-03-06. Stop Slavery Stupid announced it would accept Imperial
   slaves for emancipation at Mackenzie Relay in Cemiess, Thiele Orbital in Ngun and
   Naubakht City in Eta Horologii.
+distance_to_arrival: 10434.2066
+allegiance: Empire
+government: Patronage
+economy: Agriculture
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

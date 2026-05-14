@@ -15,6 +15,14 @@ bio: Yolen Hub is a star system in the Elite Dangerous universe, significant fro
   aboard Yolen Hub in HIP 116213.
 system: HIP 116213
 station_type: Orbital Station
+distance_to_arrival: 458
+allegiance: Independent
+government: Communism
+economy: High Tech
+second_economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

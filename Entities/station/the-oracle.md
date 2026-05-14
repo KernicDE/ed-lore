@@ -18,6 +18,14 @@ bio: 'The Oracle is a system in Elite Dangerous, significant from 3304-06-01 to 
   in the Pleiades Nebula receives huge quantities of construction materials.'
 system: Delphi
 station_type: Ocellus Starport
+distance_to_arrival: 3084
+allegiance: Independent
+government: Patronage
+economy: High Tech
+second_economy: High Tech
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

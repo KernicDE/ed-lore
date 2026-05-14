@@ -15,6 +15,13 @@ bio: Laura Elizabeth is a star system in the Elite Dangerous universe, significa
   and deliver them to Laura Elizabeth in the Meropis system.
 system: Meropis
 station_type: Megaship
+distance_to_arrival: 934
+allegiance: Independent
+government: Cooperative
+economy: Industrial
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

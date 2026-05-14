@@ -15,6 +15,14 @@ related_entities:
 - achenar
 bio: 'Hahn Gateway in the Nanomam is a star system in the Elite Dangerous universe,
   significant from 3307-03-11 to 3307-03-11. Associated with Imperial Navy. '
+distance_to_arrival: 399
+allegiance: Federation
+government: Corporate
+economy: Agriculture
+second_economy: Agriculture
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

@@ -14,6 +14,14 @@ related_entities:
 - fomalhaut
 bio: 'Dickensport is a starport in the Elite Dangerous universe, significant from
   3301-11-04 to 3301-11-04. '
+distance_to_arrival: 4797
+allegiance: Federation
+government: Corporate
+economy: Extraction
+second_economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

@@ -12,6 +12,13 @@ bio: 'Love Orbital is a starport in the Elite Dangerous universe, significant fr
   3302-09-15 to 3302-10-13. Associated with Latugara PLC. '
 system: Latugara
 station_type: Orbital Station
+distance_to_arrival: 443
+allegiance: Independent
+government: Dictatorship
+economy: Industrial
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

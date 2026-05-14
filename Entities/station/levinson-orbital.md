@@ -13,6 +13,13 @@ related_entities:
 - bhattra
 bio: 'Levinson Orbital is a starport in the Elite Dangerous universe, significant
   from 3307-12-09 to 3307-12-09. Associated with Core Dynamics, Vodel. '
+distance_to_arrival: 232
+allegiance: Independent
+government: Confederacy
+economy: Extraction
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

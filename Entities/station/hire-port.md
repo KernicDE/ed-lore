@@ -16,6 +16,14 @@ related_entities:
 bio: Hire Port is a starport in the Elite Dangerous universe, significant from 3304-07-20
   to 3304-07-27. Associated with Ienpalang Corporation. The operation in Zibal is
   coordinated by Zibal Power Co, while Ienpalang Corporation supports action in Ienpalang.
+distance_to_arrival: 222
+allegiance: Independent
+government: Anarchy
+economy: Industrial
+second_economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

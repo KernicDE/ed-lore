@@ -15,6 +15,13 @@ bio: Nixon Enterprise is a star system in the Elite Dangerous universe, signific
   final phase of transforming the arid planet into a fertile, life-sustaining world.
 system: Vennik
 station_type: Orbital Station
+distance_to_arrival: 587
+allegiance: Independent
+government: Confederacy
+economy: Agriculture
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

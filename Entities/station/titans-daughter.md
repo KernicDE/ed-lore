@@ -16,9 +16,15 @@ bio: Titan's Daughter is an installation in the Taygeta system. It has served as
   region.
 system: Taygeta
 station_type: Installation
+distance_to_arrival: 3082
+allegiance: Independent
+government: Cooperative
+economy: Extraction
+second_economy: Extraction
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
-
-
 
 # Titan's Daughter
 

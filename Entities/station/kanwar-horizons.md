@@ -15,6 +15,13 @@ related_entities:
 - vasak
 bio: 'Kanwar Horizons is a star system in the Elite Dangerous universe, significant
   from 3302-01-22 to 3302-01-22. Associated with Buckyball Racing Club. '
+distance_to_arrival: 17
+allegiance: Independent
+government: Corporate
+economy: Industrial
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

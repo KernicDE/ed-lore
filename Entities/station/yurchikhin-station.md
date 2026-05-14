@@ -15,6 +15,14 @@ bio: 'Yurchikhin Station is a starport in the Elite Dangerous universe, signific
   Federation. '
 system: Andhrimi
 station_type: Orbital Station
+distance_to_arrival: 10
+allegiance: Independent
+government: Democracy
+economy: High Tech
+second_economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

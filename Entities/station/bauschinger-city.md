@@ -17,6 +17,13 @@ bio: Bauschinger City is a star system in the Elite Dangerous universe, signific
   to deliver exploration data to Bauschinger City in the Bava system.
 system: Bava
 station_type: Orbital Station
+distance_to_arrival: 787.532301
+allegiance: Independent
+government: Cooperative
+economy: Industrial
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

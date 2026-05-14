@@ -16,6 +16,13 @@ bio: Klimuk Ring is a star system in the Elite Dangerous universe, significant f
   Hundreds of pilots delivered materials to Klimuk Ring and eliminated agitators in
   the Guaras system. The materials will support a new wave of manufacturing to replace
   ships lost in Thargoid attacks.
+distance_to_arrival: 206480
+allegiance: Federation
+government: Corporate
+economy: Industrial
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

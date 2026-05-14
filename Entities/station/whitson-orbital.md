@@ -16,6 +16,13 @@ bio: Whitson Orbital is a starport in the Elite Dangerous universe, significant 
   Starship Enterprises Corporation's wildlife reserve campaign in the LP 339-7 system
   has concluded successfully, with commodities delivered to Whitson Orbital for a
   reserve on LP 339-7 4 A.
+distance_to_arrival: 74
+allegiance: Independent
+government: Democracy
+economy: Agriculture
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

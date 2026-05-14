@@ -13,6 +13,13 @@ related_entities:
 - sol
 bio: 'Forester''s Choice is a star system in the Elite Dangerous universe, significant
   from 3308-05-13 to 3308-06-17. '
+distance_to_arrival: 551
+allegiance: Federation
+government: Democracy
+economy: Agriculture
+have_market: true
+have_shipyard: false
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

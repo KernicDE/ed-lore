@@ -25,7 +25,27 @@ bio: 'Jupiter is a system in Elite Dangerous, significant from 3304-09-09 to 330
   changes, the fire destroying Supratech''s facility, in...; President Zachary Hudson
   and Shadow President Felicia Winters will both attend The diplomatic conference
   in The Sirius system.'
+system: Sol
+body_type: Class I gas giant
+distance_to_arrival: 2644
+gravity: 2.5293
+surface_temperature: 147
+terraforming_state: Not terraformable
+atmosphere_type: No atmosphere
+volcanism_type: No volcanism
+orbital_period: 4332.5898
+semi_major_axis: 5.2043
+rotational_period: 0.4135
+radius: 71492
+earth_masses: 317.7996
+rings:
+- name: Jupiter Halo Ring
+  type: Rocky
+  mass: 10000
+  innerRadius: 92000
+  outerRadius: 182000
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -18,6 +18,14 @@ bio: Tshang City is a starport in the Furuhjelm III-674 system that served as th
   Sector BA-A E6 4.
 system: Furuhjelm III-674
 station_type: Planetary Port
+distance_to_arrival: 49
+allegiance: Alliance
+government: Democracy
+economy: Industrial
+second_economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

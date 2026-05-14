@@ -16,6 +16,14 @@ bio: A major orbital station in the Mars system, Mars High is one of the Federat
   Senator Kahina Tijani Loren.
 system: Sol
 station_type: Orbital Station
+distance_to_arrival: 494
+allegiance: Federation
+government: Democracy
+economy: Service
+second_economy: Service
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

@@ -19,6 +19,14 @@ bio: Fincke Depot is a star system in the Elite Dangerous universe, significant 
   fleeing or being hunted by former allies.
 system: Krisha
 station_type: Orbital Station
+distance_to_arrival: 462
+allegiance: Independent
+government: Democracy
+economy: Extraction
+second_economy: Refinery
+have_market: true
+have_shipyard: false
+have_outfitting: false
 ---
 
 <!-- AUTO-GENERATED -->

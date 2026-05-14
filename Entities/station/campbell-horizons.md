@@ -17,6 +17,13 @@ bio: Campbell Horizons is a star system in the Elite Dangerous universe, signifi
   to begin constructing a Thargoid research outpost.
 system: Abroin
 station_type: Orbital Station
+distance_to_arrival: 18.265046
+allegiance: Alliance
+government: Democracy
+economy: Industrial
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

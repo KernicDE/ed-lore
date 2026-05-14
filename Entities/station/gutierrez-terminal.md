@@ -16,6 +16,13 @@ related_entities:
 bio: Gutierrez Terminal is a star system in the Elite Dangerous universe, significant
   from 3301-04-16 to 3301-04-16. Associated with Mictlan Cartel. Commanders can sign
   up at Heinkel City in Almad and Gutierrez Terminal in LTT 9810.
+distance_to_arrival: 60
+allegiance: Independent
+government: Cooperative
+economy: Agriculture
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

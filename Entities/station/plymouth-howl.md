@@ -15,6 +15,13 @@ related_entities:
 - chanjie
 bio: 'Plymouth Howl is a star system in the Elite Dangerous universe, significant
   from 3308-04-28 to 3308-05-12. '
+distance_to_arrival: 271
+allegiance: Alliance
+government: Patronage
+economy: Refinery
+have_market: true
+have_shipyard: false
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

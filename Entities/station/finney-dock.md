@@ -16,6 +16,13 @@ related_entities:
 bio: Finney Dock is a starport in the Elite Dangerous universe, significant from 3301-07-22
   to 3301-07-22. Unavailable services include re-arming, market, bulletin board, docking,
   shipyard, outfitting, and black market.
+distance_to_arrival: 114967
+allegiance: Independent
+government: Cooperative
+economy: Agriculture
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

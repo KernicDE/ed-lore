@@ -19,6 +19,13 @@ bio: 'Newton Dock is a starport in Elite Dangerous, significant from 3301-06-30 
   BD...'
 system: BD-02 4304
 station_type: Orbital Station
+distance_to_arrival: 5810.477816
+allegiance: Independent
+government: Cooperative
+economy: Agriculture
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

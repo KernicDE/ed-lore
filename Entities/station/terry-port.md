@@ -12,6 +12,13 @@ bio: 'Terry Port is a starport in the Elite Dangerous universe, significant from
   to 3302-06-23. Associated with Utopia. '
 system: Garoku
 station_type: Orbital Station
+distance_to_arrival: 99.622237
+allegiance: Independent
+government: Dictatorship
+economy: Extraction
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

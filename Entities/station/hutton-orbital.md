@@ -16,6 +16,13 @@ bio: Hutton Orbital is a starport in the Elite Dangerous universe, significant f
   possible.
 system: Alpha Centauri
 station_type: Orbital Station
+distance_to_arrival: 6395296
+allegiance: Independent
+government: Cooperative
+economy: Extraction
+have_market: true
+have_shipyard: false
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

@@ -18,6 +18,13 @@ bio: Explorer's Anchorage is a star system in the Elite Dangerous universe, sign
   Sagittarius A*.
 system: Stuemeae FG-Y d7561
 station_type: Installation
+distance_to_arrival: 4695
+allegiance: Independent
+government: Democracy
+economy: Extraction
+have_market: true
+have_shipyard: false
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

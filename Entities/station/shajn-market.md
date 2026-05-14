@@ -15,6 +15,14 @@ bio: Shajn Market is a star system in the Elite Dangerous universe, significant 
   3303-08-25 to 3303-09-15. Associated with Kamadhenu Chapterhouse of Inquisition,
   Colonia Council. The organisation has placed an open order for gold, robotics and
   auto-fabricators for delivery to Shajn Market in the Kamadhenu system.
+distance_to_arrival: 797
+allegiance: Empire
+government: Patronage
+economy: Agriculture
+second_economy: Agriculture
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

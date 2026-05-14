@@ -19,6 +19,13 @@ bio: Dzhanibekov Port is a starport in the Elite Dangerous universe, significant
   Dzhanibekov Port.
 system: T'iensei
 station_type: Orbital Station
+distance_to_arrival: 1338
+allegiance: Independent
+government: Corporate
+economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

@@ -18,6 +18,13 @@ bio: Roberts Port is a starport in the Elite Dangerous universe, significant fro
   Microcontrollers delivered to Roberts Port in the Fedmich system.
 system: Fedmich
 station_type: Orbital Station
+distance_to_arrival: 475
+allegiance: Alliance
+government: Corporate
+economy: Industrial
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

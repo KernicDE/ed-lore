@@ -14,6 +14,12 @@ related_entities:
 - federation
 bio: 'Overlook is a star system in the Elite Dangerous universe, significant from
   3308-07-27 to 3308-07-27. Associated with Black Flight, Alliance, Empire. '
+station_type: Mega ship
+distance_to_arrival: 1466.293767
+allegiance: Independent
+have_market: false
+have_shipyard: false
+have_outfitting: false
 ---
 
 <!-- AUTO-GENERATED -->

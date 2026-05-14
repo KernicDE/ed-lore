@@ -12,6 +12,13 @@ bio: 'Stone Enterprise is a star system in the Elite Dangerous universe, signifi
   from 3303-06-30 to 3303-07-07. Associated with People''s Rakapila Progressive Party. '
 system: Rakapila
 station_type: Orbital Station
+distance_to_arrival: 39
+allegiance: Independent
+government: Corporate
+economy: Industrial
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

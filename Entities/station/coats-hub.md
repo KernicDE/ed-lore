@@ -16,6 +16,13 @@ bio: A starport that served as an observation point during the technological pla
   stations in late 3301.
 system: Warkushanui
 station_type: Orbital Station
+distance_to_arrival: 86
+allegiance: Independent
+government: Democracy
+economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

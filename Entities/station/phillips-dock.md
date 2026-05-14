@@ -14,6 +14,14 @@ bio: Phillips Dock is a starport in the Elite Dangerous universe, significant fr
   with a massive influx of deliveries to Phillips Dock.
 system: Peacock
 station_type: Orbital Station
+distance_to_arrival: 1971
+allegiance: Independent
+government: Communism
+economy: Extraction
+second_economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

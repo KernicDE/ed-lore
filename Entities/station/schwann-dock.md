@@ -13,6 +13,14 @@ bio: 'Schwann Dock is a starport in the Elite Dangerous universe, significant fr
   3302-06-02 to 3302-06-09. Associated with Mehet Ltd, Pilots Federation. '
 system: Mehet
 station_type: Orbital Station
+distance_to_arrival: 287.209223
+allegiance: Independent
+government: Corporate
+economy: High Tech
+second_economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

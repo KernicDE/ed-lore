@@ -15,6 +15,14 @@ related_entities:
 - hip-22460
 bio: 'Samuda Terminal is a star system in the Elite Dangerous universe, significant
   from 3308-09-12 to 3308-09-29. Associated with Pilots Federation. '
+distance_to_arrival: 62480
+allegiance: Independent
+government: Corporate
+economy: Industrial
+second_economy: Extraction
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

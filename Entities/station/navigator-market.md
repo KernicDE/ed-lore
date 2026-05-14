@@ -14,6 +14,13 @@ bio: 'Navigator Market is a star system in the Elite Dangerous universe, signifi
   Republic Party. '
 system: Xelabara
 station_type: Orbital Station
+distance_to_arrival: 302.679571
+allegiance: Alliance
+government: Democracy
+economy: Agriculture
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

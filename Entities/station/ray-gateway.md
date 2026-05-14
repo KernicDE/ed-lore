@@ -15,6 +15,14 @@ bio: Ray Gateway is a star system in the Elite Dangerous universe, significant f
   3302-01-04 to 3302-02-24.
 system: Diaguandri
 station_type: Orbital Station
+distance_to_arrival: 1614
+allegiance: Independent
+government: Democracy
+economy: High Tech
+second_economy: Refinery
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

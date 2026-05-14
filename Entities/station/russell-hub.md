@@ -14,6 +14,13 @@ bio: Russell Hub is a star system in the Elite Dangerous universe, significant f
   successfully with a massive influx of deliveries to Russell Hub.
 system: Sitakapa
 station_type: Orbital Station
+distance_to_arrival: 41.166419
+allegiance: Empire
+government: Dictatorship
+economy: Military
+have_market: true
+have_shipyard: false
+have_outfitting: false
 ---
 
 <!-- AUTO-GENERATED -->

@@ -14,6 +14,13 @@ bio: Lasswitz Terminal is a star system in the Elite Dangerous universe, signifi
   from 3301-12-23 to 3301-12-23. Alfred Jeffress's third treasure hunt ends with two
   winners, Commanders MAX RED and Sync Mercy, who solved riddles leading through multiple
   systems to Lasswitz Terminal in Mentor and finally Prism.
+distance_to_arrival: 851
+allegiance: Federation
+government: Democracy
+economy: Agriculture
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

@@ -16,6 +16,14 @@ bio: A starport in the Santa Muerte system, Clauss Port was the destination for 
   3301 and 3303.
 system: Santa Muerte
 station_type: Orbital Station
+distance_to_arrival: 15
+allegiance: Alliance
+government: Cooperative
+economy: Refinery
+second_economy: Extraction
+have_market: true
+have_shipyard: false
+have_outfitting: false
 ---
 
 <!-- AUTO-GENERATED -->

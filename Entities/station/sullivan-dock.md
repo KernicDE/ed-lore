@@ -14,6 +14,14 @@ bio: Sullivan Dock is a starport in the Elite Dangerous universe, significant fr
   a kill order on wanted ships operating in the LFT 133 system to protect traders.
 system: LFT 133
 station_type: Orbital Station
+distance_to_arrival: 2462
+allegiance: Independent
+government: Cooperative
+economy: Industrial
+second_economy: Extraction
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->

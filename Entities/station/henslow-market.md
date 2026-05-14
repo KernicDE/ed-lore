@@ -17,6 +17,13 @@ bio: Henslow Market is a star system in the Elite Dangerous universe, significan
   Bond. The Adenets Pro-Alliance Bond organises deliveries of robotics, computer components,
   and microcontrollers to Henslow Market in the Adenets system for manufacturing new
   PA912 administration robots.
+distance_to_arrival: 325.320851
+allegiance: Alliance
+government: Corporate
+economy: Agriculture
+have_market: true
+have_shipyard: true
+have_outfitting: true
 ---
 
 <!-- AUTO-GENERATED -->
