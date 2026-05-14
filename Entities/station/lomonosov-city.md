@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3303-10-13'
 last_seen_date: '3303-10-13'
 mention_count: 1
+system: HIP 104292
+station_type: Starport
 related_entities:
 - kuun-lan
 - hip-104292

@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3302-04-12'
 last_seen_date: '3302-04-12'
 mention_count: 1
+system: Sol
+station_type: Starport
 related_entities:
 - interstellar-press
 - sol-system

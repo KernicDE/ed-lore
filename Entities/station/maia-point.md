@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3302-11-01'
 last_seen_date: '3302-11-01'
 mention_count: 1
+system: Maia
+station_type: Starport
 related_entities:
 - pleiades-resource-enterprise
 - ant-hill-mob

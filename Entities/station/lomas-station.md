@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3302-07-22'
 last_seen_date: '3302-07-22'
 mention_count: 1
+system: Wolf 359
+station_type: Starport
 related_entities:
 - buckyball-racing-club
 - wolf-359

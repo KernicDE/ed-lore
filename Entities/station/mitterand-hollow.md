@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3302-06-17'
 last_seen_date: '3302-06-17'
 mention_count: 1
+system: Epsilon Indi
+station_type: Starport
 related_entities:
 - epsilon-indi
 - sol

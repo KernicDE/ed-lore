@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3304-01-26'
 last_seen_date: '3304-01-26'
 mention_count: 1
+system: Pleiades Sector HR-W D1-41
+station_type: Starport
 related_entities:
 - pleiades-sector-kc-v-c2-11
 - pleiades-sector-hr-w-d1-41

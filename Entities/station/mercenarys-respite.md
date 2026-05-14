@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3301-06-08'
 last_seen_date: '3301-06-08'
 mention_count: 1
+system: Sefrys
+station_type: Starport
 related_entities:
 - dukes-of-mikunn
 - mercenaries-of-mikunn
