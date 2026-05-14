@@ -17,6 +17,8 @@ bio: Mansfield Orbiter is a star system in the Elite Dangerous universe, signifi
   Orbiter. The United Epsilon Indi Flag announces the successful decriminalisation
   of Indi Bourbon after hundreds of pilots flooded Mansfield Orbiter with illegal
   rare liquors.
+system: Epsilon Indi
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

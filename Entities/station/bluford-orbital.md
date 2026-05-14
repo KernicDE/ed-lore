@@ -17,6 +17,8 @@ bio: Bluford Orbital is a starport in the Elite Dangerous universe, significant 
   new Orbis starport named Bluford Orbital in LHS 3447. LHS 3447 Dynamic and Co announces
   the successful conclusion of the campaign to construct Bluford Orbital in the LHS
   3447 system.
+system: LHS 3447
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

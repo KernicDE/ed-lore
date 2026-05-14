@@ -16,6 +16,8 @@ bio: London Relay is a star system in the Elite Dangerous universe, significant 
   Alliance. Authorities at London Relay in Epsilon Indi report a dramatic spike in
   smuggling linked to 'Revolution Incorporated' requesting explosives, coinciding
   with the upcoming security summit.
+system: Epsilon Indi
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

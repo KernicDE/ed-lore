@@ -17,6 +17,8 @@ bio: Taylor Colony is a star system in the Elite Dangerous universe, significant
   outside Sol. Born and raised on Taylor Colony, Winters believes humanity cannot
   always be trusted to do the right thing and sees it as her duty to push for the
   hard but correct choice.
+system: Tau Ceti
+station_type: Planetary Settlement
 ---
 
 <!-- AUTO-GENERATED -->

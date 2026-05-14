@@ -13,6 +13,8 @@ related_entities:
 - 64-arietis
 bio: 'al-Din Prospect is a star system in the Elite Dangerous universe, significant
   from 3302-01-20 to 3302-02-24. '
+system: Alpha Centauri
+station_type: Planetary Port
 ---
 
 <!-- AUTO-GENERATED -->

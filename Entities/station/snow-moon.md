@@ -14,6 +14,8 @@ bio: Snow Moon is a star system in the Elite Dangerous universe, significant fro
   Energy Industry requests Crystalline Spheres from Snow Moon in the Bento system
   to commemorate the winter solstice festival, offering pilots a week-long delivery
   contract.
+system: Bento
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

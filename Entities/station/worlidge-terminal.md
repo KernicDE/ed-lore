@@ -13,6 +13,8 @@ related_entities:
 - bluford-orbital
 bio: 'Worlidge Terminal is a star system in the Elite Dangerous universe, significant
   from 3302-02-25 to 3302-03-03. Associated with LHS 3447 Dynamic and Co, Pilots Federation. '
+system: LHS 3447
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

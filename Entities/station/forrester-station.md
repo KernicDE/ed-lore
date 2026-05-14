@@ -14,6 +14,8 @@ related_entities:
 bio: 'Forrester Station is a starport in the Elite Dangerous universe, significant
   from 3301-07-19 to 3301-07-31. Associated with Federal Intelligence Agency, Justice
   Party. '
+system: BD-22 3573
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->
