@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3301-08-02'
 last_seen_date: '3301-08-02'
 mention_count: 1
+system: Heike
+station_type: Starport
 related_entities:
 - union-of-bast-liberals
 - bast

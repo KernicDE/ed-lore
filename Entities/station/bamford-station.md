@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3301-03-31'
 last_seen_date: '3301-03-31'
 mention_count: 1
+system: Themiscrya
+station_type: Starport
 related_entities:
 - nationals-of-themiscrya
 - themiscrya

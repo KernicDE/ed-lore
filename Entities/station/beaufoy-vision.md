@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3304-06-22'
 last_seen_date: '3304-06-24'
 mention_count: 2
+system: Nauni
+station_type: Starport
 related_entities:
 - aegis
 - bhal

@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3304-07-20'
 last_seen_date: '3304-07-27'
 mention_count: 2
+system: Ienpalang
+station_type: Starport
 related_entities:
 - league-of-reparation
 - zibal-power-co

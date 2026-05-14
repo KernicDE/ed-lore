@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3302-03-14'
 last_seen_date: '3302-03-14'
 mention_count: 1
+system: CD-37 641
+station_type: Starport
 related_entities:
 - buckyball-racing-club
 - buckey-ring

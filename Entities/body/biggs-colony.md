@@ -1,10 +1,12 @@
 ---
 id: biggs-colony
 name: Biggs Colony
-type: station
+type: body
 first_seen_date: '3304-05-24'
 last_seen_date: '3308-09-28'
 mention_count: 5
+system: Altair
+body_type: Planet
 related_entities:
 - core-dynamics
 - altair

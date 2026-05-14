@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3304-06-29'
 last_seen_date: '3304-07-06'
 mention_count: 2
+system: Tir
+station_type: Starport
 related_entities:
 - tir-technology-services
 - tir

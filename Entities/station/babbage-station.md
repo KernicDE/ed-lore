@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3301-06-12'
 last_seen_date: '3301-06-12'
 mention_count: 1
+system: Gandii
+station_type: Starport
 related_entities:
 - kumo-crew
 - hand-gang-of-gandii

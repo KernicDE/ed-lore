@@ -135,6 +135,7 @@ GARBAGE_ENTITY_IDS: set[str] = {
     "elvira-martuuk", "zemina-torval", "delaine", "torval", "archon-delaine",
     "pranav-antal", "the-entire", "star",
     "all-shipyards-within-the-alioth", "adeness",
+    "brunel-city", "blenkinsop-hub-in-the-andavandul",
 }
 
 LOCATION_BLOCKLIST = {

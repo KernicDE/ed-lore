@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3301-05-05'
 last_seen_date: '3301-05-05'
 mention_count: 1
+system: Quivira
+station_type: Starport
 related_entities:
 - peoples-quivira-for-equality-party
 - nationalists-of-quivira
