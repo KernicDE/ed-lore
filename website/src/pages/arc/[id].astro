@@ -206,7 +206,7 @@ const sigColors: Record<string, string> = {
             {keyEntities.map((ent: any) => (
               <a href={`${baseUrl}/entity/${ent.id}/`} class="entity-card" style="text-decoration: none;">
                 <div class={`entity-icon ${ent.type || 'person'}`}>
-                  {ent.type === 'person' ? 'P' : ent.type === 'faction' ? 'F' : 'L'}
+                  {ent.type === 'person' ? 'P' : ent.type === 'faction' ? 'F' : ent.type === 'station' ? 'S' : 'L'}
                 </div>
                 <div>
                   <div class="entity-name">{ent.name}</div>

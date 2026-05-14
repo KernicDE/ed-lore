@@ -99,6 +99,7 @@ const typeLabels: Record<string, string> = {
   faction: 'Faction / Organisation',
   location: 'System / Location',
   technology: 'Technology / Ship',
+  station: 'Station / Port',
 };
 
 function formatNumber(n: number): string {
@@ -106,6 +107,15 @@ function formatNumber(n: number): string {
   if (n >= 1_000_000) return (n / 1_000_000).toFixed(1) + 'M';
   if (n >= 1_000) return (n / 1_000).toFixed(1) + 'K';
   return String(n);
+}
+
+function slugify(name: string): string {
+  return name
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '');
 }
 ---
 
@@ -128,7 +138,7 @@ function formatNumber(n: number): string {
     <div class="holo-panel">
       <div style="display: flex; align-items: center; gap: 16px;">
         <div class={`entity-icon ${entity?.type || 'person'}`} style="width: 48px; height: 48px; font-size: 18px;">
-          {entity?.type === 'person' ? 'P' : entity?.type === 'faction' ? 'F' : entity?.type === 'technology' ? 'T' : 'L'}
+          {entity?.type === 'person' ? 'P' : entity?.type === 'faction' ? 'F' : entity?.type === 'technology' ? 'T' : entity?.type === 'station' ? 'S' : 'L'}
         </div>
         <div style="flex: 1; min-width: 0;">
           <h1 style="margin: 0; font-family: var(--font-hud); font-size: 24px; color: var(--elite-orange);">
@@ -176,15 +186,26 @@ function formatNumber(n: number): string {
     )}
 
     {/* Location data from EDSM */}
-    {entity?.type === 'location' && (
+    {(entity?.type === 'location' || entity?.type === 'station') && (
       <div class="holo-panel">
-        <div class="holo-title">System Data</div>
+        <div class="holo-title">{entity?.type === 'station' ? 'Station Data' : 'System Data'}</div>
+        {entity?.type === 'station' && entity?.system && (
+          <div style="font-family: var(--font-mono); font-size: 12px; color: var(--text-secondary); margin-bottom: 8px;">
+            System: <a href={`${baseUrl}/entity/${slugify(entity.system)}/`} style="color: var(--elite-blue); text-decoration: none;">{entity.system}</a>
+          </div>
+        )}
         {entity?.coords && (
           <div style="font-family: var(--font-mono); font-size: 12px; color: var(--text-secondary); margin-bottom: 8px;">
             Coordinates: [{entity.coords.x}, {entity.coords.y}, {entity.coords.z}]
           </div>
         )}
         <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 8px; font-size: 13px;">
+          {entity?.station_type && (
+            <div><span style="color: var(--text-dim);">Station Type:</span> <span style="color: var(--text-primary);">{entity.station_type}</span></div>
+          )}
+          {entity?.distance_to_arrival && (
+            <div><span style="color: var(--text-dim);">Distance to Arrival:</span> <span style="color: var(--text-primary);">{entity.distance_to_arrival} ls</span></div>
+          )}
           {entity?.allegiance && (
             <div><span style="color: var(--text-dim);">Allegiance:</span> <span style="color: var(--text-primary);">{entity.allegiance}</span></div>
           )}
@@ -223,7 +244,7 @@ function formatNumber(n: number): string {
           {related.map((rel: any) => (
             <a href={`${baseUrl}/entity/${rel.id}/`} class="entity-card" style="text-decoration: none;">
               <div class={`entity-icon ${rel.type || 'person'}`}>
-                {rel.type === 'person' ? 'P' : rel.type === 'faction' ? 'F' : rel.type === 'technology' ? 'T' : 'L'}
+                {rel.type === 'person' ? 'P' : rel.type === 'faction' ? 'F' : rel.type === 'technology' ? 'T' : rel.type === 'station' ? 'S' : 'L'}
               </div>
               <div>
                 <div class="entity-name">{rel.name}</div>

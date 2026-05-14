@@ -465,10 +465,12 @@ def build() -> dict[str, Any]:
                 continue
             rec = graph["entities"][eid]
             # Merge enriched fields
-            for key in ["coords", "allegiance", "government", "controlling_faction",
+            for key in ["type", "coords", "allegiance", "government", "controlling_faction",
                         "population", "security", "economy", "second_economy",
                         "edsm_url", "inara_url", "parent_arc", "summary", "description",
-                        "status", "outcome", "phases", "key_entities", "bio", "related_entities"]:
+                        "status", "outcome", "phases", "key_entities", "bio", "related_entities",
+                        "system", "station_type", "distance_to_arrival",
+                        "have_market", "have_shipyard", "have_outfitting"]:
                 if key in fm and fm[key] is not None:
                     rec[key] = fm[key]
             # Extract full markdown biography after the frontmatter
