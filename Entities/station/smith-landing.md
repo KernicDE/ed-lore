@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3304-09-07'
 last_seen_date: '3304-09-13'
 mention_count: 2
+system: Amber
+station_type: Starport
 related_entities:
 - alioth-independents
 - alliance

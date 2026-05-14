@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3301-11-04'
 last_seen_date: '3301-11-04'
 mention_count: 1
+system: Faust 68
+station_type: Starport
 related_entities:
 - cernunnos
 - faust-68

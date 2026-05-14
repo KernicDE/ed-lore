@@ -156,6 +156,7 @@ GARBAGE_ENTITY_IDS: set[str] = {
     "shajn-market-in-the-kamadhenu", "several-military-ports-across-the-core",
     "san-francisco",
     "skyglow-havens", "simpsons-eden",
+    "slough",
 }
 
 LOCATION_BLOCKLIST = {
