@@ -159,6 +159,7 @@ GARBAGE_ENTITY_IDS: set[str] = {
     "slough",
     "solo-orbiter",
     "stillman-hub-in-the-hip-22550",
+    "tanner-settlement-in-the-polevnic",
 }
 
 LOCATION_BLOCKLIST = {

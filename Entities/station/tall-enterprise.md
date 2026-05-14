@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3302-02-24'
 last_seen_date: '3302-02-24'
 mention_count: 1
+system: 63 G. Capricorni
+station_type: Starport
 related_entities:
 - obsidian-orbital-technical-team
 - ackerman-market
