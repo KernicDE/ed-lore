@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3301-05-11'
 last_seen_date: '3301-05-11'
 mention_count: 1
+system: Diso
+station_type: Starport
 related_entities:
 - green-party-of-diso
 - alliance

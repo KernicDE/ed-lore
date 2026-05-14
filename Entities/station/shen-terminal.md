@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3304-01-19'
 last_seen_date: '3304-01-26'
 mention_count: 2
+system: Guuguyni
+station_type: Starport
 related_entities:
 - guuguyni-empire-consulate
 - guuguyni

@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3301-07-23'
 last_seen_date: '3301-07-23'
 mention_count: 1
+system: Bastes
+station_type: Starport
 related_entities:
 - bastes
 - maheou-ti
