@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3301-05-15'
 last_seen_date: '3301-05-15'
 mention_count: 1
+system: 78 Ursae Majoris
+station_type: Starport
 related_entities:
 - alioth-independents
 - sobek-boys
