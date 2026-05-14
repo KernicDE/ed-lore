@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3303-12-02'
 last_seen_date: '3303-12-02'
 mention_count: 1
+system: HR 1183
+station_type: Starport
 related_entities:
 - aegis
 - artemis-lodge

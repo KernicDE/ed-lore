@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3301-11-11'
 last_seen_date: '3301-11-11'
 mention_count: 1
+system: Cayutorme
+station_type: Starport
 related_entities:
 - cayutorme-syndicate
 - pilots-federation

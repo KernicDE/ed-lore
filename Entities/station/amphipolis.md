@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3304-08-31'
 last_seen_date: '3304-08-31'
 mention_count: 1
+system: Betel
+station_type: Starport
 related_entities:
 - silver-creative-network
 - betel-free

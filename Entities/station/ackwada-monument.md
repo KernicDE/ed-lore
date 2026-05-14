@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3308-05-06'
 last_seen_date: '3308-05-06'
 mention_count: 1
+system: Hyades Sector LX-T c3-30
+station_type: Starport
 related_entities:
 - alliance
 - marlinist

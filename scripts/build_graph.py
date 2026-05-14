@@ -134,6 +134,7 @@ GARBAGE_ENTITY_IDS: set[str] = {
     "crimson-exchange", "los-pioneros", "el-centinela-cadejo", "the-andecavi",
     "elvira-martuuk", "zemina-torval", "delaine", "torval", "archon-delaine",
     "pranav-antal", "the-entire", "star",
+    "all-shipyards-within-the-alioth", "adeness",
 }
 
 LOCATION_BLOCKLIST = {

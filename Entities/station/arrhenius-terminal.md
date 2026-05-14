@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3302-03-29'
 last_seen_date: '3302-03-29'
 mention_count: 1
+system: Bard
+station_type: Starport
 related_entities:
 - jeffress-treasure-hunt-organisers
 - persephone

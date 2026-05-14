@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3302-06-18'
 last_seen_date: '3302-06-18'
 mention_count: 1
+system: Dijkstra
+station_type: Starport
 related_entities:
 - dijkstra
 - sol

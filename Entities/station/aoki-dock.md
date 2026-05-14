@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3301-04-20'
 last_seen_date: '3301-04-20'
 mention_count: 1
+system: BV Phoenicis
+station_type: Starport
 related_entities:
 - friends-of-kui-hsien
 - future-of-ltt-911-party

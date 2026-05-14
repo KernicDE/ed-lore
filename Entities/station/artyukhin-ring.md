@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3301-05-24'
 last_seen_date: '3301-05-24'
 mention_count: 1
+system: Autahenetsi
+station_type: Starport
 related_entities:
 - farmers-union-of-kappa-fornacis
 - independent-autahenetsi-labour-party

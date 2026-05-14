@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3302-09-15'
 last_seen_date: '3302-09-15'
 mention_count: 1
+system: Mu Koji
+station_type: Starport
 related_entities:
 - xuangu-crimson-major-network
 - mu-koji

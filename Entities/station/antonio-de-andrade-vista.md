@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3301-02-13'
 last_seen_date: '3301-02-13'
 mention_count: 1
+system: Banki
+station_type: Starport
 related_entities:
 - federal-navy
 - banki

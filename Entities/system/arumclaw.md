@@ -1,7 +1,7 @@
 ---
 id: arumclaw
 name: Arumclaw
-type: station
+type: system
 first_seen_date: '3303-05-04'
 last_seen_date: '3303-05-04'
 mention_count: 1

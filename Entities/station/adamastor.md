@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3308-02-07'
 last_seen_date: '3308-02-07'
 mention_count: 1
+system: Chukchan
+station_type: Megaship
 related_entities:
 - aegis
 - alliance
