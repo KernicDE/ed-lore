@@ -152,6 +152,7 @@ GARBAGE_ENTITY_IDS: set[str] = {
     "panem", "pallaeni", "pacific-ocean",
     "patterson-enterprise-in-the-sirius", "parkinson-dock-in-the-eotienses",
     "rhea-archipelago", "rackhams-spire",
+    "rocky-ice-body", "ridley-scott",
 }
 
 LOCATION_BLOCKLIST = {

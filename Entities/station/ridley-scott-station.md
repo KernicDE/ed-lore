@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3301-05-05'
 last_seen_date: '3301-05-05'
 mention_count: 1
+system: Zaonce
+station_type: Starport
 related_entities:
 - silver-united-solutions
 - alliance-elite-diplomatic-corps
