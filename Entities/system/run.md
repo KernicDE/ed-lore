@@ -11,7 +11,22 @@ related_entities:
 - core-dynamics
 - sirius-corporation
 - li-yong-rui
+coords:
+  x: 22.8125
+  y: -165.96875
+  z: 34.9375
+allegiance: Independent
+government: Cooperative
+controlling_faction: The Winged Hussars
+population: 3030580
+security: High
+economy: High Tech
+second_economy: Refinery
+reserve: Common
+edsm_url: https://www.edsm.net/en/system/id/21380/name/Run
+inara_url: https://inara.cz/elite/starsystem/?search=Run
 ---
+
 
 <!-- AUTO-GENERATED -->
 

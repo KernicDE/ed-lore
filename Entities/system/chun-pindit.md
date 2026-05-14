@@ -5,9 +5,23 @@ type: system
 first_seen_date: '3308-09-12'
 last_seen_date: '3308-09-12'
 mention_count: 5
-bio: Chun Pindit is a system that was invaded by Thargoid forces in 3308 during the broader
-  Thargoid escalation. The system required military intervention and humanitarian support
-  to recover from the attack.
+bio: Chun Pindit is a system that was invaded by Thargoid forces in 3308 during the
+  broader Thargoid escalation. The system required military intervention and humanitarian
+  support to recover from the attack.
+coords:
+  x: -11.5625
+  y: -15.40625
+  z: -181.09375
+allegiance: Independent
+government: Corporate
+controlling_faction: SI Terraforming
+population: 5061013
+security: Medium
+economy: Industrial
+second_economy: Extraction
+reserve: Pristine
+edsm_url: https://www.edsm.net/en/system/id/25505/name/Chun+Pindit
+inara_url: https://inara.cz/elite/starsystem/?search=Chun+Pindit
 ---
 
 

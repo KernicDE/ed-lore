@@ -11,6 +11,20 @@ related_entities:
 - sol
 - hip-53688
 - tinia
+coords:
+  x: 35.09375
+  y: 80.28125
+  z: -73.40625
+allegiance: Alliance
+government: Corporate
+controlling_faction: Ouroboros Holdings Corps
+population: 4705877
+security: Medium
+economy: High Tech
+second_economy: Refinery
+reserve: Major
+edsm_url: https://www.edsm.net/en/system/id/25505/name=Aleumoxii
+inara_url: https://inara.cz/elite/starsystem/?search=Aleumoxii
 ---
 
 <!-- AUTO-GENERATED -->

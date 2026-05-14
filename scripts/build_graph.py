@@ -110,6 +110,32 @@ MERGE_ALIASES: dict[str, str] = {
     "Proactive Detection Bureau surveillance algorithms": "Proactive Detection Bureau",
 }
 
+GARBAGE_ENTITY_IDS: set[str] = {
+    "councillor-nakato-kaine-is-visiting-key",
+    "federal-forces-in-the-hip-54530",
+    "i-assure-you-that-the-sirius",
+    "in-the-permit-locked-hip-54530",
+    "pilots-defending-the-sirius",
+    "she-has-represented-the-tionisla",
+    "taranis-anomaly-passed-through-the",
+    "temporary-permits-for-the-sirius",
+    "we-know-that-her-ship-left-the-mudhrid",
+    "toolfa-large", "gliese-972", "nanoman", "dietri", "furuhjelm-i-645",
+    "henry-ohares-hanger", "quenisset", "ugain", "torrance", "varka",
+    "frontier", "white-house", "kessel", "63-g-capricorni-system",
+    "chorel-survey", "darwins-legacy", "veliaze", "guardinia", "cassiopeia",
+    "gagarin-gate", "tolagarfs-junkjard", "katherineb", "big-harrys-monkey-hangout",
+    "tranquillity", "tranquility", "blue-peaks", "vega-devese", "sulus",
+    "as-this", "federation-banking", "awyra-flirble-in-the-eurybia", "liz-ryder",
+    "the-conference-in-the-sirius", "donaldson-in-the-alioth", "li-qing-jao-in-the-sol",
+    "the-capital", "this-has-triggered-automated", "rhea-and-sol", "nanomam-and-rhea",
+    "harmonys-shield", "galactic-summit", "prosperity-core", "federal-accord",
+    "allied", "trask", "chariot-of-rhea", "james-sneddon", "fairfax-legacy",
+    "crimson-exchange", "los-pioneros", "el-centinela-cadejo", "the-andecavi",
+    "elvira-martuuk", "zemina-torval", "delaine", "torval", "archon-delaine",
+    "pranav-antal", "the-entire",
+}
+
 LOCATION_BLOCKLIST = {
     "Thargoid", "Aegis", "Guardian", "Alliance", "Empire", "Federation",
     "Federal", "Imperial", "Galactic", "Sirius", "Azimuth", "Salvation",
@@ -401,6 +427,8 @@ def build() -> dict[str, Any]:
     print("Building entity records...")
     for name, data in entity_mentions.items():
         eid = make_entity_id(name)
+        if eid in GARBAGE_ENTITY_IDS:
+            continue
         graph["entities"][eid] = {
             "id": eid, "name": name, "type": "person",
             "first_seen_date": data["first_seen"], "last_seen_date": data["last_seen"],
@@ -409,6 +437,8 @@ def build() -> dict[str, Any]:
         }
     for name, data in group_mentions.items():
         eid = make_entity_id(name)
+        if eid in GARBAGE_ENTITY_IDS:
+            continue
         if eid not in graph["entities"]:
             graph["entities"][eid] = {
                 "id": eid, "name": name, "type": "faction",
@@ -418,6 +448,8 @@ def build() -> dict[str, Any]:
             }
     for name, data in location_mentions.items():
         eid = make_entity_id(name)
+        if eid in GARBAGE_ENTITY_IDS:
+            continue
         if eid not in graph["entities"]:
             graph["entities"][eid] = {
                 "id": eid, "name": name, "type": "location",
@@ -428,6 +460,8 @@ def build() -> dict[str, Any]:
 
     for name, data in person_mentions.items():
         eid = make_entity_id(name)
+        if eid in GARBAGE_ENTITY_IDS:
+            continue
         if eid not in graph["entities"]:
             graph["entities"][eid] = {
                 "id": eid, "name": name, "type": "person",
@@ -438,6 +472,8 @@ def build() -> dict[str, Any]:
 
     for name, data in technology_mentions.items():
         eid = make_entity_id(name)
+        if eid in GARBAGE_ENTITY_IDS:
+            continue
         if eid not in graph["entities"]:
             graph["entities"][eid] = {
                 "id": eid, "name": name, "type": "technology",
@@ -594,6 +630,8 @@ def write_profiles(graph: dict[str, Any]) -> None:
     ARCS_DIR.mkdir(parents=True, exist_ok=True)
 
     for eid, rec in graph["entities"].items():
+        if eid in GARBAGE_ENTITY_IDS:
+            continue
         subdir = ENTITIES_DIR / rec.get("type", "person")
         subdir.mkdir(parents=True, exist_ok=True)
         path = subdir / f"{eid}.md"

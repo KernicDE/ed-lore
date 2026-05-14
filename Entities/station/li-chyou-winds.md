@@ -1,0 +1,36 @@
+---
+id: li-chyou-winds
+name: Li Chyou Winds
+type: station
+first_seen_date: '3308-04-13'
+last_seen_date: '3308-04-13'
+mention_count: 1
+related_entities:
+- alliance
+- sirius-corporation
+- coalsack-nebula
+- kandulas-truth
+- siniang
+bio: 'Li Chyou Winds is a star system in the Elite Dangerous universe, significant
+  from 3308-04-13 to 3308-04-13. Associated with Alliance, Sirius Corporation. '
+---
+
+<!-- AUTO-GENERATED -->
+
+# Li Chyou Winds
+
+First mentioned: **3308-04-13**  
+Last mentioned: **3308-04-13**  
+Total mentions: **1**
+
+## Related
+
+- [[Alliance]] (1 co-mentions)
+- [[Sirius Corporation]] (1 co-mentions)
+- [[Coalsack Nebula]] (1 co-mentions)
+- [[Kandula's Truth]] (1 co-mentions)
+- [[Siniang]] (1 co-mentions)
+
+## Biography
+
+*[To be enriched]*
