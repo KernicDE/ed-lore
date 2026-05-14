@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3304-06-08'
 last_seen_date: '3304-06-08'
 mention_count: 1
+system: Aeternitas
+station_type: Starport
 related_entities:
 - inra
 - league-of-reparation
