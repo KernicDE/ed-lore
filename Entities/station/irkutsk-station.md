@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3302-03-22'
 last_seen_date: '3302-03-22'
 mention_count: 1
+system: Alioth
+station_type: Starport
 related_entities:
 - alliance
 - interstellar-press

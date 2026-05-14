@@ -143,6 +143,7 @@ GARBAGE_ENTITY_IDS: set[str] = {
     "forge-megaship-in-the-hip-55014",
     "garden-city-gallery",
     "hahn-gateway-in-the-nanomam",
+    "industry", "hip-101110", "ito-orbital-in-the-rhea",
 }
 
 LOCATION_BLOCKLIST = {

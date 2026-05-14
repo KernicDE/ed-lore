@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3307-04-29'
 last_seen_date: '3307-05-06'
 mention_count: 2
+system: Rhea
+station_type: Starport
 related_entities:
 - pilots-federation
 - proactive-detection-bureau

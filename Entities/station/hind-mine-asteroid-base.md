@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3307-05-07'
 last_seen_date: '3307-06-11'
 mention_count: 2
+system: Perseus Dark Region KC-V c2-2
+station_type: Asteroid Base
 related_entities:
 - pilots-federation
 - azimuth-biochemicals

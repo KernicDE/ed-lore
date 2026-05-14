@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3307-06-03'
 last_seen_date: '3307-06-10'
 mention_count: 2
+system: Ts'ao Tach
+station_type: Megaship
 related_entities:
 - core-dynamics
 - jupiter-division

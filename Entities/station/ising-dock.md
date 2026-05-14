@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3302-05-20'
 last_seen_date: '3302-05-20'
 mention_count: 1
+system: 109 Piscium
+station_type: Starport
 related_entities:
 - ackerman-market
 - eravate
