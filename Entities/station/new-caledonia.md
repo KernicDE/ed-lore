@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3307-05-17'
 last_seen_date: '3307-05-28'
 mention_count: 2
+system: Alkaid
+station_type: Starport
 related_entities:
 - alliance
 - alliance-tribune

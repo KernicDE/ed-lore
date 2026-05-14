@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3302-12-01'
 last_seen_date: '3302-12-01'
 mention_count: 1
+system: HR 6421
+station_type: Starport
 related_entities:
 - the-children-of-raxxla
 - federation

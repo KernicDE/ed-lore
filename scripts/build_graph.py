@@ -161,6 +161,7 @@ GARBAGE_ENTITY_IDS: set[str] = {
     "stillman-hub-in-the-hip-22550",
     "tanner-settlement-in-the-polevnic",
     "titan",
+    "st-r-b4-3-1",
 }
 
 LOCATION_BLOCKLIST = {
