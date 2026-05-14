@@ -16,6 +16,8 @@ bio: Meredith City is a star system in the Elite Dangerous universe, significant
   they have placed an open order for beer, tobacco, coffee and narcotics, and promised
   rewards to pilots who deliver these commodities to Meredith City. Scores of pilots
   delivered commodities to Meredith City.
+system: LFT 926
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

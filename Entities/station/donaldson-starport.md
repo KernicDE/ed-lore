@@ -15,6 +15,8 @@ bio: Donaldson starport is a starport in the Elite Dangerous universe, significa
   from 3304-07-13 to 3304-07-19. Associated with Federal Intelligence Agency. Admiral
   George Varma of the Alliance Council of Admirals is arrested by the League of Reparation
   taskforce at Donaldson starport in Alioth.
+system: Alioth
+station_type: Orbital Station
 ---
 
 Donaldson starport serves as a major installation within the Alioth system, the symbolic heart of the Alliance and one of the most politically significant locations in independent space. Its proximity to the centres of Alliance governance and military command makes it a natural hub for both diplomatic activity and security operations involving the Alliance Council of Admirals and the Alliance Defence Force. The starport's infrastructure supports heavy traffic from across Alliance territories and beyond, reflecting Alioth's role as a neutral ground where representatives of all three superpowers regularly interact.

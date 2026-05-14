@@ -16,6 +16,8 @@ bio: Bobko City is a star system in the Elite Dangerous universe, significant fr
   Justice Party is overseeing construction and has requested pilots deliver materials
   to Bobko City while protecting traders from pirates. Traders delivered construction
   materials to Bobko City for building defences to protect the Sim-Archive.
+system: Narri
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

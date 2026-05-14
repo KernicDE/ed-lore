@@ -15,6 +15,8 @@ bio: Templar Barracks is a star system in the Elite Dangerous universe, signific
   from 3304-08-17 to 3304-08-26. Associated with Colonia Council, Colonia Research
   Division. The Colonia Research Division asks pilots to deliver mined resources to
   Templar Barracks in the Randgnid system.
+system: Randgnid
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

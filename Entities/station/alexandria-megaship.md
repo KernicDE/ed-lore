@@ -11,9 +11,11 @@ related_entities:
 - pilots-federation
 - alliance
 - empire
-bio: 'An Aegis mobile research megaship, the Alexandria triggered a Thargoid attack
-  when it jumped from Delphi to HIP 16538 in mid-3307 and was subsequently barred from
-  Federal space.'
+bio: An Aegis mobile research megaship, the Alexandria triggered a Thargoid attack
+  when it jumped from Delphi to HIP 16538 in mid-3307 and was subsequently barred
+  from Federal space.
+system: Wregoe TC-X B29-0
+station_type: Megaship
 ---
 
 <!-- AUTO-GENERATED -->

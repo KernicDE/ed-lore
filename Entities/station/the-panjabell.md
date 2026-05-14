@@ -14,6 +14,8 @@ related_entities:
 bio: The Panjabell is a star system in the Elite Dangerous universe, significant from
   3307-07-19 to 3307-07-29. Associated with Order of the Far God, Pleiades Concordat.
   The cult is pacifistic and has recently begun migrating to the Panjabell system.
+system: Etain
+station_type: Megaship
 ---
 
 The Panjabell system became a focal point of religious migration during mid-3307, when the Order of the Far God — a cult devoted to the Thargoids as divine entities — began relocating its adherents there. This pacifistic sect believed that humanity's only salvation lay in submission to the alien civilisation, a doctrine that placed them at odds with both military authorities and mainstream religious institutions. Their choice of Panjabell reflected a pattern of seeking remote systems where their unconventional beliefs could be practised with minimal interference.

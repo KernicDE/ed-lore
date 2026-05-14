@@ -12,6 +12,8 @@ bio: Dove Enigma is a star system in the Elite Dangerous universe, significant f
   the Dove Enigma, a Wells-class Carrier in the Colonia system, was thwarted by the
   galactic community. The Dove Enigma was commissioned by the Colonia Council in commemoration
   of Commander DoveEnigma13 and is the destination of the Enigma Expedition.
+system: Colonia
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

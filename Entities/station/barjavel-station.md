@@ -15,6 +15,8 @@ bio: Barjavel Station is a starport in the Elite Dangerous universe, significant
   3304-04-06 to 3304-04-15. Associated with Privateer's Alliance, Aegis, Pegasi Sector
   security forces. The Privateer’s Alliance has announced the successful conclusion
   of its commodities appeal, with a massive influx of deliveries to Barjavel Station.
+system: HIP 33368
+station_type: Orbital Station
 ---
 
 Barjavel Station serves as a critical installation within the HIP 33368 system, positioned to support operations in the Pegasi Sector where security challenges had intensified during the mid-3300s. The station's strategic location made it a natural hub for the Privateer's Alliance, an independent organisation that coordinated pilot activities against pirate threats and other hostile forces. Its connections to both Aegis and the broader Alliance reflected the overlapping networks of cooperation that characterised anti-piracy efforts in contested regions.

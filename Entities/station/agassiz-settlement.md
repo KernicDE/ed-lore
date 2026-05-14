@@ -11,9 +11,11 @@ related_entities:
 - the-panjabell
 - pilots-federation
 - moore-hub
-bio: 'An outpost in the Pleiades region, Agassiz Settlement became associated with
+bio: An outpost in the Pleiades region, Agassiz Settlement became associated with
   the Order of the Far God and the Pleiades Concordat during the heightened tensions
-  of mid-3307.'
+  of mid-3307.
+system: Etain
+station_type: Planetary Settlement
 ---
 
 <!-- AUTO-GENERATED -->

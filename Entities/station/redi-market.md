@@ -15,6 +15,8 @@ bio: Redi Market is a star system in the Elite Dangerous universe, significant f
   3304-04-06 to 3304-04-15. Associated with Atlas Corporation, Aegis, Pegasi Sector
   security forces. Hundreds of pilots delivered commodities to Redi Market and eliminated
   agitators in Lambda Arae to protect traders.
+system: Lambda Arae
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

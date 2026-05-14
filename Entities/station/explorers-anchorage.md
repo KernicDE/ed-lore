@@ -16,6 +16,8 @@ bio: Explorer's Anchorage is a star system in the Elite Dangerous universe, sign
   II resource-gathering campaign concludes successfully, with Explorer's Anchorage
   established as a scientific installation to study the supermassive black hole at
   Sagittarius A*.
+system: Stuemeae FG-Y d7561
+station_type: Installation
 ---
 
 <!-- AUTO-GENERATED -->

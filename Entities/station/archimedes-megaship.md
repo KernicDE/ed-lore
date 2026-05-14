@@ -11,9 +11,11 @@ related_entities:
 - taurus-mining-ventures
 - pmd2009-48
 - glorious-prospect-megaship
-bio: 'An Aegis mobile research megaship, the Archimedes operated in coordination with
+bio: An Aegis mobile research megaship, the Archimedes operated in coordination with
   the Pilots Federation and Taurus Mining Ventures during a brief but active deployment
-  in mid-3307.'
+  in mid-3307.
+system: PMD2009 48
+station_type: Megaship
 ---
 
 <!-- AUTO-GENERATED -->

@@ -17,6 +17,8 @@ bio: Barnes Terminal is a star system in the Elite Dangerous universe, significa
   Aranbarahun system, with a kill order on wanted ships to protect traders. Scores
   of pilots delivered commodities to Barnes Terminal and eliminated agitators to ensure
   trader safety.
+system: Aranbarahun
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

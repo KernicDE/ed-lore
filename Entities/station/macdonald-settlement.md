@@ -10,6 +10,8 @@ related_entities:
 - jaques-station
 bio: Macdonald Settlement is a outpost in the Elite Dangerous universe, significant
   from 3308-01-06 to 3308-03-03. Associated with Brewer Corporation.
+system: Colonia
+station_type: Planetary Settlement
 ---
 
 <!-- AUTO-GENERATED -->

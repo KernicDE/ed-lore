@@ -15,6 +15,8 @@ bio: Wegner Market is a star system in the Elite Dangerous universe, significant
   3304-04-13 to 3304-04-22. Associated with Rind Gold Electronics Org, INRA. Large
   quantities of research materials and mined resources were delivered to Wegner Market,
   allowing the Empire to proceed with constructing a new pilot-training centre.
+system: Rind
+station_type: Orbital Station
 ---
 
 Wegner Market serves as a significant installation within the Rind system, an Imperial territory with connections to both Achenar and the broader networks of Imperial power. During mid-3304, the site became the focal point of a major resource-gathering campaign when large quantities of research materials and mined resources were delivered there to support the Empire's construction of a new pilot-training centre. This initiative reflected ongoing Imperial investment in military infrastructure and personnel development during a period of intensifying galactic competition.

@@ -15,6 +15,8 @@ bio: California Gateway is a star system in the Elite Dangerous universe, signif
   from 3304-07-27 to 3304-08-05. Associated with Alliance. Huge quantities of raw
   material were delivered to California Gateway. Alliance official Torvan Dast states
   the starport will make travel to the California Nebula safer for traders and colonists.
+system: Synuefai EB-R c7-5
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

@@ -16,6 +16,8 @@ bio: Hume Orbital is a starport in the Elite Dangerous universe, significant fro
   Fazia Silva is found dead at Hume Orbital, believed to have been murdered by poison.
   Inspector Erin Sangster officially rules the death a homicide involving sophisticated
   nerve toxin and professional assassins who circumvented security at Hume Orbital.
+system: Bhagui
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

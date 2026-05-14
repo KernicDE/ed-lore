@@ -15,6 +15,8 @@ bio: Tilman Point is a star system in the Elite Dangerous universe, significant 
   3307-07-15 to 3307-07-29. Associated with Pilots Federation, Marlinist Colonies.
   The NMLA bombs Stillman Hub in HIP 22550 and Tilman Point in Hyades Sector RO-P
   b6-6, killing tens of thousands.
+system: Hyades Sector RO-P b6-6
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

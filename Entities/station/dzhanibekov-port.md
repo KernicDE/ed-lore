@@ -17,6 +17,8 @@ bio: Dzhanibekov Port is a starport in the Elite Dangerous universe, significant
   and disrupting trade. The Autocracy of T’iensei has placed a kill order on all ships
   on its wanted list and promised rewards to pilots who deliver bounty vouchers to
   Dzhanibekov Port.
+system: T'iensei
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

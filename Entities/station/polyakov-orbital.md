@@ -16,6 +16,8 @@ bio: Polyakov Orbital is a starport in the Elite Dangerous universe, significant
   Group. Olelbis Holdings announces an elaborate social function at Polyakov Orbital
   in the Olelbis system. Olelbis Holdings announces the successful conclusion of its
   commodity appeal for a social function at Polyakov Orbital.
+system: Olelbis
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->
