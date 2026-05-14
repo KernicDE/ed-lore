@@ -1,6 +1,6 @@
 ---
 id: ceeckia-zq-l-c24-0
-name: Ceeckia ZQ-L c24-0
+name: Ceeckia ZQ-L c24-0 (Beagle Point)
 type: system
 population: 0
 allegiance: None
@@ -15,7 +15,13 @@ related_entities:
 - sol
 bio: 'Ceeckia ZQ-L c24-0 is a star system in the Elite Dangerous universe, significant
   from 3302-03-29 to 3302-03-29. Associated with Distant Worlds Expedition. '
+coords:
+  x: -1111.5625
+  y: -134.21875
+  z: 65269.75
+also_known_as: Beagle Point
 ---
+
 
 <!-- AUTO-GENERATED -->
 

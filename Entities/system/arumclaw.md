@@ -13,7 +13,9 @@ bio: Arumclaw is a star system in the Elite Dangerous universe, significant from
   to 3303-05-04. Associated with Alliance. Commander Salomé (Kahina Tijani Loren)
   was killed in the Arumclaw system by a bounty hunter known as 'Besieger', while
   her co-conspirators remain at large.
+note: Mentioned in GalNet lore but not present in current EDSM/game data
 ---
+
 
 <!-- AUTO-GENERATED -->
 

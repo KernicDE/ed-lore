@@ -13,7 +13,9 @@ related_entities:
 - sulus
 bio: 'Kutshillu is a star system in the Elite Dangerous universe, significant from
   3304-08-25 to 3304-08-25. Associated with Alliance. '
+note: Mentioned in GalNet lore but not present in current EDSM/game data
 ---
+
 
 <!-- AUTO-GENERATED -->
 

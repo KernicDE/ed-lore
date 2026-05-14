@@ -1,6 +1,6 @@
 ---
 id: on-t-b3-2
-name: ON-T B3-2
+name: Lyncis Sector ON-T b3-2
 type: system
 population: 0
 allegiance: None
@@ -17,7 +17,12 @@ related_entities:
 - on-t-b3-4
 bio: 'ON-T B3-2 is a star system in the Elite Dangerous universe, significant from
   3302-02-18 to 3302-02-18. Associated with Federal research team. '
+coords:
+  x: -58.34375
+  y: 55.09375
+  z: -129.75
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -20,7 +20,9 @@ bio: Furuhjlem I-645 is a star system in the Elite Dangerous universe, significa
   78 Ursae Majoris, Su and Furuhjlem I-645. The announced systems include Hip 53688,
   Tinia, 78 Ursae Majoris, Su, Furuhjlem I-645, Saga, Delphin, Nanoman, Coriccha and
   Ross 860, with another dozen expected to be added.
+note: Mentioned in GalNet lore but not present in current EDSM/game data
 ---
+
 
 <!-- AUTO-GENERATED -->
 

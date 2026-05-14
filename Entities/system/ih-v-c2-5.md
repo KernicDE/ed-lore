@@ -1,6 +1,6 @@
 ---
 id: ih-v-c2-5
-name: IH-V C2-5
+name: Pleiades Sector IH-V c2-5
 type: system
 allegiance: Independent
 government: Patronage
@@ -20,7 +20,12 @@ bio: IH-V C2-5 is a star system in the Elite Dangerous universe, significant fro
   3303-09-30 to 3303-09-30. Associated with Palin Institute. Reports of further unprovoked
   Thargoid attacks in the Pleiades have reached the core systems, targeting Imperial
   and civilian ships in HIP 17225, HR 1185, IH-V C2-5 and Pleiades Sector IR-W d1-55.
+coords:
+  x: -78.71875
+  y: -138.03125
+  z: -321.78125
 ---
+
 
 <!-- AUTO-GENERATED -->
 
