@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3311-07-17'
 last_seen_date: '3311-07-17'
 mention_count: 1
+system: Aiaba
+station_type: Starport
 related_entities:
 - zorgon-peterson
 - aiaba

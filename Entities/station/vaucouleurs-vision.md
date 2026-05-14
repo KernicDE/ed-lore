@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3304-05-11'
 last_seen_date: '3304-05-18'
 mention_count: 2
+system: Veroklist
+station_type: Starport
 related_entities:
 - moritasgus-imperial-corporation
 - veroklist
