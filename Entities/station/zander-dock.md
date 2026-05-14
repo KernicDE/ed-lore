@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3303-09-29'
 last_seen_date: '3303-10-06'
 mention_count: 2
+system: HIP 110028
+station_type: Starport
 related_entities:
 - winged-hussars
 - hip-110028

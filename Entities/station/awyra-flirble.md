@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3303-09-22'
 last_seen_date: '3303-09-29'
 mention_count: 2
+system: Eurybia
+station_type: Starport
 related_entities:
 - aegis
 - eurybia

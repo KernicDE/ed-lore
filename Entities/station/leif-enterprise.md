@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3303-12-01'
 last_seen_date: '3303-12-08'
 mention_count: 2
+system: Run
+station_type: Asteroid Base
 related_entities:
 - rogue-runners
 - run

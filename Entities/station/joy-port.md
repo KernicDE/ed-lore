@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3303-08-18'
 last_seen_date: '3303-08-25'
 mention_count: 2
+system: Secoya
+station_type: Starport
 related_entities:
 - secoya-emperors-grace
 - secoya

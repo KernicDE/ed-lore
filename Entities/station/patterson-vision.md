@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3303-10-27'
 last_seen_date: '3303-11-03'
 mention_count: 2
+system: LHS 2094
+station_type: Starport
 related_entities:
 - lhs-2094
 - hallowed-chapter-of-lhs-2094

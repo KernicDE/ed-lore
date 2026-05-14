@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3303-10-06'
 last_seen_date: '3303-10-13'
 mention_count: 2
+system: I Carinae
+station_type: Starport
 related_entities:
 - secret-billionaires
 - i-carinae

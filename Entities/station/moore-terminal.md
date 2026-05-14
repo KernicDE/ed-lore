@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3303-10-13'
 last_seen_date: '3303-10-20'
 mention_count: 2
+system: Kauruk
+station_type: Starport
 related_entities:
 - labour-union-of-kauruk
 - kauruk

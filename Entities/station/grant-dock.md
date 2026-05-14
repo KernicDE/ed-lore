@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3303-11-10'
 last_seen_date: '3303-11-17'
 mention_count: 2
+system: HR 7047
+station_type: Starport
 related_entities:
 - wolves-of-jonai
 - hr-7047

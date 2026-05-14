@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3303-08-25'
 last_seen_date: '3303-09-15'
 mention_count: 2
+system: Kamadhenu
+station_type: Starport
 related_entities:
 - kamadhenu-chapterhouse-of-inquisition
 - kamadhenu
