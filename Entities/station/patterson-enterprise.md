@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3301-08-04'
 last_seen_date: '3301-08-04'
 mention_count: 1
+system: Sirius
+station_type: Starport
 related_entities:
 - federal-times
 - sirius-corporation

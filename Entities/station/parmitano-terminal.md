@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3304-01-19'
 last_seen_date: '3304-01-26'
 mention_count: 2
+system: Nu Tauri
+station_type: Starport
 related_entities:
 - simbad-regime
 - nu-tauri

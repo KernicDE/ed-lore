@@ -149,6 +149,8 @@ GARBAGE_ENTITY_IDS: set[str] = {
     "millese", "mackenzie-relay-in-the-cemiess",
     "nearest-starport", "monolith",
     "omega-grid", "new-apollo-city",
+    "panem", "pallaeni", "pacific-ocean",
+    "patterson-enterprise-in-the-sirius", "parkinson-dock-in-the-eotienses",
 }
 
 LOCATION_BLOCKLIST = {
