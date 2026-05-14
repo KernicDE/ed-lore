@@ -13,6 +13,8 @@ related_entities:
 - adles-armada
 bio: 'Cleve Hub is a star system in the Elite Dangerous universe, significant from
   3303-06-30 to 3303-07-07. Associated with Pilots Federation, Adle''s Armada. '
+system: Asellus Primus
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

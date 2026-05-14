@@ -12,6 +12,8 @@ related_entities:
 bio: 'Zoline Port is a starport in the Elite Dangerous universe, significant from
   3303-05-12 to 3303-05-19. Associated with Canonn Interstellar Research Group, LTT
   377 Allied Co. '
+system: LTT 377
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

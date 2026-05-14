@@ -10,6 +10,8 @@ related_entities:
 - cartoq
 bio: 'Avdeyev Settlement is a outpost in the Elite Dangerous universe, significant
   from 3303-04-28 to 3303-05-05. Associated with Cartoq Purple Major Organisation. '
+system: Cartoq
+station_type: Planetary Settlement
 ---
 
 <!-- AUTO-GENERATED -->

@@ -12,6 +12,8 @@ bio: Russell Hub is a star system in the Elite Dangerous universe, significant f
   3303-04-28 to 3303-05-05. Associated with Sitakapan Expeditionary Forces. The Sitakapan
   Expeditionary Forces' appeal for military-grade weapons and chemicals concluded
   successfully with a massive influx of deliveries to Russell Hub.
+system: Sitakapa
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

@@ -12,6 +12,8 @@ bio: Vercors Station is a starport in the Elite Dangerous universe, significant 
   3303-08-18 to 3303-08-25. Associated with Kuk Silver Fortune Company. The Kuk Silver
   Fortune Company has issued a kill order on wanted ships and promised rewards for
   bounty vouchers delivered to Vercors Station.
+system: Kaal
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

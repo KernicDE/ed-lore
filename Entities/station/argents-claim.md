@@ -13,6 +13,8 @@ related_entities:
 - empire
 bio: 'Argent''s Claim is a star system in the Elite Dangerous universe, significant
   from 3303-05-21 to 3303-10-28. '
+system: Alioth
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

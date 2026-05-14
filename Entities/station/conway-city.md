@@ -13,6 +13,8 @@ bio: Conway City is a star system in the Elite Dangerous universe, significant f
   3303-07-14 to 3303-07-21. Associated with NULL. The organisation received massive
   material deliveries to Conway City and successfully eliminated agitators from the
   system.
+system: LTT 4961
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

@@ -15,6 +15,8 @@ bio: Campbell Horizons is a star system in the Elite Dangerous universe, signifi
   for delivery to Campbell Horizons in the Abroin system. Pilots delivered commodities
   to Campbell Horizons and eliminated hostiles to protect traders, enabling the organisation
   to begin constructing a Thargoid research outpost.
+system: Abroin
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->
