@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3302-01-10'
 last_seen_date: '3302-01-10'
 mention_count: 1
+system: Njokujinun
+station_type: Starport
 related_entities:
 - njokujinun
 bio: 'Nyberg Vision Station is a starport in the Elite Dangerous universe, significant

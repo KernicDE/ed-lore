@@ -148,6 +148,7 @@ GARBAGE_ENTITY_IDS: set[str] = {
     "li-qing-jao-station-in-the-sol", "lave-station-in-the-lave",
     "millese", "mackenzie-relay-in-the-cemiess",
     "nearest-starport", "monolith",
+    "omega-grid", "new-apollo-city",
 }
 
 LOCATION_BLOCKLIST = {

@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3302-08-30'
 last_seen_date: '3302-08-30'
 mention_count: 1
+system: Ceos
+station_type: Starport
 related_entities:
 - ceos
 bio: New Dawn Station is a starport in the Elite Dangerous universe, significant from

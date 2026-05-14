@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3301-09-25'
 last_seen_date: '3301-09-25'
 mention_count: 1
+system: Sothis
+station_type: Starport
 related_entities:
 - sothis
 bio: Newholm Station is a starport in the Elite Dangerous universe, significant from
