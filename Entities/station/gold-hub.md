@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3304-03-02'
 last_seen_date: '3304-03-09'
 mention_count: 2
+system: Arek
+station_type: Starport
 related_entities:
 - arek-crimson-vision-corporation
 - arek

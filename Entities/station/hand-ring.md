@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3303-09-22'
 last_seen_date: '3303-09-22'
 mention_count: 1
+system: Ho Hsi
+station_type: Starport
 related_entities:
 - ho-hsi-jet-comms-limited
 - freedom-party-of-ho-hsi

@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3304-01-05'
 last_seen_date: '3304-01-12'
 mention_count: 2
+system: Ngalia
+station_type: Starport
 related_entities:
 - sirius-inc
 - 42-n-persei

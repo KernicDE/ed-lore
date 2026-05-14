@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3301-04-16'
 last_seen_date: '3301-04-16'
 mention_count: 1
+system: Almad
+station_type: Starport
 related_entities:
 - patrons-of-law
 - nehet-silver-ring
