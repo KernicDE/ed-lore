@@ -17,6 +17,8 @@ bio: Fincke Depot is a star system in the Elite Dangerous universe, significant 
   Fincke Depot. The Camorra found themselves severely outgunned by the Krisha Systems
   Corporation and their assault on Fincke Depot ended in total failure, with survivors
   fleeing or being hunted by former allies.
+system: Krisha
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

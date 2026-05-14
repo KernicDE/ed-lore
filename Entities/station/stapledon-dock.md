@@ -17,6 +17,8 @@ bio: Stapledon Dock is a starport in the Elite Dangerous universe, significant f
   for Equality Party retreated to Brendan Gateway before launching a counterattack
   with independent and Federal pilots. They successfully forced Quivira Electronics
   Plc back to Stapledon Dock, reigniting the war with no quarter offered.
+system: Quivira
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

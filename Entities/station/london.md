@@ -16,6 +16,8 @@ bio: London is a star system in the Elite Dangerous universe, significant from 3
   greeted by cheering crowds at Cambridge spaceport before meeting Ambassador Waite
   in London. Senator Kahina Tijani Loren was presented with Gerasian Liquor at a concert
   in London during her Federation visit.
+system: Epsilon Indi
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

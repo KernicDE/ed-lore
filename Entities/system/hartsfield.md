@@ -1,7 +1,7 @@
 ---
 id: hartsfield
 name: Hartsfield
-type: station
+type: system
 first_seen_date: '3301-03-23'
 last_seen_date: '3306-10-01'
 mention_count: 2

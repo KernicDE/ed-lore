@@ -16,6 +16,8 @@ bio: Davies High is a star system in the Elite Dangerous universe, significant f
   League, Alliance Elite Diplomatic Corps. A pirate group had attempted to rename
   the Lave Cluster the 'New Caribbean', but undercover AEDC agents worked with local
   groups to prepare for a swift retaking of Davies High.
+system: Reorte
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

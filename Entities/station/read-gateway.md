@@ -16,6 +16,8 @@ bio: Read Gateway is a star system in the Elite Dangerous universe, significant 
   The turning point in the Lugh war came during the Federation's attack on Read Gateway.
   The CSG fleet has adopted defensive positions around Balandin Gateway and Knight
   Dock.
+system: Lugh
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

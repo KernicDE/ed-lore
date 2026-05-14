@@ -15,6 +15,8 @@ bio: Seddon Gateway is a star system in the Elite Dangerous universe, significan
   from 3301-05-09 to 3301-05-15. Associated with Alioth Independents. Residents of
   78 Ursae Majoris prepared Seddon Gateway for President Halsey's visit with festivities
   and cultural displays.
+system: 78 Ursae Majoris
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

@@ -18,6 +18,8 @@ bio: Nourse Orbital is a starport in the Elite Dangerous universe, significant f
   (2) The Sirius Corporation announced 8 new colonisation candidate systems identified
   by explorers, with a deadline approaching for submissions to Nourse Orbital in Lambda
   Andromedae.
+system: Lambda Andromedae
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

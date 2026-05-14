@@ -17,6 +17,8 @@ bio: Cassie-L-Peia is a star system in the Elite Dangerous universe, significant
   systems to Cassie-L-Peia, allowing specialist farmers from Kappa Fornacis to stimulate
   mass growth of Lucan Onionhead clones. Pilots can sign up for security duty aboard
   Cassie-L-Peia in Tanmark.
+system: Tanmark
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

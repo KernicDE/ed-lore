@@ -17,6 +17,8 @@ bio: Seega Port is a starport in the Elite Dangerous universe, significant from 
   a staging post for attacks against Crimson State starports. After Éamonn Uí Laoghire
   sought Alliance support for Lugh's independence, President Halsey ordered the Federal
   Navy to suppress the uprising.
+system: Lugh
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

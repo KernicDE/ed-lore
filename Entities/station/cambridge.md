@@ -16,6 +16,8 @@ bio: Cambridge is a star system in the Elite Dangerous universe, significant fro
   having been greeted by cheering crowds at Cambridge spaceport before meeting Ambassador
   Waite in London. Federal Times reporter Jason Nygaard notes unusual ship movements
   around Cambridge on Earth.
+system: Sol
+station_type: Planetary Port
 ---
 
 <!-- AUTO-GENERATED -->

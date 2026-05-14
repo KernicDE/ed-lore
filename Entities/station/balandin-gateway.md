@@ -16,6 +16,8 @@ bio: Balandin Gateway is a star system in the Elite Dangerous universe, signific
   In response, Éamonn Uí Laoghaire offered generous payouts to independent pilots
   supporting Lugh at Balandin Gateway. The CSG fleet has adopted defensive positions
   around Balandin Gateway and Knight Dock.
+system: Lugh
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->
