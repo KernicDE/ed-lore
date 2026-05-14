@@ -11,9 +11,11 @@ related_entities:
 - alliance
 - nmla
 - capitol
-bio: 'An orbital station in the Empire''s capital system of Achenar, Dawes Hub became
+bio: An orbital station in the Empire's capital system of Achenar, Dawes Hub became
   the unlikely destination for coronation gifts when Arissa Lavigny-Duval ascended
-  to the throne in 3301.'
+  to the throne in 3301.
+system: Achenar
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

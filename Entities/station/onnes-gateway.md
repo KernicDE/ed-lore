@@ -17,6 +17,8 @@ bio: Onnes Gateway is a star system in the Elite Dangerous universe, significant
   while other stations remain affected. The Paladin Consortium liberated Imperial
   slaves at Onnes Gateway in LFT 37 but bureaucratic delays prevent them from legally
   obtaining housing or employment.
+system: LFT 37
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

@@ -11,9 +11,11 @@ related_entities:
 - alliance
 - shifnalport
 - leesti
-bio: 'An Alliance system that became the centrepiece of one of the most successful
+bio: An Alliance system that became the centrepiece of one of the most successful
   community-driven rejuvenation projects in early 3301, later hosting cultural festivals
-  that celebrated Alliance identity.'
+  that celebrated Alliance identity.
+system: Diso
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

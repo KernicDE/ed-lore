@@ -11,8 +11,10 @@ related_entities:
 - halbangaay
 - 64-arietis
 - arawere
-bio: 'An orbital station in the Halbangaay system, Haack Gateway was among the earliest
-  casualties of the technological plague.'
+bio: An orbital station in the Halbangaay system, Haack Gateway was among the earliest
+  casualties of the technological plague.
+system: Halbangaay
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

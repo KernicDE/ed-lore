@@ -11,9 +11,11 @@ related_entities:
 - 49-arietis
 - 64-arietis
 - arawere
-bio: 'A starport that served as an observation point during the technological plague
+bio: A starport that served as an observation point during the technological plague
   crisis, Coats Hub provided early warnings about deteriorating conditions at nearby
-  stations in late 3301.'
+  stations in late 3301.
+system: Warkushanui
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

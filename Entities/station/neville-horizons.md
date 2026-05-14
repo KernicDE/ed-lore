@@ -11,8 +11,10 @@ related_entities:
 - explorers-association
 - universal-cartographics
 - pleiades-nebula
-bio: 'A starport in the Kaushpoos system, Neville Horizons has served as a logistical
-  centre for both exploratory expansion and anti-xeno research efforts.'
+bio: A starport in the Kaushpoos system, Neville Horizons has served as a logistical
+  centre for both exploratory expansion and anti-xeno research efforts.
+system: Kaushpoos
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

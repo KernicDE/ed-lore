@@ -9,8 +9,10 @@ related_entities:
 - yum-kamcabi
 - yum-kamcabi-purple-life-industry
 - revolutionary-patani-labour
-bio: 'An orbital station in the Yum Kamcabi system, Dirichlet Orbital became the logistical
-  hub for one of Jasmina Halsey''s post-presidency humanitarian campaigns.'
+bio: An orbital station in the Yum Kamcabi system, Dirichlet Orbital became the logistical
+  hub for one of Jasmina Halsey's post-presidency humanitarian campaigns.
+system: Yum Kamcabi
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

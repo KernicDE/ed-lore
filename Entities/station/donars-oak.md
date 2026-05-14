@@ -11,8 +11,10 @@ related_entities:
 - pleiades-nebula
 - federal-intelligence-agency
 - federal-times
-bio: 'An orbital station in the Pleiades Sector IR-W d1-55, Donar''s Oak became a
-  critical humanitarian hub during the Thargoid conflict.'
+bio: An orbital station in the Pleiades Sector IR-W d1-55, Donar's Oak became a critical
+  humanitarian hub during the Thargoid conflict.
+system: Pleiades Sector IR-W d1-55
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

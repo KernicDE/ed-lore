@@ -11,8 +11,10 @@ related_entities:
 - gurragchaa-gateway
 - warkushanui
 - hinz-hub
-bio: 'An orbital station in the Sol system, Li Qing Jao was among the facilities
-  affected by the technological plague that swept across inhabited space in early 3302.'
+bio: An orbital station in the Sol system, Li Qing Jao was among the facilities affected
+  by the technological plague that swept across inhabited space in early 3302.
+system: Sol
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

@@ -11,8 +11,10 @@ related_entities:
 - gateway
 - tionisla
 - brett-high
-bio: 'An orbital station in the Gateway system, Dublin Citadel became a focal point
-  for Alliance political campaigning in 3307.'
+bio: An orbital station in the Gateway system, Dublin Citadel became a focal point
+  for Alliance political campaigning in 3307.
+system: Gateway
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

@@ -11,8 +11,10 @@ related_entities:
 - imperial-herald
 - imperial-citizen
 - federation
-bio: 'A high-security prison facility in the Daibo system, Koontz Asylum was intended
-  to be the final destination of one of the Empire''s most notorious prisoners.'
+bio: A high-security prison facility in the Daibo system, Koontz Asylum was intended
+  to be the final destination of one of the Empire's most notorious prisoners.
+system: Daibo
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

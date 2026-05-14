@@ -11,9 +11,11 @@ related_entities:
 - santa-muerte
 - clauss-incorporated
 - santa-muerte-co-operative
-bio: 'A starport in the Santa Muerte system, Clauss Port was the destination for an
-  annual festive gift-transport campaign organised by Clauss Incorporated between 3301
-  and 3303.'
+bio: A starport in the Santa Muerte system, Clauss Port was the destination for an
+  annual festive gift-transport campaign organised by Clauss Incorporated between
+  3301 and 3303.
+system: Santa Muerte
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

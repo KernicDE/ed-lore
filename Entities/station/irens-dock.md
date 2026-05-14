@@ -11,8 +11,10 @@ related_entities:
 - eravate
 - von-bellingshausen-port
 - almar
-bio: 'An orbital station in the Manite system, Iren''s Dock was among the starports
-  most severely affected by the technological plague of early 3302.'
+bio: An orbital station in the Manite system, Iren's Dock was among the starports
+  most severely affected by the technological plague of early 3302.
+system: Manite
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

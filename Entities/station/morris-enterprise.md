@@ -11,8 +11,10 @@ related_entities:
 - alliance
 - church-of-eternal-void
 - far-god-cult
-bio: 'An orbital station in the Ebor system, Morris Enterprise became the focal point
-  of a rare attempt to pursue inter-species communication with the Thargoids.'
+bio: An orbital station in the Ebor system, Morris Enterprise became the focal point
+  of a rare attempt to pursue inter-species communication with the Thargoids.
+system: Ebor
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

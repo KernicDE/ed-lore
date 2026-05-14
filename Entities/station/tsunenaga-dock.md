@@ -16,6 +16,8 @@ bio: Tsunenaga Dock is a starport in the Iapodes system that experienced mysteri
   3301 and early 3302. The station was listed among facilities suffering from service
   disruptions later attributed to Unknown Artefact interference, though it initially
   avoided the full suspension of services seen at other ports.
+system: Iapodes
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

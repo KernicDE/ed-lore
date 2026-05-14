@@ -10,9 +10,11 @@ related_entities:
 - california-sector-bv-y-c7
 - california-nebula
 - turner-research-group
-bio: 'A research outpost in the California Nebula, Darwin Research Facility served
-  as the Alliance''s foothold for scientific exploration in one of the galaxy''s most
-  fascinating regions.'
+bio: A research outpost in the California Nebula, Darwin Research Facility served
+  as the Alliance's foothold for scientific exploration in one of the galaxy's most
+  fascinating regions.
+system: California Sector BV-Y c7
+station_type: Planetary Port
 ---
 
 <!-- AUTO-GENERATED -->

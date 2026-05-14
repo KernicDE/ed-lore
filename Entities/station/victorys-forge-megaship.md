@@ -16,6 +16,8 @@ bio: Victory's Forge is a megaship commanded by Jupiter Division, the breakaway 
   served as the faction's mobile headquarters, repelling Federal troops and surviving
   as a symbol of the corporatist movement until Jupiter Division's defeat in the Ts'ao
   Tach system.
+system: HIP 54530
+station_type: Megaship
 ---
 
 <!-- AUTO-GENERATED -->

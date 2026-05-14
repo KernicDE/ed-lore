@@ -11,8 +11,11 @@ related_entities:
 - league-of-mandu
 - pilots-federation
 - imperial-herald
-bio: 'An orbital station in the Paresa system, Dyson City became the reward hub for
-  one of the most significant military confrontations between the Empire and Nova Imperium.'
+bio: An orbital station in the Paresa system, Dyson City became the reward hub for
+  one of the most significant military confrontations between the Empire and Nova
+  Imperium.
+system: Paresa
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

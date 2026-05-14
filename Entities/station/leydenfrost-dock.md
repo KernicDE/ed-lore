@@ -11,8 +11,10 @@ related_entities:
 - emperors-grace
 - alliance
 - inra
-bio: 'An orbital station in the Didiomanja system, Leydenfrost Dock served as the
-  logistics hub for a grand Imperial celebration in July 3304.'
+bio: An orbital station in the Didiomanja system, Leydenfrost Dock served as the logistics
+  hub for a grand Imperial celebration in July 3304.
+system: Didiomanja
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

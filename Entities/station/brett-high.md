@@ -11,8 +11,10 @@ related_entities:
 - gateway
 - tionisla
 - dublin-citadel
-bio: 'An Alliance system with close ties to the Pilots Federation, Gateway and Tionisla,
-  Brett High featured briefly in Alliance strategic communications during mid-3307.'
+bio: An Alliance system with close ties to the Pilots Federation, Gateway and Tionisla,
+  Brett High featured briefly in Alliance strategic communications during mid-3307.
+system: Tionisla
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

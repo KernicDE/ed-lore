@@ -11,8 +11,10 @@ related_entities:
 - independent-leesti-for-equality
 - jabbah
 - kessel
-bio: 'An orbital station in the Leesti system, George Lucas Station has hosted some
-  of the galaxy''s more whimsical cultural events.'
+bio: An orbital station in the Leesti system, George Lucas Station has hosted some
+  of the galaxy's more whimsical cultural events.
+system: Leesti
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

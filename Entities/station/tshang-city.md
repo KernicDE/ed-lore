@@ -16,6 +16,8 @@ bio: Tshang City is a starport in the Furuhjelm III-674 system that served as th
   Nebula. In late 3302 the port received construction materials delivered by independent
   pilots supporting 160 SOAR's campaign to build a research station on California
   Sector BA-A E6 4.
+system: Furuhjelm III-674
+station_type: Planetary Port
 ---
 
 <!-- AUTO-GENERATED -->

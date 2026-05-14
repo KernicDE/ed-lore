@@ -11,9 +11,11 @@ related_entities:
 - inra
 - league-of-reparation
 - federal-intelligence-agency
-bio: 'A major starport in the Aeternitas system, Houtman City served as the administrative
-  and distribution hub for Aeternitas Industries and later became associated with INRA
-  and League of Reparation investigations.'
+bio: A major starport in the Aeternitas system, Houtman City served as the administrative
+  and distribution hub for Aeternitas Industries and later became associated with
+  INRA and League of Reparation investigations.
+system: Aeternitas
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

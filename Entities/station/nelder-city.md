@@ -8,8 +8,10 @@ mention_count: 4
 related_entities:
 - angeli-imperial-enterprises
 - wangal
-bio: 'An orbital station in the Wangal system, Nelder City became the unlikely construction
-  site for one of the galaxy''s more whimsical community projects.'
+bio: An orbital station in the Wangal system, Nelder City became the unlikely construction
+  site for one of the galaxy's more whimsical community projects.
+system: Wangal
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

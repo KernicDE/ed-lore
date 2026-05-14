@@ -11,10 +11,13 @@ related_entities:
 - halbangaay
 - 64-arietis
 - arawere
-bio: von Bellingshausen Port is a starport in the Almar system that was among the earliest
-  stations affected by the technological plague in early 3302. The mysterious malfunction,
-  later attributed to Unknown Artefact interference, forced the suspension of all services
-  except docking and shipyard access as the plague spread across twenty-two systems.
+bio: von Bellingshausen Port is a starport in the Almar system that was among the
+  earliest stations affected by the technological plague in early 3302. The mysterious
+  malfunction, later attributed to Unknown Artefact interference, forced the suspension
+  of all services except docking and shipyard access as the plague spread across twenty-two
+  systems.
+system: Almar
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

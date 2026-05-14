@@ -11,9 +11,11 @@ related_entities:
 - earth
 - federation
 - children-of-raxxla
-bio: 'A major orbital station in the Mars system, Mars High is one of the Federation''s
+bio: A major orbital station in the Mars system, Mars High is one of the Federation's
   most prominent starports and the site of a memorable diplomatic incident involving
-  Senator Kahina Tijani Loren.'
+  Senator Kahina Tijani Loren.
+system: Sol
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

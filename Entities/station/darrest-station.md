@@ -11,9 +11,11 @@ related_entities:
 - uibuth-system
 - prism
 - uibuth-empire-party
-bio: 'A starport in the Uibuth system, D''Arrest Station became the destination for
+bio: A starport in the Uibuth system, D'Arrest Station became the destination for
   a large-scale slave delivery campaign organised by the Prismatic Imperium and Navigators
-  Guild in 3302.'
+  Guild in 3302.
+system: Uibuth
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

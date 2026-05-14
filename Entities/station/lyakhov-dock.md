@@ -11,8 +11,10 @@ related_entities:
 - aegis
 - pilots-federation
 - ross-310-natural-services
-bio: 'An orbital station in the CPC 20 6743 system, Lyakhov Dock served as the logistics
-  hub for Yuri Grom''s ambitious capital ship shipyard project in 3304.'
+bio: An orbital station in the CPC 20 6743 system, Lyakhov Dock served as the logistics
+  hub for Yuri Grom's ambitious capital ship shipyard project in 3304.
+system: CPC 20 6743
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

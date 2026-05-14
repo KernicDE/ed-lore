@@ -11,9 +11,11 @@ related_entities:
 - merope-expeditionary-fleet
 - merope
 - monis-hub
-bio: 'A starport serving the Pleiades Resource Enterprise and Merope Expeditionary Fleet,
-  PRE Logistics Support Gamma operated as a critical logistics node in the Pleiades region
-  between late 3302 and mid-3303.'
+bio: A starport serving the Pleiades Resource Enterprise and Merope Expeditionary
+  Fleet, PRE Logistics Support Gamma operated as a critical logistics node in the
+  Pleiades region between late 3302 and mid-3303.
+system: Pleiades Sector IH-V c2-5
+station_type: Outpost
 ---
 
 <!-- AUTO-GENERATED -->

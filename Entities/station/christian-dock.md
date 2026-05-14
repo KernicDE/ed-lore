@@ -11,9 +11,11 @@ related_entities:
 - obsidian-orbital
 - canonn-interstellar-research-group
 - maia
-bio: 'A starport in the Nganji system, Christian Dock served as the base for an independent
+bio: A starport in the Nganji system, Christian Dock served as the base for an independent
   scientific effort investigating unknown artefacts and became the site of an unexplained
-  close-range vessel encounter in late 3301.'
+  close-range vessel encounter in late 3301.
+system: Nganji
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

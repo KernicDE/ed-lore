@@ -11,8 +11,10 @@ related_entities:
 - obsidian-orbital
 - aegis
 - bhal
-bio: 'An orbital station in the Merope system, Reed''s Rest was among the starports
-  targeted by Thargoid attacks during the escalation of the alien conflict in 3304.'
+bio: An orbital station in the Merope system, Reed's Rest was among the starports
+  targeted by Thargoid attacks during the escalation of the alien conflict in 3304.
+system: Merope
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

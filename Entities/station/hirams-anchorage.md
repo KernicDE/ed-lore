@@ -8,8 +8,11 @@ mention_count: 4
 related_entities:
 - lorens-legion
 - prism
-bio: 'An orbital station in the Prism system, Hiram''s Anchorage serves as the primary
-  facility for Loren''s Legion, an Imperial organisation with extensive commercial interests.'
+bio: An orbital station in the Prism system, Hiram's Anchorage serves as the primary
+  facility for Loren's Legion, an Imperial organisation with extensive commercial
+  interests.
+system: Prism
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

@@ -11,8 +11,10 @@ related_entities:
 - quivira
 - stapledon-dock
 - summerland
-bio: 'An orbital station in the Quivira system, Godel Dock became the unlikely headquarters
-  of a popular resistance movement against Imperial debt reclamation.'
+bio: An orbital station in the Quivira system, Godel Dock became the unlikely headquarters
+  of a popular resistance movement against Imperial debt reclamation.
+system: Quivira
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->
