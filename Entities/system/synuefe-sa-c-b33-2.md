@@ -1,7 +1,7 @@
 ---
 id: synuefe-sa-c-b33-2
 name: Synuefe SA-C b33-2
-type: region
+type: system
 first_seen_date: '3308-08-27'
 last_seen_date: '3308-08-27'
 mention_count: 1
@@ -19,6 +19,7 @@ inara_url: https://inara.cz/elite/starsystem/?search=Synuefe%20SA-C%20b33-2
 bio: 'Synuefe SA-C b33-2 is a star system in the Elite Dangerous universe, significant
   from 3308-08-27 to 3308-08-27. Associated with Federal Navy. '
 ---
+
 
 
 

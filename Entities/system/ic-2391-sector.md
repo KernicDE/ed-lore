@@ -1,7 +1,7 @@
 ---
 id: ic-2391-sector
 name: IC 2391 sector
-type: region
+type: system
 first_seen_date: '3304-08-29'
 last_seen_date: '3304-08-29'
 mention_count: 1
@@ -13,6 +13,7 @@ bio: IC 2391 sector is a star system in the Elite Dangerous universe, significan
   signatures originating from the NGC 2451A sector, the IC 2391 sector, and the Synuefe
   EN-H region.
 ---
+
 
 <!-- AUTO-GENERATED -->
 

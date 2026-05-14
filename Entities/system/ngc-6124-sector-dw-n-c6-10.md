@@ -1,7 +1,7 @@
 ---
 id: ngc-6124-sector-dw-n-c6-10
 name: NGC 6124 SECTOR DW-N C6-10
-type: region
+type: system
 first_seen_date: '3301-04-25'
 last_seen_date: '3301-04-25'
 mention_count: 1
@@ -15,6 +15,7 @@ bio: NGC 6124 SECTOR DW-N C6-10 is a star system in the Elite Dangerous universe
   significant from 3301-04-25 to 3301-04-25. survived warping into the corona of the
   'B' Star in NGC 6124 SECTOR DW-N C6-10, which is abnormally close to the 'A' Star.
 ---
+
 
 
 

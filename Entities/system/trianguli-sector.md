@@ -1,7 +1,7 @@
 ---
 id: trianguli-sector
 name: Trianguli sector
-type: region
+type: system
 first_seen_date: '3309-10-06'
 last_seen_date: '3309-10-06'
 mention_count: 1
@@ -12,6 +12,7 @@ bio: Trianguli sector is a star system in the Elite Dangerous universe, signific
   discovered Thargoid barnacle matrix sites in the Trianguli sector, with disturbing
   reports from explorers and scientific analysis from Madigan.
 ---
+
 
 <!-- AUTO-GENERATED -->
 

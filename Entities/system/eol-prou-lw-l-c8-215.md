@@ -1,7 +1,7 @@
 ---
 id: eol-prou-lw-l-c8-215
 name: Eol Prou Lw-L C8-215
-type: region
+type: system
 first_seen_date: '3303-05-19'
 last_seen_date: '3303-05-26'
 mention_count: 2
@@ -16,6 +16,7 @@ bio: Eol Prou Lw-L C8-215 is a star system in the Elite Dangerous universe, sign
   agitators in the Eol Prou Lw-L C8-215 system have been eliminated, with security
   personnel stationed at their outposts to prevent reoccupation.
 ---
+
 
 <!-- AUTO-GENERATED -->
 

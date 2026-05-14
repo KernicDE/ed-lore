@@ -1,7 +1,7 @@
 ---
 id: plaa-aec-iz-n-c20-1
 name: PLAA AEC IZ-N C20-1
-type: region
+type: system
 first_seen_date: '3302-11-17'
 last_seen_date: '3302-11-17'
 mention_count: 1
@@ -12,6 +12,7 @@ related_entities:
 - tau-ceti
 - hawkins-gap
 ---
+
 
 <!-- AUTO-GENERATED -->
 

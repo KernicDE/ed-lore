@@ -1,7 +1,7 @@
 ---
 id: praea-euq-sy-s-b3-3
 name: PRAEA EUQ SY-S B3-3
-type: region
+type: system
 first_seen_date: '3301-07-07'
 last_seen_date: '3301-07-07'
 mention_count: 1
@@ -17,6 +17,7 @@ inara_url: https://inara.cz/elite/starsystem/?search=PRAEA%20EUQ%20SY-S%20B3-3
 bio: 'PRAEA EUQ SY-S B3-3 is a star system in the Elite Dangerous universe, significant
   from 3301-07-07 to 3301-07-07. Associated with Pilots Federation, Fuel Rats. '
 ---
+
 
 
 

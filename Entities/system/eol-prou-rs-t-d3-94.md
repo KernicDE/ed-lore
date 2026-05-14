@@ -1,7 +1,7 @@
 ---
 id: eol-prou-rs-t-d3-94
 name: Eol Prou RS-T d3-94
-type: region
+type: system
 first_seen_date: '3302-06-29'
 last_seen_date: '3302-12-01'
 mention_count: 14
@@ -18,6 +18,7 @@ bio: 'Eol Prou RS-T d3-94 is a system in Elite Dangerous, significant from 3302-
   first message since being found in Eol Prou RS-T d3-94, explaining that drive engine
   and navigation failures forced him to ab...'
 ---
+
 
 <!-- AUTO-GENERATED -->
 

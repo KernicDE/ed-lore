@@ -1,7 +1,7 @@
 ---
 id: synuefe-tp-f-b44-0
 name: Synuefe TP-F b44-0
-type: region
+type: system
 first_seen_date: '3303-02-10'
 last_seen_date: '3303-02-10'
 mention_count: 1
@@ -21,6 +21,7 @@ inara_url: https://inara.cz/elite/starsystem/?search=Synuefe%20TP-F%20b44-0
 bio: 'Synuefe TP-F b44-0 is a star system in the Elite Dangerous universe, significant
   from 3303-02-10 to 3303-02-10. '
 ---
+
 
 
 

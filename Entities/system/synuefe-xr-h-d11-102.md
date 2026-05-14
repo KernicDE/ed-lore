@@ -1,7 +1,7 @@
 ---
 id: synuefe-xr-h-d11-102
 name: Synuefe XR-H d11-102
-type: region
+type: system
 first_seen_date: '3302-10-31'
 last_seen_date: '3303-02-10'
 mention_count: 7
@@ -26,6 +26,7 @@ bio: 'Synuefe XR-H d11-102 is a system in Elite Dangerous, significant from 3302
   Guardian sites, noting that while structures follow a pattern, codex-data pillar
   configurations diffe...'
 ---
+
 
 
 

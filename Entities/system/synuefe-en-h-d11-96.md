@@ -1,7 +1,7 @@
 ---
 id: synuefe-en-h-d11-96
 name: Synuefe EN-H d11-96
-type: region
+type: system
 first_seen_date: '3305-04-29'
 last_seen_date: '3305-05-30'
 mention_count: 5
@@ -19,9 +19,10 @@ second_economy: None
 edsm_url: https://www.edsm.net/en/system/id/10009118/name/Synuefe%20EN-H%20d11-96
 inara_url: https://inara.cz/elite/starsystem/?search=Synuefe%20EN-H%20d11-96
 bio: Synuefe EN-H d11-96 is a system in Guardian space that became a corporate battleground
-  in 3305 when Zende Partners and Segnen Exchange clashed over control of Guardian commodity
-  trade. Zende Partners ultimately secured control of the system.
+  in 3305 when Zende Partners and Segnen Exchange clashed over control of Guardian
+  commodity trade. Zende Partners ultimately secured control of the system.
 ---
+
 
 
 

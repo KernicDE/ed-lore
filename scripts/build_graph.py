@@ -222,6 +222,30 @@ GARBAGE_ENTITY_IDS: set[str] = {
     "pleiades-sector-oi-t-c3-7",
     "coalsack-sector-kn-s-b4-9",
     "the-hyades-sector-fb-n-b7-6",
+    "plaa-aec-iz-n-c20-1"
+    "synuefe-eu-q-c21-10"
+    "eol-prou-lw-l-c8-215"
+    "praea-euq-sy-s-b3-3"
+    "blu-thua-ai-a-c14-10"
+    "trianguli-sector"
+    "ngc-2451a-sector"
+    "synuefe-xo-p-c22-17"
+    "synuefe-zl-j-d10-119"
+    "ngc-6124-sector-dw-n-c6-10"
+    "synuefe-nl-n-c23-4"
+    "gru-hypue-ks-t-d3-31"
+    "synuefe-ly-i-b42-2"
+    "synuefe-tp-f-b44-0"
+    "boewnst-ks-s-c20-959"
+    "synuefe-sa-c-b33-2"
+    "ic-2391-sector"
+    "eafots-eu-r-c4-1"
+    "eactainds-gn-w-c1-6"
+    "eol-prou-pc-k-c9-91"
+    "pru-aescs-dl-w-c15-37"
+    "eol-prou-rs-t-d3-94"
+    "synuefe-en-h-d11-96"
+    "synuefe-xr-h-d11-102",
 }
 
 LOCATION_BLOCKLIST = {

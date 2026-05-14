@@ -1,7 +1,7 @@
 ---
-id: boewnst-ks-s-c20-959
-name: Boewnst KS-S c20-959
-type: region
+id: gru-hypue-ks-t-d3-31
+name: Gru Hypue KS-T d3-31
+type: system
 first_seen_date: '3302-10-14'
 last_seen_date: '3302-10-14'
 mention_count: 1
@@ -13,9 +13,10 @@ related_entities:
 - eagle-sector-ir-w-d1-117
 ---
 
+
 <!-- AUTO-GENERATED -->
 
-# Boewnst KS-S c20-959
+# Gru Hypue KS-T d3-31
 
 First mentioned: **3302-10-14**  
 Last mentioned: **3302-10-14**  

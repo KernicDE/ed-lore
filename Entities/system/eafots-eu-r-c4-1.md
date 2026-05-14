@@ -1,7 +1,7 @@
 ---
 id: eafots-eu-r-c4-1
 name: EAFOTS EU-R C4-1
-type: region
+type: system
 first_seen_date: '3302-11-17'
 last_seen_date: '3302-11-17'
 mention_count: 1
@@ -12,6 +12,7 @@ related_entities:
 - tau-ceti
 - hawkins-gap
 ---
+
 
 <!-- AUTO-GENERATED -->
 

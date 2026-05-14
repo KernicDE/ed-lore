@@ -1,7 +1,7 @@
 ---
 id: blu-thua-ai-a-c14-10
 name: Blu Thua AI-A c14-10
-type: region
+type: system
 first_seen_date: '3302-10-14'
 last_seen_date: '3302-10-14'
 mention_count: 1
@@ -12,6 +12,7 @@ related_entities:
 - eagle-sector-ir-w-d1-117
 - skaudai-ch-b-d14-34
 ---
+
 
 <!-- AUTO-GENERATED -->
 

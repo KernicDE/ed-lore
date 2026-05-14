@@ -1,7 +1,7 @@
 ---
 id: synuefe-eu-q-c21-10
 name: Synuefe EU-Q c21-10
-type: region
+type: system
 first_seen_date: '3304-02-28'
 last_seen_date: '3304-02-28'
 mention_count: 1
@@ -11,6 +11,7 @@ related_entities:
 - meene
 - phoenix-base
 ---
+
 
 <!-- AUTO-GENERATED -->
 

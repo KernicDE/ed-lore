@@ -1,7 +1,7 @@
 ---
 id: ngc-2451a-sector
 name: NGC 2451A sector
-type: region
+type: system
 first_seen_date: '3304-08-29'
 last_seen_date: '3304-08-29'
 mention_count: 1
@@ -13,6 +13,7 @@ bio: NGC 2451A sector is a star system in the Elite Dangerous universe, signific
   signatures originating from the NGC 2451A sector, the IC 2391 sector, and the Synuefe
   EN-H region.
 ---
+
 
 <!-- AUTO-GENERATED -->
 

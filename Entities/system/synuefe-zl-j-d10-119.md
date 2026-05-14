@@ -1,32 +1,33 @@
 ---
-id: synuefe-xo-p-c22-17
-name: Synuefe XO-P c22-17
-type: region
+id: synuefe-zl-j-d10-119
+name: Synuefe ZL-J d10-119
+type: system
 first_seen_date: '3303-01-24'
 last_seen_date: '3303-01-24'
 mention_count: 1
 related_entities:
-- synuefe-zl-j-d10-119
+- synuefe-xo-p-c22-17
 - ic-2391-sector-ze-a-d101
 - ic-2391-sector-gw-v-b2-4
 coords:
-  x: 546.90625
-  y: -56.46875
-  z: -97.8125
+  x: 834.21875
+  y: -51.21875
+  z: -154.65625
 security: Anarchy
 economy: None
 second_economy: None
-edsm_url: https://www.edsm.net/en/system/id/9084912/name/Synuefe%20XO-P%20c22-17
-inara_url: https://inara.cz/elite/starsystem/?search=Synuefe%20XO-P%20c22-17
-bio: 'Synuefe XO-P c22-17 is a star system in the Elite Dangerous universe, significant
+edsm_url: https://www.edsm.net/en/system/id/8850999/name/Synuefe%20ZL-J%20d10-119
+inara_url: https://inara.cz/elite/starsystem/?search=Synuefe%20ZL-J%20d10-119
+bio: 'Synuefe ZL-J d10-119 is a star system in the Elite Dangerous universe, significant
   from 3303-01-24 to 3303-01-24. '
 ---
 
 
 
+
 <!-- AUTO-GENERATED -->
 
-# Synuefe XO-P c22-17
+# Synuefe ZL-J d10-119
 
 First mentioned: **3303-01-24**  
 Last mentioned: **3303-01-24**  
@@ -34,7 +35,7 @@ Total mentions: **1**
 
 ## Related
 
-- [[Synuefe ZL-J d10-119]] (1 co-mentions)
+- [[Synuefe XO-P c22-17]] (1 co-mentions)
 - [[IC 2391 Sector ZE-A d101]] (1 co-mentions)
 - [[IC 2391 Sector GW-V b2-4]] (1 co-mentions)
 
