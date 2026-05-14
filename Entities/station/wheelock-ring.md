@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3304-08-31'
 last_seen_date: '3304-09-07'
 mention_count: 2
+system: Zavijah
+station_type: Starport
 related_entities:
 - lhs-2541-alliance-combine
 - far-god-cult

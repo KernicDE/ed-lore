@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3302-12-22'
 last_seen_date: '3302-12-22'
 mention_count: 1
+system: LP 339-7
+station_type: Starport
 related_entities:
 - starship-enterprises-corporation
 - lp-339-7
