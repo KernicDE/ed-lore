@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3308-09-29'
 last_seen_date: '3308-09-29'
 mention_count: 1
+system: Popontia
+station_type: Starport
 related_entities:
 - workers-of-popontia-free
 - popontia-incorporated

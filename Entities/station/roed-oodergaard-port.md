@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3301-11-06'
 last_seen_date: '3301-11-06'
 mention_count: 1
+system: Brestla
+station_type: Starport
 related_entities:
 - imperial-inquisition
 - princess-margaret-cancer-foundation
