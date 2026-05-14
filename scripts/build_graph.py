@@ -157,6 +157,7 @@ GARBAGE_ENTITY_IDS: set[str] = {
     "san-francisco",
     "skyglow-havens", "simpsons-eden",
     "slough",
+    "solo-orbiter",
 }
 
 LOCATION_BLOCKLIST = {

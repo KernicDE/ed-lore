@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3304-10-04'
 last_seen_date: '3304-10-11'
 mention_count: 2
+system: HIP 16038
+station_type: Starport
 related_entities:
 - broadcast-cobra
 - hip-16038
