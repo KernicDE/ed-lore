@@ -15,6 +15,8 @@ bio: 'Gabriel Enterprise is a system in Elite Dangerous, significant from 3301-1
   to 3303-08-04. Notable events include: The technological plague continues to affect
   starports across inhabited space.; Several starports previously closed due to Unknown
   Artefact-related interference have been restored through the application of meta-alloys.'
+system: Wolf 1301
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

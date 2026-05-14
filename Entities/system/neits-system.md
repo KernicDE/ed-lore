@@ -15,7 +15,13 @@ coords:
   x: 9.84375
   y: -68.28125
   z: -9.875
+allegiance: Empire
+government: Corporate
+controlling_faction: East India Company
 population: 460105
+security: Medium
+economy: Refinery
+second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Neits
 bio: Neits system is a star system in the Elite Dangerous universe, significant from
   3302-05-19 to 3302-05-26. Associated with GR 316 Silver Universal Group, Neits Jet

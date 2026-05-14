@@ -21,6 +21,11 @@ bio: Outotz ST-I d9-6 is a star system in the Elite Dangerous universe, signific
   from 3304-09-07 to 3304-09-09. Associated with Canonn Interstellar Research Group.
   The Gnosis is adrift near the eighth planet of the Outotz ST-I d9-6 system, beginning
   repairs under threat of return.
+allegiance: Independent
+government: None
+population: 0
+security: Anarchy
+economy: None
 ---
 
 

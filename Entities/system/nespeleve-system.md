@@ -15,7 +15,14 @@ coords:
   x: 68
   y: -141.28125
   z: -105.25
+allegiance: Independent
+government: Cooperative
+controlling_faction: "Misfit's of Science and Research"
 population: 19325787
+security: High
+economy: Industrial
+second_economy: Extraction
+reserve: Pristine
 edsm_url: https://www.edsm.net/en/system?search=Nespeleve
 bio: Nespeleve system is a star system in the Elite Dangerous universe, significant
   from 3302-02-25 to 3302-05-19. Associated with Defence Party of Nespeleve. Rose

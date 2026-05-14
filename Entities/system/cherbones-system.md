@@ -22,6 +22,11 @@ bio: Cherbones system is a star system in the Elite Dangerous universe, signific
   transmitter relay in the Diso system after discovering their existing transmitter
   was broken and scavenged. They need rare blood crystals from the Cherbones system
   for the new equipment.
+allegiance: Independent
+government: Corporate
+population: 246055
+security: Medium
+economy: Refinery
 ---
 
 <!-- AUTO-GENERATED -->

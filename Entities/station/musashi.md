@@ -16,6 +16,8 @@ bio: 'Musashi is a system in Elite Dangerous, significant from 3308-01-05 to 331
   Tah''s testimony about Salvation''s Guardian-based superweapon suspends Admiral
   Tanner''s court martial.; Taurus Mining Ventures begins research in Synuefe on a
   Guardian-related site for Salvation.'
+system: Pleiades Sector CW-U B3-2
+station_type: Megaship
 ---
 
 <!-- AUTO-GENERATED -->

@@ -17,6 +17,8 @@ bio: 'Bright Sentinel is a system in Elite Dangerous, significant from 3308-06-3
   it will be the final battlefield to eradicate Thargoids from the galaxy, ...; Azimuth
   Biotech requests medical and military commodity deliveries to the Heart of Taurus
   in HIP 22460 to support Proteus Wave construction and def...'
+system: HIP 22460
+station_type: Megaship
 ---
 
 <!-- AUTO-GENERATED -->

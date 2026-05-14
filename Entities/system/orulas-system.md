@@ -15,7 +15,14 @@ coords:
   x: 76.75
   y: -141.375
   z: -120.375
+allegiance: Independent
+government: Cooperative
+controlling_faction: Foxhound
 population: 36697
+security: Low
+economy: Agriculture
+second_economy: Extraction
+reserve: Pristine
 edsm_url: https://www.edsm.net/en/system?search=Orulas
 bio: 'Orulas system is a system in Elite Dangerous, significant from 3302-02-25 to
   3302-05-12. Associated with Blue Hand Gang. Notable events include: Professor Ishmael

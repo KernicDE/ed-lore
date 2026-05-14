@@ -16,6 +16,11 @@ coords:
 edsm_url: https://www.edsm.net/en/system?search=HIP%2072043
 bio: 'HIP 72043 system is a star system in the Elite Dangerous universe, significant
   from 3302-04-24 to 3302-04-24. Associated with First Great Expedition. '
+allegiance: Independent
+government: Cooperative
+population: 2166350654
+security: High
+economy: Agriculture
 ---
 
 <!-- AUTO-GENERATED -->

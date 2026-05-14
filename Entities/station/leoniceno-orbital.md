@@ -17,6 +17,8 @@ bio: 'Leoniceno Orbital is a starport in Elite Dangerous, significant from 3301-
   with Navy HQ but could not explain the disappearance.; President Zachary Hudson
   announces that the search for Starship One survivors received an overwhelmingly
   positive response.'
+system: Azaleach
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

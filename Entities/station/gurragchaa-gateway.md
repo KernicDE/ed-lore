@@ -15,6 +15,8 @@ bio: 'Gurragchaa Gateway is a system in Elite Dangerous, significant from 3301-1
   to 3302-05-20. Notable events include: The technological plague continues to affect
   starports across inhabited space.; Several starports previously closed due to Unknown
   Artefact-related interference have been restored through the application of meta-alloys.'
+system: Warkushanui
+station_type: Coriolis Starport
 ---
 
 <!-- AUTO-GENERATED -->

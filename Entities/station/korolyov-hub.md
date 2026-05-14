@@ -15,6 +15,8 @@ bio: 'Korolyov Hub is a system in Elite Dangerous, significant from 3301-11-25 t
   3302-05-20. Notable events include: The technological plague continues to affect
   starports across inhabited space.; Several starports previously closed due to Unknown
   Artefact-related interference have been restored through the application of meta-alloys.'
+system: Varati
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

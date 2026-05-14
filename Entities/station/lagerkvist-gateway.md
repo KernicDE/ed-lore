@@ -17,6 +17,8 @@ bio: 'Lagerkvist Gateway is a system in Elite Dangerous, significant from 3301-0
   position on slavery the Empire''s citizens truly support.; Senator Zemina Torval
   defeated Aisling Duval in their slavery wager, with the Imperial Slavers Association
   acquiring 2,387,567 unregulated slaves c...'
+system: Varati
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

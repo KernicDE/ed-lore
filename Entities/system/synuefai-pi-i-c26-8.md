@@ -17,6 +17,11 @@ edsm_url: https://www.edsm.net/en/system/id/396822/name/Synuefai%20PI-I%20c26-8
 inara_url: https://inara.cz/elite/starsystem/?search=Synuefai%20PI-I%20c26-8
 bio: 'Synuefai PI-I c26-8 is a star system in the Elite Dangerous universe, significant
   from 3302-07-01 to 3302-07-01. '
+allegiance: Independent
+government: None
+population: 0
+security: Anarchy
+economy: None
 ---
 
 

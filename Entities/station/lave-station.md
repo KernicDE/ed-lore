@@ -17,6 +17,8 @@ bio: 'Lave Station is a starport in Elite Dangerous, significant from 3302-03-03
   have been restored through the application of meta-alloys.; Fleet Admiral Tulimaq
   Buchanan of the Alliance Council of Admirals has been murdered by the League of
   Reparation.'
+system: Lave
+station_type: Coriolis Starport
 ---
 
 <!-- AUTO-GENERATED -->

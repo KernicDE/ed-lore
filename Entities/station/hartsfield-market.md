@@ -16,6 +16,8 @@ bio: 'Hartsfield Market is a system in Elite Dangerous, significant from 3301-03
   Notable events include: President Halsey officially declared war on the Crimson
   State Group in Lugh.; The Crimson State Group and Sons of Conn captured Hartsfield
   Market from the Lugh for Equality Party in a devastating blow for the Federation.'
+system: Rhea
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

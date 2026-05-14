@@ -16,6 +16,8 @@ bio: 'Kumo City is a system in Elite Dangerous, significant from 3307-07-02 to 3
   Club dredger enters the Pegasi Sector PN-T c3-14 system and takes position near
   Kumo City.; The Kumo Crew syndicate requests deliveries to mass-produce ''helix'',
   a recreational drug believed to originate from the Blue Viper Club dredger.'
+system: Harma
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

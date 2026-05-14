@@ -16,6 +16,8 @@ bio: 'Wilkes Orbital is a starport in Elite Dangerous, significant from 3302-02-
   Lawrence announces the successful conclusion of the Ceremonial Heike Tea appeal
   at Wilkes Orbital.; Professor Ishmael Palin announces his retirement from the Palin
   Institute and plans to relocate to a research centre on Maia A 3 a to study Unknown...'
+system: Nespeleve
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

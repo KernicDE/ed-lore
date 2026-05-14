@@ -18,6 +18,11 @@ bio: Phiagre system is a star system in the Elite Dangerous universe, significan
   from 3302-04-21 to 3302-04-28. Associated with Sovereign Justice Collective, Pilots
   Federation. The Sovereign Justice Collective confirms that sufficient titanium has
   been received to upgrade Greeboski's Outpost in the Phiagre system.
+allegiance: Independent
+government: Dictatorship
+population: 70025148
+security: Medium
+economy: Industrial
 ---
 
 <!-- AUTO-GENERATED -->

@@ -15,7 +15,14 @@ coords:
   x: -97.65625
   y: 81.96875
   z: 0.4375
+allegiance: Independent
+government: Cooperative
+controlling_faction: The Buurian Protectorate
 population: 944213230
+security: Medium
+economy: Agriculture
+second_economy: Refinery
+reserve: Common
 edsm_url: https://www.edsm.net/en/system?search=Morrina
 bio: 'An Alliance system with nearly a billion inhabitants, Morrina experienced severe
   civil unrest in early 3302 due to rampant criminal activity that prompted the Pro-Alliance

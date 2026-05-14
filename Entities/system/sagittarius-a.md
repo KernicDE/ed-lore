@@ -15,6 +15,11 @@ coords:
   x: 25.21875
   y: -20.90625
   z: 25899.96875
+allegiance: Independent
+government: None
+security: Anarchy
+economy: None
+population: 0
 edsm_url: https://www.edsm.net/en/system/id/25635/name/Sagittarius%20A%2A
 inara_url: https://inara.cz/elite/starsystem/?search=Sagittarius%20A%2A
 bio: 'Sagittarius A* is a system in Elite Dangerous, significant from 3301-04-23 to

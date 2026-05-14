@@ -17,6 +17,8 @@ bio: 'Bond Hub is a system in Elite Dangerous, significant from 3301-11-02 to 33
   technological plague affecting stations.; Dr Arcanonn of the Canonn Interstellar
   Research Group urges pilots to stop selling Unknown Artefacts, citing a strong correlation
   between UA sales ...'
+system: Varati
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

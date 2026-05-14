@@ -17,6 +17,8 @@ bio: 'Ocrinox''s Orbiter is a system in Elite Dangerous, significant from 3301-0
   candidates, Lloyd Hardacre''s arrest after his robot exposed corporate fr...; Officials
   at Ocrinox''s Orbiter announced plans to build a state-of-the-art resettlement facility
   for Pegasi Pirate War refugees.'
+system: Maia
+station_type: Planetary Port
 ---
 
 <!-- AUTO-GENERATED -->

@@ -13,6 +13,8 @@ related_entities:
 - pleiades-nebula
 bio: Obsidian Orbital is a starport in the Maia system, primary research hub for Thargoid
   barnacles and meta-alloys in the Pleiades Nebula.
+system: Maia
+station_type: Ocellus Starport
 ---
 
 # Obsidian Orbital

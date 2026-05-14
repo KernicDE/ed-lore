@@ -17,6 +17,8 @@ bio: 'Hudson Dock is a starport in Elite Dangerous, significant from 3301-02-27 
   Federal Navy to construct several new capital ships, with the first already under
   construc...; Two war updates: (1) The Federal Navy-Polahukuna Raiders conflict shifted
   as the Federation began construction of a new Farragut-class battlecruise...'
+system: Rhea
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

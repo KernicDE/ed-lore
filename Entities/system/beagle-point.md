@@ -15,6 +15,11 @@ coords:
   x: -1111.5625
   y: -134.21875
   z: 65269.75
+allegiance: Independent
+government: None
+security: Anarchy
+economy: None
+population: 0
 edsm_url: https://www.edsm.net/en/system/id/124406/name/Beagle%20Point
 inara_url: https://inara.cz/elite/starsystem/?search=Beagle%20Point
 bio: 'Beagle Point is a system in Elite Dangerous, significant from 3302-03-29 to

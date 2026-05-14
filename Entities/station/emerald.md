@@ -17,6 +17,8 @@ bio: 'Emerald is a system in Elite Dangerous, significant from 3301-02-21 to 330
   full functionality, Aisling Duval''s engagem...; Weekly summary covering Chief Inspector
   Kay Kilbride''s murder by the League of Reparation, reactions to Aisling Duval and
   Jordan Rochester''s engage...'
+system: Cemiess
+station_type: Planetary Port
 ---
 
 <!-- AUTO-GENERATED -->

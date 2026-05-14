@@ -15,6 +15,11 @@ coords:
   x: -3.125
   y: 25.53125
   z: 2.6875
+allegiance: Independent
+government: None
+security: Anarchy
+economy: None
+population: 0
 edsm_url: https://www.edsm.net/en/system/id/24467/name/DG%20Canum%20Venaticorum
 inara_url: https://inara.cz/elite/starsystem/?search=DG%20Canum%20Venaticorum
 bio: 'DG Canum Venaticorum is a system in Elite Dangerous, significant from 3308-05-30

@@ -17,6 +17,8 @@ bio: 'Hind Mine is a system in Elite Dangerous, significant from 3307-12-17 to 3
   superpowers and Sirius have resigned to join Salvation''s anti-xeno ...; Part two
   traces Aegis from its 3303 creation through the Alexandria disaster, Admiral Tanner''s
   rogue assault on Hind Mine, and its dissolution foll...'
+system: Harma
+station_type: Asteroid Base
 ---
 
 <!-- AUTO-GENERATED -->

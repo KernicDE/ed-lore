@@ -13,7 +13,13 @@ coords:
   x: -52.0625
   y: 127.53125
   z: 26.21875
+allegiance: Independent
+government: Confederacy
+controlling_faction: Independent Defence Agency
 population: 459927280
+security: Medium
+economy: Agriculture
+second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system?search=Vennik
 bio: Vennik system is a star system in the Elite Dangerous universe, significant from
   3302-03-17 to 3302-03-31. Associated with Revolutionary Party of Vennik. The Revolutionary

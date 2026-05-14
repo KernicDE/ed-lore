@@ -18,6 +18,11 @@ bio: Okinura system is a star system in the Elite Dangerous universe, significan
   Fleet plans to transform Okinura into a high-tech trading hub positioned between
   President Hudson and Shadow President Winters' systems. The Earth Defence Fleet
   announces the successful conclusion of its Okinura economic development initiative.
+allegiance: Federation
+government: Corporate
+population: 4729900750
+security: High
+economy: Service
 ---
 
 <!-- AUTO-GENERATED -->

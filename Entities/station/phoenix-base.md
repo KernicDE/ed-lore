@@ -17,6 +17,8 @@ bio: 'Phoenix Base is a outpost in Elite Dangerous, significant from 3302-12-02 
   the foiled raid on Ram Tah''s Phoenix Base, the FSS targeting The Mars T...; Weekly
   summary covering the Alliance Assembly''s decision to create the Office of the Alliance
   President without executive powers, Sirius Corporatio...'
+system: Meene
+station_type: Planetary Port
 ---
 
 <!-- AUTO-GENERATED -->

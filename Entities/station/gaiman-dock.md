@@ -16,6 +16,8 @@ bio: 'Gaiman Dock is a starport in Elite Dangerous, significant from 3301-10-23 
   starports across inhabited space.; Aegis has announced plans to dramatically expand
   its research division with over twenty new laboratories at starports across the
   galaxy.'
+system: Harma
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

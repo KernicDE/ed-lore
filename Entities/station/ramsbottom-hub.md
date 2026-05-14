@@ -17,6 +17,8 @@ bio: 'Ramsbottom Hub is a system in Elite Dangerous, significant from 3302-07-07
   the Segovan system entered lockdown, leaving thousands of pilots unable to d...;
   A coalition of Empire-aligned commanders known as Taskforce Athena has declared
   the Segovan system a no-fly zone and placed Ramsbottom Hub in lockd...'
+system: Varati
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

@@ -19,6 +19,11 @@ bio: I Carinae is a star system in the Elite Dangerous universe, significant fro
   successfully cleared the I Carinae system of agitators with support from hundreds
   of pilots. The Secret Billionaires, based in I Carinae, have reported a sharp increase
   in criminal activity.
+allegiance: Independent
+government: Corporate
+population: 11491804888
+security: High
+economy: Agriculture
 ---
 
 

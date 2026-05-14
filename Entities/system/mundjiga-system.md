@@ -15,7 +15,13 @@ coords:
   x: 32.75
   y: -95.625
   z: 32.53125
+allegiance: Empire
+government: Patronage
+controlling_faction: First Imperial Fleet
 population: 8817033
+security: High
+economy: High Tech
+second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Mundjiga
 bio: Mundjiga system is a star system in the Elite Dangerous universe, significant
   from 3302-04-21 to 3302-04-28. Associated with Imperial Navy, Mundjiga Patrons of

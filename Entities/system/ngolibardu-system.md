@@ -18,6 +18,11 @@ bio: Ngolibardu system is a star system in the Elite Dangerous universe, signifi
   Rising criminal activity in the Ngolibardu system prompts Ngolibardu Electronics
   Solutions to place a kill order on all wanted ships and reward pilots who deliver
   bounty vouchers to Vernadsky Port.
+allegiance: Independent
+government: Democracy
+population: 2482084
+security: Medium
+economy: Refinery
 ---
 
 <!-- AUTO-GENERATED -->

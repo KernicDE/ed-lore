@@ -17,6 +17,8 @@ bio: 'Homeland is a system in Elite Dangerous, significant from 3304-08-11 to 33
   from Unchain, further FIA arrests of Fa...; Zachary Rackham funded a galaxy-wide
   exploration initiative for pilots to scan Rocky and High Metal Content worlds after
   long-range scans revealed ...'
+system: Beta Hydri
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

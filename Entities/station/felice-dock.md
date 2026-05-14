@@ -16,6 +16,8 @@ bio: 'Felice Dock is a starport in Elite Dangerous, significant from 3302-11-03 
   Ram Tah''s appeal for data from the Synuefe ruins concludes successfully.; Ram Tah,
   the galaxy''s foremost expert on the Guardians, has revealed that his research funding
   will soon end.'
+system: Meene
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

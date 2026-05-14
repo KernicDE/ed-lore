@@ -18,6 +18,8 @@ bio: 'Turner''s World is a system in Elite Dangerous, significant from 3304-06-0
   Jordan Rochester''s engage...; Weekly summary covering the foiled assassination
   attempt on Aisling Duval, Riri McAllister being shot during her trial, the FIA investigation
   into ...'
+system: Alioth
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

@@ -11,9 +11,11 @@ related_entities:
 - imperial-naval-infantry
 - imperial-guard
 - imperial-intelligence-security-service
-bio: "A vast ceremonial hall beneath the Imperial Palace on Capitol, constructed
-  over 600 years ago to honour the Empire's fallen and reserved for the most distinguished
-  burials."
+bio: A vast ceremonial hall beneath the Imperial Palace on Capitol, constructed over
+  600 years ago to honour the Empire's fallen and reserved for the most distinguished
+  burials.
+system: Achenar
+station_type: Planetary Port
 ---
 
 <!-- AUTO-GENERATED -->

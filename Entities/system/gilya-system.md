@@ -21,6 +21,11 @@ bio: Gilya system is a star system in the Elite Dangerous universe, significant 
   system following intervention from commercial interests, priests from Sacra Oculus,
   and Pilots Federation Commanders. The system now also produces progenitor cells
   and combat stabilizers.
+allegiance: Independent
+government: Cooperative
+population: 10003985
+security: Medium
+economy: High Tech
 ---
 
 <!-- AUTO-GENERATED -->

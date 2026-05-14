@@ -15,6 +15,11 @@ coords:
   x: 160.28125
   y: 137.59375
   z: -421.875
+allegiance: Independent
+government: None
+security: Anarchy
+economy: None
+population: 0
 edsm_url: https://www.edsm.net/en/system/id/237189/name/Wregoe%20TC-X%20b29-0
 inara_url: https://inara.cz/elite/starsystem/?search=Wregoe%20TC-X%20b29-0
 bio: Wregoe TC-X b29-0 is a star system in the Elite Dangerous universe, significant

@@ -19,6 +19,11 @@ edsm_url: https://www.edsm.net/en/system/id/25365/name/Mu%20Cassiopeia
 inara_url: https://inara.cz/elite/starsystem/?search=Mu%20Cassiopeia
 bio: 'Mu Cassiopeia is a star system in the Elite Dangerous universe, significant
   from 3307-04-02 to 3307-04-02. '
+allegiance: Independent
+government: None
+population: 0
+security: Anarchy
+economy: None
 ---
 
 

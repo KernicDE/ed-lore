@@ -17,6 +17,8 @@ bio: 'Newton Dock is a starport in Elite Dangerous, significant from 3301-06-30 
   to the Bast system.; Chief Medical Officer Carl Simmons confirmed isolated Cerberus
   Plague incidents in Dajoar, Eleu, and 20 Ophiuchi, believed to be travellers from
   BD...'
+system: BD-02 4304
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

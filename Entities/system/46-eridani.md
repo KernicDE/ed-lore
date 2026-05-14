@@ -17,6 +17,11 @@ edsm_url: https://www.edsm.net/en/system/id/1866069/name/46%20Eridani
 inara_url: https://inara.cz/elite/starsystem/?search=46%20Eridani
 bio: '46 Eridani is a star system in the Elite Dangerous universe, significant from
   3303-05-04 to 3303-05-04. '
+allegiance: Independent
+government: None
+population: 0
+security: Anarchy
+economy: None
 ---
 
 

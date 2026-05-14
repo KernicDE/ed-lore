@@ -16,6 +16,8 @@ bio: 'Hart Station is a starport in Elite Dangerous, significant from 3301-07-23
   events include: Medical personnel at Hart Station praised 765 independent pilots
   who delivered medicines to the Bast system.; The Cerberus Plague has reached Hart
   Station in Bast, Hoard Orbital in Una, and Cantor Terminal in Santjalan.'
+system: Harma
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

@@ -17,6 +17,8 @@ bio: 'Jaques Station is a starport in Elite Dangerous, significant from 3302-05-
   at Jaques Station while attempting to modify the station''s Frame Shift Drive.;
   *Pilots Federation ALERT* The Holloway Bioscience Institute has rewarded pilots
   who delivered living matter extracted from space-dwelling organisms.'
+system: Colonia
+station_type: Orbis Starport
 ---
 
 <!-- AUTO-GENERATED -->

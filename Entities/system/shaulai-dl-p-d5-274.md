@@ -18,6 +18,11 @@ inara_url: https://inara.cz/elite/starsystem/?search=Shaulai%20DL-P%20d5-274
 bio: 'Shaulai DL-P d5-274 is a star system in the Elite Dangerous universe, significant
   from 3308-09-02 to 3308-09-02. Associated with Universal Cartographics, Independent
   Explorers Association. '
+allegiance: Independent
+government: None
+population: 0
+security: Anarchy
+economy: None
 ---
 
 

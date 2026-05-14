@@ -17,6 +17,11 @@ bio: Rho Cassiopeiae is a star system in the Elite Dangerous universe, significa
   from 3302-04-18 to 3302-04-18. Commander turkwinif becomes the first pilot to reach
   Rho Cassiopeiae, a class-F hypergiant visible from Earth located in the difficult-to-navigate
   Formidine Rift.
+allegiance: Independent
+government: None
+population: 0
+security: Anarchy
+economy: None
 ---
 
 

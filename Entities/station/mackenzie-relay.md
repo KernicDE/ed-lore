@@ -17,6 +17,8 @@ bio: 'Mackenzie Relay is a system in Elite Dangerous, significant from 3301-03-0
   at Mackenzie Relay in the Cemiess system was thwarted by the Imperial Internal Security
   Service.; *Pilots Federation ALERT* Safeguard Interstellar requires deliveries of
   medicines to treat casualties from The NMLA’s recent terrorist attack.'
+system: Cemiess
+station_type: Outpost
 ---
 
 <!-- AUTO-GENERATED -->

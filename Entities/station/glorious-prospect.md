@@ -17,6 +17,8 @@ bio: 'Glorious Prospect is a system in Elite Dangerous, significant from 3308-06
   battlefield to eradicate Thargoids from the galaxy, ...; Azimuth Biotech launches
   a mining campaign to deliver raw materials to the Glorious Prospect megaship in
   LHS 157, seeking to rebuild corporate infr...'
+system: LHS 1163
+station_type: Megaship
 ---
 
 <!-- AUTO-GENERATED -->

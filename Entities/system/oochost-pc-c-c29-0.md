@@ -20,6 +20,11 @@ bio: Oochost PC-C c29-0 is a star system in the Elite Dangerous universe, signif
   Vox Galactica. The Scriveners Clan Dredger departs from Oochost PC-C c29-0 to resume
   nomadic travels, with Orion University abandoning its ownership claims over the
   ancient vessel.
+allegiance: Independent
+government: None
+population: 0
+security: Anarchy
+economy: None
 ---
 
 

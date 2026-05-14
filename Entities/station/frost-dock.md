@@ -17,6 +17,8 @@ bio: 'Frost Dock is a starport in Elite Dangerous, significant from 3301-12-22 t
   the Thargoid invasion, with her upgraded Our Dolph''s Route...; Sandra Corrs requests
   pilot volunteers to deliver festive gifts after a hack wiped Our Dolph''s Routes
   delivery data, forcing pilots to scan a beaco...'
+system: Mu Cassiopeia
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

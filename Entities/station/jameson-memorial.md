@@ -17,6 +17,8 @@ bio: 'Jameson Memorial is a system in Elite Dangerous, significant from 3301-09-
   Dezhra, catching AX forces by surprise.; The Thargoid invasion fleet in Shinrarta
   Dezhra is successfully repelled, with acting starport commander Florian Baljak praising
   the thousands of C...'
+system: Shinrarta Dezhra
+station_type: Orbis Starport
 ---
 
 <!-- AUTO-GENERATED -->

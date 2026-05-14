@@ -16,6 +16,8 @@ bio: 'Olympus Village is a system in Elite Dangerous, significant from 3304-07-0
   the League of Reparation and Riri McAllister''s arrest, the Church of Eternal Void
   being declared illegal...; The superpowers agree to shut down Aegis permanently
   and establish independent anti-xeno taskforces.'
+system: Sol
+station_type: Planetary Settlement
 ---
 
 <!-- AUTO-GENERATED -->
