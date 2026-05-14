@@ -1,0 +1,49 @@
+---
+id: mehet
+name: Mehet
+type: system
+first_seen_date: '3302-06-02'
+last_seen_date: '3302-06-09'
+mention_count: 2
+related_entities:
+- mehet-ltd
+- schwann-dock
+- pilots-federation
+coords:
+  x: 33.71875
+  y: 12.4375
+  z: 72.5
+allegiance: Independent
+government: Corporate
+controlling_faction: Atlas Corporation
+population: 12180148
+security: Medium
+economy: High Tech
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system/id/13005/name/Mehet
+inara_url: https://inara.cz/elite/starsystem/?search=Mehet
+bio: Mehet is a star system in the Elite Dangerous universe, significant from 3302-06-02
+  to 3302-06-09. Associated with Mehet Ltd, Pilots Federation. Mehet Ltd announces
+  the successful conclusion of its campaign to clear the Mehet system of criminals
+  and agitators, with hundreds of Pilots Federation commanders responding to the appeal.
+---
+
+
+
+<!-- AUTO-GENERATED -->
+
+# Mehet
+
+First mentioned: **3302-06-02**  
+Last mentioned: **3302-06-09**  
+Total mentions: **2**
+
+## Related
+
+- [[Mehet Ltd]] (2 co-mentions)
+- [[Schwann Dock]] (2 co-mentions)
+- [[Pilots Federation]] (1 co-mentions)
+
+## Biography
+
+*[To be enriched]*

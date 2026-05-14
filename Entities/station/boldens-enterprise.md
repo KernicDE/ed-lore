@@ -1,0 +1,32 @@
+---
+id: boldens-enterprise
+name: Bolden's Enterprise
+type: station
+first_seen_date: '3304-06-29'
+last_seen_date: '3304-07-06'
+mention_count: 2
+related_entities:
+- tir-technology-services
+- tir
+bio: Bolden's Enterprise is a star system in the Elite Dangerous universe, significant
+  from 3304-06-29 to 3304-07-06. Associated with Tir Technology Services. Tir Technology
+  Services is running a campaign to deliver commodities to Bolden's Enterprise in
+  the Tir system.
+---
+
+<!-- AUTO-GENERATED -->
+
+# Bolden's Enterprise
+
+First mentioned: **3304-06-29**  
+Last mentioned: **3304-07-06**  
+Total mentions: **2**
+
+## Related
+
+- [[Tir Technology Services]] (2 co-mentions)
+- [[Tir]] (2 co-mentions)
+
+## Biography
+
+*[To be enriched]*

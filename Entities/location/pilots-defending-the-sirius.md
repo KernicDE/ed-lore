@@ -8,10 +8,9 @@ mention_count: 1
 related_entities:
 - core-dynamics
 - sirius-corporation
-bio: Pilots defending the Sirius is a star system in the Elite Dangerous universe,
-  significant from 3307-02-25 to 3307-02-25. Associated with Core Dynamics. *Pilots
-  Federation ALERT* The Federation is working With Sirius Corporation to offer bounty
-  hunting opportunities to protect the diplomatic conference.
+- aisling-duval
+- edmund-mahon
+- enterprise
 ---
 
 <!-- AUTO-GENERATED -->
@@ -26,6 +25,9 @@ Total mentions: **1**
 
 - [[Core Dynamics]] (1 co-mentions)
 - [[Sirius Corporation]] (1 co-mentions)
+- [[Aisling Duval]] (1 co-mentions)
+- [[Edmund Mahon]] (1 co-mentions)
+- [[Enterprise]] (1 co-mentions)
 
 ## Biography
 

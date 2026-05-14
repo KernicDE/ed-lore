@@ -1,0 +1,37 @@
+---
+id: ising-dock
+name: Ising Dock
+type: station
+first_seen_date: '3302-05-20'
+last_seen_date: '3302-05-20'
+mention_count: 1
+related_entities:
+- ackerman-market
+- eravate
+- gabriel-enterprise
+- harma
+- weyn-dock
+bio: Ising Dock is a starport in the Elite Dangerous universe, significant from 3302-05-20
+  to 3302-05-20. Ackerman Market, Gabriel Enterprise, Weyn Dock, and Onnes Gateway
+  are now fully operational, while other stations remain affected.
+---
+
+<!-- AUTO-GENERATED -->
+
+# Ising Dock
+
+First mentioned: **3302-05-20**  
+Last mentioned: **3302-05-20**  
+Total mentions: **1**
+
+## Related
+
+- [[Ackerman Market]] (1 co-mentions)
+- [[Eravate]] (1 co-mentions)
+- [[Gabriel Enterprise]] (1 co-mentions)
+- [[Harma]] (1 co-mentions)
+- [[Weyn Dock]] (1 co-mentions)
+
+## Biography
+
+*[To be enriched]*

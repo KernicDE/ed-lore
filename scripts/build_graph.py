@@ -470,7 +470,9 @@ def build() -> dict[str, Any]:
                         "edsm_url", "inara_url", "parent_arc", "summary", "description",
                         "status", "outcome", "phases", "key_entities", "bio", "related_entities",
                         "system", "station_type", "distance_to_arrival",
-                        "have_market", "have_shipyard", "have_outfitting"]:
+                        "have_market", "have_shipyard", "have_outfitting",
+                        "body_type", "atmosphere", "gravity", "temperature", "terraformable",
+                        "region_type", "approximate_location", "size_ly", "notable_systems", "reserve"]:
                 if key in fm and fm[key] is not None:
                     rec[key] = fm[key]
             # Extract full markdown biography after the frontmatter
@@ -595,6 +597,16 @@ def write_profiles(graph: dict[str, Any]) -> None:
         subdir = ENTITIES_DIR / rec.get("type", "person")
         subdir.mkdir(parents=True, exist_ok=True)
         path = subdir / f"{eid}.md"
+        # Skip if file already exists in any entity subdirectory
+        found_elsewhere = False
+        for existing_subdir in ENTITIES_DIR.iterdir():
+            if not existing_subdir.is_dir() or existing_subdir.name == "Arcs":
+                continue
+            if (existing_subdir / f"{eid}.md").exists():
+                found_elsewhere = True
+                break
+        if found_elsewhere:
+            continue
         if path.exists():
             existing = path.read_text(encoding="utf-8")
             if len(existing) > 300:

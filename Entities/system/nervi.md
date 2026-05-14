@@ -1,0 +1,44 @@
+---
+id: nervi
+name: Nervi
+type: system
+first_seen_date: '3302-07-14'
+last_seen_date: '3302-07-14'
+mention_count: 1
+related_entities:
+- eg-pilots
+coords:
+  x: -74.75
+  y: -72.71875
+  z: 35.84375
+allegiance: Independent
+government: Confederacy
+controlling_faction: Tethys Independent Crew
+population: 7575671
+security: Low
+economy: High Tech
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system/id/9277/name/Nervi
+inara_url: https://inara.cz/elite/starsystem/?search=Nervi
+bio: Nervi is a star system in the Elite Dangerous universe, significant from 3302-07-14
+  to 3302-07-14. Associated with EG Pilots. The second heat of the Rise to Power competition
+  tasked pilots with stealing technical blueprints in the Nervi system.
+---
+
+
+
+<!-- AUTO-GENERATED -->
+
+# Nervi
+
+First mentioned: **3302-07-14**  
+Last mentioned: **3302-07-14**  
+Total mentions: **1**
+
+## Related
+
+- [[EG Pilots]] (1 co-mentions)
+
+## Biography
+
+*[To be enriched]*

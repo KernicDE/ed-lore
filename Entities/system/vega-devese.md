@@ -1,0 +1,36 @@
+---
+id: vega-devese
+name: Vega Devese
+type: system
+first_seen_date: '3304-08-25'
+last_seen_date: '3304-08-25'
+mention_count: 1
+related_entities:
+- supratech
+- herculean-machines
+- rackham-capital-investments
+- mars
+- teorge
+bio: 'Vega Devese is a star system in the Elite Dangerous universe, significant from
+  3304-08-25 to 3304-08-25. Associated with Herculean Machines, Supratech. '
+---
+
+<!-- AUTO-GENERATED -->
+
+# Vega Devese
+
+First mentioned: **3304-08-25**  
+Last mentioned: **3304-08-25**  
+Total mentions: **1**
+
+## Related
+
+- [[Supratech]] (1 co-mentions)
+- [[Herculean Machines]] (1 co-mentions)
+- [[Rackham Capital Investments]] (1 co-mentions)
+- [[Mars]] (1 co-mentions)
+- [[Teorge]] (1 co-mentions)
+
+## Biography
+
+*[To be enriched]*

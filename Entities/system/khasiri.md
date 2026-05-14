@@ -1,0 +1,51 @@
+---
+id: khasiri
+name: Khasiri
+type: system
+first_seen_date: '3301-02-13'
+last_seen_date: '3301-02-13'
+mention_count: 1
+related_entities:
+- federal-navy
+- banki
+- bd03-2338
+- antonio-de-andrade-vista
+- matteucci-terminal
+coords:
+  x: 76.59375
+  y: 76.59375
+  z: -40.0625
+allegiance: Alliance
+government: Corporate
+controlling_faction: Excalibur Arms and Munitions
+population: 12253934
+security: Medium
+economy: Industrial
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system/id/10562/name/Khasiri
+inara_url: https://inara.cz/elite/starsystem/?search=Khasiri
+bio: 'Khasiri is a star system in the Elite Dangerous universe, significant from 3301-02-13
+  to 3301-02-13. Associated with Federal Navy. '
+---
+
+
+
+<!-- AUTO-GENERATED -->
+
+# Khasiri
+
+First mentioned: **3301-02-13**  
+Last mentioned: **3301-02-13**  
+Total mentions: **1**
+
+## Related
+
+- [[Federal Navy]] (1 co-mentions)
+- [[Banki]] (1 co-mentions)
+- [[BD+03 2338]] (1 co-mentions)
+- [[Antonio De Andrade Vista]] (1 co-mentions)
+- [[Matteucci Terminal]] (1 co-mentions)
+
+## Biography
+
+*[To be enriched]*

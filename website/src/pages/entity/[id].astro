@@ -97,9 +97,12 @@ const miniGraphData: MiniGraphData = { nodes: miniNodes, links: miniLinks };
 const typeLabels: Record<string, string> = {
   person: 'Person',
   faction: 'Faction / Organisation',
-  location: 'System / Location',
-  technology: 'Technology / Ship',
+  system: 'Star System',
   station: 'Station / Port',
+  body: 'Planet / Moon',
+  region: 'Nebula / Sector',
+  technology: 'Technology / Ship',
+  location: 'System / Location',
 };
 
 function formatNumber(n: number): string {
@@ -138,7 +141,7 @@ function slugify(name: string): string {
     <div class="holo-panel">
       <div style="display: flex; align-items: center; gap: 16px;">
         <div class={`entity-icon ${entity?.type || 'person'}`} style="width: 48px; height: 48px; font-size: 18px;">
-          {entity?.type === 'person' ? 'P' : entity?.type === 'faction' ? 'F' : entity?.type === 'technology' ? 'T' : entity?.type === 'station' ? 'S' : 'L'}
+          {entity?.type === 'person' ? 'P' : entity?.type === 'faction' ? 'F' : entity?.type === 'technology' ? 'T' : entity?.type === 'station' ? 'S' : entity?.type === 'system' ? '◈' : entity?.type === 'body' ? '●' : entity?.type === 'region' ? '▩' : 'L'}
         </div>
         <div style="flex: 1; min-width: 0;">
           <h1 style="margin: 0; font-family: var(--font-hud); font-size: 24px; color: var(--elite-orange);">
@@ -177,7 +180,10 @@ function slugify(name: string): string {
       <div class="holo-panel ai-content">
         <div class="holo-title">
           {entity?.type === 'person' ? 'Biography'
-            : entity?.type === 'location' ? 'System Overview'
+            : entity?.type === 'system' ? 'System Overview'
+            : entity?.type === 'station' ? 'Station Overview'
+            : entity?.type === 'body' ? 'Body Overview'
+            : entity?.type === 'region' ? 'Region Overview'
             : entity?.type === 'technology' ? 'Technical Overview'
             : 'Description'}
         </div>
@@ -185,18 +191,51 @@ function slugify(name: string): string {
       </div>
     )}
 
-    {/* Location data from EDSM */}
-    {(entity?.type === 'location' || entity?.type === 'station') && (
+    {/* System data */}
+    {entity?.type === 'system' && (
       <div class="holo-panel">
-        <div class="holo-title">{entity?.type === 'station' ? 'Station Data' : 'System Data'}</div>
-        {entity?.type === 'station' && entity?.system && (
-          <div style="font-family: var(--font-mono); font-size: 12px; color: var(--text-secondary); margin-bottom: 8px;">
-            System: <a href={`${baseUrl}/entity/${slugify(entity.system)}/`} style="color: var(--elite-blue); text-decoration: none;">{entity.system}</a>
-          </div>
-        )}
+        <div class="holo-title">System Data</div>
         {entity?.coords && (
           <div style="font-family: var(--font-mono); font-size: 12px; color: var(--text-secondary); margin-bottom: 8px;">
             Coordinates: [{entity.coords.x}, {entity.coords.y}, {entity.coords.z}]
+          </div>
+        )}
+        <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 8px; font-size: 13px;">
+          {entity?.allegiance && (
+            <div><span style="color: var(--text-dim);">Allegiance:</span> <span style="color: var(--text-primary);">{entity.allegiance}</span></div>
+          )}
+          {entity?.government && (
+            <div><span style="color: var(--text-dim);">Government:</span> <span style="color: var(--text-primary);">{entity.government}</span></div>
+          )}
+          {entity?.security && (
+            <div><span style="color: var(--text-dim);">Security:</span> <span style="color: var(--text-primary);">{entity.security}</span></div>
+          )}
+          {entity?.economy && (
+            <div><span style="color: var(--text-dim);">Economy:</span> <span style="color: var(--text-primary);">{entity.economy}</span></div>
+          )}
+          {entity?.population && (
+            <div><span style="color: var(--text-dim);">Population:</span> <span style="color: var(--text-primary);">{formatNumber(entity.population)}</span></div>
+          )}
+          {entity?.reserve && (
+            <div><span style="color: var(--text-dim);">Reserve:</span> <span style="color: var(--text-primary);">{entity.reserve}</span></div>
+          )}
+        </div>
+        {entity?.controlling_faction && (
+          <div style="margin-top: 8px; font-size: 13px;">
+            <span style="color: var(--text-dim);">Controlling Faction:</span>{' '}
+            <span style="color: var(--text-primary);">{entity.controlling_faction}</span>
+          </div>
+        )}
+      </div>
+    )}
+
+    {/* Station data */}
+    {entity?.type === 'station' && (
+      <div class="holo-panel">
+        <div class="holo-title">Station Data</div>
+        {entity?.system && (
+          <div style="font-family: var(--font-mono); font-size: 12px; color: var(--text-secondary); margin-bottom: 8px;">
+            System: <a href={`${baseUrl}/entity/${slugify(entity.system)}/`} style="color: var(--elite-blue); text-decoration: none;">{entity.system}</a>
           </div>
         )}
         <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 8px; font-size: 13px;">
@@ -206,6 +245,101 @@ function slugify(name: string): string {
           {entity?.distance_to_arrival && (
             <div><span style="color: var(--text-dim);">Distance to Arrival:</span> <span style="color: var(--text-primary);">{entity.distance_to_arrival} ls</span></div>
           )}
+          {entity?.allegiance && (
+            <div><span style="color: var(--text-dim);">Allegiance:</span> <span style="color: var(--text-primary);">{entity.allegiance}</span></div>
+          )}
+          {entity?.government && (
+            <div><span style="color: var(--text-dim);">Government:</span> <span style="color: var(--text-primary);">{entity.government}</span></div>
+          )}
+          {entity?.economy && (
+            <div><span style="color: var(--text-dim);">Economy:</span> <span style="color: var(--text-primary);">{entity.economy}</span></div>
+          )}
+        </div>
+        {(entity?.have_market || entity?.have_shipyard || entity?.have_outfitting) && (
+          <div style="margin-top: 8px; font-size: 13px;">
+            <span style="color: var(--text-dim);">Services:</span>{' '}
+            {[
+              entity?.have_market && 'Market',
+              entity?.have_shipyard && 'Shipyard',
+              entity?.have_outfitting && 'Outfitting',
+            ].filter(Boolean).join(', ')}
+          </div>
+        )}
+        {entity?.controlling_faction && (
+          <div style="margin-top: 8px; font-size: 13px;">
+            <span style="color: var(--text-dim);">Controlling Faction:</span>{' '}
+            <span style="color: var(--text-primary);">{entity.controlling_faction}</span>
+          </div>
+        )}
+      </div>
+    )}
+
+    {/* Body data */}
+    {entity?.type === 'body' && (
+      <div class="holo-panel">
+        <div class="holo-title">Body Data</div>
+        {entity?.system && (
+          <div style="font-family: var(--font-mono); font-size: 12px; color: var(--text-secondary); margin-bottom: 8px;">
+            System: <a href={`${baseUrl}/entity/${slugify(entity.system)}/`} style="color: var(--elite-blue); text-decoration: none;">{entity.system}</a>
+          </div>
+        )}
+        <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 8px; font-size: 13px;">
+          {entity?.body_type && (
+            <div><span style="color: var(--text-dim);">Type:</span> <span style="color: var(--text-primary);">{entity.body_type}</span></div>
+          )}
+          {entity?.distance_to_arrival && (
+            <div><span style="color: var(--text-dim);">Distance to Arrival:</span> <span style="color: var(--text-primary);">{entity.distance_to_arrival} ls</span></div>
+          )}
+          {entity?.atmosphere && (
+            <div><span style="color: var(--text-dim);">Atmosphere:</span> <span style="color: var(--text-primary);">{entity.atmosphere}</span></div>
+          )}
+          {entity?.gravity && (
+            <div><span style="color: var(--text-dim);">Gravity:</span> <span style="color: var(--text-primary);">{entity.gravity} g</span></div>
+          )}
+          {entity?.temperature && (
+            <div><span style="color: var(--text-dim);">Surface Temp:</span> <span style="color: var(--text-primary);">{entity.temperature} K</span></div>
+          )}
+          {entity?.terraformable !== undefined && (
+            <div><span style="color: var(--text-dim);">Terraformable:</span> <span style="color: var(--text-primary);">{entity.terraformable ? 'Yes' : 'No'}</span></div>
+          )}
+        </div>
+      </div>
+    )}
+
+    {/* Region data */}
+    {entity?.type === 'region' && (
+      <div class="holo-panel">
+        <div class="holo-title">Region Data</div>
+        <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 8px; font-size: 13px;">
+          {entity?.region_type && (
+            <div><span style="color: var(--text-dim);">Type:</span> <span style="color: var(--text-primary);">{entity.region_type}</span></div>
+          )}
+          {entity?.approximate_location && (
+            <div><span style="color: var(--text-dim);">Approx. Location:</span> <span style="color: var(--text-primary);">{entity.approximate_location}</span></div>
+          )}
+          {entity?.size_ly && (
+            <div><span style="color: var(--text-dim);">Size:</span> <span style="color: var(--text-primary);">{entity.size_ly} ly</span></div>
+          )}
+        </div>
+        {entity?.notable_systems && entity.notable_systems.length > 0 && (
+          <div style="margin-top: 8px; font-size: 13px;">
+            <span style="color: var(--text-dim);">Notable Systems:</span>{' '}
+            <span style="color: var(--text-primary);">{entity.notable_systems.join(', ')}</span>
+          </div>
+        )}
+      </div>
+    )}
+
+    {/* Legacy location data */}
+    {entity?.type === 'location' && (
+      <div class="holo-panel">
+        <div class="holo-title">System Data</div>
+        {entity?.coords && (
+          <div style="font-family: var(--font-mono); font-size: 12px; color: var(--text-secondary); margin-bottom: 8px;">
+            Coordinates: [{entity.coords.x}, {entity.coords.y}, {entity.coords.z}]
+          </div>
+        )}
+        <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 8px; font-size: 13px;">
           {entity?.allegiance && (
             <div><span style="color: var(--text-dim);">Allegiance:</span> <span style="color: var(--text-primary);">{entity.allegiance}</span></div>
           )}
@@ -247,7 +381,7 @@ function slugify(name: string): string {
           {related.map((rel: any) => (
             <a href={`${baseUrl}/entity/${rel.id}/`} class="entity-card" style="text-decoration: none;">
               <div class={`entity-icon ${rel.type || 'person'}`}>
-                {rel.type === 'person' ? 'P' : rel.type === 'faction' ? 'F' : rel.type === 'technology' ? 'T' : rel.type === 'station' ? 'S' : 'L'}
+                {rel.type === 'person' ? 'P' : rel.type === 'faction' ? 'F' : rel.type === 'technology' ? 'T' : rel.type === 'station' ? 'S' : rel.type === 'system' ? '◈' : rel.type === 'body' ? '●' : rel.type === 'region' ? '▩' : 'L'}
               </div>
               <div>
                 <div class="entity-name">{rel.name}</div>

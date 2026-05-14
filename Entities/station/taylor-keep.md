@@ -1,0 +1,36 @@
+---
+id: taylor-keep
+name: Taylor Keep
+type: station
+first_seen_date: '3304-06-08'
+last_seen_date: '3304-06-08'
+mention_count: 1
+related_entities:
+- inra
+- league-of-reparation
+- federal-intelligence-agency
+- aeternitas
+- houtman-city
+bio: 'Taylor Keep is a star system in the Elite Dangerous universe, significant from
+  3304-06-08 to 3304-06-08. Associated with INRA. '
+---
+
+<!-- AUTO-GENERATED -->
+
+# Taylor Keep
+
+First mentioned: **3304-06-08**  
+Last mentioned: **3304-06-08**  
+Total mentions: **1**
+
+## Related
+
+- [[INRA]] (1 co-mentions)
+- [[League of Reparation]] (1 co-mentions)
+- [[Federal Intelligence Agency]] (1 co-mentions)
+- [[Aeternitas]] (1 co-mentions)
+- [[Houtman City]] (1 co-mentions)
+
+## Biography
+
+*[To be enriched]*

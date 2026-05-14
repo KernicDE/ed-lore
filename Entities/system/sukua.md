@@ -1,0 +1,53 @@
+---
+id: sukua
+name: Sukua
+type: system
+first_seen_date: '3301-07-27'
+last_seen_date: '3301-07-27'
+mention_count: 1
+related_entities:
+- dukes-of-mikunn
+- mercenaries-of-mikunn
+- hr-7327
+- mikunn
+- sefrys
+coords:
+  x: -42.15625
+  y: -51.59375
+  z: 171.15625
+allegiance: Independent
+government: Feudal
+controlling_faction: The Dukes of Mikunn
+population: 40132
+security: Low
+economy: Extraction
+second_economy: High Tech
+edsm_url: https://www.edsm.net/en/system/id/7719/name/Sukua
+inara_url: https://inara.cz/elite/starsystem/?search=Sukua
+bio: Sukua is a star system in the Elite Dangerous universe, significant from 3301-07-27
+  to 3301-07-27. Associated with Dukes of Mikunn. Drawing on experience from a similar
+  plague in HR 7327, Mikunn, Sukua, and Sefry, they are moving stockpiled medicine
+  and medical scientists to find the source.
+---
+
+
+
+<!-- AUTO-GENERATED -->
+
+# Sukua
+
+First mentioned: **3301-07-27**  
+Last mentioned: **3301-07-27**  
+Total mentions: **1**
+
+## Related
+
+- [[Dukes of Mikunn]] (1 co-mentions)
+- [[Mercenaries of Mikunn]] (1 co-mentions)
+- [[HR 7327]] (1 co-mentions)
+- [[Mikunn]] (1 co-mentions)
+- [[Sefrys]] (1 co-mentions)
+
+## Biography
+
+*[To be enriched]*

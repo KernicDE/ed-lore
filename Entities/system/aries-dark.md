@@ -1,0 +1,34 @@
+---
+id: aries-dark
+name: Aries Dark
+type: system
+first_seen_date: '3301-10-13'
+last_seen_date: '3301-10-13'
+mention_count: 1
+related_entities:
+- canonn-interstellar-research-group
+- maia
+- tanmark
+- hip-102128
+bio: 'Aries Dark is a star system in the Elite Dangerous universe, significant from
+  3301-10-13 to 3301-10-13. Associated with Canonn Interstellar Research Group. '
+---
+
+<!-- AUTO-GENERATED -->
+
+# Aries Dark
+
+First mentioned: **3301-10-13**  
+Last mentioned: **3301-10-13**  
+Total mentions: **1**
+
+## Related
+
+- [[Canonn Interstellar Research Group]] (1 co-mentions)
+- [[Maia]] (1 co-mentions)
+- [[Tanmark]] (1 co-mentions)
+- [[HIP 102128]] (1 co-mentions)
+
+## Biography
+
+*[To be enriched]*

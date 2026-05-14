@@ -8,8 +8,9 @@ mention_count: 1
 related_entities:
 - hyades
 - sol
-bio: 'Taranis anomaly passed through the is a star system in the Elite Dangerous universe,
-  significant from 3308-11-25 to 3308-11-25. '
+- dalton-chase
+- elias-pope
+- ernesto-rios
 ---
 
 <!-- AUTO-GENERATED -->
@@ -24,6 +25,9 @@ Total mentions: **1**
 
 - [[Hyades]] (1 co-mentions)
 - [[Sol]] (1 co-mentions)
+- [[Dalton Chase]] (1 co-mentions)
+- [[Elias Pope]] (1 co-mentions)
+- [[Ernesto Rios]] (1 co-mentions)
 
 ## Biography
 

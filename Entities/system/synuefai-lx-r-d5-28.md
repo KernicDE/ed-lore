@@ -1,0 +1,51 @@
+---
+id: synuefai-lx-r-d5-28
+name: Synuefai LX-R d5-28
+type: system
+first_seen_date: '3303-11-10'
+last_seen_date: '3303-11-17'
+mention_count: 2
+related_entities:
+- alliance
+- spinward-marches-alliance-concern
+- bd22-4939
+- hansfords-landing
+- turner-research-group
+coords:
+  x: -244.5625
+  y: -218.5
+  z: -574.96875
+allegiance: Alliance
+government: Corporate
+controlling_faction: Spinward Marches Hydroponics
+population: 751838
+security: Medium
+economy: Agriculture
+edsm_url: https://www.edsm.net/en/system/id/16393112/name/Synuefai%20LX-R%20d5-28
+inara_url: https://inara.cz/elite/starsystem/?search=Synuefai%20LX-R%20d5-28
+bio: 'Synuefai LX-R d5-28 is a star system in the Elite Dangerous universe, significant
+  from 3303-11-10 to 3303-11-17. Associated with Alliance, Spinward Marches Alliance
+  Concern. '
+---
+
+
+
+<!-- AUTO-GENERATED -->
+
+# Synuefai LX-R d5-28
+
+First mentioned: **3303-11-10**  
+Last mentioned: **3303-11-17**  
+Total mentions: **2**
+
+## Related
+
+- [[Alliance]] (2 co-mentions)
+- [[Spinward Marches Alliance Concern]] (2 co-mentions)
+- [[BD+22 4939]] (2 co-mentions)
+- [[Hansford's Landing]] (2 co-mentions)
+- [[Turner Research Group]] (1 co-mentions)
+
+## Biography
+
+*[To be enriched]*

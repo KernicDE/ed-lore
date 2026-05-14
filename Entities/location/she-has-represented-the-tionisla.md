@@ -6,12 +6,10 @@ first_seen_date: '3307-01-22'
 last_seen_date: '3307-01-22'
 mention_count: 1
 related_entities:
-- alliance
-- councillor-nakato-kaine-is-visiting-key
 - leesti
+- councillor-nakato-kaine-is-visiting-key
 - tionisla
-bio: 'She has represented the Tionisla is a star system in the Elite Dangerous universe,
-  significant from 3307-01-22 to 3307-01-22. '
+- edmund-mahon
 ---
 
 <!-- AUTO-GENERATED -->
@@ -24,10 +22,10 @@ Total mentions: **1**
 
 ## Related
 
-- [[Alliance]] (1 co-mentions)
+- [[Leesti]] (2 co-mentions)
 - [[Councillor Nakato Kaine is visiting key]] (1 co-mentions)
-- [[Leesti]] (1 co-mentions)
 - [[Tionisla]] (1 co-mentions)
+- [[Edmund Mahon]] (1 co-mentions)
 
 ## Biography
 

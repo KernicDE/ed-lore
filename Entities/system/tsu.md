@@ -1,0 +1,49 @@
+---
+id: tsu
+name: Tsu
+type: system
+first_seen_date: '3301-03-27'
+last_seen_date: '3301-03-27'
+mention_count: 1
+related_entities:
+- alliance
+- purple-power-interstellar
+- ziemkiewicz-ring
+coords:
+  x: -8.40625
+  y: 99.1875
+  z: 22.3125
+allegiance: Alliance
+government: Cooperative
+controlling_faction: Sol's Salutis Aeternum
+population: 3071895
+security: Medium
+economy: Tourism
+second_economy: High Tech
+edsm_url: https://www.edsm.net/en/system/id/14446/name/Tsu
+inara_url: https://inara.cz/elite/starsystem/?search=Tsu
+bio: Tsu is a star system in the Elite Dangerous universe, significant from 3301-03-27
+  to 3301-03-27. Associated with Alliance, Purple Power Interstellar. Commanders are
+  invited to deliver exploration data related to potential colony sites to Purple
+  Power Interstellar aboard Ziemkiewicz Ring in Tsu.
+---
+
+
+
+<!-- AUTO-GENERATED -->
+
+# Tsu
+
+First mentioned: **3301-03-27**  
+Last mentioned: **3301-03-27**  
+Total mentions: **1**
+
+## Related
+
+- [[Alliance]] (1 co-mentions)
+- [[Purple Power Interstellar]] (1 co-mentions)
+- [[Ziemkiewicz Ring]] (1 co-mentions)
+
+## Biography
+
+*[To be enriched]*

@@ -1,0 +1,42 @@
+---
+id: mackenzie-relay
+name: Mackenzie Relay
+type: station
+first_seen_date: '3301-03-06'
+last_seen_date: '3308-09-29'
+mention_count: 11
+related_entities:
+- cemiess
+- imperial-internal-security-service
+- achenar
+- stop-slavery-stupid
+- emperors-dawn
+bio: 'Mackenzie Relay is a system in Elite Dangerous, significant from 3301-03-06
+  to 3308-09-29. Associated with Imperial Internal Security Service, Stop Slavery
+  Stupid. Notable events include: An assassination attempt on Admiral Denton Patreus
+  at Mackenzie Relay in the Cemiess system was thwarted by the Imperial Internal Security
+  Service.; *Pilots Federation ALERT* Safeguard Interstellar requires deliveries of
+  medicines to treat casualties from The NMLA’s recent terrorist attack.'
+---
+
+<!-- AUTO-GENERATED -->
+
+# Mackenzie Relay
+
+First mentioned: **3301-03-06**  
+Last mentioned: **3308-09-29**  
+Total mentions: **11**
+
+## Related
+
+- [[Cemiess]] (11 co-mentions)
+- [[Imperial Internal Security Service]] (3 co-mentions)
+- [[Achenar]] (3 co-mentions)
+- [[Stop Slavery Stupid]] (2 co-mentions)
+- [[Emperor's Dawn]] (2 co-mentions)
+
+## Biography
+
+Mackenzie Relay is a starport in the Cemiess system — Princess Aisling Duval's home system — that was one of four Imperial starports targeted in coordinated NMLA terrorist attacks in September 3306. The station suffered multiple explosions claimed by the Neo-Marlinist Liberation Army, marking a major escalation from the group's previous small-scale activities.
+
+The attacks on Mackenzie Relay, Tsiolkovsky Terminal, Garrido Market and Muller Terminal represented the first large-scale coordinated starport bombings by the NMLA, demonstrating both an increase in resources and a shift toward portable military-grade explosives. The Imperial Internal Security Service identified the perpetrators as Neo-Marlinist political extremists whose hatred of the Imperial Family motivated the targeting of starports under the Duval banner.

@@ -1,0 +1,50 @@
+---
+id: caspatsuria
+name: Caspatsuria
+type: system
+first_seen_date: '3301-06-19'
+last_seen_date: '3301-06-19'
+mention_count: 1
+related_entities:
+- aislings-angels
+- grovichun
+- achenar
+- capitol
+coords:
+  x: 63.5
+  y: -116.90625
+  z: 48.15625
+allegiance: Independent
+government: Cooperative
+controlling_faction: Celestial Light Brigade
+population: 11931312
+security: Medium
+economy: High Tech
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system/id/16817/name/Caspatsuria
+inara_url: https://inara.cz/elite/starsystem/?search=Caspatsuria
+bio: Caspatsuria is a star system in the Elite Dangerous universe, significant from
+  3301-06-19 to 3301-06-19. After Caspatsuria citizens proved motivated by financial
+  incentives, Aisling's Angels shifted focus to Grovichun's social media networks.
+---
+
+
+
+<!-- AUTO-GENERATED -->
+
+# Caspatsuria
+
+First mentioned: **3301-06-19**  
+Last mentioned: **3301-06-19**  
+Total mentions: **1**
+
+## Related
+
+- [[Aisling's Angels]] (1 co-mentions)
+- [[Grovichun]] (1 co-mentions)
+- [[Achenar]] (1 co-mentions)
+- [[Capitol]] (1 co-mentions)
+
+## Biography
+
+*[To be enriched]*

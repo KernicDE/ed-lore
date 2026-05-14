@@ -7,11 +7,9 @@ last_seen_date: '3307-03-25'
 mention_count: 1
 related_entities:
 - imperial-internal-security-service
-- marlinist
-- nmla
-bio: 'We know that her ship left the Mudhrid is a star system in the Elite Dangerous
-  universe, significant from 3307-03-25 to 3307-03-25. Associated with NMLA, Imperial
-  Internal Security Service, Marlinist. '
+- neo-marlinist-liberation-army
+- missing
+- tanya-ramirez
 ---
 
 <!-- AUTO-GENERATED -->
@@ -24,9 +22,10 @@ Total mentions: **1**
 
 ## Related
 
-- [[Imperial Internal Security Service]] (1 co-mentions)
-- [[Marlinist]] (1 co-mentions)
-- [[NMLA]] (1 co-mentions)
+- [[Imperial Internal Security Service]] (2 co-mentions)
+- [[Neo-Marlinist Liberation Army]] (1 co-mentions)
+- [[Missing]] (1 co-mentions)
+- [[Tanya Ramirez]] (1 co-mentions)
 
 ## Biography
 

@@ -6,15 +6,11 @@ first_seen_date: '3307-03-11'
 last_seen_date: '3307-03-11'
 mention_count: 1
 related_entities:
-- alliance
+- achenar
+- alioth
+- sol
 - core-dynamics
-- marlinist
-- nmla
 - neo-marlinist-liberation-army
-bio: Temporary permits for the Sirius is a star system in the Elite Dangerous universe,
-  significant from 3307-03-11 to 3307-03-11. Associated with Core Dynamics. The conference
-  in The Sirius system has ended prematurely after terrorist bombings against nine
-  starports across the Alliance, Empire and Federation.
 ---
 
 <!-- AUTO-GENERATED -->
@@ -27,10 +23,10 @@ Total mentions: **1**
 
 ## Related
 
-- [[Alliance]] (1 co-mentions)
+- [[Achenar]] (2 co-mentions)
+- [[Alioth]] (2 co-mentions)
+- [[Sol]] (2 co-mentions)
 - [[Core Dynamics]] (1 co-mentions)
-- [[Marlinist]] (1 co-mentions)
-- [[NMLA]] (1 co-mentions)
 - [[Neo-Marlinist Liberation Army]] (1 co-mentions)
 
 ## Biography

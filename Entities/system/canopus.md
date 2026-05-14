@@ -1,0 +1,51 @@
+---
+id: canopus
+name: Canopus
+type: system
+first_seen_date: '3302-04-12'
+last_seen_date: '3302-04-12'
+mention_count: 1
+related_entities:
+- interstellar-press
+- m-gorbachev-starport
+- sol-system
+- sothis
+- quince
+coords:
+  x: 276.625
+  y: -131.34375
+  z: -42.4375
+allegiance: Federation
+government: Democracy
+controlling_faction: Exphiay for Equality
+population: 5254
+security: Low
+economy: Extraction
+second_economy: Colony
+edsm_url: https://www.edsm.net/en/system/id/20522/name/Canopus
+inara_url: https://inara.cz/elite/starsystem/?search=Canopus
+bio: 'Canopus is a star system in the Elite Dangerous universe, significant from 3302-04-12
+  to 3302-04-12. Associated with Interstellar Press. '
+---
+
+
+
+<!-- AUTO-GENERATED -->
+
+# Canopus
+
+First mentioned: **3302-04-12**  
+Last mentioned: **3302-04-12**  
+Total mentions: **1**
+
+## Related
+
+- [[Interstellar Press]] (1 co-mentions)
+- [[M. Gorbachev starport]] (1 co-mentions)
+- [[Sol system]] (1 co-mentions)
+- [[Sothis]] (1 co-mentions)
+- [[Quince]] (1 co-mentions)
+
+## Biography
+
+*[To be enriched]*
