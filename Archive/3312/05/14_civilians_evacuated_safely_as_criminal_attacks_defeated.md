@@ -4,6 +4,39 @@ title: Civilians Evacuated Safely as Criminal Attacks Defeated
 slug: civilians_evacuated_safely_as_criminal_attacks_defeated
 date: '3312-05-14'
 source: API
+summary: Security forces and independent pilots successfully repelled a coalition of
+  pirate ships in Lhou Mans, completing the civilian evacuation. Defence forces drove
+  out the criminals, but analysts warn this was likely a probing 'test run' for larger
+  coordinated attacks directed by the rogue pirate admiral Lady Zi.
+player_impact: Independent combat pilots defended rescue efforts and helped defeat the
+  remaining criminals in Lhou Mans. Pilots are now called to aid starport repair efforts
+  by registering at Ryman Enterprise.
+modern_impact: The Lhou Mans attacks confirm Lady Zi as a serious escalating threat in
+  the core systems, with coordinated criminal activities surpassing anything previously
+  experienced. The twin-axe malware signature and probing tactics suggest a highly
+  organised, military-style pirate coalition with ambitions beyond simple piracy.
+persons:
+- Lady Zi
+- Mira Bukowski
+groups:
+- Vox Galactica
+- Zorgon Peterson
+locations:
+- Lhou Mans
+- Ryman Enterprise
+topics:
+- crime
+- piracy
+- terrorism
+technologies:
+- Lynx Highliner
+- Mk II cabins
+arc_id: lady-zi-pirate-coalition
+legacy_weight: 3
+significance: medium
+related_uuids:
+- c76cadee-b3d0-501f-8231-6caf7589bc3a
+- 46b8ec38-ca04-5680-b3a2-01de047bc6c4
 ---
 
 Security forces and independent combat pilots successfully protected rescue efforts after the recent attacks in Lhou Mans.

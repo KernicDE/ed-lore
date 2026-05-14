@@ -5,7 +5,7 @@
   <subtitle>AI-enriched GalNet articles from the Elite Dangerous universe (3301–3312)</subtitle>
   <link href="https://kernicde.github.io/ed-lore/atom.xml" rel="self" type="application/atom+xml" />
   <link href="https://kernicde.github.io/ed-lore/" rel="alternate" type="text/html" />
-  <updated>2026-05-09T08:02:53.963Z</updated>
+  <updated>2026-05-14T10:19:41.647Z</updated>
   <id>https://kernicde.github.io/ed-lore/</id>
   <icon>https://kernicde.github.io/ed-lore/favicon.svg</icon>
   <logo>https://kernicde.github.io/ed-lore/favicon.svg</logo>
@@ -13,6 +13,51 @@
     <name>GalNet Chronicle</name>
   </author>
   
+  <entry>
+    <title>Civilians Evacuated Safely as Criminal Attacks Defeated</title>
+    <link href="https://kernicde.github.io/ed-lore/?article=32ce68df-e133-545f-a0ea-2ae009f1ada6" rel="alternate" type="text/html" />
+    <id>urn:uuid:32ce68df-e133-545f-a0ea-2ae009f1ada6</id>
+    <updated>3312-05-14T12:00:00Z</updated>
+    <summary type="html">Security forces and independent pilots successfully repelled a coalition of pirate ships in Lhou Mans, completing the civilian evacuation. Defence forces drove out the criminals, but analysts warn this was likely a probing &apos;test run&apos; for larger coordinated attacks directed by the rogue pirate admiral Lady Zi.</summary>
+    <content type="html">
+      &lt;p&gt;Security forces and independent pilots successfully repelled a coalition of pirate ships in Lhou Mans, completing the civilian evacuation. Defence forces drove out the criminals, but analysts warn this was likely a probing &apos;test run&apos; for larger coordinated attacks directed by the rogue pirate admiral Lady Zi.&lt;/p&gt;
+      &lt;h3&gt;Article&lt;/h3&gt;
+      &lt;p&gt;Security forces and independent combat pilots successfully protected rescue efforts after the recent attacks in Lhou Mans.&lt;br/&gt;An alleged coalition of pirate ships hit starports across the system, triggering the evacuation of civilians to safer locations.&lt;br/&gt;Defence forces managed to defeat and drive out the remaining criminals leaving many to wonder what to expect next from Lady Zi. However, analysts are now confident that all signs are pointing towards larger and bolder coordinated criminal activities than have previously been experienced in the past.&lt;br/&gt;“The leading theory is that this was a ‘test run’ of sorts, probing system and port defences in this area of space,” Mira Bukowski wrote for Vox Galactica. “What the next phase of this plan could entail is a source of concern for local authorities.”&lt;br/&gt;Meanwhile, a Zorgon Peterson spokesperson remarked that the new Lynx Highliner performed better than expected under the extreme circumstances.&lt;br/&gt;Engineers monitoring the vessels internal data also showed that the new Mk II cabins outperformed previous cabin modules for comfort even under the most testing of conditions.&lt;br/&gt;With the safe evacuation deemed a success and the new Highliner now available for full distribution across core systems, attention has now turned to repairing the starports damaged in the attack.&lt;br/&gt;Lhou Mans authorities are calling to aid repair efforts and interested pilots should register at Ryman Enterprise.&lt;/p&gt;
+      &lt;h3&gt;Player Impact&lt;/h3&gt;&lt;p&gt;Independent combat pilots defended rescue efforts and helped defeat the remaining criminals in Lhou Mans. Pilots are now called to aid starport repair efforts by registering at Ryman Enterprise.&lt;/p&gt;
+      &lt;h3&gt;Future Impact&lt;/h3&gt;&lt;p&gt;The Lhou Mans attacks confirm Lady Zi as a serious escalating threat in the core systems, with coordinated criminal activities surpassing anything previously experienced. The twin-axe malware signature and probing tactics suggest a highly organised, military-style pirate coalition with ambitions beyond simple piracy.&lt;/p&gt;
+    </content>
+    <category term="lady-zi-pirate-coalition" />
+  </entry>
+  <entry>
+    <title>Criminal Factions Remains Silent After Lhou Mans Attacks</title>
+    <link href="https://kernicde.github.io/ed-lore/?article=c76cadee-b3d0-501f-8231-6caf7589bc3a" rel="alternate" type="text/html" />
+    <id>urn:uuid:c76cadee-b3d0-501f-8231-6caf7589bc3a</id>
+    <updated>3312-05-11T12:00:00Z</updated>
+    <summary type="html">Investigations into the Lhou Mans starport attacks reveal evidence linking the coordinated strikes to a criminal syndicate directed by the rogue pirate admiral known as &apos;Lady Zi&apos;. The attacks bear similarities to earlier coordinated strikes on military installations in the core systems.</summary>
+    <content type="html">
+      &lt;p&gt;Investigations into the Lhou Mans starport attacks reveal evidence linking the coordinated strikes to a criminal syndicate directed by the rogue pirate admiral known as &apos;Lady Zi&apos;. The attacks bear similarities to earlier coordinated strikes on military installations in the core systems.&lt;/p&gt;
+      &lt;h3&gt;Article&lt;/h3&gt;
+      &lt;p&gt;Questions remain unanswered following last week’s unprovoked attacks on starport facilities across Lhou Mans.&lt;br/&gt;Security analysts stated that the attacks bore remarkable similarities to last month’s coordinated attacks across military installations in the core systems.&lt;br/&gt;“These patterns are usually reserved for military trials and reconnaissance operations,” a senior security observer told Vox Galactica.&lt;br/&gt;“Simulated attacks are used to probe response times, defensive weak points and the speed with which system security can coordinate with independent pilots.”&lt;br/&gt;Similar data malware packages bearing the hallmarks of twin axe motifs have also been witnessed across Lhou Mans networks.&lt;br/&gt;Crime correspondent Mira Bukowski has revealed evidence from underworld sources allegedly linking the motif to a rogue pirate admiral going by the nom de guerre ‘Lady Zi’ and a coalition fleet directed by a single criminal syndicate.&lt;br/&gt;“Very few are willing to share more details on who Lady Zi is. We don’t know if this is because they are unaware, or if they’re simply scared,” she added.&lt;br/&gt;With evacuation efforts still under way, the attackers’ true motives remain unclear for now. Yet investigators warn that Lhou Mans may have been selected for reasons beyond simple disruption.&lt;/p&gt;
+      &lt;h3&gt;Player Impact&lt;/h3&gt;&lt;p&gt;Independent pilots assisted with evacuation efforts in Lhou Mans following the attacks. Investigators warn that the system may have been selected for reasons beyond simple disruption, suggesting future combat operations against Lady Zi&apos;s coalition fleet may be required.&lt;/p&gt;
+      &lt;h3&gt;Future Impact&lt;/h3&gt;&lt;p&gt;The emergence of Lady Zi as a coordinated criminal threat in the core systems signals a significant escalation in organised piracy, with potential implications for regional security and the rise of a new major syndicate.&lt;/p&gt;
+    </content>
+    <category term="lady-zi-pirate-coalition" />
+  </entry>
+  <entry>
+    <title>Dodec Station Enters Full Production Availability</title>
+    <link href="https://kernicde.github.io/ed-lore/?article=3955dbb6-c5c8-560b-b4f1-7ca44f5ddc4d" rel="alternate" type="text/html" />
+    <id>urn:uuid:3955dbb6-c5c8-560b-b4f1-7ca44f5ddc4d</id>
+    <updated>3312-05-07T12:00:00Z</updated>
+    <summary type="html">Brewer Corporation has announced that the Dodec Station has entered full production availability. Previously limited in supply, the Dodec is the largest Tier 3 starport available for colonisation efforts and features three truss variations and an integrated Human Tech Broker.</summary>
+    <content type="html">
+      &lt;p&gt;Brewer Corporation has announced that the Dodec Station has entered full production availability. Previously limited in supply, the Dodec is the largest Tier 3 starport available for colonisation efforts and features three truss variations and an integrated Human Tech Broker.&lt;/p&gt;
+      &lt;h3&gt;Article&lt;/h3&gt;
+      &lt;p&gt;Brewer Corporation has confirmed that the Dodec Station has entered full production.&lt;br/&gt;Previously available in limited numbers, the Dodec is the largest Tier 3 starport that can be constructed for use in colonisation efforts.&lt;br/&gt;Brewer Corporation CEO Madelyn Teague issued the following statement to Vox Galactica:&lt;br/&gt;&quot;The Dodec is the pinnacle of modern station design. Available with three truss variations and immediate access to a Human Tech Broker, it&apos;s simply the best option available for those looking to colonise new systems and to offer services to all who visit.&quot;&lt;br/&gt;The Dodec is now widely available for purchase through Colonisation contacts.&lt;/p&gt;
+      &lt;h3&gt;Player Impact&lt;/h3&gt;&lt;p&gt;Pilots can now purchase the Dodec Station through any Colonisation contact, allowing them to establish the largest and most capable Tier 3 starport in newly colonised systems.&lt;/p&gt;
+      &lt;h3&gt;Future Impact&lt;/h3&gt;&lt;p&gt;The full production availability of the Dodec Station significantly expands colonisation infrastructure options for independent pilots, representing the maturation of Brewer Corporation&apos;s station construction program and enabling more permanent settlements on the galactic frontier.&lt;/p&gt;
+    </content>
+    <category term="trailblazer-colonisation" />
+  </entry>
   <entry>
     <title>Guardian Artefact Research Initiative Concludes</title>
     <link href="https://kernicde.github.io/ed-lore/?article=8258f5f1-635f-50d8-8a8d-5856072f5386" rel="alternate" type="text/html" />
@@ -86,7 +131,7 @@
       &lt;h3&gt;Player Impact&lt;/h3&gt;&lt;p&gt;New organized pirate threat with twin-axe malware calling card. Coordinated raids on military outposts across core systems. No faction claims responsibility yet.&lt;/p&gt;
       &lt;h3&gt;Future Impact&lt;/h3&gt;&lt;p&gt;Twin-axe malware signature and coordinated military-port raids indicate an organized pirate coalition with technical sophistication matching some military forces. A rogue strategist uniting ships under one banner mirrors the power-coalition dynamics seen in HIP 87621, suggesting decentralized authority structures may become a recurring threat model.&lt;/p&gt;
     </content>
-    
+    <category term="lady-zi-pirate-coalition" />
   </entry>
   <entry>
     <title>Competing Claims Emerge Over Wellness Surge</title>
@@ -116,7 +161,7 @@
       &lt;h3&gt;Player Impact&lt;/h3&gt;&lt;p&gt;Guardian artefact CG at Exogene Sciences in HIP 87621. Deliver artefacts to support October Consortium research. Ram Tah offers collaboration.&lt;/p&gt;
       &lt;h3&gt;Future Impact&lt;/h3&gt;&lt;p&gt;Ram Tah&apos;s offer to collaborate directly links the Radicoida mystery to Guardian research. If ancient engineered origins are confirmed, Guardian artefacts may provide comparative genetic data. October Consortium&apos;s promise to share data after initial studies may be tested by competing research interests.&lt;/p&gt;
     </content>
-    <category term="hip87621-conflict" />
+    <category term="hip-87621-conflict" />
   </entry>
   <entry>
     <title>Ancient Origins Suggested in Radicoida Unica Study</title>
@@ -131,7 +176,7 @@
       &lt;h3&gt;Player Impact&lt;/h3&gt;&lt;p&gt;Revelation that Radicoida unica may have ancient engineered origins. No direct gameplay yet but deepens the mystery of HIP 87621 flora.&lt;/p&gt;
       &lt;h3&gt;Future Impact&lt;/h3&gt;&lt;p&gt;Engineered DNA markers on an eon timescale raise the possibility of precursor civilization intervention. If connected to Guardians or other ancient species, Radicoida may be part of a distributed biological legacy across the galaxy. October Consortium&apos;s silence fuels speculation and may attract independent xenoarchaeological investigation.&lt;/p&gt;
     </content>
-    <category term="hip87621-conflict" />
+    <category term="hip-87621-conflict" />
   </entry>
   <entry>
     <title>Unidentified Mercenary Group Linked to Fabrication Facility Break-In</title>
@@ -161,7 +206,7 @@
       &lt;h3&gt;Player Impact&lt;/h3&gt;&lt;p&gt;New CG: collect Radicoida unica seed pods at Exogene Sciences in HIP 87621. Plant entered active reproductive phase. Hazardous surface conditions.&lt;/p&gt;
       &lt;h3&gt;Future Impact&lt;/h3&gt;&lt;p&gt;Mass seed pod collection provides October Consortium with unprecedented biological material stockpile. Dr. Casimir&apos;s explicit denial of a Ventura connection actually amplifies suspicion by raising the comparison, suggesting the wellness trend and Radicoida research may eventually converge in public consciousness.&lt;/p&gt;
     </content>
-    <category term="hip87621-conflict" />
+    <category term="hip-87621-conflict" />
   </entry>
   <entry>
     <title>Radicoida Unica Begins Blooming as New Research Initiative Announced</title>
@@ -176,7 +221,7 @@
       &lt;h3&gt;Player Impact&lt;/h3&gt;&lt;p&gt;New CG: collect Radicoida unica seed pods at Exogene Sciences in HIP 87621. Plant entered active reproductive phase. Hazardous surface conditions.&lt;/p&gt;
       &lt;h3&gt;Future Impact&lt;/h3&gt;&lt;p&gt;Active reproductive phase confirms Radicoida responds to biological proximity, suggesting possible symbiotic or sentient-adjacent behavior. Performance-enhancing seed pods entering controlled collection foreshadow potential black-market trade or tightly regulated corporate distribution of enhancement compounds.&lt;/p&gt;
     </content>
-    <category term="hip87621-conflict" />
+    <category term="hip-87621-conflict" />
   </entry>
   <entry>
     <title>Exploration Data Initiative for Rainbow’s End Concludes Successfully</title>
@@ -311,7 +356,7 @@
       &lt;h3&gt;Player Impact&lt;/h3&gt;&lt;p&gt;HIP 87621 conflict officially ends. October Consortium gains full custodianship via October Accords. Federation excluded (lost foothold). Radicoida research to be shared under Accord terms.&lt;/p&gt;
       &lt;h3&gt;Future Impact&lt;/h3&gt;&lt;p&gt;Corporate custodianship of disputed territory sets a legal precedent for non-state actors mediating between superpowers. October Consortium&apos;s rise from tech investor to geopolitical broker demonstrates how exobiological discoveries can rapidly reshape power structures. Federation&apos;s exclusion may fuel future reclamation attempts.&lt;/p&gt;
     </content>
-    <category term="hip87621-conflict" />
+    <category term="hip-87621-conflict" />
   </entry>
   <entry>
     <title>Distant Worlds 3 Expedition Marks Major Milestones on Route</title>
@@ -341,7 +386,7 @@
       &lt;h3&gt;Player Impact&lt;/h3&gt;&lt;p&gt;Pirate activity spikes in Imperial and Federal colonies due to security redeployment to HIP 87621. Increased interdictions and miner harassment. Bounty opportunities.&lt;/p&gt;
       &lt;h3&gt;Future Impact&lt;/h3&gt;&lt;p&gt;Security vacuum created by superpower military concentration demonstrates the fragility of colonial defenses. Pirate groups learn to exploit great-power conflicts for territorial gain, a pattern likely to repeat whenever major forces are drawn into peripheral conflicts.&lt;/p&gt;
     </content>
-    <category term="hip87621-conflict" />
+    <category term="hip-87621-conflict" />
   </entry>
   <entry>
     <title>Coalition Announces Non-Aggression Pact Amid HIP 87621 Hostilities</title>
@@ -356,7 +401,7 @@
       &lt;h3&gt;Player Impact&lt;/h3&gt;&lt;p&gt;Non-aggression pact in HIP 87621 enclave between Aisling Duval, Yuri Grom, Arissa Lavigny-Duval, Nakato Kaine, Edmund Mahon and Denton Patreus forces. Pranav Antal excluded. Fighting subsides but sporadic clashes continue.&lt;/p&gt;
       &lt;h3&gt;Future Impact&lt;/h3&gt;&lt;p&gt;Informal power coalition without Federal representation shifts the post-war superpower balance. Exclusion of Pranav Antal and the Federation creates new diplomatic fault lines. This model of independent pilot-led peace agreements may influence how future enclave conflicts are resolved without direct superpower intervention.&lt;/p&gt;
     </content>
-    <category term="hip87621-conflict" />
+    <category term="hip-87621-conflict" />
   </entry>
   <entry>
     <title>Genetic Study of Radicoida Unica Released</title>
@@ -371,7 +416,7 @@
       &lt;h3&gt;Player Impact&lt;/h3&gt;&lt;p&gt;First public study of Radicoida unica released. Plant shows symbiotic potential and seed pods contain performance-enhancing compounds. Data partially redacted by October Consortium. No human trials imminent.&lt;/p&gt;
       &lt;h3&gt;Future Impact&lt;/h3&gt;&lt;p&gt;First public data on Radicoida unica seeds a future pharmacological research arms race. October Consortium&apos;s data redaction hints at proprietary military or civilian enhancement applications. The seed pod compounds&apos; ability to improve physical performance and reduce thinking time could eventually see widespread use or restriction.&lt;/p&gt;
     </content>
-    <category term="hip87621-conflict" />
+    <category term="hip-87621-conflict" />
   </entry>
   <entry>
     <title>“Ventura Transformation” Video Goes Viral</title>
@@ -446,7 +491,7 @@
       &lt;h3&gt;Player Impact&lt;/h3&gt;&lt;p&gt;Pledged pilots fought across the 49-system HIP 87621 enclave in two-week Powerplay campaigns. Contributors collected rewards from registration megaships.&lt;/p&gt;
       &lt;h3&gt;Future Impact&lt;/h3&gt;&lt;p&gt;Imperial-aligned Powers (Arissa and Aisling) control 13 of 25 reported systems, demonstrating Imperial dominance in the enclave. The complete absence of Federation representation — Jerome Archer already eliminated — foreshadows the Federation&apos;s exclusion from the October Accords two months later. Zemina Torval&apos;s elimination shows that even established Powers can be driven from contested biological-resource zones.&lt;/p&gt;
     </content>
-    <category term="hip87621-conflict" />
+    <category term="hip-87621-conflict" />
   </entry>
   <entry>
     <title>One Year Since Humanity&apos;s Victory in Xeno War</title>
@@ -506,7 +551,7 @@
       &lt;h3&gt;Player Impact&lt;/h3&gt;&lt;p&gt;Pledged and unaffiliated pilots fought across the 49-system HIP 87621 enclave in a two-week Powerplay campaign. Jerome Archer&apos;s supporters were eliminated. Contributors collected rewards from registration megaships.&lt;/p&gt;
       &lt;h3&gt;Future Impact&lt;/h3&gt;&lt;p&gt;Vista Genomics&apos; confirmation that Radicoida unica is &apos;wholly unique&apos; with &apos;potential advancements&apos; validates the military investment and explains the rapid escalation. The leaked prediction that war will continue until &apos;one Power secures dominance&apos; foreshadows the February 3312 non-aggression pact — Powers initially believe only total victory suffices, but later realise stalemate benefits no one.&lt;/p&gt;
     </content>
-    <category term="hip87621-conflict" />
+    <category term="hip-87621-conflict" />
   </entry>
   <entry>
     <title>Zorgon Peterson Unveils Caspian Explorer Vessel</title>
@@ -536,7 +581,7 @@
       &lt;h3&gt;Player Impact&lt;/h3&gt;&lt;p&gt;Pledged pilots answered calls to arms from all Powers and began two-week military initiatives to occupy systems across the 49-system HIP 87621 enclave.&lt;/p&gt;
       &lt;h3&gt;Future Impact&lt;/h3&gt;&lt;p&gt;The Patreus versus Kaine framing — &apos;Imperial order&apos; versus &apos;bully snatching a legally claimed system&apos; — establishes the moral narratives each side uses throughout the conflict. Patreus&apos;s claim that &apos;only Imperial governance has the authority&apos; and Kaine&apos;s reference to October Consortium ownership both foreshadow the February 3312 non-aggression pact and October Accords, where legal ownership becomes the central negotiating point.&lt;/p&gt;
     </content>
-    <category term="hip87621-conflict" />
+    <category term="hip-87621-conflict" />
   </entry>
   <entry>
     <title>Rumours Spread About HIP 87621 Flora</title>
@@ -551,7 +596,7 @@
       &lt;h3&gt;Player Impact&lt;/h3&gt;&lt;p&gt;No specific pilot actions described. The article reports on leaked research fragments circulating among the scientific community opposed to the military lockdown.&lt;/p&gt;
       &lt;h3&gt;Future Impact&lt;/h3&gt;&lt;p&gt;The detail that Radicoida unica &apos;can remain dormant for centuries&apos; hints at artificial or engineered origins — a suspicion confirmed in April 3312 when phylogenetic studies suggest ancient non-natural intervention. The critics&apos; accusation that military control seeks &apos;exclusive access&apos; proves correct: the February 3312 October Accords give October Consortium custodianship with shared scientific access, but exclude the Federation entirely.&lt;/p&gt;
     </content>
-    <category term="hip87621-conflict" />
+    <category term="hip-87621-conflict" />
   </entry>
   <entry>
     <title>Pilots&apos; Federation Members Enter HIP 87621</title>
@@ -566,7 +611,7 @@
       &lt;h3&gt;Player Impact&lt;/h3&gt;&lt;p&gt;Licensed Commanders entered HIP 87621 exclusively and discovered Radicoida unica. They conducted on-site exobiological surveys on hot, thin-atmosphere planets and delivered scan data to Vista Genomics at Exogene Sciences. Fleet carriers are permanently banned from the system.&lt;/p&gt;
       &lt;h3&gt;Future Impact&lt;/h3&gt;&lt;p&gt;The permanent fleet carrier ban and &apos;spoofing&apos; explanation reveal October Consortium had been actively concealing the system&apos;s true nature for years. Exclusive Pilots&apos; Federation access — excluding civilian, corporate, and government organisations — creates a unique scientific zone managed by independent pilots, a model that may be replicated for other sensitive discoveries. The plant&apos;s restriction to hot, thin-atmosphere worlds narrows the search for similar organisms.&lt;/p&gt;
     </content>
-    <category term="hip87621-conflict" />
+    <category term="hip-87621-conflict" />
   </entry>
   <entry>
     <title>Trailblazer Fleet Withdrawn, Dodec Starport Revealed</title>
@@ -596,7 +641,7 @@
       &lt;h3&gt;Player Impact&lt;/h3&gt;&lt;p&gt;Licensed Commanders prepared to access HIP 87621 from 16:00 UGT on 13th November 3311, following the Pilots&apos; Federation arrangement with October Consortium under superpower pressure.&lt;/p&gt;
       &lt;h3&gt;Future Impact&lt;/h3&gt;&lt;p&gt;Lexi October&apos;s warning about &apos;dangerous precedence&apos; for independent entities proves prophetic — within three weeks, superpower fleets invade the enclave. Her decision to allow Pilots&apos; Federation access rather than superpower forces is a calculated gambit: by framing Commanders as neutral scientific observers, she attempts to maintain control while appeasing pressure. The tactic fails when Radicoida unica&apos;s pharmaceutical value becomes clear.&lt;/p&gt;
     </content>
-    <category term="hip87621-conflict" />
+    <category term="hip-87621-conflict" />
   </entry>
   <entry>
     <title>Trailblazer Fleet To Be Withdrawn</title>
@@ -641,7 +686,7 @@
       &lt;h3&gt;Player Impact&lt;/h3&gt;&lt;p&gt;Independent pilots delivered construction materials in record time to Brewer Corporation&apos;s urgent order, with the Trailblazer Dream in HIP 90578 serving as staging point.&lt;/p&gt;
       &lt;h3&gt;Future Impact&lt;/h3&gt;&lt;p&gt;The record-speed construction validates Brewer&apos;s logistical dominance and reveals superpower coordination at a scale previously unseen outside wartime. Lexi October&apos;s silence signals she was caught off-guard by the mobilisation speed — her permit lock would be breached within two weeks. The &apos;direct messages to pilots pledged to one of the twelve Powers&apos; confirms this was a coordinated superpower effort, not a private corporate contract.&lt;/p&gt;
     </content>
-    <category term="hip87621-conflict" />
+    <category term="hip-87621-conflict" />
   </entry>
   <entry>
     <title>Megaship Movements Spark HIP 87621 Speculation</title>
@@ -656,7 +701,7 @@
       &lt;h3&gt;Player Impact&lt;/h3&gt;&lt;p&gt;Pilots reported receiving private messages from their pledged Power representatives indicating each superpower had a vested interest in HIP 87621.&lt;/p&gt;
       &lt;h3&gt;Future Impact&lt;/h3&gt;&lt;p&gt;Conrad Sterling&apos;s observation proves accurate — within five days, Brewer Corporation confirms a massive construction campaign for the enclave. The private Power messages to pilots show superpowers were preparing for open conflict while maintaining public deniability, a pattern that continues until the October Accords finally make agreements public.&lt;/p&gt;
     </content>
-    <category term="hip87621-conflict" />
+    <category term="hip-87621-conflict" />
   </entry>
   <entry>
     <title>Strategic Order Placed with Brewer Corporation</title>
@@ -671,7 +716,7 @@
       &lt;h3&gt;Player Impact&lt;/h3&gt;&lt;p&gt;Independent pilots delivered Bromellite and Cobalt to the Trailblazer Dream in HIP 90578 for rapid starport construction. Pilots received private messages from their Power contacts urging support for securing interests around HIP 87621.&lt;/p&gt;
       &lt;h3&gt;Future Impact&lt;/h3&gt;&lt;p&gt;Madelyn Teague&apos;s refusal to name clients while confirming &apos;considerable&apos; scale is the first clear signal that superpowers are secretly mobilising around HIP 87621. The use of the Trailblazer Dream — ostensibly a colonisation support vessel — as a military construction staging point reveals how Brewer repurposes civilian infrastructure for strategic operations. This pattern of secrecy continues until the October Accords force public disclosure.&lt;/p&gt;
     </content>
-    <category term="hip87621-conflict" />
+    <category term="hip-87621-conflict" />
   </entry>
   <entry>
     <title>Type-11 Prospector Declared a Triumph</title>
@@ -701,7 +746,7 @@
       &lt;h3&gt;Player Impact&lt;/h3&gt;&lt;p&gt;Pilots had participated in Rackham&apos;s galaxy-wide exploration campaign and the search for Terri Tora, gathering data that intensified scrutiny on October Consortium&apos;s HIP 87621 operations.&lt;/p&gt;
       &lt;h3&gt;Future Impact&lt;/h3&gt;&lt;p&gt;Lexi October&apos;s counter-attack on Rackham&apos;s credibility — highlighting his failure to share a &apos;single piece of scan data&apos; — is a sophisticated deflection that partially succeeds in shifting scrutiny. Her framing of the conflict as &apos;lawful operations&apos; versus &apos;attempts to undermine&apos; establishes the legal narrative she uses in the October Accords. The &apos;unspecified date&apos; for findings release never arrives before the war breaks out.&lt;/p&gt;
     </content>
-    <category term="hip87621-conflict" />
+    <category term="hip-87621-conflict" />
   </entry>
   <entry>
     <title>Lakon Spaceways Launches Type-11 Prospector</title>
@@ -731,7 +776,7 @@
       &lt;h3&gt;Player Impact&lt;/h3&gt;&lt;p&gt;Thousands of pilots had participated in the search for Terri Tora, confirming her last known location at the permit-locked HIP 87621.&lt;/p&gt;
       &lt;h3&gt;Future Impact&lt;/h3&gt;&lt;p&gt;Alexei Keel&apos;s investigative journalism transforms the mystery from a scientific disappearance into a corporate accountability story. The superpowers&apos; admission that they are &apos;following developments closely&apos; — while denying involvement — signals they were already planning intervention. Keel&apos;s observation that October Consortium&apos;s resources make it &apos;well-placed to secure influence&apos; foreshadows the corporate custodianship model eventually codified in the October Accords.&lt;/p&gt;
     </content>
-    <category term="hip87621-conflict" />
+    <category term="hip-87621-conflict" />
   </entry>
   <entry>
     <title>Rackham Seeks Clues to HIP 87621 Mystery</title>
@@ -746,7 +791,7 @@
       &lt;h3&gt;Player Impact&lt;/h3&gt;&lt;p&gt;Independent explorers submitted an unprecedented volume of planetary scan data from Rocky and High Metal Content worlds across the galaxy for cross-reference with HIP 87621.&lt;/p&gt;
       &lt;h3&gt;Future Impact&lt;/h3&gt;&lt;p&gt;Rackham&apos;s promise to share data publicly — which he never fulfills — becomes a key point Lexi October exploits in her October 3311 defence. Blanco&apos;s accusation that Rackham is &apos;Calico Zack&apos; adds a criminal dimension to the scientific mystery: if true, Rackham&apos;s interest in HIP 87621 may be about plunder rather than philanthropy. The unexplored connection between Rackham&apos;s piracy allegations and his interest in the system remains unresolved.&lt;/p&gt;
     </content>
-    <category term="hip87621-conflict" />
+    <category term="hip-87621-conflict" />
   </entry>
   <entry>
     <title>Rackham Funds Exploration Push After HIP 87621 Discovery</title>
@@ -761,7 +806,7 @@
       &lt;h3&gt;Player Impact&lt;/h3&gt;&lt;p&gt;Independent pilots were asked to locate and conduct full scans of Rocky and High Metal Content worlds across the galaxy to cross-reference with HIP 87621&apos;s anomalous readings.&lt;/p&gt;
       &lt;h3&gt;Future Impact&lt;/h3&gt;&lt;p&gt;The 37-light-year colonisation blockade around HIP 87621 is the first concrete evidence of October Consortium&apos;s active territorial control — they weren&apos;t just holding a permit, they were restricting expansion in a massive radius. Rackham&apos;s promise that results would be shared publicly &apos;at a later date&apos; never materialises, giving Lexi October ammunition to deflect scrutiny in October 3311. The cross-reference approach mirrors the scientific methodology later used by Dr. Casimir in his Radicoida study.&lt;/p&gt;
     </content>
-    <category term="hip87621-conflict" />
+    <category term="hip-87621-conflict" />
   </entry>
   <entry>
     <title>Mystery Of Missing Exobiology Protégé Deepens</title>
@@ -776,7 +821,7 @@
       &lt;h3&gt;Player Impact&lt;/h3&gt;&lt;p&gt;Thousands of pilots participated in the search for Terri Tora, piecing together encrypted comms data across multiple systems to confirm her final location at the permit-locked HIP 87621.&lt;/p&gt;
       &lt;h3&gt;Future Impact&lt;/h3&gt;&lt;p&gt;Professor Raddix&apos;s three questions — why is access restricted, who operates the permit, and what did Terri find — frame the narrative that drives the entire HIP 87621 arc. The October Consortium&apos;s claim of a &apos;routine survey expedition&apos; becomes less credible with each new revelation, culminating in Lexi October&apos;s October 3311 admission that the Consortium has controlled the system for over a decade.&lt;/p&gt;
     </content>
-    <category term="hip87621-conflict" />
+    <category term="hip-87621-conflict" />
   </entry>
   <entry>
     <title>Record-Breaking Success for Brewer&apos;s Resupply Initiative</title>
@@ -2967,50 +3012,5 @@
       &lt;h3&gt;Future Impact&lt;/h3&gt;&lt;p&gt;Kaine&apos;s critique — &apos;the Starship One conspiracy, Jupiter Division&apos;s attempted coup, the secession crisis triggered by the Proactive Detection Bureau&apos;s operation&apos; — is a comprehensive indictment of Hudson&apos;s presidency. Her admiration for Federal democracy — &apos;Federal democracy is now empowering every individual to elect their leaders&apos; — is a pointed contrast with Alliance elitism. Driscoll&apos;s observation about &apos;a friendlier Federation&apos; and rescinding &apos;isolationist decree&apos; frames the economic opportunity.&lt;/p&gt;
     </content>
     
-  </entry>
-  <entry>
-    <title>Federal Election: The Imperial Perspective</title>
-    <link href="https://kernicde.github.io/ed-lore/?article=ec0f3cd1-9806-51b0-b88f-81afcd9de1fd" rel="alternate" type="text/html" />
-    <id>urn:uuid:ec0f3cd1-9806-51b0-b88f-81afcd9de1fd</id>
-    <updated>3309-10-12T12:00:00Z</updated>
-    <summary type="html">Imperial leaders react to the Federal election, with Patreus preferring Archer&apos;s predictability and Aisling hoping for inter-superpower cooperation.</summary>
-    <content type="html">
-      &lt;p&gt;Imperial leaders react to the Federal election, with Patreus preferring Archer&apos;s predictability and Aisling hoping for inter-superpower cooperation.&lt;/p&gt;
-      &lt;h3&gt;Article&lt;/h3&gt;
-      &lt;p&gt;As the Federation readies itself for a new president, the Empire is preparing for potential changes to its relationship with its historical rival.&lt;br/&gt;Last year Emperor Arissa Lavigny-Duval severed all official collaboration with the other superpowers, except for limited contributions to Aegis. But this does not mean the Empire is ignoring the potential impact of either Jerome Archer or Felicia Winters becoming the next Federal president.&lt;br/&gt;Senator Denton Patreus remarked on the election during a military parade through the city of Port Isabelle:&lt;br/&gt;“The Federation’s leaders always reinforce their popularity by framing the Empire as the ‘great enemy’. I expect Archer will have those same aggressive tendencies. In truth, I’d prefer to deal with that predictable approach, since Winters is clearly the more cunning and deceitful candidate.”&lt;br/&gt;Princess Aisling Duval was asked her opinion while visiting a xenology seminar hosted by the Achenar Research Council:&lt;br/&gt;“I must admit that Felicia Winters’s style of governance is more appealing, though she should be mindful of her running mate’s influence. But whoever becomes president must break the cycle of hostility between Empire and Federation. My fruitful collaboration with other Aegis delegates, and ACT’s success against the Neo-Marlinist Liberation Army, is evidence of how effective inter-superpower cooperation can be.”&lt;br/&gt;The election was also discussed by Cassia Carvalho, political journalist for The Imperial Herald:&lt;br/&gt;“The average Imperial citizen has little interest in the Federation’s internal workings, but anxiety in the Senate is high. With the Thargoid war still raging, the prospect of a new president seeking to stamp their authority on the interstellar stage is a major concern. Conversely, some captains of industry anticipate a new era of trade with a friendlier Federation, if the Emperor can be convinced to rescind her isolationist decree.”&lt;br/&gt;Voting within Federal systems has been running for 24 hours, and polling suggests Felicia &lt;/p&gt;
-      &lt;h3&gt;Player Impact&lt;/h3&gt;&lt;p&gt;Not specifically mentioned.&lt;/p&gt;
-      &lt;h3&gt;Future Impact&lt;/h3&gt;&lt;p&gt;Patreus&apos;s preference for Archer — &apos;I expect Archer will have those same aggressive tendencies... Winters is clearly the more cunning and deceitful candidate&apos; — reveals Imperial strategic thinking. Aisling&apos;s call to &apos;break the cycle of hostility between Empire and Federation&apos; and her reference to ACT&apos;s success against the NMLA shows her cooperative instincts. Carvalho&apos;s economic analysis — &apos;some captains of industry anticipate a new era of trade with a friendlier Federation&apos; — frames the commercial stakes.&lt;/p&gt;
-    </content>
-    
-  </entry>
-  <entry>
-    <title>Sol Celebrations End as Election Begins</title>
-    <link href="https://kernicde.github.io/ed-lore/?article=33c6b56e-6efe-5c2a-9a4c-350a17b673bf" rel="alternate" type="text/html" />
-    <id>urn:uuid:33c6b56e-6efe-5c2a-9a4c-350a17b673bf</id>
-    <updated>3309-10-12T12:00:00Z</updated>
-    <summary type="html">Federal voting begins after Sol celebrations conclude, with profiles of both candidates and their running mates.</summary>
-    <content type="html">
-      &lt;p&gt;Federal voting begins after Sol celebrations conclude, with profiles of both candidates and their running mates.&lt;/p&gt;
-      &lt;h3&gt;Article&lt;/h3&gt;
-      &lt;p&gt;**Pilots’ Federation ALERT**&lt;br/&gt;The Federation has begun voting to decide its next president, as a week of festivities in the Sol system are concluded.&lt;br/&gt;Congress confirmed that any pilots who supplied rare goods for the celebratory events can collect payment from Li Qing Jao starport. All temporary system permits for Sol remain suspended for Pilots’ Federation members for a further week.&lt;br/&gt;The 3309 presidential election has now officially begun. More than one trillion Federal citizens    are expected to submit their votes, which will be recorded and collated over the next four days via secure digital systems.&lt;br/&gt;Vice President Jerome Archer is the Republican Party candidate, who is widely perceived as the political heir to President Zachary Hudson. His running mate is Congressman Niko Shirakawa, who has strong connections within the military.&lt;br/&gt;Shadow President Felicia Winters, leader of the Liberal Party, is the rival candidate and a proponent of more humanitarian-focused policies. She is on a presidential ticket with Congressman Isolde Rochester, matriarch of the famous Rochester dynasty.&lt;br/&gt;Sofia Trevino, political correspondent for The Federal Times, commented:&lt;br/&gt;“Following months of delay, logistical issues caused by the Thargoid war, plus the drama surrounding Zachary Rackham, voting is finally underway. Analysts believe this could be one of the closest-run elections in the Federation’s history, reflecting the polarisation that has taken place in recent years.” &lt;br/&gt;“Support for the Republican Party has been bolstered by its increasingly successful handling of the Thargoid menace during the past six months. But Archer’s flagship creation, the Proactive Detection Bureau, remains highly divisive – something the Liberal Party has found success in using to frame its opponent as increasingly authoritarian. How these primary points will ultimately impact the outcome of the vote remains to be seen.”&lt;br/&gt;The new president will be announced on Monday 16th October. President Hudson will remain&lt;/p&gt;
-      &lt;h3&gt;Player Impact&lt;/h3&gt;&lt;p&gt;Pilots who supplied rare goods can collect payment from Li Qing Jao starport.&lt;/p&gt;
-      &lt;h3&gt;Future Impact&lt;/h3&gt;&lt;p&gt;Trevino&apos;s analysis — &apos;one of the closest-run elections in the Federation&apos;s history, reflecting the polarisation that has taken place&apos; — captures the political divide. Her framing of Archer — &apos;his flagship creation, the Proactive Detection Bureau, remains highly divisive&apos; — shows the central policy battle. The note that &apos;Hudson will remain in office as caretaker president until the official inauguration&apos; establishes the transition timeline.&lt;/p&gt;
-    </content>
-    
-  </entry>
-  <entry>
-    <title>First Captives Freed from Thargoid Titans</title>
-    <link href="https://kernicde.github.io/ed-lore/?article=fc4c02ff-559f-5e50-a60f-5ae836bfa836" rel="alternate" type="text/html" />
-    <id>urn:uuid:fc4c02ff-559f-5e50-a60f-5ae836bfa836</id>
-    <updated>3309-10-10T12:00:00Z</updated>
-    <summary type="html">The first humans rescued from Thargoid Titans arrive and survive extraction, with Dr Grey observing their physical and psychological state.</summary>
-    <content type="html">
-      &lt;p&gt;The first humans rescued from Thargoid Titans arrive and survive extraction, with Dr Grey observing their physical and psychological state.&lt;/p&gt;
-      &lt;h3&gt;Article&lt;/h3&gt;
-      &lt;p&gt;The first humans rescued from the Thargoid motherships have started to arrive, almost all of whom have so far survived extraction.&lt;br/&gt;The highly dangerous task requires using an upgraded pulse wave xeno scanner to detect human life signs on the Titans. The new sub-surface extraction missiles then target and jettison the bio-storage capsules – as the structures are officially designated – which are then recovered using a cargo scoop. &lt;br/&gt;All recovered individuals are being assessed by medical specialists. The tri-superpower agency Aegis released this statement to the media: &lt;br/&gt;“In each case, research teams successfully cracked open the capsules and removed the comatose person. They were suspended within a chemically complex gel, not unlike amniotic fluid, with tubes supplying breathable air and basic nutrients. Between thirty and ninety minutes later, the person wakes.”&lt;br/&gt;“All recovered individuals are currently being kept in strict medical quarantine under military guard. Molecular scans are being conducted to ensure that no traces of Thargoid material remains, and a period of long-term observation now begins.”&lt;br/&gt;Dr Himari Grey, an independent healthcare analyst, was permitted to observe these procedures. As part of a report in The Empirical scientific journal, she noted:&lt;br/&gt;“The former abductees I have seen looked physically healthy, and returned to consciousness easily. Most remembered little about their abduction, though several mentioned an overwhelming urge to ‘escape their ship’ prior to blacking out. Some described being semi-aware of their time in stasis, saying it felt ‘like an extended dream’. Others were in a state of shock or showed signs of psychological trauma – understandably, considering the nightmarish circumstances.”&lt;br/&gt;“The capsules are clearly designed to sustain oxygen-breathing life forms indefinitely, protected both from the vacuum of space and the Thargoids’ ammonia-based environment. But what the aliens intended to use these people for remains unknown.”&lt;br/&gt;Aegis&lt;/p&gt;
-      &lt;h3&gt;Player Impact&lt;/h3&gt;&lt;p&gt;Pilots used extraction missiles to rescue captives from Thargoid Titans.&lt;/p&gt;
-      &lt;h3&gt;Future Impact&lt;/h3&gt;&lt;p&gt;Grey&apos;s detailed observations — &apos;suspended within a chemically complex gel, not unlike amniotic fluid&apos; and &apos;like an extended dream&apos; — provide the first eyewitness account of captivity. Her note that &apos;The capsules are clearly designed to sustain oxygen-breathing life forms indefinitely&apos; raises the question of Thargoid intent. The psychological trauma described — &apos;state of shock or showed signs of psychological trauma&apos; — humanises the experience.&lt;/p&gt;
-    </content>
-    <category term="thargoid-titan-war" />
   </entry>
 </feed>

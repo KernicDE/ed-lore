@@ -26,11 +26,14 @@ modern_impact: Twin-axe malware signature and coordinated military-port raids in
   forces. A rogue strategist uniting ships under one banner mirrors the power-coalition
   dynamics seen in HIP 87621, suggesting decentralized authority structures may become
   a recurring threat model.
+arc_id: lady-zi-pirate-coalition
 legacy_weight: 2
 significance: low
 related_uuids:
 - 1bb577e6-52b3-5a63-a983-f1975e27d66b
 - 86dbc944-a8ec-5d85-ab42-44ac9911ac40
+- c76cadee-b3d0-501f-8231-6caf7589bc3a
+- 32ce68df-e133-545f-a0ea-2ae009f1ada6
 ---
 
 

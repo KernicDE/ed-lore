@@ -24,13 +24,15 @@ locations:
 - Lhou Mans
 topics:
 - crime
-- terrorism
 - piracy
 technologies: []
+arc_id: lady-zi-pirate-coalition
 legacy_weight: 3
 significance: medium
 related_uuids:
 - 1bb577e6-52b3-5a63-a983-f1975e27d66b
+- 32ce68df-e133-545f-a0ea-2ae009f1ada6
+- 46b8ec38-ca04-5680-b3a2-01de047bc6c4
 ---
 
 Questions remain unanswered following last week’s unprovoked attacks on starport facilities across Lhou Mans.

@@ -7,7 +7,7 @@
     <link>https://kernicde.github.io/ed-lore/</link>
     <description>Raw GalNet articles from the Elite Dangerous universe (3301–3312)</description>
     <language>en</language>
-    <lastBuildDate>Sat, 09 May 2026 08:03:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 10:20:12 GMT</lastBuildDate>
     <atom:link href="https://kernicde.github.io/ed-lore/rss-raw.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://kernicde.github.io/ed-lore/favicon.svg</url>
@@ -15,6 +15,47 @@
       <link>https://kernicde.github.io/ed-lore/</link>
     </image>
     
+    <item>
+      <title>Civilians Evacuated Safely as Criminal Attacks Defeated</title>
+      <link>https://kernicde.github.io/ed-lore/?article=32ce68df-e133-545f-a0ea-2ae009f1ada6</link>
+      <guid isPermaLink="false">32ce68df-e133-545f-a0ea-2ae009f1ada6</guid>
+      <pubDate>Sat, 14 May 3312 12:00:00 GMT</pubDate>
+      <description>Security forces and independent combat pilots successfully protected rescue efforts after the recent attacks in Lhou Mans.
+An alleged coalition of pirate ships hit starports across the system, triggering the evacuation of civilians to safer locations.
+Defence forces managed to defeat and drive out the remaining criminals leaving many to wonder what to expect next from Lady Zi. However, analysts are now confident that all signs are pointing towards larger and bolder coordinated criminal activitie…</description>
+      <content:encoded><![CDATA[
+        <p>Security forces and independent combat pilots successfully protected rescue efforts after the recent attacks in Lhou Mans.<br/>An alleged coalition of pirate ships hit starports across the system, triggering the evacuation of civilians to safer locations.<br/>Defence forces managed to defeat and drive out the remaining criminals leaving many to wonder what to expect next from Lady Zi. However, analysts are now confident that all signs are pointing towards larger and bolder coordinated criminal activities than have previously been experienced in the past.<br/>“The leading theory is that this was a ‘test run’ of sorts, probing system and port defences in this area of space,” Mira Bukowski wrote for Vox Galactica. “What the next phase of this plan could entail is a source of concern for local authorities.”<br/>Meanwhile, a Zorgon Peterson spokesperson remarked that the new Lynx Highliner performed better than expected under the extreme circumstances.<br/>Engineers monitoring the vessels internal data also showed that the new Mk II cabins outperformed previous cabin modules for comfort even under the most testing of conditions.<br/>With the safe evacuation deemed a success and the new Highliner now available for full distribution across core systems, attention has now turned to repairing the starports damaged in the attack.<br/>Lhou Mans authorities are calling to aid repair efforts and interested pilots should register at Ryman Enterprise.</p>
+      ]]></content:encoded>
+      
+    </item>
+    <item>
+      <title>Criminal Factions Remains Silent After Lhou Mans Attacks</title>
+      <link>https://kernicde.github.io/ed-lore/?article=c76cadee-b3d0-501f-8231-6caf7589bc3a</link>
+      <guid isPermaLink="false">c76cadee-b3d0-501f-8231-6caf7589bc3a</guid>
+      <pubDate>Wed, 11 May 3312 12:00:00 GMT</pubDate>
+      <description>Questions remain unanswered following last week’s unprovoked attacks on starport facilities across Lhou Mans.
+Security analysts stated that the attacks bore remarkable similarities to last month’s coordinated attacks across military installations in the core systems.
+“These patterns are usually reserved for military trials and reconnaissance operations,” a senior security observer told Vox Galactica.
+“Simulated attacks are used to probe response times, defensive weak points and the speed with wh…</description>
+      <content:encoded><![CDATA[
+        <p>Questions remain unanswered following last week’s unprovoked attacks on starport facilities across Lhou Mans.<br/>Security analysts stated that the attacks bore remarkable similarities to last month’s coordinated attacks across military installations in the core systems.<br/>“These patterns are usually reserved for military trials and reconnaissance operations,” a senior security observer told Vox Galactica.<br/>“Simulated attacks are used to probe response times, defensive weak points and the speed with which system security can coordinate with independent pilots.”<br/>Similar data malware packages bearing the hallmarks of twin axe motifs have also been witnessed across Lhou Mans networks.<br/>Crime correspondent Mira Bukowski has revealed evidence from underworld sources allegedly linking the motif to a rogue pirate admiral going by the nom de guerre ‘Lady Zi’ and a coalition fleet directed by a single criminal syndicate.<br/>“Very few are willing to share more details on who Lady Zi is. We don’t know if this is because they are unaware, or if they’re simply scared,” she added.<br/>With evacuation efforts still under way, the attackers’ true motives remain unclear for now. Yet investigators warn that Lhou Mans may have been selected for reasons beyond simple disruption.</p>
+      ]]></content:encoded>
+      
+    </item>
+    <item>
+      <title>Dodec Station Enters Full Production Availability</title>
+      <link>https://kernicde.github.io/ed-lore/?article=3955dbb6-c5c8-560b-b4f1-7ca44f5ddc4d</link>
+      <guid isPermaLink="false">3955dbb6-c5c8-560b-b4f1-7ca44f5ddc4d</guid>
+      <pubDate>Sat, 07 May 3312 12:00:00 GMT</pubDate>
+      <description>Brewer Corporation has confirmed that the Dodec Station has entered full production.
+Previously available in limited numbers, the Dodec is the largest Tier 3 starport that can be constructed for use in colonisation efforts.
+Brewer Corporation CEO Madelyn Teague issued the following statement to Vox Galactica:
+&quot;The Dodec is the pinnacle of modern station design. Available with three truss variations and immediate access to a Human Tech Broker, it&apos;s simply the best option available for t…</description>
+      <content:encoded><![CDATA[
+        <p>Brewer Corporation has confirmed that the Dodec Station has entered full production.<br/>Previously available in limited numbers, the Dodec is the largest Tier 3 starport that can be constructed for use in colonisation efforts.<br/>Brewer Corporation CEO Madelyn Teague issued the following statement to Vox Galactica:<br/>&quot;The Dodec is the pinnacle of modern station design. Available with three truss variations and immediate access to a Human Tech Broker, it&apos;s simply the best option available for those looking to colonise new systems and to offer services to all who visit.&quot;<br/>The Dodec is now widely available for purchase through Colonisation contacts.</p>
+      ]]></content:encoded>
+      
+    </item>
     <item>
       <title>Guardian Artefact Research Initiative Concludes</title>
       <link>https://kernicde.github.io/ed-lore/?article=8258f5f1-635f-50d8-8a8d-5856072f5386</link>
@@ -2693,46 +2734,6 @@ Prime Minister Edmund Mahon delivered a formal address on the topic before the A
 “The Alliance continues to enjoy stable relations with the Federation. Our recent anti-xeno coalitions, including the reformation of Aegis, show how we can benefit from maintaining such cooperation. I am confident that the new president, whoever it may be, will respect the st…</description>
       <content:encoded><![CDATA[
         <p>The Alliance is observing the Federal president election, but expects little will change in relationships between the two superpowers.<br/>Prime Minister Edmund Mahon delivered a formal address on the topic before the Assembly:<br/>“The Alliance continues to enjoy stable relations with the Federation. Our recent anti-xeno coalitions, including the reformation of Aegis, show how we can benefit from maintaining such cooperation. I am confident that the new president, whoever it may be, will respect the status quo.”<br/>Councillor Nakato Kaine gave a more direct statement to the press:<br/>“I cannot ignore how the Federation has become more authoritarian under Zachary Hudson’s Republican government. It has also coped poorly with internal pressures: the Starship One conspiracy, Jupiter Division’s attempted coup, the secession crisis triggered by the Proactive Detection Bureau’s operation… the list goes on. And yet, Federal democracy is now empowering every individual to elect their leaders. That, at least, is something we in the Alliance should admire and consider adopting.”<br/>Vanya Driscoll, political correspondent for The Alliance Tribune, reported:<br/>“Most Allied politicians are too diplomatic to openly express a preference between the two candidates. Privately, councillors like Kaine are hopeful of a more nuanced relationship with Winters, who lacks the hawkish rhetoric of Hudson. However, others believe that Archer’s focus on military spending and domestic security might prove more practical in the face of the Thargoid invasion.”<br/>The latest voting polls from Federal systems show that Jerome Archer has overtaken Felicia Winters, albeit by a narrow margin. The voting window ends on the 15th, with the results verified by Monday to determine the victor of the 3309 Federal presidential election.</p>
-      ]]></content:encoded>
-      
-    </item>
-    <item>
-      <title>Federal Election: The Imperial Perspective</title>
-      <link>https://kernicde.github.io/ed-lore/?article=ec0f3cd1-9806-51b0-b88f-81afcd9de1fd</link>
-      <guid isPermaLink="false">ec0f3cd1-9806-51b0-b88f-81afcd9de1fd</guid>
-      <pubDate>Sat, 12 Oct 3309 12:00:00 GMT</pubDate>
-      <description>As the Federation readies itself for a new president, the Empire is preparing for potential changes to its relationship with its historical rival.
-Last year Emperor Arissa Lavigny-Duval severed all official collaboration with the other superpowers, except for limited contributions to Aegis. But this does not mean the Empire is ignoring the potential impact of either Jerome Archer or Felicia Winters becoming the next Federal president.
-Senator Denton Patreus remarked on the election during a mili…</description>
-      <content:encoded><![CDATA[
-        <p>As the Federation readies itself for a new president, the Empire is preparing for potential changes to its relationship with its historical rival.<br/>Last year Emperor Arissa Lavigny-Duval severed all official collaboration with the other superpowers, except for limited contributions to Aegis. But this does not mean the Empire is ignoring the potential impact of either Jerome Archer or Felicia Winters becoming the next Federal president.<br/>Senator Denton Patreus remarked on the election during a military parade through the city of Port Isabelle:<br/>“The Federation’s leaders always reinforce their popularity by framing the Empire as the ‘great enemy’. I expect Archer will have those same aggressive tendencies. In truth, I’d prefer to deal with that predictable approach, since Winters is clearly the more cunning and deceitful candidate.”<br/>Princess Aisling Duval was asked her opinion while visiting a xenology seminar hosted by the Achenar Research Council:<br/>“I must admit that Felicia Winters’s style of governance is more appealing, though she should be mindful of her running mate’s influence. But whoever becomes president must break the cycle of hostility between Empire and Federation. My fruitful collaboration with other Aegis delegates, and ACT’s success against the Neo-Marlinist Liberation Army, is evidence of how effective inter-superpower cooperation can be.”<br/>The election was also discussed by Cassia Carvalho, political journalist for The Imperial Herald:<br/>“The average Imperial citizen has little interest in the Federation’s internal workings, but anxiety in the Senate is high. With the Thargoid war still raging, the prospect of a new president seeking to stamp their authority on the interstellar stage is a major concern. Conversely, some captains of industry anticipate a new era of trade with a friendlier Federation, if the Emperor can be convinced to rescind her isolationist decree.”<br/>Voting within Federal systems has been running for 24 hours, and polling suggests Felicia Winters holds a slight lead over Jerome Archer. The election will run for another three days.</p>
-      ]]></content:encoded>
-      
-    </item>
-    <item>
-      <title>Sol Celebrations End as Election Begins</title>
-      <link>https://kernicde.github.io/ed-lore/?article=33c6b56e-6efe-5c2a-9a4c-350a17b673bf</link>
-      <guid isPermaLink="false">33c6b56e-6efe-5c2a-9a4c-350a17b673bf</guid>
-      <pubDate>Sat, 12 Oct 3309 12:00:00 GMT</pubDate>
-      <description>**Pilots’ Federation ALERT**
-The Federation has begun voting to decide its next president, as a week of festivities in the Sol system are concluded.
-Congress confirmed that any pilots who supplied rare goods for the celebratory events can collect payment from Li Qing Jao starport. All temporary system permits for Sol remain suspended for Pilots’ Federation members for a further week.
-The 3309 presidential election has now officially begun. More than one trillion Federal citizens    are expected …</description>
-      <content:encoded><![CDATA[
-        <p>**Pilots’ Federation ALERT**<br/>The Federation has begun voting to decide its next president, as a week of festivities in the Sol system are concluded.<br/>Congress confirmed that any pilots who supplied rare goods for the celebratory events can collect payment from Li Qing Jao starport. All temporary system permits for Sol remain suspended for Pilots’ Federation members for a further week.<br/>The 3309 presidential election has now officially begun. More than one trillion Federal citizens    are expected to submit their votes, which will be recorded and collated over the next four days via secure digital systems.<br/>Vice President Jerome Archer is the Republican Party candidate, who is widely perceived as the political heir to President Zachary Hudson. His running mate is Congressman Niko Shirakawa, who has strong connections within the military.<br/>Shadow President Felicia Winters, leader of the Liberal Party, is the rival candidate and a proponent of more humanitarian-focused policies. She is on a presidential ticket with Congressman Isolde Rochester, matriarch of the famous Rochester dynasty.<br/>Sofia Trevino, political correspondent for The Federal Times, commented:<br/>“Following months of delay, logistical issues caused by the Thargoid war, plus the drama surrounding Zachary Rackham, voting is finally underway. Analysts believe this could be one of the closest-run elections in the Federation’s history, reflecting the polarisation that has taken place in recent years.” <br/>“Support for the Republican Party has been bolstered by its increasingly successful handling of the Thargoid menace during the past six months. But Archer’s flagship creation, the Proactive Detection Bureau, remains highly divisive – something the Liberal Party has found success in using to frame its opponent as increasingly authoritarian. How these primary points will ultimately impact the outcome of the vote remains to be seen.”<br/>The new president will be announced on Monday 16th October. President Hudson will remain in office as caretaker president until the official inauguration of the election winner, expected to take place in the new year.</p>
-      ]]></content:encoded>
-      
-    </item>
-    <item>
-      <title>First Captives Freed from Thargoid Titans</title>
-      <link>https://kernicde.github.io/ed-lore/?article=fc4c02ff-559f-5e50-a60f-5ae836bfa836</link>
-      <guid isPermaLink="false">fc4c02ff-559f-5e50-a60f-5ae836bfa836</guid>
-      <pubDate>Thu, 10 Oct 3309 12:00:00 GMT</pubDate>
-      <description>The first humans rescued from the Thargoid motherships have started to arrive, almost all of whom have so far survived extraction.
-The highly dangerous task requires using an upgraded pulse wave xeno scanner to detect human life signs on the Titans. The new sub-surface extraction missiles then target and jettison the bio-storage capsules – as the structures are officially designated – which are then recovered using a cargo scoop. 
-All recovered individuals are being assessed by medical specialis…</description>
-      <content:encoded><![CDATA[
-        <p>The first humans rescued from the Thargoid motherships have started to arrive, almost all of whom have so far survived extraction.<br/>The highly dangerous task requires using an upgraded pulse wave xeno scanner to detect human life signs on the Titans. The new sub-surface extraction missiles then target and jettison the bio-storage capsules – as the structures are officially designated – which are then recovered using a cargo scoop. <br/>All recovered individuals are being assessed by medical specialists. The tri-superpower agency Aegis released this statement to the media: <br/>“In each case, research teams successfully cracked open the capsules and removed the comatose person. They were suspended within a chemically complex gel, not unlike amniotic fluid, with tubes supplying breathable air and basic nutrients. Between thirty and ninety minutes later, the person wakes.”<br/>“All recovered individuals are currently being kept in strict medical quarantine under military guard. Molecular scans are being conducted to ensure that no traces of Thargoid material remains, and a period of long-term observation now begins.”<br/>Dr Himari Grey, an independent healthcare analyst, was permitted to observe these procedures. As part of a report in The Empirical scientific journal, she noted:<br/>“The former abductees I have seen looked physically healthy, and returned to consciousness easily. Most remembered little about their abduction, though several mentioned an overwhelming urge to ‘escape their ship’ prior to blacking out. Some described being semi-aware of their time in stasis, saying it felt ‘like an extended dream’. Others were in a state of shock or showed signs of psychological trauma – understandably, considering the nightmarish circumstances.”<br/>“The capsules are clearly designed to sustain oxygen-breathing life forms indefinitely, protected both from the vacuum of space and the Thargoids’ ammonia-based environment. But what the aliens intended to use these people for remains unknown.”<br/>Aegis later stated that identities are being logged and will soon be made public, with the hope that families and friends will be able to visit.</p>
       ]]></content:encoded>
       
     </item>
