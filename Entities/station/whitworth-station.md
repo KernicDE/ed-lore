@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3304-11-29'
 last_seen_date: '3304-11-29'
 mention_count: 1
+system: Loha
+station_type: Starport
 related_entities:
 - loha-holdings
 - new-loha-party

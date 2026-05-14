@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3302-11-10'
 last_seen_date: '3302-11-10'
 mention_count: 1
+system: Elli
+station_type: Starport
 related_entities:
 - revolution-incorporated
 - elli

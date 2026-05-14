@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3301-03-08'
 last_seen_date: '3301-03-08'
 mention_count: 1
+system: Synteini
+station_type: Starport
 related_entities:
 - future-of-synteini
 - imperial-slavers-association
