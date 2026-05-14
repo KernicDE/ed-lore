@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3304-03-02'
 last_seen_date: '3304-03-04'
 mention_count: 2
+system: Arietis Sector XE-Z b4
+station_type: Starport
 related_entities:
 - federation
 - empire

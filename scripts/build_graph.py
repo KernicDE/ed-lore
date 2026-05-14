@@ -151,6 +151,7 @@ GARBAGE_ENTITY_IDS: set[str] = {
     "omega-grid", "new-apollo-city",
     "panem", "pallaeni", "pacific-ocean",
     "patterson-enterprise-in-the-sirius", "parkinson-dock-in-the-eotienses",
+    "rhea-archipelago", "rackhams-spire",
 }
 
 LOCATION_BLOCKLIST = {

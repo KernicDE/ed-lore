@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3301-03-25'
 last_seen_date: '3301-03-25'
 mention_count: 1
+system: Khaka
+station_type: Starport
 related_entities:
 - federal-navy
 - lugh-for-equality
