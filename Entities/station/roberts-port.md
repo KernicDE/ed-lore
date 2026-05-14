@@ -16,6 +16,8 @@ bio: Roberts Port is a starport in the Elite Dangerous universe, significant fro
   companies Supratech and Herculean Machines both appeal for commodities to support
   their forthcoming products. Supratech requires Conductive Fabrics, Robotics, and
   Microcontrollers delivered to Roberts Port in the Fedmich system.
+system: Fedmich
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

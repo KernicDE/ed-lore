@@ -17,6 +17,8 @@ bio: i Sola Prospect is a star system in the Elite Dangerous universe, significa
   Prospect on Brestla A1. The Imperial Inquisition launched a community campaign to
   develop the i Sola Prospect outpost on Brestla A1, requesting industrial materials
   to upgrade the station.
+system: Brestla
+station_type: Planetary Port
 ---
 
 <!-- AUTO-GENERATED -->

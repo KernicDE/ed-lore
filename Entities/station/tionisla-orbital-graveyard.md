@@ -16,6 +16,8 @@ bio: Tionisla Orbital Graveyard is a starport in the Elite Dangerous universe, s
   A new vessel was interred at the Tionisla Orbital Graveyard for the first time in
   over a hundred years, briefly transmitting the repeating message "OTSEAFOTSEAF"
   before a power failure.
+system: Tionisla
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

@@ -16,6 +16,8 @@ bio: Darnielle's Progress is a star system in the Elite Dangerous universe, sign
   system announce a sale of meta-alloys from their stockpile. A carefully orchestrated
   heist steals a large quantity of meta-alloys from Darnielle's Progress in the Maia
   system.
+system: Maia
+station_type: Planetary Port
 ---
 
 <!-- AUTO-GENERATED -->

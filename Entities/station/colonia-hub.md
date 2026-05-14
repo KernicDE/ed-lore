@@ -18,6 +18,8 @@ bio: Colonia Hub is a star system in the Elite Dangerous universe, significant f
   part of the Christmas Carriers Convoy. Departing on 2nd December 3302, the convoy
   will stop at outposts along the Colonia highway and arrive in the first week of
   January.
+system: Colonia
+station_type: Orbital Station
 ---
 
 Colonia Hub serves as a central installation within the Colonia region, the burgeoning colony established thousands of light-years from the core systems around Jaques Station. The hub functions as a primary waypoint and service centre for pilots traversing the Colonia Highway, the network of refuelling stops and outposts that makes the arduous journey between the bubble and this distant settlement feasible. Its strategic importance extends beyond logistics to encompass economic coordination, defence planning, and community governance for a region that has developed a distinct identity separate from the superpowers.

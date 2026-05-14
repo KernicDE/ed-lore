@@ -11,8 +11,10 @@ related_entities:
 - sirius-corporation
 - sirius-atmospherics
 - core-dynamics
-bio: 'A starport in Luyten''s Star, Ashby City was repeatedly mentioned between 3301
-  and 3307 for reports of reckless pilot activity in its docking bays.'
+bio: A starport in Luyten's Star, Ashby City was repeatedly mentioned between 3301
+  and 3307 for reports of reckless pilot activity in its docking bays.
+system: Luyten's Star
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

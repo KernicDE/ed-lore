@@ -17,6 +17,8 @@ bio: Kooi Gateway is a star system in the Elite Dangerous universe, significant 
   other stations remain affected. The Canary Mining Corporation announces plans to
   improve mining facilities at Kooi Gateway in the HIP 93377 system by requesting
   mineral extractors for new material-processing equipment.
+system: HIP 93377
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

@@ -15,6 +15,8 @@ bio: Brady Horizons is a star system in the Elite Dangerous universe, significan
   to Brady Horizons in the Gooheimar system. Hundreds of pilots delivered materials
   to Brady Horizons in the Gooheimar system, allowing work on the first vessel to
   begin.
+system: Gooheimar
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

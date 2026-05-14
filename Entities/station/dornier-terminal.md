@@ -15,6 +15,8 @@ bio: Dornier Terminal is a star system in the Elite Dangerous universe, signific
   from 3301-02-27 to 3301-03-07. Associated with Citizens of Tradition. Imperial commanders
   willing to join the fight should seek out the Citizens of Tradition at Dornier Terminal
   in Ngaiawang. Imperial veterans can collect payments from Dornier Terminal in Ngaiawang.
+system: Ngaiawang
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

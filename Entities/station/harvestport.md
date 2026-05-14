@@ -16,6 +16,8 @@ bio: Harvestport is a starport in the Elite Dangerous universe, significant from
   to crowds at Harvestport that 'you can't stop the crop' and that people want '100%
   organic, original blend Onionhead'. Thousands of traders have returned to Kappa
   Fornacis after Onionhead became available again on Harvestport.
+system: Panem
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

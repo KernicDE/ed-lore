@@ -14,6 +14,8 @@ bio: Goulart City is a star system in the Elite Dangerous universe, significant 
   and neutralise pirates operating in the system. The Union Party of Ambika announced
   the successful conclusion of its relief campaign, with large food deliveries received
   at Goulart City and system agitators neutralised.
+system: Ambika
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

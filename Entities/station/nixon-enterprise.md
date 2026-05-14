@@ -13,6 +13,8 @@ bio: Nixon Enterprise is a star system in the Elite Dangerous universe, signific
   from 3302-03-17 to 3302-03-31. Associated with Revolutionary Party of Vennik. Hundreds
   of pilots delivered terrain-enrichment systems to Nixon Enterprise, enabling the
   final phase of transforming the arid planet into a fertile, life-sustaining world.
+system: Vennik
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

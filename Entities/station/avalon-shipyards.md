@@ -11,9 +11,11 @@ related_entities:
 - imperial-herald
 - alliance
 - federation
-bio: 'A high-profile shipyard facility, Avalon became briefly famous in mid-3301 when
-  leaked images revealed Senator Kahina Tijani Loren''s Imperial Courier Seven Veils
-  undergoing significant performance upgrades.'
+bio: A high-profile shipyard facility, Avalon became briefly famous in mid-3301 when
+  leaked images revealed Senator Kahina Tijani Loren's Imperial Courier Seven Veils
+  undergoing significant performance upgrades.
+system: Avalon
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

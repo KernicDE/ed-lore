@@ -11,8 +11,10 @@ related_entities:
 - von-bellingshausen-port
 - almar
 - haack-gateway
-bio: 'A starport in the Eravate system, Alexander Freeport was among the stations
-  affected by the technological plague in early 3302.'
+bio: A starport in the Eravate system, Alexander Freeport was among the stations affected
+  by the technological plague in early 3302.
+system: HIP 18843
+station_type: Outpost
 ---
 
 <!-- AUTO-GENERATED -->

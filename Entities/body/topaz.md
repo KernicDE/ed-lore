@@ -1,7 +1,7 @@
 ---
 id: topaz
 name: Topaz
-type: station
+type: body
 first_seen_date: '3301-02-12'
 last_seen_date: '3301-08-18'
 mention_count: 3

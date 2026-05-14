@@ -17,6 +17,8 @@ bio: Lobachevsky Station is a starport in the Elite Dangerous universe, signific
   large supplies to Lobachevsky Station in Antal. He affirmed 'our goods are for sale,
   but our integrity is not.' Utopia continues seeking large metal supplies delivered
   to Lobachevsky Station.
+system: Antal
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

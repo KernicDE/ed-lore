@@ -15,6 +15,8 @@ bio: Sagan Port is a starport in the Mundjiga system that served as the construc
   hub for a new Majestic-Class Interdictor in 3302. Coordinated by Lieutenant Severin
   and supported by the Mundjiga Patrons of Law, the port became a focal point for
   Imperial logistics and community-driven military expansion.
+system: Mundjiga
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

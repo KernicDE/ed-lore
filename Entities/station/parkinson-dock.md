@@ -16,6 +16,8 @@ bio: Parkinson Dock is a starport in the Elite Dangerous universe, significant f
   to promote high-tech goods development, overseen by the Citizens' Forum. Parkinson
   Dock in Eotienses completed a major upgrade after two weeks of construction by 70,000
   engineers.
+system: Eotienses
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

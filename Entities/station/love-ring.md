@@ -13,6 +13,8 @@ related_entities:
 - haack-gateway
 bio: Love Ring is a star system in the Elite Dangerous universe, significant from
   3302-02-24 to 3302-05-20.
+system: Evejitaka
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

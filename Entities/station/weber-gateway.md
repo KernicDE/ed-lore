@@ -15,6 +15,8 @@ bio: Weber Gateway is a star system in the Elite Dangerous universe, significant
   3301-10-08 to 3301-11-26. Associated with Federal Times, Revolutionary Noti Value
   Party. The Revolutionary Noti Value Party's appeal for Aganippe Rush concluded successfully,
   with hundreds of independent pilots delivering the rare commodity to Weber Gateway.
+system: Noti
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

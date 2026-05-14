@@ -11,6 +11,8 @@ related_entities:
 - cooper-research-centre
 bio: Noti Dock is a starport in the Elite Dangerous universe, significant from 3302-04-14
   to 3302-05-26. Associated with Alliance.
+system: Noti
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->
