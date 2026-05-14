@@ -1,13 +1,17 @@
 ---
 id: tiensei
-name: Tiensei
+name: T'iensei
 type: system
 first_seen_date: '3304-05-25'
 last_seen_date: '3304-06-03'
 mention_count: 4
-system: Tiensei
-note: Mentioned in GalNet lore but not present in current EDSM/game data
+coords:
+  x: 18.34375
+  y: -50.75
+  z: 113.28125
+allegiance: Independent
 ---
+
 
 
 

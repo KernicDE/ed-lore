@@ -10,7 +10,7 @@ related_entities:
 - beagle-point
 - ram-tah
 bio: 'A massive deep-space expedition launched in 3312, Distant Worlds 3 coordinated
-  thousands of independent pilots in a scientific survey of the galaxy's most remote
+  thousands of independent pilots in a scientific survey of the galaxy''s most remote
   regions.'
 ---
 

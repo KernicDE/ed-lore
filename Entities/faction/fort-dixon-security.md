@@ -9,7 +9,7 @@ related_entities:
 - vega
 - vox-galactica
 bio: 'The security force responsible for Fort Dixon starport in the Vega system,
-  Fort Dixon Security became embroiled in one of the era's most puzzling criminal
+  Fort Dixon Security became embroiled in one of the era''s most puzzling criminal
   investigations.'
 ---
 
