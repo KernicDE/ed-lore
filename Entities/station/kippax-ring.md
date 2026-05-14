@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3302-04-24'
 last_seen_date: '3302-04-24'
 mention_count: 1
+system: HIP 72043
+station_type: Starport
 related_entities:
 - first-great-expedition
 - hip-72043-system

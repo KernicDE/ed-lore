@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3302-02-29'
 last_seen_date: '3302-02-29'
 mention_count: 1
+system: Groombridge 34
+station_type: Starport
 related_entities:
 - kruger-60-free
 - groombridge-34

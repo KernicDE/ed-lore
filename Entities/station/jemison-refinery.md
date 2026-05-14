@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3301-04-27'
 last_seen_date: '3301-04-27'
 mention_count: 1
+system: Volungu
+station_type: Starport
 related_entities:
 - federal-navy
 - imperial-senate

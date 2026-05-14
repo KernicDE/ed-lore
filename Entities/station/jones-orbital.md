@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3301-07-16'
 last_seen_date: '3301-07-16'
 mention_count: 1
+system: Hel
+station_type: Starport
 related_entities:
 - emperors-grace
 - cosmic-state

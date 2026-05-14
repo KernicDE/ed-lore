@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3302-01-22'
 last_seen_date: '3302-01-22'
 mention_count: 1
+system: Turbo
+station_type: Starport
 related_entities:
 - buckyball-racing-club
 - turbo

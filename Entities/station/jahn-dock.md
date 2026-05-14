@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3304-02-16'
 last_seen_date: '3304-02-23'
 mention_count: 2
+system: Momoirent
+station_type: Starport
 related_entities:
 - momoirent
 - aegis

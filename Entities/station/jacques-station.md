@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3302-07-16'
 last_seen_date: '3302-07-16'
 mention_count: 1
+system: Colonia
+station_type: Starport
 related_entities:
 - eol-prou-rs-t-d3-94
 bio: Jacques Station is a starport in the Elite Dangerous universe, significant from

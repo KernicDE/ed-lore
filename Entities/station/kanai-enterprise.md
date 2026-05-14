@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3304-04-20'
 last_seen_date: '3304-04-29'
 mention_count: 2
+system: Blido Piru
+station_type: Starport
 related_entities:
 - angeli-imperial-enterprises
 - blido-piru
