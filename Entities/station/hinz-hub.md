@@ -11,8 +11,10 @@ related_entities:
 - gurragchaa-gateway
 - warkushanui
 - ngobe
-bio: 'An orbital station in the Ngobe system affected by the technological plague
-  that swept across inhabited space in early 3302.'
+bio: An orbital station in the Ngobe system affected by the technological plague that
+  swept across inhabited space in early 3302.
+system: Ngobe
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

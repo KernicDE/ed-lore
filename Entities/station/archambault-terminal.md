@@ -5,9 +5,11 @@ type: station
 first_seen_date: '3304-10-18'
 last_seen_date: '3304-10-18'
 mention_count: 5
-bio: Archambault Terminal is a starport in the Gottena system. In October 3304, it was seized
-  by the Children of Tothos doomsday cult, who threatened to detonate a nuclear device unless
-  their demands were met.
+bio: Archambault Terminal is a starport in the Gottena system. In October 3304, it
+  was seized by the Children of Tothos doomsday cult, who threatened to detonate a
+  nuclear device unless their demands were met.
+system: Chun Tstar
+station_type: Orbital Station
 ---
 
 

@@ -17,6 +17,8 @@ bio: 'Thompson Dock is a starport in Elite Dangerous, significant from 3301-11-2
   Hub in Varati with equipment to investigate the correlation between Unknown...;
   The Canonn Interstellar Research Group launches a campaign to construct a state-of-the-art
   research outpost in the Col 285 Sector IX-T d3-43 system...'
+system: Varati
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

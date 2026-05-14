@@ -11,8 +11,10 @@ related_entities:
 - merope-expeditionary-fleet
 - the-pleiades-resource-enterprise
 - merope
-bio: 'A Federal outpost constructed in the HIP 17692 system near the Pleiades Nebula,
-  Blackmount Orbital was built specifically to monitor Thargoid activity in the region.'
+bio: A Federal outpost constructed in the HIP 17692 system near the Pleiades Nebula,
+  Blackmount Orbital was built specifically to monitor Thargoid activity in the region.
+system: HIP 17692
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

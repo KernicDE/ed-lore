@@ -5,9 +5,11 @@ type: station
 first_seen_date: '3307-03-11'
 last_seen_date: '3307-03-11'
 mention_count: 5
-bio: Stillman Hub is a starport in the LTT 1935 system. It was one of nine starports bombed
-  by the NMLA in the Nine Martyrs attack of March 3307, which led to the cancellation of
-  the Galactic Summit.
+bio: Stillman Hub is a starport in the LTT 1935 system. It was one of nine starports
+  bombed by the NMLA in the Nine Martyrs attack of March 3307, which led to the cancellation
+  of the Galactic Summit.
+system: HIP 22550
+station_type: Orbital Station
 ---
 
 

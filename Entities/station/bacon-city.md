@@ -9,9 +9,11 @@ related_entities:
 - carnoeck
 - united-carnoeck-for-equality
 - bacon-cats
-bio: 'A starport in the Carnoeck system, Bacon City is best known as the venue for
-  the annual Bacon Protests anniversary celebrations, a peculiar tradition blending political
-  satire with community festivity.'
+bio: A starport in the Carnoeck system, Bacon City is best known as the venue for
+  the annual Bacon Protests anniversary celebrations, a peculiar tradition blending
+  political satire with community festivity.
+system: Carnoeck
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

@@ -5,7 +5,6 @@ type: station
 first_seen_date: '3301-03-20'
 last_seen_date: '3301-03-20'
 mention_count: 5
-
 related_entities:
 - arque
 - aegis
@@ -13,7 +12,10 @@ related_entities:
 - alliance
 - morten-marte
 bio: Abel Laboratory is a research outpost that has been involved in various scientific
-  initiatives. It serves as a hub for researchers and scientists working on frontier projects.
+  initiatives. It serves as a hub for researchers and scientists working on frontier
+  projects.
+system: Arque
+station_type: Planetary Port
 ---
 
 

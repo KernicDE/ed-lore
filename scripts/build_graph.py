@@ -133,7 +133,7 @@ GARBAGE_ENTITY_IDS: set[str] = {
     "allied", "trask", "chariot-of-rhea", "james-sneddon", "fairfax-legacy",
     "crimson-exchange", "los-pioneros", "el-centinela-cadejo", "the-andecavi",
     "elvira-martuuk", "zemina-torval", "delaine", "torval", "archon-delaine",
-    "pranav-antal", "the-entire",
+    "pranav-antal", "the-entire", "star",
 }
 
 LOCATION_BLOCKLIST = {

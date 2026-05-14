@@ -11,8 +11,10 @@ related_entities:
 - harma
 - pic-tok
 - rhea
-bio: 'An outpost in the Pic Tok system that was among the starports affected by
-  the technological plague of early 3302.'
+bio: An outpost in the Pic Tok system that was among the starports affected by the
+  technological plague of early 3302.
+system: Pic Tok
+station_type: Outpost
 ---
 
 <!-- AUTO-GENERATED -->

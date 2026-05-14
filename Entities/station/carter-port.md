@@ -11,8 +11,10 @@ related_entities:
 - harma
 - pic-tok
 - rhea
-bio: 'An orbital station in the Rhea system that was among the starports crippled
-  by the technological plague in early 3302.'
+bio: An orbital station in the Rhea system that was among the starports crippled by
+  the technological plague in early 3302.
+system: Rhea
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

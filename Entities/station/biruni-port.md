@@ -11,9 +11,11 @@ related_entities:
 - league-of-reparation
 - universal-liberty
 - unchain
-bio: 'A starport in the Niflhel system, Biruni Port hosted Senator Caspian Leopold''s
+bio: A starport in the Niflhel system, Biruni Port hosted Senator Caspian Leopold's
   initiative to build a civilian rehabilitation centre for those affected by intensified
-  military operations in 3304.'
+  military operations in 3304.
+system: Niflhel
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

@@ -11,9 +11,11 @@ related_entities:
 - halbangaay
 - 64-arietis
 - arawere
-bio: 'A starport in the Eravate system, Ackerman Market was among the first stations
+bio: A starport in the Eravate system, Ackerman Market was among the first stations
   crippled by the technological plague in early 3302, later becoming a symbol of player-driven
-  cooperative restoration.'
+  cooperative restoration.
+system: Eravate
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->
