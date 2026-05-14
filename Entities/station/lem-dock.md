@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3302-07-18'
 last_seen_date: '3302-07-18'
 mention_count: 1
+system: Chaac
+station_type: Starport
 related_entities:
 - buckyball-racing-club
 - ex-luna-scientia

@@ -1,10 +1,12 @@
 ---
 id: lily-may
 name: Lily May
-type: station
+type: body
 first_seen_date: '3301-03-31'
 last_seen_date: '3301-03-31'
 mention_count: 1
+system: Themiscrya
+body_type: Planet
 related_entities:
 - nationals-of-themiscrya
 - themiscrya

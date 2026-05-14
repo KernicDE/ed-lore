@@ -145,6 +145,7 @@ GARBAGE_ENTITY_IDS: set[str] = {
     "hahn-gateway-in-the-nanomam",
     "industry", "hip-101110", "ito-orbital-in-the-rhea",
     "lambla", "lake-rackham", "krylov-ring-in-the-he-bo",
+    "li-qing-jao-station-in-the-sol", "lave-station-in-the-lave",
 }
 
 LOCATION_BLOCKLIST = {

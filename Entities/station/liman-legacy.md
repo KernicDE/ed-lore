@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3303-12-15'
 last_seen_date: '3303-12-15'
 mention_count: 1
+system: HIP 16753
+station_type: Starport
 related_entities:
 - taygeta
 - titans-daughter

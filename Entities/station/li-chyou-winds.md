@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3308-04-13'
 last_seen_date: '3308-04-13'
 mention_count: 1
+system: Onoros
+station_type: Megaship
 related_entities:
 - alliance
 - sirius-corporation

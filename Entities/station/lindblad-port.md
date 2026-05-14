@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3301-08-14'
 last_seen_date: '3301-08-14'
 mention_count: 1
+system: Rishair
+station_type: Starport
 related_entities:
 - emperors-grace
 - imperial-inquisition

@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3307-12-09'
 last_seen_date: '3307-12-09'
 mention_count: 1
+system: Bhattra
+station_type: Starport
 related_entities:
 - vodel
 - core-dynamics

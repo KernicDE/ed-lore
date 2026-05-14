@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3304-03-16'
 last_seen_date: '3304-03-16'
 mention_count: 1
+system: Othime
+station_type: Starport
 related_entities:
 - coalition-of-othime
 - othime

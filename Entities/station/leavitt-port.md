@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3304-09-27'
 last_seen_date: '3304-10-04'
 mention_count: 2
+system: Bhagui
+station_type: Starport
 related_entities:
 - mould-federal-mining-incorporated
 - bhagui
