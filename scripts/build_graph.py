@@ -153,6 +153,8 @@ GARBAGE_ENTITY_IDS: set[str] = {
     "patterson-enterprise-in-the-sirius", "parkinson-dock-in-the-eotienses",
     "rhea-archipelago", "rackhams-spire",
     "rocky-ice-body", "ridley-scott",
+    "shajn-market-in-the-kamadhenu", "several-military-ports-across-the-core",
+    "san-francisco",
 }
 
 LOCATION_BLOCKLIST = {

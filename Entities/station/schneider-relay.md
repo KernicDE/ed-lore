@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3302-03-30'
 last_seen_date: '3302-03-30'
 mention_count: 1
+system: Epsilon Indi
+station_type: Starport
 related_entities:
 - buckyball-racing-club
 - epsilon-indi-system
