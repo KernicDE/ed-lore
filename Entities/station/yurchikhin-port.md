@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3304-11-08'
 last_seen_date: '3304-11-08'
 mention_count: 1
+system: Geras
+station_type: Starport
 related_entities:
 - geras-first
 - ndozins-state-inc

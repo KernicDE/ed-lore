@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3301-04-15'
 last_seen_date: '3301-04-15'
 mention_count: 1
+system: Nehet
+station_type: Starport
 related_entities:
 - imperial-court
 - nehet
