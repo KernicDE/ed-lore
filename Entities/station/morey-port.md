@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3304-04-06'
 last_seen_date: '3304-04-06'
 mention_count: 1
+system: Ross 310
+station_type: Starport
 related_entities:
 - ross-310-natural-services
 - ross-310-cartel

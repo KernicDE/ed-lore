@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3309-05-25'
 last_seen_date: '3309-09-14'
 mention_count: 2
+system: Rabh
+station_type: Starport
 related_entities:
 - aegis
 - maelstrom

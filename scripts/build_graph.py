@@ -147,6 +147,7 @@ GARBAGE_ENTITY_IDS: set[str] = {
     "lambla", "lake-rackham", "krylov-ring-in-the-he-bo",
     "li-qing-jao-station-in-the-sol", "lave-station-in-the-lave",
     "millese", "mackenzie-relay-in-the-cemiess",
+    "nearest-starport", "monolith",
 }
 
 LOCATION_BLOCKLIST = {

@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3301-03-06'
 last_seen_date: '3301-03-06'
 mention_count: 1
+system: Eta Horologii
+station_type: Starport
 related_entities:
 - stop-slavery-stupid
 - cemiess

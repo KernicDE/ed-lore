@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3301-12-21'
 last_seen_date: '3301-12-21'
 mention_count: 1
+system: Dahan
+station_type: Starport
 related_entities:
 - canonn-interstellar-research-group
 - maia

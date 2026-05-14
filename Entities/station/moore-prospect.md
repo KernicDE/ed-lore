@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3302-10-01'
 last_seen_date: '3302-10-01'
 mention_count: 1
+system: Kalana
+station_type: Starport
 related_entities:
 - kalana-independents
 - cutter-club

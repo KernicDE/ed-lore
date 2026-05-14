@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3307-07-22'
 last_seen_date: '3307-07-29'
 mention_count: 2
+system: Panjabell
+station_type: Starport
 related_entities:
 - pilots-federation
 - pleiades-concordat

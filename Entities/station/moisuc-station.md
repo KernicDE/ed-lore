@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3301-04-14'
 last_seen_date: '3301-04-14'
 mention_count: 1
+system: Mongan
+station_type: Starport
 related_entities:
 - federal-navy
 - reyan-bps
