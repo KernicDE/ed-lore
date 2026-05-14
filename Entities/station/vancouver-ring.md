@@ -13,6 +13,8 @@ bio: Vancouver Ring is a star system in the Elite Dangerous universe, significan
   to deliver goods to Vancouver Ring. Tchernobog Free's appeal for consumer goods
   was enthusiastically received, with pilots delivering huge quantities to Vancouver
   Ring to meet high demand from recent one-day deals.
+system: Tchernobog
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

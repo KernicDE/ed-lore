@@ -17,6 +17,8 @@ bio: Thoreau Orbital is a starport in the Elite Dangerous universe, significant 
   Thoreau Orbital in the Obotrima system has suspended services following an Imperial
   campaign to flood the starport with explosives, severely damaging the major skimmer
   manufacturing centre.
+system: Obotrima
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

@@ -10,6 +10,8 @@ related_entities:
 - xi-2-lupi
 bio: 'Pellegrino Hub is a star system in the Elite Dangerous universe, significant
   from 3303-03-09 to 3303-03-16. Associated with Military Militia. '
+system: XI-2 Lupi
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

@@ -14,6 +14,8 @@ bio: Underwood Port is a starport in the Elite Dangerous universe, significant f
   Industries. Laksmii Jet Power Industries plans to smuggle weapons into Underwood
   Port in Parun for guerrilla attacks against the Independents of Parun, the system's
   controlling faction. Both factions appeal for pilot support.
+system: Parun
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

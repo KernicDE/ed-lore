@@ -11,6 +11,8 @@ related_entities:
 - synuefe
 bio: 'Tiedemann Dock is a starport in the Elite Dangerous universe, significant from
   3303-01-05 to 3303-01-12. Associated with Balones Gold Touch Systems. '
+system: Balones
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

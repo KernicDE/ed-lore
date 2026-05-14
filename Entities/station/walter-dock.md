@@ -12,6 +12,8 @@ related_entities:
 bio: 'Walter Dock is a starport in the Elite Dangerous universe, significant from
   3302-10-20 to 3302-10-27. Associated with Gyvatices Crimson Advanced Holdings, Wonderful
   Walter''s Fish and Coffee Emporium. '
+system: Gyvatices
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

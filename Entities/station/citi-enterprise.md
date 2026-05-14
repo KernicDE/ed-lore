@@ -12,6 +12,8 @@ bio: Citi Enterprise is a star system in the Elite Dangerous universe, significa
   from 3302-11-10 to 3302-11-17. Associated with Zosi Major Corporation. Dr Arkady
   Cole, the organisation's chief research scientist, confirmed participating pilots
   should deliver resources to Citi Enterprise in the Zosi system.
+system: Zosi
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

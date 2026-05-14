@@ -10,6 +10,8 @@ related_entities:
 - rahu
 bio: 'Acharya Station is a starport in the Elite Dangerous universe, significant from
   3303-02-23 to 3303-03-02. Associated with Alliance. '
+system: Rahu
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->
