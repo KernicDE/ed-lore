@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3304-05-18'
 last_seen_date: '3304-05-25'
 mention_count: 2
+system: Coeus
+station_type: Starport
 related_entities:
 - colonia-co-operative
 - coeus

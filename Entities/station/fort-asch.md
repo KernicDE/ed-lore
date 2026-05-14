@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3308-07-27'
 last_seen_date: '3311-01-16'
 mention_count: 2
+system: HIP 22460
+station_type: Planetary Port
 related_entities:
 - hip-22460
 - alliance

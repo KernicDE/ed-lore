@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3307-07-01'
 last_seen_date: '3307-07-30'
 mention_count: 2
+system: Azaladshu
+station_type: Megaship
 related_entities:
 - federal-congress
 - azaladshu-free

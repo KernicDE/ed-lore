@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3308-05-13'
 last_seen_date: '3308-06-17'
 mention_count: 2
+system: Upaniklis
+station_type: Outpost
 related_entities:
 - upaniklis
 - golconda

@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3304-08-17'
 last_seen_date: '3304-08-24'
 mention_count: 2
+system: Kamici
+station_type: Starport
 related_entities:
 - kamici-incorporated
 - kamici

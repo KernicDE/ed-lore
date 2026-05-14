@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3307-07-08'
 last_seen_date: '3307-07-08'
 mention_count: 1
+system: LTT 3919
+station_type: Starport
 related_entities:
 - pilots-federation
 - azaladshu-free

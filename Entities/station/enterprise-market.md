@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3307-06-25'
 last_seen_date: '3307-06-25'
 mention_count: 1
+system: LHS 2522
+station_type: Starport
 related_entities:
 - alliance
 - pilots-federation
