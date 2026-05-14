@@ -27,9 +27,8 @@ bio: Cartoq is a star system in the Elite Dangerous universe, significant from 3
   to counter a sharp increase in criminal activity. The Cartoq Purple Major Organisation
   successfully cleared the Cartoq system of agitators with support from hundreds of
   pilots.
+reserve: Low
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

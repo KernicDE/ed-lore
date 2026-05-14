@@ -24,11 +24,10 @@ economy: Colony
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system/id/14020/name/Qarato
 inara_url: https://inara.cz/elite/starsystem/?search=Qarato
-bio: 'An independent democratic colony system, Qarato served as a critical logistics
-  hub during Salvation''s anti-Thargoid campaigns in late 3307.'
+bio: An independent democratic colony system, Qarato served as a critical logistics
+  hub during Salvation's anti-Thargoid campaigns in late 3307.
+reserve: Common
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

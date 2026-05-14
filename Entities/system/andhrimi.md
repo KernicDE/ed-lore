@@ -28,9 +28,8 @@ bio: Andhrimi is a star system in the Elite Dangerous universe, significant from
   Empire announced plans to construct an outpost in the Andhrimi system. Hundreds
   of independent pilots supported the operation to build an outpost in the Andhrimi
   system.
+reserve: Low
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

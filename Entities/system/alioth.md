@@ -31,14 +31,13 @@ edsm_url: https://www.edsm.net/en/system/id/8218/name/Alioth
 inara_url: https://inara.cz/elite/starsystem/?search=Alioth
 bio: Alioth is the capital system of the Alliance of Independent Systems, founded
   in 3230 after a successful revolt against Federal corporate exploitation and Imperial
-  occupation. It serves as the seat of the Alliance Assembly and the residence of the
-  Prime Minister. The permit-locked system hosts the headquarters of Lakon Spaceways
+  occupation. It serves as the seat of the Alliance Assembly and the residence of
+  the Prime Minister. The permit-locked system hosts the headquarters of Lakon Spaceways
   and, since 3308, a permanent Sirius Corporation presence under the strategic defence
-  pact. With nearly 15 billion inhabitants and a High Tech economy, Alioth remains the
-  political and symbolic heart of the Alliance.
+  pact. With nearly 15 billion inhabitants and a High Tech economy, Alioth remains
+  the political and symbolic heart of the Alliance.
+reserve: Depleted
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

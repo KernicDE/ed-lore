@@ -28,9 +28,8 @@ bio: Nijotec is a star system in the Elite Dangerous universe, significant from 
   to 3301-02-20. Associated with Federal Navy, Lycan Moon Mining Corporation, Federal
   Congress. Nijotec, home to 21,500 people, was once rich in minerals but has been
   strip-mined to near exhaustion.
+reserve: Common
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

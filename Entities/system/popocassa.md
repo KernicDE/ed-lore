@@ -26,9 +26,8 @@ edsm_url: https://www.edsm.net/en/system/id/16167/name/Popocassa
 inara_url: https://inara.cz/elite/starsystem/?search=Popocassa
 bio: 'Popocassa is a star system in the Elite Dangerous universe, significant from
   3301-04-15 to 3301-04-15. '
+reserve: Pristine
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

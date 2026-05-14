@@ -29,9 +29,8 @@ bio: 'Zlota is a system in Elite Dangerous, significant from 3304-12-06 to 3308-
   Agency. Notable events include: The superpowers offer bounties on Thargoid vessels
   while Salvation constructs anti-xeno superweapons.; Salvation''s anti-xeno superweapons
   completely repel Thargoid forces from Didio, Novas, and Sosong.'
+reserve: Pristine
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

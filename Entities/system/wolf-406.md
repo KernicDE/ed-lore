@@ -29,9 +29,8 @@ bio: Wolf 406 is a star system in the Elite Dangerous universe, significant from
   Victoria Wolf VI of Wolf 406 Transport Co and Commodore Helena Stone of the Alliance
   Defence Force launched Operation Augeas to rid BD-22 3573 of criminal elements troubling
   miners and traders.
+reserve: Pristine
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

@@ -25,9 +25,8 @@ bio: Apalar is a star system in the Elite Dangerous universe, significant from 3
   to 3301-08-17. Associated with Apalar Labour. The Apalar system government invited
   independent pilots to help elevate their economy. Apalar Labour is offering rewards
   for delivering industrial materials to Svavarsson Terminal.
+reserve: Major
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

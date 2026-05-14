@@ -29,9 +29,8 @@ bio: 'Eurybia is a system in Elite Dangerous, significant from 3303-09-22 to 330
   Liz Ryder and Ishmael Palin to develop new defensive and offensive technologies
   against the Thargoids.; Aegis announces the successful conclusion of its appeal
   for Thargoid-related materials.'
+reserve: Low
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

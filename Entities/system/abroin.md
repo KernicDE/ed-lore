@@ -27,9 +27,8 @@ bio: Abroin is a star system in the Elite Dangerous universe, significant from 3
   plans to establish a research outpost in the Pleiades Nebula to study Thargoid activity.
   The organisation has placed an open order for semiconductors, lithium and energy
   grid assemblies for delivery to Campbell Horizons in the Abroin system.
+reserve: Pristine
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

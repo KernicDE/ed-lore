@@ -29,9 +29,8 @@ bio: Exphiay is a star system in the Elite Dangerous universe, significant from 
   President Hudson attended the 153rd annual Exphiay Bankers' Ball alongside Frank
   Hall of Gallant Investment, Paul Wiggins of Wiggins Development Trust, and Patricia
   Spellman of Sirius Finance.
+reserve: Low
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

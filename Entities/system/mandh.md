@@ -26,9 +26,8 @@ edsm_url: https://www.edsm.net/en/system/id/2939/name/Mandh
 inara_url: https://inara.cz/elite/starsystem/?search=Mandh
 bio: 'Mandh is a star system in the Elite Dangerous universe, significant from 3306-11-26
   to 3306-11-26. Associated with Imperial Senate, Pilots Federation, Federal Navy. '
+reserve: Common
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

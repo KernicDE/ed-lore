@@ -20,12 +20,11 @@ economy: High Tech
 second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system/id/2364/name/Carns
 inara_url: https://inara.cz/elite/starsystem/?search=Carns
-bio: 'An independent high-tech cooperative system, Carns underwent a controversial
+bio: An independent high-tech cooperative system, Carns underwent a controversial
   economic restructuring in mid-3301 when Humason Orbital shifted from mining to technology
-  operations, raising difficult questions about the fate of its imperial slave workforce.'
+  operations, raising difficult questions about the fate of its imperial slave workforce.
+reserve: Common
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

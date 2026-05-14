@@ -28,9 +28,8 @@ bio: 'Svari is a star system in the Elite Dangerous universe, significant from 3
   to 3301-10-08. Associated with Emperor''s Dawn, Imperial Internal Security Service.
   The Imperial Internal Security Service identified five additional systems containing
   Emperor''s Dawn bases: Namarii, Tabaldak, LTT 874, Shambhala, and Svari.'
+reserve: Depleted
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

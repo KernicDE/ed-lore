@@ -28,9 +28,8 @@ bio: Lunguni is a star system in the Elite Dangerous universe, significant from 
   to 3304-03-31. Associated with Aegis. Admiral Aden Tanner announced the Acropolis
   has been dispatched to Lunguni while the Vanguard operates in Mentor, but both will
   periodically relocate for strategic effectiveness.
+reserve: Major
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

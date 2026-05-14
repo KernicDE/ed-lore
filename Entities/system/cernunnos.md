@@ -25,9 +25,8 @@ edsm_url: https://www.edsm.net/en/system/id/2055/name/Cernunnos
 inara_url: https://inara.cz/elite/starsystem/?search=Cernunnos
 bio: 'Cernunnos is a star system in the Elite Dangerous universe, significant from
   3301-11-04 to 3301-11-04. '
+reserve: Depleted
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

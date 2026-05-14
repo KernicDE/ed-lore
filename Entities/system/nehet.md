@@ -24,11 +24,10 @@ economy: High Tech
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system/id/10372/name/Nehet
 inara_url: https://inara.cz/elite/starsystem/?search=Nehet
-bio: 'An Imperial feudal system with high security, Nehet was the site of Princess
-  Arissa Lavigny-Duval''s early campaign against organised crime in 3301.'
+bio: An Imperial feudal system with high security, Nehet was the site of Princess
+  Arissa Lavigny-Duval's early campaign against organised crime in 3301.
+reserve: Depleted
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

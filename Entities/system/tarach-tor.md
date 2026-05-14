@@ -28,9 +28,8 @@ bio: Tarach Tor is a star system in the Elite Dangerous universe, significant fr
   3303-11-17 to 3303-11-24. Associated with Independent Leesti for Equality, Guardians
   of Tranquillity. Spokesperson General Hunter O'Brien stated the festival will showcase
   regional cuisine and libations from Tarach Tor's vineyards and breweries.
+reserve: Depleted
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

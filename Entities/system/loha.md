@@ -24,11 +24,10 @@ economy: Industrial
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system/id/6218/name/Loha
 inara_url: https://inara.cz/elite/starsystem/?search=Loha
-bio: 'A Federal industrial system where a long-standing corporate rivalry exploded
-  into open warfare in late 3304.'
+bio: A Federal industrial system where a long-standing corporate rivalry exploded
+  into open warfare in late 3304.
+reserve: Major
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

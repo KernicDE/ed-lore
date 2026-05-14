@@ -26,9 +26,8 @@ edsm_url: https://www.edsm.net/en/system/id/12198/name/Vamm
 inara_url: https://inara.cz/elite/starsystem/?search=Vamm
 bio: 'Vamm is a star system in the Elite Dangerous universe, significant from 3304-09-14
   to 3304-09-15. Associated with Alliance. '
+reserve: Major
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

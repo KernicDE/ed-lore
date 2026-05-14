@@ -30,9 +30,8 @@ bio: 'Tanmark is a system in Elite Dangerous, significant from 3301-02-24 to 330
   discovering they contain schematic diagrams...; The Defence Force of Tanmark and
   the Farmers Union of Kappa Fornacis announced success in increasing local Lucan
   Onionhead production.'
+reserve: Depleted
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

@@ -25,9 +25,8 @@ bio: Rahu is a star system in the Elite Dangerous universe, significant from 330
   to 3303-03-02. Associated with Alliance. Criminals attack an Alliance naval convoy
   in the Rahu system and attempt to abduct personnel for illegal slavery. The Alliance
   operation to rescue convoy crew from slavers in the Rahu system concludes successfully.
+reserve: Low
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

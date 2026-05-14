@@ -26,9 +26,8 @@ edsm_url: https://www.edsm.net/en/system/id/10562/name/Khasiri
 inara_url: https://inara.cz/elite/starsystem/?search=Khasiri
 bio: 'Khasiri is a star system in the Elite Dangerous universe, significant from 3301-02-13
   to 3301-02-13. Associated with Federal Navy. '
+reserve: Major
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

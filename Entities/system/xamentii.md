@@ -29,9 +29,8 @@ bio: Xamentii is a star system in the Elite Dangerous universe, significant from
   G 139-50, Cantjarisni, Rajukru, HIP 10175, Amahu, Leerham, BD-11 4280, and Louguala.
   The plague has been eradicated from Dajoar, Bastes, Maheou Ti, Eleu, Ochoeng, 20
   Ophiuchi, Una, Santjalan, BD-02 4304, Chongguls, Xamentii, and G 139-50.
+reserve: Common
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

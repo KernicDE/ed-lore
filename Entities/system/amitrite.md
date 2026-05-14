@@ -24,11 +24,10 @@ economy: Military
 second_economy: Tourism
 edsm_url: https://www.edsm.net/en/system/id/18453/name/Amitrite
 inara_url: https://inara.cz/elite/starsystem/?search=Amitrite
-bio: 'An Imperial military system with a tourism economy, Amitrite became a deadly
-  trap for refugees fleeing the Pegasi Pirate War in September 3301.'
+bio: An Imperial military system with a tourism economy, Amitrite became a deadly
+  trap for refugees fleeing the Pegasi Pirate War in September 3301.
+reserve: Depleted
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

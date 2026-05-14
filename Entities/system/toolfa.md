@@ -24,9 +24,8 @@ inara_url: https://inara.cz/elite/starsystem/?search=Toolfa
 bio: Toolfa is a star system in the Elite Dangerous universe, significant from 3301-02-25
   to 3301-02-25. Raw gold from Stone's discovery was found aboard his abandoned Sidewinder
   at Crook's Hub in Toolfa.
+reserve: Low
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

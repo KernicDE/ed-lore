@@ -30,9 +30,8 @@ bio: 'Lugh is a system in Elite Dangerous, significant from 3301-02-22 to 3301-0
   Lugh 6, killing an estimated 9,322 innocent Federal...; Chaos erupted in Alioth
   when Éamonn Uí Laoghire addressed crowds after his second failed attempt to gain
   an Alliance audience.'
+reserve: Common
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

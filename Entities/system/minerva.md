@@ -24,11 +24,10 @@ economy: High Tech
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system/id/5533/name/Minerva
 inara_url: https://inara.cz/elite/starsystem/?search=Minerva
-bio: 'An independent high-tech system that became the staging ground for Brewer Corporation''s
-  Trailblazer megaship fleet expansion in 3311.'
+bio: An independent high-tech system that became the staging ground for Brewer Corporation's
+  Trailblazer megaship fleet expansion in 3311.
+reserve: Low
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

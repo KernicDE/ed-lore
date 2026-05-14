@@ -28,9 +28,8 @@ bio: 'Robigo is a system in Elite Dangerous, significant from 3301-10-15 to 3302
   Notable events include: The technological plague continues to affect starports across
   inhabited space.; Several starports previously closed due to Unknown Artefact-related
   interference have been restored through the application of meta-alloys.'
+reserve: Pristine
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

@@ -27,9 +27,8 @@ inara_url: https://inara.cz/elite/starsystem/?search=Baltah%27Sine
 bio: Baltah'Sine is a star system in the Elite Dangerous universe, significant from
   3306-10-16 to 3307-12-20. Associated with NMLA, Marlinist Colonies. The Exiled Marlinist
   Assembly of Baltah'Sine takes control under Minister Octavia Volkov.
+reserve: Low
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

@@ -18,12 +18,11 @@ economy: Agriculture
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system/id/18263/name/Geras
 inara_url: https://inara.cz/elite/starsystem/?search=Geras
-bio: Geras is a Federal agricultural system known for Gerasian Gueuze Beer, a popular beverage
-  exported throughout the Federation. The system has been involved in various trade initiatives
-  and corporate activities.
+bio: Geras is a Federal agricultural system known for Gerasian Gueuze Beer, a popular
+  beverage exported throughout the Federation. The system has been involved in various
+  trade initiatives and corporate activities.
+reserve: Common
 ---
-
-
 
 # Geras
 

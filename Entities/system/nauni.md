@@ -28,9 +28,8 @@ bio: Nauni is a star system in the Elite Dangerous universe, significant from 33
   to 3308-02-11. Associated with Aegis. Carter Armstrong of Aegis Core announces Armstrong
   Enterprise in the Bhal system and Beaufoy Vision in the Nauni system are now open.
   Thargoid forces launch heavy assaults on the Dan, HIP 12314, and Nauni systems.
+reserve: Pristine
 ---
-
-
 
 Nauni is an independent corporate system home to over eight million inhabitants, governed by the Pilot Syndicate 4 faction with an industrial economy supported by extraction operations. Located in a region with connections to both the Pleiades and core systems, the system features Beaufoy Vision among its installations and has served as a strategic point for Aegis operations during the Thargoid conflict. Its medium security rating and substantial population make it a significant hub within its local region.
 

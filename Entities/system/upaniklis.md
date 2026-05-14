@@ -29,9 +29,8 @@ bio: 'Upaniklis is a system in Elite Dangerous, significant from 3305-11-08 to 3
   generation ship, the Golconda, is discovered in the Upaniklis system.; Zachary Rackham
   hosts a week-long trillionaire celebration in Beta Hydri, requesting rare goods
   from pilots.'
+reserve: Pristine
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

@@ -30,9 +30,8 @@ bio: Rishair is a star system in the Elite Dangerous universe, significant from 
   Brennus of Emperor's Grace intervened. High Inquisitor Mavia Kain of the Imperial
   Inquisition will meet Admiral Varrwen Mako Brennus of Emperor’s Grace at Lindblad
   Port in Rishair.
+reserve: Low
 ---
-
-
 
 Rishair is an independent system governed as a confederacy and home to over six million inhabitants, with an economy built on refinery and industrial processing. Controlled by the Browncoat Uprising faction, the system maintains its independence from direct superpower control while remaining embedded within the complex political networks of the surrounding region. Its medium security rating and substantial population make it a significant local power, capable of projecting influence across neighbouring systems.
 

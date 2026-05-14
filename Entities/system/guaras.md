@@ -27,9 +27,8 @@ bio: Guaras is a star system in the Elite Dangerous universe, significant from 3
   Blue Creative Partners is overseeing the initiative, asking pilots to deliver titanium,
   power converters, and superconductors. Hundreds of pilots delivered materials to
   Klimuk Ring and eliminated agitators in the Guaras system.
+reserve: Major
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

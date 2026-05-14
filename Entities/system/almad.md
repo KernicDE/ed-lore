@@ -28,9 +28,8 @@ bio: Almad is a star system in the Elite Dangerous universe, significant from 33
   to 3301-04-16. Associated with Mictlan Cartel. Evidence uncovered pointed to Almad
   criminals facilitating the Emperor's attack. Commanders can sign up at Heinkel City
   in Almad and Gutierrez Terminal in LTT 9810.
+reserve: Common
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

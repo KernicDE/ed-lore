@@ -25,9 +25,8 @@ bio: Tjakiri is a star system in the Elite Dangerous universe, significant from 
   to 3301-08-30. Associated with Kumo Crew, Imperial Navy. An Imperial Navy commando
   unit raided a hidden Kumo Crew forward command post in the Tjakiri system, finding
   evidence of recent occupation including ice in a glass.
+reserve: Pristine
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

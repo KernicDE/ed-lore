@@ -30,9 +30,8 @@ bio: 'Quivira is a system in Elite Dangerous, significant from 3301-04-13 to 330
   thousands of Imperial vessels attacking non-Imperial ships.; Senator Denton Patreus
   declared war on Quivira, sending thousands of Imperial vessels to attack non-Imperial
   ships.'
+reserve: Low
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

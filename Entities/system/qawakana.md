@@ -27,9 +27,8 @@ bio: Qa'wakana is a star system in the Elite Dangerous universe, significant fro
   6, with open orders for construction materials and a kill order on wanted ships.
   The Knights of Karma's campaign to establish a new mining facility in the Qa'wakana
   system concluded successfully, with material targets met.
+reserve: Common
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

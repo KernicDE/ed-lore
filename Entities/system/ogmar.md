@@ -27,9 +27,8 @@ bio: Ogmar is a star system in the Elite Dangerous universe, significant from 33
   a new Coriolis starport in the Ogmar system to support further expansion in the
   Colonia region. A huge number of deliveries to Dervish Platform will be used to
   build a new Coriolis starport in the Ogmar system.
+reserve: Pristine
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

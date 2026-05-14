@@ -27,9 +27,8 @@ bio: Vestani is a star system in the Elite Dangerous universe, significant from 
   to Rose Terminal. Retailer Vestani Conservatives appeals for luxury commodities
   including Thrutis Cream, Deuringas Truffles and Esuseku Caviar to meet Valentine's
   Day demand.
+reserve: Pristine
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

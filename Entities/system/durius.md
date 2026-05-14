@@ -22,9 +22,8 @@ bio: Durius is a star system in the Elite Dangerous universe, significant from 3
   to 3301-02-16. The temporary sale of Imperial Slaves from Durius has ended after
   12,070 citizens underwent debt relief retraining and were exported to other parts
   of the Empire.
+reserve: Depleted
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

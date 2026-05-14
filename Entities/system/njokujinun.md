@@ -24,9 +24,8 @@ bio: Njokujinun is a star system in the Elite Dangerous universe, significant fr
   3302-01-10 to 3302-01-10. The first annual Galactic Base-Jumping Open begins on
   Planet 1 in the Njokujinun system, with base-jump champion Commander Burias authorizing
   jumps.
+reserve: Major
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

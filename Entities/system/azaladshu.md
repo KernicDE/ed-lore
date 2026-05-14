@@ -24,12 +24,11 @@ economy: Industrial
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system/id/11780/name/Azaladshu
 inara_url: https://inara.cz/elite/starsystem/?search=Azaladshu
-bio: 'A Federation industrial corporate system with over fifty million inhabitants,
-  Azaladshu became the flashpoint for a dramatic secession crisis in mid-3307 when the
-  Azaladshu Free faction declared independence from the Federation.'
+bio: A Federation industrial corporate system with over fifty million inhabitants,
+  Azaladshu became the flashpoint for a dramatic secession crisis in mid-3307 when
+  the Azaladshu Free faction declared independence from the Federation.
+reserve: Major
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

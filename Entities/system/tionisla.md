@@ -29,9 +29,8 @@ bio: 'Tionisla is a system in Elite Dangerous, significant from 3302-08-05 to 33
   has entered a period of political campaigning prior to the election of a new prime
   minister.; Nakato Kaine''s Tionisla delivery campaign fails to reach its target,
   with Yong-Rui blaming Assembly obstruction and Kaine reaffirming Alliance self...'
+reserve: Depleted
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

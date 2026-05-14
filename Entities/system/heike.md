@@ -29,9 +29,8 @@ bio: 'Heike is a system in Elite Dangerous, significant from 3301-07-29 to 3305-
   pilots who delivered medicines to the Bast system.; The Buckyball Racing Club is
   hosting a tribute race at Hart Station in the Bast system to honour the independent
   pilots who helped discover and dis...'
+reserve: Pristine
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

@@ -22,9 +22,8 @@ edsm_url: https://www.edsm.net/en/system/id/11535/name/Andavandul
 inara_url: https://inara.cz/elite/starsystem/?search=Andavandul
 bio: 'Andavandul is a star system in the Elite Dangerous universe, significant from
   3308-11-24 to 3308-11-24. '
+reserve: Pristine
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

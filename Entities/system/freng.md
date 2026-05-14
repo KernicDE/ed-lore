@@ -26,9 +26,8 @@ edsm_url: https://www.edsm.net/en/system/id/12551/name/Freng
 inara_url: https://inara.cz/elite/starsystem/?search=Freng
 bio: 'Freng is a star system in the Elite Dangerous universe, significant from 3302-09-01
   to 3302-09-02. Associated with United Research Council. '
+reserve: Common
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

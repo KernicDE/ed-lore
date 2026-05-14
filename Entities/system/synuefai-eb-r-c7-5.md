@@ -29,9 +29,8 @@ bio: 'Synuefai EB-R c7-5 is a system in Elite Dangerous, significant from 3304-0
   shot during her trial, the FIA investigation into ...; The Alliance has announced
   plans to build an Orbis starport in the Synuefai EB-R c7-5 system, between the core
   systems and the Alliance''s Californi...'
+reserve: Pristine
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

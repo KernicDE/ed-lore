@@ -24,12 +24,11 @@ economy: Extraction
 second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system/id/13785/name/Dakshmandi
 inara_url: https://inara.cz/elite/starsystem/?search=Dakshmandi
-bio: 'An independent feudal system in the fringes of Imperial space, Dakshmandi concealed
-  one of several Emperor''s Dawn insurgent cells uncovered by the Imperial Internal
-  Security Service in late 3301.'
+bio: An independent feudal system in the fringes of Imperial space, Dakshmandi concealed
+  one of several Emperor's Dawn insurgent cells uncovered by the Imperial Internal
+  Security Service in late 3301.
+reserve: Depleted
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

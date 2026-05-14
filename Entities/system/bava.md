@@ -28,9 +28,8 @@ bio: Bava is a star system in the Elite Dangerous universe, significant from 330
   to 3302-07-21. Associated with Empire, Bava Blue Travel Systems, Federation. The
   Empire has launched a campaign to find additional barnacles by asking pilots to
   deliver exploration data to Bauschinger City in the Bava system.
+reserve: Major
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

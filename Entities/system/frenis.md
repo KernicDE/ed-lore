@@ -22,9 +22,8 @@ bio: Frenis is a star system in the Elite Dangerous universe, significant from 3
   to 3310-10-29. Treasure hunter Herman Colt goes missing during an expedition to
   find Captain Morrigan's final treasure hoard near Frenis, prompting concern from
   colleague Natasha Moore.
+reserve: Pristine
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

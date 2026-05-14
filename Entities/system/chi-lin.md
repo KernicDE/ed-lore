@@ -24,12 +24,11 @@ economy: Industrial
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system/id/4487/name/Ch%27i%20Lin
 inara_url: https://inara.cz/elite/starsystem/?search=Ch%27i%20Lin
-bio: 'An Imperial industrial dictatorship controlled by the Imperial Navy Australia
-  faction, Ch''i Lin concealed one of several Emperor''s Dawn insurgent cells discovered
-  by the Imperial Internal Security Service in late 3301.'
+bio: An Imperial industrial dictatorship controlled by the Imperial Navy Australia
+  faction, Ch'i Lin concealed one of several Emperor's Dawn insurgent cells discovered
+  by the Imperial Internal Security Service in late 3301.
+reserve: Common
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

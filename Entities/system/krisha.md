@@ -30,9 +30,8 @@ bio: Krisha is a star system in the Elite Dangerous universe, significant from 3
   of systems within Archon's domain; success means acceptance into the Kumo Crew,
   failure means disappearance. The Hand Gang of Gandii and Camorra of Krisha's call
   for Kumo Crew allies yielded disappointing recruitment.
+reserve: Pristine
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

@@ -30,9 +30,8 @@ bio: 'Facece is a system in Elite Dangerous, significant from 3301-03-20 to 3302
   crime to manageable levels.; Following her address from the Imperial Palace, Princess
   Arissa Lavigny-Duval revealed her speech was directed at the unknown assailant who
   attacke...'
+reserve: Depleted
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

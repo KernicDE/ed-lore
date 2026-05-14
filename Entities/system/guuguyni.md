@@ -26,9 +26,8 @@ bio: Guuguyni is a star system in the Elite Dangerous universe, significant from
   has announced plans to fund a peacekeeping operation in the Guuguyni system to neutralize
   an illegal slave-trading ring. Princess Aisling Duval's anti-slavery campaign in
   the Guuguyni system has concluded successfully.
+reserve: Major
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

@@ -5,7 +5,6 @@ type: system
 first_seen_date: '3301-02-19'
 last_seen_date: '3301-02-19'
 mention_count: 4
-
 related_entities:
 - dirichlet-orbital
 - yum-kamcabi-purple-life-industry
@@ -23,24 +22,10 @@ economy: Refinery
 second_economy: Terraforming
 edsm_url: https://www.edsm.net/en/system/id/9040/name/Yum%20Kamcabi
 inara_url: https://inara.cz/elite/starsystem/?search=Yum%20Kamcabi
-
-coords:
-  x: 35.84375
-  y: 97.65625
-  z: -14.21875
-allegiance: Independent
-government: Corporate
-population: 246938
-security: Medium
-economy: Refinery
-second_economy: Terraforming
-edsm_url: https://www.edsm.net/en/system/id/9040/name/Yum%20Kamcabi
-inara_url: https://inara.cz/elite/starsystem/?search=Yum%20Kamcabi
 bio: Yum Kamcabi is a star system that has been involved in various trade and political
   activities. It serves as a waypoint for commercial traffic in its region.
+reserve: Major
 ---
-
-
 
 # Yum Kamcabi
 

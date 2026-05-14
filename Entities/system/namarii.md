@@ -24,12 +24,11 @@ economy: Industrial
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system/id/2686/name/Namarii
 inara_url: https://inara.cz/elite/starsystem/?search=Namarii
-bio: 'An Imperial industrial system with high security, Namarii was identified as
-  one of five locations containing bases belonging to the insurgent organisation Emperor''s
-  Dawn during the 3301 succession crisis.'
+bio: An Imperial industrial system with high security, Namarii was identified as one
+  of five locations containing bases belonging to the insurgent organisation Emperor's
+  Dawn during the 3301 succession crisis.
+reserve: Low
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

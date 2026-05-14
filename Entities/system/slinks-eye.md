@@ -26,9 +26,8 @@ bio: Slink's Eye is a star system in the Elite Dangerous universe, significant f
   forces in the Slink's Eye system reported a dramatic upswing in pirate activity.
   The Revolutionary Slink's Eye Liberals placed a kill order on wanted ships and requested
   deliveries of reactive armour to Kelleam Ring to bolster security.
+reserve: Common
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

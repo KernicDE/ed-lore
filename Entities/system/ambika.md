@@ -21,12 +21,11 @@ economy: Industrial
 second_economy: Colony
 edsm_url: https://www.edsm.net/en/system/id/1480/name/Ambika
 inara_url: https://inara.cz/elite/starsystem/?search=Ambika
-bio: 'An independent industrial cooperative system, Ambika suffered severe famine and
+bio: An independent industrial cooperative system, Ambika suffered severe famine and
   civil unrest in August 3302 that prompted the Union Party to launch emergency relief
-  and anti-piracy operations.'
+  and anti-piracy operations.
+reserve: Pristine
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

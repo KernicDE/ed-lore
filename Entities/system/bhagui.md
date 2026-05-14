@@ -24,12 +24,11 @@ economy: Industrial
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system/id/13870/name/Bhagui
 inara_url: https://inara.cz/elite/starsystem/?search=Bhagui
-bio: 'A Federal industrial corporate system with four and a half million inhabitants,
+bio: A Federal industrial corporate system with four and a half million inhabitants,
   Bhagui briefly attracted galactic attention in late 3304 when its citizens attempted
-  to resurrect the ancient Earth tradition of Oktoberfest.'
+  to resurrect the ancient Earth tradition of Oktoberfest.
+reserve: Pristine
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

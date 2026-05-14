@@ -29,9 +29,8 @@ bio: 'Sosong is a system in Elite Dangerous, significant from 3308-04-21 to 3308
   the Didio, Novas, and Sosong systems, placing over ten billion lives at risk.; Sirius
   Corporation claims the Thargoid incursions prove the necessity of its strategic
   defence pact with the Alliance.'
+reserve: Major
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

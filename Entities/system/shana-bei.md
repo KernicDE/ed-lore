@@ -27,9 +27,8 @@ bio: Shana Bei is a star system in the Elite Dangerous universe, significant fro
   the Shana Bei system. Evangeline's Elite Expeditionary Force successfully completes
   construction of the megaship EFS Archangel in the Shana Bei system following pilot-supported
   material deliveries.
+reserve: Major
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

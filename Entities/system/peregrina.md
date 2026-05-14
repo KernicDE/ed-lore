@@ -26,9 +26,8 @@ edsm_url: https://www.edsm.net/en/system/id/11593/name/Peregrina
 inara_url: https://inara.cz/elite/starsystem/?search=Peregrina
 bio: Peregrina is a star system in the Elite Dangerous universe, significant from
   3302-01-04 to 3302-02-24.
+reserve: Depleted
 ---
-
-
 
 Peregrina is a small independent cooperative system governed by the Co-operative of Peregrina, home to approximately eighteen thousand inhabitants with an extraction-based economy supported by colony development. Located in a remote region far from the core worlds, the system maintains connections to multiple nearby territories including 49 Arietis, 64 Arietis, Arawere, Diaguandri, and Harma. Its low security rating and tiny population place it among the most vulnerable independent systems, dependent on good relations with neighbours and the protective presence of independent pilots.
 

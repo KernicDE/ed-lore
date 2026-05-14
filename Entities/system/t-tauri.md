@@ -29,9 +29,8 @@ bio: 'T Tauri is a system in Elite Dangerous, significant from 3307-05-07 to 330
   include: The mysterious figure ''Salvation'' sends a message to pilots who discovered
   the Hesperus, authorising Taurus Mining Ventures to pay for logs and pro...; Pilots
   report new contact from ''Salvation'' near the Hesperus and Adamastor.'
+reserve: Pristine
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

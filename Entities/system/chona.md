@@ -29,9 +29,8 @@ bio: Chona is a star system in the Elite Dangerous universe, significant from 33
   Navy. The Thirteenth Legion established its base on Chona. The treaty, originally
   signed on July 17th 3301 to focus on the Imperial offensive against Archon Delaine,
   was dissolved in a press conference aboard Smoot Station in Chona.
+reserve: Common
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

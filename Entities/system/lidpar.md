@@ -26,9 +26,8 @@ bio: Lidpar is a star system in the Elite Dangerous universe, significant from 3
   system reported a sharp increase in criminals attacking pilots and disrupting trade.
   The Union of Lidpar Green Party placed a kill order on wanted ships and requested
   battle weapons, reactive armour and advanced medicines for local security forces.
+reserve: Common
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

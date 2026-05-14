@@ -26,9 +26,8 @@ bio: TZ Arietis is a star system in the Elite Dangerous universe, significant fr
   3309-01-12 to 3309-01-12. Associated with Azimuth Biotech. Azimuth Biotech unveils
   its experimental weapons stabiliser at the TZ Arietis Weapon Expo and condemns Admiral
   Tanner's recent presidential pardon.
+reserve: Low
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

@@ -29,9 +29,8 @@ bio: 'Fedmich is a system in Elite Dangerous, significant from 3303-01-26 to 330
   covering Vanya Driscoll''s analysis of Alliance presidential candidates, Lloyd Hardacre''s
   arrest after his robot exposed corporate fr...; An Alliance convoy transporting
   personnel and military equipment is attacked in the Fedmich system.'
+reserve: Major
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

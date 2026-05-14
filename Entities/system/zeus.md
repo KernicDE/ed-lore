@@ -27,9 +27,8 @@ bio: Zeus is a star system in the Elite Dangerous universe, significant from 330
   Irukama Snails, Kamitra Cigars, and Lavian Brandy. The Zeus Bureau's appeal for
   luxury goods reached a successful conclusion, with the event boosting Zeus's economy
   and attracting the Wells-class carrier The Midas.
+reserve: Depleted
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

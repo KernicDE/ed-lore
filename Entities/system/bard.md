@@ -28,9 +28,8 @@ bio: Bard is a star system in the Elite Dangerous universe, significant from 330
   to 3302-03-29. Associated with Jeffress treasure hunt organisers. Thousands of pilots
   competed, solving riddles that led through Persephone in the Avalon system, Arrhenius
   Terminal in Bard, and finally to the Algol system.
+reserve: Pristine
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

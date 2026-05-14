@@ -29,9 +29,8 @@ bio: 'Cemiess is a system in Elite Dangerous, significant from 3301-02-21 to 330
   Relay in the Cemiess system was thwarted by the Imperial Internal Security Service.;
   Lady Kahina Tijani Loren, former senator of the Prism system, has been charged in
   connection with the attempted assassination of Admiral Denton Pat...'
+reserve: Low
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

@@ -24,11 +24,10 @@ economy: Agriculture
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system/id/6709/name/Betel
 inara_url: https://inara.cz/elite/starsystem/?search=Betel
-bio: 'A small independent agricultural democracy, Betel experienced a brief but intense
-  civil conflict in late 3304 between the Silver Creative Network and Betel Free factions.'
+bio: A small independent agricultural democracy, Betel experienced a brief but intense
+  civil conflict in late 3304 between the Silver Creative Network and Betel Free factions.
+reserve: Depleted
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

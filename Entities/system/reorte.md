@@ -29,9 +29,8 @@ bio: 'Reorte is a system in Elite Dangerous, significant from 3301-04-26 to 3311
   Mining Coalition succeeds in forcing Sirius Corporation to withdraw from the Reorte
   system.; The Reorte Pro-Alliance League''s victory ensures Reorte remains within
   the Alliance.'
+reserve: Depleted
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

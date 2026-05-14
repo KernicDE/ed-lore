@@ -24,11 +24,10 @@ economy: Industrial
 second_economy: Colony
 edsm_url: https://www.edsm.net/en/system/id/6795/name/Gandii
 inara_url: https://inara.cz/elite/starsystem/?search=Gandii
-bio: 'A Federal democratic system with an industrial economy, Gandii became a proving
-  ground for aspiring pirates seeking entry into the Kumo Crew.'
+bio: A Federal democratic system with an industrial economy, Gandii became a proving
+  ground for aspiring pirates seeking entry into the Kumo Crew.
+reserve: Major
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

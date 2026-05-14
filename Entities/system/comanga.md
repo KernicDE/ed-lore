@@ -26,9 +26,8 @@ edsm_url: https://www.edsm.net/en/system/id/3779/name/Comanga
 inara_url: https://inara.cz/elite/starsystem/?search=Comanga
 bio: 'Comanga is a star system in the Elite Dangerous universe, significant from 3301-08-13
   to 3301-08-13. Associated with Kumo Crew, Sirius Corporation. '
+reserve: Major
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

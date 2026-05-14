@@ -26,9 +26,8 @@ bio: Nu Tauri is a star system in the Elite Dangerous universe, significant from
   a year ago with support from Commanders across the galaxy, has announced plans to
   construct a new asteroid base among the rings of Nu Tauri 5. The new asteroid base
   among the rings of Nu Tauri 5 is now under construction.
+reserve: Common
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

@@ -26,9 +26,8 @@ edsm_url: https://www.edsm.net/en/system/id/13728538/name/Los
 inara_url: https://inara.cz/elite/starsystem/?search=Los
 bio: 'Los is a star system in the Elite Dangerous universe, significant from 3304-08-29
   to 3304-08-29. '
+reserve: Pristine
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

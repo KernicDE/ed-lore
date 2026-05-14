@@ -29,9 +29,8 @@ bio: 'Arque is a system in Elite Dangerous, significant from 3302-08-18 to 3310-
   Palin completes the first phase of his Thargoid research project after receiving
   meta-alloy shipments.; Professor Ishmael Palin launches phase two of his Thargoid
   research project, requesting fresh alien artefacts for study.'
+reserve: Low
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

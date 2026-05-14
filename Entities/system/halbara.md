@@ -25,9 +25,8 @@ bio: Halbara is a star system in the Elite Dangerous universe, significant from 
   to 3302-05-06. Associated with Carmack Intergalactic Mining Association. Benjamin
   Gorrister, founder of the Carmack Intergalactic Mining Association, honours the
   winners of the CIMA prospectors competition at Wasden Colony in Halbara.
+reserve: Major
 ---
-
-
 
 Halbara is an independent system governed by the Workers of Halbara People's Party under a communist administration, home to approximately 3.7 million inhabitants with an industrial economy supported by colony development. Located in a region with connections to multiple mining and extraction territories, the system has cultivated a distinct political identity that sets it apart from the corporate-dominated or aristocratic governance models prevalent in neighbouring space. Its medium security rating reflects both its relative stability and the ongoing challenges of maintaining order across a dispersed population.
 

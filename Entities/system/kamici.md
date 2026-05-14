@@ -26,9 +26,8 @@ bio: Kamici is a star system in the Elite Dangerous universe, significant from 3
   report a rise in criminals attacking pilots and disrupting trade. Kamici Incorporated
   places a kill order on wanted ships and promises rewards for bounty vouchers delivered
   to Gaiman Port.
+reserve: Common
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

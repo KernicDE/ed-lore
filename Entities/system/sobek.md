@@ -30,9 +30,8 @@ bio: Sobek is a star system in the Elite Dangerous universe, significant from 33
   criminal syndicate based in the Sobek system. Mercenary pilot Ivan Shevchenko noted
   the Sobek Boys were well-organised with heavily reinforced ships, making them a
   formidable opponent.
+reserve: Depleted
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

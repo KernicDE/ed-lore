@@ -24,9 +24,8 @@ bio: Dulos is a star system in the Elite Dangerous universe, significant from 33
   to 3308-01-20. Senator Zemina Torval's company bids to acquire a mining contract
   from Caine-Massey in the Dulos system. Caine-Massey and Torval Mining Ltd compete
   for a decade-long mining contract in the Dulos system.
+reserve: Common
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

@@ -27,9 +27,8 @@ inara_url: https://inara.cz/elite/starsystem/?search=Celaeno
 bio: Celaeno is a star system in the Elite Dangerous universe, significant from 3303-11-14
   to 3303-12-02. An intriguing message has been discovered in the Celaeno system,
   recovered from a listening post.
+reserve: Pristine
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

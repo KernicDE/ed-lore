@@ -28,9 +28,8 @@ bio: Deciat is a star system in the Elite Dangerous universe, significant from 3
   to 3304-07-01. Associated with Aegis. Aegis confirms Thargoids have returned to
   the core systems with an incursion into Deciat. Admiral Aden Tanner reports Eagle
   Eye data shows Thargoid surface sites have reactivated, pinpointing Deciat.
+reserve: Major
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

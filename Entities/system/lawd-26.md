@@ -28,9 +28,8 @@ bio: LAWD 26 is a star system in the Elite Dangerous universe, significant from 
   to 3301-02-28. A metal rush has begun in LAWD 26 after the discovery of a pristine
   mining site by the late prospector Hank Stone. The ship's owner, Hank Stone, had
   spent the last month mining precious metals in the LAWD 26 system.
+reserve: Pristine
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

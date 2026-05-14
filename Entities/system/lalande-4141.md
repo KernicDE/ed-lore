@@ -28,9 +28,8 @@ bio: Lalande 4141 is a star system in the Elite Dangerous universe, significant 
   3304-06-01 to 3304-06-03. Associated with Aegis, Federal Times. Admiral Aden Tanner
   tells the Federal Times that without this data, more starports would have been attacked,
   citing successful resistance in Lwalama and Lalande 4141 due to early warnings.
+reserve: Low
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

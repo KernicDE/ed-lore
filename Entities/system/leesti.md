@@ -29,9 +29,8 @@ bio: 'Leesti is a system in Elite Dangerous, significant from 3301-04-03 to 3308
   Mining Coalition succeeds in forcing Sirius Corporation to withdraw from the Reorte
   system.; Sirius Corporation organises humanitarian support for the Didio system
   under Thargoid attack.'
+reserve: Low
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

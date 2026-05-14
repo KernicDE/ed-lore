@@ -26,9 +26,8 @@ edsm_url: https://www.edsm.net/en/system/id/10120/name/Unkulcay
 inara_url: https://inara.cz/elite/starsystem/?search=Unkulcay
 bio: 'Unkulcay is a star system in the Elite Dangerous universe, significant from
   3302-01-22 to 3302-01-22. Associated with Buckyball Racing Club. '
+reserve: Pristine
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

@@ -26,9 +26,8 @@ edsm_url: https://www.edsm.net/en/system/id/769/name/Orgen
 inara_url: https://inara.cz/elite/starsystem/?search=Orgen
 bio: 'Orgen is a star system in the Elite Dangerous universe, significant from 3311-03-19
   to 3311-03-19. '
+reserve: Pristine
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

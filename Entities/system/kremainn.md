@@ -27,9 +27,8 @@ bio: Kremainn is a star system in the Elite Dangerous universe, significant from
   to 3301-06-22. Associated with Adle's Armada, Federation. They will now operate
   as their own power primarily in Ngaliba, Mbukuravi, and Kremainn, creating their
   own governance system.
+reserve: Common
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

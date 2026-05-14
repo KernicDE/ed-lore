@@ -29,9 +29,8 @@ bio: Zibal is a star system in the Elite Dangerous universe, significant from 33
   launches a campaign to eliminate League of Reparation strongholds in Zibal and Ienpalang.
   The operation in Zibal is coordinated by Zibal Power Co, while Ienpalang Corporation
   supports action in Ienpalang.
+reserve: Major
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

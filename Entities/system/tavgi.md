@@ -27,9 +27,8 @@ bio: Tavgi is a star system in the Elite Dangerous universe, significant from 33
   to 3309-04-06. Associated with Imperial Senate. The Caine-Massey/Torval Mining conflict
   escalates into open combat in the Tavgi system, with both superpowers' naval forces
   placed on alert.
+reserve: Major
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

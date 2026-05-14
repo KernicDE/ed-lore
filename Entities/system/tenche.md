@@ -27,9 +27,8 @@ inara_url: https://inara.cz/elite/starsystem/?search=Tenche
 bio: 'Tenche is a star system in the Elite Dangerous universe, significant from 3306-09-17
   to 3306-09-21. Associated with Kavanagh Spaceframes Ltd, Steel Castle Inc, Pilots
   Federation. '
+reserve: Major
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

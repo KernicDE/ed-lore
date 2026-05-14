@@ -24,11 +24,10 @@ economy: Extraction
 second_economy: None
 edsm_url: https://www.edsm.net/en/system/id/18918/name/Pic%20Tok
 inara_url: https://inara.cz/elite/starsystem/?search=Pic%20Tok
-bio: 'An independent extraction system that was affected by the technological plague
-  crisis of early 3302, home to Lobachevsky Outpost.'
+bio: An independent extraction system that was affected by the technological plague
+  crisis of early 3302, home to Lobachevsky Outpost.
+reserve: Pristine
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

@@ -25,9 +25,8 @@ edsm_url: https://www.edsm.net/en/system/id/4827/name/Omicron%20Capricorni%20B
 inara_url: https://inara.cz/elite/starsystem/?search=Omicron%20Capricorni%20B
 bio: 'Omicron Capricorni B is a star system in the Elite Dangerous universe, significant
   from 3302-09-07 to 3302-09-07. Associated with Buckyball Racing Club, Pilots Federation. '
+reserve: Pristine
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

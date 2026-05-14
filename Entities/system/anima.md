@@ -24,12 +24,11 @@ economy: Industrial
 second_economy: Colony
 edsm_url: https://www.edsm.net/en/system/id/8038/name/Anima
 inara_url: https://inara.cz/elite/starsystem/?search=Anima
-bio: 'An Imperial industrial patronage system with nearly three million inhabitants,
+bio: An Imperial industrial patronage system with nearly three million inhabitants,
   Anima served as a logistical hub for Herculean Machines during a major supply drive
-  in late 3304.'
+  in late 3304.
+reserve: Major
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

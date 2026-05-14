@@ -30,9 +30,8 @@ bio: 'Diso is a system in Elite Dangerous, significant from 3301-05-08 to 3307-0
   for a second term.; Weekly summary covering the murder of INRA descendant Luca Hem
   by the League of Reparation, Aisling Duval hosting Jordan Rochester and Caspian
   Leop...'
+reserve: Depleted
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

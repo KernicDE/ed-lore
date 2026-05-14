@@ -29,9 +29,8 @@ bio: Cantjarisni is a star system in the Elite Dangerous universe, significant f
   Xamentii, G 139-50, Cantjarisni, Rajukru, HIP 10175, Amahu, Leerham, BD-11 4280,
   and Louguala. Affected systems include Cantjarisni, Rajukru, HIP 10175, Amahu, Leerham,
   BD-11 4280, and Louguala.
+reserve: Common
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

@@ -24,11 +24,10 @@ economy: Tourism
 second_economy: Colony
 edsm_url: https://www.edsm.net/en/system/id/2368/name/Banki
 inara_url: https://inara.cz/elite/starsystem/?search=Banki
-bio: 'A small independent tourism system, Banki was briefly occupied by the Nijotec
-  Syndicate before Federal forces reclaimed it in February 3301.'
+bio: A small independent tourism system, Banki was briefly occupied by the Nijotec
+  Syndicate before Federal forces reclaimed it in February 3301.
+reserve: Major
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

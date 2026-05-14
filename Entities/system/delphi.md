@@ -29,9 +29,8 @@ bio: 'Delphi is a system in Elite Dangerous, significant from 3305-07-04 to 3309
   invade the Delphi system and multiple systems in the California, Coalsack and Pleiades
   Nebulas.; The Alexandria megaship jumps from Delphi to HIP 16538, triggering a Thargoid
   attack.'
+reserve: Pristine
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

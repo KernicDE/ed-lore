@@ -24,11 +24,10 @@ economy: High Tech
 second_economy: Agriculture
 edsm_url: https://www.edsm.net/en/system/id/8420/name/Duamta
 inara_url: https://inara.cz/elite/starsystem/?search=Duamta
-bio: 'A populous Federal corporate system, Duamta became a critical manufacturing
-  hub for Aegis during the Thargoid Titan War in 3309.'
+bio: A populous Federal corporate system, Duamta became a critical manufacturing hub
+  for Aegis during the Thargoid Titan War in 3309.
+reserve: Low
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

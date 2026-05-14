@@ -30,9 +30,8 @@ bio: 'Harma is a system in Elite Dangerous, significant from 3301-06-03 to 3309-
   as rewards, while Corcoran criticizes the ...; Azimuth''s convention succeeds and
   the new Overcharged Gimballed AX Multi-Cannon with Auto Loader is released, with
   speculation about Holloway Biosc...'
+reserve: Pristine
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

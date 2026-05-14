@@ -30,9 +30,8 @@ bio: '42 n Persei is a system in Elite Dangerous, significant from 3304-01-05 to
   the first such incursion since the P...; Xeno-peace activist Timothy Culver argues
   that Thargoid incursions are defensive reprisals for the Proteus Wave and mycoid
   bioweapon, calling for d...'
+reserve: Pristine
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

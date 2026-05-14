@@ -29,9 +29,8 @@ bio: Polahukuna is a star system in the Elite Dangerous universe, significant fr
   his intention to pursue the invaders back to their homes in Polahukuna. Vincent
   stated that the Federation will not allow terrorists to break its laws or brainwash
   its people, and that the Polahukuna Raiders must learn their actions have consequences.
+reserve: Pristine
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

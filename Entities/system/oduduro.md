@@ -27,9 +27,8 @@ bio: Oduduro is a star system in the Elite Dangerous universe, significant from 
   to 3301-06-10. Associated with Federal Liberal Party, Sirius Corporation. Winters'
   media agents are spreading information packages in Oduduro to keep residents within
   the Federation.
+reserve: Common
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

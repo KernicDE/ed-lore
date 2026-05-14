@@ -29,9 +29,8 @@ bio: Parutis is a star system in the Elite Dangerous universe, significant from 
   announces its first full-length race of 3303, Tunnel Vision, requiring competitors
   to navigate tunnels at scientific and military installations between Malaikudi and
   Parutis.
+reserve: Low
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

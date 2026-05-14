@@ -24,12 +24,11 @@ economy: High Tech
 second_economy: Terraforming
 edsm_url: https://www.edsm.net/en/system/id/29543/name/Ceos
 inara_url: https://inara.cz/elite/starsystem/?search=Ceos
-bio: 'A Federation high-tech and terraforming colony on the fringes of inhabited space,
+bio: A Federation high-tech and terraforming colony on the fringes of inhabited space,
   Ceos became a focal point for Sirius Corporation expansion and meta-alloy research
-  in the early 3300s.'
+  in the early 3300s.
+reserve: Pristine
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

@@ -27,9 +27,8 @@ inara_url: https://inara.cz/elite/starsystem/?search=Dan
 bio: Dan is a star system in the Elite Dangerous universe, significant from 3308-02-11
   to 3308-02-11. Associated with Aegis, Salvation. Thargoid forces launch heavy assaults
   on the Dan, HIP 12314, and Nauni systems.
+reserve: Pristine
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

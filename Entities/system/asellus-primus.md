@@ -31,9 +31,8 @@ bio: Asellus Primus is a star system in the Elite Dangerous universe, significan
   safety of inexperienced pilots. The Pilots Federation announces the successful conclusion
   of its campaign to clear agitators from the LHS 3447, Eravate and Asellus Primus
   systems.
+reserve: Common
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

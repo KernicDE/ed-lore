@@ -18,11 +18,11 @@ economy: Agriculture
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system/id/23616/name/Tekkeitjal
 inara_url: https://inara.cz/elite/starsystem/?search=Tekkeitjal
-bio: Tekkeitjal is an Alliance system that came under Thargoid invasion in 3308. The system
-  was later involved in Thargoid abduction operations, with captives taken from the population.
+bio: Tekkeitjal is an Alliance system that came under Thargoid invasion in 3308. The
+  system was later involved in Thargoid abduction operations, with captives taken
+  from the population.
+reserve: Pristine
 ---
-
-
 
 # Tekkeitjal
 

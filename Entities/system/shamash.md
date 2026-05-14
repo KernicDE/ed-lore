@@ -23,9 +23,8 @@ bio: Shamash is a star system in the Elite Dangerous universe, significant from 
   triggers mass violent mania during Fleet Exercise Grey Swan. The Grey Swan fleet
   in Shamash must be destroyed after crews become homicidal from an unexplained mass
   hysteria, with no cure found.
+reserve: Common
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

@@ -28,9 +28,8 @@ bio: Aramzahd is a star system in the Elite Dangerous universe, significant from
   The Annual Galactic Games Organisation will hold the Gathering 3302 at Norman–Mavis's
   Bingo Palace in the Aramzahd system. The Aramzahd Empire Party has requested rare
   foods and alcohol, and issued a kill order on wanted ships for event security.
+reserve: Depleted
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

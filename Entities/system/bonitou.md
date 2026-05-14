@@ -26,9 +26,8 @@ edsm_url: https://www.edsm.net/en/system/id/12345/name/Bonitou
 inara_url: https://inara.cz/elite/starsystem/?search=Bonitou
 bio: 'Bonitou is a star system in the Elite Dangerous universe, significant from 3301-07-09
   to 3301-07-09. Associated with Utopia. '
+reserve: Common
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

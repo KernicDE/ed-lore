@@ -24,12 +24,11 @@ economy: Agriculture
 second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system/id/15341/name/Daramo
 inara_url: https://inara.cz/elite/starsystem/?search=Daramo
-bio: 'An independent agricultural cooperative system with over two billion inhabitants,
+bio: An independent agricultural cooperative system with over two billion inhabitants,
   Daramo became a battlefield in June 3302 when Imperial and pirate forces simultaneously
-  attempted to seize it from Federation-aligned controllers.'
+  attempted to seize it from Federation-aligned controllers.
+reserve: Common
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

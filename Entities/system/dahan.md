@@ -28,9 +28,8 @@ bio: Dahan is a star system in the Elite Dangerous universe, significant from 33
   to 3301-12-21. Associated with Alliance. Following the failed Federal invasion of
   Eranin in late 3300, Federal and Alliance campaigners clashed politically in the
   Dahan sector.
+reserve: Depleted
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

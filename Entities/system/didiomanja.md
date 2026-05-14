@@ -24,11 +24,10 @@ economy: Terraforming
 second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system/id/1525/name/Didiomanja
 inara_url: https://inara.cz/elite/starsystem/?search=Didiomanja
-bio: 'A Federal corporate system with a terraforming economy, Didiomanja became home
-  to an Imperial naval flight school in 3304.'
+bio: A Federal corporate system with a terraforming economy, Didiomanja became home
+  to an Imperial naval flight school in 3304.
+reserve: Pristine
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

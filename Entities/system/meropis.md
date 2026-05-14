@@ -26,9 +26,8 @@ bio: Meropis is a star system in the Elite Dangerous universe, significant from 
   to 3302-07-21. Associated with EG Pilots, The Sovereign. The final stage of the
   Rise to Power competition requires pilots to salvage precious gems and deliver them
   to Laura Elizabeth in the Meropis system.
+reserve: Depleted
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

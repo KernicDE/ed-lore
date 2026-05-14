@@ -24,12 +24,11 @@ economy: Industrial
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system/id/17548/name/Cayutorme
 inara_url: https://inara.cz/elite/starsystem/?search=Cayutorme
-bio: 'An independent industrial dictatorship, Cayutorme was the scene of a swift and
+bio: An independent industrial dictatorship, Cayutorme was the scene of a swift and
   brutal Imperial Navy campaign in November 3301 that destroyed the Cayutorme Syndicate
-  mercenary fleet.'
+  mercenary fleet.
+reserve: Common
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

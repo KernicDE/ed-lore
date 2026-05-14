@@ -25,9 +25,8 @@ edsm_url: https://www.edsm.net/en/system/id/19178/name/Medzistha
 inara_url: https://inara.cz/elite/starsystem/?search=Medzistha
 bio: 'Medzistha is a star system in the Elite Dangerous universe, significant from
   3302-09-07 to 3302-09-07. Associated with Buckyball Racing Club, Pilots Federation. '
+reserve: Major
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

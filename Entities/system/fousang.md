@@ -26,9 +26,8 @@ bio: Fousang is a star system in the Elite Dangerous universe, significant from 
   to 3304-06-29. Associated with Blue Creative Company, Fousang security. Criminal
   organisations are exploiting the Thargoid threat to increase raids on civilian traffic
   in the Fousang system.
+reserve: Low
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

@@ -30,9 +30,8 @@ bio: 'Merope is a system in Elite Dangerous, significant from 3301-07-10 to 3308
   a distorted morse code signal broadcasting the identity of the nearest ce...; Dr
   Arcanonn of the Canonn Interstellar Research Group confirmed the discovery of alien
   ''barnacle'' structures on at least two planets in the Pleiade...'
+reserve: Pristine
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

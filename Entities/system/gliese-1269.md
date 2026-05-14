@@ -30,9 +30,8 @@ bio: 'Gliese 1269 is a system in Elite Dangerous, significant from 3302-05-05 to
   jump from Gliese 1269 to Beagle Point.; Several starports previously closed due
   to Unknown Artefact-related interference have been restored through the application
   of meta-alloys.'
+reserve: Pristine
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

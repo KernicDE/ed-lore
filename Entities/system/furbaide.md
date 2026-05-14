@@ -29,9 +29,8 @@ bio: Furbaide is a star system in the Elite Dangerous universe, significant from
   despite containment efforts in Liaedin, LHS 3505, and Furbaide, claiming hundreds
   of lives since it first appeared 24 hours ago. A rapid response team has been established
   aboard Effinger Port in Furbaide to find a cure.
+reserve: Common
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

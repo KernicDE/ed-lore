@@ -27,9 +27,8 @@ inara_url: https://inara.cz/elite/starsystem/?search=Kuma
 bio: Kuma is a star system in the Elite Dangerous universe, significant from 3305-01-24
   to 3306-06-09. Associated with Vitadyne Labs, Vandermeer Corporation, Neomedical
   Industries.
+reserve: Major
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

@@ -26,9 +26,8 @@ bio: Drevlyada is a star system in the Elite Dangerous universe, significant fro
   A long-standing personal rivalry between General Kendrick of the Namab Purple Brothers
   and Marshal Cooper of the Drevlyada League escalates into open conflict in the Drevlyada
   system.
+reserve: Major
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

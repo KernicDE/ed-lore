@@ -21,9 +21,8 @@ inara_url: https://inara.cz/elite/starsystem/?search=Chi%20Eridani
 bio: Chi Eridani is a star system in the Elite Dangerous universe, significant from
   3311-04-03 to 3311-04-03. Imperial agents spark combat between Jerome Archer and
   Denton Patreus supporters in the Federally controlled Chi Eridani system.
+reserve: Low
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

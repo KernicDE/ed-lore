@@ -28,9 +28,8 @@ bio: Asgaa is a star system in the Elite Dangerous universe, significant from 33
   to 3301-08-06. Associated with Union of Bast Liberals. Newly affected systems include
   Altair, 39 Tauri, Kamorin, Delta Phoenicis, Kappa Ophiuchi, Murung, LTT 14850, Gali,
   Cauani, LTT 6705, Watha, Asgaa, and Svent.
+reserve: Major
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

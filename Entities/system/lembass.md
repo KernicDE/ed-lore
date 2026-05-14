@@ -28,9 +28,8 @@ bio: Lembass is a star system in the Elite Dangerous universe, significant from 
   to 3306-10-15. Associated with Pilots Federation, Alliance, Alliance Expeditionary
   Pact. Thargoids reappear in the Witch Head Nebula, swarming through Onoros, Lembass,
   Haki, Wellington and Shenve.
+reserve: Pristine
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

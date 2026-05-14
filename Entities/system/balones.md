@@ -28,9 +28,8 @@ bio: Balones is a star system in the Elite Dangerous universe, significant from 
   advanced deep-space probes, citing alien shipwrecks and Synuefe ruins as motivation.
   Balones Gold Touch Systems' appeal for materials to build deep-space probes concludes
   successfully.
+reserve: Major
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

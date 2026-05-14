@@ -28,9 +28,8 @@ bio: Jotunheim is a star system in the Elite Dangerous universe, significant fro
   Kamcabi Purple Life Industry, Autocracy of Jotunheim. The Revolutionary Jotunheim
   Resistance successfully drove the Autocracy of Jotunheim from the system, with significant
   material support from Jasmina Halsey.
+reserve: Depleted
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

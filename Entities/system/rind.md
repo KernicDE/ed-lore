@@ -28,9 +28,8 @@ bio: Rind is a star system in the Elite Dangerous universe, significant from 330
   to 3304-04-22. Associated with Rind Gold Electronics Org, INRA. The Rind Gold Electronics
   Org successfully concluded its campaign for a pilot-training centre. The Rind Gold
   Electronics Org has announced the successful conclusion of its campaign.
+reserve: Low
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

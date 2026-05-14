@@ -26,9 +26,8 @@ bio: Hehe is a star system in the Elite Dangerous universe, significant from 330
   has erupted between Hehe Federal Interstellar and Hehe Camorra in the Hehe system
   over territorial control. Authorities report that Hehe Federal Interstellar has
   defeated Hehe Camorra in the Hehe system conflict.
+reserve: Major
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

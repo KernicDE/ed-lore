@@ -26,9 +26,8 @@ edsm_url: https://www.edsm.net/en/system/id/8536/name/Dheneb
 inara_url: https://inara.cz/elite/starsystem/?search=Dheneb
 bio: 'Dheneb is a star system in the Elite Dangerous universe, significant from 3301-04-15
   to 3301-04-15. '
+reserve: Major
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

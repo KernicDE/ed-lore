@@ -24,12 +24,11 @@ economy: Agriculture
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system/id/17262/name/Blatrimpe
 inara_url: https://inara.cz/elite/starsystem/?search=Blatrimpe
-bio: 'A heavily populated Federation corporate agricultural system with over twenty-seven
+bio: A heavily populated Federation corporate agricultural system with over twenty-seven
   billion inhabitants, Blatrimpe became a logistics hub for Bonespire Publishing and
-  technology corporations in 3304.'
+  technology corporations in 3304.
+reserve: Low
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

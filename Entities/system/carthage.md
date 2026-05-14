@@ -26,9 +26,8 @@ bio: Carthage is a star system in the Elite Dangerous universe, significant from
   to 3302-07-28. Associated with Lavigny's Legion. Authorities in Carthage report
   a sharp increase in criminals and issue a kill order on all wanted ships to prevent
   disruption of Lavigny's Legion's Majestic-class Interdictor campaign.
+reserve: Depleted
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

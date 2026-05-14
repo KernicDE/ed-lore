@@ -24,11 +24,10 @@ economy: Industrial
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system/id/3801/name/Ebor
 inara_url: https://inara.cz/elite/starsystem/?search=Ebor
-bio: 'An independent democratic system with an industrial economy, Ebor became the
-  site of an unusual scientific initiative focused on peaceful Thargoid communication.'
+bio: An independent democratic system with an industrial economy, Ebor became the
+  site of an unusual scientific initiative focused on peaceful Thargoid communication.
+reserve: Common
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

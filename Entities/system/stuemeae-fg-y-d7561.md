@@ -30,9 +30,8 @@ bio: 'Stuemeae FG-Y d7561 is a system in Elite Dangerous, significant from 3305-
   to build an Orbis starport in the Galactic Centre as part...; The Omega Mining Corporation''s
   resource drive concludes successfully, securing enough materials to build an Orbis
   starport in the Stuemeae FG-Y d75...'
+reserve: Pristine
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

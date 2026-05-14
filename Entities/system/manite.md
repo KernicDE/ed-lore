@@ -24,11 +24,10 @@ economy: Industrial
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system/id/7972/name/Manite
 inara_url: https://inara.cz/elite/starsystem/?search=Manite
-bio: 'An Imperial industrial system, Manite was among the systems affected by the
-  technological plague that crippled starports across inhabited space in early 3302.'
+bio: An Imperial industrial system, Manite was among the systems affected by the technological
+  plague that crippled starports across inhabited space in early 3302.
+reserve: Major
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

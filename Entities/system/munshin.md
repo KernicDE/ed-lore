@@ -30,9 +30,8 @@ bio: 'Munshin is a system in Elite Dangerous, significant from 3301-08-13 to 330
   Herculean Machines, the announcement of Alliance presidenti...; Weekly summary covering
   Vanya Driscoll''s analysis of Alliance presidential candidates, Lloyd Hardacre''s
   arrest after his robot exposed corporate fr...'
+reserve: Depleted
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

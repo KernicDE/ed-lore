@@ -19,13 +19,12 @@ second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system/id/12920/name/Etain
 inara_url: https://inara.cz/elite/starsystem/?search=Etain
 bio: Etain is a Federal system that became notable for abandoned Far God cult outposts
-  discovered on Etain 4a and 4c. Exotheologian Dr Alfred Ulyanov studied the sites and
-  suggested sect members had fled to secret outposts and entered suspended animation to
-  await the Far God's arrival. Evidence indicated both settlements were attacked, but
-  no trace of inhabitants remained.
+  discovered on Etain 4a and 4c. Exotheologian Dr Alfred Ulyanov studied the sites
+  and suggested sect members had fled to secret outposts and entered suspended animation
+  to await the Far God's arrival. Evidence indicated both settlements were attacked,
+  but no trace of inhabitants remained.
+reserve: Low
 ---
-
-
 
 # Etain
 

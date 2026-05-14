@@ -28,9 +28,8 @@ bio: Kpaniya is a star system in the Elite Dangerous universe, significant from 
   to 3302-10-27. Associated with United Research Council. The United Research Council
   lifted preparatory restrictions near the Clayakarma, Nauo, Gyhldekala, Boga, and
   Kpaniya systems.
+reserve: Major
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

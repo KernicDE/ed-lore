@@ -28,9 +28,8 @@ bio: Adenets is a star system in the Elite Dangerous universe, significant from 
   The Adenets Pro-Alliance Bond organises deliveries of robotics, computer components,
   and microcontrollers to Henslow Market in the Adenets system for manufacturing new
   PA912 administration robots.
+reserve: Low
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

@@ -30,9 +30,8 @@ bio: New Yembo is a star system in the Elite Dangerous universe, significant fro
   Cartographics thanked the committee for choosing the mineral-rich HIP 101110 system
   (now named New Yembo) as the launch site, and Zimm_Macugz for organising 150,000
   tonnes of raw materials.
+reserve: Pristine
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

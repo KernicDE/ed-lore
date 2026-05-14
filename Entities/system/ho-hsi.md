@@ -27,9 +27,8 @@ bio: Ho Hsi is a star system in the Elite Dangerous universe, significant from 3
   Conflict has erupted in the Ho Hsi system between Ho Hsi Jet Comms Limited and the
   Freedom Party of Ho Hsi. Authorities confirm that the conflict in the Ho Hsi system
   has ended with a victory for Ho Hsi Jet Comms Limited.
+reserve: Common
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

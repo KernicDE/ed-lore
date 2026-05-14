@@ -29,9 +29,8 @@ bio: BV Phoenicis is a star system in the Elite Dangerous universe, significant 
   BV Phoenicis, Future of LTT 911 Party. Despite local traders' efforts to stimulate
   the economy, Patreus authorised the Conservatives of BV Phoenicis to begin forfeiture.
   Imperial mercenaries can sign up for reclamation duty aboard Aoki Dock in BV Phoenicis.
+reserve: Low
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

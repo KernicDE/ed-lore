@@ -26,9 +26,8 @@ bio: Irusan is a star system in the Elite Dangerous universe, significant from 3
   plans to establish a capital shipyard and scientific research vessel in the Irusan
   system. The organisation has placed an open order for palladium, titanium and robotics
   for delivery to Bella Port in Irusan.
+reserve: Pristine
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

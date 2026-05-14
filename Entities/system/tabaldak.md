@@ -24,11 +24,10 @@ economy: High Tech
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system/id/3724/name/Tabaldak
 inara_url: https://inara.cz/elite/starsystem/?search=Tabaldak
-bio: 'An independent high-tech system that became a battleground during the Empire''s
-  campaign against the Emperor''s Dawn insurgency in 3301.'
+bio: An independent high-tech system that became a battleground during the Empire's
+  campaign against the Emperor's Dawn insurgency in 3301.
+reserve: Common
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

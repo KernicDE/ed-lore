@@ -29,9 +29,8 @@ bio: 'Falisci is a system in Elite Dangerous, significant from 3301-02-17 to 330
   Senator Denton Patreus received a standing ovation on Eotienses after a speech on
   internal security.; Despite Senator Patreus''s warning, Falisci pirates continue
   plundering traders en route to Dongzi and Ngaiawang.'
+reserve: Low
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

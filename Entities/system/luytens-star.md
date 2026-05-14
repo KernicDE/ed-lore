@@ -30,9 +30,8 @@ bio: 'Luyten''s Star is a system in Elite Dangerous, significant from 3301-02-14
   transfer technology, while the Order o...; Seven of eight rescue megaships deployed
   near Sol are destroyed by Thargoid forces within minutes of arrival, leaving only
   Rescue Ship Hutner and R...'
+reserve: Common
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

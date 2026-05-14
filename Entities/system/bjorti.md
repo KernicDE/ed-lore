@@ -24,9 +24,8 @@ bio: Bjorti is a star system in the Elite Dangerous universe, significant from 3
   to 3302-06-16. Associated with EG Pilots. The second stage of the Dangerous Games
   Wildcard competition begins in the Bjorti system, requiring pilots to bounty hunt
   for their chosen faction over one week.
+reserve: Major
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

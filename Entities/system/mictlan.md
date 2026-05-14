@@ -29,9 +29,8 @@ bio: 'Mictlan is a system in Elite Dangerous, significant from 3301-04-15 to 330
   the Kumo Crew to defend the California Nebula from Thargoid invasions, drawing skepticism
   from the Turner Research Group.; Arissa Lavigny-Duval directed attacks on the Nehet
   Silver Ring under Patrons of Law guidance, bringing crime to manageable levels.'
+reserve: Common
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

@@ -24,11 +24,10 @@ economy: Industrial
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system/id/6826/name/Olelbis
 inara_url: https://inara.cz/elite/starsystem/?search=Olelbis
-bio: 'A Federation corporate industrial system with four million inhabitants, Olelbis
-  briefly hosted an elaborate social function at Polyakov Orbital in late 3304.'
+bio: A Federation corporate industrial system with four million inhabitants, Olelbis
+  briefly hosted an elaborate social function at Polyakov Orbital in late 3304.
+reserve: Major
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

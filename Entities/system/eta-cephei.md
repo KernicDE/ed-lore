@@ -26,9 +26,8 @@ edsm_url: https://www.edsm.net/en/system/id/11236/name/Eta%20Cephei
 inara_url: https://inara.cz/elite/starsystem/?search=Eta%20Cephei
 bio: 'Eta Cephei is a star system in the Elite Dangerous universe, significant from
   3306-09-21 to 3306-10-01. Associated with Pilots Federation. '
+reserve: Depleted
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

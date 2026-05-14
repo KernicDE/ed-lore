@@ -24,16 +24,14 @@ economy: Industrial
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system/id/25341/name/Maia
 inara_url: https://inara.cz/elite/starsystem/?search=Maia
-bio: Maia is a system in the Pleiades Nebula, roughly 380 light years from Sol.
-  It became the epicenter of human-Thargoid contact research following the Unknown
-  Artefact crisis of 3301. The system contains Obsidian Orbital — one of the first
-  community-constructed stations in deep space — and hosts Palin's research base on
-  Maia A 3 a. Maia served as a logistical hub for superpower expansion into the
-  Pleiades and was the site of the first confirmed Thargoid destruction of a Federal
-  capital ship in 3303.
+bio: Maia is a system in the Pleiades Nebula, roughly 380 light years from Sol. It
+  became the epicenter of human-Thargoid contact research following the Unknown Artefact
+  crisis of 3301. The system contains Obsidian Orbital — one of the first community-constructed
+  stations in deep space — and hosts Palin's research base on Maia A 3 a. Maia served
+  as a logistical hub for superpower expansion into the Pleiades and was the site
+  of the first confirmed Thargoid destruction of a Federal capital ship in 3303.
+reserve: Pristine
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

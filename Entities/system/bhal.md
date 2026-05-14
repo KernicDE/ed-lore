@@ -28,9 +28,8 @@ bio: Bhal is a star system in the Elite Dangerous universe, significant from 330
   to 3304-06-24. Associated with Aegis. Carter Armstrong of Aegis Core announces Armstrong
   Enterprise in the Bhal system and Beaufoy Vision in the Nauni system are now open.
   Their forces have been pushed back to the Bhal system, their initial beachhead.
+reserve: Pristine
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

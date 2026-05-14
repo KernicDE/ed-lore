@@ -30,9 +30,8 @@ bio: Narri is a star system in the Elite Dangerous universe, significant from 33
   the Sim-Archive from potential Thargoid attack. The Narri Justice Party is overseeing
   construction and has requested pilots deliver materials to Bobko City while protecting
   traders from pirates.
+reserve: Major
 ---
-
-
 
 Narri is an independent corporate system governed by Zentech Enterprises, home to nearly five million inhabitants with a high-security industrial economy supported by extraction operations. Located within reach of both Utopia and core Federal territories, the system features Bobko City as a primary installation and has served as a flashpoint for competing political visions. Its substantial population and strategic positioning have made it a significant node in regional trade and security networks.
 

@@ -30,9 +30,8 @@ bio: 'Kappa Fornacis is a system in Elite Dangerous, significant from 3301-02-24
   following reports of Thargoid attacks in the Pleiades.; Six months after Onionhead
   was made illegal in Federal space, the Federation launched a violent campaign against
   Kappa Fornacis farmers led by Geor...'
+reserve: Depleted
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

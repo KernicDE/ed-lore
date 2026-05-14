@@ -22,11 +22,10 @@ economy: Industrial
 second_economy: Military
 edsm_url: https://www.edsm.net/en/system/id/15937/name/Aiaba
 inara_url: https://inara.cz/elite/starsystem/?search=Aiaba
-bio: 'An independent industrial cooperative system with four million inhabitants,
-  Aiaba was briefly linked to Zorgon Peterson during a mention in mid-3311.'
+bio: An independent industrial cooperative system with four million inhabitants, Aiaba
+  was briefly linked to Zorgon Peterson during a mention in mid-3311.
+reserve: Major
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

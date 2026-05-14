@@ -29,9 +29,8 @@ bio: Hel is a star system in the Elite Dangerous universe, significant from 3301
   agreed to a joint venture in technology and weapons research and development, plus
   a joint military exercise in the Hel system. Leader Tyllerius Adle III condemned
   the deal and laid siege to the League of Hel, putting the system in lockdown.
+reserve: Common
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

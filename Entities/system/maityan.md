@@ -25,9 +25,8 @@ edsm_url: https://www.edsm.net/en/system/id/5767/name/Maityan
 inara_url: https://inara.cz/elite/starsystem/?search=Maityan
 bio: 'Maityan is a star system in the Elite Dangerous universe, significant from 3311-07-17
   to 3311-07-17. Associated with Sirius Corporation. '
+reserve: Low
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

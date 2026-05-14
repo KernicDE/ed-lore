@@ -27,9 +27,8 @@ bio: Peacock is a star system in the Elite Dangerous universe, significant from 
   support their operations. The Peacock Patrons of Law's appeal for robotics, ion
   distributors and emergency power cells concludes with a massive influx of deliveries
   to Phillips Dock.
+reserve: Common
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

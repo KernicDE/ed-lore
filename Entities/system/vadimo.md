@@ -29,9 +29,8 @@ bio: Vadimo is a star system in the Elite Dangerous universe, significant from 3
   Service, INRA. The Vadimo Patrons of Law announced an elaborate soirée in Vadimo.
   The Vadimo Patrons of Law, an Imperial organisation based in Vadimo, has announced
   plans to host an elaborate soirée.
+reserve: Common
 ---
-
-
 
 Vadimo is an independent system governed by the Sovereign Justice Collective under a dictatorship, home to approximately 368,000 inhabitants with an economy centred on refinery operations and military support. Located at a strategic position within reach of both core and frontier territories, the system features Sikorsky Station among its installations. Its medium security rating and relatively small population belie its significance as a node for Imperial-affiliated organisations operating outside direct Imperial administrative control.
 

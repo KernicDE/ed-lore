@@ -26,9 +26,8 @@ bio: Mehet is a star system in the Elite Dangerous universe, significant from 33
   to 3302-06-09. Associated with Mehet Ltd, Pilots Federation. Mehet Ltd announces
   the successful conclusion of its campaign to clear the Mehet system of criminals
   and agitators, with hundreds of Pilots Federation commanders responding to the appeal.
+reserve: Major
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

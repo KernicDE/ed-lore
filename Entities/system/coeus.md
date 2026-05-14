@@ -26,9 +26,8 @@ bio: Coeus is a star system in the Elite Dangerous universe, significant from 33
   asking pilots to deliver specialised microresources to Foster Terminal in the Coeus
   system to support this infrastructure research. Hundreds of independent pilots delivered
   microresources to the Colonia Co-operative in the Coeus system.
+reserve: Pristine
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

@@ -26,9 +26,8 @@ bio: Kpelidoog is a star system in the Elite Dangerous universe, significant fro
   Empire Assembly announces plans to build a new Wells-class Carrier to support astronomical
   research. The organisation has placed an open order for titanium, semiconductors
   and power generators for delivery to Hipparchus Terminal in the Kpelidoog system.
+reserve: Common
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

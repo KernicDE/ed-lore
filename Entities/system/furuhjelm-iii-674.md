@@ -24,12 +24,11 @@ economy: Industrial
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system/id/2472/name/Furuhjelm%20III-674
 inara_url: https://inara.cz/elite/starsystem/?search=Furuhjelm%20III-674
-bio: 'An Alliance industrial democracy with nearly forty million inhabitants, Furuhjelm
-  III-674 served as a logistics hub for the 160 S.O.A.R. faction''s California Nebula
-  colonisation efforts.'
+bio: An Alliance industrial democracy with nearly forty million inhabitants, Furuhjelm
+  III-674 served as a logistics hub for the 160 S.O.A.R. faction's California Nebula
+  colonisation efforts.
+reserve: Major
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

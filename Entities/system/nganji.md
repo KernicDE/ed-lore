@@ -24,12 +24,11 @@ economy: High Tech
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system/id/5449/name/Nganji
 inara_url: https://inara.cz/elite/starsystem/?search=Nganji
-bio: 'An independent high-tech communist system controlled by the Nagii Union, Nganji
-  briefly hosted Professor Ishmael Palin''s extraterrestrial research before the technological
-  plague disrupted operations across inhabited space.'
+bio: An independent high-tech communist system controlled by the Nagii Union, Nganji
+  briefly hosted Professor Ishmael Palin's extraterrestrial research before the technological
+  plague disrupted operations across inhabited space.
+reserve: Major
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

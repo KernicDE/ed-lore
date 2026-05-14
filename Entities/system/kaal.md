@@ -26,9 +26,8 @@ bio: Kaal is a star system in the Elite Dangerous universe, significant from 330
   system report a sharp increase in criminal activity, with agitators attacking pilots
   and disrupting trade. The Kuk Silver Fortune Company announces the successful conclusion
   of its campaign to clear the Kaal system of agitators.
+reserve: Depleted
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

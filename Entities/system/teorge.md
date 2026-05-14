@@ -26,9 +26,8 @@ edsm_url: https://www.edsm.net/en/system/id/16041/name/Teorge
 inara_url: https://inara.cz/elite/starsystem/?search=Teorge
 bio: 'Teorge is a star system in the Elite Dangerous universe, significant from 3303-05-04
   to 3304-08-25. Associated with Alliance. '
+reserve: Major
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

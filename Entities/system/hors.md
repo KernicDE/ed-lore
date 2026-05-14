@@ -25,9 +25,8 @@ bio: Hors is a star system in the Elite Dangerous universe, significant from 330
   to 3301-04-07. Associated with Federal Navy, Brightlight Training Corporation. Shadow
   President Hudson, accompanied by Admiral Vincent's aides, visited the Hors system
   to meet Duke Sanders and discuss extending Brightlight Training's Federal contracts.
+reserve: Common
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

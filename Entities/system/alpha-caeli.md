@@ -22,9 +22,8 @@ edsm_url: https://www.edsm.net/en/system/id/743/name/Alpha%20Caeli
 inara_url: https://inara.cz/elite/starsystem/?search=Alpha%20Caeli
 bio: 'Alpha Caeli is a star system in the Elite Dangerous universe, significant from
   3309-04-25 to 3309-04-25. '
+reserve: Common
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

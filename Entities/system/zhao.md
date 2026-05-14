@@ -28,9 +28,8 @@ bio: Zhao is a star system in the Elite Dangerous universe, significant from 330
   to 3304-08-05. Associated with Imperial Internal Security Service, Unchain. The
   Imperial Internal Security Service prevents an assassination attempt on Princess
   Aisling Duval during a fundraising event for Unchain in the Zhao system.
+reserve: Low
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

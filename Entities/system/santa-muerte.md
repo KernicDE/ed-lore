@@ -30,9 +30,8 @@ bio: 'Santa Muerte is a system in Elite Dangerous, significant from 3301-12-22 t
   pilots to transport them from Frost Dock in Njambalba to...; Clauss Incorporated''s
   appeal for Special Gifts concludes successfully, with hundreds of pilots transporting
   commodities from Frost Dock in Njambalb...'
+reserve: Major
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

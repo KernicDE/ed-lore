@@ -30,9 +30,8 @@ bio: 'Paresa is a system in Elite Dangerous, significant from 3305-01-05 to 3309
   calling on Imperial auxiliaries to support Yupini L...; Nova Imperium is defeated
   in the Battle of Paresa by Imperial forces led by Yupini Limited, with Senator Patreus
   warning that the Empire will not t...'
+reserve: Common
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

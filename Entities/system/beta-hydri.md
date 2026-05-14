@@ -29,9 +29,8 @@ bio: 'Beta Hydri is a system in Elite Dangerous, significant from 3301-07-19 to 
   Sima Kalhana covers the first Federation-Achenar war (2323-2325).; Political commentators
   review the deteriorating Federal-Imperial relationship, tracing it from the Beta
   Hydri battlecruiser construction in March t...'
+reserve: Low
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

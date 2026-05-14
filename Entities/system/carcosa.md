@@ -23,9 +23,8 @@ edsm_url: https://www.edsm.net/en/system/id/13729302/name/Carcosa
 inara_url: https://inara.cz/elite/starsystem/?search=Carcosa
 bio: 'Carcosa is a star system in the Elite Dangerous universe, significant from 3303-10-20
   to 3303-10-20. Associated with The Nameless, Colonia Council. '
+reserve: Pristine
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

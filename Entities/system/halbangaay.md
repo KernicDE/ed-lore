@@ -24,11 +24,11 @@ economy: Agriculture
 second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system/id/10592/name/Halbangaay
 inara_url: https://inara.cz/elite/starsystem/?search=Halbangaay
-bio: 'A populous independent agricultural system, Halbangaay was among the systems
-  hit by the technological plague when Haack Gateway was forced to close in early 3302.'
+bio: A populous independent agricultural system, Halbangaay was among the systems
+  hit by the technological plague when Haack Gateway was forced to close in early
+  3302.
+reserve: Pristine
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

@@ -29,9 +29,8 @@ bio: 'Varati is a system in Elite Dangerous, significant from 3301-09-27 to 3303
   of the Canonn Interstellar Research Group urges pilots to stop selling Unknown Artefacts,
   citing a strong correlation between UA sales ...; The technological plague continues
   to affect starports across inhabited space.'
+reserve: Pristine
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

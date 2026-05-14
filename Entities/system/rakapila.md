@@ -22,12 +22,10 @@ economy: Industrial
 second_economy: High Tech
 edsm_url: https://www.edsm.net/en/system/id/36/name/Rakapila
 inara_url: https://inara.cz/elite/starsystem/?search=Rakapila
-bio: 'An independent corporate system with an industrial and high-tech economy,
-  Rakapila has been the focus of local economic development initiatives and corporate
-  investment.'
+bio: An independent corporate system with an industrial and high-tech economy, Rakapila
+  has been the focus of local economic development initiatives and corporate investment.
+reserve: Common
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

@@ -30,9 +30,8 @@ bio: 'Chukchan is a system in Elite Dangerous, significant from 3306-10-29 to 33
   the Chukchan system suddenly activates, receiving and rebroadcastin...; Independent
   pilots report receiving anonymous instructions from a figure calling himself "Salvation,"
   who provides a decryption key for the Adamast...'
+reserve: Pristine
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

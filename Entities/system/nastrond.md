@@ -26,9 +26,8 @@ edsm_url: https://www.edsm.net/en/system/id/3090/name/Nastrond
 inara_url: https://inara.cz/elite/starsystem/?search=Nastrond
 bio: 'Nastrond is a star system in the Elite Dangerous universe, significant from
   3307-07-23 to 3307-07-23. Associated with Vox Galactica, Kumo Crew. '
+reserve: Common
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

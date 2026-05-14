@@ -26,9 +26,8 @@ edsm_url: https://www.edsm.net/en/system/id/2148/name/Kishpakho
 inara_url: https://inara.cz/elite/starsystem/?search=Kishpakho
 bio: 'Kishpakho is a star system in the Elite Dangerous universe, significant from
   3307-07-23 to 3307-07-23. Associated with Vox Galactica, Kumo Crew, Pilots Federation. '
+reserve: Major
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

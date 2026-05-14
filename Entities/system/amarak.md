@@ -28,9 +28,8 @@ bio: Amarak is a star system in the Elite Dangerous universe, significant from 3
   to 3302-03-16. Associated with Adle's Armada, Blood Brothers, Contrail. Competitors
   included Blood Brothers from Alrai, Ronin of Amarak, Triadius, Contrail, and the
   Balkan Intergalactic Guerrillas.
+reserve: Common
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

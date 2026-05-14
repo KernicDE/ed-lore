@@ -29,9 +29,8 @@ bio: 'Shinrarta Dezhra is a system in Elite Dangerous, significant from 3302-07-
   include: A Thargoid invasion fleet emerges in Shinrarta Dezhra, catching AX forces
   by surprise.; The Thargoid invasion fleet in Shinrarta Dezhra is successfully repelled,
   with acting starport commander Florian Baljak praising the thousands of C...'
+reserve: Common
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

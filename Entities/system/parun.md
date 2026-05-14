@@ -29,9 +29,8 @@ bio: Parun is a star system in the Elite Dangerous universe, significant from 33
   faction. The Independents of Parun foil Laksmii Jet Power Industries' plot to smuggle
   weapons into Underwood Port by placing bounties on their ships, destroying hundreds
   of vessels.
+reserve: Major
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

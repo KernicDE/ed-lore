@@ -24,13 +24,12 @@ economy: Agriculture
 second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system/id/1592/name/Aeternitas
 inara_url: https://inara.cz/elite/starsystem/?search=Aeternitas
-bio: 'One of the most populous independent systems in the galaxy with over eighteen
+bio: One of the most populous independent systems in the galaxy with over eighteen
   billion inhabitants, Aeternitas is a dictatorship controlled by the EG Union that
   has faced criminal insurgencies and shadowy connections to both INRA and the League
-  of Reparation.'
+  of Reparation.
+reserve: Low
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

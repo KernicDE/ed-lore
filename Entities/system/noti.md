@@ -24,12 +24,11 @@ economy: Industrial
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system/id/8126/name/Noti
 inara_url: https://inara.cz/elite/starsystem/?search=Noti
-bio: 'A Federation corporate system controlled by Olympus Trading Corp, Noti became
+bio: A Federation corporate system controlled by Olympus Trading Corp, Noti became
   notorious in late 3301 when reports emerged of clandestine genetic experiments at
-  Weber Gateway.'
+  Weber Gateway.
+reserve: Major
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

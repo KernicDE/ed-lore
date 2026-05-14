@@ -28,9 +28,8 @@ bio: Athena is a star system in the Elite Dangerous universe, significant from 3
   to 3301-10-26. Associated with XYZ Fight Club. The XYZ Fight Club gladiatorial tournament
   took place in the Athena system. The XYZ Fight Club held its 'Cobra Crunch' event
   at Powell Terminal in the Athena system, featuring an all-on-all Cobra Mk III battle.
+reserve: Common
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

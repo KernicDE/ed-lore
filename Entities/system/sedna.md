@@ -25,9 +25,8 @@ bio: Sedna is a star system in the Elite Dangerous universe, significant from 33
   to 3304-04-13. Associated with Sol astronomers. The object's approximate location
   has been given as roughly 1,726,716 light seconds from the sun and 1,526,050 light
   seconds from 90377 Sedna, and explorers are encouraged to seek it out.
+reserve: Depleted
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

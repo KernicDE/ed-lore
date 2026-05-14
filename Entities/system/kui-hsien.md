@@ -29,9 +29,8 @@ bio: Kui Hsien is a star system in the Elite Dangerous universe, significant fro
   Conservatives of BV Phoenicis. While most independent systems negotiated refinancing,
   Kui Hsien and Quivira refused to acknowledge Silver Universal's legal right to increase
   rates and halted all payments.
+reserve: Depleted
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

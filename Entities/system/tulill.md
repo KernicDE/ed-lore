@@ -24,9 +24,8 @@ bio: Tulill is a star system in the Elite Dangerous universe, significant from 3
   to 3301-08-09. Associated with Russell Networks. Independent newsfeed Russell Networks
   in the Tulill system broadcast claimed holographic footage of Emperor Hengist Duval’s
   assassination.
+reserve: Pristine
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

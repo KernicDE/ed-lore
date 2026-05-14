@@ -30,9 +30,8 @@ bio: Sutekh is a star system in the Elite Dangerous universe, significant from 3
   Future triumphs over the Adad Exchange in the Sutekh system, preventing Imperial
   forces from recovering sensitive Federal military intelligence from a destroyed
   convoy.
+reserve: Low
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

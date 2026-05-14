@@ -29,9 +29,8 @@ bio: Aganippe is a star system in the Elite Dangerous universe, significant from
   to bringing these engineered slaves to market. The Revolutionary Noti Value Party's
   appeal for Aganippe Rush concluded successfully, with hundreds of independent pilots
   delivering the rare commodity to Weber Gateway.
+reserve: Common
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

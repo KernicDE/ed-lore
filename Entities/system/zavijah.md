@@ -30,9 +30,8 @@ bio: Zavijah is a star system in the Elite Dangerous universe, significant from 
   in the Zavijah system, with a kill order on wanted ships to protect traders. Hundreds
   of pilots delivered commodities to Wheelock Ring in the Zavijah system and protected
   traders from agitators.
+reserve: Common
 ---
-
-
 
 Zavijah is an independent corporate system controlled by Sirius Corporation, home to over twenty million inhabitants with a high-security industrial economy supported by refinery operations. Located remarkably close to Sol by galactic standards, the system features Wheelock Ring as a primary installation and has historically maintained connections to both the Alliance and research organisations such as the Canonn Interstellar Research Group. Its corporate governance under one of the galaxy's most powerful companies distinguishes it from neighbouring independent systems.
 

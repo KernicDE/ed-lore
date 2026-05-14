@@ -25,9 +25,8 @@ bio: Guathiti is a star system in the Elite Dangerous universe, significant from
   to 3301-10-29. Associated with Kumo Crew. Investigations into recent civil wars
   in Imperial space revealed that confiscated weapons and munitions bore serial numbers
   from garrison supplies stockpiled in the Guathiti system.
+reserve: Low
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

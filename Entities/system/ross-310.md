@@ -24,11 +24,10 @@ economy: Agriculture
 second_economy: Tourism
 edsm_url: https://www.edsm.net/en/system/id/20003/name/Ross%20310
 inara_url: https://inara.cz/elite/starsystem/?search=Ross%20310
-bio: 'A populous independent system with an agricultural economy, Ross 310 became
-  a battleground between lawful and criminal factions in early 3304.'
+bio: A populous independent system with an agricultural economy, Ross 310 became a
+  battleground between lawful and criminal factions in early 3304.
+reserve: Common
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

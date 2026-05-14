@@ -30,9 +30,8 @@ bio: Kamcha is a star system in the Elite Dangerous universe, significant from 3
   to Blaauw Port in Dinkas. Based in the Kamcha system, Emperor's Dawn appears to
   have considerable resources and is offering lucrative payments to participating
   traders.
+reserve: Major
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

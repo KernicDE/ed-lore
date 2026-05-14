@@ -29,9 +29,8 @@ bio: Bastes is a star system in the Elite Dangerous universe, significant from 3
   Bastes, Yegorov Station in Maheou Ti, and Roddenberry Gateway in Ochoeng. Despite
   a cure being found, the Cerberus Plague continues to affect starports in Bastes,
   Maheou Ti, Ochoeng, Una, and Santjalan.
+reserve: Pristine
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

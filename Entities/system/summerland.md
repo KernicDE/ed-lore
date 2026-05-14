@@ -28,9 +28,8 @@ bio: 'Summerland is a system in Elite Dangerous, significant from 3301-05-11 to 
   Notable events include: Emperor Arissa Lavigny-Duval is rescued after being secretly
   imprisoned by Darkwater Inc for nearly a year.; The Empire declares Darkwater Inc
   a hostile military target for abducting Emperor Arissa.'
+reserve: Common
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

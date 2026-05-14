@@ -25,9 +25,8 @@ bio: Delta Doradus is a star system in the Elite Dangerous universe, significant
   3301-10-29 to 3301-10-29. Associated with Kumo Crew. Evidence pointed to growing
   corruption in the Delta Doradus region, with disturbing correlations to Kumo Crew
   influence in systems they sought to overthrow.
+reserve: Common
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

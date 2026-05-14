@@ -24,15 +24,14 @@ economy: Refinery
 second_economy: Service
 edsm_url: https://www.edsm.net/en/system/id/27/name/Sol
 inara_url: https://inara.cz/elite/starsystem/?search=Sol
-bio: Sol is the birthplace of humanity and the capital system of the Federation,
-  located at galactic coordinates (0, 0, 0). The system contains Earth and Mars, the
-  first successfully terraformed planet. Sol was the political centre of the Federation
+bio: Sol is the birthplace of humanity and the capital system of the Federation, located
+  at galactic coordinates (0, 0, 0). The system contains Earth and Mars, the first
+  successfully terraformed planet. Sol was the political centre of the Federation
   from its founding in 2242 until the capital moved to Mars in 2325 after the defeat
   at the Battle of Achenar. With over 18 billion inhabitants, it remains one of the
   most densely populated systems in human space and the symbolic centre of the galaxy.
+reserve: Common
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

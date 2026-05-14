@@ -30,9 +30,8 @@ bio: 'Niflhel is a system in Elite Dangerous, significant from 3304-06-15 to 330
   military action in the cor...; Weekly summary covering Aisling Duval''s anti-slavery
   campaign merging with Universal Liberty to form Unchain, Lori Jameson''s denunciation
   of the Le...'
+reserve: Low
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

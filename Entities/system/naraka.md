@@ -26,9 +26,8 @@ bio: Naraka is a star system in the Elite Dangerous universe, significant from 3
   to 3302-04-01. Associated with Universal Cartographics. Universal Cartographics
   addresses the confusion caused by two systems both named 'Naraka' by temporarily
   restricting access to one and renaming it.
+reserve: Pristine
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

@@ -30,9 +30,8 @@ bio: 'Mudhrid is a system in Elite Dangerous, significant from 3307-04-01 to 330
   who vanished on an anti-NMLA mission, has been Found With Its crew dead.; The Epsilon
   Fornacis Empire Group attacks the Neo-Marlinist Order of Mudhrid after ACT confirms
   the faction provided logistical support for the NML...'
+reserve: Major
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

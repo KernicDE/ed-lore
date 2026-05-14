@@ -30,9 +30,8 @@ bio: 'Kaushpoos is a system in Elite Dangerous, significant from 3301-10-22 to 3
   Thargoid material, placing an open order for unknow...; The Alliance announces the
   successful conclusion of its research initiative, with huge quantities of resources
   delivered to Neville Horizons.'
+reserve: Major
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

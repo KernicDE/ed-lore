@@ -26,9 +26,8 @@ edsm_url: https://www.edsm.net/en/system/id/19984/name/Kalana
 inara_url: https://inara.cz/elite/starsystem/?search=Kalana
 bio: Kalana is a star system in the Elite Dangerous universe, significant from 3302-09-29
   to 3302-10-04. Associated with Kalana Independents.
+reserve: Common
 ---
-
-
 
 Kalana is an Imperial system governed through the patronage system, home to approximately 1.8 million inhabitants and controlled by the Imperial Enforcement Division. Its economy revolves around extraction and industrial processing, with Bujold Enterprise and Moore Prospect among its key installations. The system's location at coordinates that place it within reach of both core Imperial territories and frontier regions has made it a crossroads for trade and political activity.
 

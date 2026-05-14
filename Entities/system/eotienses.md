@@ -26,6 +26,7 @@ edsm_url: https://www.edsm.net/en/system/id/5797/name/Eotienses
 inara_url: https://inara.cz/elite/starsystem/?search=Eotienses
 bio: Eotienses is a major Imperial agricultural system where the activist group Autonomy
   forcibly liberated 4,000 Imperial slaves in 3305.
+reserve: Common
 ---
 
 # Eotienses

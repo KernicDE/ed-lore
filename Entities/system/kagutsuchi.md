@@ -28,9 +28,8 @@ bio: Kagutsuchi is a star system in the Elite Dangerous universe, significant fr
   3304-10-11 to 3304-10-20. Associated with Close Encounters Corps, Rackham Capital
   Investments. An open order for muon imagers is placed, with deliveries to Crown
   Prospect in the Kagutsuchi system.
+reserve: Major
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

@@ -27,9 +27,8 @@ inara_url: https://inara.cz/elite/starsystem/?search=Sounti
 bio: Sounti is a star system in the Elite Dangerous universe, significant from 3301-07-09
   to 3301-07-09. Associated with Utopia. Aisling Duval saw strong support but failed
   to expand into Sounti.
+reserve: Common
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

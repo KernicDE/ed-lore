@@ -28,9 +28,8 @@ bio: Dinkas is a star system in the Elite Dangerous universe, significant from 3
   to 3301-08-20. Associated with Emperor's Dawn. Battle Weapons go to Saarinen Station
   in Kamcha, Ceremonial Heike Tea to Sikorsky Orbital in Jang Di, and Toxic Waste
   to Blaauw Port in Dinkas.
+reserve: Low
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

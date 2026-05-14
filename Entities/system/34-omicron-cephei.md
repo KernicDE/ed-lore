@@ -26,9 +26,8 @@ edsm_url: https://www.edsm.net/en/system/id/23383/name/34%20Omicron%20Cephei
 inara_url: https://inara.cz/elite/starsystem/?search=34%20Omicron%20Cephei
 bio: '34 Omicron Cephei is a star system in the Elite Dangerous universe, significant
   from 3311-03-19 to 3311-03-19. '
+reserve: Pristine
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

@@ -30,9 +30,8 @@ bio: 'Zaonce is a system in Elite Dangerous, significant from 3301-05-01 to 3308
   of treason, murder and corruption, and is detained while attemp...; The announcement
   that the rogue signal sources heading towards the core systems are Thargoid in origin
   has caused unease within the general public.'
+reserve: Depleted
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

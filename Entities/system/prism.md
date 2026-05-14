@@ -26,6 +26,7 @@ edsm_url: https://www.edsm.net/en/system/id/4243/name/Prism
 inara_url: https://inara.cz/elite/starsystem/?search=Prism
 bio: Prism is an Imperial system governed by Senator Kahina Tijani Loren, focal point
   of political intrigue and her eventual disappearance.
+reserve: Depleted
 ---
 
 # Prism

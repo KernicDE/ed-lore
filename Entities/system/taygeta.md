@@ -24,11 +24,10 @@ economy: Extraction
 second_economy: Agriculture
 edsm_url: https://www.edsm.net/en/system/id/25809/name/Taygeta
 inara_url: https://inara.cz/elite/starsystem/?search=Taygeta
-bio: 'An independent extraction system in the Pleiades Nebula, Taygeta was the site
-  of one of the first Thargoid Medusa-class Interceptor attacks on a civilian starport.'
+bio: An independent extraction system in the Pleiades Nebula, Taygeta was the site
+  of one of the first Thargoid Medusa-class Interceptor attacks on a civilian starport.
+reserve: Pristine
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

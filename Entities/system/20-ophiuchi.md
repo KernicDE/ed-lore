@@ -24,12 +24,11 @@ economy: Industrial
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system/id/6927/name/20%20Ophiuchi
 inara_url: https://inara.cz/elite/starsystem/?search=20%20Ophiuchi
-bio: 'An independent industrial cooperative with twenty-three million inhabitants,
+bio: An independent industrial cooperative with twenty-three million inhabitants,
   20 Ophiuchi was among the three systems that confirmed secondary Cerberus Plague
-  infections in July 3301 after the disease escaped containment at Newton Dock.'
+  infections in July 3301 after the disease escaped containment at Newton Dock.
+reserve: Pristine
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 

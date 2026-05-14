@@ -29,9 +29,8 @@ bio: Una is a star system in the Elite Dangerous universe, significant from 3301
   Hart Station in Bast, Hoard Orbital in Una, and Cantor Terminal in Santjalan. Despite
   a cure being found, the Cerberus Plague continues to affect starports in Bastes,
   Maheou Ti, Ochoeng, Una, and Santjalan.
+reserve: Common
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 
