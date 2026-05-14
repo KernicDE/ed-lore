@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3301-11-18'
 last_seen_date: '3301-11-18'
 mention_count: 1
+system: HIP 8396
+station_type: Starport
 related_entities:
 - sirius-corporation
 - hip-8396

@@ -158,6 +158,7 @@ GARBAGE_ENTITY_IDS: set[str] = {
     "skyglow-havens", "simpsons-eden",
     "slough",
     "solo-orbiter",
+    "stillman-hub-in-the-hip-22550",
 }
 
 LOCATION_BLOCKLIST = {

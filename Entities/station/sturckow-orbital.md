@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3308-04-28'
 last_seen_date: '3308-05-12'
 mention_count: 2
+system: Lesheima
+station_type: Starport
 related_entities:
 - salvation
 - didio
