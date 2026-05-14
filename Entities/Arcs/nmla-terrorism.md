@@ -17,7 +17,7 @@ description: The Neo-Marlinist Liberation Army's campaign of terror against the 
   in the Battle of Summerland and exposure of the Lords of Restoration.
 phases:
 - 'Phase 1: The Nine Martyrs (3307-03-11)'
-- 'Phase 2: Prince Harold's Assassination (3306-10-20)'
+- 'Phase 2: Prince Harold''s Assassination (3306-10-20)'
 - 'Phase 3: The Battle of Summerland (3308-02-24)'
 summary: The NMLA's terrorist campaign against the Empire, from the Nine Martyrs attack
   to their defeat at Summerland and the exposure of Imperial senators who secretly funded
