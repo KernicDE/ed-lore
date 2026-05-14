@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3308-09-12'
 last_seen_date: '3308-09-29'
 mention_count: 2
+system: Chun Pindit
+station_type: Starport
 related_entities:
 - pilots-federation
 - 42-n-persei
