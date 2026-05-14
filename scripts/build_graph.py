@@ -155,6 +155,7 @@ GARBAGE_ENTITY_IDS: set[str] = {
     "rocky-ice-body", "ridley-scott",
     "shajn-market-in-the-kamadhenu", "several-military-ports-across-the-core",
     "san-francisco",
+    "skyglow-havens", "simpsons-eden",
 }
 
 LOCATION_BLOCKLIST = {

@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3301-04-03'
 last_seen_date: '3301-04-03'
 mention_count: 1
+system: Facece
+station_type: Starport
 related_entities:
 - facece
 - imperial-palace

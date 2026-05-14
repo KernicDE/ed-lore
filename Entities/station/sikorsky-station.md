@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3304-04-27'
 last_seen_date: '3304-05-04'
 mention_count: 2
+system: Vadimo
+station_type: Starport
 related_entities:
 - vadimo-patrons-of-law
 - vadimo
