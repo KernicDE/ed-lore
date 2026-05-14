@@ -1,7 +1,7 @@
 ---
 id: kutshillu
 name: Kutshillu
-type: station
+type: system
 first_seen_date: '3304-08-25'
 last_seen_date: '3304-08-25'
 mention_count: 1

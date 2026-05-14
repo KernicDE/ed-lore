@@ -2,6 +2,7 @@
 id: noctrach-ihazevich-research-facility
 name: Noctrach-Ihazevich Research facility
 type: station
+system: Pleiades Sector AB-W b2-4
 first_seen_date: '3302-11-22'
 last_seen_date: '3302-11-22'
 mention_count: 1

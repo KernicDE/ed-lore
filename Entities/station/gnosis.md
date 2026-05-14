@@ -2,6 +2,7 @@
 id: gnosis
 name: Gnosis
 type: station
+system: Varati
 first_seen_date: '3303-06-21'
 last_seen_date: '3303-06-21'
 mention_count: 1

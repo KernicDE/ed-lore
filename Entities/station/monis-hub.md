@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3303-05-26'
 last_seen_date: '3303-06-02'
 mention_count: 2
+system: Maia
+station_type: Outpost
 related_entities:
 - merope-expeditionary-fleet
 - pleiades-resource-enterprise

@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3304-09-20'
 last_seen_date: '3304-09-20'
 mention_count: 1
+system: Sol
+station_type: Outpost
 related_entities:
 - federal-security-service
 - copernicus-shipping-ltd

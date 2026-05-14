@@ -2,6 +2,7 @@
 id: overlook
 name: Overlook
 type: station
+system: HIP 22460
 first_seen_date: '3308-07-27'
 last_seen_date: '3308-07-27'
 mention_count: 1

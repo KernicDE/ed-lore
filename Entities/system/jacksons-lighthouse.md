@@ -1,7 +1,7 @@
 ---
 id: jacksons-lighthouse
 name: Jackson’s Lighthouse
-type: station
+type: system
 first_seen_date: '3301-08-10'
 last_seen_date: '3301-08-10'
 mention_count: 1

@@ -2,6 +2,7 @@
 id: exigus-campus
 name: Exigus campus
 type: station
+system: Exigus
 first_seen_date: '3302-02-15'
 last_seen_date: '3302-03-11'
 mention_count: 2
