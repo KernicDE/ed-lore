@@ -12,6 +12,8 @@ bio: Sullivan Dock is a starport in the Elite Dangerous universe, significant fr
   3302-09-01 to 3302-09-08. Associated with AEF Legion of LFT 133. The AEF Legion
   of LFT 133 has issued an appeal for gold deliveries to Sullivan Dock and placed
   a kill order on wanted ships operating in the LFT 133 system to protect traders.
+system: LFT 133
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

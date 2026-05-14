@@ -15,6 +15,8 @@ bio: Greeboski's Outpost is a outpost in the Elite Dangerous universe, significa
   been received to upgrade Greeboski's Outpost in the Phiagre system. Hundreds of
   pilots responded to the appeal, and the outpost will now feature state-of-the-art
   services and facilities.
+system: Phiagre
+station_type: Outpost
 ---
 
 <!-- AUTO-GENERATED -->

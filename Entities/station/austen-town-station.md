@@ -13,6 +13,8 @@ bio: Austen Town Station is a starport in the Elite Dangerous universe, signific
   has issued a kill order on wanted ships and will reward pilots who deliver bounty
   vouchers to Austen Town Station. Hundreds of pilots participated in the operation,
   and rewards are now available for collection at Austen Town Station.
+system: Arque
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

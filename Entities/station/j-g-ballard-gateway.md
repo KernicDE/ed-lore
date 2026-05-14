@@ -13,6 +13,8 @@ related_entities:
 bio: 'J. G. Ballard Gateway is a star system in the Elite Dangerous universe, significant
   from 3302-06-30 to 3302-07-07. Associated with Graill Redd Liberals, Workers Party
   of G 176-29, Citizen Party of G146-60. '
+system: Graill Redd
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

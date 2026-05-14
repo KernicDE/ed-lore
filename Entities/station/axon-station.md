@@ -14,6 +14,8 @@ bio: Axon Station is a starport in the Elite Dangerous universe, significant fro
   3302-07-28 to 3302-08-04. Associated with Empire, Zagoro Imperial Society. The Empire's
   appeal for meta-alloys concluded successfully, with large quantities delivered to
   Axon Station in the Zagoro system.
+system: Zagoro
+station_type: Orbital Station
 ---
 
 <!-- AUTO-GENERATED -->

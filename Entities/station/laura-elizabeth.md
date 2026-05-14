@@ -13,6 +13,8 @@ bio: Laura Elizabeth is a star system in the Elite Dangerous universe, significa
   from 3302-07-14 to 3302-07-21. Associated with EG Pilots, The Sovereign. The final
   stage of the Rise to Power competition requires pilots to salvage precious gems
   and deliver them to Laura Elizabeth in the Meropis system.
+system: Meropis
+station_type: Megaship
 ---
 
 <!-- AUTO-GENERATED -->
