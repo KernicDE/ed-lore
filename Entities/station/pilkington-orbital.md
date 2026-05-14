@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3303-12-08'
 last_seen_date: '3303-12-16'
 mention_count: 2
+system: Einheriar
+station_type: Starport
 related_entities:
 - colonia-council
 - einheriar

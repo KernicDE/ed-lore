@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3301-03-07'
 last_seen_date: '3301-03-07'
 mention_count: 1
+system: Falisci
+station_type: Starport
 related_entities:
 - citizens-of-tradition
 - falisci-purple-gang

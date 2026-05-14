@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3301-07-23'
 last_seen_date: '3301-07-23'
 mention_count: 1
+system: BD-22 3573
+station_type: Starport
 related_entities:
 - alliance
 - alliance-defence-force

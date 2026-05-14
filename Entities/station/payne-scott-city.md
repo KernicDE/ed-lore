@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3307-04-08'
 last_seen_date: '3307-12-02'
 mention_count: 2
+system: Mudhrid
+station_type: Starport
 related_entities:
 - epsilon-fornacis-empire-group
 - neo-marlinist-order-of-mudhrid
