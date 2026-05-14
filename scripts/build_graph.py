@@ -142,6 +142,7 @@ GARBAGE_ENTITY_IDS: set[str] = {
     "enterprise", "fontaine", "fuleum", "faraway", "furuhjelm-i-645",
     "forge-megaship-in-the-hip-55014",
     "garden-city-gallery",
+    "hahn-gateway-in-the-nanomam",
 }
 
 LOCATION_BLOCKLIST = {
