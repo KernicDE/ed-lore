@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3302-01-21'
 last_seen_date: '3302-01-21'
 mention_count: 1
+system: HIP 112974
+station_type: Starport
 related_entities:
 - green-party-of-hip-112974
 - hip-112974

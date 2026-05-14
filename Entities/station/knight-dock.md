@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3301-03-20'
 last_seen_date: '3301-03-20'
 mention_count: 1
+system: Lugh
+station_type: Starport
 related_entities:
 - federal-marines
 - crimson-state-group

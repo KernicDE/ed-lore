@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3301-05-13'
 last_seen_date: '3301-05-13'
 mention_count: 1
+system: Persephone
+station_type: Starport
 related_entities:
 - quivira
 - summerland

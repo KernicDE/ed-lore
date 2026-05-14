@@ -1,10 +1,12 @@
 ---
-id: krylov-ring-in-the-he-bo
-name: Krylov Ring in the He Bo
+id: krylov-ring
+name: Krylov Ring
 type: station
 first_seen_date: '3307-03-18'
 last_seen_date: '3307-03-18'
 mention_count: 1
+system: He Bo
+station_type: Starport
 related_entities:
 - alliance
 - nmla

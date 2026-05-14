@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3301-08-11'
 last_seen_date: '3301-08-11'
 mention_count: 1
+system: Artemis
+station_type: Starport
 related_entities:
 - federal-times
 - transport-safety-authority

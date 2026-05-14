@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3301-04-24'
 last_seen_date: '3301-04-24'
 mention_count: 1
+system: HR 706
+station_type: Starport
 related_entities:
 - silver-allied-network
 - silver-universal-plc
