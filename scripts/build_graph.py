@@ -566,8 +566,18 @@ def build() -> dict[str, Any]:
             if art.get("arc_id") == arc_id:
                 for e in art.get("entities", []) + art.get("groups", []):
                     counts[make_entity_id(e)] += 1
-        top = sorted(counts.items(), key=lambda x: -x[1])[:8]
-        rec["key_entities"] = [{"id": eid, "mentions": c} for eid, c in top]
+        # Prefer frontmatter key_entities if provided; convert names to IDs
+        fm_keys = rec.get("key_entities")
+        if fm_keys and isinstance(fm_keys, list) and len(fm_keys) > 0 and isinstance(fm_keys[0], str):
+            resolved = []
+            for name in fm_keys[:8]:
+                eid = make_entity_id(name)
+                if eid in graph["entities"]:
+                    resolved.append({"id": eid, "mentions": counts.get(eid, 1)})
+            rec["key_entities"] = resolved
+        else:
+            top = sorted(counts.items(), key=lambda x: -x[1])[:8]
+            rec["key_entities"] = [{"id": eid, "mentions": c} for eid, c in top]
 
     graph["meta"]["article_count"] = len(graph["articles"])
     graph["meta"]["entity_count"] = len(graph["entities"])
