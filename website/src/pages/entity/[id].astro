@@ -212,9 +212,6 @@ function slugify(name: string): string {
           {entity?.government && (
             <div><span style="color: var(--text-dim);">Government:</span> <span style="color: var(--text-primary);">{entity.government}</span></div>
           )}
-          {entity?.controlling_faction && (
-            <div><span style="color: var(--text-dim);">Controlling Faction:</span> <span style="color: var(--text-primary);">{entity.controlling_faction}</span></div>
-          )}
           {entity?.security && (
             <div><span style="color: var(--text-dim);">Security:</span> <span style="color: var(--text-primary);">{entity.security}</span></div>
           )}
@@ -225,6 +222,12 @@ function slugify(name: string): string {
             <div><span style="color: var(--text-dim);">Population:</span> <span style="color: var(--text-primary);">{formatNumber(entity.population)}</span></div>
           )}
         </div>
+        {entity?.controlling_faction && (
+          <div style="margin-top: 8px; font-size: 13px;">
+            <span style="color: var(--text-dim);">Controlling Faction:</span>{' '}
+            <span style="color: var(--text-primary);">{entity.controlling_faction}</span>
+          </div>
+        )}
       </div>
     )}
 
