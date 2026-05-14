@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3308-11-29'
 last_seen_date: '3310-09-19'
 mention_count: 2
+system: Sirius
+station_type: Starport
 related_entities:
 - sirius-corporation
 - rhea

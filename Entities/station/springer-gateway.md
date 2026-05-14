@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3309-09-28'
 last_seen_date: '3309-09-28'
 mention_count: 1
+system: Senlu
+station_type: Starport
 related_entities:
 - aegis
 - sirius-corporation

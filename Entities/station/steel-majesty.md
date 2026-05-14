@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3307-12-02'
 last_seen_date: '3307-12-07'
 mention_count: 2
+system: Mudhrid
+station_type: Megaship
 related_entities:
 - nmla
 - far-god-cult
