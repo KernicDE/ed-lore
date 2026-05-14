@@ -1,0 +1,57 @@
+---
+id: pegasi-sector-pn-t-c3-14
+name: Pegasi Sector PN-T c3-14
+type: system
+first_seen_date: '3307-04-15'
+last_seen_date: '3308-05-24'
+mention_count: 10
+related_entities:
+- kumo-crew
+- pilots-federation
+- kumo-city
+- harma
+- kumo-council
+coords:
+  x: -100.71875
+  y: -97.71875
+  z: 15
+allegiance: Independent
+government: Anarchy
+controlling_faction: Harma Silver Cartel
+population: 75000000
+security: Anarchy
+economy: Industrial
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system/id/109665/name/Pegasi%20Sector%20PN-T%20c3-14
+inara_url: https://inara.cz/elite/starsystem/?search=Pegasi%20Sector%20PN-T%20c3-14
+bio: 'Pegasi Sector PN-T c3-14 is a system in Elite Dangerous, significant from 3307-04-15
+  to 3308-05-24. Associated with Kumo Crew, Pilots Federation. Notable events include:
+  The Kumo Crew syndicate launches a campaign to construct up to five new Orbis starports
+  in uninhabited systems near key trading regions.; The Kumo Crew''s starport construction
+  campaign concludes successfully.'
+---
+
+
+
+
+<!-- AUTO-GENERATED -->
+
+# Pegasi Sector PN-T c3-14
+
+First mentioned: **3307-04-15**  
+Last mentioned: **3308-05-24**  
+Total mentions: **10**
+
+## Related
+
+- [[Kumo Crew]] (9 co-mentions)
+- [[Pilots Federation]] (8 co-mentions)
+- [[Kumo City]] (7 co-mentions)
+- [[Harma]] (6 co-mentions)
+- [[Kumo Council]] (5 co-mentions)
+
+## Biography
+
+Pegasi Sector PN-T c3-14 is a system in the Pegasi Sector that served as the base of operations for the Blue Viper Club dredger clan during its partnership with the Kumo Crew. In May 3308, the Blue Viper Club unexpectedly severed ties with Archon Delaine's syndicate and departed the system for an unknown destination, taking Kay Volantyne with them.
+
+The clan had formed its partnership with the Kumo Crew in July 3307, providing a new narcotic crop that became known as the Onionhead gamma strain. The abrupt departure from Pegasi Sector PN-T c3-14 raised questions about whether Volantyne and Vidar Trask had conspired to depose Delaine, with speculation that a secret meeting at the Jokers' Deck gambling circle had provided the financial backing for a joint coup. The system's role in the Kumo Crew civil war highlighted the fragility of alliances between pirate syndicates and nomadic dredger clans.

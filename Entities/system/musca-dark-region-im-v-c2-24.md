@@ -1,0 +1,52 @@
+---
+id: musca-dark-region-im-v-c2-24
+name: Musca Dark Region IM-V C2-24
+type: system
+first_seen_date: '3306-11-26'
+last_seen_date: '3306-11-26'
+mention_count: 1
+related_entities:
+- alliance
+- pilots-federation
+- coalsack-nebula
+- musca-dark-region-pj-p-b6-1
+- coalsack-sector-vu-0-b6-6
+coords:
+  x: 458.25
+  y: -8.8125
+  z: 287.09375
+allegiance: Alliance
+government: Corporate
+controlling_faction: The Allied Commission
+population: 356737
+security: Low
+economy: Industrial
+second_economy: Military
+edsm_url: https://www.edsm.net/en/system/id/361127/name/Musca%20Dark%20Region%20IM-V%20C2-24
+inara_url: https://inara.cz/elite/starsystem/?search=Musca%20Dark%20Region%20IM-V%20C2-24
+bio: 'Musca Dark Region IM-V C2-24 is a star system in the Elite Dangerous universe,
+  significant from 3306-11-26 to 3306-11-26. Associated with Pilots Federation, Alliance. '
+---
+
+
+
+
+<!-- AUTO-GENERATED -->
+
+# Musca Dark Region IM-V C2-24
+
+First mentioned: **3306-11-26**  
+Last mentioned: **3306-11-26**  
+Total mentions: **1**
+
+## Related
+
+- [[Alliance]] (1 co-mentions)
+- [[Pilots Federation]] (1 co-mentions)
+- [[Coalsack Nebula]] (1 co-mentions)
+- [[Musca Dark Region PJ-P b6-1]] (1 co-mentions)
+- [[Coalsack Sector VU-0 B6-6]] (1 co-mentions)
+
+## Biography
+
+*[To be enriched]*

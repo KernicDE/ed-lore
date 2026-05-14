@@ -163,6 +163,8 @@ GARBAGE_ENTITY_IDS: set[str] = {
     "titan",
     "st-r-b4-3-1",
     "hartsfield",
+    "musca-dark-region-pj-p-b6-1-is-a-busy",
+    "taranis-in-the-hyades-sector-yo-q-b5-1",
 }
 
 LOCATION_BLOCKLIST = {
