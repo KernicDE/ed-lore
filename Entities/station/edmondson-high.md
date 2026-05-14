@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3308-05-12'
 last_seen_date: '3308-05-19'
 mention_count: 2
+system: Beta Hydri
+station_type: Starport
 related_entities:
 - federal-times
 - beta-hydri

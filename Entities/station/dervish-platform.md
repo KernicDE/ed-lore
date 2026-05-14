@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3303-12-15'
 last_seen_date: '3303-12-22'
 mention_count: 2
+system: Ogmar
+station_type: Starport
 related_entities:
 - galcop-colonial-defence-commission
 - ogmar

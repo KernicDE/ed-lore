@@ -137,6 +137,7 @@ GARBAGE_ENTITY_IDS: set[str] = {
     "all-shipyards-within-the-alioth", "adeness",
     "brunel-city", "blenkinsop-hub-in-the-andavandul",
     "buckey-hub",
+    "denton", "dublin-citadel-in-the-gateway", "dawes-hub-in-the-achenar",
 }
 
 LOCATION_BLOCKLIST = {

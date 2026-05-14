@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3303-07-07'
 last_seen_date: '3303-07-07'
 mention_count: 1
+system: LHS 3447
+station_type: Starport
 related_entities:
 - pilots-federation
 - lhs-3447

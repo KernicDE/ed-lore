@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3302-10-14'
 last_seen_date: '3302-10-14'
 mention_count: 1
+system: Eagle Sector IR-W d1-117
+station_type: Planetary Port
 related_entities:
 - latugara-plc
 - colonia-nebula

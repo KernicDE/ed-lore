@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3304-10-11'
 last_seen_date: '3304-10-18'
 mention_count: 2
+system: Kagutsuchi
+station_type: Starport
 related_entities:
 - close-encounters-corps
 - bd-12-1172
