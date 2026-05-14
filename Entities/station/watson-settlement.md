@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3302-05-19'
 last_seen_date: '3302-05-19'
 mention_count: 1
+system: Neits
+station_type: Starport
 related_entities:
 - neits-jet-life-ltd
 - gr-316-silver-universal-group

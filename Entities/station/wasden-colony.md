@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3302-05-06'
 last_seen_date: '3302-05-06'
 mention_count: 1
+system: Halbara
+station_type: Starport
 related_entities:
 - carmack-intergalactic-mining-association
 - halbara
