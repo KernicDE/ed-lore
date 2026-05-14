@@ -1,7 +1,7 @@
 ---
 id: mars
 name: Mars
-type: system
+type: body
 first_seen_date: '3301-02-17'
 last_seen_date: '3311-12-18'
 mention_count: 87

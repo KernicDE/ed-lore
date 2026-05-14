@@ -2,6 +2,10 @@
 id: ceeckia-zq-l-c24-0
 name: Ceeckia ZQ-L c24-0
 type: system
+population: 0
+allegiance: None
+security: Anarchy
+economy: None
 first_seen_date: '3302-03-29'
 last_seen_date: '3302-03-29'
 mention_count: 1

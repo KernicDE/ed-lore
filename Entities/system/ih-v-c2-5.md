@@ -2,6 +2,11 @@
 id: ih-v-c2-5
 name: IH-V C2-5
 type: system
+allegiance: Independent
+government: Patronage
+population: 1210000
+economy: Military / Industrial
+security: Medium
 first_seen_date: '3303-09-30'
 last_seen_date: '3303-09-30'
 mention_count: 1

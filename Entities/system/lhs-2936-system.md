@@ -16,6 +16,7 @@ coords:
 population: 26165555
 allegiance: Alliance
 government: Democracy
+security: Low
 edsm_url: https://www.edsm.net/en/system?search=LHS%202936
 bio: LHS 2936 system is a star system in the Elite Dangerous universe, significant
   from 3302-02-04 to 3302-02-11. Associated with LHS 2936 Alliance Combine, Alliance.

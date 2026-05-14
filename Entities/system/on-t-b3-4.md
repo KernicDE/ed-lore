@@ -2,6 +2,10 @@
 id: on-t-b3-4
 name: ON-T B3-4
 type: system
+population: 0
+allegiance: None
+security: Anarchy
+economy: None
 first_seen_date: '3302-02-18'
 last_seen_date: '3302-02-18'
 mention_count: 1

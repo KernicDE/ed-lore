@@ -2,6 +2,10 @@
 id: jacksons-lighthouse
 name: Jackson’s Lighthouse
 type: system
+allegiance: Federation
+population: 0
+security: Low
+economy: None
 first_seen_date: '3301-08-10'
 last_seen_date: '3301-08-10'
 mention_count: 1

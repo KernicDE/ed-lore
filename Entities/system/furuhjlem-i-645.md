@@ -2,6 +2,10 @@
 id: furuhjlem-i-645
 name: Furuhjlem I-645
 type: system
+population: 0
+allegiance: None
+security: Anarchy
+economy: None
 first_seen_date: '3301-04-28'
 last_seen_date: '3301-05-06'
 mention_count: 2

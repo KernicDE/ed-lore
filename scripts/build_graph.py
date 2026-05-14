@@ -162,6 +162,7 @@ GARBAGE_ENTITY_IDS: set[str] = {
     "tanner-settlement-in-the-polevnic",
     "titan",
     "st-r-b4-3-1",
+    "hartsfield",
 }
 
 LOCATION_BLOCKLIST = {

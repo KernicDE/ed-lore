@@ -1,7 +1,7 @@
 ---
 id: earth
 name: Earth
-type: system
+type: body
 first_seen_date: '3301-03-20'
 last_seen_date: '3311-06-03'
 mention_count: 19

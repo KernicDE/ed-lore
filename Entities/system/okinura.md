@@ -13,6 +13,11 @@ coords:
   y: 0.375
   z: -30.25
 edsm_url: https://www.edsm.net/en/system?search=Okinura
+allegiance: Federation
+government: Democracy
+population: 250000
+security: High
+economy: Service
 bio: Okinura system is a star system in the Elite Dangerous universe, significant
   from 3302-02-11 to 3302-02-18. Associated with Earth Defence Fleet. The Earth Defence
   Fleet plans to transform Okinura into a high-tech trading hub positioned between
