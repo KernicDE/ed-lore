@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3301-02-08'
 last_seen_date: '3301-02-08'
 mention_count: 1
+system: Balaikda
+station_type: Starport
 related_entities:
 - chelomy-vision-fight-club
 - sol

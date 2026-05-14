@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3304-02-02'
 last_seen_date: '3304-02-09'
 mention_count: 2
+system: LP 128-32
+station_type: Starport
 related_entities:
 - alliance
 - synuefai-eb-r-c7-5

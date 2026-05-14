@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3303-12-23'
 last_seen_date: '3303-12-23'
 mention_count: 1
+system: HIP 17497
+station_type: Starport
 related_entities:
 - hip-17694
 - electra

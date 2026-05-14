@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3302-09-07'
 last_seen_date: '3302-09-07'
 mention_count: 1
+system: Medzistha
+station_type: Starport
 related_entities:
 - pilots-federation
 - buckyball-racing-club

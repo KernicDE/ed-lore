@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3304-09-20'
 last_seen_date: '3304-09-27'
 mention_count: 2
+system: Anima
+station_type: Starport
 related_entities:
 - supratech
 - herculean-machines

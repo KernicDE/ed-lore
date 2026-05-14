@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3302-05-26'
 last_seen_date: '3302-05-26'
 mention_count: 1
+system: HIP 19072
+station_type: Outpost
 related_entities:
 - alliance
 - hip-19072

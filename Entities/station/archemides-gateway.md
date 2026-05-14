@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3303-02-23'
 last_seen_date: '3303-02-23'
 mention_count: 1
+system: Sutekh
+station_type: Starport
 related_entities:
 - united-sutekh-future
 - adad-exchange

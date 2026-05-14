@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3301-08-26'
 last_seen_date: '3301-08-26'
 mention_count: 1
+system: Heike
+station_type: Starport
 related_entities:
 - emperors-dawn
 - interstellar-press

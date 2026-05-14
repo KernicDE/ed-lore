@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3304-02-09'
 last_seen_date: '3304-02-16'
 mention_count: 2
+system: Airman Di
+station_type: Starport
 related_entities:
 - utopia
 - airman-di

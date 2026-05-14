@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3309-05-02'
 last_seen_date: '3309-05-09'
 mention_count: 2
+system: YZ Ceti
+station_type: Starport
 related_entities:
 - aegis
 - maelstrom

@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3307-05-13'
 last_seen_date: '3307-05-13'
 mention_count: 1
+system: HIP 18390
+station_type: Starport
 related_entities:
 - aegis
 - kumo-crew

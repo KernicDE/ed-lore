@@ -136,6 +136,7 @@ GARBAGE_ENTITY_IDS: set[str] = {
     "pranav-antal", "the-entire", "star",
     "all-shipyards-within-the-alioth", "adeness",
     "brunel-city", "blenkinsop-hub-in-the-andavandul",
+    "buckey-hub",
 }
 
 LOCATION_BLOCKLIST = {

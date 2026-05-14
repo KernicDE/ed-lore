@@ -1,10 +1,12 @@
 ---
 id: chione
 name: Chione
-type: station
+type: body
 first_seen_date: '3302-08-13'
 last_seen_date: '3302-08-13'
 mention_count: 1
+system: Prism
+body_type: Moon
 related_entities:
 - imperial-citizen
 - reclamists

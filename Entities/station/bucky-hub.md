@@ -5,6 +5,8 @@ type: station
 first_seen_date: '3302-01-07'
 last_seen_date: '3302-01-07'
 mention_count: 1
+system: Cherets
+station_type: Starport
 related_entities:
 - independent-cherets-labour
 - cherets
