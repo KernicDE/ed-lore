@@ -66,3 +66,8 @@ scripts/audio_generation.log
 
 # Synology internal files
 @eaDir/
+
+# AI assistant files
+AGENTS.md
+
+CLAUDE.md
