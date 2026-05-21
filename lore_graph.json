@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-05-14T16:04:18.702969Z",
-    "article_count": 2554,
+    "generated_at": "2026-05-21T06:41:19.638069Z",
+    "article_count": 2555,
     "entity_count": 3232,
     "arc_count": 35
   },
@@ -109155,6 +109155,44 @@
       "word_count": 222,
       "archive_path": "Archive/3312/05/14_civilians_evacuated_safely_as_criminal_attacks_defeated.md",
       "has_audio": true
+    },
+    {
+      "uuid": "43fcdcb8-4b9a-523a-9c12-cede4107898a",
+      "title": "Jaques Station Celebrates Tenth Anniversary of Historic Jump",
+      "slug": "jaques_station_celebrates_tenth_anniversary_of_historic_jump",
+      "date": "3312-05-19",
+      "source": "API",
+      "entities": [
+        "Jaques Station"
+      ],
+      "groups": [
+        "Vox Galactica",
+        "Colonia Council"
+      ],
+      "locations": [
+        "Beagle Point"
+      ],
+      "topics": [
+        "colonisation",
+        "community event"
+      ],
+      "arc_id": "jaques-station",
+      "arc_chapter": null,
+      "summary": "Jaques Station marks ten years since its historic misjump to the Colonia region. Jaques hints at upcoming celebrations that will have a lasting impact on the frontier colony.",
+      "player_impact": "Pilots can anticipate upcoming community events tied to Colonia's tenth anniversary celebrations.",
+      "modern_impact": "Colonia has grown from an accidental settlement into a thriving deep-space civilization. The anniversary highlights how a single station's misjump reshaped humanity's frontier expansion.",
+      "persons": [
+        "Jaques"
+      ],
+      "technologies": [],
+      "legacy_weight": 2,
+      "significance": "low",
+      "related_uuids": [],
+      "body_full": "Today marks the tenth anniversary of the Jaques Station’s historic jump that eventually led to the founding of Colonia.\nFollowing a successful community drive to supply the Orbis starport with fuel the week before, the station departed for its intended journey to Beagle Point. However, due to Thargoid sensor interference, it emerged from hyperspace in the Eol Prou RS-T d3-94 system. This system later became known as Colonia.\nJaques, the cyborg bartender and owner of the starport, recalled that event with Vox Galactica:\n“I remember that day so vividly! A wildly ambitious endeavour at the time, too. It’s hard to imagine ever doing that again.”\n“Ten years later and Jaques Station is still open, still serving drinks and still selling my famous Jaques Quinentian Still to potent potable enthusiasts. Most importantly, Colonia is thriving. It’s high time we celebrated this, I’d say!”\nWhen pressed for more information Jaques simply replied “Soon” with a cybernetic wink, and hinted that the intended celebrations to mark Colonia’s tenth anniversary would have a lasting impact should plan go well.\nVox Galactica will be in regular contact with Jaques and the Colonia Council and provide updates ahead of this auspicious occasion.",
+      "body_preview": "Today marks the tenth anniversary of the Jaques Station’s historic jump that eventually led to the founding of Colonia.\nFollowing a successful community drive to supply the Orbis starport with fuel the week before, the station departed for its intended journey to Beagle Point. However, due to Thargoid sensor interference, it emerged from hyperspace in the Eol Prou RS-T d3-94 system. This system later became known as Colonia.\nJaques, the cyborg bartender and owner of the starport, recalled that e...",
+      "word_count": 196,
+      "archive_path": "Archive/3312/05/19_jaques_station_celebrates_tenth_anniversary_of_historic_jump.md",
+      "has_audio": false
     }
   ],
   "entities": {
@@ -109421,6 +109459,83 @@
         }
       ],
       "related_arcs": []
+    },
+    "jaques-station": {
+      "id": "jaques-station",
+      "name": "Jaques Station",
+      "type": "station",
+      "first_seen_date": "3312-05-19",
+      "last_seen_date": "3312-05-19",
+      "mention_count": 1,
+      "article_uuids": [
+        "43fcdcb8-4b9a-523a-9c12-cede4107898a"
+      ],
+      "bio": "Jaques Station is a starport in Elite Dangerous, significant from 3302-05-05 to 3308-03-10. Associated with Colonia Council, Brewer Corporation. Notable events include: Three members of the cult 'The Hands of the Architects' are apprehended at Jaques Station while attempting to modify the station's Frame Shift Drive.; *Pilots Federation ALERT* The Holloway Bioscience Institute has rewarded pilots who delivered living matter extracted from space-dwelling organisms.",
+      "affiliations": [],
+      "related_entities": [
+        {
+          "id": "gliese-1269",
+          "mentions": 6,
+          "shared": 54
+        },
+        {
+          "id": "sol",
+          "mentions": 1,
+          "shared": 52
+        },
+        {
+          "id": "lave",
+          "mentions": 1,
+          "shared": 49
+        },
+        {
+          "id": "harma",
+          "mentions": 1,
+          "shared": 45
+        },
+        {
+          "id": "weyn-dock",
+          "mentions": 1,
+          "shared": 45
+        },
+        {
+          "id": "64-arietis",
+          "mentions": 1,
+          "shared": 45
+        },
+        {
+          "id": "warkushanui",
+          "mentions": 1,
+          "shared": 45
+        },
+        {
+          "id": "skvortsov-orbital",
+          "mentions": 1,
+          "shared": 45
+        },
+        {
+          "id": "gabriel-enterprise",
+          "mentions": 1,
+          "shared": 44
+        },
+        {
+          "id": "korolyov-hub",
+          "mentions": 1,
+          "shared": 44
+        }
+      ],
+      "related_arcs": [],
+      "allegiance": "Independent",
+      "government": "Cooperative",
+      "economy": "High Tech",
+      "second_economy": "Tourism",
+      "system": "Colonia",
+      "station_type": "Orbis Starport",
+      "distance_to_arrival": 1011,
+      "have_market": true,
+      "have_shipyard": true,
+      "have_outfitting": true,
+      "bio_full": "Jaques Station is a legendary mobile starport operated by Jaques, an eccentric cyborg bartender, famous for its ambitious long-range jumps across the galaxy. In 3302, the station attempted an unprecedented leap from Gliese 1269 to Beagle Point — the furthest reachable system from Sol — but malfunctioned due to Unknown Artefact interference and vanished. It was discovered months later by Commander Cly in the Eol Prou RS-T d3-94 system, deep within what would become known as the Colonia Nebula, its Frame Shift Drive damaged beyond repair.\n\nThe station's accidental stranding transformed the remote region into a new frontier for colonisation. With the help of the Fuel Rats and thousands of independent pilots, Jaques Station was repaired and became the founding settlement of the Colonia colony, a self-governing community thousands of light-years from the core systems. Today it remains the spiritual and commercial heart of Colonia, a monument to one of the galaxy's most remarkable rescue missions."
     },
     "chelomy-vision-fight-club": {
       "id": "chelomy-vision-fight-club",
@@ -112757,7 +112872,7 @@
         {
           "id": "vox-galactica",
           "mentions": 4,
-          "shared": 102
+          "shared": 103
         },
         {
           "id": "edmund-mahon",
@@ -129597,8 +129712,8 @@
       "name": "Colonia Council",
       "type": "faction",
       "first_seen_date": "3302-10-20",
-      "last_seen_date": "3307-10-29",
-      "mention_count": 28,
+      "last_seen_date": "3312-05-19",
+      "mention_count": 29,
       "article_uuids": [
         "09a290af-4a3e-5721-bbf2-fd0474291d43",
         "50ccf185-d72b-5a92-8231-4509d2c4eb78",
@@ -129627,7 +129742,8 @@
         "e783725b-8d86-5738-8724-b2a1ffaf6f73",
         "52b885e0-a664-5009-bf05-81b023d4ee67",
         "00415e84-de28-5d73-b8b5-76445d03be34",
-        "0c47850f-a5c4-514e-b89e-0d80cf4d5093"
+        "0c47850f-a5c4-514e-b89e-0d80cf4d5093",
+        "43fcdcb8-4b9a-523a-9c12-cede4107898a"
       ],
       "bio": "Colonia Council is a government active in Elite Dangerous lore from 3302-10-20 to 3307-10-29. Frequently associated with Jaques Station, Pleiades Nebula, Dove Enigma. Key activities include: Huge numbers of citizens continue fleeing to Colonia, fearing the Thargoids will target the core systems next.; An attempt to sabotage the Dove Enigma, a Wells-class Carrier in the Colonia system, was thwarted by the galactic community.",
       "affiliations": [],
@@ -129635,7 +129751,7 @@
         {
           "id": "aisling-duval",
           "mentions": 2,
-          "shared": 38
+          "shared": 39
         },
         {
           "id": "jordan-rochester",
@@ -129665,17 +129781,17 @@
         {
           "id": "mars",
           "mentions": 1,
-          "shared": 32
+          "shared": 33
         },
         {
           "id": "federal-intelligence-agency",
           "mentions": 1,
-          "shared": 30
+          "shared": 31
         },
         {
           "id": "sol",
           "mentions": 1,
-          "shared": 29
+          "shared": 31
         },
         {
           "id": "mars-tribune",
@@ -137596,8 +137712,8 @@
       "name": "Vox Galactica",
       "type": "faction",
       "first_seen_date": "3304-09-12",
-      "last_seen_date": "3312-05-14",
-      "mention_count": 34,
+      "last_seen_date": "3312-05-19",
+      "mention_count": 35,
       "article_uuids": [
         "480289fe-b6bf-5762-b6a9-7772ef25226b",
         "4b15fc47-eddd-5453-9b80-2b16b962ac23",
@@ -137632,7 +137748,8 @@
         "8258f5f1-635f-50d8-8a8d-5856072f5386",
         "3955dbb6-c5c8-560b-b4f1-7ca44f5ddc4d",
         "c76cadee-b3d0-501f-8231-6caf7589bc3a",
-        "32ce68df-e133-545f-a0ea-2ae009f1ada6"
+        "32ce68df-e133-545f-a0ea-2ae009f1ada6",
+        "43fcdcb8-4b9a-523a-9c12-cede4107898a"
       ],
       "bio": "Vox Galactica is a organization active in Elite Dangerous lore from 3304-09-12 to 3312-04-30. Frequently associated with Pilots Federation, Interstellar Health Organisation. Key activities include: The second Distant Worlds expedition prepares to launch, with nearly four thousand Commanders set to travel over 200,000 light years through the ga...; Independent pilots report receiving anonymous instructions from a figure calling himself \"Salvation,\" who provides a decryption key for the Adamast...",
       "affiliations": [],
@@ -137640,12 +137757,12 @@
         {
           "id": "pilots-federation",
           "mentions": 4,
-          "shared": 102
+          "shared": 103
         },
         {
           "id": "zachary-hudson",
           "mentions": 2,
-          "shared": 77
+          "shared": 78
         },
         {
           "id": "sirius-corporation",
@@ -137653,14 +137770,14 @@
           "shared": 75
         },
         {
-          "id": "aisling-duval",
-          "mentions": 1,
-          "shared": 63
-        },
-        {
           "id": "sol",
           "mentions": 2,
-          "shared": 62
+          "shared": 64
+        },
+        {
+          "id": "aisling-duval",
+          "mentions": 1,
+          "shared": 64
         },
         {
           "id": "kumo-crew",
@@ -137680,7 +137797,7 @@
         {
           "id": "federal-intelligence-agency",
           "mentions": 3,
-          "shared": 52
+          "shared": 53
         },
         {
           "id": "felicia-winters",
@@ -184307,8 +184424,8 @@
       "name": "Beagle Point",
       "type": "system",
       "first_seen_date": "3302-03-29",
-      "last_seen_date": "3312-03-19",
-      "mention_count": 21,
+      "last_seen_date": "3312-05-19",
+      "mention_count": 22,
       "article_uuids": [
         "d27ded8d-1aef-5ab9-a316-27ec6d7bc189",
         "27019b70-9df7-54ff-ae4e-c5d07dbc4823",
@@ -184330,15 +184447,16 @@
         "432f9416-f1fb-55a0-89b9-82607b354d65",
         "709cb1ad-841a-5f21-b39e-4bbe644d7655",
         "9fa72a0c-5333-5110-90ea-074419826e85",
-        "733415a6-cbfd-5926-a7dc-3a7569d14645"
+        "733415a6-cbfd-5926-a7dc-3a7569d14645",
+        "43fcdcb8-4b9a-523a-9c12-cede4107898a"
       ],
       "bio": "Beagle Point is a system in Elite Dangerous, significant from 3302-03-29 to 3312-03-19. Associated with Deep Space Surveys. Notable events include: The second Distant Worlds expedition prepares to launch, with nearly four thousand Commanders set to travel over 200,000 light years through the ga...; Jaques Station, the galaxy's only travelling starport, prepares for an ambitious long-distance jump from Gliese 1269 to Beagle Point.",
       "affiliations": [],
       "related_entities": [
         {
           "id": "jaques-station",
-          "mentions": 9,
-          "shared": 26
+          "mentions": 10,
+          "shared": 28
         },
         {
           "id": "sagittarius-a",
@@ -184351,19 +184469,19 @@
           "shared": 16
         },
         {
-          "id": "gliese-1269",
-          "mentions": 6,
-          "shared": 15
-        },
-        {
           "id": "sol",
           "mentions": 2,
-          "shared": 15
+          "shared": 16
         },
         {
           "id": "jaques",
+          "mentions": 7,
+          "shared": 15
+        },
+        {
+          "id": "gliese-1269",
           "mentions": 6,
-          "shared": 13
+          "shared": 15
         },
         {
           "id": "distant-worlds-expedition",
@@ -184376,14 +184494,14 @@
           "shared": 13
         },
         {
-          "id": "fuel-rats",
-          "mentions": 3,
+          "id": "eol-prou-rs-t-d3-94",
+          "mentions": 4,
           "shared": 12
         },
         {
-          "id": "eol-prou-rs-t-d3-94",
-          "mentions": 4,
-          "shared": 11
+          "id": "fuel-rats",
+          "mentions": 3,
+          "shared": 12
         }
       ],
       "related_arcs": [],
@@ -186384,124 +186502,6 @@
       "have_shipyard": true,
       "have_outfitting": true
     },
-    "jaques-station": {
-      "id": "jaques-station",
-      "name": "Jaques Station",
-      "type": "station",
-      "first_seen_date": "3302-05-05",
-      "last_seen_date": "3308-03-10",
-      "mention_count": 42,
-      "article_uuids": [
-        "ca336671-285c-54b4-9c50-3b2c5cafda2f",
-        "4d7c597e-0996-5384-89fa-f96749b6bb7b",
-        "581477c5-afa7-5805-bc6b-f58e204f9bf0",
-        "157b98f9-9126-5564-b254-2cbba5d2f266",
-        "7863ec80-d3ac-5c4d-b5d5-0935733c5f4d",
-        "abc03646-a8a8-5932-8f8a-0ee83fd2c9b7",
-        "0634cce4-4cff-5261-81c7-4723f54899ac",
-        "ec1824a2-b9ca-5be8-8a99-d7a01d368244",
-        "75d079b9-fea7-50f0-9079-6cc3e119baff",
-        "d793daba-f144-55f6-ac47-629cbfc5b45e",
-        "be1af412-6fb7-5969-a901-3ae0f67400b6",
-        "91fa0289-80ce-579f-9347-65927ec50811",
-        "f5bc9303-58d8-55b4-8546-992a89315653",
-        "44ea0feb-1a55-57ba-9dc2-44d90fb3c275",
-        "aec8c033-bc2b-50dc-a29c-f184dfe139fb",
-        "ddd603e6-59fd-591f-b094-8bc0e5b0d5ab",
-        "b9be1738-ac61-536b-8b50-d9dc091e5147",
-        "eda4cfe1-e27c-5303-a7dc-c613c5400d4e",
-        "cc368b7d-06ac-5261-9a3c-5f8dbd8d8750",
-        "ac1691f2-54af-52fb-9f86-c33791ca3ed1",
-        "5532a155-7d5e-5a24-be3b-602dc8e25d83",
-        "09a290af-4a3e-5721-bbf2-fd0474291d43",
-        "50ccf185-d72b-5a92-8231-4509d2c4eb78",
-        "e4c41608-fa48-5fe5-b72b-87d190dc99fc",
-        "20cf9b0a-7633-5868-82c2-9c74e25928fc",
-        "b997725a-f24c-5d2e-b616-3a6e13903719",
-        "23997d0a-e1de-57c3-a67b-633ee70c7f67",
-        "54436e18-5fa7-50cf-93b2-142ab37e095f",
-        "c3b6f4fc-90f3-5757-8818-aba3960a60f8",
-        "a3800490-5efc-5e7c-bb48-e3ea15432bd3",
-        "37fdbad2-f575-597f-a4b5-7351cf4ec629",
-        "b576c396-7412-5c98-b455-36aced608d3e",
-        "f61cdff2-8250-5433-95bc-fa598ef22001",
-        "23c15505-2dad-55eb-a304-7e964af5198c",
-        "d36d7bc8-5f5c-550c-a0e6-7390f777470e",
-        "8389259d-a648-5484-9e90-f4b45ab488d5",
-        "b88e6762-e193-5973-92b7-060b3f71309b",
-        "0377cb77-df5d-5d2f-9e79-121abe877a31",
-        "0e12eeff-5c39-5497-9c8f-6709814786be",
-        "c51dda76-58cf-516a-98a9-51c91b991b75",
-        "b1468c62-8abd-578a-be2b-1bd2f4f4a6d5",
-        "e2b736bf-f679-55f3-8824-96bde18804e0"
-      ],
-      "bio": "Jaques Station is a starport in Elite Dangerous, significant from 3302-05-05 to 3308-03-10. Associated with Colonia Council, Brewer Corporation. Notable events include: Three members of the cult 'The Hands of the Architects' are apprehended at Jaques Station while attempting to modify the station's Frame Shift Drive.; *Pilots Federation ALERT* The Holloway Bioscience Institute has rewarded pilots who delivered living matter extracted from space-dwelling organisms.",
-      "affiliations": [],
-      "related_entities": [
-        {
-          "id": "gliese-1269",
-          "mentions": 6,
-          "shared": 54
-        },
-        {
-          "id": "sol",
-          "mentions": 1,
-          "shared": 51
-        },
-        {
-          "id": "lave",
-          "mentions": 1,
-          "shared": 49
-        },
-        {
-          "id": "harma",
-          "mentions": 1,
-          "shared": 45
-        },
-        {
-          "id": "weyn-dock",
-          "mentions": 1,
-          "shared": 45
-        },
-        {
-          "id": "64-arietis",
-          "mentions": 1,
-          "shared": 45
-        },
-        {
-          "id": "warkushanui",
-          "mentions": 1,
-          "shared": 45
-        },
-        {
-          "id": "skvortsov-orbital",
-          "mentions": 1,
-          "shared": 45
-        },
-        {
-          "id": "gabriel-enterprise",
-          "mentions": 1,
-          "shared": 44
-        },
-        {
-          "id": "korolyov-hub",
-          "mentions": 1,
-          "shared": 44
-        }
-      ],
-      "related_arcs": [],
-      "allegiance": "Independent",
-      "government": "Cooperative",
-      "economy": "High Tech",
-      "second_economy": "Tourism",
-      "system": "Colonia",
-      "station_type": "Orbis Starport",
-      "distance_to_arrival": 1011,
-      "have_market": true,
-      "have_shipyard": true,
-      "have_outfitting": true,
-      "bio_full": "Jaques Station is a legendary mobile starport operated by Jaques, an eccentric cyborg bartender, famous for its ambitious long-range jumps across the galaxy. In 3302, the station attempted an unprecedented leap from Gliese 1269 to Beagle Point — the furthest reachable system from Sol — but malfunctioned due to Unknown Artefact interference and vanished. It was discovered months later by Commander Cly in the Eol Prou RS-T d3-94 system, deep within what would become known as the Colonia Nebula, its Frame Shift Drive damaged beyond repair.\n\nThe station's accidental stranding transformed the remote region into a new frontier for colonisation. With the help of the Fuel Rats and thousands of independent pilots, Jaques Station was repaired and became the founding settlement of the Colonia colony, a self-governing community thousands of light-years from the core systems. Today it remains the spiritual and commercial heart of Colonia, a monument to one of the galaxy's most remarkable rescue missions."
-    },
     "gliese-1269": {
       "id": "gliese-1269",
       "name": "Gliese 1269",
@@ -188272,12 +188272,12 @@
         {
           "id": "jaques",
           "mentions": 6,
-          "shared": 13
+          "shared": 14
         },
         {
           "id": "beagle-point",
           "mentions": 4,
-          "shared": 11
+          "shared": 12
         },
         {
           "id": "commander-cly",
@@ -230614,8 +230614,8 @@
       "name": "Jaques",
       "type": "person",
       "first_seen_date": "3301-02-12",
-      "last_seen_date": "3302-08-10",
-      "mention_count": 11,
+      "last_seen_date": "3312-05-19",
+      "mention_count": 12,
       "article_uuids": [
         "7032e27b-cf0a-5aca-ba1b-9c50e7e9f75c",
         "b8c1669e-339e-5b03-a1c1-7a00b3b79903",
@@ -230627,25 +230627,26 @@
         "be1af412-6fb7-5969-a901-3ae0f67400b6",
         "91fa0289-80ce-579f-9347-65927ec50811",
         "aec8c033-bc2b-50dc-a29c-f184dfe139fb",
-        "b9be1738-ac61-536b-8b50-d9dc091e5147"
+        "b9be1738-ac61-536b-8b50-d9dc091e5147",
+        "43fcdcb8-4b9a-523a-9c12-cede4107898a"
       ],
       "bio": "Jaques is a pilot in the Elite Dangerous universe, active from 3301-02-12 to 3302-08-10. Jaques Station, the galaxy's only travelling starport, prepares for an ambitious long-distance jump from Gliese 1269 to Beagle Point. The Fuel Rats announce that Jaques Station has received sufficient fuel for its proposed jump to Beagle Point.",
       "affiliations": [],
       "related_entities": [
         {
           "id": "jaques-station",
-          "mentions": 9,
-          "shared": 16
+          "mentions": 10,
+          "shared": 18
         },
         {
           "id": "beagle-point",
-          "mentions": 6,
-          "shared": 13
+          "mentions": 7,
+          "shared": 15
         },
         {
           "id": "eol-prou-rs-t-d3-94",
           "mentions": 6,
-          "shared": 13
+          "shared": 14
         },
         {
           "id": "meta-alloys",
@@ -300023,8 +300024,8 @@
       "id": "jaques-station",
       "name": "Jaques Station",
       "first_seen_date": "3302-05-05",
-      "last_seen_date": "3308-06-17",
-      "mention_count": 57,
+      "last_seen_date": "3312-05-19",
+      "mention_count": 58,
       "article_uuids": [
         "ca336671-285c-54b4-9c50-3b2c5cafda2f",
         "4d7c597e-0996-5384-89fa-f96749b6bb7b",
@@ -300082,13 +300083,14 @@
         "8c3b36c3-f675-56a5-946c-a75399220a6d",
         "ce21804c-02a9-587f-9a07-bb47ffc7a247",
         "3526e0a2-8066-57b9-9a91-4acfc80d23e9",
-        "7f00ad08-050b-5a1e-b30c-f03501029ae3"
+        "7f00ad08-050b-5a1e-b30c-f03501029ae3",
+        "43fcdcb8-4b9a-523a-9c12-cede4107898a"
       ],
       "description": "The epic saga of Jaques Station, the galaxy's only travelling starport. Its ambitious attempted jump to Beagle Point ended in disaster and disappearance, but the station was eventually rediscovered in what became the Colonia region, sparking a new wave of colonization.",
       "key_entities": [
         {
           "id": "colonia-council",
-          "mentions": 16
+          "mentions": 17
         },
         {
           "id": "brewer-corporation",
@@ -304111,7 +304113,8 @@
       "05": [
         "3955dbb6-c5c8-560b-b4f1-7ca44f5ddc4d",
         "c76cadee-b3d0-501f-8231-6caf7589bc3a",
-        "32ce68df-e133-545f-a0ea-2ae009f1ada6"
+        "32ce68df-e133-545f-a0ea-2ae009f1ada6",
+        "43fcdcb8-4b9a-523a-9c12-cede4107898a"
       ]
     }
   }

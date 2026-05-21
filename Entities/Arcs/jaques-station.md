@@ -2,7 +2,7 @@
 id: jaques-station
 name: Jaques Station
 first_seen_date: '3302-05-05'
-last_seen_date: '3308-06-17'
+last_seen_date: '3312-05-19'
 mention_count: 57
 significance: medium
 key_entities:
