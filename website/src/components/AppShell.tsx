@@ -18,6 +18,7 @@ interface Article {
   locations: string[];
   topics: string[];
   has_audio: boolean;
+  audio_hash?: string;
   persons?: string[];
   technologies?: string[];
 }

@@ -4,6 +4,7 @@ interface Article {
   uuid: string;
   title: string;
   date: string;
+  audio_hash?: string;
 }
 
 interface AudioPlayerProps {
@@ -15,11 +16,12 @@ const BASE = (import.meta.env.BASE_URL || '/').replace(/\/$/, '');
 // Cloudflare R2 public bucket URL
 const R2_AUDIO_BASE = 'https://pub-4404b20907c141e1b68f3dc578038230.r2.dev/audio';
 
-function getAudioUrl(uuid: string): string {
+function getAudioUrl(uuid: string, hash?: string): string {
+  const suffix = hash ? `?v=${hash}` : '';
   if (R2_AUDIO_BASE) {
-    return `${R2_AUDIO_BASE}/${uuid}.mp3`;
+    return `${R2_AUDIO_BASE}/${uuid}.mp3${suffix}`;
   }
-  return `${BASE}/audio/${uuid}.mp3`;
+  return `${BASE}/audio/${uuid}.mp3${suffix}`;
 }
 
 const LOAD_TIMEOUT_MS = 20_000; // 20 seconds before showing error
@@ -34,7 +36,7 @@ export default function AudioPlayer({ article }: AudioPlayerProps) {
   const rafRef = useRef<number>(0);
   const loadTimeoutRef = useRef<ReturnType<typeof setTimeout> | null>(null);
 
-  const audioUrl = article ? getAudioUrl(article.uuid) : null;
+  const audioUrl = article ? getAudioUrl(article.uuid, article.audio_hash) : null;
 
   // Stop playback when AI mode is turned off
   useEffect(() => {

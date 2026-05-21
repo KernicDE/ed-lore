@@ -20,6 +20,7 @@ interface Article {
   summary?: string;
   related_uuids?: string[];
   has_audio?: boolean;
+  audio_hash?: string;
 }
 
 interface TimelineProps {

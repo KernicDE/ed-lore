@@ -823,6 +823,8 @@ def main() -> int:
         print(f"Audio manifest found: {len(audio_uuids)} files")
     for art in graph["articles"]:
         art["has_audio"] = art["uuid"] in audio_uuids
+        if art["uuid"] in audio_manifest:
+            art["audio_hash"] = audio_manifest[art["uuid"]]
 
     graph_out = {k: v for k, v in graph.items() if k != "entity_cooccurrence"}
     OUTPUT_FILE.write_text(json.dumps(graph_out, indent=2, ensure_ascii=False), encoding="utf-8")
