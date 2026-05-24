@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_at": "2026-05-21T09:51:35.960211Z",
-    "article_count": 2555,
-    "entity_count": 3232,
+    "generated_at": "2026-05-24T12:28:50.269363Z",
+    "article_count": 2556,
+    "entity_count": 3235,
     "arc_count": 35
   },
   "articles": [
@@ -111410,7 +111410,8 @@
         "1bb577e6-52b3-5a63-a983-f1975e27d66b",
         "86dbc944-a8ec-5d85-ab42-44ac9911ac40",
         "c76cadee-b3d0-501f-8231-6caf7589bc3a",
-        "32ce68df-e133-545f-a0ea-2ae009f1ada6"
+        "32ce68df-e133-545f-a0ea-2ae009f1ada6",
+        "e14afd0b-cccc-5083-a0b9-6c7eb7eff35a"
       ],
       "body_full": "Several military ports across the core systems have been targeted in a wave of raids this week, according to Vox Galactica.\nWhile no structural damage was reported at any of the raid locations, system authorities confirmed that military supplies were stolen and security personnel were briefly overwhelmed during the attacks.\nIn several cases, investigators noted that the raids followed a coordinated pattern rather than the opportunistic strikes usually associated with piracy, prompting concerns over organised criminal activity in systems typically considered secure.\nCrime correspondent Mira Bukowski writes:\n“While no single faction has issued a statement to claim responsibility for the attacks, underground sources claim a rogue pirate strategist has united a coalition of pirate ships under one banner. Digital malware displaying a twin axe motif disrupted security networks during the raids, believed to be a calling card of this individual.”\nTrade associations have raised the issue with local governments, warning that confidence among market operators could fall if the perpetrators are not dealt with swiftly.\nFor now, the affected outposts are still operating as normal. But the pattern of the attacks has left many wondering whether a more serious threat may be growing in the shadows.",
       "body_preview": "Several military ports across the core systems have been targeted in a wave of raids this week, according to Vox Galactica.\nWhile no structural damage was reported at any of the raid locations, system authorities confirmed that military supplies were stolen and security personnel were briefly overwhelmed during the attacks.\nIn several cases, investigators noted that the raids followed a coordinated pattern rather than the opportunistic strikes usually associated with piracy, prompting concerns o...",
@@ -111655,7 +111656,8 @@
       "related_uuids": [
         "1bb577e6-52b3-5a63-a983-f1975e27d66b",
         "32ce68df-e133-545f-a0ea-2ae009f1ada6",
-        "46b8ec38-ca04-5680-b3a2-01de047bc6c4"
+        "46b8ec38-ca04-5680-b3a2-01de047bc6c4",
+        "e14afd0b-cccc-5083-a0b9-6c7eb7eff35a"
       ],
       "body_full": "Questions remain unanswered following last week’s unprovoked attacks on starport facilities across Lhou Mans.\nSecurity analysts stated that the attacks bore remarkable similarities to last month’s coordinated attacks across military installations in the core systems.\n“These patterns are usually reserved for military trials and reconnaissance operations,” a senior security observer told Vox Galactica.\n“Simulated attacks are used to probe response times, defensive weak points and the speed with which system security can coordinate with independent pilots.”\nSimilar data malware packages bearing the hallmarks of twin axe motifs have also been witnessed across Lhou Mans networks.\nCrime correspondent Mira Bukowski has revealed evidence from underworld sources allegedly linking the motif to a rogue pirate admiral going by the nom de guerre ‘Lady Zi’ and a coalition fleet directed by a single criminal syndicate.\n“Very few are willing to share more details on who Lady Zi is. We don’t know if this is because they are unaware, or if they’re simply scared,” she added.\nWith evacuation efforts still under way, the attackers’ true motives remain unclear for now. Yet investigators warn that Lhou Mans may have been selected for reasons beyond simple disruption.",
       "body_preview": "Questions remain unanswered following last week’s unprovoked attacks on starport facilities across Lhou Mans.\nSecurity analysts stated that the attacks bore remarkable similarities to last month’s coordinated attacks across military installations in the core systems.\n“These patterns are usually reserved for military trials and reconnaissance operations,” a senior security observer told Vox Galactica.\n“Simulated attacks are used to probe response times, defensive weak points and the speed with wh...",
@@ -111701,7 +111703,8 @@
       "significance": "medium",
       "related_uuids": [
         "c76cadee-b3d0-501f-8231-6caf7589bc3a",
-        "46b8ec38-ca04-5680-b3a2-01de047bc6c4"
+        "46b8ec38-ca04-5680-b3a2-01de047bc6c4",
+        "e14afd0b-cccc-5083-a0b9-6c7eb7eff35a"
       ],
       "body_full": "Security forces and independent combat pilots successfully protected rescue efforts after the recent attacks in Lhou Mans.\nAn alleged coalition of pirate ships hit starports across the system, triggering the evacuation of civilians to safer locations.\nDefence forces managed to defeat and drive out the remaining criminals leaving many to wonder what to expect next from Lady Zi. However, analysts are now confident that all signs are pointing towards larger and bolder coordinated criminal activities than have previously been experienced in the past.\n“The leading theory is that this was a ‘test run’ of sorts, probing system and port defences in this area of space,” Mira Bukowski wrote for Vox Galactica. “What the next phase of this plan could entail is a source of concern for local authorities.”\nMeanwhile, a Zorgon Peterson spokesperson remarked that the new Lynx Highliner performed better than expected under the extreme circumstances.\nEngineers monitoring the vessels internal data also showed that the new Mk II cabins outperformed previous cabin modules for comfort even under the most testing of conditions.\nWith the safe evacuation deemed a success and the new Highliner now available for full distribution across core systems, attention has now turned to repairing the starports damaged in the attack.\nLhou Mans authorities are calling to aid repair efforts and interested pilots should register at Ryman Enterprise.",
       "body_preview": "Security forces and independent combat pilots successfully protected rescue efforts after the recent attacks in Lhou Mans.\nAn alleged coalition of pirate ships hit starports across the system, triggering the evacuation of civilians to safer locations.\nDefence forces managed to defeat and drive out the remaining criminals leaving many to wonder what to expect next from Lady Zi. However, analysts are now confident that all signs are pointing towards larger and bolder coordinated criminal activitie...",
@@ -111748,6 +111751,47 @@
       "archive_path": "Archive/3312/05/19_jaques_station_celebrates_tenth_anniversary_of_historic_jump.md",
       "has_audio": true,
       "audio_hash": "2fff704dfb62b1a4"
+    },
+    {
+      "uuid": "e14afd0b-cccc-5083-a0b9-6c7eb7eff35a",
+      "title": "Lhou Mans Starports Return to Full Operation",
+      "slug": "lhou_mans_starports_return_to_full_operation",
+      "date": "3312-05-21",
+      "source": "API",
+      "entities": [],
+      "groups": [],
+      "locations": [
+        "Lhou Mans",
+        "Dashiell Port",
+        "Sabine Gateway",
+        "Ryman Enterprise",
+        "Webb City"
+      ],
+      "topics": [
+        "crime",
+        "piracy"
+      ],
+      "arc_id": "lady-zi-pirate-coalition",
+      "arc_chapter": null,
+      "summary": "Starports across the Lhou Mans system damaged by coordinated pirate attacks led by Lady Zi have been fully repaired and returned to operation following a joint military exercise and commodity delivery effort.",
+      "player_impact": "Independent pilots joined system security forces in driving hostile forces from Lhou Mans, evacuated stranded passengers from damaged stations, and delivered commodities needed to complete starport repairs.",
+      "modern_impact": "The successful recovery demonstrates the resilience of system infrastructure when security forces and independent pilots collaborate. However, Lady Zi's continued evasion and unknown whereabouts signal that the pirate coalition remains an active threat capable of striking other systems at any time.",
+      "persons": [
+        "Lady Zi"
+      ],
+      "technologies": [],
+      "legacy_weight": 2,
+      "significance": "medium",
+      "related_uuids": [
+        "c76cadee-b3d0-501f-8231-6caf7589bc3a",
+        "32ce68df-e133-545f-a0ea-2ae009f1ada6",
+        "46b8ec38-ca04-5680-b3a2-01de047bc6c4"
+      ],
+      "body_full": "Starports damaged in recent attacks across the Lhou Mans system have been successfully repaired.\nThe stations bore the brunt of a recent rise in extreme and organised criminal activity allegedly led by the notorious pirate figure known only as Lady Zi.\nA joint exercise between system security forces and independent pilots drove hostile forces from Lhou Mans and allowed for the safe evacuation of passengers stranded on the damaged stations before repair efforts could begin.\nFollowing the successful delivery of commodities needed to complete the repairs, system authorities have now confirmed that Dashiell Port, Sabine Gateway, Ryman Enterprise and Webb City are fully operational, with normal services now resuming.\nNo further sightings of Lady Zi's pirate fleet have been reported in the system and surrounding areas leaving many to question where they could strike next.",
+      "body_preview": "Starports damaged in recent attacks across the Lhou Mans system have been successfully repaired.\nThe stations bore the brunt of a recent rise in extreme and organised criminal activity allegedly led by the notorious pirate figure known only as Lady Zi.\nA joint exercise between system security forces and independent pilots drove hostile forces from Lhou Mans and allowed for the safe evacuation of passengers stranded on the damaged stations before repair efforts could begin.\nFollowing the successf...",
+      "word_count": 135,
+      "archive_path": "Archive/3312/05/21_lhou_mans_starports_return_to_full_operation.md",
+      "has_audio": false
     }
   ],
   "entities": {
@@ -233030,16 +233074,27 @@
       "name": "Lhou Mans",
       "type": "system",
       "first_seen_date": "3312-04-28",
-      "last_seen_date": "3312-05-14",
-      "mention_count": 3,
+      "last_seen_date": "3312-05-21",
+      "mention_count": 4,
       "article_uuids": [
         "1bb577e6-52b3-5a63-a983-f1975e27d66b",
         "c76cadee-b3d0-501f-8231-6caf7589bc3a",
-        "32ce68df-e133-545f-a0ea-2ae009f1ada6"
+        "32ce68df-e133-545f-a0ea-2ae009f1ada6",
+        "e14afd0b-cccc-5083-a0b9-6c7eb7eff35a"
       ],
       "bio": "An independent industrial democracy in the core systems, Lhou Mans suffered coordinated criminal attacks on its starport facilities in 3312. The attacks, attributed to the Lady Zi Pirate Coalition, prompted large-scale civilian evacuation efforts and independent pilot intervention. Notable stations include Ryman Enterprise, Webb City, and Sabine Gateway.",
       "affiliations": [],
       "related_entities": [
+        {
+          "id": "lady-zi",
+          "mentions": 3,
+          "shared": 9
+        },
+        {
+          "id": "ryman-enterprise",
+          "mentions": 2,
+          "shared": 9
+        },
         {
           "id": "zorgon-peterson",
           "mentions": 2,
@@ -233056,18 +233111,8 @@
           "shared": 6
         },
         {
-          "id": "lady-zi",
-          "mentions": 2,
-          "shared": 6
-        },
-        {
           "id": "mira-bukowski",
           "mentions": 2,
-          "shared": 6
-        },
-        {
-          "id": "ryman-enterprise",
-          "mentions": 1,
           "shared": 6
         },
         {
@@ -233076,9 +233121,19 @@
           "shared": 6
         },
         {
-          "id": "lhou-mans-security",
+          "id": "dashiell-port",
           "mentions": 1,
-          "shared": 2
+          "shared": 4
+        },
+        {
+          "id": "sabine-gateway",
+          "mentions": 1,
+          "shared": 4
+        },
+        {
+          "id": "webb-city",
+          "mentions": 1,
+          "shared": 4
         }
       ],
       "related_arcs": [],
@@ -233104,14 +233159,25 @@
       "name": "Ryman Enterprise",
       "type": "station",
       "first_seen_date": "3312-05-14",
-      "last_seen_date": "3312-05-14",
-      "mention_count": 1,
+      "last_seen_date": "3312-05-21",
+      "mention_count": 2,
       "article_uuids": [
-        "32ce68df-e133-545f-a0ea-2ae009f1ada6"
+        "32ce68df-e133-545f-a0ea-2ae009f1ada6",
+        "e14afd0b-cccc-5083-a0b9-6c7eb7eff35a"
       ],
       "bio": "Ryman Enterprise is a Coriolis starport in the Lhou Mans system. In May 3312, it served as the staging ground for defence forces repelling coordinated criminal attacks by the Lady Zi Pirate Coalition. Civilian evacuation efforts were coordinated from this station during the crisis.",
       "affiliations": [],
       "related_entities": [
+        {
+          "id": "lhou-mans",
+          "mentions": 2,
+          "shared": 9
+        },
+        {
+          "id": "lady-zi",
+          "mentions": 2,
+          "shared": 9
+        },
         {
           "id": "vox-galactica",
           "mentions": 1,
@@ -233119,16 +233185,6 @@
         },
         {
           "id": "zorgon-peterson",
-          "mentions": 1,
-          "shared": 6
-        },
-        {
-          "id": "lhou-mans",
-          "mentions": 1,
-          "shared": 6
-        },
-        {
-          "id": "lady-zi",
           "mentions": 1,
           "shared": 6
         },
@@ -233146,6 +233202,21 @@
           "id": "mk-ii-cabins",
           "mentions": 1,
           "shared": 6
+        },
+        {
+          "id": "dashiell-port",
+          "mentions": 1,
+          "shared": 4
+        },
+        {
+          "id": "sabine-gateway",
+          "mentions": 1,
+          "shared": 4
+        },
+        {
+          "id": "webb-city",
+          "mentions": 1,
+          "shared": 4
         }
       ],
       "related_arcs": [],
@@ -233163,6 +233234,129 @@
       "have_shipyard": true,
       "have_outfitting": true,
       "bio_full": "Ryman Enterprise is a Coriolis starport in the Lhou Mans system. In May 3312, it served as the staging ground for defence forces repelling coordinated criminal attacks by the Lady Zi Pirate Coalition. Civilian evacuation efforts were coordinated from this station during the crisis."
+    },
+    "dashiell-port": {
+      "id": "dashiell-port",
+      "name": "Dashiell Port",
+      "type": "location",
+      "first_seen_date": "3312-05-21",
+      "last_seen_date": "3312-05-21",
+      "mention_count": 1,
+      "article_uuids": [
+        "e14afd0b-cccc-5083-a0b9-6c7eb7eff35a"
+      ],
+      "bio": "",
+      "affiliations": [],
+      "related_entities": [
+        {
+          "id": "lhou-mans",
+          "mentions": 1,
+          "shared": 4
+        },
+        {
+          "id": "sabine-gateway",
+          "mentions": 1,
+          "shared": 4
+        },
+        {
+          "id": "ryman-enterprise",
+          "mentions": 1,
+          "shared": 4
+        },
+        {
+          "id": "webb-city",
+          "mentions": 1,
+          "shared": 4
+        },
+        {
+          "id": "lady-zi",
+          "mentions": 1,
+          "shared": 4
+        }
+      ],
+      "related_arcs": []
+    },
+    "sabine-gateway": {
+      "id": "sabine-gateway",
+      "name": "Sabine Gateway",
+      "type": "location",
+      "first_seen_date": "3312-05-21",
+      "last_seen_date": "3312-05-21",
+      "mention_count": 1,
+      "article_uuids": [
+        "e14afd0b-cccc-5083-a0b9-6c7eb7eff35a"
+      ],
+      "bio": "",
+      "affiliations": [],
+      "related_entities": [
+        {
+          "id": "lhou-mans",
+          "mentions": 1,
+          "shared": 4
+        },
+        {
+          "id": "dashiell-port",
+          "mentions": 1,
+          "shared": 4
+        },
+        {
+          "id": "ryman-enterprise",
+          "mentions": 1,
+          "shared": 4
+        },
+        {
+          "id": "webb-city",
+          "mentions": 1,
+          "shared": 4
+        },
+        {
+          "id": "lady-zi",
+          "mentions": 1,
+          "shared": 4
+        }
+      ],
+      "related_arcs": []
+    },
+    "webb-city": {
+      "id": "webb-city",
+      "name": "Webb City",
+      "type": "location",
+      "first_seen_date": "3312-05-21",
+      "last_seen_date": "3312-05-21",
+      "mention_count": 1,
+      "article_uuids": [
+        "e14afd0b-cccc-5083-a0b9-6c7eb7eff35a"
+      ],
+      "bio": "",
+      "affiliations": [],
+      "related_entities": [
+        {
+          "id": "lhou-mans",
+          "mentions": 1,
+          "shared": 4
+        },
+        {
+          "id": "dashiell-port",
+          "mentions": 1,
+          "shared": 4
+        },
+        {
+          "id": "sabine-gateway",
+          "mentions": 1,
+          "shared": 4
+        },
+        {
+          "id": "ryman-enterprise",
+          "mentions": 1,
+          "shared": 4
+        },
+        {
+          "id": "lady-zi",
+          "mentions": 1,
+          "shared": 4
+        }
+      ],
+      "related_arcs": []
     },
     "jaques": {
       "id": "jaques",
@@ -286525,22 +286719,28 @@
       "name": "Lady Zi",
       "type": "person",
       "first_seen_date": "3312-05-11",
-      "last_seen_date": "3312-05-14",
-      "mention_count": 2,
+      "last_seen_date": "3312-05-21",
+      "mention_count": 3,
       "article_uuids": [
         "c76cadee-b3d0-501f-8231-6caf7589bc3a",
-        "32ce68df-e133-545f-a0ea-2ae009f1ada6"
+        "32ce68df-e133-545f-a0ea-2ae009f1ada6",
+        "e14afd0b-cccc-5083-a0b9-6c7eb7eff35a"
       ],
       "bio": "",
       "affiliations": [],
       "related_entities": [
         {
-          "id": "vox-galactica",
-          "mentions": 2,
-          "shared": 6
+          "id": "lhou-mans",
+          "mentions": 3,
+          "shared": 9
         },
         {
-          "id": "lhou-mans",
+          "id": "ryman-enterprise",
+          "mentions": 2,
+          "shared": 9
+        },
+        {
+          "id": "vox-galactica",
           "mentions": 2,
           "shared": 6
         },
@@ -286555,11 +286755,6 @@
           "shared": 6
         },
         {
-          "id": "ryman-enterprise",
-          "mentions": 1,
-          "shared": 6
-        },
-        {
           "id": "lynx-highliner",
           "mentions": 1,
           "shared": 6
@@ -286568,6 +286763,21 @@
           "id": "mk-ii-cabins",
           "mentions": 1,
           "shared": 6
+        },
+        {
+          "id": "dashiell-port",
+          "mentions": 1,
+          "shared": 4
+        },
+        {
+          "id": "sabine-gateway",
+          "mentions": 1,
+          "shared": 4
+        },
+        {
+          "id": "webb-city",
+          "mentions": 1,
+          "shared": 4
         }
       ],
       "related_arcs": [],
@@ -303795,12 +304005,13 @@
       "id": "lady-zi-pirate-coalition",
       "name": "Lady Zi Pirate Coalition",
       "first_seen_date": "3312-04-23",
-      "last_seen_date": "3312-05-14",
-      "mention_count": 3,
+      "last_seen_date": "3312-05-21",
+      "mention_count": 4,
       "article_uuids": [
         "46b8ec38-ca04-5680-b3a2-01de047bc6c4",
         "c76cadee-b3d0-501f-8231-6caf7589bc3a",
-        "32ce68df-e133-545f-a0ea-2ae009f1ada6"
+        "32ce68df-e133-545f-a0ea-2ae009f1ada6",
+        "e14afd0b-cccc-5083-a0b9-6c7eb7eff35a"
       ],
       "description": "A rogue pirate admiral known as Lady Zi unites a coalition of pirate ships under a single criminal syndicate, conducting coordinated military-style raids across core systems using twin-axe malware as a calling card.",
       "key_entities": [
@@ -303824,11 +304035,12 @@
       "significance": "medium",
       "summary": "The emergence of Lady Zi as a coordinated criminal threat in the core systems, beginning with raids on military outposts and escalating to full starport attacks in Lhou Mans. The twin-axe malware signature and probing tactics suggest a highly organised, military-style pirate coalition.",
       "status": "Ongoing",
-      "outcome": "Defence forces successfully repelled the Lhou Mans attackers and completed civilian evacuation, but analysts warn the attacks were merely a 'test run' for larger operations.",
+      "outcome": "Defence forces successfully repelled the Lhou Mans attackers, completed civilian evacuation, and restored all damaged starports to full operation. However, Lady Zi remains at large and analysts warn the attacks were merely a 'test run' for larger operations.",
       "phases": [
         "Phase 1: Coordinated Raids on Military Outposts (3312-04-23)",
         "Phase 2: Lhou Mans Starport Attacks (3312-05-11)",
-        "Phase 3: Evacuation and Aftermath (3312-05-14)"
+        "Phase 3: Evacuation and Aftermath (3312-05-14)",
+        "Phase 4: Starport Recovery and Return to Operation (3312-05-21)"
       ]
     }
   },
@@ -306669,7 +306881,8 @@
         "3955dbb6-c5c8-560b-b4f1-7ca44f5ddc4d",
         "c76cadee-b3d0-501f-8231-6caf7589bc3a",
         "32ce68df-e133-545f-a0ea-2ae009f1ada6",
-        "43fcdcb8-4b9a-523a-9c12-cede4107898a"
+        "43fcdcb8-4b9a-523a-9c12-cede4107898a",
+        "e14afd0b-cccc-5083-a0b9-6c7eb7eff35a"
       ]
     }
   }
