@@ -416,6 +416,38 @@ export default function Timeline({
                     </div>
                   </div>
                   <div style={{ display: 'flex', flexDirection: 'column', marginLeft: 'auto', flexShrink: 0 }}>
+                    {art.sources && art.sources.length > 0 && art.sources[0].url && (
+                      <a
+                        href={art.sources[0].url}
+                        target="_blank"
+                        rel="noopener"
+                        title={art.sources[0].name || 'Source'}
+                        onClick={(e) => e.stopPropagation()}
+                        style={{
+                          width: 28,
+                          height: 28,
+                          display: 'flex',
+                          alignItems: 'center',
+                          justifyContent: 'center',
+                          border: '1px solid var(--border-glow)',
+                          color: 'var(--text-dim)',
+                          textDecoration: 'none',
+                          fontSize: 13,
+                          marginBottom: 4,
+                          transition: 'all 0.15s',
+                        }}
+                        onMouseEnter={(e) => {
+                          (e.currentTarget as HTMLElement).style.borderColor = 'var(--elite-blue)';
+                          (e.currentTarget as HTMLElement).style.color = 'var(--elite-blue)';
+                        }}
+                        onMouseLeave={(e) => {
+                          (e.currentTarget as HTMLElement).style.borderColor = 'var(--border-glow)';
+                          (e.currentTarget as HTMLElement).style.color = 'var(--text-dim)';
+                        }}
+                      >
+                        ↗
+                      </a>
+                    )}
                     <CopyLinkButton uuid={art.uuid} />
                     {art.has_audio && (
                       <span className="ai-content-inline">
