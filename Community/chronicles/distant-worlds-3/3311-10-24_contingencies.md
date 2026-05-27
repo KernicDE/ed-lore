@@ -20,20 +20,20 @@ summary: Nadya Holdstock — operating under her true name 'Mir' — meets Andre
   Mir discloses that the Founder (John Ermitage) has called in favors to assemble the
   expedition team, including Halsey's recruitment of Lya from ALTAS. She also reports
   on a mysterious figure called 'Cal' who has an agreement with the Founder but whom
-  even her extensive intelligence network cannot identify.
+  even her extensive network of contacts cannot identify.
 player_impact: The revelation that the Founder actively orchestrated the expedition's
   personnel through Mir's network shows how deeply personal and political connections
   shaped the mission. Pilots who joined Distant Worlds 3 were unknowingly part of a
   carefully curated team assembled for purposes beyond pure exploration.
-modern_impact: The article exposes the hidden intelligence architecture behind the
-  expedition. Mir's inability to identify 'Cal' introduces an unresolved mystery — a
+modern_impact: The article exposes the hidden network of connections behind the
+  expedition. Nadya's inability to identify 'Cal' introduces an unresolved mystery — a
   potentially dangerous unknown player with access to the Founder's confidence. The
   mention of Salomé and other "contingencies" ties the expedition to a much older
   pattern of secret-keeping and manipulation spanning decades.
 entities:
 - name: Nadya Holdstock
   type: person
-  role: intelligence operative (true name 'Mir')
+  role: fuel specialist and technician (true name 'Mir')
 - name: Andrew Gaspurr
   type: person
   role: writer and expedition member
@@ -60,10 +60,9 @@ locations:
 - Serebrov (mentioned)
 - Sadr Region (mentioned)
 topics:
-- intelligence operations
 - covert recruitment
 - secret histories
-- unidentified operatives
+- secret networks
 - expedition conspiracy
 arc_id: distant-worlds-3
 ---

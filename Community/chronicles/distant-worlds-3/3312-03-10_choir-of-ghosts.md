@@ -45,7 +45,7 @@ entities:
   role: engineer and researcher
 - name: Nadya Holdstock
   type: person
-  role: fuel specialist and operative
+  role: fuel specialist and technician
 - name: Jacky Hew
   type: person
   role: pilot

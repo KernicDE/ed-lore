@@ -8,8 +8,8 @@ mention_count: 2
 bio: 'Andrew Gaspurr is a writer and chronicler who embedded with the Distant Worlds
   3 expedition, documenting its personnel and operations. He maintains direct contact
   with the Founder, John Ermitage, and serves as an informal liaison between the
-  expedition''s hidden leadership and its public face. His interviews with operatives
-  like Mir reveal layers of the expedition that most participants never see.'
+  expedition''s hidden leadership and its public face. His interviews with personnel
+  like Nadya Holdstock reveal layers of the expedition that most participants never see.'
 ---
 
 
@@ -27,4 +27,4 @@ Total mentions: **2**
 
 ## Biography
 
-Andrew Gaspurr is a writer and chronicler who embedded with the Distant Worlds 3 expedition, documenting its personnel and operations. He maintains direct contact with the Founder, John Ermitage, and serves as an informal liaison between the expedition's hidden leadership and its public face. His interviews with operatives like Mir reveal layers of the expedition that most participants never see — recruitment networks spanning decades, secret identities, and ancient technology surfacing in the deep black.
+Andrew Gaspurr is a writer and chronicler who embedded with the Distant Worlds 3 expedition, documenting its personnel and operations. He maintains direct contact with the Founder, John Ermitage, and serves as an informal liaison between the expedition's hidden leadership and its public face. His interviews with personnel like Nadya Holdstock reveal layers of the expedition that most participants never see — recruitment networks spanning decades, secret identities, and ancient technology surfacing in the deep black.
