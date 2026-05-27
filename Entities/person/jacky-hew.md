@@ -29,4 +29,8 @@ Total mentions: **0**
 
 ## Biography
 
-Jacky Hew is a veteran pilot and storyteller who served as a scout aboard the Distant Worlds 3 expedition. Known for his irreverent humour and heavy drinking, he earned the nickname "HewHew" among his peers. Hew had previously scouted the Neutron Highway and was one of the first to identify GalCop-Quirium hybrid technology aboard a derelict prototype carrier, drawing on prior experience in the Sadr Region. His ship suffered a cyber-attack while scanning the debris field, and he later recovered Jasmina Halsey's ancient escape pod — a feat he described as "literally a one in a million" find.
+"Carrier jumps are different, kids. You pack your whole bad decision into a moving rock and fling it at the sky. No romance."
+
+Jacky Hew — HewHew to the drinking crowds — held court across all four DW3 carriers, pint aloft, groans rising like litany from his audience. He had scouted the Neutron Highway back when it was still dangerous. He had heard drives sing when they shouldn't and sulk when paid. During the expedition he picked up cross-band echoes at fifteen cycles near Colonia, boarded the derelict prototype with Elaine Howard despite her gritted teeth, and later recovered Jasmina Halsey's escape pod from a debris field — "literally a one in a million" find, he called it, with the modesty of a man who knows exactly how good he is.
+
+His ship suffered a cyber-attack while scanning that debris. He laughed about it later. Everything is material, if you survive it.

@@ -29,4 +29,6 @@ Total mentions: **0**
 
 ## Biography
 
-Captain Yuen is the fleet captain of the Distant Worlds 3 expedition, coordinating search operations with Flight Major Elaine Howard. A practical officer with a military bearing, he ordered quarantine cordons and burn-box sample protocols when investigating the derelict prototype carrier. Yuen noted that a missing DSSA carrier should have been "screaming" on emergency frequencies but was ominously silent, and later directed the fleet to break into three search sweeps to cover more territory efficiently.
+On the bridge of the Halsey's Quest, Captain Yuen counted down mass jumps with the same tone she might use for breakfast orders. "Three. Two. Punch." No theatricality. The crew listened anyway.
+
+Yuen commanded the Distant Worlds 3 fleet operations with a pragmatism that bordered on surgical. When the witch-space anomaly hit during launch — ghost wakes, ADC cross-talk, voices on static — she logged it, adjusted shields, and asked Halsey for direction without a tremor in her voice. Quarantine cordons. Burn-box protocols. Search sweeps broken into three cones. She directed the hunt for the missing Guinevere, noted the silence where emergency beacons should have screamed, and when the time came to board the derelict prototype, she held the perimeter while others went inside. No poetry. No panic. Just the steady calculus of keeping a fleet alive in territory that was beginning to show teeth.

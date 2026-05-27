@@ -483,17 +483,19 @@ export default function Timeline({
                         title={art.sources[0].name || 'Source'}
                         onClick={(e) => e.stopPropagation()}
                         style={{
-                          width: 28,
                           height: 28,
                           display: 'flex',
                           alignItems: 'center',
-                          justifyContent: 'center',
+                          gap: 4,
+                          padding: '0 8px',
                           border: '1px solid var(--border-glow)',
                           color: 'var(--text-dim)',
                           textDecoration: 'none',
-                          fontSize: 13,
+                          fontSize: 11,
+                          fontFamily: 'var(--font-mono)',
                           marginBottom: 4,
                           transition: 'all 0.15s',
+                          whiteSpace: 'nowrap',
                         }}
                         onMouseEnter={(e) => {
                           (e.currentTarget as HTMLElement).style.borderColor = 'var(--elite-blue)';
@@ -504,7 +506,7 @@ export default function Timeline({
                           (e.currentTarget as HTMLElement).style.color = 'var(--text-dim)';
                         }}
                       >
-                        ↗
+                        Source ↗
                       </a>
                     )}
                     <CopyLinkButton uuid={art.uuid} />

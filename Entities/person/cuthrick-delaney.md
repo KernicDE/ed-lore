@@ -2,17 +2,35 @@
 id: cuthrick-delaney
 name: Cuthrick Delaney
 type: person
-first_seen_date: '3301-05-17'
-last_seen_date: '3303-03-09'
-mention_count: 3
-bio: Cuthrick Delaney is a diplomat in the Elite Dangerous universe, active from 3301-05-17
-  to 3303-03-09. Ambassador Cuthrick Delaney is representing Prism in her absence.
-  Ambassador Cuthrick Delaney announces that Loren's Legion's appeal for tantalum
-  has concluded successfully.
+mention_count: 0
+related_entities:
+- jasmina-halsey
+- azalea-halsey
+- dr-reuben-hale
+- felicia-winters
+- sol
 ---
 
+<!-- AUTO-GENERATED -->
 
+# Cuthrick Delaney
 
-Cuthrick Delaney served as an ambassador representing Imperial interests during the politically complex period spanning 3301 to 3303, a role that required him to speak on behalf of absent colleagues and manage relationships between the Empire and various independent factions. His diplomatic portfolio included engagement with Loren's Legion, an independent military organisation that maintained complicated relationships with both the Empire and the Alliance. In this capacity, Delaney demonstrated the flexibility required of Imperial diplomats who operated in regions where formal allegiances did not cleanly map onto political realities.
+First mentioned: **None**  
+Last mentioned: **None**  
+Total mentions: **0**
 
-In early 3303, Delaney announced the successful conclusion of Loren's Legion's tantalum appeal, a resource-gathering campaign that had drawn significant independent pilot participation. His involvement in this initiative illustrated how diplomats could serve as facilitators for practical cooperation even when the parties involved maintained formal independence from Imperial authority. Delaney's career exemplified the delicate balancing act performed by Imperial representatives throughout the galaxy, who sought to advance Imperial interests without provoking the resistance that overt interference might generate.
+## Related
+
+- [[Jasmina Halsey]] (4 co-mentions)
+- [[Azalea Halsey]] (3 co-mentions)
+- [[Dr Reuben Hale]] (3 co-mentions)
+- [[Felicia Winters]] (2 co-mentions)
+- [[Sol]] (2 co-mentions)
+
+## Biography
+
+Old velvet from a tin can. That is how Cuthrick Delaney's voice arrived over secure comms from the Imperial Embassy — amused, measured, never hurried.
+
+He appeared at Olympus Village Medical within hours of Jasmina Halsey's collapse, all poise and immaculate cuffs. Recommended Tionisla. Recommended Dr Reuben Hale. Corrected Felicia Winters on phase miscounts in the auditorium recording, then bowed just enough to avoid giving offence. When Winters threatened him with a Martian subcommittee on air-quality standards, he replied: "A fate worse than death indeed." During the Rainbow's End negotiations, Delaney brokered the tripartite oversight agreement that kept the station operational — Federation, Empire, Alliance, Universal Cartographics, all signing documents they did not trust.
+
+Delaney's grandfather kept a dog-eared primer of old spacer terms in an actual book. The Ambassador inherited both the book and the patience to read it. In an age of instant comms and instant judgment, that patience is a weapon.

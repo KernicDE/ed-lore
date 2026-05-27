@@ -5,10 +5,10 @@ type: location
 mention_count: 0
 related_entities:
 - jasmina-halsey
-- hermine-delarue
 - lya
 - ram-tah
-- nadya-holdstock
+- captain-yuen
+- flight-lieutenant-moyers
 ---
 
 <!-- AUTO-GENERATED -->
@@ -22,11 +22,15 @@ Total mentions: **0**
 ## Related
 
 - [[Jasmina Halsey]] (1 co-mentions)
-- [[Hermine Delarue]] (1 co-mentions)
 - [[Lya]] (1 co-mentions)
 - [[Ram Tah]] (1 co-mentions)
-- [[Nadya Holdstock]] (1 co-mentions)
+- [[Captain Yuen]] (1 co-mentions)
+- [[Flight Lieutenant Moyers]] (1 co-mentions)
 
 ## Biography
 
-Veil's Ember is a stellar phenomenon in the Abyss region near which the Distant Worlds 3 expedition discovered significant debris fields and ancient wreckage. A strong signal detected by Flight Lieutenant Moyers was traced to this area, leading to the discovery of the derelict prototype carrier. Commander LilacLight first sighted a drifting carrier-scale mass near the Ember, and Commander Friggs recovered Jasmina Halsey's ancient escape pod from the surrounding debris field.
+A sub-region of the Veils, named for the faint thermal glow that persists even in the coldest sectors. Veil's Ember is where the DW3 expedition detected the anomalous carrier-scale mass — the prototype that should not exist, drifting on a vector that led eventually to the Praei-two boundary.
+
+Flight Lieutenant Moyers held scanner watch here. Hours of nothing. Then the blip. Lya confirmed the signal was consistent with her hypertemporal models. Captain Yuen ordered caution. The Ember is typical of the Veils: not hostile, not welcoming, simply indifferent to the explorers who pass through and the secrets they uncover.
+
+Embers imply a fire that has burned down. But embers can be rekindled. The DW3 expedition learned that some embers have been waiting centuries for the right fuel.

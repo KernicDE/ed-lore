@@ -5,10 +5,10 @@ type: person
 mention_count: 0
 related_entities:
 - jasmina-halsey
-- hermine-delarue
 - elaine-howard
 - jacky-hew
 - nadya-holdstock
+- captain-yuen
 ---
 
 <!-- AUTO-GENERATED -->
@@ -22,11 +22,15 @@ Total mentions: **0**
 ## Related
 
 - [[Jasmina Halsey]] (1 co-mentions)
-- [[Hermine Delarue]] (1 co-mentions)
 - [[Elaine Howard]] (1 co-mentions)
 - [[Jacky Hew]] (1 co-mentions)
 - [[Nadya Holdstock]] (1 co-mentions)
+- [[Captain Yuen]] (1 co-mentions)
 
 ## Biography
 
-Commander LilacLight is a pilot who participated in the Distant Worlds 3 expedition and made a critical discovery near the permit-locked Praei2 sector boundary. She reported finding a drifting carrier-scale mass with no transponder, no power signature, and no livery — the first sighting of what would later be identified as a derelict prototype carrier from the GalCop era, triggering the expedition's investigation into the missing DSSA vessel.
+"Cold mass. Carrier scale. No transponder. No power. Drifting toward the Praei-two plane."
+
+That radio call — calm, precise, almost bored — came from Commander LilacLight. Somewhere. Far from the main convoy, flying quiet, scanning empty space that should have stayed empty. The image they sent back showed a hull too big along the spine, bulges where docks should be, no callsign, no livery. A prototype. A secret someone built and forgot to name.
+
+LilacLight did not speculate. Did not chase ghosts. Logged the contact, held position, waited for orders. The mark of a pilot who understands that discovery is only the first sentence of a much longer document. One the DW3 expedition would spend weeks trying to read.

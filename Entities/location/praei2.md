@@ -4,11 +4,11 @@ name: Praei2
 type: location
 mention_count: 0
 related_entities:
-- jasmina-halsey
-- captain-yuen
-- hermine-delarue
-- timotheus-haddard
+- cmdr-nor
 - lya
+- hermine-delarue
+- captain-yuen
+- jasmina-halsey
 ---
 
 <!-- AUTO-GENERATED -->
@@ -21,12 +21,18 @@ Total mentions: **0**
 
 ## Related
 
-- [[Jasmina Halsey]] (1 co-mentions)
-- [[Captain Yuen]] (1 co-mentions)
-- [[Hermine Delarue]] (1 co-mentions)
-- [[Timotheus Haddard]] (1 co-mentions)
+- [[CMDR Nor]] (1 co-mentions)
 - [[Lya]] (1 co-mentions)
+- [[Hermine Delarue]] (1 co-mentions)
+- [[Captain Yuen]] (1 co-mentions)
+- [[Jasmina Halsey]] (1 co-mentions)
 
 ## Biography
 
-Praei2 is a permit-locked sector near the boundary of the Abyss region that became a focal point of the Distant Worlds 3 expedition's investigations. Lya traced the trajectory of a damaged DSSA beacon to this sector, and Commander LilacLight discovered a drifting carrier-scale mass at its permit boundary. The sector's restricted access status meant that expedition pilots could not directly enter, forcing them to piece together information from scans and telepresence data gathered at the perimeter.
+Praei2. A sector designation. A locked door.
+
+CMDR Nor's beacon — damaged, broadcasting a dead man's voice — traced back here. Lya mapped the trajectory: permit-locked systems, coordinates that standard navigation software refused to acknowledge. The Universal Cartographics cruiser Guinevere had no business in Praei2. Yet something had drawn it there, or something had drawn it out and left only a beacon behind.
+
+The name means nothing in any known language. Possibly an acronym. Possibly a catalog number assigned by a survey programme that no longer exists. What matters is the silence: a sector where ships disappear, where beacons fail, where the galaxy's largest cartographic organisation admits it has no maps.
+
+Some locks exist to keep people out. Others exist to keep something in. Praei2 does not clarify which.

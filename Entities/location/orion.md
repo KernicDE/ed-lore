@@ -4,11 +4,11 @@ name: Orion
 type: location
 mention_count: 0
 related_entities:
-- hermine-delarue
-- john
-- ram-tah
-- deep-space-surveys
-- lave
+- john-ermitage
+- cal
+- fimbulthul
+- barnards-loop
+- col-70
 ---
 
 <!-- AUTO-GENERATED -->
@@ -21,12 +21,16 @@ Total mentions: **0**
 
 ## Related
 
-- [[Hermine Delarue]] (2 co-mentions)
-- [[John]] (2 co-mentions)
-- [[Ram Tah]] (1 co-mentions)
-- [[Deep Space Surveys]] (1 co-mentions)
-- [[Lave]] (1 co-mentions)
+- [[John Ermitage]] (2 co-mentions)
+- [[Cal]] (2 co-mentions)
+- [[Fimbulthul]] (1 co-mentions)
+- [[Barnard's Loop]] (1 co-mentions)
+- [[COL 70]] (1 co-mentions)
 
 ## Biography
 
-Orion is a constellation and region of space that served as the primary destination for the Distant Worlds 3 expedition. The expedition flotilla travelled toward Orion and the surrounding Barnard's Loop nebula, pushing beyond established routes into the Abyss region below the galactic plane. The Orion region was specifically chosen by John Ermitage for its proximity to unexplained witch-space phenomena and ancient technological remnants.
+Orion. The Hunter. A constellation known to every human culture that ever looked up — and now, a destination.
+
+John Ermitage chose it for Distant Worlds 3 not because it was easy but because it was necessary. "To be sure a certain situation in that area is under watchful eyes," he told Lya. The situation was Collinder 70 and the Umbra Sagittarii beyond. The route required skirting the permit-locked COL 70 sector, navigating the radiation hazards of Barnard's Loop, and establishing outposts where no outposts had existed before. Cal agreed to help, reluctantly, because Orion was territory he understood — old space, pre-Federation space, the kind of region where modern instruments sometimes fail and older instincts succeed.
+
+The Hunter carries a club and a lion's pelt. The DW3 expedition carried sensor arrays and hope. Both are weapons, of a sort.

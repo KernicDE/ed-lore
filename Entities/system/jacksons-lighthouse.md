@@ -1,44 +1,34 @@
 ---
 id: jacksons-lighthouse
-name: Jackson’s Lighthouse
+name: Jacksons Lighthouse
 type: system
-allegiance: Federation
-population: 0
-security: Low
-economy: None
-first_seen_date: '3301-08-10'
-last_seen_date: '3301-08-10'
-mention_count: 1
+mention_count: 0
 related_entities:
-- federal-state-police
-- judas-syndicate
-- beta-hydri
-bio: Jackson’s Lighthouse is a star system in the Elite Dangerous universe, significant
-  from 3301-08-10 to 3301-08-10. Associated with Judas Syndicate, Federal State Police.
-  She and the Dragon Queen were last seen heading for Jackson’s Lighthouse, possibly
-  pursuing the notorious Red Hourglass.
-coords:
-  x: 157
-  y: -27
-  z: -70
-edsm_url: https://www.edsm.net/en/system/id/15897/name/Jackson%27s+Lighthouse
+- jasmina-halsey
+- lya
+- first-lattice
+- inra
+- colonia
 ---
-
 
 <!-- AUTO-GENERATED -->
 
-# Jackson’s Lighthouse
+# Jacksons Lighthouse
 
-First mentioned: **3301-08-10**  
-Last mentioned: **3301-08-10**  
-Total mentions: **1**
+First mentioned: **None**  
+Last mentioned: **None**  
+Total mentions: **0**
 
 ## Related
 
-- [[Federal State Police]] (1 co-mentions)
-- [[Judas Syndicate]] (1 co-mentions)
-- [[Beta Hydri]] (1 co-mentions)
+- [[Jasmina Halsey]] (1 co-mentions)
+- [[Lya]] (1 co-mentions)
+- [[First Lattice]] (1 co-mentions)
+- [[INRA]] (1 co-mentions)
+- [[Colonia]] (1 co-mentions)
 
 ## Biography
 
-Jackson's Lighthouse is a system referenced during the Distant Worlds 3 expedition. Located within the expedition's operational area, it was one of the waypoints used by the flotilla as they navigated toward the Orion region and beyond.
+Jackson's Lighthouse is a neutron star system located on the route between the Bubble and Colonia — a waypoint for pilots navigating the neutron highway, where the extreme magnetic field of a collapsed star enables FSD supercharging. The system is named for its function: a beacon in the dark, guiding travellers along one of the galaxy's most travelled deep-space corridors.
+
+During the Distant Worlds 3 expedition, Jackson's Lighthouse appeared in discussions about the First Lattice theory — the hypertemporal framework connecting witch-space anomalies across vast distances. Lya's models suggested that neutron stars might function as nodes in this lattice, their extreme physics creating interference patterns detectable by the Quirium Control Unit. The connection to INRA, the shadowy organisation that hunted Thargoids during the 3200s, remains speculative. But speculation is where science begins, and Jackson's Lighthouse is where many deep-space journeys begin as well.

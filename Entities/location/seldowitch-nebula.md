@@ -4,11 +4,11 @@ name: Seldowitch Nebula
 type: location
 mention_count: 0
 related_entities:
-- jasmina-halsey
-- hermine-delarue
+- commander-lilaclight
 - elaine-howard
 - jacky-hew
-- commander-lilaclight
+- jasmina-halsey
+- thuecheae-mt-q-e5-8-system
 ---
 
 <!-- AUTO-GENERATED -->
@@ -21,12 +21,16 @@ Total mentions: **0**
 
 ## Related
 
-- [[Jasmina Halsey]] (1 co-mentions)
-- [[Hermine Delarue]] (1 co-mentions)
+- [[Commander LilacLight]] (1 co-mentions)
 - [[Elaine Howard]] (1 co-mentions)
 - [[Jacky Hew]] (1 co-mentions)
-- [[Commander LilacLight]] (1 co-mentions)
+- [[Jasmina Halsey]] (1 co-mentions)
+- [[Thuecheae MT-Q e5-8 System]] (1 co-mentions)
 
 ## Biography
 
-The Seldowitch Nebula is a nebula referenced during the Distant Worlds 3 expedition. Located within the expedition's operational area, it was one of the many deep-space phenomena documented by the flotilla's pilots during their mission.
+A bruise in the darkness. Red scatter along the rim where young stars bite through dust.
+
+The Seldowitch Nebula hangs in the Thuecheae MT-Q e5-8 System — a cloud of gas and stellar debris that marks the boundary between explored space and the permit-locked Praei sectors. Commander LilacLight was scanning this nebula's edge when the anomalous mass appeared on scopes: carrier scale, no transponder, drifting toward a boundary it should not have been able to cross.
+
+Nebulae like Seldowitch are common. What is uncommon is what hides inside them. The prototype carrier was not visible until LilacLight's precise sweep caught its thermal signature against the nebula's ambient radiation. Nature provides the camouflage. Human ambition provides the secrets worth hiding.

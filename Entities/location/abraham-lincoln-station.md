@@ -1,19 +1,19 @@
 ---
 id: abraham-lincoln-station
-name: Abraham Lincoln station
+name: Abraham Lincoln Station
 type: location
 mention_count: 0
 related_entities:
 - jasmina-halsey
 - azalea-halsey
 - felicia-winters
-- cuthrick-delaney
-- dr-reuben-hale
+- sol
+- earth
 ---
 
 <!-- AUTO-GENERATED -->
 
-# Abraham Lincoln station
+# Abraham Lincoln Station
 
 First mentioned: **None**  
 Last mentioned: **None**  
@@ -24,9 +24,13 @@ Total mentions: **0**
 - [[Jasmina Halsey]] (1 co-mentions)
 - [[Azalea Halsey]] (1 co-mentions)
 - [[Felicia Winters]] (1 co-mentions)
-- [[Cuthrick Delaney]] (1 co-mentions)
-- [[Dr Reuben Hale]] (1 co-mentions)
+- [[Sol]] (1 co-mentions)
+- [[Earth]] (1 co-mentions)
 
 ## Biography
 
-Abraham Lincoln Station is a Federal installation that served as a logistical waypoint during the Distant Worlds 3 expedition's return to the Bubble. It was one of the stations where expedition personnel transferred data, supplies, and personnel between the deep-space flotilla and Federal infrastructure.
+Above Earth, Abraham Lincoln Station turns slowly in the dark — navigation lights, advertising boards, thousands of windows. Felicia Winters chose a smaller briefing room there when Jasmina Halsey requested Federal Intelligence presence. Fewer spectators. Fewer leaks.
+
+The station has witnessed decisions before. Budget allocations. Treaty signings. Crisis management by committee. This was different: a former President asking permission to chase a pulse in hyperspace. Winters pressed her thumb to the console. The secure line to the Imperial Embassy unmuted with a soft tone. Diplomacy, in the age of FTL travel, still happens in rooms with polished tables and recording lights that blink red and unblinking.
+
+Lincoln Station is where the Federation authorised an envoy to the unknown. The paperwork will take years.

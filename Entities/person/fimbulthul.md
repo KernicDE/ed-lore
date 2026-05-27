@@ -29,4 +29,8 @@ Total mentions: **0**
 
 ## Biography
 
-Fimbulthul is a Drake-class Fleet Carrier originally christened Shekinah in 3306. After participating in multiple deep-space expeditions including Operation Caldwell 1 and the Ursa Major Stream Survey, the carrier was renamed and retrofitted with advanced sensor arrays. It served during the Thargoid Titan incursions, joined the Children Of The Core survey near the Great Annihilator, and was eventually assigned as a Deep Space Exploration Carrier for the Distant Worlds 3 expedition in the Orion region. Note: the build system classifies Fimbulthul as a person entity due to its naming; it is a vessel.
+Built in 3306 as the Shekinah. Rechristened after the Ursa Major Stream Survey. Refitted with meta-alloy shielding and a GalCop deep space sensor array of uncertain purpose. The Fimbulthul is a Drake-class Carrier that has served three distinct masters: exploration, war, and exploration again.
+
+Operation Caldwell 1. The Zurara revisit. Thargoid reconnaissance. The Children Of The Core survey near the Great Annihilator. Finally, Distant Worlds 3 — dispatched to the Orion region and Barnard's Loop as a Deep Space Exploration Carrier, helping Trailblazers scout a route through the permit-locked COL 70 sector. The carrier's history mirrors the galaxy's own ambivalence: every generation repurposes the same hulls for new emergencies, hoping the radiation shielding holds and the laboratory equipment still calibrates.
+
+The Fimbulthul has been on assignment since. It does not complain.

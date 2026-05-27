@@ -2,33 +2,35 @@
 id: cynthia-sideris
 name: Cynthia Sideris
 type: person
-first_seen_date: '3301-09-06'
-last_seen_date: '3309-03-02'
-mention_count: 6
-bio: 'Cynthia Sideris is a Commander in Elite Dangerous lore, active from 3301-09-06
-  to 3309-03-02. Affiliated with Universal Cartographics, Interstellar Press, Pilots
-  Federation. Notable activities include: Cynthia Sideris, chair of Universal Cartographics,
-  comments on Jasmina Halsey''s search for the ''architects of creation'', noting
-  that while their ex...; Universal Cartographics launches a survey of ammonia worlds
-  to identify potential Thargoid staging grounds, building on the connection between
-  Mael...'
+mention_count: 0
+related_entities:
+- hermine-delarue
+- cal
+- john-ermitage
+- universal-cartographics
+- pilots-federation
 ---
-
-
 
 <!-- AUTO-GENERATED -->
 
 # Cynthia Sideris
 
-First mentioned: **3301-09-06**  
-Last mentioned: **3309-03-02**  
-Total mentions: **6**
+First mentioned: **None**  
+Last mentioned: **None**  
+Total mentions: **0**
 
 ## Related
 
+- [[Hermine Delarue]] (2 co-mentions)
+- [[Cal]] (1 co-mentions)
+- [[John Ermitage]] (1 co-mentions)
+- [[Universal Cartographics]] (1 co-mentions)
+- [[Pilots Federation]] (1 co-mentions)
 
 ## Biography
 
-Cynthia Sideris is the chair of Universal Cartographics, the galaxy's preeminent stellar cartography and exploration data organisation. In January 3306, she oversaw the renaming of fifteen systems in the Witch Head Enclave to make them more explorer-friendly, replacing unwieldy designations like "Witch Head Sector FB-X c1-7" with memorable names such as "Wisanye."
+Chairwoman of Universal Cartographics. A title that sounds like comfort — charts, data, the illusion that space is mapped and therefore tame.
 
-Sideris has also directed major xenological surveys, including a 3309 initiative to map ammonia worlds as potential Thargoid staging grounds. She publicly commented on President Jasmina Halsey's controversial search for the "architects of creation," noting that while Halsey's visions were fascinating, they lacked the rigorous verification standards that Universal Cartographics applies to all its data. Sideris's leadership has shaped the organisation's dual role as both a scientific institution and a service provider for the galactic exploration community.
+Cynthia Sideris was not comfortable in late 3311. One of her Eridanus-class cruisers, the Guinevere, had vanished without trace in deep space. The Pilots Federation, her technological partner and occasional rival, had grudgingly conceded the loss to Deep Space Surveys only after John Ermitage applied pressure through channels Sideris would have preferred remain closed. Cal found the situation "refreshing." Sideris, presumably, did not. Her cartographic empire depended on the premise that data flows both ways: ships survey, UC compiles, pilots buy. A missing cruiser interrupts that flow. It suggests there are still places where the map ends and the territory begins.
+
+Sideris never appears in the DW3 narrative directly. Her absence is the point. Some powers operate through silence.

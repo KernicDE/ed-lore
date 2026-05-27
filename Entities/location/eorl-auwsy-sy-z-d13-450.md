@@ -6,9 +6,8 @@ mention_count: 0
 related_entities:
 - jasmina-halsey
 - hermine-delarue
-- nadya-holdstock
-- cynthia-sideris
-- john-ermitage
+- distant-worlds
+- beagle-point
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,10 +22,11 @@ Total mentions: **0**
 
 - [[Jasmina Halsey]] (1 co-mentions)
 - [[Hermine Delarue]] (1 co-mentions)
-- [[Nadya Holdstock]] (1 co-mentions)
-- [[Cynthia Sideris]] (1 co-mentions)
-- [[John Ermitage]] (1 co-mentions)
+- [[Distant Worlds]] (1 co-mentions)
+- [[Beagle Point]] (1 co-mentions)
 
 ## Biography
 
-Eorl Auwsy SY-Z d13-450 is a system in the Abyss region where the Distant Worlds 3 expedition discovered Guardian ruins during their investigation of witch-space anomalies. Jasmina Halsey conducted a ground survey of the ruins in her SRV, finding the obelisks unusually responsive — humming in rhythm with a singular tune that she perceived through her neural link as a vision of an ancient civilisation reaching into the heavens and the Connect.
+Eorl Auwsy SY-Z d13-450. A system designation that tells you everything and nothing: coordinates in a galactic grid, a star of uncertain type, a place on no tourist route.
+
+The Distant Worlds 3 expedition passed through systems like this by the hundred. Most earned no special mention. This one appears in the records because someone — Jasmina Halsey, or Hermine Delarue, or a route planner whose name was never logged — noted it as a waypoint on the long trek toward Beagle Point and beyond. Systems with names like Eorl Auwsy SY-Z d13-450 are the connective tissue of deep-space exploration: unremarkable individually, essential collectively. Without them, the great expeditions could not stitch their routes across the galaxy. Each is a comma in a sentence that spans light-years.

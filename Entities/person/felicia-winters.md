@@ -15,8 +15,7 @@ bio: Felicia Winters is a president in the Elite Dangerous universe, active from
   to 3312-02-20. Closely associated with Federal Congress, Federal Navy. Secretary
   of State Felicia Winters assumed the role of Acting President after contact was
   lost with Spaceflight One carrying President Halsey and Vice President Naylor. Winters
-  announced she would serve as Acting President to maintain the chain of command during
-  the crisis.
+  announced she would serve as Acting President to the crisis.
 ---
 
 
@@ -39,4 +38,8 @@ Total mentions: **1**
 
 ## Biography
 
-Felicia Winters served as Federal President during the Distant Worlds 3 expedition. She granted Jasmina Halsey private leave to investigate the witch-space warning and later ordered her, in her capacity as Federal Envoy, to make haste and return from the expedition. Winters also arranged covert diplomatic passage to Tionisla for Halsey and her entourage, demonstrating a pragmatic balance between supporting the expedition's goals and managing Federal political interests.
+Felicia Winters does not believe in ghosts. She believes in paperwork, committee consensus, and the quiet threat of Martian subcommittees on air-quality standards.
+
+When Jasmina Halsey collapsed on Mars in late 3311, Winters — then Federal President — chose a smaller briefing room than usual. Fewer spectators. Fewer leaks. She granted Halsey private leave to investigate the witch-space anomaly, ordered seventy-two-hour secure updates, and later authorised her as Federal Envoy to Distant Worlds 3 with full telemetry capture. Alliance and Imperial liaisons were already embedded in the expedition; Winters made sure Federal eyes were present too. She threatened Cuthrick Delaney with bureaucratic oblivion if he turned the arrangement into an Imperial photo opportunity. She smiled, tired and genuine, when Halsey thanked her. "You have earned the right to call in a few favours. Use them well."
+
+Pragmatism, always. Even when the subject is a pulse in hyperspace that nobody can explain.

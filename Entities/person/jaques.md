@@ -2,52 +2,33 @@
 id: jaques
 name: Jaques
 type: person
-aliases:
-- Jaques the Cyborg
-- The Cyborg Barman
-affiliation: Independent
-status: active
-first_seen: '3301-02-12'
-last_seen: '3301-02-19'
-article_count: 2
-related_entities: []
-arcs:
-- jaques-wandering
-bio: Jaques is a pilot in the Elite Dangerous universe, active from 3301-02-12 to
-  3302-08-10. Jaques Station, the galaxy's only travelling starport, prepares for
-  an ambitious long-distance jump from Gliese 1269 to Beagle Point. The Fuel Rats
-  announce that Jaques Station has received sufficient fuel for its proposed jump
-  to Beagle Point.
+mention_count: 0
+related_entities:
+- jasmina-halsey
+- jacky-hew
+- alessia-verdi
+- alistair-brodey
+- kahina-tijani-loren
 ---
 
-
+<!-- AUTO-GENERATED -->
 
 # Jaques
 
-## Role
-A cyborg barman who operates Jacques Station, a mobile starport. One of the most enigmatic and beloved figures in galactic popular culture.
+First mentioned: **None**  
+Last mentioned: **None**  
+Total mentions: **0**
 
-## Character
-Jaques is mysterious, philosophical, and detached from political concerns. He speaks in riddles and invitations — "If people want to know my story, they'd best come buy a drink and find out for themselves." His station has become a neutral gathering place for pilots from all superpowers.
+## Related
 
-## Timeline of Significance
-- **3301-02-12:** Reported seen in HIP 110620 after a long absence
-- **3301-02-19:** Continues wandering through HIP 110079; station becomes a popular nightspot for pilots from Empire, Federation, and Alliance
-
-## Key Traits
-- Operates a mobile starport (Jacques Station)
-- Cyborg — exact nature of his augmentation unknown
-- Politically neutral; attracts visitors from all factions
-- Accompanied by "the booming sound of a dark electric beat"
-
-## Modern Status (3312)
-Jaques becomes a legendary figure whose wanderings eventually lead him to the Colonia region, where his station becomes the founding settlement of a new human society far from the Bubble. He represents the independent spirit of CMDRs — free from superpower politics, driven by curiosity and community.
-
-## Appearances
-- [[3301-02-12-the_legend_returns|The Legend Returns]]
-- [[3301-02-19-the_long_trip_home|The Long Trip Home]]
-
+- [[Jasmina Halsey]] (3 co-mentions)
+- [[Jacky Hew]] (2 co-mentions)
+- [[Alessia Verdi]] (1 co-mentions)
+- [[Alistair Brodey]] (1 co-mentions)
+- [[Kahina Tijani Loren]] (1 co-mentions)
 
 ## Biography
 
-Jaques is a legendary cyborg barman who operates Jaques Station, the galaxy's only travelling starport. First appearing in 3301 as a mysterious wanderer, his mobile station became a neutral gathering place for pilots from all superpowers. During the Distant Worlds 3 expedition, Jaques provided crucial historical knowledge about old technologies from the GalCop era, including insights into Quirium drives and early hyperspace navigation systems. His station eventually settled in the Colonia region, where it became the founding settlement of a new human society far from the Bubble.
+Part flesh. Part alloy. Chrome cheek-plate to temple, pale optical implant, sub-vocal modulator giving his words a second undertone like valves warming. Jaques has not been merely human for a long time.
+
+He flew himself across half the galaxy once. Now he runs a station in Colonia — a waypoint that learned to have opinions — and listens to the equipment complain. During the DW3 expedition's stopover, Jaques reported what others dismissed as glitches: docking computers that "grew feelings," nav-buoys claiming to be cargo racks, a Scottish-singing voice alarm. The anomalies had intensified after a Pilots' Federation Eridanus-class cruiser uploaded survey data. Jaques did not use words like "haunted." He said: "The gear is behaving like it grew feelings." Then he introduced Halsey to Alessia Verdi, the Imperial pilot who had watched Salomé die and came away unwilling to follow saviours. Connections. Jaques makes them. It is what remains when you have replaced most of yourself with metal and still need to be useful.

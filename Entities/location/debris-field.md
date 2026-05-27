@@ -1,19 +1,19 @@
 ---
 id: debris-field
-name: Debris field
+name: Debris Field
 type: location
 mention_count: 0
 related_entities:
 - jasmina-halsey
 - jacky-hew
-- elaine-howard
-- flight-lieutenant-moyers
 - commander-friggs
+- doctor-gery
+- mare-imbrium-wreckage
 ---
 
 <!-- AUTO-GENERATED -->
 
-# Debris field
+# Debris Field
 
 First mentioned: **None**  
 Last mentioned: **None**  
@@ -23,10 +23,14 @@ Total mentions: **0**
 
 - [[Jasmina Halsey]] (1 co-mentions)
 - [[Jacky Hew]] (1 co-mentions)
-- [[Elaine Howard]] (1 co-mentions)
-- [[Flight Lieutenant Moyers]] (1 co-mentions)
 - [[Commander Friggs]] (1 co-mentions)
+- [[Doctor Gery]] (1 co-mentions)
+- [[Mare Imbrium Wreckage]] (1 co-mentions)
 
 ## Biography
 
-The debris field investigated during the Distant Worlds 3 expedition was located near Veil's Ember in the Abyss region. It contained the wreckage of a derelict prototype carrier from the GalCop era, mixed with industrial nanite compounds identified by Jacky Hew's scans. The field also yielded Jasmina Halsey's ancient escape pod — a super-cooled nitrogen-based survival device that should have been impossible to keep operational. Multiple pilots reported sensor interference and cyber-attacks while scanning the debris.
+It drifted where no debris should be. Fragments of hull, insulation, ceramic tiles — the archaeological record of a violent separation. Jacky Hew found it during a routine sweep, his wake scanner blinking where nothing should register.
+
+Inside the debris field: Jasmina Halsey's escape pod. Ancient by fleet standards. A one-in-a-million retrieval that Hew described with characteristic understatement. The field also contained remains of the vessel that had carried it — not destroyed by weapons but by structural failure, as if something had pulled it apart from the inside. Doctor Gery examined the material later. His report used words like "anomalous stress patterns" and "non-standard alloy degradation." What he meant was: this ship died in a way that physics does not readily explain.
+
+Debris fields are common in space. This one was not.

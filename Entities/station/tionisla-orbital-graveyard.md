@@ -38,4 +38,8 @@ Total mentions: **3**
 
 ## Biography
 
-The Tionisla Orbital Graveyard is a massive ship cemetery in the Tionisla system, containing thousands of derelict spacecraft from multiple eras floating at a Lagrange point. During the Distant Worlds 3 expedition, Dr Reuben Hale operated from the Tionisla Historical Society near this graveyard, using its vast collection of historical vessels and artefacts to research witch-space phenomena. The graveyard's silent, rotating hulls serve as a monument to the dangers of early space travel and the mysteries of hyperspace.
+Thousands of derelict spacecraft. Multiple eras. A Lagrange point where dead hulls rotate in perpetual danse macabre, disturbed only by security patrols struggling to deter scavengers and tourists.
+
+The Graveyard is Tionisla's most visible monument — and its most misleading. The real preservation happens in the Historical Society's annex, where Dr Reuben Hale curates artefacts from the Faraway era through the GalCop collapse. During the Distant Worlds 3 expedition, an unidentified operative hid among the Graveyard's rotating sarcophagi, listening to Vivaldi by candlelight, receiving coded Latin messages on outdated equipment. The operative's ship departed stealthily when summoned — one more ghost among the thousands already present.
+
+The Graveyard contains vessels from Cowell & MgRath, Kruger, Irrikon, Lance & Ferman — manufacturers long defunct. It is a library of obsolescence. Every hull represents a technology that was once cutting-edge, once essential, once trusted with human lives. Then replaced. Then forgotten. Then honoured only by the silence between the stars.

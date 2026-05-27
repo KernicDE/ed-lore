@@ -5,10 +5,10 @@ type: person
 mention_count: 0
 related_entities:
 - jasmina-halsey
+- jacky-hew
 - captain-yuen
 - hermine-delarue
-- umbra-sagittarii
-- timotheus-haddard
+- rendezvous-point
 ---
 
 <!-- AUTO-GENERATED -->
@@ -22,11 +22,11 @@ Total mentions: **0**
 ## Related
 
 - [[Jasmina Halsey]] (2 co-mentions)
+- [[Jacky Hew]] (2 co-mentions)
 - [[Captain Yuen]] (2 co-mentions)
-- [[Hermine Delarue]] (2 co-mentions)
-- [[Umbra Sagittarii]] (2 co-mentions)
-- [[Timotheus Haddard]] (1 co-mentions)
+- [[Hermine Delarue]] (1 co-mentions)
+- [[Rendezvous Point]] (1 co-mentions)
 
 ## Biography
 
-Flight Major Elaine Howard is the full title of Elaine Howard, an experienced scout pilot aboard the DW3 carrier Odysseus. See [[Elaine Howard]] for full biography.
+See [[Elaine Howard]]. "Flight Major" is the rank she held during her service with the Alliance Scouting and Exploration Wing, reflected in the duty roster entries and comm logs from the Distant Worlds 3 expedition.

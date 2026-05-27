@@ -1,7 +1,7 @@
 ---
 id: children-of-the-core
 name: Children Of The Core
-type: person
+type: faction
 mention_count: 0
 related_entities:
 - fimbulthul
@@ -29,4 +29,4 @@ Total mentions: **0**
 
 ## Biography
 
-Children Of The Core is a loose survey initiative focused on finding Earth-like worlds toward the galactic core. In May 3309, the Drake-class Carrier Fimbulthul was reassigned from other duties to support their efforts, operating near the Great Annihilator black hole. The initiative represents the persistent civilian drive to push exploration boundaries beyond the established Bubble and Colonia regions.
+The Children Of The Core emerged during the late 3300s as a loose collective of pilots and surveyors focused on a single objective: locating habitable worlds in the direction of the galactic core. Their efforts are notable for operating entirely outside the established frameworks of Federal, Imperial, or Alliance exploration programmes. In May 3309, the Drake-class Carrier Fimbulthul was reassigned to support their survey near the Great Annihilator, signalling both the scale of their ambition and the chronic understaffing of independent deep-space initiatives. The COTC's work laid groundwork that would later intersect with the Distant Worlds 3 expedition's own push toward the Orion region and beyond.

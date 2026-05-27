@@ -5,10 +5,10 @@ type: person
 mention_count: 0
 related_entities:
 - jasmina-halsey
-- jacky-hew
-- elaine-howard
-- flight-lieutenant-moyers
-- nadya-holdstock
+- doctor-gery
+- nexus
+- mare-imbrium-wreckage
+- debris-field
 ---
 
 <!-- AUTO-GENERATED -->
@@ -22,11 +22,15 @@ Total mentions: **0**
 ## Related
 
 - [[Jasmina Halsey]] (1 co-mentions)
-- [[Jacky Hew]] (1 co-mentions)
-- [[Elaine Howard]] (1 co-mentions)
-- [[Flight Lieutenant Moyers]] (1 co-mentions)
-- [[Nadya Holdstock]] (1 co-mentions)
+- [[Doctor Gery]] (1 co-mentions)
+- [[Nexus]] (1 co-mentions)
+- [[Mare Imbrium Wreckage]] (1 co-mentions)
+- [[Debris Field]] (1 co-mentions)
 
 ## Biography
 
-Commander Friggs is a rescue specialist with eighteen years of salvage operations experience who participated in the Distant Worlds 3 expedition. He was involved in the recovery of Jasmina Halsey's ancient escape pod from the debris field near Veil's Ember, describing the find as "literally a one in a million" occurrence given the pod's age and the vastness of the search area.
+Commander Friggs. That is the name in the log. Nothing else.
+
+A pilot who flew with the Distant Worlds 3 expedition. Who was there when Jasmina Halsey's escape pod turned up in the Mare Imbrium debris field. Who connected Doctor Gery to the Nexus, whatever that was. The records are thin. Friggs appears, acts, vanishes back into the fleet. No callsign history. No squadron affiliation. Just a commander who happened to be in the right place at the right time — or the wrong place, depending on whether you believe in coincidence when ancient technology is involved.
+
+Some pilots are like that. Ghosts with hull numbers.

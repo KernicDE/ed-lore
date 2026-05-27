@@ -4,11 +4,9 @@ name: Rainbow's End (mentioned)
 type: location
 mention_count: 0
 related_entities:
+- rainbows-end
 - jasmina-halsey
 - hermine-delarue
-- nadya-holdstock
-- cynthia-sideris
-- john-ermitage
 ---
 
 <!-- AUTO-GENERATED -->
@@ -21,12 +19,10 @@ Total mentions: **0**
 
 ## Related
 
+- [[Rainbow's End]] (1 co-mentions)
 - [[Jasmina Halsey]] (1 co-mentions)
 - [[Hermine Delarue]] (1 co-mentions)
-- [[Nadya Holdstock]] (1 co-mentions)
-- [[Cynthia Sideris]] (1 co-mentions)
-- [[John Ermitage]] (1 co-mentions)
 
 ## Biography
 
-Rainbow's End (mentioned) refers to the deep-space station that was discussed and planned during the Distant Worlds 3 expedition before its physical construction. The name was coined by Jasmina Halsey when she observed the chosen construction site and remarked, "This is literally the end of the rainbow." See [[Rainbow's End]] for the completed station.
+See [[Rainbow's End]]. This entry refers to incidental mentions of the station in expedition records and communications where the full context was not yet established.

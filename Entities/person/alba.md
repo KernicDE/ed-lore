@@ -29,4 +29,4 @@ Total mentions: **0**
 
 ## Biography
 
-Alba is a researcher contacted by Ram Tah during the early planning of the Distant Worlds 3 expedition. When Guardian communication frequencies went dormant and shifted to an anomalous gravity-wave signal, Ram Tah decided to reach out to Alba for assistance in understanding the frequency anomaly. Though Alba never appears directly in the expedition narrative, the chapter "Calling Alba" takes its title from this request for help.
+Alba is a specialist in Guardian network communications, called in by Ram Tah at Phoenix Base on Meene after Uwe Toramund's measurements revealed a disturbing shift: the six traditional Guardian frequencies had gone dormant simultaneously, replaced by a single pico-hertz signal in the gravity-wave range. Ram Tah believed Alba's expertise might help determine whether the anomaly was local to the Bubble or indicative of a network-wide degradation. The chapter "Calling Alba" takes its title from this summons — a request for help that underscores how little humanity still understands about the technology it has borrowed from the Guardians.

@@ -1,19 +1,19 @@
 ---
 id: mare-imbrium-wreckage
-name: Mare Imbrium wreckage
+name: Mare Imbrium Wreckage
 type: location
 mention_count: 0
 related_entities:
 - jasmina-halsey
 - jacky-hew
-- elaine-howard
-- flight-lieutenant-moyers
 - commander-friggs
+- debris-field
+- nexus
 ---
 
 <!-- AUTO-GENERATED -->
 
-# Mare Imbrium wreckage
+# Mare Imbrium Wreckage
 
 First mentioned: **None**  
 Last mentioned: **None**  
@@ -23,10 +23,14 @@ Total mentions: **0**
 
 - [[Jasmina Halsey]] (1 co-mentions)
 - [[Jacky Hew]] (1 co-mentions)
-- [[Elaine Howard]] (1 co-mentions)
-- [[Flight Lieutenant Moyers]] (1 co-mentions)
 - [[Commander Friggs]] (1 co-mentions)
+- [[Debris Field]] (1 co-mentions)
+- [[Nexus]] (1 co-mentions)
 
 ## Biography
 
-The Mare Imbrium wreckage is the remains of the FFSS Mare Imbrium, an "Intergalactic Explorer"-class vessel from the 27th century post-Generation Ship era. Discovered during the Distant Worlds 3 expedition, the wreck was identified by Jacky Hew through cross-referencing with the Federal Astronomical Journal. The ship belonged to the Fleet of the Federation of Star Systems and represented one of the earliest attempts at large-scale interstellar exploration before the development of modern Frame Shift Drive technology.
+The name evokes lunar seas. The reality is darker.
+
+The Mare Imbrium Wreckage is a debris field where Jacky Hew recovered Jasmina Halsey's ancient escape pod — a find he called "literally one in a million." The wreckage contained not just hull fragments but evidence of a vessel destroyed by forces that did not match conventional weapon signatures. Commander Friggs and Doctor Gery connected the site to the Nexus, whatever that entity or organisation represents. The wreckage sits in a region already marked by the DW3 expedition as anomalous: strange readings, equipment failures, the sense that space itself was not behaving according to specifications.
+
+Some wreckages tell stories. This one asks questions.

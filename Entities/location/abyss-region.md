@@ -4,10 +4,10 @@ name: Abyss Region
 type: location
 mention_count: 0
 related_entities:
-- alessia-verdi
 - jasmina-halsey
-- jacky-hew
 - beagle-point
+- distant-worlds
+- explorers-association
 ---
 
 <!-- AUTO-GENERATED -->
@@ -20,11 +20,13 @@ Total mentions: **0**
 
 ## Related
 
-- [[Alessia Verdi]] (1 co-mentions)
 - [[Jasmina Halsey]] (1 co-mentions)
-- [[Jacky Hew]] (1 co-mentions)
 - [[Beagle Point]] (1 co-mentions)
+- [[Distant Worlds]] (1 co-mentions)
+- [[Explorers Association]] (1 co-mentions)
 
 ## Biography
 
-The Abyss Region is a vast area of deep space below the galactic plane that served as the primary exploration zone for the Distant Worlds 3 expedition. Characterised by extreme isolation and sparse stellar density, the region was chosen specifically for its proximity to the Praei2 permit-locked sector and its association with unexplained witch-space phenomena. Cal warned the expedition about the northern reaches of the Abyss, identifying them as the *Umbra Sagittarii* (Archer's Shadow), a zone of particularly dangerous hyperspace anomalies.
+The Abyss Region lies beyond the galactic coreward edge, a vast expanse of interstellar void where the star density drops to nearly nothing. Pilots who venture here describe the sensation of falling upward — the familiar plane of the Milky Way receding behind, nothing ahead but darkness punctuated by the occasional distant globular cluster.
+
+Beagle Point sits at its far rim, the terminus of the original Distant Worlds expedition. The region has become a proving ground for deep-space explorers, a place where the Bubble's concerns dissolve into irrelevance and the only metric that matters is how far you have travelled from everything you know. The Abyss does not care about politics, wealth, or rank. It only cares whether you brought enough fuel.

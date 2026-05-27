@@ -1,19 +1,19 @@
 ---
 id: witch-space
-name: Witch-space
+name: Witch-Space
 type: location
 mention_count: 0
 related_entities:
 - jasmina-halsey
-- jacky-hew
-- elaine-howard
-- flight-lieutenant-moyers
-- commander-friggs
+- dr-reuben-hale
+- ram-tah
+- john-ermitage
+- galcop
 ---
 
 <!-- AUTO-GENERATED -->
 
-# Witch-space
+# Witch-Space
 
 First mentioned: **None**  
 Last mentioned: **None**  
@@ -21,12 +21,18 @@ Total mentions: **0**
 
 ## Related
 
-- [[Jasmina Halsey]] (1 co-mentions)
-- [[Jacky Hew]] (1 co-mentions)
-- [[Elaine Howard]] (1 co-mentions)
-- [[Flight Lieutenant Moyers]] (1 co-mentions)
-- [[Commander Friggs]] (1 co-mentions)
+- [[Jasmina Halsey]] (5 co-mentions)
+- [[Dr Reuben Hale]] (2 co-mentions)
+- [[Ram Tah]] (1 co-mentions)
+- [[John Ermitage]] (1 co-mentions)
+- [[GalCop]] (1 co-mentions)
 
 ## Biography
 
-Witch-space is the dimensional realm traversed during hyperspace jumps, known since the earliest days of Faraway-era space travel. During the Distant Worlds 3 expedition, new evidence emerged suggesting witch-space is not merely a transit medium but may host persistent phenomena, including ancient artificial intelligences and "density events" associated with superdense stellar masses. Dr Reuben Hale's research at Tionisla documented centuries of vessels lost in witch-space — "The Missing" — establishing that forced or non-harmonious entries into this realm have catastrophic consequences.
+Witch-space. The old word. The one pilots used before "hyperspace" became corporate terminology and "frameshift corridor" became engineering manual prose.
+
+Dr Reuben Hale traced the term to the twenty-third century: primitive jump engines, high casualty rates, the Faraway lattice of monitoring satellites and rescue stations. Ships that entered without supervision and never emerged. Travellers who believed hyperspace was haunted — "the ghosts of the early ships that went into Faraway and didn't come out again." A large number of vessels never arrived. Their fate remains unknown. Hale calls them "the Missing."
+
+During Distant Worlds 3, Jasmina Halsey experienced witch-space as something more than absence. A corridor that breathed wrong. A presence that felt grief and perplexity. A pulse, fifteen cycles, out of true. Ram Tah's Guardian frequency measurements and John Ermitage's GalCop sensor arrays both pointed toward the same conclusion: witch-space is not empty. It contains structures — lattices, networks, memories — that predate human FTL travel and may survive long after it ends.
+
+The old word persists because the old fear persists. We have learned to travel faster than light. We have not learned what travels with us.

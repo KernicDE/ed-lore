@@ -2,35 +2,35 @@
 id: conflux
 name: Conflux
 type: region
-first_seen_date: '3303-02-03'
-last_seen_date: '3303-02-03'
-mention_count: 1
+mention_count: 0
 related_entities:
-- children-of-raxxla
-- hr-6421
-- formidine-rift
-- hawkins-gap
-bio: Conflux is a star system in the Elite Dangerous universe, significant from 3303-02-03
-  to 3303-02-03. Associated with Children of Raxxla. The Children of Raxxla release
-  an analysis of exploration data revealing the Dynasty Project, a covert mission
-  in the 3270s to install beacons in the Formidine Rift, Conflux and Hawkin's Gap.
+- ram-tah
+- john
+- alba
+- guardian
+- meene
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Conflux
 
-First mentioned: **3303-02-03**  
-Last mentioned: **3303-02-03**  
-Total mentions: **1**
+First mentioned: **None**  
+Last mentioned: **None**  
+Total mentions: **0**
 
 ## Related
 
-- [[Children of Raxxla]] (1 co-mentions)
-- [[HR 6421]] (1 co-mentions)
-- [[Formidine Rift]] (1 co-mentions)
-- [[Hawkin's Gap]] (1 co-mentions)
+- [[Ram Tah]] (1 co-mentions)
+- [[John]] (1 co-mentions)
+- [[Alba]] (1 co-mentions)
+- [[Guardian]] (1 co-mentions)
+- [[Meene]] (1 co-mentions)
 
 ## Biography
 
-The Conflux is a region of deep space that was mentioned during the Distant Worlds 3 expedition in connection with Guardian ruins and early exploration efforts. Cal referenced the area when discussing potential survey locations with Ram Tah, noting that Guardian sites in the region could be investigated by contacts preparing surveys there.
+The Conflux is a region containing Guardian ruins — archaeological sites scattered across multiple systems, each holding fragments of a civilisation that engineered synthetic minds and lost control of them. Ram Tah has studied these sites for a decade. His assistant Uwe Toramund measured frequencies across eight of them.
+
+When the Guardian communication network began degrading — six channels dormant, one pico-hertz anomaly in the gravity-wave range — Ram Tah needed data from a region less surveyed than the Bubble. John Ermitage knew someone preparing an expedition in the Conflux. A freelancer. Unaffiliated. Capable of surveying ruins without attracting attention. Ram Tah called Alba. The chapter "Calling Alba" takes its name from this request.
+
+The Conflux is where Guardian history becomes Guardian present. Where ruins stop being monuments and start being evidence. Where the distant past reaches into the immediate future through frequencies too low for human ears but loud enough to shake a galactic network.
