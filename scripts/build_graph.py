@@ -344,8 +344,10 @@ def extract_body(path: Path) -> str:
     return text.strip()
 
 
-def normalize_entity(name: str) -> str | None:
-    name = name.strip()
+def normalize_entity(name) -> str | None:
+    if isinstance(name, dict):
+        name = name.get("name", "")
+    name = str(name).strip()
     if not name or len(name) < 3:
         return None
     name = MERGE_ALIASES.get(name, name)
