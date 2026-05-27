@@ -27,6 +27,11 @@ OUTPUT_FILE = BASE_DIR / "lore_graph.json"
 WEBSITE_DATA_DIR = BASE_DIR / "website" / "public" / "data"
 
 MERGE_ALIASES: dict[str, str] = {
+    "Lya": "Lynda Amanda ter Holt",
+    "Mir": "Nadya Holdstock",
+    "Corsen": "Alistair Brodey",
+    "Hewley Jackman": "Jacky Hew",
+    "Edmond Mahon": "Edmund Mahon",
     "Sirius Corp": "Sirius Corporation",
     "Sirius Gov": "Sirius Corporation",
     "Pilots' Federation": "Pilots Federation",
@@ -273,6 +278,7 @@ ENTITY_BLOCKLIST = {
     "Alliance News Network", "Federal Times", "Imperial Herald",
     "Thargoid", "Guardian", "Aegis", "NMLA", "Marlinist", "Azimuth",
     "Salvation", "ACT", "INRA", "Emperor", "President", "Prime Minister",
+    "Antonia",
     "Shadow President", "Senator", "Admiral", "General", "Commander", "CEO",
     "The Sirius", "The Achenar",
     # NLP extraction artifacts

@@ -10,6 +10,7 @@ export default defineConfig({
   base: '/ed-lore',
   redirects: {
     '/entity/john/': '/ed-lore/entity/john-ermitage/',
+    '/entity/lya/': '/ed-lore/entity/lynda-amanda-ter-holt/',
   },
   build: {
     format: 'directory',
