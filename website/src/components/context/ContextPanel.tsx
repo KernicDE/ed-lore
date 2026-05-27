@@ -29,9 +29,9 @@ interface ContextPanelProps {
   allYears: string[];
   onYearSelect?: (year: string) => void;
   onMonthSelect?: (yearMonth: string) => void;
-  categoryFilter?: 'all' | 'galnet' | 'chronicle' | 'cmdr-log';
-  onCategoryFilterChange?: (filter: 'all' | 'galnet' | 'chronicle' | 'cmdr-log') => void;
-  articleCounts?: { all: number; galnet: number; chronicle: number; cmdrLog: number };
+  activeCategories: Set<string>;
+  onToggleCategory: (category: string) => void;
+  articleCounts?: { galnet: number; chronicle: number; cmdrLog: number };
 }
 
 function makeEid(name: string): string {
@@ -110,8 +110,8 @@ export default function ContextPanel({
   allYears,
   onYearSelect,
   onMonthSelect,
-  categoryFilter = 'all',
-  onCategoryFilterChange,
+  activeCategories,
+  onToggleCategory,
   articleCounts,
 }: ContextPanelProps) {
   const isUnlocked = (firstSeen: string | null | undefined) => {
@@ -262,45 +262,47 @@ export default function ContextPanel({
 
   const baseUrl = (import.meta.env.BASE_URL || '').replace(/\/$/, '');
 
-  const filters: { key: 'all' | 'galnet' | 'chronicle' | 'cmdr-log'; label: string; icon: string; color: string; count?: number }[] = [
-    { key: 'all', label: 'All', icon: '◈', color: 'var(--text-primary)', count: articleCounts?.all },
-    { key: 'galnet', label: 'GalNet', icon: '◈', color: 'var(--elite-orange)', count: articleCounts?.galnet },
-    { key: 'chronicle', label: 'Chronicles', icon: '📖', color: 'var(--elite-blue)', count: articleCounts?.chronicle },
-    { key: 'cmdr-log', label: 'CMDR Logs', icon: '✎', color: 'var(--elite-green)', count: articleCounts?.cmdrLog },
+  const categoryButtons: { key: string; label: string; icon: string; borderColor: string; activeBg: string; activeColor: string; count?: number }[] = [
+    { key: 'galnet', label: 'GalNet', icon: '◈', borderColor: '#cc5500', activeBg: 'rgba(204, 85, 0, 0.15)', activeColor: '#ff6600', count: articleCounts?.galnet },
+    { key: 'chronicle', label: 'Chronicles', icon: '📖', borderColor: '#0088aa', activeBg: 'rgba(0, 136, 170, 0.15)', activeColor: '#00bfff', count: articleCounts?.chronicle },
+    { key: 'cmdr-log', label: 'CMDR Logs', icon: '✎', borderColor: '#33cc66', activeBg: 'rgba(51, 204, 102, 0.15)', activeColor: '#44ff88', count: articleCounts?.cmdrLog },
   ];
 
   return (
     <div className="context-pane">
       {/* Category Filter Toggles */}
-      {onCategoryFilterChange && (
+      {onToggleCategory && (
         <div className="holo-panel" style={{ padding: '12px 16px' }}>
           <div style={{
             display: 'flex',
             flexWrap: 'wrap',
             gap: 6,
           }}>
-            {filters.map((f) => (
-              <button
-                key={f.key}
-                onClick={() => onCategoryFilterChange(f.key)}
-                style={{
-                  fontFamily: 'var(--font-mono)',
-                  fontSize: 11,
-                  padding: '4px 10px',
-                  border: `1px solid ${categoryFilter === f.key ? f.color : 'var(--border-glow)'}`,
-                  background: categoryFilter === f.key ? f.color.replace(')', ', 0.15)').replace('rgb', 'rgba') : 'transparent',
-                  color: categoryFilter === f.key ? f.color : 'var(--text-dim)',
-                  cursor: 'pointer',
-                  opacity: categoryFilter === f.key ? 1 : 0.7,
-                  transition: 'all 0.15s',
-                }}
-              >
-                {f.icon} {f.label}
-                {f.count !== undefined && (
-                  <span style={{ marginLeft: 4, opacity: 0.6 }}>{f.count}</span>
-                )}
-              </button>
-            ))}
+            {categoryButtons.map((f) => {
+              const isActive = activeCategories.has(f.key);
+              return (
+                <button
+                  key={f.key}
+                  onClick={() => onToggleCategory(f.key)}
+                  style={{
+                    fontFamily: 'var(--font-mono)',
+                    fontSize: 11,
+                    padding: '4px 10px',
+                    border: `1px solid ${isActive ? f.borderColor : 'var(--border-glow)'}`,
+                    background: isActive ? f.activeBg : 'transparent',
+                    color: isActive ? f.activeColor : 'var(--text-dim)',
+                    cursor: 'pointer',
+                    opacity: isActive ? 1 : 0.6,
+                    transition: 'all 0.15s',
+                  }}
+                >
+                  {f.icon} {f.label}
+                  {f.count !== undefined && (
+                    <span style={{ marginLeft: 4, opacity: 0.6 }}>{f.count}</span>
+                  )}
+                </button>
+              );
+            })}
           </div>
         </div>
       )}

@@ -68,7 +68,7 @@ export default function AppShell() {
   const [visibleUuids, setVisibleUuids] = useState<string[]>([]);
   const [searchOpen, setSearchOpen] = useState(false);
   const [audioPortalEl, setAudioPortalEl] = useState<HTMLElement | null>(null);
-  const [categoryFilter, setCategoryFilter] = useState<'all' | 'galnet' | 'chronicle' | 'cmdr-log'>('all');
+  const [activeCategories, setActiveCategories] = useState<Set<string>>(new Set(['galnet', 'chronicle', 'cmdr-log']));
 
   const cacheBuster = typeof window !== 'undefined' && (window as any).GALNET_BUILD
     ? `?v=${encodeURIComponent((window as any).GALNET_BUILD)}`
@@ -108,11 +108,27 @@ export default function AppShell() {
     }
   }, []);
 
-  // Filter articles by category
+  // Toggle category in the active set
+  const handleToggleCategory = useCallback((category: string) => {
+    setActiveCategories((prev) => {
+      const next = new Set(prev);
+      if (next.has(category)) {
+        // Don't allow unchecking the last one
+        if (next.size > 1) {
+          next.delete(category);
+        }
+      } else {
+        next.add(category);
+      }
+      return next;
+    });
+  }, []);
+
+  // Filter articles by active categories
   const filteredArticles = useMemo(() => {
-    if (categoryFilter === 'all') return articles;
-    return articles.filter((a) => (a.category || 'galnet') === categoryFilter);
-  }, [articles, categoryFilter]);
+    if (activeCategories.size === 3) return articles;
+    return articles.filter((a) => activeCategories.has(a.category || 'galnet'));
+  }, [articles, activeCategories]);
 
   // Newest first (descending)
   const sortedArticles = useMemo(() => {
@@ -132,7 +148,7 @@ export default function AppShell() {
   // Reset selected article when filter changes
   useEffect(() => {
     setSelectedArticle(null);
-  }, [categoryFilter]);
+  }, [activeCategories]);
 
   const handleCenterDateChange = useCallback((date: string) => {
     setCurrentDate(date);
@@ -268,10 +284,9 @@ export default function AppShell() {
           allYears={allYears}
           onYearSelect={handleYearSelect}
           onMonthSelect={handleMonthSelect}
-          categoryFilter={categoryFilter}
-          onCategoryFilterChange={setCategoryFilter}
+          activeCategories={activeCategories}
+          onToggleCategory={handleToggleCategory}
           articleCounts={{
-            all: articles.length,
             galnet: articles.filter((a) => (a.category || 'galnet') === 'galnet').length,
             chronicle: articles.filter((a) => a.category === 'chronicle').length,
             cmdrLog: articles.filter((a) => a.category === 'cmdr-log').length,

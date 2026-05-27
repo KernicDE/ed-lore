@@ -470,6 +470,43 @@ export default function Timeline({
                         )}
                       </div>
                     )}
+                    {/* Community source info */}
+                    {(art.author || (art.sources && art.sources.length > 0)) && (
+                      <div style={{ marginTop: 12, paddingTop: 8, borderTop: '1px solid var(--border-default)' }}>
+                        {art.author && (
+                          <div style={{ fontFamily: 'var(--font-mono)', fontSize: 11, color: 'var(--text-dim)' }}>
+                            Author: <span style={{ color: 'var(--text-secondary)' }}>{art.author}</span>
+                          </div>
+                        )}
+                        {art.sources && art.sources.length > 0 && (
+                          <div style={{ marginTop: 4 }}>
+                            <div style={{ fontFamily: 'var(--font-mono)', fontSize: 11, color: 'var(--text-dim)' }}>Sources:</div>
+                            {art.sources.map((s: any, i: number) => (
+                              <a
+                                key={i}
+                                href={s.url}
+                                target="_blank"
+                                rel="noopener"
+                                style={{
+                                  display: 'block',
+                                  fontSize: 12,
+                                  color: 'var(--elite-blue)',
+                                  textDecoration: 'none',
+                                  marginTop: 2,
+                                }}
+                              >
+                                {s.name || s.url} ↗
+                              </a>
+                            ))}
+                          </div>
+                        )}
+                        {art.curated_by && (
+                          <div style={{ fontFamily: 'var(--font-mono)', fontSize: 10, color: 'var(--text-dim)', marginTop: 4, opacity: 0.6 }}>
+                            Curated by {art.curated_by}{art.curated_date ? ` on ${art.curated_date}` : ''}
+                          </div>
+                        )}
+                      </div>
+                    )}
                     <div className="ai-content">
                       <TagList items={art.persons || []} color="var(--elite-blue)" baseUrl={baseUrl} />
                       <TagList items={art.groups || []} color="var(--elite-orange)" baseUrl={baseUrl} />
