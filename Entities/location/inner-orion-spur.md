@@ -29,4 +29,4 @@ Total mentions: **0**
 
 ## Biography
 
-*[To be enriched]*
+The Inner Orion Spur is the spiral arm of the Milky Way containing the Sol system and the human Bubble. During the Distant Worlds 3 expedition, the flotilla departed from this region and travelled toward the Orion constellation, pushing beyond the familiar territories of the Inner Orion Spur into the Abyss and other deep-space regions.

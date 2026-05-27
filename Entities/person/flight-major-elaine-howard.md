@@ -29,4 +29,4 @@ Total mentions: **0**
 
 ## Biography
 
-*[To be enriched]*
+Flight Major Elaine Howard is the full title of Elaine Howard, an experienced scout pilot aboard the DW3 carrier Odysseus. See [[Elaine Howard]] for full biography.

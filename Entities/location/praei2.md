@@ -29,4 +29,4 @@ Total mentions: **0**
 
 ## Biography
 
-*[To be enriched]*
+Praei2 is a permit-locked sector near the boundary of the Abyss region that became a focal point of the Distant Worlds 3 expedition's investigations. Lya traced the trajectory of a damaged DSSA beacon to this sector, and Commander LilacLight discovered a drifting carrier-scale mass at its permit boundary. The sector's restricted access status meant that expedition pilots could not directly enter, forcing them to piece together information from scans and telepresence data gathered at the perimeter.

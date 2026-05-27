@@ -29,4 +29,4 @@ Total mentions: **0**
 
 ## Biography
 
-*[To be enriched]*
+Alistair Brodey is an independent pilot who participated in the Distant Worlds 3 expedition, flying an Eagle equipped with an engineered wake scanner. During the expedition's return phase, he picked up a cross-band echo at fifteen cycles near Colonia, a signal that proved significant to the investigation of lost expedition vessels. Hermine Delarue knew Brodey by name, indicating his established reputation within the deep-space exploration community.

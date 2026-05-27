@@ -29,4 +29,4 @@ Total mentions: **0**
 
 ## Biography
 
-*[To be enriched]*
+Quartermaster Timotheus Haddard is the full title of Timotheus Haddard, quartermaster of the Distant Sun support vessel during the Distant Worlds 3 expedition. See [[Timotheus Haddard]] for full biography.

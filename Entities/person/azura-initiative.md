@@ -29,4 +29,4 @@ Total mentions: **0**
 
 ## Biography
 
-*[To be enriched]*
+The Azura Initiative is a deep-space community located near the Great Annihilator black hole. During the Distant Worlds 3 expedition era, the Children Of The Core survey initiative aimed to establish liaison with the Azura community as part of their broader effort to find habitable worlds toward the galactic core. The initiative represents one of the many independent settlements that have emerged far from the major superpower territories.

@@ -29,4 +29,4 @@ Total mentions: **0**
 
 ## Biography
 
-*[To be enriched]*
+Flight Lieutenant Moyers is a sensor officer aboard the DW3 carrier Odysseus. During the search for missing expedition personnel, he detected a strong signal "Five by Five" trailing rimward at vector +278, approximately sixty light years distant. Moyers connected an independent Commander — who had stumbled across the signal while running lattice scans — to the fleet's sensor array, enabling a coordinated search operation.

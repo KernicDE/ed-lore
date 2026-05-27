@@ -29,4 +29,4 @@ Total mentions: **0**
 
 ## Biography
 
-*[To be enriched]*
+The Rendezvous Point was a designated meeting location used during the Distant Worlds 3 expedition for coordinating the flotilla's movements and search operations. As with all large-scale expeditions, specific rendezvous points were established to ensure that the dispersed fleet could regroup, share data, and plan next steps in their deep-space mission.

@@ -29,4 +29,4 @@ Total mentions: **0**
 
 ## Biography
 
-*[To be enriched]*
+Orion is a constellation and region of space that served as the primary destination for the Distant Worlds 3 expedition. The expedition flotilla travelled toward Orion and the surrounding Barnard's Loop nebula, pushing beyond established routes into the Abyss region below the galactic plane. The Orion region was specifically chosen by John Ermitage for its proximity to unexplained witch-space phenomena and ancient technological remnants.

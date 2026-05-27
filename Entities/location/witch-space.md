@@ -29,4 +29,4 @@ Total mentions: **0**
 
 ## Biography
 
-*[To be enriched]*
+Witch-space is the dimensional realm traversed during hyperspace jumps, known since the earliest days of Faraway-era space travel. During the Distant Worlds 3 expedition, new evidence emerged suggesting witch-space is not merely a transit medium but may host persistent phenomena, including ancient artificial intelligences and "density events" associated with superdense stellar masses. Dr Reuben Hale's research at Tionisla documented centuries of vessels lost in witch-space — "The Missing" — establishing that forced or non-harmonious entries into this realm have catastrophic consequences.

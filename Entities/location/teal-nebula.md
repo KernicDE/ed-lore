@@ -29,4 +29,4 @@ Total mentions: **0**
 
 ## Biography
 
-*[To be enriched]*
+The Teal Nebula is a nebula referenced during the Distant Worlds 3 expedition. Located within the expedition's survey corridor, it contributed to the visual landscape of the deep-space regions explored by the flotilla.

@@ -29,4 +29,4 @@ Total mentions: **0**
 
 ## Biography
 
-*[To be enriched]*
+Commander LilacLight is a pilot who participated in the Distant Worlds 3 expedition and made a critical discovery near the permit-locked Praei2 sector boundary. She reported finding a drifting carrier-scale mass with no transponder, no power signature, and no livery — the first sighting of what would later be identified as a derelict prototype carrier from the GalCop era, triggering the expedition's investigation into the missing DSSA vessel.

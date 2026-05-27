@@ -29,4 +29,4 @@ Total mentions: **0**
 
 ## Biography
 
-*[To be enriched]*
+Collinder 70 is a stellar cluster referenced during the Distant Worlds 3 expedition. The cluster lies within the expedition's survey corridor and was one of the many astronomical features documented by the flotilla's pilots during their extended deep-space mission.

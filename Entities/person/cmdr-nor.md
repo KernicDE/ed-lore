@@ -29,4 +29,4 @@ Total mentions: **0**
 
 ## Biography
 
-*[To be enriched]*
+CMDR Nor is a pilot from Colonia who, during the Distant Worlds 3 expedition, was the first to catch a damaged DSSA beacon drifting in deep space. The beacon emitted a broadband squawk at 12.2 kHz with distressed modulation, providing the first concrete evidence that a DSSA carrier had gone missing in the Abyss region and initiating the search that would lead to the discovery of the derelict prototype carrier.

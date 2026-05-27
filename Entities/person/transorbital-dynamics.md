@@ -29,4 +29,4 @@ Total mentions: **0**
 
 ## Biography
 
-*[To be enriched]*
+Transorbital Dynamics is a corporate partner of Deep Space Surveys, represented by a man in a grey suit with sharp hawkish features and a slim wiry frame. The company helped keep Distant Worlds expeditions independent of governmental oversight by providing logistical support, including heavy cargo crates for DW3. Their involvement illustrates how private corporate interests have historically underwritten large-scale civilian exploration efforts in the galaxy.

@@ -29,4 +29,4 @@ Total mentions: **0**
 
 ## Biography
 
-*[To be enriched]*
+The Praei-two plane is a dimensional or spatial reference frame associated with the Praei2 sector, used by the Distant Worlds 3 expedition's scientific team to model witch-space anomalies and lattice signatures. The concept emerged from Lya's astrophysical modelling, which correlated Guardian communication frequencies with density events in the region. See [[Praei2]] for the sector itself.

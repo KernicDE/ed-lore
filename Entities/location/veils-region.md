@@ -29,4 +29,4 @@ Total mentions: **0**
 
 ## Biography
 
-*[To be enriched]*
+The Veils Region is an area of deep space in the Abyss associated with the Veil's Ember stellar phenomenon. During the Distant Worlds 3 expedition, this region became the focal point of search and rescue operations after a DSSA carrier went missing. The area is characterised by dense debris fields and anomalous sensor readings that complicated navigation and scanning efforts.

@@ -25,4 +25,4 @@ Total mentions: **0**
 
 ## Biography
 
-*[To be enriched]*
+Sarasvati is a system that served as a waypoint or reference point during the Distant Worlds 3 expedition. The system is named after the Hindu goddess of knowledge and learning, reflecting the expedition's scientific mission. It lies within the broader Orion region explored by the expedition flotilla.

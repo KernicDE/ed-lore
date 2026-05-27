@@ -29,4 +29,4 @@ Total mentions: **0**
 
 ## Biography
 
-*[To be enriched]*
+The Mare Somnia — Sea of Dreams — is a region of space below the galactic plane where the Rainbow's End station was constructed during the Distant Worlds 3 expedition. Located some thousand light years beneath the main galactic disc, the chosen system was isolated and remote: "a perfect place to hide and hatch plans." The region's name reflects its position in the vast, dark spaces between the galactic plane and the void beyond.

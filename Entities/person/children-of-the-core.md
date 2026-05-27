@@ -29,4 +29,4 @@ Total mentions: **0**
 
 ## Biography
 
-*[To be enriched]*
+Children Of The Core is a loose survey initiative focused on finding Earth-like worlds toward the galactic core. In May 3309, the Drake-class Carrier Fimbulthul was reassigned from other duties to support their efforts, operating near the Great Annihilator black hole. The initiative represents the persistent civilian drive to push exploration boundaries beyond the established Bubble and Colonia regions.

@@ -29,4 +29,4 @@ Total mentions: **0**
 
 ## Biography
 
-*[To be enriched]*
+The Seldowitch Nebula is a nebula referenced during the Distant Worlds 3 expedition. Located within the expedition's operational area, it was one of the many deep-space phenomena documented by the flotilla's pilots during their mission.

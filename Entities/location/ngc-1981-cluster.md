@@ -29,4 +29,4 @@ Total mentions: **0**
 
 ## Biography
 
-*[To be enriched]*
+The NGC 1981 cluster is an open star cluster in the Orion region that was referenced during the Distant Worlds 3 expedition. The cluster lies within the broader survey area explored by the expedition flotilla.

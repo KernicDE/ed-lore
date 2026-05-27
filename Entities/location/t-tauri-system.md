@@ -25,4 +25,4 @@ Total mentions: **0**
 
 ## Biography
 
-*[To be enriched]*
+The T Tauri System is a star system referenced during the Distant Worlds 3 expedition. T Tauri stars are young stellar objects still in the process of gravitational contraction, making systems containing them of particular scientific interest to deep-space survey missions.

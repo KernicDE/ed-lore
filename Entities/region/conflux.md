@@ -33,4 +33,4 @@ Total mentions: **1**
 
 ## Biography
 
-*[To be enriched]*
+The Conflux is a region of deep space that was mentioned during the Distant Worlds 3 expedition in connection with Guardian ruins and early exploration efforts. Cal referenced the area when discussing potential survey locations with Ram Tah, noting that Guardian sites in the region could be investigated by contacts preparing surveys there.

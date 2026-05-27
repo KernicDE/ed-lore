@@ -29,4 +29,4 @@ Total mentions: **0**
 
 ## Biography
 
-*[To be enriched]*
+Lya is an astrophysicist in her early thirties with bright blonde hair, serving as a key scientific advisor on the Distant Worlds 3 expedition. Preferring telepresence to face-to-face communication, she created mapping models from corrupted cone data and ancient satellite signals that helped trace a lost DSSA beacon's trajectory to the permit-locked Praei2 sector. She confirmed the functionality of the Rainbow's End inhibitor and advised searching K-type stars for beacon pings. Her cheerful demeanour and tendency to quote poetry earned her Hermine Delarue's gentle teasing about a possible crush on Ram Tah.

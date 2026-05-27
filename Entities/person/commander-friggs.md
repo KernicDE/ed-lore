@@ -29,4 +29,4 @@ Total mentions: **0**
 
 ## Biography
 
-*[To be enriched]*
+Commander Friggs is a rescue specialist with eighteen years of salvage operations experience who participated in the Distant Worlds 3 expedition. He was involved in the recovery of Jasmina Halsey's ancient escape pod from the debris field near Veil's Ember, describing the find as "literally a one in a million" occurrence given the pod's age and the vastness of the search area.

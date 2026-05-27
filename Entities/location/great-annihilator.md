@@ -29,4 +29,4 @@ Total mentions: **0**
 
 ## Biography
 
-*[To be enriched]*
+The Great Annihilator is a supermassive black hole located near the galactic core. During the Distant Worlds 3 expedition era, the carrier Fimbulthul supported the Children Of The Core survey initiative in this region. The black hole's extreme gravitational effects make it both a navigational hazard and a subject of intense scientific interest for deep-space explorers.

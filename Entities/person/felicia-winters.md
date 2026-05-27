@@ -39,4 +39,4 @@ Total mentions: **1**
 
 ## Biography
 
-*[To be enriched]*
+Felicia Winters served as Federal President during the Distant Worlds 3 expedition. She granted Jasmina Halsey private leave to investigate the witch-space warning and later ordered her, in her capacity as Federal Envoy, to make haste and return from the expedition. Winters also arranged covert diplomatic passage to Tionisla for Halsey and her entourage, demonstrating a pragmatic balance between supporting the expedition's goals and managing Federal political interests.

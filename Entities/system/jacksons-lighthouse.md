@@ -41,4 +41,4 @@ Total mentions: **1**
 
 ## Biography
 
-*[To be enriched]*
+Jackson's Lighthouse is a system referenced during the Distant Worlds 3 expedition. Located within the expedition's operational area, it was one of the waypoints used by the flotilla as they navigated toward the Orion region and beyond.

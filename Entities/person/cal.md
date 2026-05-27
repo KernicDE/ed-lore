@@ -29,4 +29,4 @@ Total mentions: **0**
 
 ## Biography
 
-*[To be enriched]*
+Cal is an elderly technical specialist and old friend of John Ermitage, known for his deep knowledge of pre-Federation and GalCop-era technologies. Dressed in a red and black suit with a neatly trimmed chin beard, he specialises in what he calls "unwanted involvements" — covert operations that require technical expertise and historical understanding. Cal warned the DW3 expedition about the dangers of the northern Abyss region, identifying it as the *Umbra Sagittarii* (Archer's Shadow). He possesses extensive knowledge of the Turner and Halsey families, Hieronymus Halsey's engineering legacy, and the collapse of the Galactic Cooperative.

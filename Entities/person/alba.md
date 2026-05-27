@@ -29,4 +29,4 @@ Total mentions: **0**
 
 ## Biography
 
-*[To be enriched]*
+Alba is a researcher contacted by Ram Tah during the early planning of the Distant Worlds 3 expedition. When Guardian communication frequencies went dormant and shifted to an anomalous gravity-wave signal, Ram Tah decided to reach out to Alba for assistance in understanding the frequency anomaly. Though Alba never appears directly in the expedition narrative, the chapter "Calling Alba" takes its title from this request for help.

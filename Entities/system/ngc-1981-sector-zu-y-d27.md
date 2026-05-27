@@ -47,4 +47,4 @@ Total mentions: **1**
 
 ## Biography
 
-*[To be enriched]*
+NGC 1981 Sector ZU-Y d27 is a system in the Orion region referenced during the Distant Worlds 3 expedition. The sector lies within the expedition's survey corridor and was documented by the flotilla's pilots during their extended mission.

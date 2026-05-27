@@ -25,4 +25,4 @@ Total mentions: **1**
 
 ## Biography
 
-*[To be enriched]*
+Elaine Howard is a Flight Major and experienced scout pilot aboard the DW3 carrier Odysseus. She wears an old Alliance Scouting and Exploration Wing jacket adorned with four Purple Starburst ribbons, signalling an extensive career in deep space reconnaissance. Howard commands respect through a calm, authoritative tone that steadies panicked crews. She personally boarded a derelict prototype carrier with Jacky Hew and Jasmina Halsey, insisting on finding missing T-9 evacuees, and took multiple consecutive shifts monitoring scanner displays during the search for the lost DSSA beacon.

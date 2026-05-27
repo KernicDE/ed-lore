@@ -29,4 +29,4 @@ Total mentions: **0**
 
 ## Biography
 
-*[To be enriched]*
+The Thuecheae MT-Q e5-8 System is a deep-space system referenced during the Distant Worlds 3 expedition. Located in the expedition's operational area, it was documented by the flotilla's pilots as part of their comprehensive survey of the Abyss region and surrounding territories.

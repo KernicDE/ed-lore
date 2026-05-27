@@ -29,4 +29,4 @@ Total mentions: **0**
 
 ## Biography
 
-*[To be enriched]*
+The Collinder 285 Sector is a region of space referenced during the Distant Worlds 3 expedition. Located within the expedition's operational area, it formed part of the broader survey corridor through which the flotilla travelled during their deep-space mission.

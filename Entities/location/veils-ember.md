@@ -29,4 +29,4 @@ Total mentions: **0**
 
 ## Biography
 
-*[To be enriched]*
+Veil's Ember is a stellar phenomenon in the Abyss region near which the Distant Worlds 3 expedition discovered significant debris fields and ancient wreckage. A strong signal detected by Flight Lieutenant Moyers was traced to this area, leading to the discovery of the derelict prototype carrier. Commander LilacLight first sighted a drifting carrier-scale mass near the Ember, and Commander Friggs recovered Jasmina Halsey's ancient escape pod from the surrounding debris field.

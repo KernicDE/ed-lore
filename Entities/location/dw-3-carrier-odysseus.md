@@ -29,4 +29,4 @@ Total mentions: **0**
 
 ## Biography
 
-*[To be enriched]*
+The DW3 Carrier Odysseus was one of the official fleet carriers supporting the Distant Worlds 3 expedition. Serving as a mobile command centre, it housed the expedition's senior leadership including Jasmina Halsey, Hermine Delarue, Doctor Gery, and Alessia Verdi. The carrier coordinated search and rescue operations, scientific investigations, and diplomatic communications throughout the expedition's journey through the Abyss region and beyond.

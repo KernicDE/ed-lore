@@ -29,4 +29,4 @@ Total mentions: **0**
 
 ## Biography
 
-*[To be enriched]*
+Omega Centauri is a globular cluster referenced during the Distant Worlds 3 expedition. As one of the largest known globular clusters in the Milky Way, it represents the kind of extreme deep-space destination that motivates large-scale exploration initiatives like Distant Worlds.

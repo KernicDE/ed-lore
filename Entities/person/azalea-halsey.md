@@ -28,4 +28,4 @@ Total mentions: **1**
 
 ## Biography
 
-*[To be enriched]*
+Azalea Halsey is the sister and close aide of former Federal President Jasmina Halsey. Practical and protective, she managed medical and indemnity protocols during the Distant Worlds 3 expedition and arranged covert diplomatic passage and GalNet leak control for her sister. Azalea was present at Tionisla during the critical negotiations and occasionally scolded Jasmina to eat and sleep during the expedition's most stressful phases. Her grounded presence provided a counterbalance to Jasmina's increasingly visionary focus.

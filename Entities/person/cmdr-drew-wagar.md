@@ -29,4 +29,4 @@ Total mentions: **0**
 
 ## Biography
 
-*[To be enriched]*
+CMDR Drew Wagar is a noted explorer who, in July 3306, revisited the derelict megaship Zurara in the Formidine Rift aboard the carrier Shekinah — later renamed Fimbulthul. His expedition contributed to the growing body of knowledge about Generation Ships and deep-space anomalies, establishing connections that would later prove relevant to the Distant Worlds 3 expedition's own discoveries in the Abyss region.

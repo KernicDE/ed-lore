@@ -29,4 +29,4 @@ Total mentions: **0**
 
 ## Biography
 
-*[To be enriched]*
+The debris field investigated during the Distant Worlds 3 expedition was located near Veil's Ember in the Abyss region. It contained the wreckage of a derelict prototype carrier from the GalCop era, mixed with industrial nanite compounds identified by Jacky Hew's scans. The field also yielded Jasmina Halsey's ancient escape pod — a super-cooled nitrogen-based survival device that should have been impossible to keep operational. Multiple pilots reported sensor interference and cyber-attacks while scanning the debris.

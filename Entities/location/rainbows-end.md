@@ -29,4 +29,4 @@ Total mentions: **0**
 
 ## Biography
 
-*[To be enriched]*
+Rainbow's End is a deep-space station constructed during the Distant Worlds 3 expedition, located in the Mare Somnia region some thousand light years below the galactic plane. Built to house a experimental inhibitor technology derived from Guardian and Quirium research, the station was designed to study and potentially contain witch-space anomalies. Its existence was initially secret, but after political negotiations brokered by Ambassador Cuthrick Delaney, it remained operational under Deep Space Surveys maintenance with tripartite oversight from the Federation, Empire, Alliance, and Universal Cartographics.

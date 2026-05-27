@@ -29,4 +29,4 @@ Total mentions: **0**
 
 ## Biography
 
-*[To be enriched]*
+Corona Australis is a constellation and region of space referenced during the Distant Worlds 3 expedition. The area lies within the broader southern sky region explored by the expedition as they pushed into uncharted territories below the galactic plane.

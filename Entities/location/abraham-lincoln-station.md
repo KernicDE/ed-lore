@@ -29,4 +29,4 @@ Total mentions: **0**
 
 ## Biography
 
-*[To be enriched]*
+Abraham Lincoln Station is a Federal installation that served as a logistical waypoint during the Distant Worlds 3 expedition's return to the Bubble. It was one of the stations where expedition personnel transferred data, supplies, and personnel between the deep-space flotilla and Federal infrastructure.

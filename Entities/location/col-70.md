@@ -29,4 +29,4 @@ Total mentions: **0**
 
 ## Biography
 
-*[To be enriched]*
+COL 70 is a sector near the Orion region that was referenced during the Distant Worlds 3 expedition. The sector lies within the broader exploration corridor used by the expedition as they pushed beyond the established Bubble routes toward the Orion Nebula and the Abyss region below the galactic plane.

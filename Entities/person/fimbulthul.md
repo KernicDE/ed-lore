@@ -29,4 +29,4 @@ Total mentions: **0**
 
 ## Biography
 
-*[To be enriched]*
+Fimbulthul is a Drake-class Fleet Carrier originally christened Shekinah in 3306. After participating in multiple deep-space expeditions including Operation Caldwell 1 and the Ursa Major Stream Survey, the carrier was renamed and retrofitted with advanced sensor arrays. It served during the Thargoid Titan incursions, joined the Children Of The Core survey near the Great Annihilator, and was eventually assigned as a Deep Space Exploration Carrier for the Distant Worlds 3 expedition in the Orion region. Note: the build system classifies Fimbulthul as a person entity due to its naming; it is a vessel.

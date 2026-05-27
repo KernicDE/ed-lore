@@ -29,4 +29,4 @@ Total mentions: **0**
 
 ## Biography
 
-*[To be enriched]*
+John is an alias or shorthand reference used for John Ermitage, the founder and elder strategist of the Distant Worlds 3 expedition. See [[John Ermitage]] for full biography.

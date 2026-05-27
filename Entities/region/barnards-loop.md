@@ -30,4 +30,4 @@ Total mentions: **1**
 
 ## Biography
 
-*[To be enriched]*
+Barnard's Loop is a prominent emission nebula in the Orion region that served as a major waypoint and visual landmark for the Distant Worlds 3 expedition. The nebula's distinctive arc-shaped structure made it a navigational reference point for the expedition flotilla as they travelled toward the Orion constellation and the surrounding deep-space regions.

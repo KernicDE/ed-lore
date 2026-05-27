@@ -29,4 +29,4 @@ Total mentions: **0**
 
 ## Biography
 
-*[To be enriched]*
+Uwe Toramund is a senior lab assistant to Ram Tah, described as stoic and methodical. During the Distant Worlds 3 expedition, he conducted research at eight Guardian sites — four common and four remote — within a 2,000 light-year radius. He discovered that all six traditional Guardian communication frequencies had gone dormant simultaneously, shifting to a single pico-hertz frequency in the gravity-wave range. His insistence on physical measurement over theoretical conclusion proved crucial in establishing the scientific foundation for the expedition's investigation of witch-space anomalies.

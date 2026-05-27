@@ -29,4 +29,4 @@ Total mentions: **0**
 
 ## Biography
 
-*[To be enriched]*
+Dr Reuben Hale is a historian and curator at the Tionisla Historical Society, thin and grey-eyed with hands permanently smudged from workshop work. An expert on witch-space phenomena from the Faraway era through the GalCop collapse, he introduced the concept of "The Missing" — vessels lost in hyperspace transitions. Hale presented three critical artefacts to the DW3 team: a Project Caretaker procurement note, a corrupted data wafer, and a Quirium Control Unit. He confirmed that Jasmina Halsey's auditorium recording matched the cadence of witch-space anomalies, and permitted her to take the Quirium Control Unit on the expedition.

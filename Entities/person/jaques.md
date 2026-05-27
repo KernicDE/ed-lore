@@ -50,4 +50,4 @@ Jaques becomes a legendary figure whose wanderings eventually lead him to the Co
 
 ## Biography
 
-*[To be enriched]*
+Jaques is a legendary cyborg barman who operates Jaques Station, the galaxy's only travelling starport. First appearing in 3301 as a mysterious wanderer, his mobile station became a neutral gathering place for pilots from all superpowers. During the Distant Worlds 3 expedition, Jaques provided crucial historical knowledge about old technologies from the GalCop era, including insights into Quirium drives and early hyperspace navigation systems. His station eventually settled in the Colonia region, where it became the founding settlement of a new human society far from the Bubble.

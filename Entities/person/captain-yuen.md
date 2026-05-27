@@ -29,4 +29,4 @@ Total mentions: **0**
 
 ## Biography
 
-*[To be enriched]*
+Captain Yuen is the fleet captain of the Distant Worlds 3 expedition, coordinating search operations with Flight Major Elaine Howard. A practical officer with a military bearing, he ordered quarantine cordons and burn-box sample protocols when investigating the derelict prototype carrier. Yuen noted that a missing DSSA carrier should have been "screaming" on emergency frequencies but was ominously silent, and later directed the fleet to break into three search sweeps to cover more territory efficiently.

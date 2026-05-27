@@ -29,4 +29,4 @@ Total mentions: **0**
 
 ## Biography
 
-*[To be enriched]*
+Alessia Verdi is an Imperial pilot and informant who joined the Distant Worlds 3 expedition. Lean and grey-haired with a small Imperial crest tattooed inside her hairline, she carries the premature ageing of long patrol stress and personal grief. Verdi witnessed Salomé's death firsthand and became deeply disillusioned with her legacy, refusing to follow saviours or lie for anyone. During the expedition's crisis, she supplied a blackmail archive called "Salomé's Requiem" — several terabytes of dirty secrets from all three superpowers — forcing them to back down from dismantling Rainbow's End and securing pardons for the DW3 commanders.

@@ -27,4 +27,4 @@ Total mentions: **0**
 
 ## Biography
 
-*[To be enriched]*
+The Abyss Region is a vast area of deep space below the galactic plane that served as the primary exploration zone for the Distant Worlds 3 expedition. Characterised by extreme isolation and sparse stellar density, the region was chosen specifically for its proximity to the Praei2 permit-locked sector and its association with unexplained witch-space phenomena. Cal warned the expedition about the northern reaches of the Abyss, identifying them as the *Umbra Sagittarii* (Archer's Shadow), a zone of particularly dangerous hyperspace anomalies.
