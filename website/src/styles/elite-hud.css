@@ -390,6 +390,16 @@ html, body {
   color: var(--text-secondary);
 }
 
+.timeline-badge.chronicle {
+  border-color: var(--elite-blue-dim);
+  color: var(--elite-blue);
+}
+
+.timeline-badge.cmdr-log {
+  border-color: var(--elite-green-dim);
+  color: var(--elite-green);
+}
+
 /* ── Entity Cards ───────────────────────────────────────────────────────── */
 .entity-card {
   display: flex;

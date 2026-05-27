@@ -45,7 +45,7 @@ export const GET: APIRoute = () => {
   const atom = `<?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"
       xml:lang="en">
-  <title>GalNet Chronicle — Elite Dangerous Lore (Raw)</title>
+  <title>ED Lore — Elite Dangerous Lore (Raw)</title>
   <subtitle>Raw GalNet articles from the Elite Dangerous universe (3301–3312)</subtitle>
   <link href="${baseUrl}/atom-raw.xml" rel="self" type="application/atom+xml" />
   <link href="${baseUrl}/" rel="alternate" type="text/html" />
@@ -54,7 +54,7 @@ export const GET: APIRoute = () => {
   <icon>${baseUrl}/favicon.svg</icon>
   <logo>${baseUrl}/favicon.svg</logo>
   <author>
-    <name>GalNet Chronicle</name>
+    <name>ED Lore</name>
   </author>
   ${entries}
 </feed>`;

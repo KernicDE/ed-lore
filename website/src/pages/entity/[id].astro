@@ -18,12 +18,15 @@ const { id } = Astro.params;
 const entity = graphData.entities[id] as any;
 const baseUrl = (import.meta.env.BASE_URL || '').replace(/\/$/, '');
 
-const entityArticles = graphData.articles
+const allEntityArticles = graphData.articles
   .filter((a) => {
     const allNames = [...a.entities, ...a.groups, ...a.locations, ...(a.persons || []), ...(a.technologies || [])];
     return allNames.some((n) => n.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/\s+/g, '-').replace(/[^\w-]/g, '') === id);
   })
   .sort((a, b) => (b.date || '').localeCompare(a.date || ''));
+
+const officialArticles = allEntityArticles.filter((a) => a.source_type === 'official');
+const communityArticles = allEntityArticles.filter((a) => a.source_type === 'community');
 
 // Display top 6 in the Related Entities panel (scored by shared connections)
 const related = (entity?.related_entities || [])
@@ -122,11 +125,11 @@ function slugify(name: string): string {
 }
 ---
 
-<BaseLayout title={`${entity?.name || id} — GalNet Chronicle`}>
+<BaseLayout title={`${entity?.name || id} — ED Lore`}>
   <header class="hud-header">
     <div>
       <a href={`${baseUrl}/`} style="text-decoration: none;" data-home-link>
-        <span class="hud-title">‹ GalNet Chronicle</span>
+        <span class="hud-title">‹ ED Lore</span>
       </a>
     </div>
     <div style="display: flex; align-items: center; gap: 12px;">
@@ -393,13 +396,50 @@ function slugify(name: string): string {
     )}
     </div>
 
+    {/* Community Mentions (shown first) */}
+    {communityArticles.length > 0 && (
+      <div class="holo-panel">
+        <div class="holo-title">Community Lore ({communityArticles.length} mentions)</div>
+        {communityArticles.map((art) => {
+          const catBadge = art.category === 'chronicle' ? '📖 Chronicle' : art.category === 'cmdr-log' ? '✎ CMDR Log' : 'Community';
+          const catColor = art.category === 'chronicle' ? 'var(--elite-blue)' : art.category === 'cmdr-log' ? 'var(--elite-green)' : 'var(--text-dim)';
+          return (
+            <div style="padding: 10px 0; border-bottom: 1px solid var(--border-default);">
+              <div style="display: flex; align-items: center; gap: 8px;">
+                <span style="font-family: var(--font-mono); font-size: 11px; color: var(--text-dim);">{art.date}</span>
+                <span style={{
+                  fontFamily: 'var(--font-mono)',
+                  fontSize: 10,
+                  color: catColor,
+                  border: `1px solid ${catColor}`,
+                  padding: '1px 6px',
+                  opacity: 0.8,
+                }}>
+                  {catBadge}
+                </span>
+              </div>
+              <a href={`${baseUrl}/?article=${art.uuid}`} style="font-size: 14px; font-weight: 500; color: var(--text-primary); text-decoration: none;">
+                {art.title}
+              </a>
+              {art.summary && (
+                <div class="ai-content" style="margin-top: 4px; font-size: 12px; color: var(--text-secondary); line-height: 1.4;">
+                  {art.summary}
+                </div>
+              )}
+            </div>
+          );
+        })}
+      </div>
+    )}
+
+    {/* Official Mentions */}
     <div class="holo-panel">
-      <div class="holo-title">Mentions Timeline ({entityArticles.length} articles)</div>
-      {entityArticles.length === 0 && (
-        <div style="color: var(--text-dim); font-size: 13px;">No articles found.</div>
+      <div class="holo-title">Official Mentions ({officialArticles.length} articles)</div>
+      {officialArticles.length === 0 && (
+        <div style="color: var(--text-dim); font-size: 13px;">No official articles found.</div>
       )}
-      {entityArticles.map((art) => (
-        <div key={art.uuid} style="padding: 10px 0; border-bottom: 1px solid var(--border-default);">
+      {officialArticles.map((art) => (
+        <div style="padding: 10px 0; border-bottom: 1px solid var(--border-default);">
           <div style="font-family: var(--font-mono); font-size: 11px; color: var(--text-dim);">{art.date}</div>
           <a href={`${baseUrl}/?article=${art.uuid}`} style="font-size: 14px; font-weight: 500; color: var(--text-primary); text-decoration: none;">
             {art.title}

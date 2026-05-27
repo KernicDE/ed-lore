@@ -16,16 +16,16 @@ const articleCount = version.article_count.toLocaleString();
 const buildId = version.build;
 ---
 
-<BaseLayout title="GalNet Chronicle — Elite Dangerous Lore Explorer">
+<BaseLayout title="ED Lore — Elite Dangerous Lore Explorer">
   <script is:inline define:vars={{ buildId }}>
     window.GALNET_BUILD = buildId;
   </script>
 
   <header class="hud-header">
     <div>
-      <span class="hud-title">GalNet Chronicle</span>
+      <span class="hud-title">ED Lore</span>
       <span class="hud-subtitle" style="margin-left: 16px;">
-        {articleCount} articles · 3301–3312
+        {articleCount} entries · 3301–3312
       </span>
     </div>
     <div style="display: flex; align-items: center; gap: 12px;">

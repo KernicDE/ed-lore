@@ -18,6 +18,9 @@ import yaml
 
 BASE_DIR = Path(__file__).parent.parent
 ARCHIVE_DIR = BASE_DIR / "Archive"
+COMMUNITY_DIR = BASE_DIR / "Community"
+CHRONICLES_DIR = COMMUNITY_DIR / "chronicles"
+CMDR_LOGS_DIR = COMMUNITY_DIR / "cmdr-logs"
 ENTITIES_DIR = BASE_DIR / "Entities"
 ARCS_DIR = ENTITIES_DIR / "Arcs"
 OUTPUT_FILE = BASE_DIR / "lore_graph.json"
@@ -367,6 +370,164 @@ def make_entity_id(name: str) -> str:
     return re.sub(r"[^\w-]", "", n.lower().replace(" ", "-"))
 
 
+def _process_single_article(
+    article_path: Path,
+    graph: dict[str, Any],
+    entity_mentions: dict[str, dict[str, Any]],
+    group_mentions: dict[str, dict[str, Any]],
+    location_mentions: dict[str, dict[str, Any]],
+    person_mentions: dict[str, dict[str, Any]],
+    technology_mentions: dict[str, dict[str, Any]],
+    arc_mentions: dict[str, dict[str, Any]],
+    community_entity_mentions: dict[str, dict[str, Any]],
+    community_group_mentions: dict[str, dict[str, Any]],
+    community_location_mentions: dict[str, dict[str, Any]],
+    community_person_mentions: dict[str, dict[str, Any]],
+    community_technology_mentions: dict[str, dict[str, Any]],
+    category: str,
+    source_type: str,
+) -> None:
+    """Process a single article and update all tracking dicts."""
+    fm = parse_frontmatter(article_path)
+    if not fm:
+        return
+    body = extract_body(article_path)
+    date_raw = fm.get("date", "")
+    date = str(date_raw) if date_raw else ""
+    uuid = fm.get("uuid", "")
+    arc_id = fm.get("arc_id")
+
+    # Determine which mention trackers to use
+    is_official = source_type == "official"
+    ent_tracker = entity_mentions if is_official else community_entity_mentions
+    grp_tracker = group_mentions if is_official else community_group_mentions
+    loc_tracker = location_mentions if is_official else community_location_mentions
+    per_tracker = person_mentions if is_official else community_person_mentions
+    tech_tracker = technology_mentions if is_official else community_technology_mentions
+
+    # Normalise entities
+    clean_entities = []
+    seen = set()
+    for e in fm.get("entities", []):
+        c = normalize_entity(e)
+        if c and c not in seen:
+            clean_entities.append(c)
+            seen.add(c)
+            d = ent_tracker[c]
+            d["mentions"] += 1
+            d["articles"].append(uuid)
+            if not d["first_seen"] or date < d["first_seen"]:
+                d["first_seen"] = date
+            if not d["last_seen"] or date > d["last_seen"]:
+                d["last_seen"] = date
+
+    # Normalise groups
+    clean_groups = []
+    for g in fm.get("groups") or []:
+        c = normalize_entity(g)
+        if not c:
+            continue
+        if c not in seen:
+            clean_groups.append(c)
+            seen.add(c)
+            d = grp_tracker[c]
+            d["mentions"] += 1
+            d["articles"].append(uuid)
+            if not d["first_seen"] or date < d["first_seen"]:
+                d["first_seen"] = date
+            if not d["last_seen"] or date > d["last_seen"]:
+                d["last_seen"] = date
+
+    # Normalise locations
+    clean_locations = []
+    seen_locs = set()
+    for loc in fm.get("locations") or []:
+        c = normalize_location(loc)
+        if c and c not in seen_locs:
+            clean_locations.append(c)
+            seen_locs.add(c)
+            d = loc_tracker[c]
+            d["mentions"] += 1
+            d["articles"].append(uuid)
+            if not d["first_seen"] or date < d["first_seen"]:
+                d["first_seen"] = date
+            if not d["last_seen"] or date > d["last_seen"]:
+                d["last_seen"] = date
+
+    # Normalise persons
+    for p in fm.get("persons") or []:
+        c = normalize_entity(p)
+        if not c:
+            continue
+        d = per_tracker[c]
+        d["mentions"] += 1
+        d["articles"].append(uuid)
+        if not d["first_seen"] or date < d["first_seen"]:
+            d["first_seen"] = date
+        if not d["last_seen"] or date > d["last_seen"]:
+            d["last_seen"] = date
+
+    # Normalise technologies
+    for t in fm.get("technologies") or []:
+        c = normalize_entity(t)
+        if not c:
+            continue
+        d = tech_tracker[c]
+        d["mentions"] += 1
+        d["articles"].append(uuid)
+        if not d["first_seen"] or date < d["first_seen"]:
+            d["first_seen"] = date
+        if not d["last_seen"] or date > d["last_seen"]:
+            d["last_seen"] = date
+
+    # Arc mentions (always tracked together — arcs are source-agnostic)
+    if arc_id:
+        d = arc_mentions[arc_id]
+        d["mentions"] += 1
+        d["articles"].append(uuid)
+        if not d["first_seen"] or date < d["first_seen"]:
+            d["first_seen"] = date
+        if not d["last_seen"] or date > d["last_seen"]:
+            d["last_seen"] = date
+
+    record = {
+        "uuid": uuid,
+        "title": fm.get("title", ""),
+        "slug": fm.get("slug", ""),
+        "date": date,
+        "source": fm.get("source", ""),
+        "category": category,
+        "source_type": source_type,
+        "author": fm.get("author", ""),
+        "sources": fm.get("sources") or [],
+        "curated_by": fm.get("curated_by", ""),
+        "curated_date": fm.get("curated_date", ""),
+        "entities": clean_entities,
+        "groups": clean_groups,
+        "locations": clean_locations,
+        "topics": fm.get("topics") or [],
+        "arc_id": arc_id,
+        "arc_chapter": fm.get("arc_chapter"),
+        "summary": fm.get("summary", ""),
+        "player_impact": fm.get("player_impact", ""),
+        "modern_impact": fm.get("modern_impact", ""),
+        "persons": fm.get("persons") or [],
+        "technologies": fm.get("technologies") or [],
+        "legacy_weight": fm.get("legacy_weight", 2),
+        "significance": fm.get("significance", "low"),
+        "related_uuids": fm.get("related_uuids") or [],
+        "body_full": body,
+        "body_preview": body[:500] + "..." if len(body) > 500 else body,
+        "word_count": len(body.split()),
+        "archive_path": str(article_path.relative_to(BASE_DIR)),
+    }
+    graph["articles"].append(record)
+
+    if date:
+        y, m, _ = date.split("-")
+        graph["timeline_index"].setdefault(y, {}).setdefault(m, []).append(uuid)
+
+
 def build() -> dict[str, Any]:
     graph: dict[str, Any] = {
         "meta": {
@@ -382,6 +543,7 @@ def build() -> dict[str, Any]:
         "entity_cooccurrence": {},
     }
 
+    # Official (GalNet) mention trackers
     entity_mentions: dict[str, dict[str, Any]] = defaultdict(
         lambda: {"mentions": 0, "articles": [], "first_seen": None, "last_seen": None}
     )
@@ -401,198 +563,167 @@ def build() -> dict[str, Any]:
         lambda: {"mentions": 0, "articles": [], "first_seen": None, "last_seen": None}
     )
 
-    article_paths = list(ARCHIVE_DIR.rglob("*.md"))
-    print(f"Processing {len(article_paths)} articles...")
+    # Community mention trackers (separate from official)
+    community_entity_mentions: dict[str, dict[str, Any]] = defaultdict(
+        lambda: {"mentions": 0, "articles": [], "first_seen": None, "last_seen": None}
+    )
+    community_location_mentions: dict[str, dict[str, Any]] = defaultdict(
+        lambda: {"mentions": 0, "articles": [], "first_seen": None, "last_seen": None}
+    )
+    community_group_mentions: dict[str, dict[str, Any]] = defaultdict(
+        lambda: {"mentions": 0, "articles": [], "first_seen": None, "last_seen": None}
+    )
+    community_person_mentions: dict[str, dict[str, Any]] = defaultdict(
+        lambda: {"mentions": 0, "articles": [], "first_seen": None, "last_seen": None}
+    )
+    community_technology_mentions: dict[str, dict[str, Any]] = defaultdict(
+        lambda: {"mentions": 0, "articles": [], "first_seen": None, "last_seen": None}
+    )
 
+    # Process official GalNet articles
+    article_paths = list(ARCHIVE_DIR.rglob("*.md"))
+    print(f"Processing {len(article_paths)} official articles...")
     for i, article_path in enumerate(sorted(article_paths)):
         if (i + 1) % 500 == 0:
             print(f"  ... {i + 1}")
+        _process_single_article(
+            article_path, graph,
+            entity_mentions, group_mentions, location_mentions,
+            person_mentions, technology_mentions, arc_mentions,
+            community_entity_mentions, community_group_mentions,
+            community_location_mentions, community_person_mentions,
+            community_technology_mentions,
+            category="galnet", source_type="official",
+        )
 
-        fm = parse_frontmatter(article_path)
-        if not fm:
-            continue
-        body = extract_body(article_path)
-        date_raw = fm.get("date", "")
-        date = str(date_raw) if date_raw else ""
-        uuid = fm.get("uuid", "")
-        arc_id = fm.get("arc_id")
+    # Process community chronicles
+    if CHRONICLES_DIR.exists():
+        chronicle_paths = list(CHRONICLES_DIR.rglob("*.md"))
+        print(f"Processing {len(chronicle_paths)} chronicle articles...")
+        for i, article_path in enumerate(sorted(chronicle_paths)):
+            if (i + 1) % 100 == 0:
+                print(f"  ... {i + 1}")
+            _process_single_article(
+                article_path, graph,
+                entity_mentions, group_mentions, location_mentions,
+                person_mentions, technology_mentions, arc_mentions,
+                community_entity_mentions, community_group_mentions,
+                community_location_mentions, community_person_mentions,
+                community_technology_mentions,
+                category="chronicle", source_type="community",
+            )
 
-        # Normalise entities
-        clean_entities = []
-        seen = set()
-        for e in fm.get("entities", []):
-            c = normalize_entity(e)
-            if c and c not in seen:
-                clean_entities.append(c)
-                seen.add(c)
-                d = entity_mentions[c]
-                d["mentions"] += 1
-                d["articles"].append(uuid)
-                if not d["first_seen"] or date < d["first_seen"]:
-                    d["first_seen"] = date
-                if not d["last_seen"] or date > d["last_seen"]:
-                    d["last_seen"] = date
-
-        # Normalise groups
-        clean_groups = []
-        for g in fm.get("groups") or []:
-            c = normalize_entity(g)
-            if not c:
-                continue
-            if c not in seen:
-                clean_groups.append(c)
-                seen.add(c)
-                d = group_mentions[c]
-                d["mentions"] += 1
-                d["articles"].append(uuid)
-                if not d["first_seen"] or date < d["first_seen"]:
-                    d["first_seen"] = date
-                if not d["last_seen"] or date > d["last_seen"]:
-                    d["last_seen"] = date
-
-        # Normalise locations
-        clean_locations = []
-        seen_locs = set()
-        for loc in fm.get("locations") or []:
-            c = normalize_location(loc)
-            if c and c not in seen_locs:
-                clean_locations.append(c)
-                seen_locs.add(c)
-                d = location_mentions[c]
-                d["mentions"] += 1
-                d["articles"].append(uuid)
-                if not d["first_seen"] or date < d["first_seen"]:
-                    d["first_seen"] = date
-                if not d["last_seen"] or date > d["last_seen"]:
-                    d["last_seen"] = date
-
-        # Normalise persons
-        for p in fm.get("persons") or []:
-            c = normalize_entity(p)
-            if not c:
-                continue
-            d = person_mentions[c]
-            d["mentions"] += 1
-            d["articles"].append(uuid)
-            if not d["first_seen"] or date < d["first_seen"]:
-                d["first_seen"] = date
-            if not d["last_seen"] or date > d["last_seen"]:
-                d["last_seen"] = date
-
-        # Normalise technologies
-        for t in fm.get("technologies") or []:
-            c = normalize_entity(t)
-            if not c:
-                continue
-            d = technology_mentions[c]
-            d["mentions"] += 1
-            d["articles"].append(uuid)
-            if not d["first_seen"] or date < d["first_seen"]:
-                d["first_seen"] = date
-            if not d["last_seen"] or date > d["last_seen"]:
-                d["last_seen"] = date
-
-        if arc_id:
-            d = arc_mentions[arc_id]
-            d["mentions"] += 1
-            d["articles"].append(uuid)
-            if not d["first_seen"] or date < d["first_seen"]:
-                d["first_seen"] = date
-            if not d["last_seen"] or date > d["last_seen"]:
-                d["last_seen"] = date
-
-        record = {
-            "uuid": uuid,
-            "title": fm.get("title", ""),
-            "slug": fm.get("slug", ""),
-            "date": date,
-            "source": fm.get("source", ""),
-            "entities": clean_entities,
-            "groups": clean_groups,
-            "locations": clean_locations,
-            "topics": fm.get("topics") or [],
-            "arc_id": arc_id,
-            "arc_chapter": fm.get("arc_chapter"),
-            "summary": fm.get("summary", ""),
-            "player_impact": fm.get("player_impact", ""),
-            "modern_impact": fm.get("modern_impact", ""),
-            "persons": fm.get("persons") or [],
-            "technologies": fm.get("technologies") or [],
-            "legacy_weight": fm.get("legacy_weight", 2),
-            "significance": fm.get("significance", "low"),
-            "related_uuids": fm.get("related_uuids") or [],
-            "body_full": body,
-            "body_preview": body[:500] + "..." if len(body) > 500 else body,
-            "word_count": len(body.split()),
-            "archive_path": str(article_path.relative_to(BASE_DIR)),
-        }
-        graph["articles"].append(record)
-
-        if date:
-            y, m, _ = date.split("-")
-            graph["timeline_index"].setdefault(y, {}).setdefault(m, []).append(uuid)
+    # Process community CMDR logs
+    if CMDR_LOGS_DIR.exists():
+        log_paths = list(CMDR_LOGS_DIR.rglob("*.md"))
+        print(f"Processing {len(log_paths)} CMDR log articles...")
+        for i, article_path in enumerate(sorted(log_paths)):
+            if (i + 1) % 100 == 0:
+                print(f"  ... {i + 1}")
+            _process_single_article(
+                article_path, graph,
+                entity_mentions, group_mentions, location_mentions,
+                person_mentions, technology_mentions, arc_mentions,
+                community_entity_mentions, community_group_mentions,
+                community_location_mentions, community_person_mentions,
+                community_technology_mentions,
+                category="cmdr-log", source_type="community",
+            )
 
     graph["articles"].sort(key=lambda a: a.get("date", "") or "")
-    print(f"Indexed {len(graph['articles'])} articles.")
+    print(f"Indexed {len(graph['articles'])} total articles.")
 
-    # Build entity records
-    print("Building entity records...")
-    for name, data in entity_mentions.items():
-        eid = make_entity_id(name)
-        if eid in GARBAGE_ENTITY_IDS:
-            continue
-        graph["entities"][eid] = {
-            "id": eid, "name": name, "type": "person",
-            "first_seen_date": data["first_seen"], "last_seen_date": data["last_seen"],
-            "mention_count": data["mentions"], "article_uuids": data["articles"],
+    def _build_entity_record(
+        eid: str, name: str, ent_type: str,
+        official_data: dict[str, Any] | None,
+        community_data: dict[str, Any] | None,
+    ) -> dict[str, Any]:
+        """Build an entity record combining official and community mentions."""
+        rec: dict[str, Any] = {
+            "id": eid, "name": name, "type": ent_type,
             "bio": "", "affiliations": [], "related_entities": [], "related_arcs": [],
         }
-    for name, data in group_mentions.items():
-        eid = make_entity_id(name)
-        if eid in GARBAGE_ENTITY_IDS:
-            continue
-        if eid not in graph["entities"]:
-            graph["entities"][eid] = {
-                "id": eid, "name": name, "type": "faction",
-                "first_seen_date": data["first_seen"], "last_seen_date": data["last_seen"],
-                "mention_count": data["mentions"], "article_uuids": data["articles"],
-                "bio": "", "affiliations": [], "related_entities": [], "related_arcs": [],
-            }
-    for name, data in location_mentions.items():
-        eid = make_entity_id(name)
-        if eid in GARBAGE_ENTITY_IDS:
-            continue
-        if eid not in graph["entities"]:
-            graph["entities"][eid] = {
-                "id": eid, "name": name, "type": "location",
-                "first_seen_date": data["first_seen"], "last_seen_date": data["last_seen"],
-                "mention_count": data["mentions"], "article_uuids": data["articles"],
-                "bio": "", "affiliations": [], "related_entities": [], "related_arcs": [],
-            }
+        # Official stats (primary)
+        if official_data:
+            rec["first_seen_date"] = official_data["first_seen"]
+            rec["last_seen_date"] = official_data["last_seen"]
+            rec["mention_count"] = official_data["mentions"]
+            rec["article_uuids"] = official_data["articles"]
+        else:
+            rec["first_seen_date"] = None
+            rec["last_seen_date"] = None
+            rec["mention_count"] = 0
+            rec["article_uuids"] = []
+        # Community mentions (separate)
+        if community_data:
+            rec["community_mention_count"] = community_data["mentions"]
+            rec["community_article_uuids"] = community_data["articles"]
+            rec["community_first_seen"] = community_data["first_seen"]
+            rec["community_last_seen"] = community_data["last_seen"]
+        else:
+            rec["community_mention_count"] = 0
+            rec["community_article_uuids"] = []
+            rec["community_first_seen"] = None
+            rec["community_last_seen"] = None
+        return rec
 
-    for name, data in person_mentions.items():
-        eid = make_entity_id(name)
-        if eid in GARBAGE_ENTITY_IDS:
-            continue
-        if eid not in graph["entities"]:
-            graph["entities"][eid] = {
-                "id": eid, "name": name, "type": "person",
-                "first_seen_date": data["first_seen"], "last_seen_date": data["last_seen"],
-                "mention_count": data["mentions"], "article_uuids": data["articles"],
-                "bio": "", "affiliations": [], "related_entities": [], "related_arcs": [],
-            }
+    # Build entity records (combine official + community)
+    print("Building entity records...")
+    all_entity_names = set(entity_mentions.keys()) | set(community_entity_mentions.keys())
+    all_group_names = set(group_mentions.keys()) | set(community_group_mentions.keys())
+    all_location_names = set(location_mentions.keys()) | set(community_location_mentions.keys())
+    all_person_names = set(person_mentions.keys()) | set(community_person_mentions.keys())
+    all_technology_names = set(technology_mentions.keys()) | set(community_technology_mentions.keys())
 
-    for name, data in technology_mentions.items():
+    for name in all_entity_names:
+        eid = make_entity_id(name)
+        if eid in GARBAGE_ENTITY_IDS:
+            continue
+        graph["entities"][eid] = _build_entity_record(
+            eid, name, "person",
+            entity_mentions.get(name),
+            community_entity_mentions.get(name),
+        )
+    for name in all_group_names:
         eid = make_entity_id(name)
         if eid in GARBAGE_ENTITY_IDS:
             continue
         if eid not in graph["entities"]:
-            graph["entities"][eid] = {
-                "id": eid, "name": name, "type": "technology",
-                "first_seen_date": data["first_seen"], "last_seen_date": data["last_seen"],
-                "mention_count": data["mentions"], "article_uuids": data["articles"],
-                "bio": "", "affiliations": [], "related_entities": [], "related_arcs": [],
-            }
+            graph["entities"][eid] = _build_entity_record(
+                eid, name, "faction",
+                group_mentions.get(name),
+                community_group_mentions.get(name),
+            )
+    for name in all_location_names:
+        eid = make_entity_id(name)
+        if eid in GARBAGE_ENTITY_IDS:
+            continue
+        if eid not in graph["entities"]:
+            graph["entities"][eid] = _build_entity_record(
+                eid, name, "location",
+                location_mentions.get(name),
+                community_location_mentions.get(name),
+            )
+    for name in all_person_names:
+        eid = make_entity_id(name)
+        if eid in GARBAGE_ENTITY_IDS:
+            continue
+        if eid not in graph["entities"]:
+            graph["entities"][eid] = _build_entity_record(
+                eid, name, "person",
+                person_mentions.get(name),
+                community_person_mentions.get(name),
+            )
+    for name in all_technology_names:
+        eid = make_entity_id(name)
+        if eid in GARBAGE_ENTITY_IDS:
+            continue
+        if eid not in graph["entities"]:
+            graph["entities"][eid] = _build_entity_record(
+                eid, name, "technology",
+                technology_mentions.get(name),
+                community_technology_mentions.get(name),
+            )
 
     # Merge enriched data from entity files
     print("Merging enriched entity data...")
@@ -648,16 +779,32 @@ def build() -> dict[str, Any]:
     # Build arc records
     print("Building arc records...")
     for arc_id, data in arc_mentions.items():
+        arc_articles = [a for a in graph["articles"] if a.get("arc_id") == arc_id]
+        official_count = sum(1 for a in arc_articles if a.get("category") == "galnet")
+        community_count = sum(1 for a in arc_articles if a.get("category") in ("chronicle", "cmdr-log"))
+        # Aggregate sources from all community articles in this arc
+        arc_sources = []
+        seen_source_urls = set()
+        for a in arc_articles:
+            if a.get("source_type") == "community":
+                for s in a.get("sources", []):
+                    url = s.get("url", "")
+                    if url and url not in seen_source_urls:
+                        seen_source_urls.add(url)
+                        arc_sources.append(s)
         graph["arcs"][arc_id] = {
             "id": arc_id,
             "name": arc_id.replace("-", " ").title(),
             "first_seen_date": data["first_seen"],
             "last_seen_date": data["last_seen"],
             "mention_count": data["mentions"],
+            "official_count": official_count,
+            "community_count": community_count,
             "article_uuids": data["articles"],
             "description": "",
             "key_entities": [],
             "significance": "medium",
+            "sources": arc_sources,
         }
 
     # Merge enriched arc data from Arcs/ markdown frontmatter
@@ -680,6 +827,12 @@ def build() -> dict[str, Any]:
             for key in ["description", "summary", "status", "outcome", "phases", "significance", "key_entities"]:
                 if key in fm and fm[key] is not None:
                     rec[key] = fm[key]
+            # Merge arc-level sources if present in frontmatter
+            if "sources" in fm and fm["sources"]:
+                existing_urls = {s.get("url", "") for s in rec.get("sources", [])}
+                for s in fm["sources"]:
+                    if s.get("url", "") not in existing_urls:
+                        rec["sources"].append(s)
 
     # Co-occurrence
     print("Building co-occurrence matrix...")
@@ -856,6 +1009,7 @@ def main() -> int:
 
     # Strip server-only fields from entities for client JSON
     # article_uuids is only needed by server-rendered entity/arc pages
+    # community_article_uuids stays for entity page community mentions block
     client_entities = {}
     for eid, rec in graph["entities"].items():
         client_rec = {k: v for k, v in rec.items() if k != "article_uuids"}
@@ -916,12 +1070,20 @@ def main() -> int:
     )
     print(f"  entities-index.json: {len(entities_index)} items")
 
+    # Count articles by category
+    galnet_count = sum(1 for a in graph["articles"] if a.get("category") == "galnet")
+    chronicle_count = sum(1 for a in graph["articles"] if a.get("category") == "chronicle")
+    cmdr_log_count = sum(1 for a in graph["articles"] if a.get("category") == "cmdr-log")
+
     # Write tiny version file for cache busting + dynamic header counts
     version = {
         "build": graph["meta"]["generated_at"],
         "article_count": graph["meta"]["article_count"],
         "entity_count": graph["meta"]["entity_count"],
         "arc_count": graph["meta"]["arc_count"],
+        "galnet_count": galnet_count,
+        "chronicle_count": chronicle_count,
+        "cmdr_log_count": cmdr_log_count,
     }
     (WEBSITE_DATA_DIR / "version.json").write_text(json.dumps(version, ensure_ascii=False), encoding="utf-8")
 

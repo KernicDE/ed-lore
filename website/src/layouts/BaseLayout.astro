@@ -6,8 +6,8 @@ interface Props {
   canonical?: string;
 }
 const { 
-  title = "GalNet Chronicle — Elite Dangerous Lore Explorer",
-  description = "Explore the complete Elite Dangerous GalNet archive from 3301–3312. AI-enriched articles, entity profiles, story arcs, and interactive timeline.",
+  title = "ED Lore — Elite Dangerous Lore Explorer",
+  description = "Explore the complete Elite Dangerous lore archive: GalNet articles, community chronicles, CMDR logs, entity profiles, story arcs, and interactive timeline.",
   ogImage = "/ed-lore/favicon.svg",
   canonical,
 } = Astro.props;
@@ -24,7 +24,7 @@ const canonicalUrl = canonical ? `${baseUrl}${canonical}` : baseUrl + Astro.url.
   <title>{title}</title>
   <meta name="description" content={description} />
   <meta name="keywords" content="Elite Dangerous, GalNet, lore, timeline, ED, frontier, space simulation, galaxy, articles" />
-  <meta name="author" content="GalNet Chronicle" />
+  <meta name="author" content="ED Lore" />
   <meta name="robots" content="index, follow" />
   <meta name="theme-color" content="#080a0f" />
   <meta name="color-scheme" content="light dark" />
@@ -56,7 +56,7 @@ const canonicalUrl = canonical ? `${baseUrl}${canonical}` : baseUrl + Astro.url.
   <meta property="og:title" content={title} />
   <meta property="og:description" content={description} />
   <meta property="og:image" content={`${baseUrl}${ogImage}`} />
-  <meta property="og:site_name" content="GalNet Chronicle" />
+  <meta property="og:site_name" content="ED Lore" />
   
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary" />
@@ -65,10 +65,10 @@ const canonicalUrl = canonical ? `${baseUrl}${canonical}` : baseUrl + Astro.url.
   <meta name="twitter:image" content={`${baseUrl}${ogImage}`} />
   
   <!-- RSS / Atom Auto-discovery -->
-  <link rel="alternate" type="application/rss+xml" title="GalNet Chronicle RSS (AI-enriched)" href={`${(import.meta.env.BASE_URL || '').replace(/\/$/, '')}/rss.xml`} />
-  <link rel="alternate" type="application/atom+xml" title="GalNet Chronicle Atom (AI-enriched)" href={`${(import.meta.env.BASE_URL || '').replace(/\/$/, '')}/atom.xml`} />
-  <link rel="alternate" type="application/rss+xml" title="GalNet Chronicle RSS (Raw)" href={`${(import.meta.env.BASE_URL || '').replace(/\/$/, '')}/rss-raw.xml`} />
-  <link rel="alternate" type="application/atom+xml" title="GalNet Chronicle Atom (Raw)" href={`${(import.meta.env.BASE_URL || '').replace(/\/$/, '')}/atom-raw.xml`} />
+  <link rel="alternate" type="application/rss+xml" title="ED Lore RSS (AI-enriched)" href={`${(import.meta.env.BASE_URL || '').replace(/\/$/, '')}/rss.xml`} />
+  <link rel="alternate" type="application/atom+xml" title="ED Lore Atom (AI-enriched)" href={`${(import.meta.env.BASE_URL || '').replace(/\/$/, '')}/atom.xml`} />
+  <link rel="alternate" type="application/rss+xml" title="ED Lore RSS (Raw)" href={`${(import.meta.env.BASE_URL || '').replace(/\/$/, '')}/rss-raw.xml`} />
+  <link rel="alternate" type="application/atom+xml" title="ED Lore Atom (Raw)" href={`${(import.meta.env.BASE_URL || '').replace(/\/$/, '')}/atom-raw.xml`} />
   
   <!-- PWA -->
   <link rel="manifest" href={`${(import.meta.env.BASE_URL || '').replace(/\/$/, '')}/manifest.json`} />
@@ -84,7 +84,7 @@ const canonicalUrl = canonical ? `${baseUrl}${canonical}` : baseUrl + Astro.url.
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@type": "WebSite",
-    "name": "GalNet Chronicle",
+    "name": "ED Lore",
     "description": description,
     "url": baseUrl,
     "potentialAction": {

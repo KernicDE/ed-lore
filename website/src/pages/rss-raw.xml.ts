@@ -48,7 +48,7 @@ export const GET: APIRoute = () => {
   xmlns:content="http://purl.org/rss/1.0/modules/content/"
   xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>GalNet Chronicle — Elite Dangerous Lore (Raw)</title>
+    <title>ED Lore — Elite Dangerous Lore (Raw)</title>
     <link>${baseUrl}/</link>
     <description>Raw GalNet articles from the Elite Dangerous universe (3301–3312)</description>
     <language>en</language>
@@ -56,7 +56,7 @@ export const GET: APIRoute = () => {
     <atom:link href="${baseUrl}/rss-raw.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>${baseUrl}/favicon.svg</url>
-      <title>GalNet Chronicle</title>
+      <title>ED Lore</title>
       <link>${baseUrl}/</link>
     </image>
     ${items}

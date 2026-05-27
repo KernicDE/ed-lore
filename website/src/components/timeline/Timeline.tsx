@@ -21,6 +21,9 @@ interface Article {
   related_uuids?: string[];
   has_audio?: boolean;
   audio_hash?: string;
+  category?: string;
+  source_type?: string;
+  author?: string;
 }
 
 interface TimelineProps {
@@ -375,6 +378,11 @@ export default function Timeline({
                       <div className="timeline-preview ai-content">{art.summary}</div>
                     )}
                     <div className="timeline-meta ai-content-flex">
+                      {art.category && art.category !== 'galnet' && (
+                        <span className={`timeline-badge ${art.category}`}>
+                          {art.category === 'chronicle' ? '📖 Chronicle' : art.category === 'cmdr-log' ? '✎ CMDR Log' : art.category}
+                        </span>
+                      )}
                       {art.arc_id && (
                         <span className="timeline-badge arc">{art.arc_id.replace(/-/g, ' ')}</span>
                       )}

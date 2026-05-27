@@ -21,6 +21,10 @@ interface Article {
   audio_hash?: string;
   persons?: string[];
   technologies?: string[];
+  category?: string;
+  source_type?: string;
+  author?: string;
+  sources?: { name: string; url: string; type?: string; author?: string }[];
 }
 
 interface Entity {
@@ -215,7 +219,7 @@ export default function AppShell() {
         fontSize: 14,
         letterSpacing: '0.1em',
       }}>
-        Loading GalNet archive…
+        Loading ED Lore archive…
       </div>
     );
   }

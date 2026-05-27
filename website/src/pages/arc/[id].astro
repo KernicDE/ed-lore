@@ -97,11 +97,11 @@ const sigColors: Record<string, string> = {
 };
 ---
 
-<BaseLayout title={`${arc?.name || id} — GalNet Chronicle`}>
+<BaseLayout title={`${arc?.name || id} — ED Lore`}>
   <header class="hud-header">
     <div>
       <a href={`${baseUrl}/`} style="text-decoration: none;" data-home-link>
-        <span class="hud-title">‹ GalNet Chronicle</span>
+        <span class="hud-title">‹ ED Lore</span>
       </a>
     </div>
     <div style="display: flex; align-items: center; gap: 12px;">
@@ -120,6 +120,8 @@ const sigColors: Record<string, string> = {
         </h1>
         <div style="font-family: var(--font-mono); font-size: 12px; color: var(--text-dim); margin-top: 6px;">
           {arc?.first_seen_date} → {arc?.last_seen_date} · {arc?.mention_count || 0} articles
+          {arc?.official_count > 0 && ` · ${arc.official_count} official`}
+          {arc?.community_count > 0 && ` · ${arc.community_count} community`}
         </div>
       </div>
       {arc?.significance && (
@@ -223,19 +225,57 @@ const sigColors: Record<string, string> = {
       {arcArticles.length === 0 && (
         <div style="color: var(--text-dim); font-size: 13px;">No articles found.</div>
       )}
-      {arcArticles.map((art) => (
-        <div key={art.uuid} style="padding: 10px 0; border-bottom: 1px solid var(--border-default);">
-          <div style="font-family: var(--font-mono); font-size: 11px; color: var(--text-dim);">{art.date}</div>
-          <a href={`${baseUrl}/?article=${art.uuid}`} style="font-size: 14px; font-weight: 500; color: var(--text-primary); text-decoration: none;">
-            {art.title}
-          </a>
-          {art.summary && (
-            <div class="ai-content" style="margin-top: 4px; font-size: 12px; color: var(--text-secondary); line-height: 1.4;">
-              {art.summary}
+      {arcArticles.map((art) => {
+        const catBadge = art.category === 'galnet' ? '◈ Official'
+          : art.category === 'chronicle' ? '📖 Chronicle'
+          : art.category === 'cmdr-log' ? '✎ CMDR Log'
+          : '';
+        const catColor = art.category === 'galnet' ? 'var(--elite-orange)'
+          : art.category === 'chronicle' ? 'var(--elite-blue)'
+          : art.category === 'cmdr-log' ? 'var(--elite-green)'
+          : 'var(--text-dim)';
+        return (
+          <div style="padding: 10px 0; border-bottom: 1px solid var(--border-default);">
+            <div style="display: flex; align-items: center; gap: 8px;">
+              <span style="font-family: var(--font-mono); font-size: 11px; color: var(--text-dim);">{art.date}</span>
+              {catBadge && (
+                <span style={{
+                  fontFamily: 'var(--font-mono)',
+                  fontSize: 10,
+                  color: catColor,
+                  border: `1px solid ${catColor}`,
+                  padding: '1px 6px',
+                  opacity: 0.8,
+                }}>
+                  {catBadge}
+                </span>
+              )}
             </div>
-          )}
-        </div>
-      ))}
+            <a href={`${baseUrl}/?article=${art.uuid}`} style="font-size: 14px; font-weight: 500; color: var(--text-primary); text-decoration: none;">
+              {art.title}
+            </a>
+            {art.summary && (
+              <div class="ai-content" style="margin-top: 4px; font-size: 12px; color: var(--text-secondary); line-height: 1.4;">
+                {art.summary}
+              </div>
+            )}
+          </div>
+        );
+      })}
     </div>
+
+    {/* Sources panel */}
+    {arc?.sources && arc.sources.length > 0 && (
+      <div class="holo-panel">
+        <div class="holo-title">Sources</div>
+        <div style="display: flex; flex-direction: column; gap: 8px;">
+          {arc.sources.map((src: any) => (
+            <a href={src.url} target="_blank" rel="noopener" style="font-size: 13px; color: var(--elite-blue); text-decoration: none;">
+              {src.name || src.url} ↗
+            </a>
+          ))}
+        </div>
+      </div>
+    )}
   </div>
 </BaseLayout>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"
       xml:lang="en">
-  <title>GalNet Chronicle — Elite Dangerous Lore</title>
+  <title>ED Lore — Elite Dangerous Lore</title>
   <subtitle>AI-enriched GalNet articles from the Elite Dangerous universe (3301–3312)</subtitle>
   <link href="https://kernicde.github.io/ed-lore/atom.xml" rel="self" type="application/atom+xml" />
   <link href="https://kernicde.github.io/ed-lore/" rel="alternate" type="text/html" />
-  <updated>2026-05-21T09:51:56.715Z</updated>
+  <updated>2026-05-27T08:40:11.749Z</updated>
   <id>https://kernicde.github.io/ed-lore/</id>
   <icon>https://kernicde.github.io/ed-lore/favicon.svg</icon>
   <logo>https://kernicde.github.io/ed-lore/favicon.svg</logo>
   <author>
-    <name>GalNet Chronicle</name>
+    <name>ED Lore</name>
   </author>
   
   <entry>

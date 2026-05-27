@@ -3,15 +3,15 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/"
   xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>GalNet Chronicle — Elite Dangerous Lore (Raw)</title>
+    <title>ED Lore — Elite Dangerous Lore (Raw)</title>
     <link>https://kernicde.github.io/ed-lore/</link>
     <description>Raw GalNet articles from the Elite Dangerous universe (3301–3312)</description>
     <language>en</language>
-    <lastBuildDate>Thu, 21 May 2026 09:52:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 08:40:37 GMT</lastBuildDate>
     <atom:link href="https://kernicde.github.io/ed-lore/rss-raw.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://kernicde.github.io/ed-lore/favicon.svg</url>
-      <title>GalNet Chronicle</title>
+      <title>ED Lore</title>
       <link>https://kernicde.github.io/ed-lore/</link>
     </image>
     
