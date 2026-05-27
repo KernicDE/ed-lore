@@ -68,6 +68,7 @@ export default function AppShell() {
   const [visibleUuids, setVisibleUuids] = useState<string[]>([]);
   const [searchOpen, setSearchOpen] = useState(false);
   const [audioPortalEl, setAudioPortalEl] = useState<HTMLElement | null>(null);
+  const [categoryFilter, setCategoryFilter] = useState<'all' | 'galnet' | 'chronicle' | 'cmdr-log'>('all');
 
   const cacheBuster = typeof window !== 'undefined' && (window as any).GALNET_BUILD
     ? `?v=${encodeURIComponent((window as any).GALNET_BUILD)}`
@@ -107,10 +108,16 @@ export default function AppShell() {
     }
   }, []);
 
+  // Filter articles by category
+  const filteredArticles = useMemo(() => {
+    if (categoryFilter === 'all') return articles;
+    return articles.filter((a) => (a.category || 'galnet') === categoryFilter);
+  }, [articles, categoryFilter]);
+
   // Newest first (descending)
   const sortedArticles = useMemo(() => {
-    return [...articles].sort((a, b) => (b.date || '').localeCompare(a.date || ''));
-  }, [articles]);
+    return [...filteredArticles].sort((a, b) => (b.date || '').localeCompare(a.date || ''));
+  }, [filteredArticles]);
 
   // Extract all unique years from articles, sorted descending
   const allYears = useMemo(() => {
@@ -121,6 +128,11 @@ export default function AppShell() {
     });
     return Array.from(yearSet).sort((a, b) => b.localeCompare(a));
   }, [sortedArticles]);
+
+  // Reset selected article when filter changes
+  useEffect(() => {
+    setSelectedArticle(null);
+  }, [categoryFilter]);
 
   const handleCenterDateChange = useCallback((date: string) => {
     setCurrentDate(date);
@@ -256,6 +268,14 @@ export default function AppShell() {
           allYears={allYears}
           onYearSelect={handleYearSelect}
           onMonthSelect={handleMonthSelect}
+          categoryFilter={categoryFilter}
+          onCategoryFilterChange={setCategoryFilter}
+          articleCounts={{
+            all: articles.length,
+            galnet: articles.filter((a) => (a.category || 'galnet') === 'galnet').length,
+            chronicle: articles.filter((a) => a.category === 'chronicle').length,
+            cmdrLog: articles.filter((a) => a.category === 'cmdr-log').length,
+          }}
         />
       </main>
       {audioArticle && audioPortalEl && createPortal(

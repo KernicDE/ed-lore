@@ -29,6 +29,9 @@ interface ContextPanelProps {
   allYears: string[];
   onYearSelect?: (year: string) => void;
   onMonthSelect?: (yearMonth: string) => void;
+  categoryFilter?: 'all' | 'galnet' | 'chronicle' | 'cmdr-log';
+  onCategoryFilterChange?: (filter: 'all' | 'galnet' | 'chronicle' | 'cmdr-log') => void;
+  articleCounts?: { all: number; galnet: number; chronicle: number; cmdrLog: number };
 }
 
 function makeEid(name: string): string {
@@ -106,6 +109,10 @@ export default function ContextPanel({
   visibleArticles,
   allYears,
   onYearSelect,
+  onMonthSelect,
+  categoryFilter = 'all',
+  onCategoryFilterChange,
+  articleCounts,
 }: ContextPanelProps) {
   const isUnlocked = (firstSeen: string | null | undefined) => {
     if (!firstSeen) return true;
@@ -255,8 +262,49 @@ export default function ContextPanel({
 
   const baseUrl = (import.meta.env.BASE_URL || '').replace(/\/$/, '');
 
+  const filters: { key: 'all' | 'galnet' | 'chronicle' | 'cmdr-log'; label: string; icon: string; color: string; count?: number }[] = [
+    { key: 'all', label: 'All', icon: '◈', color: 'var(--text-primary)', count: articleCounts?.all },
+    { key: 'galnet', label: 'GalNet', icon: '◈', color: 'var(--elite-orange)', count: articleCounts?.galnet },
+    { key: 'chronicle', label: 'Chronicles', icon: '📖', color: 'var(--elite-blue)', count: articleCounts?.chronicle },
+    { key: 'cmdr-log', label: 'CMDR Logs', icon: '✎', color: 'var(--elite-green)', count: articleCounts?.cmdrLog },
+  ];
+
   return (
     <div className="context-pane">
+      {/* Category Filter Toggles */}
+      {onCategoryFilterChange && (
+        <div className="holo-panel" style={{ padding: '12px 16px' }}>
+          <div style={{
+            display: 'flex',
+            flexWrap: 'wrap',
+            gap: 6,
+          }}>
+            {filters.map((f) => (
+              <button
+                key={f.key}
+                onClick={() => onCategoryFilterChange(f.key)}
+                style={{
+                  fontFamily: 'var(--font-mono)',
+                  fontSize: 11,
+                  padding: '4px 10px',
+                  border: `1px solid ${categoryFilter === f.key ? f.color : 'var(--border-glow)'}`,
+                  background: categoryFilter === f.key ? f.color.replace(')', ', 0.15)').replace('rgb', 'rgba') : 'transparent',
+                  color: categoryFilter === f.key ? f.color : 'var(--text-dim)',
+                  cursor: 'pointer',
+                  opacity: categoryFilter === f.key ? 1 : 0.7,
+                  transition: 'all 0.15s',
+                }}
+              >
+                {f.icon} {f.label}
+                {f.count !== undefined && (
+                  <span style={{ marginLeft: 4, opacity: 0.6 }}>{f.count}</span>
+                )}
+              </button>
+            ))}
+          </div>
+        </div>
+      )}
+
       {/* Year Slider */}
       {sliderYears.length > 0 && (
         <div className="holo-panel">

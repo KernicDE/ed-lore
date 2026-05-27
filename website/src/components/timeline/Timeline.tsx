@@ -216,6 +216,12 @@ export default function Timeline({
     const container = containerRef.current;
     if (!el || !container) return;
 
+    // If bodies aren't loaded yet, wait for them to avoid layout-shift jump
+    if (bodies === null) {
+      onNeedBodies();
+      return;
+    }
+
     requestAnimationFrame(() => {
       const containerRect = container.getBoundingClientRect();
       const elRect = el.getBoundingClientRect();
@@ -223,7 +229,25 @@ export default function Timeline({
       const targetScroll = container.scrollTop + (elRect.top - containerRect.top) - stickyHeaderOffset;
       container.scrollTo({ top: Math.max(0, targetScroll), behavior: 'smooth' });
     });
-  }, [selectedArticle]);
+  }, [selectedArticle, bodies, onNeedBodies]);
+
+  // After bodies load, scroll selected article into position (avoids jump)
+  useEffect(() => {
+    if (!selectedArticle || bodies === null) return;
+    if (prevSelectedUuid.current !== selectedArticle.uuid) return;
+
+    const el = itemRefs.current.get(selectedArticle.uuid);
+    const container = containerRef.current;
+    if (!el || !container) return;
+
+    requestAnimationFrame(() => {
+      const containerRect = container.getBoundingClientRect();
+      const elRect = el.getBoundingClientRect();
+      const stickyHeaderOffset = 52;
+      const targetScroll = container.scrollTop + (elRect.top - containerRect.top) - stickyHeaderOffset;
+      container.scrollTo({ top: Math.max(0, targetScroll), behavior: 'auto' });
+    });
+  }, [bodies, selectedArticle]);
 
   // Report scroll position + track visible year + compute visible articles
   useEffect(() => {
