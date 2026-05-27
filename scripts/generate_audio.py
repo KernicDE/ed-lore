@@ -17,6 +17,8 @@ import edge_tts
 
 BASE_DIR = Path(__file__).parent.parent
 ARCHIVE_DIR = BASE_DIR / "Archive"
+COMMUNITY_DIR = BASE_DIR / "Community"
+CHRONICLES_DIR = COMMUNITY_DIR / "chronicles"
 AUDIO_DIR = BASE_DIR / "website" / "public" / "audio"
 MANIFEST_PATH = BASE_DIR / "scripts" / "audio_manifest.json"
 VOICE = "en-GB-SoniaNeural"
@@ -130,6 +132,13 @@ async def main():
         if not fm or not fm.get("uuid"):
             continue
         articles.append((fm.get("uuid"), fm, extract_body(md_file)))
+    
+    if CHRONICLES_DIR.exists():
+        for md_file in CHRONICLES_DIR.rglob("*.md"):
+            fm = parse_frontmatter(md_file)
+            if not fm or not fm.get("uuid"):
+                continue
+            articles.append((fm.get("uuid"), fm, extract_body(md_file)))
     
     print(f"Found {len(articles)} articles. Manifest has {len(manifest)} entries.")
     
