@@ -28,6 +28,7 @@ interface ContextPanelProps {
   visibleArticles: { arc_id: string | null; entities: string[]; groups: string[]; locations: string[]; topics: string[]; persons: string[]; technologies: string[] }[];
   allYears: string[];
   onYearSelect?: (year: string) => void;
+  onMonthSelect?: (yearMonth: string) => void;
 }
 
 function makeEid(name: string): string {
@@ -221,6 +222,7 @@ export default function ContextPanel({
   }, [contextEntities, activeArcs, entities]);
 
   const currentYear = currentDate?.split('-')[0] || '';
+  const currentMonth = currentDate?.split('-')[1] || '01';
 
   // Slider: left = past (oldest), right = present (newest)
   const sliderYears = useMemo(() => [...allYears].sort((a, b) => a.localeCompare(b)), [allYears]);
@@ -230,6 +232,18 @@ export default function ContextPanel({
     const idx = parseInt(e.target.value, 10);
     const year = sliderYears[idx];
     if (year) onYearSelect?.(year);
+  };
+
+  const months = ['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12'];
+  const monthLabels = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+  const monthIndex = months.indexOf(currentMonth);
+
+  const handleMonthSliderChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+    const idx = parseInt(e.target.value, 10);
+    const month = months[idx];
+    if (month && currentYear) {
+      onMonthSelect?.(`${currentYear}-${month}`);
+    }
   };
 
   const entityTypeLabel: Record<string, string> = {
@@ -246,8 +260,9 @@ export default function ContextPanel({
       {/* Year Slider */}
       {sliderYears.length > 0 && (
         <div className="holo-panel">
-          <div className="holo-title">Jump to Year</div>
+          <div className="holo-title">Jump to Date</div>
           <div style={{ padding: '10px 0' }}>
+            {/* Year */}
             <input
               type="range"
               min={0}
@@ -290,6 +305,50 @@ export default function ContextPanel({
                 </span>
               ))}
             </div>
+
+            {/* Month */}
+            <input
+              type="range"
+              min={0}
+              max={11}
+              value={Math.max(0, monthIndex)}
+              onChange={handleMonthSliderChange}
+              aria-label="Jump to month"
+              title="Jump to month"
+              style={{
+                width: '100%',
+                height: 4,
+                marginTop: 12,
+                WebkitAppearance: 'none',
+                appearance: 'none',
+                background: 'var(--border-glow)',
+                borderRadius: 2,
+                outline: 'none',
+                cursor: 'pointer',
+              }}
+            />
+            <div
+              style={{
+                display: 'flex',
+                justifyContent: 'space-between',
+                marginTop: 6,
+                fontFamily: 'var(--font-mono)',
+                fontSize: 9,
+                color: 'var(--text-secondary)',
+              }}
+            >
+              {monthLabels.map((label, i) => (
+                <span
+                  key={label}
+                  style={{
+                    color: i === monthIndex ? 'var(--elite-blue)' : 'var(--text-secondary)',
+                    fontWeight: i === monthIndex ? 700 : 400,
+                  }}
+                >
+                  {label}
+                </span>
+              ))}
+            </div>
             <div
               style={{
                 textAlign: 'center',
@@ -300,7 +359,7 @@ export default function ContextPanel({
                 letterSpacing: 2,
               }}
             >
-              {currentYear || sliderYears[sliderYears.length - 1]}
+              {currentYear || sliderYears[sliderYears.length - 1]}-{currentMonth}
             </div>
           </div>
         </div>

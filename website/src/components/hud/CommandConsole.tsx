@@ -77,8 +77,31 @@ export default function CommandConsole({ searchIndex, entities, arcs, onArticleN
 
   const results = useMemo(() => {
     if (!query.trim()) return [];
-    return fuse.search(query.trim(), { limit: 20 }).map((r) => r.item);
-  }, [fuse, query]);
+    let searchQuery = query.trim();
+    let categoryFilter: string | null = null;
+    // Parse category filters: official:, community:, chronicle:, cmdr:
+    const filterMatch = searchQuery.match(/^(official|community|chronicle|cmdr):\s*/i);
+    if (filterMatch) {
+      categoryFilter = filterMatch[1].toLowerCase();
+      searchQuery = searchQuery.slice(filterMatch[0].length).trim();
+    }
+    let items = fuse.search(searchQuery, { limit: 20 }).map((r) => r.item);
+    if (categoryFilter) {
+      items = items.filter((item) => {
+        if (!item.isArticle) return false;
+        const art = searchIndex.find((a) => a.uuid === item.id);
+        if (!art) return false;
+        // Map filter aliases
+        const cat = art.category || 'galnet';
+        if (categoryFilter === 'official') return cat === 'galnet';
+        if (categoryFilter === 'community') return cat === 'chronicle' || cat === 'cmdr-log';
+        if (categoryFilter === 'chronicle') return cat === 'chronicle';
+        if (categoryFilter === 'cmdr') return cat === 'cmdr-log';
+        return true;
+      });
+    }
+    return items;
+  }, [fuse, query, searchIndex]);
 
   useEffect(() => {
     inputRef.current?.focus();
@@ -139,7 +162,7 @@ export default function CommandConsole({ searchIndex, entities, arcs, onArticleN
           <input
             ref={inputRef}
             className="search-input"
-            placeholder={aiMode ? "Search articles, entities, arcs..." : "Search raw article text..."}
+            placeholder={aiMode ? "Search articles, entities, arcs... (official: / chronicle: / cmdr:)" : "Search raw article text... (official: / chronicle: / cmdr:)"}
             value={query}
             onChange={(e) => setQuery(e.target.value)}
           />

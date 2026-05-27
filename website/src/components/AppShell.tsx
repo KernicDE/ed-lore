@@ -165,6 +165,16 @@ export default function AppShell() {
     }
   }, [sortedArticles]);
 
+  const handleMonthSelect = useCallback((yearMonth: string) => {
+    const idx = sortedArticles.findIndex((a) => a.date?.startsWith(yearMonth));
+    if (idx !== -1) {
+      const art = sortedArticles[idx];
+      setScrollToUuid(art.uuid);
+      setSelectedArticle(null);
+      setTimeout(() => setScrollToUuid(null), 1000);
+    }
+  }, [sortedArticles]);
+
   useEffect(() => {
     setAudioPortalEl(document.getElementById('audio-portal'));
   }, []);
@@ -245,6 +255,7 @@ export default function AppShell() {
           visibleArticles={visibleArticles}
           allYears={allYears}
           onYearSelect={handleYearSelect}
+          onMonthSelect={handleMonthSelect}
         />
       </main>
       {audioArticle && audioPortalEl && createPortal(

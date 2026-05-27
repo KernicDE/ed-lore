@@ -1,0 +1,98 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import graphData from '../data/lore_graph.json';
+import SearchIsland from '../components/hud/SearchIsland';
+import ThemeToggle from '../components/ThemeToggle.astro';
+import AiModeToggle from '../components/AiModeToggle.astro';
+
+const baseUrl = (import.meta.env.BASE_URL || '').replace(/\/$/, '');
+
+const chronicles = graphData.articles
+  .filter((a: any) => a.category === 'chronicle')
+  .sort((a: any, b: any) => (b.date || '').localeCompare(a.date || ''));
+
+// Group by arc
+const byArc: Record<string, any[]> = {};
+for (const art of chronicles) {
+  const arcId = art.arc_id || 'uncategorized';
+  if (!byArc[arcId]) byArc[arcId] = [];
+  byArc[arcId].push(art);
+}
+
+const arcNames: Record<string, string> = {};
+for (const [id, rec] of Object.entries(graphData.arcs as any)) {
+  arcNames[id] = (rec as any).name || id;
+}
+---
+
+<BaseLayout title="Chronicles — ED Lore">
+  <header class="hud-header">
+    <div>
+      <a href={`${baseUrl}/`} style="text-decoration: none;" data-home-link>
+        <span class="hud-title">‹ ED Lore</span>
+      </a>
+    </div>
+    <div style="display: flex; align-items: center; gap: 12px;">
+      <ThemeToggle />
+      <AiModeToggle />
+      <span class="ai-content-inline"><a href={`${baseUrl}/map/`} class="hud-search-btn hud-map-btn">◈ Map</a></span>
+      <SearchIsland client:idle baseUrl={baseUrl} />
+    </div>
+  </header>
+
+  <div style="padding: 24px; max-width: 900px; margin: 0 auto;">
+    <div class="holo-panel blue">
+      <h1 style="margin: 0; font-family: var(--font-hud); font-size: 24px; color: var(--elite-blue);">
+        Community Chronicles
+      </h1>
+      <div style="font-family: var(--font-mono); font-size: 12px; color: var(--text-dim); margin-top: 6px;">
+        {chronicles.length} chapters · Player-written story arcs
+      </div>
+    </div>
+
+    {chronicles.length === 0 && (
+      <div class="holo-panel">
+        <div style="color: var(--text-dim); font-size: 13px;">No chronicles found yet.</div>
+      </div>
+    )}
+
+    {Object.entries(byArc).map(([arcId, articles]) => {
+      const name = arcId === 'uncategorized' ? 'Uncategorized' : (arcNames[arcId] || arcId);
+      return (
+        <div class="holo-panel">
+          <div class="holo-title blue">
+            {arcId !== 'uncategorized' ? (
+              <a href={`${baseUrl}/arc/${arcId}/`} style="color: var(--elite-blue); text-decoration: none;">
+                {name}
+              </a>
+            ) : name}
+            <span style="color: var(--text-dim); font-size: 12px; margin-left: 8px;">({articles.length})</span>
+          </div>
+          <div style="display: flex; flex-direction: column; gap: 8px;">
+            {articles.map((art: any) => (
+              <div style="padding: 10px 0; border-bottom: 1px solid var(--border-default);">
+                <div style="font-family: var(--font-mono); font-size: 11px; color: var(--text-dim);">{art.date}</div>
+                <a href={`${baseUrl}/?article=${art.uuid}`} style="font-size: 14px; font-weight: 500; color: var(--text-primary); text-decoration: none;">
+                  {art.title}
+                </a>
+                {art.summary && (
+                  <div class="ai-content" style="margin-top: 4px; font-size: 12px; color: var(--text-secondary); line-height: 1.4;">
+                    {art.summary}
+                  </div>
+                )}
+                {art.sources && art.sources.length > 0 && (
+                  <div style="margin-top: 4px; font-size: 11px;">
+                    <span style="color: var(--text-dim);">Source:</span>{' '}
+                    <a href={art.sources[0].url} target="_blank" rel="noopener" style="color: var(--elite-blue); text-decoration: none;">
+                      {art.sources[0].name || 'Link'} ↗
+                    </a>
+                  </div>
+                )}
+              </div>
+            ))}
+          </div>
+        </div>
+      );
+    })}
+  </div>
+</BaseLayout>

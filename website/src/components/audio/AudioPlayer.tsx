@@ -5,6 +5,8 @@ interface Article {
   title: string;
   date: string;
   audio_hash?: string;
+  category?: string;
+  source_type?: string;
 }
 
 interface AudioPlayerProps {
@@ -37,6 +39,15 @@ export default function AudioPlayer({ article }: AudioPlayerProps) {
   const loadTimeoutRef = useRef<ReturnType<typeof setTimeout> | null>(null);
 
   const audioUrl = article ? getAudioUrl(article.uuid, article.audio_hash) : null;
+
+  const catBadge = article?.category === 'galnet' ? '◈ Official'
+    : article?.category === 'chronicle' ? '📖 Chronicle'
+    : article?.category === 'cmdr-log' ? '✎ CMDR Log'
+    : '';
+  const catColor = article?.category === 'galnet' ? 'var(--elite-orange)'
+    : article?.category === 'chronicle' ? 'var(--elite-blue)'
+    : article?.category === 'cmdr-log' ? 'var(--elite-green)'
+    : 'var(--text-dim)';
 
   // Stop playback when AI mode is turned off
   useEffect(() => {
@@ -224,6 +235,20 @@ export default function AudioPlayer({ article }: AudioPlayerProps) {
       </button>
       <div className="audio-info">
         <div className="audio-title" title={article.title}>
+          {catBadge && (
+            <span style={{
+              fontFamily: 'var(--font-mono)',
+              fontSize: 9,
+              color: catColor,
+              border: `1px solid ${catColor}`,
+              padding: '0 4px',
+              marginRight: 6,
+              opacity: 0.8,
+              verticalAlign: 'middle',
+            }}>
+              {catBadge}
+            </span>
+          )}
           {article.title.length > 30 ? article.title.slice(0, 28) + '…' : article.title}
         </div>
         <div className="audio-time">
