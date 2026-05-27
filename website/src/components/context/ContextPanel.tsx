@@ -275,7 +275,7 @@ export default function ContextPanel({
         <div className="holo-panel" style={{ padding: '12px 16px' }}>
           <div style={{
             display: 'flex',
-            flexWrap: 'wrap',
+            flexWrap: 'nowrap',
             gap: 6,
           }}>
             {categoryButtons.map((f) => {
@@ -286,15 +286,21 @@ export default function ContextPanel({
                   onClick={() => onToggleCategory(f.key)}
                   style={{
                     fontFamily: 'var(--font-mono)',
-                    fontSize: 11,
-                    padding: '4px 10px',
+                    fontSize: 10,
+                    padding: '5px 6px',
                     border: `1px solid ${isActive ? f.borderColor : 'var(--border-glow)'}`,
                     background: isActive ? f.activeBg : 'transparent',
                     color: isActive ? f.activeColor : 'var(--text-dim)',
                     cursor: 'pointer',
                     opacity: isActive ? 1 : 0.6,
                     transition: 'all 0.15s',
+                    flex: 1,
+                    minWidth: 0,
+                    whiteSpace: 'nowrap',
+                    overflow: 'hidden',
+                    textOverflow: 'ellipsis',
                   }}
+                  title={`${f.label} (${f.count ?? 0})`}
                 >
                   {f.icon} {f.label}
                   {f.count !== undefined && (

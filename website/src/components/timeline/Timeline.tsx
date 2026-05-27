@@ -36,6 +36,9 @@ interface TimelineProps {
   onScrollUpdate?: (scrollTop: number, viewportHeight: number) => void;
   onVisibleArticlesChange?: (visibleUuids: string[]) => void;
   scrollToUuid?: string | null;
+  activeCategories?: Set<string>;
+  onToggleCategory?: (category: string) => void;
+  articleCounts?: { galnet: number; chronicle: number; cmdrLog: number };
 }
 
 function wikiLinkToHtml(text: string, baseUrl: string): string {
@@ -161,6 +164,12 @@ function PlayAudioButton({ uuid, title }: { uuid: string; title: string }) {
   );
 }
 
+const categoryButtons: { key: string; label: string; icon: string; borderColor: string; activeBg: string; activeColor: string; count?: number }[] = [
+  { key: 'galnet', label: 'GalNet', icon: '◈', borderColor: '#cc5500', activeBg: 'rgba(204, 85, 0, 0.15)', activeColor: '#ff6600' },
+  { key: 'chronicle', label: 'Chronicles', icon: '📖', borderColor: '#0088aa', activeBg: 'rgba(0, 136, 170, 0.15)', activeColor: '#00bfff' },
+  { key: 'cmdr-log', label: 'CMDR Logs', icon: '✎', borderColor: '#33cc66', activeBg: 'rgba(51, 204, 102, 0.15)', activeColor: '#44ff88' },
+];
+
 export default function Timeline({
   articles,
   bodies,
@@ -171,6 +180,9 @@ export default function Timeline({
   onScrollUpdate,
   onVisibleArticlesChange,
   scrollToUuid,
+  activeCategories,
+  onToggleCategory,
+  articleCounts,
 }: TimelineProps) {
   const containerRef = useRef<HTMLDivElement>(null);
   const itemRefs = useRef<Map<string, HTMLDivElement>>(new Map());
@@ -362,6 +374,53 @@ export default function Timeline({
           <div className="timeline-slider-ticks">
             <span>{sliderYears[0]}</span>
             <span>{sliderYears[sliderYears.length - 1]}</span>
+          </div>
+        </div>
+      )}
+
+      {/* Mobile category filter bar */}
+      {onToggleCategory && activeCategories && (
+        <div className="mobile-filter-bar">
+          <div style={{
+            display: 'flex',
+            gap: 6,
+          }}>
+            {categoryButtons.map((f) => {
+              const isActive = activeCategories.has(f.key);
+              const count = articleCounts
+                ? f.key === 'galnet' ? articleCounts.galnet
+                : f.key === 'chronicle' ? articleCounts.chronicle
+                : articleCounts.cmdrLog
+                : undefined;
+              return (
+                <button
+                  key={f.key}
+                  onClick={() => onToggleCategory(f.key)}
+                  style={{
+                    fontFamily: 'var(--font-mono)',
+                    fontSize: 11,
+                    padding: '5px 8px',
+                    border: `1px solid ${isActive ? f.borderColor : 'var(--border-glow)'}`,
+                    background: isActive ? f.activeBg : 'transparent',
+                    color: isActive ? f.activeColor : 'var(--text-dim)',
+                    cursor: 'pointer',
+                    opacity: isActive ? 1 : 0.6,
+                    transition: 'all 0.15s',
+                    flex: 1,
+                    minWidth: 0,
+                    whiteSpace: 'nowrap',
+                    overflow: 'hidden',
+                    textOverflow: 'ellipsis',
+                  }}
+                  title={`${f.label} (${count ?? 0})`}
+                >
+                  {f.icon} {f.label}
+                  {count !== undefined && (
+                    <span style={{ marginLeft: 4, opacity: 0.6 }}>{count}</span>
+                  )}
+                </button>
+              );
+            })}
           </div>
         </div>
       )}

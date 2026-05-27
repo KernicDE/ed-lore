@@ -275,6 +275,13 @@ export default function AppShell() {
           onScrollUpdate={handleScrollUpdate}
           onVisibleArticlesChange={handleVisibleArticlesChange}
           scrollToUuid={scrollToUuid}
+          activeCategories={activeCategories}
+          onToggleCategory={handleToggleCategory}
+          articleCounts={{
+            galnet: articles.filter((a) => (a.category || 'galnet') === 'galnet').length,
+            chronicle: articles.filter((a) => a.category === 'chronicle').length,
+            cmdrLog: articles.filter((a) => a.category === 'cmdr-log').length,
+          }}
         />
         <ContextPanel
           currentDate={currentDate}

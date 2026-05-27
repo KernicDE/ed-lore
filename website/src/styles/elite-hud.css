@@ -670,9 +670,34 @@ html, body {
   border-radius: 2px;
 }
 
-/* Hide mobile slider on desktop (context panel has its own) */
+/* Mobile filter bar — shown only on mobile */
+.mobile-filter-bar {
+  display: none;
+  background: linear-gradient(180deg, var(--bg-primary) 0%, rgba(8,10,15,0.98) 100%);
+  border-bottom: 1px solid var(--border-default);
+  padding: 8px 12px;
+}
+
+.mobile-filter-bar::after {
+  content: '';
+  display: block;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--elite-orange-dim), transparent);
+  margin: 0 -12px;
+  margin-bottom: -9px;
+}
+
+/* Show mobile filter bar on mobile */
+@media (max-width: 900px) {
+  .mobile-filter-bar {
+    display: block;
+  }
+}
+
+/* Hide mobile slider and filter bar on desktop (context panel has its own) */
 @media (min-width: 901px) {
-  .timeline-slider-bar {
+  .timeline-slider-bar,
+  .mobile-filter-bar {
     display: none;
   }
 }
