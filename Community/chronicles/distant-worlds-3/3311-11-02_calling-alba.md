@@ -1,44 +1,54 @@
 ---
-uuid: 4d386e60-f98e-5e34-9604-b01fac100b32
+uuid: 88473d4d-5c75-58fa-a6bf-b3e389feab10
 title: Calling Alba
 slug: calling-alba
-date: '3311-02-01'
+date: '3311-11-02'
 source_url: https://ehorizonsblog.wordpress.com/2025/11/02/calling-alba/
 category: chronicle
 source_type: community
 author: Andrew Gaspurr
 sources:
-  - name: Event Horizons WordPress
-    url: https://ehorizonsblog.wordpress.com/2025/11/02/calling-alba/
-    type: blog
-    author: Andrew Gaspurr
+- name: Event Horizons WordPress
+  url: https://ehorizonsblog.wordpress.com/2025/11/02/calling-alba/
+  type: blog
+  author: Andrew Gaspurr
 curated_by: ED Lore Project
 curated_date: '2026-05-27'
-summary: 'At Phoenix Base on Meene, Ram Tah and his assistant Uwe Toramund present findings to John about Guardian obelisks. Eight sites within 2000 light years show that the Guardians'' six traditional communication frequencies have gone dormant, replaced by a single pico-hertz frequency in the gravity wave range. This threatens data integrity across the Guardian network and could affect starship equipment based on Guardian technology. Ram Tah decides to contact Alba for assistance.'
-player_impact: 'The discovery implies that Guardian-derived ship modules and weapons across the galaxy may eventually degrade or malfunction as the underlying network loses coherence, directly affecting pilot equipment and module reliability.'
-modern_impact: 'This chapter establishes that the Guardian technological ecosystem is actively changing, with potentially galaxy-wide implications for any ship or facility relying on Guardian-derived systems, and that the network may have been responding to an unknown stimulus for some time.'
+summary: At Phoenix Base on Meene, Ram Tah and his assistant Uwe Toramund present
+  findings to John about Guardian obelisks. Eight sites within 2000 light years show
+  that the Guardians' six traditional communication frequencies have gone dormant,
+  replaced by a single pico-hertz frequency in the gravity wave range. This threatens
+  data integrity across the Guardian network and could affect starship equipment based
+  on Guardian technology. Ram Tah decides to contact Alba for assistance.
+player_impact: The discovery implies that Guardian-derived ship modules and weapons
+  across the galaxy may eventually degrade or malfunction as the underlying network
+  loses coherence, directly affecting pilot equipment and module reliability.
+modern_impact: This chapter establishes that the Guardian technological ecosystem
+  is actively changing, with potentially galaxy-wide implications for any ship or
+  facility relying on Guardian-derived systems, and that the network may have been
+  responding to an unknown stimulus for some time.
 entities:
-  - name: Ram Tah
-    type: person
-    role: engineer and researcher
-  - name: Uwe Toramund
-    type: person
-    role: lab assistant
-  - name: John
-    type: person
-    role: expedition founder
-  - name: Alba
-    type: person
-    role: researcher (mentioned)
+- name: Ram Tah
+  type: person
+  role: engineer and researcher
+- name: Uwe Toramund
+  type: person
+  role: lab assistant
+- name: John
+  type: person
+  role: expedition founder
+- name: Alba
+  type: person
+  role: researcher (mentioned)
 locations:
-  - Meene
-  - Phoenix Base
-  - Conflux
+- Meene
+- Phoenix Base
+- Conflux
 topics:
-  - guardian technology
-  - xenoarchaeology
-  - scientific research
-  - network degradation
+- guardian technology
+- xenoarchaeology
+- scientific research
+- network degradation
 arc_id: distant-worlds-3
 ---
 

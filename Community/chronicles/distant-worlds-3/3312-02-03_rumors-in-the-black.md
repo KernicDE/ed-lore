@@ -1,53 +1,62 @@
 ---
-uuid: 5983ab0c-b459-5549-99e9-c3a3893c3b62
+uuid: f2681148-baf0-550d-b77b-2953c6dc3503
 title: Rumors in the Black
 slug: rumors-in-the-black
-date: '3313-01-01'
+date: '3312-02-03'
 source_url: https://ehorizonsblog.wordpress.com/2026/02/03/rumors-in-the-black/
 category: chronicle
 source_type: community
 author: Andrew Gaspurr
 sources:
-  - name: Event Horizons WordPress
-    url: https://ehorizonsblog.wordpress.com/2026/02/03/rumors-in-the-black/
-    type: blog
-    author: Andrew Gaspurr
+- name: Event Horizons WordPress
+  url: https://ehorizonsblog.wordpress.com/2026/02/03/rumors-in-the-black/
+  type: blog
+  author: Andrew Gaspurr
 curated_by: ED Lore Project
 curated_date: '2026-05-27'
-summary: 'The DW3 flotilla searches for the missing Universal Cartographics cruiser Guinevere at a Rendezvous Point. Lya advises searching K-type stars for beacon pings. CMDR Nor discovers a damaged DSSA beacon with a dead man''s voice recording. Lya''s analysis back-traces the beacon''s trajectory to permit-locked systems in the Praei2 sector. Hermine reveals Cal warned her about the Umbra Sagittarii. The expedition prepares to investigate while maintaining public survey operations.'
-player_impact: 'DW3 pilots conducted wide cone sweeps and passive wake scans to locate the missing cruiser, with CMDR Nor finding the critical beacon that redirected the search toward permit-locked space.'
-modern_impact: 'The chapter reveals that a Universal Cartographics deep space cruiser disappeared near a permit-locked sector, and that someone—possibly DSSA itself—deployed a crudely built emergency beacon while concealing the incident from official records.'
+summary: The DW3 flotilla searches for the missing Universal Cartographics cruiser
+  Guinevere at a Rendezvous Point. Lya advises searching K-type stars for beacon pings.
+  CMDR Nor discovers a damaged DSSA beacon with a dead man's voice recording. Lya's
+  analysis back-traces the beacon's trajectory to permit-locked systems in the Praei2
+  sector. Hermine reveals Cal warned her about the Umbra Sagittarii. The expedition
+  prepares to investigate while maintaining public survey operations.
+player_impact: DW3 pilots conducted wide cone sweeps and passive wake scans to locate
+  the missing cruiser, with CMDR Nor finding the critical beacon that redirected the
+  search toward permit-locked space.
+modern_impact: The chapter reveals that a Universal Cartographics deep space cruiser
+  disappeared near a permit-locked sector, and that someone—possibly DSSA itself—deployed
+  a crudely built emergency beacon while concealing the incident from official records.
 entities:
-  - name: Jasmina Halsey
-    type: person
-    role: Federation Envoy
-  - name: Captain Yuen
-    type: person
-    role: ship captain
-  - name: Hermine Delarue
-    type: person
-    role: DSS operations lead
-  - name: Timotheus Haddard
-    type: person
-    role: quartermaster
-  - name: Lya
-    type: person
-    role: astrophysicist
-  - name: CMDR Nor
-    type: person
-    role: pilot
-  - name: Flight Major Elaine Howard
-    type: person
-    role: pilot and scout
+- name: Jasmina Halsey
+  type: person
+  role: Federation Envoy
+- name: Captain Yuen
+  type: person
+  role: ship captain
+- name: Hermine Delarue
+  type: person
+  role: DSS operations lead
+- name: Timotheus Haddard
+  type: person
+  role: quartermaster
+- name: Lya
+  type: person
+  role: astrophysicist
+- name: CMDR Nor
+  type: person
+  role: pilot
+- name: Flight Major Elaine Howard
+  type: person
+  role: pilot and scout
 locations:
-  - Rendezvous Point
-  - Praei2
-  - Umbra Sagittarii
+- Rendezvous Point
+- Praei2
+- Umbra Sagittarii
 topics:
-  - search and rescue
-  - missing ships
-  - permit-locked space
-  - beacon analysis
+- search and rescue
+- missing ships
+- permit-locked space
+- beacon analysis
 arc_id: distant-worlds-3
 ---
 

@@ -1,53 +1,64 @@
 ---
-uuid: 501f6832-edd9-521d-a45e-23a9e424fbe3
+uuid: 478a82b5-a4ef-55ec-aa93-28f7c0581e6b
 title: The Fimbulthul
 slug: the-fimbulthul
-date: '3311-01-01'
+date: '3311-01-22'
 source_url: https://ehorizonsblog.wordpress.com/2025/01/22/the-fimbulthul/
 category: chronicle
 source_type: community
 author: Andrew Gaspurr
 sources:
-  - name: Event Horizons WordPress
-    url: https://ehorizonsblog.wordpress.com/2025/01/22/the-fimbulthul/
-    type: blog
-    author: Andrew Gaspurr
+- name: Event Horizons WordPress
+  url: https://ehorizonsblog.wordpress.com/2025/01/22/the-fimbulthul/
+  type: blog
+  author: Andrew Gaspurr
 curated_by: ED Lore Project
 curated_date: '2026-05-27'
-summary: 'Historical overview of the Drake-class Carrier Fimbulthul, originally christened Shekinah in 3306. After participating in multiple deep space expeditions including Operation Caldwell 1 and the Ursa Major Stream Survey, the carrier was renamed and retrofitted with advanced sensor arrays. It served during the Thargoid Titan incursions, joined the Children Of The Core survey near the Great Annihilator, and was eventually assigned as a Deep Space Exploration Carrier for the Distant Worlds 3 expedition in the Orion region.'
-player_impact: 'The Fimbulthul served as one of the official fleet carriers for Distant Worlds 3, providing laboratory facilities and deep space sensor support to the expedition flotilla during its trek toward Orion and Barnard''s Loop.'
-modern_impact: 'The carrier''s history illustrates how civilian exploration vessels have been repurposed across major galactic events, from Formidine Rift investigations to Thargoid reconnaissance and deep space colonization efforts, reflecting the persistent tension between exploration and conflict in the galaxy.'
+summary: Historical overview of the Drake-class Carrier Fimbulthul, originally christened
+  Shekinah in 3306. After participating in multiple deep space expeditions including
+  Operation Caldwell 1 and the Ursa Major Stream Survey, the carrier was renamed and
+  retrofitted with advanced sensor arrays. It served during the Thargoid Titan incursions,
+  joined the Children Of The Core survey near the Great Annihilator, and was eventually
+  assigned as a Deep Space Exploration Carrier for the Distant Worlds 3 expedition
+  in the Orion region.
+player_impact: The Fimbulthul served as one of the official fleet carriers for Distant
+  Worlds 3, providing laboratory facilities and deep space sensor support to the expedition
+  flotilla during its trek toward Orion and Barnard's Loop.
+modern_impact: The carrier's history illustrates how civilian exploration vessels
+  have been repurposed across major galactic events, from Formidine Rift investigations
+  to Thargoid reconnaissance and deep space colonization efforts, reflecting the persistent
+  tension between exploration and conflict in the galaxy.
 entities:
-  - name: Fimbulthul
-    type: technology
-    role: expedition carrier
-  - name: Children of Raxxla
-    type: faction
-    role: expedition organizer
-  - name: CMDR Drew Wagar
-    type: person
-    role: explorer
-  - name: Children Of The Core
-    type: faction
-    role: survey initiative
-  - name: Azura Initiative
-    type: faction
-    role: deep space community
+- name: Fimbulthul
+  type: technology
+  role: expedition carrier
+- name: Children of Raxxla
+  type: faction
+  role: expedition organizer
+- name: CMDR Drew Wagar
+  type: person
+  role: explorer
+- name: Children Of The Core
+  type: faction
+  role: survey initiative
+- name: Azura Initiative
+  type: faction
+  role: deep space community
 locations:
-  - Formidine Rift
-  - Omega Centauri
-  - Inner Orion Spur
-  - Great Annihilator
-  - Orion
-  - Barnard's Loop
-  - COL 70
-  - NGC 1981 cluster
+- Formidine Rift
+- Omega Centauri
+- Inner Orion Spur
+- Great Annihilator
+- Orion
+- Barnard's Loop
+- COL 70
+- NGC 1981 cluster
 topics:
-  - exploration
-  - expedition
-  - fleet carrier
-  - thargoid incursion
-  - deep space survey
+- exploration
+- expedition
+- fleet carrier
+- thargoid incursion
+- deep space survey
 arc_id: distant-worlds-3
 ---
 

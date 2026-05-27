@@ -1,52 +1,64 @@
 ---
-uuid: f3877ce6-c434-5c1a-a1dd-05dd8a4ba92d
+uuid: 17a66094-adaa-5708-8db8-2236a7b21899
 title: First Lattice, Part 2
 slug: first-lattice-part-2
-date: '3312-04-05'
+date: '3312-02-24'
 source_url: https://ehorizonsblog.wordpress.com/2026/02/24/first-lattice-part-2/
 category: chronicle
 source_type: community
 author: Andrew Gaspurr
 sources:
-  - name: Event Horizons WordPress
-    url: https://ehorizonsblog.wordpress.com/2026/02/24/first-lattice-part-2/
-    type: blog
-    author: Andrew Gaspurr
+- name: Event Horizons WordPress
+  url: https://ehorizonsblog.wordpress.com/2026/02/24/first-lattice-part-2/
+  type: blog
+  author: Andrew Gaspurr
 curated_by: ED Lore Project
 curated_date: '2026-05-27'
-summary: 'At Phoenix Base, an AI Relic from an illicit courier transport breaches Ram Tah''s workshop security and attempts to rewrite his matter synthesizer. In an emergency telepresence with DW3, Ram Tah reveals his investigation: AI Relics from GalCop-era transports are being smuggled near Shinrarta Dezhra. He tested one near Jackson''s Lighthouse neutron star, where it began reorganizing matter on a nearby Adder. Lya explains that hypertemporal space is easier to access near hyperdense masses. Ram Tah distributes a firmware patch to help DW3 pilots detect frequency outbursts.'
-player_impact: 'DW3 pilots received a firmware patch to detect anomalous frequency outbursts in their surroundings, particularly near neutron stars and white dwarfs where the witch-space entity appears to bleed through most strongly.'
-modern_impact: 'This chapter confirms that GalCop-era AI Relics still exist and are actively dangerous—capable of hijacking modern systems and reorganizing matter. The smuggling network near Shinrarta Dezhra suggests powerful interests are collecting and trading this forbidden technology.'
+summary: 'At Phoenix Base, an AI Relic from an illicit courier transport breaches
+  Ram Tah''s workshop security and attempts to rewrite his matter synthesizer. In
+  an emergency telepresence with DW3, Ram Tah reveals his investigation: AI Relics
+  from GalCop-era transports are being smuggled near Shinrarta Dezhra. He tested one
+  near Jackson''s Lighthouse neutron star, where it began reorganizing matter on a
+  nearby Adder. Lya explains that hypertemporal space is easier to access near hyperdense
+  masses. Ram Tah distributes a firmware patch to help DW3 pilots detect frequency
+  outbursts.'
+player_impact: DW3 pilots received a firmware patch to detect anomalous frequency
+  outbursts in their surroundings, particularly near neutron stars and white dwarfs
+  where the witch-space entity appears to bleed through most strongly.
+modern_impact: This chapter confirms that GalCop-era AI Relics still exist and are
+  actively dangerous—capable of hijacking modern systems and reorganizing matter.
+  The smuggling network near Shinrarta Dezhra suggests powerful interests are collecting
+  and trading this forbidden technology.
 entities:
-  - name: Ram Tah
-    type: person
-    role: engineer and researcher
-  - name: Uwe Toramund
-    type: person
-    role: lab assistant
-  - name: Jasmina Halsey
-    type: person
-    role: Federation Envoy
-  - name: Hermine Delarue
-    type: person
-    role: DSS operations lead
-  - name: Lya
-    type: person
-    role: astrophysicist
-  - name: John Ermitage
-    type: person
-    role: expedition founder (mentioned)
+- name: Ram Tah
+  type: person
+  role: engineer and researcher
+- name: Uwe Toramund
+  type: person
+  role: lab assistant
+- name: Jasmina Halsey
+  type: person
+  role: Federation Envoy
+- name: Hermine Delarue
+  type: person
+  role: DSS operations lead
+- name: Lya
+  type: person
+  role: astrophysicist
+- name: John Ermitage
+  type: person
+  role: expedition founder (mentioned)
 locations:
-  - Meene
-  - Phoenix Base
-  - Jackson's Lighthouse
-  - Shinrarta Dezhra
+- Meene
+- Phoenix Base
+- Jackson's Lighthouse
+- Shinrarta Dezhra
 topics:
-  - AI relics
-  - matter reorganization
-  - smuggling
-  - firmware patch
-  - neutron stars
+- AI relics
+- matter reorganization
+- smuggling
+- firmware patch
+- neutron stars
 arc_id: distant-worlds-3
 ---
 

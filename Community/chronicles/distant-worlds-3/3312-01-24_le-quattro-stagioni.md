@@ -1,30 +1,38 @@
 ---
-uuid: 2105b8fb-4d65-5fae-8c5e-b76a9bd4e4ec
+uuid: 709b55e2-68ce-5864-a92b-7000038af74e
 title: Le Quattro Stagioni
 slug: le-quattro-stagioni
-date: '3312-01-10'
+date: '3312-01-24'
 source_url: https://ehorizonsblog.wordpress.com/2026/01/24/le-quattro-stagioni/
 category: chronicle
 source_type: community
 author: Andrew Gaspurr
 sources:
-  - name: Event Horizons WordPress
-    url: https://ehorizonsblog.wordpress.com/2026/01/24/le-quattro-stagioni/
-    type: blog
-    author: Andrew Gaspurr
+- name: Event Horizons WordPress
+  url: https://ehorizonsblog.wordpress.com/2026/01/24/le-quattro-stagioni/
+  type: blog
+  author: Andrew Gaspurr
 curated_by: ED Lore Project
 curated_date: '2026-05-27'
-summary: 'Hidden among the derelict ships of the Tionisla Orbital Graveyard, a mysterious young pilot in an outdated grey and green uniform listens to Vivaldi''s Four Seasons by candlelight aboard his camouflaged vessel. When his console receives a coded Latin message—"Atra rota. Mundi distantes in motu sunt. Proceedite."—he responds in Italian, blows out the candles, and departs stealthily into witch-space.'
-player_impact: 'The hidden operative''s presence and coded communications suggest that shadowy organizations are tracking or manipulating the DW3 expedition from concealed positions within the Graveyard.'
-modern_impact: 'This interlude introduces an unidentified operative with anachronistic technology and cryptic communications, hinting at deeper layers of surveillance and manipulation surrounding the expedition that operate outside known power structures.'
+summary: Hidden among the derelict ships of the Tionisla Orbital Graveyard, a mysterious
+  young pilot in an outdated grey and green uniform listens to Vivaldi's Four Seasons
+  by candlelight aboard his camouflaged vessel. When his console receives a coded
+  Latin message—"Atra rota. Mundi distantes in motu sunt. Proceedite."—he responds
+  in Italian, blows out the candles, and departs stealthily into witch-space.
+player_impact: The hidden operative's presence and coded communications suggest that
+  shadowy organizations are tracking or manipulating the DW3 expedition from concealed
+  positions within the Graveyard.
+modern_impact: This interlude introduces an unidentified operative with anachronistic
+  technology and cryptic communications, hinting at deeper layers of surveillance
+  and manipulation surrounding the expedition that operate outside known power structures.
 entities: []
 locations:
-  - Tionisla
-  - Tionisla Orbital Graveyard
+- Tionisla
+- Tionisla Orbital Graveyard
 topics:
-  - mystery
-  - covert operations
-  - hidden agenda
+- mystery
+- covert operations
+- hidden agenda
 arc_id: distant-worlds-3
 ---
 

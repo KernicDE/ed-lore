@@ -1,36 +1,45 @@
 ---
-uuid: ba5804ce-91ed-52e4-b9a6-2d925ceb519c
+uuid: 296374f9-718f-5857-9bb1-68e9c11f0cba
 title: Distant Grudges
 slug: distant-grudges
-date: '3311-01-15'
+date: '3311-03-31'
 source_url: https://ehorizonsblog.wordpress.com/2025/03/31/distant-grudges/
 category: chronicle
 source_type: community
 author: Andrew Gaspurr
 sources:
-  - name: Event Horizons WordPress
-    url: https://ehorizonsblog.wordpress.com/2025/03/31/distant-grudges/
-    type: blog
-    author: Andrew Gaspurr
+- name: Event Horizons WordPress
+  url: https://ehorizonsblog.wordpress.com/2025/03/31/distant-grudges/
+  type: blog
+  author: Andrew Gaspurr
 curated_by: ED Lore Project
 curated_date: '2026-05-27'
-summary: 'In the T Tauri System, John meets with a former rival wearing a red and black suit to propose cooperation for the Distant Worlds 3 expedition. Despite deep-seated grudges and mutual distrust, John offers access to ancient GalCop technology obtained through the Turners on Alioth. The man eventually agrees to consider the alliance, recognizing that the expedition is bigger than their past conflicts.'
-player_impact: 'The alliance secured pre-Federation GalCop scanning technology for scouting the Orion region, indirectly supporting the deep space infrastructure that DW3 pilots would rely upon.'
-modern_impact: 'This chapter reveals that the DW3 expedition was partially enabled by secret cooperation between historic rivals using obsolete but powerful technology that modern systems cannot replicate, highlighting how old grudges can be set aside when exploration stakes are high enough.'
+summary: In the T Tauri System, John meets with a former rival wearing a red and black
+  suit to propose cooperation for the Distant Worlds 3 expedition. Despite deep-seated
+  grudges and mutual distrust, John offers access to ancient GalCop technology obtained
+  through the Turners on Alioth. The man eventually agrees to consider the alliance,
+  recognizing that the expedition is bigger than their past conflicts.
+player_impact: The alliance secured pre-Federation GalCop scanning technology for
+  scouting the Orion region, indirectly supporting the deep space infrastructure that
+  DW3 pilots would rely upon.
+modern_impact: This chapter reveals that the DW3 expedition was partially enabled
+  by secret cooperation between historic rivals using obsolete but powerful technology
+  that modern systems cannot replicate, highlighting how old grudges can be set aside
+  when exploration stakes are high enough.
 entities:
-  - name: John
-    type: person
-    role: expedition founder
+- name: John
+  type: person
+  role: expedition founder
 locations:
-  - T Tauri System
-  - Orion
-  - Pleiades
-  - Alioth
+- T Tauri System
+- Orion
+- Pleiades
+- Alioth
 topics:
-  - diplomacy
-  - secret alliance
-  - ancient technology
-  - corporate politics
+- diplomacy
+- secret alliance
+- ancient technology
+- corporate politics
 arc_id: distant-worlds-3
 ---
 

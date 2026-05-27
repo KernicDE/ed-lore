@@ -1,49 +1,58 @@
 ---
-uuid: 624e0f9c-6ee7-502b-ae42-632cb328d05c
+uuid: 9e770e2d-a410-584e-9a8a-32f8a4c7bb45
 title: Return of the Vision
 slug: return-of-the-vision
-date: '3311-02-15'
+date: '3311-12-01'
 source_url: https://ehorizonsblog.wordpress.com/2025/12/01/return-of-the-vision/
 category: chronicle
 source_type: community
 author: Andrew Gaspurr
 sources:
-  - name: Event Horizons WordPress
-    url: https://ehorizonsblog.wordpress.com/2025/12/01/return-of-the-vision/
-    type: blog
-    author: Andrew Gaspurr
+- name: Event Horizons WordPress
+  url: https://ehorizonsblog.wordpress.com/2025/12/01/return-of-the-vision/
+  type: blog
+  author: Andrew Gaspurr
 curated_by: ED Lore Project
 curated_date: '2026-05-27'
-summary: 'On Mars, former Federal President Jasmina Halsey collapses during a speech after experiencing a warning from the Caretakers about something wrong in witch-space. Felicia Winters grants her leave to investigate discreetly. Imperial Ambassador Cuthrick Delaney suggests consulting Dr Reuben Hale at the Tionisla Historical Society, noting anomalous subsonic recordings from the auditorium. The group arranges covert diplomatic passage to Tionisla under humanitarian cover.'
-player_impact: 'Halsey''s investigation into witch-space anomalies sets in motion events that would intersect with the Distant Worlds 3 expedition''s deeper discoveries about hyperspace and ancient networks.'
-modern_impact: 'The chapter reconnects Halsey''s historic encounters with the Caretakers to contemporary events, suggesting that witch-space itself is undergoing changes with potential consequences for all FTL travel and interstellar civilization.'
+summary: On Mars, former Federal President Jasmina Halsey collapses during a speech
+  after experiencing a warning from the Caretakers about something wrong in witch-space.
+  Felicia Winters grants her leave to investigate discreetly. Imperial Ambassador
+  Cuthrick Delaney suggests consulting Dr Reuben Hale at the Tionisla Historical Society,
+  noting anomalous subsonic recordings from the auditorium. The group arranges covert
+  diplomatic passage to Tionisla under humanitarian cover.
+player_impact: Halsey's investigation into witch-space anomalies sets in motion events
+  that would intersect with the Distant Worlds 3 expedition's deeper discoveries about
+  hyperspace and ancient networks.
+modern_impact: The chapter reconnects Halsey's historic encounters with the Caretakers
+  to contemporary events, suggesting that witch-space itself is undergoing changes
+  with potential consequences for all FTL travel and interstellar civilization.
 entities:
-  - name: Jasmina Halsey
-    type: person
-    role: former Federal President
-  - name: Azalea Halsey
-    type: person
-    role: sister and aide
-  - name: Felicia Winters
-    type: person
-    role: Federal President
-  - name: Cuthrick Delaney
-    type: person
-    role: Imperial Ambassador
-  - name: Dr Reuben Hale
-    type: person
-    role: historian (mentioned)
+- name: Jasmina Halsey
+  type: person
+  role: former Federal President
+- name: Azalea Halsey
+  type: person
+  role: sister and aide
+- name: Felicia Winters
+  type: person
+  role: Federal President
+- name: Cuthrick Delaney
+  type: person
+  role: Imperial Ambassador
+- name: Dr Reuben Hale
+  type: person
+  role: historian (mentioned)
 locations:
-  - Sol
-  - Mars
-  - Olympus Village
-  - Tionisla
+- Sol
+- Mars
+- Olympus Village
+- Tionisla
 topics:
-  - witch-space
-  - caretakers
-  - diplomacy
-  - medical emergency
-  - historical research
+- witch-space
+- caretakers
+- diplomacy
+- medical emergency
+- historical research
 arc_id: distant-worlds-3
 ---
 

@@ -1,54 +1,65 @@
 ---
-uuid: 13854120-a7fa-5893-a44e-e1c9719be05b
+uuid: 985d5ddb-7cb1-5f4d-98d1-1148996c130f
 title: All along the Watchtower
 slug: all-along-the-watchtower
-date: '3312-03-15'
+date: '3312-02-10'
 source_url: https://ehorizonsblog.wordpress.com/2026/02/10/all-along-the-watchtower/
 category: chronicle
 source_type: community
 author: Andrew Gaspurr
 sources:
-  - name: Event Horizons WordPress
-    url: https://ehorizonsblog.wordpress.com/2026/02/10/all-along-the-watchtower/
-    type: blog
-    author: Andrew Gaspurr
+- name: Event Horizons WordPress
+  url: https://ehorizonsblog.wordpress.com/2026/02/10/all-along-the-watchtower/
+  type: blog
+  author: Andrew Gaspurr
 curated_by: ED Lore Project
 curated_date: '2026-05-27'
-summary: 'Near the Seldowitch Nebula in the Thuecheae MT-Q e5-8 System, Commander LilacLight discovers a drifting carrier-scale mass at the Praei-two permit boundary. Elaine Howard and Jacky Hew board the derelict prototype vessel with Halsey. They find GalCop-era hybrid drive technology, strange filaments, and nanite-compound residue that has partially consumed crew bodies. The ship''s logs suggest an evacuation by T-9. Nadya Holdstock connects the find to a pattern of ancient technology.'
-player_impact: 'The discovery of a derelict prototype carrier with dangerous nanite residue prompted immediate quarantine protocols and warned pilots away from the site, while raising questions about secret shipbuilding programs using obsolete technology.'
-modern_impact: 'This chapter confirms that pre-Federation technology experiments continued into the modern era in secret, with catastrophic results—suggesting that the nanite compounds may be related to Guardian or GalCop meta-technology that modern science cannot safely replicate.'
+summary: Near the Seldowitch Nebula in the Thuecheae MT-Q e5-8 System, Commander LilacLight
+  discovers a drifting carrier-scale mass at the Praei-two permit boundary. Elaine
+  Howard and Jacky Hew board the derelict prototype vessel with Halsey. They find
+  GalCop-era hybrid drive technology, strange filaments, and nanite-compound residue
+  that has partially consumed crew bodies. The ship's logs suggest an evacuation by
+  T-9. Nadya Holdstock connects the find to a pattern of ancient technology.
+player_impact: The discovery of a derelict prototype carrier with dangerous nanite
+  residue prompted immediate quarantine protocols and warned pilots away from the
+  site, while raising questions about secret shipbuilding programs using obsolete
+  technology.
+modern_impact: This chapter confirms that pre-Federation technology experiments continued
+  into the modern era in secret, with catastrophic results—suggesting that the nanite
+  compounds may be related to Guardian or GalCop meta-technology that modern science
+  cannot safely replicate.
 entities:
-  - name: Jasmina Halsey
-    type: person
-    role: Federation Envoy
-  - name: Hermine Delarue
-    type: person
-    role: DSS operations lead
-  - name: Elaine Howard
-    type: person
-    role: Flight Major
-  - name: Jacky Hew
-    type: person
-    role: pilot
-  - name: Commander LilacLight
-    type: person
-    role: pilot
-  - name: Nadya Holdstock
-    type: person
-    role: fuel specialist
-  - name: Captain Yuen
-    type: person
-    role: ship captain
+- name: Jasmina Halsey
+  type: person
+  role: Federation Envoy
+- name: Hermine Delarue
+  type: person
+  role: DSS operations lead
+- name: Elaine Howard
+  type: person
+  role: Flight Major
+- name: Jacky Hew
+  type: person
+  role: pilot
+- name: Commander LilacLight
+  type: person
+  role: pilot
+- name: Nadya Holdstock
+  type: person
+  role: fuel specialist
+- name: Captain Yuen
+  type: person
+  role: ship captain
 locations:
-  - Thuecheae MT-Q e5-8 System
-  - Seldowitch Nebula
-  - Praei-two plane
+- Thuecheae MT-Q e5-8 System
+- Seldowitch Nebula
+- Praei-two plane
 topics:
-  - derelict ship
-  - nanite contamination
-  - quarantine
-  - prototype technology
-  - search and rescue
+- derelict ship
+- nanite contamination
+- quarantine
+- prototype technology
+- search and rescue
 arc_id: distant-worlds-3
 ---
 

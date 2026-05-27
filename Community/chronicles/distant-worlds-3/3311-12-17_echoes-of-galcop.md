@@ -1,44 +1,55 @@
 ---
-uuid: adea3816-d536-5cc8-a436-cc0d380ad468
+uuid: efe66811-ce20-5cde-a16f-ef269173d216
 title: Echoes of GalCop
 slug: echoes-of-galcop
-date: '3311-03-01'
+date: '3311-12-17'
 source_url: https://ehorizonsblog.wordpress.com/2025/12/17/echoes-of-galcop/
 category: chronicle
 source_type: community
 author: Andrew Gaspurr
 sources:
-  - name: Event Horizons WordPress
-    url: https://ehorizonsblog.wordpress.com/2025/12/17/echoes-of-galcop/
-    type: blog
-    author: Andrew Gaspurr
+- name: Event Horizons WordPress
+  url: https://ehorizonsblog.wordpress.com/2025/12/17/echoes-of-galcop/
+  type: blog
+  author: Andrew Gaspurr
 curated_by: ED Lore Project
 curated_date: '2026-05-27'
-summary: 'Jasmina Halsey visits the Tionisla Historical Society with Azalea and Ambassador Delaney. Dr Reuben Hale explains the history of witch-space from the primitive Faraway system of the 23rd century to the Quirium-powered GalCop era. He introduces the concept of "The Missing" — vessels lost in hyperspace — and presents three artefacts: a Project Caretaker procurement note, a corrupted data wafer, and a Quirium Control Unit. When Halsey touches the unit, it responds to her with the same anomalous cadence she experienced on Mars.'
-player_impact: 'The discovery that GalCop-era AI (Project Caretaker) was linked to hyperspace navigation suggests that modern frameshift technology may have inherited hidden vulnerabilities from its predecessors, potentially affecting any pilot using FTL travel.'
-modern_impact: 'This chapter establishes a direct connection between Halsey''s visions, GalCop''s lost technology, and the "Missing" vessels—suggesting that something from the pre-Federation era may still survive within witch-space itself.'
+summary: 'Jasmina Halsey visits the Tionisla Historical Society with Azalea and Ambassador
+  Delaney. Dr Reuben Hale explains the history of witch-space from the primitive Faraway
+  system of the 23rd century to the Quirium-powered GalCop era. He introduces the
+  concept of "The Missing" — vessels lost in hyperspace — and presents three artefacts:
+  a Project Caretaker procurement note, a corrupted data wafer, and a Quirium Control
+  Unit. When Halsey touches the unit, it responds to her with the same anomalous cadence
+  she experienced on Mars.'
+player_impact: The discovery that GalCop-era AI (Project Caretaker) was linked to
+  hyperspace navigation suggests that modern frameshift technology may have inherited
+  hidden vulnerabilities from its predecessors, potentially affecting any pilot using
+  FTL travel.
+modern_impact: This chapter establishes a direct connection between Halsey's visions,
+  GalCop's lost technology, and the "Missing" vessels—suggesting that something from
+  the pre-Federation era may still survive within witch-space itself.
 entities:
-  - name: Jasmina Halsey
-    type: person
-    role: former Federal President
-  - name: Azalea Halsey
-    type: person
-    role: sister and aide
-  - name: Cuthrick Delaney
-    type: person
-    role: Imperial Ambassador
-  - name: Dr Reuben Hale
-    type: person
-    role: historian and curator
+- name: Jasmina Halsey
+  type: person
+  role: former Federal President
+- name: Azalea Halsey
+  type: person
+  role: sister and aide
+- name: Cuthrick Delaney
+  type: person
+  role: Imperial Ambassador
+- name: Dr Reuben Hale
+  type: person
+  role: historian and curator
 locations:
-  - Tionisla
-  - Tionisla Orbital Graveyard
+- Tionisla
+- Tionisla Orbital Graveyard
 topics:
-  - witch-space
-  - ancient technology
-  - galactic history
-  - artificial intelligence
-  - the Missing
+- witch-space
+- ancient technology
+- galactic history
+- artificial intelligence
+- the Missing
 arc_id: distant-worlds-3
 ---
 

@@ -1,37 +1,47 @@
 ---
-uuid: f45828cc-8c39-50f2-9a0b-d808e3300d64
+uuid: 5a93d5aa-4498-5ed7-88d7-25fe1937d57e
 title: The High Ground
 slug: the-high-ground
-date: '3311-01-20'
+date: '3311-07-09'
 source_url: https://ehorizonsblog.wordpress.com/2025/07/09/the-high-ground/
 category: chronicle
 source_type: community
 author: Andrew Gaspurr
 sources:
-  - name: Event Horizons WordPress
-    url: https://ehorizonsblog.wordpress.com/2025/07/09/the-high-ground/
-    type: blog
-    author: Andrew Gaspurr
+- name: Event Horizons WordPress
+  url: https://ehorizonsblog.wordpress.com/2025/07/09/the-high-ground/
+  type: blog
+  author: Andrew Gaspurr
 curated_by: ED Lore Project
 curated_date: '2026-05-27'
-summary: 'At the DW3 launch site in NGC 1981 Sector ZU-Y d27, John and Cal oversee the construction of expedition infrastructure including biodomes and agri-labs. Cal questions a mysterious woman with military bearing who is directing cargo operations. John reveals that he acquired two GalCop deep space monitoring arrays from the abandoned Equinox Project at Sarasvati, repurposing them for installation on the science carriers despite their isogenic helium fluid routers being incompatible with modern technology.'
-player_impact: 'Explorers on the Distant Worlds 3 expedition would benefit from GalCop-era deep space monitoring arrays installed on the science carriers, providing survey capabilities beyond what contemporary sensor technology can achieve.'
-modern_impact: 'The chapter reveals that pre-Federation GalCop observation platforms from the abandoned Equinox Project were secretly salvaged and repurposed for civilian exploration, highlighting how much ancient technology remains buried in forgotten systems like Sarasvati.'
+summary: At the DW3 launch site in NGC 1981 Sector ZU-Y d27, John and Cal oversee
+  the construction of expedition infrastructure including biodomes and agri-labs.
+  Cal questions a mysterious woman with military bearing who is directing cargo operations.
+  John reveals that he acquired two GalCop deep space monitoring arrays from the abandoned
+  Equinox Project at Sarasvati, repurposing them for installation on the science carriers
+  despite their isogenic helium fluid routers being incompatible with modern technology.
+player_impact: Explorers on the Distant Worlds 3 expedition would benefit from GalCop-era
+  deep space monitoring arrays installed on the science carriers, providing survey
+  capabilities beyond what contemporary sensor technology can achieve.
+modern_impact: The chapter reveals that pre-Federation GalCop observation platforms
+  from the abandoned Equinox Project were secretly salvaged and repurposed for civilian
+  exploration, highlighting how much ancient technology remains buried in forgotten
+  systems like Sarasvati.
 entities:
-  - name: John
-    type: person
-    role: expedition founder
-  - name: Cal
-    type: person
-    role: corporate operative
+- name: John
+  type: person
+  role: expedition founder
+- name: Cal
+  type: person
+  role: corporate operative
 locations:
-  - NGC 1981 Sector ZU-Y d27
-  - Sarasvati
-  - Alioth
+- NGC 1981 Sector ZU-Y d27
+- Sarasvati
+- Alioth
 topics:
-  - ancient technology
-  - expedition logistics
-  - corporate cooperation
+- ancient technology
+- expedition logistics
+- corporate cooperation
 arc_id: distant-worlds-3
 ---
 

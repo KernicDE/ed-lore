@@ -1,40 +1,52 @@
 ---
-uuid: cbf6d298-19a9-5e2a-b537-c52281d21f12
+uuid: 0817d33f-d86d-5a93-bd24-74c68b51208a
 title: Echo Chamber
 slug: echo-chamber
-date: '3312-05-01'
+date: '3312-03-03'
 source_url: https://ehorizonsblog.wordpress.com/2026/03/03/echo-chamber/
 category: chronicle
 source_type: community
 author: Andrew Gaspurr
 sources:
-  - name: Event Horizons WordPress
-    url: https://ehorizonsblog.wordpress.com/2026/03/03/echo-chamber/
-    type: blog
-    author: Andrew Gaspurr
+- name: Event Horizons WordPress
+  url: https://ehorizonsblog.wordpress.com/2026/03/03/echo-chamber/
+  type: blog
+  author: Andrew Gaspurr
 curated_by: ED Lore Project
 curated_date: '2026-05-27'
-summary: 'In the Abyss Region near Beagle Point, the DW3 flotilla experiences the psychological toll of extreme deep space travel. Alessia Verdi observes the growing unease among pilots. Jasmina Halsey notes the Quirium Control Unit has been silent since the carrier discovery—troubling her more than its previous activity. Medical staff document cases of Deep Space Dissociation Syndrome: pilots hearing voices in sensor noise, engineers experiencing disorientation, crew having persistent dream-fragments. Jacky Hew remarks that modern carrier jumps feel too smooth, as if "something else is doing the work." The unit trembles once before returning to silence.'
-player_impact: 'Deep space pilots on long expeditions face documented psychological effects from extreme isolation, with reported symptoms including auditory hallucinations, disorientation, and persistent dream-like states that blur the line between external anomaly and internal stress.'
-modern_impact: 'This chapter explores the psychological reality of deep space exploration, connecting historical generation ship tragedies to modern "space madness"—while suggesting the Quirium unit''s silence may be as significant as its previous activity.'
+summary: 'In the Abyss Region near Beagle Point, the DW3 flotilla experiences the
+  psychological toll of extreme deep space travel. Alessia Verdi observes the growing
+  unease among pilots. Jasmina Halsey notes the Quirium Control Unit has been silent
+  since the carrier discovery—troubling her more than its previous activity. Medical
+  staff document cases of Deep Space Dissociation Syndrome: pilots hearing voices
+  in sensor noise, engineers experiencing disorientation, crew having persistent dream-fragments.
+  Jacky Hew remarks that modern carrier jumps feel too smooth, as if "something else
+  is doing the work." The unit trembles once before returning to silence.'
+player_impact: Deep space pilots on long expeditions face documented psychological
+  effects from extreme isolation, with reported symptoms including auditory hallucinations,
+  disorientation, and persistent dream-like states that blur the line between external
+  anomaly and internal stress.
+modern_impact: This chapter explores the psychological reality of deep space exploration,
+  connecting historical generation ship tragedies to modern "space madness"—while
+  suggesting the Quirium unit's silence may be as significant as its previous activity.
 entities:
-  - name: Alessia Verdi
-    type: person
-    role: Imperial pilot
-  - name: Jasmina Halsey
-    type: person
-    role: Federation Envoy
-  - name: Jacky Hew
-    type: person
-    role: pilot
+- name: Alessia Verdi
+  type: person
+  role: Imperial pilot
+- name: Jasmina Halsey
+  type: person
+  role: Federation Envoy
+- name: Jacky Hew
+  type: person
+  role: pilot
 locations:
-  - Abyss Region
-  - Beagle Point
+- Abyss Region
+- Beagle Point
 topics:
-  - deep space psychology
-  - space madness
-  - isolation
-  - deep space dissociation syndrome
+- deep space psychology
+- space madness
+- isolation
+- deep space dissociation syndrome
 arc_id: distant-worlds-3
 ---
 

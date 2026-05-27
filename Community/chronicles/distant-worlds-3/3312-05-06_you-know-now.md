@@ -1,51 +1,64 @@
 ---
-uuid: 8ef881e6-490b-5d37-87af-fdab9337a124
+uuid: 387019a4-9a7d-5d41-bcfa-26c2520f8fec
 title: You Know Now
 slug: you-know-now
-date: '3312-07-01'
+date: '3312-05-06'
 source_url: https://ehorizonsblog.wordpress.com/2026/05/06/you-know-now/
 category: chronicle
 source_type: community
 author: Andrew Gaspurr
 sources:
-  - name: Event Horizons WordPress
-    url: https://ehorizonsblog.wordpress.com/2026/05/06/you-know-now/
-    type: blog
-    author: Andrew Gaspurr
+- name: Event Horizons WordPress
+  url: https://ehorizonsblog.wordpress.com/2026/05/06/you-know-now/
+  type: blog
+  author: Andrew Gaspurr
 curated_by: ED Lore Project
 curated_date: '2026-05-27'
-summary: 'Weeks after leaving Rainbow''s End, Halsey and Hermine discuss whether the containment will hold. Halsey visits Guardian ruins in the Teal Nebula with Nadya Holdstock. The obelisks react to her presence, flashing in sequence as she passes—an honour guard acknowledging her attunement to the Connect. In her mind she senses the Guardian entity: "You know now. You have purpose. Now do." Meanwhile, Hermine meets Cynthia Sideris of Universal Cartographics, who reveals PF-registered firmware irregularities in DW3 ships and offers Hermine an Executive Director position in exchange for the modified firmware and debriefing.'
-player_impact: 'The expedition''s modified firmware—designed to detect lattice anomalies—attracted attention from the Pilots'' Federation and Universal Cartographics, affecting all pilots who uploaded the patch. The Guardian obelisks'' reaction to Halsey confirmed a living connection between human consciousness and the ancient network.'
-modern_impact: 'The final chapter establishes that the conflict between corporate interests, superpower politics, and the Guardian/AI lattice is far from resolved. Halsey''s new purpose and the offer to Hermine suggest the next phase will play out in the corridors of power rather than deep space.'
+summary: 'Weeks after leaving Rainbow''s End, Halsey and Hermine discuss whether the
+  containment will hold. Halsey visits Guardian ruins in the Teal Nebula with Nadya
+  Holdstock. The obelisks react to her presence, flashing in sequence as she passes—an
+  honour guard acknowledging her attunement to the Connect. In her mind she senses
+  the Guardian entity: "You know now. You have purpose. Now do." Meanwhile, Hermine
+  meets Cynthia Sideris of Universal Cartographics, who reveals PF-registered firmware
+  irregularities in DW3 ships and offers Hermine an Executive Director position in
+  exchange for the modified firmware and debriefing.'
+player_impact: The expedition's modified firmware—designed to detect lattice anomalies—attracted
+  attention from the Pilots' Federation and Universal Cartographics, affecting all
+  pilots who uploaded the patch. The Guardian obelisks' reaction to Halsey confirmed
+  a living connection between human consciousness and the ancient network.
+modern_impact: The final chapter establishes that the conflict between corporate interests,
+  superpower politics, and the Guardian/AI lattice is far from resolved. Halsey's
+  new purpose and the offer to Hermine suggest the next phase will play out in the
+  corridors of power rather than deep space.
 entities:
-  - name: Jasmina Halsey
-    type: person
-    role: Federation Envoy
-  - name: Hermine Delarue
-    type: person
-    role: DSS operations lead
-  - name: Nadya Holdstock
-    type: person
-    role: fuel specialist
-  - name: Cynthia Sideris
-    type: person
-    role: Universal Cartographics chairwoman
-  - name: John Ermitage
-    type: person
-    role: expedition founder (mentioned)
-  - name: Cal
-    type: person
-    role: operative (mentioned)
+- name: Jasmina Halsey
+  type: person
+  role: Federation Envoy
+- name: Hermine Delarue
+  type: person
+  role: DSS operations lead
+- name: Nadya Holdstock
+  type: person
+  role: fuel specialist
+- name: Cynthia Sideris
+  type: person
+  role: Universal Cartographics chairwoman
+- name: John Ermitage
+  type: person
+  role: expedition founder (mentioned)
+- name: Cal
+  type: person
+  role: operative (mentioned)
 locations:
-  - Eorl Auwsy SY-Z d13-450
-  - Teal Nebula
-  - Rainbow's End (mentioned)
+- Eorl Auwsy SY-Z d13-450
+- Teal Nebula
+- Rainbow's End (mentioned)
 topics:
-  - containment uncertainty
-  - guardian acknowledgement
-  - corporate intrigue
-  - firmware politics
-  - purpose
+- containment uncertainty
+- guardian acknowledgement
+- corporate intrigue
+- firmware politics
+- purpose
 arc_id: distant-worlds-3
 ---
 

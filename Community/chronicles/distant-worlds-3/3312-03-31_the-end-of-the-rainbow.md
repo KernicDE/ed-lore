@@ -1,57 +1,70 @@
 ---
-uuid: 7833fee5-2b7b-5763-83dc-6efdf4740878
+uuid: 2e795b9f-68d6-57ea-a6a7-76b1ecb03328
 title: The End of the Rainbow
 slug: the-end-of-the-rainbow
-date: '3312-06-15'
+date: '3312-03-31'
 source_url: https://ehorizonsblog.wordpress.com/2026/03/31/the-end-of-the-rainbow/
 category: chronicle
 source_type: community
 author: Andrew Gaspurr
 sources:
-  - name: Event Horizons WordPress
-    url: https://ehorizonsblog.wordpress.com/2026/03/31/the-end-of-the-rainbow/
-    type: blog
-    author: Andrew Gaspurr
+- name: Event Horizons WordPress
+  url: https://ehorizonsblog.wordpress.com/2026/03/31/the-end-of-the-rainbow/
+  type: blog
+  author: Andrew Gaspurr
 curated_by: ED Lore Project
 curated_date: '2026-05-27'
-summary: 'Halsey awakens on the Odysseus and explains to Hermine that the Caretakers are Guardian remnant intelligences and a rogue human AI is usurping the lattice. An untraceable voice confirms Halsey''s instructions to build at the Mare Somnia. The DW3 fleet constructs Rainbow''s End station above the nexus archive, incorporating the Fimbulthul''s GalCop sensor array and meta-alloy shielding as an inhibitor. However, news leaks to the Bubble; the three superpowers order DW3 to stand down. Alessia Verdi provides blackmail material on all three superpowers. Cuthrick Delaney brokers a compromise: Rainbow''s End remains under DSS supervision with tripartite oversight, and DW3 commanders receive full pardons.'
-player_impact: 'The 8,000 DW3 commanders contributed exploration data to make Rainbow''s End operational, then faced being declared outlaws before blackmail material forced the superpowers to back down and grant full pardons.'
-modern_impact: 'This chapter establishes Rainbow''s End as a permanent deep-space installation serving as an inhibitor over a Guardian nexus archive—creating a new frontier outpost with tripartite superpower oversight, while revealing the fragility of political support for existential scientific endeavors.'
+summary: 'Halsey awakens on the Odysseus and explains to Hermine that the Caretakers
+  are Guardian remnant intelligences and a rogue human AI is usurping the lattice.
+  An untraceable voice confirms Halsey''s instructions to build at the Mare Somnia.
+  The DW3 fleet constructs Rainbow''s End station above the nexus archive, incorporating
+  the Fimbulthul''s GalCop sensor array and meta-alloy shielding as an inhibitor.
+  However, news leaks to the Bubble; the three superpowers order DW3 to stand down.
+  Alessia Verdi provides blackmail material on all three superpowers. Cuthrick Delaney
+  brokers a compromise: Rainbow''s End remains under DSS supervision with tripartite
+  oversight, and DW3 commanders receive full pardons.'
+player_impact: The 8,000 DW3 commanders contributed exploration data to make Rainbow's
+  End operational, then faced being declared outlaws before blackmail material forced
+  the superpowers to back down and grant full pardons.
+modern_impact: This chapter establishes Rainbow's End as a permanent deep-space installation
+  serving as an inhibitor over a Guardian nexus archive—creating a new frontier outpost
+  with tripartite superpower oversight, while revealing the fragility of political
+  support for existential scientific endeavors.
 entities:
-  - name: Jasmina Halsey
-    type: person
-    role: Federation Envoy
-  - name: Hermine Delarue
-    type: person
-    role: DSS operations lead
-  - name: Doctor Gery
-    type: person
-    role: chief medical officer
-  - name: Alessia Verdi
-    type: person
-    role: Imperial pilot
-  - name: Cuthrick Delaney
-    type: person
-    role: Imperial Ambassador
-  - name: Lya
-    type: person
-    role: astrophysicist (mentioned)
-  - name: Ram Tah
-    type: person
-    role: engineer (mentioned)
-  - name: Felicia Winters
-    type: person
-    role: Federal President (mentioned)
+- name: Jasmina Halsey
+  type: person
+  role: Federation Envoy
+- name: Hermine Delarue
+  type: person
+  role: DSS operations lead
+- name: Doctor Gery
+  type: person
+  role: chief medical officer
+- name: Alessia Verdi
+  type: person
+  role: Imperial pilot
+- name: Cuthrick Delaney
+  type: person
+  role: Imperial Ambassador
+- name: Lya
+  type: person
+  role: astrophysicist (mentioned)
+- name: Ram Tah
+  type: person
+  role: engineer (mentioned)
+- name: Felicia Winters
+  type: person
+  role: Federal President (mentioned)
 locations:
-  - DW 3 Carrier Odysseus
-  - Rainbow's End
-  - Mare Somnia
+- DW 3 Carrier Odysseus
+- Rainbow's End
+- Mare Somnia
 topics:
-  - station construction
-  - political blackmail
-  - inter-superpower diplomacy
-  - inhibitor technology
-  - containment
+- station construction
+- political blackmail
+- inter-superpower diplomacy
+- inhibitor technology
+- containment
 arc_id: distant-worlds-3
 ---
 

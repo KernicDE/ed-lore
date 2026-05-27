@@ -1,63 +1,76 @@
 ---
-uuid: f329e589-384f-5557-b009-3995982d671b
+uuid: f75b8c15-c6fb-5e46-a3f2-b2c37467d142
 title: Choir of Ghosts
 slug: choir-of-ghosts
-date: '3312-05-15'
+date: '3312-03-10'
 source_url: https://ehorizonsblog.wordpress.com/2026/03/10/choir-of-ghosts/
 category: chronicle
 source_type: community
 author: Andrew Gaspurr
 sources:
-  - name: Event Horizons WordPress
-    url: https://ehorizonsblog.wordpress.com/2026/03/10/choir-of-ghosts/
-    type: blog
-    author: Andrew Gaspurr
+- name: Event Horizons WordPress
+  url: https://ehorizonsblog.wordpress.com/2026/03/10/choir-of-ghosts/
+  type: blog
+  author: Andrew Gaspurr
 curated_by: ED Lore Project
 curated_date: '2026-05-27'
-summary: 'At DW3 Expedition Command in the Veils Region, Lya and Ram Tah present their lattice model: a filament network connecting ultra-dense masses, mass jump locations, and anomalies across the galaxy—including Colonia, Guardian ruins, Tionisla, and permit-locked sectors. Halsey activates the Fimbulthul''s GalCop sensor array and detects a "singing" anomaly near the Veil''s Ember supernova remnant. Expedition Commanders discover a wrecked RimLiner Galactic Anaconda from the 2900s—one of "The Missing"—with the same hull disintegration pattern. Halsey takes the Quest to investigate but disappears without a high wake signature. Nadya Holdstock secretly reports to Ermitage that the Caretaker Protocol may still be active.'
-player_impact: 'Expedition pilots contributed scanning data that revealed a galaxy-wide lattice network, leading to the discovery of a centuries-old Missing vessel and raising concerns about an active Caretaker Protocol affecting deep space navigation.'
-modern_impact: 'The chapter confirms the lattice is real and measurable, connecting anomalies across the galaxy. Halsey''s disappearance without conventional FTL signature suggests access to non-standard hyperspace transit—possibly related to the Quirium unit or Caretaker technology.'
+summary: 'At DW3 Expedition Command in the Veils Region, Lya and Ram Tah present their
+  lattice model: a filament network connecting ultra-dense masses, mass jump locations,
+  and anomalies across the galaxy—including Colonia, Guardian ruins, Tionisla, and
+  permit-locked sectors. Halsey activates the Fimbulthul''s GalCop sensor array and
+  detects a "singing" anomaly near the Veil''s Ember supernova remnant. Expedition
+  Commanders discover a wrecked RimLiner Galactic Anaconda from the 2900s—one of "The
+  Missing"—with the same hull disintegration pattern. Halsey takes the Quest to investigate
+  but disappears without a high wake signature. Nadya Holdstock secretly reports to
+  Ermitage that the Caretaker Protocol may still be active.'
+player_impact: Expedition pilots contributed scanning data that revealed a galaxy-wide
+  lattice network, leading to the discovery of a centuries-old Missing vessel and
+  raising concerns about an active Caretaker Protocol affecting deep space navigation.
+modern_impact: The chapter confirms the lattice is real and measurable, connecting
+  anomalies across the galaxy. Halsey's disappearance without conventional FTL signature
+  suggests access to non-standard hyperspace transit—possibly related to the Quirium
+  unit or Caretaker technology.
 entities:
-  - name: Jasmina Halsey
-    type: person
-    role: Federation Envoy
-  - name: Hermine Delarue
-    type: person
-    role: DSS operations lead
-  - name: Lya
-    type: person
-    role: astrophysicist
-  - name: Ram Tah
-    type: person
-    role: engineer and researcher
-  - name: Nadya Holdstock
-    type: person
-    role: fuel specialist and operative
-  - name: Jacky Hew
-    type: person
-    role: pilot
-  - name: Elaine Howard
-    type: person
-    role: Flight Major
-  - name: Captain Yuen
-    type: person
-    role: ship captain
-  - name: John Ermitage
-    type: person
-    role: expedition founder (mentioned)
+- name: Jasmina Halsey
+  type: person
+  role: Federation Envoy
+- name: Hermine Delarue
+  type: person
+  role: DSS operations lead
+- name: Lya
+  type: person
+  role: astrophysicist
+- name: Ram Tah
+  type: person
+  role: engineer and researcher
+- name: Nadya Holdstock
+  type: person
+  role: fuel specialist and operative
+- name: Jacky Hew
+  type: person
+  role: pilot
+- name: Elaine Howard
+  type: person
+  role: Flight Major
+- name: Captain Yuen
+  type: person
+  role: ship captain
+- name: John Ermitage
+  type: person
+  role: expedition founder (mentioned)
 locations:
-  - Veils Region
-  - Veil's Ember
-  - Colonia
-  - Synuefe
-  - Wregoe
-  - Tionisla
+- Veils Region
+- Veil's Ember
+- Colonia
+- Synuefe
+- Wregoe
+- Tionisla
 topics:
-  - lattice network
-  - anomaly detection
-  - missing vessel
-  - disappearance
-  - caretaker protocol
+- lattice network
+- anomaly detection
+- missing vessel
+- disappearance
+- caretaker protocol
 arc_id: distant-worlds-3
 ---
 

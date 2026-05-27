@@ -1,46 +1,57 @@
 ---
-uuid: 4bc0e197-adc7-5b4b-b719-063cbc6af8b2
+uuid: 4618e117-9b62-5361-85f4-a5b6d2974f79
 title: Laments in Witch-Space
 slug: laments-in-witch-space
-date: '3312-01-08'
+date: '3312-01-22'
 source_url: https://ehorizonsblog.wordpress.com/2026/01/22/laments-in-witch-space/
 category: chronicle
 source_type: community
 author: Andrew Gaspurr
 sources:
-  - name: Event Horizons WordPress
-    url: https://ehorizonsblog.wordpress.com/2026/01/22/laments-in-witch-space/
-    type: blog
-    author: Andrew Gaspurr
+- name: Event Horizons WordPress
+  url: https://ehorizonsblog.wordpress.com/2026/01/22/laments-in-witch-space/
+  type: blog
+  author: Andrew Gaspurr
 curated_by: ED Lore Project
 curated_date: '2026-05-27'
-summary: 'On launch day of DW3 from NGC 1981 Sector ZU-Y d27, Jasmina Halsey aboard the Halsey''s Quest experiences a profound witch-space anomaly during the fleet''s mass jump. Multiple pilots report ghost echoes, voices on static, and ADC cross-talk. The cadence matches the Mars and Tionisla recordings—fifteen cycles exact. Hermine Delarue orders science framing as "Survey Refinement Alpha" while Halsey senses the presence feels grief and perplexity. The expedition adjusts its route toward the Umbra Sagittarii.'
-player_impact: 'DW3 pilots were directed to tag and dump harmonic distortion recordings, attach raw wake scanner data, and log any anomalous experiences without chasing ghosts—contributing to a fleet-wide scientific survey of witch-space anomalies.'
-modern_impact: 'This chapter documents the first confirmed fleet-wide witch-space anomaly during a mass jump, establishing that the phenomenon is not isolated to Halsey but affects multiple ships and pilots simultaneously, with a directional bias toward the galactic core.'
+summary: On launch day of DW3 from NGC 1981 Sector ZU-Y d27, Jasmina Halsey aboard
+  the Halsey's Quest experiences a profound witch-space anomaly during the fleet's
+  mass jump. Multiple pilots report ghost echoes, voices on static, and ADC cross-talk.
+  The cadence matches the Mars and Tionisla recordings—fifteen cycles exact. Hermine
+  Delarue orders science framing as "Survey Refinement Alpha" while Halsey senses
+  the presence feels grief and perplexity. The expedition adjusts its route toward
+  the Umbra Sagittarii.
+player_impact: DW3 pilots were directed to tag and dump harmonic distortion recordings,
+  attach raw wake scanner data, and log any anomalous experiences without chasing
+  ghosts—contributing to a fleet-wide scientific survey of witch-space anomalies.
+modern_impact: This chapter documents the first confirmed fleet-wide witch-space anomaly
+  during a mass jump, establishing that the phenomenon is not isolated to Halsey but
+  affects multiple ships and pilots simultaneously, with a directional bias toward
+  the galactic core.
 entities:
-  - name: Jasmina Halsey
-    type: person
-    role: Federation Envoy
-  - name: Captain Yuen
-    type: person
-    role: ship captain
-  - name: Hermine Delarue
-    type: person
-    role: DSS operations lead
-  - name: Flight Major Elaine Howard
-    type: person
-    role: pilot and scout
-  - name: Quartermaster Timotheus Haddard
-    type: person
-    role: logistics officer
+- name: Jasmina Halsey
+  type: person
+  role: Federation Envoy
+- name: Captain Yuen
+  type: person
+  role: ship captain
+- name: Hermine Delarue
+  type: person
+  role: DSS operations lead
+- name: Flight Major Elaine Howard
+  type: person
+  role: pilot and scout
+- name: Quartermaster Timotheus Haddard
+  type: person
+  role: logistics officer
 locations:
-  - NGC 1981 Sector ZU-Y d27
-  - Umbra Sagittarii
+- NGC 1981 Sector ZU-Y d27
+- Umbra Sagittarii
 topics:
-  - witch-space anomaly
-  - fleet launch
-  - scientific survey
-  - mass jump
+- witch-space anomaly
+- fleet launch
+- scientific survey
+- mass jump
 arc_id: distant-worlds-3
 ---
 

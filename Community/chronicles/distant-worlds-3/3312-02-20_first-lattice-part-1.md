@@ -1,54 +1,66 @@
 ---
-uuid: 853efcd2-b655-5fa6-816f-e68139b2ca61
+uuid: 19299475-6389-5842-9b97-333fb195f059
 title: First Lattice, Part 1
 slug: first-lattice-part-1
-date: '3312-04-01'
+date: '3312-02-20'
 source_url: https://ehorizonsblog.wordpress.com/2026/02/20/first-lattice-part-1/
 category: chronicle
 source_type: community
 author: Andrew Gaspurr
 sources:
-  - name: Event Horizons WordPress
-    url: https://ehorizonsblog.wordpress.com/2026/02/20/first-lattice-part-1/
-    type: blog
-    author: Andrew Gaspurr
+- name: Event Horizons WordPress
+  url: https://ehorizonsblog.wordpress.com/2026/02/20/first-lattice-part-1/
+  type: blog
+  author: Andrew Gaspurr
 curated_by: ED Lore Project
 curated_date: '2026-05-27'
-summary: 'Back at Phoenix Base on Meene, Ram Tah and Uwe Toramund analyze data from the derelict carrier via telepresence with the DW3 flotilla. Ermitage reveals that the Guinevere is an Eridanus-class cruiser with cryo-stasis crew rotation, rarely used because freelance explorers make it unnecessary. Ram Tah presents a radical theory: the phenomena are connected through "hypertemporal space"—a lattice where time has zero value and events can be entangled across vast distances. He suggests the Guardians'' AI-based communication network may still exist in witch-space, and that something is trying to contact Halsey through the Quirium Control Unit.'
-player_impact: 'The hypertemporal theory implies that Guardian-derived technology and witch-space anomalies may be interconnected across the galaxy, affecting any pilot using FTL travel or Guardian-enhanced equipment.'
-modern_impact: 'This chapter reframes the entire narrative from isolated incidents to a unified theoretical framework: witch-space as a hypertemporal lattice where Guardian AI, GalCop technology, and modern events are entangled—a concept with profound implications for interstellar civilization.'
+summary: 'Back at Phoenix Base on Meene, Ram Tah and Uwe Toramund analyze data from
+  the derelict carrier via telepresence with the DW3 flotilla. Ermitage reveals that
+  the Guinevere is an Eridanus-class cruiser with cryo-stasis crew rotation, rarely
+  used because freelance explorers make it unnecessary. Ram Tah presents a radical
+  theory: the phenomena are connected through "hypertemporal space"—a lattice where
+  time has zero value and events can be entangled across vast distances. He suggests
+  the Guardians'' AI-based communication network may still exist in witch-space, and
+  that something is trying to contact Halsey through the Quirium Control Unit.'
+player_impact: The hypertemporal theory implies that Guardian-derived technology and
+  witch-space anomalies may be interconnected across the galaxy, affecting any pilot
+  using FTL travel or Guardian-enhanced equipment.
+modern_impact: 'This chapter reframes the entire narrative from isolated incidents
+  to a unified theoretical framework: witch-space as a hypertemporal lattice where
+  Guardian AI, GalCop technology, and modern events are entangled—a concept with profound
+  implications for interstellar civilization.'
 entities:
-  - name: Ram Tah
-    type: person
-    role: engineer and researcher
-  - name: Uwe Toramund
-    type: person
-    role: lab assistant
-  - name: Jasmina Halsey
-    type: person
-    role: Federation Envoy
-  - name: Hermine Delarue
-    type: person
-    role: DSS operations lead
-  - name: Elaine Howard
-    type: person
-    role: Flight Major
-  - name: John Ermitage
-    type: person
-    role: expedition founder
-  - name: Lya
-    type: person
-    role: astrophysicist (mentioned)
+- name: Ram Tah
+  type: person
+  role: engineer and researcher
+- name: Uwe Toramund
+  type: person
+  role: lab assistant
+- name: Jasmina Halsey
+  type: person
+  role: Federation Envoy
+- name: Hermine Delarue
+  type: person
+  role: DSS operations lead
+- name: Elaine Howard
+  type: person
+  role: Flight Major
+- name: John Ermitage
+  type: person
+  role: expedition founder
+- name: Lya
+  type: person
+  role: astrophysicist (mentioned)
 locations:
-  - Meene
-  - Phoenix Base
-  - Orion
+- Meene
+- Phoenix Base
+- Orion
 topics:
-  - hypertemporal theory
-  - guardian AI
-  - scientific analysis
-  - galactic history
-  - meta-technology
+- hypertemporal theory
+- guardian AI
+- scientific analysis
+- galactic history
+- meta-technology
 arc_id: distant-worlds-3
 ---
 

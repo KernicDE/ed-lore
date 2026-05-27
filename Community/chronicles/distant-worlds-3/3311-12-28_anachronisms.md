@@ -1,44 +1,55 @@
 ---
-uuid: 57d4898e-6408-5b88-a28c-410619d44923
+uuid: 7ad0c26d-aff7-5ad9-9654-b1bdfe50ff49
 title: Anachronisms
 slug: anachronisms
-date: '3311-03-15'
+date: '3311-12-28'
 source_url: https://ehorizonsblog.wordpress.com/2025/12/28/anachronisms/
 category: chronicle
 source_type: community
 author: Andrew Gaspurr
 sources:
-  - name: Event Horizons WordPress
-    url: https://ehorizonsblog.wordpress.com/2025/12/28/anachronisms/
-    type: blog
-    author: Andrew Gaspurr
+- name: Event Horizons WordPress
+  url: https://ehorizonsblog.wordpress.com/2025/12/28/anachronisms/
+  type: blog
+  author: Andrew Gaspurr
 curated_by: ED Lore Project
 curated_date: '2026-05-27'
-summary: 'Hermine Delarue meets Cal at the DSS office in NGC 1981 Sector ZU-Y d27. The Pilots Federation has asked DSS to investigate missing deep space explorers and a lost Universal Cartographics cruiser. Cal reveals historical knowledge about the "Archer''s Shadow" (Umbra Sagittarii) beyond the Core—a region once considered cursed due to hazardous navigation conditions. He mentions Hieronymus Halsey''s failed Alliance expedition and connections between the Turners, GalCop''s collapse, and modern ship disappearances. Delarue recruits Cal as a consultant for the expedition.'
-player_impact: 'The disappearance of multiple explorer vessels and a Universal Cartographics cruiser in deep space suggests that standard navigation technology is failing in certain regions, potentially endangering any pilot traveling beyond the Core.'
-modern_impact: 'This chapter connects historical deep space hazards with contemporary ship disappearances, suggesting that regions once deemed too dangerous for early explorers remain hazardous despite modern technology—and that the Pilots Federation may be concealing the scale of the problem.'
+summary: Hermine Delarue meets Cal at the DSS office in NGC 1981 Sector ZU-Y d27.
+  The Pilots Federation has asked DSS to investigate missing deep space explorers
+  and a lost Universal Cartographics cruiser. Cal reveals historical knowledge about
+  the "Archer's Shadow" (Umbra Sagittarii) beyond the Core—a region once considered
+  cursed due to hazardous navigation conditions. He mentions Hieronymus Halsey's failed
+  Alliance expedition and connections between the Turners, GalCop's collapse, and
+  modern ship disappearances. Delarue recruits Cal as a consultant for the expedition.
+player_impact: The disappearance of multiple explorer vessels and a Universal Cartographics
+  cruiser in deep space suggests that standard navigation technology is failing in
+  certain regions, potentially endangering any pilot traveling beyond the Core.
+modern_impact: This chapter connects historical deep space hazards with contemporary
+  ship disappearances, suggesting that regions once deemed too dangerous for early
+  explorers remain hazardous despite modern technology—and that the Pilots Federation
+  may be concealing the scale of the problem.
 entities:
-  - name: Hermine Delarue
-    type: person
-    role: DSS executive
-  - name: Cal
-    type: person
-    role: consultant and operative
-  - name: John Ermitage
-    type: person
-    role: expedition founder (mentioned)
-  - name: Cynthia Sideris
-    type: person
-    role: Universal Cartographics chairwoman (mentioned)
+- name: Hermine Delarue
+  type: person
+  role: DSS executive
+- name: Cal
+  type: person
+  role: consultant and operative
+- name: John Ermitage
+  type: person
+  role: expedition founder (mentioned)
+- name: Cynthia Sideris
+  type: person
+  role: Universal Cartographics chairwoman (mentioned)
 locations:
-  - NGC 1981 Sector ZU-Y d27
-  - Umbra Sagittarii
-  - Corona Australis
+- NGC 1981 Sector ZU-Y d27
+- Umbra Sagittarii
+- Corona Australis
 topics:
-  - missing ships
-  - deep space hazards
-  - corporate politics
-  - historical secrets
+- missing ships
+- deep space hazards
+- corporate politics
+- historical secrets
 arc_id: distant-worlds-3
 ---
 
