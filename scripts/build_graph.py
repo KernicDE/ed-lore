@@ -645,17 +645,47 @@ def build() -> dict[str, Any]:
             "id": eid, "name": name, "type": ent_type,
             "bio": "", "affiliations": [], "related_entities": [], "related_arcs": [],
         }
-        # Official stats (primary)
+        # Combine official + community for primary stats
+        all_articles = []
+        first_seen = None
+        last_seen = None
+        total_mentions = 0
+
         if official_data:
-            rec["first_seen_date"] = official_data["first_seen"]
-            rec["last_seen_date"] = official_data["last_seen"]
-            rec["mention_count"] = official_data["mentions"]
-            rec["article_uuids"] = official_data["articles"]
+            total_mentions += official_data["mentions"]
+            all_articles.extend(official_data["articles"])
+            if official_data["first_seen"]:
+                first_seen = official_data["first_seen"]
+            if official_data["last_seen"]:
+                last_seen = official_data["last_seen"]
+
+        if community_data:
+            total_mentions += community_data["mentions"]
+            all_articles.extend(community_data["articles"])
+            if community_data["first_seen"]:
+                if first_seen is None or community_data["first_seen"] < first_seen:
+                    first_seen = community_data["first_seen"]
+            if community_data["last_seen"]:
+                if last_seen is None or community_data["last_seen"] > last_seen:
+                    last_seen = community_data["last_seen"]
+
+        rec["first_seen_date"] = first_seen
+        rec["last_seen_date"] = last_seen
+        rec["mention_count"] = total_mentions
+        rec["article_uuids"] = all_articles
+
+        # Official stats (separate)
+        if official_data:
+            rec["official_mention_count"] = official_data["mentions"]
+            rec["official_article_uuids"] = official_data["articles"]
+            rec["official_first_seen"] = official_data["first_seen"]
+            rec["official_last_seen"] = official_data["last_seen"]
         else:
-            rec["first_seen_date"] = None
-            rec["last_seen_date"] = None
-            rec["mention_count"] = 0
-            rec["article_uuids"] = []
+            rec["official_mention_count"] = 0
+            rec["official_article_uuids"] = []
+            rec["official_first_seen"] = None
+            rec["official_last_seen"] = None
+
         # Community mentions (separate)
         if community_data:
             rec["community_mention_count"] = community_data["mentions"]
