@@ -29,4 +29,4 @@ Total mentions: **0**
 
 ## Biography
 
-See [[John Ermitage]] — "John" is the familiar name by which the founder of the Distant Worlds 3 expedition is known among his inner circle.
+"John" is the familiar name by which the founder of the Distant Worlds 3 expedition is known among his inner circle. See the full profile under John Ermitage.

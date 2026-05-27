@@ -29,4 +29,4 @@ Total mentions: **0**
 
 ## Biography
 
-See [[Elaine Howard]]. "Flight Major" is the rank she held during her service with the Alliance Scouting and Exploration Wing, reflected in the duty roster entries and comm logs from the Distant Worlds 3 expedition.
+"Flight Major" is the rank she held during her service with the Alliance Scouting and Exploration Wing, reflected in the duty roster entries and comm logs from the Distant Worlds 3 expedition. See the full profile under Elaine Howard.

@@ -29,4 +29,4 @@ Total mentions: **0**
 
 ## Biography
 
-See [[Quartermaster Timotheus Haddard]]. "Timotheus Haddard" and "Quartermaster Timotheus Haddard" refer to the same individual — the logistics officer who kept the Distant Worlds 3 fleet operational across its four-month trek.
+"Timotheus Haddard" and "Quartermaster Timotheus Haddard" refer to the same individual — the logistics officer who kept the Distant Worlds 3 fleet operational across its four-month trek. See the full profile under Quartermaster Timotheus Haddard.

@@ -25,4 +25,4 @@ Total mentions: **0**
 
 ## Biography
 
-See [[Rainbow's End]]. This entry refers to incidental mentions of the station in expedition records and communications where the full context was not yet established.
+This entry refers to incidental mentions of the station in expedition records and communications where the full context was not yet established. See the full profile under Rainbow's End.
