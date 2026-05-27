@@ -1,6 +1,6 @@
 ---
 uuid: 624e0f9c-6ee7-502b-ae42-632cb328d05c
-title: Return of the&nbsp;Vision
+title: Return of the Vision
 slug: return-of-the-vision
 date: '3311-02-15'
 source_url: https://ehorizonsblog.wordpress.com/2025/12/01/return-of-the-vision/
@@ -62,8 +62,7 @@ The pressure increased. The world tilted. Stars, a strange tone, a sense of urge
 
 The last thing she remembered was the glass rim of a water tumbler, ringing like a struck crystal as she fell, the droplets hanging in slow motion.
 
-***
-
+---
 White light, then soft dark. Headache. A slow return through layers of sound: a medevac’s inertial hum, a stretcher’s rattle. Her sister? Yes — Azalea’s voice pitched low and furious at a nurse who deserved neither. Smells arranged themselves — antiseptic, warm steel, the faint tang of recycled air cooled too fast.
 
 “Jas? Jas!” Azalea’s hand enclosed hers. “You’re in Olympus Village Medical. You gave us a fright.”

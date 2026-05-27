@@ -1,6 +1,6 @@
 ---
 uuid: 5983ab0c-b459-5549-99e9-c3a3893c3b62
-title: Rumors in the&nbsp;Black
+title: Rumors in the Black
 slug: rumors-in-the-black
 date: '3313-01-01'
 source_url: https://ehorizonsblog.wordpress.com/2026/02/03/rumors-in-the-black/
@@ -122,8 +122,7 @@ Jasmina smiled and then gestured to the captain.
 
 Captain Yuen nodded. “We’ll break the fleet into three sweeps. Leave it with me and Howard.”
 
-***
-
+---
 They found the beacon on the second day after arrival.
 
 Nor — a pilot from Colonia — was the first to catch it. “Science, I have a broadband squawk at 12.2 kHz above the soup. Wide and ugly. And odd. Modulation looks distressed. Origin near the ecliptic.”
@@ -140,7 +139,7 @@ There was a faint clunk from somewhere below the bridge.
 
 “Let’s go,” Jasmina said, heading towards the rear.
 
-The beacon was nothing the team anticipated. It was more akin to a satellite, ancient and comparably crude. Its casing had been patched with what looked like duct tape and angry welding. This was neither an emergency beacon nor was it contemporary ship equipment in any way. The paint on the side had once been fashionably orange. Someone had stencilled a half visible and discomforting “DSSA” with an Arc Cutter on its metal belly.&nbsp;
+The beacon was nothing the team anticipated. It was more akin to a satellite, ancient and comparably crude. Its casing had been patched with what looked like duct tape and angry welding. This was neither an emergency beacon nor was it contemporary ship equipment in any way. The paint on the side had once been fashionably orange. Someone had stencilled a half visible and discomforting “DSSA” with an Arc Cutter on its metal belly. 
 
 Jasmina’s stomach clenched. “This…,” she pointed at the satellite. “I have seen this before. I just…”
 
@@ -168,8 +167,7 @@ The camera drone slid close and took the kind of images administrators love. Sco
 
 Hermine sighed. “So she can save the day again from the comfort of her armchair.”
 
-***
-
+---
 Back in the bubble Lya had wasted no time. Analysts in fleet jumpsuits and borrowed lab coats fed the beacon data into a dozen open mouths of software and let them chew.
 
 “Spectral first,” Lya said. “The beacon’s wideband is trash but trash has fingerprints. Look for sidebands no one asked for. Look for a carrier…” She chuckled. “...on the carrier.”
@@ -194,8 +192,7 @@ Permit-locked.
 
 “Well, well, well… Curiouser and curiouser,” Lya breathed.
 
-***
-
+---
 Later that day Lya made her report.
 
 Hermine drew a breath. “Names?”
@@ -236,7 +233,7 @@ Hermine still looked uncomfortable.
 
 “So trap him,” Lya said, cheerfully unhelpful. “Rouse him with jam and judicious advice. Give him conundrums to guess.”
 
-All the others turned their heads towards the TelePro in unusual simultaneity.&nbsp;
+All the others turned their heads towards the TelePro in unusual simultaneity. 
 
 “What?” Lya protested. “No one said scientists can’t be poets! We’re hunting a Snark here, aren’t we?”
 

@@ -59,13 +59,13 @@ Tah pointed at all the charts.
 
 “And?” Tah asked.
 
-“Yes, and?” the third man at the displays asked. He was obviously quite old. Still, he stood upright, his arms crossed across the chest, looking at Toramund through his tinted blue glasses.&nbsp;
+“Yes, and?” the third man at the displays asked. He was obviously quite old. Still, he stood upright, his arms crossed across the chest, looking at Toramund through his tinted blue glasses. 
 
 “Well, we know the Guardians used six different frequencies to relay what they probably would have called short range transmissions. So a few hundred light years at best. Upon your request we activated one obelisk and simulated a complex network of interwoven communication bursts that should have agitated the whole network to autonomously start algorithmic calculations that would under given conditions have resulted in an activity magnitude of order 500.”
 
 “What do you mean, autonomously?” the old man asked. His calm and stern presence clearly made the assistant uneasy.
 
-“It’s pretty much like a COVAS or an autonomous library assistant. Self teaching and in a way self learning with each input; within legal limits of course.”&nbsp;
+“It’s pretty much like a COVAS or an autonomous library assistant. Self teaching and in a way self learning with each input; within legal limits of course.” 
 
 “I hate COVAS. Spiteful little things.” was all the old man had to say. The Engineer silently chuckled.
 
@@ -85,7 +85,7 @@ Ram Tah frowned, his thick, dark eyebrows forming a V above his eyes. “That do
 
 “Because it’s in pico-hertz.”
 
-&nbsp;“I’d say that’s impossible,” Tah mused.
+ “I’d say that’s impossible,” Tah mused.
 
 “Why?” came from the old man.
 
@@ -117,9 +117,9 @@ He shrugged.
 
 “Difficult to say, the Guardians surely acted on other time scales than we do. Changes may be minute and hard to spot at first, but with a network thousands of light years across even slight changes will have repercussions on the whole Guardian communication network.”
 
-“...which we suspect is far from wholly explored or even physically discovered, correct?” the old man asked.&nbsp;
+“...which we suspect is far from wholly explored or even physically discovered, correct?” the old man asked. 
 
-“Yeah.”&nbsp;
+“Yeah.” 
 
 “We need another dedicated approach to all this,” Ram Tah mused, a stern look on his face. “Maybe it’s local. No, hopefully it’s local. We need to check other sites and conduct the same measurements there. If the obelisks and whatnot still work as they always used to thousands of light years away, we may attribute this anomaly to something going on in the Bubble. Which is bad enough…”
 
@@ -129,7 +129,7 @@ He shrugged.
 
 The old man thought for a long moment. He seemed to weigh some options and quite possibly some heavy decisions. Finally, he turned to Ram Tah again.
 
-“As it happens, I know someone who is preparing a survey in the Conflux. Aren’t there Guardian ruins in the area? If so, he can probably be contacted and asked kindly if he could take the time and have a look.”&nbsp;
+“As it happens, I know someone who is preparing a survey in the Conflux. Aren’t there Guardian ruins in the area? If so, he can probably be contacted and asked kindly if he could take the time and have a look.” 
 
 “Awesome, and just what we need. Freelancers scrounging ancient ruins for trinkets and treasure, all to mask a try to figure out what is going on.”
 
@@ -141,7 +141,7 @@ The old man thought for another moment: “It’s been like that since I’ve be
 
 “That’s it!” Tah suddenly shouted. “Fuck me!”
 
-“What? I wasn’t finished with my accusations.”&nbsp;
+“What? I wasn’t finished with my accusations.” 
 
 “Think about it! Whatever happens there with the frequencies, if the glitch lies in Guardian technology and is affecting obelisks and pylons…”
 
@@ -159,6 +159,6 @@ The old man thought for another moment: “It’s been like that since I’ve be
 
 “No one,” the old man said without hesitation, although maybe he should have hesitated just a little.
 
-“Of course,” Tah nodded, equally with no sign of hesitation.&nbsp;
+“Of course,” Tah nodded, equally with no sign of hesitation. 
 
 It was what it was…

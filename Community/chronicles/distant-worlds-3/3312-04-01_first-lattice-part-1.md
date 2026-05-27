@@ -1,6 +1,6 @@
 ---
 uuid: 853efcd2-b655-5fa6-816f-e68139b2ca61
-title: First Lattice, Part&nbsp;1
+title: First Lattice, Part 1
 slug: first-lattice-part-1
 date: '3312-04-01'
 source_url: https://ehorizonsblog.wordpress.com/2026/02/20/first-lattice-part-1/
@@ -61,7 +61,7 @@ Engineer Ram Tah scratched his head, folding his big brows into the ‘V’ his 
 
 “I need the data from Jaques laid over the data we received yesterday from that carrier. The goo stuff. Then put their flight itinerary to the right and highlight where the expedition did their surveys. Only pick the bigger ones.”
 
-Turning to Toramund, he continued: “Set up telepresence to both send and receive, Tor. Audio only, otherwise it’ll burn through our capacitors.”&nbsp;
+Turning to Toramund, he continued: “Set up telepresence to both send and receive, Tor. Audio only, otherwise it’ll burn through our capacitors.” 
 
 Half an hour later all the displays were set neatly in a mostly helpful arrangement and the base’s TelePro buzzed happily until the receiver sprang to interstellar life. Expectations were high as this was the first telepresence comms attempt after the flotilla’s FTL arrays had been adjusted.
 
@@ -97,11 +97,11 @@ The head shaking was audible from this side of the galaxy.
 
 “Not much,” a voice echoed from behind the Engineer and his assistant. An old man stepped forward, neat grey suit and blue tinted glasses.
 
-“Interesting. Do I hear a Mister Ermitage?”&nbsp;
+“Interesting. Do I hear a Mister Ermitage?” 
 
 He didn’t bother to answer that.
 
-“I don’t put much trust in the Pilots’ Federation and their cartographers. You know that. Too much bias and too many stock options involved. Still, there are a few things of note. They don’t have many Eridanus-class cruisers because they are specifically designed and equipped for extended deep space survey missions.&nbsp;
+“I don’t put much trust in the Pilots’ Federation and their cartographers. You know that. Too much bias and too many stock options involved. Still, there are a few things of note. They don’t have many Eridanus-class cruisers because they are specifically designed and equipped for extended deep space survey missions. 
 
 But neither the PF nor UniCart use them very often. They require secondary crews in cryo stasis for such long operations. Too unpopular, too costly and with armies of freelance explorers exposing themselves to the dangers of deep space willingly, such assignments just aren’t necessary anymore. Buying their data is cheaper.”
 
@@ -121,15 +121,15 @@ There was a brief pause. “Yes?”
 
 “He does. He used to work for them. Well, in a way at least.”
 
-Silence.&nbsp;
+Silence. 
 
-“Are you still there?”&nbsp;
+“Are you still there?” 
 
 “Who is this guy?”
 
 The old man’s face darkened. “Believe it or not, he’s still on our side at this point.”
 
-“And I’d never thought I’d say that,” he pensively added.&nbsp;
+“And I’d never thought I’d say that,” he pensively added. 
 
 “At this point? What on Earth have you set us on here?” came the answer. It was Hermine Delarue’s voice, angry across a thousand light years. “Do you have an idea how dark it’s out here? And I mean in terms of puzzling this all together. Seriously, what were you thinking?”
 
@@ -167,7 +167,7 @@ The Engineer eyed Ermitage and Toramund, then continued: “The gist is, nobody 
 
 “And?”
 
-“And your Reuben Hale in Tionisla alluded that your Quirium Control Unit held an at least semi-autonomous assistance firmware at some point, meant to regulate the complex process of Quirium injection, while preventing the process from becoming uppity.”&nbsp;&nbsp;&nbsp;
+“And your Reuben Hale in Tionisla alluded that your Quirium Control Unit held an at least semi-autonomous assistance firmware at some point, meant to regulate the complex process of Quirium injection, while preventing the process from becoming uppity.”   
 
 “And you think the unit responds to what you call a hyper… hyper… Hell, I can’t even remember what it was! That lattice, because someone wants to control it? I remember Hale saying some GalCop projects ‘forgot themselves’. I thought that was a joke in Delaney’s direction for being…”
 
@@ -193,7 +193,7 @@ At this point you could hear rolling eyes on the bridge of one of the distant ca
 
 “And the crew?”
 
-“Whatever is at work here, it’s probably easier to break down organic matter than plastisteel or proto-alloys. You really found some nightmare stuff there, Jasmina.”&nbsp;
+“Whatever is at work here, it’s probably easier to break down organic matter than plastisteel or proto-alloys. You really found some nightmare stuff there, Jasmina.” 
 
 “We need to make sure no one finds it, not in a lifetime. Not ever. We are going to have DSSA destroy it.”
 
@@ -225,4 +225,4 @@ The Engineer chimed in again. “We’re pretty safe here, rest assured. I still
 
 “You’re not going to do anything stupid, Ram, are you?”
 
-“Me? No. I have an army of ghosts for that.”&nbsp;
+“Me? No. I have an army of ghosts for that.” 

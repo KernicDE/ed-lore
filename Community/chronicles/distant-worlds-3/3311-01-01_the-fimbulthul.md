@@ -15,8 +15,8 @@ sources:
 curated_by: ED Lore Project
 curated_date: '2026-05-27'
 summary: 'Historical overview of the Drake-class Carrier Fimbulthul, originally christened Shekinah in 3306. After participating in multiple deep space expeditions including Operation Caldwell 1 and the Ursa Major Stream Survey, the carrier was renamed and retrofitted with advanced sensor arrays. It served during the Thargoid Titan incursions, joined the Children Of The Core survey near the Great Annihilator, and was eventually assigned as a Deep Space Exploration Carrier for the Distant Worlds 3 expedition in the Orion region.'
-player_impact: 'The Fimbulthul served as one of the official fleet carriers for Distant Worlds 3, providing laboratory facilities and deep space sensor support to the expedition flotilla during its trek toward Orion and Barnard\'s Loop.'
-modern_impact: 'The carrier\'s history illustrates how civilian exploration vessels have been repurposed across major galactic events, from Formidine Rift investigations to Thargoid reconnaissance and deep space colonization efforts, reflecting the persistent tension between exploration and conflict in the galaxy.'
+player_impact: 'The Fimbulthul served as one of the official fleet carriers for Distant Worlds 3, providing laboratory facilities and deep space sensor support to the expedition flotilla during its trek toward Orion and Barnard''s Loop.'
+modern_impact: 'The carrier''s history illustrates how civilian exploration vessels have been repurposed across major galactic events, from Formidine Rift investigations to Thargoid reconnaissance and deep space colonization efforts, reflecting the persistent tension between exploration and conflict in the galaxy.'
 entities:
   - name: Fimbulthul
     type: technology

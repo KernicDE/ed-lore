@@ -1,6 +1,6 @@
 ---
 uuid: 7833fee5-2b7b-5763-83dc-6efdf4740878
-title: The End of the&nbsp;Rainbow
+title: The End of the Rainbow
 slug: the-end-of-the-rainbow
 date: '3312-06-15'
 source_url: https://ehorizonsblog.wordpress.com/2026/03/31/the-end-of-the-rainbow/
@@ -184,13 +184,12 @@ She drew herself up, visibly rearranging irritation into command.
 
 Jasmina smiled faintly. “That will do.”
 
-***
-
+---
 The build itself took on the character of all difficult things in deep space: first impossible, then inevitable.
 
-The logistics detachment altered course under a dozen technical pretexts. Miners fed the carriers. Fabricators ran hot for cycles on end. Construction crews assembled modules in the dark under a sky that offered no encouragement whatsoever. The chosen system lay on the borders of what Bubble astronomers had decided to be the Mare Somnia, the Sea of Dreams; and it lay some thousand light years below the galactic plane, isolated and remote.&nbsp;
+The logistics detachment altered course under a dozen technical pretexts. Miners fed the carriers. Fabricators ran hot for cycles on end. Construction crews assembled modules in the dark under a sky that offered no encouragement whatsoever. The chosen system lay on the borders of what Bubble astronomers had decided to be the Mare Somnia, the Sea of Dreams; and it lay some thousand light years below the galactic plane, isolated and remote. 
 
-A perfect place to hide and hatch plans.&nbsp;
+A perfect place to hide and hatch plans. 
 
 It also harboured the hidden vaults under a moon’s blasted surface and whoever used the lattice signature firmware saw the system’s white dwarf shimmering like heat on metal. Witch-space was close.
 
@@ -206,14 +205,13 @@ When the station’s skeleton finally locked into place above the designated wor
 
 There was a long pause.
 
-Then Jasmina, standing on the observation,&nbsp; said quietly, “This is literally the end of the rainbow.” She shrugged. “Call her Rainbow’s End.”
+Then Jasmina, standing on the observation,  said quietly, “This is literally the end of the rainbow.” She shrugged. “Call her Rainbow’s End.”
 
 No one argued with her.
 
 The name went into the registry. An Ocellus station, constructed not just in the back of beyond, but several light years away from the middle of nowhere and a number of parsecs off the edge of the map.
 
-***
-
+---
 The final fitting-out was where the theory turned dangerous.
 
 The old GalCop sensor array from the Fimbulthul was stripped and remounted into the station’s central spine. The prototype Meta-alloy radiation shielding from the science carrier’s protected compartments was fitted around the relevant systems in overlapping bands and realigned, not because anyone fully understood how it would work, but because Ram Tah’s models, Lya’s equations and Jasmina’s impossible testimony all pointed in the same direction. The alien alloys had an effect on the lattice.
@@ -272,13 +270,12 @@ Hermine studied her for a long moment, then nodded once.
 
 “Fine. We move.”
 
-***
-
+---
 It should have ended there. Naturally it didn’t.
 
 Instead, the news leaked.
 
-Not through official channels. Not in any clean way anyone could track. But within days the Bubble was thick with fragments: an ancient rogue AI in witch-space here, a hidden nexus archive there, a deep-space station built over… something… something that should not exist, a machine consciousness held at bay by alien tech and desperate improvisation. It was a mess, and apparently a calculated one.&nbsp;
+Not through official channels. Not in any clean way anyone could track. But within days the Bubble was thick with fragments: an ancient rogue AI in witch-space here, a hidden nexus archive there, a deep-space station built over… something… something that should not exist, a machine consciousness held at bay by alien tech and desperate improvisation. It was a mess, and apparently a calculated one. 
 
 It hit all three superpowers like a collision warning. A summit was convened, ironically about ‘unforeseen opportunities of technological exchanges’. Federation, Empire, Alliance. And Aegis.
 
@@ -320,8 +317,7 @@ Return. Submit. Or be hunted down and ‘encouraged to retire early’.
 
 The carriers buzzed with anger and disbelief. Pilots who had faced neutron stars and permit locks without complaint now stared at their own governments with open contempt. There were arguments, there was rage, there was fear. Eight thousand commanders suddenly found themselves persona non grata across every civilised world unless they returned immediately and handed themselves and their flight logs in. Bounty hunters were already preparing to cash in, en route to their location, weapons hot, waiting to claim this unexpected bonus. It would be like shooting highly prized fish in a barrel.
 
-***
-
+---
 Alessia Verdi heard the news. She wasn’t all that surprised. She had seen how the superpowers reacted when galactic events took unexpected turns.
 
 She found Jasmina in a side room off the station’s operations deck, looking at the latest bulletin as though she might shame it into becoming less stupid.
@@ -350,21 +346,20 @@ Alessia considered the question.
 
 “Nothing, really,” she said at last. “Except perhaps the satisfaction of reminding them that history has claws. I’ve named the file Salomé’s Requiem. They’ll know they are in trouble immediately when they see that. They’ll back off. If they don’t, release it publicly and watch the fireworks… but trust me, that won’t happen.”
 
-The two women regarded each other for a long moment.&nbsp;
+The two women regarded each other for a long moment. 
 
 “I’ll owe you one,” Jasmina said. “We all will.”
 
 “Yes,” Alessia said, with another faint smile. “You will. I may cash that in one day.”
 
-***
-
+---
 The blackmail, if that was the word for it, was conducted with remarkable elegance. The channels were quiet, precise and implied political lethality. Messages were sent, archives hinted at, confirmations implied. Names were invoked with surgical precision.
 
 And, because there were still some adults left in the galaxy, Ambassador Cuthrick Delaney stepped in before the thing became a constitutional bloodbath.
 
 By the time he arrived on the secure tri-power channel he had already done what seasoned diplomats do best: turned panic into process.
 
-The compromise he forged was ugly, sensible and therefore real. Rainbow’s End would remain operational. Deep Space Surveys, as the originators of the whole endeavour,&nbsp; would maintain it. Federation, Empire and Alliance would each provide observers and supervisory oversight. And of course Universal Cartographics would be allowed to the table as well. After all, it was all about science, wasn’t it?
+The compromise he forged was ugly, sensible and therefore real. Rainbow’s End would remain operational. Deep Space Surveys, as the originators of the whole endeavour,  would maintain it. Federation, Empire and Alliance would each provide observers and supervisory oversight. And of course Universal Cartographics would be allowed to the table as well. After all, it was all about science, wasn’t it?
 
 No one would destroy the station.
 
@@ -382,8 +377,7 @@ Something more cautious.
 
 Something like a truce.
 
-***
-
+---
 Later, standing on the outer promenade of Rainbow’s End, Jasmina looked out across the station that should not have existed and yet now shone quietly against the darkness.
 
 Below, somewhere beneath the crust of the lattice it watched over, the rogue AI remained trapped or muffled or slowed. Contained, for now, beneath layers of alloy, mathematics and human bloody-mindedness.

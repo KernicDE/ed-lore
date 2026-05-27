@@ -47,7 +47,7 @@ NGC 1981 Sector ZU-Y d27, 3311 AD
 
 She had wanted to take a day off to spend some time visiting the newest jewel of a world that had just been discovered in the Orion Cluster but a call from her ‘associate’ made sure that wasn’t an option anymore. So maybe another time…
 
-Right now she sat in her spacious office, the Deep Space Surveys logo proudly displayed on the wall where at first a life support monitor had been. It had all been set up in a rush but that was okay.&nbsp;
+Right now she sat in her spacious office, the Deep Space Surveys logo proudly displayed on the wall where at first a life support monitor had been. It had all been set up in a rush but that was okay. 
 
 On her associate’s request she had invited one of his numerous contacts who now sat at the other side of the synth wood table. She had a job for him. He just needed to be motivated to accept it and that was exactly what her associate mentioned could be a problem — a test of wills so to say.
 
@@ -61,7 +61,7 @@ He smiled gently. “Mister John then? The other ancient relic who always seems 
 
 “Oh, you mean Mister Ermitage? Thank you, that’s reassuring. As a matter of fact he asked me to meet with you. So I trust you know each other well?”
 
-He leaned back in the chair, apparently taking in the question. He kept smiling, but mostly to himself: “Just so, yes. We are what you may call very old friends.”&nbsp;
+He leaned back in the chair, apparently taking in the question. He kept smiling, but mostly to himself: “Just so, yes. We are what you may call very old friends.” 
 
 She nodded at her still extended hand and the old man in the red and black suit carefully shook it, then withdrew again in an instant. “Charmed. You may call me Cal.”
 
@@ -71,7 +71,7 @@ She bowed her head slightly.
 
 She summoned two tumblers from an invisible drawer in her desk and reached for the bottle on her table, rich amber ‘94 Lavian Brandy. She started pouring the first glass and looked at her guest. “May I offer you one? It’s from a private selection.”
 
-“No, thanks,” came the answer. “But please don’t let that deter you.”&nbsp;
+“No, thanks,” came the answer. “But please don’t let that deter you.” 
 
 “Thank you. And truth be told, the matter is somewhat delicate,” she said while shifting uneasily in her chair. “Deep Space Surveys was approached by a group of higher ups in the Pilots Federation. They were looking for what they called experienced survey specialists with a decent track record.”
 
@@ -123,7 +123,7 @@ Amused, Delarue took the bottle and the second tumbler, filled it with that glor
 
 “Equipment that their state-of-the-art cruiser has not?” He chuckled again, this time slightly more fiendish than before.
 
-“Don’t overthink it.”&nbsp;
+“Don’t overthink it.” 
 
 “No, it is just interesting,” he said, becoming all matter-of-factly again in an instant. “The Pilots Federation sits on a technological monopoly and together with their Dog Star pals they more or less dictate how space travel works. I thought with their modern firmware they are able to track a starship’s position through their fluid routers. I hear they run on entangled helium now.”
 
@@ -157,15 +157,15 @@ He leaned back in his chair, toying with his glass of Bandy. “That is the Umbr
 
 “Halsey?” she asked in surprise? That name! There were a number of recent events around the current Federal Ambassador, Jasmina Halsey, but she hadn’t realised the family name ran all the way back to the infant Alliance of Independent Systems.
 
-“The same,” Cal reinforced. “Did you know the Turners and the Halseys have a history? Captain Hieronymus Halsey was the great uncle of one of their best engineers. There had been rumors, of course,” he lectured. “People wondered back then how the Alliance was able to out-research long established powers like the Empire and the Federation. Some say it all came down to the disintegration of Galcop, the famous or infamous Galactic Cooperative. The rest they say is history…”&nbsp;&nbsp;
+“The same,” Cal reinforced. “Did you know the Turners and the Halseys have a history? Captain Hieronymus Halsey was the great uncle of one of their best engineers. There had been rumors, of course,” he lectured. “People wondered back then how the Alliance was able to out-research long established powers like the Empire and the Federation. Some say it all came down to the disintegration of Galcop, the famous or infamous Galactic Cooperative. The rest they say is history…”  
 
 Stunned, Delarue thought about the implications for a long moment. It all started to make sense — in a way. The troubling reports from Ermitage’s meeting with Ram Tah, the unannounced installation of a Galcop era sensor array on one of the Distant Worlds carriers, an expedition to the Guardian ruins, Jasmina Halsey’s recent statement on some cosmic peril, her strange trip to Tionisla; now the lost ships and Pilots Federation tech failing…
 
-She took a deep breath: “I have to say I don’t understand half of what you’re saying but I begin to see why Mister Ermitage referred me to you. Your knowledge could prove very valuable.”&nbsp;
+She took a deep breath: “I have to say I don’t understand half of what you’re saying but I begin to see why Mister Ermitage referred me to you. Your knowledge could prove very valuable.” 
 
 “Miss Delarue, you have to understand I still fail to see how I can help you with this matter. The past is the past, the lost ships and their presumed locations are intriguing, the Pilots Federation apparently being in dire straits is refreshing, but what is it exactly that you want from me?”
 
-‘Gotcha’, she thought.&nbsp;
+‘Gotcha’, she thought. 
 
 “You already answered that yourself, Cal: You seem to have deep insights about the unpredictables of space travel, especially hazards stemming from an earlier, less understood era. And you have a far reaching network of contacts. There may be things the Pilots Federation ignores, is unaware of or doesn’t tell us. Yes, they lost a top notch ship but do you really think that’s all there is to it?”
 
@@ -183,7 +183,7 @@ She sighed: “We would be happy to have you as a consultant on shall we say ‘
 
 “...but you feel that is where your unwanted involvements could begin,” he ended the non-question.
 
-“Precisely. Do you now see our predicament?”&nbsp;
+“Precisely. Do you now see our predicament?” 
 
 “Well, Miss Delarue,” he said, emptying the tumbler. “I am sure Mister Ermitage would agree that unwanted involvements are my specialty.”
 

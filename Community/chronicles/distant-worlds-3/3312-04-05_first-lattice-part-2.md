@@ -1,6 +1,6 @@
 ---
 uuid: f3877ce6-c434-5c1a-a1dd-05dd8a4ba92d
-title: First Lattice, Part&nbsp;2
+title: First Lattice, Part 2
 slug: first-lattice-part-2
 date: '3312-04-05'
 source_url: https://ehorizonsblog.wordpress.com/2026/02/24/first-lattice-part-2/
@@ -58,7 +58,7 @@ LOCKDOWN PROCEDURES IN PLACE! STANDBY FOR RESET… … …
 
 “What the fuck!” Engineer Ram Tah screamed across the workshop comms system. “It tries to insert itself into the system. Tor, lock down prio one and two systems. Do it now!”
 
-Looking through the plastisteel window of his workshop, Ram stared at the experiment he and Uwe had been setting up for two days: Embedded within what must have been hundreds of metres of cables and encased in a reinforced ceramic shell, a ribbed anthracite block, not larger than a conference suitcase, hung suspended in a magnetic field tube.&nbsp;
+Looking through the plastisteel window of his workshop, Ram stared at the experiment he and Uwe had been setting up for two days: Embedded within what must have been hundreds of metres of cables and encased in a reinforced ceramic shell, a ribbed anthracite block, not larger than a conference suitcase, hung suspended in a magnetic field tube. 
 
 There was no sign of activity whatsoever. And still that thing had sprung to a life of its own once it got its ‘incentive’.
 
@@ -66,7 +66,7 @@ Visibly alerted and perplexed, Uwe ran his fingers over the keyboard of not one,
 
 “Boss, I isolated life support and all external comms, broadband and FTL. Base integrity, landing pad force fields are intact. Up- and Download server isolated, base data seems secured.”
 
-He looked up. “What is that?”&nbsp;
+He looked up. “What is that?” 
 
 Looking at the experiment again, the Engineer’s face showed raw bewilderment. He started to type a few sequences into a keyboard of his own, lining Trimex code row after row until finally hitting enter. Real programming. It was old school but he liked it that way. Kept things simple.
 
@@ -76,7 +76,7 @@ Looking at the experiment again, the Engineer’s face showed raw bewilderment. 
 
 With his usual big ‘V’ brows Ram Tah hesitated for a moment, his face shifting from panic to fascination. “The matter synthesizer, Tor. Of all things. You remember our expedition friends mentioning they found decomposed matter? There is a purpose at work here, likely a very old one. What did radiocarbon say again?”
 
-Uwe glanced briefly at one of the smaller workshop displays. “Extremely lower range so not older than 300 years.”&nbsp;&nbsp;
+Uwe glanced briefly at one of the smaller workshop displays. “Extremely lower range so not older than 300 years.”  
 
 “Boss!” he added nervously. “Shall I isolate? It’s compromising the workshop.”
 
@@ -86,13 +86,12 @@ Uwe glanced briefly at one of the smaller workshop displays. “Extremely lower 
 
 “Well, in a way I guess. That thing is starting to peek around.” He smiled his ‘I found something interesting’ smile, then he turned to his keyboard again. “Now, now. Let’s see what you’re up to.”
 
-***
-
+---
 Telepresence. One of the marvels of the 34th century, but it had its limits. While it was possible to create a holo facsimile and talk face to face in this way, the extreme distance to the DW3 flotilla put a strain on the system each time they met. After all, all the signals still had to travel through hyperspace so there was a considerable delay and sometimes signal loss. So they had agreed to mostly use audio only.
 
 ‘They’ were Jasmina Halsey and Hermine Delarue from the DW3 “Odysseus” Flag Carrier, Astronomer Lya ter Holt from around Orion (hopefully) and Ram Tah from Meene in the Bubble.
 
-The Engineer had called for an emergency meeting and he was just giving them the brief.&nbsp;
+The Engineer had called for an emergency meeting and he was just giving them the brief. 
 
 “Remember a few days ago I said I needed to corroborate a few things,” he said. “I know I kept you in the dark but I had my reasons. Turns out they were not unfounded.”
 
@@ -100,7 +99,7 @@ The Engineer had called for an emergency meeting and he was just giving them the
 
 “I know. But I have some answers. So hear me out first. We can then discuss later.”
 
-“Very well.”&nbsp;
+“Very well.” 
 
 “So it goes like this: Every once in a while an unremarkable courier transport with a very unusual cargo pops up near Shin Dez. No one quite knows where they come from and their allegiance callsigns are usually fake. But if you have friends with friends there, you’ll know.”
 
@@ -144,7 +143,7 @@ Now, when you did your mass jumps at the World of Death there was a slight ampli
 
 There was an audible sigh. “Massive FSD engagements have often been speculated to create undesirable side effects in spacetime,” a weary Jasmina Halsey could be heard.
 
-“That’s from the Federal Astronomical Journal!” Lya cheered.&nbsp;
+“That’s from the Federal Astronomical Journal!” Lya cheered. 
 
 “Yeah, but picohertz is a bitch,” Ram spat. “After all, it's pretty close to gravitational waves. You need really dense matter. And had the distances been greater and hadn’t Lya been able to inject some of her ‘Temp’ equations with time being zero and whatnot, I probably wouldn’t have been able to detect them at all. But we now know where to look and I’m now able to run accelerated simulations so I can track them more easily.”
 
@@ -176,7 +175,7 @@ Sigh.
 
 “Lya, what’s your point?”
 
-“Well… Umm… In a nutshell it means hypertemporal space is easier to cross into or out of when you are close to a hyperdense mass. Theoretically. It’s classic relativity with a few perks of my own. A bit like Albert ter Holt. Or Amanda Einstein. Or whatever.&nbsp;
+“Well… Umm… In a nutshell it means hypertemporal space is easier to cross into or out of when you are close to a hyperdense mass. Theoretically. It’s classic relativity with a few perks of my own. A bit like Albert ter Holt. Or Amanda Einstein. Or whatever. 
 
 There is a lot of ‘hyper’ involved and those equations look more like ancient hieroglyphs,” she continued her cheerful rambling. “However, those new Caspians and their superduper-supercharges are the next best thing coming close. But they still can only extend jump ranges and not reduce hypertemporal transit time.”
 
@@ -188,7 +187,7 @@ There is a lot of ‘hyper’ involved and those equations look more like ancien
 
 “No, not strictly. The polymers are deconstructed, reorganized and then consume other materials. There is purpose and function at work but after some time the newly formed matter just… decomposes. Decays. Loses its structure. We talked about that. I have never seen anything like it but maybe that’s why this AI thing was very interested in my mass synthesizer.”
 
-“Ram, we have thousands of explorers out here. I need options and an action plan. We’re about to leave the Abyss and enter more frequently travelled space again. What’s your assumption?”&nbsp;
+“Ram, we have thousands of explorers out here. I need options and an action plan. We’re about to leave the Abyss and enter more frequently travelled space again. What’s your assumption?” 
 
 “Jasmina,” the Engineer said gravely. “Simply speaking, whatever this is, it’s feeding on gravity waves, bleeds through, uses Guardian technology as a carrier and is able to reorganize matter on a ship-size scale.”
 

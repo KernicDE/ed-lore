@@ -115,8 +115,7 @@ She saved it and met the captain’s eye. “Captain Yuen, I will need a room wi
 
 The captain’s mouth gave the smallest ghost of a smile. “You will have it. Follow me.”
 
-***
-
+---
 They took a glass-walled brief room immediately behind the bridge where the air still smelled of adhesive and fresh wiring. A star map unspooled along one wall. Two route planners hovered over it with the fussy tenderness of surgeons, overlays for scoopable stars and neutron superchargers already up. Hermine was there by telepresence, shoulders square, hair pinned by intent alone. Flight Major Elaine Howard had joined them on a secure line from her Whisky Wasp and Captain Yuen stood aside, looking at Jasmina.
 
 “Show me the cadence,” Hermine said without preamble.
@@ -137,7 +136,7 @@ Through her telepresence Hermine raised an eyebrow. “Interesting. I was recent
 
 “Who said that? The shadow I mean?” Jasmina demanded.
 
-“One of our donors, although one of the odder ones. But he certainly knows a lot about early era space travel.”&nbsp;
+“One of our donors, although one of the odder ones. But he certainly knows a lot about early era space travel.” 
 
 Howard literally could be heard rubbing her jaws over the comm. “DW3 already arcs that way. But we sure as hell didn’t gather three superpowers and a city of volunteers to ignore anomalies on day one. If we divert, how deep are you asking?”
 
@@ -173,8 +172,7 @@ Hermine pointed. “Yes. Publish a pattern. Every third ship stretches one segme
 
 “Do it,” the captain said.
 
-***
-
+---
 The fleet bulletin dropped ten minutes later. A gentle chime rolled along the bridge. The comms officer read it once, then again, then nodded. “Survey Refinement Alpha published to all wings. Neutron boost brief added.”
 
 Jasmina sent her field log to the DW3 buffer, a copy to Sol, one to Tionisla. Azalea’s reply arrived almost at once. Route accepted. Eat something. Sleep between legs. Cuthrick’s came a moment later. Your committees approve. I am bored already. Do something interesting and safe.

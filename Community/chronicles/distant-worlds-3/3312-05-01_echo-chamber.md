@@ -85,8 +85,7 @@ But she knew the symptoms well enough. Deep space missions always went like this
 
 The space madness was starting to show.
 
-***
-
+---
 Jasmina felt it too.
 
 Not in her mind.
@@ -117,8 +116,7 @@ The mind adapted poorly to infinity. Generation ships had discovered that long a
 
 Jasmina wondered if those early crews had felt it too. The sense of being observed by something that wasn’t using eyes.
 
-***
-
+---
 In Odysseus' primary bar, the mood had shifted from celebration to endurance.
 
 Pilots gathered out of habit rather than enthusiasm, drawn by gravity that had nothing to do with mass.
@@ -143,8 +141,7 @@ Not fear. Not yet. But… unease.
 
 The first cracks were appearing.
 
-***
-
+---
 Jasmina returned to the bridge and stood at the observation rail and watched the slow procession of ships preparing for the next jump cycle. Thousands of independent pilots, scientists, soldiers and dreamers, all suspended at the edge of known space.
 
 They had come seeking discovery. They had found questions instead.

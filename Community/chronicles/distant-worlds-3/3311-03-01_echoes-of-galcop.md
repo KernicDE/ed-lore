@@ -47,7 +47,7 @@ Tionisla, 3311 AD
 
 The annex smelled faintly of old metals and preservation oils. Display plinths held relics from a less cautious age: battered jump-beacons, scorched drive coils, a flight recorder whose housing had bubbled like toffee under heat. Holograms drifted above each piece, annotating manufacturers long since defunct: Cowell & MgRath, Kruger, Irrikon, Lance & Ferman — even the GalCop Standards Bureau.
 
-Jasmina Halsey walked between them with Azalea a soft presence at her shoulder.&nbsp;
+Jasmina Halsey walked between them with Azalea a soft presence at her shoulder. 
 
 Ambassador Cuthrick Delaney kept pace a few steps back, hands folded over his cane, the picture of diplomatic restraint. Public interest had surged the moment her arrival leaked; the main galleries thrummed with visitors and local press but the annex was quiet by design. A single glass wall looked out toward the Tionisla Orbital Graveyard, its glittering procession of sarcophagi sliding past on patient vectors.
 
@@ -195,7 +195,7 @@ Hale’s professional detachment frayed into awe. “Madam Presi— Jasmina,” 
 
 Cuthrick’s tone was gentle. “Either answer argues for extreme caution — and for keeping a proper chain of custody.”
 
-Hale set the wafer beside the unit.&nbsp;
+Hale set the wafer beside the unit. 
 
 “GalCop was less constrained by rules and regulations. They were the first to really explore the frontier. If they coupled emergent intelligence to hyperspace, those AIs might have somehow survived. GalCop’s collapse was rapid and unstructured. Much knowledge was lost and there were rumours of AIs escaping into the darkness.”
 
@@ -205,7 +205,7 @@ Jasmina shook her head. “No… that’s not it. But something they did — som
 
 Silence took the table for a beat, filled only by distant air handlers and the hush of the Graveyard beyond the glass.
 
-Halsey looked down at the Quirium Control Unit. Ugly and utilitarian, a tool for doing dangerous things in a controlled way — a fitting reliquary for a warning from the dark.&nbsp;
+Halsey looked down at the Quirium Control Unit. Ugly and utilitarian, a tool for doing dangerous things in a controlled way — a fitting reliquary for a warning from the dark. 
 
 “So what do I do?”
 

@@ -1,6 +1,6 @@
 ---
 uuid: 13854120-a7fa-5893-a44e-e1c9719be05b
-title: All along the&nbsp;Watchtower
+title: All along the Watchtower
 slug: all-along-the-watchtower
 date: '3312-03-15'
 source_url: https://ehorizonsblog.wordpress.com/2026/02/10/all-along-the-watchtower/
@@ -69,8 +69,7 @@ The image that came back filled the glass of one of the Odysseus’ holo-walls: 
 
 “Locator team, passive scans only,” Hermine directed. “Don’t wake it up. No telling what the hell is going on here. Be careful out there, we’re moving in.”
 
-***
-
+---
 Caution gave way to boredom, the carrier seemed utterly inert. Hermine eventually conceded they needed to find out more. She pulled up the duty roster: Elaine Howard and Hewley Jackman.
 
 “Oh… this is going to be fun,” Hermine said, shaking her head in amusement and tapping in the summons.
@@ -93,9 +92,8 @@ Elaine looked at her, across at Jasmina, who gave a small nod. Elain then looked
 
 “Let’s go then, we’ve got a job to do.”
 
-***
-
-They went in through a maintenance lock that had jammed open. Jasmina was with them, despite their concerns. “It’s the Quirium,” she had insisted. Silent nods and no complaints.&nbsp;
+---
+They went in through a maintenance lock that had jammed open. Jasmina was with them, despite their concerns. “It’s the Quirium,” she had insisted. Silent nods and no complaints. 
 
 The inner skin of that carrier told a story of haste and bad choices. Bulkheads patched with plastisteel. Storage racks welded where designers never meant them. A tang in the air like hot plastic and stressed electronics.
 
@@ -181,8 +179,7 @@ The bay had been purged. The interior was scorched and tarnished. Clamps showed 
 
 Jasmina shivered. This wasn’t the answer, neither was it the question. But this grey goo was involved. She knew that for sure.
 
-***
-
+---
 They pulled back to the Caspian following a thorough decontamination routine. Hermine took the lead with the patience of someone who likes plans more than surprises. The engineering teams were already pouring over the data from the log and the scans. Nadya Holdstock, their fuel wizard was present, too, her ponytail tucked away under her service cap as usual.
 
 “We can leave it to drift and hope it meets a star,” Hermine said. “It’s a graveyard based on what you’ve discovered. DSSA doesn’t seem to care anyway.”
@@ -203,7 +200,7 @@ She looked at Jasmina: “But add to this your curious Quirium Control Unit from
 
 “Nothing, just that there is a pattern of technology that today is poorly understood and exceedingly difficult to replicate.”
 
-Elaine stood with the bagged log in her hand, jaw set. “Let’s focus. There is a Mayday and we’re still missing people in a T-9,“ she said.&nbsp;
+Elaine stood with the bagged log in her hand, jaw set. “Let’s focus. There is a Mayday and we’re still missing people in a T-9,“ she said. 
 
 “We have no clue where they went,” Captain Yuen interrupted. “If that’s all you could pull from the logs, even with the current stellar density, it’s the proverbial haystack.“
 
@@ -233,4 +230,4 @@ Jasmina looked at the dark shape on the main screen. A nameless carrier with a n
 
 Jasmina watched the preparations and the orders. There was a slight sense of relief, but also foreboding. A premonition. She was beginning to understand… but there was much more left to learn.
 
-We’re on the right track… but where does it lead?&nbsp;
+We’re on the right track… but where does it lead? 

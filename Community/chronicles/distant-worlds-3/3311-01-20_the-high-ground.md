@@ -38,7 +38,7 @@ arc_id: distant-worlds-3
 
 NGC 1981 Sector ZU-Y d27, 3311 AD
 
-“The expedition launch site is taking shape. Congratulations, John.” The man wore a red and black pilot suit with his Remlok folded away. In his hands he held a Zoom-itTM visor, one of the fancy exploration gadgets that had found their way into the newly built colony.&nbsp;
+“The expedition launch site is taking shape. Congratulations, John.” The man wore a red and black pilot suit with his Remlok folded away. In his hands he held a Zoom-itTM visor, one of the fancy exploration gadgets that had found their way into the newly built colony. 
 
 The old man with his tinted glasses disparagingly looked at the visor, slightly shook his head and stared at the chain of four biodomes connected by corridor modules. There were three bigger habitats where the agri-labs had been installed and behind the windows the lighting was a disturbing green, which gave the base an eerie look.
 
@@ -58,7 +58,7 @@ On the loading ramp a woman with a simple tech outfit was directing a number of 
 
 “She is not really a technician, is she?” the suit asked. Both knew it was a rhetorical question.
 
-“She is what she must be,” the old man mused.&nbsp;
+“She is what she must be,” the old man mused. 
 
 “Her gait, her demeanour. No bullshit attitude and irritating all the males around her. Ex-Military then? I can’t place her accent but she uses military terms here and there.”
 
@@ -80,9 +80,9 @@ The suit sighed — and finally raised his voice (slightly) in obvious frustrati
 
 “You used me!”
 
-Rolling eyes.&nbsp;
+Rolling eyes. 
 
-“Oh no, not this again!&nbsp;
+“Oh no, not this again! 
 
 Yes we did. Now what? You think you have the moral high ground? Well, spoiler alert: You don’t. Because there is none. There never was. It’s space and it’s dangerous out there. You step out, you get a bloody nose. So next time you step out, make sure others will get one.”
 
@@ -108,7 +108,7 @@ With that the old man obviously wanted the conversation to stop — to no avail.
 
 “The Lanner was a gift from an old friend after my trusted Cobra suddenly couldn’t be trusted anymore.”
 
-“And where did you ‘acquire’ this sensor technology?”&nbsp;
+“And where did you ‘acquire’ this sensor technology?” 
 
 The suit again looked at the workers on the landing pad, still sweating and cursing under their workload. “Open market? The Alliance museum on Alioth?”
 
@@ -120,7 +120,7 @@ And with that the suit lost it. “You what?!”
 
 And with that the old man also nodded towards the pad and the Transorbital Dynamics crates. And ever so slightly a smile showed in the corner of his mouth.
 
-The suit seemed lost in his thoughts, staring silently across the newly built facilities, sometimes weighing his head.&nbsp;
+The suit seemed lost in his thoughts, staring silently across the newly built facilities, sometimes weighing his head. 
 
 He finally took a deep breath.“You know, there was a time where I would have reported you to my superiors.”
 

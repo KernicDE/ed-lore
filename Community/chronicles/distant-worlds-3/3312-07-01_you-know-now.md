@@ -92,7 +92,7 @@ Hermine stared at her for a long moment.
 
 Hermine remained calm, crossing her arms. “It’s your job. Simple as that. You are the Federal Envoy tasked to oversee an investigation, remember? You may be the AI’s pen friend but your real duty is being a Federal Envoy to the expedition. And to me as a rep of DSS.”
 
-“Are you serious?”&nbsp;
+“Are you serious?” 
 
 “I sure am. Staring into the void solves nothing. Neither does hoping you won a friend for life with this one. We need to figure out what all this really means. The wrecks, the matter manipulation, the AI in hyperspace, radio messages hundreds of years old, the myths about the Archer’s Shadow, implications for exploration… What does all this mean for us mortals reaching for the stars?”
 
@@ -100,7 +100,7 @@ Hermine remained calm, crossing her arms. “It’s your job. Simple as that. Yo
 
 “Well, for starters, you need to say thanks to all the explorers out there. You of all people. At times we have been honest with them and at times we have been gaslighting them. There is no way to frame it differently and were Lya here she would start babbling about her Snark hunting poem again, I guess.”
 
-Jasmina couldn’t do much more than look at Hermine, doubt slowly making way to more important things like duty and responsibility. They slowly flooded back into her beleaguered mind.&nbsp;
+Jasmina couldn’t do much more than look at Hermine, doubt slowly making way to more important things like duty and responsibility. They slowly flooded back into her beleaguered mind. 
 
 “Reality catches up with us, Jas. You need to make room for your species again. And you have the obligation to address them and their concerns,” she added. “You cannot assume that AI acts on human scales when it comes to morality and politeness. But all those explorers do.”
 
@@ -116,13 +116,13 @@ Hermine took another step towards her, resting her hands gently on her shoulders
 
 “Did you erase our records then?” Jasmina suddenly asked. “Flight logs, evac plans, neutron scans, all that goofy stuff? We cannot risk another leak making 8,000 explorers outcasts again. We used up nearly all our clout dealing with the last one and yes, I’m not even sure we’re welcome back home.”
 
-“We aren’t,” Hermine conceded. “Not us decision makers anyway. They’ll give us a standing ovation and some photo ops when we return, praise all our achievements ‘for all mankind’ and how we made history again. But in their minds they will never forget how we blackmailed ourselves back into their good graces.”&nbsp;
+“We aren’t,” Hermine conceded. “Not us decision makers anyway. They’ll give us a standing ovation and some photo ops when we return, praise all our achievements ‘for all mankind’ and how we made history again. But in their minds they will never forget how we blackmailed ourselves back into their good graces.” 
 
 She sighed.
 
 “Have you heard anything from our two elderly gentlemen?” Jasmina asked.
 
-“Nope. Ermitage left a voice message saying he still had to deal with a few contacts of his and from Cal there’s been radio silence since we last spoke and he essentially told me we had no business being where we were.”&nbsp;
+“Nope. Ermitage left a voice message saying he still had to deal with a few contacts of his and from Cal there’s been radio silence since we last spoke and he essentially told me we had no business being where we were.” 
 
 “What do you make of this?”
 
@@ -160,15 +160,14 @@ She shrugged. “Cal is Cal. There is just no knowing what he pulled or what he 
 
 “Holdstock?” Jasmina winced. “That’s just brilliant, thank you so much…”
 
-***
-
+---
 The Scarab made its way past the rows of ancient Guardian obelisks, head lights piercing the darkness. Jasmina had never been to a Guardian site before. Sure, all those reports she had consumed when the ruins had first been discovered but nothing compared to driving through a field of accurately placed silent watchers, tombstones or memorials that may or may not hold the secrets to the Guardians’ ultimate fate.
 
 ‘You were the Architects of Creation,’ Jasmina thought. ‘Why did you destroy yourselves?’
 
-There were other tracks in the ruins of course. Many pilots had been eager to get their boots and tyres on the ground, because space madness and all. And Lya was right: These Guardian ruins were far less explored than the scattered locations in the Bubble.&nbsp;
+There were other tracks in the ruins of course. Many pilots had been eager to get their boots and tyres on the ground, because space madness and all. And Lya was right: These Guardian ruins were far less explored than the scattered locations in the Bubble. 
 
-But right now she was alone, at least on the ground. She had ordered Hermine to assign her a time window without any other pilots around. They were all off to one of Alec’s races or something. Holdstock was still there, however. She had asked — no, insisted — to monitor the ride from low orbit in her Asp. At least they agreed the ruins were the last waypoint where they could reasonably find out if the euphemistically named ‘AI situation’ was contained. If the voices were really silent.&nbsp;
+But right now she was alone, at least on the ground. She had ordered Hermine to assign her a time window without any other pilots around. They were all off to one of Alec’s races or something. Holdstock was still there, however. She had asked — no, insisted — to monitor the ride from low orbit in her Asp. At least they agreed the ruins were the last waypoint where they could reasonably find out if the euphemistically named ‘AI situation’ was contained. If the voices were really silent. 
 
 If she was… alone again?
 
@@ -176,13 +175,13 @@ Her left hand began to tremble, the hand that had so often held the Quirium Cont
 
 ‘So many things you could have taught us… So many lessons you learned… Mistakes, insights, your wisdom, your visions, your… love and care for the cosmos…’
 
-Jasmina’s last ride in an SRV had been ages ago. A few visits on sponsored races, ground force training camps and in select R&D facilities as Federation President. And she also remembered one or two test drives in what could have become a prestigious ground based CQC but which was ultimately shelved because the cash was needed for augmenting the navy.&nbsp;
+Jasmina’s last ride in an SRV had been ages ago. A few visits on sponsored races, ground force training camps and in select R&D facilities as Federation President. And she also remembered one or two test drives in what could have become a prestigious ground based CQC but which was ultimately shelved because the cash was needed for augmenting the navy. 
 
-One of the few things she had agreed on with Hudson back in the day.&nbsp;&nbsp;
+One of the few things she had agreed on with Hudson back in the day.  
 
 “Halsey,” Nadya called through the SRV intercom, interrupting her past memories. “Did you notice the obelisks?”
 
-Perplexed by the sudden intrusion she looked around, seeing nothing but black silhouettes against the starlight. A city of standing stones.&nbsp;
+Perplexed by the sudden intrusion she looked around, seeing nothing but black silhouettes against the starlight. A city of standing stones. 
 
 “No? What of it?”
 
@@ -206,7 +205,7 @@ She drove back the way she came with the rows of obelisks left and right. When s
 
 “I will send you the footage I made. And then delete it. So see for yourself.”
 
-And what Jasmina Halsey saw was jaw dropping:&nbsp;
+And what Jasmina Halsey saw was jaw dropping: 
 
 From the bird's view she saw her SRV turning around and driving towards the perimeter point. As she saw her SRV passing the rows of obelisks, they reacted on either side, one by one, flashing in their signature turquoise colour for several seconds as mysterious symbols cascaded from top to bottom before going dark again.
 
@@ -216,14 +215,13 @@ An honour guard? An acknowledgement?
 
 “Yes. I see it.”
 
-She closed her eyes but the vision didn’t vanish. The neurolink felt warm and in her mind Jasmina Halsey saw it all in the blink of an eye: The obelisks in rhythm, not just here, but across the Milky Way, humming to a singular tune. The ruins were civilisation, on the surface of living orbs, the dust were people, the rocks were towers, reaching into the heavens and into the Connect… it was everywhere.&nbsp;
+She closed her eyes but the vision didn’t vanish. The neurolink felt warm and in her mind Jasmina Halsey saw it all in the blink of an eye: The obelisks in rhythm, not just here, but across the Milky Way, humming to a singular tune. The ruins were civilisation, on the surface of living orbs, the dust were people, the rocks were towers, reaching into the heavens and into the Connect… it was everywhere. 
 
 And after a small eternity she finally sensed the entity in the Connect that had spoken to her all this time.
 
 You know now. You have purpose. Now do.
 
-***
-
+---
 In another universe, the universe of corporations, bureaucracy, dealmaking and backstabbing, Hermine Delarue found herself in a telepresence meeting with none other than Cynthia Sideris, Chairwoman of Universal Cartographics. She had even requested a visual broadcast. And said she would pay for it.
 
 “Delly! How good it is to see you.”
@@ -232,7 +230,7 @@ The telepresence projector made Sideris sit on a couch, legs crossed, formal dre
 
 “Cynthia,” Hermine observed coolly. “Long time no see.”
 
-&nbsp;“Oh indeed. We must amend that, dear. I hear you will direct your entourage towards civilised space again in the near future. Do you already have any plans for June?”
+ “Oh indeed. We must amend that, dear. I hear you will direct your entourage towards civilised space again in the near future. Do you already have any plans for June?”
 
 “I guess I’ll just find my office desks full of paperwork and lecture requests.”
 
@@ -254,7 +252,7 @@ Without so much as a blink or wasting another second the cheerleader was the cha
 
 “Yes, exactly.”
 
-“Nothing. Apparently the active crew threw some shanties at Jaques Station, uploaded some of their survey data, probably as payment for their cocktails, and then went off into the unknown.”&nbsp;
+“Nothing. Apparently the active crew threw some shanties at Jaques Station, uploaded some of their survey data, probably as payment for their cocktails, and then went off into the unknown.” 
 
 “Hermine,” Sideris shook her head with fake disappointment. “We both know this is not the full story. Bar stories never start or end this way.”
 
@@ -300,7 +298,7 @@ Sideris just smiled, her face having turned into a fox having found the henhouse
 
 “What was the Guinevere doing out there? You don’t send out exploration cruisers with cryo crews on a whim. And why did we find the DSSA carrier near a permit locked sector? Were they looking for the Guardians?”
 
-“Well, we kindly asked you to find out, didn’t we? But sadly, you seem to have failed in uncovering their whereabouts.”&nbsp;&nbsp;
+“Well, we kindly asked you to find out, didn’t we? But sadly, you seem to have failed in uncovering their whereabouts.”  
 
 “So maybe they took all their secrets with them?”
 
@@ -308,19 +306,19 @@ Sideris just smiled, her face having turned into a fox having found the henhouse
 
 “Depends on how long you live,” Hermine muttered to herself.
 
-“I recently spoke with Zanetti. He said the Pilots’ Federation Safety Board had registered certain ‘irregularities’ in some of your explorers’ ships firmware. Seems like someone inserted some datamining worms looking for extraordinarily exotic data. Something with spacetime and superdense masses?”&nbsp;
+“I recently spoke with Zanetti. He said the Pilots’ Federation Safety Board had registered certain ‘irregularities’ in some of your explorers’ ships firmware. Seems like someone inserted some datamining worms looking for extraordinarily exotic data. Something with spacetime and superdense masses?” 
 
 The fox had just turned into a shark.
 
-“I can’t remember all the details but it seems a very explorer thing to do?”&nbsp;&nbsp;
+“I can’t remember all the details but it seems a very explorer thing to do?”  
 
-Then Sideris put on her ‘I’m so sorry’ look.&nbsp;
+Then Sideris put on her ‘I’m so sorry’ look. 
 
 “I don’t think I need to point out that tampering with PF firmware is, shall we say, heavily frowned upon?”
 
 Hermine decided to take it in strides. This was cleverly orchestrated and you best dealt with this kind of stunts level headed. Sideris alone was dangerous…
 
-“The flotilla was exonerated by the three Powers, Cynthia. I am not too fussed or even, shall we say, intimidated by a mapping company that can’t even track their own vessels in charted space. You asked DSS to investigate while en route and this is what we did.”&nbsp;
+“The flotilla was exonerated by the three Powers, Cynthia. I am not too fussed or even, shall we say, intimidated by a mapping company that can’t even track their own vessels in charted space. You asked DSS to investigate while en route and this is what we did.” 
 
 She made a short pause to let the slight sink in. Level headed, remember?
 

@@ -64,13 +64,13 @@ arc_id: distant-worlds-3
 
 DW3 Expedition Command, Veils Region, 3312 AD
 
-The data didn’t just trickle in. It nearly overloaded Fimbulthul’s already vast databanks and barely left any processing power for modelling the intake into a cohesive something. The thousand or so neutron stars that had been scanned by expedition Commanders over the last week provided a much needed insight into what they were actually tracking out here.&nbsp;
+The data didn’t just trickle in. It nearly overloaded Fimbulthul’s already vast databanks and barely left any processing power for modelling the intake into a cohesive something. The thousand or so neutron stars that had been scanned by expedition Commanders over the last week provided a much needed insight into what they were actually tracking out here. 
 
-In the one or two days that followed the galaxy spanning telepresence team had managed to puzzle a few pieces together. At one time they even included Jaques back in Colonia. And although most of the time he had limited himself to an “ah yes, that one” or a “this is probably as accurate as it gets”, his knowledge of old technologies on the other hand had come in more than handy.&nbsp;
+In the one or two days that followed the galaxy spanning telepresence team had managed to puzzle a few pieces together. At one time they even included Jaques back in Colonia. And although most of the time he had limited himself to an “ah yes, that one” or a “this is probably as accurate as it gets”, his knowledge of old technologies on the other hand had come in more than handy. 
 
 So with all that data Lya and Ram Tah had been able to come up with a simulation that could best be described as a fine network or lattice of filaments connecting ultra dense masses. And what was perplexing: This network also connected to locations with extreme hyperspace entry telemetry — their so-called mass jumps — and places that for lack of a better term could only be described as anomalies — points of interest that didn’t fit into one of the prior categories. Purpose unknown or unconfirmed. It was a gigantic spider’s web laid onto the Milky Way. It was absurd to not think a hidden purpose lay behind all this. Caretakers, architects…
 
-Interestingly, Colonia was one of these anomalies. The Guardian ruins in the Synuefe and Wregoe sectors near the Bubble were others. And Tionisla of all places. There were a few more and some of them were quite concerning. Some were very concerning. Some of them were permit locked.&nbsp;
+Interestingly, Colonia was one of these anomalies. The Guardian ruins in the Synuefe and Wregoe sectors near the Bubble were others. And Tionisla of all places. There were a few more and some of them were quite concerning. Some were very concerning. Some of them were permit locked. 
 
 “There!” a holographic Lya pointed her finger right into the equally holographic display they were all sharing. “The models don’t lie. This… this lattice is real. I mean in the sense that it exists and can be measured. And on top of that it shows we ‘Temps’ may have a point with our highly unconventional zero time continuum thingie after all.”
 
@@ -82,7 +82,7 @@ Ram’s holographic brows formed their characteristic ‘V’.
 
 “Oh I know! I mean when DW3 is over. I need to publish this once the models are tried and tested. Don’t worry, Ram, you’ll be credited.”
 
-At that point Jasmina Halsey interrupted.&nbsp;
+At that point Jasmina Halsey interrupted. 
 
 “Not so fast with our galactic horses. We need to put it all to work here. We have unfinished business with our friends in witch-space and some AI that tries to reconfigure matter for reasons unknown. This is not for academic publication but for fleet communication. Any guesses? We need to tell our 8,000 Commanders something.”
 
@@ -108,13 +108,12 @@ Jasmina shifted from one foot to the other, a rare sign of nervosity.
 
 “Noted,” was all Jasmina had to say to this.
 
-***
-
+---
 First it was an anomaly, a shiver in their filament, but it was pointing somewhere promising: a neutron star in a bright supernova remnant. Because of its location and colors earlier explorers had dubbed it the Veil’s Ember. It was one of the more prominent locations in this remote area of the Milky Way so the team was surprised to have it show up on the diagrams at all.
 
 They had managed to give the lattice a visual form in all their simulations. Right now it was like a thin fabric laid on a liquid surface that was the galaxy. It came complete with ripples and eddies and around the Ember remnant the holoprojector showed a blurred eddie, maybe some fifty light years in diameter. It was… science beautified.
 
-“There,” Lya said. “We found it roughly two hours ago. It’s a strong signal and it’s singing in perfect harmony with your lattice signature and with what we would call a density event. Mathematically speaking it’s a perfect equation. We can’t pinpoint its exact location, though, the model isn’t refined enough.”&nbsp;
+“There,” Lya said. “We found it roughly two hours ago. It’s a strong signal and it’s singing in perfect harmony with your lattice signature and with what we would call a density event. Mathematically speaking it’s a perfect equation. We can’t pinpoint its exact location, though, the model isn’t refined enough.” 
 
 “Singing?” Jasmina frowned
 
@@ -156,11 +155,10 @@ Nadya just looked at her, her face expressionless.
 
 Jasmina hesitated for a good moment, apparently wrestling with her composure. One final glare at Nadya, but finally responsibility won over.
 
-“Good. Let’s go sightseeing then. Tell Jacky to take out his Krait. I want him around when we find out more. Elaine will stay with me on the Odysseus, coordinating things from here.”&nbsp;
+“Good. Let’s go sightseeing then. Tell Jacky to take out his Krait. I want him around when we find out more. Elaine will stay with me on the Odysseus, coordinating things from here.” 
 
-***
-
-The anomaly turned from a shiver in the fabric into a solid wreckage; another one. Intrepid Commanders found it near the Ember in a somewhat unremarkable system. Jacky Hew was still out with them. It was unusual the wreckage had lain hidden for so long but the multitude of stellar bodies in the system along with some probable earlier explorer’s space boredom may have been parts of the reason.&nbsp;
+---
+The anomaly turned from a shiver in the fabric into a solid wreckage; another one. Intrepid Commanders found it near the Ember in a somewhat unremarkable system. Jacky Hew was still out with them. It was unusual the wreckage had lain hidden for so long but the multitude of stellar bodies in the system along with some probable earlier explorer’s space boredom may have been parts of the reason. 
 
 The wreckage itself was huge, bigger than the hapless T-9 they found near the Seldowitch Nebula a month ago. It was an Anaconda-class vessel, half buried in the moon’s regolith, half broken with parts strewn around. It wasn’t long before SRV teams were on site, trying to uncover the ship’s fate.
 
@@ -194,7 +192,7 @@ Nadya just shot him a glare through the projector that immediately shut him up, 
 
 “BTS was contracted by the original Anaconda manufacturer, RimLiner Galactic. RimLiner in turn was bought up by Faulcon Manspace in the early 2900s, before they even merged with deLacy Shipworks. This means our Anaconda is a very old model. Probably first or second generation. A barely visible ‘RLG’ marking on the bow corroborates this.”
 
-Silence.&nbsp;&nbsp;
+Silence.  
 
 “There is more,” Nadya added. “If it is a RimLiner model this would imply it must have had a Quirium hyperdrive with a probable maximum range of fourteen light years. Maybe twenty-eight before refueling. Sadly, the wreck’s drive section disintegrated. However, for all we know there was no means to manufacture Quirium outside of inhabited space. This means it is extremely unlikely this ship could have made it here on its own.”
 
@@ -212,10 +210,9 @@ They looked at her.
 
 She then turned to Delarue: “You have the flotilla. Take them along the expedition itinerary. I’m taking the Quest and scout ahead. I need to see a few things for myself. Or rather feel. I’ve been chained to the ready rooms for too long. We’ll meet up at the next waypoint. Until then, have the TeleTeam find out what they can.”
 
-“Yessir!” Whether in earnest or in friendly mockery, DSS Operations Executive Hermine Delarue stood at attention and saluted, leaving an even more confused and head shaking Jasmina storm off the bridge.&nbsp;
+“Yessir!” Whether in earnest or in friendly mockery, DSS Operations Executive Hermine Delarue stood at attention and saluted, leaving an even more confused and head shaking Jasmina storm off the bridge. 
 
-***
-
+---
 “What do you mean, she’s gone?” Elaine Howard turned to Flight Lieutenant Moyers of Odysseus. “Of course she’s gone. She registered her FSD jump and flight plan a minute ago. What’s the problem?”
 
 “Ma’am, I don’t know if it’s a problem at all.”
@@ -232,13 +229,13 @@ She then turned to Delarue: “You have the flotilla. Take them along the expedi
 
 Eight minutes and thirty-two seconds later they had their reports: No ship, no mass lock and most importantly no high wake. But the very same location their “Lattice Signature” firmware picked up a massive… something. It was like a dissolving tissue in water, a fabric that had been there but now wasn’t. Something… fading? Or maybe closing?
 
-“A portal collapse?” Elaine mused, looking at the data. “It’s similar to a carrier jump pattern. No conventional FSD spool-up and no high wake.”&nbsp;
+“A portal collapse?” Elaine mused, looking at the data. “It’s similar to a carrier jump pattern. No conventional FSD spool-up and no high wake.” 
 
 “But not even a Caspian can do that,” Moyers said.
 
-“No. But maybe something else can.”&nbsp;
+“No. But maybe something else can.” 
 
-Or someone… she thought.&nbsp;
+Or someone… she thought. 
 
 “Inform the fleet, ma’am?”
 
@@ -246,9 +243,8 @@ Or someone… she thought.&nbsp;
 
 “Very well, ma’am. I’ll log the event as Alpha-1 confidential.”
 
-***
-
-In her Asp Explorer, the Inscrutable Sanctuary, Nadya entered a series of commands into the comms console. She was a jump out from the Ember, knowing the neutron star could have jeopardized the precision alignment of the Sanctuary’s FTL dish. After having entered a final code sequence the small holofac came to life, projecting the image on an old man.&nbsp;
+---
+In her Asp Explorer, the Inscrutable Sanctuary, Nadya entered a series of commands into the comms console. She was a jump out from the Ember, knowing the neutron star could have jeopardized the precision alignment of the Sanctuary’s FTL dish. After having entered a final code sequence the small holofac came to life, projecting the image on an old man. 
 
 “Mir, earlier than agreed on. What is it?”
 
@@ -258,8 +254,8 @@ In her Asp Explorer, the Inscrutable Sanctuary, Nadya entered a series of comman
 
 “No, she is scouting ahead in her Caspian. She is confused and I assume she wants closure or confirmation on her loose ends. She took the Q-Unit with her.”
 
-“Good. Her debrief mustn’t go out. We have&nbsp; enough trouble covering up Ram Tah’s interesting experiment. The chance of leaks is too great. See to it, Child.”
+“Good. Her debrief mustn’t go out. We have  enough trouble covering up Ram Tah’s interesting experiment. The chance of leaks is too great. See to it, Child.”
 
 “Understood.”
 
-And with that she terminated the short exchange and leaned back in her pilot seat, marvelling at the beauty of the Ember.&nbsp;
+And with that she terminated the short exchange and leaned back in her pilot seat, marvelling at the beauty of the Ember. 
