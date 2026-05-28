@@ -3,8 +3,8 @@ id: leon-banerjee
 name: Leon Banerjee
 type: person
 first_seen_date: '3305-01-04'
-last_seen_date: '3310-03-12'
-mention_count: 7
+last_seen_date: '3312-05-28'
+mention_count: 8
 bio: 'Leon Banerjee is a Commander in Elite Dangerous lore, active from 3305-01-04
   to 3310-03-12. Affiliated with Vox Galactica, Aegis. Notable activities include:
   The second Distant Worlds expedition prepares to launch, with nearly four thousand

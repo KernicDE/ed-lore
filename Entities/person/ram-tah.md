@@ -3,8 +3,8 @@ id: ram-tah
 name: Ram Tah
 type: person
 first_seen_date: '3302-11-03'
-last_seen_date: '3312-04-16'
-mention_count: 68
+last_seen_date: '3312-05-28'
+mention_count: 69
 related_entities:
 - sirius-corporation
 - alba-tesreau

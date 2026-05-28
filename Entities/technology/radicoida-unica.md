@@ -3,8 +3,8 @@ id: radicoida-unica
 name: Radicoida unica
 type: technology
 first_seen_date: '3311-11-13'
-last_seen_date: '3312-04-15'
-mention_count: 8
+last_seen_date: '3312-05-28'
+mention_count: 9
 bio: 'Radicoida unica is a technology in Elite Dangerous, mentioned from 3311-11-13
   to 3312-04-15. Used by October Consortium, Holloway Bioscience Institute, Alliance.
   Key developments: All major Powers deploy fleets to the HIP 87621 enclave after

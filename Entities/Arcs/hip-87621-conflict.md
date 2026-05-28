@@ -2,8 +2,8 @@
 id: hip-87621
 name: HIP 87621 Conflict
 first_seen_date: '3311-09-02'
-last_seen_date: '3312-04-16'
-mention_count: 22
+last_seen_date: '3312-05-28'
+mention_count: 23
 significance: medium
 key_entities:
 - october-consortium
@@ -17,14 +17,20 @@ description: The unfolding mystery surrounding the permit-locked HIP 87621 syste
   claims fueled widespread speculation.
 summary: A permit-locked system mystery that sparked speculation about hidden superpower
   projects and alien encounters, remaining largely classified.
-status: Resolved
+status: Ongoing
 outcome: The October Accords placed HIP 87621 under corporate custodianship, with
   the October Consortium chairing neutrality between Imperial, Alliance, and independent
   powers. The Federation was excluded, having lost its foothold during the conflict.
+  In May 3312, Ram Tah confirmed Guardian Archive passages describing seed-pod derived
+  substances used by traditionalist Guardian factions, with biological schematics closely
+  matching Radicoida unica. The discovery was leaked to the October Consortium, prompting
+  their sudden interest in Guardian artefacts and raising questions about corporate
+  exploitation of xenoarchaeological findings.
 phases:
 - 'Phase 1: The Lockdown (3311-09-02)'
 - 'Phase 2: The Enclave Conflict (3311-11-27)'
 - 'Phase 3: The October Accords (3312-02-20)'
+- 'Phase 4: Guardian Connection Revealed (3312-05-28)'
 ---
 
 

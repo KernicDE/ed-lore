@@ -3,8 +3,8 @@ id: vox-galactica
 name: Vox Galactica
 type: faction
 first_seen_date: '3304-09-12'
-last_seen_date: '3312-05-07'
-mention_count: 31
+last_seen_date: '3312-05-28'
+mention_count: 32
 related_entities:
 - pilots-federation
 - interstellar-health-organisation
