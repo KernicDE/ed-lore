@@ -1,12 +1,15 @@
-const CACHE_NAME = 'galnet-chronicle-v1';
+const CACHE_NAME = 'galnet-chronicle-v2';
 const STATIC_ASSETS = [
-  '/ed-lore/',
-  '/ed-lore/index.html',
   '/ed-lore/manifest.json',
   '/ed-lore/favicon.svg',
   '/ed-lore/favicon.ico',
   '/ed-lore/robots.txt',
 ];
+
+// Navigation requests (index.html) are never cached — always fetch fresh
+function isNavigationRequest(request) {
+  return request.mode === 'navigate' || request.destination === 'document';
+}
 
 // Install: cache static assets
 self.addEventListener('install', (event) => {
@@ -37,13 +40,19 @@ self.addEventListener('activate', (event) => {
 // Fetch: network-first with cache fallback
 self.addEventListener('fetch', (event) => {
   const { request } = event;
-  
+
   // Skip non-GET requests
   if (request.method !== 'GET') return;
-  
+
   // Skip external requests
   if (!request.url.startsWith(self.location.origin)) return;
-  
+
+  // Navigation requests: always go to network, never cache
+  if (isNavigationRequest(request)) {
+    event.respondWith(fetch(request));
+    return;
+  }
+
   event.respondWith(
     fetch(request)
       .then((response) => {
@@ -60,10 +69,6 @@ self.addEventListener('fetch', (event) => {
         // Fallback to cache
         return caches.match(request).then((cached) => {
           if (cached) return cached;
-          // For navigation requests, fallback to index.html
-          if (request.mode === 'navigate') {
-            return caches.match('/ed-lore/index.html');
-          }
           throw new Error('Network and cache both failed');
         });
       })

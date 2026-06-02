@@ -383,21 +383,41 @@ html, body {
 .timeline-badge.arc {
   border-color: var(--elite-blue-dim);
   color: var(--elite-blue);
+  cursor: pointer;
+}
+.timeline-badge.arc:hover {
+  border-color: var(--elite-blue);
+  background: rgba(0, 160, 255, 0.08);
 }
 
 .timeline-badge.topic {
   border-color: var(--border-glow);
   color: var(--text-secondary);
 }
+.timeline-badge.topic:hover {
+  border-color: var(--text-secondary);
+  color: var(--text-primary);
+  background: rgba(255, 255, 255, 0.05);
+}
 
 .timeline-badge.chronicle {
   border-color: var(--elite-blue-dim);
   color: var(--elite-blue);
+  cursor: pointer;
+}
+.timeline-badge.chronicle:hover {
+  border-color: var(--elite-blue);
+  background: rgba(0, 160, 255, 0.08);
 }
 
 .timeline-badge.cmdr-log {
   border-color: var(--elite-green-dim);
   color: var(--elite-green);
+  cursor: pointer;
+}
+.timeline-badge.cmdr-log:hover {
+  border-color: var(--elite-green);
+  background: rgba(0, 255, 128, 0.08);
 }
 
 /* ── Entity Cards ───────────────────────────────────────────────────────── */

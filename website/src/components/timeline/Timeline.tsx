@@ -317,7 +317,9 @@ export default function Timeline({
     return () => el.removeEventListener('scroll', update);
   }, [articles, onCenterDateChange, onScrollUpdate, onVisibleArticlesChange]);
 
-  const handleHeaderClick = useCallback((art: Article) => {
+  const handleHeaderClick = useCallback((e: React.MouseEvent, art: Article) => {
+    const target = e.target as HTMLElement;
+    if (target.closest('.timeline-badge, a, button')) return;
     onArticleSelect(selectedArticle?.uuid === art.uuid ? null : art);
   }, [onArticleSelect, selectedArticle]);
 
@@ -452,25 +454,55 @@ export default function Timeline({
                 {/* Clickable header */}
                 <div
                   className="timeline-header"
-                  onClick={() => handleHeaderClick(art)}
                 >
                   <div style={{ flex: 1, minWidth: 0 }}>
-                    <div className="timeline-date">{art.date}</div>
-                    <div className="timeline-title">{art.title}</div>
-                    {!isSelected && art.summary && (
-                      <div className="timeline-preview ai-content">{art.summary}</div>
-                    )}
+                    <div onClick={(e) => handleHeaderClick(e, art)} style={{ cursor: 'pointer' }}>
+                      <div className="timeline-date">{art.date}</div>
+                      <div className="timeline-title">{art.title}</div>
+                      {!isSelected && art.summary && (
+                        <div className="timeline-preview ai-content">{art.summary}</div>
+                      )}
+                    </div>
                     <div className="timeline-meta ai-content-flex">
                       {art.category && art.category !== 'galnet' && (
-                        <span className={`timeline-badge ${art.category}`}>
+                        <button
+                          className={`timeline-badge ${art.category}`}
+                          onClick={(e) => {
+                            e.stopPropagation();
+                            onToggleCategory?.(art.category!);
+                          }}
+                          style={{
+                            background: 'transparent',
+                            font: 'inherit',
+                            cursor: onToggleCategory ? 'pointer' : 'default',
+                          }}
+                        >
                           {art.category === 'chronicle' ? '📖 Chronicle' : art.category === 'cmdr-log' ? '✎ CMDR Log' : art.category}
-                        </span>
+                        </button>
                       )}
                       {art.arc_id && (
-                        <span className="timeline-badge arc">{art.arc_id.replace(/-/g, ' ')}</span>
+                        <a
+                          href={`${baseUrl}/arc/${art.arc_id}/`}
+                          className="timeline-badge arc"
+                          onClick={(e) => e.stopPropagation()}
+                          style={{ textDecoration: 'none' }}
+                        >
+                          {art.arc_id.replace(/-/g, ' ')}
+                        </a>
                       )}
                       {art.topics.slice(0, 2).map((t) => (
-                        <span key={t} className="timeline-badge topic">{t}</span>
+                        <button
+                          key={t}
+                          className="timeline-badge topic"
+                          onClick={(e) => e.stopPropagation()}
+                          style={{
+                            background: 'transparent',
+                            font: 'inherit',
+                            cursor: 'default',
+                          }}
+                        >
+                          {t}
+                        </button>
                       ))}
                     </div>
                   </div>
