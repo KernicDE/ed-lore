@@ -473,7 +473,6 @@ export default function Timeline({
                           }}
                           style={{
                             background: 'transparent',
-                            font: 'inherit',
                             cursor: onToggleCategory ? 'pointer' : 'default',
                           }}
                         >
@@ -497,7 +496,6 @@ export default function Timeline({
                           onClick={(e) => e.stopPropagation()}
                           style={{
                             background: 'transparent',
-                            font: 'inherit',
                             cursor: 'default',
                           }}
                         >
