@@ -4,7 +4,7 @@ name: Lady Zi Pirate Coalition
 type: arc
 start_date: '3312-04-23'
 end_date: null
-article_count: 4
+article_count: 5
 key_entities:
 - Lady Zi
 - Mira Bukowski
@@ -18,6 +18,7 @@ phases:
 - 'Phase 2: Lhou Mans Starport Attacks (3312-05-11)'
 - 'Phase 3: Evacuation and Aftermath (3312-05-14)'
 - 'Phase 4: Starport Recovery and Return to Operation (3312-05-21)'
+- 'Phase 5: Criminal Fleet Sightings and Malware Spread (3312-06-01)'
 summary: The emergence of Lady Zi as a coordinated criminal threat in the core systems,
   beginning with raids on military outposts and escalating to full starport attacks in
   Lhou Mans. The twin-axe malware signature and probing tactics suggest a highly organised,
@@ -25,7 +26,11 @@ summary: The emergence of Lady Zi as a coordinated criminal threat in the core s
 status: Ongoing
 outcome: Defence forces successfully repelled the Lhou Mans attackers, completed civilian
   evacuation, and restored all damaged starports to full operation. However, Lady Zi
-  remains at large and analysts warn the attacks were merely a 'test run' for larger operations.
+  remains at large. By June 3312, new reports emerged of a criminal fleet with unidentified
+  markings operating across multiple systems, accompanied by malware bearing the same
+  sigils used in the Lhou Mans attack. Frontline Solutions CEO Imogen le Ray announced
+  expanded anti-criminal services in response, suggesting the conflict is entering a
+  new phase.
 significance: medium
 ---
 
