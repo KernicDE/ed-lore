@@ -378,6 +378,9 @@ html, body {
   border: 1px solid var(--border-glow);
   color: var(--text-dim);
   letter-spacing: 0.5px;
+  display: inline-block;
+  line-height: 1.4;
+  text-decoration: none;
 }
 
 .timeline-badge.arc {
