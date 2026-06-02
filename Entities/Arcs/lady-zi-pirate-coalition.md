@@ -15,10 +15,8 @@ description: A rogue pirate admiral known as Lady Zi unites a coalition of pirat
   core systems using twin-axe malware as a calling card.
 phases:
 - 'Phase 1: Coordinated Raids on Military Outposts (3312-04-23)'
-- 'Phase 2: Lhou Mans Starport Attacks (3312-05-11)'
-- 'Phase 3: Evacuation and Aftermath (3312-05-14)'
-- 'Phase 4: Starport Recovery and Return to Operation (3312-05-21)'
-- 'Phase 5: Criminal Fleet Sightings and Malware Spread (3312-06-01)'
+- 'Phase 2: Lhou Mans Starport Attack — Assault, Evacuation and Recovery (3312-05-11 to 3312-05-21)'
+- 'Phase 3: Criminal Fleet Sightings and Malware Spread (3312-06-01)'
 summary: The emergence of Lady Zi as a coordinated criminal threat in the core systems,
   beginning with raids on military outposts and escalating to full starport attacks in
   Lhou Mans. The twin-axe malware signature and probing tactics suggest a highly organised,
