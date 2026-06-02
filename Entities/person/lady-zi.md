@@ -3,8 +3,8 @@ id: lady-zi
 name: Lady Zi
 type: person
 first_seen_date: '3312-05-11'
-last_seen_date: '3312-05-11'
-mention_count: 1
+last_seen_date: '3312-06-01'
+mention_count: 2
 related_entities:
 - vox-galactica
 - lhou-mans
@@ -16,8 +16,8 @@ related_entities:
 # Lady Zi
 
 First mentioned: **3312-05-11**  
-Last mentioned: **3312-05-11**  
-Total mentions: **1**
+Last mentioned: **3312-06-01**  
+Total mentions: **2**
 
 ## Related
 

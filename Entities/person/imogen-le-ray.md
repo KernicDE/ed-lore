@@ -3,11 +3,13 @@ id: imogen-le-ray
 name: Imogen le Ray
 type: person
 first_seen_date: '3307-12-26'
-last_seen_date: '3308-04-21'
-mention_count: 2
-bio: 'Imogen le Ray is a prominent figure in the Elite Dangerous universe, active
-  from 3307-12-26 to 3308-04-21. Closely associated with Frontline Solutions, Federal
-  Navy, Alliance. '
+last_seen_date: '3312-06-01'
+mention_count: 3
+bio: 'Imogen le Ray is the CEO of Frontline Solutions, a prominent mercenary
+  contracting firm. She first appeared in 3307 during the expansion of private military
+  services in the core systems and has since steered the company through multiple
+  conflicts. In June 3312 she announced expanded anti-criminal services in response
+  to rising piracy and malware attacks linked to the Lady Zi syndicate.'
 ---
 
 
@@ -17,12 +19,12 @@ bio: 'Imogen le Ray is a prominent figure in the Elite Dangerous universe, activ
 # Imogen le Ray
 
 First mentioned: **3307-12-26**  
-Last mentioned: **3308-04-21**  
-Total mentions: **2**
+Last mentioned: **3312-06-01**  
+Total mentions: **3**
 
 ## Related
 
 
 ## Biography
 
-*[To be enriched]*
+Imogen le Ray is the CEO of Frontline Solutions, a prominent mercenary contracting firm that provides combat pilots and security forces to factions across the galaxy. She first appeared in 3307 during the expansion of private military services in the core systems and has since steered the company through multiple conflicts. In June 3312 she announced expanded anti-criminal services in response to rising piracy and malware attacks linked to the Lady Zi syndicate, strongly hinting at a formal expansion of operations in the coming days.

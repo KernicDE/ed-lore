@@ -3,18 +3,19 @@ id: frontline-solutions
 name: Frontline Solutions
 type: faction
 first_seen_date: '3307-12-26'
-last_seen_date: '3308-06-24'
-mention_count: 2
+last_seen_date: '3312-06-01'
+mention_count: 3
 related_entities:
-- none-specified
 - aegis
 - alliance
 - empire
 - federation
-bio: Frontline Solutions is a organization in the Elite Dangerous universe, active
-  from 3307-12-26 to 3308-06-24. Frequently linked with none specified, Hind Mine,
-  INRA. A cryptic poem attributed to the Winking Cat references Frontline Solutions
-  and the mercenary industry, promising rewards for those who solve the riddle.
+bio: Frontline Solutions is a mercenary contracting firm active since 3307 that
+  provides combat pilots and security forces to factions across the galaxy. A cryptic
+  poem attributed to the Winking Cat once referenced the firm and the mercenary industry,
+  promising rewards for those who solved the riddle. In June 3312, CEO Imogen le Ray
+  announced expanded anti-criminal services in response to rising piracy and malware
+  attacks linked to the Lady Zi syndicate.'
 ---
 
 
@@ -24,8 +25,8 @@ bio: Frontline Solutions is a organization in the Elite Dangerous universe, acti
 # Frontline Solutions
 
 First mentioned: **3307-12-26**  
-Last mentioned: **3308-06-24**  
-Total mentions: **2**
+Last mentioned: **3312-06-01**  
+Total mentions: **3**
 
 ## Related
 
@@ -37,4 +38,4 @@ Total mentions: **2**
 
 ## Biography
 
-*[To be enriched]*
+Frontline Solutions is a mercenary contracting firm active since 3307 that provides combat pilots and security forces to factions across the galaxy. A cryptic poem attributed to the Winking Cat once referenced the firm and the mercenary industry, promising rewards for those who solved the riddle. In June 3312, CEO Imogen le Ray announced expanded anti-criminal services in response to rising piracy and malware attacks linked to the Lady Zi syndicate, strongly hinting at a formal expansion of operations in the coming days.
