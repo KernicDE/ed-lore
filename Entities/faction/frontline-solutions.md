@@ -3,8 +3,8 @@ id: frontline-solutions
 name: Frontline Solutions
 type: faction
 first_seen_date: '3307-12-26'
-last_seen_date: '3312-06-01'
-mention_count: 3
+last_seen_date: '3312-06-04'
+mention_count: 4
 related_entities:
 - aegis
 - alliance

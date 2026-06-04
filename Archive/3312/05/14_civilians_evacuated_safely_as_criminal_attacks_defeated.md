@@ -38,6 +38,8 @@ related_uuids:
 - c76cadee-b3d0-501f-8231-6caf7589bc3a
 - 46b8ec38-ca04-5680-b3a2-01de047bc6c4
 - e14afd0b-cccc-5083-a0b9-6c7eb7eff35a
+- fd99dd4d-fc7d-5a70-ac15-09a99102482d
+- 6dcab771-4185-55d8-8d59-3d3cda24b786
 ---
 
 Security forces and independent combat pilots successfully protected rescue efforts after the recent attacks in Lhou Mans.

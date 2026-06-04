@@ -35,6 +35,8 @@ related_uuids:
 - c76cadee-b3d0-501f-8231-6caf7589bc3a
 - 32ce68df-e133-545f-a0ea-2ae009f1ada6
 - e14afd0b-cccc-5083-a0b9-6c7eb7eff35a
+- fd99dd4d-fc7d-5a70-ac15-09a99102482d
+- 6dcab771-4185-55d8-8d59-3d3cda24b786
 ---
 
 
