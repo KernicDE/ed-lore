@@ -4,6 +4,44 @@ title: Radicoida Unica ‘Cultivated, Not Created’ By Guardians
 slug: radicoida_unica_cultivated_not_created_by_guardians
 date: '3312-06-10'
 source: API
+summary: Ram Tah clarified that Radicoida unica is likely a natural flora cultivated by the Guardians millions of years ago for medicinal purposes, not a product of genetic engineering. Dr. Roy Casimir of the Holloway Bioscience Institute echoed the findings, expressing hope that continued research into the plant's medicinal properties will yield further breakthroughs.
+player_impact: No direct call to action for pilots. The scientific revelations may influence future opportunities related to Guardian archaeology or Radicoida unica research in the HIP 87621 enclave.
+modern_impact: The confirmation of a Guardian connection to Radicoida unica deepens the mystery of the extinct civilization and suggests significant potential for medical breakthroughs. However, the October Consortium's control over the research data raises ongoing concerns about corporate restriction of knowledge that could benefit all humanity.
+topics:
+  - xenology
+  - exobiology
+  - guardian archaeology
+  - medicine
+  - corporate science
+entities:
+  - name: Ram Tah
+    type: person
+    role: Leading xenologist who linked Radicoida unica to ancient Guardian cultivation practices
+  - name: Leon Banerjee
+    type: person
+    role: Vox Galactica science correspondent reporting on the Guardian Archive findings
+  - name: Guardians
+    type: faction
+    role: Ancient civilization that cultivated Radicoida unica for medicinal and ritual purposes
+  - name: Radicoida unica
+    type: technology
+    role: Unique exobiological flora of likely Guardian-cultivated origin with significant medicinal properties
+  - name: Dr. Roy Casimir
+    type: person
+    role: Chief researcher at the Holloway Bioscience Institute studying Radicoida unica
+  - name: Holloway Bioscience Institute
+    type: faction
+    role: Scientific research institute collaborating with the October Consortium on Radicoida unica studies
+  - name: October Consortium
+    type: faction
+    role: Corporate custodian of HIP 87621 providing curated research data to scientific partners
+locations:
+  - HIP 87621
+arc_id: hip-87621-conflict
+related_uuids:
+  - e6be94c7-bcf6-547b-b240-07d052adc095
+  - d77a9c79-d55f-5714-97bc-549423966fe1
+  - 5a71a938-54b4-516c-a9c2-96aea2e3e6d3
 ---
 
 Interest continues to grow among the scientific community following Ram Tah’s speculation that the Guardians once cultivated Radicoida unica for their own use.

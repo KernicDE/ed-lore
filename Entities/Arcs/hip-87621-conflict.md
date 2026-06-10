@@ -2,8 +2,8 @@
 id: hip-87621
 name: HIP 87621 Conflict
 first_seen_date: '3311-09-02'
-last_seen_date: '3312-05-28'
-mention_count: 23
+last_seen_date: '3312-06-10'
+mention_count: 24
 significance: medium
 key_entities:
 - october-consortium
@@ -25,12 +25,17 @@ outcome: The October Accords placed HIP 87621 under corporate custodianship, wit
   substances used by traditionalist Guardian factions, with biological schematics closely
   matching Radicoida unica. The discovery was leaked to the October Consortium, prompting
   their sudden interest in Guardian artefacts and raising questions about corporate
-  exploitation of xenoarchaeological findings.
+  exploitation of xenoarchaeological findings. In June 3312, Ram Tah clarified that
+  Radicoida unica is a natural flora cultivated by the Guardians for medicinal purposes,
+  not a creation of genetic engineering. Dr. Roy Casimir of the Holloway Bioscience
+  Institute echoed these findings, reinforcing hopes for medical breakthroughs while
+  underscoring the October Consortium's continued control over research data.
 phases:
 - 'Phase 1: The Lockdown (3311-09-02)'
 - 'Phase 2: The Enclave Conflict (3311-11-27)'
 - 'Phase 3: The October Accords (3312-02-20)'
 - 'Phase 4: Guardian Connection Revealed (3312-05-28)'
+- 'Phase 5: Guardian Cultivation Clarified (3312-06-10)'
 ---
 
 
@@ -50,6 +55,9 @@ Multiple powers moved to establish control over the system, leading to open mili
 
 ### Phase 3: The October Accords (3312-02-20)
 The October Consortium—originally a tech investor led by the reclusive Lexi October—brokered an agreement ending hostilities. The October Accords placed HIP 87621 under corporate custodianship, with the Consortium acting as neutral chair between Imperial, Alliance, and independent forces. The Federation was notably excluded, having lost its foothold during the conflict's opening stages. The Accords also established shared scientific access to Radicoida unica research.
+
+### Phase 5: Guardian Cultivation Clarified (3312-06-10)
+Ram Tah clarified that Radicoida unica is almost certainly a natural flora rather than a direct creation of the Guardians. He explained that the extinct civilization likely cultivated the plant and cross-pollinated it with other flora millions of years ago to enhance its medicinal effects. Dr. Roy Casimir of the Holloway Bioscience Institute echoed these findings, expressing hope that continued research would unlock practical medical applications. The clarification deepened scientific understanding of the plant's origins while maintaining focus on the October Consortium's exclusive control over the research data.
 
 ## Modern Relevance
 The HIP 87621 conflict set a significant legal precedent: a private corporation mediating between superpowers and controlling disputed territory. The October Consortium's rise from tech investor to geopolitical broker demonstrated how exobiological discoveries can rapidly reshape power structures. The Federation's exclusion may fuel future reclamation attempts, while the corporate custodianship model could be replicated elsewhere in disputed frontier regions.

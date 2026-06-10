@@ -3,8 +3,8 @@ id: holloway-bioscience-institute
 name: Holloway Bioscience Institute
 type: faction
 first_seen_date: '3305-02-07'
-last_seen_date: '3312-04-15'
-mention_count: 8
+last_seen_date: '3312-06-10'
+mention_count: 9
 related_entities:
 - october-consortium
 - hip-87621

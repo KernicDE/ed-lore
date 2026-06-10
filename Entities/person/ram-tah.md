@@ -3,8 +3,8 @@ id: ram-tah
 name: Ram Tah
 type: person
 first_seen_date: '3302-11-03'
-last_seen_date: '3312-05-28'
-mention_count: 69
+last_seen_date: '3312-06-10'
+mention_count: 70
 related_entities:
 - sirius-corporation
 - alba-tesreau
@@ -34,3 +34,5 @@ Total mentions: **68**
 Ram Tah is a leading engineer and xenologist specialising in Guardian technology, whose research has underpinned much of humanity's anti-xeno scientific progress. He first gained prominence in 3302 by decoding Guardian artefacts and reverse-engineering their technology for human use, including the XG fighter series and various module blueprints distributed through technology brokers.
 
 In 3305, Aegis formally partnered with Ram Tah to expand Guardian technology manufacture, leveraging his expertise for the tri-superpower war effort. His most consequential contribution came in 3308 when he confirmed that Salvation's superweapon was based on a Guardian device discovered by Azimuth Biochemicals at the Proteus site — a revelation that vindicated Admiral Aden Tanner's concerns but could not prevent Aegis's dissolution. Ram Tah continued working with Aegis through the Thargoid Titan War, co-developing the Thargoid pulse neutraliser that allowed probes to survive Maelstrom energy surges, and collaborating with Professor Ishmael Palin to analyse the rogue signal sources converging on the core systems in late 3308.
+
+In 3312, Ram Tah expanded his research into exobiological connections to the Guardians, re-examining Archive data following the discovery of Radicoida unica in HIP 87621. He confirmed that Guardian passages described a "kingdom of blessed roots" and seed-pod-derived substances used by traditionalist Guardian factions to enhance warriors. He clarified that the plant was likely a natural species cultivated and cross-pollinated by the Guardians millions of years ago to enhance its medicinal effects, rather than a product of genetic engineering.
