@@ -161,7 +161,9 @@ Reads all articles in `Archive/` and entity files in `Entities/`, then writes:
 - `website/public/data/search-index.json` — search-optimized articles (~1.5 MB)
 - `website/public/data/version.json` — build timestamp + counts (used for cache busting)
 
-### Step 2: Local Build Test (optional)
+### Step 2: Local Build Test (optional, usually not needed)
+
+A local Astro build is generally unnecessary because GitHub Actions rebuilds and deploys the site automatically on every push to `main`. Only run this if you specifically want to inspect the generated HTML locally:
 
 ```bash
 cd website
@@ -177,7 +179,7 @@ Output goes to `website/dist/`.
 
 **Correct deployment flow:**
 1. Make your changes
-2. Build locally: `python scripts/build_graph.py && cd website && pnpm build`
+2. Build locally: `python scripts/build_graph.py`
 3. Commit everything
 4. Push to `main`: `git push origin main`
 5. The GitHub Actions workflow will rebuild and deploy to GitHub Pages automatically
@@ -298,7 +300,7 @@ When new persons or groups are introduced in articles, the build script may crea
 | Fetch / refresh archive | `python scripts/fetch.py` *(destructive)* |
 | Validate enrichment | `python scripts/validate_enrichment.py` |
 | Build graph + client JSONs | `python scripts/build_graph.py` |
-| Build website | `cd website && pnpm build` |
+| Build website locally (optional) | `cd website && pnpm build` |
 | Count articles | `find Archive -type f \| wc -l` |
 | Push to GitHub (triggers deploy) | `git push origin main` |
 | Check deployment status | https://github.com/KernicDE/ed-lore/actions |
@@ -317,4 +319,4 @@ When new persons or groups are introduced in articles, the build script may crea
 
 ---
 
-*Last updated: 2026-05-09*
+*Last updated: 2026-06-19*
