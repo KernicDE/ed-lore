@@ -14,7 +14,8 @@ groups:
 - Core Dynamics
 topics:
 - engineering
-- ship
+- fighter design
+- corporate expansion
 technologies:
 - Kestrel
 - Supercharged Frame Shift Drive
@@ -27,6 +28,8 @@ legacy_weight: 1
 significance: low
 related_uuids:
 - 1a0654de-9c87-59e6-8494-a5cbb34758d0
+- ccf8b5d3-a91a-589f-8b67-3e76a4f6bc2f
+arc_id: kestrel-fighter-rollout
 ---
 
 
