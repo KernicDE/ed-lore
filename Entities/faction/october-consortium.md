@@ -3,8 +3,8 @@ id: october-consortium
 name: October Consortium
 type: faction
 first_seen_date: '3307-10-05'
-last_seen_date: '3312-05-28'
-mention_count: 18
+last_seen_date: '3312-06-10'
+mention_count: 19
 related_entities:
 - hip-87621
 - holloway-bioscience-institute

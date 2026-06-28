@@ -15,10 +15,10 @@ persons:
 groups:
 - Core Dynamics
 topics:
-- construction
+- military procurement
 - corporate expansion
 - engineering
-- ship
+- fighter design
 - war
 technologies:
 - Kestrel
@@ -32,6 +32,8 @@ significance: low
 related_uuids:
 - 8a3a1cb2-ff2d-5f18-b0aa-b96e491874a4
 - cc95b7d8-d5bd-58ef-9ce4-83d5bfc9abd8
+- ccf8b5d3-a91a-589f-8b67-3e76a4f6bc2f
+arc_id: kestrel-fighter-rollout
 ---
 
 

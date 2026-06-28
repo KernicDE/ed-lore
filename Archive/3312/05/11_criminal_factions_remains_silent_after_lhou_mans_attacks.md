@@ -34,6 +34,8 @@ related_uuids:
 - 32ce68df-e133-545f-a0ea-2ae009f1ada6
 - 46b8ec38-ca04-5680-b3a2-01de047bc6c4
 - e14afd0b-cccc-5083-a0b9-6c7eb7eff35a
+- fd99dd4d-fc7d-5a70-ac15-09a99102482d
+- 6dcab771-4185-55d8-8d59-3d3cda24b786
 ---
 
 Questions remain unanswered following last week’s unprovoked attacks on starport facilities across Lhou Mans.

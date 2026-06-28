@@ -3,8 +3,8 @@ id: imogen-le-ray
 name: Imogen le Ray
 type: person
 first_seen_date: '3307-12-26'
-last_seen_date: '3312-06-01'
-mention_count: 3
+last_seen_date: '3312-06-04'
+mention_count: 4
 bio: 'Imogen le Ray is the CEO of Frontline Solutions, a prominent mercenary
   contracting firm. She first appeared in 3307 during the expansion of private military
   services in the core systems and has since steered the company through multiple

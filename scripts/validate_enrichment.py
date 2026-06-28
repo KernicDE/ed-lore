@@ -96,7 +96,11 @@ def validate_file(path: Path) -> list:
         # Check entities were cleaned
         entities = fm.get("entities", []) or []
         for e in entities:
-            e_lower = e.lower()
+            if isinstance(e, dict):
+                name = e.get("name", "")
+                e_lower = name.lower() if name else ""
+            else:
+                e_lower = e.lower() if e else ""
             if "provided" in e_lower or "confirmed" in e_lower or "argued" in e_lower or "gave" in e_lower or "delivered" in e_lower:
                 issues.append((str(path), f"Malformed entity (contains verb): '{e}'"))
 
