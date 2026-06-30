@@ -3,8 +3,8 @@ id: federation
 name: Federation
 type: faction
 first_seen_date: '3301-03-02'
-last_seen_date: '3311-11-27'
-mention_count: 123
+last_seen_date: '3312-06-29'
+mention_count: 124
 related_entities:
 - empire
 - alliance
@@ -45,4 +45,4 @@ The Federation was formed in 2242, unifying Earth and its colonies after the Thi
 
 Its defining characteristic is corporate dominance. Real influence rests with mega-corporations that control the economic and political landscape; employees live under corporate patronage with votes guided by employer interests. The political system is presidential, with elections every four years followed by a mandatory Vote of No Confidence. The two dominant parties are the Republicans — advocating military strength and deregulation — and the Liberals, supporting social programmes and diplomatic engagement.
 
-The Federation's greatest historical trauma came at the Battle of Achenar in 2325, when an expeditionary fleet was annihilated by Henson Duval's forces. The defeat secured the Empire's independence and forced the Federal capital's relocation from Earth to Mars. In the 34th century, the Federation remains the most populous superpower, though its influence is increasingly challenged. Internal scandals including the Starship One conspiracy and the Proactive Detection Bureau have eroded public trust, while the election of Felicia Winters in 3309 marked a potential shift toward Liberal governance.
+The Federation's greatest historical trauma came at the Battle of Achenar in 2325, when an expeditionary fleet was annihilated by Henson Duval's forces. The defeat secured the Empire's independence and forced the Federal capital's relocation from Earth to Mars. In the 34th century, the Federation remains the most populous superpower, though its influence is increasingly challenged. Internal scandals including the Starship One conspiracy and the Proactive Detection Bureau have eroded public trust, while the election of Felicia Winters in 3309 marked a potential shift toward Liberal governance. In June 3312, the Winters administration publicly challenged its exclusion from the October Accords, warning that denial of access to Radicoida unica research would be treated as a potential threat and would dictate Federal research priorities.

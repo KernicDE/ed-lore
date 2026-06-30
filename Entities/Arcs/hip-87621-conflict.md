@@ -2,8 +2,8 @@
 id: hip-87621
 name: HIP 87621 Conflict
 first_seen_date: '3311-09-02'
-last_seen_date: '3312-06-10'
-mention_count: 24
+last_seen_date: '3312-06-29'
+mention_count: 25
 significance: medium
 key_entities:
 - october-consortium
@@ -29,13 +29,18 @@ outcome: The October Accords placed HIP 87621 under corporate custodianship, wit
   Radicoida unica is a natural flora cultivated by the Guardians for medicinal purposes,
   not a creation of genetic engineering. Dr. Roy Casimir of the Holloway Bioscience
   Institute echoed these findings, reinforcing hopes for medical breakthroughs while
-  underscoring the October Consortium's continued control over research data.
+  underscoring the October Consortium's continued control over research data. Later
+  in June 3312, Federal President Felicia Winters publicly warned that the Federation
+  would treat continued exclusion from Radicoida unica research as a potential threat,
+  raising the prospect of unilateral Federal research priorities and renewed superpower
+  tension over the enclave.
 phases:
 - 'Phase 1: The Lockdown (3311-09-02)'
 - 'Phase 2: The Enclave Conflict (3311-11-27)'
 - 'Phase 3: The October Accords (3312-02-20)'
 - 'Phase 4: Guardian Connection Revealed (3312-05-28)'
 - 'Phase 5: Guardian Cultivation Clarified (3312-06-10)'
+- 'Phase 6: Federation Breaks Silence (3312-06-29)'
 ---
 
 
@@ -59,5 +64,8 @@ The October Consortium—originally a tech investor led by the reclusive Lexi Oc
 ### Phase 5: Guardian Cultivation Clarified (3312-06-10)
 Ram Tah clarified that Radicoida unica is almost certainly a natural flora rather than a direct creation of the Guardians. He explained that the extinct civilization likely cultivated the plant and cross-pollinated it with other flora millions of years ago to enhance its medicinal effects. Dr. Roy Casimir of the Holloway Bioscience Institute echoed these findings, expressing hope that continued research would unlock practical medical applications. The clarification deepened scientific understanding of the plant's origins while maintaining focus on the October Consortium's exclusive control over the research data.
 
+### Phase 6: Federation Breaks Silence (3312-06-29)
+Federal President Felicia Winters publicly addressed the Federation's exclusion from the October Accords for the first time since the conflict ended. Speaking from the White House, she expressed disappointment at being denied access to Radicoida unica research and warned Lexi October that any technological or strategic disadvantage would be treated as a potential threat. Winters stated that such a threat would dictate Federal research priorities, signalling a possible shift from diplomatic restraint to unilateral action.
+
 ## Modern Relevance
-The HIP 87621 conflict set a significant legal precedent: a private corporation mediating between superpowers and controlling disputed territory. The October Consortium's rise from tech investor to geopolitical broker demonstrated how exobiological discoveries can rapidly reshape power structures. The Federation's exclusion may fuel future reclamation attempts, while the corporate custodianship model could be replicated elsewhere in disputed frontier regions.
+The HIP 87621 conflict set a significant legal precedent: a private corporation mediating between superpowers and controlling disputed territory. The October Consortium's rise from tech investor to geopolitical broker demonstrated how exobiological discoveries can rapidly reshape power structures. The Federation's exclusion may fuel future reclamation attempts, while the corporate custodianship model could be replicated elsewhere in disputed frontier regions. Winters' June 3312 warning raised the stakes further, suggesting that the Accords' stability depends on whether the October Consortium can satisfy superpower demands for access without triggering a new research race.
