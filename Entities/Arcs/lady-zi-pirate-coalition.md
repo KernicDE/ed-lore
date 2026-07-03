@@ -4,7 +4,7 @@ name: Lady Zi Pirate Coalition
 type: arc
 start_date: '3312-04-23'
 end_date: null
-article_count: 7
+article_count: 8
 key_entities:
 - Lady Zi
 - Mira Bukowski
@@ -21,6 +21,7 @@ phases:
 - 'Phase 3: Criminal Fleet Sightings and Malware Spread (3312-06-01)'
 - 'Phase 4: Frontline Solutions Countermeasures (3312-06-04)'
 - 'Phase 5: Runner Fleet Enters Production (3312-06-18)'
+- 'Phase 6: Anti-Crime Deployments Go Live (3312-06-30)'
 summary: The emergence of Lady Zi as a coordinated criminal threat in the core systems,
   beginning with raids on military outposts and escalating to full starport attacks in
   Lhou Mans. The twin-axe malware signature and probing tactics suggest a highly organised,
@@ -34,7 +35,9 @@ outcome: Defence forces successfully repelled the Lhou Mans attackers, completed
   expanded anti-criminal services and the independent construction of Runner-class vessels.
   On 3312-06-18, Frontline confirmed that the initial Runner fleet had completed production
   and begun duty trials, positioning registered mercenaries for rapid deployment against
-  the pirate coalition.
+  the pirate coalition. On 3312-06-30, Frontline officially launched its anti-crime deployment
+  service, shipping mercenary strike teams to anti-crime operations across the core systems
+  and allowing registered pilots to sign up at any market port.
 significance: medium
 ---
 
@@ -49,3 +52,6 @@ By 3312-05-14, security forces and independent combat pilots had successfully de
 The crisis also provided an unexpected platform for Zorgon Peterson's new Lynx Highliner and Mk II cabin modules, which reportedly outperformed expectations under extreme evacuation conditions. Lhou Mans authorities are now calling for pilots to aid repair efforts at Ryman Enterprise.
 
 Frontline Solutions entered the conflict in early June 3312, with CEO Imogen le Ray announcing expanded anti-criminal services and the independent construction of Runner-class vessels to rapidly deploy mercenary strike teams. On 3312-06-18, Frontline confirmed that the initial Runner fleet had completed production and begun duty trials, positioning registered combatants for rapid response to the pirate threat.
+
+### Phase 6: Anti-Crime Deployments Go Live (3312-06-30)
+Frontline Solutions officially launched its expanded anti-crime deployment service, using the Runner fleet to ship mercenaries to anti-crime operations across the core systems. CEO Imogen le Ray cited the Lhou Mans attacks as a key example of the stretched resources that the new service would address. Registered pilots and mercenary teams can now sign up at any market port and be deployed to lawful anti-crime and rescue operations, marking a new phase in the privatisation of core-systems security.

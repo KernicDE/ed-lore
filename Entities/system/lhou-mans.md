@@ -3,8 +3,8 @@ id: lhou-mans
 name: Lhou Mans
 type: system
 first_seen_date: '3312-04-28'
-last_seen_date: '3312-05-14'
-mention_count: 3
+last_seen_date: '3312-06-30'
+mention_count: 4
 related_entities:
 - vox-galactica
 - lady-zi
@@ -47,4 +47,4 @@ Total mentions: **3**
 
 ## Biography
 
-An independent industrial democracy in the core systems, Lhou Mans suffered coordinated criminal attacks on its starport facilities in 3312. The attacks, attributed to the Lady Zi Pirate Coalition, prompted large-scale civilian evacuation efforts and independent pilot intervention. Notable stations include Ryman Enterprise, Webb City, and Sabine Gateway.
+An independent industrial democracy in the core systems, Lhou Mans suffered coordinated criminal attacks on its starport facilities in 3312. The attacks, attributed to the Lady Zi Pirate Coalition, prompted large-scale civilian evacuation efforts and independent pilot intervention. The system was later cited by Frontline Solutions CEO Imogen le Ray as a motivating example for the company's expanded anti-crime deployments. Notable stations include Ryman Enterprise, Webb City, and Sabine Gateway.

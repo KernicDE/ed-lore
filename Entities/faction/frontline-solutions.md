@@ -3,8 +3,8 @@ id: frontline-solutions
 name: Frontline Solutions
 type: faction
 first_seen_date: '3307-12-26'
-last_seen_date: '3312-06-18'
-mention_count: 5
+last_seen_date: '3312-06-30'
+mention_count: 6
 related_entities:
 - aegis
 - alliance
@@ -42,4 +42,4 @@ Total mentions: **5**
 
 ## Biography
 
-Frontline Solutions is a mercenary contracting firm active since 3307 that provides combat pilots and security forces to factions across the galaxy. A cryptic poem attributed to the Winking Cat once referenced the firm and the mercenary industry, promising rewards for those who solved the riddle. In June 3312, CEO Imogen le Ray announced expanded anti-criminal services in response to rising piracy and malware attacks linked to the Lady Zi syndicate. On 3312-06-18, Frontline confirmed completion of its independently constructed Runner fleet, designed for rapid deployment of mercenary strike teams and their ships to hostile locations.
+Frontline Solutions is a mercenary contracting firm active since 3307 that provides combat pilots and security forces to factions across the galaxy. A cryptic poem attributed to the Winking Cat once referenced the firm and the mercenary industry, promising rewards for those who solved the riddle. In June 3312, CEO Imogen le Ray announced expanded anti-criminal services in response to rising piracy and malware attacks linked to the Lady Zi syndicate. On 3312-06-18, Frontline confirmed completion of its independently constructed Runner fleet, designed for rapid deployment of mercenary strike teams and their ships to hostile locations. On 3312-06-30, the company officially launched its anti-crime deployment service, shipping mercenaries to operations across the core systems and allowing registered pilots to sign up at any market port.
