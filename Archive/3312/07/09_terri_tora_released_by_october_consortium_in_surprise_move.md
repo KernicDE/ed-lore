@@ -1,0 +1,15 @@
+---
+uuid: f92fd544-6322-5309-a867-a780e0e2e31f
+title: Terri Tora Released by October Consortium in Surprise Move
+slug: terri_tora_released_by_october_consortium_in_surprise_move
+date: '3312-07-09'
+source: API
+---
+
+Terri Tora, the xenobiologist credited with triggering widespread interest in the HIP 87621 system, has been released.
+Tora, who has been held in custody by October Consortium since her disappearance in late 3311, was investigating rumours of a significant xenobiological discovery when she stowed away on a Consortium megaship. She was later discovered in HIP 87621, having circumnavigated the system’s permit lock, and incarcerated on charges of corporate espionage.
+Speaking directly to Vox Galactica, Lexi October said that Tora had been “fully cooperative in questioning” following the security breach and recognised that recent events leading to the signing of the Accords had meant it was time to release her without further charges.
+Tora issued the following statement:
+“Well, that was an adventure I can tell you! I am relieved to be finally free and to know that things worked out in the end. It was a scary situation to be in.”
+“I hadn’t considered the ramifications of my actions until fighting broke out across the surrounding systems. However, the supposed value of Radicoida wasn’t my concern - my only motive was knowledge. Discoveries like this aren’t meant to be kept a secret!”
+Tora was met by colleague Professor Frank Raddix, who initially tipped off pilots about her absence, at Exogene Sciences. The pair then departed under October Accord escort.
