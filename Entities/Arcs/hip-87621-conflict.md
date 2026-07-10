@@ -2,8 +2,8 @@
 id: hip-87621
 name: HIP 87621 Conflict
 first_seen_date: '3311-09-02'
-last_seen_date: '3312-06-29'
-mention_count: 25
+last_seen_date: '3312-07-09'
+mention_count: 26
 significance: medium
 key_entities:
 - october-consortium
@@ -33,7 +33,11 @@ outcome: The October Accords placed HIP 87621 under corporate custodianship, wit
   in June 3312, Federal President Felicia Winters publicly warned that the Federation
   would treat continued exclusion from Radicoida unica research as a potential threat,
   raising the prospect of unilateral Federal research priorities and renewed superpower
-  tension over the enclave.
+  tension over the enclave. In July 3312, the October Consortium unexpectedly released
+  detained xenobiologist Terri Tora without further charges. Chair Lexi October cited
+  Tora's cooperation and the changed circumstances following the Accords, while Tora
+  herself insisted that scientific discoveries such as Radicoida unica should not be
+  kept secret.
 phases:
 - 'Phase 1: The Lockdown (3311-09-02)'
 - 'Phase 2: The Enclave Conflict (3311-11-27)'
@@ -41,6 +45,7 @@ phases:
 - 'Phase 4: Guardian Connection Revealed (3312-05-28)'
 - 'Phase 5: Guardian Cultivation Clarified (3312-06-10)'
 - 'Phase 6: Federation Breaks Silence (3312-06-29)'
+- 'Phase 7: Terri Tora Released (3312-07-09)'
 ---
 
 
@@ -67,5 +72,8 @@ Ram Tah clarified that Radicoida unica is almost certainly a natural flora rathe
 ### Phase 6: Federation Breaks Silence (3312-06-29)
 Federal President Felicia Winters publicly addressed the Federation's exclusion from the October Accords for the first time since the conflict ended. Speaking from the White House, she expressed disappointment at being denied access to Radicoida unica research and warned Lexi October that any technological or strategic disadvantage would be treated as a potential threat. Winters stated that such a threat would dictate Federal research priorities, signalling a possible shift from diplomatic restraint to unilateral action.
 
+### Phase 7: Terri Tora Released (3312-07-09)
+The October Consortium unexpectedly released detained xenobiologist Terri Tora without further charges. Tora had been held since late 3311 after stowing away on a Consortium megaship and circumventing the HIP 87621 permit lock, and her detention had become a long-running grievance for critics of the Consortium. Speaking to Vox Galactica, Lexi October stated that Tora had been fully cooperative in questioning and that the changed circumstances following the October Accords made continued detention unnecessary. Tora was met at Exogene Sciences by her colleague Professor Frank Raddix, and the pair departed under October Accord escort.
+
 ## Modern Relevance
-The HIP 87621 conflict set a significant legal precedent: a private corporation mediating between superpowers and controlling disputed territory. The October Consortium's rise from tech investor to geopolitical broker demonstrated how exobiological discoveries can rapidly reshape power structures. The Federation's exclusion may fuel future reclamation attempts, while the corporate custodianship model could be replicated elsewhere in disputed frontier regions. Winters' June 3312 warning raised the stakes further, suggesting that the Accords' stability depends on whether the October Consortium can satisfy superpower demands for access without triggering a new research race.
+The HIP 87621 conflict set a significant legal precedent: a private corporation mediating between superpowers and controlling disputed territory. The October Consortium's rise from tech investor to geopolitical broker demonstrated how exobiological discoveries can rapidly reshape power structures. The Federation's exclusion may fuel future reclamation attempts, while the corporate custodianship model could be replicated elsewhere in disputed frontier regions. Winters' June 3312 warning raised the stakes further, suggesting that the Accords' stability depends on whether the October Consortium can satisfy superpower demands for access without triggering a new research race. Tora's July 3312 release removed one source of pressure on the Consortium, but her statement that discoveries like Radicoida unica should not be kept secret kept the debate over corporate control of scientific knowledge alive.

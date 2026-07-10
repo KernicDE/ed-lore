@@ -3,8 +3,8 @@ id: radicoida-unica
 name: Radicoida unica
 type: technology
 first_seen_date: '3311-11-13'
-last_seen_date: '3312-06-29'
-mention_count: 11
+last_seen_date: '3312-07-09'
+mention_count: 12
 bio: 'Radicoida unica is a technology in Elite Dangerous, mentioned from 3311-11-13
   to 3312-04-15. Used by October Consortium, Holloway Bioscience Institute, Alliance.
   Key developments: All major Powers deploy fleets to the HIP 87621 enclave after
@@ -32,4 +32,4 @@ Radicoida unica is a colossal plant species unique to the HIP 87621 system that 
 
 Casimir described the plant's genetic composition as "mercurial," with remarkable cellular resilience and adaptability. October Consortium researchers observed that Radicoida unica may form symbiotic relationships with biological creatures with prolonged exposure, and appears aware of activity around it. During its flowering season, the plant produces seed pods whose flesh contains compounds that improve physical performance and reduce thinking time in laboratory subjects. These properties triggered a major powers conflict, with all major superpowers deploying fleets to the HIP 87621 enclave after the plant's discovery — the largest mobilisation since the Second Thargoid War. The October Consortium's redaction of some research data hints at proprietary applications, raising questions about whether the plant's compounds will see widespread medical use or restricted military deployment.
 
-In mid-3312, Ram Tah confirmed Guardian Archive passages linking the extinct civilization to the plant, describing a "kingdom of blessed roots" and seed-pod-derived substances used by traditionalist Guardian factions to enhance warriors before battle. He clarified that Radicoida unica is almost certainly a natural flora that the Guardians cultivated and cross-pollinated with other species millions of years ago to enhance its medicinal effects — not a creation of genetic engineering. This revelation deepened scientific interest in the plant while raising concerns about corporate control of its research. In June 3312, the Federation publicly warned that continued exclusion from Radicoida unica research under the October Accords would be treated as a potential threat, intensifying the geopolitical stakes of the plant's study.
+In mid-3312, Ram Tah confirmed Guardian Archive passages linking the extinct civilization to the plant, describing a "kingdom of blessed roots" and seed-pod-derived substances used by traditionalist Guardian factions to enhance warriors before battle. He clarified that Radicoida unica is almost certainly a natural flora that the Guardians cultivated and cross-pollinated with other species millions of years ago to enhance its medicinal effects — not a creation of genetic engineering. This revelation deepened scientific interest in the plant while raising concerns about corporate control of its research. In June 3312, the Federation publicly warned that continued exclusion from Radicoida unica research under the October Accords would be treated as a potential threat, intensifying the geopolitical stakes of the plant's study. In July 3312, detained xenobiologist Terri Tora was released by the October Consortium; she maintained that her original motive had been knowledge and that discoveries like Radicoida unica should not be kept secret.

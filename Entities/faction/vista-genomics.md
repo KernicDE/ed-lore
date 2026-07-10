@@ -3,8 +3,8 @@ id: vista-genomics
 name: Vista Genomics
 type: faction
 first_seen_date: '3311-11-13'
-last_seen_date: '3312-07-02'
-mention_count: 2
+last_seen_date: '3312-07-09'
+mention_count: 3
 related_entities:
 - pilots-federation
 - october-consortium
@@ -40,4 +40,4 @@ Total mentions: **1**
 
 ## Biography
 
-Vista Genomics is a biotechnology organisation specialising in the collection and analysis of exobiological data. In late 3311 it processed scan data for the October Consortium in the HIP 87621 system, though its public role was constrained by the Consortium's restrictions on fleet carriers and claims of data "spoofing." In July 3312 the firm partnered with Faulcon DeLacy to survey the Sanguineous Rim, using the new Nomad ship-launched exploration vessel to gather biological samples and assess genetic diversity in the galaxy's outer fringes.
+Vista Genomics is a biotechnology organisation specialising in the collection and analysis of exobiological data. In late 3311 it processed scan data for the October Consortium in the HIP 87621 system, though its public role was constrained by the Consortium's restrictions on fleet carriers and claims of data "spoofing." In July 3312 the firm partnered with Faulcon DeLacy to survey the Sanguineous Rim, using the new Nomad ship-launched exploration vessel to gather biological samples and assess genetic diversity in the galaxy's outer fringes. The initiative was subsequently deemed a success, with pilots confirming that the Nomad's Mk II Biological Scanner and Mk II Sensor made exobiology sampling and research more efficient than with previous explorer setups.
