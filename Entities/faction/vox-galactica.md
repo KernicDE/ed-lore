@@ -3,8 +3,8 @@ id: vox-galactica
 name: Vox Galactica
 type: faction
 first_seen_date: '3304-09-12'
-last_seen_date: '3312-07-09'
-mention_count: 36
+last_seen_date: '3312-07-13'
+mention_count: 37
 related_entities:
 - pilots-federation
 - interstellar-health-organisation
@@ -27,8 +27,8 @@ bio: 'Vox Galactica is a organization active in Elite Dangerous lore from 3304-0
 # Vox Galactica
 
 First mentioned: **3304-09-12**  
-Last mentioned: **3312-06-01**  
-Total mentions: **33**
+Last mentioned: **3312-07-13**  
+Total mentions: **37**
 
 ## Related
 
@@ -42,4 +42,4 @@ Total mentions: **33**
 
 Vox Galactica is an independent news agency that has established itself as one of the galaxy's most reliable sources for investigative reporting on scientific, humanitarian, and corporate affairs. Unlike superpower-controlled outlets such as the Federal Times or Imperial Citizen, Vox Galactica operates without direct government sponsorship — though its editorial independence has not insulated it from corporate pressure, particularly when reporting on Core Dynamics and other major conglomerates.
 
-The agency gained prominence through its coverage of major expeditions including Distant Worlds, the Far God cult survivor Kiona O'Connor, and the Vitadyne nanomedicine controversy. In July 3312 it reported on the Vista Genomics and Faulcon DeLacy partnership to survey the Sanguineous Rim with the new Nomad exploration vessel, and it carried Lexi October's statement announcing the surprise release of detained xenobiologist Terri Tora. Its anonymous sources within corporations have repeatedly broken stories of market irregularities and executive misconduct, making Vox Galactica essential reading for pilots seeking perspectives outside the official narratives of the three superpowers.
+The agency gained prominence through its coverage of major expeditions including Distant Worlds, the Far God cult survivor Kiona O'Connor, and the Vitadyne nanomedicine controversy. In July 3312 it reported on the Vista Genomics and Faulcon DeLacy partnership to survey the Sanguineous Rim with the new Nomad exploration vessel, carried Lexi October's statement announcing the surprise release of detained xenobiologist Terri Tora, and covered core-systems megacorporations' public backing of Colonia's tenth-anniversary celebrations. Its anonymous sources within corporations have repeatedly broken stories of market irregularities and executive misconduct, making Vox Galactica essential reading for pilots seeking perspectives outside the official narratives of the three superpowers.

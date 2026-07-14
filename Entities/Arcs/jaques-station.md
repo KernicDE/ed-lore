@@ -2,8 +2,8 @@
 id: jaques-station
 name: Jaques Station
 first_seen_date: '3302-05-05'
-last_seen_date: '3312-05-19'
-mention_count: 57
+last_seen_date: '3312-07-13'
+mention_count: 59
 significance: medium
 key_entities:
 - colonia-council
@@ -11,6 +11,7 @@ key_entities:
 - colonia-citizens-network
 - colonia-co-operative
 - fuel-rats
+- lakon-spaceways
 description: The epic saga of Jaques Station, the galaxy's only travelling starport.
   Its ambitious attempted jump to Beagle Point ended in disaster and disappearance,
   but the station was eventually rediscovered in what became the Colonia region, sparking
@@ -24,6 +25,7 @@ phases:
 - 'Phase 1: The Disappearance (3302-05-05)'
 - 'Phase 2: Rediscovery (3302-06-28)'
 - 'Phase 3: Colonia Bridge (3307-11-04)'
+- 'Phase 4: Tenth Anniversary (3312-05-19)'
 ---
 
 
@@ -44,5 +46,8 @@ Independent explorers located Jaques Station in what would become known as the C
 ### Phase 3: Colonia Bridge (3307-11-04)
 Brewer Corporation launched the Colonia Bridge project, constructing a chain of megaships and starports to create a stable travel route between the core systems and Colonia. The initiative dramatically reduced travel time and cemented Colonia's status as a viable deep-space civilization, complete its own economy, politics, and culture.
 
+### Phase 4: Tenth Anniversary (3312-05-19)
+Jaques marked ten years since the station's fateful misjump and teased upcoming celebrations. Core-systems corporations, including Lakon Spaceways, publicly voiced support, and Jaques and the Colonia Council announced plans for a galaxy-spanning "Colonia Fair," backed by a major transportation effort of goods from the core systems.
+
 ## Modern Relevance
-Jaques Station stands as proof that human settlement can thrive even in the most remote regions of the galaxy. The Colonia region, born from a navigational accident, now hosts thousands of pilots and multiple factions. The Colonia Bridge remains a vital artery for trade and exploration, and the station itself continues to serve as the region's cultural and economic hub.
+Jaques Station stands as proof that human settlement can thrive even in the most remote regions of the galaxy. The Colonia Bridge remains a vital artery for trade and exploration, and the tenth-anniversary "Colonia Fair" shows the region has grown from an accidental settlement into a recognised partner of the core systems' economy.

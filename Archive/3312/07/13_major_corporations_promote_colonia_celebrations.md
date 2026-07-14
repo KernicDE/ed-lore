@@ -4,6 +4,31 @@ title: Major Corporations Promote Colonia Celebrations
 slug: major_corporations_promote_colonia_celebrations
 date: '3312-07-13'
 source: API
+summary: Major core-systems corporations, including Lakon Spaceways, have voiced
+  support for Colonia's tenth-anniversary celebrations, as Jaques and the Colonia
+  Council reveal plans for a galaxy-wide "Colonia Fair" exposition.
+player_impact: Pilots can expect a major transportation effort of commodities and
+  rare goods from the core systems to Colonia ahead of the anniversary, hinting at
+  upcoming community logistics activity tied to the "Colonia Fair".
+modern_impact: Corporate endorsement from established core-systems players like Lakon
+  Spaceways signals Colonia's evolution from an accidental frontier settlement into
+  a recognised partner within the wider galactic economy, deepening the ties forged
+  a decade earlier by Jaques Station's misjump.
+topics:
+- colonisation
+- community event
+- corporate expansion
+persons:
+- Jaques
+- Naomi Landseer
+- Marlon Royce
+groups:
+- Vox Galactica
+- Colonia Council
+- Lakon Spaceways
+locations:
+- Colonia
+arc_id: jaques-station
 ---
 
 Multiple corporations have supported the recent announcement of Colonia’s tenth anniversary celebrations.
