@@ -29,6 +29,9 @@ groups:
 locations:
 - Colonia
 arc_id: jaques-station
+related_uuids:
+- 611a5e2b-bd02-52e0-b657-1d13d01997d3
+- 3958bc50-b17d-5db1-ba61-462ab4b157cd
 ---
 
 Multiple corporations have supported the recent announcement of Colonia’s tenth anniversary celebrations.

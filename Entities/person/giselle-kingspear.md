@@ -3,11 +3,11 @@ id: giselle-kingspear
 name: Giselle Kingspear
 type: person
 first_seen_date: '3304-08-17'
-last_seen_date: '3304-08-29'
-mention_count: 3
-bio: 'Giselle Kingspear is a scientist in the Elite Dangerous universe, active from
-  3304-08-17 to 3304-08-29. Closely associated with Colonia Council, Colonia Research
-  Division. '
+last_seen_date: '3312-07-16'
+mention_count: 4
+bio: Giselle Kingspear is a scientist and Colonia Council member associated with the
+  Colonia Research Division. In July 3312 she highlighted the eight Engineers established
+  throughout the Colonia Region during the tenth-anniversary celebrations.
 ---
 
 
@@ -25,4 +25,4 @@ Total mentions: **3**
 
 ## Biography
 
-*[To be enriched]*
+Giselle Kingspear is a scientist and Colonia Council member associated with the Colonia Research Division. In July 3312 she highlighted the eight Engineers established throughout the Colonia Region during the tenth-anniversary celebrations, noting that the region's technical expertise was ready to serve independent pilots.

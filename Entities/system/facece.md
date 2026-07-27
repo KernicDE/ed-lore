@@ -3,8 +3,8 @@ id: facece
 name: Facece
 type: system
 first_seen_date: '3301-03-20'
-last_seen_date: '3302-07-02'
-mention_count: 9
+last_seen_date: '3312-07-23'
+mention_count: 10
 related_entities:
 - allied-facece-order
 - syromyatnikov-horizons
@@ -53,4 +53,4 @@ Total mentions: **9**
 
 Facece is an Imperial system that served as a base for Princess Arissa Lavigny-Duval's anti-corruption campaign in early 3301. Thousands of criminals were apprehended by commanders working on her behalf, though only a handful provided clues about who ordered the attack on Emperor Hengist Duval.
 
-The system is also home to the Imperial Slavers Association, which competed with Aisling's Angels in the slavery wager of April 3301. The ISA acquired 2,387,567 unregulated slaves for retraining at Lagerkvist Gateway, compared to Aisling's 1,149,756 freed Imperial slaves. Facece's role in both Arissa's law enforcement campaign and the slavery debate made it a symbolic battleground for competing visions of Imperial governance.
+The system is also home to the Imperial Slavers Association, which competed with Aisling's Angels in the slavery wager of April 3301. The ISA acquired 2,387,567 unregulated slaves for retraining at Lagerkvist Gateway, compared to Aisling's 1,149,756 freed Imperial slaves. Facece's role in both Arissa's law enforcement campaign and the slavery debate made it a symbolic battleground for competing visions of Imperial governance. In July 3312, Facece served as the launch point for Colonia's tenth-anniversary supply initiative, with Brewer Corporation cargo megaships loading commodities and rare goods for transport to the Colonia Nebula.

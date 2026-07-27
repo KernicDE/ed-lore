@@ -2,8 +2,8 @@
 id: jaques-station
 name: Jaques Station
 first_seen_date: '3302-05-05'
-last_seen_date: '3312-07-13'
-mention_count: 59
+last_seen_date: '3312-07-23'
+mention_count: 62
 significance: medium
 key_entities:
 - colonia-council
@@ -20,12 +20,17 @@ summary: The epic journey of Jaques Station, a mobile Orbis starport that was ac
   launched into deep space and later recovered, becoming a symbol of human resilience.
 status: Resolved
 outcome: Jaques Station was located in the Colonia region. The rescue effort established
-  the Colonia Connection highway and sparked colonization of the region.
+  the Colonia Connection highway and sparked colonization of the region. In 3312,
+  the settlement celebrated its tenth anniversary with corporate backing from Lakon
+  Spaceways and a major supply initiative launched from Facece, its historic starting
+  system. Brewer Corporation provided the cargo megaships that transported commodities
+  and rare goods to Colonia, though the effort was ultimately deemed a partial success.
 phases:
 - 'Phase 1: The Disappearance (3302-05-05)'
 - 'Phase 2: Rediscovery (3302-06-28)'
 - 'Phase 3: Colonia Bridge (3307-11-04)'
 - 'Phase 4: Tenth Anniversary (3312-05-19)'
+- 'Phase 5: Anniversary Supply Initiative (3312-07-16 to 3312-07-23)'
 ---
 
 
@@ -49,5 +54,8 @@ Brewer Corporation launched the Colonia Bridge project, constructing a chain of 
 ### Phase 4: Tenth Anniversary (3312-05-19)
 Jaques marked ten years since the station's fateful misjump and teased upcoming celebrations. Core-systems corporations, including Lakon Spaceways, publicly voiced support, and Jaques and the Colonia Council announced plans for a galaxy-spanning "Colonia Fair," backed by a major transportation effort of goods from the core systems.
 
+### Phase 5: Anniversary Supply Initiative (3312-07-16 to 3312-07-23)
+Colonia launched a supply initiative at Facece, the system where Jaques' story began, inviting pilots to register at Peters Base and deliver commodities and rare goods to Brewer Corporation cargo megaships. The campaign aimed to stock the anniversary "Colonia Fair" and establish a megamarket in the region. While the effort achieved partial success, the megaship fleet departed for Colonia on 3312-07-23, and the Council planned a follow-up call for assistance to distribute the goods across regional markets.
+
 ## Modern Relevance
-Jaques Station stands as proof that human settlement can thrive even in the most remote regions of the galaxy. The Colonia Bridge remains a vital artery for trade and exploration, and the tenth-anniversary "Colonia Fair" shows the region has grown from an accidental settlement into a recognised partner of the core systems' economy.
+Jaques Station stands as proof that human settlement can thrive even in the most remote regions of the galaxy. The Colonia Bridge remains a vital artery for trade and exploration, and the tenth-anniversary celebrations show the region has grown from an accidental settlement into a recognised partner of the core systems' economy. The supply initiative's partial success demonstrates that deep-space logistics remain challenging, even for a settlement that has become a confident economic actor.
