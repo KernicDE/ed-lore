@@ -2,8 +2,8 @@
 id: jaques-station
 name: Jaques Station
 first_seen_date: '3302-05-05'
-last_seen_date: '3312-07-23'
-mention_count: 62
+last_seen_date: '3312-07-27'
+mention_count: 63
 significance: medium
 key_entities:
 - colonia-council
@@ -25,12 +25,15 @@ outcome: Jaques Station was located in the Colonia region. The rescue effort est
   Spaceways and a major supply initiative launched from Facece, its historic starting
   system. Brewer Corporation provided the cargo megaships that transported commodities
   and rare goods to Colonia, though the effort was ultimately deemed a partial success.
+  The Pilots' Federation subsequently directed its members to Colonia to await the
+  Colonia Council's final instructions for the celebrations.
 phases:
 - 'Phase 1: The Disappearance (3302-05-05)'
 - 'Phase 2: Rediscovery (3302-06-28)'
 - 'Phase 3: Colonia Bridge (3307-11-04)'
 - 'Phase 4: Tenth Anniversary (3312-05-19)'
 - 'Phase 5: Anniversary Supply Initiative (3312-07-16 to 3312-07-23)'
+- 'Phase 6: Pilots Federation Mobilisation (3312-07-27)'
 ---
 
 
@@ -57,5 +60,8 @@ Jaques marked ten years since the station's fateful misjump and teased upcoming 
 ### Phase 5: Anniversary Supply Initiative (3312-07-16 to 3312-07-23)
 Colonia launched a supply initiative at Facece, the system where Jaques' story began, inviting pilots to register at Peters Base and deliver commodities and rare goods to Brewer Corporation cargo megaships. The campaign aimed to stock the anniversary "Colonia Fair" and establish a megamarket in the region. While the effort achieved partial success, the megaship fleet departed for Colonia on 3312-07-23, and the Council planned a follow-up call for assistance to distribute the goods across regional markets.
 
+### Phase 6: Pilots Federation Mobilisation (3312-07-27)
+With the megaship fleet due to arrive within days, the Pilots' Federation issued a formal reminder to all members encouraging a final push to support Colonia's tenth-anniversary celebrations. Pilots were directed to travel to Colonia and Jaques Station to await further instructions from the Colonia Council, which was expected to coordinate the distribution of commodities and rare goods across regional markets.
+
 ## Modern Relevance
-Jaques Station stands as proof that human settlement can thrive even in the most remote regions of the galaxy. The Colonia Bridge remains a vital artery for trade and exploration, and the tenth-anniversary celebrations show the region has grown from an accidental settlement into a recognised partner of the core systems' economy. The supply initiative's partial success demonstrates that deep-space logistics remain challenging, even for a settlement that has become a confident economic actor.
+Jaques Station stands as proof that human settlement can thrive even in the most remote regions of the galaxy. The Colonia Bridge remains a vital artery for trade and exploration, and the tenth-anniversary celebrations show the region has grown from an accidental settlement into a recognised partner of the core systems' economy. The supply initiative's partial success demonstrates that deep-space logistics remain challenging, even for a settlement that has become a confident economic actor. The Pilots' Federation's formal endorsement underscores the region's importance to the independent-pilot community.

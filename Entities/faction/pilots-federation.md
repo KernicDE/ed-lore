@@ -3,8 +3,8 @@ id: pilots-federation
 name: Pilots Federation
 type: faction
 first_seen_date: '3301-03-27'
-last_seen_date: '3312-02-10'
-mention_count: 136
+last_seen_date: '3312-07-27'
+mention_count: 137
 related_entities:
 - aegis
 - alliance
@@ -44,4 +44,4 @@ The Pilots Federation was established in 2805 to allow pilots to share trade-rou
 
 The organisation's primary source of wealth is the GalNet data network, which evolved from a simple database into the dominant interstellar aggregator of market information and galactic news. By 3300, Pilots Federation systems were fitted as standard on virtually all independent starships.
 
-The ranking system is the universal benchmark for pilot capability, progressing from Harmless to Elite across six career fields. Elite pilots receive permits to Shinrarta Dezhra, home to Jameson Memorial station. Despite enormous wealth and influence, the Federation maintains strict political neutrality, with its members frequently serving as contractors for all three superpowers. Its Rescue Rangers and ALERT system coordinate responses to crises ranging from Thargoid attacks to humanitarian emergencies.
+The ranking system is the universal benchmark for pilot capability, progressing from Harmless to Elite across six career fields. Elite pilots receive permits to Shinrarta Dezhra, home to Jameson Memorial station. Despite enormous wealth and influence, the Federation maintains strict political neutrality, with its members frequently serving as contractors for all three superpowers. Its Rescue Rangers and ALERT system coordinate responses to crises ranging from Thargoid attacks to humanitarian emergencies. In July 3312, the Federation formally encouraged its members to support Colonia's tenth-anniversary celebrations by travelling to the region and assisting with the distribution of commodities and rare goods.
