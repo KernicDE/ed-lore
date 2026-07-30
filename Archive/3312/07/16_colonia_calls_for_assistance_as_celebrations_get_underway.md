@@ -20,7 +20,6 @@ topics:
 - colonisation
 - community event
 - corporate expansion
-- trade
 entities:
 - name: Jaques
   type: person

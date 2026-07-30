@@ -19,7 +19,6 @@ modern_impact: The partial success tempers the optimism of Colonia's anniversary
 topics:
 - colonisation
 - community event
-- trade
 - corporate expansion
 entities:
 - name: Magen Wolfe

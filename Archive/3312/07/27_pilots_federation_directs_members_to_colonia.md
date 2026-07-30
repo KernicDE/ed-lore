@@ -17,7 +17,6 @@ modern_impact: The Pilots' Federation's formal endorsement of the Colonia celebr
 topics:
 - colonisation
 - community event
-- trade
 - pilots federation
 entities:
 - name: Pilots Federation
