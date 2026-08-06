@@ -59,6 +59,7 @@ related_uuids:
 - 2c4f1298-927b-5a7e-af52-27e03f20acec
 - ad97626f-efcc-550b-828a-35ca6493f0a1
 - 3958bc50-b17d-5db1-ba61-462ab4b157cd
+- 42e0c02a-7f80-59aa-abb7-b423537e2de9
 ---
 
 With huge numbers of commodities transferred from Brewer Corporation’s megaship fleet to Jaques Station, preparations for the tenth anniversary are in full swing.

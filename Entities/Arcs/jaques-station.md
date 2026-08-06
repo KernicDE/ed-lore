@@ -2,8 +2,8 @@
 id: jaques-station
 name: Jaques Station
 first_seen_date: '3302-05-05'
-last_seen_date: '3312-07-27'
-mention_count: 63
+last_seen_date: '3312-08-06'
+mention_count: 64
 significance: medium
 key_entities:
 - colonia-council
@@ -26,7 +26,12 @@ outcome: Jaques Station was located in the Colonia region. The rescue effort est
   system. Brewer Corporation provided the cargo megaships that transported commodities
   and rare goods to Colonia, though the effort was ultimately deemed a partial success.
   The Pilots' Federation subsequently directed its members to Colonia to await the
-  Colonia Council's final instructions for the celebrations.
+  Colonia Council's final instructions for the celebrations. On 3312-08-06, the anniversary
+  festival officially began across the Colonia enclave, with colonists welcoming visitors,
+  major starports hosting events, and the Council confirming that the commodities received
+  had boosted regional markets. Vox Galactica reported that new tourist beacons would
+  be placed around the region to commemorate significant events from Colonia's first
+  decade.
 phases:
 - 'Phase 1: The Disappearance (3302-05-05)'
 - 'Phase 2: Rediscovery (3302-06-28)'
@@ -34,6 +39,7 @@ phases:
 - 'Phase 4: Tenth Anniversary (3312-05-19)'
 - 'Phase 5: Anniversary Supply Initiative (3312-07-16 to 3312-07-23)'
 - 'Phase 6: Pilots Federation Mobilisation (3312-07-27)'
+- 'Phase 7: Anniversary Festival Begins (3312-08-06)'
 ---
 
 
@@ -62,6 +68,9 @@ Colonia launched a supply initiative at Facece, the system where Jaques' story b
 
 ### Phase 6: Pilots Federation Mobilisation (3312-07-27)
 With the megaship fleet due to arrive within days, the Pilots' Federation issued a formal reminder to all members encouraging a final push to support Colonia's tenth-anniversary celebrations. Pilots were directed to travel to Colonia and Jaques Station to await further instructions from the Colonia Council, which was expected to coordinate the distribution of commodities and rare goods across regional markets.
+
+### Phase 7: Anniversary Festival Begins (3312-08-06)
+The tenth-anniversary festival officially began across the Colonia enclave, with colonists welcoming visitors and major starports hosting events. Jaques credited independent pilots for making the celebrations possible and invited them to his bar, while Council spokesperson Magen Wolfe noted that the commodities received had boosted regional markets. Vox Galactica reported that new tourist beacons would be placed around the region to commemorate significant moments from Colonia's first decade, signalling the settlement's emergence as a family-friendly deep-space destination.
 
 ## Modern Relevance
 Jaques Station stands as proof that human settlement can thrive even in the most remote regions of the galaxy. The Colonia Bridge remains a vital artery for trade and exploration, and the tenth-anniversary celebrations show the region has grown from an accidental settlement into a recognised partner of the core systems' economy. The supply initiative's partial success demonstrates that deep-space logistics remain challenging, even for a settlement that has become a confident economic actor. The Pilots' Federation's formal endorsement underscores the region's importance to the independent-pilot community.

@@ -3,8 +3,8 @@ id: jaques
 name: Jaques
 type: person
 first_seen_date: '3302-05-05'
-last_seen_date: '3312-07-27'
-mention_count: 4
+last_seen_date: '3312-08-06'
+mention_count: 5
 related_entities:
 - jasmina-halsey
 - jacky-hew
@@ -18,8 +18,8 @@ related_entities:
 # Jaques
 
 First mentioned: **3302-05-05**  
-Last mentioned: **3312-07-27**  
-Total mentions: **4**
+Last mentioned: **3312-08-06**  
+Total mentions: **5**
 
 ## Related
 
@@ -36,3 +36,5 @@ Part flesh. Part alloy. Chrome cheek-plate to temple, pale optical implant, sub-
 He flew himself across half the galaxy once. Now he runs a station in Colonia — a waypoint that learned to have opinions — and listens to the equipment complain. During the DW3 expedition's stopover, Jaques reported what others dismissed as glitches: docking computers that "grew feelings," nav-buoys claiming to be cargo racks, a Scottish-singing voice alarm. The anomalies had intensified after a Pilots' Federation Eridanus-class cruiser uploaded survey data. Jaques did not use words like "haunted." He said: "The gear is behaving like it grew feelings." Then he introduced Halsey to Alessia Verdi, the Imperial pilot who had watched Salomé die and came away unwilling to follow saviours. Connections. Jaques makes them. It is what remains when you have replaced most of yourself with metal and still need to be useful.
 
 Ten years on from the misjump, he marked the anniversary the only way he knows how — with a wink and a plan. "It's high time the corporations in the core systems showered us with some love and attention," he told Vox Galactica, before announcing the first "Colonia Fair," a galaxy-sized exposition he wants the core systems' megacorps to help build. Exhibitions, performances, food, libations. When the supply initiative fell short of its targets, he joked that his Quinentian Still would remain the favourite rare commodity in Colonia. As the Pilots' Federation directed its members to the region for final preparations, Jaques' settlement prepared to celebrate its first decade at scale. Jaques still makes connections. He has just started doing it at scale.
+
+When the anniversary festival began in August 3312, he welcomed visitors to his bar and credited independent pilots for making the celebrations possible.
