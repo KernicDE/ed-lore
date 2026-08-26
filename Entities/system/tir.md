@@ -22,3 +22,15 @@ inara_url: https://inara.cz/elite/starsystem/?search=Tir
 
 
 <!-- AUTO-GENERATED -->
+
+# Tir
+
+First mentioned: **3304-05-25**  
+Last mentioned: **3304-06-03**  
+Total mentions: **4**
+
+## Related
+
+## Biography
+
+Tir is an independent system in the Colonia region. In August 3312 the Colonia Council placed a tourist beacon there as one of six systems commemorating the settlement's tenth anniversary.

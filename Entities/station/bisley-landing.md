@@ -32,4 +32,4 @@ Total mentions: **1**
 
 ## Biography
 
-Bisley Landing is a starport in the Benzaiten system and a regional tourism hub in the Colonia enclave. During the 3312 tenth-anniversary celebrations, its tourism spokesperson announced plans to place new tourist beacons around the region to mark significant events from Colonia's first decade.
+Bisley Landing is a starport in the Benzaiten system and a regional tourism hub in the Colonia enclave. During the 3312 tenth-anniversary celebrations, its tourism spokesperson announced plans to place new tourist beacons around the region to mark significant events from Colonia's first decade; the beacons were subsequently placed in six regional systems as the celebrations concluded.

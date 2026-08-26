@@ -47,4 +47,4 @@ Total mentions: **1**
 
 ## Biography
 
-*[To be enriched]*
+Luchtaine is a system in the Colonia region with a refinery and extraction economy. In August 3312 the Colonia Council placed a tourist beacon there as one of six systems commemorating the settlement's tenth anniversary.

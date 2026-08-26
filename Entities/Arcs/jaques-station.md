@@ -2,7 +2,7 @@
 id: jaques-station
 name: Jaques Station
 first_seen_date: '3302-05-05'
-last_seen_date: '3312-08-06'
+last_seen_date: '3312-08-20'
 mention_count: 64
 significance: medium
 key_entities:
@@ -31,7 +31,10 @@ outcome: Jaques Station was located in the Colonia region. The rescue effort est
   major starports hosting events, and the Council confirming that the commodities received
   had boosted regional markets. Vox Galactica reported that new tourist beacons would
   be placed around the region to commemorate significant events from Colonia's first
-  decade.
+  decade. The celebrations concluded on 3312-08-20 when the Colonia Council confirmed
+  that Jaques Station had become a full megamarket with outfitting and services, and
+  that six tourist beacons had been placed in Colonia, Carcosa, Einheriar, Tir, Luchtaine
+  and Blua Eaec WW-E c14-1293.
 phases:
 - 'Phase 1: The Disappearance (3302-05-05)'
 - 'Phase 2: Rediscovery (3302-06-28)'
@@ -40,6 +43,7 @@ phases:
 - 'Phase 5: Anniversary Supply Initiative (3312-07-16 to 3312-07-23)'
 - 'Phase 6: Pilots Federation Mobilisation (3312-07-27)'
 - 'Phase 7: Anniversary Festival Begins (3312-08-06)'
+- 'Phase 8: Anniversary Concludes with Megamarket (3312-08-20)'
 ---
 
 
@@ -72,5 +76,8 @@ With the megaship fleet due to arrive within days, the Pilots' Federation issued
 ### Phase 7: Anniversary Festival Begins (3312-08-06)
 The tenth-anniversary festival officially began across the Colonia enclave, with colonists welcoming visitors and major starports hosting events. Jaques credited independent pilots for making the celebrations possible and invited them to his bar, while Council spokesperson Magen Wolfe noted that the commodities received had boosted regional markets. Vox Galactica reported that new tourist beacons would be placed around the region to commemorate significant moments from Colonia's first decade, signalling the settlement's emergence as a family-friendly deep-space destination.
 
+### Phase 8: Anniversary Concludes with Megamarket (3312-08-20)
+As the celebrations wound down, the Colonia Council confirmed that Jaques Station had been upgraded into a full megamarket offering outfitting and services. Jaques told Vox Galactica he had called in old favours and negotiated with several corporations to make the upgrade possible, hailing it as a major boost for Colonia and the surrounding region. Council spokesperson Magen Wolfe thanked the pilots who travelled to Colonia for their part in the anniversary's success, and the Council announced that six tourist beacons had been placed in Colonia, Carcosa, Einheriar, Tir, Luchtaine and Blua Eaec WW-E c14-1293 to guide visitors through the settlement's first decade.
+
 ## Modern Relevance
-Jaques Station stands as proof that human settlement can thrive even in the most remote regions of the galaxy. The Colonia Bridge remains a vital artery for trade and exploration, and the tenth-anniversary celebrations show the region has grown from an accidental settlement into a recognised partner of the core systems' economy. The supply initiative's partial success demonstrates that deep-space logistics remain challenging, even for a settlement that has become a confident economic actor. The Pilots' Federation's formal endorsement underscores the region's importance to the independent-pilot community.
+Jaques Station stands as proof that human settlement can thrive even in the most remote regions of the galaxy. The Colonia Bridge remains a vital artery for trade and exploration, and the tenth-anniversary celebrations show the region has grown from an accidental settlement into a recognised partner of the core systems' economy. The supply initiative's partial success demonstrates that deep-space logistics remain challenging, even for a settlement that has become a confident economic actor. The Pilots' Federation's formal endorsement underscores the region's importance to the independent-pilot community. The subsequent megamarket upgrade of Jaques Station and the placement of commemorative tourist beacons confirm that the settlement has become a permanent, self-sustaining destination rather than a remote accident of history.

@@ -30,4 +30,4 @@ Total mentions: **1**
 
 ## Biography
 
-Benzaiten is a system in the Colonia region and home to Bisley Landing. It was highlighted during the 3312 tenth-anniversary celebrations as a destination for new tourist beacons commemorating the settlement's first decade.
+Benzaiten is a system in the Colonia region and home to Bisley Landing. It was highlighted during the 3312 tenth-anniversary celebrations as part of the regional tourism initiative, and the announced tourist beacons were subsequently placed in six Colonia systems as the celebrations concluded.

@@ -48,6 +48,7 @@ related_uuids:
 - 2c4f1298-927b-5a7e-af52-27e03f20acec
 - ad97626f-efcc-550b-828a-35ca6493f0a1
 - 3958bc50-b17d-5db1-ba61-462ab4b157cd
+- 6a7fc082-3f67-56da-b81f-3c9ee54feb61
 ---
 
 The festival marking the tenth anniversary of the founding of Colonia has begun in earnest.

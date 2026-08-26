@@ -4,6 +4,37 @@ title: Research Sheds New Light on Industrial Mining
 slug: research_sheds_new_light_on_industrial_mining
 date: '3312-08-24'
 source: API
+summary: Wreaken Mining chief geologist Dr. Ben Curtis has published research arguing
+  that modulated, tightly focused lasers can recover previously unobtainable resources
+  from planetary surfaces, with new mining modules and modified surface scanners already
+  in production.
+player_impact: Miners can expect new surface laser drills, refinery modules and Detailed
+  Surface Scanner modifications that reveal fresh planetary mining sites, potentially
+  opening a surface-mining boom.
+modern_impact: The proposed technology could make surface mining far more efficient and
+  profitable, changing loadout choices and drawing independent miners and conglomerates
+  back to planetary extraction.
+topics:
+- mining
+- research
+- technology
+- corporate expansion
+entities:
+- name: Wreaken Mining
+  type: faction
+  role: Mining company whose chief geologist authored the research and is manufacturing
+    new extraction equipment
+- name: Dr. Ben Curtis
+  type: person
+  role: Wreaken Mining Chief Geologist who proposed modulated laser mining and wrote
+    the research essay
+- name: Adalyn Cross
+  type: person
+  role: Freelance journalist who reviewed the research for Vox Galactica
+- name: Vox Galactica
+  type: faction
+  role: News outlet reporting on the research and anticipated mining boom
+locations: []
 ---
 
 A widespread review of current surface mining techniques has been sparked by recently published research.

@@ -41,4 +41,4 @@ Total mentions: **1**
 
 ## Biography
 
-*[To be enriched]*
+Carcosa is an independent system in the Colonia region. In August 3312 the Colonia Council placed a tourist beacon there as one of six systems commemorating the settlement's tenth anniversary.
