@@ -4,6 +4,39 @@ title: Vodel Reveals New SRV Rhino
 slug: vodel_reveals_new_srv_rhino
 date: '3312-09-02'
 source: API
+summary: Vodel, maker of the Scarab and Scorpion SRVs, has unveiled the Rhino, the largest
+  SRV available. Heavily armoured and built for harsh terrain, it sacrifices speed for
+  superior grip, deploys only from a Large Vehicle Bay, and comes standard with deployable
+  mining rigs through a joint venture between Vodel and Wreaken Mining, plus an optional
+  on-site refinery module. The Rhino is available as an early-release purchase ahead of
+  wider shipyard availability.
+player_impact: Commanders can buy the Rhino as an early-release purchase before it reaches
+  general shipyard inventories. Piloting it requires a compatible ship fitted with a Large
+  Vehicle Bay, and its standard deployable mining rigs and optional refinery module make
+  it a ready-made platform for planetside mining operations.
+modern_impact: The Rhino introduces a new heavy SRV class that trades speed for armour
+  and terrain handling, expanding what planetary surfaces are practically reachable. Its
+  factory-integrated mining equipment signals a broader industry shift toward surface
+  extraction, positioning Vodel and Wreaken Mining at the centre of an emerging
+  surface-mining economy.
+topics:
+- technology
+- mining
+- corporate expansion
+persons:
+- Owen McKenna
+groups:
+- Vodel
+- Wreaken Mining
+- Core Dynamics
+technologies:
+- Rhino
+- SRV
+locations: []
+arc_id: rhino-srv-rollout
+related_uuids:
+- 3cfbd6ed-0fa5-55e9-b05f-cce7eaa47490
+- 0ed9ac77-4a40-5909-96f7-12acfa5f2efe
 ---
 
 Vodel, the manufacturer of the Scarab and Scorpion surface recon vehicles, has announced its latest addition – the SRV Rhino.

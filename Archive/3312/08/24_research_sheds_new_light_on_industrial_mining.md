@@ -19,22 +19,17 @@ topics:
 - research
 - technology
 - corporate expansion
-entities:
-- name: Wreaken Mining
-  type: faction
-  role: Mining company whose chief geologist authored the research and is manufacturing
-    new extraction equipment
-- name: Dr. Ben Curtis
-  type: person
-  role: Wreaken Mining Chief Geologist who proposed modulated laser mining and wrote
-    the research essay
-- name: Adalyn Cross
-  type: person
-  role: Freelance journalist who reviewed the research for Vox Galactica
-- name: Vox Galactica
-  type: faction
-  role: News outlet reporting on the research and anticipated mining boom
+persons:
+- Dr. Ben Curtis
+- Adalyn Cross
+groups:
+- Wreaken Mining
+- Vox Galactica
 locations: []
+arc_id: rhino-srv-rollout
+related_uuids:
+- b1687401-e98b-50d3-8e7f-6fc656c56bfa
+- 0ed9ac77-4a40-5909-96f7-12acfa5f2efe
 ---
 
 A widespread review of current surface mining techniques has been sparked by recently published research.
