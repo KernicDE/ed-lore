@@ -2,8 +2,8 @@
 id: hip-87621
 name: HIP 87621 Conflict
 first_seen_date: '3311-09-02'
-last_seen_date: '3312-07-09'
-mention_count: 26
+last_seen_date: '3312-09-11'
+mention_count: 27
 significance: medium
 key_entities:
 - october-consortium
@@ -37,7 +37,9 @@ outcome: The October Accords placed HIP 87621 under corporate custodianship, wit
   detained xenobiologist Terri Tora without further charges. Chair Lexi October cited
   Tora's cooperation and the changed circumstances following the Accords, while Tora
   herself insisted that scientific discoveries such as Radicoida unica should not be
-  kept secret.
+  kept secret. In September 3312, Winters escalated her rhetoric further, stating that
+  Federal military analysts now assessed the October Accords coalition as a credible
+  security threat over its exclusive research into weaponising Radicoida unica.
 phases:
 - 'Phase 1: The Lockdown (3311-09-02)'
 - 'Phase 2: The Enclave Conflict (3311-11-27)'
@@ -46,6 +48,7 @@ phases:
 - 'Phase 5: Guardian Cultivation Clarified (3312-06-10)'
 - 'Phase 6: Federation Breaks Silence (3312-06-29)'
 - 'Phase 7: Terri Tora Released (3312-07-09)'
+- 'Phase 8: Federation Alleges Weaponisation (3312-09-11)'
 ---
 
 
@@ -75,5 +78,8 @@ Federal President Felicia Winters publicly addressed the Federation's exclusion 
 ### Phase 7: Terri Tora Released (3312-07-09)
 The October Consortium unexpectedly released detained xenobiologist Terri Tora without further charges. Tora had been held since late 3311 after stowing away on a Consortium megaship and circumventing the HIP 87621 permit lock, and her detention had become a long-running grievance for critics of the Consortium. Speaking to Vox Galactica, Lexi October stated that Tora had been fully cooperative in questioning and that the changed circumstances following the October Accords made continued detention unnecessary. Tora was met at Exogene Sciences by her colleague Professor Frank Raddix, and the pair departed under October Accord escort.
 
+### Phase 8: Federation Alleges Weaponisation (3312-09-11)
+President Felicia Winters sharply escalated the Federation's position, stating from the White House at Olympus Village, Mars, that Federal military analysts had concluded the October Accords coalition now posed a credible security threat. Winters alleged that research into Radicoida unica had been solely directed toward weaponising the flora, and framed the Federation's continued exclusion as evidence it was now a target. She closed with a warning that any act of aggression would be met with the Federation's strongest response.
+
 ## Modern Relevance
-The HIP 87621 conflict set a significant legal precedent: a private corporation mediating between superpowers and controlling disputed territory. The October Consortium's rise from tech investor to geopolitical broker demonstrated how exobiological discoveries can rapidly reshape power structures. The Federation's exclusion may fuel future reclamation attempts, while the corporate custodianship model could be replicated elsewhere in disputed frontier regions. Winters' June 3312 warning raised the stakes further, suggesting that the Accords' stability depends on whether the October Consortium can satisfy superpower demands for access without triggering a new research race. Tora's July 3312 release removed one source of pressure on the Consortium, but her statement that discoveries like Radicoida unica should not be kept secret kept the debate over corporate control of scientific knowledge alive.
+The HIP 87621 conflict set a significant legal precedent: a private corporation mediating between superpowers and controlling disputed territory. The October Consortium's rise from tech investor to geopolitical broker demonstrated how exobiological discoveries can rapidly reshape power structures. The Federation's exclusion may fuel future reclamation attempts, while the corporate custodianship model could be replicated elsewhere in disputed frontier regions. Winters' June 3312 warning raised the stakes further, suggesting that the Accords' stability depends on whether the October Consortium can satisfy superpower demands for access without triggering a new research race. Tora's July 3312 release removed one source of pressure on the Consortium, but her statement that discoveries like Radicoida unica should not be kept secret kept the debate over corporate control of scientific knowledge alive. Winters' September 3312 escalation — alleging deliberate weaponisation rather than mere research disadvantage — pushes the dispute from diplomatic grievance toward an explicit security standoff, raising the risk of unilateral Federal action against the Accords coalition.

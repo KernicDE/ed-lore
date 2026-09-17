@@ -4,6 +4,35 @@ title: SRV and Surface Mining Trials Deemed Resounding Success
 slug: srv_and_surface_mining_trials_deemed_resounding_success
 date: '3312-09-17'
 source: API
+summary: Vodel and Wreaken Mining jointly declared the early-release field trials of the
+  new Rhino SRV and its deployable mining rig a resounding success, with telemetry from
+  independent pilots showing strong performance across rough planetary terrain and an
+  unprecedented mineral yield from the rig.
+player_impact: The trials have concluded, and the Rhino with its integrated mining rig
+  remains available for exclusive purchase, with transition to standard shipyard
+  inventories expected at a later date.
+modern_impact: A successful trial validates Wreaken's modulated laser-mining research and
+  confirms the Rhino as a viable heavy mining platform, setting up a wider shipyard
+  rollout that could reshape planetary surface extraction industry-wide.
+topics:
+- mining
+- technology
+- community initiative
+persons:
+- Owen McKenna
+- Dr. Ben Curtis
+groups:
+- Vodel
+- Wreaken Mining
+- Core Dynamics
+technologies:
+- Rhino
+locations: []
+arc_id: rhino-srv-rollout
+related_uuids:
+- 3cfbd6ed-0fa5-55e9-b05f-cce7eaa47490
+- b1687401-e98b-50d3-8e7f-6fc656c56bfa
+- 0ed9ac77-4a40-5909-96f7-12acfa5f2efe
 ---
 
 Vodel confirmed in a joint press statement with Wreaken Mining that recent early release trials of the new Rhino SRV had been a huge success.

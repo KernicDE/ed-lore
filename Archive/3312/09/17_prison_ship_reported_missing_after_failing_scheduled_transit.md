@@ -4,6 +4,33 @@ title: Prison Ship Reported Missing After Failing Scheduled Transit
 slug: prison_ship_reported_missing_after_failing_scheduled_transit
 date: '3312-09-17'
 source: API
+summary: The Independent Detention Foundation confirmed that the Riker-class Reformatory
+  EVE-597 failed to arrive at Gliese 506.2 after jumping from Nones, with no debris
+  detected along its four-system prisoner transit route. The Foundation is treating the
+  disappearance as concerning but maintains there is no cause for alarm.
+player_impact: No bounty or search directive has been issued. Independent pilots travelling
+  the Nones, Gliese 506.2, Evenses or Chematja corridor may wish to report any sighting
+  of the Riker-class Reformatory EVE-597 to the Independent Detention Foundation.
+modern_impact: A long-serving, fully-crewed prison transport vanishing without a confirmed
+  mis-jump or debris trail leaves the Foundation's reassurances largely unverified, and
+  the disappearance follows closely on reports of unusual pirate-affiliated activity
+  shadowing prisoner transfers in the same period.
+topics:
+- crime
+- security
+- mystery
+persons: []
+groups:
+- Independent Detention Foundation
+locations:
+- Nones
+- Gliese 506.2
+- Evenses
+- Chematja
+arc_id: prison-transport-concerns
+arc_chapter: The Disappearance
+related_uuids:
+- 646e2d8d-697c-577e-82a0-64dcc82c34dd
 ---
 
 The Independent Detention Foundation confirmed yesterday that Riker-class Reformatory EVE-597 had failed to report in following its scheduled jump.

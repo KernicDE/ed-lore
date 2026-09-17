@@ -3,8 +3,8 @@ id: core-dynamics
 name: Core Dynamics
 type: faction
 first_seen_date: '3301-02-14'
-last_seen_date: '3312-09-03'
-mention_count: 62
+last_seen_date: '3312-09-17'
+mention_count: 63
 related_entities:
 - federal-navy
 - alliance

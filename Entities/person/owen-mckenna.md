@@ -3,14 +3,15 @@ id: owen-mckenna
 name: Owen McKenna
 type: person
 first_seen_date: '3307-03-05'
-last_seen_date: '3312-09-03'
-mention_count: 11
+last_seen_date: '3312-09-17'
+mention_count: 12
 bio: Owen McKenna is the CEO of Core Dynamics, appointed after Jupiter Rochester's imprisonment
   for treason and mass murder in March 3307. He led the campaign to purge Rochester loyalists
   and defeat the breakaway Jupiter Division, then steered the company back toward its military
   manufacturing roots. In 3312, McKenna announced the full production and general shipyard
   availability of the Kestrel fighter, and unveiled the Vodel-Wreaken Mining joint venture
-  behind the Rhino SRV's integrated mining rigs.
+  behind the Rhino SRV's integrated mining rigs, whose field trials he later declared a
+  resounding success.
 ---
 
 
@@ -32,4 +33,4 @@ Owen McKenna is the CEO of Core Dynamics who took over after Jupiter Rochester's
 
 Under McKenna's leadership, Core Dynamics battled Jupiter Division in the Ts'ao Tach system and eventually triumphed in June 3307. McKenna also oversaw the company's acquisition of Vodel in 3305, which led to the development of the Scorpion SRV. His tenure represented a return to Core Dynamics' traditional military manufacturing focus after Rochester's failed attempt to transform the Federation into a corporatocracy. In June 3312, McKenna announced that the Kestrel fighter had moved from limited release to full production and was now available at shipyards across the core systems.
 
-In September 3312, McKenna announced a joint venture between Vodel and Wreaken Mining that equipped the newly unveiled Rhino SRV — the largest surface recon vehicle to date — with deployable mining rigs as standard, extending Core Dynamics' portfolio beyond combat craft into industrial surface operations.
+In September 3312, McKenna announced a joint venture between Vodel and Wreaken Mining that equipped the newly unveiled Rhino SRV — the largest surface recon vehicle to date — with deployable mining rigs as standard, extending Core Dynamics' portfolio beyond combat craft into industrial surface operations. Field trials of the Rhino and its rig concluded later that month, which McKenna and Wreaken jointly declared a resounding success.
