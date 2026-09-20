@@ -70,3 +70,35 @@ scripts/audio_generation.log
 # AI assistant files
 AGENTS.md
 CLAUDE.md
+
+# Secrets / lokale Konfiguration
+!.env.example
+!.env.sample
+*.env.local
+config.env
+!config.env.example
+.secrets
+.env.secrets
+*.secret
+*.pem
+*.p12
+*.pfx
+id_rsa*
+id_ed25519*
+*.htpasswd
+credentials.json
+service-account*.json
+
+# Claude Code / KI-Tooling (Session-Dumps enthalten oft Klartext-Zugangsdaten)
+.claude/
+.superpowers/
+[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]-*.txt
+
+# OS / Editor
+*@SynoEAStream
+*@SynoResource
+*.sublime-workspace
+
+# Python
+*.egg-info/
+.pytest_cache/
