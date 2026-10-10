@@ -3,8 +3,8 @@ id: vox-galactica
 name: Vox Galactica
 type: faction
 first_seen_date: '3304-09-12'
-last_seen_date: '3312-09-22'
-mention_count: 41
+last_seen_date: '3312-10-08'
+mention_count: 43
 related_entities:
 - pilots-federation
 - interstellar-health-organisation
@@ -27,8 +27,8 @@ bio: 'Vox Galactica is a organization active in Elite Dangerous lore from 3304-0
 # Vox Galactica
 
 First mentioned: **3304-09-12**  
-Last mentioned: **3312-09-22**  
-Total mentions: **40**
+Last mentioned: **3312-10-08**  
+Total mentions: **42**
 
 ## Related
 
@@ -42,4 +42,4 @@ Total mentions: **40**
 
 Vox Galactica is an independent news agency that has established itself as one of the galaxy's most reliable sources for investigative reporting on scientific, humanitarian, and corporate affairs. Unlike superpower-controlled outlets such as the Federal Times or Imperial Citizen, Vox Galactica operates without direct government sponsorship — though its editorial independence has not insulated it from corporate pressure, particularly when reporting on Core Dynamics and other major conglomerates.
 
-The agency gained prominence through its coverage of major expeditions including Distant Worlds, the Far God cult survivor Kiona O'Connor, and the Vitadyne nanomedicine controversy. In July 3312 it reported on the Vista Genomics and Faulcon DeLacy partnership to survey the Sanguineous Rim with the new Nomad exploration vessel, carried Lexi October's statement announcing the surprise release of detained xenobiologist Terri Tora, covered core-systems megacorporations' public backing of Colonia's tenth-anniversary celebrations, and followed the Colonia supply initiative from its launch in Facece to its partial success. As the anniversary festival began, the agency reported that new tourist beacons would commemorate Colonia's first decade. Vox Galactica later covered the conclusion of the celebrations, including Jaques Station's upgrade to a megamarket and the placement of six commemorative beacons, and also reported on Wreaken Mining research into more efficient planetary surface laser mining. In September 3312, the agency carried the Independent Detention Foundation's account of unusual pirate-affiliated traffic loitering near its prison reformatories. Days after the Foundation's Riker-class Reformatory EVE-597 vanished mid-transit, Vox Galactica reported the vessel found drifting and damaged in the Redonesses system and carried the Foundation's acknowledgement of a "disturbance" on board.
+The agency gained prominence through its coverage of major expeditions including Distant Worlds, the Far God cult survivor Kiona O'Connor, and the Vitadyne nanomedicine controversy. In July 3312 it reported on the Vista Genomics and Faulcon DeLacy partnership to survey the Sanguineous Rim with the new Nomad exploration vessel, carried Lexi October's statement announcing the surprise release of detained xenobiologist Terri Tora, covered core-systems megacorporations' public backing of Colonia's tenth-anniversary celebrations, and followed the Colonia supply initiative from its launch in Facece to its partial success. As the anniversary festival began, the agency reported that new tourist beacons would commemorate Colonia's first decade. Vox Galactica later covered the conclusion of the celebrations, including Jaques Station's upgrade to a megamarket and the placement of six commemorative beacons, and also reported on Wreaken Mining research into more efficient planetary surface laser mining. In September 3312, the agency carried the Independent Detention Foundation's account of unusual pirate-affiliated traffic loitering near its prison reformatories. Days after the Foundation's Riker-class Reformatory EVE-597 vanished mid-transit, Vox Galactica reported the vessel found drifting and damaged in the Redonesses system and carried the Foundation's acknowledgement of a "disturbance" on board. The agency later interviewed Brewer Corporation CEO Madelyn Teague about the company's "jump satellite" technology for fleet carriers, and carried Wallglass detective Erik Gunnarson's statement that the EVE-597 prisoner breakout was coordinated with support from inside the ship.

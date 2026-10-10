@@ -4,6 +4,36 @@ title: Prison Ship Break Subdued in Redonesses
 slug: prison_ship_break_subdued_in_redonesses
 date: '3312-10-08'
 source: API
+summary: The Independent Detention Foundation has regained control of EVE-597, with all
+  prisoners on board secured and the vast majority of escapees recovered in the Redonesses
+  system. The Wallglass Investigations Agency has been appointed to determine how the
+  breakout was coordinated, with detective Erik Gunnarson stating that partial telemetry
+  points to support from inside the ship and that a pre-incident leak of the megaship's
+  security data is being actively explored.
+player_impact: Independent pilots who protected convict recovery efforts in Redonesses
+  are thanked for their service; no further combat action is requested. The Foundation
+  confirmed EVE-597 will resume its normal jump itinerary as soon as possible.
+modern_impact: The subdued breakout closes the immediate crisis but leaves the arc's
+  central question open: whether EVE-597's security data was disclosed to a third party
+  before the incident. Wallglass's investigation may yet reveal outside involvement in
+  the prisoner takeover, keeping the affair politically sensitive for the Foundation.
+topics:
+- crime
+- security
+- investigation
+persons:
+- Erik Gunnarson
+groups:
+- Independent Detention Foundation
+- Wallglass Investigations Agency
+- Vox Galactica
+locations:
+- Redonesses
+arc_id: prison-transport-concerns
+arc_chapter: The Aftermath
+related_uuids:
+- 91e4c25d-794e-5955-8474-041c235470a5
+- 00c51254-d1c6-5469-807f-1bde6d645e8f
 ---
 
 The Independent Detention Foundation has thanked independent pilots who protected convict recovery efforts in the Redonesses system.

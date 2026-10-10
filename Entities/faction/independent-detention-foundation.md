@@ -3,8 +3,8 @@ id: independent-detention-foundation
 name: Independent Detention Foundation
 type: faction
 first_seen_date: '3312-09-14'
-last_seen_date: '3312-09-22'
-mention_count: 3
+last_seen_date: '3312-10-08'
+mention_count: 5
 related_entities:
 - nones
 - gliese-5062
@@ -14,6 +14,9 @@ related_entities:
 - eve-597
 - clan-of-redonesses
 - redonesses
+- sword-of-iustitia
+- wallglass-investigations-agency
+- erik-gunnarson
 ---
 
 <!-- AUTO-GENERATED -->
@@ -21,8 +24,8 @@ related_entities:
 # Independent Detention Foundation
 
 First mentioned: **3312-09-14**  
-Last mentioned: **3312-09-22**  
-Total mentions: **3**
+Last mentioned: **3312-10-08**  
+Total mentions: **5**
 
 ## Related
 
@@ -39,3 +42,5 @@ The Independent Detention Foundation operates a fleet of prison reformatory ship
 Days later, the Foundation confirmed that EVE-597 had failed to arrive at Gliese 506.2 after jumping from Nones, one of four confirmed waypoints on its transit contract alongside Evenses and Chematja. With no debris detected, the Foundation described the vessel's disappearance as concerning but maintained confidence in its long-serving crew.
 
 On 3312-09-22, EVE-597 was found drifting and damaged in the Redonesses system, which is controlled by the lawless Clan of Redonesses. The Foundation acknowledged that a "disturbance" had occurred on board during the transit window but declined to provide further details, asking onlookers to keep a safe distance until a full investigation is completed.
+
+In October 3312, a mass prisoner breakout aboard EVE-597 was subdued with the help of independent pilots operating from the Sword of Iustitia, and the ship returned to Foundation control with nearly all escapees recaptured. The Foundation appointed the Wallglass Investigations Agency to determine how the breakout was coordinated from inside the ship and pledged full cooperation with the inquiry.
