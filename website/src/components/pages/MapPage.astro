@@ -1,0 +1,47 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import EntityGraph from '../graph/EntityGraph';
+import PageHeader from './PageHeader.astro';
+import { t, type Lang } from '../../i18n/dict';
+
+interface Props {
+  lang?: Lang;
+}
+
+const { lang = 'en' } = Astro.props;
+const baseUrl = (import.meta.env.BASE_URL || '').replace(/\/$/, '');
+---
+
+<BaseLayout
+  title={`${t(lang, 'mapTitle')} — ED Lore`}
+  description={t(lang, 'mapDescription')}
+  lang={lang}
+>
+  <PageHeader lang={lang} showSearch={false} showMapLink={false} subtitle={t(lang, 'mapShortTitle')} />
+
+  <div class="ai-content">
+    <div style="padding: 16px 24px 0;">
+      <div class="holo-panel">
+        <div class="holo-title">{t(lang, 'mapTitle')}</div>
+        <p style="margin: 4px 0 0; font-size: 13px; color: var(--text-secondary); line-height: 1.5;">
+          {t(lang, 'mapExplainer')}
+        </p>
+      </div>
+    </div>
+
+    <div style="padding: 0 24px 24px;">
+      <div class="holo-panel" style="padding: 0; overflow: hidden;">
+        <EntityGraph client:load mode="full" baseUrl={baseUrl} />
+      </div>
+    </div>
+  </div>
+
+  <div class="raw-only" style="padding: 60px 24px; text-align: center;">
+    <div style="font-family: var(--font-hud); font-size: 18px; color: var(--elite-orange); letter-spacing: 2px; margin-bottom: 12px;">
+      {t(lang, 'mapUnavailableTitle')}
+    </div>
+    <div style="font-family: var(--font-mono); font-size: 13px; color: var(--text-secondary); max-width: 500px; margin: 0 auto; line-height: 1.6;">
+      {t(lang, 'mapUnavailableBody')}
+    </div>
+  </div>
+</BaseLayout>

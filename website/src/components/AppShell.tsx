@@ -4,6 +4,7 @@ import Timeline from './timeline/Timeline';
 import ContextPanel from './context/ContextPanel';
 import CommandConsole from './hud/CommandConsole';
 import AudioPlayer from './audio/AudioPlayer';
+import { LanguageProvider, useLanguage } from '../i18n/LanguageContext';
 
 interface Article {
   uuid: string;
@@ -49,6 +50,15 @@ interface Arc {
 const BASE = (import.meta.env.BASE_URL || '/').replace(/\/$/, '');
 
 export default function AppShell() {
+  return (
+    <LanguageProvider>
+      <AppShellInner />
+    </LanguageProvider>
+  );
+}
+
+function AppShellInner() {
+  const { t } = useLanguage();
   const [articles, setArticles] = useState<Article[]>([]);
   const [entities, setEntities] = useState<Record<string, Entity>>({});
   const [arcs, setArcs] = useState<Record<string, Arc>>({});
@@ -257,7 +267,7 @@ export default function AppShell() {
         fontSize: 14,
         letterSpacing: '0.1em',
       }}>
-        Loading ED Lore archive…
+        {t('loadingArchive')}
       </div>
     );
   }

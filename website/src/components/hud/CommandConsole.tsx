@@ -1,5 +1,6 @@
 import { useState, useEffect, useRef, useCallback, useMemo } from 'react';
 import Fuse from 'fuse.js';
+import { useLanguage } from '../../i18n/LanguageContext';
 
 interface SearchItem {
   id: string;
@@ -21,6 +22,7 @@ interface CommandConsoleProps {
 }
 
 export default function CommandConsole({ searchIndex, entities, arcs, onArticleNavigate, onClose }: CommandConsoleProps) {
+  const { t } = useLanguage();
   const [query, setQuery] = useState('');
   const [selectedIdx, setSelectedIdx] = useState(0);
   const inputRef = useRef<HTMLInputElement>(null);
@@ -55,7 +57,7 @@ export default function CommandConsole({ searchIndex, entities, arcs, onArticleN
         id: e.id,
         title: e.name,
         type: 'entity' as const,
-        desc: `Type: ${e.type}`,
+        desc: `${t('typePrefix')} ${e.type}`,
         path: `${baseUrl}/entity/${e.id}/`,
         isArticle: false,
       })) : []),
@@ -73,7 +75,7 @@ export default function CommandConsole({ searchIndex, entities, arcs, onArticleN
       threshold: 0.3,
       includeScore: true,
     });
-  }, [searchIndex, entities, arcs, baseUrl, aiMode]);
+  }, [searchIndex, entities, arcs, baseUrl, aiMode, t]);
 
   const results = useMemo(() => {
     if (!query.trim()) return [];
@@ -154,6 +156,13 @@ export default function CommandConsole({ searchIndex, entities, arcs, onArticleN
     location: 'var(--elite-yellow)',
   };
 
+  const typeLabelKeys: Record<string, string> = {
+    article: 'typeArticle',
+    entity: 'typeEntity',
+    arc: 'typeArc',
+    location: 'typeLocation',
+  };
+
   return (
     <div className="search-overlay" onClick={onClose}>
       <div className="search-modal" onClick={(e) => e.stopPropagation()}>
@@ -162,21 +171,21 @@ export default function CommandConsole({ searchIndex, entities, arcs, onArticleN
           <input
             ref={inputRef}
             className="search-input"
-            placeholder={aiMode ? "Search articles, entities, arcs... (official: / chronicle: / cmdr:)" : "Search raw article text... (official: / chronicle: / cmdr:)"}
+            placeholder={aiMode ? t('searchPlaceholderAi') : t('searchPlaceholderRaw')}
             value={query}
             onChange={(e) => setQuery(e.target.value)}
           />
-          <span className="search-shortcut">ESC</span>
+          <span className="search-shortcut">{t('esc')}</span>
         </div>
         {!aiMode && (
           <div style={{ padding: '6px 24px', fontFamily: 'var(--font-mono)', fontSize: 11, color: 'var(--text-dim)', borderBottom: '1px solid var(--border-default)' }}>
-            Raw mode — searching article titles and full body text
+            {t('rawModeHint')}
           </div>
         )}
         <div className="search-results">
           {results.length === 0 && query.trim() && (
             <div style={{ padding: 24, textAlign: 'center', color: 'var(--text-dim)', fontSize: 15 }}>
-              No results found
+              {t('noResults')}
             </div>
           )}
           {results.map((item, i) => (
@@ -190,7 +199,7 @@ export default function CommandConsole({ searchIndex, entities, arcs, onArticleN
                 className="search-result-type"
                 style={{ borderColor: typeColors[item.type] || 'var(--border-glow)', color: typeColors[item.type] || 'var(--text-dim)' }}
               >
-                {item.type}
+                {t(typeLabelKeys[item.type] || 'typeArticle')}
               </span>
               <div style={{ minWidth: 0 }}>
                 <div className="search-result-title">{item.title}</div>

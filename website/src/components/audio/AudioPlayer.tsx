@@ -1,4 +1,5 @@
 import { useState, useRef, useEffect, useCallback } from 'react';
+import { useLanguage } from '../../i18n/LanguageContext';
 
 interface Article {
   uuid: string;
@@ -29,10 +30,11 @@ function getAudioUrl(uuid: string, hash?: string): string {
 const LOAD_TIMEOUT_MS = 20_000; // 20 seconds before showing error
 
 export default function AudioPlayer({ article }: AudioPlayerProps) {
+  const { t } = useLanguage();
   const [isPlaying, setIsPlaying] = useState(false);
   const [currentTime, setCurrentTime] = useState(0);
   const [duration, setDuration] = useState(0);
-  const [error, setError] = useState<string | null>(null);
+  const [error, setError] = useState(false);
   const [isLoading, setIsLoading] = useState(false);
   const audioRef = useRef<HTMLAudioElement | null>(null);
   const rafRef = useRef<number>(0);
@@ -40,9 +42,9 @@ export default function AudioPlayer({ article }: AudioPlayerProps) {
 
   const audioUrl = article ? getAudioUrl(article.uuid, article.audio_hash) : null;
 
-  const catBadge = article?.category === 'galnet' ? '◈ Official'
-    : article?.category === 'chronicle' ? '📖 Chronicle'
-    : article?.category === 'cmdr-log' ? '✎ CMDR Log'
+  const catBadge = article?.category === 'galnet' ? t('badgeOfficial')
+    : article?.category === 'chronicle' ? t('badgeChronicle')
+    : article?.category === 'cmdr-log' ? t('badgeCmdrLog')
     : '';
   const catColor = article?.category === 'galnet' ? 'var(--elite-orange)'
     : article?.category === 'chronicle' ? 'var(--elite-blue)'
@@ -74,7 +76,7 @@ export default function AudioPlayer({ article }: AudioPlayerProps) {
     setIsPlaying(false);
     setCurrentTime(0);
     setDuration(0);
-    setError(null);
+    setError(false);
     setIsLoading(false);
     clearLoadTimeout();
 
@@ -92,7 +94,7 @@ export default function AudioPlayer({ article }: AudioPlayerProps) {
     setIsLoading(true);
     loadTimeoutRef.current = setTimeout(() => {
       setIsLoading(false);
-      setError('Audio not available');
+      setError(true);
       setIsPlaying(false);
     }, LOAD_TIMEOUT_MS);
 
@@ -111,26 +113,26 @@ export default function AudioPlayer({ article }: AudioPlayerProps) {
     audio.addEventListener('error', () => {
       clearLoadTimeout();
       setIsLoading(false);
-      setError('Audio not available');
+      setError(true);
       setIsPlaying(false);
     });
 
     audio.addEventListener('canplay', () => {
       clearLoadTimeout();
       setIsLoading(false);
-      setError(null);
+      setError(false);
     });
 
     audio.play().then(() => {
       clearLoadTimeout();
       setIsPlaying(true);
       setIsLoading(false);
-      setError(null);
+      setError(false);
       rafRef.current = requestAnimationFrame(updateTime);
     }).catch(() => {
       clearLoadTimeout();
       setIsLoading(false);
-      setError('Audio not available');
+      setError(true);
     });
   }, [article?.uuid]);
 
@@ -151,7 +153,7 @@ export default function AudioPlayer({ article }: AudioPlayerProps) {
       setIsLoading(true);
       loadTimeoutRef.current = setTimeout(() => {
         setIsLoading(false);
-        setError('Audio not available');
+        setError(true);
         setIsPlaying(false);
       }, LOAD_TIMEOUT_MS);
 
@@ -170,14 +172,14 @@ export default function AudioPlayer({ article }: AudioPlayerProps) {
       audio.addEventListener('error', () => {
         clearLoadTimeout();
         setIsLoading(false);
-        setError('Audio not available');
+        setError(true);
         setIsPlaying(false);
       });
 
       audio.addEventListener('canplay', () => {
         clearLoadTimeout();
         setIsLoading(false);
-        setError(null);
+        setError(false);
       });
     }
 
@@ -193,12 +195,12 @@ export default function AudioPlayer({ article }: AudioPlayerProps) {
         clearLoadTimeout();
         setIsPlaying(true);
         setIsLoading(false);
-        setError(null);
+        setError(false);
         rafRef.current = requestAnimationFrame(updateTime);
       } catch (e) {
         clearLoadTimeout();
         setIsLoading(false);
-        setError('Audio not available');
+        setError(true);
       }
     }
   }, [audioUrl, isPlaying, updateTime, clearLoadTimeout]);
@@ -228,8 +230,8 @@ export default function AudioPlayer({ article }: AudioPlayerProps) {
       <button
         onClick={togglePlay}
         className="audio-play-btn"
-        title={isPlaying ? 'Pause' : 'Play'}
-        disabled={!!error && !isLoading}
+        title={isPlaying ? t('pause') : t('play')}
+        disabled={error && !isLoading}
       >
         {isLoading ? '◌' : isPlaying ? '⏸' : '▶'}
       </button>
@@ -253,9 +255,9 @@ export default function AudioPlayer({ article }: AudioPlayerProps) {
         </div>
         <div className="audio-time">
           {isLoading ? (
-            <span style={{ color: 'var(--text-secondary)' }}>Loading audio…</span>
+            <span style={{ color: 'var(--text-secondary)' }}>{t('loadingAudio')}</span>
           ) : error ? (
-            <span style={{ color: 'var(--elite-red)' }}>{error}</span>
+            <span style={{ color: 'var(--elite-red)' }}>{t('audioNotAvailable')}</span>
           ) : (
             <>
               {formatTime(currentTime)} / {formatTime(duration)}

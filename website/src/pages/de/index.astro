@@ -1,0 +1,26 @@
+---
+import fs from 'node:fs';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import AppShell from '../../components/AppShell';
+import HomeHeader from '../../components/pages/HomeHeader.astro';
+
+const versionPath = './public/data/version.json';
+let version = { build: Date.now().toString(), article_count: 0, entity_count: 0, arc_count: 0 };
+try {
+  version = JSON.parse(fs.readFileSync(versionPath, 'utf-8'));
+} catch {
+  // fallback if version.json hasn't been generated yet
+}
+const articleCount = version.article_count.toLocaleString('de-DE');
+const buildId = version.build;
+---
+
+<BaseLayout title="ED Lore — Elite Dangerous Lore Explorer" lang="de">
+  <script is:inline define:vars={{ buildId }}>
+    window.GALNET_BUILD = buildId;
+  </script>
+
+  <HomeHeader lang="de" articleCount={articleCount} />
+
+  <AppShell client:load />
+</BaseLayout>

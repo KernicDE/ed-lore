@@ -2,8 +2,7 @@
 import fs from 'node:fs';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import AppShell from '../components/AppShell';
-import ThemeToggle from '../components/ThemeToggle.astro';
-import AiModeToggle from '../components/AiModeToggle.astro';
+import HomeHeader from '../components/pages/HomeHeader.astro';
 
 const versionPath = './public/data/version.json';
 let version = { build: Date.now().toString(), article_count: 0, entity_count: 0, arc_count: 0 };
@@ -12,38 +11,16 @@ try {
 } catch {
   // fallback if version.json hasn't been generated yet
 }
-const articleCount = version.article_count.toLocaleString();
+const articleCount = version.article_count.toLocaleString('en-GB');
 const buildId = version.build;
 ---
 
-<BaseLayout title="ED Lore — Elite Dangerous Lore Explorer">
+<BaseLayout title="ED Lore — Elite Dangerous Lore Explorer" lang="en">
   <script is:inline define:vars={{ buildId }}>
     window.GALNET_BUILD = buildId;
   </script>
 
-  <header class="hud-header">
-    <div>
-      <span class="hud-title">ED Lore</span>
-      <span class="hud-subtitle" style="margin-left: 16px;">
-        {articleCount} entries · 3301–3312
-      </span>
-    </div>
-    <div style="display: flex; align-items: center; gap: 12px;">
-      <span id="audio-portal" style="display: flex; align-items: center;"></span>
-      <ThemeToggle />
-      <AiModeToggle />
-      <span class="ai-content-inline"><a href={`${(import.meta.env.BASE_URL || '').replace(/\/$/, '')}/map/`} class="hud-search-btn hud-map-btn">◈ Map</a></span>
-      <button class="hud-search-btn" id="search-trigger">
-        <span style="margin-right: 6px;">⌘</span> Search
-      </button>
-    </div>
-  </header>
+  <HomeHeader lang="en" articleCount={articleCount} />
 
   <AppShell client:load />
 </BaseLayout>
-
-<script is:inline>
-  document.getElementById('search-trigger')?.addEventListener('click', () => {
-    window.dispatchEvent(new CustomEvent('galnet-open-search'));
-  });
-</script>

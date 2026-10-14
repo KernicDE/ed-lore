@@ -1,6 +1,8 @@
 import { useMemo } from 'react';
 import EntityGraph from '../graph/EntityGraph';
 import type { MiniGraphData } from '../graph/EntityGraph';
+import { useLanguage } from '../../i18n/LanguageContext';
+import { months as monthNames } from '../../i18n/dict';
 
 interface Entity {
   id: string;
@@ -114,6 +116,7 @@ export default function ContextPanel({
   onToggleCategory,
   articleCounts,
 }: ContextPanelProps) {
+  const { lang, t } = useLanguage();
   const isUnlocked = (firstSeen: string | null | undefined) => {
     if (!firstSeen) return true;
     return firstSeen <= currentDate;
@@ -242,7 +245,7 @@ export default function ContextPanel({
   };
 
   const months = ['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12'];
-  const monthLabels = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+  const monthLabels = monthNames[lang];
   const monthIndex = months.indexOf(currentMonth);
 
   const handleMonthSliderChange = (e: React.ChangeEvent<HTMLInputElement>) => {
@@ -262,10 +265,10 @@ export default function ContextPanel({
 
   const baseUrl = (import.meta.env.BASE_URL || '').replace(/\/$/, '');
 
-  const categoryButtons: { key: string; label: string; icon: string; borderColor: string; activeBg: string; activeColor: string; count?: number }[] = [
-    { key: 'galnet', label: 'GalNet', icon: '◈', borderColor: '#cc5500', activeBg: 'rgba(204, 85, 0, 0.15)', activeColor: '#ff6600', count: articleCounts?.galnet },
-    { key: 'chronicle', label: 'Chronicles', icon: '📖', borderColor: '#0088aa', activeBg: 'rgba(0, 136, 170, 0.15)', activeColor: '#00bfff', count: articleCounts?.chronicle },
-    { key: 'cmdr-log', label: 'CMDR Logs', icon: '✎', borderColor: '#33cc66', activeBg: 'rgba(51, 204, 102, 0.15)', activeColor: '#44ff88', count: articleCounts?.cmdrLog },
+  const categoryButtons: { key: string; labelKey: string; icon: string; borderColor: string; activeBg: string; activeColor: string; count?: number }[] = [
+    { key: 'galnet', labelKey: 'categoryGalnet', icon: '◈', borderColor: '#cc5500', activeBg: 'rgba(204, 85, 0, 0.15)', activeColor: '#ff6600', count: articleCounts?.galnet },
+    { key: 'chronicle', labelKey: 'categoryChronicles', icon: '📖', borderColor: '#0088aa', activeBg: 'rgba(0, 136, 170, 0.15)', activeColor: '#00bfff', count: articleCounts?.chronicle },
+    { key: 'cmdr-log', labelKey: 'categoryCmdrLogs', icon: '✎', borderColor: '#33cc66', activeBg: 'rgba(51, 204, 102, 0.15)', activeColor: '#44ff88', count: articleCounts?.cmdrLog },
   ];
 
   return (
@@ -300,9 +303,9 @@ export default function ContextPanel({
                     overflow: 'hidden',
                     textOverflow: 'ellipsis',
                   }}
-                  title={`${f.label} (${f.count ?? 0})`}
+                  title={`${t(f.labelKey)} (${f.count ?? 0})`}
                 >
-                  {f.icon} {f.label}
+                  {f.icon} {t(f.labelKey)}
                   {f.count !== undefined && (
                     <span style={{ marginLeft: 4, opacity: 0.6 }}>{f.count}</span>
                   )}
@@ -316,7 +319,7 @@ export default function ContextPanel({
       {/* Year Slider */}
       {sliderYears.length > 0 && (
         <div className="holo-panel">
-          <div className="holo-title">Jump to Date</div>
+          <div className="holo-title">{t('jumpToDate')}</div>
           <div style={{ padding: '10px 0' }}>
             {/* Year */}
             <input
@@ -326,8 +329,8 @@ export default function ContextPanel({
               value={Math.max(0, sliderIndex)}
               onChange={handleSliderChange}
               className="year-range-input"
-              aria-label="Jump to year"
-              title="Jump to year"
+              aria-label={t('jumpToYear')}
+              title={t('jumpToYear')}
               style={{
                 width: '100%',
                 height: 4,
@@ -369,8 +372,8 @@ export default function ContextPanel({
               max={11}
               value={Math.max(0, monthIndex)}
               onChange={handleMonthSliderChange}
-              aria-label="Jump to month"
-              title="Jump to month"
+              aria-label={t('jumpToMonth')}
+              title={t('jumpToMonth')}
               style={{
                 width: '100%',
                 height: 4,
@@ -424,7 +427,7 @@ export default function ContextPanel({
       {/* Related Arcs */}
       {activeArcs.length > 0 && (
         <div className="holo-panel blue ai-content">
-          <div className="holo-title blue">Related Arcs</div>
+          <div className="holo-title blue">{t('relatedArcs')}</div>
           {activeArcs.map((arc) => (
             <a
               key={arc.id}
@@ -441,7 +444,7 @@ export default function ContextPanel({
                 {arc.name}
               </div>
               <div style={{ fontFamily: 'var(--font-mono)', fontSize: 11, color: 'var(--text-secondary)', marginTop: 2 }}>
-                {arc.first_seen_date} → {arc.last_seen_date} · {arc.mention_count} articles
+                {t('arcArticleRange', { from: arc.first_seen_date, to: arc.last_seen_date, count: arc.mention_count })}
               </div>
             </a>
           ))}
@@ -451,7 +454,7 @@ export default function ContextPanel({
       {/* Context mini-graph */}
       {contextGraphData && (
         <div className="holo-panel ai-content" style={{ padding: 0, overflow: 'hidden' }}>
-          <div style={{ padding: '14px 16px 0' }}><div className="holo-title">Active Connections</div></div>
+          <div style={{ padding: '14px 16px 0' }}><div className="holo-title">{t('activeConnections')}</div></div>
           <EntityGraph mode="mini" miniData={contextGraphData} baseUrl={baseUrl} height={220} />
         </div>
       )}
@@ -459,7 +462,7 @@ export default function ContextPanel({
       {/* Context */}
       {contextEntities.length > 0 && (
         <div className="holo-panel ai-content">
-          <div className="holo-title">Context</div>
+          <div className="holo-title">{t('contextTitle')}</div>
           {contextEntities.map((fig) => {
             const classified = !isUnlocked(fig.first_seen_date);
             return (
@@ -475,7 +478,7 @@ export default function ContextPanel({
                 <div style={{ minWidth: 0 }}>
                   <div className="entity-name">{fig.name}</div>
                   <div className="entity-meta">
-                    {fig.first_seen_date} · {fig.count} mentions
+                    {t('dateMentions', { date: fig.first_seen_date, count: fig.count })}
                   </div>
                 </div>
               </a>
@@ -487,7 +490,7 @@ export default function ContextPanel({
       {activeArcs.length === 0 && contextEntities.length === 0 && (
         <div className="holo-panel" style={{ textAlign: 'center', padding: 40 }}>
           <div style={{ fontFamily: 'var(--font-mono)', fontSize: 13, color: 'var(--text-secondary)' }}>
-            No data for this period
+            {t('noDataForPeriod')}
           </div>
         </div>
       )}

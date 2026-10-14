@@ -1,0 +1,70 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import graphData from '../../data/lore_graph.json';
+import PageHeader from './PageHeader.astro';
+import { t, type Lang } from '../../i18n/dict';
+
+interface Props {
+  lang?: Lang;
+}
+
+const { lang = 'en' } = Astro.props;
+const baseUrl = (import.meta.env.BASE_URL || '').replace(/\/$/, '');
+const pageBase = lang === 'de' ? `${baseUrl}/de` : baseUrl;
+
+const logs = graphData.articles
+  .filter((a: any) => a.category === 'cmdr-log')
+  .sort((a: any, b: any) => (b.date || '').localeCompare(a.date || ''));
+---
+
+<BaseLayout title={`${t(lang, 'logsTitle')} — ED Lore`} lang={lang}>
+  <PageHeader lang={lang} />
+
+  <div style="padding: 24px; max-width: 900px; margin: 0 auto;">
+    <div class="holo-panel" style="border-color: var(--elite-green-dim);">
+      <h1 style="margin: 0; font-family: var(--font-hud); font-size: 24px; color: var(--elite-green);">
+        {t(lang, 'logsTitle')}
+      </h1>
+      <div style="font-family: var(--font-mono); font-size: 12px; color: var(--text-dim); margin-top: 6px;">
+        {t(lang, 'logsSubtitle', { count: logs.length })}
+      </div>
+    </div>
+
+    {logs.length === 0 && (
+      <div class="holo-panel">
+        <div style="color: var(--text-dim); font-size: 13px;">{t(lang, 'noLogs')}</div>
+      </div>
+    )}
+
+    <div class="holo-panel">
+      {logs.map((art: any) => (
+        <div style="padding: 10px 0; border-bottom: 1px solid var(--border-default);">
+          <div style="display: flex; align-items: center; gap: 8px;">
+            <span style="font-family: var(--font-mono); font-size: 11px; color: var(--text-dim);">{art.date}</span>
+            {art.author && (
+              <span style="font-family: var(--font-mono); font-size: 10px; color: var(--elite-green); border: 1px solid var(--elite-green-dim); padding: 1px 6px; opacity: 0.8;">
+                {art.author}
+              </span>
+            )}
+          </div>
+          <a href={`${pageBase}/?article=${art.uuid}`} style="font-size: 14px; font-weight: 500; color: var(--text-primary); text-decoration: none;">
+            {art.title}
+          </a>
+          {art.summary && (
+            <div class="ai-content" style="margin-top: 4px; font-size: 12px; color: var(--text-secondary); line-height: 1.4;">
+              {art.summary}
+            </div>
+          )}
+          {art.sources && art.sources.length > 0 && (
+            <div style="margin-top: 4px; font-size: 11px;">
+              <span style="color: var(--text-dim);">{t(lang, 'sourceSingular')}</span>{' '}
+              <a href={art.sources[0].url} target="_blank" rel="noopener" style="color: var(--elite-green); text-decoration: none;">
+                {art.sources[0].name || t(lang, 'linkFallback')} ↗
+              </a>
+            </div>
+          )}
+        </div>
+      ))}
+    </div>
+  </div>
+</BaseLayout>

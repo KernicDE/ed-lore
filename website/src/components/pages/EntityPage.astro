@@ -1,0 +1,446 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import graphData from '../../data/lore_graph.json';
+import { marked } from 'marked';
+import EntityGraph from '../graph/EntityGraph';
+import PageHeader from './PageHeader.astro';
+import { t, type Lang } from '../../i18n/dict';
+import type { MiniGraphData, GraphNode, GraphLink } from '../graph/EntityGraph';
+
+interface Props {
+  id: string;
+  lang?: Lang;
+}
+
+const { id, lang = 'en' } = Astro.props;
+const entity = (graphData.entities as any)[id];
+const baseUrl = (import.meta.env.BASE_URL || '').replace(/\/$/, '');
+const pageBase = lang === 'de' ? `${baseUrl}/de` : baseUrl;
+
+const allEntityArticles = graphData.articles
+  .filter((a) => {
+    const allNames = [...a.entities, ...a.groups, ...a.locations, ...(a.persons || []), ...(a.technologies || [])];
+    return allNames.some((n) => n.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/\s+/g, '-').replace(/[^\w-]/g, '') === id);
+  })
+  .sort((a, b) => (b.date || '').localeCompare(a.date || ''));
+
+const officialArticles = allEntityArticles.filter((a) => a.source_type === 'official');
+const communityArticles = allEntityArticles.filter((a) => a.source_type === 'community');
+
+// Display top 6 in the Related Entities panel (scored by shared connections)
+const related = (entity?.related_entities || [])
+  .slice(0, 6)
+  .map((r: any) => (graphData.entities as any)[r.id])
+  .filter(Boolean);
+
+// Build 2-hop neighbourhood for the mini-map (computed at build time)
+const miniNodes: GraphNode[] = [];
+const miniLinks: GraphLink[] = [];
+const edgeSet = new Set<string>();
+
+if (entity) {
+  miniNodes.push({ id: entity.id, name: entity.name, type: entity.type, mentions: entity.mention_count ?? 0, depth: 0 });
+
+  const directIds = new Set<string>();
+
+  for (const rel of (entity.related_entities ?? []) as any[]) {
+    const neighbor = (graphData.entities as any)[rel.id];
+    if (!neighbor) continue;
+    directIds.add(rel.id);
+    miniNodes.push({ id: rel.id, name: neighbor.name, type: neighbor.type, mentions: neighbor.mention_count ?? 0, depth: 1 });
+    const key = [entity.id, rel.id].sort().join('|');
+    if (!edgeSet.has(key)) {
+      edgeSet.add(key);
+      miniLinks.push({ source: entity.id, target: rel.id, weight: rel.mentions ?? 1 });
+    }
+  }
+
+  // Edges between direct connections
+  for (const rel of (entity.related_entities ?? []) as any[]) {
+    const neighbor = (graphData.entities as any)[rel.id];
+    if (!neighbor) continue;
+    for (const rel2 of (neighbor.related_entities ?? []) as any[]) {
+      if (directIds.has(rel2.id) && rel2.id !== entity.id) {
+        const key = [rel.id, rel2.id].sort().join('|');
+        if (!edgeSet.has(key)) {
+          edgeSet.add(key);
+          miniLinks.push({ source: rel.id, target: rel2.id, weight: rel2.mentions ?? 1 });
+        }
+      }
+    }
+  }
+
+  // 2nd-degree connections (capped at 20)
+  const seen = new Set<string>([entity.id, ...directIds]);
+  let secondCount = 0;
+  outer: for (const rel of (entity.related_entities ?? []) as any[]) {
+    const neighbor = (graphData.entities as any)[rel.id];
+    if (!neighbor) continue;
+    for (const rel2 of (neighbor.related_entities ?? []) as any[]) {
+      if (secondCount >= 20) break outer;
+      if (!seen.has(rel2.id)) {
+        const n2 = (graphData.entities as any)[rel2.id];
+        if (!n2) continue;
+        seen.add(rel2.id);
+        secondCount++;
+        miniNodes.push({ id: rel2.id, name: n2.name, type: n2.type, mentions: n2.mention_count ?? 0, depth: 2 });
+        const key = [rel.id, rel2.id].sort().join('|');
+        if (!edgeSet.has(key)) {
+          edgeSet.add(key);
+          miniLinks.push({ source: rel.id, target: rel2.id, weight: rel2.mentions ?? 1 });
+        }
+      }
+    }
+  }
+}
+
+const miniGraphData: MiniGraphData = { nodes: miniNodes, links: miniLinks };
+
+const typeLabelKeys: Record<string, string> = {
+  person: 'entityTypePerson',
+  faction: 'entityTypeFaction',
+  system: 'entityTypeSystem',
+  station: 'entityTypeStation',
+  body: 'entityTypeBody',
+  region: 'entityTypeRegion',
+  technology: 'entityTypeTechnology',
+  location: 'entityTypeLocation',
+};
+const typeLabel = (type: string) => t(lang, typeLabelKeys[type] || 'unknown');
+
+const bioTitleKeys: Record<string, string> = {
+  person: 'bioPerson',
+  system: 'bioSystem',
+  station: 'bioStation',
+  body: 'bioBody',
+  region: 'bioRegion',
+  technology: 'bioTechnology',
+};
+const bioTitle = (type: string) => t(lang, bioTitleKeys[type] || 'bioDefault');
+
+function formatNumber(n: number): string {
+  if (n >= 1_000_000_000) return (n / 1_000_000_000).toFixed(1) + 'B';
+  if (n >= 1_000_000) return (n / 1_000_000).toFixed(1) + 'M';
+  if (n >= 1_000) return (n / 1_000).toFixed(1) + 'K';
+  return String(n);
+}
+
+function slugify(name: string): string {
+  return name
+    .normalize('NFD')
+    .replace(/[̀-ͯ]/g, '')
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '');
+}
+---
+
+<BaseLayout title={`${entity?.name || id} — ED Lore`} lang={lang}>
+  <PageHeader lang={lang} />
+
+  <div style="padding: 24px; max-width: 900px; margin: 0 auto;">
+    <div class="holo-panel">
+      <div style="display: flex; align-items: center; gap: 16px;">
+        <div class={`entity-icon ${entity?.type || 'person'}`} style="width: 48px; height: 48px; font-size: 18px;">
+          {entity?.type === 'person' ? 'P' : entity?.type === 'faction' ? 'F' : entity?.type === 'technology' ? 'T' : entity?.type === 'station' ? 'S' : entity?.type === 'system' ? '◈' : entity?.type === 'body' ? '●' : entity?.type === 'region' ? '▩' : 'L'}
+        </div>
+        <div style="flex: 1; min-width: 0;">
+          <h1 style="margin: 0; font-family: var(--font-hud); font-size: 24px; color: var(--elite-orange);">
+            {entity?.name || id}
+          </h1>
+          <div style="font-family: var(--font-mono); font-size: 12px; color: var(--text-dim); margin-top: 4px;">
+            {typeLabel(entity?.type || 'person')} ·
+            {t(lang, 'firstSeen', { date: entity?.first_seen_date || t(lang, 'unknown') })} ·
+            {t(lang, 'mentionsCount', { count: entity?.mention_count || 0 })}
+          </div>
+        </div>
+        {(entity?.edsm_url || entity?.inara_url) && (
+          <div class="entity-links">
+            {entity?.edsm_url && (
+              <a href={entity.edsm_url} target="_blank" rel="noopener" class="entity-link">
+                EDSM ↗
+              </a>
+            )}
+            {entity?.inara_url && (
+              <a href={entity.inara_url} target="_blank" rel="noopener" class="entity-link">
+                Inara ↗
+              </a>
+            )}
+          </div>
+        )}
+      </div>
+      {entity?.last_seen_date && (
+        <div style="font-family: var(--font-mono); font-size: 11px; color: var(--text-secondary); margin-top: 12px;">
+          {t(lang, 'activeRange', { from: entity.first_seen_date, to: entity.last_seen_date })}
+        </div>
+      )}
+    </div>
+
+    {/* Bio / Description */}
+    {(entity?.bio_full || entity?.bio) && (
+      <div class="holo-panel ai-content">
+        <div class="holo-title">
+          {bioTitle(entity?.type || '')}
+        </div>
+        <div class="entity-bio" set:html={marked.parse(entity.bio_full || entity.bio || '')} />
+      </div>
+    )}
+
+    {/* System data */}
+    {entity?.type === 'system' && (
+      <div class="holo-panel">
+        <div class="holo-title">{t(lang, 'systemData')}</div>
+        {entity?.coords && (
+          <div style="font-family: var(--font-mono); font-size: 12px; color: var(--text-secondary); margin-bottom: 8px;">
+            {t(lang, 'coordinates', { x: entity.coords.x, y: entity.coords.y, z: entity.coords.z })}
+          </div>
+        )}
+        <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 8px; font-size: 13px;">
+          {entity?.allegiance && (
+            <div><span style="color: var(--text-dim);">{t(lang, 'allegiance')}</span> <span style="color: var(--text-primary);">{entity.allegiance}</span></div>
+          )}
+          {entity?.government && (
+            <div><span style="color: var(--text-dim);">{t(lang, 'government')}</span> <span style="color: var(--text-primary);">{entity.government}</span></div>
+          )}
+          {entity?.security && (
+            <div><span style="color: var(--text-dim);">{t(lang, 'security')}</span> <span style="color: var(--text-primary);">{entity.security}</span></div>
+          )}
+          {entity?.economy && (
+            <div><span style="color: var(--text-dim);">{t(lang, 'economy')}</span> <span style="color: var(--text-primary);">{entity.economy}</span></div>
+          )}
+          {entity?.population && (
+            <div><span style="color: var(--text-dim);">{t(lang, 'population')}</span> <span style="color: var(--text-primary);">{formatNumber(entity.population)}</span></div>
+          )}
+          {entity?.reserve && (
+            <div><span style="color: var(--text-dim);">{t(lang, 'reserve')}</span> <span style="color: var(--text-primary);">{entity.reserve}</span></div>
+          )}
+        </div>
+        {entity?.controlling_faction && (
+          <div style="margin-top: 8px; font-size: 13px;">
+            <span style="color: var(--text-dim);">{t(lang, 'controllingFaction')}</span>{' '}
+            <span style="color: var(--text-primary);">{entity.controlling_faction}</span>
+          </div>
+        )}
+      </div>
+    )}
+
+    {/* Station data */}
+    {entity?.type === 'station' && (
+      <div class="holo-panel">
+        <div class="holo-title">{t(lang, 'stationData')}</div>
+        {entity?.system && (
+          <div style="font-family: var(--font-mono); font-size: 12px; color: var(--text-secondary); margin-bottom: 8px;">
+            {t(lang, 'systemLabel')} <a href={`${pageBase}/entity/${slugify(entity.system)}/`} style="color: var(--elite-blue); text-decoration: none;">{entity.system}</a>
+          </div>
+        )}
+        <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 8px; font-size: 13px;">
+          {entity?.station_type && (
+            <div><span style="color: var(--text-dim);">{t(lang, 'stationType')}</span> <span style="color: var(--text-primary);">{entity.station_type}</span></div>
+          )}
+          {entity?.distance_to_arrival && (
+            <div><span style="color: var(--text-dim);">{t(lang, 'distanceToArrival')}</span> <span style="color: var(--text-primary);">{entity.distance_to_arrival} ls</span></div>
+          )}
+          {entity?.allegiance && (
+            <div><span style="color: var(--text-dim);">{t(lang, 'allegiance')}</span> <span style="color: var(--text-primary);">{entity.allegiance}</span></div>
+          )}
+          {entity?.government && (
+            <div><span style="color: var(--text-dim);">{t(lang, 'government')}</span> <span style="color: var(--text-primary);">{entity.government}</span></div>
+          )}
+          {entity?.economy && (
+            <div><span style="color: var(--text-dim);">{t(lang, 'economy')}</span> <span style="color: var(--text-primary);">{entity.economy}</span></div>
+          )}
+        </div>
+        {(entity?.have_market || entity?.have_shipyard || entity?.have_outfitting) && (
+          <div style="margin-top: 8px; font-size: 13px;">
+            <span style="color: var(--text-dim);">{t(lang, 'services')}</span>{' '}
+            {[
+              entity?.have_market && t(lang, 'serviceMarket'),
+              entity?.have_shipyard && t(lang, 'serviceShipyard'),
+              entity?.have_outfitting && t(lang, 'serviceOutfitting'),
+            ].filter(Boolean).join(', ')}
+          </div>
+        )}
+        {entity?.controlling_faction && (
+          <div style="margin-top: 8px; font-size: 13px;">
+            <span style="color: var(--text-dim);">{t(lang, 'controllingFaction')}</span>{' '}
+            <span style="color: var(--text-primary);">{entity.controlling_faction}</span>
+          </div>
+        )}
+      </div>
+    )}
+
+    {/* Body data */}
+    {entity?.type === 'body' && (
+      <div class="holo-panel">
+        <div class="holo-title">{t(lang, 'bodyData')}</div>
+        {entity?.system && (
+          <div style="font-family: var(--font-mono); font-size: 12px; color: var(--text-secondary); margin-bottom: 8px;">
+            {t(lang, 'systemLabel')} <a href={`${pageBase}/entity/${slugify(entity.system)}/`} style="color: var(--elite-blue); text-decoration: none;">{entity.system}</a>
+          </div>
+        )}
+        <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 8px; font-size: 13px;">
+          {entity?.body_type && (
+            <div><span style="color: var(--text-dim);">{t(lang, 'typeGeneric')}</span> <span style="color: var(--text-primary);">{entity.body_type}</span></div>
+          )}
+          {entity?.distance_to_arrival && (
+            <div><span style="color: var(--text-dim);">{t(lang, 'distanceToArrival')}</span> <span style="color: var(--text-primary);">{entity.distance_to_arrival} ls</span></div>
+          )}
+          {entity?.atmosphere && (
+            <div><span style="color: var(--text-dim);">{t(lang, 'atmosphere')}</span> <span style="color: var(--text-primary);">{entity.atmosphere}</span></div>
+          )}
+          {entity?.gravity && (
+            <div><span style="color: var(--text-dim);">{t(lang, 'gravity')}</span> <span style="color: var(--text-primary);">{entity.gravity} g</span></div>
+          )}
+          {entity?.temperature && (
+            <div><span style="color: var(--text-dim);">{t(lang, 'surfaceTemp')}</span> <span style="color: var(--text-primary);">{entity.temperature} K</span></div>
+          )}
+          {entity?.terraformable !== undefined && (
+            <div><span style="color: var(--text-dim);">{t(lang, 'terraformable')}</span> <span style="color: var(--text-primary);">{entity.terraformable ? t(lang, 'yes') : t(lang, 'no')}</span></div>
+          )}
+        </div>
+      </div>
+    )}
+
+    {/* Region data */}
+    {entity?.type === 'region' && (
+      <div class="holo-panel">
+        <div class="holo-title">{t(lang, 'regionData')}</div>
+        <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 8px; font-size: 13px;">
+          {entity?.region_type && (
+            <div><span style="color: var(--text-dim);">{t(lang, 'typeGeneric')}</span> <span style="color: var(--text-primary);">{entity.region_type}</span></div>
+          )}
+          {entity?.approximate_location && (
+            <div><span style="color: var(--text-dim);">{t(lang, 'approxLocation')}</span> <span style="color: var(--text-primary);">{entity.approximate_location}</span></div>
+          )}
+          {entity?.size_ly && (
+            <div><span style="color: var(--text-dim);">{t(lang, 'sizeLabel')}</span> <span style="color: var(--text-primary);">{entity.size_ly} ly</span></div>
+          )}
+        </div>
+        {entity?.notable_systems && entity.notable_systems.length > 0 && (
+          <div style="margin-top: 8px; font-size: 13px;">
+            <span style="color: var(--text-dim);">{t(lang, 'notableSystems')}</span>{' '}
+            <span style="color: var(--text-primary);">{entity.notable_systems.join(', ')}</span>
+          </div>
+        )}
+      </div>
+    )}
+
+    {/* Legacy location data */}
+    {entity?.type === 'location' && (
+      <div class="holo-panel">
+        <div class="holo-title">{t(lang, 'systemData')}</div>
+        {entity?.coords && (
+          <div style="font-family: var(--font-mono); font-size: 12px; color: var(--text-secondary); margin-bottom: 8px;">
+            {t(lang, 'coordinates', { x: entity.coords.x, y: entity.coords.y, z: entity.coords.z })}
+          </div>
+        )}
+        <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 8px; font-size: 13px;">
+          {entity?.allegiance && (
+            <div><span style="color: var(--text-dim);">{t(lang, 'allegiance')}</span> <span style="color: var(--text-primary);">{entity.allegiance}</span></div>
+          )}
+          {entity?.government && (
+            <div><span style="color: var(--text-dim);">{t(lang, 'government')}</span> <span style="color: var(--text-primary);">{entity.government}</span></div>
+          )}
+          {entity?.security && (
+            <div><span style="color: var(--text-dim);">{t(lang, 'security')}</span> <span style="color: var(--text-primary);">{entity.security}</span></div>
+          )}
+          {entity?.economy && (
+            <div><span style="color: var(--text-dim);">{t(lang, 'economy')}</span> <span style="color: var(--text-primary);">{entity.economy}</span></div>
+          )}
+          {entity?.population && (
+            <div><span style="color: var(--text-dim);">{t(lang, 'population')}</span> <span style="color: var(--text-primary);">{formatNumber(entity.population)}</span></div>
+          )}
+        </div>
+        {entity?.controlling_faction && (
+          <div style="margin-top: 8px; font-size: 13px;">
+            <span style="color: var(--text-dim);">{t(lang, 'controllingFaction')}</span>{' '}
+            <span style="color: var(--text-primary);">{entity.controlling_faction}</span>
+          </div>
+        )}
+      </div>
+    )}
+
+    <div class="ai-content">
+      {/* Relationship mini-map */}
+      {miniNodes.length > 1 && (
+        <div class="holo-panel" style="padding: 0; overflow: hidden;">
+          <div style="padding: 20px 20px 0;"><div class="holo-title">{t(lang, 'connectionMap')}</div></div>
+          <EntityGraph client:visible mode="mini" miniData={miniGraphData} baseUrl={baseUrl} />
+        </div>
+      )}
+
+      {related.length > 0 && (
+        <div class="holo-panel blue">
+          <div class="holo-title blue">{t(lang, 'relatedEntities')}</div>
+        <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 8px;">
+          {related.map((rel: any) => (
+            <a href={`${pageBase}/entity/${rel.id}/`} class="entity-card" style="text-decoration: none;">
+              <div class={`entity-icon ${rel.type || 'person'}`}>
+                {rel.type === 'person' ? 'P' : rel.type === 'faction' ? 'F' : rel.type === 'technology' ? 'T' : rel.type === 'station' ? 'S' : rel.type === 'system' ? '◈' : rel.type === 'body' ? '●' : rel.type === 'region' ? '▩' : 'L'}
+              </div>
+              <div>
+                <div class="entity-name">{rel.name}</div>
+              </div>
+            </a>
+          ))}
+        </div>
+      </div>
+    )}
+    </div>
+
+    {/* Community Mentions (shown first) */}
+    {communityArticles.length > 0 && (
+      <div class="holo-panel">
+        <div class="holo-title">{t(lang, 'communityLoreCount', { count: communityArticles.length })}</div>
+        {communityArticles.map((art) => {
+          const catBadge = art.category === 'chronicle' ? t(lang, 'badgeChronicle') : art.category === 'cmdr-log' ? t(lang, 'badgeCmdrLog') : t(lang, 'communityBadge');
+          const catColor = art.category === 'chronicle' ? 'var(--elite-blue)' : art.category === 'cmdr-log' ? 'var(--elite-green)' : 'var(--text-dim)';
+          return (
+            <div style="padding: 10px 0; border-bottom: 1px solid var(--border-default);">
+              <div style="display: flex; align-items: center; gap: 8px;">
+                <span style="font-family: var(--font-mono); font-size: 11px; color: var(--text-dim);">{art.date}</span>
+                <span style={{
+                  fontFamily: 'var(--font-mono)',
+                  fontSize: 10,
+                  color: catColor,
+                  opacity: 0.5,
+                }}>
+                  {catBadge}
+                </span>
+              </div>
+              <a href={`${pageBase}/?article=${art.uuid}`} style="font-size: 14px; font-weight: 500; color: var(--text-primary); text-decoration: none;">
+                {art.title}
+              </a>
+              {art.summary && (
+                <div class="ai-content" style="margin-top: 4px; font-size: 12px; color: var(--text-secondary); line-height: 1.4;">
+                  {art.summary}
+                </div>
+              )}
+            </div>
+          );
+        })}
+      </div>
+    )}
+
+    {/* Official Mentions */}
+    <div class="holo-panel">
+      <div class="holo-title">{t(lang, 'officialMentionsCount', { count: officialArticles.length })}</div>
+      {officialArticles.length === 0 && (
+        <div style="color: var(--text-dim); font-size: 13px;">{t(lang, 'noOfficialArticles')}</div>
+      )}
+      {officialArticles.map((art) => (
+        <div style="padding: 10px 0; border-bottom: 1px solid var(--border-default);">
+          <div style="font-family: var(--font-mono); font-size: 11px; color: var(--text-dim);">{art.date}</div>
+          <a href={`${pageBase}/?article=${art.uuid}`} style="font-size: 14px; font-weight: 500; color: var(--text-primary); text-decoration: none;">
+            {art.title}
+          </a>
+          {art.summary && (
+            <div class="ai-content" style="margin-top: 4px; font-size: 12px; color: var(--text-secondary); line-height: 1.4;">
+              {art.summary}
+            </div>
+          )}
+        </div>
+      ))}
+    </div>
+  </div>
+</BaseLayout>

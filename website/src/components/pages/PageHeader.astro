@@ -1,0 +1,41 @@
+---
+import ThemeToggle from '../ThemeToggle.astro';
+import AiModeToggle from '../AiModeToggle.astro';
+import LanguageToggle from '../i18n/LanguageToggle.astro';
+import SearchIsland from '../hud/SearchIsland';
+import { t, type Lang } from '../../i18n/dict';
+
+interface Props {
+  lang?: Lang;
+  showSearch?: boolean;
+  showMapLink?: boolean;
+  subtitle?: string;
+}
+
+const {
+  lang = 'en',
+  showSearch = true,
+  showMapLink = true,
+  subtitle,
+} = Astro.props;
+const baseUrl = (import.meta.env.BASE_URL || '').replace(/\/$/, '');
+const pageBase = lang === 'de' ? `${baseUrl}/de` : baseUrl;
+---
+
+<header class="hud-header">
+  <div>
+    <a href={`${baseUrl}/`} style="text-decoration: none;" data-home-link>
+      <span class="hud-title">‹ ED Lore</span>
+    </a>
+  </div>
+  <div style="display: flex; align-items: center; gap: 12px;">
+    <ThemeToggle lang={lang} />
+    <AiModeToggle lang={lang} />
+    <LanguageToggle lang={lang} />
+    {showMapLink && (
+      <span class="ai-content-inline"><a href={`${pageBase}/map/`} class="hud-search-btn hud-map-btn">◈ {t(lang, 'mapButton')}</a></span>
+    )}
+    {subtitle && <span class="hud-subtitle">{subtitle}</span>}
+    {showSearch && <SearchIsland client:idle baseUrl={baseUrl} />}
+  </div>
+</header>

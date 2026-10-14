@@ -1,0 +1,14 @@
+---
+import graphData from '../../../data/lore_graph.json';
+import ArcPage from '../../../components/pages/ArcPage.astro';
+
+export function getStaticPaths() {
+  return Object.values(graphData.arcs).map((a) => ({
+    params: { id: a.id },
+  }));
+}
+
+const { id } = Astro.params;
+---
+
+<ArcPage id={id} lang="de" />

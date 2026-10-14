@@ -1,0 +1,91 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import graphData from '../../data/lore_graph.json';
+import PageHeader from './PageHeader.astro';
+import { t, type Lang } from '../../i18n/dict';
+
+interface Props {
+  lang?: Lang;
+}
+
+const { lang = 'en' } = Astro.props;
+const baseUrl = (import.meta.env.BASE_URL || '').replace(/\/$/, '');
+const pageBase = lang === 'de' ? `${baseUrl}/de` : baseUrl;
+
+const chronicles = graphData.articles
+  .filter((a: any) => a.category === 'chronicle')
+  .sort((a: any, b: any) => (b.date || '').localeCompare(a.date || ''));
+
+// Group by arc
+const byArc: Record<string, any[]> = {};
+for (const art of chronicles) {
+  const arcId = art.arc_id || 'uncategorized';
+  if (!byArc[arcId]) byArc[arcId] = [];
+  byArc[arcId].push(art);
+}
+
+const arcNames: Record<string, string> = {};
+for (const [id, rec] of Object.entries(graphData.arcs as any)) {
+  arcNames[id] = (rec as any).name || id;
+}
+---
+
+<BaseLayout title={`${t(lang, 'chroniclesTitle')} — ED Lore`} lang={lang}>
+  <PageHeader lang={lang} />
+
+  <div style="padding: 24px; max-width: 900px; margin: 0 auto;">
+    <div class="holo-panel blue">
+      <h1 style="margin: 0; font-family: var(--font-hud); font-size: 24px; color: var(--elite-blue);">
+        {t(lang, 'chroniclesTitle')}
+      </h1>
+      <div style="font-family: var(--font-mono); font-size: 12px; color: var(--text-dim); margin-top: 6px;">
+        {t(lang, 'chroniclesSubtitle', { count: chronicles.length })}
+      </div>
+    </div>
+
+    {chronicles.length === 0 && (
+      <div class="holo-panel">
+        <div style="color: var(--text-dim); font-size: 13px;">{t(lang, 'noChronicles')}</div>
+      </div>
+    )}
+
+    {Object.entries(byArc).map(([arcId, articles]) => {
+      const name = arcId === 'uncategorized' ? t(lang, 'uncategorized') : (arcNames[arcId] || arcId);
+      return (
+        <div class="holo-panel">
+          <div class="holo-title blue">
+            {arcId !== 'uncategorized' ? (
+              <a href={`${pageBase}/arc/${arcId}/`} style="color: var(--elite-blue); text-decoration: none;">
+                {name}
+              </a>
+            ) : name}
+            <span style="color: var(--text-dim); font-size: 12px; margin-left: 8px;">({articles.length})</span>
+          </div>
+          <div style="display: flex; flex-direction: column; gap: 8px;">
+            {articles.map((art: any) => (
+              <div style="padding: 10px 0; border-bottom: 1px solid var(--border-default);">
+                <div style="font-family: var(--font-mono); font-size: 11px; color: var(--text-dim);">{art.date}</div>
+                <a href={`${pageBase}/?article=${art.uuid}`} style="font-size: 14px; font-weight: 500; color: var(--text-primary); text-decoration: none;">
+                  {art.title}
+                </a>
+                {art.summary && (
+                  <div class="ai-content" style="margin-top: 4px; font-size: 12px; color: var(--text-secondary); line-height: 1.4;">
+                    {art.summary}
+                  </div>
+                )}
+                {art.sources && art.sources.length > 0 && (
+                  <div style="margin-top: 4px; font-size: 11px;">
+                    <span style="color: var(--text-dim);">{t(lang, 'sourceSingular')}</span>{' '}
+                    <a href={art.sources[0].url} target="_blank" rel="noopener" style="color: var(--elite-blue); text-decoration: none;">
+                      {art.sources[0].name || t(lang, 'linkFallback')} ↗
+                    </a>
+                  </div>
+                )}
+              </div>
+            ))}
+          </div>
+        </div>
+      );
+    })}
+  </div>
+</BaseLayout>

@@ -1,0 +1,40 @@
+---
+import ThemeToggle from '../ThemeToggle.astro';
+import AiModeToggle from '../AiModeToggle.astro';
+import LanguageToggle from '../i18n/LanguageToggle.astro';
+import { t, type Lang } from '../../i18n/dict';
+
+interface Props {
+  lang?: Lang;
+  articleCount?: string;
+}
+
+const { lang = 'en', articleCount = '0' } = Astro.props;
+const baseUrl = (import.meta.env.BASE_URL || '').replace(/\/$/, '');
+const pageBase = lang === 'de' ? `${baseUrl}/de` : baseUrl;
+---
+
+<header class="hud-header">
+  <div>
+    <span class="hud-title">ED Lore</span>
+    <span class="hud-subtitle" style="margin-left: 16px;">
+      {t(lang, 'entriesCount', { count: articleCount })}
+    </span>
+  </div>
+  <div style="display: flex; align-items: center; gap: 12px;">
+    <span id="audio-portal" style="display: flex; align-items: center;"></span>
+    <ThemeToggle lang={lang} />
+    <AiModeToggle lang={lang} />
+    <LanguageToggle lang={lang} />
+    <span class="ai-content-inline"><a href={`${pageBase}/map/`} class="hud-search-btn hud-map-btn">◈ {t(lang, 'mapButton')}</a></span>
+    <button class="hud-search-btn" id="search-trigger">
+      <span style="margin-right: 6px;">⌘</span> {t(lang, 'search')}
+    </button>
+  </div>
+</header>
+
+<script is:inline>
+  document.getElementById('search-trigger')?.addEventListener('click', () => {
+    window.dispatchEvent(new CustomEvent('galnet-open-search'));
+  });
+</script>

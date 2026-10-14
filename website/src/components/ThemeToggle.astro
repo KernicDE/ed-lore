@@ -1,4 +1,15 @@
-<button class="hud-search-btn theme-toggle" id="theme-toggle" aria-label="Toggle theme">
+---
+import { t, type Lang } from '../i18n/dict';
+
+interface Props {
+  lang?: Lang;
+}
+
+const { lang = 'en' } = Astro.props;
+const ariaLabel = t(lang, 'toggleTheme');
+---
+
+<button class="hud-search-btn theme-toggle" id="theme-toggle" aria-label={ariaLabel}>
   <span class="theme-icon">☀</span>
 </button>
 

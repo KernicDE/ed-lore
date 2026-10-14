@@ -1,5 +1,6 @@
 import { useState, useEffect, useCallback } from 'react';
 import CommandConsole from './CommandConsole';
+import { useLanguage } from '../../i18n/LanguageContext';
 
 type SearchEntry = { uuid: string; title: string; date: string; body_preview: string };
 type EntityMap = Record<string, { id: string; name: string; type: string }>;
@@ -10,6 +11,7 @@ interface SearchIslandProps {
 }
 
 export default function SearchIsland({ baseUrl }: SearchIslandProps) {
+  const { t } = useLanguage();
   const [open, setOpen] = useState(false);
   const [loaded, setLoaded] = useState(false);
   const [searchIndex, setSearchIndex] = useState<SearchEntry[]>([]);
@@ -56,8 +58,8 @@ export default function SearchIsland({ baseUrl }: SearchIslandProps) {
 
   return (
     <>
-      <button className="hud-search-btn" onClick={openSearch} title="Search (Cmd+K)">
-        <span style={{ marginRight: 6 }}>⌘</span> Search
+      <button className="hud-search-btn" onClick={openSearch} title={t('searchTitle')}>
+        <span style={{ marginRight: 6 }}>⌘</span> {t('search')}
       </button>
       {open && (
         <CommandConsole

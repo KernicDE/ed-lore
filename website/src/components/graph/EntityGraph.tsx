@@ -1,5 +1,6 @@
 import { useState, useEffect, useRef, useMemo, useCallback } from 'react';
 import { forceCollide } from 'd3-force-3d';
+import { useLanguage } from '../../i18n/LanguageContext';
 
 export interface GraphNode {
   id: string;
@@ -61,6 +62,7 @@ function visRadius(node: GraphNode, mode: string): number {
 }
 
 export default function EntityGraph({ mode, miniData, baseUrl = '', height: heightProp }: EntityGraphProps) {
+  const { t } = useLanguage();
   const [ForceGraph, setForceGraph] = useState<any>(null);
   const [fullData, setFullData] = useState<{ nodes: GraphNode[]; edges: { source: string; target: string; weight: number }[] } | null>(null);
   const [nodeCount, setNodeCount] = useState(1000);
@@ -371,13 +373,21 @@ export default function EntityGraph({ mode, miniData, baseUrl = '', height: heig
   const maxNodes = fullData?.nodes.length ?? 3484;
   const isReady = ForceGraph && width > 0 && (mode !== 'full' || fullData !== null);
 
+  const typeLabelKeys: Record<string, string> = {
+    person: 'typePerson',
+    faction: 'typeFaction',
+    location: 'typeLocation',
+    technology: 'typeTechnology',
+    arc: 'typeArc',
+  };
+
   return (
     <div>
       {mode === 'full' && (
         <div className="graph-controls">
           <div className="graph-controls-row">
             <label className="graph-control-label">
-              Nodes: <strong>{nodeCount}</strong>
+              {t('nodesLabel')} <strong>{nodeCount}</strong>
             </label>
             <input
               type="range" min={50} max={maxNodes} step={10}
@@ -387,14 +397,14 @@ export default function EntityGraph({ mode, miniData, baseUrl = '', height: heig
             />
           </div>
           <div className="graph-type-filters">
-            {(['person', 'faction', 'location', 'technology'] as const).map((t) => (
-              <label key={t} className="graph-filter-label" style={{ color: TYPE_COLORS[t] }}>
+            {(['person', 'faction', 'location', 'technology'] as const).map((tKey) => (
+              <label key={tKey} className="graph-filter-label" style={{ color: TYPE_COLORS[tKey] }}>
                 <input
                   type="checkbox"
-                  checked={typeFilter[t] !== false}
-                  onChange={(e) => setTypeFilter((f) => ({ ...f, [t]: e.target.checked }))}
+                  checked={typeFilter[tKey] !== false}
+                  onChange={(e) => setTypeFilter((f) => ({ ...f, [tKey]: e.target.checked }))}
                 />
-                {t}
+                {t(typeLabelKeys[tKey])}
               </label>
             ))}
           </div>
@@ -402,7 +412,7 @@ export default function EntityGraph({ mode, miniData, baseUrl = '', height: heig
             {Object.entries(TYPE_COLORS).filter(([k]) => k !== 'arc').map(([type, color]) => (
               <span key={type} className="graph-legend-item">
                 <span className="graph-legend-dot" style={{ background: color }} />
-                {type}
+                {t(typeLabelKeys[type] || 'typeArc')}
               </span>
             ))}
           </div>
@@ -418,7 +428,7 @@ export default function EntityGraph({ mode, miniData, baseUrl = '', height: heig
         {!isReady ? (
           <div className="graph-placeholder" style={{ height }}>
             <span style={{ color: 'var(--text-dim)', fontFamily: 'var(--font-mono)', fontSize: 12 }}>
-              {mode === 'full' && !fullData ? 'Loading graph data…' : 'Initialising graph…'}
+              {mode === 'full' && !fullData ? t('loadingGraphData') : t('initialisingGraph')}
             </span>
           </div>
         ) : (

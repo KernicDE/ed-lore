@@ -1,0 +1,93 @@
+---
+import { t, type Lang } from '../../i18n/dict';
+
+interface Props {
+  lang?: Lang;
+}
+
+const { lang = 'en' } = Astro.props;
+const base = (import.meta.env.BASE_URL || '').replace(/\/$/, '');
+---
+
+<div class="lang-toggle hud-search-btn" role="group" aria-label={t(lang, 'langToggleLabel')}>
+  <a href="#" class="lang-option" data-lang-option="en">EN</a><span class="lang-sep">|</span><a href="#" class="lang-option" data-lang-option="de">DE</a>
+</div>
+
+<style>
+  .lang-toggle {
+    display: inline-flex;
+    align-items: center;
+    padding: 0 2px;
+    user-select: none;
+  }
+  .lang-option {
+    font-family: var(--font-mono);
+    font-size: 11px;
+    padding: 4px 7px;
+    color: var(--text-dim);
+    text-decoration: none;
+    opacity: 0.55;
+    transition: all 0.15s;
+  }
+  .lang-option:hover {
+    opacity: 1;
+    color: var(--elite-orange);
+  }
+  .lang-option.active {
+    opacity: 1;
+    color: var(--elite-orange);
+  }
+  .lang-sep {
+    color: var(--border-glow);
+    font-size: 11px;
+  }
+</style>
+
+<script is:inline define:vars={{ base }}>
+  (function() {
+    var root = document.documentElement;
+
+    function currentLang() {
+      return root.getAttribute('data-lang') === 'de' ? 'de' : 'en';
+    }
+
+    function paint() {
+      var lang = currentLang();
+      document.querySelectorAll('.lang-option').forEach(function(el) {
+        el.classList.toggle('active', el.getAttribute('data-lang-option') === lang);
+      });
+    }
+
+    // Path of the same page in the target locale ('' when already there).
+    function counterpartPath(target) {
+      var path = window.location.pathname;
+      var dePrefix = base + '/de';
+      var inDe = path === dePrefix || path.indexOf(dePrefix + '/') === 0;
+      if (inDe) {
+        if (target === 'de') return '';
+        var rest = path.slice(dePrefix.length);
+        return base + (rest === '' ? '/' : rest);
+      }
+      if (target === 'en') return '';
+      var tail = path.slice(base.length);
+      if (tail === '' || tail === '/') return base + '/de/';
+      return base + '/de' + tail;
+    }
+
+    document.querySelectorAll('.lang-option').forEach(function(el) {
+      el.addEventListener('click', function(e) {
+        e.preventDefault();
+        var target = el.getAttribute('data-lang-option');
+        try { localStorage.setItem('galnet-lang', target); } catch (err) {}
+        root.setAttribute('data-lang', target);
+        root.setAttribute('lang', target);
+        window.dispatchEvent(new CustomEvent('galnet-lang-change', { detail: { lang: target } }));
+        paint();
+        var url = counterpartPath(target);
+        if (url && url !== window.location.pathname) window.location.href = url;
+      });
+    });
+
+    paint();
+  })();
+</script>

@@ -1,0 +1,273 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import graphData from '../../data/lore_graph.json';
+import EntityGraph from '../graph/EntityGraph';
+import PageHeader from './PageHeader.astro';
+import { t, type Lang } from '../../i18n/dict';
+import type { MiniGraphData, GraphNode, GraphLink } from '../graph/EntityGraph';
+
+interface Props {
+  id: string;
+  lang?: Lang;
+}
+
+const { id, lang = 'en' } = Astro.props;
+const arc = (graphData.arcs as any)[id];
+const baseUrl = (import.meta.env.BASE_URL || '').replace(/\/$/, '');
+const pageBase = lang === 'de' ? `${baseUrl}/de` : baseUrl;
+
+const arcArticles = graphData.articles
+  .filter((a) => a.arc_id === id)
+  .sort((a, b) => (b.date || '').localeCompare(a.date || ''));
+
+const keyEntities = (arc?.key_entities || [])
+  .slice(0, 8)
+  .map((e: any) => (graphData.entities as any)[e.id])
+  .filter(Boolean);
+
+// Build mini-map: arc node at centre, key entities as depth-1, their connections as depth-2
+const miniNodes: GraphNode[] = [];
+const miniLinks: GraphLink[] = [];
+const edgeSet = new Set<string>();
+
+if (arc) {
+  // Arc as centre node (type='arc' gets its own colour)
+  miniNodes.push({ id: arc.id, name: arc.name, type: 'arc', mentions: arc.mention_count ?? 0, depth: 0 });
+
+  const keyIds = new Set<string>();
+  for (const ke of (arc.key_entities ?? []) as any[]) {
+    const ent = (graphData.entities as any)[ke.id];
+    if (!ent) continue;
+    keyIds.add(ke.id);
+    miniNodes.push({ id: ke.id, name: ent.name, type: ent.type, mentions: ent.mention_count ?? 0, depth: 1 });
+    const key = [arc.id, ke.id].sort().join('|');
+    if (!edgeSet.has(key)) {
+      edgeSet.add(key);
+      miniLinks.push({ source: arc.id, target: ke.id, weight: ke.mentions ?? 1 });
+    }
+  }
+
+  // Edges between key entities that co-occur
+  for (const ke of (arc.key_entities ?? []) as any[]) {
+    const ent = (graphData.entities as any)[ke.id];
+    if (!ent) continue;
+    for (const rel of (ent.related_entities ?? []) as any[]) {
+      if (keyIds.has(rel.id)) {
+        const key = [ke.id, rel.id].sort().join('|');
+        if (!edgeSet.has(key)) {
+          edgeSet.add(key);
+          miniLinks.push({ source: ke.id, target: rel.id, weight: rel.mentions ?? 1 });
+        }
+      }
+    }
+  }
+
+  // 2nd-degree connections from key entities (capped at 15)
+  const seen = new Set<string>([arc.id, ...keyIds]);
+  let secondCount = 0;
+  outer: for (const ke of (arc.key_entities ?? []) as any[]) {
+    const ent = (graphData.entities as any)[ke.id];
+    if (!ent) continue;
+    for (const rel of (ent.related_entities ?? []) as any[]) {
+      if (secondCount >= 15) break outer;
+      if (!seen.has(rel.id)) {
+        const n2 = (graphData.entities as any)[rel.id];
+        if (!n2) continue;
+        seen.add(rel.id);
+        secondCount++;
+        miniNodes.push({ id: rel.id, name: n2.name, type: n2.type, mentions: n2.mention_count ?? 0, depth: 2 });
+        const key = [ke.id, rel.id].sort().join('|');
+        if (!edgeSet.has(key)) {
+          edgeSet.add(key);
+          miniLinks.push({ source: ke.id, target: rel.id, weight: rel.mentions ?? 1 });
+        }
+      }
+    }
+  }
+}
+
+const miniGraphData: MiniGraphData = { nodes: miniNodes, links: miniLinks };
+
+const sigColors: Record<string, string> = {
+  low: 'var(--elite-green)',
+  medium: 'var(--elite-yellow)',
+  high: 'var(--elite-orange)',
+  critical: 'var(--elite-red)',
+};
+
+const sigLabelKeys: Record<string, string> = {
+  low: 'significanceLow',
+  medium: 'significanceMedium',
+  high: 'significanceHigh',
+  critical: 'significanceCritical',
+};
+---
+
+<BaseLayout title={`${arc?.name || id} — ED Lore`} lang={lang}>
+  <PageHeader lang={lang} />
+
+  <div style="padding: 24px; max-width: 900px; margin: 0 auto;">
+    <div class="holo-panel blue">
+      <div style="margin-bottom: 12px;">
+        <h1 style="margin: 0; font-family: var(--font-hud); font-size: 24px; color: var(--elite-blue);">
+          {arc?.name || id}
+        </h1>
+        <div style="font-family: var(--font-mono); font-size: 12px; color: var(--text-dim); margin-top: 6px;">
+          {arc?.first_seen_date} → {arc?.last_seen_date} · {t(lang, 'articlesCount', { count: arc?.mention_count || 0 })}
+          {arc?.official_count > 0 && ` · ${t(lang, 'officialCount', { count: arc.official_count })}`}
+          {arc?.community_count > 0 && ` · ${t(lang, 'communityCount', { count: arc.community_count })}`}
+        </div>
+      </div>
+      {arc?.significance && (
+        <div class="ai-content" style="display: flex; align-items: center; gap: 8px;">
+          <span style="font-family: var(--font-mono); font-size: 10px; color: var(--text-dim); text-transform: uppercase;">{t(lang, 'significanceLabel')}</span>
+          <span style={{
+            fontFamily: 'var(--font-mono)',
+            fontSize: 11,
+            color: sigColors[arc.significance] || 'var(--text-dim)',
+            textTransform: 'uppercase',
+            letterSpacing: '1px',
+          }}>
+            {t(lang, sigLabelKeys[arc.significance] || 'significanceMedium')}
+          </span>
+        </div>
+      )}
+    </div>
+
+    <div class="ai-content">
+      {arc?.summary && (
+        <div class="holo-panel">
+          <div class="holo-title">{t(lang, 'summaryTitle')}</div>
+          <div style="font-size: 14px; color: var(--text-secondary); line-height: 1.6;">
+            {arc.summary}
+          </div>
+        </div>
+      )}
+
+      {arc?.description && (
+        <div class="holo-panel">
+          <div class="holo-title">{t(lang, 'overviewTitle')}</div>
+          <div style="font-size: 14px; color: var(--text-secondary); line-height: 1.6;">
+            {arc.description}
+          </div>
+        </div>
+      )}
+
+      {arc?.status && (
+        <div class="holo-panel">
+          <div class="holo-title">{t(lang, 'statusTitle')}</div>
+          <div style="font-size: 14px; color: var(--text-secondary); line-height: 1.6;">
+            {arc.status}
+          </div>
+        </div>
+      )}
+
+      {arc?.outcome && (
+        <div class="holo-panel">
+          <div class="holo-title">{t(lang, 'outcomeTitle')}</div>
+          <div style="font-size: 14px; color: var(--text-secondary); line-height: 1.6;">
+            {arc.outcome}
+          </div>
+        </div>
+      )}
+
+      {arc?.phases && arc.phases.length > 0 && (
+        <div class="holo-panel">
+          <div class="holo-title">{t(lang, 'phasesTitle')}</div>
+          <div style="display: flex; flex-direction: column; gap: 8px;">
+            {arc.phases.map((phase: string, idx: number) => (
+              <div style="display: flex; align-items: center; gap: 12px;">
+                <span style="font-family: var(--font-mono); font-size: 11px; color: var(--elite-blue); min-width: 24px;">{String(idx + 1).padStart(2, '0')}</span>
+                <span style="font-size: 13px; color: var(--text-primary);">{phase}</span>
+              </div>
+            ))}
+          </div>
+        </div>
+      )}
+    </div>
+
+    <div class="ai-content">
+      {/* Relationship mini-map */}
+      {miniNodes.length > 1 && (
+        <div class="holo-panel" style="padding: 0; overflow: hidden;">
+          <div style="padding: 20px 20px 0;"><div class="holo-title">{t(lang, 'connectionMap')}</div></div>
+          <EntityGraph client:visible mode="mini" miniData={miniGraphData} baseUrl={baseUrl} />
+        </div>
+      )}
+
+      {keyEntities.length > 0 && (
+        <div class="holo-panel">
+          <div class="holo-title">{t(lang, 'keyFigures')}</div>
+          <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 8px;">
+            {keyEntities.map((ent: any) => (
+              <a href={`${pageBase}/entity/${ent.id}/`} class="entity-card" style="text-decoration: none;">
+                <div class={`entity-icon ${ent.type || 'person'}`}>
+                  {ent.type === 'person' ? 'P' : ent.type === 'faction' ? 'F' : ent.type === 'station' ? 'S' : ent.type === 'system' ? '◈' : ent.type === 'body' ? '●' : ent.type === 'region' ? '▩' : 'L'}
+                </div>
+                <div>
+                  <div class="entity-name">{ent.name}</div>
+                </div>
+              </a>
+            ))}
+          </div>
+        </div>
+      )}
+    </div>
+
+    <div class="holo-panel">
+      <div class="holo-title">{t(lang, 'chronologyCount', { count: arcArticles.length })}</div>
+      {arcArticles.length === 0 && (
+        <div style="color: var(--text-dim); font-size: 13px;">{t(lang, 'noArticlesFound')}</div>
+      )}
+      {arcArticles.map((art) => {
+        const catBadge = art.category === 'galnet' ? t(lang, 'badgeOfficial')
+          : art.category === 'chronicle' ? t(lang, 'badgeChronicle')
+          : art.category === 'cmdr-log' ? t(lang, 'badgeCmdrLog')
+          : '';
+        const catColor = art.category === 'galnet' ? 'var(--elite-orange)'
+          : art.category === 'chronicle' ? 'var(--elite-blue)'
+          : art.category === 'cmdr-log' ? 'var(--elite-green)'
+          : 'var(--text-dim)';
+        return (
+          <div style="padding: 10px 0; border-bottom: 1px solid var(--border-default);">
+            <div style="display: flex; align-items: center; gap: 8px;">
+              <span style="font-family: var(--font-mono); font-size: 11px; color: var(--text-dim);">{art.date}</span>
+              {catBadge && (
+                <span style={{
+                  fontFamily: 'var(--font-mono)',
+                  fontSize: 10,
+                  color: catColor,
+                  opacity: 0.5,
+                }}>
+                  {catBadge}
+                </span>
+              )}
+            </div>
+            <a href={`${pageBase}/?article=${art.uuid}`} style="font-size: 14px; font-weight: 500; color: var(--text-primary); text-decoration: none;">
+              {art.title}
+            </a>
+            {art.summary && (
+              <div class="ai-content" style="margin-top: 4px; font-size: 12px; color: var(--text-secondary); line-height: 1.4;">
+                {art.summary}
+              </div>
+            )}
+          </div>
+        );
+      })}
+    </div>
+
+    {/* Sources panel */}
+    {arc?.sources && arc.sources.length > 0 && (
+      <div class="holo-panel">
+        <div class="holo-title">{t(lang, 'sourcesTitle')}</div>
+        <div style="display: flex; flex-direction: column; gap: 8px;">
+          {arc.sources.map((src: any) => (
+            <a href={src.url} target="_blank" rel="noopener" style="font-size: 13px; color: var(--elite-blue); text-decoration: none;">
+              {src.name || src.url} ↗
+            </a>
+          ))}
+        </div>
+      </div>
+    )}
+  </div>
+</BaseLayout>

@@ -1,0 +1,14 @@
+---
+import graphData from '../../../data/lore_graph.json';
+import EntityPage from '../../../components/pages/EntityPage.astro';
+
+export function getStaticPaths() {
+  return Object.values(graphData.entities).map((e) => ({
+    params: { id: e.id },
+  }));
+}
+
+const { id } = Astro.params;
+---
+
+<EntityPage id={id} lang="de" />

@@ -1,4 +1,5 @@
 import { useState, useRef, useCallback, useEffect, useMemo } from 'react';
+import { useLanguage } from '../../i18n/LanguageContext';
 
 interface Article {
   uuid: string;
@@ -96,6 +97,7 @@ function TagList({ items, color, baseUrl }: { items: string[]; color: string; ba
 
 function CopyLinkButton({ uuid }: { uuid: string }) {
   const [copied, setCopied] = useState(false);
+  const { t } = useLanguage();
   const baseUrl = (import.meta.env.BASE_URL || '').replace(/\/$/, '');
 
   const handleClick = useCallback((e: React.MouseEvent) => {
@@ -110,7 +112,7 @@ function CopyLinkButton({ uuid }: { uuid: string }) {
   return (
     <button
       onClick={handleClick}
-      title="Copy link to article"
+      title={t('copyLinkTitle')}
       style={{
         background: 'transparent',
         border: '1px solid var(--border-glow)',
@@ -123,12 +125,13 @@ function CopyLinkButton({ uuid }: { uuid: string }) {
         flexShrink: 0,
       }}
     >
-      {copied ? 'Copied!' : '🔗 Link'}
+      {copied ? t('copied') : t('link')}
     </button>
   );
 }
 
 function PlayAudioButton({ uuid, title }: { uuid: string; title: string }) {
+  const { t } = useLanguage();
   const handleClick = useCallback((e: React.MouseEvent) => {
     e.stopPropagation();
     window.dispatchEvent(new CustomEvent('galnet-audio-play', { detail: { uuid, title } }));
@@ -137,7 +140,7 @@ function PlayAudioButton({ uuid, title }: { uuid: string; title: string }) {
   return (
     <button
       onClick={handleClick}
-      title="Play audio"
+      title={t('playAudioTitle')}
       style={{
         background: 'transparent',
         border: '1px solid var(--elite-orange-dim)',
@@ -159,15 +162,15 @@ function PlayAudioButton({ uuid, title }: { uuid: string; title: string }) {
         (e.currentTarget as HTMLElement).style.color = 'var(--elite-orange)';
       }}
     >
-      ▶ Audio
+      ▶ {t('audio')}
     </button>
   );
 }
 
-const categoryButtons: { key: string; label: string; icon: string; borderColor: string; activeBg: string; activeColor: string; count?: number }[] = [
-  { key: 'galnet', label: 'GalNet', icon: '◈', borderColor: '#cc5500', activeBg: 'rgba(204, 85, 0, 0.15)', activeColor: '#ff6600' },
-  { key: 'chronicle', label: 'Chronicles', icon: '📖', borderColor: '#0088aa', activeBg: 'rgba(0, 136, 170, 0.15)', activeColor: '#00bfff' },
-  { key: 'cmdr-log', label: 'CMDR Logs', icon: '✎', borderColor: '#33cc66', activeBg: 'rgba(51, 204, 102, 0.15)', activeColor: '#44ff88' },
+const categoryButtons: { key: string; labelKey: string; icon: string; borderColor: string; activeBg: string; activeColor: string; count?: number }[] = [
+  { key: 'galnet', labelKey: 'categoryGalnet', icon: '◈', borderColor: '#cc5500', activeBg: 'rgba(204, 85, 0, 0.15)', activeColor: '#ff6600' },
+  { key: 'chronicle', labelKey: 'categoryChronicles', icon: '📖', borderColor: '#0088aa', activeBg: 'rgba(0, 136, 170, 0.15)', activeColor: '#00bfff' },
+  { key: 'cmdr-log', labelKey: 'categoryCmdrLogs', icon: '✎', borderColor: '#33cc66', activeBg: 'rgba(51, 204, 102, 0.15)', activeColor: '#44ff88' },
 ];
 
 export default function Timeline({
@@ -184,6 +187,7 @@ export default function Timeline({
   onToggleCategory,
   articleCounts,
 }: TimelineProps) {
+  const { t } = useLanguage();
   const containerRef = useRef<HTMLDivElement>(null);
   const itemRefs = useRef<Map<string, HTMLDivElement>>(new Map());
   const yearHeaderRefs = useRef<Map<string, HTMLDivElement>>(new Map());
@@ -370,8 +374,8 @@ export default function Timeline({
             value={Math.max(0, sliderIndex)}
             onChange={handleSliderChange}
             className="timeline-range-input"
-            aria-label="Select year"
-            title="Select year"
+            aria-label={t('selectYear')}
+            title={t('selectYear')}
           />
           <div className="timeline-slider-ticks">
             <span>{sliderYears[0]}</span>
@@ -414,9 +418,9 @@ export default function Timeline({
                     overflow: 'hidden',
                     textOverflow: 'ellipsis',
                   }}
-                  title={`${f.label} (${count ?? 0})`}
+                  title={`${t(f.labelKey)} (${count ?? 0})`}
                 >
-                  {f.icon} {f.label}
+                  {f.icon} {t(f.labelKey)}
                   {count !== undefined && (
                     <span style={{ marginLeft: 4, opacity: 0.6 }}>{count}</span>
                   )}
@@ -476,7 +480,7 @@ export default function Timeline({
                             cursor: onToggleCategory ? 'pointer' : 'default',
                           }}
                         >
-                          {art.category === 'chronicle' ? '📖 Chronicle' : art.category === 'cmdr-log' ? '✎ CMDR Log' : art.category}
+                          {art.category === 'chronicle' ? t('badgeChronicle') : art.category === 'cmdr-log' ? t('badgeCmdrLog') : art.category}
                         </button>
                       )}
                       {art.arc_id && (
@@ -510,7 +514,7 @@ export default function Timeline({
                         href={art.sources[0].url}
                         target="_blank"
                         rel="noopener"
-                        title={art.sources[0].name || 'Source'}
+                        title={art.sources[0].name || t('sourceFallback')}
                         onClick={(e) => e.stopPropagation()}
                         style={{
                           height: 28,
@@ -536,7 +540,7 @@ export default function Timeline({
                           (e.currentTarget as HTMLElement).style.color = 'var(--text-dim)';
                         }}
                       >
-                        Source ↗
+                        {t('sourceLink')}
                       </a>
                     )}
                     <CopyLinkButton uuid={art.uuid} />
@@ -556,13 +560,13 @@ export default function Timeline({
                   <div className="detail-view" onClick={(e) => e.stopPropagation()}>
                     {art.summary && (
                       <div className="detail-summary ai-content">
-                        <div className="detail-summary-label">AI Summary</div>
+                        <div className="detail-summary-label">{t('aiSummary')}</div>
                         <div className="detail-summary-text">{art.summary}</div>
                       </div>
                     )}
                     {bodyHtml === null ? (
                       <div className="detail-body" style={{ color: 'var(--text-dim)', fontStyle: 'italic' }}>
-                        Loading…
+                        {t('loading')}
                       </div>
                     ) : (
                     <div
@@ -574,11 +578,11 @@ export default function Timeline({
                     )}
                     {(art.player_impact || art.modern_impact) && (
                       <div className="detail-analysis ai-content">
-                        <div className="detail-analysis-label">AI Analysis</div>
+                        <div className="detail-analysis-label">{t('aiAnalysis')}</div>
                         {art.player_impact && (
                           <div className="detail-analysis-section">
                             <div className="detail-analysis-section-label" style={{ color: 'var(--elite-blue)' }}>
-                              Player Impact
+                              {t('playerImpact')}
                             </div>
                             <div className="detail-analysis-section-text">{art.player_impact}</div>
                           </div>
@@ -586,7 +590,7 @@ export default function Timeline({
                         {art.modern_impact && (
                           <div className="detail-analysis-section">
                             <div className="detail-analysis-section-label" style={{ color: 'var(--elite-orange)' }}>
-                              Future Impact
+                              {t('futureImpact')}
                             </div>
                             <div className="detail-analysis-section-text">{art.modern_impact}</div>
                           </div>
@@ -598,12 +602,12 @@ export default function Timeline({
                       <div style={{ marginTop: 12, paddingTop: 8, borderTop: '1px solid var(--border-default)' }}>
                         {art.author && (
                           <div style={{ fontFamily: 'var(--font-mono)', fontSize: 11, color: 'var(--text-dim)' }}>
-                            Author: <span style={{ color: 'var(--text-secondary)' }}>{art.author}</span>
+                            {t('authorLabel')} <span style={{ color: 'var(--text-secondary)' }}>{art.author}</span>
                           </div>
                         )}
                         {art.sources && art.sources.length > 0 && (
                           <div style={{ marginTop: 4 }}>
-                            <div style={{ fontFamily: 'var(--font-mono)', fontSize: 11, color: 'var(--text-dim)' }}>Sources:</div>
+                            <div style={{ fontFamily: 'var(--font-mono)', fontSize: 11, color: 'var(--text-dim)' }}>{t('sourcesLabel')}</div>
                             {art.sources.map((s: any, i: number) => (
                               <a
                                 key={i}
@@ -625,7 +629,7 @@ export default function Timeline({
                         )}
                         {art.curated_by && (
                           <div style={{ fontFamily: 'var(--font-mono)', fontSize: 10, color: 'var(--text-dim)', marginTop: 4, opacity: 0.6 }}>
-                            Curated by {art.curated_by}{art.curated_date ? ` on ${art.curated_date}` : ''}
+                            {t('curatedBy')} {art.curated_by}{art.curated_date ? ` ${t('curatedOn')} ${art.curated_date}` : ''}
                           </div>
                         )}
                       </div>

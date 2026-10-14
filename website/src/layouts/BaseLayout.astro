@@ -1,28 +1,34 @@
 ---
+import { t, type Lang } from '../i18n/dict';
+
 interface Props {
   title?: string;
   description?: string;
   ogImage?: string;
   canonical?: string;
+  lang?: Lang;
 }
-const { 
-  title = "ED Lore — Elite Dangerous Lore Explorer",
-  description = "Explore the complete Elite Dangerous lore archive: GalNet articles, community chronicles, CMDR logs, entity profiles, story arcs, and interactive timeline.",
+const {
+  title,
+  description,
   ogImage = "/ed-lore/favicon.svg",
   canonical,
+  lang = 'en',
 } = Astro.props;
 
 const baseUrl = "https://kernicde.github.io/ed-lore";
 const canonicalUrl = canonical ? `${baseUrl}${canonical}` : baseUrl + Astro.url.pathname;
+const finalTitle = title ?? t(lang, 'metaTitleDefault');
+const finalDescription = description ?? t(lang, 'metaDescriptionDefault');
 ---
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang={lang}>
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
-  <title>{title}</title>
-  <meta name="description" content={description} />
+  <title>{finalTitle}</title>
+  <meta name="description" content={finalDescription} />
   <meta name="keywords" content="Elite Dangerous, GalNet, lore, timeline, ED, frontier, space simulation, galaxy, articles" />
   <meta name="author" content="ED Lore" />
   <meta name="robots" content="index, follow" />
@@ -44,6 +50,11 @@ const canonicalUrl = canonical ? `${baseUrl}${canonical}` : baseUrl + Astro.url.
                     : urlMode === 'on' || urlMode === 'true' ? 'on'
                     : storedAi || 'on';
       document.documentElement.setAttribute('data-ai-mode', aiMode);
+
+      const storedLang = localStorage.getItem('galnet-lang');
+      if (storedLang === 'en' || storedLang === 'de') {
+        document.documentElement.setAttribute('data-lang', storedLang);
+      }
     })();
   </script>
   
@@ -53,15 +64,15 @@ const canonicalUrl = canonical ? `${baseUrl}${canonical}` : baseUrl + Astro.url.
   <!-- Open Graph -->
   <meta property="og:type" content="website" />
   <meta property="og:url" content={canonicalUrl} />
-  <meta property="og:title" content={title} />
-  <meta property="og:description" content={description} />
+  <meta property="og:title" content={finalTitle} />
+  <meta property="og:description" content={finalDescription} />
   <meta property="og:image" content={`${baseUrl}${ogImage}`} />
   <meta property="og:site_name" content="ED Lore" />
   
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content={title} />
-  <meta name="twitter:description" content={description} />
+  <meta name="twitter:title" content={finalTitle} />
+  <meta name="twitter:description" content={finalDescription} />
   <meta name="twitter:image" content={`${baseUrl}${ogImage}`} />
   
   <!-- RSS / Atom Auto-discovery -->
@@ -85,7 +96,7 @@ const canonicalUrl = canonical ? `${baseUrl}${canonical}` : baseUrl + Astro.url.
     "@context": "https://schema.org",
     "@type": "WebSite",
     "name": "ED Lore",
-    "description": description,
+    "description": finalDescription,
     "url": baseUrl,
     "potentialAction": {
       "@type": "SearchAction",
@@ -99,7 +110,7 @@ const canonicalUrl = canonical ? `${baseUrl}${canonical}` : baseUrl + Astro.url.
   </style>
 </head>
 <body>
-  <a href="#main-content" class="skip-link">Skip to main content</a>
+  <a href="#main-content" class="skip-link">{t(lang, 'skipLink')}</a>
   <div id="app-root">
     <slot />
   </div>
