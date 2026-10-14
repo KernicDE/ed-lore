@@ -290,6 +290,21 @@ When new persons or groups are introduced in articles, the build script may crea
 - The CI pipeline rebuilds the site from scratch
 - Always verify deployment succeeded at https://github.com/KernicDE/ed-lore/actions
 
+### GitHub Account Handling (multi-account devices)
+
+Some devices have multiple GitHub accounts logged in via `gh` (e.g. `KernicDE` + `NicolasKerscher`). The active account can silently switch between sessions — a push with the wrong account fails with `403 Permission denied`. **Always:**
+
+1. **BEFORE** any `git fetch` / `git pull` / `git push` to `origin`:
+   ```bash
+   gh auth switch --user KernicDE && gh auth setup-git
+   ```
+2. Perform the git operation(s).
+3. **AFTER** the operation, switch back to the device's default account:
+   ```bash
+   gh auth switch --user NicolasKerscher
+   ```
+4. If unsure which account is active: `gh auth status`
+
 ---
 
 ## 12. Quick Reference
