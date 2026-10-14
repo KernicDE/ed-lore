@@ -13,10 +13,10 @@ summary: The Independent Detention Foundation has regained control of EVE-597, w
 player_impact: Independent pilots who protected convict recovery efforts in Redonesses
   are thanked for their service; no further combat action is requested. The Foundation
   confirmed EVE-597 will resume its normal jump itinerary as soon as possible.
-modern_impact: The subdued breakout closes the immediate crisis but leaves the arc's
+modern_impact: "The subdued breakout closes the immediate crisis but leaves the arc's
   central question open: whether EVE-597's security data was disclosed to a third party
   before the incident. Wallglass's investigation may yet reveal outside involvement in
-  the prisoner takeover, keeping the affair politically sensitive for the Foundation.
+  the prisoner takeover, keeping the affair politically sensitive for the Foundation."
 topics:
 - crime
 - security
