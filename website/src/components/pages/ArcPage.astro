@@ -16,6 +16,11 @@ const arc = (graphData.arcs as any)[id];
 const baseUrl = (import.meta.env.BASE_URL || '').replace(/\/$/, '');
 const pageBase = lang === 'de' ? `${baseUrl}/de` : baseUrl;
 
+// German pages prefer the *_de fields; missing/empty ones fall back to English.
+const summaryText = (lang === 'de' ? arc?.summary_de : undefined) || arc?.summary;
+const descriptionText = (lang === 'de' ? arc?.description_de : undefined) || arc?.description;
+const outcomeText = (lang === 'de' ? arc?.outcome_de : undefined) || arc?.outcome;
+
 const arcArticles = graphData.articles
   .filter((a) => a.arc_id === id)
   .sort((a, b) => (b.date || '').localeCompare(a.date || ''));
@@ -135,20 +140,20 @@ const sigLabelKeys: Record<string, string> = {
     </div>
 
     <div class="ai-content">
-      {arc?.summary && (
+      {summaryText && (
         <div class="holo-panel">
           <div class="holo-title">{t(lang, 'summaryTitle')}</div>
           <div style="font-size: 14px; color: var(--text-secondary); line-height: 1.6;">
-            {arc.summary}
+            {summaryText}
           </div>
         </div>
       )}
 
-      {arc?.description && (
+      {descriptionText && (
         <div class="holo-panel">
           <div class="holo-title">{t(lang, 'overviewTitle')}</div>
           <div style="font-size: 14px; color: var(--text-secondary); line-height: 1.6;">
-            {arc.description}
+            {descriptionText}
           </div>
         </div>
       )}
@@ -162,11 +167,11 @@ const sigLabelKeys: Record<string, string> = {
         </div>
       )}
 
-      {arc?.outcome && (
+      {outcomeText && (
         <div class="holo-panel">
           <div class="holo-title">{t(lang, 'outcomeTitle')}</div>
           <div style="font-size: 14px; color: var(--text-secondary); line-height: 1.6;">
-            {arc.outcome}
+            {outcomeText}
           </div>
         </div>
       )}

@@ -159,7 +159,10 @@ Reads all articles in `Archive/` and entity files in `Entities/`, then writes:
 - `website/public/data/galnet-meta.json` — articles without `body_full` + entities + arcs (~6 MB, loaded async)
 - `website/public/data/galnet-bodies.json` — `{uuid: body_full}` map (~3 MB, loaded lazily on first article expand)
 - `website/public/data/search-index.json` — search-optimized articles (~1.5 MB)
-- `website/public/data/version.json` — build timestamp + counts (used for cache busting)
+- `website/public/data/translations-de.json` — German content translations (`*_de` frontmatter fields; only translated items, lazy-loaded in DE mode)
+- `website/public/data/version.json` — build timestamp + counts incl. translation coverage (used for cache busting)
+
+Multilingual: the site serves EN (canonical) and DE UI via `/de/` routes. Content translations are optional `*_de` fields in article/entity/arc frontmatter (`summary_de`, `player_impact_de`, `modern_impact_de`, `bio_de`, `description_de`, `outcome_de`); the frontend falls back to English per field when absent. See `PLAN_MULTILINGUAL.md`. Note: `translations-de.json` is new and must be force-added (`git add -f`) until the data-dir ignore is adjusted.
 
 ### Step 2: Local Build Test (optional, usually not needed)
 

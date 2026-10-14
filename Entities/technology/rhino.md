@@ -16,6 +16,13 @@ bio: The Rhino is a heavy surface recon vehicle unveiled by Vodel in September 3
   on harsh planetary terrain. It deploys only from a Large Vehicle Bay and carries
   Wreaken Mining deployable mining rigs as standard, with an optional on-site refinery
   module. Early-release field trials concluded with a resounding success.
+bio_de: Der Rhino ist ein schweres Oberflächenaufklärungsfahrzeug, das Vodel im
+  September 3312 vorstellte. Der größte verfügbare SRV ist schwer gepanzert und opfert
+  Geschwindigkeit zugunsten überlegener Traktion auf rauem planetaren Terrain. Er kann
+  nur aus einem Large Vehicle Bay eingesetzt werden und trägt serienmäßig deploybare
+  Bergbau-Rigs von Wreaken Mining, dazu ein optionales Raffinerie-Modul zur
+  Verarbeitung vor Ort. Die Feldversuche der Early-Release-Phase endeten mit einem
+  durchschlagenden Erfolg.
 ---
 
 <!-- AUTO-GENERATED -->

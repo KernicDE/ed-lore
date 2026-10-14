@@ -517,8 +517,11 @@ def _process_single_article(
         "arc_id": arc_id,
         "arc_chapter": fm.get("arc_chapter"),
         "summary": fm.get("summary", ""),
+        "summary_de": fm.get("summary_de", ""),
         "player_impact": fm.get("player_impact", ""),
+        "player_impact_de": fm.get("player_impact_de", ""),
         "modern_impact": fm.get("modern_impact", ""),
+        "modern_impact_de": fm.get("modern_impact_de", ""),
         "persons": fm.get("persons") or [],
         "technologies": fm.get("technologies") or [],
         "legacy_weight": fm.get("legacy_weight", 2),
@@ -785,7 +788,7 @@ def build() -> dict[str, Any]:
             for key in ["type", "coords", "allegiance", "government", "controlling_faction",
                         "population", "security", "economy", "second_economy",
                         "edsm_url", "inara_url", "parent_arc", "summary", "description",
-                        "status", "outcome", "phases", "key_entities", "bio", "related_entities",
+                        "status", "outcome", "phases", "key_entities", "bio", "bio_de", "related_entities",
                         "system", "station_type", "distance_to_arrival",
                         "have_market", "have_shipyard", "have_outfitting",
                         "body_type", "atmosphere", "gravity", "temperature", "terraformable",
@@ -862,7 +865,7 @@ def build() -> dict[str, Any]:
                 continue
             if not isinstance(fm, dict):
                 continue
-            for key in ["description", "summary", "status", "outcome", "phases", "significance", "key_entities"]:
+            for key in ["description", "description_de", "summary", "summary_de", "status", "outcome", "outcome_de", "phases", "significance", "key_entities"]:
                 if key in fm and fm[key] is not None:
                     rec[key] = fm[key]
             # Merge arc-level sources if present in frontmatter
@@ -1064,6 +1067,31 @@ def main() -> int:
     (WEBSITE_DATA_DIR / "galnet-bodies.json").write_text(json.dumps(bodies, ensure_ascii=False), encoding="utf-8")
     (WEBSITE_DATA_DIR / "search-index.json").write_text(json.dumps(search_articles, ensure_ascii=False), encoding="utf-8")
 
+    # Build translations-de.json: German content fields, only items with at least one
+    # non-empty *_de field; per item only the non-empty fields are included.
+    ARTICLE_DE_FIELDS = ("summary_de", "player_impact_de", "modern_impact_de")
+    ARC_DE_FIELDS = ("description_de", "summary_de", "outcome_de")
+    de_articles = {}
+    for a in graph["articles"]:
+        entry = {k: a[k] for k in ARTICLE_DE_FIELDS if a.get(k)}
+        if entry:
+            de_articles[a["uuid"]] = entry
+    de_entities = {}
+    for eid, rec in graph["entities"].items():
+        if rec.get("bio_de"):
+            de_entities[eid] = {"bio_de": rec["bio_de"]}
+    de_arcs = {}
+    for arc_id, rec in graph["arcs"].items():
+        entry = {k: rec[k] for k in ARC_DE_FIELDS if rec.get(k)}
+        if entry:
+            de_arcs[arc_id] = entry
+    translations_de = {"articles": de_articles, "entities": de_entities, "arcs": de_arcs}
+    # Written even when empty so the frontend can rely on the file existing.
+    (WEBSITE_DATA_DIR / "translations-de.json").write_text(
+        json.dumps(translations_de, indent=1, ensure_ascii=False), encoding="utf-8"
+    )
+    print(f"  translations-de.json: {len(de_articles)} articles, {len(de_entities)} entities, {len(de_arcs)} arcs")
+
     # Build graph-data.json for the relationship map visualisation
     graph_nodes = [
         {"id": eid, "name": rec["name"], "type": rec.get("type", "person"), "mentions": rec.get("mention_count", 0)}
@@ -1122,15 +1150,22 @@ def main() -> int:
         "galnet_count": galnet_count,
         "chronicle_count": chronicle_count,
         "cmdr_log_count": cmdr_log_count,
+        "translated": {
+            "articles": len(de_articles),
+            "entities": len(de_entities),
+            "arcs": len(de_arcs),
+        },
     }
     (WEBSITE_DATA_DIR / "version.json").write_text(json.dumps(version, ensure_ascii=False), encoding="utf-8")
 
     meta_size = (WEBSITE_DATA_DIR / 'galnet-meta.json').stat().st_size
     bodies_size = (WEBSITE_DATA_DIR / 'galnet-bodies.json').stat().st_size
     search_size = (WEBSITE_DATA_DIR / 'search-index.json').stat().st_size
+    trans_size = (WEBSITE_DATA_DIR / 'translations-de.json').stat().st_size
     print(f"  galnet-meta.json: {meta_size//1024}KB")
     print(f"  galnet-bodies.json: {bodies_size//1024}KB")
     print(f"  search-index.json: {search_size//1024}KB")
+    print(f"  translations-de.json: {trans_size//1024}KB")
 
 
     print("Writing profiles...")

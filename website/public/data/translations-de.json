@@ -1,0 +1,29 @@
+{
+ "articles": {
+  "b1687401-e98b-50d3-8e7f-6fc656c56bfa": {
+   "summary_de": "Vodel, Hersteller der SRVs Scarab und Scorpion, hat den Rhino vorgestellt, den größten verfügbaren SRV. Schwer gepanzert und für raues Terrain gebaut, opfert er Geschwindigkeit zugunsten überlegener Traktion, kann nur aus einem Large Vehicle Bay eingesetzt werden und ist serienmäßig mit deploybaren Bergbau-Rigs aus einem Joint Venture zwischen Vodel und Wreaken Mining ausgestattet, dazu ein optionales Raffinerie-Modul zur Verarbeitung vor Ort. Der Rhino ist als Early-Release-Kauf erhältlich, bevor er in die allgemeine Werftverfügbarkeit übergeht.",
+   "player_impact_de": "Kommandanten können den Rhino als Early-Release-Kauf erwerben, bevor er in die regulären Werftbestände gelangt. Für den Einsatz ist ein kompatibles Schiff mit Large Vehicle Bay erforderlich; die serienmäßigen deploybaren Bergbau-Rigs und das optionale Raffinerie-Modul machen ihn zur fertigen Plattform für Bergbau-Einsätze auf Planetenoberflächen.",
+   "modern_impact_de": "Der Rhino führt eine neue Klasse schwerer SRVs ein, die Geschwindigkeit gegen Panzerung und Geländegängigkeit eintauscht und erweitert, welche Planetenoberflächen praktisch erreichbar sind. Die werkseitig integrierte Bergbauausstattung signalisiert einen breiteren Branchenwandel hin zur Oberflächengewinnung und positioniert Vodel und Wreaken Mining im Zentrum einer entstehenden Oberflächen-Bergbauwirtschaft."
+  },
+  "0ed9ac77-4a40-5909-96f7-12acfa5f2efe": {
+   "summary_de": "Die Wreaken Corporation ruft unabhängige Piloten auf, ihr neues deploybares Bergbau-Rig im Feld zu testen, das auf der patentierten Bergbau-Lasertechnologie aus Dr. Ben Curtis' Forschung basiert. Piloten sollen Materialien von verschiedenen planetaren Körpertypen extrahieren und Asteroiden per Laser abbauen, um die Ausbeute vergleichend zu analysieren. Durch Wreakens Zusammenarbeit mit Vodel beim neuen SRV Rhino gelangte das Rig schnell in die Hände von Bergleuten. Teilnehmer melden sich bei Metz Enterprise im Ega-System.",
+   "player_impact_de": "Unabhängige Piloten können sich bei Metz Enterprise im Ega-System registrieren, um an den Feldversuchen teilzunehmen, das deploybare Bergbau-Rig auf Planetenoberflächen zu testen und Asteroiden per Laser für vergleichende Ausbeutedaten abzubauen. Erfolgreiche Tests beschleunigen direkt die Verfügbarkeit der neuen Oberflächen-Bergbauausrüstung.",
+   "modern_impact_de": "Die Feldversuche prüfen, ob modulierte Bergbau-Laser zuvor unerreichbare Materialien aus verschiedenen planetaren Körpertypen extrahieren können. Die Ergebnisse bestimmen, wie sich die Technologie über den SRV Rhino hinaus verbreitet, und lösen möglicherweise den von Branchenbeobachtern erwarteten Boom des Oberflächenbergbaus aus, der die planetare Gewinnung neu formt."
+  }
+ },
+ "entities": {
+  "vodel": {
+   "bio_de": "Vodel ist ein Hersteller von Oberflächenfahrzeugen, bekannt vor allem für die SRVs Scarab und Scorpion. Nach der Übernahme durch Core Dynamics im Jahr 3305 stellte das Unternehmen im September 3312 den Rhino vor, den größten SRV bislang, ausgestattet mit Bergbau-Rigs von Wreaken Mining. Die Feldversuche wurden noch im selben Monat als durchschlagender Erfolg gewertet."
+  },
+  "rhino": {
+   "bio_de": "Der Rhino ist ein schweres Oberflächenaufklärungsfahrzeug, das Vodel im September 3312 vorstellte. Der größte verfügbare SRV ist schwer gepanzert und opfert Geschwindigkeit zugunsten überlegener Traktion auf rauem planetaren Terrain. Er kann nur aus einem Large Vehicle Bay eingesetzt werden und trägt serienmäßig deploybare Bergbau-Rigs von Wreaken Mining, dazu ein optionales Raffinerie-Modul zur Verarbeitung vor Ort. Die Feldversuche der Early-Release-Phase endeten mit einem durchschlagenden Erfolg."
+  }
+ },
+ "arcs": {
+  "rhino-srv-rollout": {
+   "description_de": "Wreaken Minings Forschung zum modulierten Laserbergbau reift zu einem Joint Venture mit Vodel, aus dem der Rhino hervorgeht, der größte SRV bislang mit integrierten deploybaren Bergbau-Rigs, gefolgt von offenen Feldversuchen im Ega-System, die als durchschlagender Erfolg gewertet werden.",
+   "summary_de": "Wreaken Minings Forschung zu moduliertem, eng fokussiertem Laserbergbau führt zu einem Joint Venture mit Vodel und der Enthüllung des Rhino, eines schwer gepanzerten SRV mit serienmäßigen deploybaren Bergbau-Rigs. Offene Feldversuche im Ega-System testen das Rig über planetare Körpertypen hinweg und im Vergleich zum Laser-Abbau von Asteroiden und enden damit, dass beide Unternehmen die Versuche als durchschlagenden Erfolg werten.",
+   "outcome_de": "Der Rhino ging als Early-Release-Kauf in den Verkauf, eine breitere Werftverfügbarkeit ist geplant. Feldversuche bei Metz Enterprise im Ega-System bestätigten starke Geländeleistung und eine beispiellose Mineralausbeute; ein breiterer Werft-Rollout wird erwartet."
+  }
+ }
+}

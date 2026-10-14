@@ -1,5 +1,6 @@
 import { useState, useRef, useCallback, useEffect, useMemo } from 'react';
 import { useLanguage } from '../../i18n/LanguageContext';
+import { useTranslations } from '../../i18n/TranslationsContext';
 
 interface Article {
   uuid: string;
@@ -187,7 +188,8 @@ export default function Timeline({
   onToggleCategory,
   articleCounts,
 }: TimelineProps) {
-  const { t } = useLanguage();
+  const { lang, t } = useLanguage();
+  const { articles: deArticles } = useTranslations();
   const containerRef = useRef<HTMLDivElement>(null);
   const itemRefs = useRef<Map<string, HTMLDivElement>>(new Map());
   const yearHeaderRefs = useRef<Map<string, HTMLDivElement>>(new Map());
@@ -556,12 +558,17 @@ export default function Timeline({
                 {isSelected && (() => {
                   if (bodies === null) { onNeedBodies(); }
                   const bodyHtml = bodies ? bodies[art.uuid] ?? '' : null;
+                  // German translations apply per field; missing/empty DE fields fall back to English.
+                  const tr = lang === 'de' ? deArticles[art.uuid] : undefined;
+                  const summaryText = tr?.summary_de || art.summary;
+                  const playerImpactText = tr?.player_impact_de || art.player_impact;
+                  const modernImpactText = tr?.modern_impact_de || art.modern_impact;
                   return (
                   <div className="detail-view" onClick={(e) => e.stopPropagation()}>
-                    {art.summary && (
+                    {summaryText && (
                       <div className="detail-summary ai-content">
                         <div className="detail-summary-label">{t('aiSummary')}</div>
-                        <div className="detail-summary-text">{art.summary}</div>
+                        <div className="detail-summary-text">{summaryText}</div>
                       </div>
                     )}
                     {bodyHtml === null ? (
@@ -576,23 +583,23 @@ export default function Timeline({
                       }}
                     />
                     )}
-                    {(art.player_impact || art.modern_impact) && (
+                    {(playerImpactText || modernImpactText) && (
                       <div className="detail-analysis ai-content">
                         <div className="detail-analysis-label">{t('aiAnalysis')}</div>
-                        {art.player_impact && (
+                        {playerImpactText && (
                           <div className="detail-analysis-section">
                             <div className="detail-analysis-section-label" style={{ color: 'var(--elite-blue)' }}>
                               {t('playerImpact')}
                             </div>
-                            <div className="detail-analysis-section-text">{art.player_impact}</div>
+                            <div className="detail-analysis-section-text">{playerImpactText}</div>
                           </div>
                         )}
-                        {art.modern_impact && (
+                        {modernImpactText && (
                           <div className="detail-analysis-section">
                             <div className="detail-analysis-section-label" style={{ color: 'var(--elite-orange)' }}>
                               {t('futureImpact')}
                             </div>
-                            <div className="detail-analysis-section-text">{art.modern_impact}</div>
+                            <div className="detail-analysis-section-text">{modernImpactText}</div>
                           </div>
                         )}
                       </div>

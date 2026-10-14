@@ -10,14 +10,31 @@ summary: Wreaken Corporation has called for independent pilots to field-test its
   and to laser-mine asteroids for comparative yield analysis. The rig reached miners quickly
   through Wreaken's cooperation with Vodel on the new SRV Rhino. Participants should register
   at Metz Enterprise in the Ega system.
+summary_de: Die Wreaken Corporation ruft unabhängige Piloten auf, ihr neues deploybares
+  Bergbau-Rig im Feld zu testen, das auf der patentierten Bergbau-Lasertechnologie aus
+  Dr. Ben Curtis' Forschung basiert. Piloten sollen Materialien von verschiedenen
+  planetaren Körpertypen extrahieren und Asteroiden per Laser abbauen, um die Ausbeute
+  vergleichend zu analysieren. Durch Wreakens Zusammenarbeit mit Vodel beim neuen SRV
+  Rhino gelangte das Rig schnell in die Hände von Bergleuten. Teilnehmer melden sich
+  bei Metz Enterprise im Ega-System.
 player_impact: Independent pilots can register at Metz Enterprise in the Ega system to take
   part in the field trials, testing the deployable mining rig on planetary surfaces and
   laser-mining asteroids for comparative yield data. Successful testing directly advances
   the availability of the new surface-mining equipment.
+player_impact_de: Unabhängige Piloten können sich bei Metz Enterprise im Ega-System
+  registrieren, um an den Feldversuchen teilzunehmen, das deploybare Bergbau-Rig auf
+  Planetenoberflächen zu testen und Asteroiden per Laser für vergleichende
+  Ausbeutedaten abzubauen. Erfolgreiche Tests beschleunigen direkt die Verfügbarkeit
+  der neuen Oberflächen-Bergbauausrüstung.
 modern_impact: The field trials validate whether modulated mining lasers can extract
   previously unobtainable materials across different planetary body types. The results will
   determine how the technology rolls out beyond the SRV Rhino, potentially triggering the
   surface-mining boom industry observers anticipated and reshaping planetary extraction.
+modern_impact_de: Die Feldversuche prüfen, ob modulierte Bergbau-Laser zuvor unerreichbare
+  Materialien aus verschiedenen planetaren Körpertypen extrahieren können. Die
+  Ergebnisse bestimmen, wie sich die Technologie über den SRV Rhino hinaus verbreitet,
+  und lösen möglicherweise den von Branchenbeobachtern erwarteten Boom des
+  Oberflächenbergbaus aus, der die planetare Gewinnung neu formt.
 topics:
 - mining
 - technology

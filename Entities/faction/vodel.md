@@ -13,6 +13,11 @@ bio: Vodel is a surface vehicle manufacturer best known for the Scarab and Scorp
   Acquired by Core Dynamics in 3305, it unveiled the Rhino — the largest SRV to date,
   equipped with Wreaken Mining mining rigs — in September 3312, with field trials declared
   a resounding success later that month.
+bio_de: Vodel ist ein Hersteller von Oberflächenfahrzeugen, bekannt vor allem für die
+  SRVs Scarab und Scorpion. Nach der Übernahme durch Core Dynamics im Jahr 3305
+  stellte das Unternehmen im September 3312 den Rhino vor, den größten SRV bislang,
+  ausgestattet mit Bergbau-Rigs von Wreaken Mining. Die Feldversuche wurden noch im
+  selben Monat als durchschlagender Erfolg gewertet.
 ---
 
 

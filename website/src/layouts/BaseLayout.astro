@@ -54,6 +54,9 @@ const finalDescription = description ?? t(lang, 'metaDescriptionDefault');
       const storedLang = localStorage.getItem('galnet-lang');
       if (storedLang === 'en' || storedLang === 'de') {
         document.documentElement.setAttribute('data-lang', storedLang);
+      } else {
+        // No stored preference: derive from the page's own locale (e.g. /de/ routes)
+        document.documentElement.setAttribute('data-lang', document.documentElement.lang === 'de' ? 'de' : 'en');
       }
     })();
   </script>

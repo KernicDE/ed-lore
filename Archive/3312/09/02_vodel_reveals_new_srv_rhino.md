@@ -10,15 +10,33 @@ summary: Vodel, maker of the Scarab and Scorpion SRVs, has unveiled the Rhino, t
   mining rigs through a joint venture between Vodel and Wreaken Mining, plus an optional
   on-site refinery module. The Rhino is available as an early-release purchase ahead of
   wider shipyard availability.
+summary_de: Vodel, Hersteller der SRVs Scarab und Scorpion, hat den Rhino vorgestellt,
+  den größten verfügbaren SRV. Schwer gepanzert und für raues Terrain gebaut, opfert
+  er Geschwindigkeit zugunsten überlegener Traktion, kann nur aus einem Large Vehicle
+  Bay eingesetzt werden und ist serienmäßig mit deploybaren Bergbau-Rigs aus einem
+  Joint Venture zwischen Vodel und Wreaken Mining ausgestattet, dazu ein optionales
+  Raffinerie-Modul zur Verarbeitung vor Ort. Der Rhino ist als Early-Release-Kauf
+  erhältlich, bevor er in die allgemeine Werftverfügbarkeit übergeht.
 player_impact: Commanders can buy the Rhino as an early-release purchase before it reaches
   general shipyard inventories. Piloting it requires a compatible ship fitted with a Large
   Vehicle Bay, and its standard deployable mining rigs and optional refinery module make
   it a ready-made platform for planetside mining operations.
+player_impact_de: Kommandanten können den Rhino als Early-Release-Kauf erwerben, bevor
+  er in die regulären Werftbestände gelangt. Für den Einsatz ist ein kompatibles Schiff
+  mit Large Vehicle Bay erforderlich; die serienmäßigen deploybaren Bergbau-Rigs und das
+  optionale Raffinerie-Modul machen ihn zur fertigen Plattform für Bergbau-Einsätze auf
+  Planetenoberflächen.
 modern_impact: The Rhino introduces a new heavy SRV class that trades speed for armour
   and terrain handling, expanding what planetary surfaces are practically reachable. Its
   factory-integrated mining equipment signals a broader industry shift toward surface
   extraction, positioning Vodel and Wreaken Mining at the centre of an emerging
   surface-mining economy.
+modern_impact_de: Der Rhino führt eine neue Klasse schwerer SRVs ein, die Geschwindigkeit
+  gegen Panzerung und Geländegängigkeit eintauscht und erweitert, welche
+  Planetenoberflächen praktisch erreichbar sind. Die werkseitig integrierte
+  Bergbauausstattung signalisiert einen breiteren Branchenwandel hin zur
+  Oberflächengewinnung und positioniert Vodel und Wreaken Mining im Zentrum einer
+  entstehenden Oberflächen-Bergbauwirtschaft.
 topics:
 - technology
 - mining

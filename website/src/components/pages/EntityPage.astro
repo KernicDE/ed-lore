@@ -17,6 +17,9 @@ const entity = (graphData.entities as any)[id];
 const baseUrl = (import.meta.env.BASE_URL || '').replace(/\/$/, '');
 const pageBase = lang === 'de' ? `${baseUrl}/de` : baseUrl;
 
+// German pages prefer bio_de; anything else falls back to the English bio.
+const bioSource = (lang === 'de' ? entity?.bio_de : undefined) || entity?.bio_full || entity?.bio || '';
+
 const allEntityArticles = graphData.articles
   .filter((a) => {
     const allNames = [...a.entities, ...a.groups, ...a.locations, ...(a.persons || []), ...(a.technologies || [])];
@@ -177,12 +180,12 @@ function slugify(name: string): string {
     </div>
 
     {/* Bio / Description */}
-    {(entity?.bio_full || entity?.bio) && (
+    {bioSource && (
       <div class="holo-panel ai-content">
         <div class="holo-title">
           {bioTitle(entity?.type || '')}
         </div>
-        <div class="entity-bio" set:html={marked.parse(entity.bio_full || entity.bio || '')} />
+        <div class="entity-bio" set:html={marked.parse(bioSource)} />
       </div>
     )}
 

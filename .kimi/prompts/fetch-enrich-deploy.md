@@ -58,6 +58,7 @@ summary: "One-paragraph summary of the article."
 - `arc_id` should match an existing arc from `Arcs/` or be left blank
 - `player_impact`: What did/does this mean for Commanders at the time?
 - `modern_impact`: Why does this still matter in the current timeline?
+- **German translations**: also add `summary_de`, `player_impact_de`, `modern_impact_de` (articles), `bio_de` (entities, same ≤47-line style cap), and `description_de`/`summary_de`/`outcome_de` (arcs). Idiomatic HUD-tone German; game terms (SRV, shipyard) stay English per ED German-community convention. Quote any YAML value containing `": "`. English remains canonical.
 
 ### 4. Run Validation
 ```bash

@@ -5,6 +5,7 @@ import ContextPanel from './context/ContextPanel';
 import CommandConsole from './hud/CommandConsole';
 import AudioPlayer from './audio/AudioPlayer';
 import { LanguageProvider, useLanguage } from '../i18n/LanguageContext';
+import { TranslationsProvider } from '../i18n/TranslationsContext';
 
 interface Article {
   uuid: string;
@@ -52,7 +53,9 @@ const BASE = (import.meta.env.BASE_URL || '/').replace(/\/$/, '');
 export default function AppShell() {
   return (
     <LanguageProvider>
-      <AppShellInner />
+      <TranslationsProvider>
+        <AppShellInner />
+      </TranslationsProvider>
     </LanguageProvider>
   );
 }
