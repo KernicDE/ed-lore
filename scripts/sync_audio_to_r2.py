@@ -15,8 +15,16 @@ import requests
 
 BASE_DIR = Path(__file__).parent.parent
 AUDIO_DIR = BASE_DIR / "website" / "public" / "audio"
+AUDIO_DIR_DE = BASE_DIR / "website" / "public" / "audio-de"
 BUCKET_NAME = "ed-lore-audio"
 API_BASE = "https://api.cloudflare.com/client/v4"
+
+# Local staging dir + R2 key prefix per language. EN keeps the flat
+# audio/{uuid}.mp3 layout; DE lives under audio/de/{uuid}.mp3.
+LANG_CONFIG = {
+    "en": {"audio_dir": AUDIO_DIR, "key_prefix": "audio"},
+    "de": {"audio_dir": AUDIO_DIR_DE, "key_prefix": "audio/de"},
+}
 
 
 def get_account_id(token: str) -> str:
@@ -141,16 +149,22 @@ def upload_file(token: str, account_id: str, key: str, file_path: Path) -> bool:
 
 def main():
     parser = argparse.ArgumentParser(description="Sync GalNet audio to Cloudflare R2")
+    parser.add_argument("--lang", choices=["en", "de"], default="en",
+                        help="Language to sync (de uploads to audio/de/ prefix)")
     parser.add_argument("--dry-run", action="store_true", help="Don't actually upload")
     parser.add_argument("--check", action="store_true", help="Only check coverage, don't upload")
     args = parser.parse_args()
+
+    cfg = LANG_CONFIG[args.lang]
+    audio_dir = cfg["audio_dir"]
+    key_prefix = cfg["key_prefix"]
 
     token = os.environ.get("CLOUDFLARE_R2_TOKEN")
     if not token:
         print("ERROR: CLOUDFLARE_R2_TOKEN environment variable not set", file=sys.stderr)
         sys.exit(1)
 
-    print("=== Sync Audio to Cloudflare R2 ===")
+    print(f"=== Sync Audio to Cloudflare R2 ({args.lang}) ===")
     print(f"Fetching Cloudflare account...")
     account_id = get_account_id(token)
     print(f"  Account ID: {account_id}")
@@ -159,9 +173,12 @@ def main():
     ensure_bucket(token, account_id)
 
     print("Listing local MP3 files...")
-    local_files = sorted(AUDIO_DIR.glob("*.mp3"))
+    local_files = sorted(audio_dir.glob("*.mp3"))
     if not local_files:
-        print("ERROR: No MP3 files found in website/public/audio/", file=sys.stderr)
+        if args.lang == "de":
+            print("  No DE MP3 files yet — nothing to sync.")
+            return
+        print(f"ERROR: No MP3 files found in {audio_dir.relative_to(BASE_DIR)}/", file=sys.stderr)
         sys.exit(1)
     print(f"  Local files: {len(local_files)}")
 
@@ -169,7 +186,7 @@ def main():
     r2_objects = list_r2_objects(token, account_id)
     print(f"  R2 objects:  {len(r2_objects)}")
     if r2_objects:
-        sample = sorted(r2_objects.keys())[:5]
+        sample = sorted(k for k in r2_objects.keys() if k.startswith(key_prefix))[:5]
         print(f"  Sample keys: {sample}")
     else:
         print("  WARNING: R2 bucket appears empty!")
@@ -184,7 +201,7 @@ def main():
     to_upload = []
     stale = 0
     for fpath in local_files:
-        key = f"audio/{fpath.name}"
+        key = f"{key_prefix}/{fpath.name}"
         r2_etag = r2_objects.get(key)
         if r2_etag is None:
             to_upload.append((key, fpath))

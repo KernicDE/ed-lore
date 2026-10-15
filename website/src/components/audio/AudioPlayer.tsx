@@ -1,11 +1,15 @@
 import { useState, useRef, useEffect, useCallback } from 'react';
 import { useLanguage } from '../../i18n/LanguageContext';
+import type { Lang } from '../../i18n/dict';
 
 interface Article {
   uuid: string;
   title: string;
   date: string;
   audio_hash?: string;
+  has_audio?: boolean;
+  audio_hash_de?: string;
+  has_audio_de?: boolean;
   category?: string;
   source_type?: string;
 }
@@ -19,28 +23,42 @@ const BASE = (import.meta.env.BASE_URL || '/').replace(/\/$/, '');
 // Cloudflare R2 public bucket URL
 const R2_AUDIO_BASE = 'https://pub-4404b20907c141e1b68f3dc578038230.r2.dev/audio';
 
-function getAudioUrl(uuid: string, hash?: string): string {
+function getAudioUrl(uuid: string, hash: string | undefined, lang: Lang): string {
   const suffix = hash ? `?v=${hash}` : '';
   if (R2_AUDIO_BASE) {
-    return `${R2_AUDIO_BASE}/${uuid}.mp3${suffix}`;
+    return lang === 'de'
+      ? `${R2_AUDIO_BASE}/de/${uuid}.mp3${suffix}`
+      : `${R2_AUDIO_BASE}/${uuid}.mp3${suffix}`;
   }
-  return `${BASE}/audio/${uuid}.mp3${suffix}`;
+  return lang === 'de'
+    ? `${BASE}/audio/de/${uuid}.mp3${suffix}`
+    : `${BASE}/audio/${uuid}.mp3${suffix}`;
 }
 
 const LOAD_TIMEOUT_MS = 20_000; // 20 seconds before showing error
 
 export default function AudioPlayer({ article }: AudioPlayerProps) {
-  const { t } = useLanguage();
+  const { t, lang } = useLanguage();
   const [isPlaying, setIsPlaying] = useState(false);
   const [currentTime, setCurrentTime] = useState(0);
   const [duration, setDuration] = useState(0);
   const [error, setError] = useState(false);
   const [isLoading, setIsLoading] = useState(false);
+  // uuid of the article whose DE audio failed to load this session —
+  // afterwards (and for articles without has_audio_de) we use English audio.
+  const [deFailedFor, setDeFailedFor] = useState<string | null>(null);
   const audioRef = useRef<HTMLAudioElement | null>(null);
   const rafRef = useRef<number>(0);
   const loadTimeoutRef = useRef<ReturnType<typeof setTimeout> | null>(null);
 
-  const audioUrl = article ? getAudioUrl(article.uuid, article.audio_hash) : null;
+  const wantDe = lang === 'de' && !!article?.has_audio_de && deFailedFor !== article?.uuid;
+  const audioUrl = article
+    ? getAudioUrl(
+        article.uuid,
+        wantDe ? (article.audio_hash_de ?? article.audio_hash) : article.audio_hash,
+        wantDe ? 'de' : 'en',
+      )
+    : null;
 
   const catBadge = article?.category === 'galnet' ? t('badgeOfficial')
     : article?.category === 'chronicle' ? t('badgeChronicle')
@@ -111,6 +129,11 @@ export default function AudioPlayer({ article }: AudioPlayerProps) {
     });
 
     audio.addEventListener('error', () => {
+      // DE audio missing/stale (e.g. not uploaded yet) — retry with English
+      if (wantDe && article) {
+        setDeFailedFor(article.uuid);
+        return;
+      }
       clearLoadTimeout();
       setIsLoading(false);
       setError(true);
@@ -134,7 +157,7 @@ export default function AudioPlayer({ article }: AudioPlayerProps) {
       setIsLoading(false);
       setError(true);
     });
-  }, [article?.uuid]);
+  }, [article?.uuid, audioUrl]);
 
   const updateTime = useCallback(() => {
     if (audioRef.current) {
@@ -170,6 +193,10 @@ export default function AudioPlayer({ article }: AudioPlayerProps) {
       });
 
       audio.addEventListener('error', () => {
+        if (wantDe && article) {
+          setDeFailedFor(article.uuid);
+          return;
+        }
         clearLoadTimeout();
         setIsLoading(false);
         setError(true);
@@ -203,7 +230,7 @@ export default function AudioPlayer({ article }: AudioPlayerProps) {
         setError(true);
       }
     }
-  }, [audioUrl, isPlaying, updateTime, clearLoadTimeout]);
+  }, [audioUrl, isPlaying, updateTime, clearLoadTimeout, wantDe, article]);
 
   useEffect(() => {
     return () => {

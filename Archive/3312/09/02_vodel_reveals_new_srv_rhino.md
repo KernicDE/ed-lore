@@ -37,6 +37,13 @@ modern_impact_de: Der Rhino führt eine neue Klasse schwerer SRVs ein, die Gesch
   Bergbauausstattung signalisiert einen breiteren Branchenwandel hin zur
   Oberflächengewinnung und positioniert Vodel und Wreaken Mining im Zentrum einer
   entstehenden Oberflächen-Bergbauwirtschaft.
+body_de: |
+  Vodel, der Hersteller der Oberflächenaufklärungsfahrzeuge Scarab und Scorpion, hat sein neuestes Modell vorgestellt – den SRV Rhino.
+  Laut erhaltenen Presseunterlagen ist der Rhino derzeit der größte verfügbare SRV und stark gepanzert. Aufgrund seines zusätzlichen Gewichts opfert er Geschwindigkeit zugunsten überlegener Traktion und kann so raues planetares Terrain durchqueren.
+  Aufgrund seiner Größe kann das neue Fahrzeug nur aus einer Large Vehicle Bay heraus eingesetzt werden, die in kompatiblen Schiffen installiert ist.
+  „Wir freuen uns außerdem außerordentlich, ein Joint Venture zwischen Vodel und Wreaken Mining ankündigen zu können“, sagte Owen McKenna, CEO von Core Dynamics.
+  „Aufgrund ihrer jüngsten Forschung und Entwicklung wird der Rhino serienmäßig mit deploybaren Bergbau-Rigs für den Abbau auf Planetenoberflächen ausgestattet sein, sowie mit einem optionalen Raffinerie-Modul zur Verarbeitung von Materialien vor Ort."
+  Der Rhino ist nun als Early-Release-Kauf erhältlich und wird später in eine breitere Werftverfügbarkeit übergehen.
 topics:
 - technology
 - mining

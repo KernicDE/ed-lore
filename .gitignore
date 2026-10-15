@@ -52,6 +52,7 @@ scripts/audio_manifest.json
 
 # Audio files are synced to Cloudflare R2, not committed to git
 website/public/audio/
+website/public/audio-de/
 
 # Generated data files (recreated by build_graph.py)
 website/src/data/

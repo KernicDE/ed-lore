@@ -35,6 +35,14 @@ modern_impact_de: Die Feldversuche prüfen, ob modulierte Bergbau-Laser zuvor un
   Ergebnisse bestimmen, wie sich die Technologie über den SRV Rhino hinaus verbreitet,
   und lösen möglicherweise den von Branchenbeobachtern erwarteten Boom des
   Oberflächenbergbaus aus, der die planetare Gewinnung neu formt.
+body_de: |
+  Um ihr neues deploybares Bergbau-Rig zu testen, hat die Wreaken Corporation unabhängige Piloten aufgerufen, bei der Vervollständigung der Feldversuche zu helfen.
+  Dr. Ben Curtis, Chefgeologe bei Wreaken, erklärte:
+  „Wir freuen uns, nicht nur die patentierte Bergbau-Lasertechnologie des Rigs zu testen, sondern auch zu prüfen, welche Materialien es aus verschiedenen planetaren Körpertypen extrahieren kann."
+  „Um genaue Tests durchführen zu können, öffnen wir diese Feldversuche auch für Piloten, die bereit sind, Asteroiden per Laser abzubauen, um die Ausbeute vergleichend zu analysieren."
+  Er fügte hinzu, dass es das Ergebnis der direkten Zusammenarbeit mit Vodel zur Veröffentlichung des neuen SRV Rhino war, das das deploybare Rig so schnell in die Hände mutiger Bergleute brachte.
+  „Der Rhino ist der erste seiner Art in dieser neuen SRV-Klasse. Wir wissen, dass Käufer großen Spaß daran haben werden, ihn durch Gelände zu steuern, das sie zuvor als schwierig empfanden.", fügte Owen McKenna, CEO von Core Dynamics, hinzu.
+  Alle unabhängigen Piloten, die an der Initiative teilnehmen möchten, sollten zum Ega-System aufbrechen und ihr Interesse bei Metz Enterprise registrieren.
 topics:
 - mining
 - technology

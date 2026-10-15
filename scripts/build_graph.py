@@ -522,6 +522,7 @@ def _process_single_article(
         "player_impact_de": fm.get("player_impact_de", ""),
         "modern_impact": fm.get("modern_impact", ""),
         "modern_impact_de": fm.get("modern_impact_de", ""),
+        "body_de": fm.get("body_de", ""),
         "persons": fm.get("persons") or [],
         "technologies": fm.get("technologies") or [],
         "legacy_weight": fm.get("legacy_weight", 2),
@@ -1004,21 +1005,28 @@ def write_profiles(graph: dict[str, Any]) -> None:
 
 
 AUDIO_MANIFEST_FILE = BASE_DIR / "scripts" / "audio_manifest.json"
+AUDIO_MANIFEST_DE_FILE = BASE_DIR / "scripts" / "audio_manifest_de.json"
 
 def main() -> int:
     print("Building lore_graph.json...")
     graph = build()
 
     # Mark articles that have generated audio
-    audio_uuids: set[str] = set()
+    audio_manifest: dict[str, str] = {}
     if AUDIO_MANIFEST_FILE.exists():
         audio_manifest = json.loads(AUDIO_MANIFEST_FILE.read_text(encoding="utf-8"))
-        audio_uuids = set(audio_manifest.keys())
-        print(f"Audio manifest found: {len(audio_uuids)} files")
+        print(f"Audio manifest found: {len(audio_manifest)} files")
+    audio_manifest_de: dict[str, str] = {}
+    if AUDIO_MANIFEST_DE_FILE.exists():
+        audio_manifest_de = json.loads(AUDIO_MANIFEST_DE_FILE.read_text(encoding="utf-8"))
+        print(f"DE audio manifest found: {len(audio_manifest_de)} files")
     for art in graph["articles"]:
-        art["has_audio"] = art["uuid"] in audio_uuids
+        art["has_audio"] = art["uuid"] in audio_manifest
         if art["uuid"] in audio_manifest:
             art["audio_hash"] = audio_manifest[art["uuid"]]
+        art["has_audio_de"] = art["uuid"] in audio_manifest_de
+        if art["uuid"] in audio_manifest_de:
+            art["audio_hash_de"] = audio_manifest_de[art["uuid"]]
 
     graph_out = {k: v for k, v in graph.items() if k != "entity_cooccurrence"}
     OUTPUT_FILE.write_text(json.dumps(graph_out, indent=2, ensure_ascii=False), encoding="utf-8")
@@ -1032,6 +1040,7 @@ def main() -> int:
     CLIENT_ARTICLE_STRIP = {
         "slug", "significance", "legacy_weight", "related_uuids",
         "archive_path", "source", "word_count", "arc_chapter", "body_full",
+        "body_de",  # moved to galnet-bodies-de.json
         "body_preview",  # moved to search-index.json
     }
 
@@ -1062,9 +1071,11 @@ def main() -> int:
         "entities": client_entities,
     }
     bodies = {a["uuid"]: a.get("body_full", "") for a in graph["articles"]}
+    bodies_de = {a["uuid"]: a["body_de"] for a in graph["articles"] if a.get("body_de")}
 
     (WEBSITE_DATA_DIR / "galnet-meta.json").write_text(json.dumps(meta, ensure_ascii=False), encoding="utf-8")
     (WEBSITE_DATA_DIR / "galnet-bodies.json").write_text(json.dumps(bodies, ensure_ascii=False), encoding="utf-8")
+    (WEBSITE_DATA_DIR / "galnet-bodies-de.json").write_text(json.dumps(bodies_de, ensure_ascii=False), encoding="utf-8")
     (WEBSITE_DATA_DIR / "search-index.json").write_text(json.dumps(search_articles, ensure_ascii=False), encoding="utf-8")
 
     # Build translations-de.json: German content fields, only items with at least one
@@ -1160,10 +1171,12 @@ def main() -> int:
 
     meta_size = (WEBSITE_DATA_DIR / 'galnet-meta.json').stat().st_size
     bodies_size = (WEBSITE_DATA_DIR / 'galnet-bodies.json').stat().st_size
+    bodies_de_size = (WEBSITE_DATA_DIR / 'galnet-bodies-de.json').stat().st_size
     search_size = (WEBSITE_DATA_DIR / 'search-index.json').stat().st_size
     trans_size = (WEBSITE_DATA_DIR / 'translations-de.json').stat().st_size
     print(f"  galnet-meta.json: {meta_size//1024}KB")
     print(f"  galnet-bodies.json: {bodies_size//1024}KB")
+    print(f"  galnet-bodies-de.json: {bodies_de_size//1024}KB ({len(bodies_de)} articles)")
     print(f"  search-index.json: {search_size//1024}KB")
     print(f"  translations-de.json: {trans_size//1024}KB")
 

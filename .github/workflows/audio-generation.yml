@@ -54,14 +54,35 @@ jobs:
           git add Archive/
           git diff --cached --quiet || git commit -m "Add new GalNet articles [skip ci]"
 
-      - name: Restore audio cache
+      - name: Restore EN audio cache
         uses: actions/cache@v5
         with:
           path: website/public/audio
           key: audio-cache-${{ github.run_id }}
           restore-keys: audio-cache-
 
-      - name: Generate audio
+      - name: Restore DE audio cache
+        uses: actions/cache@v5
+        with:
+          path: website/public/audio-de
+          key: audio-de-cache-${{ github.run_id }}
+          restore-keys: audio-de-cache-
+
+      - name: Restore EN audio manifest cache
+        uses: actions/cache@v5
+        with:
+          path: scripts/audio_manifest.json
+          key: audio-manifest-en-${{ github.run_id }}
+          restore-keys: audio-manifest-en-
+
+      - name: Restore DE audio manifest cache
+        uses: actions/cache@v5
+        with:
+          path: scripts/audio_manifest_de.json
+          key: audio-manifest-de-${{ github.run_id }}
+          restore-keys: audio-manifest-de-
+
+      - name: Generate audio (EN)
         run: |
           if [ "${{ github.event.inputs.full_rebuild }}" == "true" ]; then
             echo "Running FULL rebuild — all missing audio files..."
@@ -71,15 +92,31 @@ jobs:
             python3 scripts/generate_audio.py --batch-size 0 --max-runtime 3300 --concurrency 8
           fi
 
-      - name: Sync audio to R2
-        run: python3 scripts/sync_audio_to_r2.py
+      - name: Generate audio (DE)
+        run: |
+          if [ "${{ github.event.inputs.full_rebuild }}" == "true" ]; then
+            echo "Running FULL rebuild — all missing DE audio files..."
+            python3 scripts/generate_audio.py --lang de --batch-size 0 --concurrency 8
+          else
+            echo "Running timed batch — generate as many missing DE files as possible in ~10 min..."
+            python3 scripts/generate_audio.py --lang de --batch-size 0 --max-runtime 600 --concurrency 8
+          fi
+
+      - name: Sync audio to R2 (EN)
+        run: python3 scripts/sync_audio_to_r2.py --lang en
+        env:
+          CLOUDFLARE_R2_TOKEN: ${{ secrets.CLOUDFLARE_R2_TOKEN }}
+
+      - name: Sync audio to R2 (DE)
+        run: python3 scripts/sync_audio_to_r2.py --lang de
         env:
           CLOUDFLARE_R2_TOKEN: ${{ secrets.CLOUDFLARE_R2_TOKEN }}
 
       - name: Remove MP3s from build (they are served from R2)
         run: |
-          mkdir -p /tmp/audio-staging
-          mv website/public/audio/*.mp3 /tmp/audio-staging/ || true
+          mkdir -p /tmp/audio-staging-en /tmp/audio-staging-de
+          mv website/public/audio/*.mp3 /tmp/audio-staging-en/ || true
+          mv website/public/audio-de/*.mp3 /tmp/audio-staging-de/ || true
 
       - name: Generate lore_graph.json
         run: python3 scripts/build_graph.py
@@ -101,26 +138,45 @@ jobs:
 
       - name: Restore MP3s for cache
         run: |
-          mv /tmp/audio-staging/*.mp3 website/public/audio/ || true
+          mv /tmp/audio-staging-en/*.mp3 website/public/audio/ || true
+          mv /tmp/audio-staging-de/*.mp3 website/public/audio-de/ || true
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5
         with:
           path: website/dist
 
-      - name: Commit manifest and push
+      - name: Commit manifests and push
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add scripts/audio_manifest.json
-          git diff --cached --quiet || git commit -m "Update audio manifest [skip ci]"
+          git add scripts/audio_manifest.json scripts/audio_manifest_de.json
+          git diff --cached --quiet || git commit -m "Update audio manifests [skip ci]"
           git push origin main || true
 
-      - name: Save audio cache
+      - name: Save EN audio cache
         uses: actions/cache@v5
         with:
           path: website/public/audio
           key: audio-cache-${{ github.run_id }}
+
+      - name: Save DE audio cache
+        uses: actions/cache@v5
+        with:
+          path: website/public/audio-de
+          key: audio-de-cache-${{ github.run_id }}
+
+      - name: Save EN audio manifest cache
+        uses: actions/cache@v5
+        with:
+          path: scripts/audio_manifest.json
+          key: audio-manifest-en-${{ github.run_id }}
+
+      - name: Save DE audio manifest cache
+        uses: actions/cache@v5
+        with:
+          path: scripts/audio_manifest_de.json
+          key: audio-manifest-de-${{ github.run_id }}
 
   deploy:
     needs: build-and-deploy
