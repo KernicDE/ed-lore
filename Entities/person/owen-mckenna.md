@@ -12,6 +12,27 @@ bio: Owen McKenna is the CEO of Core Dynamics, appointed after Jupiter Rochester
   availability of the Kestrel fighter, and unveiled the Vodel-Wreaken Mining joint venture
   behind the Rhino SRV's integrated mining rigs, whose field trials he later declared a
   resounding success.
+bio_de: Owen McKenna ist CEO von Core Dynamics und übernahm das Unternehmen, nachdem Jupiter
+  Rochester im März 3307 wegen Hochverrats und Massenmords inhaftiert worden war. McKenna
+  schwor, das Unternehmen von allen Getreuen seines Vorgängers zu säubern und die Jupiter
+  Division zu vernichten, die abtrünnige Fraktion, die Rochester zur Verfolgung korporatistischer
+  Ideale gegründet hatte.
+
+  Unter McKennas Führung kämpfte Core Dynamics im System Ts'ao Tach gegen die Jupiter
+  Division und siegte schließlich im Juni 3307. McKenna beaufsichtigte außerdem den Erwerb
+  von Vodel im Jahr 3305, der zur Entwicklung des Scorpion SRV führte. Seine Amtszeit markierte eine
+  Rückkehr zum traditionellen militärischen Fertigungsfokus von Core Dynamics, nachdem
+  Rochesters Versuch, die Föderation in eine Korporatokratie zu verwandeln, gescheitert
+  war. Im Juni 3312 kündigte McKenna an, dass der Jäger Kestrel vom limitierten Release
+  in die Vollproduktion übergegangen ist und nun an Werften in den gesamten Kernsystemen
+  verfügbar ist.
+
+  Im September 3312 kündigte McKenna ein Joint Venture zwischen Vodel und Wreaken Mining
+  an, das den neu vorgestellten Rhino SRV – das bislang größte Oberflächenaufklärungsfahrzeug
+  – serienmäßig mit deploybaren Bergbau-Rigs ausstattete und damit das Portfolio von Core
+  Dynamics über Kampffahrzeuge hinaus in industrielle Oberflächenoperationen erweiterte.
+  Die Felderprobung des Rhino und seines Rigs wurde noch im selben Monat abgeschlossen,
+  was McKenna und Wreaken gemeinsam als großen Erfolg bezeichneten.
 ---
 
 

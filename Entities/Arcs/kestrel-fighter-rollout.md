@@ -12,6 +12,9 @@ key_entities:
 description: Core Dynamics unveils, trials, and brings to full production the Kestrel,
   a next-generation small combat fighter positioned as the successor to the Eagle Mk
   II.
+description_de: Core Dynamics enthüllt, erprobt und bringt die Kestrel in die Vollproduktion
+  – einen Kampfjäger der nächsten Generation in der Kleinklasse, der als Nachfolger
+  der Eagle Mk II positioniert wurde.
 phases:
 - 'Phase 1: Limited Release and Unveiling (3312-02-24)'
 - 'Phase 2: Successful Field Trials (3312-03-12)'
@@ -19,11 +22,18 @@ phases:
 summary: Core Dynamics' rollout of the Kestrel fighter from limited early release to
   full shipyard distribution, marking a generational refresh of the company's small combat
   ship line under CEO Owen McKenna.
+summary_de: Core Dynamics' Markteinführung des Jägers Kestrel vom limitierten Early Release
+  bis zur vollen Werftverfügbarkeit. Unter CEO Owen McKenna wird die Linie der kleinen
+  Kampfschiffe des Unternehmens generationsübergreifend erneuert.
 status: Concluded
 outcome: The Kestrel completed its field trials ahead of expectations and received full
   distribution approval. By June 3312, shipments had reached shipyards across the core
   systems, making the fighter widely available to Federal Navy and independent combat
   pilots as the successor to the Eagle Mk II.
+outcome_de: Die Kestrel schloss ihre Felderprobung früher als erwartet ab und erhielt
+  die vollständige Vertriebszulassung. Bis Juni 3312 erreichten Lieferungen die Werften
+  in den gesamten Kernsystemen und machten den Jäger als Nachfolger der Eagle Mk II
+  für die Föderale Marine und unabhängige Kampfpiloten flächendeckend verfügbar.
 significance: medium
 ---
 

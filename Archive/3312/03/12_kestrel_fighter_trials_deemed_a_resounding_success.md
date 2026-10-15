@@ -7,9 +7,15 @@ source: API
 summary: Core Dynamics confirms Kestrel fighter exceeds expectations in field trials.
   CEO Owen McKenna calls it the successor to the Eagle Mk II. Three Mk II large hardpoints
   with Plasma Shock Accelerator compatibility.
+summary_de: Core Dynamics bestätigt, dass der Jäger Kestrel in der Felderprobung die Erwartungen
+  übertrifft. CEO Owen McKenna bezeichnet ihn als Nachfolger der Eagle Mk II. Drei große
+  Mk-II-Hardpoints mit Kompatibilität zum Plasma Shock Accelerator.
 player_impact: Kestrel field trials conclude successfully. Best-in-class small combat
   ship. Early release purchase available; full distribution later. Combat missions
   in 15ly radius of Duamta.
+player_impact_de: Felderprobung der Kestrel erfolgreich abgeschlossen. Bestes kleines Kampfschiff
+  seiner Klasse. Early-Release-Kauf verfügbar; volle Verfügbarkeit später. Gefechtsmissionen
+  im Umkreis von 15 Lichtjahren um Duamta.
 persons:
 - Owen McKenna
 groups:
@@ -27,6 +33,10 @@ modern_impact: Federal Navy adoption of the Kestrel as successor to the Eagle Mk
   establishes a new small-fighter benchmark. Its proven superiority in conflict zones
   may see deployment in anti-pirate operations, directly addressing the rising piracy
   threat across Imperial and Federal colonies.
+modern_impact_de: Die Einführung der Kestrel in der Föderalen Marine als Nachfolger der
+  Eagle Mk II setzt einen neuen Maßstab für kleine Jäger. Ihre nachgewiesene Überlegenheit
+  in Konfliktzonen könnte zu Einsätzen in Anti-Piraterie-Operationen führen und damit
+  direkt der wachsenden Pirateriebedrohung in imperialen und föderalen Kolonien begegnen.
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -34,6 +44,13 @@ related_uuids:
 - cc95b7d8-d5bd-58ef-9ce4-83d5bfc9abd8
 - ccf8b5d3-a91a-589f-8b67-3e76a4f6bc2f
 arc_id: kestrel-fighter-rollout
+body_de: |
+  Core Dynamics hat den erfolgreichen Abschluss der Felderprobung der Kestrel bestätigt; Piloten wiesen in Konfliktzonen die Überlegenheit des Jägers nach.
+  Eine Pressemitteilung von Core Dynamics bezeichnete die Ergebnisse als „Bestätigung, dass die Kestrel das beste verfügbare kleine Kampfschiff ist“. Ingenieure, die die Gefechtsdaten überwachten, berichteten, dass die Kestrel jedes andere angetroffene Schiff übertraf – und das besser als erwartet.
+  CEO Owen McKenna äußerte:
+  „Wir verfügen über eine lange Tradition im Bau leistungsstarker Kampfschiffe und wollten schon immer, wenn der Zeitpunkt reif war, einen Nachfolger für die unvergleichliche Eagle Mk II bauen. Ich freue mich bekanntzugeben, dass die Kestrel dieses Schiff ist – sie hat all unsere Erwartungen übertroffen."
+  Nach dem erfolgreichen Abschluss der Erprobung geht Core Dynamics davon aus, dass die Föderale Marine und unabhängige Kampfpiloten die Kestrel als Jäger ihrer Wahl übernehmen werden.
+  Die Kestrel ist zunächst exklusiv erhältlich und wird zu einem späteren Zeitpunkt in reguläre Werft-Inventare übergehen.
 ---
 
 

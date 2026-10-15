@@ -11,6 +11,13 @@ bio: The Kestrel is a dedicated small combat fighter developed by Core Dynamics 
   Frame Shift Drive capability, and compatibility with the Mk II Plasma Shock Accelerator.
   Following successful field trials, the Kestrel received full distribution approval in
   June 3312 and entered standard shipyard inventories across the core systems.
+bio_de: Die Kestrel ist ein dedizierter kleiner Kampfjäger, der bei Core Dynamics unter
+  CEO Owen McKenna entwickelt wurde. Im Februar 3312 als limitierter Release und Nachfolger
+  der Eagle Mk II vorgestellt, verfügt sie über drei große Mk-II-Hardpoints, Schubdüsen
+  der Größe 5, einen supergeladenen Frame Shift Drive und Kompatibilität mit dem Mk II
+  Plasma Shock Accelerator. Nach erfolgreicher Felderprobung erhielt die Kestrel im Juni
+  3312 die vollständige Vertriebszulassung und ging in die regulären Werft-Inventare
+  in den gesamten Kernsystemen über.
 ---
 
 

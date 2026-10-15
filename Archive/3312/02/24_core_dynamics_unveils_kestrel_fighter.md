@@ -7,9 +7,15 @@ source: API
 summary: Core Dynamics unveils the Kestrel, a pure combat fighter with speed, agility,
   and three Mk II large hardpoints. Supercharged FSD is a first for a small craft.
   Limited release at Duamta.
+summary_de: Core Dynamics enthüllt die Kestrel, einen reinen Kampfjäger mit Tempo, Wendigkeit
+  und drei großen Mk-II-Hardpoints. Der supergeladene Frame Shift Drive ist eine Premiere
+  für ein derart kleines Schiff. Limitierter Release in Duamta.
 player_impact: Kestrel early release at Polyakov Station, Duamta. Limited availability
   initially. Combat trial missions within 15ly. Size 5 thrusters + supercharged FSD
   on small frame.
+player_impact_de: Early Release der Kestrel an der Polyakov Station, Duamta. Zunächst limitierte
+  Verfügbarkeit. Gefechtserprobungsmissionen im Umkreis von 15 Lichtjahren. Schubdüsen
+  der Größe 5 plus supergeladener FSD auf kleinem Rumpf.
 groups:
 - Core Dynamics
 topics:
@@ -24,12 +30,25 @@ modern_impact: Supercharged FSD on a small combat craft represents a design phil
   shift toward speed-over-versatility. Mk II Plasma Shock Accelerator compatibility
   suggests Core Dynamics is standardizing next-generation weapon platforms that may
   see adoption across Federal and independent naval forces.
+modern_impact_de: Der supergeladene FSD in einem kleinen Kampfschiff markiert eine Verschiebung
+  der Designphilosophie hin zu Tempo statt Vielseitigkeit. Die Kompatibilität mit dem
+  Mk II Plasma Shock Accelerator deutet darauf hin, dass Core Dynamics Waffenplattformen
+  der nächsten Generation standardisiert, die möglicherweise in der Föderalen Marine
+  und unabhängigen Flotten Einzug halten.
 legacy_weight: 1
 significance: low
 related_uuids:
 - 1a0654de-9c87-59e6-8494-a5cbb34758d0
 - ccf8b5d3-a91a-589f-8b67-3e76a4f6bc2f
 arc_id: kestrel-fighter-rollout
+body_de: |
+  Core Dynamics hat die limitierte Veröffentlichung der Kestrel angekündigt, eines neuen kleinen Kampfschiffs, das ausschließlich für Gefechte hoher Intensität konzipiert wurde.
+  Als reiner Kampfjäger konzipiert, setzt die Kestrel auf Tempo, Wendigkeit und Schlagkraft statt auf Vielseitigkeit. Ihr kompakter Rumpf, ihre Schubdüsen der Größe 5 und ihre Manövrierfähigkeit bei hoher Geschwindigkeit machen sie im Nahkampf, bei Abfangeinsätzen und bei rasanten Schlagoperationen besonders effektiv. Die Ingenieure bestätigten außerdem, dass das Schiff mit supergeladenen Frame Shift Drives ausgestattet wird – eine Premiere für ein derart kleines Schiff.
+  Ein leitender Testpilot von Core Dynamics erklärte:
+  „Die Kestrel wurde mit einem einzigen Zweck gebaut: Gefechte zu gewinnen. Ihre Handlingeigenschaften und ihre Beschleunigung erlauben es erfahrenen Piloten, deutlich größere Schiffe zu übermanövrieren, während die drei großen Mk-II-Gefechtshardpoints, die mit dem neuen Mk II Plasma Shock Accelerator bestückt werden können, sicherstellen, dass sie im entscheidenden Moment entscheidende Schlagkraft entfaltet."
+  Erste Berichte deuten darauf hin, dass die Kestrel in fähigen Händen mittlere und sogar große Mehrzweckschiffe herausfordern kann; Elite-Kampfpiloten treiben die Konstruktion bis an ihre betrieblichen Grenzen.
+  Um die Gefechtsfähigkeiten der neuen Kestrel zu testen, ruft Core Dynamics interessierte unabhängige Piloten auf, sich an der Polyakov Station im System Duamta zu melden, bevor sie Gefechtsmissionen beliebigen Typs von jedem Missionsbrett im Umkreis von 15 Lichtjahren annehmen.
+  Die Kestrel ist ab sofort als Early-Release-Kauf erhältlich und wird später in eine breitere Werftverfügbarkeit übergehen.
 ---
 
 

@@ -25,6 +25,18 @@ bio: 'Jupiter is a system in Elite Dangerous, significant from 3304-09-09 to 330
   changes, the fire destroying Supratech''s facility, in...; President Zachary Hudson
   and Shadow President Felicia Winters will both attend The diplomatic conference
   in The Sirius system.'
+bio_de: Jupiter ist der größte Planet des Sol-Systems, ein Gasriese, dessen Monde und
+  Umlaufbahn seit den frühesten Tagen der Raumfahrt als Wegpunkte für Entdecker, Händler
+  und Militärflotten dienten. Da er sich im Hauptstadtssystem der Föderation befindet,
+  machte Jupiters Nähe zur Erde und zum Mars ihn zu einem strategisch bedeutsamen Referenzpunkt
+  für die Navigation und zu einem symbolischen Wahrzeichen des föderalen Raums.
+
+  Der Planet und der ihn umgebende Raum sind mit bedeutenden wirtschaftlichen und politischen
+  Entwicklungen verbunden, darunter den militärischen Fertigungsinteressen von Core Dynamics
+  und Operationen der Föderalen Marine. In Zeiten von Spannungen zwischen den Supermächten
+  diente Jupiters Umlaufbahn als Aufmarschgebiet für Flottenmanöver. Obwohl er selbst
+  nicht bewohnt ist, bleibt der Gasriese ein dauerhafter navigationaler Anker im politisch
+  bedeutendsten System des von Menschen besiedelten Raums.
 system: Sol
 body_type: Class I gas giant
 distance_to_arrival: 2644
