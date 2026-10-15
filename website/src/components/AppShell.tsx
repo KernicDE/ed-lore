@@ -61,7 +61,7 @@ export default function AppShell() {
 }
 
 function AppShellInner() {
-  const { t } = useLanguage();
+  const { lang, t } = useLanguage();
   const [articles, setArticles] = useState<Article[]>([]);
   const [entities, setEntities] = useState<Record<string, Entity>>({});
   const [arcs, setArcs] = useState<Record<string, Arc>>({});
@@ -71,6 +71,9 @@ function AppShellInner() {
   // Lazy body cache: null = not loaded, {} = loading started, {...} = loaded
   const [bodies, setBodies] = useState<Record<string, string> | null>(null);
   const bodiesLoading = useRef(false);
+  // Lazy German body cache, same pattern; fetched on demand in DE mode only
+  const [bodiesDe, setBodiesDe] = useState<Record<string, string> | null>(null);
+  const bodiesDeLoading = useRef(false);
 
   const [currentDate, setCurrentDate] = useState('3312-12-31');
   const [selectedArticle, setSelectedArticle] = useState<Article | null>(null);
@@ -110,6 +113,20 @@ function AppShellInner() {
       .then((r) => r.json())
       .then((data) => setBodies(data));
   }, [bodies]);
+
+  // German article bodies; no-ops unless the active language is DE
+  const loadBodiesDe = useCallback(() => {
+    if (lang !== 'de') return;
+    if (bodiesDe !== null || bodiesDeLoading.current) return;
+    bodiesDeLoading.current = true;
+    fetch(`${BASE}/data/galnet-bodies-de.json${cacheBuster}`)
+      .then((r) => r.json())
+      .then((data) => setBodiesDe(data))
+      .catch((err) => {
+        console.error('Failed to load German bodies:', err);
+        bodiesDeLoading.current = false;
+      });
+  }, [bodiesDe, lang]);
 
   // Handle ?article=uuid query param on mount (for navigation from entity/arc pages)
   useEffect(() => {
@@ -282,6 +299,8 @@ function AppShellInner() {
           articles={sortedArticles}
           bodies={bodies}
           onNeedBodies={loadBodies}
+          bodiesDe={bodiesDe}
+          onNeedBodiesDe={loadBodiesDe}
           onCenterDateChange={handleCenterDateChange}
           onArticleSelect={handleArticleSelect}
           selectedArticle={selectedArticle}

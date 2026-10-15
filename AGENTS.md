@@ -158,6 +158,7 @@ Reads all articles in `Archive/` and entity files in `Entities/`, then writes:
 - `lore_graph.json` — full graph (used by entity/arc static pages)
 - `website/public/data/galnet-meta.json` — articles without `body_full` + entities + arcs (~6 MB, loaded async)
 - `website/public/data/galnet-bodies.json` — `{uuid: body_full}` map (~3 MB, loaded lazily on first article expand)
+- `website/public/data/galnet-bodies-de.json` — `{uuid: body_de}` map for translated articles (loaded lazily on first article expand in DE mode, falls back to `galnet-bodies.json` per article)
 - `website/public/data/search-index.json` — search-optimized articles (~1.5 MB)
 - `website/public/data/translations-de.json` — German content translations (`*_de` frontmatter fields; only translated items, lazy-loaded in DE mode)
 - `website/public/data/version.json` — build timestamp + counts incl. translation coverage (used for cache busting)

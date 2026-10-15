@@ -32,6 +32,8 @@ interface TimelineProps {
   articles: Article[];
   bodies: Record<string, string> | null;
   onNeedBodies: () => void;
+  bodiesDe?: Record<string, string> | null;
+  onNeedBodiesDe?: () => void;
   onCenterDateChange: (date: string) => void;
   onArticleSelect: (article: Article | null) => void;
   selectedArticle: Article | null;
@@ -178,6 +180,8 @@ export default function Timeline({
   articles,
   bodies,
   onNeedBodies,
+  bodiesDe,
+  onNeedBodiesDe,
   onCenterDateChange,
   onArticleSelect,
   selectedArticle,
@@ -557,7 +561,11 @@ export default function Timeline({
                 {/* Expanded detail view — NOT clickable */}
                 {isSelected && (() => {
                   if (bodies === null) { onNeedBodies(); }
-                  const bodyHtml = bodies ? bodies[art.uuid] ?? '' : null;
+                  if (lang === 'de' && bodiesDe === null) { onNeedBodiesDe?.(); }
+                  const enBody = bodies ? bodies[art.uuid] ?? '' : null;
+                  // German body when available (DE mode only); otherwise English.
+                  const deBody = lang === 'de' && bodiesDe ? bodiesDe[art.uuid] : undefined;
+                  const bodyHtml = (lang === 'de' && deBody) ? deBody : enBody;
                   // German translations apply per field; missing/empty DE fields fall back to English.
                   const tr = lang === 'de' ? deArticles[art.uuid] : undefined;
                   const summaryText = tr?.summary_de || art.summary;
