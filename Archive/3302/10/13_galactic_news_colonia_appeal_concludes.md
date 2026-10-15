@@ -8,8 +8,13 @@ summary: Latugara PLC announced that its four-week campaign to establish outpost
   between the Colonia Nebula and the core systems was successful, with the galactic
   community delivering huge quantities of materials to Love Orbital in the Latugara
   system.
+summary_de: Latugara PLC gab bekannt, dass die vierwöchige Kampagne zur Errichtung von
+  Außenposten zwischen dem Colonia-Nebel und den Kernsystemen erfolgreich war; die galaktische
+  Gemeinschaft lieferte riesige Mengen an Material zur Love Orbital im System Latugara.
 player_impact: Pilots who contributed can collect rewards from Love Orbital in the
   Latugara system.
+player_impact_de: Piloten, die beigetragen haben, können ihre Belohnungen bei der Love
+  Orbital im System Latugara abholen.
 persons: []
 groups:
 - Latugara PLC
@@ -24,11 +29,19 @@ technologies: []
 arc_id: jaques-station
 modern_impact: Establishment of the Colonia outpost network creates a permanent travel
   corridor to the deep-space frontier, enabling sustained colonisation.
+modern_impact_de: Die Errichtung des Außenposten-Netzwerks von Colonia schafft einen dauerhaften
+  Reisekorridor zur Tiefraum-Grenze und ermöglicht nachhaltige Kolonisierung.
 legacy_weight: 4
 significance: high
 related_uuids:
 - 09a290af-4a3e-5721-bbf2-fd0474291d43
 - ba748a67-440a-56c4-a60e-15fa46348bd3
+body_de: |
+  Vier Wochen sind vergangen, seit Latugara PLC Pläne zur Errichtung einer Reihe von Außenposten zwischen der aufstrebenden Colonia-Gemeinschaft und dem Kern des von Menschen bewohnten Raums angekündigt hat.
+  Seitdem hat die galaktische Gemeinschaft riesige Mengen an Material zur Love Orbital geliefert, das für den Bau verwendet werden soll.
+  Ein Sprecher von Latugara PLC veröffentlichte eine Erklärung und dankte denen, die zur Kampagne beigetragen haben:
+  „Wir sind den vielen Kommandanten, die diese Initiative unterstützt haben, zutiefst dankbar. Ihr habt sehr viel dazu beigetragen, die Reisen zur und von der entstehenden Colonia-Gemeinschaft zu erleichtern. Mit dem Bau der neuen Außenposten soll in den nächsten Wochen begonnen werden."
+  Piloten, die zur Initiative beigetragen haben, können ihre Belohnungen nun bei der Love Orbital im System Latugara abholen.
 ---
 
 

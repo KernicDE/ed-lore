@@ -17,6 +17,25 @@ bio: 'Jaques Station is a starport in Elite Dangerous, significant from 3302-05-
   at Jaques Station while attempting to modify the station''s Frame Shift Drive.;
   *Pilots Federation ALERT* The Holloway Bioscience Institute has rewarded pilots
   who delivered living matter extracted from space-dwelling organisms.'
+bio_de: Die Jaques Station ist eine legendäre mobile Sternenstation, betrieben von Jaques,
+  einem exzentrischen Cyborg-Barkeeper, berühmt für ihre ehrgeizigen Sprünge quer durch
+  die Galaxis. 3302 versuchte die Station einen beispiellosen Sprung von Gliese 1269
+  nach Beagle Point – dem am weitesten entfernten von Sol aus erreichbaren System –,
+  fiel jedoch aufgrund von Störungen durch Unbekannte Artefakte aus und verschwand.
+  Monate später entdeckte Kommandant Cly sie im System Eol Prou RS-T d3-94, tief in dem,
+  was als Colonia-Nebel bekannt werden sollte; ihr Frame Shift Drive war irreparabel
+  beschädigt.
+
+  Das versehentliche Strand der Station verwandelte die abgelegene Region in eine neue
+  Grenze für die Kolonisierung. Mit Hilfe der Fuel Rats und tausender unabhängiger Piloten
+  wurde die Jaques Station repariert und zur Gründungssiedlung der Kolonie Colonia, einer
+  selbstverwalteten Gemeinschaft tausende Lichtjahre von den Kernsystemen entfernt. Im
+  Juli 3312 war die Station der Mittelpunkt der zehnten Jahrestagsfeiern Colonias, die
+  eine förmliche Unterstützung der Pilots Federation und eine große Versorgungsinitiative
+  aus den Kernsystemen anzogen. Die Feierlichkeiten endeten im August 3312 mit dem Ausbau
+  der Station zu einem vollwertigen Megamarkt, der Besuchern und Einwohnern gleichermaßen
+  Ausrüstung und Dienstleistungen bietet. Heute bleibt sie das spirituelle und kommerzielle
+  Herz Colonias – ein Monument einer der bemerkenswertesten Rettungsmissionen der Galaxis.
 system: Colonia
 station_type: Orbis Starport
 distance_to_arrival: 1011

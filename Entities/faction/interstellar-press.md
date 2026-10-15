@@ -17,6 +17,19 @@ bio: 'Interstellar Press is a media active in Elite Dangerous lore from 3301-08-
   Halsey''s search for the ''architects of creation'', noting that while their ex...;
   Professor Violet Belbin of the Xenological Research Institute expressed doubts about
   Professor Ishmael Palin''s meta-alloy research, cautioning that...'
+bio_de: Interstellar Press ist ein galaktisches Nachrichtennetzwerk, das in den frühen
+  3300ern aktiv war und Freiberichter von Korrespondenten aus dem gesamten menschlichen
+  Raum veröffentlichte. Unter Mastheads wie Times of Mars, Regulus Observer, Zandu Science
+  Journal und Alioth Guardian berichtete die Agentur über ein breites Spektrum von Ereignissen,
+  darunter Debatten im föderalen Kongress, diplomatische Gipfel der Allianz, Vorwürfe
+  kultartiger Praktiken innerhalb von Utopia und aufkommende Kontroversen um die Erforschung
+  von Meta-Legierungen und Trümmern im Pleiades-Nebel.
+
+  Das Netzwerk bot unabhängigen Journalisten und Kommandanten eine Plattform, um aus
+  Grenzsystemen Augenzeugenberichte einzureichen und damit Perspektiven zu bieten, die
+  sich von denen großer, supermacht-naher Medien unterschieden. Seine aktivste Phase
+  umfasste 3301 bis 3302; danach scheint seine Bedeutung in der galaktischen Medienlandschaft
+  zurückgegangen zu sein.
 ---
 
 

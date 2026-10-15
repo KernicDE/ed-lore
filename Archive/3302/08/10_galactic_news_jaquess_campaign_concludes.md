@@ -7,7 +7,12 @@ source: GitHub
 summary: Jaques Station's repair campaign concluded successfully over a week early
   thanks to thousands of contributing pilots. Jaques announced that a shipyard would
   be added to the station's services once manufacturer negotiations are complete.
+summary_de: Die Reparaturkampagne der Jaques Station endete dank tausender beteiligter
+  Piloten mehr als eine Woche vorzeitig erfolgreich. Jaques kündigte an, dass der Station
+  ein Schiffswerft-Dienst hinzugefügt wird, sobald die Verhandlungen mit den Herstellern
+  abgeschlossen sind.
 player_impact: None (campaign concluded)
+player_impact_de: Keine (Kampagne abgeschlossen)
 persons:
 - Jaques
 groups: []
@@ -20,12 +25,20 @@ technologies: []
 arc_id: jaques-station
 modern_impact: Successful community restoration of Jaques Station establishes the
   first deep-space shipyard and anchors the Colonia settlement.
+modern_impact_de: Die erfolgreiche gemeinschaftliche Wiederherstellung der Jaques Station
+  errichtet die erste Tiefraum-Schiffswerft und verankert die Siedlung Colonia.
 legacy_weight: 4
 significance: high
 related_uuids:
 - ddd603e6-59fd-591f-b094-8bc0e5b0d5ab
 - eda4cfe1-e27c-5303-a7dc-c613c5400d4e
 - 8ad75ee9-b942-5e77-9019-b89a5faa2700
+body_de: |
+  Das Personal der Jaques Station hat verkündet, dass der Aufruf nach Reparaturmaterial dank der begeisterten Unterstützung der galaktischen Gemeinschaft mehr als eine Woche vor dem geplanten Ende erfolgreich abgeschlossen wurde.
+  Nach Erkenntnissen vor Ort haben tausende Piloten an der Initiative teilgenommen und dabei zum Teil mehrere Flüge ins System Eol Prou RS-T d3-94 unternommen.
+  In einer kurzen Erklärung sagte Jaques:
+  „Von außen hat die Station vielleicht gut ausgesehen, aber im Inneren lief definitiv nicht alles rund. Aber dank euch sollten die meisten Systeme bald wieder laufen."
+  Jaques kündigte außerdem an, dass das Dienstleistungsangebot der Station um eine Schiffswerft erweitert werde, ohne jedoch Preis zu geben, welche Schiffe verfügbar sein würden. Nach Erkenntnissen laufen Gespräche mit Herstellern bereits.
 ---
 
 

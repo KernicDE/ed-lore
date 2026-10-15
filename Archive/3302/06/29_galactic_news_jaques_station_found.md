@@ -7,7 +7,11 @@ source: GitHub
 summary: Commander Cly discovers Jaques Station in the Eol Prou RS-T d3-94 system
   while exploring the Eol Prou AA-A H89 Nebula; the starport is suffering from technical
   issues believed to be caused by Unknown-Artefact related interference.
+summary_de: Kommandant Cly entdeckt die Jaques Station im System Eol Prou RS-T d3-94,
+  während er den Eol-Prou-AA-A-H89-Nebel erkundet; die Station leidet unter technischen
+  Problemen, die vermutlich auf Störungen durch Unbekannte Artefakte zurückzuführen sind.
 player_impact: None
+player_impact_de: Keine
 persons:
 - Commander Cly
 - Jaques
@@ -25,11 +29,18 @@ technologies:
 arc_id: jaques-station
 modern_impact: Jaques Station's journey to Colonia establishes a new frontier settlement,
   opening up deep-space colonisation.
+modern_impact_de: Die Reise der Jaques Station nach Colonia gründet eine neue Grenzsiedlung
+  und eröffnet die Kolonisierung des Tiefraums.
 legacy_weight: 4
 significance: high
 related_uuids:
 - 1fdc01e9-8e9f-507e-8671-f59261c89471
 - f5bc9303-58d8-55b4-8546-992a89315653
+body_de: |
+  Vor zwei Wochen wurde gemeldet, dass die legendäre reisende Sternenstation Jaques Station den Sprungversuch von Gliese 1269 nach Beagle Point überlebt hatte.
+  Leider konnte der Aufenthaltsort der Station aufgrund von Problemen mit ihren Kommunikationssystemen nicht verifiziert werden. Fragmentarische Nachrichten, die von mehreren Außenposten aufgefangen wurden, gaben Hinweise auf das, was der Station zugestoßen war, doch aufgrund der lückenhaften Nachrichten hatten die Empfänger keine klare Vorstellung davon, wo sie sich befinden könnte.
+  Ein aktueller Bericht deutet jedoch an, dass sich die Sternenstation gegen alle Erwartungen gefunden hat. Ein unabhängiger Pilot namens Kommandant Cly stieß bei der Erkundung des Eol-Prou-AA-A-H89-Nebels auf die Station. Der Pilot bestätigte, dass sich Jaques im System Eol Prou RS-T d3-94 befindet. Kommandant Cly meldete zudem, dass die Sternenstation immer noch unter technischen Problemen leidet, vermutlich aufgrund von Störungen durch Unbekannte Artefakte.
+  Man hofft, dass Jaques sich in Kürze äußern wird.
 ---
 
 

@@ -7,8 +7,13 @@ source: GitHub
 summary: Over 300 pilots have signed up for the August Exodus convoy to Jaques Station
   in the Colonia Nebula, with the first fleet of 250 departing from Ocshooit on 24
   July and a second convoy scheduled for 15 August.
+summary_de: Über 300 Piloten haben sich für den August-Exodus-Konvoi zur Jaques Station
+  im Colonia-Nebel angemeldet; die erste Flotte mit 250 Schiffen brach am 24. Juli von
+  Ocshooit auf, ein zweiter Konvoi ist für den 15. August geplant.
 player_impact: Join the August Exodus convoy to Jaques Station; the second convoy
   departs on 15 August.
+player_impact_de: Schließt euch dem August-Exodus-Konvoi zur Jaques Station an; der
+  zweite Konvoi bricht am 15. August auf.
 persons:
 - Commander unrealization
 groups:
@@ -24,11 +29,19 @@ technologies: []
 arc_id: jaques-station
 modern_impact: Jaques Station's journey to Colonia establishes a new frontier settlement,
   opening up deep-space colonisation.
+modern_impact_de: Die Reise der Jaques Station nach Colonia gründet eine neue Grenzsiedlung
+  und eröffnet die Kolonisierung des Tiefraums.
 legacy_weight: 4
 significance: high
 related_uuids:
 - 0634cce4-4cff-5261-81c7-4723f54899ac
 - 44ea0feb-1a55-57ba-9dc2-44d90fb3c275
+body_de: |
+  Angesichts eines drohenden Krieges zwischen der Föderation und dem Imperium haben sich zahlreiche mutige Entdecker zusammengeschlossen, um unter den Sternen ein neues Leben zu beginnen. Über 300 Piloten aus dem gesamten besiedelten Raum haben sich angemeldet, um an dem größten jemals zusammengestellten Konvoi teilzunehmen, genannt der August-Exodus – Ein Ausflug zu Jaques.
+  Die erste Konvoi-Flotte, 250 Piloten stark, brach am 24. Juli vom System Ocshooit auf und soll binnen zwei Wochen die Jaques Station erreichen. Der zweite Konvoi wird derzeit zusammengestellt; bisher haben sich fast 60 Piloten angemeldet. Er wird am 15. August aufbrechen.
+  Man hofft, dass diese monumentale Anstrengung nicht nur die Jaques Station zurück in den vollen Betriebszustand versetzt, sondern auch die Geburt einer neuen Kolonie im Colonia-Nebel einläutet, wo sich Jaques derzeit aufhält.
+  Kommandant unrealization
+  Zandu Science Journal | Interstellar Press
 ---
 
 

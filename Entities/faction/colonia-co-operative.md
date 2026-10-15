@@ -13,6 +13,18 @@ related_entities:
 - alliance-defence-force
 bio: 'The primary logistical organisation responsible for managing infrastructure
   and resource development in humanity''s most remote settlement, the Colonia region.'
+bio_de: Die Colonia Co-operative verwaltet Infrastruktur mehr als zwanzigtausend Lichtjahre
+  von Sol entfernt und bildet das logistische Rückgrat der entlegensten großen Siedlung
+  der Menschheit. Gegründet, nachdem 3302 der ursprüngliche Außenposten Colonia errichtet
+  worden war, koordiniert sie die Rohstoffe und Lieferketten, die nötig sind, um eine
+  wachsende Bevölkerung jenseits der Reichweite konventioneller Frachtnetze zu versorgen.
+
+  Im April 3303 rief die Co-operative zu offenen Lieferungen von Gallit, Gold und Methanol-Monohydrat-Kristallen
+  auf, um die regionale Entwicklung zu beschleunigen. Diese Kampagnen lockten tausende
+  unabhängiger Piloten in den Tiefraum-Frachtverkehr und verwandelten eine abgelegene
+  wissenschaftliche Station in eine pulsierende Gemeinschaft. Professor Alexei de la Vegas
+  anschließende Expansionsstudien, unterstützt von der Logistik der Co-operative, unterstrichen,
+  wie abhängig Grenzkolonien von pilotengetriebenen Volkswirtschaften sind, um zu überleben.
 ---
 
 

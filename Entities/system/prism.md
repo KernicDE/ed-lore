@@ -26,6 +26,20 @@ edsm_url: https://www.edsm.net/en/system/id/4243/name/Prism
 inara_url: https://inara.cz/elite/starsystem/?search=Prism
 bio: Prism is an Imperial system governed by Senator Kahina Tijani Loren, focal point
   of political intrigue and her eventual disappearance.
+bio_de: Prism ist ein imperiales System am Rand des besiedelten Raums, das als Schirmherrschaft
+  unter Senatorin Kahina Tijani Loren und ihrer paramilitärischen Truppe, Loren's Legion,
+  regiert wird. Geringe Bevölkerung und abgelegene Lage des Systems standen in einem
+  seltsamen Kontrast zu seiner politischen Bedeutung, als Loren zu einer lautstarken
+  Kritikerin der imperialen Außenpolitik wurde, insbesondere der expansionistischen
+  Feldzüge von Admiral Denton Patreus. Ihr Verschwinden aus ihrer imperialen Suite auf
+  Capitol 3302 löste ein langjähriges Rätsel aus.
+
+  Zum Zentrum der Intrige wurde das System, als Loren später in Zusammenhang mit einem
+  Mordanschlag auf Patreus angeklagt wurde – Anklagen, die viele Beobachter als politisch
+  motiviert einstuften. Loren's Legion hält in Prism weiterhin die Ordnung aufrecht, doch
+  das endgültige Schicksal der Senatorin bleibt einer der meistdiskutierten ungelösten
+  Fälle des Imperiums. Die Verbindung des Systems sowohl mit imperialem Loyalismus als
+  auch mit Dissidentenpolitik zeigt die volatile Natur der Macht am imperialen Rand.
 reserve: Depleted
 ---
 

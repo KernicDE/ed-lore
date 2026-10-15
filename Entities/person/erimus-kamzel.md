@@ -7,6 +7,12 @@ last_seen_date: '3305-07-03'
 mention_count: 4
 bio: Erimus Kamzel is a commander in the Elite Dangerous universe, active from 3305-01-04
   to 3305-07-03. Closely associated with Deep Space Surveys, Omega Mining Corporation.
+bio_de: Erimus Kamzel ist ein legendärer Entdecker und Community-Anführer, berühmt für
+  die Organisation der Distant-Worlds-Expeditionen – der größten kooperativen Erkundungsunternehmen
+  der galaktischen Geschichte. Kamzels Führung brachte tausende unabhängiger Piloten zusammen,
+  um zu den entferntesten Regionen der Galaxis aufzubrechen, und errichtete Wegpunkte sowie
+  Infrastruktur, die die Tiefraumerkundung von einer einsamen Aktivität in ein gemeinschaftliches
+  Massenereignis verwandelten.
 ---
 
 

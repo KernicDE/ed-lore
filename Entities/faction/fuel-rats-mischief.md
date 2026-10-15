@@ -16,6 +16,18 @@ bio: Fuel Rats Mischief is a organization in the Elite Dangerous universe, activ
   Jaques Station. The Fuel Rats Mischief announced plans for an extraction outpost
   near Jaques Station to support deep-space rescue operations. The Fuel Rats complete
   their 20,000th rescue since June 3301.
+bio_de: Die Fuel Rats Mischief sind die operative Abteilung der Fuel Rats, einer unabhängigen
+  Pilotenorganisation, die berühmt ist für die Rettung gestrandeter Kommandanten, denen
+  im Tiefraum der Treibstoff ausgegangen ist. Die Mischief kümmert sich um Logistik und
+  Infrastruktur für die Rettungseinsätze der Gruppe, darunter die Errichtung von Förder-Außenposten
+  nahe abgelegener Wegpunkte wie der Jaques Station.
+
+  Bis 3303 hatten die Fuel Rats seit Juni 3301 ihre 20.000. Rettung abgeschlossen und
+  sich damit zu einer der respektiertesten unabhängigen Organisationen der Galaxis gemacht.
+  Ihre Einsätze beruhen vollständig auf freiwilligen Piloten, die alles stehen und liegen
+  lassen, um große Distanzen zurückzulegen und gestrandeten Entdeckern Treibstoff zu bringen.
+  Die Fuel Rats Mischief bilden das organisatorische Rückgrat, das diese freiwilligen
+  Anstrengungen in den entlegensten Regionen der Galaxis reibungslos am Laufen hält.
 ---
 
 

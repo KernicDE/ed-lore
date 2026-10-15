@@ -17,6 +17,20 @@ bio: 'Fuel Rats is a organization active in Elite Dangerous lore from 3301-06-24
   starport, prepares for an ambitious long-distance jump from Gliese 1269 to Beagle
   Point.; The Fuel Rats announce that Jaques Station has received sufficient fuel
   for its proposed jump to Beagle Point.'
+bio_de: Die Fuel Rats sind eine unabhängige Such- und Rettungsgemeinschaft freiwilliger
+  Piloten, die sich der Rettung gestrandeter Kommandanten widmet, denen im Tiefraum
+  der Treibstoff ausgegangen ist. Die Gruppe wurde im Juni 3301 gegründet und von der
+  Pilots Federation offiziell anerkannt; sie patrouilliert am äußeren Rand der Zivilisation,
+  um vor dem Versagen der Lebenserhaltung notfalls aufzutanken. Zum Zeitpunkt ihrer Gründung
+  wurden geschätzte 63 % der Tiefraumverluste auf Treibstofferschöpfung zurückgeführt, was
+  ihre humanitäre Mission für Entdecker und Händler gleichermaßen kritisch machte.
+
+  Die Gemeinschaft wuchs aus anarchischen Anfängen rasch zu einer hochorganisierten Kooperation.
+  Bis August 3301 schloss sie ihre 1.000. Rettung ab, erreichte im April 3302 10.000 und
+  feierte im Januar 3303 ihre 20.000. Rettung. Mit einer Erfolgsquote von über 95 % führte
+  sie komplexe Relaiseinsätze tausende Lichtjahre von der Zivilisation entfernt durch, darunter
+  Rettungen nahe Sagittarius A* und während der Suche nach der Jaques Station. Die Fuel
+  Rats wahren strikte Neutralität und helfen allen Piloten, unabhängig von ihrer Zugehörigkeit.
 ---
 
 

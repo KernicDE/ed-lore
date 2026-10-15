@@ -7,8 +7,14 @@ source: GitHub
 summary: Jaques Station's repair campaign has restored refuelling, restocking, repair,
   outfitting, and commodities services ahead of schedule. Jaques confirmed that more
   materials are still needed to complete the starport's restoration.
+summary_de: Die Reparaturkampagne der Jaques Station hat Tank-, Nachschub-, Reparatur-,
+  Ausrüstungs- und Waren-Dienste früher als geplant wiederhergestellt. Jaques bestätigte,
+  dass für die vollständige Instandsetzung der Sternenstation weiterhin Material benötigt
+  wird.
 player_impact: Continue delivering repair materials to Jaques Station in Eol Prou
   RS-T d3-94 to help complete restoration.
+player_impact_de: Liefern Sie weiterhin Reparaturmaterial zur Jaques Station in Eol
+  Prou RS-T d3-94, um die Wiederherstellung zu vollenden.
 persons:
 - Jaques
 groups: []
@@ -22,12 +28,19 @@ technologies: []
 arc_id: jaques-station
 modern_impact: Jaques Station's recovery enables deep-space services and paves the
   way for permanent colonisation of the Colonia region.
+modern_impact_de: Die Wiederherstellung der Jaques Station ermöglicht Tiefraum-Dienstleistungen
+  und ebnet den Weg zur dauerhaften Kolonisierung der Region Colonia.
 legacy_weight: 4
 significance: high
 related_uuids:
 - 44ea0feb-1a55-57ba-9dc2-44d90fb3c275
 - ddd603e6-59fd-591f-b094-8bc0e5b0d5ab
 - 8ad75ee9-b942-5e77-9019-b89a5faa2700
+body_de: |
+  Es ist zwei Wochen her, dass Jaques, Besitzer und Betreiber der Jaques Station, einen Aufruf nach Waren zur Reparatur seiner angeschlagenen Sternenstation erlassen hat. Seitdem haben unzählige Piloten aus der gesamten Galaxis den langen Weg ins System Eol Prou RS-T d3-94 auf sich genommen, um Tantal, Energiegeneratoren und anderes Material zu Jaques zu liefern.
+  Obwohl die Kampagne noch zwei weitere Wochen laufen soll, bestätigte Jaques, dass das bisher erhaltene Material es dem Stationspersonal ermöglicht hat, einige Einrichtungen der Station wiederherzustellen.
+  „Sobald die Vorräte eintrafen, waren unsere Teams unverzüglich im Einsatz und haben Reparaturen durchgeführt und Einrichtungen instand gesetzt. Daher freue ich mich sehr bekanntzugeben, dass wir unseren Gästen nun Tank-, Nachschub-, Reparatur- und Ausrüstungsdienste sowie den Kauf von Limpets und Bergbauausrüstung an unserem Warenmarkt anbieten können."
+  „Aber wir sind noch nicht über den Berg! Wir brauchen noch mehr Material, wenn die gute alte Station wieder vollständig fit sein soll."
 ---
 
 

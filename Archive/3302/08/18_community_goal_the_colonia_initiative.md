@@ -8,8 +8,14 @@ summary: The 80 DD-D 774-CE-2 faction launched a campaign to establish a permane
   outpost in the Colonia Nebula, building on community interest sparked by Jaques
   Station's arrival. Pilots are asked to deliver titanium, semiconductors, and robotics
   to Jaques Station in the Eol Prou RS-T d3-94 system.
+summary_de: Die Fraktion 80 DD-D 774-CE-2 startete eine Kampagne zur Errichtung eines
+  dauerhaften Außenpostens im Colonia-Nebel und baute auf das Interesse der Gemeinschaft
+  auf, das die Ankunft der Jaques Station ausgelöst hatte. Piloten werden gebeten, Titan,
+  Halbleiter und Robotik zur Jaques Station im System Eol Prou RS-T d3-94 zu liefern.
 player_impact: Deliver titanium, semiconductors, and robotics to Jaques Station in
   Eol Prou RS-T d3-94 to support construction of a permanent Colonia outpost.
+player_impact_de: Liefern Sie Titan, Halbleiter und Robotik zur Jaques Station in Eol
+  Prou RS-T d3-94, um den Bau eines dauerhaften Außenpostens in Colonia zu unterstützen.
 persons: []
 groups:
 - 80 DD-D 774-CE-2
@@ -25,12 +31,21 @@ technologies: []
 arc_id: jaques-station
 modern_impact: The Colonia Initiative transforms Jaques Station from a temporary waypoint
   into the foundation of a permanent independent colony.
+modern_impact_de: Die Colonia-Initiative verwandelt die Jaques Station von einem temporären
+  Zwischenstopp in das Fundament einer dauerhaften, unabhängigen Kolonie.
 legacy_weight: 4
 significance: high
 related_uuids:
 - b9be1738-ac61-536b-8b50-d9dc091e5147
 - cc368b7d-06ac-5261-9a3c-5f8dbd8d8750
 - 8ad75ee9-b942-5e77-9019-b89a5faa2700
+body_de: |
+  Der Colonia-Nebel ist eine vergleichsweise unspektakuläre Region des Weltraums, die das System Eol Prou RS-T d3-94 umfasst. Wahrscheinlich wird sie aber in den kommenden Jahren zu einem wichtigen Bollwerk der Menschheit.
+  Das öffentliche Interesse am Colonia-Nebel wurde durch die Ankunft der Jaques Station in Eol Prou RS-T d3-94 geweckt, die nach einem gescheiterten Sprungversuch nach Beagle Point im System auftauchte. In den folgenden Wochen begannen Piloten, Waren zur Jaques Station zu schaffen, um die beschädigte Sternenstation zu reparieren – eine Initiative, die die Fantasie der galaktischen Gemeinschaft beflügelte. Die Region wurde bald zum Ziel jener, die einen Krieg zwischen der Föderation und dem Imperium befürchten und ihm entkommen wollen.
+  Eine koordinierte Kampagne zur Errichtung eines dauerhaften Außenpostens in der Region, organisiert von der Fraktion 80 DD-D 774-CE-2, läuft bereits, und eine zweite steht kurz bevor. Die Fraktion 80 DD-D 774-CE-2 hat Pläne zur Errichtung eines Außenpostens im Colonia-Nebel angekündigt und eine offene Bestellung für Baumaterial aufgegeben.
+  Ein Sprecher der Organisation sagte:
+  „Ein neuer Anfang. Ein neuer Morgen. Das ist es, wofür der Colonia-Nebel steht. Eine Chance, eine interstellare Gemeinschaft zu schaffen, frei von den vernichtenden Konflikten, die so viele Teile des besiedelten Raums verheeren. Mit eurer Hilfe können wir das schaffen."
+  Die Fraktion 80 DD-D 774-CE-2 hat versprochen, Piloten zu belohnen, die Titan, Halbleiter und Robotik zur Jaques Station im System Eol Prou RS-T d3-94 liefern. Die Kampagne beginnt am 18. August 3302 und läuft zwei Wochen.
 ---
 
 

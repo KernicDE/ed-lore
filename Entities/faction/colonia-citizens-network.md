@@ -17,6 +17,17 @@ bio: 'Colonia Citizens Network is a media active in Elite Dangerous lore from 33
   pilots gathering outside Jaques Station in Colonia for celebrations and a race on
   the track ...; Fungal growths have been discovered on the airless world Colonia
   3 C A in the Colonia system.'
+bio_de: Das Colonia Citizens Network ist eine unabhängige Medienorganisation mit Sitz
+  in der Region Colonia, die Ereignisse und Entdeckungen an der galaktischen Grenze dokumentiert.
+  3302–3303 berichtete das Netzwerk über den August-Exodus – eine historische Migration
+  unabhängiger Piloten nach Colonia – und die Pilzwucherungen, die auf der luftlosen Welt
+  Colonia 3 C A entdeckt wurden.
+
+  Das Netzwerk dient als lebenswichtige Kommunikationsverbindung zwischen der abgelegenen
+  Region Colonia und den Kernsystemen und berichtet über wissenschaftliche Entdeckungen,
+  Gemeinschaftsereignisse und Infrastrukturentwicklungen, die sonst von den großen galaktischen
+  Nachrichtenagenturen unerwähnt blieben. Seine Arbeit zeigt, wie Grenzgemeinschaften
+  eigene Medienökosysteme entwickeln, um die Verbindung zur weiten Galaxis aufrechtzuerhalten.
 ---
 
 

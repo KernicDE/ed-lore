@@ -11,6 +11,40 @@ related_entities:
 - alessia-verdi
 - alistair-brodey
 - kahina-tijani-loren
+bio_de: Teils Fleisch, teils Legierung. Chromene Wangenplatte bis zur Schläfe, blasse
+  optische Implantate, ein subvokaler Modulator, der seinen Worten einen zweiten Unterton
+  verleiht wie aufwärmende Ventile. Jaques ist schon lange nicht mehr bloß menschlich.
+
+  Einmal flog er sich selbst durch halbe Galaxis. Jetzt betreibt er eine Station in Colonia
+  – einen Zwischenstopp, der gelernt hat, eigene Meinungen zu haben – und hört der Ausrüstung
+  zu, wie sie sich beschwert. Während des Zwischenstopps der DW3-Expedition meldete Jaques,
+  was andere als Störungen abtaten – Andockcomputer, die „Gefühle entwickelten", Navigationsbojen,
+  die behaupteten, Frachtgestelle zu sein, eine Alarmstimme, die schottisch sang. Die Anomalien
+  hatten sich verstärkt, nachdem ein Kreuzer der Eridanus-Klasse der Pilots Federation
+  Vermessungsdaten hochgeladen hatte. Jaques benutzte Worte wie „spukt" nicht. Er sagte –
+  „Die Technik verhält sich, als hätte sie Gefühle entwickelt." Dann stellte er Halsey
+  Alessia Verdi vor, die imperiale Pilotin, die zugesehen hatte, wie Salomé starb, und die
+  unwillig war, Rettern zu folgen. Verbindungen. Jaques knüpft sie. Das ist es, was übrig
+  bleibt, wenn man den größten Teil seiner selbst durch Metall ersetzt hat und immer noch
+  nützlich sein muss.
+
+  Zehn Jahre nach dem Fehlsprung beging er den Jahrestag auf die einzige Art, die er kennt
+  – mit einem Augenzwinkern und einem Plan. „Es ist höchste Zeit, dass uns die Konzerne in
+  den Kernsystemen mit etwas Liebe und Aufmerksamkeit überschütten", sagte er gegenüber Vox
+  Galactica, bevor er die erste „Colonia-Messe" ankündigte, eine galaxisweite Ausstellung,
+  bei deren Bau die Megakonzerne der Kernsysteme mithelfen sollen. Ausstellungen, Auftritte,
+  Essen, erlesene Getränke. Als die Versorgungsinitiative ihre Ziele verfehlte, scherzte er,
+  dass seine Quinentian-Destille die beliebteste seltene Ware in Colonia bleiben werde. Während
+  die Pilots Federation ihre Mitglieder in die Region dirigierte, um die letzten Vorbereitungen
+  zu treffen, rüstete sich Jaques' Siedlung darauf vor, ihr erstes Jahrzehnt gebührend zu
+  feiern. Jaques knüpft noch immer Verbindungen. Er hat nur damit begonnen, es in großem
+  Maßstab zu tun.
+
+  Als das Jubiläumsfestival im August 3312 begann, begrüßte er Besucher in seiner Bar und
+  dankte unabhängigen Piloten, dass sie die Feierlichkeiten ermöglicht hatten. Als die
+  Festlichkeiten zu Ende gingen, verkündete er, dass die Jaques Station zu einem vollwertigen
+  Megamarkt geworden sei – das Ergebnis alter Gefälligkeiten und unternehmerischer Verhandlungen,
+  die er als den nächsten Schritt im Wachstum Colonias darstellte.
 ---
 
 <!-- AUTO-GENERATED -->

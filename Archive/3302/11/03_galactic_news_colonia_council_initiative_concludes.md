@@ -8,8 +8,14 @@ summary: The Colonia Council announced that its appeal for palladium was a resou
   success, with hundreds of pilots delivering materials to Jaques Station. The materials
   will support further colonisation of the Colonia Nebula and address the growing
   community's needs.
+summary_de: Der Colonia Council gab bekannt, dass der Aufruf nach Palladium ein durchschlagender
+  Erfolg war – Hunderte Piloten lieferten Material zur Jaques Station. Das Material wird
+  die weitere Kolonisierung des Colonia-Nebels unterstützen und dem Bedarf der wachsenden
+  Gemeinschaft gerecht werden.
 player_impact: Pilots who contributed to the initiative can collect their rewards
   from Jaques Station in the Colonia system.
+player_impact_de: Piloten, die zur Initiative beigetragen haben, können ihre Belohnungen
+  bei der Jaques Station im System Colonia abholen.
 persons: []
 groups:
 - Colonia Council
@@ -22,11 +28,19 @@ technologies: []
 arc_id: jaques-station
 modern_impact: The successful palladium appeal funded infrastructure and colonization
   efforts in the Colonia Nebula, strengthening the frontier settlement.
+modern_impact_de: Der erfolgreiche Palladium-Aufruf finanzierte Infrastruktur- und Kolonisierungsbemühungen
+  im Colonia-Nebel und stärkte die Grenzsiedlung.
 legacy_weight: 4
 significance: high
 related_uuids:
 - 1d008296-3c57-55df-be7d-54a56e8c114f
 - d5c22e7b-2793-5899-8010-03da70b5c789
+body_de: |
+  Der Colonia Council hat bekanntgegeben, dass der Aufruf nach Palladium ein durchschlagender Erfolg war, an den Hunderte Piloten mit Lieferungen zur Jaques Station als Antwort auf die Anfrage erwiderten. Das Material wird genutzt, um die weitere Kolonisierung des Colonia-Nebels zu unterstützen und den Bedürfnissen der wachsenden Colonia-Gemeinschaft gerecht zu werden.
+  Ein Sprecher der Organisation veröffentlichte eine kurze Erklärung:
+  „Dieses Material wird uns helfen, die Infrastruktur im System zu stärken und das bevorstehende Kolonisierungsprogramm zu unterstützen. Aber mehr noch: Es wird uns helfen, das Fundament einer besseren, helleren Zukunft zu legen."
+  „Die Zukunft ist hier, und ihr Name ist Colonia."
+  Piloten, die zur Initiative beigetragen haben, können ihre Belohnungen nun bei der Jaques Station im System Colonia abholen.
 ---
 
 

@@ -30,6 +30,22 @@ bio: 'Gliese 1269 is a system in Elite Dangerous, significant from 3302-05-05 to
   jump from Gliese 1269 to Beagle Point.; Several starports previously closed due
   to Unknown Artefact-related interference have been restored through the application
   of meta-alloys.'
+bio_de: Gliese 1269 ist ein unabhängiges demokratisches System in den Kernwelten mit
+  einer Bevölkerung von etwa 3,9 Millionen. Im Mai 3302 diente das System als Ausgangspunkt
+  einer der ehrgeizigsten Expeditionen der galaktischen Geschichte – die Jaques Station,
+  die einzige reisende Sternenstation der Galaxis, unternahm von Gliese 1269 aus einen
+  Langstreckensprung nach Beagle Point, dem am weitesten von Sol entfernten erreichbaren
+  System.
+
+  Tausende Tonnen Treibstoff trug die galaktische Gemeinde zur Unterstützung der Kampagne
+  bei, die teilweise von der Distant-Worlds-Expedition organisiert wurde. Die Station
+  brach auf, doch verlief sich jede Nachricht von ihr, was eine galaxisweite Suche
+  auslöste. Kommandant Cly entdeckte die Jaques Station schließlich im System Eol Prou
+  RS-T d3-94 – tausende Lichtjahre vom Kurs abgewichen und von technischen Problemen
+  geplagt, die vermutlich durch Störungen durch Unbekannte Artefakte verursacht wurden.
+  Der Sprung von Gliese 1269 gründete, obwohl er sein Ziel verfehlte, versehentlich die
+  Siedlung, die zu Colonia werden sollte – eine der erfolgreichsten Tiefraumkolonien
+  der Menschheit.
 reserve: Pristine
 ---
 

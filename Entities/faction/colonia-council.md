@@ -14,6 +14,35 @@ related_entities:
 bio: The Colonia Council is the governing body of the Colonia region, which oversaw
   the Colonia Bridge infrastructure project and, in 3312, worked with Jaques to organise
   the "Colonia Fair" for the settlement's tenth anniversary.
+bio_de: Der Colonia Council ist das Regierungsgremium der Region Colonia, einer rasant
+  wachsenden menschlichen Siedlung rund 22.000 Lichtjahre von den Kernsystemen entfernt,
+  deren Zentrum die Jaques Station ist. Gegründet, um den Zustrom von Kolonisten zu bewältigen,
+  die vor Thargoid-Bedrohungen, ausbeuterischen Konzernen und der Politik der Supermächte
+  flohen, lenkte der Council die Verwandlung Colonias von einem abgelegenen Außenposten
+  in eine sich selbst tragende Zivilisation mit eigener Wirtschaft, eigener Infrastruktur
+  und eigener politischer Kultur.
+
+  Der pragmatische Regierungsansatz des Council setzt Überleben und Zusammenarbeit über
+  ideologische Reinheit. Er beaufsichtigte große Infrastrukturprojekte, darunter die Colonia
+  Bridge – ein Netz von Sternenhäfen, das die Kernsysteme mit Colonia verbindet –, und
+  koordinierte die Verteidigung gegen Sabotageversuche wie den gescheiterten Angriff auf
+  den Flottenträger Dove Enigma. Zwar ist der Council nominell unabhängig, pflegt aber
+  sorgfältige Beziehungen zu den Supermächten, Konzernen und der Pilots Federation in
+  den Kernsystemen, in dem Bewusstsein, dass Colonias anhaltender Wohlstand davon abhängt,
+  Eigenständigkeit und strategische Bündnisse auszubalancieren. 3312 arbeitete er mit
+  Jaques zusammen, um die „Colonia-Messe" zu organisieren, eine die Galaxis umspannende
+  Ausstellung zum zehnten Jahrestag der Siedlung, die öffentliche Unterstützung von Konzernen
+  der Kernsysteme anzog. In der Jubiläumswoche warben die Councilmitglieder Magen Wolfe
+  und Giselle Kingspear in Facece öffentlich für die Versorgungsinitiative und wiesen
+  auf die Engineer-Dienste der Region hin; Wolfe bestätigte später, dass die Aktion
+  Teilerfolg erzielt hatte. Die Pilots Federation dirigierte anschließend ihre Mitglieder
+  nach Colonia, um die abschließenden Anweisungen des Council für die Jubiläumsfeierlichkeiten
+  abzuwarten. Zu Beginn des Festivals stellte Wolfe fest, dass die erhaltenen Waren die
+  Märkte in der gesamten Region beflügelt hätten. Der Council bestätigte später den
+  erfolgreichen Abschluss der Feierlichkeiten und verkündete, dass die Jaques Station
+  zu einem Megamarkt ausgebaut worden sei sowie dass sechs Touristen-Beacons rund um
+  Colonia, Carcosa, Einheriar, Tir, Luchtaine und Blua Eaec WW-E c14-1293 platziert
+  wurden, um das erste Jahrzehnt der Siedlung zu würdigen.
 ---
 
 

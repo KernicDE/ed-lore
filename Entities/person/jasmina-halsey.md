@@ -13,6 +13,22 @@ bio: Jasmina Halsey served as President of the Federation from 3300 to 3301, bec
   claiming to have encountered alien "caretakers of the galaxy." She abandoned politics
   to become a peace activist and advisor to Alliance Prime Minister Edmund Mahon, later
   joining the Federal Diplomatic Corps.
+bio_de: Jasmina Halsey wurde 3300 als Liberalin mit dem Versprechen sozialer Reformen
+  zur Präsidentin gewählt. Ihre Präsidentschaft zerfiel durch eine gescheiterte Onionhead-Kampagne,
+  die zivile Farmen mit Brandbomben angriff, und den desaströsen Krieg um Lugh, der
+  in ihrem Befehl zum Angriff auf einen unbewaffneten Flüchtlingskonvoi gipfelte – dabei
+  wurden etwa 9.322 Zivilisten getötet und ihre Zustimmungswerte fielen auf 16 %.
+
+  Am 26. Mai 3301 verschwand die Starship One während einer Goodwill-Tour. Für tot gehalten,
+  wurde Halsey durch ein Misstrauensvotum abgesetzt, das Zachary Hudson an die Macht brachte.
+  Im Februar 3302 wurde sie lebend aufgefunden, aus einem künstlichen Koma erwacht, mit
+  Behauptungen, „die Hüter der Galaxis" getroffen zu haben – überintelligente Wesen, die
+  ihr „die Unendlichkeiten des Kosmos" zeigten.
+
+  Weithin verlacht, gab Halsey die Politik auf und zog in den Allianz-Raum um, wo sie bis
+  3304 Friedensaktivistin und Beraterin von Premierminister Edmund Mahon wurde. 3307 sagte
+  sie im Prozess gegen Flottenadmiral Vincent wegen der Starship-One-Verschwörung aus und
+  trat anschließend dem Föderalen Diplomatischen Korps als Botschafterin bei der Allianz bei.
 ---
 
 

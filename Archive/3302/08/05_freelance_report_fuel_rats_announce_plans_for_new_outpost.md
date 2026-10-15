@@ -7,7 +7,12 @@ source: GitHub
 summary: The Fuel Rats Mischief announced plans for an extraction outpost near Jaques
   Station to support deep-space rescue operations. The location was chosen because
   Jaques Station provides a steady supply of commodities and habitation infrastructure.
+summary_de: Die Fuel Rats Mischief kündigten Pläne für einen Förder-Außenposten nahe
+  der Jaques Station an, um Tiefraum-Rettungseinsätze zu unterstützen. Der Standort wurde
+  gewählt, weil die Jaques Station eine stetige Versorgung mit Waren und Wohnrauminfrastruktur
+  bietet.
 player_impact: None
+player_impact_de: Keine
 persons: []
 groups:
 - Fuel Rats
@@ -23,6 +28,8 @@ technologies: []
 arc_id: jaques-station
 modern_impact: Fuel Rats expansion near Jaques Station establishes critical deep-space
   rescue infrastructure for the Colonia corridor.
+modern_impact_de: Die Expansion der Fuel Rats nahe der Jaques Station errichtet eine
+  kritische Tiefraum-Rettungsinfrastruktur für den Korridor nach Colonia.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -30,6 +37,12 @@ related_uuids:
 - b9be1738-ac61-536b-8b50-d9dc091e5147
 - e74deb32-c4c0-59e7-8506-445b6c628173
 - fedf5e1d-20a4-5558-a391-033b32aae950
+body_de: |
+  Die Fuel Rats Mischief haben heute früh Pläne für einen Förder-Außenposten nahe der Jaques Station angekündigt.
+  „Wir erwägen eine solche Basis schon seit geraumer Zeit. Ursprünglich war geplant, sie nahe Sagittarius A* aufzubauen, da es eine der am häufigsten von Entdeckern besuchten Regionen ist. Die größte Herausforderung war stets die Versorgung der Station mit Waren wie Nahrung und Ersatzteilen. In der Nähe der Jaques Station löst sich dieses Problem, da sie mit einem Wohnmodul ausgestattet ist und ein stetiger Strom von Versorgungsschiffen sie anläuft."
+  Auf die Frage, ob die Tatsache, dass die Jaques Station bereits als Basis dient, eine solche Operation sinnlos mache, antwortete der Sprecher der Fuel Rats:
+  „Wir gehen fest davon aus, dass Jaques seine Reise irgendwann fortsetzen wird, und da seine Station schlicht nicht genug Treibstoff produzieren kann, um das möglich zu machen, wird früher oder später ein Außenposten notwendig sein."
+  Kommandantin Rebecca Hail
 ---
 
 

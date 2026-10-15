@@ -14,6 +14,21 @@ related_entities:
 bio: 'One of the most ambitious collaborative exploration endeavours in galactic history,
   the Distant Worlds Expedition saw hundreds of pilots travel approximately 65,000 light-years
   to reach Beagle Point in mid-3302.'
+bio_de: Im März 3302 startete die Distant-Worlds-Expedition, was zum prägenden kooperativen
+  Erkundungsereignis der frühen 3300er werden sollte. Hunderte Piloten brachen von den
+  Kernwelten auf und formierten eine Flotte, die rund 65.000 Lichtjahre zurücklegen sollte,
+  um Beagle Point zu erreichen – einen der entlegensten für menschliche Schiffe erreichbaren
+  Orte. Im Juni verkündeten die Expeditionsleiter, dass Vorhutelemente ihr Ziel erreicht
+  hätten und damit eine Reise vollendeten, die die Grenzen sowohl der Schiffstechnik als
+  auch der menschlichen Ausdauer auf die Probe stellte.
+
+  Die Expedition war mehr als ein Sightseeing-Trip. Sie errichtete Wegpunkte, teilte Routendaten
+  und schuf die soziale Infrastruktur für spätere Massenerkundungsereignisse. Teilnehmer
+  wie Kommandant Salomé und Dr. Kaii dokumentierten zuvor unkartierte Systeme und fügten
+  der galaktischen Datenbank tausende Himmelskörper hinzu. Die Federal Times berichtete
+  über die Leistung und brachte die Erkundung ins öffentliche Bewusstsein der breiten Masse.
+  Distant Worlds bewies, dass unabhängige Piloten im Zusammenwirken Großes vollbringen
+  können, das die offiziellen Erkundungsprogramme aller drei Supermächte zusammen übertraf.
 ---
 
 

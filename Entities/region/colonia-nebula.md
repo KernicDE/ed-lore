@@ -14,6 +14,17 @@ bio: Colonia Nebula is the deep-space region containing the Colonia settlement a
   Jaques Station. It is located approximately 22,000 light years from Sol and has been
   the site of the Colonia Bridge infrastructure project and the tenth-anniversary celebrations
   in 3312.
+bio_de: Der Colonia-Nebel ist die Tiefraumregion, in der die Siedlung Colonia und die
+  Jaques Station liegen, etwa 22.000 Lichtjahre von Sol entfernt. Nach dem versehentlichen
+  Fehlsprung der Station 3302 wurde die Region zur bedeutendsten Grenzkolonie der Menschheit
+  und später durch das Colonia-Bridge-Infrastrukturprojekt mit den Kernsystemen verbunden.
+  Im Juli 3312 war der Nebel Ziel einer großen Versorgungsinitiative zum Jubiläum,
+  organisiert vom Colonia Council und der Brewer Corporation, die den zehnten Jahrestag
+  der Siedlung feierte. Die Pilots Federation dirigierte ihre Mitglieder anschließend
+  in die Region, um die abschließenden Anweisungen für die Feierlichkeiten abzuwarten.
+  Das Jubiläum endete mit dem Ausbau der Jaques Station zu einem Megamarkt und der
+  Platzierung von sechs Touristen-Beacons in Systemen der Region, die das erste Jahrzehnt
+  Colonias würdigen.
 ---
 
 <!-- AUTO-GENERATED -->

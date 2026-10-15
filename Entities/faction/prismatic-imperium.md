@@ -15,6 +15,15 @@ related_entities:
 bio: The Prismatic Imperium is a faction associated with Princess Aisling Duval and her
   political movement. It promotes social reform within the Empire, including opposition
   to Imperial slavery and support for progressive policies.
+bio_de: Das Prismatic Imperium ist eine politische Fraktion, die eng mit Prinzessin Aisling
+  Duval und ihrer reformorientierten Agenda innerhalb des Imperiums verbunden ist. Die
+  Organisation befürwortet fortschrittliche Politik, darunter die Ablehnung der imperialen
+  Sklaverei, einen ausgeweiteten Sozialstaat und mehr Transparenz in der imperialen
+  Regierung. Mit Unterstützung sowohl jüngerer Adliger als auch einfacher Bürger stellt
+  das Prismatic Imperium ein Gegengewicht zu den konservativeren Kräften des Imperiums
+  dar. Die Verbindung zu Aisling Duval – einer der populärsten Figuren in der imperialen
+  Hierarchie – verleiht ihm erheblichen Einfluss, trotz des Widerstands traditionalistischer
+  Senatoren.
 ---
 
 

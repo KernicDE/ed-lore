@@ -9,6 +9,16 @@ related_entities:
 - hermine-delarue
 - doctor-gery
 - cuthrick-delaney
+bio_de: Die imperiale Pilotin Alessia Verdi trägt die Spuren harten Dienstes – schlanke
+  Statur, graues Haar, ein kleines imperiales Wappen, innerhalb ihrer Haargrenze tätowiert.
+  Sie war bei Salomés Tod anwesend und kehrte desillusioniert vom Heldenkult zurück –
+  unwillig, Rettern zu folgen oder für irgendeine Macht zu lügen. Während der Distant-Worlds-3-Expedition
+  erwies sich Verdis Zynismus als unerwartet wertvoll. Als die drei Supermächte daran
+  gingen, Rainbow's End abzuwickeln und die DW3-Kommandanten zu kriminalisieren, veröffentlichte
+  sie „Salomés Requiem" – mehrere Terabyte Erpressungsmaterial aus allen drei Regierungen
+  – und verteilte es öffentlich, was einen Rückzug erzwang und Begnadigungen für die
+  Expeditionsmannschaft sicherte. Ihre Philosophie war simpel – Niemand besitzt die Wahrheit,
+  und niemand darf sie begraben.
 ---
 
 <!-- AUTO-GENERATED -->

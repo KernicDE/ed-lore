@@ -36,6 +36,27 @@ bio: Alioth is the capital system of the Alliance of Independent Systems, founde
   and, since 3308, a permanent Sirius Corporation presence under the strategic defence
   pact. With nearly 15 billion inhabitants and a High Tech economy, Alioth remains
   the political and symbolic heart of the Alliance.
+bio_de: Alioths Geschichte ist geprägt von Widerstand. Kolonisiert in den frühen Jahren
+  der interstellaren Expansion, wurde das System bis 2530 zu einem Zentrum des Wasserstoff-Treibstoffhandels.
+  Mitte des 26. Jahrhunderts entstand auf dem Mond Fruitcake die „Caker"-Rebellion, die
+  Angriffe auf die imperiale und föderale Besatzung flog. Letztlich kooperierten die Supermächte,
+  um den Aufstand 2618 zu zerschlagen, und teilten das System – Fruitcake wurde unter
+  föderaler Kontrolle in Gordonworld umbenannt, während imperiale Streitkräfte die örtlichen
+  Raumfahrtanlagen besetzten.
+
+  Der Wendepunkt kam 3228, als föderale Konzerne in New California versuchten, die Preise
+  anzuheben, und damit einen Aufstand im großen Maßstab auslösten. Mic Turner und Meredith
+  Argent führten Kämpfer aus Alioth und benachbarten Systemen an, um beide Supermächte
+  zurückzuschlagen. 3230 wurde auf Alioth die Allianz Unabhängiger Systeme formell gegründet;
+  binnen zwei Jahrzehnten traten über zwanzig Systeme bei.
+
+  Heute ist Alioth das politische und wirtschaftliche Herz der Allianz. Das permit-gesperrte
+  System beherbergt die Allianzversammlung, die Residenz des Premierministers und den
+  Admiralitätsrat. Im Februar 3307 verlegte Lakon Spaceways ihren Hauptsitz hierher, nachdem
+  die Allianz eine Mehrheitsbeteiligung erworben hatte. Im folgenden Jahr etablierte die
+  Sirius Corporation eine ständige Präsenz im Rahmen des umstrittenen strategischen
+  Verteidigungspakts – ein Schritt, den unabhängigkeitsbefürwortende Fraktionen als Untergrabung
+  der Souveränität der Allianz kritisieren.
 reserve: Depleted
 ---
 

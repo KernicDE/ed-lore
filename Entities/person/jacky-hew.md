@@ -9,6 +9,21 @@ related_entities:
 - nadya-holdstock
 - hermine-delarue
 - captain-yuen
+bio_de: „Flottenträger-Sprünge sind etwas anderes, Kinder. Man packt seine ganze schlechte
+  Entscheidung in einen fliegenden Felsen und schleudert ihn in den Himmel. Keine Romantik."
+
+  Jacky Hew – für die Trinkrunden schlicht HewHew – hielt Hof auf allen vier DW3-Flottenträgern,
+  Bierkrug in der Höhe, begleitet vom Stöhnen seines Publikums wie einem Litanei. Er hatte
+  die Neutronen-Highway ausgekundschaftet, als sie noch gefährlich war. Er hatte Triebwerke
+  singen hören, wenn sie es nicht sollten, und schmollen, wenn man sie bezahlte. Während
+  der Expedition fing er nahe Colonia Fünfzehn-Zyklen-Echos quer über die Bänder auf,
+  durchsuchte trotz Elaine Howards zusammengebissener Zähne mit ihr den herrenlosen Prototyp
+  und barg später Jasmina Halseys Rettungskapsel aus einem Trümmerfeld – „buchstäblich eine
+  Chance von einer Million", nannte er es, mit der Bescheidenheit eines Mannes, der genau
+  weiß, wie gut er ist.
+
+  Sein Schiff erlitt beim Scannen dieses Trümmerfelds einen Cyberangriff. Später lachte
+  er darüber. Alles ist Material, wenn man es überlebt.
 ---
 
 <!-- AUTO-GENERATED -->

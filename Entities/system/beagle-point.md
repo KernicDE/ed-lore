@@ -28,6 +28,18 @@ bio: 'Beagle Point is a system in Elite Dangerous, significant from 3302-03-29 t
   set to travel over 200,000 light years through the ga...; Jaques Station, the galaxy''s
   only travelling starport, prepares for an ambitious long-distance jump from Gliese
   1269 to Beagle Point.'
+bio_de: Beagle Point, offiziell als Ceeckia ZQ-L c24-0 bezeichnet, ist eines der am
+  weitesten von Sol entfernten bekannten Sternensysteme, rund 65.000 Lichtjahre vom
+  Geburtsort der Menschheit auf der anderen Seite der Milchstraße entfernt. Bekannt
+  wurde es 3302 als Ziel der Distant-Worlds-Expedition, bei der rund 1.000 Piloten quer
+  durch die Galaxis aufbrachen und geschätzte 25 % die gefahrvolle Reise überlebten.
+
+  Seither ist das System zu einer Pilgerstätte für Entdecker und einem Symbol der weitesten
+  Reichweite der Menschheit geworden. 3302 wurde die mobile Sternenstation Jaques Station
+  in einem ehrgeizigen Verlagerungsversuch Kurs auf Beagle Point genommen, wurde jedoch
+  letztlich von Thargoiden hyperdiktiert und strandete in Colonia. Beagle Point bleibt
+  ein Zeugnis der Ausdauer und der Navigationskunst unabhängiger Piloten und steht
+  gleichermaßen für den Triumph wie für die Vergänglichkeit der Tiefraumerkundung.
 ---
 
 

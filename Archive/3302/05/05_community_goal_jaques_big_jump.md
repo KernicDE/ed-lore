@@ -8,8 +8,14 @@ summary: Jaques Station, the galaxy's only travelling starport, prepares for an 
   long-distance jump from Gliese 1269 to Beagle Point. The Fuel Rats coordinate a
   community fuel-gathering campaign to supply the massive amount of fuel required
   for the jump.
+summary_de: Die Jaques Station, die einzige reisende Sternenstation der Galaxis, bereitet
+  einen ehrgeizigen Langstreckensprung von Gliese 1269 nach Beagle Point vor. Die Fuel
+  Rats koordinieren eine gemeinschaftliche Treibstoffsammelkampagne, um die für den Sprung
+  benötigte enorme Treibstoffmenge bereitzustellen.
 player_impact: Pilots delivered fuel to Jaques Station to enable its historic jump
   to Beagle Point.
+player_impact_de: Piloten lieferten Treibstoff zur Jaques Station und ermöglichten so
+  ihren historischen Sprung nach Beagle Point.
 persons:
 - Jaques
 groups:
@@ -27,6 +33,8 @@ technologies:
 arc_id: jaques-station
 modern_impact: Jaques Station's journey to Colonia establishes a new frontier settlement,
   opening up deep-space colonisation.
+modern_impact_de: Die Reise der Jaques Station nach Colonia gründet eine neue Grenzsiedlung
+  und eröffnet die Kolonisierung des Tiefraums.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -36,6 +44,12 @@ related_uuids:
 - 27019b70-9df7-54ff-ae4e-c5d07dbc4823
 - 64cbf185-445b-5954-b18c-b60487a04da3
 - e74deb32-c4c0-59e7-8506-445b6c628173
+body_de: |
+  Ausgestattet mit einem Cluster aus Triebwerken gilt die Jaques Station als die einzige reisende Sternenstation der Galaxis. Im Besitz eines als ‚Jaques' bekannten Cyborgs und von diesem betrieben, durchstreift die Orbis-Station seit über 40 Jahren die Galaxis und ist inzwischen zu einer Art Kulturikone geworden. Jetzt begibt sich Jaques nach mehr als vier Jahrzehnten unterwegs auf seine bisher ehrgeizigste Expedition – einen Langstreckensprung von Gliese 1269 nach Beagle Point.
+  In einer Erklärung erläuterte Jaques die Überlegungen hinter dem Vorhaben.
+  „Nun, ich durchstreife die Galaxis seit über vierzig Jahren, und die Wahrheit ist, dass das Reisen nach einer Weile an Reiz verliert. Denkt daran, ich lebe seit mehreren Jahrhunderten. Die Dinge, die euch früher begeistert haben, verlieren irgendwie … ihren Funken. Ich dachte, ein Sprung über große Distanz könnte meine Begeisterung neu entfachen."
+  Eine Sternenstation über eine derart große Distanz zu bewegen erfordert naturgemäß erheblich viel Treibstoff, weshalb sich Jaques an die renommierte Such- und Rettungsorganisation Fuel Rats gewandt hat. Die Fuel Rats ihrerseits haben einen Aufruf an ihre zahlreichen Mitglieder und Unterstützer gerichtet, Jaques' Vorhaben mit Treibstoff zu unterstützen. Die Fuel Rats Mischief, die den Einsatz koordiniert, hat den Unterstützern großzügige Belohnungen versprochen.
+  Die Kampagne beginnt am 5. Mai 3302 und läuft eine Woche. Wird das Endziel früher als geplant erreicht, endet die Kampagne sofort.
 ---
 
 

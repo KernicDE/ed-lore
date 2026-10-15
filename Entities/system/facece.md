@@ -30,6 +30,21 @@ bio: 'Facece is a system in Elite Dangerous, significant from 3301-03-20 to 3302
   crime to manageable levels.; Following her address from the Imperial Palace, Princess
   Arissa Lavigny-Duval revealed her speech was directed at the unknown assailant who
   attacke...'
+bio_de: Facece ist ein imperiales System, das Anfang 3301 als Stützpunkt für die Anti-Korruptionskampagne
+  von Prinzessin Arissa Lavigny-Duval diente. Tausende Verbrecher wurden von Kommandanten
+  festgenommen, die in ihrem Auftrag arbeiteten, doch nur eine Handvoll lieferte Hinweise
+  darauf, wer den Angriff auf Kaiser Hengist Duval in Auftrag gegeben hatte.
+
+  Das System ist auch Sitz der Imperial Slavers Association, die sich im April 3301 in
+  der Sklavenwette mit Aisling's Angels maß. Die ISA erwarb 2.387.567 unregulierte Sklaven
+  zur Umschulung an der Lagerkvist Gateway, verglichen mit 1.149.756 befreiten imperialen
+  Sklaven auf Aislings Seite. Faceces Rolle sowohl in Arissas Strafjustizkampagne als auch
+  in der Sklavendebatte machte es zu einem symbolischen Schlachtfeld konkurrierender Visionen
+  imperialer Staatsführung.
+
+  Im Juli 3312 diente Facece als Ausgangspunkt für die Versorgungsinitiative zum zehnten
+  Jahrestag von Colonia; Fracht-Megaschiffe der Brewer Corporation luden Waren und Seltene
+  Güter für den Transport zum Colonia-Nebel.
 reserve: Depleted
 ---
 

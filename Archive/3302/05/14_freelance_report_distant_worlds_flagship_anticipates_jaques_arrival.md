@@ -7,7 +7,12 @@ source: GitHub
 summary: Commander Olivia Vespera, pilot of the Distant Worlds Expedition fleet flagship,
   remains at Beagle Point prospecting for jumponium materials. She expresses excitement
   at potentially being the first to greet Jaques Station upon its arrival.
+summary_de: Kommandantin Olivia Vespera, Pilotin des Flottenflaggschiffs der Distant-Worlds-Expedition,
+  hält sich weiterhin auf Beagle Point auf und sucht nach Materialien für Jumponium.
+  Sie freut sich darauf, die Jaques Station bei ihrer Ankunft möglicherweise als Erste
+  zu begrüßen.
 player_impact: None
+player_impact_de: Keine
 persons:
 - Olivia Vespera
 - Lisbeth Moore
@@ -19,11 +24,19 @@ topics:
 arc_id: jaques-station
 modern_impact: Jaques Station's journey to Colonia establishes a new frontier settlement,
   opening up deep-space colonisation.
+modern_impact_de: Die Reise der Jaques Station nach Colonia gründet eine neue Grenzsiedlung
+  und eröffnet die Kolonisierung des Tiefraums.
 legacy_weight: 4
 significance: high
 related_uuids:
 - 4d7c597e-0996-5384-89fa-f96749b6bb7b
 - abc03646-a8a8-5932-8f8a-0ee83fd2c9b7
+body_de: |
+  Für den Galaempfang der Distant-Worlds-Expedition in der Skvortsov-Station laufen die Vorbereitungen, doch eine Entdeckerin wird nicht teilnehmen können: Kommandantin Olivia Vespera, Pilotin des Flottenflaggschiffs der Expedition, einer Type-9 namens Zombie Wasp IV.
+  Zum Redaktionsschluss hält sich Kommandantin Vespera noch immer auf Beagle Point auf und sucht nach den Materialien, die zur Synthese von ‚Jumponium' nötig sind – eine umgangssprachliche Bezeichnung der Entdecker für die Injektion des Frame Shift Drive. Ohne es kann Vespera nicht nach Hause zurückkehren.
+  Doch Kommandantin Vespera ist unbesorgt – sie ist sogar ausgelassen vor Freude.
+  „Ich habe eine Nachricht erhalten, dass die Jaques Station nach Beagle Point kommt. Vielleicht werde ich hier sogar als Erste mit ihm zusammentreffen!"
+  Lisbeth Moore
 ---
 
 

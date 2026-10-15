@@ -7,8 +7,13 @@ source: GitHub
 summary: The 80 DD-D 774-CE-2 faction launches a campaign to establish a planetary
   outpost in Eol Prou RS-T d3-94 to support trade and exploration around Jaques Station,
   requesting mined osmium deliveries.
+summary_de: Die Fraktion 80 DD-D 774-CE-2 startet eine Kampagne zur Errichtung eines
+  planetaren Außenpostens in Eol Prou RS-T d3-94, um Handel und Erkundung rund um die
+  Jaques Station zu unterstützen, und fragt abgebautes Osmium an.
 player_impact: Deliver mined osmium to Jaques Station in Eol Prou RS-T d3-94 to support
   construction of the new planetary outpost.
+player_impact_de: Liefern Sie abgebautes Osmium zur Jaques Station in Eol Prou RS-T
+  d3-94, um den Bau des neuen planetaren Außenpostens zu unterstützen.
 persons: []
 groups:
 - 80 DD-D 774-CE-2
@@ -25,11 +30,18 @@ technologies:
 arc_id: jaques-station
 modern_impact: Jaques Station's journey to Colonia establishes a new frontier settlement,
   opening up deep-space colonisation.
+modern_impact_de: Die Reise der Jaques Station nach Colonia gründet eine neue Grenzsiedlung
+  und eröffnet die Kolonisierung des Tiefraums.
 legacy_weight: 4
 significance: high
 related_uuids:
 - aec8c033-bc2b-50dc-a29c-f184dfe139fb
 - f5bc9303-58d8-55b4-8546-992a89315653
+body_de: |
+  Die Fraktion 80 DD-D 774-CE-2 hat eine Kampagne zur Errichtung eines planetaren Außenpostens im System Eol Prou RS-T d3-94 gestartet. Laut dem Sprecher der Organisation soll der neue Außenposten vor allem unabhängigen Handel und Erkundung in der Region unterstützen.
+  In einer Erklärung erläuterte der Sprecher die Ziele der Kampagne:
+  „Nun, die Ankunft von Jaques hat das Interesse an Eol Prou regelrecht explosionsartig wachsen lassen. Und da das System ziemlich abgelegen ist, besteht eindeutig Bedarf an einem Außenposten, der Piloten unterstützt, die Material zur und von der Sternenstation befördern. Das ist kurzfristig gedacht. Außerdem besteht in der galaktischen Gemeinschaft der Wunsch, eine dauerhafte Präsenz in Eol Prou aufzubauen, und hoffentlich ist diese Kampagne der Anfang von etwas Größerem."
+  Die Fraktion 80 DD-D 774-CE-2 hat eine offene Bestellung für abgebautes Osmium für den Bau aufgegeben und versprochen, Piloten zu belohnen, die Material zur Jaques Station im System Eol Prou RS-T d3-94 liefern. Die Kampagne beginnt am 28. Juli 3302 und läuft vier Wochen.
 ---
 
 

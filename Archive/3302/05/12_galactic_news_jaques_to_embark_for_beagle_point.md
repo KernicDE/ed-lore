@@ -7,8 +7,13 @@ source: GitHub
 summary: The Fuel Rats announce that Jaques Station has received sufficient fuel for
   its proposed jump to Beagle Point. Jaques confirms the station received hundreds
   of thousands of tonnes of fuel and expects to depart within days.
+summary_de: Die Fuel Rats melden, dass die Jaques Station genügend Treibstoff für den
+  geplanten Sprung nach Beagle Point erhalten hat. Jaques bestätigt, dass die Station
+  mehrere hunderttausend Tonnen Treibstoff erhielt und binnen Tagen aufbrechen will.
 player_impact: Pilots contributed hundreds of thousands of tonnes of fuel to enable
   Jaques Station's jump to Beagle Point.
+player_impact_de: Piloten lieferten mehrere hunderttausend Tonnen Treibstoff, um den
+  Sprung der Jaques Station nach Beagle Point zu ermöglichen.
 persons:
 - Jaques
 - Mischief
@@ -22,6 +27,8 @@ topics:
 arc_id: jaques-station
 modern_impact: Jaques Station's journey to Colonia establishes a new frontier settlement,
   opening up deep-space colonisation.
+modern_impact_de: Die Reise der Jaques Station nach Colonia gründet eine neue Grenzsiedlung
+  und eröffnet die Kolonisierung des Tiefraums.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -31,6 +38,11 @@ related_uuids:
 - 0d798d5a-ae0c-5a99-9a72-a060772f4fcd
 - 64cbf185-445b-5954-b18c-b60487a04da3
 - e74deb32-c4c0-59e7-8506-445b6c628173
+body_de: |
+  Ein Sprecher der Fuel Rats namens Mischief hat verkündet, dass die Jaques Station ausreichend Treibstoff erhalten hat, um den geplanten Sprung nach Beagle Point zu vollenden.
+  Jaques, Besitzer und Betreiber der Sternenstation, bestätigte, dass die Station im Laufe der einwöchigen Kampagne mehrere hunderttausend Tonnen Treibstoff erhielt. In einer Erklärung brachte der Cyborg seine Freude über den Erfolg der Initiative zum Ausdruck.
+  „Das ist eine großartige Resonanz, wirklich. Wir sind noch nicht einmal losgefahren, und schon bin ich aufgeregt! Natürlich steht noch jede Menge Vorbereitung an – wir können nicht einfach in die schwarze Leere springen –, aber wir sollten bald startklar sein."
+  Erwartungsgemäß wird die Jaques Station in den nächsten Tagen nach Beagle Point aufbrechen.
 ---
 
 

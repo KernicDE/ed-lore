@@ -18,6 +18,18 @@ bio: 'Deep Space Surveys is a organization active in Elite Dangerous lore from 3
   years through the ga...; The Omega Mining Corporation requests indite, gallite,
   praseodymium and cobalt deliveries to build an Orbis starport in the Galactic Centre
   as part...'
+bio_de: Deep Space Surveys ist eine erkundungsorientierte Organisation, die große Langstreckenexpeditionen
+  in die galaktische Wildnis unterstützt hat. Die Gruppe war Partner der Distant-Worlds-II-Initiative
+  von 3305, die zum Ziel hatte, die erste Sternenstation der Menschheit in der Region des
+  Galaktischen Zentrums zu errichten – eine permanente orbitale Einrichtung nahe Sagittarius
+  A* für kontinuierliche wissenschaftliche Beobachtung des supermassereichen Schwarzen Lochs.
+
+  Zusammen mit der Omega Mining Corporation und dem Expeditionsleiter Erimus Kamzel half
+  Deep Space Surveys bei der Koordination der industriellen und wissenschaftlichen Logistik
+  für den Bau ziviler Infrastruktur an den entlegensten Grenzen menschlicher Erkundung.
+  Die Organisation steht für den kooperativen Geist der Explorer-Gemeinschaft und überbrückt
+  die Lücke zwischen rekreativem Tiefraumreisen und ernsthafter wissenschaftlicher Arbeit
+  in den unerforschten Regionen der Galaxis.
 ---
 
 

@@ -7,8 +7,13 @@ source: GitHub
 summary: The Colonia Council launched a campaign to expand infrastructure and manufacturing
   facilities in the Colonia system to support future colonisation of the Colonia Nebula,
   requesting mined palladium deliveries to Jaques Station.
+summary_de: Der Colonia Council startete eine Kampagne zum Ausbau der Infrastruktur und
+  der Produktionsanlagen im System Colonia, um die künftige Kolonisierung des Colonia-Nebels
+  zu unterstützen, und fragt Lieferungen abgebauten Palladiums zur Jaques Station an.
 player_impact: Pilots can deliver mined palladium to Jaques Station in the Colonia
   system for rewards.
+player_impact_de: Piloten können abgebautes Palladium zur Jaques Station im System Colonia
+  liefern und dafür Belohnungen erhalten.
 persons: []
 groups:
 - Colonia Council
@@ -22,11 +27,20 @@ technologies: []
 arc_id: jaques-station
 modern_impact: Infrastructure expansion at Colonia supports the transformation of
   Jaques Station from a stranded outpost into a permanent deep-space colony.
+modern_impact_de: Der Infrastrukturausbau in Colonia unterstützt die Verwandlung der Jaques
+  Station von einem gestrandeten Außenposten in eine dauerhafte Tiefraum-Kolonie.
 legacy_weight: 4
 significance: high
 related_uuids:
 - 1d008296-3c57-55df-be7d-54a56e8c114f
 - fc64f61d-c9b2-5fa9-914c-7b0c588123b2
+body_de: |
+  Der Colonia Council, das Regierungsgremium des Systems Colonia, hat eine Kampagne zum Ausbau der Infrastruktur und der Produktionsanlagen in der Region gestartet. Die Initiative soll die künftige Kolonisierung des Colonia-Nebels unterstützen und den Bedürfnissen der wachsenden Colonia-Gemeinschaft gerecht werden.
+  In einer Erklärung erläuterte ein Sprecher des Council die Ziele der Kampagne:
+  „Colonia wächst rasant, und mit einer offiziellen Kolonisierungsinitiative, die demnächst starten soll, müssen wir sicherstellen, dass wir die Bedürfnisse unserer Bürger erfüllen können."
+  „Die Kolonie hat viel Unterstützung aus der galaktischen Gemeinschaft erhalten, aber wenn sie eine vollwertige Gesellschaft werden soll, brauchen wir eine ordentliche Infrastruktur."
+  Zur Unterstützung dieser Initiative hat der Colonia Council eine offene Bestellung für abgebautes Palladium aufgegeben und versprochen, Piloten zu belohnen, die das benötigte Material zur Jaques Station im System Colonia liefern.
+  Die Kampagne beginnt am 20. Oktober 3302 und läuft zwei Wochen.
 ---
 
 

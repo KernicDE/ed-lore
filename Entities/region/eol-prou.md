@@ -17,6 +17,19 @@ bio: 'Eol Prou is a system in Elite Dangerous, significant from 3302-12-01 to 33
   pilots who delivered living matter extracted from space-dwelling organisms.; The
   Colonia Council has announced a series of monthly colonisation appeals in the Colonia
   Nebula, asking pilots to deliver commodities to Jaques St...'
+bio_de: Eol Prou ist eine Region innerhalb des Colonia-Nebels, die als wichtige Kolonisierungs-
+  und Forschungszone an der galaktischen Grenze dient. Das Gebiet umfasst mehrere vom
+  Colonia Council für die Expansion ausgewiesene Systeme, darunter Standorte experimenteller
+  Habitate, die das Holloway Bioscience Institute zur Erforschung vakuumlebender Lebensformen
+  errichtete.
+
+  3307 wählte das Holloway Bioscience Institute mehrere Systeme in Eol Prou aus – darunter
+  Eol Prou PC-K c9-221, Eol Prou LW-L c8-99 und Eol Prou KW-L c8-301 – als Standorte
+  experimenteller xenobiologischer Habitate. Diese Anlagen stehen an der Spitze der
+  Grenzwissenschaft und nutzen Colonias abgelegene Lage, um Forschung zu betreiben,
+  die in den Kernsystemen politisch oder logistisch unmöglich wäre. Eol Prou veranschaulicht,
+  wie sich die Region Colonia von einem entlegenen Außenposten zu einem florierenden
+  wissenschaftlichen und kolonisatorischen Zentrum entwickelt hat.
 ---
 
 <!-- AUTO-GENERATED -->

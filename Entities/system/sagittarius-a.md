@@ -28,6 +28,19 @@ bio: 'Sagittarius A* is a system in Elite Dangerous, significant from 3301-04-23
   set to travel over 200,000 light years through the ga...; The Fuel Rats Mischief
   announced plans for an extraction outpost near Jaques Station to support deep-space
   rescue operations.'
+bio_de: Sagittarius A* ist das supermassereiche Schwarze Loch im Zentrum der Milchstraße,
+  eines der ikonischsten Ziele für Entdecker und Wissenschaftler des 34. Jahrhunderts.
+  Seine immense Gravitationskraft und die dichten Sternenfelder in seiner Umgebung machen
+  es seit den ersten interstellaren Expeditionen sowohl zu einem Navigationsanker als auch
+  zum Gegenstand intensiver astronomischer Forschung.
+
+  Das Schwarze Loch wurde zur Ziellinie des permanenten Ausdauer-Rennens Buckyball Run
+  A*, das 3301 ins Leben gerufen wurde und Piloten forderte, in kürzester Zeit von Sol
+  zum galaktischen Zentrum zu rasen. Sagittarius A* prägt auch die Lore der Tiefraumerkundung
+  als Ziel, das die Grenzen von Schiffstechnik und Pilotenkönnen auf die Probe stellt. Die
+  Region um ihn herum bleibt einer der am dichtesten befahrenen und zugleich gefährlichsten
+  Sektoren der Galaxis und zieht tausende Kommandanten an, die das Herz der Milchstraße
+  mit eigenen Augen sehen wollen.
 ---
 
 

@@ -17,6 +17,21 @@ bio: 'Eol Prou RS-T d3-94 is a system in Elite Dangerous, significant from 3302-
   Eol Prou AA-A H89 Nebula; the starport is suffering fr...; Jaques broadcasts his
   first message since being found in Eol Prou RS-T d3-94, explaining that drive engine
   and navigation failures forced him to ab...'
+bio_de: Eol Prou RS-T d3-94 ist ein System im Eol-Prou-AA-A-H89-Nebel, das 3302 zum
+  Geburtsort der Region Colonia wurde. Das System war die Landestelle der Jaques Station,
+  der legendären mobilen Sternenstation, nachdem deren desaströser Sprungversuch nach
+  Beagle Point in einer Hyperdiktion durch Thargoids und schweren technischen Schäden
+  geendet hatte. Kommandant Cly entdeckte die gestrandete Station im Juni 3302 und
+  bestätigte, dass Jaques überlebt hatte, aber unter Störungen durch Unbekannte Artefakte
+  litt.
+
+  Die Entdeckung löste eine massive Rettungs- und Reparaturaktion der Gemeinschaft aus,
+  auf die die Entscheidung folgte, eine dauerhafte Siedlung in der Region zu errichten.
+  So verwandelte sich Eol Prou RS-T d3-94 von einem obskuren Nebelsystem in den Ankerpunkt
+  eines der erfolgreichsten Tiefraum-Kolonisierungsprojekte der Menschheit. Die Geschichte
+  des Systems veranschaulicht sowohl die Gefahren der Thargoid-Einflussnahme auf menschliche
+  Technologie als auch die Widerstandsfähigkeit unabhängiger Piloten, die Katastrophen
+  in Chancen verwandeln.
 ---
 
 

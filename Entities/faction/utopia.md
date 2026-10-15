@@ -17,6 +17,22 @@ bio: 'Utopia is a organization active in Elite Dangerous lore from 3301-06-06 to
   technologies have been varied.; Simguru Pranav Antal has addressed the possibility
   that humanity may lose the conflict against the Thargoids, proposing the Sim-Archive
   as a means ...'
+bio_de: Utopia ist eine hochentwickelte Gemeinschaftsgesellschaft, gegründet und angeführt
+  von Simguru Pranav Antal mit Hauptsitz im System Polevnic. Die Kolonie nutzt modernste
+  Nanotechnologie, neuronale Schnittstellen und Sozialtechnik, um ihren Bürgern eine
+  post-knappheitsökonomische Existenz zu ermöglichen, und bringt Innovationen wie
+  revolutionäre Nanomedizin hervor. Ihre isolationistische Haltung und ihre Weigerung,
+  sich an galaktischer Politik zu beteiligen, machen sie für die Supermächte zum Rätsel,
+  auch wenn ihre Technologie oft begehrt ist – etwa als Vitadyne Labs 3305 zugab, dass
+  ihre Vorzeige-Nanomedikamente aus einem abgestürzten utopischen Transporter geborgen
+  worden waren.
+
+  Antal hat Utopia durchweg als Zuflucht für das Wissen und die Kultur der Menschheit
+  positioniert und das Sim-Archiv als Mittel vorgeschlagen, das menschliche Bewusstsein
+  zu bewahren, falls die Thargoids siegen. Kritiker mögen Utopia als eskapistischen Kult
+  abtun, doch seine technologischen Errungenschaften und Antals stiller Einfluss auf
+  galaktische Angelegenheiten machen es weit bedeutsamer, als seine kleine Bevölkerung
+  vermuten lässt.
 ---
 
 

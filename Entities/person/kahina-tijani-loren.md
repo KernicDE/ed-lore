@@ -10,6 +10,20 @@ bio: 'Kahina Tijani Loren is a Senator in Elite Dangerous lore, active from 3301
   has disappeared from her Imperial suite on Capitol.; Lady Kahina Tijani Loren, former
   senator of the Prism system, has been charged in connection with the attempted assassination
   of Admiral Denton Pat...'
+bio_de: Kahina Tijani Loren ist eine ehemalige imperiale Senatorin, die das entlegene
+  System Prism vertrat, bevor sie 3301 dramatisch verschwand. Eine lautstarke Kritikerin
+  der expansionistischen Feldzüge von Admiral Denton Patreus, pflegte Loren den Ruf einer
+  unabhängigen Stimme im imperialen Senat – bereit, militärischem Abenteuertum trotz
+  politischer Risiken entgegenzutreten. Ihr Verschwinden aus ihrer imperialen Suite auf
+  Capitol löste eines der langlebigsten Rätsel der Galaxis aus.
+
+  Lorens imperialer Courier, die *Seven Veils*, wurde im Capitol-Raumhafen ausgeräumt
+  aufgefunden; sie enthielt nur ihre Tiara und eine Medaille mit der Aufschrift „Salomé"
+  neben einem Symbol der geheimnisumwitterten Organisation Dark Wheel. Später wurde sie
+  in Abwesenheit des versuchten Mordanschlags auf Patreus in der Mackenzie Relay in Cemiess
+  angeklagt – Anklagen, die weithin als politisch motiviert galten. Ob sie lebt, tot ist
+  oder unter anderer Identität operiert, bleibt unbekannt, und ihr Fall nährt weiterhin
+  Spekulationen unter unabhängigen Piloten und Verschwörungstheoretikern gleichermaßen.
 ---
 
 

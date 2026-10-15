@@ -14,6 +14,20 @@ related_entities:
 bio: A starport in the Uibuth system, D'Arrest Station became the destination for
   a large-scale slave delivery campaign organised by the Prismatic Imperium and Navigators
   Guild in 3302.
+bio_de: Die D'Arrest Station wurde Anfang 3302 zum Brennglas einer umstrittenen Kolonisierungsaktion,
+  als das Prismatic Imperium und die Navigators Guild eine Kampagne organisierten, Sklaven
+  in eine neue Kolonie zu liefern, die an der Station errichtet wurde. Hunderte Piloten
+  beteiligten sich an der Operation und transportierten menschliche Fracht aus dem gesamten
+  imperialen Raum ins System Uibuth.
+
+  Die Kampagne unterstrich die weiterhin zentrale Rolle der imperialen Sklaverei bei der
+  Grenzausweitung – ein Arbeitsmodell, das das Prismatic Imperium als wirtschaftlich effizient
+  anpries, während Kritiker es als moralisch unhaltbar verurteilten. So verkörperte die
+  neue Kolonie der D'Arrest Station die Widersprüche der imperialen Gesellschaft – eine
+  Siedlung, gebaut durch organisierte Logistik und Zusammenarbeit von Piloten, doch
+  abhängig von der legalen Unfreiheit ihrer Arbeitskraft. Die Verbindung der Station sowohl
+  zur Navigators Guild als auch zur Uibuth Empire Party zeigte, wie tief die Sklaverei
+  selbst in Systemen am Rand des imperialen Territoriums institutionell verankert blieb.
 system: Uibuth
 station_type: Orbital Station
 distance_to_arrival: 638.321402
