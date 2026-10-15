@@ -13,6 +13,26 @@ bio: Aisling Duval is an Imperial princess known as the "People's Princess," the
   led her to support half-sister Arissa Lavigny-Duval's accession in 3301. She survived
   multiple assassination attempts and remains a powerful, if controversial, force in
   the Imperial court.
+bio_de: Aisling Duval wurde als Tochter von Prinz Harold Duval und der Entertainerin
+  Imogen Gabrielini geboren, die wenig nach ihrer Geburt an einem durch Betäubungsmittel
+  ausgelösten Aneurysma starb. Als Kaiser Hengist Harold im Dezember 3300 für „nicht
+  geistig zurechnungsfähig" erklärte, wurde Aisling von der Thronfolge ausgeschlossen.
+  Sie unterstützte den Anspruch ihrer Halbschwester Arissa Lavigny-Duval statt ihn
+  anzufechten.
+
+  Trotz des Ausschlusses vom Thron baute Aisling eine mächtige politische Anhängerschaft
+  auf. 3301 gründete sie Stop Slavery Stupid und forderte Senatorin Zemina Torval zu
+  einem öffentlichen Wettstreit um die Freilassung von Sklaven heraus, wobei über 1,1
+  Millionen Sklaven befreit wurden. 3302 fusionierte sie die Wohltätigkeitsorganisation
+  mit Unchain und erweiterte damit ihr Reformprogramm. Sie überlebte ein Attentat von
+  Emperor's Dawn und verurteilte wiederholt die Experimente der INRA an lebenden Thargoiden.
+
+  Aislings Privatleben sorgte wiederholt für Schlagzeilen, darunter eine kurze Verlobung
+  mit dem föderalen Botschafter Jordan Rochester im Jahr 3303 – eine romantische Verbindung
+  über die Grenzen der Großmächte hinweg, die traditionalistische Kreise skandalisierte,
+  bevor sie gelöst wurde. Kritiker verwerfen sie als naiv, doch sie hat das imperiale
+  Gespräch über Sklaverei und soziale Gerechtigkeit unbestreitbar verändert; ihre Beliebtheit
+  unter einfachen Bürgern ist von keinem anderen Mitglied der Kaiserfamilie erreicht.
 ---
 
 

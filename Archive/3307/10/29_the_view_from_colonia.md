@@ -7,7 +7,11 @@ source: API
 summary: Vox Galactica's culture correspondent provides an overview of the Colonia
   region, its history since Jaques Station's mis-jump, and its growing economy and
   scientific community.
+summary_de: Die Kulturkorrespondentin von Vox Galactica gibt einen Überblick über die
+  Region Colonia, ihre Geschichte seit dem Fehlsprung der Jaques Station sowie ihre
+  wachsende Wirtschaft und Wissenschaftsgemeinschaft.
 player_impact: None
+player_impact_de: Keiner
 persons:
 - Lishan Abara
 groups:
@@ -22,11 +26,21 @@ topics:
 arc_id: jaques-station
 modern_impact: Colonia continues to grow as a deep-space settlement, offering new
   opportunities for exploration and colonisation.
+modern_impact_de: Colonia wächst weiterhin als Tiefraumsiedlung und bietet neue Möglichkeiten
+  für Erkundung und Kolonisierung.
 legacy_weight: 3
 significance: medium
 related_uuids:
 - 454e1ed6-e44f-5243-848c-0928b81615e6
 - 55221925-a927-5ecb-acfb-f82d85c25a2a
+body_de: |
+  Die Kulturkorrespondentin von Vox Galactica, Lishan Abara, blickt auf die Region Colonia, die größte Enklave der Menschheit außerhalb der Kernsysteme:
+  „Colonia. Ein Ort, den nur wenige je zu Gesicht bekommen und der infolge eines Computerfehlers existiert. Die berühmte Jaques Station erlitt auf ihrer planmäßigen Reise nach Beagle Point einen Fehlsprung und materialisierte rund 22.000 Lichtjahre von Sol entfernt. Die anschließende Rettungsaktion führte zur Errichtung des ersten permanenten Stützpunkts in dem, was heute als neue Grenze der Menschheit gilt."
+  „In den letzten fünf Jahren zogen mutige Entdecker los, um mehrere Dutzend lokale Systeme zu besiedeln. Das wiederum rief einen stetigen Strom von Kolonisten herbei, die einen Neuanfang suchten. Fast 13 Millionen Menschen nennen inzwischen diese abgelegene Region ihr Zuhause."
+  „Dies ist ein Ort jenseits des Einflusses der Großmächte und Megakonzerne, und die meisten Einwohner wollen es genau so. Der Colonia Council bemüht sich nach Kräften um Ordnung und hilft lokalen Organisationen, auf kooperativen Wegen zu funktionieren. Es gab eine Handvoll regionaler Konflikte, doch im Allgemeinen ist es hier draußen weniger wahrscheinlich, Ärger zu erleben."
+  „Da Colonia früh Selbstversorgung erreichte, ermutigt die gesunde Wirtschaft sowohl Händler als auch Touristen, die weite Reise auf sich zu nehmen. Die Wissenschaftsgemeinschaft ist mit einer beachtlichen Präsenz vertreten; ein bemerkenswertes Beispiel ist das Holloway Bioscience Institute, das die vielen im Colonia-Nebel vorkommenden vakuumlebenden Lebensformen erforscht."
+  „Unabhängige und fraktionsgebundene Piloten werden bedient – mit Schiffswerften und sogar einem Baudock für Flottenträger in der Region. Lokale Ingenieure wie Baltanos, Eleanor Bresa, Rosa Dayette und Yi Shen bieten außerdem Modifikationen an Anzügen und persönlicher Ausrüstung für alle an, die ihren Lebensunterhalt auf Welten mit dünner Atmosphäre verdienen."
+  „Da das Colonia-Bridge-Projekt gut voranschreitet, wird es bald einfacher als je zuvor sein, den interstellaren Abgrund zu überqueren und diesen fernen Zufluchtsort zu erreichen. Unternehmen, Siedler und Besucher gleichermaßen dürften zunehmend vom Colonia-Erlebnis angezogen werden."
 ---
 
 

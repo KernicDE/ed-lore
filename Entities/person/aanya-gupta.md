@@ -8,6 +8,20 @@ mention_count: 3
 bio: 'A pilot and researcher affiliated with the Holloway Bioscience Institute and
   Azimuth Biotech, Aanya Gupta operated during the critical period of anti-xeno research
   between 3307 and 3309.'
+bio_de: Aanya Guptas Karriere kreuzte zwei der umstrittensten Forschungsorganisationen
+  der modernen galaktischen Geschichte – das Holloway Bioscience Institute und Azimuth
+  Biotech. Als Pilotenforscherin leistete sie logistische Unterstützung und erfasste
+  Felddaten für Projekte an der Grenze zwischen legitimer Xenobiologie und der ethisch
+  fragwürdigen Waffenforschung, für die Azimuth später berüchtigt wurde.
+
+  Ihre Aktivitäten umfassten die entscheidenden Jahre von 3307 bis 3309, in denen das
+  öffentliche Verständnis der Thargoid-Biologie rasch voranschritt, jedoch zu erheblichen
+  moralischen Kosten. Guptas doppelte Zugehörigkeit deutet darauf hin, dass sie in dem
+  Netzwerk aus Wissenschaftlern und Piloten operierte, das zwischen Unternehmens-, Akademie-
+  und Militärforschungsprogrammen wechselte und Know-how dorthin einbrachte, wo die
+  Finanzierung von Anti-Xeno-Arbeit am großzügigsten war. Ihr Vermächtnis bleibt mit
+  den Institutionen verbunden, denen sie diente, und nicht mit eigenen unabhängigen
+  Entdeckungen.
 ---
 
 

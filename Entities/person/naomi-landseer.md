@@ -8,6 +8,18 @@ mention_count: 6
 bio: Naomi Landseer is the chairperson of Lakon Spaceways who oversaw development of
   the Type-8 Transporter with SCO frame shift drive compatibility, and later voiced
   the company's public support for Colonia's tenth-anniversary celebrations.
+bio_de: Naomi Landseer ist die Vorstandsvorsitzende von Lakon Spaceways, einem bedeutenden
+  allianzischen Schiffsbauer, bekannt für seine utilitaristischen, frachtorientierten
+  Schiffsentwürfe. Sie übernahm die Führung in einer entscheidenden Phase des Unternehmens
+  und beaufsichtigte die Entwicklung des Type-8 Transporter – eines mittelgroßen Frachters,
+  der auf die Belastungen des neuen SCO-Frame-Shift-Antriebs ausgelegt war. Landseer
+  gab bekannt, dass der Type-8 zurück in die theoretische Phase verschoben wurde, um
+  die SCO-Technologie ordentlich zu integrieren; daraus entstand der größte in Produktion
+  befindliche Frachterrumpf der mittleren Klasse. Ihre Amtszeit bei Lakon verkörpert
+  den Fokus des allianzischen Industriesektors auf praktische Ingenieurskunst statt
+  Prestige, mit Priorität auf Frachtkapazität und Betriebseffizienz. 3312 lobte sie
+  Colonia öffentlich als „Leuchtturm menschlichen Könnens im Tiefraum" und sicherte
+  Lakons Unterstützung für die Feierlichkeiten zum zehnten Jahrestag der Siedlung zu.
 ---
 
 # Naomi Landseer

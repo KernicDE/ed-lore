@@ -18,6 +18,22 @@ bio: 'United Carnoeck for Equality is a organization active in Elite Dangerous l
   by the League of Reparation, lin...; This week''s major stories include three further
   League of Reparation murders in Federation space, including two Pilots'' Federation
   members whose sh...'
+bio_de: United Carnoeck for Equality ist eine der Föderation nahestehende Fraktion
+  mit Sitz im System Carnoeck, bekannt vor allem für die Organisation der ersten
+  Jubiläumsfeier zu den Bacon-Protesten in der Bacon City im Oktober 3301. Die Veranstaltung
+  erinnerte an die Aufhebung eines Fleischverbots aus dem Jahr 3288, das die Bürger
+  Carnoecks betroffen hatte, und zog Feiernde, Händler und Piraten aus der gesamten
+  Galaxis an.
+
+  Die Fraktion zeigte sowohl ihren Gemeinschaftssinn als auch ihre pragmatische Sicherheitsvorgehensweise,
+  indem sie die Störer vorhersah, die das Festival anziehen würde. Als Aktivisten für
+  Tierrechte die Bacon City blockierten und fleischtransportierende Schiffe anwiesen,
+  ihre Fracht unter vorgehaltener Waffe zu kippen, hatte United Carnoeck for Equality
+  bereits Mittel für eine Reinigung nach der Party bereitgestellt und belohnte Kopfgeldjäger,
+  die die Aggressoren von den Flugkorridoren vertrieben. Die Fähigkeit der Fraktion,
+  Großveranstaltungen zu fördern und dabei die öffentliche Sicherheit zu wahren, zeigt
+  exemplarisch, wie lokale Regierung in der Föderation Feierlichkeit und Strafverfolgung
+  ausgewogen.
 ---
 
 

@@ -29,6 +29,21 @@ bio: 'Upaniklis is a system in Elite Dangerous, significant from 3305-11-08 to 3
   generation ship, the Golconda, is discovered in the Upaniklis system.; Zachary Rackham
   hosts a week-long trillionaire celebration in Beta Hydri, requesting rare goods
   from pilots.'
+bio_de: Upaniklis ist ein unabhängiges System, das 3305 weithin bekannt wurde, als
+  dort das Generierungsschiff Golconda entdeckt wurde. Nach mehr als tausend Jahren
+  Isolation trieb das uralte Schiff im System; seine Bewohner unterhielten eine rigide
+  isolationistische Gesellschaft des 22. Jahrhunderts. Die Upaniklis Vision Incorporated
+  war die einzige Organisation, die während der ersten Kontaktphase an der Golconda
+  andocken durfte, und lieferte lebenswichtige Vorräte, während Anthropologen die
+  einzigartige Kultur studierten.
+
+  Die Entdeckung löste ein Wettrennen der drei Großmächte um die Umsiedlung der Bevölkerung
+  der Golconda aus. Letztlich gelang es der Föderation, die Bewohner zur Forester's
+  Choice zu bringen – einem neu errichteten orbitalen Außenposten –, wo sie begannen,
+  sich in die moderne galaktische Gesellschaft zu integrieren. Upaniklis bleibt als
+  Schauplatz eines der bedeutendsten Erstkontaktereignisse des 34. Jahrhunderts in
+  Erinnerung und steht exemplarisch für die Verletzlichkeit isolierter Kulturen wie
+  für die Herausforderungen ihrer Wiedereingliederung.
 reserve: Pristine
 ---
 

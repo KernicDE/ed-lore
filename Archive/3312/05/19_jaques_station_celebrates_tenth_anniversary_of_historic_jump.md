@@ -7,11 +7,19 @@ source: API
 summary: Jaques Station marks ten years since its historic misjump to the Colonia
   region. Jaques hints at upcoming celebrations that will have a lasting impact on
   the frontier colony.
+summary_de: Die Jaques Station feiert zehn Jahre seit ihrem historischen Fehlsprung
+  in die Region Colonia. Jaques kündigt bevorstehende Feierlichkeiten an, die bleibende
+  Auswirkungen auf die Grenzkolonie haben werden.
 player_impact: Pilots can anticipate upcoming community events tied to Colonia's
   tenth anniversary celebrations.
+player_impact_de: Piloten können sich auf bevorstehende Community-Veranstaltungen im
+  Rahmen des zehnten Jahrestags von Colonia freuen.
 modern_impact: Colonia has grown from an accidental settlement into a thriving deep-space
   civilization. The anniversary highlights how a single station's misjump reshaped
   humanity's frontier expansion.
+modern_impact_de: Colonia ist aus einer ungewollten Siedlung zu einer blühenden Tiefraumzivilisation
+  herangewachsen. Der Jahrestag zeigt, wie der Fehlsprung einer einzigen Station die
+  grenznahe Expansion der Menschheit neu geformt hat.
 topics:
 - colonisation
 - community event
@@ -26,6 +34,14 @@ locations:
 entities:
 - Jaques Station
 arc_id: jaques-station
+body_de: |
+  Heute vor zehn Jahren vollführte die Jaques Station ihren historischen Sprung, der schließlich zur Gründung Colonias führte.
+  Nach einer erfolgreichen Community-Aktion zur Treibstoffversorgung der Orbis-Sternenstation in der Vorwoche brach die Station zu ihrer geplanten Reise nach Beagle Point auf. Aufgrund von Störungen durch Thargoid-Sensoren materialisierte sie jedoch im System Eol Prou RS-T d3-94, das später als Colonia bekannt wurde.
+  Jaques, der Cyborg-Barkeeper und Besitzer der Sternenstation, erinnerte sich mit Vox Galactica an dieses Ereignis:
+  „Ich erinnere mich so lebhaft an diesen Tag! Eine damals wahnhaft ehrgeizige Unternehmung auch. Es ist schwer vorstellbar, so etwas jemals wieder zu tun."
+  „Zehn Jahre später ist die Jaques Station noch immer geöffnet, schenkt noch immer Getränke aus und verkauft meinen berühmten Jaques Quinentian Still an Liebhaber kräftiger Tropfen. Das Wichtigste: Colonia blüht. Ich würde sagen, es wird höchste Zeit, das zu feiern!"
+  Auf Nachhaken antwortete Jaques schlicht „Bald" mit einem kybernetischen Augenzwinkern und deutete an, dass die geplanten Feierlichkeiten zum zehnten Jahrestag von Colonia, falls alles gut gehe, bleibende Auswirkungen haben würden.
+  Vox Galactica wird in regelmäßigem Kontakt mit Jaques und dem Colonia Council bleiben und vor diesem günstigen Anlass Updates liefern.
 ---
 
 Today marks the tenth anniversary of the Jaques Station's historic jump that eventually led to the founding of Colonia.

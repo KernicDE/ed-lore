@@ -13,6 +13,12 @@ bio: Bisley Landing is a starport in the Benzaiten system and a regional tourism
   in the Colonia enclave. During the 3312 tenth-anniversary celebrations, its tourism
   spokesperson announced plans to place new tourist beacons around the region to mark
   significant events from Colonia's first decade.
+bio_de: Die Bisley Landing ist eine Sternenstation im System Benzaiten und ein regionales
+  Tourismus-Drehkreuz in der Enklave Colonia. Während der Feierlichkeiten zum zehnten
+  Jahrestag im Jahr 3312 kündigte ihr Tourismussprecher an, neue Touristen-Beacons in
+  der Region zu platzieren, um bedeutende Ereignisse aus dem ersten Jahrzehnt Colonias
+  zu markieren; die Beacons wurden schließlich in sechs regionalen Systemen platziert,
+  als die Feierlichkeiten zu Ende gingen.
 system: Benzaiten
 ---
 

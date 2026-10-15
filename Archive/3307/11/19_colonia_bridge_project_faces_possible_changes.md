@@ -7,7 +7,11 @@ source: API
 summary: Brewer Corporation considers revising phase three of the Colonia Bridge project
   based on unexpectedly high community participation, with more engineered frame shift
   drives being manufactured as incentives.
+summary_de: Die Brewer Corporation erwägt, die dritte Phase des Colonia-Bridge-Projekts
+  aufgrund der unerwartet hohen Beteiligung der Community zu überarbeiten; als Anreize
+  werden weitere engineerte Frame-Shift-Antriebe gefertigt.
 player_impact: None
+player_impact_de: Keiner
 groups:
 - Brewer Corporation
 topics:
@@ -16,11 +20,21 @@ topics:
 arc_id: jaques-station
 modern_impact: Colonia continues to grow as a deep-space settlement, offering new
   opportunities for exploration and colonisation.
+modern_impact_de: Colonia wächst weiterhin als Tiefraumsiedlung und bietet neue Möglichkeiten
+  für Erkundung und Kolonisierung.
 legacy_weight: 3
 significance: medium
 related_uuids:
 - 3526e0a2-8066-57b9-9a91-4acfc80d23e9
 - 8c3b36c3-f675-56a5-946c-a75399220a6d
+body_de: |
+  Die Brewer Corporation baut den Reisekorridor nach Colonia aus, doch Details zur nächsten Phase des Projekts bleiben ungewiss.
+  Der wirtschaftsnahe Nachrichtendienst The Tau Ceti Journal veröffentlichte diesen Beitrag:
+  „Es besteht kein Zweifel, dass die Brewer Corporation immer groß denkt. Das Unternehmen war als Herstellerin von Sternenstationen und Außenposten ein enormer kommerzieller Erfolg, und ihr Flottenträger der Drake-Klasse ist enorm beliebt."
+  „Die Colonia Bridge ist das bislang teuerste Unterfangen des Megakonzerns: Hunderte Milliarden Credits investiert er in die Transportinfrastruktur zwischen den Kernsystemen und Colonia. Mehr als ein Analyst sagte voraus, dass das Projekt das Unternehmen finanziell destabilisieren könnte."
+  „Die ersten beiden Phasen verliefen planmäßig. Vor Ende dieses Monats wird eine Kette von 56 stationären Megaschiffen entlang der Systeme zwischen Alcor und Colonia stehen."
+  „Doch es gibt Gerüchte über eine Planänderung für die dritte Phase, die frühestens Anfang nächsten Jahres beginnen könnte. Man glaubt, dass die Brewer Corporation ihre Pläne aufgrund der unerwartet hohen Beteiligung der galaktischen Community überarbeitet."
+  „Dafür spricht, dass ein Insider des Unternehmens verriet, dass weitere engineerte Frame-Shift-Antriebe gefertigt werden, die in der dritten Phase als Anreize für beteiligte Piloten dienen sollen."
 ---
 
 

@@ -7,6 +7,20 @@ last_seen_date: '3308-06-17'
 mention_count: 4
 bio: 'An independent commander and trader who found himself an unlikely intermediary
   between the Golcondans and a mysterious nomadic dredger clan.'
+bio_de: Kommandant Javi Alvarado verdiente seinen Lebensunterhalt mit Handelsflügen zur
+  Forester's Choice, dem Außenposten, in dem die Nachfahren des Generierungsschiffs
+  Golconda nach dem Aufgeben ihres uralten Schiffs im Jahr 3305 angesiedelt worden waren.
+  Im Mai 3308 führten ihn seine regelmäßigen Flüge in die Mitte einer außergewöhnlichen
+  Erstkontaktsituation, als das Artificers Clan, ein nomadischer Stamm an Bord eines
+  Bulk-Cruisers der Dredger-Klasse, das System Upaniklis erreichte und begann, die Golconda
+  zu untersuchen.
+
+  Die Golcondaner, die Außenseitern gegenüber vorsichtig waren, baten Alvarado, in ihrem
+  Namen Kontakt zum Dredger aufzunehmen. Seine Anrufe erbrachten nur eine Antwort –
+  eine Serie schneller, dicht geschriebener Sprache –, doch er verstand genug, um zu
+  erkennen, dass die Artificers an dem Generierungsschiff selbst interessiert waren.
+  Sein Bericht gegenüber Vox Galactica lieferte einen der ersten Einblicke in eine
+  zurückgezogene Kultur, die die Zukunft der Golcondaner neu formen sollte.
 ---
 
 

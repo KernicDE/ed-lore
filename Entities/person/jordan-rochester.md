@@ -11,6 +11,21 @@ bio: 'Jordan Rochester is a Diplomat in Elite Dangerous lore, active from 3304-0
   starports restored to full functionality, Aisling Duval''s engagem...; Weekly summary
   covering Chief Inspector Kay Kilbride''s murder by the League of Reparation, reactions
   to Aisling Duval and Jordan Rochester''s engage...'
+bio_de: Jordan Rochester ist ein föderaler Diplomat und Mitglied der einflussreichen
+  Familie Rochester, bekannt vor allem für seine Verlobung mit Prinzessin Aisling Duval
+  – eine Verbindung, die die Kluft zwischen den Großmächten kurz zu überbrücken versprach,
+  bevor sie angesichts wachsender Spannungen gelöst wurde. Als föderaler Botschafter
+  vertrat Rochester die Föderation in entscheidenden Verhandlungen mit dem Imperium,
+  insbesondere während der Marlinist-Flüchtlingskrise von 3306, als er das Imperium
+  beschuldigte, eine „totalitäre Säuberung" demokratisch gesinnter Menschen durchzuführen.
+
+  Rochesters diplomatische Karriere verkörperte die komplexe Verflechtung von Familieneinfluss
+  und öffentlichem Dienst. Während seine Verlobung mit Aisling Duval Schlagzeilen und
+  politische Spekulationen erzeugte, blieb sein beruflicher Fokus auf dem Schutz föderaler
+  Interessen gegen imperialen Druck. Seine scharfe Rhetorik während der Marlinist-Krise
+  trug zum Aussetzen der offiziellen Großmachtkommunikation bei und zeigte sowohl seinen
+  prinzipientreuen Standpunkt zu Menschenrechten als auch die Risiken aufgewühlter Diplomatie
+  in Zeiten erhöhter Spannungen.
 ---
 
 

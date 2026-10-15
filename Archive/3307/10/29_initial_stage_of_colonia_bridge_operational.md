@@ -6,8 +6,12 @@ date: '3307-10-29'
 source: API
 summary: Thirty dockable megaships are placed between the core systems and Colonia,
   completing the first phase of the Colonia Bridge project.
+summary_de: Dreißig andockbare Megaschiffe werden zwischen den Kernsystemen und Colonia
+  positioniert und vollenden damit die erste Phase des Colonia-Bridge-Projekts.
 player_impact: Contributing pilots were among the top ten from Alcor and Colonia who
   suggested names for the new megaships.
+player_impact_de: Beteiligte Piloten gehörten in Alcor und Colonia zu den zehn Besten,
+  die Namen für die neuen Megaschiffe vorschlugen.
 groups:
 - Brewer Corporation
 topics:
@@ -15,11 +19,20 @@ topics:
 arc_id: jaques-station
 modern_impact: Colonia continues to grow as a deep-space settlement, offering new
   opportunities for exploration and colonisation.
+modern_impact_de: Colonia wächst weiterhin als Tiefraumsiedlung und bietet neue Möglichkeiten
+  für Erkundung und Kolonisierung.
 legacy_weight: 3
 significance: medium
 related_uuids:
 - 0c47850f-a5c4-514e-b89e-0d80cf4d5093
 - fe4e42ef-373a-5122-8b38-027da95aa22e
+body_de: |
+  **Meldung der Pilots' Federation**
+  Dreißig Megaschiffe wurden zwischen den Kernsystemen und der Region Colonia positioniert und dienen als stationäre Häfen.
+  Fünfundzwanzig andockbare Megaschiffe wurden vom Alcor-System aus in Richtung Colonia entsandt und nahmen in Systemen mit Abständen von etwa 400 bis 500 Lichtjahren Position ein. Fünf weitere Megaschiffe wurden aus Richtung des Colonia-Systems errichtet.
+  Jedes Schiff dient als permanente Zwischenstation für Reisende und Unternehmen und soll die Reise nach und von Colonia erleichtern. Es werden verschiedene Dienste angeboten, darunter die Tritium-Betankung für Flottenträger der Drake-Klasse.
+  Die Colonia Bridge ist ein Werk der Brewer Corporation, die eine äußerst erfolgreiche Lieferkampagne zur Beschaffung von Ressourcen durchführte. Der Megakonzern bestätigte, dass die zweite Phase dieses Projekts nächste Woche beginnt.
+  Während der Errichtung der Colonia Bridge meldete die Besatzung des stationären Megaschiffs Memories of Oresrati im System Snake Sector OD-S b4-2 einen ungewöhnlichen Vorfall. Eine verzerrte Übertragung, die ein Notsignal gewesen sein könnte, wurde von Langstreckensensoren erfasst. Obwohl die Quelle nicht trianguliert werden konnte, deutet die Signalstärke auf einen Ursprungspunkt innerhalb von 50 Lichtjahren hin.
 ---
 
 

@@ -16,8 +16,15 @@ description: The epic saga of Jaques Station, the galaxy's only travelling starp
   Its ambitious attempted jump to Beagle Point ended in disaster and disappearance,
   but the station was eventually rediscovered in what became the Colonia region, sparking
   a new wave of colonization.
+description_de: Die epische Saga der Jaques Station, der einzigen reisenden Sternenstation
+  der Galaxis. Ihr ehrgeiziger versuchter Sprung nach Beagle Point endete in Katastrophe
+  und Verschwinden, doch die Station wurde schließlich in der Region wiederentdeckt,
+  die als Colonia bekannt wurde, und löste eine neue Welle der Kolonisierung aus.
 summary: The epic journey of Jaques Station, a mobile Orbis starport that was accidentally
   launched into deep space and later recovered, becoming a symbol of human resilience.
+summary_de: Die epische Reise der Jaques Station, einer mobilen Orbis-Sternenstation,
+  die versehentlich in den Tiefraum katapultiert wurde und später geborgen wurde –
+  und zum Symbol menschlicher Widerstandskraft wurde.
 status: Resolved
 outcome: Jaques Station was located in the Colonia region. The rescue effort established
   the Colonia Connection highway and sparked colonization of the region. In 3312,
@@ -35,6 +42,24 @@ outcome: Jaques Station was located in the Colonia region. The rescue effort est
   that Jaques Station had become a full megamarket with outfitting and services, and
   that six tourist beacons had been placed in Colonia, Carcosa, Einheriar, Tir, Luchtaine
   and Blua Eaec WW-E c14-1293.
+outcome_de: Die Jaques Station wurde in der Region Colonia lokalisiert. Die Rettungsaktion
+  etablierte die Handelsroute der Colonia-Verbindung und löste die Kolonisierung der
+  Region aus. 3312 feierte die Siedlung ihren zehnten Jahrestag mit Rückhalt durch
+  Konzerne wie Lakon Spaceways und einer großen Versorgungsinitiative, die von Facece
+  aus startete – ihrem historischen Ausgangssystem. Die Brewer Corporation stellte die
+  Fracht-Megaschiffe, die Waren und Seltene Güter nach Colonia transportierten; die
+  Aktion wurde letztlich jedoch nur als Teilerfolg gewertet. Die Pilots' Federation
+  wies ihre Mitglieder anschließend nach Colonia, um die abschließenden Anweisungen
+  des Colonia Council für die Feierlichkeiten abzuwarten. Am 6. August 3312 begann das
+  Jubiläumsfestival offiziell in der gesamten Enklave Colonia – Kolonisten begrüßten
+  Besucher, große Sternenstationen richteten Veranstaltungen aus, und der Council bestätigte,
+  dass die erhaltenen Waren die regionalen Märkte angekurbelt hätten. Vox Galactica berichtete,
+  dass neue Touristen-Beacons in der Region platziert werden, um bedeutende Ereignisse
+  aus dem ersten Jahrzehnt Colonias zu würdigen. Die Feierlichkeiten gingen am 20. August
+  3312 zu Ende, als der Colonia Council bestätigte, dass die Jaques Station zu einem
+  vollwertigen Megamarkt mit Outfitting- und Serviceleistungen geworden sei und dass
+  sechs Touristen-Beacons in Colonia, Carcosa, Einheriar, Tir, Luchtaine und Blua Eaec
+  WW-E c14-1293 platziert worden seien.
 phases:
 - 'Phase 1: The Disappearance (3302-05-05)'
 - 'Phase 2: Rediscovery (3302-06-28)'

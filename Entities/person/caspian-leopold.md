@@ -11,6 +11,21 @@ bio: 'Caspian Leopold is a Senator in Elite Dangerous lore, active from 3304-05-
   civilians affected by heightened military action in the cor...; Weekly summary covering
   Aisling Duval''s anti-slavery campaign merging with Universal Liberty to form Unchain,
   Lori Jameson''s denunciation of the Le...'
+bio_de: Caspian Leopold ist ein imperialer Senator, bekannt für sein beträchtliches
+  Vermögen, seine Redekunst und seinen politischen Einfluss innerhalb des Imperiums.
+  3304 wurde er von Unterhaltungsmedien als einer von drei möglichen romantischen Werbern
+  um Prinzessin Aisling Duval benannt, neben dem Antisklaverei-Aktivisten Jarl Toredo
+  und dem föderalen Botschafter Jordan Rochester. Leopold hatte zahlreiche Treffen mit
+  der Prinzessin und sprach in öffentlichen Interviews warmherzig über sie, doch der
+  erhebliche Altersunterschied schürte Spekulationen über die Aussichtsfähigkeit einer
+  Verbindung.
+
+  Leopolds politische Laufbahn war geprägt von der sorgfältigen Pflege von Beziehungen
+  in der imperialen Hochgesellschaft. Sein Name tauchte in der Phase des intensiven
+  öffentlichen Interesses am Privatleben von Aisling Duval auf, nachdem sie die früheren
+  Werbungsversuche von Admiral Denton Patreus zurückgewiesen hatte. Obwohl es zu keiner
+  förmlichen Verlobung kam, erhöhte die Verbindung mit der Volksprinzessin sein öffentliches
+  Profil erheblich.
 ---
 
 

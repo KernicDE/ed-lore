@@ -18,6 +18,22 @@ bio: 'Alliance Defence Force is a organization active in Elite Dangerous lore fr
   of Reparation, lin...; Commodore Morag Halloran reveals that hundreds of naval officers
   from all three superpowers and Sirius have resigned to join Salvation''s anti-xeno
   ...'
+bio_de: Die Allianz-Verteidigungsflotte (ADF) ist der militärische Arm der Allianz
+  unabhängiger Systeme und operiert unter der strategischen Führung des Marineausschusses
+  statt eines einzelnen Oberbefehlshabers. Diese dezentrale Kommandostruktur spiegelt
+  das Gründungsethos der Allianz wider – die Mitgliedssysteme stellen Schiffe und Personal,
+  behalten sich dabei erhebliche Autonomie, und Flottenadmiräle der großen Mitgliedssysteme
+  rotieren durch Führungspositionen im Ausschuss.
+
+  Die Einsatzgeschichte der ADF umfasst Großkampagnen gegen Thargoid-Streitkräfte im
+  Coalsack-Nebel und im Witch-Head-Nebel, wo sie trotz politischer Spannungen an der
+  Seite föderaler und imperialer Verbündeter kämpfte. Der Mord an Flottenadmiral Tulimaq
+  Buchanan durch die League of Reparation im Jahr 3305 legte Schwächen in der Kommandostruktur
+  der ADF offen, während der Übertritt Hunderter Offiziere zu Salvations Anti-Xeno-Projekt
+  im Jahr 3308 Fragen nach Moral und Loyalität aufwarf. Die ADF bleibt kleiner als ihre
+  föderalen und imperialen Pendants und ist auf die Koordination mit der Sirius Corporation
+  gemäß dem Verteidigungspakt von 3308 angewiesen, um ihre begrenzten Ressourcen zu
+  kompensieren.
 ---
 
 

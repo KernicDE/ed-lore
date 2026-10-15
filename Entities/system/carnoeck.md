@@ -29,6 +29,24 @@ bio: 'Carnoeck is a system in Elite Dangerous, significant from 3301-07-09 to 33
   This week''s major stories include the murder of Fleet Admiral Tulimaq Buchanan
   of the Alliance Council of Admirals by the League of Reparation, lin...; Weekly
   powerplay update covering all major powers.'
+bio_de: Carnoeck ist ein bedeutendes föderales System mit über 34 Millionen Einwohnern,
+  körperschaftlich regiert, mit hoher Sicherheitsstufe und einer Hightech-Wirtschaft,
+  die durch Raffineriebetriebe gestützt wird. Bekannt ist das System vor allem für
+  die Bacon City, eine Sternenstation, die zum unwahrscheinlichen Mittelpunkt eines
+  der ungewöhnlichsten Community-Ereignisse der Galaxis wurde.
+
+  Im Oktober 3301 war die Bacon City Schauplatz der ersten Jubiläumsfeier zu den Bacon-Protesten,
+  die an die Aufhebung eines Fleischverbots aus dem Jahr 3288 erinnerte, das die Bürger
+  Carnoecks betroffen hatte. Die Veranstaltung zog Feiernde, Händler und Piraten aus
+  der gesamten Galaxis an; Hunderte Piloten beförderten Fleisch und Betäubungsmittel,
+  um das Fest zu versorgen. Zu einem Zeitpunkt blockierten Aktivisten für Tierrechte
+  die Station und wiesen fleischtransportierende Schiffe an, ihre Fracht unter vorgehaltener
+  Waffe zu kippen. Die Fraktion United Carnoeck for Equality, die die Veranstaltung
+  sponserte, hatte derartige Störungen vorhergesehen und Mittel für eine Reinigung
+  nach der Party bereitgestellt; sie belohnte Kopfgeldjäger, die die Aggressoren von
+  den Flugkorridoren vertrieben. Die Bacon-City-Feierlichkeiten in Carnoeck zeigten,
+  wie selbst heitere Community-Veranstaltungen an der galaktischen Grenze sowohl
+  Begeisterung als auch Konflikte anziehen konnten.
 reserve: Common
 ---
 

@@ -28,6 +28,19 @@ bio: 'Warkushanui is a system in Elite Dangerous, significant from 3301-10-16 to
   Notable events include: Lakon Spaceways announces the Alliance Crusader, a new ship
   based on the Alliance Chieftain with a fighter bay and three internal military compartm...;
   The technological plague continues to affect starports across inhabited space.'
+bio_de: Warkushanui ist ein System, das Ende 3301 als einer der ersten von der technologischen
+  Plage betroffenen Orte bekannt wurde – einer Welle mysteriöser Fehlfunktionen, die
+  Sternenstationen in der gesamten besiedelten Region heimsuchte. Im Oktober 3301 meldeten
+  mehrere Stationen im System Stromausfälle, Kommunikationsstörungen und Fehlfunktionen
+  der Andocksysteme. Techniker Sam Norris an der Coats Hub stellte fest, dass die Gurragchaa
+  Gateway offenbar unter schlimmeren Bedingungen zu leiden schien; stabile Kommunikation
+  konnte jedoch nicht hergestellt werden, um das Ausmaß der Schäden zu bestätigen.
+
+  Die Vorfälle in Warkushanui kamen einer weitaus größeren Krise zuvor, die schließlich
+  auf Unbekannte Artefakte und Kontamination mit Meta-Legierungen zurückgeführt wurde.
+  Die Erfahrungen des Systems dienten als Frühwarnung für die technologische Verwundbarkeit
+  menschlicher Infrastruktur gegenüber thargoid-bedingten Phänomenen und kündigten
+  die weitaus verheerenderen Stationsangriffe an, die in den Folgejahren folgen sollten.
 ---
 
 

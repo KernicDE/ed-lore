@@ -11,6 +11,20 @@ bio: 'Jarl Toredo is a Journalist in Elite Dangerous lore, active from 3304-05-2
   form Unchain, Lori Jameson''s denunciation of the Le...; Weekly summary covering
   the disappearance of Riri McAllister''s medical transport, Jarl Toredo''s resignation
   from Unchain, further FIA arrests of Fa...'
+bio_de: Jarl Toredo ist ein ehemaliger Sklave und Antisklaverei-Aktivist, der die unabhängige
+  Wohltätigkeitsorganisation Universal Liberty leitete, bevor er sie im Juni 3304 mit
+  der Kampagne von Prinzessin Aisling Duval zur Organisation Unchain zusammenschloss.
+  Als Sklave geboren – seine Eltern starben noch in Sklaverei – brachte Toredo der Antisklaverei-Bewegung
+  eine Glaubwürdigkeit aus der Basis, die Aislings königliche Plattform ergänzte.
+
+  Die Fusion schuf eine mächtige vereinte Organisation innerhalb des Imperiums; Toredo
+  forderte öffentlich die Abschaffung der legalen Sklaverei im gesamten imperialen Raum.
+  Auf Gerüchte über eine Romanze mit Prinzessin Duval ausgefragt, wich Toredo aus, indem
+  er anmerkte, dass „die Aufmerksamkeit Ihrer Königlichen Hoheit anderswo" gelenkt sei
+  – eine vorausschauende Beobachtung angesichts von Aislings gleichzeitiger Beziehung
+  mit dem föderalen Botschafter Jordan Rochester. Bis August 3304 war Toredo von Unchain
+  zurückgetreten; seine kurze Führung zeigte jedoch, dass die imperiale Sklavereireform
+  aristokratische und abolitionistische Bewegungen verbinden konnte.
 ---
 
 

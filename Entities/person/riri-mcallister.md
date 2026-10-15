@@ -12,6 +12,20 @@ bio: 'Riri McAllister is a Admiral in Elite Dangerous lore, active from 3304-04-
   Zibal and Ienpalang, ...; Weekly summary covering the dismantling of the League
   of Reparation and Riri McAllister''s arrest, the Church of Eternal Void being declared
   illegal...'
+bio_de: Rear Admiral Riri McAllister war eine hochrangige Offizierin der Allianz-Verteidigungsflotte,
+  die im Juli 3304 als „Nexus" enttarnt wurde, die zentrale Koordinatorin der terroristischen
+  League of Reparation. McAllister hatte ihre Position genutzt, um Admiral George Varma
+  mit falschen Spuren zu belasten und die aus den drei Großmächten gebildete Sonderkommission,
+  die die Morde der League an Nachfahren der INRA untersuchte, in die Irre zu leiten.
+  Sie wurde verhaftet und offiziell wegen Verschwörung zum Terrorismus angeklagt, nachdem
+  Deputy Inspector Mara Klatt von der Allianz-Interpol einen Durchbruch erzielt hatte.
+
+  McAllisters Verrat schockierte die militärische Führung der Allianz und legte profunde
+  Sicherheitslücken auf höchster Ebene der ADF offen. Die bei ihrer Festnahme entschlüsselten
+  Daten enthüllten die Standorte zweier großer League-Enklaven und ermöglichten der
+  Sonderkommission, Operationen zur Auslöschung verbleibender Terrorzellen zu starten.
+  Ihre Enttarnung als Nexus bleibt eines der beunruhigendsten Beispiele dafür, wie hochrangiges
+  Militärpersonal Massenmorde in der modernen galaktischen Geschichte orchestrierte.
 ---
 
 

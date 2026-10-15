@@ -10,6 +10,24 @@ bio: 'Jonathon Forester is a Commander in Elite Dangerous lore, active from 3305
   Empire and Federation launch rival initiatives to provide a new home for the Golconda
   crew.; The Federation wins the bid to provide the Golconda population with a permanent
   home at the orbital outpost Forester''s Choice.'
+bio_de: Jonathon Forester ist der Kapitän der Golconda, eines Generierungsschiffs, das
+  Jahrhunderte vor der Erfindung der Überlichtgeschwindigkeit gestartet war und dessen
+  Bevölkerung über tausend Jahre im Tiefraum verbrachte, bevor die galaktische Community
+  sie wiederentdeckte. Im November 3305 bestätigten Ingenieurexperten, dass das antike
+  Schiff den Bedürfnissen der Kolonie nicht mehr gerecht werden konnte, worauf die Führer
+  der Golconda sich widerstrebend entschieden, das Schiff zu verlassen.
+
+  Forester bestand jedoch darauf, dass die Bevölkerung an einem Ort zusammenbleiben
+  sollte, statt sich auf mehrere Siedlungen zu verteilen. Sein Entschluss, die Einheit
+  der Golconda-Gemeinschaft zu bewahren, wurde zu einem zentralen Faktor im Wettbewerb
+  zwischen Imperium und Föderation um ein neues Zuhause für die Besatzung. Das Imperium
+  bot ein Zuhause auf einer Planetenoberfläche an, um die ursprüngliche Mission des
+  Schiffs zu erfüllen, während die Föderation einen modernen Außenposten vorschlug,
+  der die raumfahrenden Traditionen der Golconda fortsetzen lassen würde. Fosters Führung
+  während der Migration zur Forester's Choice – der neuen Siedlung, die zu seinen Ehren
+  nach ihm benannt wurde – zeigte exemplarisch die Herausforderungen, eine isolierte,
+  jahrhundertealte Kultur in die moderne Galaxis zu integrieren und dabei ihre einzigartige
+  Identität zu bewahren.
 ---
 
 

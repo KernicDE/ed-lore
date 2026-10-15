@@ -11,6 +11,18 @@ bio: 'Alexei de la Vega is a Scientist in Elite Dangerous lore, active from 3304
   Tulimaq Buchanan of the Alliance Council of Admirals by the League of Reparation,
   lin...; Weekly summary covering Chief Inspector Kay Kilbride''s murder by the League
   of Reparation, reactions to Aisling Duval and Jordan Rochester''s engage...'
+bio_de: Professor Alexei de la Vega ist ein Wissenschaftler, der in der abgelegenen
+  Region Colonia ein Forschungsprojekt für die Colonia Co-operative leitete. Im Mai
+  3304 überwachte er eine Kampagne zur Versorgung des Projekts mit Mikroressourcen,
+  bei der Hunderte unabhängiger Piloten Materialien zur Foster Terminal im Coeus-System
+  lieferten.
+
+  De la Vega erklärte, das Material ermögliche es der Colonia Co-operative, „einen
+  Rahmen dafür zu erarbeiten, wie die Region wachsen kann", und einen Fahrplan für die
+  zukünftige Entwicklung Colonias zu erarbeiten. Seine Arbeit steht für die wissenschaftliche
+  Infrastrukturentwicklung, die Colonias Wandlung von einem abgelegenen Außenposten
+  zu einer lebensfähigen Tiefraumsiedlung trug, und zeigt, wie koordinierte Forschungsprogramme
+  die menschliche Expansion weit jenseits der Kernsysteme tragen können.
 ---
 
 

@@ -7,8 +7,13 @@ source: API
 summary: Independent pilots locate an abandoned Holloway Bioscience research facility
   in the Snake Sector GW-W c1-1 system after detecting a distress call from a Colonia
   Bridge megaship.
+summary_de: Unabhängige Piloten haben eine verlassene Forschungseinrichtung des Holloway
+  Bioscience Institute im System Snake Sector GW-W c1-1 lokalisiert, nachdem sie ein
+  Notsignal eines Megaschiffs der Colonia Bridge empfangen hatten.
 player_impact: Independent pilots searched nearby systems and located Holloway Bioscience
   Research Facility 15.
+player_impact_de: Unabhängige Piloten durchsuchten nahegelegene Systeme und lokalisierten
+  die Holloway Bioscience Research Facility 15.
 persons:
 - Aanya Gupta
 - Lord Roland Holloway
@@ -19,11 +24,22 @@ topics:
 arc_id: jaques-station
 modern_impact: Colonia continues to grow as a deep-space settlement, offering new
   opportunities for exploration and colonisation.
+modern_impact_de: Colonia wächst weiterhin als Tiefraumsiedlung und bietet neue Möglichkeiten
+  für Erkundung und Kolonisierung.
 legacy_weight: 2
 significance: low
 related_uuids:
 - 454e1ed6-e44f-5243-848c-0928b81615e6
 - 8c3b36c3-f675-56a5-946c-a75399220a6d
+body_de: |
+  **Meldung der Pilots' Federation**
+  Ein Notsignal führte unabhängige Piloten zur Ortung einer verlassenen Siedlung im System Snake Sector GW-W c1-1.
+  Das SOS wurde zunächst von einem der Megaschiffe registriert, die die Colonia Bridge bilden, und veranlasste zahlreiche Schiffe, nahegelegene Systeme zu durchsuchen. Die Quelle wurde schließlich als Holloway Bioscience Research Facility 15 auf dem Mond Snake Sector GW-W c1-1 AB 5 b identifiziert.
+  Piloten legten eine Reihe von Missionsprotokollen frei, die im Jahr 3255 von einer militärischen Söldnereinheit namens Excalibur Troop aufgezeichnet wurden. Der Inhalt dieser Protokolle wurde Nachrichtendiensten bislang nicht zugänglich gemacht.
+  Aanya Gupta, CEO des Holloway Bioscience Institute, gab eine Erklärung an die Presse ab:
+  „Die Forschungseinrichtung 15 war eines der ersten planetaren Untersuchungslabore, die von unserem Gründer, dem angesehenen Wissenschaftler Lord Roland Holloway, errichtet wurden. Unsere Aufzeichnungen über diese Siedlungen sind lückenhaft, daher sind wir dankbar, dass sie gefunden wurde."
+  „Leider finden sich keine Daten über die Excalibur Troop oder die Umstände, unter denen sie beauftragt wurden. Unsere Ermittlungsteams sind vor Ort, um weitere Informationen zu sammeln."
+  Das Holloway Bioscience Institute wollte sich zu Gerüchten nicht äußern, dass die ursprüngliche Besatzung der Forschungseinrichtung zuvor eine unbekannte Lebensform getroffen hatte.
 ---
 
 

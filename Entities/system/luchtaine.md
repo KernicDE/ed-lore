@@ -26,6 +26,9 @@ edsm_url: https://www.edsm.net/en/system/id/13734505/name/Luchtaine
 inara_url: https://inara.cz/elite/starsystem/?search=Luchtaine
 bio: 'Luchtaine is a star system in the Elite Dangerous universe, significant from
   3304-08-29 to 3304-08-29. '
+bio_de: Luchtaine ist ein System in der Region Colonia mit Raffinerie- und Förderwirtschaft.
+  Im August 3312 platzierte der Colonia Council dort ein Touristen-Beacon als eines
+  von sechs Systemen, die an den zehnten Jahrestag der Siedlung erinnern.
 reserve: Pristine
 ---
 

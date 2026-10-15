@@ -14,6 +14,14 @@ related_entities:
 - autocracy-of-tiensei
 bio: Los Chupacabras is a faction operating in frontier systems. The group has been involved
   in various activities including resource extraction and local system defence.
+bio_de: Los Chupacabras ist eine Fraktion, die in Grenzsystemen operiert und nach einer
+  mythischen Kreatur der Folklore der alten Erde benannt ist. Die Gruppe war an verschiedenen
+  Aktivitäten beteiligt, von der Rohstoffgewinnung bis zur lokalen Systemverteidigung,
+  was die anpassungsfähige Natur von Grenzfraktionen widerspiegelt, die diversifizieren
+  müssen, um zu überleben. Zwar zählt Los Chupacabras nicht zu den Großmächten der Galaxis,
+  doch sie steht für jene Art unabhängiger Organisationen, die Führungslücken in dünn
+  besiedelten Regionen füllen und in Systemen, die die Großmächte übersehen, häufig zur
+  De-facto-Autorität werden.
 ---
 
 

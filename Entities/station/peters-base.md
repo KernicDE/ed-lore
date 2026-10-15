@@ -10,6 +10,11 @@ related_entities:
 - colonia-council
 - brewer-corporation
 - jaques
+bio_de: Die Peters Base ist eine Station im System Facece. Im Juli 3312 diente sie
+  als Registrierungspunkt für die Versorgungsinitiative zum zehnten Jahrestag von Colonia,
+  wo sich Piloten registrieren sollten, bevor sie die Lieferung von Waren und Seltenen
+  Gütern zu den im System stationierten Fracht-Megaschiffen der Brewer Corporation
+  unterstützten.
 ---
 
 <!-- AUTO-GENERATED -->

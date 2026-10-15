@@ -7,8 +7,13 @@ source: API
 summary: Brewer Corporation launches delivery campaigns in Alcor and Colonia to build
   the Colonia Bridge, a chain of up to 30 dockable megaships connecting the core systems
   to Colonia.
+summary_de: Die Brewer Corporation startet Lieferkampagnen in Alcor und Colonia, um
+  die Colonia Bridge zu errichten – eine Kette von bis zu 30 andockbaren Megaschiffen,
+  die die Kernsysteme mit Colonia verbindet.
 player_impact: Pilots delivered ceramic composites, computer components, and thermal
   cooling units to Macdonald Settlement and Jaques Station.
+player_impact_de: Piloten lieferten Keramikverbundwerkstoffe, Computerkomponenten und
+  Thermalkühleinheiten zur Macdonald Settlement und zur Jaques Station.
 groups:
 - Brewer Corporation
 - Colonia Council
@@ -17,11 +22,23 @@ topics:
 arc_id: jaques-station
 modern_impact: Colonia continues to grow as a deep-space settlement, offering new
   opportunities for exploration and colonisation.
+modern_impact_de: Colonia wächst weiterhin als Tiefraumsiedlung und bietet neue Möglichkeiten
+  für Erkundung und Kolonisierung.
 legacy_weight: 3
 significance: medium
 related_uuids:
 - fe2ef902-f105-5e82-bf79-83ee66c58228
 - fe4e42ef-373a-5122-8b38-027da95aa22e
+body_de: |
+  **Meldung der Pilots' Federation**
+  Lieferkampagnen in den Systemen Alcor und Colonia sollen die Reisen zu den fernen Kolonien erleichtern.
+  Das Colonia-Bridge-Projekt wird von der Brewer Corporation finanziert, die die Einzelheiten in einer Pressemitteilung vorstellte:
+  „Die Region Colonia birgt großes Potenzial für Unternehmen und Reisende, doch die lange Reise kann abschreckend sein. Die Brewer Corporation investiert in die Transportinfrastruktur zwischen den Kernsystemen und Colonia, um das Überwinden dieser tausenden Lichtjahre zu erleichtern."
+  „Entlang der Route nach Colonia werden bis zu 30 andockbare Megaschiffe positioniert, die Reisenden wertvolle Erholungsmöglichkeiten und Ressourcen – darunter Tritium – bieten. Diese stationären Megaschiffe sollen bis zum 28. Oktober einsatzbereit sein und den Abschluss der ersten Phase des dreiphasigen Colonia-Bridge-Projekts markieren. Ziel ist es, ausgehend von den Systemen Alcor und Colonia in Abständen von vier- bis fünfhundert Lichtjahren andockbare Megaschiffe zu platzieren."
+  „Dafür benötigen wir große Mengen an Keramikverbundwerkstoffen, Computerkomponenten und Thermalkühleinheiten. Geliefert werden können sie entweder zur Macdonald Settlement im Alcor-System oder zur Jaques Station im Colonia-System."
+  Aufgrund der Bedeutung dieses Unternehmens subventioniert der Colonia Council einen Teil der Initiative. Infolgedessen sind die Warenanforderungen für die Megaschiffe bei der Jaques Station reduziert.
+  Die Brewer Corporation bestätigte, dass sie neben der Bezahlung für die Materialien die zehn größten Unterstützer in Alcor und Colonia bitten wird, Namensvorschläge für die neuen Megaschiffe einzureichen. Die Einreichungen werden dem Vorstand der Brewer Corporation vorgelegt.
+  Als zusätzlichen Anreiz gibt es vorübergehende Rabatte auf Kauf und Ausrüstung von Flottenträgern sowohl an der Macdonald Settlement als auch an der Jaques Station, abhängig von den Beiträgen der Piloten.
 ---
 
 

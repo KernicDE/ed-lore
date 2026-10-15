@@ -9,6 +9,16 @@ bio: Magen Wolfe is a member of the Colonia Council who has publicly represented
   regional government during the tenth-anniversary celebrations. In July 3312 she praised
   the supply initiative's potential to create a megamarket and boost the Colonia economy,
   and later confirmed that the effort had achieved partial success.
+bio_de: Magen Wolfe ist Mitglied des Colonia Council und vertrat die Regionalregierung
+  während der Feierlichkeiten zum zehnten Jahrestag öffentlich. Im Juli 3312 lobte sie
+  das Potenzial der Versorgungsinitiative, einen Megamarkt zu schaffen und die Wirtschaft
+  Colonias anzukurbeln, und bestätigte später, dass die Aktion trotz einer geringeren
+  als erhofften Menge an Seltenen Gütern nur ein Teilerfolg war. Als das Jubiläumsfestival
+  im August 3312 begann, wies sie darauf hin, dass die erhaltenen Waren die Märkte in
+  der gesamten Region angekurbelt hätten. Als die Feierlichkeiten zu Ende gingen, sprach
+  sie erneut im Namen des Council, dankte den Piloten, die nach Colonia gereist waren,
+  und bestätigte, dass die Jaques Station zu einem Megamarkt geworden sei und dass sechs
+  neue Touristen-Beacons in der Region platziert worden seien.
 ---
 
 

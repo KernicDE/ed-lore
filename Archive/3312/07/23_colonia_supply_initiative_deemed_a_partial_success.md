@@ -8,14 +8,27 @@ summary: The Colonia tenth-anniversary supply initiative has achieved partial su
   Brewer Corporation's cargo megaships have departed Facece with the commodities and
   rare goods collected, though the response fell short of full targets. Organisers
   plan a further call for assistance to distribute the goods across regional markets.
+summary_de: Die Versorgungsinitiative zum zehnten Jahrestag von Colonia gilt als Teilerfolg.
+  Die Fracht-Megaschiffe der Brewer Corporation sind mit den gesammelten Waren und
+  Seltenen Gütern von Facece aufgebrochen, doch die Resonanz blieb hinter den vollen
+  Zielen zurück. Die Organisatoren planen einen weiteren Hilfeaufruf, um die Güter
+  auf regionalen Märkten zu verteilen.
 player_impact: Pilots can expect a follow-up call for assistance within the next week
   to help distribute commodities and rare goods across Colonia regional markets. Those
   who contributed to the initial supply effort have helped stock the megaship fleet
   now en route to Colonia.
+player_impact_de: Piloten können innerhalb der nächsten Woche mit einem Folgeaufruf
+  rechnen, der die Verteilung von Waren und Seltenen Gütern auf den Märkten Colonias
+  unterstützen soll. Wer zur anfänglichen Versorgungsaktion beigetragen hat, half dabei,
+  die Megaschiffflotte zu beladen, die nun auf dem Weg nach Colonia ist.
 modern_impact: The partial success tempers the optimism of Colonia's anniversary celebrations
   but does not derail them. The outcome shows that deep-space logistics remain challenging
   even for a settlement that has grown into a recognised economic partner of the core
   systems.
+modern_impact_de: Der Teilerfolg dämpft den Optimismus der Jubiläumsfeierlichkeiten,
+  stoppt sie aber nicht. Das Ergebnis zeigt, dass Tiefraum-Logistik selbst für eine
+  Siedlung herausfordernd bleibt, die zu einem anerkannten Wirtschaftspartner der Kernsysteme
+  herangewachsen ist.
 topics:
 - colonisation
 - community event
@@ -49,6 +62,13 @@ arc_id: jaques-station
 related_uuids:
 - 611a5e2b-bd02-52e0-b657-1d13d01997d3
 - 3958bc50-b17d-5db1-ba61-462ab4b157cd
+body_de: |
+  Die Initiative zur Unterstützung der Feierlichkeiten zum zehnten Jahrestag von Colonia ist nach Ansicht der Organisatoren nur ein Teilerfolg gelungen.
+  Die große Flotte von Fracht-Megaschiffen der Brewer Corporation, die in Facece stationiert war, hat die Ladung übernommen und ihre lange Reise nach Colonia begonnen; sie transportiert die gelieferten Waren und Seltenen Güter.
+  „Die Resonanz der Piloten aus den Kernsystemen auf unseren Hilfeaufruf hat uns sehr gefreut", sagte Magen Wolfe im Namen des Colonia Council.
+  „Wir sind weiterhin auf Kurs, dieses Jubiläum zu einem Erfolg für die Region zu machen."
+  Unterdessen scherzte Jaques in einer Holo-Video-Nachricht an Vox Galactica: „Nun, nun. Da mit der geringeren Menge an Seltenen Gütern, die bald den Markt erreicht, sieht es so aus, als würde mein Quinentian Still die beliebteste seltene Ware in Colonia bleiben!"
+  Nachdem die Megaschiffflotte nun unterwegs ist, wird erwartet, dass der Council innerhalb der nächsten Woche einen weiteren Hilfeaufruf an verfügbare Piloten richtet, um die Verteilung von Waren und Seltenen Gütern auf regionalen Märkten zu unterstützen.
 ---
 
 The initiative to support Colonia’s tenth anniversary celebrations has been met with partial success according to organisers.

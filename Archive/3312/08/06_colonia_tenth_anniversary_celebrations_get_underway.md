@@ -7,12 +7,21 @@ source: API
 summary: The tenth-anniversary festival of the Colonia settlement has officially begun,
   with colonists welcoming visitors, major starports hosting events, and new tourist
   beacons planned to mark the region's first decade.
+summary_de: Das Festival zum zehnten Jahrestag der Gründung Colonias ist offiziell gestartet.
+  Kolonisten heißen Besucher willkommen, große Sternenstationen richten Veranstaltungen
+  aus, und neue Touristen-Beacons sollen das erste Jahrzehnt der Region markieren.
 player_impact: Tourists and traders can join the anniversary festival at Colonia, attend
   events hosted by major regional starports, and look out for new tourist beacons commemorating
   the settlement's first decade.
+player_impact_de: Touristen und Händler können am Jubiläumsfestival in Colonia teilnehmen,
+  Veranstaltungen großer regionaler Sternenstationen besuchen und Ausschau nach neuen
+  Touristen-Beacons halten, die das erste Jahrzehnt der Siedlung markieren.
 modern_impact: The launch of the celebrations confirms Colonia's transformation from
   a stranded outpost into a confident, family-friendly deep-space civilisation that
   now attracts corporate investment and core-systems tourism.
+modern_impact_de: Der Beginn der Feierlichkeiten bestätigt Colonias Wandlung von einem
+  abgeschotteten Außenposten zu einer selbstbewussten, familienfreundlichen Tiefraumzivilisation,
+  die nun Unternehmensinvestitionen und Tourismus aus den Kernsystemen anzieht.
 topics:
 - colonisation
 - community event
@@ -49,6 +58,15 @@ related_uuids:
 - ad97626f-efcc-550b-828a-35ca6493f0a1
 - 3958bc50-b17d-5db1-ba61-462ab4b157cd
 - 6a7fc082-3f67-56da-b81f-3c9ee54feb61
+body_de: |
+  Das Festival zum zehnten Jahrestag der Gründung Colonias ist mit vollem Elan gestartet.
+  Kolonisten in der gesamten Enklave Colonias heißen Besucher mit offenen Armen willkommen und präsentieren ihre Errungenschaften des letzten Jahrzehnts – gemeinsam mit großen Konzernen, die zu investieren wünschen.
+  Unterdessen richten große Sternenstationen Veranstaltungen und Partys aus, um Touristen anzuziehen und die Region als Ort zu bewerben, an dem Familien einen Neuanfang außerhalb der Kernsysteme wagen können.
+  „Gäbe es nicht die Hilfe dieser guten Seelen, ich bezweifle, dass unsere Feierlichkeiten so groß würden, wie sie werden", erklärte Jaques in einem live übertragenen Interview. „Und meine Bar steht bereit, jeden zu empfangen, der Durst entwickelt hat!"
+  Magen Wolf, im Namen des Colonia Council, fügte hinzu: „Die Menge der erhaltenen Waren hat die Märkte in der gesamten Region angekurbelt."
+  Lokale Tourismusverantwortliche haben gegenüber Vox Galactica bestätigt, dass neue Touristen-Beacons in der Region platziert werden, um bedeutende Ereignisse zu markieren, die im ersten Jahrzehnt Colonias stattfanden.
+  „Wir freuen uns auf mehr Tourismus und Handel! Man hatte das Gefühl, dass wir unsere Geschichte allen erzählen müssen, die hierherkommen. Und vielleicht bleibt der eine oder andere, um unsere nächsten zehn Jahre mitzuerleben", kommentierte ein Tourismussprecher an der Bisley Landing in Benzaiten.
+  Vox Galactica wird weiter über die Feierlichkeiten berichten, sobald es neue Informationen gibt.
 ---
 
 The festival marking the tenth anniversary of the founding of Colonia has begun in earnest.

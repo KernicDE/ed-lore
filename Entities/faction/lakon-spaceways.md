@@ -14,6 +14,24 @@ related_entities:
 bio: Lakon Spaceways is an Alliance shipbuilding corporation known for practical,
   workhorse vessels including the Asp Explorer and Type series freighters, and the
   Type-10 Defender developed jointly with the Alliance military.
+bio_de: Lakon Spaceways ist ein traditionsreiches Schiffbauunternehmen, bekannt für die
+  Produktion praktischer, robuster Schiffe, darunter die Asp Explorer und die Frachter
+  der Type-Serie. Über Jahre pflegte das Unternehmen eine enge Partnerschaft mit der
+  Allianz und entwickelte gemeinsam mit ihr Militärschiffe wie den Type-10 Defender
+  – eine Anti-Thargoid-Variante des Type-9 Heavy, der Ende 3303 in Dienst gestellt
+  wurde – sowie die Kampfschifflinie Alliance Chieftain, die 3304 vorgestellt wurde.
+
+  Ende 3306 startete der föderale Riese Core Dynamics ein feindliches Übernahmeangebot,
+  das Lakon zunächst ablehnte. Nachdem ein überarbeitetes Angebot im Januar 3307 angenommen
+  worden war, erklärte die Independent Commission for Market Equality die Übernahme für
+  illegal und legte Bestechung und Erpressung durch Core-Dynamics-CEO Jupiter Rochester
+  offen. Vor dem Konkurs gerettet wurde Lakon im Februar 3307, als die Allianzversammlung
+  eine Mehrheitsbeteiligung erwarb, den Firmensitz nach Alioth verlegte und damit den
+  Status als wichtiger inländischer Rüstungsbetrieb festigte. Das Unternehmen hat seinen
+  Katalog seither weiter ausgebaut, etwa um den Frachter Type-8 und das Minenschiff
+  Type-11 Prospector. 3312 unterstützte Vorstandsvorsitzende Naomi Landseer öffentlich
+  die Feierlichkeiten zum zehnten Jahrestag von Colonia und signalisierte damit die
+  anhaltende Reichweite des Unternehmens jenseits des Allianzraums bis an die Tiefraumgrenze.
 ---
 
 

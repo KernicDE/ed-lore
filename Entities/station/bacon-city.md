@@ -12,6 +12,18 @@ related_entities:
 bio: A starport in the Carnoeck system, Bacon City is best known as the venue for
   the annual Bacon Protests anniversary celebrations, a peculiar tradition blending
   political satire with community festivity.
+bio_de: Die Kooperative der Bacon Cats begründete eine ungewöhnliche Tradition, als
+  sie begann, der „Bacon-Proteste" mit einer jährlichen Feier in der Bacon City zu
+  gedenken. Was als lokale politische Demonstration begann, entwickelte sich zu einem
+  Festival über das gesamte System, das Feiernde aus dem gesamten Sektor anzog – darunter,
+  wie unvermeidlich, Piratenbanden auf der Suche nach leichter Beute in den Menschenmengen.
+
+  Bis Oktober 3304 war die Veranstaltung fester Bestandteil des kulturellen Kalenders
+  Carnoecks. Die Fraktion United Carnoeck for Equality nutzte die Bühne für progressive
+  Botschaften, während unabhängige Händler vom Besucherstrom profitierten. Die Fähigkeit
+  der Bacon City, derartige Zusammenkünfte auszurichten, zeigte, wie selbst kleinere
+  Sternenstationen zu Zentren gemeinschaftlicher Identität werden konnten – in einer
+  Galaxis, in der die meisten Stationen rein funktionale Rollen einnahmen.
 system: Carnoeck
 station_type: Orbital Station
 distance_to_arrival: 105

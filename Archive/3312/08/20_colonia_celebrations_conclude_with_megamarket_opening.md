@@ -7,12 +7,24 @@ source: API
 summary: The tenth-anniversary celebrations conclude with Jaques Station upgraded to
   a full megamarket, new tourist beacons placed in six regional systems, and the Colonia
   Council thanking pilots who travelled to Colonia.
+summary_de: Die Feierlichkeiten zum zehnten Jahrestag gehen zu Ende – die Jaques Station
+  wurde zu einem vollwertigen Megamarkt ausgebaut, in sechs regionalen Systemen wurden
+  neue Touristen-Beacons platziert, und der Colonia Council dankte den Piloten, die
+  nach Colonia gereist sind.
 player_impact: Pilots who supported the anniversary can now use Jaques Station as a
   megamarket with full outfitting and services, and visit six new tourist beacons in
   Colonia, Carcosa, Einheriar, Tir, Luchtaine and Blua Eaec WW-E c14-1293.
+player_impact_de: Piloten, die das Jubiläum unterstützt haben, können die Jaques Station
+  nun als Megamarkt mit vollem Outfitting- und Serviceangebot nutzen und sechs neue
+  Touristen-Beacons in Colonia, Carcosa, Einheriar, Tir, Luchtaine und Blua Eaec WW-E
+  c14-1293 besuchen.
 modern_impact: The megamarket cements Jaques Station as a complete deep-space hub and
   signals that Colonia has matured from a rescued outpost into a self-sufficient economic
   and tourism destination with core-systems visibility.
+modern_impact_de: Der Megamarkt festigt den Status der Jaques Station als vollwertiges
+  Tiefraum-Drehkreuz und signalisiert, dass Colonia von einer geretteten Außenstation
+  zu einem autarken Wirtschafts- und Tourismusziel mit Sichtbarkeit in den Kernsystemen
+  gereift ist.
 topics:
 - community event
 - corporate expansion
@@ -67,6 +79,14 @@ locations:
 arc_id: jaques-station
 related_uuids:
 - 42e0c02a-7f80-59aa-abb7-b423537e2de9
+body_de: |
+  Während die Feierlichkeiten allmählich zu Ende gehen, bestätigte der Colonia Council die Einrichtung eines neuen Megamarkts an der Jaques Station.
+  Magen Wolf, im Namen des Colonia Council, sagte: „Alle unsere lokalen Initiativen waren erfolgreich, und wir beabsichtigen, den erheblichen Einsatz der Piloten zu würdigen, die den ganzen Weg nach Colonia gereist sind, um unser zehnjähriges Jubiläum zu einem Triumph zu machen."
+  Jaques ergänzte in einem Holo-Video-Gespräch mit Vox Galactica:
+  „Es hat mich einige Zeit gekostet, ein paar alte Gefälligkeiten einzufordern und mit mehreren Konzernen zu verhandeln, aber ich habe die Jaques Station endlich als Megamarkt etabliert!"
+  „Diese alte Sternenstation ist jetzt stolz darauf, ein umfassendes Angebot an Outfitting- und Serviceleistungen zu bieten. Das ist ein riesiger Schub für Colonia und die Region! Jedes Jahr wird unsere kleine Ecke der Galaxis zu einem besseren Ort zum Besuchen und Bleiben!"
+  Wolf fügte außerdem an, dass neue Touristen-Beacons in bedeutungsvollen Systemen platziert würden, um die Bemühungen aller zu würdigen, die teilgenommen haben; Besucher könnten dabei „mehr über die Geschichte Colonias erfahren, indem sie unsere von glücklichen Kolonisten bevölkerten Systeme bereisen".
+  Die sechs Beacons befinden sich in Colonia, Carcosa, Einheriar, Tir, Luchtaine und Blua Eaec WW-E c14-1293.
 ---
 
 As anniversary celebrations begin to wind down, Colonia Council issued confirmation that a new megamarket has been established at Jaques Station.

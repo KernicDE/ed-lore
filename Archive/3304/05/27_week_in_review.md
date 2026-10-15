@@ -12,9 +12,20 @@ summary: This week's major stories include three further League of Reparation mu
   Music Festival in LFT 926. The Autocracy of T'iensei placed kill orders on criminals
   in their system. A salvage and rescue operation concluded successfully in the core
   systems, and a Colonia microresources campaign also succeeded.
+summary_de: Die wichtigsten Meldungen dieser Woche sind drei weitere Morde der League
+  of Reparation im Raum der Föderation, darunter zwei Mitglieder der Pilots' Federation,
+  deren Schiffe mit ‚FOR JAMESON' brandmarkt wurden. Commodore Riri McAllister wurde in
+  den Allianz-Marineausschuss berufen. Unterhaltungsjournalist Solomon Helios benannte
+  drei mögliche Werber um Prinzessin Aisling Duval. Los Chupacabras kündigten das Jailhouse-Rock-and-Blues-Musikfestival
+  in LFT 926 an. Die Autocracy of T'iensei erließ Kopfgelder auf Kriminelle in ihrem
+  System. Eine Bergungs- und Rettungsaktion in den Kernsystemen endete erfolgreich,
+  und eine Mikroressourcen-Kampagne in Colonia war ebenfalls erfolgreich.
 player_impact: Pilots who delivered commodities to Los Chupacabras for the music festival,
   bounty vouchers to T'iensei, or participated in the salvage and rescue or Colonia
   campaigns can collect rewards.
+player_impact_de: Piloten, die Waren an Los Chupacabras für das Musikfestival lieferten,
+  Kopfgeldgutscheine nach T'iensei brachten oder an der Bergungs- und Rettungsaktion
+  oder den Colonia-Kampagnen teilnahmen, können Belohnungen abholen.
 persons:
 - Caspian Leopold
 - Riri McAllister
@@ -50,6 +61,8 @@ topics:
 arc_id: jaques-station
 modern_impact: Multiple concurrent community initiatives demonstrate the breadth of
   pilot engagement across humanitarian, commercial, and military operations.
+modern_impact_de: Mehrere gleichzeitig laufende Community-Initiativen zeigen die Breite
+  des Engagements von Piloten in humanitären, kommerziellen und militärischen Operationen.
 legacy_weight: 3
 significance: medium
 related_uuids:
@@ -65,6 +78,24 @@ related_uuids:
 - 56423215-1d94-5955-9b5b-942c39132b7b
 - 6c73a7e2-e5c8-54ae-a8be-12b073c86722
 - 37a69743-987e-5990-848f-308a9738a453
+body_de: |
+  Hier sind die wichtigsten Meldungen dieser Woche.
+
+  Die Terrorgruppe League of Reparation hat im Raum der Föderation drei weitere Morde begangen.
+
+  Zu den Opfern gehören zwei Mitglieder der Pilots' Federation. In beiden Fällen wurden die Schiffe der Kommandanten per Laser mit dem Schriftzug ‚FOR JAMESON' brandmarkt.
+
+  Commodore Riri McAllister von der Allianz-Verteidigungsflotte wurde in den Marineausschuss berufen und besetzt damit die Vakanz, die durch den Tod von Tulimaq Buchanan entstand, der von der League of Reparation getötet wurde. McAllister hat zugesagt, die Bemühungen gegen die für den Tod ihres Vorgängers verantwortliche Terrorgruppe zu unterstützen.
+
+  Unterdessen spekulierte Unterhaltungsjournalist Solomon Helios über das Liebesleben von Prinzessin Aisling Duval, von der man annimmt, dass sie die Avancen von Admiral Denton Patreus zurückwies. Es wurden drei mögliche Werber benannt: Senator Caspian Leopold, der Antisklaverei-Aktivist Jarl Toredo und der föderale Botschafter Jordan Rochester.
+
+  In anderen Nachrichten: Los Chupacabras, eine unabhängige Fraktion mit Sitz im System LFT 926, hat Pläne für eine Musikveranstaltung bekannt gegeben, die als Jailhouse-Rock-and-Blues-Musikfestival bekannt sein wird. Zur Unterstützung der Veranstaltung hat Los Chupacabras einen offenen Auftrag für Mengen an Bier, Tabak, Kaffee und Betäubungsmitteln erteilt und Piloten versprochen, diese bei Lieferung dieser Waren zur Meredith City im LFT-926-System zu belohnen.
+
+  Die Behörden des Systems T'iensei verzeichneten einen starken Anstieg krimineller Aktivitäten in der Region. Um dieser Bedrohung zu begegnen, hat die Autocracy of T'iensei Kopfgelder auf alle Schiffe ihrer Fahndungsliste erlassen und Piloten versprochen, diese bei Lieferung von Kopfgeldgutscheinen zur Dzhanibekov Port zu belohnen.
+
+  Schließlich erreichten zwei von der Community getragene Initiativen diese Woche ein erfolgreiches Ende. In den Kernsystemen wurde eine Operation zur Bergung von Überlebenden und Wrackgut eines von Piraten angegriffenen Konvois von Dutzenden unabhängiger Piloten unterstützt, während in Colonia Hunderte Kommandanten Mikroressourcen an die Colonia Co-Operative lieferten, die das Potenzial der Region untersucht, in Zukunft größere Bevölkerungsgruppen zu versorgen.
+
+  Das waren die wichtigsten Meldungen dieser Woche.
 ---
 
 

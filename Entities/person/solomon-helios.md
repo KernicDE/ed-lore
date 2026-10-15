@@ -11,6 +11,20 @@ bio: 'Solomon Helios is a Journalist in Elite Dangerous lore, active from 3304-0
   denunciation of the Le...; Weekly summary covering Riri McAllister being unmasked
   as Nexus and framing Admiral Varma, the hunt for League strongholds in Zibal and
   Ienpalang, ...'
+bio_de: Solomon Helios ist Unterhaltungsjournalist, der über die Politik des imperialen
+  Hofs und Promiklatsch berichtet, mit besonderem Fokus auf das Liebesleben von Prinzessin
+  Aisling Duval. Mitte 3304 sicherte er sich die exklusive Berichterstattung über Aislings
+  diplomatische Auftritte mit dem föderalen Botschafter Jordan Rochester und identifizierte
+  Vice Admiral Juno Rochester vor der Verkündung der Verlobung korrekt als mögliche
+  „zukünftige Verwandte".
+
+  Helios' Berichterstattung über die Romanze zwischen Aisling und Rochester verband
+  Unterhaltungsjournalismus mit echter politischer Einsicht; er spekulierte darüber,
+  ob Kaiserin Arissa Lavigny-Duval und Präsident Hudson an der Hochzeit teilnehmen
+  oder eingreifen würden, um die Verbindung zu verhindern. Sein Kommentar zur aufgelösten
+  Hochzeit im August 3304 – unter Verweis auf das politische Erdbeben, das sie auslöste
+  – zeigte, dass imperiale Unterhaltungsmedien die öffentliche Wahrnehmung der Großmachtdiplomatie
+  mitgestalten konnten.
 ---
 
 

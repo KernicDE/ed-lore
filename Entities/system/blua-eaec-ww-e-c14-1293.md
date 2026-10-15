@@ -8,6 +8,10 @@ mention_count: 1
 bio: Blua Eaec WW-E c14-1293 is a system in the Colonia region. In August 3312 it
   was selected as one of six locations for new tourist beacons commemorating Colonia's
   tenth anniversary.
+bio_de: Blua Eaec WW-E c14-1293 ist ein System in der Region Colonia. Im August 3312
+  platzierte der Colonia Council dort ein Touristen-Beacon als Teil einer Tour durch
+  sechs Systeme, die an den zehnten Jahrestag der Siedlung erinnert und Besuchern
+  ermöglicht, mehr über die Geschichte der Region zu erfahren.
 ---
 
 <!-- AUTO-GENERATED -->

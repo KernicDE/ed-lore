@@ -12,6 +12,18 @@ bio: Upaniklis Vision Incorporated is the controlling faction of the Upaniklis s
   In 3305 it coordinated the humanitarian response to the discovery of the Golconda
   generation ship, organising medical and material aid deliveries while offering bounty
   vouchers to deter pirates.
+bio_de: Die Upaniklis Vision Incorporated ist die kontrollierende Fraktion des Systems
+  Upaniklis. 3305 koordinierte sie die lokale Reaktion auf eine der bemerkenswertesten
+  Entdeckungen der jüngeren Geschichte – die Golconda, ein bewohntes Generierungsschiff,
+  das nach mehr als einem Jahrtausend Isolation in das System gedriftet war.
+
+  Itsuko Harada von der Upaniklis Vision Incorporated half, medizinische und materielle
+  Hilfe für die Besatzung der Golconda zu organisieren, die an einem Virus namens
+  „der dahinsiechende Kuss" litten. Die Fraktion bot außerdem Kopfgeldgutscheine an,
+  um Piratenaktivitäten während der Hilfsaktion abzuschrecken. Als die Geschichte die
+  Aufmerksamkeit der Großmächte erregte, blieb die Upaniklis Vision Incorporated eine
+  der wenigen Organisationen, denen erlaubt wurde, direkt mit den Vertretern der Golconda
+  zu interagieren.
 ---
 
 # Upaniklis Vision Incorporated

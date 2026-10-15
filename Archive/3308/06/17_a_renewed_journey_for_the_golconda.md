@@ -7,7 +7,12 @@ source: API
 summary: The generation ship Golconda departs Upaniklis with sixty percent of its
   former population resuming their ancestral voyage after Artificers Clan megaship
   upgrades, with Commander Javi Alvarado invited to join the crew.
+summary_de: Das Generierungsschiff Golconda bricht mit sechzig Prozent seiner ehemaligen
+  Bevölkerung von Upaniklis auf und setzt nach Aufrüstungen durch das Artificers Clan
+  seine angestammte Reise fort; Kommandant Javi Alvarado ist eingeladen, der Besatzung
+  beizutreten.
 player_impact: Not specifically mentioned — this is a cultural report.
+player_impact_de: Nicht explizit erwähnt – dies ist ein Kulturbericht.
 persons:
 - Javi Alvarado
 - Jonathon Forester
@@ -23,10 +28,21 @@ modern_impact: The Golconda's departure represented a rare moment of continuity 
   galactic history, where a pre-hyperdrive generation ship was retrofitted for the
   modern era and its people chose exploration over settlement, preserving a unique
   cultural identity.
+modern_impact_de: Der Aufbruch der Golconda markierte einen seltenen Moment der Kontinuität
+  in der galaktischen Geschichte – ein Generierungsschiff aus der Zeit vor dem Hyperantrieb
+  wurde für das moderne Zeitalter umgerüstet, und sein Volk wählte die Erkundung vor
+  der Ansiedlung und bewahrte damit eine einzigartige kulturelle Identität.
 legacy_weight: 3
 significance: medium
 related_uuids:
 - 3526e0a2-8066-57b9-9a91-4acfc80d23e9
+body_de: |
+  Das Generierungsschiff Golconda hat mit einem Großteil seiner ehemaligen Bevölkerung an Bord das System Upaniklis verlassen.
+  Vor drei Jahren verließen die Golcondaner ihr Schiff und siedelten sich im Außenposten Forester's Choice in Upaniklis an. Rund 60 % dieser 70.000 Menschen haben sich nun entschieden, ihren nomadischen Lebensstil an Bord des Schiffs wiederaufzunehmen, das kürzlich vom Artificers Clan mit moderner Megaschiff-Technologie aufgerüstet wurde.
+  Die Föderation hat zugesichert, dass die Golconda unter ihrem Schutz steht und mit Kommunikationssystemen ausgestattet ist, um bei Bedarf Hilfe herbeizurufen. Der Außenposten Forester's Choice bleibt in Betrieb und wird weiterhin Apa Vietti exportieren, eine einzigartige Spirituose.
+  Kurz bevor die Golconda ihren ersten Sprung in den Hyperraum wagte, veröffentlichte Vox Galactica eine Erklärung von Kommandant Javi Alvarado:
+  „Die letzten Wochen waren für mich eine bittersüße Erfahrung, diese Menschen dabei zu beobachten, wie sie sich auf die Rückkehr in ihre alte Heimat vorbereiteten. Ich hatte geplant, weiterhin Handelsflüge zum Außenposten zu unternehmen, aber als Captain Forester mich bat, sie auf ihrer Reise zu begleiten, stimmte ich ohne Zögern zu. Es ist in der Kultur der Golcondaner tief verankert, Außenseitern zu misstrauen, also weiß ich, welch seltene Ehre diese Einladung ist."
+  „Die Golconda kann nun zwischen den Sternen springen statt zu kriechen, und die gesamte Galaxis ist ihr Horizont. Zum ersten Mal in meiner Karriere als Pilot habe ich keine Ahnung, was mein Ziel ist. Aber wenigstens reise ich in Begleitung geborener Entdecker."
 ---
 
 

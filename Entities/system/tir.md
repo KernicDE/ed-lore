@@ -18,6 +18,9 @@ economy: Service
 second_economy: High Tech
 edsm_url: https://www.edsm.net/en/system/id/18298/name/Tir
 inara_url: https://inara.cz/elite/starsystem/?search=Tir
+bio_de: Tir ist ein unabhängiges System in der Region Colonia. Im August 3312 platzierte
+  der Colonia Council dort ein Touristen-Beacon als eines von sechs Systemen, die an
+  den zehnten Jahrestag der Siedlung erinnern.
 ---
 
 

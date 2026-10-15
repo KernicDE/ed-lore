@@ -12,6 +12,11 @@ related_entities:
 bio: Benzaiten is a system in the Colonia region and home to Bisley Landing. It was
   highlighted during the 3312 tenth-anniversary celebrations as a destination for new
   tourist beacons commemorating the settlement's first decade.
+bio_de: Benzaiten ist ein System in der Region Colonia und Heimat der Bisley Landing.
+  Während der Feierlichkeiten zum zehnten Jahrestag im Jahr 3312 wurde es im Rahmen
+  der regionalen Tourismusinitiative hervorgehoben; die angekündigten Touristen-Beacons
+  wurden schließlich in sechs Colonia-Systemen platziert, als die Feierlichkeiten zu
+  Ende gingen.
 ---
 
 <!-- AUTO-GENERATED -->

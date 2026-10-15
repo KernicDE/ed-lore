@@ -18,6 +18,24 @@ bio: 'Alliance Assembly is a government active in Elite Dangerous lore from 3301
   while attemp...; Commodore Morag Halloran reveals that hundreds of naval officers
   from all three superpowers and Sirius have resigned to join Salvation''s anti-xeno
   ...'
+bio_de: Die Allianzversammlung ist das Einkammerparlament der Allianz unabhängiger Systeme,
+  zusammengesetzt aus gewählten Vertretern jedes Mitgliedssystems, die Gesetzgebung
+  debattieren, Verträge ratifizieren und – in Ausnahmefällen – direkte Autorität über
+  die Exekutive ausüben. Anders als die autokratische Regierung des Imperiums oder
+  der von Konzernen beeinflusste Kongress der Föderation arbeitet die Versammlung nach
+  den Prinzipien des Konsenses und der Verhältnisrepräsentation; der Premierminister
+  ist primus inter pares und kein oberster Exekutivbeamter.
+
+  Die dramatischsten Eingriffe der Versammlung erfolgten während verfassungsrechtlicher
+  Krisen. 3305 wurde Präsident Gibson Kincaid wegen Hochverrats, Mordes und Korruption
+  von ihr angeklagt und des Amtes enthoben; anschließend wurde das Präsidentenamt ganz
+  abgeschafft, um künftige Machtkonzentration zu verhindern. Der beratende Ansatz der
+  Versammlung kann diejenigen frustrieren, die schnelles, entschlossenes Handeln suchen
+  – besonders während des Thargoid-Kriegs, als die militärische Koordination mit der
+  Sirius Corporation langwierige Ratifizierungsdebatten erforderte. Doch genau diese
+  Vorsicht verkörpert das Kernversprechen der Allianz – dass kein einzelner Führer,
+  wie charismatisch oder ehrgeizig er auch sein mag, den kollektiven Willen der Mitgliedssysteme
+  überstimmen kann.
 ---
 
 

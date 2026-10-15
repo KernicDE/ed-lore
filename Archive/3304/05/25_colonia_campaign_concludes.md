@@ -8,8 +8,14 @@ summary: The campaign to supply a scientific project in Colonia has concluded. H
   of independent pilots delivered microresources to the Colonia Co-operative in the
   Coeus system. Professor Alexei de la Vega stated the materials will establish a
   framework for how the region can expand.
+summary_de: Die Kampagne zur Versorgung eines wissenschaftlichen Projekts in Colonia
+  ist abgeschlossen. Hunderte unabhängiger Piloten lieferten Mikroressourcen an die
+  Colonia Co-operative im Coeus-System. Professor Alexei de la Vega erklärte, das Material
+  ermögliche die Erarbeitung eines Rahmens dafür, wie die Region wachsen könne.
 player_impact: Pilots who contributed can collect rewards from Foster Terminal in
   the Coeus system.
+player_impact_de: Piloten, die beigetragen haben, können ihre Belohnungen bei der Foster
+  Terminal im Coeus-System abholen.
 persons:
 - Alexei de la Vega
 groups:
@@ -23,12 +29,22 @@ topics:
 arc_id: jaques-station
 modern_impact: Colonia continues to grow as a deep-space settlement, with scientific
   projects charting a roadmap for regional expansion.
+modern_impact_de: Colonia wächst weiterhin als Tiefraumsiedlung, wobei wissenschaftliche
+  Projekte einen Fahrplan für den regionalen Ausbau erarbeiten.
 legacy_weight: 3
 significance: medium
 related_uuids:
 - 6d7b4a6d-b8f7-5795-9485-3ced941ec158
 - fe2ef902-f105-5e82-bf79-83ee66c58228
 - 37a69743-987e-5990-848f-308a9738a453
+body_de: |
+  Die Kampagne zur Versorgung eines wissenschaftlichen Projekts in Colonia ist nun abgeschlossen. Hunderte unabhängiger Piloten unternahmen die Reise, um Mikroressourcen an die Colonia Co-operative im Coeus-System zu liefern.
+
+  Professor Alexei de la Vega, Leiter des Forschungsprojekts, gab diese Erklärung ab:
+
+  „Dieses wichtige Material ermöglicht es uns, einen Rahmen dafür zu erarbeiten, wie die Region wachsen kann. Ich danke allen, die dabei geholfen haben, einen Fahrplan für die Zukunft Colonias zu erarbeiten."
+
+  Piloten, die zum Projekt beigetragen haben, können nun ihre Belohnungen bei der Foster Terminal im Coeus-System abholen.
 ---
 
 

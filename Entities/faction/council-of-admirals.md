@@ -18,6 +18,24 @@ bio: 'Council of Admirals is a government active in Elite Dangerous lore from 33
   of Reparation, lin...; Commodore Morag Halloran reveals that hundreds of naval officers
   from all three superpowers and Sirius have resigned to join Salvation''s anti-xeno
   ...'
+bio_de: Der Marineausschuss ist die oberste militärische Autorität der Allianz unabhängiger
+  Systeme und verantwortlich für die Koordination der Allianz-Verteidigungsflotte sowie
+  die Festlegung der strategischen Verteidigungspolitik in den Mitgliedssystemen. Er
+  setzt sich aus hochrangigen Admirälen der mächtigsten Flotten der Allianz zusammen
+  und repräsentiert die eigentliche Militärmacht hinter der zivilen Regierung der Allianzversammlung
+  – eine Befugnisteilung, die gelegentlich Spannungen zwischen militärischer und politischer
+  Führung erzeugte.
+
+  Die Geschichte des Ausschusses im 34. Jahrhundert war geprägt von Krisen und Reformen.
+  3304 wurde Admiral Frederick Yamamoto berufen, um die Vakanz zu besetzen, die durch
+  die Enttarnung von Rear Admiral Riri McAllister als terroristische Koordinatorin „Nexus"
+  entstanden war. Yamamoto wurde später entehrt und für Verbrechen verhaftet, die er
+  im Auftrag von Präsident Gibson Kincaid begangen hatte, was zu seiner Ablösung durch
+  Admiral Tahir West von der Tionisla-Flotte führte. Der Ausschuss äußerte während der
+  feindlichen Übernahme von Lakon Spaceways durch Core Dynamics 3307 erhebliche Bedenken
+  und warnte, dass ausländischer Besitz eines Schlüsselrüstungsunternehmens die Sicherheit
+  der Allianz gefährden würde – Bedenken, die letztlich die Rettungsaktion der Versammlung
+  für den Schiffsbauer mitbegründeten.
 ---
 
 

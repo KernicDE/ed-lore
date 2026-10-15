@@ -8,6 +8,11 @@ mention_count: 4
 bio: Giselle Kingspear is a scientist and Colonia Council member associated with the
   Colonia Research Division. In July 3312 she highlighted the eight Engineers established
   throughout the Colonia Region during the tenth-anniversary celebrations.
+bio_de: Giselle Kingspear ist Wissenschaftlerin und Mitglied des Colonia Council mit
+  Bezug zur Colonia Research Division. Im Juli 3312 wies sie während der Feierlichkeiten
+  zum zehnten Jahrestag auf die acht in der gesamten Region Colonia ansässigen Ingenieure
+  hin und betonte, dass die technische Expertise der Region bereit sei, unabhängige
+  Piloten zu unterstützen.
 ---
 
 
