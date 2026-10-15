@@ -17,6 +17,19 @@ bio: 'Interstellar Health Organisation is a organization active in Elite Dangero
   in the Upaniklis system.; Weekly summary covering Juanita Bishop''s call to ban
   the Far God book, new asteroid-mining equipment from the Industrial Mining Guild,
   Princess Ais...'
+bio_de: Die Interstellar Health Organisation ist eine offizielle zwischenstaatliche Einrichtung,
+  die Entwicklungen in Medizin- und Pharmawissenschaft in der gesamten Galaxis reguliert.
+  Sie beaufsichtigte die Fusion von Allied Medical Industries und Neosalve Inc. zur Neomedical
+  Industries im Jahr 3304 und stellte sicher, dass dem neu gegründeten Megakonzern strenge
+  Gesundheitsprotokolle auferlegt wurden.
+
+  Die IHO erließ mehrere einflussreiche und umstrittene Entscheidungen. 3305 genehmigte
+  sie die Kommerzialisierung von Nanomedizinen der Vitadyne Labs, die ursprünglich von
+  Utopia entwickelt worden waren, mit dem Urteil, dass rechtmäßige Bergung Geistigeigentumsrechte
+  begründe. 3307 analysierte sie die Onionhead-Gamma-Variante und bestätigte ihre medizinischen
+  Eigenschaften bei psychischen und muskuloskelettalen Beschwerden – ein direkter Widerspruch
+  zur Position der Vandermeer Corporation, alle Onionhead-Varianten seien gefährliche
+  Betäubungsmittel.
 ---
 
 

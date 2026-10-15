@@ -10,6 +10,16 @@ related_entities:
 - independent-detention-foundation
 - eve-597
 - sword-of-iustitia
+bio_de: Der Clan of Redonesses ist eine gesetzlose kriminelle Fraktion, die das System
+  Redonesses fest kontrolliert. Im September 3312 wurde das vermisste Gefängnisschiff
+  EVE-597 der Independent Detention Foundation treibend und beschädigt auf dem Territorium
+  des Clans entdeckt, was Fragen nach einer möglichen Verwicklung des Clans in die Ankunft
+  des Schiffs aufwarf. Im Oktober 3312 half der Clan ausgebrochenen Häftlingen der EVE-597
+  aktiv, der Wiederfestnahme zu entgehen; man ging davon aus, dass die das Schiff kontrollierenden
+  Häftlinge Redonesses gezielt gewählt hatten, weil die herrschende Fraktion ihrer Sache
+  nahestand. Als nach der Niederschlagung des Ausbruchs drei Hochsicherheitshäftlinge
+  weiterhin vermisst wurden, blieben die Versuche der Systembehörden, dem Clan Informationen
+  zum Aufenthaltsort der Flüchtigen zu entlocken, erfolglos.
 ---
 
 <!-- AUTO-GENERATED -->

@@ -16,6 +16,17 @@ bio: Yaz Murano is a high-ranking pirate leader convicted of complex, repeated l
   ship capable of holding them. They escaped recapture following the mass breakout in
   Redonesses in October 3312 and remain at large; Wallglass Investigations has warned
   that they are armed and exceptionally dangerous.
+bio_de: Yaz Murano ist eine ranghohe Führungsfigur der Piraten und wurde wegen komplexer,
+  wiederholter, groß angelegter krimineller Aktivitäten verurteilt. Inhaftiert auf dem
+  Reformatory-Schiff EVE-597 – dem einzigen Schiff, das Murano sicher halten konnte –
+  gehörte Murano zu den Hochsicherheitshäftlingen, die bei dem im Oktober 3312 im System
+  Redonesses inszenierten Massenausbruch freikamen.
+
+  Die Independent Detention Foundation kam zu dem Schluss, dass der Häftlingsaufstand
+  eine Ablenkung für die geplante Befreiung Muranos und zweier Mitstreiter, Gunther
+  Bernhardt und Trey Coombes, war. Wallglass Investigations veröffentlichte Muranos Namen
+  und warnte Piloten, sich nicht zu nähern; sie beschrieb Murano als bewaffnet und außergewöhnlich
+  gefährlich. Muranos Aufenthaltsort ist weiterhin unbekannt.
 ---
 
 <!-- AUTO-GENERATED -->

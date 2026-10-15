@@ -18,6 +18,35 @@ bio: 'Vox Galactica is a organization active in Elite Dangerous lore from 3304-0
   years through the ga...; Independent pilots report receiving anonymous instructions
   from a figure calling himself "Salvation," who provides a decryption key for the
   Adamast...'
+bio_de: Vox Galactica ist eine unabhängige Nachrichtenagentur, die sich als eine der
+  zuverlässigsten Quellen der Galaxis für investigativen Journalismus zu wissenschaftlichen,
+  humanitären und unternehmerischen Themen etabliert hat. Anders als von den Supermächten
+  kontrollierte Medien wie die Federal Times oder der Imperial Citizen arbeitet Vox Galactica
+  ohne direkte staatliche Trägerschaft – ihre redaktionelle Unabhängigkeit hat sie allerdings
+  nicht vor Unternehmensdruck geschützt, insbesondere bei Berichten über Core Dynamics
+  und andere Großkonzerne.
+
+  Bekannt wurde die Agentur durch ihre Berichterstattung über große Expeditionen wie
+  Distant Worlds, die Far-God-Kult-Überlebende Kiona O'Connor und die Vitadyne-Nanomedizin-Kontroverse.
+  Im Juli 3312 berichtete sie über die Partnerschaft von Vista Genomics und Faulcon DeLacy
+  zur Erkundung des Sanguineous Rim mit dem neuen Erkundungsschiff Nomad, verbreitete
+  Lexi Octobers Erklärung zur überraschenden Freilassung der festgehaltenen Xenobiologin
+  Terri Tora, begleitete die öffentliche Unterstützung der Kernsystem-Megakonzerne für
+  die zehnten Jahrestagsfeiern von Colonia und verfolgte die Colonia-Versorgungsinitiative
+  von ihrem Start in Facece bis zu ihrem Teilerfolg. Zu Beginn des Festivals meldete die
+  Agentur, dass neue Touristen-Beacons das erste Jahrzehnt von Colonia würdigen würden.
+  Später berichtete Vox Galactica über den Abschluss der Feierlichkeiten, darunter den
+  Ausbau der Jaques Station zu einem Megamarkt und die Platzierung von sechs Gedenk-Beacons,
+  sowie über Wreaken Mining-Forschung zur effizienteren planetaren Laser-Oberflächenförderung.
+  Im September 3312 brachte die Agentur die Darstellung der Independent Detention Foundation
+  zu ungewöhnlichem, piratennahem Verkehr in der Nähe ihrer Gefängnis-Reformatory-Schiffe.
+  Tage nachdem das Riker-class-Reformatory-Schiff EVE-597 der Foundation mitten auf der
+  Strecke verschwunden war, meldete Vox Galactica das treibende und beschädigte Schiff
+  im System Redonesses sowie die Bestätigung einer „Störung" an Bord durch die Foundation.
+  Die Agentur interviewte später Brewer-Corporation-CEO Madelyn Teague über die „Jump-Satellite"-Technologie
+  des Unternehmens für Flottenträger und brachte die Erklärung des Wallglass-Ermittlers
+  Erik Gunnarson, dass der Häftlingsausbruch auf der EVE-597 mit Unterstützung aus dem
+  Inneren des Schiffs koordiniert wurde.
 ---
 
 

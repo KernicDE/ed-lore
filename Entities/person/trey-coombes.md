@@ -16,6 +16,17 @@ bio: Trey Coombes is a high-ranking pirate leader convicted of complex, repeated
   ship capable of holding him. He escaped recapture following the mass breakout in
   Redonesses in October 3312 and remains at large; Wallglass Investigations has warned
   that he is armed and exceptionally dangerous.
+bio_de: Trey Coombes ist ein ranghoher Piratenführer, der wegen komplexer, wiederholter,
+  groß angelegter krimineller Aktivitäten verurteilt wurde. Inhaftiert auf dem Reformatory-Schiff
+  EVE-597 – dem einzigen Schiff, das ihn sicher halten konnte – gehörte Coombes zu den
+  Hochsicherheitshäftlingen, die bei dem im Oktober 3312 im System Redonesses inszenierten
+  Massenausbruch freikamen.
+
+  Die Independent Detention Foundation kam zu dem Schluss, dass der Häftlingsaufstand
+  eine Ablenkung für die geplante Befreiung Coombes' und zweier Mitstreiter, Gunther
+  Bernhardt und Yaz Murano, war. Wallglass Investigations veröffentlichte seinen Namen
+  und warnte Piloten, sich ihm nicht zu nähern; sie beschrieb ihn als bewaffnet und außergewöhnlich
+  gefährlich. Sein Aufenthaltsort ist weiterhin unbekannt.
 ---
 
 <!-- AUTO-GENERATED -->

@@ -17,6 +17,29 @@ related_entities:
 - sword-of-iustitia
 - wallglass-investigations-agency
 - erik-gunnarson
+bio_de: Die Independent Detention Foundation betreibt eine Flotte von Gefängnis-Reformatory-Schiffen,
+  darunter das Riker-class-Reformatory-Schiff EVE-597, und transportiert Häftlinge
+  auf Vertragsbasis zwischen unabhängigen Systemen. Im September 3312 meldete die Foundation
+  ungewöhnlich starken Verkehr bekannter piratennaher Piloten, die sich während Häftlingsüberstellungen
+  in der Nähe ihrer Reformatory-Schiffe aufhielten, ohne direkt anzugreifen.
+
+  Tage später bestätigte die Foundation, dass die EVE-597 nach dem Sprung von Nones
+  nicht in Gliese 506.2 eingetroffen war, einem von vier bestätigten Wegpunkten ihres
+  Transitvertrags neben Evenses und Chematja. Am 22.09.3312 wurde das Schiff treibend
+  und beschädigt im vom gesetzlosen Clan of Redonesses kontrollierten System Redonesses
+  aufgefunden; die Foundation bestätigte eine „Störung" an Bord während des Transitzeitraums.
+
+  Im Oktober 3312 wurde ein Massenausbruch an Bord der EVE-597 mit Hilfe unabhängiger
+  Piloten unter Einsatz der Sword of Iustitia niedergeschlagen; das Schiff kehrte unter
+  die Kontrolle der Foundation zurück, und fast alle Ausgebrochenen wurden zurückgeholt.
+  Die Foundation beauftragte die Wallglass Investigations Agency, zu klären, wie der
+  Ausbruch von Bord aus koordiniert wurde.
+
+  Am 13.10.3312 bestätigte die Foundation, dass drei Hochsicherheitshäftlinge – die
+  ranghohen Piratenführer Gunther Bernhardt, Yaz Murano und Trey Coombes – der Wiederfestnahme
+  entkommen waren, und vermutete, dass der Aufstand eine Ablenkung für ihre geplante
+  Befreiung war. Ihr Aufenthaltsort bleibt unklar, und Versuche, dem Clan of Redonesses
+  Informationen zu entlocken, blieben erfolglos.
 ---
 
 <!-- AUTO-GENERATED -->

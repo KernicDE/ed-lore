@@ -18,6 +18,25 @@ bio: The Pilots Federation is a politically neutral organisation founded in 2805
   controls only a handful of systems, notably Shinrarta Dezhra for Elite pilots. Its
   Rescue Rangers provide free ship recovery, while the ALERT system coordinates community
   responses to crises.
+bio_de: Die Pilots Federation wurde 2805 gegründet, um Piloten den Austausch von Handelsrouteninformationen
+  und gegenseitigen Schutz vor Piraterie zu ermöglichen. Ihr strenger Verhaltenskodex
+  verwandelte unabhängige Piloten von weithin misstrauten Außenseitern in respektierte
+  Profis.
+
+  Die wichtigste Einnahmequelle der Organisation ist das GalNet-Datennetzwerk, das sich
+  von einer einfachen Datenbank zum dominanten interstellaren Aggregator für Marktinformationen
+  und galaktische Nachrichten entwickelte. Bis 3300 waren Pilots-Federation-Systeme auf
+  nahezu allen unabhängigen Raumschiffen serienmäßig installiert.
+
+  Das Rangsystem ist der universelle Maßstab für Pilotenfähigkeit und reicht von Harmless
+  bis Elite über sechs Karrierefelder. Elite-Piloten erhalten Permits für Shinrarta Dezhra,
+  Heimat der Jameson Memorial Station. Trotz enormen Reichtums und Einflusses wahrt die
+  Federation strikte politische Neutralität; ihre Mitglieder dienen häufig als Auftragnehmer
+  aller drei Supermächte. Ihre Rescue Rangers und das ALERT-System koordinieren Reaktionen
+  auf Krisen von Thargoid-Angriffen bis zu humanitären Notlagen. Im Juli 3312 ermutigte
+  die Federation ihre Mitglieder formell, die zehnten Jahrestagsfeiern von Colonia zu
+  unterstützen, indem sie in die Region reisen und bei der Verteilung von Waren und seltenen
+  Gütern helfen.
 ---
 
 

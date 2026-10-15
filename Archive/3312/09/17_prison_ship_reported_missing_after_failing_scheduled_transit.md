@@ -8,13 +8,34 @@ summary: The Independent Detention Foundation confirmed that the Riker-class Ref
   EVE-597 failed to arrive at Gliese 506.2 after jumping from Nones, with no debris
   detected along its four-system prisoner transit route. The Foundation is treating the
   disappearance as concerning but maintains there is no cause for alarm.
+summary_de: Die Independent Detention Foundation bestätigte, dass das Riker-class-Reformatory-Schiff
+  EVE-597 nach dem Sprung von Nones nicht in Gliese 506.2 eingetroffen ist; entlang
+  seiner vier Systeme umfassenden Häftlingstransitstrecke wurden keine Trümmer entdeckt.
+  Die Foundation hält das Verschwinden für besorgniserregend, sieht aber keinen Grund
+  zur Alarm.
 player_impact: No bounty or search directive has been issued. Independent pilots travelling
   the Nones, Gliese 506.2, Evenses or Chematja corridor may wish to report any sighting
   of the Riker-class Reformatory EVE-597 to the Independent Detention Foundation.
+player_impact_de: Es wurden weder Kopfgelder noch Suchanweisungen erlassen. Unabhängige
+  Piloten, die den Korridor Nones, Gliese 506.2, Evenses oder Chematja durchqueren,
+  können mögliche Sichtungen des Riker-class-Reformatory-Schiffs EVE-597 der Independent
+  Detention Foundation melden.
 modern_impact: A long-serving, fully-crewed prison transport vanishing without a confirmed
   mis-jump or debris trail leaves the Foundation's reassurances largely unverified, and
   the disappearance follows closely on reports of unusual pirate-affiliated activity
   shadowing prisoner transfers in the same period.
+modern_impact_de: Ein seit Langem im Dienst stehender, vollbesetzter Gefangenentransport,
+  der ohne bestätigten Fehlsprung oder Trümmerfeld verschwindet, lässt die Beschwichtigungen
+  der Foundation weitgehend unbestätigt – und das Verschwinden folgt unmittelbar auf
+  Berichte ungewöhnlicher, piratennaher Aktivitäten, die in der gleichen Zeit Gefangenentransporte
+  beschatteten.
+body_de: |
+  Die Independent Detention Foundation bestätigte gestern, dass das Riker-class-Reformatory-Schiff EVE-597 nach dem geplanten Sprung nicht gemeldet hat.
+  Das Gefängnisschiff sprang erfolgreich aus dem System Nones ab, ist jedoch nicht in Gliese 506.2 eingetroffen. Die Systembehörden bestätigen, dass keine Trümmer entdeckt wurden.
+  Die Organisation teilte mit, dass das Schiff EVE-597 seit mehreren Jahren ununterbrochen im Dienst ist und einen Häftlingstransportvertrag über vier bestätigte Wegpunkte im unabhängigen Raum umfasst: Nones, Gliese 506.2, Evenses und Chematja.
+  Die Behörden aller vier Systeme bestätigten, dass das Schiff seit der Meldung nicht identifiziert wurde.
+  Ein Sprecher der Foundation erklärte, man halte das Verschwinden für „besorgniserregend", versicherte jedoch, dass niemand Anlass zur Sorge haben müsse, sollte er das Schiff auf seinen Reisen ausfindig machen.
+  „EVE-597 hat eine gute Bilanz und eine gute Besatzung", sagte der Sprecher. „Katastrophale Fehlsprünge sind äußerst selten. Wir sind zuversichtlich, dass alles unter Kontrolle sein wird."
 topics:
 - crime
 - security

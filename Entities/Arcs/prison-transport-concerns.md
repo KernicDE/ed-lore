@@ -15,6 +15,12 @@ description: Pirate-affiliated activity near independent prison reformatories du
   Reformatory EVE-597 between waypoints. Found drifting and damaged in lawless
   Redonesses, the ship suffers a coordinated mass breakout — a smokescreen for
   extracting three maximum security prisoners who remain at large.
+description_de: Piratennahe Aktivitäten in der Umgebung unabhängiger Gefängnis-Reformatory-Schiffe
+  während Häftlingsüberstellungen gipfeln im ungeklärten Verschwinden des Riker-class-Reformatory-Schiffs
+  EVE-597 zwischen zwei Wegpunkten. Treibend und beschädigt im gesetzlosen Redonesses
+  aufgefunden, erlebt das Schiff einen koordinierten Massenausbruch – eine Ablenkungstaktik
+  zur Befreiung von drei Hochsicherheitshäftlingen, die sich weiterhin auf freiem Fuß
+  befinden.
 phases:
 - 'Phase 1: Rising Tensions (3312-09-14)'
 - 'Phase 2: The Disappearance (3312-09-17)'
@@ -29,6 +35,14 @@ summary: Governing authorities report known pirate affiliates loitering near pri
   help subdue the escape effort and the ship is recovered, but three maximum security
   prisoners — high-ranking pirate leaders — remain at large, suggesting the uprising
   was a smokescreen for their extraction.
+summary_de: Die Behörden mehrerer Systeme melden bekannte Piraten-Kollaborateure, die
+  während Häftlingsüberstellungen in der Nähe von Gefängnis-Reformatory-Schiffen
+  herumlungern, ohne anzugreifen. Das Gefängnisschiff EVE-597 verschwindet mitten auf
+  der Strecke, taucht beschädigt im System Redonesses wieder auf und erlebt einen
+  Massenausbruch, unterstützt vom sympathisierenden Clan of Redonesses. Unabhängige
+  Piloten helfen bei der Niederschlagung des Ausbruchs, und das Schiff wird zurückerobert,
+  doch drei Hochsicherheitshäftlinge – ranghohe Piratenführer – bleiben auf freiem Fuß,
+  was darauf hindeutet, dass der Aufstand eine Ablenkung für ihre geplante Befreiung war.
 status: Ongoing
 outcome: EVE-597 is back under Foundation control and nearly all escapees are back in
   custody, but three maximum security prisoners evaded recapture and remain at large.
@@ -36,6 +50,13 @@ outcome: EVE-597 is back under Foundation control and nearly all escapees are ba
   support from inside the ship, is pursuing whether the megaship's security data was
   disclosed to a third party, and has named the fugitives — Gunther Bernhardt, Yaz
   Murano, and Trey Coombes — warning that they are armed and exceptionally dangerous.
+outcome_de: EVE-597 ist wieder unter der Kontrolle der Foundation, und fast alle Ausgebrochenen
+  befinden sich wieder in Haft, doch drei Hochsicherheitshäftlinge konnten der Rückführung
+  entgehen und sind weiterhin auf freiem Fuß. Die Wallglass Investigations Agency stellte
+  fest, dass der Ausbruch mit Unterstützung aus dem Inneren des Schiffs koordiniert wurde,
+  prüft, ob die Sicherheitsdaten des Megaships an eine dritte Partei weitergegeben wurden,
+  und nannte die Namen der Flüchtigen – Gunther Bernhardt, Yaz Murano und Trey Coombes –
+  mit der Warnung, dass sie bewaffnet und außergewöhnlich gefährlich seien.
 significance: low
 ---
 

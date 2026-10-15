@@ -10,6 +10,9 @@ related_entities:
 - nones
 - gliese-5062
 - chematja
+bio_de: Evenses ist ein System im unabhängigen Raum und einer von vier bestätigten Wegpunkten
+  der Häftlingstransitstrecke der Independent Detention Foundation neben Nones, Gliese
+  506.2 und Chematja.
 ---
 
 <!-- AUTO-GENERATED -->

@@ -20,6 +20,19 @@ bio: Core Dynamics is one of the Federation's largest shipbuilding corporations,
   his corporatist Jupiter Division broke away before being defeated by Federal forces.
   Under new CEO Owen McKenna, Core Dynamics returned to its military manufacturing
   roots with the 3312 Kestrel rollout and the Vodel-Wreaken Rhino mining SRV.
+bio_de: Core Dynamics ist eines der größten Schiffbauunternehmen der Föderation und produziert
+  kampforientierte Schiffe, darunter die Baureihen Eagle, Vulture und Federal Assault
+  Ship. Lange Zeit wichtiger Lieferant der Federal Navy, expandierte das Unternehmen
+  durch Zukäufe. 3305 erwarb es Vodel und versuchte 3306 eine umstrittene feindliche
+  Übernahme von Lakon Spaceways, die die Alliance alarmierte.
+
+  Das Unternehmen geriet in eine Krise, als CEO Jupiter Rochester 3307 wegen Massenmordes
+  schuldig gesprochen und zu lebenslanger Haft verurteilt wurde; daraus entstand die
+  abtrünnige Jupiter Division, die mehrere Systeme besetzte, bevor sie von föderalen
+  Streitkräften besiegt wurde. Unter CEO Owen McKenna stellte Core Dynamics ihre Position
+  als führender Militärlieferant der Föderation wieder her, brachte 3312 den Jäger Kestrel
+  auf den Markt und über die Tochterfirma Vodel den Bergbau-SRV Rhino aus einem Joint
+  Venture mit Wreaken Mining.
 ---
 
 

@@ -17,6 +17,22 @@ bio: 'Far God cult is a religious active in Elite Dangerous lore from 3304-07-12
   on the Far God cult.; Weekly summary covering Admiral Varma''s arrest, the Church
   of Eternal Void declaring war on the Far God cult, Aisling Duval''s wedding date
   announce...'
+bio_de: Der Order of the Far God ist eine apokalyptische Kultbewegung, die die Thargoids
+  als göttliche Boten einer apokalyptischen Reinigung verehrt. Der 3304 entstandene Kult
+  lehrt, dass der „Ferne Gott" – eine Thargoid-Entität – letztlich alles Leben in der
+  Galaxis verschlingen werde und die Menschheit nur durch die Annahme dieses Schicksals
+  Erlösung finden könne. Seine Anhänger bauen Megaship-Innenräume häufig zu absichtlich
+  verwirrenden, stockwerkartigen Umgebungen mit Geheimfächern und Fallen um, um Außenseiter
+  abzuwehren.
+
+  Der Kult zog die Aufmerksamkeit der Federal Intelligence Agency auf sich, nachdem
+  Hunderte Anhänger an Bord verlassener Außenposten in kryogene Stasis gegangen waren,
+  um die Ankunft des Fernen Gottes zu erwarten. Wie die Überlebende Kiona O'Connor enthüllte,
+  waren viele Rekruten verletzliche Menschen auf der Suche nach Zuflucht statt echte
+  Gläubige. Die berüchtigtste Verbindung des Kults führte über Theta Seven, einen Bombenbauer
+  der NMLA und ehemaliges Mitglied, sowie die anhaltende Fixierung auf Seo Jin-ae, die
+  die Anhänger wegen ihrer neuronalen Verbindung zum Thargoid-Schwarmbewusstsein als
+  „die Präzeptorin" verehren.
 ---
 
 

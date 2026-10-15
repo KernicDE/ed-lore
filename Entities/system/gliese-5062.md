@@ -10,6 +10,10 @@ related_entities:
 - nones
 - evenses
 - chematja
+bio_de: Gliese 506.2 ist ein System im unabhängigen Raum und ein geplanter Wegpunkt der
+  Häftlingstransitstrecke der Independent Detention Foundation. Im September 3312 traf
+  das Riker-class-Reformatory-Schiff EVE-597 nach dem Sprung von Nones nicht dort ein;
+  seitdem fehlt jede Spur des Schiffs.
 ---
 
 <!-- AUTO-GENERATED -->

@@ -17,6 +17,24 @@ bio: The Federal Intelligence Agency (FIA) is the Federation's primary internal 
   controversial mass arrest of Far God cult members (3304), and the hunt for the Children
   of Tothos after the theft of the Lucifer Device nuclear warhead (3305). Senior agents
   include Tanya Ramirez, Micah Whitefield, and Rochelle Karim.
+bio_de: Die Federal Intelligence Agency (FIA) ist der wichtigste inländische Geheimdienst
+  und Sicherheitsdienst der Föderation. Obwohl weniger sichtbar als die Federal Navy,
+  spielte sie in mehreren großen Krisen der 3300er eine zentrale Rolle.
+
+  Im Jahr 3304 beteiligte sich die FIA an einer Drei-Supermächte-Sondergruppe mit dem
+  IISS und der Alliance Interpol zur Zerschlagung der League of Reparation – einer Terrorgruppe,
+  die Nachfahren von INRA-Personal ermordete. Senior Agent Tanya Ramirez half aufzudecken,
+  dass Rear Admiral Riri McAllister die Drahtzieherin „Nexus" war. Später im selben Jahr
+  leitete Agent Micah Whitefield eine umstrittene Razzia gegen den Far-God-Kult und verhaftete
+  Hunderte Anhänger sowie den Exotheologen Dr. Alfred Ulyanov. Alle Häftlinge wurden
+  schließlich freigelassen, als keine Beweise für Thargoid-Kommunikation gefunden wurden.
+
+  Im Jahr 3305 ermittelte Agent Rochelle Karim zum Diebstahl der Lucifer Device – eines
+  300-Megatonnen-Fusionssprengkopfs – durch den Kult der Children of Tothos. Die Krise
+  eskalierte, als der Kult das Archambault Terminal mit Millionen Zivilisten an Bord besetzte
+  und die FIA zu heiklen Verhandlungen zwang. Die Behörde zeigte sowohl kooperative Instinkte
+  als auch umstrittene Übergriffe, darunter Operationen in ausländischen Rechtsräumen
+  ohne Genehmigung.
 ---
 
 

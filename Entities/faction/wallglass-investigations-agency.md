@@ -17,6 +17,23 @@ bio: 'Wallglass Investigations Agency is a organization active in Elite Dangerou
   Assembly on charges of treason, murder and corruption, and is detained while attemp...;
   Francesca Wolfe details the discovery of the Hesperus alongside the Scriveners Clan
   dredger in the Perseus Dark Region.'
+bio_de: Die Wallglass Investigations Agency ist eine führende private Ermittlungs- und
+  Unternehmensnachrichtenagentur mit Sitz in der Allianz, bekannt für akribische forensische
+  Analysen und politisch furchtloses Recherchieren. Galaktische Bekanntheit erlangte die
+  Agentur durch ihre Untersuchung der Verschwörung von Präsident Gibson Kincaid, deren
+  detaillierter Bericht gemeinsam mit dem Zeugnis von Admiral Frederick Yamamoto die
+  Beweisgrundlage für Kincaids Amtsenthebung und Prozess lieferte.
+
+  Unter der leitenden Ermittlerin Francesca Wolfe bearbeitete Wallglass Fälle von politischer
+  Korruption bis zu Tiefraummysterien, darunter die Entdeckung des Geisterschiffs Hesperus
+  neben dem Dredger des Scriveners-Clan in der Perseus Dark Region. Im Oktober 3312 wurde
+  die Agentur beauftragt, den Massenausbruch an Bord des Reformatory-Schiffs EVE-597 der
+  Independent Detention Foundation zu untersuchen; Ermittler Erik Gunnarson erklärte,
+  dass die Flucht mit Unterstützung aus dem Inneren des Schiffs koordiniert wurde und
+  die Weitergabe der Sicherheitsdaten an eine dritte Partei vor dem Vorfall ein aktuell
+  geprüfter Ansatz sei. Am 13.10.3312 veröffentlichte die Agentur die Namen der drei der
+  Wiederfestnahme entkommenen Flüchtigen – Gunther Bernhardt, Yaz Murano und Trey Coombes –
+  und warnte Piloten, dass sie bewaffnet und außergewöhnlich gefährlich seien.
 ---
 
 

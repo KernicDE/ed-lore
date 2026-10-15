@@ -10,13 +10,34 @@ summary: A mass breakout attempt aboard the prison ship EVE-597 saw a large numb
   prisoners controlling the vessel deliberately chose Redonesses because its controlling
   faction is sympathetic to their cause, and has called on independent pilots to subdue
   criminal pilots interfering with convict recovery.
+summary_de: Bei einem Massenausbruch an Bord des Gefängnisschiffs EVE-597 floh eine
+  große Anzahl Häftlinge in Escape Pods vom Reformatory-Schiff; der Clan of Redonesses
+  half ihnen aktiv, der Wiederfestnahme zu entgehen. Die Independent Detention Foundation
+  geht davon aus, dass die das Schiff kontrollierenden Häftlinge Redonesses gezielt
+  wählten, weil die dort herrschende Fraktion ihrer Sache nahesteht, und rief unabhängige
+  Piloten dazu auf, kriminelle Piloten zu unterdrücken, die die Rückführung der Häftlinge
+  behindern.
 player_impact: The Foundation requests combat-capable pilots to register at the Sword
   of Iustitia and hand in bonds for subduing criminal pilots who are preventing the
   recapture of escaped convicts in the Redonesses system.
+player_impact_de: Die Foundation bittet kampffähige Piloten, sich an der Sword of Iustitia
+  zu registrieren und Bonds für die Unterdrückung krimineller Piloten abzuliefern, die
+  die Wiederfestnahme ausgebrochener Häftlinge im System Redonesses verhindern.
 modern_impact: The breakout reframes EVE-597's disappearance and reappearance as a
   prisoner takeover rather than a straightforward ambush, and exposes sympathy between
   the Clan of Redonesses and escaped convicts. The Foundation's preference to recover
   prisoners alive signals a live enforcement campaign with bounty opportunities.
+modern_impact_de: Der Ausbruch deutet das Verschwinden und Wiederauftauchen der EVE-597
+  neu – nicht als einfachen Hinterhalt, sondern als Übernahme durch die Häftlinge –
+  und legt die Sympathien zwischen dem Clan of Redonesses und den ausgebrochenen Häftlingen
+  offen. Der Wunsch der Foundation, die Häftlinge lebend zurückzuholen, deutet auf eine
+  laufende Einsatzkampagne mit Kopfgeldgelegenheiten hin.
+body_de: |
+  Die Independent Detention Foundation gab zu, dass an Bord des Gefängnisschiffs EVE-597 ein erheblicher Ausbruchsversuch stattgefunden hat.
+  Während des Ausbruchs verließ eine große Anzahl Häftlinge das Riker-class-Reformatory-Schiff über Escape Pods. Journalisten in Redonesses berichteten, dass die kriminelle Fraktion Clan of Redonesses versucht, den Häftlingen zu helfen, der Wiederfestnahme zu entgehen. Man geht davon aus, dass die die EVE-597 kontrollierenden Häftlinge das System gezielt wählten, weil die herrschende Fraktion ihrer Sache nahesteht.
+  Die Foundation rief unabhängige Piloten dazu auf, im System kriminelle Piloten zu unterdrücken, während Sicherheitskräfte die ausgebrochenen Häftlinge aufspüren.
+  „Diese Häftlinge sind unsere Verantwortung", sagte ein Sprecher der Foundation. „Wir würden sie lieber lebend zurückholen, und es ist für alle sicherer, wenn die kriminellen Piloten, die die Rückführung der Häftlinge verhindern wollen, ausgeschaltet werden."
+  Piloten, die bereit sind, Kampfeinsätze zu übernehmen, sollten sich an der Sword of Iustitia registrieren, bevor sie Bonds abliefern.
 topics:
 - crime
 - security

@@ -23,6 +23,21 @@ bio: 'Perseus Dark Region KC-V c2-2 is a system in Elite Dangerous, significant 
   alongside the Scriveners Clan dredger in the Perseus Dark Region.; The mysterious
   figure ''Salvation'' sends a message to pilots who discovered the Hesperus, authorising
   Taurus Mining Ventures to pay for logs and pro...'
+bio_de: Das System Perseus Dark Region KC-V c2-2 ist ein abgelegenes System in der Perseus
+  Dark Region und wurde zum Brennpunkt einer der bedeutendsten archäologischen Entdeckungen
+  der jüngeren galaktischen Geschichte. Im April 3307 verfolgten unabhängige Piloten ein
+  entschlüsseltes Signal des verlassenen Megaships Adamastor bis zu diesem System und
+  fanden die Hesperus – das Schwesterschiff der Adamastor – treibend in einem Asteroidengürtel
+  um ihren zweiten Stern.
+
+  Die Hesperus war nicht allein – neben ihr schwebte ein Dredger des Scriveners-Clan, ein
+  nomadischer Stamm von Bergungsarbeitern, der das Megaship als Wrackgut beansprucht hatte.
+  Piloten hackten Lücken in die veralteten Firewalls des Dredgers und sicherten vier
+  verschlüsselte Datendateien von der Hesperus, die eine beunruhigende Geschichte aus
+  Unternehmensrivalität, Mord und dem 200 Jahre alten xenologischen Forschungsprogramm
+  von Azimuth Biochemicals enthüllten. Die Entdeckung führte auch „Salvation" ein, eine
+  undurchsichtige Figur, die Piloten zum Fundort gelenkt hatte und zu einer der folgenreichsten
+  – und umstrittensten – Persönlichkeiten des Thargoid-Krieges werden sollte.
 ---
 
 

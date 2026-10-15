@@ -9,6 +9,33 @@ bio: Erik Gunnarson is an investigator with the Wallglass Investigations Agency.
   journalist famed for his study of the Dredger Clans, he worked as a Wallglass detective
   on the EVE-597 prison breakout in 3312, tracing inside coordination and naming the three
   fugitives still at large.
+bio_de: Erik Gunnarson ist investigative Journalist bei der Wallglass Investigations
+  Agency und auf die Aufdeckung verborgener oder vergessener menschlicher Gesellschaften
+  spezialisiert. Im Jahr 3307 veröffentlichte er eine bahnbrechende Studie über die Dredger-Clans
+  – nomadische Stämme, die in umgebauten Massengutfrachtern durch den Tiefraum ziehen
+  und sich durch Bergung und gelegentliche Raubzüge ernähren, mit Zehntausenden von Bewohnern,
+  deren Kulturen sich über Jahrhunderte der Isolation eigenständig entwickelt haben.
+
+  Gunnarsons Forschung zeigte, dass diese Dredger als Generationenschiffe fungieren,
+  deren Clans jeweils eigene Gesellschaften beherbergen, die sich deutlich von der galaktischen
+  Hauptstromkultur abgewandt haben. Seine Arbeit verlieh akademischem Ansehen, was zuvor
+  als Weltraum-Märchen abgetan wurde, darunter Kindergruselgeschichten über den Ruf der
+  Phagos als Menschenfresser. Sein Artikel über die Dredger erschien unmittelbar vor der
+  Entdeckung des Scriveners-Clan neben dem Megaship Hesperus und bestätigte seine These,
+  dass diese nomadischen Gesellschaften nicht nur überlebten, sondern auf den Rändern
+  der Galaxis aktiv eigene Ziele verfolgten.
+
+  Im Oktober 3312 arbeitete Gunnarson nicht mehr als Journalist, sondern als Wallglass-Ermittler.
+  Bei der Untersuchung des Massenausbruchs an Bord des Reformatory-Schiffs EVE-597 der
+  Independent Detention Foundation erklärte er, dass Teil-Telemetriedaten aus dem Kommunikationsarray
+  des Schiffs zeigten, dass die Flucht mit Unterstützung aus dem Inneren des Schiffs
+  koordiniert wurde, und dass die Ermittler aktiv prüften, ob die Sicherheitsdaten des
+  Megaships vor dem Vorfall an eine dritte Partei weitergegeben worden waren.
+
+  Am 13.10.3312 veröffentlichte Gunnarson die Namen der drei der Wiederfestnahme entkommenen
+  Hochsicherheitshäftlinge – Gunther Bernhardt, Yaz Murano und Trey Coombes – und warnte,
+  dass alle drei als bewaffnet und außergewöhnlich gefährlich einzustufen seien und
+  Sichtungen dem nächstgelegenen Sicherheitskontakt zu melden seien.
 ---
 
 

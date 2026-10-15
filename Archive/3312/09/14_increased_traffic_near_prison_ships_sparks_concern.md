@@ -8,13 +8,31 @@ summary: Governing authorities across several systems report unusually high traf
   known pirate affiliates near prison reformatories during recent inmate transfers. No
   direct engagement has occurred, but the Independent Detention Foundation is coordinating
   with local security forces to deter escalation.
+summary_de: Die Behörden mehrerer Systeme melden ungewöhnlich starken Verkehr bekannter
+  Piraten-Kollaborateure in der Nähe von Gefängnis-Reformatory-Schiffen während der
+  jüngsten Häftlingsüberstellungen. Es ist zu keinen direkten Gefechten gekommen, doch
+  die Independent Detention Foundation koordiniert mit örtlichen Sicherheitskräften,
+  um eine Eskalation zu verhindern.
 player_impact: No direct action is required of pilots, though those operating near prison
   reformatory transit routes should expect increased security presence and be aware of
   loitering pirate-affiliated traffic.
+player_impact_de: Von Piloten ist kein direktes Eingreifen erforderlich; Piloten, die
+  in der Nähe von Transitstrecken der Gefängnis-Reformatory-Schiffe operieren, sollten
+  jedoch mit erhöhter Sicherheitspräsenz rechnen und auf herumlungernden, piratennahen
+  Verkehr achten.
 modern_impact: The pattern of pirate-affiliated pilots — many with prior convictions — openly
   shadowing prisoner transports without engaging raises questions about their intent that
   remain unanswered, and sets the stage for the Foundation's heightened scrutiny of its
   transit fleet.
+modern_impact_de: Das Muster piratennaher Piloten – viele mit Vorstrafen –, die Gefangenentransporte
+  offen beschatteten, ohne anzugreifen, wirft bis heute unbeantwortete Fragen nach ihren
+  Absichten auf und bereitet den Boden für die verschärfte Kontrolle des Transitverbands
+  durch die Foundation.
+body_de: |
+  Die Behörden mehrerer Sternensysteme haben ungewöhnlich starken Verkehr in der Umgebung von Gefängnis-Reformatory-Schiffen während der jüngsten Häftlingsüberstellungen gemeldet.
+  Bekannte Kollaborateure lokaler Piratenfraktionen wurden in Formation in der Nähe der Gefängnisschiffe gesichtet, sind jedoch bisher weder mit örtlichen Sicherheitskräften noch mit Gefangenentransporten aneinandergeraten.
+  „Obwohl es zu keinen direkten Aktionen gekommen ist, deuten Häufigkeit und Muster ihres Auftretens darauf hin, dass diese kriminellen Elemente die Bewegungen der Häftlingstransporte beobachten", erklärte ein Sprecher der Independent Detention Foundation gegenüber Vox Galactica. „Angesichts der Tatsache, dass viele der identifizierten Piloten unsere Zellen bereits einmal von innen gesehen haben, ist es ungewöhnlich, dass sie sich so unverhohlen zeigen."
+  „Vorläufig ist es zu keinen Konflikten mit diesen Schiffen gekommen, und die Piloten halten sich an die Anweisung, einen Mindestabstand einzuhalten. Wir arbeiten eng mit den örtlichen Behörden entlang unserer Flottenroute zusammen, um sicherzustellen, dass ausreichend Sicherheitskräfte vor Ort sind, um jede Eskalation abzuwehren."
 topics:
 - crime
 - security

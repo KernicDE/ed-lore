@@ -18,6 +18,22 @@ bio: The Alliance of Independent Systems was founded in 3230 on Alioth as a thir
   — the only person to win a second term in Alliance history. The Alliance relies
   heavily on corporate partnerships, most notably a controversial strategic defence
   pact with Sirius Corporation signed in January 3308.'
+bio_de: Die Alliance of Independent Systems wurde 3230 auf Alioth nach einem erfolgreichen
+  Aufstand gegen föderale Unternehmensausbeutung und imperiale Besatzung gegründet. Mic
+  Turner und Meredith Argent schlugen eine neue politische Einheit für Systeme vor, die
+  außerhalb beider Supermächte bestehen wollten. In den folgenden zwei Jahrzehnten traten
+  mehr als zwanzig Systeme bei. Die Alliance wird von der Alliance Assembly regiert, die
+  reale Militärmacht liegt beim Council of Admirals. Premierminister Edmund Mahon, seit
+  3301 im Amt, ist der einzige Anführer, der eine zweite Amtszeit gewann.
+
+  Die Alliance ist stark auf Unternehmenspartnerschaften angewiesen, um ihre Ziele zu
+  erreichen. Ihre bedeutendste und umstrittenste Vereinbarung ist das im Januar 3308 unterzeichnete
+  strategische Verteidigungspakt mit der Sirius Corporation, das der Alliance im Austausch
+  für wirtschaftlichen Zugang fortschrittliche Technologie und militärische Unterstützung
+  gewährt. Kritiker argumentieren, dies mache die Alliance gefährlich abhängig von Unternehmensinteressen.
+  Während der Thargoid-Krise verfolgte die Alliance einen diplomatischen Mittelweg zwischen
+  föderalem Militarismus und imperialem Autoritarismus, half 3303 bei der Gründung von
+  Aegis und betrieb gleichzeitig eigene Forschungsprogramme.
 ---
 
 

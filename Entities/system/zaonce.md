@@ -30,6 +30,20 @@ bio: 'Zaonce is a system in Elite Dangerous, significant from 3301-05-01 to 3308
   of treason, murder and corruption, and is detained while attemp...; The announcement
   that the rogue signal sources heading towards the core systems are Thargoid in origin
   has caused unease within the general public.'
+bio_de: Zaonce ist ein bedeutendes Industriemystem in der Alliance und Gründungsmitglied
+  der Old Worlds im Lave-Sternhaufen. Heimat der Ridley Scott Station und der einflussreichen
+  Bank of Zaonce diente das System lange als finanzielles und industrielles Zentrum.
+  3301 stand es im Mittelpunkt pilotengetriebener Anti-Piraterie-Bemühungen, als Silver
+  United Solutions Tausende Kommandanten zu Hilfssheriffs machte, um die Zaonce Jet Gang
+  zu zerschlagen und die Ordnung im Sektor wiederherzustellen.
+
+  Die politische Bedeutung des Systems wuchs, als der frühere Gouverneur Gibson Kincaid
+  3303 Alliance-Präsident wurde. Kincaids Versuch von 3305, die Zaonce-Flotte zu entführen,
+  und seine anschließende Amtsenthebung wegen Hochverrats, Mord und Korruption markierten
+  die schwerste Verfassungskrise der Alliance; die Bank of Zaonce war in seine Verschwörung
+  verstrickt. Zaonce bleibt eine Hochburg der Alliance und spielt weiterhin eine Schlüsselrolle
+  im galaktischen Finanzwesen, etwa bei der Überwachung interstellarer Märkte in Krisen
+  wie der Thargoid-Bedrohung von 3308.
 reserve: Depleted
 ---
 

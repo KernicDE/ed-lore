@@ -9,15 +9,38 @@ summary: The missing Riker-class Reformatory EVE-597 has been found drifting and
   ambush rather than a mis-jump. The Independent Detention Foundation acknowledged a
   "disturbance" on board during the transit window, while the lawless Clan of Redonesses
   maintains control of the system where the vessel appeared.
+summary_de: Das vermisste Riker-class-Reformatory-Schiff EVE-597 wurde treibend und
+  beschädigt im System Redonesses aufgefunden; außer Betrieb gesetzte Verteidigungstürme
+  und Trümmer deuten auf einen Hinterhalt statt auf einen Fehlsprung. Die Independent
+  Detention Foundation bestätigte eine „Störung" an Bord während des Transitzeitraums,
+  während der gesetzlose Clan of Redonesses die Kontrolle über das System behält, in
+  dem das Schiff auftauchte.
 player_impact: Pilots inspecting EVE-597 confirmed the damage and are advised to remain
   extra vigilant and keep a safe distance from the prison ship until the Foundation's
   investigation is complete. Commanders in or near Redonesses should factor in the
   Clan's firm grip on the system when approaching the wreck site.
+player_impact_de: Piloten, die EVE-597 inspizierten, bestätigten die Schäden; ihnen wird
+  geraten, besondere Wachsamkeit walten zu lassen und zum Gefängnisschiff einen sicheren
+  Abstand zu halten, bis die Untersuchung der Foundation abgeschlossen ist. Kommandanten
+  in oder nahe Redonesses sollten die feste Kontrolle des Clans über das System berücksichtigen,
+  wenn sie sich dem Wrack nähern.
 modern_impact: The discovery confirms EVE-597's disappearance was not a mis-jump but
   likely a coordinated attack, vindicating earlier suspicions linking the pirate
   activity that shadowed prisoner transfers to the vessel's fate. The Foundation's
   lack of further detail leaves open who ambushed the ship, why it ended up in clan
   territory, and whether prisoners remain on board.
+modern_impact_de: Die Entdeckung bestätigt, dass das Verschwinden der EVE-597 kein Fehlsprung,
+  sondern mit hoher Wahrscheinlichkeit ein koordinierter Angriff war, und erhärtet den
+  früheren Verdacht, der die Gefangenentransporte beschattende Piratenaktivität mit dem
+  Schicksal des Schiffs in Verbindung brachte. Das Fehlen weiterer Details seitens der
+  Foundation lässt offen, wer das Schiff überfiel, warum es in Clan-Territorium gelangte
+  und ob sich noch Häftlinge an Bord befinden.
+body_de: |
+  Mehrere Sichtungen des vermissten Gefängnis-Megaships EVE-597 wurden gemeldet; die Systembehörden bestätigten, dass das Schiff Schäden erlitten hat.
+  Piloten, die das Riker-class-Gefängnisschiff inspizierten, stellten außer Betrieb gesetzte Verteidigungstürme und eine erhebliche Menge treibender Trümmer fest.
+  „Für mich sieht das nicht nach einem Fehlsprung aus", erklärte ein Kommandant über die lokale Kommunikation. „Eher nach einem Hinterhalt."
+  Als sich Vox Galactica bei der Independent Detention Foundation um eine Stellungnahme bemühte, bestätigte ein Sprecher kurz, dass während des Transitzeitraums eine „Störung" an Bord der EVE-597 stattgefunden hatte. Weitere Einzelheiten wollte der Sprecher vorerst nicht nennen.
+  Piloten wird geraten, besondere Wachsamkeit walten zu lassen, da der Clan of Redonesses das System fest unter Kontrolle hält, was Fragen nach einer möglichen Verstrickung des gesetzlosen Clans in die Ankunft der EVE-597 aufwirft. Die Foundation bittet Schaulustige, zum Gefängnisschiff einen sicheren Abstand zu halten, bis eine vollständige Untersuchung abgeschlossen ist.
 topics:
 - crime
 - security

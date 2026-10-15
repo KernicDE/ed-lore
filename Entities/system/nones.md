@@ -10,6 +10,10 @@ related_entities:
 - gliese-5062
 - evenses
 - chematja
+bio_de: Nones ist ein System im unabhängigen Raum und Ausgangspunkt der aus vier Systemen
+  bestehenden Häftlingstransitstrecke der Independent Detention Foundation. Im September
+  3312 sprang das Riker-class-Reformatory-Schiff EVE-597 von Nones mit Kurs auf Gliese
+  506.2 ab und traf nicht ein; entlang der Strecke wurden keine Trümmer gefunden.
 ---
 
 <!-- AUTO-GENERATED -->

@@ -16,6 +16,17 @@ bio: Gunther Bernhardt is a high-ranking pirate leader convicted of complex, rep
   was the only ship capable of holding him. He escaped recapture following the mass
   breakout in Redonesses in October 3312 and remains at large; Wallglass Investigations
   has warned that he is armed and exceptionally dangerous.
+bio_de: Gunther Bernhardt ist ein ranghoher Piratenführer, der wegen komplexer, wiederholter,
+  groß angelegter krimineller Aktivitäten verurteilt wurde. Inhaftiert auf dem Reformatory-Schiff
+  EVE-597 – dem einzigen Schiff, das ihn sicher halten konnte – gehörte Bernhardt zu den
+  Hochsicherheitshäftlingen, die bei dem im Oktober 3312 im System Redonesses inszenierten
+  Massenausbruch freikamen.
+
+  Die Independent Detention Foundation kam zu dem Schluss, dass der Häftlingsaufstand
+  eine Ablenkung für die geplante Befreiung Bernhardts und zweier Mitstreiter, Yaz Murano
+  und Trey Coombes, war. Wallglass Investigations veröffentlichte seinen Namen und warnte
+  Piloten, sich ihm nicht zu nähern; sie beschrieb ihn als bewaffnet und außergewöhnlich
+  gefährlich. Sein Aufenthaltsort ist weiterhin unbekannt.
 ---
 
 <!-- AUTO-GENERATED -->

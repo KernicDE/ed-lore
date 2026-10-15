@@ -17,6 +17,19 @@ bio: 'Alliance Interpol is a organization active in Elite Dangerous lore from 33
   three starports restored to full functionality, Aisling Duval''s engagem...; Weekly
   summary covering Chief Inspector Kay Kilbride''s murder by the League of Reparation,
   reactions to Aisling Duval and Jordan Rochester''s engage...'
+bio_de: Die Alliance Interpol fungiert als zentrale Strafverfolgungs- und Nachrichtenbehörde
+  der Alliance of Independent Systems. Im Jahr 3304 vertrat Chief Inspector Kay Kilbride
+  die Organisation in der Drei-Supermächte-Sondergruppe zur Untersuchung der League of
+  Reparation, einer Terrorgruppe, die Nachfahren der INRA ins Visier nahm, bis sie in
+  eine Falle gelockt und von der Liga gemeinsam mit vier Kollegen ermordet wurde.
+
+  Deputy Inspector Mara Klatt übernahm die Liaison-Rolle und half bei der Zerschlagung
+  der Liga; sie leitete Anklagen wegen terrorismusbezogener Verbrechen gegen deren Koordinatorin
+  Riri McAllister ein. Die Expertise der Alliance Interpol in der Zusammenarbeit über
+  Supermächte hinweg wurde 3307 erneut gefragt, als die Einheit Affiliated Counter-Terrorism
+  zur Bekämpfung der NMLA gebildet wurde; Inspector Klatt war eine der drei gemeinsamen
+  Leiter von ACT neben dem Imperial Internal Security Service und der Federal Intelligence
+  Agency.
 ---
 
 

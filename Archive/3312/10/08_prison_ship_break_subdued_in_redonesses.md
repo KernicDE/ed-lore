@@ -10,13 +10,35 @@ summary: The Independent Detention Foundation has regained control of EVE-597, w
   breakout was coordinated, with detective Erik Gunnarson stating that partial telemetry
   points to support from inside the ship and that a pre-incident leak of the megaship's
   security data is being actively explored.
+summary_de: Die Independent Detention Foundation hat die Kontrolle über die EVE-597
+  zurückerlangt; sämtliche an Bord befindliche Häftlinge sind gesichert, und die große
+  Mehrheit der Ausgebrochenen wurde im System Redonesses zurückgeholt. Mit der Aufklärung
+  der Koordination des Ausbruchs wurde die Wallglass Investigations Agency beauftragt;
+  Ermittler Erik Gunnarson erklärte, dass Teil-Telemetriedaten auf Unterstützung aus
+  dem Inneren des Schiffs hindeuten und ein Leck der Sicherheitsdaten des Megaships
+  vor dem Vorfall aktiv geprüft werde.
 player_impact: Independent pilots who protected convict recovery efforts in Redonesses
   are thanked for their service; no further combat action is requested. The Foundation
   confirmed EVE-597 will resume its normal jump itinerary as soon as possible.
+player_impact_de: Unabhängige Piloten, die die Rückführungsbemühungen in Redonesses schützten,
+  werden für ihren Einsatz gedankt; um weitere Kampfeinsätze wird nicht gebeten. Die
+  Foundation bestätigte, dass EVE-597 so bald wie möglich ihre normale Sprungroute wieder
+  aufnimmt.
 modern_impact: "The subdued breakout closes the immediate crisis but leaves the arc's
   central question open: whether EVE-597's security data was disclosed to a third party
   before the incident. Wallglass's investigation may yet reveal outside involvement in
   the prisoner takeover, keeping the affair politically sensitive for the Foundation."
+modern_impact_de: "Der niedergeschlagene Ausbruch beendet die unmittelbare Krise, lässt
+  aber die zentrale Frage des Falls offen: Ob die Sicherheitsdaten der EVE-597 vor dem
+  Vorfall an eine dritte Partei weitergegeben wurden. Die Untersuchung von Wallglass
+  könnte noch eine Involvierung von außen bei der Übernahme durch die Häftlinge offenlegen
+  und hält den Vorgang für die Foundation weiterhin politisch brisant."
+body_de: |
+  Die Independent Detention Foundation hat unabhängige Piloten gedankt, die die Rückführungsbemühungen im System Redonesses schützten.
+  EVE-597 ist wieder unter der Kontrolle der Foundation, und sämtliche an Bord befindliche Häftlinge wurden gesichert. Die örtliche System-Sicherheit meldete außerdem, dass die große Mehrheit der ausgebrochenen Häftlinge zurückgeholt und wieder in Gewahrsam genommen wurde.
+  Ein Sprecher der Independent Detention Foundation bestätigte, dass die Wallglass Investigations Agency beauftragt wurde, zu klären, wie die Häftlinge an Bord des Riker-class-Gefängnisschiffs in großer Zahl aus ihren Zellen ausbrechen konnten.
+  „Die ersten Untersuchungen brachten Teil-Telemetriedaten aus dem Kommunikationsarray der EVE-597 zutage. Der Ausbruch wurde offenbar mit Unterstützung aus dem Inneren des Schiffs koordiniert", sagte Wallglass-Ermittler Erik Gunnarson in einer Presseerklärung gegenüber Vox Galactica. „Es ist zu früh, um zu bestätigen, ob die Sicherheitsdaten des Megaships vor dem Vorfall an eine dritte Partei weitergegeben wurden. Es ist jedoch einer der Wege, die wir aktiv prüfen."
+  Die Independent Detention Foundation erklärte, dass sie der laufenden Untersuchung vollumfänglich kooperieren werde, und die EVE-597 werde so bald wie möglich ihre normale Sprungroute wieder aufnehmen.
 topics:
 - crime
 - security

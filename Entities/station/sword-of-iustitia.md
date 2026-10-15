@@ -9,6 +9,11 @@ related_entities:
 - independent-detention-foundation
 - redonesses
 - eve-597
+bio_de: Die Sword of Iustitia ist ein Megaship, das während des Gefängnisausbruchs auf
+  der EVE-597 im Oktober 3312 als operativer Stützpunkt für den Einsatz der Independent
+  Detention Foundation diente. Piloten, die bereit waren, gegen kriminelle Piloten anzutreten,
+  die den Ausgebrochenen halfen, wurden gebeten, sich an dem Schiff zu registrieren, bevor
+  sie Kopfgeld-Bonds ablieferten.
 ---
 
 <!-- AUTO-GENERATED -->

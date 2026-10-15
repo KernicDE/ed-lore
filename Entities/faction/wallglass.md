@@ -16,6 +16,18 @@ bio: Wallglass is a organization in the Elite Dangerous universe, active from 33
   Agency, examine the background of the Adamastor megaship. Zachary Rackham denies
   being 'Calico Zack' and threatens legal action against Bryanna Blanco, while Blanco
   hires Wallglass to find irrefutable proof.
+bio_de: Die Wallglass Investigations Agency ist eine Privatdetektei, die für tiefgehende
+  Hintergrundermittlungen zu prominenten Personen bekannt ist. 3309 wurden die Ermittler
+  Erik Gunnarson und Francesca Wolfe von der Federal-Times-Journalistin Bryanna Blanco
+  engagiert, um die mutmaßlich kriminelle Vergangenheit des Billionärs Zachary Rackham
+  zu untersuchen.
+
+  Die Agentur legte Beweise vor, die Rackham mit dem Piraten-Alias „Calico Zack" verbanden,
+  darunter ein auf Zeta Trianguli Australis A 7 a gefundenes Nachrichtenarchiv. Die Erkenntnisse
+  waren stark genug, um Rackham zum Rückzug seiner Präsidentschaftskandidatur zu zwingen.
+  Wallglass' Arbeit am Rackham-Fall zeigte den wachsenden Einfluss privater Ermittlungsagenturen
+  in der föderalen Politik, in der die traditionelle Strafverfolgung oft nicht über die
+  Ressourcen oder den politischen Willen verfügt, Mächtige unter die Lupe zu nehmen.
 ---
 
 

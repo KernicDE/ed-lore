@@ -11,6 +11,14 @@ related_entities:
 - eve-597
 - sword-of-iustitia
 - wallglass-investigations-agency
+bio_de: Redonesses ist ein unabhängiges System, das fest vom gesetzlosen Clan of Redonesses
+  kontrolliert wird. Im September 3312 wurde das beschädigte und treibende Gefängnisschiff
+  EVE-597 von Piloten im System entdeckt; die Independent Detention Foundation forderte
+  Schaulustige auf, bis zu einer vollständigen Untersuchung einen sicheren Abstand zum
+  Schiff zu halten. Im Oktober 3312 brachen die Häftlinge des Schiffs en masse über Escape
+  Pods aus, während der Clan sie vor der Wiederfestnahme schützte, bis unabhängige Piloten
+  halfen, den Ausbruch niederzuschlagen, und fast alle Häftlinge zurück in Gewahrsam
+  gebracht wurden.
 ---
 
 <!-- AUTO-GENERATED -->
