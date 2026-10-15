@@ -7,8 +7,13 @@ source: GitHub
 summary: The GalCop Colonial Defence Commission has announced the successful conclusion
   of its appeal for construction materials. A huge number of deliveries to Dervish
   Platform will be used to build a new Coriolis starport in the Ogmar system.
+summary_de: Die GalCop Colonial Defence Commission gab das erfolgreiche Ende ihres
+  Aufrufs für Baumaterial bekannt. Eine große Zahl von Lieferungen zur Dervish Platform
+  wird genutzt, um eine neue Coriolis-Sternenstation im System Ogmar zu errichten.
 player_impact: Pilots who contributed can collect rewards from Dervish Platform in
   the Ogmar system.
+player_impact_de: Beteiligte Piloten können ihre Belohnungen an der Dervish Platform
+  im System Ogmar abholen.
 persons: []
 groups:
 - GalCop Colonial Defence Commission
@@ -22,11 +27,19 @@ topics:
 arc_id: jaques-station
 modern_impact: The new Coriolis starport in Ogmar expands Colonia's infrastructure
   and supports the region's rapidly growing population.
+modern_impact_de: Die neue Coriolis-Sternenstation in Ogmar erweitert Colonias Infrastruktur
+  und unterstützt die rasant wachsende Bevölkerung der Region.
 legacy_weight: 3
 significance: medium
 related_uuids:
 - 2954f303-bda3-5779-a276-6df1a55cd62b
 - e3eb7903-7e0b-5be8-b9e8-296a5a84ab2e
+body_de: |
+  Ein Sprecher der GalCop Colonial Defence Commission gab bekannt, dass ihr Aufruf für Baumaterial von der galaktischen Gemeinschaft zustimmend aufgenommen wurde, was zu einer großen Zahl von Lieferungen an die Dervish Platform führte, den Stützpunkt der Organisation. Das Material wird genutzt, um eine neue Coriolis-Sternenstation im System Ogmar zu errichten.
+
+  Die GalCop Colonial Defence Commission hat den Unterstützern der Kampagne aufrichtig gedankt.
+
+  Beteiligte Piloten können ihre Belohnungen nun an der Dervish Platform im System Ogmar abholen.
 ---
 
 

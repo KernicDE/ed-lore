@@ -8,8 +8,15 @@ summary: The Kamadhenu Chapterhouse of Inquisition plans to establish three star
   between the core systems and Colonia to create the Blue Star Line freight and passenger
   service. The organisation has placed an open order for gold, robotics and auto-fabricators
   for delivery to Shajn Market in the Kamadhenu system.
+summary_de: Das Kamadhenu Chapterhouse of Inquisition plant die Errichtung von drei
+  Sternenstationen zwischen den Kernsystemen und Colonia, um den Fracht- und Passagierdienst
+  Blue Star Line aufzubauen. Die Organisation hat eine offene Bestellung für Gold, Robotik
+  und Autofabrikatoren aufgegeben, die zur Shajn Market im System Kamadhenu geliefert
+  werden sollen.
 player_impact: Deliver gold, robotics and auto-fabricators to Shajn Market in Kamadhenu.
   Eliminate wanted ships to protect trade routes.
+player_impact_de: Liefern Sie Gold, Robotik und Autofabrikatoren zur Shajn Market
+  in Kamadhenu. Schalten Sie gesuchte Schiffe ab, um die Handelsrouten zu schützen.
 persons:
 - Shelby Ortega
 groups:
@@ -27,12 +34,24 @@ technologies: []
 arc_id: jaques-station
 modern_impact: Colonia continues to grow as a deep-space settlement, offering new
   opportunities for exploration and colonisation.
+modern_impact_de: Colonia wächst weiterhin als Tiefraumsiedlung und bietet neue Möglichkeiten
+  für Erkundung und Kolonisierung.
 legacy_weight: 3
 significance: medium
 related_uuids:
 - 440b2402-1496-58a4-bbcd-374d1955c5c7
 - 9682ba33-11e4-5b48-8525-971161b6f0cb
 - 02165df8-9aeb-583a-be2c-d25436bc9c41
+body_de: |
+  Das Kamadhenu Chapterhouse of Inquisition hat Pläne angekündigt, eine Reihe von Sternenstationen zwischen den Kernsystemen und Colonia zu errichten, um die gewaltige Reise ein wenig zu erleichtern. Insgesamt sind drei Sternenstationen geplant, mit denen das Chapterhouse die Einrichtung eines Fracht- und Passagierdienstes vorantreiben will, der als Blue Star Line bekannt ist.
+
+  Das Chapterhouse hat für die erste dieser Sternenstationen eine offene Bestellung für Gold, Robotik und Autofabrikatoren aufgegeben und versprochen, Piloten zu belohnen, die diese Waren zur Shajn Market im System Kamadhenu liefern. Die Systembehörden haben zudem zugesagt, für vom Chapterhouse ausgesetzte Kopfgelder großzügige Belohnungen auszuloben, um die sichere Lieferung der Güter zur Sternenstation zu gewährleisten.
+
+  Bei der Ankündigung der Kampagne sagte Gouverneur Shelby Ortega:
+
+  „Das Wachstum von Colonia ist erstaunlich, aber sein anhaltender Erfolg hängt vom Ausbau einer substanzielleren Infrastruktur ab. Nachdem wir den Segen des Colonia Council erhalten haben, beabsichtigt das Chapterhouse of Inquisition, eine Vision transgalaktischen Handels zu verwirklichen, der der gesamten Menschheit zugutekommen wird."
+
+  Die erste Phase der Kampagne beginnt am 24. August 3303. Die zweite Phase beginnt am 31. August, die letzte Phase am 7. September. Alle drei Phasen laufen jeweils eine Woche, sofern die Ziele nicht früher erreicht werden.
 ---
 
 

@@ -30,6 +30,19 @@ bio: 'Kamadhenu is a system in Elite Dangerous, significant from 3301-05-23 to 3
   bombing attack by the NMLA.; Vice President Brad Mitchell and a number of Federal
   Cabinet members have been killed in The recent terrorist attack on a starport orbiting
   Earth.'
+bio_de: Kamadhenu ist ein imperiales System, das als bedeutendes politisches und religiöses
+  Zentrum innerhalb des Imperiums diente. Als System mit hoher Bevölkerungszahl und
+  starker imperialer Loyalität wurde es wiederholt im Zusammenhang mit der kaiserlichen
+  Thronfolge, senatorischer Politik und militärischen Operationen erwähnt. Das System
+  war Schauplatz von Initiativen, die mit der Machtbasis von Arissa Lavigny-Duval verbunden
+  waren, und diente als Brennglas für Debatten über imperiale Regierungsführung und
+  Korruption.
+
+  In Krisenzeiten wurde Kamadhenu in größere imperiale Machtkämpfe hineingezogen,
+  darunter die Thronfolgestreitigkeiten nach der Ermordung Hengist Duvals und die
+  Terrorkampagne der NMLA. Seine anhaltende Bedeutung spiegelt die Konzentration von
+  Reichtum und Einfluss in den loyalen Kernsystemen des Imperiums wider, die sich über
+  Generationen hinweg der Dynastie Duval verbunden fühlten.
 ---
 
 

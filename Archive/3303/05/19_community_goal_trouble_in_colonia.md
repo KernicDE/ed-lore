@@ -6,8 +6,12 @@ date: '3303-05-19'
 source: GitHub
 summary: Unauthorized outposts occupied by agitators have been detected in the Eol
   Prou Lw-L C8-215 system, threatening the Colonia community's security.
+summary_de: Im System Eol Prou Lw-L C8-215 wurden nicht autorisierte, von Unruhestiftern
+  besetzte Außenposten entdeckt, die die Sicherheit der Colonia-Gemeinschaft bedrohen.
 player_impact: Pilots can hunt wanted ships in Eol Prou Lw-L C8-215 and deliver bounty
   vouchers to Tolagarf's Junkjard for rewards.
+player_impact_de: Piloten können im System Eol Prou Lw-L C8-215 gesuchte Schiffe jagen
+  und die Kopfgeldgutscheine zur Tolagarf's Junkjard liefern, um Belohnungen zu erhalten.
 persons: []
 groups:
 - Colonia Council
@@ -23,12 +27,22 @@ technologies: []
 arc_id: jaques-station
 modern_impact: Colonia continues to grow as a deep-space settlement, offering new
   opportunities for exploration and colonisation.
+modern_impact_de: Colonia wächst weiterhin als Tiefraumsiedlung und bietet neue Möglichkeiten
+  für Erkundung und Kolonisierung.
 legacy_weight: 3
 significance: medium
 related_uuids:
 - 37fdbad2-f575-597f-a4b5-7351cf4ec629
 - ea1d6149-a9b1-5788-8ca1-536b843a3721
 - 392aa4d2-b0f8-518a-bc22-b8e0c9acddf2
+body_de: |
+  Jüngsten Berichten zufolge wurde im System Eol Prou Lw-L C8-215 eine Reihe nicht autorisierter Außenposten entdeckt. Ein Sprecher des Colonia Council bestätigte, dass diese Außenposten derzeit von einer Gruppe von Unruhestiftern besetzt sind, die bereits begonnen haben, Piloten im System anzugreifen.
+
+  Die Region Colonia ist ein beliebtes Ziel für Auswanderer, doch die Einreise wird vom Regierungsgremium des Systems, dem Colonia Council, sorgfältig kontrolliert. Offenbar ist die neueste Bevölkerungsgruppe des Systems wenig besorgt über die Verfahren des Council.
+
+  Die Colonia-Gemeinschaft befindet sich noch in einem frühen Stadium und verfügt nicht über umfassende Sicherheitskräfte, daher verlässt sie sich auf die unabhängigen Kampfpiloten der Galaxis für militärische Unterstützung. Die Junkyard Dogs haben einen Abschussbefehl für alle gesuchten Schiffe erlassen, die im System Eol Prou Lw-L C8-215 aktiv sind, und versprochen, Piloten zu belohnen, die Kopfgeldgutscheine zur Tolagarf's Junkjard liefern.
+
+  Die Kampagne beginnt am 18. Mai 3303 und läuft eine Woche. Wird das Endziel früher als geplant erreicht, endet die Kampagne sofort.
 ---
 
 

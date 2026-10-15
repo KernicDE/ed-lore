@@ -16,6 +16,21 @@ bio: von Bellingshausen Port is a starport in the Almar system that was among th
   malfunction, later attributed to Unknown Artefact interference, forced the suspension
   of all services except docking and shipyard access as the plague spread across twenty-two
   systems.
+bio_de: Der von Bellingshausen Port ist eine Sternenstation im System Almar, die im
+  Januar 3302 der technologischen Seuche zum Opfer fiel, die den besiedelten Raum heimsuchte.
+  Nach den mysteriösen technischen Fehlfunktionen, die später mit Störungen durch Unbekannte
+  Artefakte in Verbindung gebracht wurden, musste die Station alle Dienste mit Ausnahme
+  des Andockens und des Schiffswerftzugangs einstellen und reihte sich damit neben
+  dem Ackerman Market in Eravate und dem Haack Gateway in Halbangaay als jüngste betroffene
+  Anlage ein.
+
+  Der Hafen stand monatelang auf der Liste der betroffenen Stationen, während sich
+  die Seuche auf Dutzende Sternenstationen in der gesamten Galaxis ausbreitete; Forschende
+  spekulierten, dass Meta-Legierungen den Schlüssel zur Umkehrung der Schäden sein
+  könnten. Die Krise am von Bellingshausen Port zeigte beispielhaft, wie schnell die
+  scheinbar unerklärlichen Fehlfunktionen Handel und Reiseverkehr stören konnten, und
+  kündigte den größeren Erzählstrang des Thargoid-Kontakts an, der die galaktische
+  Sicherheitspolitik neu gestalten sollte.
 system: Almar
 station_type: Orbital Station
 ---

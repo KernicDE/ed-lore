@@ -14,6 +14,21 @@ related_entities:
 bio: A starport in the Eravate system, Ackerman Market was among the first stations
   crippled by the technological plague in early 3302, later becoming a symbol of player-driven
   cooperative restoration.
+bio_de: Bevor die technologische Seuche ihn im Januar 3302 erreichte, war der Ackerman
+  Market ein beliebter Zwischenstopp für frisch lizenzierte Kommandanten, die im System
+  Eravate ihre Karriere begannen. Die plötzliche Stilllegung der Station – alle Dienste
+  wurden mit Ausnahme des Andockens und des Schiffswerftzugangs eingestellt – war eine
+  frühe Warnung dafür, wie Unbekannte Artefakte kritische Infrastruktur in Dutzenden
+  von Systemen lahmlegen konnten.
+
+  Die Hoffnung kehrte im März zurück, als eine selbsternannte „Allianz von Kommandanten"
+  unter Führung von Kermit Laphroaig, ThatDamnRanga, Ollobrains und Zenith Ddraiglas
+  eine kooperative Aktion startete, um den Markt mit Meta-Legierungen zu überschütten.
+  In ihrer gemeinsamen Erklärung betonten sie, die Differenzen beiseitezulegen, um
+  die Station wiederherzustellen, und zogen Piloten aller Couleurs in eine kooperative
+  Transportaktion ein. Die Wiederherstellung des Ackerman Market wurde zu einem der
+  ersten dokumentierten Fälle, in denen unabhängige Piloten Meta-Legierungen einsetzten,
+  um technologischen Verfall außerirdischen Ursprungs umzukehren.
 system: Eravate
 station_type: Orbital Station
 distance_to_arrival: 273

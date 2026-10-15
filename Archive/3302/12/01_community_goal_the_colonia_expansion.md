@@ -7,8 +7,15 @@ source: GitHub
 summary: The Colonia Council has announced a series of monthly colonisation appeals
   in the Colonia Nebula, asking pilots to deliver commodities to Jaques Station so
   competing factions can earn the right to settle surrounding systems.
+summary_de: Der Colonia Council hat eine Reihe monatlicher Kolonisierungsaufrufe im
+  Colonia-Nebel angekündigt und Piloten aufgefordert, Waren zur Jaques Station zu
+  liefern, damit konkurrierende Fraktionen das Recht erwerben können, in den umliegenden
+  Systemen zu siedeln.
 player_impact: Deliver specified commodities to Jaques Station on behalf of chosen
   organisations to earn migration visas and help factions settle in the Colonia Nebula.
+player_impact_de: Liefern Sie die angegebenen Waren im Namen der gewählten Organisationen
+  zur Jaques Station, um Migrationsvisa zu erhalten und Fraktionen bei der Ansiedlung
+  im Colonia-Nebel zu helfen.
 persons: []
 groups:
 - Colonia Council
@@ -23,11 +30,35 @@ technologies: []
 arc_id: jaques-station
 modern_impact: Jaques Station's journey to Colonia establishes a new frontier settlement,
   opening up deep-space colonisation.
+modern_impact_de: Die Reise der Jaques Station nach Colonia gründet eine neue Grenzsiedlung
+  und eröffnet die Kolonisierung des Tiefraums.
 legacy_weight: 4
 significance: high
 related_uuids:
 - ada6124e-e36f-506f-a094-39261c46658e
 - e4c41608-fa48-5fe5-b72b-87d190dc99fc
+body_de: |
+  Seit der Ankunft der Jaques Station im Juni in Eol Prou RS-T d3-94 sind tausende galaktische Bürger in das System eingewandert, auf der Suche nach einer neuen Lebensweise. Diese Migrationsbewegung führte zur Errichtung mehrerer neuer Außenposten in der Region sowie zu einer Kette von Stationen, die die wachsende Gemeinschaft mit den Kernsystemen verbindet.
+
+  Die Kolonie ist inzwischen fest in Eol Prou RS-T d3-94 etabliert – das System wurde kürzlich in Colonia umbenannt –, und das Regierungsgremium des Systems, der Colonia Council, hat Pläne zur Kolonisierung der umliegenden Systeme angekündigt.
+
+  Im Einklang mit dem egalitären Geist, der die Kolonisierungsbewegung geprägt hat, hat der Council eine Reihe von Aufrufen angekündigt, die bestimmen sollen, welche Organisationen die Systeme um Colonia besiedeln werden.
+
+  In einer Erklärung sagte ein Sprecher der Organisation:
+
+  „Mit Hilfe der galaktischen Gemeinschaft konnten wir eine sichere Präsenz im System Colonia etablieren. Jetzt ist es an der Zeit, den übrigen Sektor für die Kolonisierung zu öffnen."
+
+  „Es ist sehr wichtig, dass diejenigen, die in den Colonia-Nebel kommen, dem fortwährenden Aufbau der Region verpflichtet sind. Deshalb bitten wir Organisationen, die der Colonia-Gemeinschaft beitreten wollen, ihre Hingabe durch Beiträge zu einer Ressourcenaktion unter Beweis zu stellen."
+
+  „Zu Beginn jedes Monats werden wir bekannt geben, welche Systeme für die Kolonisierung vorgesehen sind. Um ein Migrationsvisum zu erhalten, müssen Piloten eine bestimmte Ware im Namen ihrer gewählten Organisation zur Jaques Station liefern. Die Art der Ware wird zu Monatsbeginn bekannt gegeben. Natürlich werden die Piloten für ihre Mühen entschädigt."
+
+  „Am Ende des Monats erhalten die zehn Fraktionen, die den größten Beitrag geleistet haben, das Recht, eines der festgelegten Systeme zu besiedeln. Für die ausschließliche Nutzung durch die Organisation wird im System ein neuer planetarer Außenposten errichtet."
+
+  „Wir sollten darauf hinweisen, dass Organisationen, die im Colonia-Nebel ansässig werden, als unabhängige Einheiten betrachtet werden, die von ihrer Mutterfraktion getrennt sind."
+
+  „Darüber hinaus sind die erfolgreichen Organisationen dafür verantwortlich, mit anderen gleichgesinnten Organisationen zusammenzuarbeiten, um den Colonia-Nebel zu einem Leuchtturm der Zivilisation zu machen."
+
+  Die erste Kampagne beginnt am 1. Dezember 3302 und läuft vier Wochen. Wird das Endziel früher als geplant erreicht, endet die Kampagne sofort.
 ---
 
 

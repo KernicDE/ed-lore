@@ -27,6 +27,20 @@ inara_url: https://inara.cz/elite/starsystem/?search=Almar
 bio: 'A sparsely populated Imperial extraction system with fewer than two thousand
   inhabitants, Almar was one of several systems affected by the technological plague
   in early 3302.'
+bio_de: Kaum mehr als tausend Menschen nannten Almar ihr Zuhause, als die technologische
+  Seuche das System im Januar 3302 erreichte. Der Abbau-Außenposten des Imperiums unter
+  Kontrolle von Leunii Allied PLC bot selbst zu besten Zeiten nur minimale Dienste
+  – umso härter traf die plötzliche Einstellung der Warenmärkte, der Aufrüstungseinrichtungen
+  und der Schiffsausrüstung.
+
+  Das System gehörte zu einem Cluster, zu dem auch Eravate und Halbangaay zählten,
+  die alle unter identischen Fehlfunktionen litten, die auf die Nähe zu Unbekannten
+  Artefakten zurückgeführt wurden. Für Almars winzige Bevölkerung verdeutlichte die
+  Krise, dass selbst die am Rand gelegenen Siedlungen den kaskadierenden Auswirkungen
+  außerirdischer Technologie nicht entkommen konnten. Die Erholung hing von denselben
+  Meta-Legierungs-Behandlungen ab, die an Stationen wie dem Ackerman Market erprobt
+  wurden, und verknüpfte das Schicksal dieses vergessenen Außenpostens mit Ereignissen,
+  die sich hunderte Lichtjahre entfernt abspielten.
 ---
 
 

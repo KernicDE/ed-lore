@@ -28,6 +28,22 @@ bio: '63 G. Capricorni is a system in Elite Dangerous, significant from 3302-02-
   to 3303-12-15. Notable events include: The technological plague continues to affect
   starports across inhabited space.; Several starports previously closed due to Unknown
   Artefact-related interference have been restored through the application of meta-alloys.'
+bio_de: 63 G. Capricorni ist ein System, das vor allem durch die Skvortsov Orbital
+  bekannt ist, eine Sternenstation, die eines der berühmtesten Community-Events der
+  frühen Erkundungsära ausrichtete. Im Mai 3302, als die Distant-Worlds-Expedition
+  ihrem erfolgreichen Abschluss entgegenging, kündigte O'Malligan's Coffee Bar an der
+  Skvortsov Orbital Pläne für „die Party des Jahrhunderts" für die zurückkehrenden
+  Entdecker an.
+
+  Die Diamond Frogs, die kontrollierende Fraktion des Systems, koordinierten mit der
+  Pilots Federation die Beschaffung von Alkohol und Rauschmitteln für die Gala. Kommandant
+  Paramemetic, Logistikchef der Diamond Frogs, stellte fest, dass „allein die Piloten
+  der Diamond Frogs O'Malligans gesamten Vorrat binnen weniger Stunden verbrauchen
+  würden", sodass die Unterstützung der Community nötig war. Piloten, die zum Fest
+  beitrugen, wurden von der Fraktion belohnt. Die Veranstaltung zeigte, wie Grenzsysteme
+  als Treffpunkte für die Entdecker-Community dienen konnten, und die Verbindung von
+  63 G. Capricorni mit der Distant-Worlds-Expedition machte es zu einem Symbol für
+  den kooperativen Geist, der den Erkundungsboom der frühen 3300er prägte.
 reserve: Major
 ---
 

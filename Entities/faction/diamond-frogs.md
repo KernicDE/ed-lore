@@ -18,6 +18,17 @@ bio: 'Diamond Frogs is a organization active in Elite Dangerous lore from 3302-0
   the Santa Muerte sy...; The Diamond Frogs private security firm successfully protected
   Paladin Consortium cargo vessels delivering water purifiers to liberated slaves
   at O...'
+bio_de: Die Diamond Frogs sind ein privates Sicherheitsunternehmen und eine Fraktion,
+  die Söldnerdienste im gesamten menschlichen Raum erbracht hat. Anfang 3302 wurde
+  die Gruppe vom Paladin Consortium beauftragt, Frachtschiffe zu schützen, die Wasserreiniger
+  zu befreiten imperialen Sklaven am Onnes Gateway im System LFT 37 lieferten.
+
+  Die Diamond Frogs koordinierten außerdem mit der Pilots Federation die Beschaffung
+  von Vorräten für die Gala der Distant-Worlds-Entdecker an der Skvortsov Orbital im
+  Mai 3302. Kommandant Kermit Laphroaig lobte die Zähigkeit seiner Mit-Söldner unter
+  feindlichen Bedingungen, und Kommandant Felix Dyson berichtete für Radio Skvortsov
+  über ihre Aktivitäten. Die Fraktion steht exemplarisch für die unabhängigen privaten
+  Militärunternehmen, die in den Lücken zwischen den Flotten der Supermächte operieren.
 ---
 
 

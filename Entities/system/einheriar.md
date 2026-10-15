@@ -25,6 +25,9 @@ bio: Einheriar is a star system in the Elite Dangerous universe, significant fro
   3303-12-08 to 3303-12-16. Associated with Colonia Council. Scores of pilots delivered
   materials to Pilkington Orbital and eliminated agitators in the Einheriar system
   to support immigrants fleeing the Thargoid threat.
+bio_de: Einheriar ist ein unabhängiges System in der Region Colonia. Im August 3312
+  platzierte der Colonia Council dort ein Touristen-Beacon als eines von sechs Systemen,
+  die an den zehnten Jahrestag der Siedlung erinnern.
 reserve: Pristine
 ---
 

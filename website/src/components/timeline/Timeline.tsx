@@ -451,6 +451,9 @@ export default function Timeline({
           </div>
           {group.articles.map((art) => {
             const isSelected = selectedArticle?.uuid === art.uuid;
+            // Collapsed-card preview: German summary when available, else English
+            const previewTr = lang === 'de' ? deArticles[art.uuid] : undefined;
+            const previewText = previewTr?.summary_de || art.summary;
             return (
               <div
                 key={art.uuid}
@@ -469,8 +472,8 @@ export default function Timeline({
                     <div onClick={(e) => handleHeaderClick(e, art)} style={{ cursor: 'pointer' }}>
                       <div className="timeline-date">{art.date}</div>
                       <div className="timeline-title">{art.title}</div>
-                      {!isSelected && art.summary && (
-                        <div className="timeline-preview ai-content">{art.summary}</div>
+                      {!isSelected && previewText && (
+                        <div className="timeline-preview ai-content">{previewText}</div>
                       )}
                     </div>
                     <div className="timeline-meta ai-content-flex">

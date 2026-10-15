@@ -8,6 +8,21 @@ mention_count: 3
 bio: 'A heavy multipurpose starship renowned for its exceptional jump range and cargo
   capacity, the Anaconda became the vessel of choice for deep-space explorers and endurance
   racers in the early 3300s.'
+bio_de: Die Anaconda etablierte sich lange vor den großen Kolonisierungswellen der
+  3300er als das definitive Tiefraum-Erkundungsschiff. Ihre Kombination aus außergewöhnlicher
+  Sprungreichweite, riesigen Treibstoffreserven und großzügigen internen Abteilen
+  ermöglichte es Piloten, Ziele zu erreichen, die kleinere Schiffe schlicht nicht ansteuern
+  konnten. Im Dezember 3302 demonstrierte Kommandant Allitnil diese Fähigkeiten mit
+  einem neuen Ausdauerrekord – eine Reise von Sol zur Jaques Station in Colonia ohne
+  Zwischenstopp und ohne Treibstoffskimmer, mit 5.489 Hyperraumsprüngen in neun Tagen.
+
+  Der Buckyball Racing Club und Entdecker wie Virgil Kyle untermauerten den Ruf der
+  Anaconda zusätzlich, indem sie mit ihr die Grenzen des Machbaren im Langstreckenflug
+  ausloteten. Bestimmte entlegene Systeme waren nur mit Anacondas und Asp Explorern
+  zu erreichen, die für nahezu maximale Sprungreichweiten ausgerüstet waren, was eine
+  exklusive Schicht von Zielen schuf, die nur Piloten zugänglich waren, die sich die
+  leistungsfähigsten Erkundungsschiffe der Galaxis leisten konnten. Das Vermächtnis
+  der Anaconda ist untrennbar mit der Karte der menschlichen Expansion verknüpft.
 ---
 
 

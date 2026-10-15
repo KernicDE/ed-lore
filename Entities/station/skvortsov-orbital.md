@@ -16,6 +16,18 @@ bio: 'Skvortsov Orbital is a starport in Elite Dangerous, significant from 3302-
   plague continues to affect starports across inhabited space.; Several starports
   previously closed due to Unknown Artefact-related interference have been restored
   through the application of meta-alloys.'
+bio_de: Die Skvortsov Orbital ist eine Sternenstation im System 63 G. Capricorni,
+  die im Mai 3302 Berühmtheit erlangte, als O'Malligan's Coffee Bar Pläne für eine
+  riesige Party für die zurückkehrenden Entdecker der Distant-Worlds-Expedition ankündigte.
+  Die Diamond Frogs, die kontrollierende Fraktion des Systems, koordinierten mit der
+  Pilots Federation die Beschaffung von Alkohol und Rauschmitteln für die Gala und
+  belohnten Piloten, die zum Fest beitrugen.
+
+  Die Station wurde zum Symbol für die Kameradschaft der Entdecker-Community; Universal
+  Cartographics und die Pilots Federation unterstützten die Veranstaltung. Die Entdecker-Gala
+  der Skvortsov Orbital zeigte, wie Grenzstationen als Treffpunkte für unabhängige
+  Piloten dienen konnten, die von Tiefraumexpeditionen zurückkehrten, und überbrückte
+  die Kluft zwischen der Blase und den fernen Regionen der Galaxis.
 system: 63 G. Capricorni
 station_type: Orbital Station
 distance_to_arrival: 557

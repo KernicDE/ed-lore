@@ -28,6 +28,18 @@ bio: 'Eravate is a system in Elite Dangerous, significant from 3302-01-20 to 330
   Notable events include: The technological plague continues to affect starports across
   inhabited space.; An Alliance of Commanders including Kermit Laphroaig, ThatDamnRanga,
   Ollobrains, and Zenith Ddraiglas forms to saturate Ackerman Market in Eravate ...'
+bio_de: Eravate ist ein föderales System, das zu den ersten gehörte, die Anfang 3302
+  von der technologischen Seuche betroffen waren. Der Ackerman Market in Eravate war
+  eine von drei Sternenstationen, die alle Dienste mit Ausnahme des Andockens und des
+  Zugangs zur Schiffswerft einstellten, während sich mysteriöse technische Störungen
+  auf 22 Systeme ausbreiteten.
+
+  Die Systeme der Station litten unter Stromausfällen und Fehlfunktionen, die später
+  als Folge der Nähe zu Unbekannten Artefakten verstanden wurden – frühe Belege für
+  die Störungen durch Thargoid-Technologie. Eravate stellt damit einen der ersten dokumentierten
+  Fälle dar, aus dem sich eine große Bedrohung für den Stationsbetrieb entwickeln sollte;
+  die technologische Seuche kündigte den anschließenden Thargoid-Konflikt in vollem
+  Umfang an.
 reserve: Major
 ---
 

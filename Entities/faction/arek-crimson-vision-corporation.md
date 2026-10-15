@@ -14,6 +14,22 @@ related_entities:
 bio: 'A corporate arms supplier active in early 3304, Arek Crimson Vision Corporation
   launched a weapons supply campaign to bolster Colonia''s defences against the Thargoid
   threat.'
+bio_de: Im März 3304 erkannte die Arek Crimson Vision Corporation einen entstehenden
+  Markt im Bedarf der Region Colonia an militärischem Material. Während sich die Thargoid-Feindseligkeiten
+  im gesamten besiedelten Raum zuspitzten, fehlte der abgelegenen Kolonie die industrielle
+  Basis, um eigene Waffen in ausreichender Menge herzustellen. Das Unternehmen startete
+  eine Kampagne, um Colonias militärische Stärke durch direkte Waffenlieferungen zu
+  stärken, gab offene Bestellungen für Waffen auf und versprach Belohnungen für Piloten,
+  die Güter zum Gold Hub lieferten.
+
+  Die Initiative fand Unterstützung durch Aegis und die Pilots Federation, die beide
+  erkannten, dass ein wehrloses Colonia eine katastrophale Schwachstelle in der strategischen
+  Lage der Menschheit darstellen würde. Die Fähigkeit der Arek Crimson Vision Corporation,
+  Lieferketten über Tausende von Lichtjahren zu mobilisieren, zeigte die wachsende
+  Raffinesse konzernübergreifender Logistiknetze in der Mitte der 3300er. Obwohl ihre
+  Kampagne kaum eine Woche dauerte, trugen die in diesem Zeitraum gelieferten Waffen
+  zu Colonias Verteidigungsfähigkeit in einer kritischen Phase der Thargoid-Expansion
+  bei.
 ---
 
 

@@ -7,7 +7,12 @@ source: GitHub
 summary: The second Colonia Council migration appeal concludes with hundreds of organisations
   delivering materials to Jaques Station. The resources will fund infrastructure projects
   throughout the Colonia Nebula.
+summary_de: Der zweite Migrationsaufruf des Colonia Council ist abgeschlossen; hunderte
+  Organisationen lieferten Material zur Jaques Station. Die Ressourcen werden Infrastrukturprojekte
+  im gesamten Colonia-Nebel finanzieren.
 player_impact: Collect rewards from Jaques Station in the Colonia system.
+player_impact_de: Holen Sie Ihre Belohnungen an der Jaques Station im System Colonia
+  ab.
 persons: []
 groups:
 - Colonia Council
@@ -22,11 +27,19 @@ topics:
 arc_id: jaques-station
 modern_impact: Continued growth of the Colonia deep-space settlement through community-supported
   migration and infrastructure campaigns.
+modern_impact_de: Kontinuierliches Wachstum der Colonia-Tiefraumsiedlung durch gemeinschaftsgetragene
+  Migrations- und Infrastrukturkampagnen.
 legacy_weight: 3
 significance: medium
 related_uuids:
 - 54436e18-5fa7-50cf-93b2-142ab37e095f
 - b997725a-f24c-5d2e-b616-3a6e13903719
+body_de: |
+  Der zweite Migrationsaufruf des Colonia Council ist zu Ende gegangen. Hunderte Organisationen beteiligten sich an der Kampagne und lieferten große Mengen Material zur Jaques Station, in der Hoffnung, sich einen Platz im Colonia-Nebel zu sichern.
+
+  In einer Erklärung sagte ein Sprecher des Colonia Council:
+
+  „Wir sind denjenigen, die zu diesem Aufruf beigetragen haben, zutiefst dankbar; er hat das anhaltende Engagement der galaktischen Gemeinschaft für die Colonia-Gemeinschaft unter Beweis gestellt. Das erhaltene Material wird in verschiedenen Infrastrukturprojekten in der gesamten Region eingesetzt."
 ---
 
 
