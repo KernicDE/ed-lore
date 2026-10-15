@@ -26,6 +26,18 @@ edsm_url: https://www.edsm.net/en/system/id/5533/name/Minerva
 inara_url: https://inara.cz/elite/starsystem/?search=Minerva
 bio: An independent high-tech system that became the staging ground for Brewer Corporation's
   Trailblazer megaship fleet expansion in 3311.
+bio_de: Die Brewer Corporation wandte sich im Februar 3311 an das Minerva-System,
+  um eine neue Welle von Trailblazer-Megaschiffen zu beliefern, die unabhängige Kolonialisierungsanstrengungen
+  unterstützen sollten. Mark Rennik, Chief Operating Officer des Konzerns, forderte
+  Lieferungen an die Starlace Station, um eine knappe Zwei-Wochen-Frist zu halten,
+  und argumentierte, dass frühe Kolonien am Rand des besiedelten Raums mobile Marktunterstützung
+  brauchten.
+
+  Die Kampagne gelang und fügte der Flotte fünf Trailblazer-Megaschiffe hinzu. Rennik
+  zitierte die Resonanz als Beweis für ‚großen Appetit, die neueste Grenze zu durchbrechen'.
+  Eine sekundäre Kopfgeld-Initiative zum Schutz von Händlern kündigte die Sicherheitsprobleme
+  an, die später Kolonialisierungskonvois plagen sollten, und machte Minerva zum
+  Symbol sowohl menschlichen Ehrgeins als auch Grenzverletzbarkeit.
 reserve: Low
 ---
 

@@ -13,6 +13,29 @@ bio: Admiral Aden Tanner is a senior Federal Navy officer who served as Aegis's 
   headquarters at Hind Mine. Defeated by pilots supporting Salvation and court-martialed,
   his trial was suspended after Ram Tah provided evidence vindicating his suspicions
   about Salvation's Guardian-derived superweapons.
+bio_de: Aden Tanner war einer der erfahrensten Marinekommandanten der Föderation,
+  bevor er 3303 zum militärischen Chefverbindungsoffizier von Aegis ernannt wurde.
+  Als Chief of Federal Security hatte er Gegenaufklärungsoperationen im gesamten
+  föderalen Raum geleitet – Erfahrung, die sich als wertvoll erwies, als die Supermächte
+  zur Zusammenarbeit gegen die Thargoid-Bedrohung gezwungen waren.
+
+  In Aegis koordinierte Tanner militärische Reaktionen auf Invasionen, leitete Verteidigungsaufstellungen
+  und kommandierte das Megaschiff Musashi. Während Tesreau der wissenschaftlichen
+  Forschung vorstand, bewältigte Tanner die militärische Realität – organisierte
+  Evakuierungen, verteidigte Außenposten im Plejaden-Nebel und plante Gegenoffensiven.
+
+  Tanner gehörte zu den ersten hochrangigen Offizieren, die Salvation misstrauten,
+  und vermutete, dass die Vorführung von Cornsar inszeniert war, indem Thargoids mit
+  Guardian-Artefakten gezielt angelockt wurden. Als offizielle Kanäle versagten, kaperte
+  er die Musashi im November 3307 und startete einen unbefugten Angriff auf Hind
+  Mine, Salvations Hauptquartier. Getreue Salvations überwältigten seine Taskforce,
+  und Tanner wurde festgenommen und wegen Meuterei vor Gericht gestellt.
+
+  Der Prozess wurde ausgesetzt, nachdem Ram Tah Belege lieferte, dass Salvations
+  Superwaffen Guardian-Komponenten enthielten, die von der Proteus-Stätte stammten
+  – und Tanners Verdacht bestätigten. Doch der politische Schwung hinter Salvation
+  sorgte dafür, dass er weiterhin auf der Seite stand und Aegis aufgelöst wurde. Seine
+  Karriere veranschaulicht das Dilemma ehrenhafter Offiziere in unehrenhaften Zeiten.
 ---
 
 

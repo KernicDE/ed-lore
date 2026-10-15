@@ -8,9 +8,18 @@ summary: Brewer Corporation issued an urgent call for Bromellite and Cobalt to b
   multiple new starports, with the Trailblazer Dream in HIP 90578 as staging point.
   CEO Madelyn Teague confirmed considerable scale but declined to name clients, while
   pilots received private Power messages about HIP 87621.
+summary_de: Die Brewer Corporation rief mit Nachdruck zur Lieferung von Bromellite
+  und Kobalt für den Bau mehrerer neuer Sternenhäfen auf, mit der Trailblazer Dream
+  in HIP 90578 als Sammelpunkt. CEO Madelyn Teague bestätigte erhebliches Ausmaß,
+  lehnte es aber ab, Auftraggeber zu nennen; Piloten erhielten private Nachrichten
+  ihrer Mächte zu HIP 87621.
 player_impact: Independent pilots delivered Bromellite and Cobalt to the Trailblazer
   Dream in HIP 90578 for rapid starport construction. Pilots received private messages
   from their Power contacts urging support for securing interests around HIP 87621.
+player_impact_de: Unabhängige Piloten lieferten Bromellite und Kobalt zur Trailblazer
+  Dream in HIP 90578, um den raschen Sternenhafenbau zu ermöglichen. Piloten erhielten
+  private Nachrichten von ihren Kontakten der Mächte, die zur Unterstützung bei der
+  Sicherung der Interessen rund um HIP 87621 aufriefen.
 persons:
 - Madelyn Teague
 groups:
@@ -29,6 +38,19 @@ modern_impact: Madelyn Teague's refusal to name clients while confirming 'consid
   vessel — as a military construction staging point reveals how Brewer repurposes
   civilian infrastructure for strategic operations. This pattern of secrecy continues
   until the October Accords force public disclosure.
+modern_impact_de: Madelyn Teagues Weigerung, Auftraggeber zu nennen, bei gleichzeitiger
+  Bestätigung ‚erheblichen' Ausmaßes, ist das erste deutliche Signal, dass die Supermächte
+  heimlich um HIP 87621 mobilisieren. Die Nutzung der Trailblazer Dream – angeblich
+  ein Schiff zur Kolonisationsunterstützung – als militärischer Baustützpunkt zeigt,
+  wie Brewer zivile Infrastruktur für strategische Operationen umwidmet. Dieses Muster
+  der Geheimhaltung hält an, bis die October Accords öffentliche Offenlegung erzwingen.
+body_de: |
+  Die Brewer Corporation hat mit Nachdruck zur Lieferung abgebauter und gefertigter Materialien für den raschen Bau mehrerer neuer Sternenhäfen aufgerufen.
+  In der Piloten-Community verbreiten sich Berichte über interne Mitteilungen ihrer Macht-Kontakte, die gezielt zur Unterstützung bei der Sicherung der Interessen rund um HIP 87621 aufrufen.
+  Das Unternehmen bestätigte zwar, dass die Priorität sofortige Bearbeitung habe, lehnte es aber ab, Auftraggeber oder geplante Einsatzorte zu benennen.
+  Die CEO des Megakonzerns, Madelyn Teague, erklärte:
+  „Die Brewer Corporation hält sich an die strengsten Standards der Mandantenvertraulichkeit und kann daher den Ursprung dieses Auftrags nicht offenlegen. Was ich den Aktionären versichern kann – das Ausmaß und der begrenzte Zeitrahmen des Auftrags sind erheblich. Das hat zwar unsere Vorräte bestimmter Materialien beansprucht, aber wir unternehmen Schritte, um den Auftrag in dem Maßstab zu erfüllen, für den die Brewer Corporation berühmt ist."
+  Die Brewer Corporation hat die Trailblazer Dream im System HIP 90578 als Sammelpunkt für diesen Auftrag benannt; unabhängige Piloten sollen Bromellite oder Kobalt an ihren Warenmarkt liefern. Diese Materialien werden direkt an die Werften und Unterstützungsnetzwerke geschickt, die die modularen Sternenhafensektionen bauen.
 legacy_weight: 4
 significance: high
 related_uuids:

@@ -13,6 +13,18 @@ related_entities:
 - cobra
 - mk-ii-biological-scanner
 - mk-ii-sensor
+bio_de: Der Nomad ist ein von Schiffen gestartetes Erkundungsfahrzeug, entwickelt
+  von Faulcon DeLacy und im Juni 3312 in einem limitierten Vorabstart veröffentlicht.
+  Anders als herkömmliche, von Schiffen gestartete Jäger kann der Nomad unabhängig
+  vom Mutterschiff operieren und Piloten erlauben, enges Gelände und Planetenoberflächen
+  zu vermessen, ohne das Hauptfahrzeug zu riskieren. Er ist mit einem verbesserten
+  Mk-II-Bioscanner und einem Mk-II-Sensor zur Ortung biologischer Oberflächensignale
+  in Nahbereich ausgestattet. Das Design wurde gezielt an Entdecker vermarktet, die
+  größere Schiffe fliegen, und das Fahrzeug wurde in Partnerschaft mit Vista Genomics
+  während einer Erkundungsinitiative im Sanguineous Rim erprobt. Im Juli 3312 wurde
+  die Initiative als Erfolg eingestuft; Piloten bestätigten, dass der Nomad und seine
+  Scanner- und Sensormodule die Exobiologie-Probenahme und -forschung effizienter
+  machten als frühere Explorer-Ausstattungen.
 ---
 
 <!-- AUTO-GENERATED -->

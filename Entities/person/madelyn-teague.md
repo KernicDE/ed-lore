@@ -7,6 +7,25 @@ last_seen_date: '3312-10-08'
 mention_count: 7
 bio: Madelyn Teague is the CEO of Brewer Corporation who oversaw the Colonia Bridge
   project and the Dodec starport initiative in the early 3310s.
+bio_de: Madelyn Teague ist CEO der Brewer Corporation, einer Bau- und Ingenieur-Megacorporation,
+  die vor allem für das Colonia-Bridge-Projekt und die Dodec-Sternenhafeninitiative
+  bekannt ist. Unter ihrer Führung vollendete die Brewer Corporation 3308 die Colonia
+  Bridge – ein Netz aus sechs Sternenhäfen und 56 Megaschiffen, das die Kernsysteme
+  mit der Region Colonia verbindet und das Teague als verwirklichten ‚Traum' beschrieb.
+
+  Teague baute Brewers Portfolio an Tiefraum-Infrastruktur in den frühen 3310ern
+  weiter aus, darunter Erkundungsinitiativen und den Dodec-Sternenhafen, der im Mai
+  3312 die volle Produktionsverfügbarkeit erreichte. Ihre öffentlichen Stellungnahmen
+  betonen gemeinschaftliche Leistung und danken Piloten, deren Materiallieferungen
+  großangelegte Projekte erst möglich machten. Teagues Amtszeit steht für eine Verlagerung
+  der Strategie der Brewer Corporation hin zu öffentlich sichtbaren Infrastruktur-Megaprojekten,
+  die die Pilotengemeinschaft galvanisieren.
+
+  Im Oktober 3312 kündigte Teague die Entwicklung von ‚Jump-Satelliten' an – modifizierte
+  Beacon-Verstärker, die das Signal planetarer Körper nachahmen, wie es von Sprungcomputern
+  von Flottenträgern genutzt wird – und rief unabhängige Piloten dazu auf, Komponenten
+  zum Megaschiff Zero Squared im System HIP 74116 zu liefern, damit die erste Charge
+  an Engpässen um Rackham's Peak eingesetzt werden könne.
 ---
 
 # Madelyn Teague

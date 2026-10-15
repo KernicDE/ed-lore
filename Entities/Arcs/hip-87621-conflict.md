@@ -15,8 +15,15 @@ description: The unfolding mystery surrounding the permit-locked HIP 87621 syste
   the disappearance of exobiologist Terri Tora, and the October Consortium's controversial
   legal ownership of the system. Billionaire Zachary Rackham's involvement and conflicting
   claims fueled widespread speculation.
+description_de: Das sich entwickelnde Rätsel um das permit-gesperrte System HIP 87621,
+  das Verschwinden der Exobiologin Terri Tora und die umstrittene rechtmäßige Eigentümerschaft
+  des Systems durch das October Consortium. Die Einmischung des Milliardärs Zachary
+  Rackham und widersprüchliche Behauptungen schürten weit verbreitete Spekulationen.
 summary: A permit-locked system mystery that sparked speculation about hidden superpower
   projects and alien encounters, remaining largely classified.
+summary_de: Das Rätsel um ein permit-gesperrtes System, das Spekulationen über geheime
+  Projekte der Supermächte und Begegnungen mit Außerirdischen auslöste und weitgehend
+  unter Verschluss bleibt.
 status: Ongoing
 outcome: The October Accords placed HIP 87621 under corporate custodianship, with
   the October Consortium chairing neutrality between Imperial, Alliance, and independent
@@ -40,6 +47,31 @@ outcome: The October Accords placed HIP 87621 under corporate custodianship, wit
   kept secret. In September 3312, Winters escalated her rhetoric further, stating that
   Federal military analysts now assessed the October Accords coalition as a credible
   security threat over its exclusive research into weaponising Radicoida unica.
+outcome_de: Die October Accords stellten HIP 87621 unter die Obhut eines Unternehmens,
+  wobei das October Consortium als neutraler Vorsitz zwischen imperialen, allianzischen
+  und unabhängigen Mächten fungierte. Die Föderation war ausgeschlossen, nachdem sie
+  während des Konflikts ihren Fuß verloren hatte. Im Mai 3312 bestätigte Ram Tah Passagen
+  des Guardian-Archivs, die von aus Samenkapseln gewonnenen Substanzen traditioneller
+  Guardian-Fraktionen berichten; die biologischen Baupläne gleichen Radicoida unica
+  stark. Die Entdeckung wurde an das October Consortium durchgestochen, was dessen
+  plötzliches Interesse an Guardian-Artefakten auslöste und Fragen nach kommerzieller
+  Ausbeutung xenoarchäologischer Funde aufwarf. Im Juni 3312 stellte Ram Tah klar,
+  dass Radicoida unica eine natürliche Flora ist, die die Guardians zu medizinischen
+  Zwecken kultivierten – nicht das Produkt gentechnischer Manipulation. Dr. Roy Casimir
+  vom Holloway Bioscience Institute stimmte diesen Erkenntnissen zu und bekräftigte
+  die Hoffnung auf medizinische Durchbrüche, während er die fortgesetzte Kontrolle
+  des Consortium über die Forschungsdaten unterstrich. Ende Juni 3312 warnte Föderalpräsidentin
+  Felicia Winters öffentlich, die Föderation werde eine anhaltende Ausgrenzung aus
+  der Radicoida-unica-Forschung als potenzielle Bedrohung behandeln – mit der Aussicht
+  auf einseitige föderale Forschungsprioritäten und erneute Spannungen zwischen den
+  Supermächten über der Enklave. Im Juli 3312 entließ das October Consortium die
+  festgehaltene Xenobiologin Terri Tora überraschend ohne weitere Anklage. Vorsitzende
+  Lexi October führte Toras Kooperationsbereitschaft und die geänderten Umstände nach
+  den Accords an, während Tora selbst darauf bestand, dass wissenschaftliche Entdeckungen
+  wie Radicoida unica nicht geheim gehalten werden sollten. Im September 3312 verschärfte
+  Winters ihre Rhetorik weiter und erklärte, föderale Militäranalytiker stuften die
+  Koalition der October Accords angesichts ihrer exklusiven Forschung an der Aufrüstung
+  von Radicoida unica mittlerweile als glaubwürdige Sicherheitsbedrohung ein.
 phases:
 - 'Phase 1: The Lockdown (3311-09-02)'
 - 'Phase 2: The Enclave Conflict (3311-11-27)'

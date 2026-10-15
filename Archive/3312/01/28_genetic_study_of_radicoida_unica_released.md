@@ -7,9 +7,17 @@ source: API
 summary: Dr. Roy Casimir publishes first public Radicoida unica study. Mercurial genetic
   composition, symbiotic potential with creatures, and performance-enhancing seed
   pod compounds discovered. Lexi October claims competent oversight.
+summary_de: Dr. Roy Casimir veröffentlicht die erste öffentliche Radicoida-unica-Studie.
+  Quecksilbrige genetische Zusammensetzung, symbiotisches Potenzial mit Lebewesen
+  und leistungssteigernde Samenkapsel-Verbindungen entdeckt. Lexi October spricht
+  von kompetenter Aufsicht.
 player_impact: First public study of Radicoida unica released. Plant shows symbiotic
   potential and seed pods contain performance-enhancing compounds. Data partially
   redacted by October Consortium. No human trials imminent.
+player_impact_de: Erste öffentliche Studie zu Radicoida unica veröffentlicht. Die
+  Pflanze zeigt symbiotisches Potenzial, und die Samenkapseln enthalten leistungssteigernde
+  Verbindungen. Daten vom October Consortium teilweise geschwärzt. Keine Humanversuche
+  in absehbarer Zeit.
 persons:
 - Dr. Roy Casimir
 - Lexi October
@@ -34,6 +42,20 @@ modern_impact: First public data on Radicoida unica seeds a future pharmacologic
   or civilian enhancement applications. The seed pod compounds' ability to improve
   physical performance and reduce thinking time could eventually see widespread use
   or restriction.
+modern_impact_de: Die ersten öffentlichen Daten zu Radicoida unica säen ein künftiges
+  Wettrüsten der pharmazeutischen Forschung. Die Schwärzung von Daten durch das October
+  Consortium deutet auf proprietäre militärische oder zivile Steigerungsanwendungen
+  hin. Die Fähigkeit der Samenkapsel-Verbindungen, die körperliche Leistung zu verbessern
+  und die Denkzeit zu verkürzen, könnte letztlich weit verbreitete Nutzung oder strenge
+  Beschränkung erfahren.
+body_de: |
+  Die erste öffentlich zugängliche Studie zu Radicoida unica ist nach massivem Druck der exobiologischen Community veröffentlicht worden.
+  Radicoida unica, eine riesige, im System HIP 87621 einzigartige Pflanze, hat intensive Spekulationen über ihre Eigenschaften und Anwendungen ausgelöst. Sie gilt für große Mächte, die die Kontrolle über das Gebiet um das System anstreben, als Anlass für lang anhaltende militärische Aktionen.
+  Dr. Roy Casimir, leitender Forscher am Holloway Bioscience Institute, hat eine Studie zu Radicoida unica veröffentlicht, die auf Daten des October Consortium basiert, das derzeit die rechtmäßige Eigentümerschaft an HIP 87621 beansprucht.
+  „Unsere Erkenntnisse weisen auf eine bemerkenswerte genetische Zusammensetzung hin, die ich nur als quecksilbrig beschreiben kann. Die zelluläre Widerstandsfähigkeit und Anpassungsfähigkeit von Radicoida unica ist atemberaubend, selbst im Vergleich zu anderen bemerkenswerten Phänomenen, die wir bisher katalogisiert haben."
+  „Forschende des October Consortium heben Beobachtungen hervor, wonach die Pflanze bei längerer Exposition symbiotische Beziehungen mit Lebewesen eingehen kann. Sie scheint für Aktivität in ihrer Umgebung empfänglich zu sein und hat eine Blütezeit, in der Samenkapseln gebildet werden. Was mich wirklich begeistert, ist das Fleisch dieser Kapseln – es enthält eine Verbindung, die bei Labormäusen beispielsweise die körperliche Leistung verbessert und die Denkzeit verkürzt. Eine Fülle möglicher medizinischer Anwendungen wird diskutiert, und einige der vorgeschlagenen Ideen sind faszinierend."
+  Dr. Casimir stellte fest, dass die dem Holloway Institute bereitgestellten Daten vom October Consortium kuratiert worden waren und einige Aspekte geschwärzt waren. Dies wurde mit üblichem proprietärem Datenschutz begründet.
+  Lexi October gab eine Erklärung ab, die auf die von Dr. Casimir abgestimmt war, und behauptete, diese Datenfreigabe sei ein weiterer Beweis für die kompetente Aufsicht des October Consortium über HIP 87621.
 legacy_weight: 4
 significance: high
 related_uuids:

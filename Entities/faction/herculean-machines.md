@@ -13,6 +13,22 @@ related_entities:
 - achilles-corporation
 bio: Herculean Machines is a technology company that developed the Duradrive personal
   computer, defeating rival Supratech at the Rackham Ultratech Expo.
+bio_de: Herculean Machines ist ein Technologieunternehmen, das 3304 durch die Entwicklung
+  des Duradrive Personal Computers zu Prominenz gelangte. Gegründet und geleitet
+  von CEO Maddox Hurd, lieferte sich das Unternehmen eine erbitterte Rivalität mit
+  Supratech um konkurrierende Designs für Computergeräte der nächsten Generation.
+  Der Duradrive von Herculean Machines erwies sich auf der Rackham Ultratech Expo
+  letztlich als überlegen zu Supratechs Torc und funktionierte einwandfrei, wo die
+  holografischen Systeme des Rivalen bei Nutzern Übelkeit auslösten.
+
+  Die Entwicklung des Unternehmens wurde beinahe abgewürgt, als freigegebene Unterlagen
+  des Federal Security Service zeigten, dass Hurd beim Aufbau der Firma finanzielle
+  Beiträge von Personen mit Verbindungen zum organisierten Verbrechen angenommen
+  hatte. Hurd wies die Enthüllung als Schmutzkampagne von Supratech zurück, und Herculean
+  Machines erholte sich, um die Expo zu dominieren und Unternehmensfinanzierung zu
+  sichern. Der Vorfall illustrierte sowohl die rücksichtslose Natur des föderalen
+  Technologiesektors als auch die Widerstandsfähigkeit von Herculean Machines unter
+  öffentlicher Prüfung.
 ---
 
 # Herculean Machines

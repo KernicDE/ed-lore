@@ -11,6 +11,33 @@ related_entities:
 - aden-tanner
 - edmund-mahon
 - mars
+bio_de: Ram Tah ist ein führender Engineer und Xenologe, spezialisiert auf Guardian-Technologie;
+  seine Forschung trug wesentlich zum wissenschaftlichen Anti-Xeno-Fortschritt der
+  Menschheit bei. Bekannt wurde er 3302 durch die Entschlüsselung von Guardian-Artefakten
+  und die Nachbildung ihrer Technologie für den menschlichen Gebrauch, darunter die
+  XG-Jägerserie und verschiedene Modulbaupläne, die über Technologiebroker verteilt
+  wurden.
+
+  3305 schloss Aegis eine formale Partnerschaft mit Ram Tah, um die Produktion von
+  Guardian-Technologie zu erweitern und seine Expertise für den gemeinsamen Kriegseinsatz
+  der drei Supermächte zu nutzen. Seine folgenreichste Leistung kam 3308, als er
+  bestätigte, dass Salvations Superwaffe auf einem Guardian-Gerät basierte, das Azimuth
+  Biochemicals an der Proteus-Stätte entdeckt hatte – eine Enthüllung, die Admiral
+  Aden Tanners Bedenken bestätigte, die Auflösung von Aegis aber nicht verhindern
+  konnte. Ram Tah arbeitete bis zum Thargoid-Titanenkrieg mit Aegis, co-entwickelte
+  den Thargoid-Pulsneutralisator, der es Sonden erlaubte, Energiespitzen der Maelstroms
+  zu überstehen, und arbeitete mit Professor Ishmael Palin zusammen, um die auf die
+  Kernsysteme zulaufenden Abweich-Signale Ende 3308 zu analysieren.
+
+  3312 erweiterte Ram Tah seine Forschung auf exobiologische Verbindungen zu den
+  Guardians und untersuchte Archivdaten neu nach der Entdeckung von Radicoida unica
+  in HIP 87621. Er bestätigte, dass Guardian-Passagen ein ‚Königreich der gesegneten
+  Wurzeln' und Substanzen aus Samenkapseln beschreiben, die von traditionalistischen
+  Guardian-Fraktionen zur Steigerung von Kriegern genutzt wurden. Er stellte klar,
+  dass es sich bei der Pflanze wahrscheinlich um eine natürliche Art handelt, die
+  die Guardians vor Millionen von Jahren kultivierten und mit anderen Pflanzen kreuzbestäubten,
+  um ihre medizinischen Wirkungen zu steigern – nicht um ein Produkt gentechnischer
+  Manipulation.
 ---
 
 <!-- AUTO-GENERATED -->

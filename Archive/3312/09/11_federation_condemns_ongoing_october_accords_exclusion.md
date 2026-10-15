@@ -8,13 +8,31 @@ summary: President Felicia Winters escalated the Federation's stance on its excl
   the October Accords, with Federal military analysts now assessing the October Consortium's
   coalition as a credible security threat over its exclusive weaponisation research into
   Radicoida unica.
+summary_de: Präsidentin Felicia Winters verschärfte die Haltung der Föderation zu
+  ihrer Ausgrenzung aus den October Accords; föderale Militäranalytiker stufen die
+  Koalition des October Consortium angesichts ihrer exklusiven Aufrüstungsforschung
+  an Radicoida unica mittlerweile als glaubwürdige Sicherheitsbedrohung ein.
 player_impact: No direct call to action for pilots. The escalation signals the Federation
   may be moving from diplomatic pressure toward more forceful measures regarding HIP 87621
   and Radicoida unica research access.
+player_impact_de: Kein direkter Aufruf zum Handeln für Piloten. Die Eskalation signalisiert,
+  dass die Föderation bei HIP 87621 und dem Zugang zur Radicoida-unica-Forschung
+  möglicherweise von diplomatischem Druck zu gewaltsameren Maßnahmen übergeht.
 modern_impact: Winters' warning marks a sharp hardening of the Federation's position since
   her June 3312 statement, framing the October Accords exclusion as an active security
   threat rather than a research disadvantage, and raising the risk of renewed superpower
   confrontation over HIP 87621.
+modern_impact_de: Winters' Warnung markiert eine deutliche Verschärfung der föderalen
+  Position seit ihrer Erklärung im Juni 3312. Die Ausgrenzung aus den October Accords
+  wird als aktive Sicherheitsbedrohung statt als Forschungsnachteil gerahmt, was das
+  Risiko erneuter Supermachtkonfrontationen über HIP 87621 erhöht.
+body_de: |
+  Präsidentin Felicia Winters gab heute eine Konferenz ab, in der sie die anhaltende Ausgrenzung der Föderation aus der laufenden Radicoida-unica-Forschung verurteilte.
+  Direkt aus dem White House in Olympus Village auf dem Mars erklärte sie der Presse, föderale Militäranalytiker hätten bestätigt, dass die Koalition unter dem October-Abkommen nun eine Bedrohung für die Sicherheit darstelle.
+  „Die mir vorgelegten Erkenntnisse kommen zu dem Schluss, dass die an den October Accords Beteiligten eine glaubwürdige Bedrohung für die Föderation darstellen", sagte sie.
+  „Aus welchem Grund oder auf welche Weise auch immer, die Nutzung der Radicoida-unica-Forschung wurde ausschließlich auf die Aufrüstung der Flora ausgerichtet. Wir können nur annehmen, dass wir angesichts der Ausgrenzung der Föderation aus den Accords nun ein Ziel sind."
+  Winters beendete die Pressekonferenz mit einer ernsten Warnung vor jeglichem Aggressionsversuch.
+  „Die Föderation wird keinen Angriff auf unsere souveräne Lebensweise dulden, und jede Gewaltanwendung wird mit der schärfsten Antwort beantwortet werden."
 topics:
 - diplomacy
 - federal politics

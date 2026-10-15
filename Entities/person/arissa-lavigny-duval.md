@@ -12,6 +12,24 @@ bio: Arissa Lavigny-Duval is the 16th Emperor of the Empire, crowned in October 
   first woman to hold the Imperial Throne. Her reign has been marked by Thargoid conflicts,
   the Marlinist refugee crisis, and challenges from Imperial hardliners including Nova
   Imperium and the NMLA.
+bio_de: Arissa Lavigny-Duval wurde 3243 während einer Affäre zwischen Kaiser Hengist
+  Duval und Florence Lavigny geboren. Als Lavigny aufgewachsen, wurde sie Senatorin
+  und baute sich einen Ruf für die Bekämpfung von Korruption und das Eintreten für
+  Ehre auf. Im Dezember 3300 erklärte sie öffentlich ihre wahre Abstammung, nachdem
+  Hengist seinen legitimen Sohn Harold für herrschaftsunfähig erklärt hatte.
+
+  Nach Hengists Ermordung durch Emperor's Dawn im August 3301 beriet der Senat zwei
+  Monate, bevor er Arissa am 6. Oktober 3301 wählte. Sie wurde die erste Frau auf
+  dem Imperialen Thron und setzte sich gegen konkurrierende Ansprüche von Aisling
+  Duval und Denton Patreus durch.
+
+  Ihre Herrschaft sah sich von Anfang an existenziellen Herausforderungen gegenüber
+  – Thargoid-Incursionen ab 3303, die marlinistische Flüchtlingskrise von 3306-3307
+  und ihre eigene Entführung durch die Lords of Restoration im Januar 3307 – eine
+  Verschwörung, die über ein Jahr lang mit einem Doppelgänger vertuscht wurde. Arissas
+  Regierungsstil verbindet vorsichtigen Konservatismus mit rigoroser Betonung von
+  Ehre und Antikorruption und macht sie zu einer der folgenreichsten Herrscherinnen
+  der imperialen Geschichte.
 ---
 
 

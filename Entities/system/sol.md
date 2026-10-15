@@ -31,6 +31,21 @@ bio: Sol is the birthplace of humanity and the capital system of the Federation,
   at the Battle of Achenar. With over 18 billion inhabitants, it remains one of the
   most densely populated systems in human space and the symbolic centre of the galaxy.
 reserve: Common
+bio_de: Sol ist der Stern, um den die menschliche Zivilisation entstand, und jede
+  Koordinate im menschlichen Raum wird relativ zu seiner Position gemessen. Die Expansion
+  der Menschheit begann in den 2070ern zögerlich mit Mondbasen und der ersten Marslandung.
+  2100 veränderten die Entdeckung fossiler Überreste auf dem Mars und die Bestätigung
+  der Existenz des Hyperraums die Zukunft der Menschheit und führten zur Frame Shift
+  Drive-Technologie und interstellaren Sonden in den 2130ern.
+
+  Die Föderation wurde 2242 formal gegründet und vereinte die Erde und ihre Kolonien.
+  Sols politische Dominanz endete 2325 nach der Niederlage in der Schlacht von Achenar,
+  was die Verlegung der föderalen Hauptstadt zum Mars auslöste. Im 34. Jahrhundert
+  hat Sols politische Bedeutung gegenüber Systemen wie Achenar und Alioth abgenommen,
+  doch es bleibt eines der am dichtesten besiedelten Systeme des menschlichen Raums.
+  Die Erde hat sich von Jahrhunderten ökologischer Schäden erholt, während der Mars
+  den Federal Congress beherbergt. Während der Thargoid-Konflikte war Sol stark befestigt
+  und ist nie äußerer Angriffen zum Opfer gefallen.
 ---
 
 <!-- AUTO-GENERATED -->

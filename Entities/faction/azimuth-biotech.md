@@ -17,6 +17,22 @@ bio: 'Azimuth Biotech is a organization active in Elite Dangerous lore from 3308
   front for Azimuth Biotech, admitting his identity as Caleb Wycherley''s successor
   and cl...; The superpowers announce they will continue collaborating with Azimuth
   Biotech despite revelations about its past, with military leaders arguing Sa...'
+bio_de: Azimuth Biotech ist die moderne Inkarnation von Azimuth Biochemicals, eines
+  vor zwei Jahrhunderten offiziell aufgelösten Unternehmens, das von seinem Gründer
+  Caleb Wycherley und seinen Nachfolgern heimlich am Leben gehalten wurde. Hinter
+  Fassaden wie Taurus Mining Ventures operierend, entwickelte Azimuth Guardian-basierte
+  Anti-Xeno-Superwaffen und führte Projekt Seraph durch – ein brutales Programm zur
+  Implantation menschlicher Piloten in erbeutete Thargoid-Scouts. Das wahre Wesen
+  des Unternehmens wurde 3308 enthüllt, als Salvation seine Identität als Wycherleys
+  Nachfolger offenbarte und die Supermacht-Flotten erkannten, dass sie mit einem
+  jahrhundertealten Waffenkonzern kooperiert hatten.
+
+  Azimuths berüchtigtste Operation war die Proteus-Welle in HIP 22460, eine elektromagnetische
+  Guardian-Pulswaffe zur Ausrottung der Thargoid-Bedrohung. Die Waffe versagte katastrophal,
+  tötete Salvation und entfesselte die Thargoid-Maelstroms auf die Kernsysteme. Unter
+  neuer Führung produziert Azimuth Biotech weiter Anti-Xeno-Waffen, doch sein Ruf
+  ist durch die HIP-22460-Katastrophe und die moralische Bankrotterklärung seiner
+  Forschungsmethoden dauerhaft befleckt.
 ---
 
 

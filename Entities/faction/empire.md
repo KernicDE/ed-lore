@@ -24,6 +24,28 @@ bio: The Empire of Achenar is one of humanity's three superpowers, founded in 22
   Senate, with a stratified society based on Roman-style patronage. Imperial slavery is
   legal and culturally significant. The current Emperor is Arissa Lavigny-Duval, the 16th
   ruler of the Duval dynasty.
+bio_de: Das Imperium begann 2292 als idealistisches Projekt, als Marlin Duval auf
+  Capitol die Republik von Achenar als egalitäre Alternative zur föderalen Konzernkontrolle
+  gründete. Ihre Vision starb mit ihr 2296; ihr Bruder Henson riss die Macht an sich,
+  löste den Regierungsrat auf und erklärte sich 2320 zum ersten Kaiser. Die Dynastie
+  Duval herrscht seitdem; die amtierende Kaiserin Arissa Lavigny-Duval wurde 3301
+  vom Senat gewählt.
+
+  Die Unabhängigkeit des Imperiums wurde in der Schlacht von Achenar (2324-2325)
+  geschmiedet, als eine föderale Invasionsflotte unter Admiral Richard Morgan von
+  Henson Duvals Streitkräften vernichtet wurde. Der Sieg sicherte die Autonomie des
+  Imperiums und löste eine Krise der föderalen Führung aus, die zur Verlegung der
+  Hauptstadt zum Mars beitrug. Das Imperium wird von einem erblichen Kaiser und dem
+  Senat aus 1.000 Senatoren regiert, mit einer streng geschichteten ‚Cliens'-Gesellschaft
+  nach antik-römischem Patronagemuster. Die imperiale Sklaverei ist legal und kulturell
+  verankert, während Status und Ehre die Währung der Macht sind.
+
+  Das Imperium sah sich im 34. Jahrhundert existenziellen externen und internen Bedrohungen
+  gegenüber. Es schloss sich 3303 mit Föderation und Allianz zur Gründung von Aegis
+  gegen die Thargoids zusammen, obwohl die Rivalität der Supermächte weiterging.
+  Die NMLA-Terror-Kampagne von 3306-3308 legte tiefe Brüche frei und gipfelte in
+  der Enthüllung, dass die Lords of Restoration – ein geheimes Kartell von Senatoren
+  – die Entführung von Kaiserin Arissa 3307 inszeniert hatten.
 ---
 
 

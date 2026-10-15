@@ -7,8 +7,14 @@ source: API
 summary: First weekly enclave standings report three weeks after the conflict began.
   Arissa Lavigny-Duval leads with 7 systems, Aisling Duval holds 6, and Zemina Torval
   has been eliminated from contention.
+summary_de: Erster wöchentlicher Enklaven-Ständebericht drei Wochen nach Konfliktbeginn.
+  Arissa Lavigny-Duval führt mit 7 Systemen, Aisling Duval hält 6, und Zemina Torval
+  ist aus dem Rennen ausgeschieden.
 player_impact: Pledged pilots fought across the 49-system HIP 87621 enclave in two-week
   Powerplay campaigns. Contributors collected rewards from registration megaships.
+player_impact_de: Gelobte Piloten kämpften in zweiwöchigen Powerplay-Kampagnen in
+  der 49 Systeme umfassenden HIP-87621-Enklave. Teilnehmer sammelten Belohnungen
+  an den Registrierungs-Megaschiffen ein.
 persons:
 - Conrad Sterling
 groups: []
@@ -25,6 +31,21 @@ modern_impact: Imperial-aligned Powers (Arissa and Aisling) control 13 of 25 rep
   exclusion from the October Accords two months later. Zemina Torval's elimination
   shows that even established Powers can be driven from contested biological-resource
   zones.
+modern_impact_de: Imperiale Mächte (Arissa und Aisling) kontrollieren 13 der 25
+  gemeldeten Systeme und demonstrieren damit imperiale Dominanz in der Enklave. Das
+  vollständige Fehlen föderaler Vertretung – Jerome Archer bereits ausgeschieden
+  – weist voraus auf die Ausgrenzung der Föderation aus den October Accords zwei
+  Monate später. Zemina Torvals Ausscheiden zeigt, dass selbst etablierte Mächte aus
+  umkämpften Zonen biologischer Ressourcen vertrieben werden können.
+body_de: |
+  Die dieswöchige Analyse des von Schlüsselfiguren in der Enklave ausgeübten Einflusses ist eingetroffen, von Conrad Sterling von Vox Galactica.
+  Seine jüngste Befragung der Systembevölkerungen deutet darauf hin, dass folgende fünf Mächte den größten Einflussbereich genießen:
+  Rang 1: A. Lavigny-Duval – 7 Systeme
+  Rang 2: Aisling Duval – 6 Systeme
+  Rang 3: Pranav Antal – 5 Systeme
+  Rang 4: Nakato Kaine – 4 Systeme
+  Rang 5: Yuri Grom – 3 Systeme
+  Zemina Torval hat ihren Stützpunkt in der Enklave verloren und ist im Rennen um die Kontrolle der Region nun ausgeschieden. Die verbleibenden Mächte kämpfen darum, sich an ihren derzeitigen Systemen festzuhalten, während die Schlacht weiterghet.
 legacy_weight: 2
 significance: low
 related_uuids:

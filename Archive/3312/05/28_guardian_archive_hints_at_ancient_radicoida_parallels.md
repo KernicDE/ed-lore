@@ -8,16 +8,44 @@ summary: Ram Tah has confirmed Guardian Archive passages describing a substance 
   from seed pods used by traditionalist Guardian factions to enhance warriors. The biological
   schematics bear a strong resemblance to recent resonance imaging of Radicoida unica,
   suggesting a deliberate ancient connection between the flora and the extinct Guardians.
+summary_de: Ram Tah hat Passagen des Guardian-Archivs bestätigt, die eine aus Samenkapseln
+  gewonnene Substanz beschreiben, mit der traditionalistische Guardian-Fraktionen
+  ihre Krieger steigerten. Die biologischen Baupläne ähneln stark jüngsten Resonanzaufnahmen
+  von Radicoida unica – ein Hinweis auf eine bewusste antike Verbindung zwischen
+  der Flora und den ausgestorbenen Guardians.
 player_impact: No direct call to action, but the discovery validates long-standing
   speculation about Radicoida unica's ancient engineered origins. Independent pilots
   who contributed to earlier research initiatives may see future developments as the
   October Consortium pursues Guardian artefacts based on leaked information.
+player_impact_de: Kein direkter Aufruf zum Handeln, aber die Entdeckung bestätigt
+  langjährige Spekulationen über die antiken, desigten Ursprünge von Radicoida unica.
+  Unabhängige Piloten, die zu früheren Forschungsinitiativen beigetragen haben, dürften
+  auf künftige Entwicklungen blicken, während das October Consortium auf Basis durchgestochener
+  Informationen Guardian-Artefakte verfolgt.
 modern_impact: The discovery establishes a tangible link between Radicoida unica and
   the extinct Guardian civilization, raising profound questions about deliberate biological
   engineering across deep time. The unauthorized leak to the October Consortium highlights
   ongoing tensions between open scientific inquiry and corporate control of xenoarchaeological
   discoveries. This may reshape understanding of both the Guardians' biological knowledge
   and the true purpose of Radicoida unica's unique pharmacological properties.
+modern_impact_de: Die Entdeckung etabliert eine greifbare Verbindung zwischen Radicoida
+  unica und der ausgestorbenen Guardian-Zivilisation und wirft tiefgreifende Fragen
+  nach bewusster biologischer Gestaltung über tiefe Zeiträume auf. Die unbefugte Weitergabe
+  an das October Consortium unterstreicht anhaltende Spannungen zwischen offener
+  wissenschaftlicher Untersuchung und unternehmerischer Kontrolle xenoarchäologischer
+  Funde. Sie könnte das Verständnis sowohl des biologischen Wissens der Guardians
+  als auch des wahren Zwecks der einzigartigen pharmazeutischen Eigenschaften von
+  Radicoida unica neu formen.
+body_de: |
+  Ram Tah hat die Existenz einer früheren Erwähnung dessen bestätigt, was Radicoida unica zu sein scheint, in den Guardian-Archiven.
+  In einer Erklärung gegenüber Leon Banerjee, Wissenschaftskorrespondent von Vox Galactica, gab er bekannt, dass er die Archivdaten seit der Entdeckung der seltenen Flora neu untersucht hatte, in der Hoffnung, mehr über die vergangenen Ursprünge der Pflanze zu erfahren.
+  Ram Tah verwies auf Archivpassagen, die ein ‚Königreich der gesegneten Wurzeln' beschreiben, neben Berichten über eine Substanz aus Samenkapseln, die von Guardian-Fraktionen genutzt wurde, die die fortschrittliche Technologie ablehnten.
+  „Diese traditionalistischen Gruppen scheinen eine natürlich vorkommende Verbindung genutzt zu haben, um ihre Krieger vor der Schlacht in ihren Bürgerkriegen zu steigern", erklärte er.
+  „Wenn auch vieles am Kontext unklar bleibt – die Beschreibungen sind verblüffend."
+  Begleitende Diagramme in den geborgenen Daten enthalten zudem biologische Baupläne, die jüngsten Resonanzaufnahmen von Radicoida unica stark ähneln.
+  „Es war jedoch bedauerlich, dass ein Mitglied meines Teams sich selbst übernahm und das October Consortium ohne Erlaubnis über meine Entdeckung informierte", fügte er hinzu.
+  „Ich kann nur annehmen, dass dies ihr plötzliches Interesse an Guardian-Artefakten ausgelöst hat. Wir waren diese Informationen schließlich zu teilen bereit."
+  Die Bedeutung dieser Entdeckung bleibt ungewiss, doch viele glauben inzwischen weithin, dass sie auf eine weitaus ältere, bewusste Verbindung zwischen der Pflanzenart und den längst ausgestorbenen Guardians hinweisen könnte.
 persons:
 - Ram Tah
 - Leon Banerjee

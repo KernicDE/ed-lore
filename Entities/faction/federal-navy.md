@@ -18,6 +18,26 @@ bio: The Federal Navy is the military arm of the Federation, operating capital s
   became embroiled in the Starship One conspiracy, when Fleet Admiral Lucas Vincent
   conspired with Core Dynamics CEO Jupiter Rochester to assassinate President Jasmina
   Halsey in 3301. It operates under civilian control through the Federal Congress.
+bio_de: Die Federal Navy führt ihre Ursprünge auf die Gründung der Föderation 2242
+  zurück. Sie erlitt eine historische Demütigung in der Schlacht von Achenar 2325,
+  als eine Expeditionsflotte von Henson Duvals Streitkräften vernichtet wurde – eine
+  Niederlage, die die Unabhängigkeit des Imperiums sicherte und die Verlegung der
+  föderalen Hauptstadt zum Mars einleitete.
+
+  Im 34. Jahrhundert ist das Spitzenschiff der Marine der Farragut Battle Cruiser,
+  ein zwei Kilometer langes Kapitalschiff, dessen Einsatz im Allgemeinen genügt, alle
+  außer den größten Gefechten zu beenden. Ihr Verhältnis zur Zivilregierung war angespannt.
+  Während des Lugh-Feldzugs 3301 tötete der Befehl von Präsidentin Halsey, einen
+  unbewaffneten Flüchtlingskonvoi anzugreifen, schätzungsweise 9.322 Zivilisten und
+  veranlasste hochrangige Kommandanten, die Loyalität zu Zachary Hudson zu wechseln.
+  Die folgende Verschwörung von Flottenadmiral Lucas Vincent mit Core-Dynamics-CEO
+  Jupiter Rochester zur Zerstörung der Starship One – 3307 aufgedeckt – beschädigte
+  den Ruf der Marine weiter.
+
+  Während der Thargoid-Konflikte leistete die Federal Navy Beiträge zu Aegis und
+  operierte nach der Auflösung von Aegis 3308 später unabhängige Anti-Xeno-Taskforces.
+  Sie bleibt die dominante Militärmacht im föderalen Raum, doch ihre Verbindung zu
+  den umstrittenen Politiken der Hudson-Regierung beschattet ihren Stand weiterhin.
 ---
 
 

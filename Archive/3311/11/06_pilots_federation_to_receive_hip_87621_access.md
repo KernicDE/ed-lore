@@ -8,9 +8,16 @@ summary: The Pilots' Federation announced licensed Commanders would access HIP 8
   from November 13th after weeks of superpower pressure, while Lexi October defended
   October Consortium's actions as legal and warned of dangerous precedent for independent
   entities.
+summary_de: Die Pilots' Federation kündigte an, dass lizenzierte Kommandanten ab dem
+  13. November nach wochenlangem Druck der Supermächte Zugang zu HIP 87621 erhalten;
+  Lexi October verteidigte das Vorgehen des October Consortium als legal und warnte
+  vor einem gefährlichen Präzedenzfall für unabhängige Organisationen.
 player_impact: Licensed Commanders prepared to access HIP 87621 from 16:00 UGT on
   13th November 3311, following the Pilots' Federation arrangement with October Consortium
   under superpower pressure.
+player_impact_de: Lizenzierte Kommandanten bereiteten sich auf den Zugang zu HIP 87621
+  ab 16:00 UGT am 13. November 3311 vor, nachdem die Pilots' Federation unter Druck
+  der Supermächte eine Vereinbarung mit dem October Consortium getroffen hatte.
 persons:
 - Lexi October
 groups:
@@ -28,6 +35,22 @@ modern_impact: 'Lexi October''s warning about ''dangerous precedence'' for indep
   a calculated gambit: by framing Commanders as neutral scientific observers, she
   attempts to maintain control while appeasing pressure. The tactic fails when Radicoida
   unica''s pharmaceutical value becomes clear.'
+modern_impact_de: Lexi Octobers Warnung vor ‚gefährlichem Präzedenzfall' für unabhängige
+  Organisationen erweist sich als prophetisch – innerhalb von drei Wochen dringen
+  Supermacht-Flotten in die Enklave ein. Ihre Entscheidung, der Pilots' Federation
+  statt Supermacht-Truppen Zugang zu gewähren, ist ein kalkuliertes Manöver. Indem
+  sie die Kommandanten als neutrale wissenschaftliche Beobachter rahmt, versucht sie,
+  die Kontrolle zu behalten und den Druck zugleich zu beschwichtigen. Die Taktik
+  scheitert, als der pharmazeutische Wert von Radicoida unica deutlich wird.
+body_de: |
+  **Meldung der Pilots' Federation**
+  Die Pilots' Federation hat bestätigt, dass lizenzierte Kommandanten vom October Consortium Zugang zum System HIP 87621 erhalten.
+  Der unerwartete Schritt folgt auf wochenlange Spekulationen um HIP 87621; das wachsende Interesse aller drei Supermächte häufte Druck auf den Megakonzern auf. Ein Sprecher der Pilots' Federation erklärte:
+  „Die anhaltende Verzögerung des October Consortium, die Permit-Kontrolle aufzugeben, hat die Spannungen zwischen politischen und wissenschaftlichen Kreisen nur weiter verschärft. Um Bedenken hinsichtlich der Art der Forschung in HIP 87621 zu zerstreuen, wurden wir eingeladen, lizenzierten Mitgliedern der Pilots' Federation Zugang zum System zu gewähren."
+  Lexi October, Chefin des October Consortium, zeigte sich in ihrer Stellungnahme gegenüber Vox Galactica weniger freundlich:
+  „Wir haben nichts weiter getan, als unsere Entdeckung in HIP 87621 aus Sicherheits- und Wissenschaftsgründen zu schützen. Das anhaltende Vordringen von Interessen der Supermächte und Konzerne schafft einen gefährlichen Präzedenzfall, der sich nur nachteilig auf andere unabhängige Organisationen auswirken kann, die beanspruchte Systeme betreiben."
+  „Ich hoffe, dass unsere Entscheidung, Kommandanten den Eintritt in dieses System zu erlauben, als Zeichen guten Willens verstanden wird. Unsere Arbeit ist legal, ethisch und in voller Übereinstimmung mit allen einschlägigen interstellaren Richtlinien zur Erforschung einheimischer Flora."
+  Die Pilots' Federation teilte mit, dass Kommandanten ab 16:00 UGT am 13. November 3311 Zugang zu HIP 87621 erhalten.
 legacy_weight: 4
 significance: high
 related_uuids:

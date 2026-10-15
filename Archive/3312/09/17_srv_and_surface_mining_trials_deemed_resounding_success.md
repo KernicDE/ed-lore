@@ -8,12 +8,30 @@ summary: Vodel and Wreaken Mining jointly declared the early-release field trial
   new Rhino SRV and its deployable mining rig a resounding success, with telemetry from
   independent pilots showing strong performance across rough planetary terrain and an
   unprecedented mineral yield from the rig.
+summary_de: Vodel und Wreaken Mining erklärten die Feldversuche der Vorabversion des
+  neuen Rhino-SRV und seines deploybaren Bergbau-Rigs gemeinsam für einen durchschlagenden
+  Erfolg; Telemetriedaten unabhängiger Piloten zeigen starke Leistung auch auf unwegsamem
+  Planetengelände und eine beispiellose Mineralausbeute des Rigs.
 player_impact: The trials have concluded, and the Rhino with its integrated mining rig
   remains available for exclusive purchase, with transition to standard shipyard
   inventories expected at a later date.
+player_impact_de: Die Versuche sind abgeschlossen, und der Rhino mit seinem integrierten
+  Bergbau-Rig bleibt zunächst exklusiv erhältlich; der Übergang in reguläre Werft-Inventare
+  wird zu einem späteren Zeitpunkt erwartet.
 modern_impact: A successful trial validates Wreaken's modulated laser-mining research and
   confirms the Rhino as a viable heavy mining platform, setting up a wider shipyard
   rollout that could reshape planetary surface extraction industry-wide.
+modern_impact_de: Ein erfolgreicher Versuch bestätigt Wreakens modulierte Laserbergbauforschung
+  und etabliert den Rhino als tragfähige schwere Bergbauplattform; der breitere Rollout
+  über die Werften könnte die planetare Oberflächenförderung branchenweit neu formen.
+body_de: |
+  Vodel bestätigte in einer gemeinsamen Presseerklärung mit Wreaken Mining, dass die jüngsten Feldversuche der Vorabversion des neuen Rhino-SRV ein großer Erfolg waren.
+  Von unabhängigen Piloten der jüngsten Initiative empfangene Telemetriedaten zeigten, dass das neue Bodenfahrzeug selbst auf unwegsamstem Planetengelände performte.
+  „Wir sind extrem stolz auf den Rhino und seine Fähigkeiten", sagte Owen McKenna, CEO von Core Dynamics.
+  Dr. Ben Curtis, Chefgeologe von Wreaken Mining, fügte hinzu: „Die Menge an Mineralien, die mit dem neuen Oberflächen-Bergbau-Rig gefördert wurde, war beispiellos."
+  „Meine Forschung hat sich bewahrheitet, und ich kann es kaum erwarten zu sehen, was diese neue Technologie mit der Zeit bringen wird."
+  Nach Abschluss der Versuche hoffen sowohl Vodel als auch Wreaken, dass der Rhino und das Rig eine neue Ära des Oberflächenbergbaus einläuten.
+  Der Rhino mit dem Bergbau-Rig als Serienausstattung ist derzeit zunächst exklusiv erhältlich und wird zu einem späteren Zeitpunkt in reguläre Werft-Inventare übergehen.
 topics:
 - mining
 - technology

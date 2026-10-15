@@ -17,6 +17,21 @@ bio: 'League of Reparation is a organization active in Elite Dangerous lore from
   Tulimaq Buchanan of the Alliance Council of Admirals by the League of Reparation,
   lin...; Weekly summary covering the Socho system being overtaken by the Socho Gold
   Raiders, Aegis''s Eagle Eye success in repelling Thargoids, five ships de...'
+bio_de: Die League of Reparation ist eine Terrororganisation, die 3304 mit einem
+  einzigen, grausigen Auftrag entstand – die Hinrichtung von Nachkommen von Personen,
+  die während des Ersten Thargoid-Kriegs in der Intergalactic Naval Reserve Arm (INRA)
+  dienten. Über alle drei Supermächte hinweg operierend setzt die Liga Nervenkampfstoffe
+  und Schiff-zu-Schiff-Angriffe ein und behauptet, ihre Morde seien Akte historischer
+  Gerechtigkeit für INRAs mutmaßliche Verbrechen – darunter der Einsatz biologischer
+  Waffen und der Verrat menschlicher Kolonien.
+
+  Die Gruppe wurde später 3304 nach einer koordinierten Untersuchung von Alliance
+  Interpol, dem Imperial Internal Security Service und der Federal Intelligence Agency
+  zerschlagen. Ihre Anführerin, Riri McAllister, wurde selbst als Nachkommin von
+  INRA-Personal enttarnt – eine folternde Ironie, die nahelegte, dass die Ideologie
+  der Liga ebenso persönliche Rache wie politische Aussage war. Der Fall erzwang
+  unbequeme öffentliche Auseinandersetzungen mit dem Erbe der INRA und der Frage,
+  ob historische Gräueltaten zeitgenössischen Terrorismus je rechtfertigen könnten.
 ---
 
 

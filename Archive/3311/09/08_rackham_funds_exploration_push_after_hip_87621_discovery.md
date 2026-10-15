@@ -8,9 +8,16 @@ summary: Zachary Rackham funded a galaxy-wide exploration initiative for pilots 
   scan Rocky and High Metal Content worlds after long-range scans revealed anomalous
   exobiological readings in HIP 87621, where colonisation is blocked within a 37-light-year
   radius.
+summary_de: Zachary Rackham finanzierte eine galaxisweite Erkundungsinitiative, mit
+  der Piloten felsige und metallreiche Welten scannen sollten, nachdem Langstreckenscans
+  anomale exobiologische Messwerte in HIP 87621 enthüllt hatten; die Kolonisierung
+  ist dort in einem Radius von 37 Lichtjahren blockiert.
 player_impact: Independent pilots were asked to locate and conduct full scans of Rocky
   and High Metal Content worlds across the galaxy to cross-reference with HIP 87621's
   anomalous readings.
+player_impact_de: Unabhängige Piloten sollten felsige und metallreiche Welten in der
+  gesamten Galaxis finden und vollständig scannen, um sie mit den anomalen Messwerten
+  aus HIP 87621 abzugleichen.
 persons:
 - Zachary Rackham
 groups:
@@ -31,6 +38,21 @@ modern_impact: The 37-light-year colonisation blockade around HIP 87621 is the f
   giving Lexi October ammunition to deflect scrutiny in October 3311. The cross-reference
   approach mirrors the scientific methodology later used by Dr. Casimir in his Radicoida
   study.
+modern_impact_de: Die 37-Lichtjahre-Kolonisierungssperre um HIP 87621 ist der erste
+  konkrete Beweis für die aktive territoriale Kontrolle durch das October Consortium
+  – das Consortium hielt nicht nur ein Permit, es beschränkte die Expansion in einem
+  riesigen Radius. Rackhams Versprechen, die Ergebnisse ‚zu einem späteren Zeitpunkt'
+  öffentlich zu teilen, wird nie eingelöst und liefert Lexi October im Oktober 3311
+  Munition, um den Blick von sich abzuwenden. Der Abgleichsansatz spiegelt die wissenschaftliche
+  Methodik wider, die Dr. Casimir später in seiner Radicoida-Studie anwendet.
+body_de: |
+  Das Rätsel um das permit-gesperrte System HIP 87621 hält an: Berichten zufolge wurden über Langstreckenscans ungewöhnliche planetare Signaturen gemessen.
+  Viele unabhängige Piloten berichteten zudem, dass die gesamte Kolonisierung in einem Radius von 37 Lichtjahren blockiert sei, was die Spekulationen weiter anheizt.
+  Während die Behörden weiterhin Stillschweigen bewahren, behaupten mehrere unabhängige Analysten, mindestens eine Welt im System zeige anomale exobiologische Messwerte. Diese Erkenntnisse veranlassten den reichsten Bürger der Galaxis, Zachary Rackham, lukrative Anreize für Entdecker anzubieten, die das Rätsel per Quervergleich untersuchen wollten.
+  Rackham erklärte aus seiner Villa am Lake Rackham auf Homeland:
+  „Was auch immer in HIP 87621 steckt – es ist seltsam genug, dass sich die Experten die Köpfe zerbrechen. Ich schlage daher vor, jeden Winkel der Galaxis nach ähnlichen Planeten abzusuchen. Mit genug Daten werden unsere führenden Wissenschaftler vielleicht bestätigen können, dass diese anomalen Messwerte tatsächlich einzigartig für dieses rätselhaft gesperrte System sind!"
+  „Natürlich finanziere ich diese Initiative persönlich. Für unsere tapferen Helden in Wissenschaft und Forschung wird kein Aufwand gescheut!"
+  Unabhängige Piloten sollen felsige und metallreiche Welten finden und vollständig scannen – dieselben Klassifikationen wie die im System relevanten. Die resultierenden Daten werden von Wissenschaftsexperten zusammengetragen und analysiert, die von Rackham Capital Investments gefördert werden; die Ergebnisse sollen zu einem späteren Zeitpunkt öffentlich geteilt werden.
 legacy_weight: 4
 significance: high
 related_uuids:

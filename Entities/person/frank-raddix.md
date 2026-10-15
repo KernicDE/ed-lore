@@ -10,6 +10,11 @@ bio: Frank Raddix is a scientist in the Elite Dangerous universe, active from 33
   appeal to find missing exobiologist Terri Tora led thousands of pilots to the permit-locked
   HIP 87621. Professor Frank Raddix demanded clarity on Terri Tora's fate as journalist
   Alexei Keel published evidence linking the HIP 87621 permit lock to Lexi October.
+bio_de: Professor Frank Raddix ist Wissenschaftler und Kollege der Xenobiologin Terri
+  Tora. 3311 gab er den Alarm über Toras Verschwinden aus, der Tausende Piloten zum
+  permit-gesperrten System HIP 87621 führte. Im Juli 3312 empfing er Tora bei Exogene
+  Sciences, nachdem das October Consortium sie überraschend aus dem Gewahrsam entlassen
+  hatte; das Duo trat anschließend unter Eskorte der October Accords die Abreise an.
 ---
 
 

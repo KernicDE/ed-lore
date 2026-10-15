@@ -27,6 +27,24 @@ bio: Capitol is the capital world of the Empire, located on Achenar 6d. It hosts
   Emperor Hengist Duval's state funeral and Arissa Lavigny-Duval's coronation in 3301.
   Security is maintained by the Imperial Naval Infantry and Intelligence Service.
 system: Achenar
+bio_de: Capitol ist die Hauptwelt des Imperiums, ein weitläufiger urbaner Planet
+  und das politische und militärische Herz der imperialen Zivilisation. Die Stadt
+  wurde von Marlin Duvals Kolonisierungsflotte gegründet und von ihrem Bruder Henson
+  zum Sitz imperialer Macht ausgebaut. Ihre Oberfläche wird vom Kaiserlichen Palast
+  dominiert – einer gewaltigen Struktur aus rosafarbenem glasartigem Material, das
+  im Sonnenlicht schimmert.
+
+  Der Palastkomplex enthält die Residenzen des Kaisers, die Senatskammer, die Hall
+  of Martyrs und Verwaltungsbüros. Die Stadt erstreckt sich in konzentrischen Ringen,
+  mit Adligen in den inneren Bezirken und niederen Klassen in den äußeren Ringen –
+  einer physischen Verkörperung der imperialen Hierarchie. Capitol war Schauplatz
+  vieler der dramatischsten Momente des Imperiums – Hengist Duvals Ermordung auf
+  seiner Hochzeit im August 3301, sein Staatsbegräbnis im September und die Krönung
+  von Arissa Lavigny-Duval im Oktober.
+
+  Mit über 16 Milliarden Einwohnern ist Capitol eine der am dichtesten besiedelten
+  Welten des Imperiums. Die Sicherheit ist stets hoch, mit drastischen Erhöhungen
+  während Krisen wie des Emperor's-Dawn-Aufstands und der NMLA-Terror-Kampagne.
 station_type: Planetary Port
 ---
 

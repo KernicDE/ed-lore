@@ -16,6 +16,29 @@ bio: 'October Consortium is a organization active in Elite Dangerous lore from 3
   Key activities include: Aegis confirms that special advisor Seo Jin-ae has taken
   a hiatus from her duties.; Professor Frank Raddix''s appeal to find missing exobiologist
   Terri Tora led thousands of pilots to the permit-locked HIP 87621.'
+bio_de: Das October Consortium ist eine Unternehmensorganisation der Milliardärin
+  Lexi October und vor allem bekannt für seine umstrittene Verwaltung des Systems
+  HIP 87621. Das Consortium erwarb die Permit-Rechte am System vor über einem Jahrzehnt
+  und hielt es als geschlossene Forschungszone – Kolonisierung wurde in einem Radius
+  von 37 Lichtjahren blockiert, und der Zugang blieb eigenen Wissenschaftsteams vorbehalten.
+
+  3311 geriet das Consortium unter massive Beobachtung, nachdem Langstreckenscans
+  anomale exobiologische Messwerte in HIP 87621 registriert hatten. Lexi October verteidigte
+  das rechtmäßige Eigentum ihres Unternehmens und fragte, warum der Rivalen-Milliardär
+  Zachary Rackham Daten seiner galaxisweiten Erkundungskampagne nicht geteilt hatte.
+  Als die Pilots' Federation exklusiven Zugang für lizenzierte Kommandanten vermittelte,
+  wies das Consortium Dateninkonsistenzen als ‚Spoofing' zurück und verbot Flottenträger
+  dauerhaft. Die intransparente Verwaltung von HIP 87621 machte das October Consortium
+  zum Brennglas wissenschaftlicher Intrigen und letztlich zur militärischen Konfrontation
+  der Supermächte. Im Juni 3312 brach Föderalpräsidentin Felicia Winters das öffentliche
+  Schweigen der Föderation über ihre Ausgrenzung aus den October Accords und warnte
+  Lexi October direkt, eine anhaltende Verwehrung des Zugangs zur Radicoida-unica-Forschung
+  werde als potenzielle Bedrohung behandelt. Im Juli 3312 entließ das Consortium die
+  festgehaltene Xenobiologin Terri Tora überraschend und erklärte, sie sei bei Verhören
+  kooperativ gewesen und die veränderten Umstände nach den Accords machten eine anhaltende
+  Haft überflüssig. Im September verschärfte Winters die Vorwürfe weiter und behauptete,
+  die Forschung der Accords-Koalition habe ausschließlich der Aufrüstung von Radicoida
+  unica gedient und stelle nun eine glaubwürdige Sicherheitsbedrohung dar.
 ---
 
 

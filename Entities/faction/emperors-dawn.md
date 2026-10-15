@@ -18,6 +18,22 @@ bio: 'Emperor''s Dawn is a organization active in Elite Dangerous lore from 3301
   same insurgent group linked...; A leaked internal document from Emperor''s Dawn
   revealed the group''s radical agenda: demanding the right to appoint a new Emperor,
   disbanding the Im...'
+bio_de: Emperor's Dawn war eine isolationistische Aufständischengruppe, die sich
+  gegen die Einbindung des Imperiums in die weitere Galaxis wandte und wiederherzustellen
+  strebte, was sie als traditionelle imperiale Werte betrachtete. Die Bewegung wurde
+  3301 berüchtigt, als eines ihrer Mitglieder, Brendan Paul Darius, Kaiser Hengist
+  Duval während seiner Hochzeitszeremonie ermordete – ein Akt, der die schwerste
+  Nachfolgekrise der imperialen Geschichte auslöste. Die radikale Agenda der Gruppe
+  umfasste die Forderung nach dem Recht, einen neuen Kaiser zu ernennen, und die
+  Auflösung des Senats zugunsten direkter Herrschaft durch ‚würdige' imperiale Bürger.
+
+  Der Imperial Internal Security Service und die Imperial Navy starteten eine koordinierte
+  Kampagne gegen Emperor's Dawn und deckten Verbindungen zum Beraterkreis von Kanzler
+  Anders Blaine auf, die das imperiale Establishment blamierten. Obwohl die Organisation
+  bis 3303 faktisch zerschlagen war, überlebte ihre Ideologie in veränderter Form
+  durch Nova Imperium und andere isolationistische Bewegungen – ein Beweis dafür,
+  dass die Spannung zwischen imperialem Expansionismus und traditionalistischem
+  Rückzug eine dauerhafte Störlinie der imperialen Politik blieb.
 ---
 
 

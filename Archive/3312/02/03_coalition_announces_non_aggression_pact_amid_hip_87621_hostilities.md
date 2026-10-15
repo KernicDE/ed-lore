@@ -7,9 +7,17 @@ source: API
 summary: Coalition of major powers announces non-aggression pact in HIP 87621 enclave.
   Aisling, Grom, Arissa, Kaine, Mahon and Patreus aligned. Antal excluded. Analysts
   suggest motive is to refocus on core system conflicts.
+summary_de: Koalition großer Mächte verkündet Nichtangriffspakt in der HIP-87621-Enklave.
+  Aisling, Grom, Arissa, Kaine, Mahon und Patreus im Bündnis. Antal ausgeschlossen.
+  Analysten vermuten das Motiv, sich wieder auf Konflikte in den Kernsystemen zu
+  konzentrieren.
 player_impact: Non-aggression pact in HIP 87621 enclave between Aisling Duval, Yuri
   Grom, Arissa Lavigny-Duval, Nakato Kaine, Edmund Mahon and Denton Patreus forces.
   Pranav Antal excluded. Fighting subsides but sporadic clashes continue.
+player_impact_de: Nichtangriffspakt in der HIP-87621-Enklave zwischen den Kräften
+  von Aisling Duval, Yuri Grom, Arissa Lavigny-Duval, Nakato Kaine, Edmund Mahon
+  und Denton Patreus. Pranav Antal ausgeschlossen. Die Kämpfe lassen nach, doch sporadische
+  Zusammenstöße dauern an.
 persons:
 - Ernesto Rios
 - Pranav Antal
@@ -29,6 +37,21 @@ modern_impact: Informal power coalition without Federal representation shifts th
   new diplomatic fault lines. This model of independent pilot-led peace agreements
   may influence how future enclave conflicts are resolved without direct superpower
   intervention.
+modern_impact_de: Die informelle Machtkoalition ohne föderale Beteiligung verschiebt
+  das supermächtige Gleichgewicht nach dem Krieg. Der Ausschluss von Pranav Antal
+  und der Föderation schafft neue diplomatische Gräben. Dieses Modell pilotengetriebener
+  Friedensvereinbarungen könnte beeinflussen, wie künftige Enklavenkonflikte ohne
+  direktes Eingreifen der Supermächte gelöst werden.
+body_de: |
+  Das Bündnis aus den verbündeten Kräften von Aisling Duval, Yuri Grom, Arissa Lavigny-Duval, Nakato Kaine, Edmund Mahon und Denton Patreus bringt Vertreter und angeschlossene Fraktionen zusammen, um einen informellen Nichtangriffspakt zu vereinbaren. Die Vereinbarung soll gegenseitige Unterstützung garantieren und weitere Eskalation in der Enklave verringern. Bei der Bekanntgabe fehlten auffällig die Truppen von Pranav Antal; Gerüchten zufolge wurde Antal nach dem zweiwöchigen Waffenstillstand nicht in den Pakt aufgenommen.
+  Gegenüber Vox Galactica erklärte ein Sprecher der Koalition, sie vertrete eine unabhängig organisierte Pilotengruppe und argumentierte, koordinierte Zurückhaltung sei notwendig, um weitere Konfrontationen in der Enklave zu vermeiden.
+  Politische Analysten relativieren derartige Behauptungen jedoch umgehend.
+  Aktuelle Einschätzungen deuten darauf hin, dass die Mehrheit der Systeme um HIP 87621 unter imperialer Kontrolle bleibt; Nakato Kaine, Yuri Grom und Pranav Antal halten Einfluss in begrenzten Abschnitten der Enklave.
+  Der Pakt gilt speziell innerhalb des Enklavengebiets für gelobte Kräfte und unabhängige Piloten. Analysten vermuten, dass ein verborgenes Motiv des Pakts darin besteht, sich wieder auf Konflikte in den Kernsystemen zu konzentrieren.
+  Kriegskorrespondent Ernesto Rios kommentierte:
+  „Der Nichtangriffspakt bringt eine unerwartete Variable ins Spiel, während sich die Großgefechte in der Enklave abzuschwächen scheinen. Es bleibt unklar, wie diese Vereinbarung die Autorität des October Consortium innerhalb von HIP 87621 beeinflusst und wie lange die Piloten der Koalition ihre Disziplin aufrechterhalten."
+  „Offen bleiben auch Fragen nach der Reaktion der imperialen Regierung, zumal die Vereinbarung unabhängig und ohne direkte Anweisung des Kaisers getroffen wurde, als die strategische Dominanz zum Greifen nahe schien."
+  Obwohl die Kämpfe weitgehend nachgelassen haben, dauern sporadische Zusammenstöße in Randgebieten an. Angesichts wachsender Aufmerksamkeit für die kürzlich gemeldeten Eigenschaften von Radicoida unica warnen Beobachter, dass die derzeitige Ruhe sich möglicherweise als vorübergehend erweist und die Gefahr eines breiteren Konflikts bestehen bleibt.
 legacy_weight: 4
 significance: high
 related_uuids:

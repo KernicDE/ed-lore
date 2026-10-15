@@ -11,6 +11,43 @@ bio: 'Radicoida unica is a technology in Elite Dangerous, mentioned from 3311-11
   Radicoida unica''s discovery, triggering the largest mobilisation since the Second
   Tha...; Licensed Commanders entered HIP 87621 exclusively and discovered Radicoida
   unica, an exobiological flora unlike any previously catalogued.'
+bio_de: Radicoida unica ist eine kolossale Pflanzenart, die nur im System HIP 87621
+  vorkommt und seit ihrer Entdeckung intensives wissenschaftliches und militärisches
+  Interesse auf sich zieht. Im Januar 3312 veröffentlichte Dr. Roy Casimir vom Holloway
+  Bioscience Institute die erste öffentliche Studie der Pflanze, basierend auf Daten
+  des October Consortium, das das rechtmäßige Eigentum am System beansprucht.
+
+  Casimir beschrieb die genetische Zusammensetzung der Pflanze als ‚quecksilbrig',
+  mit bemerkenswerter zellularer Widerstandsfähigkeit und Anpassungsfähigkeit. Forschende
+  des October Consortium beobachteten, dass Radicoida unica bei längerer Exposition
+  symbiotische Beziehungen mit Lebewesen eingehen kann und für Aktivität in ihrer
+  Umgebung empfindlich zu sein scheint. In der Blütezeit bildet die Pflanze Samenkapseln,
+  deren Fleisch Verbindungen enthält, die bei Laborobjekten die körperliche Leistung
+  verbessern und die Denkzeit verkürzen. Diese Eigenschaften lösten einen Konflikt
+  der großen Mächte aus – nach der Entdeckung der Pflanze entsandten alle Supermächte
+  Flotten in die HIP-87621-Enklave, die größte Mobilmachung seit dem Zweiten Thargoid-Krieg.
+  Die Schwärzung einiger Forschungsdaten durch das October Consortium deutet auf
+  proprietäre Anwendungen hin und wirft die Frage auf, ob die Verbindungen der Pflanze
+  breiter medizinischer Nutzung oder beschränkter militärischer Verwendung zugeführt
+  werden.
+
+  Mitte 3312 bestätigte Ram Tah Guardian-Archiv-Passagen, die die ausgestorbene Zivilisation
+  mit der Pflanze verknüpfen, darunter ein ‚Königreich der gesegneten Wurzeln' und
+  Substanzen aus Samenkapseln, mit denen traditionalistische Guardian-Fraktionen
+  Krieger vor der Schlacht steigerten. Er stellte klar, dass Radicoida unica fast
+  sicher eine natürliche Flora ist, die die Guardians vor Millionen von Jahren kultivierten
+  und mit anderen Arten kreuzbestäubten, um ihre medizinischen Wirkungen zu steigern
+  – keine Schöpfung gentechnischer Manipulation. Diese Enthüllung vertiefte das wissenschaftliche
+  Interesse an der Pflanze und warf Bedenken hinsichtlich unternehmerischer Kontrolle
+  ihrer Erforschung auf. Im Juni 3312 warnte die Föderation öffentlich, eine anhaltende
+  Ausgrenzung aus der Radicoida-unica-Forschung unter den October Accords werde als
+  potenzielle Bedrohung behandelt und verschärfte die geopolitischen Einsätze der
+  Erforschung. Im Juli 3312 wurde die festgehaltene Xenobiologin Terri Tora vom October
+  Consortium entlassen; sie blieb dabei, ihr ursprüngliches Motiv sei Wissen gewesen
+  und Entdeckungen wie Radicoida unica dürften nicht geheim gehalten werden. Im September
+  3312 verschärften die Föderation ihre Vorwürfe weiter und behauptete, die Forschung
+  habe ausschließlich der Aufrüstung gedient und stelle nun eine glaubwürdige Sicherheitsbedrohung
+  dar.
 ---
 
 

@@ -8,10 +8,18 @@ summary: Licensed Commanders entered HIP 87621 exclusively and discovered Radico
   unica, an exobiological flora unlike any previously catalogued. October Consortium
   called for scan data to Vista Genomics while permanently banning fleet carriers
   and explaining data inconsistencies as 'spoofing.'
+summary_de: Lizenzierte Kommandanten betraten exklusiv HIP 87621 und entdeckten Radicoida
+  unica, eine exobiologische Flora wie keine zuvor katalogisierte. Das October Consortium
+  rief zur Übermittlung von Scan-Daten an Vista Genomics auf, verbot Flottenträger
+  dauerhaft und erklärte Dateninkonsistenzen als ‚Spoofing'.
 player_impact: Licensed Commanders entered HIP 87621 exclusively and discovered Radicoida
   unica. They conducted on-site exobiological surveys on hot, thin-atmosphere planets
   and delivered scan data to Vista Genomics at Exogene Sciences. Fleet carriers are
   permanently banned from the system.
+player_impact_de: Lizenzierte Kommandanten betraten exklusiv HIP 87621 und entdeckten
+  Radicoida unica. Sie führten Exobiologie-Vor-Ort-Erhebungen auf heißen Planeten
+  mit dünner Atmosphäre durch und lieferten Scan-Daten an Vista Genomics bei Exogene
+  Sciences. Flottenträger sind aus dem System dauerhaft verboten.
 persons: []
 groups:
 - Pilots' Federation
@@ -32,6 +40,22 @@ modern_impact: The permanent fleet carrier ban and 'spoofing' explanation reveal
   — creates a unique scientific zone managed by independent pilots, a model that may
   be replicated for other sensitive discoveries. The plant's restriction to hot, thin-atmosphere
   worlds narrows the search for similar organisms.
+modern_impact_de: Das dauerhafte Flottenträger-Verbot und die ‚Spoofing'-Erklärung
+  zeigen, dass das October Consortium die wahre Natur des Systems jahrelang aktiv
+  verschleiert hatte. Der exklusive Zugang der Pilots' Federation – der zivile, unternehmerische
+  und staatliche Organisationen ausschließt – schafft eine einzigartige, von unabhängigen
+  Piloten verwaltete Wissenschaftszone, ein Modell, das für andere sensible Entdeckungen
+  übernommen werden könnte. Die Beschränkung der Pflanze auf heiße Welten mit dünner
+  Atmosphäre grenzt die Suche nach ähnlichen Organismen ein.
+body_de: |
+  **Meldung der Pilots' Federation**
+  Die Pilots' Federation hat bestätigt, dass Mitglieder nach monatelangen Spekulationen und politischem Ringen nun zum Eintritt in das System HIP 87621 berechtigt sind.
+  Diese beispiellose Entscheidung gewährt exklusiv lizenzierten Kommandanten Zugang; zivile, unternehmerische und staatliche Organisationen bleiben vom Eintritt in das System ausgeschlossen.
+  Beamte des October Consortium erklärten offensichtliche Inkonsistenzen zwischen zuvor verfügbaren Systemdaten und tatsächlichen astrometrischen Daten als ‚Spoofing' und führten ‚Sicherheit und wissenschaftliche Integrität' als Hauptgründe an. Sie bestätigten zudem, dass Flottenträger aus denselben Gründen dauerhaft vom Eintritt in das System ausgeschlossen sind.
+  Wissenschaftler vermuten, dass die ungewöhnlichen biologischen Marker der Pflanze die Langstrecken-Scan-Anomalien erklären könnten, die zuerst die Aufmerksamkeit auf das System lenkten.
+  Kommandanten, die bereits HIP 87621 erkundet haben, berichten von der Entdeckung einer exobiologischen Flora wie keiner zuvor katalogisierten. Das October Consortium hat daher nun zur Übermittlung exobiologischer Scan-Daten aufgerufen, um die weitere wissenschaftliche Analyse zu unterstützen.
+  Die Pilots' Federation hat alle lizenzierten Mitglieder ermutigt, diese Initiative durch Vor-Ort-Erhebungen zu unterstützen und vollständige Exobiologie-Datenscans an Vista Genomics auf dem Asteroidenstützpunkt Exogene Sciences zu liefern.
+  Sie gaben zudem eine Warnung heraus: Die Pflanze wurde bisher nur auf heißen Planeten mit dünner Atmosphäre gedeihend gefunden; entsprechende Ausrüstung muss daher jederzeit getragen werden, um Schutz zu gewährleisten.
 legacy_weight: 4
 significance: high
 related_uuids:

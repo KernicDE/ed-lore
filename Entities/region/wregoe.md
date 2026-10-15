@@ -21,6 +21,23 @@ bio: 'Wregoe is a system in Elite Dangerous, significant from 3308-01-22 to 3309
   events include: Data from the Alexandria reveals Azimuth Biochemicals orchestrated
   the megaship''s destruction.; Aegis leaders petition the superpowers for reinstatement
   amid evidence of Azimuth''s return.'
+bio_de: Wregoe ist ein entlegenes System im Wregoe-Sektor, weit entfernt von den
+  Kernwelten, das in den späten 3300ern durch zwei unabhängige, aber bedeutende
+  Ereignisse bekannt wurde. Im August 3309 meldete Commander Renia Rakowski eine
+  nicht-aggressive Begegnung mit einem Thargoid-Abfänger im System Wregoe GA-X B3-0
+  – Hunderte Lichtjahre von den Maelstrom-Invasionsfronten entfernt – und warf tiefgreifende
+  Fragen auf, ob die Präsenz der Thargoids weit über bekannte Konfliktzonen hinaus
+  reichte.
+
+  Kritischer noch wurde im Januar 3308 Trümmer des vermissten Megaschiffs Alexandria
+  über den Planetenringen von Wregoe TC-X b29-0 AB 2 A verstreut entdeckt. Der Bericht
+  von Captain Morales zeigte, dass das Schiff von einer paramilitärischen Kraft sabotiert
+  und geplündert worden war, die Befehlen von jemandem namens ‚die Hexe' folgte,
+  bevor ein Hyperraumantriebsversagen die Zerstörung verursachte. Diese Entdeckung
+  bewies, dass Azimuth Biochemicals – angeblich zwei Jahrhunderte zuvor liquidiert
+  – bis in die Gegenwart überlebt hatte und dass die Fracht der Alexandria aus Guardian-Artefakten
+  als Teil von Azimuths laufendem xenologischen Forschungsprogramm gekapert worden
+  war.
 ---
 
 <!-- AUTO-GENERATED -->

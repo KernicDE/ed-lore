@@ -11,6 +11,20 @@ bio: 'Zachary Rackham is a President in Elite Dangerous lore, active from 3304-0
   core systems to Bhal, three starports restored to full functionality, Aisling Duval''s
   engagem...; Weekly summary covering Gibson Kincaid''s re-election as Alliance President,
   the foiled raid on Ram Tah''s Phoenix Base, the FSS targeting The Mars T...'
+bio_de: Zachary Rackham, Spitzname ‚Calico Zack', ist ein multimilliardärer Geschäftsmann
+  und Präsident der Föderation, dessen Vergangenheit als unabhängiger Händler nach
+  weit verbreitetem Gerücht zufolge eine Fassade für Piraterie war. Er gründete Rackham
+  Capital Investments nach einer lukrativen – und verdächtig unüberprüfbaren – Handelskarriere
+  und baute ein Unternehmensimperium auf, das intensive Aufmerksamkeit der Federal
+  Times und der Federal Intelligence Agency auf sich zog. 3305 löste der plötzliche
+  Tod seines langjährigen CFO Aaron Salazar und der rasante Aufstieg seiner Nachfolgerin
+  Taja Gavaris eine Untersuchung einer Reihe tödlicher ‚Unfälle' im Unternehmen aus.
+
+  Trotz dieser Skandale trugen Rackhams populistische Ausstrahlung und seine Anti-Establishment-Rhetorik
+  ihn ins Präsidentenamt. Seine Amtsführung ist von derselben Verwischung legitimen
+  Geschäfts und krimineller Machenschaften geprägt, die seine Unternehmenskarriere
+  kennzeichnete; Kritiker fragen sich weiterhin, ob ‚Calico Zack' das Piratenleben
+  je wirklich hinter sich gelassen hat.
 ---
 
 

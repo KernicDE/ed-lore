@@ -12,6 +12,28 @@ bio: 'Lexi October is a Commander in Elite Dangerous lore, active from 3305-01-3
   permit lock to Lexi...; Lexi October defended October Consortium''s legal ownership
   of HIP 87621, acquired over a decade ago, and questioned why Zachary Rackham has
   not sha...'
+bio_de: Lexi October ist eine Milliardärin und Unternehmerin, die ihre Karriere
+  auf den Erwerb und die Umstrukturierung angeschlagener Technologieunternehmen aufbaute.
+  3305 rettete sie Supratech vor dem Bankrott, nachdem sich das Torc-Personaldesign
+  als kommerziell undurchführbar erwies, und organisierte eine Warenlieferkampagne
+  zur Wiederaufnahme der Produktion. Ihr Eingreifen zeigte ein Muster, mit dem sie
+  mithilfe von Vermögen und gemeinschaftlichen Ressourcenkampagnen Ingenieurstalente
+  und geistiges Eigentum scheiternder Konkurrenten erwarb.
+
+  Oktobers bedeutendste – und umstrittenste – Unternehmensbeteiligung ist die Kontrolle
+  des October Consortium über das System HIP 87621, das sie vor über einem Jahrzehnt
+  über Permit-Rechte erwarb. In den 3310ern verteidigte sie die Geheimhaltung ihres
+  Unternehmens gegenüber anomalen exobiologischen Messwerten im System, wies Dateninkonsistenzen
+  als ‚Spoofing' zurück und lenkte den Blick von sich, indem sie fragte, warum der
+  Rivalen-Milliardär Zachary Rackham seine Erkundungsdaten nicht geteilt hatte. Ihre
+  intransparente Führung von HIP 87621 machte sie zur zentralen Figur in einem der
+  streitbarsten wissenschaftlichen Zugangskonflikte des Jahrzehnts. Mitte 3312 wandte
+  sich Föderalpräsidentin Felicia Winters in einer öffentlichen Erklärung direkt an
+  sie und warnte, die Föderation werde eine anhaltende Verwehrung des Zugangs zur
+  Radicoida-unica-Forschung als potenzielle Bedrohung betrachten. Im Juli 3312 überraschte
+  October Beobachter mit der Anordnung, die festgehaltene Xenobiologin Terri Tora
+  freizulassen, und erklärte, die veränderten Umstände nach den October Accords machten
+  eine anhaltende Haft überflüssig.
 ---
 
 

@@ -6,8 +6,14 @@ date: 3312-04-16
 source: API
 summary: October Consortium calls for Guardian artefacts for exobiological research.
   Ram Tah offers expertise. Lexi October confirms data sharing after initial studies.
+summary_de: Das October Consortium ruft zur Beschaffung von Guardian-Artefakten für
+  exobiologische Forschung auf. Ram Tah bietet seine Expertise an. Lexi October bestätigt
+  die Datenfreigabe nach ersten Studien.
 player_impact: Guardian artefact CG at Exogene Sciences in HIP 87621. Deliver artefacts
   to support October Consortium research. Ram Tah offers collaboration.
+player_impact_de: Community-Initiative für Guardian-Artefakte bei Exogene Sciences
+  in HIP 87621. Liefert Artefakte, um die Forschung des October Consortium zu unterstützen.
+  Ram Tah bietet Zusammenarbeit an.
 persons:
 - Lexi October
 - Ram Tah
@@ -26,6 +32,18 @@ modern_impact: Ram Tah's offer to collaborate directly links the Radicoida myste
   to Guardian research. If ancient engineered origins are confirmed, Guardian artefacts
   may provide comparative genetic data. October Consortium's promise to share data
   after initial studies may be tested by competing research interests.
+modern_impact_de: Ram Tahs Angebot zur Zusammenarbeit verknüpft das Radicoida-Rätsel
+  direkt mit der Guardian-Forschung. Falls antike, designte Ursprünge bestätigt werden,
+  könnten Guardian-Artefakte vergleichbare genetische Daten liefern. Das Versprechen
+  des October Consortium, Daten nach ersten Studien zu teilen, könnte durch konkurrierende
+  Forschungsinteressen auf die Probe gestellt werden.
+body_de: |
+  Das October Consortium hat zur Hilfe bei der Bergung von Guardian-Artefakten aus der gesamten Galaxis aufgerufen.
+  Eine Stellungnahme von Lexi October gegenüber Vox Galactica bestätigte, dass geborgene Artefakte den Datenbestand des October Consortium erweitern und die Forschung im Bereich der Exobiologie voranbringen werden. Nach Angaben seiner Wissenschaftler soll die Initiative laufende Projekte unterstützen und nicht neue technologische Anwendungen.
+  Ram Tah, renommierter Guardian-Experte und Engineer, kommentierte die Anfrage:
+  „Mein umfangreiches Wissen über Guardian-Kultur, Technologie und bereits gesammelte Daten könnte sich für das October Consortium als äußerst nützlich erweisen. Aus der Geschichte der Guardians ist noch viel zu lernen, und eine Zusammenarbeit könnte diese Arbeit beiderseitig beschleunigen."
+  October antwortete über soziale Kanäle mit der Erklärung: „Das Angebot ist willkommen, und unsere Wissenschaftler sind bereit, Datenbibliotheken zu teilen, sobald erste Studien abgeschlossen sind. Wenn diese Artefakte Neues ergeben sollen, braucht es originäre Analysen mit frischen Ideen."
+  Die Initiative ruft unabhängige Piloten auf, Guardian-Artefakte nach Exogene Sciences in HIP 87621 zu liefern.
 legacy_weight: 4
 significance: high
 related_uuids:

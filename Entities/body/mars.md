@@ -26,6 +26,23 @@ bio: Mars is the capital world of the Federation and the first planet successful
   major corporate headquarters, supporting a population in the billions with a diversified
   economy.
 system: Sol
+bio_de: Der Mars hat die Auszeichnung, der erste erfolgreich terraformte Planet der
+  Menschheit zu sein; das Verfahren wurde 2291 abgeschlossen. Ein früherer Versuch
+  in den 2170ern war aufgegeben worden, doch die zweite Anstrengung etablierte die
+  Vorlage für nachfolgende Terraforming-Projekte im gesamten menschlichen Raum.
+
+  Die politische Bedeutung des Planeten wuchs nach der Schlacht von Achenar 2325
+  dramatisch. Um die Föderation angesichts des Unmuts über die Führung der Erde zu
+  stabilisieren, wurde die Hauptstadt von der Erde zum Mars verlegt – ein Schritt,
+  der Sols zentrale Position wahrte und einen Neuanfang symbolisierte. Der Federal
+  Congress tagt heute auf dem Mars, neben großen Regierungsinstitutionen und Unternehmenszentralen.
+
+  Der Mars war Schauplatz prägender politischer Momente, vor allem 3301, als Schattenpräsident
+  Zachary Hudson seine Kandidatur für ein Misstrauensvotum gegen Präsidentin Jasmina
+  Halsey ankündigte – ein erfolgreiches Manöver, das ihn zum Präsidenten machte und
+  die föderale Politik in Richtung republikanischer Militarismus verschob. Trotz der
+  Verlagerung des galaktischen Handels zu Systemen wie Alioth und Cubeo bleibt der
+  Mars das administrative Zentrum der größten Supermacht des menschlichen Raums.
 body_type: Earth-like world
 distance_to_arrival: 730
 gravity: 0.3774

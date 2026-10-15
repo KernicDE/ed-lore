@@ -10,6 +10,21 @@ bio: 'Hengist Duval is a Emperor in Elite Dangerous lore, active from 3301-04-02
   Hengist Duval was attacked by a high-ranking official during his wedding ceremony
   to Florence Lavigny.; Emperor Hengist Duval died en route to the Imperial Navy Medical
   Facility near the Imperial Palace after being stabbed during his wedding ceremony.'
+bio_de: Hengist Duval war der 15. Kaiser des Imperiums und regierte Jahrzehnte, bevor
+  seine Ermordung 3301 die schwerste Nachfolgekrise der imperialen Geschichte auslöste.
+  Lange in schlechter Gesundheit und über längere Zeiträume im Koma, schockte er
+  das Imperium mit der Ankündigung seiner Absicht, Florence Lavigny zu heiraten –
+  ein Schritt zur Sicherung der Duval-Blutlinie und eines legitimen Erben. Während
+  der Hochzeitszeremonie auf Capitol wurde er von Brendan Paul Darius erstochen,
+  einem hochrangigen Beamten mit Verbindungen zur isolationistischen Aufständischengruppe
+  Emperor's Dawn, und starb auf dem Weg zu medizinischen Einrichtungen.
+
+  Hengists Herrschaft war durch seine umstrittene Erklärung geprägt, sein Sohn Harold
+  Duval sei für den Thron ungeeignet, womit er die Nachfolge unklar ließ. Sein Tod
+  legte die Existenz eines unehelichen Sohns offen, dessen eigenes Kind – Hadrian
+  Duval – später zur Galionsfigur der Nova Imperium-Bewegung wurde. Das Attentat
+  auf den Kaiser legte tiefe Brüche in der imperialen Stabilität frei, die sich während
+  der NMLA-Krise und schließlich des Lords-of-Restoration-Skandals weiter aufweiteten.
 ---
 
 

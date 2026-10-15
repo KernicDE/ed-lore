@@ -7,9 +7,16 @@ source: API
 summary: Sharp rise in pirate activity across Imperial and Federal colonies as security
   forces redeploy to HIP 87621. Traders and miners report sustained harassment. IISS
   acknowledges 'temporary pressure' on border systems.
+summary_de: Deutlicher Anstieg der Piraterie in imperialen und föderalen Kolonien,
+  während Sicherheitskräfte nach HIP 87621 verlegt werden. Händler und Bergleute berichten
+  von anhaltender Schikane. Der IISS räumt ‚zeitweilige Belastung' der Grenzsysteme
+  ein.
 player_impact: Pirate activity spikes in Imperial and Federal colonies due to security
   redeployment to HIP 87621. Increased interdictions and miner harassment. Bounty
   opportunities.
+player_impact_de: Piratenaktivität in imperialen und föderalen Kolonien steigt aufgrund
+  der Verlegung von Sicherheitskräften nach HIP 87621. Mehr Abfangmanöver und Schikane
+  gegen Bergleute. Kopfgeld-Möglichkeiten.
 groups:
 - Imperial Internal Security Service
 - Pilots' Federation
@@ -25,6 +32,17 @@ modern_impact: Security vacuum created by superpower military concentration demo
   the fragility of colonial defenses. Pirate groups learn to exploit great-power conflicts
   for territorial gain, a pattern likely to repeat whenever major forces are drawn
   into peripheral conflicts.
+modern_impact_de: Das Sicherheitsvakuum infolge der militärischen Konzentration der
+  Supermächte zeigt die Fragilität kolonialer Verteidigungen. Piratengruppen lernen,
+  Großmachtkonflikte für territoriale Gewinne auszunutzen – ein Muster, das sich
+  wahrscheinlich wiederholt, wann immer größere Kräfte in Randkonflikte gezogen
+  werden.
+body_de: |
+  Lokale Behörden in mehreren imperialen und föderalen Kolonien haben einen deutlichen Anstieg der Piraterie bestätigt, der mit der militärischen Konfrontation um die HIP-87621-Enklave zusammenfällt.
+  Händler berichten von vermehrten Abfangmanövern entlang zuvor stabiler Handelsrouten, während unabhängige Bergleute vor anhaltender Schikane an langjährigen Förderstätten warnen. Sicherheitsbehörden der Systeme räumen ein, dass die Patrouillenabdeckung reduziert wurde, und berufen sich auf die Verlegung von Kräften zu strategischen Zielen andernorts.
+  Ein Sprecher des Imperial Internal Security Service erklärte, ‚zeitweilige Belastung' der Grenzsysteme sei unvermeidlich, solange große Kräfte rund um HIP 87621 in Bereitschaft blieben. Föderale Beamte äußerten Ähnliches und betonten, die Ordnung werde wiederhergestellt, sobald die laufenden Kampagnen beendet seien.
+  Unabhängige Piloten äußerten wachsende Frustration und beschrieben fehlende Reaktionen auf Notsignale sowie eine spürbare Abwesenheit schneller Eingreifkräfte in Regionen, die einst als risikoarm galten. Die Pilots' Federation drängte die Behörden, dem zu begegnen, was sie als ‚Sicherheitsvakuum' bezeichnen, bevor das Vertrauen weiter erodiert.
+  Da keine Anzeichen einer baldigen Reduzierung der militärischen Verpflichtungen bestehen, warnen Analysten, dass Piratengruppen die überdehnten Verteidigungen möglicherweise weiter ausnutzen, bis das normale Patrouillenniveau wiederhergestellt ist.
 legacy_weight: 4
 significance: high
 related_uuids:

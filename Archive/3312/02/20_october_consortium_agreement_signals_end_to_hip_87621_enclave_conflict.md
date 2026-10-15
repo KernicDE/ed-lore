@@ -7,9 +7,16 @@ source: API
 summary: October Accords end HIP 87621 enclave conflict. October Consortium chairs
   neutrality between Imperial, Alliance and independent powers. Federation not represented.
   Lexi October secures interview series with Vox Galactica.
+summary_de: Die October Accords beenden den Konflikt um die HIP-87621-Enklave. Das
+  October Consortium fungiert als neutraler Vorsitz zwischen imperialen, allianzischen
+  und unabhängigen Mächten. Die Föderation ist nicht vertreten. Lexi October sichert
+  sich eine Interviewserie bei Vox Galactica.
 player_impact: HIP 87621 conflict officially ends. October Consortium gains full custodianship
   via October Accords. Federation excluded (lost foothold). Radicoida research to
   be shared under Accord terms.
+player_impact_de: Der Konflikt um HIP 87621 endet offiziell. Das October Consortium
+  erhält über die October Accords die volle Obhut. Die Föderation ist ausgeschlossen
+  (Fuß verloren). Die Radicoida-Forschung wird nach den Accords-Bedingungen geteilt.
 persons:
 - Lexi October
 - Felicia Winters
@@ -37,6 +44,21 @@ modern_impact: Corporate custodianship of disputed territory sets a legal preced
   tech investor to geopolitical broker demonstrates how exobiological discoveries
   can rapidly reshape power structures. Federation's exclusion may fuel future reclamation
   attempts.
+modern_impact_de: Unternehmerische Obhut über umstrittenes Territorium setzt einen
+  Rechtspräzedenzfall für nichtstaatliche Akteure als Vermittler zwischen Supermächten.
+  Der Aufstieg des October Consortium vom Technologieinvestor zum geopolitischen
+  Makler zeigt, wie exobiologische Entdeckungen Machtstrukturen rappe umformen können.
+  Die Ausgrenzung der Föderation könnte künftige Rückforderungsversuche befeuern.
+body_de: |
+  Berichten zufolge ist zwischen dem October Consortium und einer Koalition der verbleibenden Mächte in der Enklave eine Vereinbarung erzielt worden, die die Großgefechte in der Region beendet.
+  Die ‚October Accords' stellen HIP 87621 förmlich unter die Obhut des October Consortium, das als Vorsitz zwischen den verbleibenden Enklavenmächten fungieren wird, um die Neutralität zu wahren.
+  Nach den Bedingungen behält sich das Unternehmen zudem die Verantwortung für die Systemsicherheit und die kommerziellen Rechte vor, mit der Befugnis, diese Interessen im Falle einer Herausforderung zu verteidigen.
+  Verständigung zufolge konzentrierten sich die Gespräche auch auf geteilten wissenschaftlichen Zugang zu Radicoida unica und die Zusammenarbeit bei Forschungsinitiativen – nach der jüngsten Veröffentlichung vielversprechender genetischer Erkenntnisse von Dr. Casimir vom Holloway Bioscience Institute.
+  Die beteiligte Koalition – ein informelles Bündnis imperialer, allianzischer und unabhängiger Machtkräfte – hatte kürzlich einen Nichtangriffspakt verkündet, der weitere Eskalation in der Enklave verhindern sollte.
+  Analysten vermuten, dass diese Regelung Raum für eine diplomatische Lösung schuf statt einer militärischen Entscheidung, da keine einzelne Macht die Mehrheitskontrolle über die Enklave beanspruchte.
+  Quellen aus dem Umfeld der jüngsten Gespräche bestätigten, dass die Föderation nicht vertreten war, nachdem sie in der Anfangsphase des Konflikts ihren Fuß in der Enklave verloren hatte. Präsidentin Felicia Winters war für eine Stellungnahme nicht erreichbar.
+  In den vergangenen Monaten haben die aus dem Enklavenkonflikt vertriebenen Mächte ihre Offensivaktivität in den Kernsystemen gegen die verbleibenden Enklavenmächte erhöht. Analysten folgerten, dass ein rasches diplomatisches Ende des Enklavenkonflikts erforderlich war, um Kräfte zur Verteidigung gegen diese Aggressionen umzuverlagern.
+  Der Aufstieg von Lexi October und der wachsende Einfluss des October Consortium seit der Entdeckung von Radicoida unica sind jedoch nicht unbemerkt geblieben: Vox Galactica bestätigte, dass ein Interview mit der zurückgezogenen Chefin des Consortium für eine kommende Feature-Serie gesichert wurde.
 legacy_weight: 4
 significance: high
 related_uuids:

@@ -11,6 +11,22 @@ bio: 'Bryanna Blanco is a Journalist in Elite Dangerous lore, active from 3304-0
   Beta Hydri, requesting rare goods from pilots.; Rackham Capital Investments concluded
   its galaxy-wide exploration initiative, with Rackham claiming scientists are close
   to cracking the HIP 87621 ...'
+bio_de: Bryanna Blanco ist Finanzjournalistin bei der Federal Times und bekannt
+  für ihre beharrliche investigative Prüfung des Milliardärs Zachary Rackham. 3304
+  hinterfragte sie öffentlich die Legitimität von Rackhams milliardenschwerem Gewinn
+  im Federal Grand Lottery und vermutete, dass der Geldsegen zur Begleichung der
+  gigantischen, unbezahlten Steuerschulden seines Unternehmens dienen solle und nicht,
+  wie behauptet, der Wohltätigkeit. Ihre Berichterstattung festigte ihren Ruf als
+  eine der skeptischsten Finanzkommentatorinnen der Föderation.
+
+  Blanco hielt an ihrer kritischen Berichterstattung fest, während Rackhams öffentliches
+  Profil wuchs, und verfasste Kommentare, die seine extravaganten Selbstpromotionen
+  – darunter den hoch aufragenden Rackham's Spire auf Homeland – aufgriffen und davor
+  warnten, dass seine heiteren Andeutungen einer Präsidentschaftskandidatur 3308
+  kalkulierte Schritte zu einem echten Wahlkampf seien. Sie erinnerte die Öffentlichkeit
+  wiederholt an Rackhams frühere Identität als ‚Calico Zack', einer der berüchtigtsten
+  Piraten des vergangenen Jahrhunderts, und warf den Mainstream-Medien vor, seine
+  Geschichte zu beschönigen.
 ---
 
 

@@ -19,6 +19,25 @@ bio: The Neo-Marlinist Liberation Army (NMLA) is a terrorist organisation dedica
   superpowers including their capitals, killing over half a million people. The organisation
   was led by John Tyburn ("Theta Seven"), a former Imperial Intelligence prisoner,
   and was ultimately dismantled by ACT.
+bio_de: Die NMLA entstand 3306 als bewaffneter Flügel des Marlinismus – einer politischen
+  Tradition, die auf Marlin Duvals Vision einer demokratischen Republik zurückgeht.
+  Die Organisation operierte durch extreme Kompartmentalisierung und nutzte ein ‚Dark-Comms'-Netzwerk,
+  das herkömmlicher Überwachung entzog. Ihre Bombenbau-Abteilung, die Theta Group,
+  wurde von John Tyburn (‚Theta Seven') geleitet, einem ehemaligen Häftling von Serene
+  Harbour, der seine Bezeichnung als politische Aussage annahm.
+
+  Die charakteristischen Laugen-Enzym-Bomben der NMLA trafen erstmals im September
+  3306 vier imperiale Sternenhäfen und töteten über sechzigtausend Menschen. Der
+  folglich teuerste Angriff, ‚Nine Martyrs' am 11. März 3307, umfasste gleichzeitige
+  Bombenanschläge auf neun Sternenhäfen in allen drei Supermächten einschließlich
+  ihrer Hauptstädte, tötete über eine halbe Million Menschen und entgleiste den Galaktischen
+  Gipfel. Die Cornelius-Lasky-Konvention etablierte daraufhin ACT, obwohl die Co-Leiterin
+  Captain Niamh Seutonia in einem Hinterhalt getötet wurde.
+
+  Theta Seven wurde im Dezember 3307 an Bord des Far-God-Megaschiffs Sacrosanct
+  gestellt und zerstörte das Schiff, statt sich zu ergeben. Während die NMLA letztlich
+  zerschlagen wurde, legte ihre Ideologie tiefe Spannungen in der imperialen Gesellschaft
+  offen – zwischen der Dynastie Duval und republikanischer Dissidenz.
 ---
 
 

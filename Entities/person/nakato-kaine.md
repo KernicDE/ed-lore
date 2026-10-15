@@ -11,6 +11,21 @@ bio: 'Nakato Kaine is a Ceo in Elite Dangerous lore, active from 3306-12-24 to 3
   ACT''s early victories, Salvation''s emergence, the Ale...; The Alliance-Sirius
   Corporation anti-xeno defence pact enters its final approval stage before an Assembly
   vote.'
+bio_de: Nakato Kaine ist Ratsfrau in der Alliance Assembly und vertritt das System
+  Tionisla; sie ist die lautstärkste Kritikerin des Verteidigungspakts zwischen Allianz
+  und Sirius Corporation. Als pragmatische Politikerin mit Hintergrund in Ressourcenmanagement
+  hat Kaine die ständige Zusammenarbeit von Premierminister Edmund Mahon mit Unternehmenspartnern
+  angefochten und argumentiert, die strategische Abhängigkeit der Allianz von Sirius
+  untergrabe sowohl ihre Souveränität als auch ihre Anti-Xeno-Fähigkeiten.
+
+  3309 startete Kaine eine hochkarätige Ressourceninitiative, um zu beweisen, dass
+  die Allianz lebenswichtige Militärmaterialien unabhängig von Sirius aufbauen könne.
+  Ihre Vorwürfe, Li Yong-Rui habe mit unfairen Markttricks vorteilhafte Verträge mit
+  allianzischen Unternehmen ausgehandelt, erzwangen eine formale Untersuchung der
+  wahren Kosten des Pakts durch die Assembly. Während Mahon in seinen öffentlichen
+  Reaktionen seinem üblichen Zögern treu blieb, hat Kaines Kampagne eine wachsende
+  Fraktion in der Assembly galvanisiert, die fragt, ob Zusammenarbeit mit Konzernen
+  längst nicht mehr von Unternehmensunterwerfung zu unterscheiden ist.
 ---
 
 

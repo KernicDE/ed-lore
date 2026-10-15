@@ -11,6 +11,18 @@ bio: 'Ernesto Rios is a key figure in Elite Dangerous lore, active from 3307-11-
   Witch Head Nebulas, with anti-xeno squadrons struggling to repel unusuall...; Thargoid
   vessels continue to appear in over two dozen populated systems near nebulas, with
   organised pilot task forces achieving mixed success agai...'
+bio_de: Ernesto Rios ist Feldkorrespondent für Vox Galactica und berichtete von einigen
+  der gefährlichsten Fronten der Thargoid-Konflikte. Im August 3308 veröffentlichte
+  er einen weit verbreiteten Bericht aus den Folgen des Massakers von HIP 22460,
+  in dem er die von den Behörden verhängte Informationsblockade und die Weigerung
+  des medizinischen Personals beschrieb, Pressevertretern Zugang zu Überlebenden
+  auf den verbliebenen Megaschiffen von Azimuth Biotech zu gewähren.
+
+  Rios' Berichterstattung stellte wiederholt die Kluft zwischen offiziellen Darstellungen
+  und der Realität vor Ort während des Thargoid-Kriegs heraus. Seine Berichte aus
+  HIP 22460 hielten sowohl das Ausmaß des menschlichen Leids als auch die gezielte
+  Verschleierung durch militärische und unternehmerische Behörden fest und etablierten
+  ihn als einen der mutigsten Kriegskorrespondenten des Zweiten Thargoid-Kriegs.
 ---
 
 

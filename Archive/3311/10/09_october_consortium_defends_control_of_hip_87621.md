@@ -7,9 +7,15 @@ source: API
 summary: Lexi October defended October Consortium's legal ownership of HIP 87621,
   acquired over a decade ago, and questioned why Zachary Rackham has not shared any
   promised scan data from his exploration campaign.
+summary_de: Lexi October verteidigte die rechtmäßige, vor über einem Jahrzehnt erworbene
+  Eigentümerschaft des October Consortium an HIP 87621 und fragte, warum Zachary
+  Rackham keine der versprochenen Scan-Daten seiner Erkundungskampagne geteilt hat.
 player_impact: Pilots had participated in Rackham's galaxy-wide exploration campaign
   and the search for Terri Tora, gathering data that intensified scrutiny on October
   Consortium's HIP 87621 operations.
+player_impact_de: Piloten hatten an Rackhams galaxisweiter Erkundungskampagne und
+  der Suche nach Terri Tora teilgenommen und dabei Daten gesammelt, die den Blick
+  auf die HIP-87621-Aktivitäten des October Consortium verschärften.
 persons:
 - Lexi October
 - Zachary Rackham
@@ -26,6 +32,20 @@ modern_impact: Lexi October's counter-attack on Rackham's credibility — highli
   operations' versus 'attempts to undermine' establishes the legal narrative she uses
   in the October Accords. The 'unspecified date' for findings release never arrives
   before the war breaks out.
+modern_impact_de: Lexi Octobers Gegenschlag gegen Rackhams Glaubwürdigkeit – mit dem
+  Hinweis, dass nicht ‚ein einziges Scan-Datum' geteilt wurde – ist eine raffinierte
+  Ablenkung, die den Blick teilweise erfolgreich von ihr weglenkt. Ihre Rahmung des
+  Konflikts als ‚rechtmäßige Operationen' gegen ‚Versuche der Unterwanderung' etabliert
+  die rechtliche Erzählung, die sie in den October Accords nutzt. Der ‚unbestimmte
+  Zeitpunkt' für die Veröffentlichung der Erkenntnisse kommt nie, bevor der Krieg
+  ausbricht.
+body_de: |
+  Lexi October, Milliardärin und Chefin des October Consortium, hat eine Erklärung zur Eigentümerschaft ihres Unternehmens am Permit von HIP 87621 veröffentlicht.
+  „Das October Consortium hat die Systemrechte vor über einem Jahrzehnt über alle ordnungsgemäßen und legalen Kanäle erworben", erklärte October. „Unsere Forschenden führen eine legitime Studie mehrerer planetarer Körper durch. Jede Verletzung dieser Rechte wird konsequent vor interstellaren Gerichten angefochten. Der Permit-Zugang wird nicht leichtfertig gewährt, und wir werden Versuche, rechtmäßige Operationen zu untergraben, nicht dulden."
+  October hinterfragte zudem die Intensität der medialen und wissenschaftlichen Aufmerksamkeit für ihr Unternehmen:
+  „Zachary Rackhams jüngste Erkundungskampagne rief Tausende unabhängige Piloten auf, die Galaxis nach planetaren Daten abzusuchen. Doch Rackham hat die versprochenen Ergebnisse nicht mit der wissenschaftlichen Community geteilt – nicht ein einziges Scan-Datum. Warum zieht dann die kleine Forschungsinitiative meines Unternehmens so viel Aufmerksamkeit auf sich? Weil wir nicht durch den Glanz seiner früheren politischen Ambitionen geschützt sind?"
+  Das October Consortium lehnte es bislang ab, Einzelheiten zu seinen Entdeckungen in HIP 87621 bekanntzugeben, und berief sich auf laufende Studien und Geheimhaltungsvereinbarungen. October betonte, die Erkenntnisse würden zu einem unbestimmten Zeitpunkt veröffentlicht; Schlussfolgerungen sollten verantwortungsvoll und nicht spekulativ gezogen werden.
+  Zum Zeitpunkt der Veröffentlichung bleibt HIP 87621 für unabhängige Zugänge geschlossen.
 legacy_weight: 4
 significance: high
 related_uuids:

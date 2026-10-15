@@ -7,8 +7,14 @@ source: API
 summary: Radicoida unica in HIP 87621 enters bloom phase producing seed pods. October
   Consortium calls for harvesting to support pharmacological research. Exogene Sciences
   is collection point.
+summary_de: Radicoida unica in HIP 87621 tritt in die Blütephase ein und bildet Samenkapseln.
+  Das October Consortium ruft zur Ernte zur Unterstützung pharmazeutischer Forschung
+  auf. Exogene Sciences ist der Sammelpunkt.
 player_impact: 'New CG: collect Radicoida unica seed pods at Exogene Sciences in HIP
   87621. Plant entered active reproductive phase. Hazardous surface conditions.'
+player_impact_de: 'Neue Community-Initiative: Sammelt Radicoida-unica-Samenkapseln
+  bei Exogene Sciences in HIP 87621. Die Pflanze ist in eine aktive Fortpflanzungsphase
+  eingetreten. Gefährliche Oberflächenbedingungen.'
 persons:
 - Dr. Roy Casimir
 groups:
@@ -26,6 +32,20 @@ modern_impact: Mass seed pod collection provides October Consortium with unprece
   biological material stockpile. Dr. Casimir's explicit denial of a Ventura connection
   actually amplifies suspicion by raising the comparison, suggesting the wellness
   trend and Radicoida research may eventually converge in public consciousness.
+modern_impact_de: Die Massensammlung von Samenkapseln verschafft dem October Consortium
+  einen beispiellosen Vorrat biologischen Materials. Dr. Casimirs explizite Dementierung
+  eines Ventura-Zusammenhangs verstärkt den Verdacht durch den Vergleich tatsächlich
+  und legt nahe, dass der Wellness-Trend und die Radicoida-Forschung im öffentlichen
+  Bewusstsein möglicherweise zusammenfinden.
+body_de: |
+  Das October Consortium hat verkündet, dass die Forschungsinitiative zur Sammlung von Radicoida-unica-Blütenproben ein durchschlagender Erfolg war.
+  Nach den aus Exogene Sciences in HIP 87621 gemeldeten Ergebnissen wird die Forschung durch die Zahl der von Kommandanten gesammelten Unica-Samenkapseln erheblich vorangebracht, da mehr biologisches Material verfügbar ist.
+  Die gesammelten Samenkapseln werden nun einer detaillierten, vielseitigen Analyse unterzogen, um ihre einzigartigen Eigenschaften besser zu verstehen und die in jüngsten Studien beobachteten pharmazeutischen Wirkungen zu reproduzieren.
+  Ein Rechtsvertreter des October Consortium fügte hinzu:
+  „Unsere Forschungs- und Entwicklungsprojektionen werden dank der Tausende Kommandanten, die an dieser Initiative teilgenommen haben, erheblich gestärkt. Alle Mitglieder der October Accords werden von diesem Ergebnis profitieren."
+  Beteiligte Kommandanten können ihre Belohnungen nun bei Exogene Sciences abholen.
+  Unterdessen wiesen manche Meinungskommentatoren auf Ähnlichkeiten zwischen der jüngsten Radicoida-Studie des Holloway Institute und einem viralen Wellness-Trend hin, der dem selbst gefilmten Fitnessregime des Filmstars William Ventura zugeschrieben wird.
+  Obwohl der Zeitpunkt kurios ist, erklärte Dr. Casimir vom Holloway Bioscience Institute gegenüber Vox Galactica, ‚die Entwicklungszeit und der regulatorische Rahmen, um Radicoida-basierte Steigerungsmittel auch nur annähernd an Humanversuche heranzubringen, lägen noch einige Zeit in der Ferne', und deutete an, dass Big Bills körperliche Verwandlung auf ‚Diätmedikamente und Vertrauenstricks' zurückzuführen sei.
 legacy_weight: 4
 significance: high
 related_uuids:

@@ -17,6 +17,11 @@ bio: The Federal Times is a prominent independent news organisation headquartere
   Thargoid research data in 3302 and consistently reporting on PDB surveillance abuses,
   the Starship One conspiracy, and military misconduct. Its reporters have been targeted
   by Federal agencies for their investigative work.
+bio_de: Die Federal Times ist eine bedeutende unabhängige Nachrichtenorganisation
+  und eine der wenigen wirklich kritischen Medienstimmen innerhalb der Föderation.
+  Anders als unternehmenskontrollierte Newsfeeds arbeitet sie mit redaktioneller
+  Unabhängigkeit, die sie in politischen Kreisen gleichermaßen respektiert und verhasst
+  macht.
 ---
 
 

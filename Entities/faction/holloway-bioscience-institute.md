@@ -17,6 +17,18 @@ bio: 'Holloway Bioscience Institute is a research active in Elite Dangerous lore
   has rewarded pilots who delivered living matter extracted from space-dwelling organisms.;
   The superpowers agree to shut down Aegis permanently and establish independent anti-xeno
   taskforces.'
+bio_de: Das Holloway Bioscience Institute ist eine wissenschaftliche Forschungsorganisation,
+  gewidmet dem Studium xenologischer Lebensformen. Im Februar 3305 kündigte Dr. Roy
+  Casimir Pläne an, ein dediziertes Forschungszentrum im System Nahuaru zu errichten,
+  um neue Lebensformen zu analysieren, die über den Kodex entdeckt wurden, und bat
+  unabhängige Piloten um Baumaterialien und Erkundungsdaten.
+
+  Das Institut beteiligte sich später an breiterer Thargoid-Forschung; das leitende
+  Mitglied Dr. Jeong-Hui Shin trug zu akademischen Debatten über Thargoid-Verhalten
+  nach der Proteus-Wellen-Katastrophe 3308 bei. Die Arbeit des Holloway Bioscience
+  Institute erweiterte das biologische Wissen der Menschheit über den Thargoid-Fokus
+  hinaus und untersuchte die vielfältigen außerirdischen Ökosysteme, denen Piloten
+  in der gesamten Galaxis begegneten.
 ---
 
 

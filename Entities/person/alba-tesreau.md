@@ -11,6 +11,58 @@ bio: Professor Alba Tesreau is a leading xenologist and founding scientific dire
   in 3307 after the Alexandria disaster, she became one of Salvation's most prominent
   critics — exposing his identity as Dr. Caleb Wycherley and organising the search that
   located the Alexandria's wreckage, proving Azimuth sabotage.
+bio_de: Professor Alba Tesreau war die herausragende wissenschaftliche Stimme in der
+  Reaktion der Menschheit auf den Zweiten Thargoid-Krieg. Als Leiterin des Achenar
+  Research Council verfügte sie über unvergleichliche Expertise in der Xenologie –
+  der Erforschung außerirdischen Lebens – und war die natürliche Wahl zur Leitung
+  der wissenschaftlichen Abteilung von Aegis, als die Organisation im August 3303
+  gebildet wurde.
+
+  Tesreaus Ansatz für die Thargoid-Bedrohung war methodisch und kooperativ. Sie errichtete
+  Forschungsaußenposten im gesamten Plejaden-Nebel, leitete Studien über Thargoid-Barnakel
+  und Meta-Legierungen und überwachte die Entwicklung der ersten wirksamen Anti-Xeno-Raketen
+  und Shutdown-Feld-Neutralisatoren. Ihre Präferenz, die Thargoids zu verstehen statt
+  sie nur zu vernichten, brachte sie mit Militaristen in allen drei Supermächten
+  aneinander, doch ihre wissenschaftlichen Leistungen waren unbestreitbar. Aegis'
+  Forschung an Meta-Legierungen erwies sich als entscheidend für die Reparatur von
+  in Thargoid-Angriffen beschädigten Stationen, und die Arbeit ihres Teams an der
+  Integration von Guardian-Technologie verschaffte Piloten mächtige neue Werkzeuge
+  gegen die außerirdische Bedrohung.
+
+  Die Alexandria-Katastrophe zertrümmerte sowohl Aegis als auch Tesreaus Karriere.
+  3307 verschwand das Aegis-Megaschiff Alexandria mit 4.000 Besatzungsmitgliedern
+  und einer Fracht von Guardian-Artefakten. Die Supermächte ordneten eine unabhängige
+  Untersuchung an, und der Baumann-Report – fertiggestellt im Januar 3308 – empfahl
+  die Auflösung von Aegis. Tesreau wurde im August 3307 zum Rücktritt gezwungen,
+  zusammen mit Direktor Yazhu Xing und Dr. Mia Valencourt. Der Report kritisierte
+  sie für den Fokus auf Thargoid-Kommunikationsforschung statt auf die Entwicklung
+  neuer AX-Waffengenerationen sowie für organisationale Selbstzufriedenheit.
+
+  Tesreau weigerte sich, den Narrativ zu akzeptieren, dass Aegis allein für den Verlust
+  der Alexandria verantwortlich sei. Unabhängig operierend erhielt sie einen Hinweis
+  auf driftende Objekte außerhalb der Kernsysteme und organisierte eine Suche durch
+  unabhängige Piloten. Im Januar 3308 wurde das Wrack der Alexandria in Wregoe TC-X
+  b29-0 lokalisiert. Die Aufzeichnungen von Captain Morales zeigten, dass das Schiff
+  sabotiert und von Agenten der Azimuth Biochemicals geplündert worden war, die für
+  ‚Die Hexe' arbeiteten – nicht, wie offiziell behauptet, von Thargoids zerstört.
+  Diese Entdeckung rehabilitierte Tesreau und legte eine Verschwörung offen, die die
+  Supermächte nicht untersuchen wollten.
+
+  Nach der Auflösung von Aegis wurde Tesreau zu einer der entschlossensten Gegner
+  von Salvation. Im Mai 3308 legte sie den Standort der INRA-Basis Iraxon Lane offen,
+  wo Aufzeichnungen bestätigten, dass Salvation Dr. Caleb Wycherley war, früherer
+  Vizepräsident der Azimuth Biochemicals und Mitwirkender am Mykoid-Biokampfstoff.
+  Sie deckte seine Rolle in der Sabotage der Alexandria und seine Manipulation der
+  Supermächte durch Projekt Seraph auf. Diese Enthüllungen wurden von Salvations
+  Anhängern abgetan und von Politikern ignoriert, die von seinen Superwaffen abhängig
+  geworden waren, doch Tesreaus investigative Arbeit lieferte die endgültige Darstellung
+  von Salvations wahrem Wesen.
+
+  Tesreaus Vermächtnis ist das einer Wissenschaftlerin, die auch dann nicht vom Prinzip
+  abließ, als es sie Position, Ruf und institutionelle Unterstützung kostete. Ihre
+  Forschung rettete während der Thargoid-Konflikte zahllose Leben, und ihre investigative
+  Arbeit deckte eine der gefährlichsten Figuren der modernen galaktischen Geschichte
+  auf.
 ---
 
 

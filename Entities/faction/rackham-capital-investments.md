@@ -14,6 +14,23 @@ related_entities:
 bio: Rackham Capital Investments is the vast corporate empire of billionaire Zachary
   Rackham, marked by hacking, boardroom battles and major public initiatives including
   Colonia region shipyards and exploration campaigns.
+bio_de: Rackham Capital Investments ist das riesige Unternehmensimperium des Milliardärs
+  Zachary Rackham, eines ehemaligen unabhängigen Händlers, von dem das Gerücht geht,
+  er sei als Pirat unter dem Namen ‚Calico Zack' gefahren. Nach seiner lukrativen
+  Handelskarriere gegründet, wuchs das Unternehmen zu einer der prominentesten Investmentfirmen
+  der Föderation und erwarb Vermögenswerte wie die Kavanagh Spaceframes Ltd – umbenannt
+  in Rackham Spaceframes –, die das persönliche Vermögen von Rackham 3308 über eine
+  Billion Credits katapultierte.
+
+  Die Geschichte des Unternehmens ist geprägt von internen Machtkämpfen und krimineller
+  Intrigen. 3304 hoben Hacker, bekannt als The Collective, eine Milliarde Credits
+  von Rackhams Privatkonto ab und verteilten sie an frühere Mitarbeiter, denen Renten
+  verweigert worden waren. Der plötzliche Tod des langjährigen CFO Aaron Salazar 3305
+  löste einen Vorstandskampf mit seiner Nachfolgerin Taja Gavaris aus, die Wochen
+  später zurücktrat, inmitten von Vorwürfen, Rackham habe Agenten von Doppelgänger-Geheimdiensten
+  eingesetzt, um sie zu erpressen. Rackham Capital finanzierte zudem große öffentliche
+  Initiativen, darunter neue Werften in der Region Colonia und eine galaxisweite Erkundungskampagne
+  zur Untersuchung anomaler Messwerte im permit-gesperrten System HIP 87621.
 ---
 
 # Rackham Capital Investments

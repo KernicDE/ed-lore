@@ -17,6 +17,17 @@ bio: Vista Genomics is a biotechnology organisation active in Elite Dangerous lo
   HIP 87621. In July 3312 it partnered with Faulcon DeLacy to survey the Sanguineous
   Rim, using the new Nomad to gather biological samples and assess genetic diversity
   in the galaxy's outer fringes.
+bio_de: Vista Genomics ist eine Biotechnologie-Organisation, spezialisiert auf Sammlung
+  und Analyse exobiologischer Daten. Ende 3311 verarbeitete sie Scan-Daten für das
+  October Consortium im System HIP 87621, wobei ihre öffentliche Rolle durch die
+  Flottenträger-Beschränkungen und die ‚Spoofing'-Behauptungen des Consortium eingeengt
+  war. Im Juli 3312 ging das Unternehmen eine Partnerschaft mit Faulcon DeLacy ein,
+  um den Sanguineous Rim zu vermessen; mit dem neuen, von Schiffen gestarteten Erkundungsfahrzeug
+  Nomad wurden biologische Proben gesammelt und die genetische Vielfalt in den äußeren
+  Randgebieten der Galaxis bewertet. Die Initiative wurde anschließend als Erfolg
+  eingestuft. Piloten bestätigten, dass der Mk-II-Bioscanner und der Mk-II-Sensor
+  des Nomad Exobiologie-Probenahme und -forschung effizienter machten als frühere
+  Explorer-Ausstattungen.
 ---
 
 

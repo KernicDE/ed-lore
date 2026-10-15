@@ -11,6 +11,20 @@ bio: 'Conrad Sterling is a Ceo in Elite Dangerous lore, active from 3307-06-02 t
   was responsible for the Alexandria''s loss.; Professor Alba Tesreau presents evidence
   that Salvation is Dr Caleb Wycherley, former Azimuth Biochemicals researcher and
   INRA collaborator who hel...'
+bio_de: Conrad Sterling ist politischer Korrespondent für Vox Galactica und berichtete
+  über bedeutende diplomatische Ereignisse zwischen den Supermächten und die Politik
+  der Föderation. Am bekanntesten ist seine Berichterstattung vom Galaktischen Gipfel
+  im Februar 3307, wo er detaillierte Darstellungen der ersten jemals persönlichen
+  Gespräche zwischen Führern von Allianz, Imperium und Föderation im Sirius-System
+  lieferte.
+
+  Sterlings Journalismus hat den Aufstieg korporatistischer Bewegungen nach dem Vorbild
+  der Jupiter Division verfolgt, die sich wandelnde Beziehung zwischen der Föderation
+  und unabhängigen Mächten wie Yuri Grom sowie die politischen Folgen der Auflösung
+  von Aegis. Seine Berichte vom Galaktischen Gipfel hielten sowohl die zeremonielle
+  Zuversicht als auch die zugrundeliegenden Spannungen der Konferenz fest, darunter
+  die Frostigkeit zwischen imperialen und marlinistischen Delegationen und die auffällige
+  Abwesenheit des föderalen Botschafters Jordan Rochester.
 ---
 
 

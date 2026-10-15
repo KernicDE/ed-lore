@@ -18,6 +18,21 @@ bio: 'Universal Cartographics is a organization active in Elite Dangerous lore f
   the entire War and Peace Nebula (NG...; Cynthia Sideris, chair of Universal Cartographics,
   comments on Jasmina Halsey''s search for the ''architects of creation'', noting
   that while their ex...'
+bio_de: Universal Cartographics ist die führende Organisation für Erkundungsdaten
+  und Stellarkartografie und unterhält die maßgebliche Datenbank von Sternensystemen,
+  planetaren Körpern und Navigationsgefahren im besiedelten menschlichen Raum. Gegründet
+  in Partnerschaft mit der Pilots' Federation, operiert sie als neutrale wissenschaftliche
+  Autorität für alle drei Supermächte – doch ihre engen Verbindungen zur Sirius Corporation
+  und der Brewer Corporation haben gelegentlich Fragen nach unternehmerischem Einfluss
+  auf vermeintlich unparteiische kartografische Daten aufgeworfen.
+
+  Unter der Führung von Chair Cynthia Sideris überwachte Universal Cartographics
+  große Initiativen wie das Kartierungsprojekt der Colonia Bridge und die Kartierung
+  von Regionen, die von Thargoid-Maelstroms betroffen waren. Die Datenfreigabevereinbarungen
+  des Unternehmens mit der Pilots' Federation machen es zu einem essenziellen Infrastrukturanbieter
+  für unabhängige Piloten, während wissenschaftliche Zusammenarbeiten – wie der Außenposten
+  Rackham's Peak am galaktischen Zenit – sein Bekenntnis demonstrieren, die Grenzen
+  des bekannten Raums zu erweitern.
 ---
 
 

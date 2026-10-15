@@ -7,9 +7,17 @@ source: API
 summary: After two weeks of enclave fighting, Vista Genomics confirms Radicoida unica
   is wholly unique. Aisling Duval leads with 6 systems, Jerome Archer is eliminated,
   and leaked communications indicate the war will continue until one Power dominates.
+summary_de: Nach zwei Wochen Gefechten in der Enklave bestätigt Vista Genomics, dass
+  Radicoida unica vollkommen einzigartig ist. Aisling Duval führt mit 6 Systemen,
+  Jerome Archer ist ausgeschieden, und durchgestochene Mitteilungen deuten darauf
+  hin, dass der Krieg andauern wird, bis eine Macht dominiert.
 player_impact: Pledged and unaffiliated pilots fought across the 49-system HIP 87621
   enclave in a two-week Powerplay campaign. Jerome Archer's supporters were eliminated.
   Contributors collected rewards from registration megaships.
+player_impact_de: Gelobte und unabhängige Piloten kämpften in einer zweiwöchigen
+  Powerplay-Kampagne in der 49 Systeme umfassenden HIP-87621-Enklave. Die Unterstützer
+  von Jerome Archer wurden ausgeschieden. Teilnehmer sammelten Belohnungen an den
+  Registrierungs-Megaschiffen ein.
 persons:
 - Ernesto Rios
 - Conrad Sterling
@@ -25,6 +33,27 @@ modern_impact: Vista Genomics' confirmation that Radicoida unica is 'wholly uniq
   rapid escalation. The leaked prediction that war will continue until 'one Power
   secures dominance' foreshadows the February 3312 non-aggression pact — Powers initially
   believe only total victory suffices, but later realise stalemate benefits no one.
+modern_impact_de: Vista Genomics' Bestätigung, dass Radicoida unica ‚vollkommen einzigartig'
+  sei und ‚potenzielle Fortschritte' erwarte, legitimiert die militärischen Investitionen
+  und erklärt die rasche Eskalation. Die durchgestochene Prognose, der Krieg werde
+  andauern, ‚bis eine Macht die Vorherrschaft sichert', weist voraus auf den Nichtangriffspakt
+  vom Februar 3312 – die Mächte glauben zunächst, dass nur der totale Sieg genügt,
+  erkennen später jedoch, dass ein Patt niemandem nützt.
+body_de: |
+  Die Kämpfe in der 49 Systeme umfassenden Enklave um HIP 87621 dauern an; die Militärkräfte aller großen Mächte zeigen nach zwei Wochen schwerer Gefechte keine Anzeichen einer Feuerpause.
+  Ernesto Rios, freier Kriegskorrespondent für Vox Galactica, berichtete:
+  „Obwohl das Imperium nach dieser ersten Kampagne die dominierende Kraft in der Enklave zu sein scheint, wird zunehmend klar, dass es in diesem Konflikt um weit mehr als territorialen Einfluss geht. Vista Genomics hat Radicoida unica als vollkommen einzigartige Art bestätigt; erste genetische Indikatoren deuten auf potenzielle Fortschritte hin, sobald die Pflanze vollständig verstanden ist."
+  „Angesichts des Ausmaßes der Mobilmachung in der Enklave ist es möglich, dass bestimmte Einzelheiten ihrer Eigenschaften nur einer kleinen Gruppe in den obersten Führungskreisen bekannt sind."
+  Militäranalysten stellen fest, dass sich die strategische und taktische Lage täglich verschiebt. In der ersten Woche führten alle Seiten aggressive Offensiven, die alle befestigten Positionen gefährdeten, da nur wenige Anstrengungen in die Verteidigung flossen. Kurz darauf folgten rasche strategische Anpassungen; die meisten Mächte verstärkten Schlüsselstellungen, um nicht überrannt zu werden.
+  In der zweiten Woche hatte sich ein ausgewogeneres Muster aus Verteidigungs- und Offensivoperationen herausgebildet, begleitet von Gerüchten über zeitweilige Übereinkünfte kleinerer Mächte gegen größere Rivalen innerhalb der Enklave.
+  Alle an der Enklavenschlacht beteiligten Mächte haben ihre gelobten Unterstützer eindringlich zur Teilnahme aufgerufen und unabhängige Piloten ermutigt, sich einer Sache anzuschließen.
+  Durchgestochene interne Mitteilungen deuten darauf hin, dass der Konflikt andauern wird, bis eine Macht die Vorherrschaft über die 49 Systeme umfassende Enklave sichert; das bestätigt einige Analystenberichte, dass die Mächte die strategische Kontrolle über HIP 87621 für sich selbst wollen. Die Mächte greifen einander nun unabhängig von ihrer Supermacht-Zugehörigkeit an.
+  Nach der jüngsten Einschätzung von Conrad Sterling für Vox Galactica kontrollieren folgende drei Mächte in der Anfangsphase derzeit die meisten Systeme:
+  Rang 1: Aisling Duval – 6 Systeme
+  Rang 2: Nakato Kaine – 5 Systeme
+  Rang 3: Pranav Antal/Arissa Lavigny-Duval – 3 Systeme
+  Jerome Archer hat seinen Stützpunkt in der Enklave verloren und ist im Rennen um die Kontrolle der Region nun ausgeschieden.
+  Piloten, die in der ersten zweiwöchigen Phase beigetragen haben, können ihre Belohnungen nun an dem Megaschiff abholen, bei dem sie ihre Teilnahme registriert haben.
 legacy_weight: 4
 significance: high
 related_uuids:

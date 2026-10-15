@@ -11,6 +11,22 @@ bio: 'Pranav Antal is a President in Elite Dangerous lore, active from 3301-06-0
   technologies have been varied.; Simguru Pranav Antal has addressed the possibility
   that humanity may lose the conflict against the Thargoids, proposing the Sim-Archive
   as a means ...'
+bio_de: Pranav Antal, bekannt als Simguru, ist Gründer und spiritueller Führer von
+  Utopia, einer hochentwickelten Gemeinschaftsgesellschaft im System Polevnic. Er
+  setzt sich für eine Existenz nach dem Überfluss ein, erreicht durch Nanotechnologie,
+  neuronale Schnittstellen und radikale Sozialtechnik, und positioniert Utopia sowohl
+  als technologischen Vorreiter als auch als philosophische Alternative zum konkurrierenden
+  Militarismus der Supermächte. Seine ruhige, fast mystische öffentliche Persona verbirgt
+  einen gerissenen politischen Akteur, der Utopia trotz geringer Größe erfolgreich
+  unabhängig und einflussreich gehalten hat.
+
+  Antals bedeutendste Eingriffe in galaktische Angelegenheiten umfassen den Streit
+  mit Vitadyne Labs um geborgene utopische Nanomedizin 3305, den die Interstellar
+  Health Organisation letztlich zugunsten von Vitadyne entschied. Während der Thargoid-Krise
+  schlug er das Sim-Archiv als Mittel zur Bewahrung menschlichen Bewusstseins vor,
+  sollte die Spezies dem Aussterben nahekommen – eine typisch utopische Mischung
+  aus technologischem Optimismus und pragmatischer Notfallplanung, die Bewunderung
+  und Spott gleichermaßen hervorrief.
 ---
 
 

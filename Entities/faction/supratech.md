@@ -13,6 +13,20 @@ related_entities:
 - federal-intelligence-agency
 bio: Supratech is a computer technology company that developed the Torc holographic
   personal computer, which malfunctioned catastrophically at the Rackham Ultratech Expo.
+bio_de: Supratech ist ein Computertechnologie-Unternehmen, das 3304 mit Herculean
+  Machines um die Entwicklung eines Personal Computers der nächsten Generation konkurrierte.
+  Unter CEO Scorpio DeVorrow entwickelte Supratech den Torc, ein Gerät mit holografischer
+  Benutzeroberfläche, das während der Rackham Ultratech Expo katastrophal versagte,
+  die Nutzer mit unverständlichem visuellen Rauschen umgab, das Übelkeit auslöste,
+  und Herculean Machines dem zuverlässigeren Duradrive den Marktvorteil einbrachte.
+
+  Im September 3304 erlitt Supratech einen verheerenden Rückschlag, als sein Hauptfertigungskomplex
+  durch einen Brand zerstört wurde. DeVorrow fragte öffentlich, wie das hochmoderne
+  System der Brandbekämpfung, die Sicherheitskameras, interne Alarme und Wärmesensoren
+  gleichzeitig ausfallen konnten, und deutete Sabotage stark an. Der Brand zerstörte
+  Dutzende Torc-Prototypen und ließ Supratech in einer angeschlagenen Position zurück,
+  unfähig, von den früheren Schwierigkeiten seines Rivalen durch Enthüllungen zu
+  organisiertem Verbrechen in der Finanzierung zu profitieren.
 ---
 
 # Supratech

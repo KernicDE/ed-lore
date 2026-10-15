@@ -17,6 +17,21 @@ bio: 'Imperial Internal Security Service is a organization active in Elite Dange
   Anders Blaine''s advisors had connections to Emperor''s Dawn, the same insurgent
   group linked...; A leaked internal document from Emperor''s Dawn revealed the group''s
   radical agenda: demanding the right to appoint a new Emperor, disbanding the Im...'
+bio_de: Der Imperial Internal Security Service (IISS) ist die zentrale Nachrichten-
+  und Sicherheitsbehörde des Imperiums, zuständig für Terrorismusbekämpfung, interne
+  Überwachung und den Schutz imperialer Interessen vor Subversion. Im Auftrag von
+  Senat und Kaiserlichem Palast ausgestattet, verfügt der IISS über weitreichende
+  Befugnisse zur Inhaftierung von Verdächtigen, zur Durchführung verdeckter Operationen
+  und zur Unterdrückung von Bedrohungen der etablierten Ordnung – Befugnisse, die
+  er in Krisenzeiten häufig nutzte.
+
+  Die Bilanz der Behörde ist gemischt. Sie untersuchte die League of Reparation erfolgreich
+  und entlastete die Engineerin Liz Ryder von NMLA-Bombenbauvorwürfen, doch ranghohe
+  Führer gaben zu, auf Ausmaß und Organisation der Neo-Marlinist Liberation Army
+  während der Nine-Martyrs-Kampagne ‚unvorbereitet' gewesen zu sein. Der IISS spielte
+  auch eine zentrale Rolle in der Unterdrückung von Emperor's Dawn und den Massenverhaftungen
+  marlinistischer Flüchtlinge – Maßnahmen, die Kritiker als eher radikalisierend
+  als neutralisierend für Sympathisanten brandmarken.
 ---
 
 

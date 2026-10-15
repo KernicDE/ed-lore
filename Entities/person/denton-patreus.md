@@ -11,6 +11,25 @@ bio: Denton Patreus is an Imperial Senator and powerful military figure commandi
   Though Patreus denied involvement, he restored his standing by leading a ruthless campaign
   against Emperor's Dawn. A conservative hardliner, he has courted Princess Aisling Duval
   and led operations against the Kumo Crew in the Pegasi Sector.
+bio_de: Denton Patreus kommandiert eine der größten privaten Militärkräfte des Imperiums
+  von seiner Machtbasis im System Eotienses aus. Als Kaiser Hengist Duval im August
+  3301 von Brendan Paul Darius – einem Mitglied von Patreus' Gefolge – ermordet wurde,
+  bestritt der Senator jede Beteiligung und wurde nie angeklagt. Die Verbindung vernichtete
+  zeitweitig seinen Stand; Rivalen forderten seinen Ausschluss aus dem Senat.
+
+  Patreus erholte sich, indem er den Emperor's Dawn den totalen Krieg erklärte, der
+  Aufständischengruppe, die für das Attentat verantwortlich war. Mit großzügigen
+  Belohnungen für unabhängige Piloten leitete er persönlich Operationen, die Stützpunkte
+  von Emperor's Dawn in mehreren Systemen zerstörten. Anfang 3302 hatte er die Organisation
+  faktisch ausgelöscht und seinen Ruf rehabilitiert.
+
+  Seine politische Philosophie verbindet Militarismus mit pragmatischem Konservatismus.
+  Während der Nachfolgekrise schlug er vor, der Thron solle durch Volksunterstützung
+  statt Geburtsrecht vergeben werden – weithin als Machtgreifversuch interpretiert.
+  Sein Werben um Prinzessin Aisling Duval schürt Spekulationen über ein Patreus-Duval-Bündnis,
+  das einen starken Thronanwärter hervorbringen könnte. Über die Politik hinaus führte
+  er Feldzüge gegen die Kumo Crew und plädiert durchgehend für aggressive Antworten
+  auf externe Bedrohungen und interne Dissidenz.
 ---
 
 

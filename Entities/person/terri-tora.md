@@ -10,6 +10,11 @@ bio: Terri Tora is a xenobiologist whose investigation of rumours about HIP 8762
   away on an October Consortium megaship, was discovered in the permit-locked system,
   and was incarcerated on charges of corporate espionage before being released in July
   3312.
+bio_de: Terri Tora ist eine Xenobiologin, deren Untersuchung von Gerüchten über HIP
+  87621 weit verbreitetes Interesse am System auslöste. Ende 3311 versteckte sie sich
+  auf einem Megaschiff des October Consortium, wurde innerhalb des permit-gesperrten
+  Systems entdeckt und wegen Unternehmensspionage inhaftiert, bevor sie im Juli 3312
+  freigelassen wurde.
 ---
 
 

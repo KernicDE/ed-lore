@@ -30,6 +30,22 @@ bio: Achenar is the capital system of the Empire, colonised in the 23rd century 
   2325 — where Henson's forces annihilated a Federal invasion fleet — secured the Empire's
   independence. The system contains Capitol, seat of the Imperial Palace and Senate,
   and was targeted by the NMLA's Nine Martyrs bombing campaign in March 3307.
+bio_de: Achenar ist das Hauptsystem des Imperiums und einer der folgenreichsten Orte
+  der Menschheitsgeschichte. Gegründet im 23. Jahrhundert von Marlin Duval als friedliche
+  demokratische Republik, wurde die Kolonie nach ihrem Tod von ihrem Bruder Henson
+  in eine imperiale Diktatur umgewandelt, die die Dynastie Duval begründete.
+
+  Der prägende Moment des Systems kam 2325, als Hensons Streitkräfte eine föderale
+  Expeditionsflotte in der Schlacht von Achenar vernichteten, die Unabhängigkeit des
+  Imperiums sicherten und es als dauerhaften Supermachtrivalen etablierten. Der Sieg
+  veranlasste die Föderation außerdem, ihre Hauptstadt von der Erde zum Mars zu verlegen.
+
+  Das System enthält mehrere bewohnte Welten; die bedeutendste ist Achenar 6d –
+  bekannt als Capitol – Sitz des Kaiserlichen Palasts, des Senats und der Hall of
+  Martyrs. Mit über 16 Milliarden Einwohnern ist Achenar eines der bevölkerungsreichsten
+  Systeme des imperialen Raums. Im März 3307 wurde Dawes Hub in der NMLA-Kampagne
+  Nine Martyrs bombardiert, wobei Hunderttausende starben und dauerhafte Hochsicherheitsmaßnahmen
+  ausgelöst wurden.
 ---
 
 

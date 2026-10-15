@@ -14,6 +14,21 @@ related_entities:
 bio: The Federal Security Service is the Federation's domestic intelligence agency,
   responsible for counter-terrorism, internal surveillance and protecting Federal institutions
   from subversion.
+bio_de: Der Federal Security Service (FSS) ist die inländische Nachrichtenbehörde
+  der Föderation, zuständig für Terrorismusbekämpfung, interne Überwachung und den
+  Schutz föderaler Institutionen vor Subversion. Im Auftrag von Präsident und Congress
+  ausgestattet, verfügt der FSS über weitreichende Befugnisse zur Überwachung ziviler
+  Kommunikation, zur Untersuchung von Bedrohungen und zur Koordination mit föderalen
+  Strafverfolgungsbehörden. Seine Zuständigkeit umfasst alle föderalen Systeme und
+  macht ihn zu einer der mächtigsten Sicherheitsorganisationen der Galaxis.
+
+  Der FSS wurde während der Nine-Martyrs-Krise berüchtigt, als er das Proactive Detection
+  Bureau einrichtete, ein Massenüberwachungsprogramm, das Milliarden ziviler Nachrichten
+  auf terroristische Aktivitäten scannt. Während der FSS das PDB als essenziell für
+  die nationale Sicherheit verteidigte, verurteilten Bürgerrechtsgruppen und die Federal
+  Times es als verfassungswidrigen Übergriff. Die enge Beziehung der Behörde zum
+  Mars Tribune und anderen unternehmerischen Medienhäusern wirft zudem Bedenken hinsichtlich
+  der Vermischung von Geheimdienst und Propaganda in der föderalen Politik auf.
 ---
 
 # Federal Security Service

@@ -16,6 +16,23 @@ bio: The Imperial Navy is the military force of the Empire, tracing its origins 
   as both warships and symbols of Imperial power, while its decentralised structure
   reflects the Empire's feudal character with senators commanding private fleets that
   supplement central forces.
+bio_de: Die Imperiale Marine (Imperial Navy) führt ihre Ursprünge auf die Schlacht
+  von Achenar 2325 zurück, als Henson Duvals Streitkräfte eine föderale Expeditionsflotte
+  vernichteten und die Unabhängigkeit des Imperiums sicherten. Ihr Flaggschiff, die
+  Majestic-Class Interdictor, dient sowohl als Kriegsschiff als auch als Symbol imperialer
+  Größe; Senatoren kommandieren diese Schiffe als mobile Paläste und militärische
+  Hauptquartiere. Die Struktur der Marine spiegelt den feudalen Charakter des Imperiums
+  wider. Während ein Zentralkommando Kaiser und Senat gegenüber rechenschaftspflichtig ist,
+  sind viele Kräfte faktisch Privatarmeen einzelner Senatoren – das verschafft Flexibilität,
+  erzeugt aber Spannungen zwischen zentralen und provinziellen Kräften.
+
+  Im 34. Jahrhundert führte die Marine Feldzüge gegen Emperor's Dawn (3301), Nova
+  Imperium (3304-3305), die Kumo Crew und leistete Beiträge zu Anti-Xeno-Operationen.
+  Ihre Beziehung zur Kaiserlichen Familie ist eng und bisweilen tragisch – Kaiser
+  Hengist Duval starb 3301 nach seinem Attentat auf dem Weg zur medizinischen Einrichtung
+  der Imperialen Marine. Ihre Rivalität mit der Federal Navy ist jahrhundertealt und
+  wächst durch Proxykonflikte weiter, selbst als beide Kräfte gegen die Thargoids
+  kooperieren.
 ---
 
 

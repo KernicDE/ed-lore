@@ -18,6 +18,13 @@ bio: Exogene Sciences is a scientific organisation associated with the October C
   by independent pilots would accelerate the Consortium's research, and in July 3312
   it served as the meeting point where Professor Frank Raddix received Terri Tora after
   her release.
+bio_de: Exogene Sciences ist eine wissenschaftliche Organisation, die mit der Exobiologie-Forschung
+  des October Consortium im System HIP 87621 verbunden ist. Im April 3312 berichtete
+  sie, dass von unabhängigen Piloten geborgene Artefakte die Forschung des Consortium
+  beschleunigen würden, und Lexi October wies Beitragende an, Belohnungen bei der
+  Einrichtung abzuholen. Im Juli 3312 diente die Einrichtung als Treffpunkt, an dem
+  Professor Frank Raddix seine Kollegin Terri Tora empfing, nachdem das October Consortium
+  sie überraschend aus dem Gewahrsam entlassen hatte.
 ---
 
 

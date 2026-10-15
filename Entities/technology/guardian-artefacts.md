@@ -10,6 +10,20 @@ bio: 'Guardian artefacts is a technology in Elite Dangerous, mentioned from 3307
   Thargoid forces invade the Delphi system and multiple systems in the California,
   Coalsack and Pleiades Nebulas.; The Alexandria megaship jumps from Delphi to HIP
   16538, triggering a Thargoid attack.'
+bio_de: Guardian-Artefakte sind die Überreste der antiken Guardian-Zivilisation, einer
+  technologisch fortgeschrittenen Spezies, die Jahrtausende vor der menschlichen
+  Raumfahrt existierte. 3305 richtete Zende Partners einen wöchentlichen Megaschiff-Transport
+  nach Synuefe EN-H d11-96 ein, einem Außenposten im Guardian-Raum, um Forschung
+  und Technologieentwicklung auf Basis geborgener Guardian-Technologie zu unterstützen.
+
+  Die Artefakte wurden zur Entwicklung fortschrittlicher Militärmodule und Hybridtechnologien
+  genutzt; Unternehmen wie Zende Partners und Segnen Exchange konkurrierten um Zugang
+  zu Guardian-Waren. Guardian-Artefakte sind von den Unknown Artefacts thargoidischen
+  Ursprungs zu unterscheiden, doch beide repräsentieren außerirdische Technologien,
+  die die menschliche wissenschaftliche und militärische Entwicklung tiefgreifend
+  beeinflusst haben. Das Rennen um die Ausbeutung von Guardian-Technologie beschleunigte
+  sich nach der Thargoid-Invasion, als die Supermächte jeden Vorteil gegen die außerirdische
+  Bedrohung suchten.
 ---
 
 

@@ -7,9 +7,16 @@ source: API
 summary: Brewer Corporation confirmed pilots delivered construction materials in record
   time for an urgent order, with observers believing a science and security enclave
   around HIP 87621 could be completed within days. Lexi October remained silent.
+summary_de: Die Brewer Corporation bestätigte, dass Piloten die Baumaterialien für
+  einen dringenden Auftrag in Rekordzeit geliefert haben; Beobachter glauben, dass
+  eine Wissenschafts- und Sicherheitsenklave rund um HIP 87621 innerhalb von Tagen
+  fertiggestellt sein könnte. Lexi October blieb stumm.
 player_impact: Independent pilots delivered construction materials in record time
   to Brewer Corporation's urgent order, with the Trailblazer Dream in HIP 90578 serving
   as staging point.
+player_impact_de: Unabhängige Piloten lieferten Baumaterialien in Rekordzeit für den
+  dringenden Auftrag der Brewer Corporation; die Trailblazer Dream in HIP 90578 diente
+  als Sammelpunkt.
 persons:
 - Madelyn Teague
 - Lexi October
@@ -30,6 +37,20 @@ modern_impact: The record-speed construction validates Brewer's logistical domin
   — her permit lock would be breached within two weeks. The 'direct messages to pilots
   pledged to one of the twelve Powers' confirms this was a coordinated superpower
   effort, not a private corporate contract.
+modern_impact_de: Der Bau in Rekordgeschwindigkeit bestätigt Brewers logistische
+  Dominanz und offenbart eine Supermacht-Koordination in einem Ausmaß, wie sie außer
+  in Kriegszeiten zuvor nicht zu sehen war. Lexi Octobers Schweigen signalisiert,
+  dass sie von der Mobilmachungsgeschwindigkeit überrascht wurde – ihre Permit-Sperre
+  würde innerhalb von zwei Wochen durchbrochen. Die ‚direkten Nachrichten an Piloten,
+  die einer der zwölf Mächte angehören', bestätigen, dass es sich um eine koordinierte
+  Supermacht-Anstrengung und nicht um einen privaten Unternehmensauftrag handelte.
+body_de: |
+  Die Brewer Corporation hat den Erfolg ihrer jüngsten Kampagne zur Beschaffung von Baumaterialien bestätigt; unabhängige Piloten lieferten riesige Mengen an Ressourcen, um den Auftrag ihrer Kunden zu erfüllen.
+  CEO Madelyn Teague veröffentlichte eine Erklärung vom Minerva-Hauptquartier der Brewer Corporation:
+  „Unser aufrichtiger Dank gilt den vielen Piloten, die diese Kampagne unterstützt haben. Die benötigten Vorräte wurden in Rekordzeit gesichert, sodass wir die Konditionen dieses dringenden Auftrags erfüllen können."
+  Unabhängige Beobachter halten die Konzentration des Megaschiff-Verkehrs und die Geheimhaltung um den Auftrag – zusammen mit den Berichten über direkte Nachrichten an Piloten, die einer der zwölf Mächte angehören – für starke Indikatoren auf die Absicht, rund um HIP 87621 rasch eine Wissenschafts- und Sicherheitsenklave zu errichten.
+  Analysten folgerten, dass die Enklave angesichts des schieren Ausmaßes der für dieses Projekt aufgefahrenen logistischen Operationen der Brewer Corporation innerhalb weniger Tage fertiggestellt sein könnte.
+  Lexi October hat sich nach der Nachricht bedeckt gehalten; viele spekulieren nun, ob sie dem Druck der Supermächte nachgeben und die Permit-Sperre aufheben wird.
 legacy_weight: 4
 significance: high
 related_uuids:

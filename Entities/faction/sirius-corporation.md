@@ -17,6 +17,24 @@ bio: Sirius Corporation is the oldest and largest mega-corporation in human spac
   Sirius Gov. Under CEO Dr. Li Yong-Rui, it has played an increasingly prominent political
   role — hosting the Galactic Summit in 3307, constructing the Marlinist Colonies, and
   negotiating a defence pact with the Alliance in 3308.
+bio_de: Die Sirius Corporation wurde 2350 gegründet und wurde reich durch die Belieferung
+  von Kriegsflotten der Föderation und des Imperiums. Ihre Entwicklung der Hyperraumantrieb-Technologie
+  etablierte sie als Grundpfeiler der menschlichen Expansion. Das Unternehmen hält
+  eine dominante Position bei der Energieerzeugung und der Fertigung von Frame Shift
+  Drives und verhandelt ‚nach der Sirius-Regel' und wendet ‚die Sirius-Konvention'
+  bei Großverträgen an.
+
+  Unter CEO Dr. Li Yong-Rui – einem Wunderkind mit Doktortiteln in Physik, Politik
+  und Wirtschaft – hat Sirius die neutrale Rolle des Unternehmens überschritten und
+  eine aktive diplomatische Funktion übernommen. 3306 schlug Li Yong-Rui den Bau der
+  Marlinist Colonies vor, um die Flüchtlingskrise zu entschärfen; 3307 sicherte er
+  sich den Zuschlag zur Ausrichtung des Galaktischen Gipfels auf der Patterson Enterprise.
+  Im folgenden Jahr verhandelte Sirius einen umstrittenen Verteidigungspakt mit der
+  Allianz und lieferte fortschrittliche Technologie und militärische Unterstützung.
+
+  Die Flotte der Sirius Corporation umfasst Megaschiffe und eine private Marine.
+  Ihr Einfluss führte Analysten zur Bezeichnung ‚vierte Supermacht' – ein Etikett,
+  das unter Li Yong-Ruis strategischer Expansion zunehmend Realität widerspiegelt.
 ---
 
 

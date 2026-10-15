@@ -9,14 +9,37 @@ summary: The October Consortium has unexpectedly released xenobiologist Terri To
   bypassing the HIP 87621 permit lock. Chair Lexi October said Tora was fully cooperative
   and that the changed circumstances following the October Accords made continued detention
   unnecessary.
+summary_de: Das October Consortium hat die Xenobiologin Terri Tora überraschend
+  freigelassen; sie war seit Ende 3311 festgehalten worden, nachdem sie sich auf einem
+  Megaschiff des Consortiums als blinde Passagierin versteckt und die HIP-87621-Permit-Sperre
+  umgangen hatte. Vorsitzende Lexi October erklärte, Tora sei vollumfänglich kooperiert
+  und die veränderten Umstände nach den October Accords machten eine anhaltende Haft
+  überflüssig.
 player_impact: No direct call to action. Tora's release resolves one of the lingering
   humanitarian threads of the HIP 87621 mystery, but access to Radicoida unica research
   remains governed by the October Accords.
+player_impact_de: Kein direkter Aufruf zum Handeln. Toras Freilassung löst einen
+  der verbleibenden humanitären Fäden des HIP-87621-Rätsels; der Zugang zur Radicoida-unica-Forschung
+  bleibt jedoch durch die October Accords geregelt.
 modern_impact: The release removes a long-running grievance used to pressure the October
   Consortium, though Tora's insistence that discoveries like Radicoida unica should not
   be kept secret reinforces concerns about corporate control of scientific knowledge.
   The move may be a gesture of goodwill, but its timing amid Federal threats leaves the
   Accords' stability uncertain.
+modern_impact_de: Die Freilassung nimmt einen langjährigen Druckpunkt gegen das October
+  Consortium aus dem Spiel, doch Toras Beharrlichkeit, Entdeckungen wie Radicoida
+  unica dürften nicht geheim gehalten werden, verstärkt Bedenken hinsichtlich unternehmerischer
+  Kontrolle wissenschaftlichen Wissens. Der Schritt mag eine Geste des guten Willens
+  sein, doch sein Zeitpunkt angesichts föderaler Drohungen lässt die Stabilität der
+  Accords ungewiss.
+body_de: |
+  Terri Tora, die Xenobiologin, der weit verbreitetes Interesse am HIP-87621-System zugeschrieben wird, ist freigelassen worden.
+  Tora, die seit ihrem Verschwinden Ende 3311 in Gewahrsam des October Consortium gehalten worden war, untersuchte Gerüchte über eine bedeutende xenobiologische Entdeckung, als sie sich auf einem Megaschiff des Consortiums als blinde Passagierin versteckte. Sie wurde später in HIP 87621 entdeckt, nachdem sie die Permit-Sperre des Systems umgangen hatte, und wurde wegen Unternehmensspionage inhaftiert.
+  In einem direkten Gespräch mit Vox Galactica sagte Lexi October, Tora sei nach dem Sicherheitsvorfall ‚bei den Verhören vollumfänglich kooperativ' gewesen; angesichts der jüngsten Ereignisse, die zur Unterzeichnung der Accords führten, sei es an der Zeit gewesen, sie ohne weitere Anklage freizulassen.
+  Tora gab folgende Erklärung ab:
+  „Nun, das war ein Abenteuer, das ich euch sagen kann! Ich bin erleichtert, endlich frei zu sein und zu wissen, dass sich am Ende alles zum Guten gewendet hat. Es war eine beängstigende Situation."
+  „Ich hatte die Folgen meines Handelns nicht bedacht, bis in den umliegenden Systemen Kämpfe ausbrachen. Doch der vermeintliche Wert von Radicoida war nicht meine Sorge – mein einziges Motiv war Wissen. Entdeckungen wie diese sind nicht dazu da, geheim gehalten zu werden!"
+  Tora wurde von ihrem Kollegen Professor Frank Raddix in Empfang genommen, der Piloten ursprünglich über ihre Abwesenheit informiert hatte; der Empfang erfolgte bei Exogene Sciences. Das Duo trat anschließend unter Eskorte der October Accords die Abreise an.
 topics:
 - diplomacy
 - corporate science

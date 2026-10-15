@@ -16,6 +16,25 @@ bio: 'Faulcon DeLacy is a organization active in Elite Dangerous lore from 3303-
   activities include: Two new ships marketed toward independent pilots are released.;
   Achilles Aerospace releases the full range of Supercruise Overcharge drives and
   upgrades, with Dr.'
+bio_de: Faulcon DeLacy ist einer der angesehensten Raumschiffhersteller der Galaxis
+  und bekannt für die Produktion ikonischer Schiffe wie Python, Cobra und Anaconda.
+  Im Mai 3310 kooperierte das Unternehmen mit Achilles Aerospace zur Veröffentlichung
+  der Python Mk II, des ersten Schiffs, das vollständig um Achilles' Supercruise-Overcharge-Frame
+  Shift Drive herum gebaut wurde, mit verbessertem Wärmeverhalten, Handling und Treibstoffverbrauch.
+
+  Die Kooperation markierte eine deutliche Verlagerung in Faulcon DeLacys traditionellem
+  Verhältnis zur Sirius Corporation, die historisch die Fertigung von Frame Shift
+  Drives dominiert hatte. Die Python Mk II wurde mit dem Slogan ‚Built for Supercruise
+  Overcharge' vermarktet, brach Geschwindigkeitsrekorde und etablierte eine neue
+  Ära des Schiffdesigns. Im Juni 3312 veröffentlichte das Unternehmen den Nomad,
+  ein von Schiffen gestartetes Erkundungsfahrzeug mit eigenständigem Flug und einem
+  verbesserten Mk-II-Bioscanner, entwickelt in Partnerschaft mit Vista Genomics für
+  eine Vermessung des Sanguineous Rim. Im Juli 3312 wurde die Initiative als Erfolg
+  eingestuft; Piloten bestätigten, dass der Nomad und seine Scanner- und Sensormodule
+  die exobiologische Forschung effizienter machten. Faulcon DeLacs Bereitschaft,
+  mit einem Konkurrenten von Sirius zu kooperieren, zeigte den zunehmend wettbewerbsorientierten
+  Charakter der Schiffbauindustrie, während neue Technologien etablierte Lieferketten
+  aufbrachen.
 ---
 
 

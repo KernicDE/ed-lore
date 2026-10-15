@@ -19,6 +19,33 @@ bio: The Federation is the oldest and largest of the three human superpowers, fo
   Vote of No Confidence. The Federation suffered a historic defeat at the Battle of Achenar
   (2325), which led to the Empire's independence and the relocation of the capital from
   Earth to Mars.
+bio_de: Die Föderation wurde 2242 gebildet und vereinte die Erde und ihre Kolonien
+  nach dem Dritten Weltkrieg. Ihre Verfassung leitete sich aus Vorkriegsregierungen
+  ab, wurde aber erheblich vereinfacht. Die Föderation expandierte rasch in den interstellaren
+  Raum und errichtete Kolonien in mehreren Systemen.
+
+  Ihr prägendes Merkmal ist unternehmerische Dominanz. Der reale Einfluss liegt bei
+  Megakonzernen, die die wirtschaftliche und politische Landschaft kontrollieren;
+  Arbeitnehmer leben unter unternehmerischem Patronat, mit Stimmen, die von Arbeitgeberinteressen
+  gelenkt werden. Das politische System ist präsidial, mit Wahlen alle vier Jahre,
+  denen eine obligatorische Vertrauensfrage folgt. Die beiden dominierenden Parteien
+  sind die Republikaner – für Militärstärke und Deregulierung – und die Liberalen,
+  für Sozialprogramme und diplomatisches Engagement.
+
+  Das größte historische Trauma der Föderation war die Schlacht von Achenar 2325,
+  als eine Expeditionsflotte von Henson Duvals Streitkräften vernichtet wurde. Die
+  Niederlage sicherte die Unabhängigkeit des Imperiums und zwang zur Verlegung der
+  föderalen Hauptstadt von der Erde zum Mars. Im 34. Jahrhundert bleibt die Föderation
+  die bevölkerungsreichste Supermacht, doch ihr Einfluss wird zunehmend herausgefordert.
+  Interne Skandale wie die Starship-One-Verschwörung und das Proactive Detection
+  Bureau haben das öffentliche Vertrauen erodiert, während die Wahl von Felicia Winters
+  3309 eine mögliche Hinwendung zu liberaler Regierungsführung markierte. Im Juni
+  3312 forderte die Regierung Winters öffentlich ihre Ausgrenzung aus den October
+  Accords heraus und warnte, die Verwehrung des Zugangs zur Radicoida-unica-Forschung
+  werde als potenzielle Bedrohung behandelt und föderale Forschungsprioritäten bestimmen.
+  Bis September verschärfte Winters die Vorwürfe weiter und behauptete, die Koalition
+  der Accords habe die Forschung aufrüstet; sie stelle nun eine glaubwürdige Sicherheitsbedrohung
+  für die Föderation dar.
 ---
 
 

@@ -7,8 +7,15 @@ source: API
 summary: Unusual megaship activity near HIP 87621 intensified rumours of covert superpower
   operations, with Vox Galactica's Conrad Sterling noting such mobilisations typically
   precede territorial claims.
+summary_de: Ungewöhnliche Megaschiff-Aktivität in der Nähe von HIP 87621 verschärfte
+  die Gerüchte über heimliche Operationen der Supermächte; Conrad Sterling von Vox
+  Galactica stellte fest, dass derartige Mobilmachungen in der Regel territorialen
+  Ansprüchen vorausgehen.
 player_impact: Pilots reported receiving private messages from their pledged Power
   representatives indicating each superpower had a vested interest in HIP 87621.
+player_impact_de: Piloten berichteten, private Nachrichten von ihren gewählten Macht-Vertretern
+  erhalten zu haben, denen zufolge jede Supermacht ein berechtigtes Interesse an HIP
+  87621 hat.
 persons:
 - Conrad Sterling
 locations:
@@ -23,6 +30,17 @@ modern_impact: Conrad Sterling's observation proves accurate — within five day
   Power messages to pilots show superpowers were preparing for open conflict while
   maintaining public deniability, a pattern that continues until the October Accords
   finally make agreements public.
+modern_impact_de: Conrad Sterlings Einschätzung erwies sich als zutreffend – innerhalb
+  von fünf Tagen bestätigt die Brewer Corporation eine massive Baukampagne für die
+  Enklave. Die privaten Macht-Nachrichten an Piloten zeigen, dass die Supermächte
+  sich auf offenen Konflikt vorbereiteten, während sie öffentlich Abstreitbarkeit
+  wahrten; dieses Muster hält an, bis die October Accords die Vereinbarungen schließlich
+  öffentlich machen.
+body_de: |
+  Unabhängige Beobachter haben ungewöhnliche Aktivität in den Systemen um HIP 87621 gemeldet, was die Gerüchte über heimliche Operationen in der Region verschärft.
+  Mehrere Berichte deuten darauf hin, dass in der vergangenen Woche Megaschiffe in der Nähe des permit-gesperrten Systems gesichtet wurden. Obwohl keine Macht eine Beteiligung förmlich bestätigt hat, glauben Analysten, dass diese frühe Mobilmachung auf einen Versuch hindeutet, Einfluss rund um HIP 87621 zu gewinnen.
+  Der Zugang zum System selbst bleibt permit-gesperrt. Alle unabhängigen Kolonisierungsanträge für die Umgebung werden weiterhin ohne Angabe von Gründen abgelehnt. Conrad Sterling, politischer Korrespondent von Vox Galactica, stellte fest:
+  „Wenn Megaschiffe in diesem Ausmaß mobilisieren, gehen dem in der Regel territoriale Ansprüche voraus. Keine der Mächte hat derartige Pläne förmlich angekündigt, aber Piloten berichten weiterhin, private Nachrichten von ihren gewählten Macht-Vertretern zu erhalten, denen zufolge jede ein berechtigtes Interesse an dem hat, was sich auch immer in HIP 87621 verbirgt."
 legacy_weight: 4
 significance: high
 related_uuids:

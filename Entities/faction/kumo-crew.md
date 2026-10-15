@@ -18,6 +18,26 @@ bio: The Kumo Crew is a massive pirate syndicate led by Archon Delaine, the self
   his controversial "crown of bones" speech. The syndicate has fought wars against the
   Imperial Navy and maintains a degree of internal order in its territories, leading
   analysts to describe Delaine's domain as a "pirate kingdom."
+bio_de: Die Kumo Crew ist das größte Piratensyndikat des menschlichen Raums, angeführt
+  von Archon Delaine aus dem Pegasi-Sektor mit seiner Hauptbasis in Harma. Bis 3301
+  hatte Delaine die Crew bereits als Macht etabliert und Zehntausende Schiffe beschlagnahmt,
+  um Rivalen auszuschalten. Der ‚Pegasi Pirate War' des Imperiums, um ihn zu vertreiben,
+  entartete zu einem Krieg der Attrition und zeigte logistische Fähigkeiten, die
+  nationalen Militärs ebenbürtig waren.
+
+  Was die Kumo Crew auszeichnet, ist Delaines politischer Ehrgeiz. Im Februar 3307
+  platze er auf den Galaktischen Gipfel auf der Patterson Enterprise herein, forderte
+  Anerkennung als Delegierter und hielt seine berüchtigte ‚Krone aus Knochen'-Rede,
+  gekrönt von einem makabren Kopfschmuck aus den Überresten seiner Feinde. Der Vorfall
+  zwang die Supermächte zur Anerkennung, dass Piratenmacht nicht ignoriert werden
+  konnte.
+
+  Das Syndikat betreibt Drogenhandel, Sklaverei, Waffenschmuggel und Schutzgelderpressung,
+  doch Delaine hält auch interne Ordnung in den kontrollierten Systemen aufrecht –
+  mit Basisdienstleistungen, die Analysten dazu bringen, sein Gebiet als ‚Piratenkönigreich'
+  zu beschreiben. Das Imperium hält ihn für eine existenzielle Bedrohung, während
+  die Allianz ihn gelegentlich als Gegengewicht zur imperialen Expansion nützlich
+  fand.
 ---
 
 

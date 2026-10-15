@@ -16,6 +16,26 @@ bio: Felicia Winters is a president in the Elite Dangerous universe, active from
   of State Felicia Winters assumed the role of Acting President after contact was
   lost with Spaceflight One carrying President Halsey and Vice President Naylor. Winters
   announced she would serve as Acting President to the crisis.
+bio_de: Felicia Winters glaubt nicht an Geister. Sie glaubt an Papierkram, Konsens
+  in Ausschüssen und die stille Drohung marsianischer Unterausschüsse zu Luftqualitätsnormen.
+
+  Als Jasmina Halsey Ende 3311 auf dem Mars zusammenbrach, wählte Winters – damals
+  Föderalpräsidentin – einen kleineren Besprechungsraum als üblich. Weniger Zuschauer.
+  Weniger Undichtigkeiten. Sie gewährte Halsey privaten Urlaub zur Untersuchung der
+  Witch-Space-Anomalie, ordnete 72-Stunden-Sicherheitsaktualisierungen an und ermächtigte
+  sie später als Föderale Botschafterin für Distant Worlds 3 mit vollständiger Telemetrieerfassung.
+  Allianz- und imperiale Verbindungsbeamte waren bereits in der Expedition eingebettet;
+  Winters sorgte dafür, dass auch föderale Augen dabei waren. Sie drohte Cuthrick
+  Delaney mit bürokratischer Vergessenheit, falls er die Anordnung zu einer imperialen
+  Fotogelegenheit machte. Sie lächelte, müde und aufrichtig, als Halsey ihr dankte.
+  ‚Du hast dir das Recht verdient, ein paar Gefallen einzufordern. Nutze sie gut.'
+
+  Im Juni 3312 brach Winters das öffentliche Schweigen der Föderation über ihre Ausgrenzung
+  aus den October Accords und warnte Lexi October, eine anhaltende Verwehrung des
+  Zugangs zu Radicoida unica werde als potenzielle Bedrohung behandelt und föderale
+  Forschungsprioritäten bestimmen. Im September verschärfte sie weiter und erklärte,
+  föderale Analysten stuften die Koalition der Accords angesichts der Aufrüstung
+  von Radicoida unica mittlerweile als glaubwürdige Sicherheitsbedrohung ein.
 ---
 
 

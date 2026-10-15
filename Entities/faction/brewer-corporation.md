@@ -18,6 +18,28 @@ bio: 'Brewer Corporation is a corporation active in Elite Dangerous lore from 33
   stand, and Sa...; Brewer Corporation''s survey initiative successfully collected
   exploration data to assess prime locations for permanent human structures, though
   it ...'
+bio_de: Die Brewer Corporation ist ein großer Erkundungs- und Infrastrukturkonzern,
+  bekannt vor allem für Tiefraum-Kolonialisierungsinitiativen wie das Colonia-Bridge-Projekt,
+  das ein Netz von Sternenhäfen schuf und die Kernsysteme mit dem Colonia-Nebel verband.
+  Gegründet auf einer Philosophie aggressiver Grenzausweitung, positionierte sich
+  Brewer durchweg an der Spitze menschlicher Erkundung, finanzierte Vermessungsmissionen,
+  errichtete Außenposten in unbewohnten Systemen und unterstützte Langstreckenexpeditionen
+  wie Distant Worlds.
+
+  Die Partnerschaft des Konzerns mit Universal Cartographics und der Pilots' Federation
+  machte ihn zu einem unverzichtbaren Vermittler von Erkundungsdaten und kartografischen
+  Diensten. Im Juli 3312 stellte Brewer eine Flotte von Fracht-Megaschiffen bei Facece
+  für die Versorgungsinitiative zum zehnten Jahrestag von Colonia bereit und transportierte
+  Waren und Seltenheiten aus den Kernsystemen zum Colonia-Nebel. Im Oktober 3312
+  enthüllte das Unternehmen ‚Jump-Satelliten', die das Signal planetarer Körper nachahmen,
+  wie es von Sprungcomputern von Flottenträgern genutzt wird, sodass mehrere Träger
+  Systeme ohne Planeten oder Monde durchqueren können; von Piloten gelieferte Komponenten
+  wurden an seinem Megaschiff Zero Squared im System HIP 74116 erbeten. Während Brewer
+  sich als neutrale Unternehmensorganisation präsentiert, die alle drei Supermächte
+  bedient, verschafft ihr die strategische Kontrolle über Tiefraum-Infrastruktur erheblichen
+  Einfluss auf galaktische Angelegenheiten – besonders, da die menschliche Grenze
+  weiter hinter die Bubble in Regionen vordringt, die von Thargoid-Invasionen bedroht
+  sind.
 ---
 
 

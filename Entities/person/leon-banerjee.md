@@ -11,6 +11,19 @@ bio: 'Leon Banerjee is a Commander in Elite Dangerous lore, active from 3305-01-
   Commanders set to travel over 200,000 light years through the ga...; Aegis and Azimuth
   Biotech launch rival campaigns to collect Titan tissue samples, with Aegis promising
   research advancements and Azimuth promising ...'
+bio_de: Leon Banerjee ist Wissenschaftskorrespondent für Vox Galactica und berichtete
+  über bedeutende Erkundungs- und Wissenschaftsinitiativen in der gesamten Galaxis.
+  Im Januar 3305 lieferte er einen Überblick über die zweite Distant-Worlds-Expedition,
+  an der fast viertausend Kommandanten über 200.000 Lichtjahre durch den galaktischen
+  Kern reisten, einschließlich des Baus eines Forschungssternenhafens nahe Sagittarius
+  A*.
+
+  Banerjee berichtete später im Juni 3309 über den Wettbewerb zwischen Aegis und
+  Azimuth Biotech, als beide Organisationen konkurrierende Kampagnen zur Bergung
+  von Titanengewebeproben starteten. Seine Berichterstattung wissenschaftlicher Entwicklungen
+  machte ihn zu einer zentralen Stimme des galaktischen Wissenschaftsjournalismus,
+  das die Bemühungen der Menschheit dokumentiert, sowohl die unerforschten Regionen
+  der Galaxis als auch die Biologie ihrer größten außerirdischen Bedrohung zu verstehen.
 ---
 
 
