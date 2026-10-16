@@ -24,6 +24,19 @@ edsm_url: https://www.edsm.net/en/system/id/15937/name/Aiaba
 inara_url: https://inara.cz/elite/starsystem/?search=Aiaba
 bio: An independent industrial cooperative system with four million inhabitants, Aiaba
   was briefly linked to Zorgon Peterson during a mention in mid-3311.
+bio_de: Aiaba ist die Art mittelgroßer unabhängiger Systeme, die selten galaktische Schlagzeilen
+  machen, aber die industrielle Basis der Grenzraumwirtschaft tragen. Mit vier Millionen
+  Einwohnern, regiert von der Community of the Vault nach genossenschaftlicher Satzung,
+  verband das System industrielle Fertigung mit Militärproduktion – eine vielseitige Wirtschaft,
+  die das Interesse großer Schiffbauer wie Zorgon Peterson und Brewer Corporation weckte.
+
+  Die Erwähnung des Systems im Juli 3311 kam ohne dramatischen Kontext, was auf routinemäßige
+  Handels- oder Logistikaktivitäten statt auf Krise oder Konflikt hindeutet. In einem vergleichsweise
+  stabilen Sektor mit geringen Sicherheitsanforderungen gelegen, bot Aiaba die Art vorhersehbaren
+  Betriebsumfelds, das Hersteller für Tests neuer Entwürfe oder den Aufbau von Lieferpartnerschaften
+  schätzten. Sein kurzer Auftritt in den Aufzeichnungen erinnert daran, dass ein Großteil
+  der Wirtschaftsaktivität der Galaxis still vor sich geht, unbeachtet der spektakulären
+  Ereignisse, die die GalNet-Berichterstattung dominieren.
 reserve: Major
 ---
 

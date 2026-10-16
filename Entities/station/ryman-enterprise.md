@@ -28,6 +28,10 @@ bio: Ryman Enterprise is a Coriolis starport in the Lhou Mans system. In May 331
   as the staging ground for defence forces repelling coordinated criminal attacks by the
   Lady Zi Pirate Coalition. Civilian evacuation efforts were coordinated from this station
   during the crisis.
+bio_de: Ryman Enterprise ist ein Coriolis-Sternenhafen im System Lhou Mans. Im Mai 3312
+  diente die Station als Sammelpunkt für Verteidigungskräfte, die koordinierte kriminelle
+  Angriffe der Lady-Zi-Piratenkoalition zurückschlugen. Während der Krise wurden die
+  Evakuierungsbemühungen der Zivilbevölkerung von dieser Station aus koordiniert.
 ---
 
 <!-- AUTO-GENERATED -->

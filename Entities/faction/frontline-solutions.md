@@ -19,6 +19,18 @@ bio: Frontline Solutions is a mercenary contracting firm active since 3307 that
   attacks linked to the Lady Zi syndicate. On 3312-06-18, Frontline confirmed completion
   of its independently constructed Runner fleet, designed for rapid deployment of
   mercenary strike teams and their ships to hostile locations.
+bio_de: Frontline Solutions ist ein Söldnerunternehmen, das seit 3307 aktiv ist und
+  Fraktionen in der gesamten Galaxis Kampfpiloten und Sicherheitskräfte zur Verfügung
+  stellt. Ein rätselhaftes Gedicht, das der Winking Cat zugeschrieben wird, erwähnte
+  das Unternehmen und die Söldnerbranche und versprach Belohnungen für die Lösung des
+  Rätsels. Im Juni 3312 kündigte CEO Imogen le Ray angesichts steigender Piraterie und
+  mit dem Lady-Zi-Syndikat in Verbindung stehender Malware-Angriffe erweiterte antikriminelle
+  Dienstleistungen an. Am 3312-06-18 bestätigte Frontline den Abschluss der eigenständig
+  gebauten Runner-Flotte, die für die rasche Verlegung von Söldner-Strike-Teams und
+  ihren Schiffen in feindliche Gebiete konzipiert ist. Am 3312-06-30 startete das
+  Unternehmen offiziell seinen Dienst für antikriminelle Einsätze, verlegt Söldner zu
+  Einsätzen in den Kernsystemen und erlaubt registrierten Piloten die Anmeldung an jedem
+  Markthafen.
 ---
 
 

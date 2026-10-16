@@ -7,13 +7,25 @@ source: API
 summary: Starports across the Lhou Mans system damaged by coordinated pirate attacks
   led by Lady Zi have been fully repaired and returned to operation following a joint
   military exercise and commodity delivery effort.
+summary_de: Die von koordinierten Piratenangriffen unter Lady Zi beschädigten Sternenstationen
+  im System Lhou Mans wurden nach einer gemeinsamen Militärübung und einer Lieferkampagne
+  für Güter vollständig repariert und in Betrieb genommen.
 player_impact: Independent pilots joined system security forces in driving hostile
   forces from Lhou Mans, evacuated stranded passengers from damaged stations, and delivered
   commodities needed to complete starport repairs.
+player_impact_de: Unabhängige Piloten schlossen sich den Sicherheitskräften des Systems
+  an, vertrieben feindliche Kräfte aus Lhou Mans, evakuierten gestrandete Passagiere von
+  beschädigten Stationen und lieferten die Güter, die für die Reparatur der Sternenstationen
+  benötigt wurden.
 modern_impact: The successful recovery demonstrates the resilience of system infrastructure
   when security forces and independent pilots collaborate. However, Lady Zi's continued
   evasion and unknown whereabouts signal that the pirate coalition remains an active
   threat capable of striking other systems at any time.
+modern_impact_de: Die erfolgreiche Wiederherstellung zeigt die Widerstandsfähigkeit der
+  Systeminfrastruktur, wenn Sicherheitskräfte und unabhängige Piloten zusammenarbeiten.
+  Lady Zis andauernde Flucht und unbekannter Aufenthaltsort signalisieren jedoch, dass
+  die Piratenkoalition eine aktive Bedrohung bleibt, die jederzeit andere Systeme angreifen
+  kann.
 persons:
 - Lady Zi
 groups: []
@@ -36,6 +48,23 @@ related_uuids:
 - 46b8ec38-ca04-5680-b3a2-01de047bc6c4
 - fd99dd4d-fc7d-5a70-ac15-09a99102482d
 - 6dcab771-4185-55d8-8d59-3d3cda24b786
+body_de: |
+  Die bei den jüngsten Angriffen im System Lhou Mans beschädigten Sternenstationen wurden
+  erfolgreich repariert.
+  Die Stationen trugen die Hauptlast eines jüngsten Anstiegs extremer und organisierter
+  Kriminalität, an dessen Spitze die berüchtigte, nur als Lady Zi bekannte Piratenfigur
+  stehen soll.
+  Eine gemeinsame Übung von Sicherheitskräften des Systems und unabhängigen Piloten vertrieb
+  feindliche Kräfte aus Lhou Mans und ermöglichte die sichere Evakuierung von Passagieren,
+  die auf den beschädigten Stationen gestrandet waren, bevor die Reparaturarbeiten beginnen
+  konnten.
+  Nach der erfolgreichen Lieferung der für die Fertigstellung benötigten Güter haben die
+  Systembehörden inzwischen bestätigt, dass Dashiell Port, Sabine Gateway, Ryman Enterprise
+  und Webb City wieder voll betriebsbereit sind und der normale Dienstbetrieb aufgenommen
+  wurde.
+  Von der Piratenflotte von Lady Zi wurden im System und den umliegenden Gebieten keine
+  weiteren Sichtungen gemeldet, was viele fragen lässt, wo sie als Nächstes zuschlagen
+  könnten.
 ---
 
 Starports damaged in recent attacks across the Lhou Mans system have been successfully repaired.

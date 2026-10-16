@@ -11,6 +11,16 @@ bio: 'Imogen le Ray is the CEO of Frontline Solutions, a prominent mercenary
   conflicts. In June 3312 she announced expanded anti-criminal services and, by the
   end of the month, formally launched anti-crime deployments using the independently
   constructed Runner fleet.'
+bio_de: Imogen le Ray ist CEO von Frontline Solutions, einem prominenten Söldnerunternehmen,
+  das Fraktionen in der gesamten Galaxis Kampfpiloten und Sicherheitskräfte zur Verfügung
+  stellt. Sie trat erstmals 3307 während der Expansion privater Militärdienste in den
+  Kernsystemen in Erscheinung und führte das Unternehmen seitdem durch mehrere Konflikte.
+  Im Juni 3312 kündigte sie angesichts steigender Piraterie und Malware-Angriffe im
+  Zusammenhang mit dem Lady-Zi-Syndikat erweiterte antikriminelle Dienstleistungen an
+  und deutete eine formelle Expansion der Operationen in den kommenden Tagen stark an.
+  Am 3312-06-30 bestätigte sie den offiziellen Start antikrimineller Einsätze in den
+  Kernsystemen, bei denen die eigenständig gebaute Runner-Flotte Söldner-Strike-Teams
+  transportiert.
 ---
 
 

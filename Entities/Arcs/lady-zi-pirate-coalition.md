@@ -15,6 +15,10 @@ key_entities:
 description: A rogue pirate admiral known as Lady Zi unites a coalition of pirate ships
   under a single criminal syndicate, conducting coordinated military-style raids across
   core systems using twin-axe malware as a calling card.
+description_de: Eine abtrünnige Piratenadmiralin, bekannt als Lady Zi, vereint eine Koalition
+  von Piratenschiffen unter einem einzigen kriminellen Syndikat und führt koordinierte,
+  militärisch organisierte Überfälle in den Kernsystemen durch – mit einer Zwillingsaxt-Malware
+  als Erkennungszeichen.
 phases:
 - 'Phase 1: Coordinated Raids on Military Outposts (3312-04-23)'
 - 'Phase 2: Lhou Mans Starport Attack — Assault, Evacuation and Recovery (3312-05-11 to 3312-05-21)'
@@ -26,6 +30,11 @@ summary: The emergence of Lady Zi as a coordinated criminal threat in the core s
   beginning with raids on military outposts and escalating to full starport attacks in
   Lhou Mans. The twin-axe malware signature and probing tactics suggest a highly organised,
   military-style pirate coalition.
+summary_de: Das Aufkommen von Lady Zi als koordinierter krimineller Bedrohung in den
+  Kernsystemen – beginnend mit Überfällen auf Militäraußenposten und eskalierend bis zu
+  vollwertigen Angriffen auf Sternenstationen in Lhou Mans. Die Zwillingsaxt-Malware-Signatur
+  und die ausspähende Taktik deuten auf eine hochorganisierte, militärisch operierende
+  Piratenkoalition hin.
 status: Ongoing
 outcome: Defence forces successfully repelled the Lhou Mans attackers, completed civilian
   evacuation, and restored all damaged starports to full operation. However, Lady Zi
@@ -38,6 +47,19 @@ outcome: Defence forces successfully repelled the Lhou Mans attackers, completed
   the pirate coalition. On 3312-06-30, Frontline officially launched its anti-crime deployment
   service, shipping mercenary strike teams to anti-crime operations across the core systems
   and allowing registered pilots to sign up at any market port.
+outcome_de: Verteidigungskräfte schlugen die Angreifer in Lhou Mans erfolgreich zurück,
+  schlossen die Evakuierung der Zivilisten ab und stellten den Vollbetrieb aller beschädigten
+  Sternenstationen wieder her. Lady Zi ist jedoch weiterhin auf freiem Fuß. Im Juni 3312
+  tauchten neue Berichte über eine kriminelle Flotte mit unbekannter Kennzeichnung auf,
+  die in mehreren Systemen operierte – begleitet von Malware mit denselben Sigillen wie
+  beim Angriff auf Lhou Mans. Frontline-Solutions-CEO Imogen le Ray kündigte erweiterte
+  antikriminelle Dienstleistungen und den eigenständigen Bau von Runner-Klasse-Schiffen
+  an. Am 3312-06-18 bestätigte Frontline, dass die erste Runner-Flotte die Produktion
+  abgeschlossen und Einsatzversuche begonnen hatte, um registrierte Söldner für den
+  Schnelleinsatz gegen die Piratenkoalition bereitzustellen. Am 3312-06-30 startete
+  Frontline offiziell seinen Dienst für antikriminelle Einsätze und verlegte Söldner-Strike-Teams
+  zu Anti-Kriminalitäts-Einsätzen in den Kernsystemen; registrierte Piloten können sich
+  an jedem Markthafen anmelden.
 significance: medium
 ---
 

@@ -7,9 +7,15 @@ source: API
 summary: Military outposts across the Bubble hit by coordinated raids. Twin-axe malware
   signature suggests a rogue pirate strategist uniting ships under one banner. Trade
   associations warn of falling confidence.
+summary_de: Militärische Außenposten in der Blase von koordinierten Überfällen heimgesucht.
+  Die Zwillingsaxt-Malware-Signatur deutet auf eine abtrünnige Piratenstrategin hin,
+  die Schiffe unter einem Banner vereint. Handelsverbände warnen vor sinkendem Vertrauen.
 player_impact: New organized pirate threat with twin-axe malware calling card. Coordinated
   raids on military outposts across core systems. No faction claims responsibility
   yet.
+player_impact_de: Neue organisierte Piratenbedrohung mit Zwillingsaxt-Malware als Erkennungszeichen.
+  Koordinierte Überfälle auf Militäraußenposten in den Kernsystemen. Noch bekennt sich
+  keine Fraktion zu den Angriffen.
 persons:
 - Mira Bukowski
 groups: []
@@ -26,6 +32,11 @@ modern_impact: Twin-axe malware signature and coordinated military-port raids in
   forces. A rogue strategist uniting ships under one banner mirrors the power-coalition
   dynamics seen in HIP 87621, suggesting decentralized authority structures may become
   a recurring threat model.
+modern_impact_de: Zwillingsaxt-Malware-Signatur und koordinierte Überfälle auf Militärhäfen
+  deuten auf eine organisierte Piratenkoalition mit technischer Raffinesse hin, die
+  manche Militärkräfte erreicht. Eine abtrünnige Strategin, die Schiffe unter einem Banner
+  vereint, spiegelt die Machtkoalitions-Dynamik aus HIP 87621 wider – dezentrale Autoritätsstrukturen
+  könnten zu einem wiederkehrenden Bedrohungsmodell werden.
 arc_id: lady-zi-pirate-coalition
 legacy_weight: 2
 significance: low
@@ -37,6 +48,28 @@ related_uuids:
 - e14afd0b-cccc-5083-a0b9-6c7eb7eff35a
 - fd99dd4d-fc7d-5a70-ac15-09a99102482d
 - 6dcab771-4185-55d8-8d59-3d3cda24b786
+body_de: |
+  Mehrere militärische Häfen in den Kernsystemen waren diese Woche Ziel einer Welle von
+  Überfällen, berichtet Vox Galactica.
+  Obwohl an keinem der Angriffsorte Sachschäden gemeldet wurden, bestätigten die Systembehörden,
+  dass Militärvorräte gestohlen und Sicherheitskräfte während der Angriffe kurzzeitig
+  überwältigt wurden.
+  In mehreren Fällen stellten Ermittler fest, dass die Überfälle einem koordinierten Muster
+  folgten und nicht den opportunistischen Schlägen, die üblicherweise mit Piraterie in
+  Verbindung gebracht werden. Das befeuert die Sorge vor organisierter Kriminalität in
+  Systemen, die gemeinhin als sicher gelten.
+  Die Kriminalreporterin Mira Bukowski schreibt:
+  „Während keine einzige Fraktion eine Erklärung abgegeben hat, die sich zu den Angriffen
+  bekennt, behaupten Quellen aus dem Untergrund, eine abtrünnige Piratenstrategin habe
+  eine Koalition von Piratenschiffen unter einem Banner vereint. Digitale Malware mit
+  einem Zwillingsaxt-Motiv störte während der Überfälle die Sicherheitsnetzwerke und
+  gilt als Erkennungszeichen dieser Person."
+  Handelsverbände haben das Problem gegenüber den lokalen Regierungen angesprochen und
+  warnen, dass das Vertrauen der Marktbetreiber sinken könnte, wenn die Täter nicht schnell
+  zur Strecke gebracht werden.
+  Vorerst arbeiten die betroffenen Außenposten weiter wie gewohnt. Doch das Muster der
+  Angriffe lässt viele fragen, ob im Verborgenen nicht eine weitaus ernstere Bedrohung
+  heranwächst.
 ---
 
 

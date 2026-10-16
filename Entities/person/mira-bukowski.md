@@ -8,6 +8,9 @@ mention_count: 5
 bio: Mira Bukowski is a crime correspondent for Vox Galactica who has reported on
   criminal activities and security concerns across the galaxy, from art heists to coordinated
   raids on civilian and military installations.
+bio_de: Mira Bukowski ist Kriminalreporterin bei Vox Galactica und berichtete über kriminelle
+  Aktivitäten und Sicherheitsfragen in der gesamten Galaxis – von Kunstdiebstählen bis zu
+  koordinierten Überfällen auf zivile und militärische Einrichtungen.
 ---
 
 

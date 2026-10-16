@@ -28,6 +28,13 @@ bio: An independent industrial democracy in the core systems, Lhou Mans suffered
   criminal attacks on its starport facilities in 3312. The attacks, attributed to the Lady
   Zi Pirate Coalition, prompted large-scale civilian evacuation efforts and independent
   pilot intervention. Notable stations include Ryman Enterprise, Webb City, and Sabine Gateway.
+bio_de: Lhou Mans ist eine unabhängige industrielle Demokratie in den Kernsystemen, die
+  3312 koordinierte kriminelle Angriffe auf ihre Sternenstationen erlitt. Die Angriffe,
+  die der Lady-Zi-Piratenkoalition zugeschrieben werden, lösten großangelegte Evakuierungen
+  der Zivilbevölkerung und das Eingreifen unabhängiger Piloten aus. Das System wurde später
+  von Frontline-Solutions-CEO Imogen le Ray als prägendes Beispiel für die erweiterten
+  antikriminellen Einsätze des Unternehmens genannt. Bekannte Stationen sind Ryman Enterprise,
+  Webb City und Sabine Gateway.
 ---
 
 <!-- AUTO-GENERATED -->

@@ -5,6 +5,11 @@ type: person
 first_seen_date: '3312-05-11'
 last_seen_date: '3312-06-01'
 mention_count: 2
+bio_de: Lady Zi ist eine abtrünnige Piratenadmiralin und mutmaßliche Anführerin eines
+  kriminellen Syndikats, das 3312 koordinierte Angriffe auf militärische Einrichtungen
+  und Sternenstationen in den Kernsystemen durchführte. Ihre wahre Identität ist unbekannt;
+  Quellen aus dem Untergrund sind nicht bereit, Informationen über ihre Herkunft oder
+  Motive preiszugeben.
 related_entities:
 - vox-galactica
 - lhou-mans

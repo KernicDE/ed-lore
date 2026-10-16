@@ -17,6 +17,21 @@ bio: 'Vitadyne Labs is a organization active in Elite Dangerous lore from 3304-1
   Far God book, new asteroid-mining equipment from the Industrial Mining Guild, Princess
   Ais...; Weekly summary covering Isolde Rochester''s appointment as Shadow Vice President,
   Imperial senators demanding Hadrian Duval''s recognition with Chanc...'
+bio_de: Vitadyne Labs ist ein unabhängiges Pharmaunternehmen unter der Leitung von Professorin
+  Katrien Rook, bekannt vor allem für die Entwicklung fortschrittlicher Nanomedizin, die
+  im Dezember 3304 angekündigt wurde. Das Unternehmen behauptete, seine Nanomedikamente
+  könnten Zellschäden auf molekularer Ebene reparieren, Krankheiten und Infektionen heilen
+  und die menschliche Lebensspanne um 30 bis 50 Jahre verlängern.
+
+  Die Ankündigung löste einen langwierigen Rechtsstreit aus, nachdem Simguru Pranav
+  Antal von Utopia Vitadyne beschuldigte, Technologie von einem abgestürzten utopischen
+  Transporter gestohlen zu haben. Rook räumte ein, dass die ursprünglichen Verbindungen
+  als Bergungsgut erlangt worden waren, argumentierte jedoch, dass Vitadynes nachgebildete
+  Derivate eigenständiges geistiges Eigentum darstellten. Die Interstellar Health Organisation
+  entschied im Januar 3305 zu Vitadynes Gunsten und genehmigte die Verteilung über etablierte
+  Pharma-Partner. Nach einem Jahr Verhandlungen begann die Vandermeer Corporation im Juni
+  3306 mit der Fertigung der Nanomedikamente für den galaxisweiten Vertrieb – trotz anhaltender
+  Kritik seitens Utopias.
 ---
 
 

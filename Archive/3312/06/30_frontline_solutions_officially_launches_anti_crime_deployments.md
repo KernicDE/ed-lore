@@ -7,13 +7,23 @@ source: API
 summary: Frontline Solutions has begun deploying mercenary strike teams to anti-crime
   operations across the core systems using its independently constructed Runner transport
   fleet, with CEO Imogen le Ray citing the Lhou Mans attacks as a key motivation.
+summary_de: Frontline Solutions hat begonnen, Söldner-Strike-Teams mit seiner eigenständig
+  gebauten Runner-Transportflotte zu Anti-Kriminalitäts-Einsätzen in den Kernsystemen zu
+  verlegen. CEO Imogen le Ray nannte die Angriffe auf Lhou Mans als wichtige Motivation.
 player_impact: Pilots and mercenary teams can sign up at any market port and be deployed
   via a Runner to available anti-crime operations. This opens lawful mercenary combat
   and rescue opportunities against organised criminal activity.
+player_impact_de: Piloten und Söldnertrupps können sich an jedem Markthafen anmelden und
+  per Runner zu verfügbaren Anti-Kriminalitäts-Einsätzen verlegt werden. Das eröffnet
+  legale Söldner-Kampf- und Rettungseinsätze gegen organisierte Kriminalität.
 modern_impact: The official launch formalises Frontline Solutions' expansion from factional
   mercenary broker to a vertically integrated anti-crime contractor. The move reflects
   a broader privatisation of security in the core systems and positions Frontline as
   a direct counterweight to the Lady Zi pirate coalition.
+modern_impact_de: Der offizielle Start festigt Frontline Solutions' Expansion vom fraktionalen
+  Söldnervermittler zum vertikal integrierten Anti-Kriminalitäts-Auftragnehmer. Der Schritt
+  spiegelt eine breitere Privatisierung der Sicherheit in den Kernsystemen wider und positioniert
+  Frontline als direktes Gegengewicht zur Lady-Zi-Piratenkoalition.
 topics:
 - mercenary
 - piracy
@@ -43,6 +53,20 @@ related_uuids:
 - fd99dd4d-fc7d-5a70-ac15-09a99102482d
 - c76cadee-b3d0-501f-8231-6caf7589bc3a
 - 32ce68df-e133-545f-a0ea-2ae009f1ada6
+body_de: |
+  Frontline Solutions hat angekündigt, dass sein erweiterter Einsatzdienst begonnen hat,
+  Söldner zu Anti-Kriminalitäts-Einsätzen in den Kernsystemen zu verlegen.
+  Nach erfolgreicher Fertigung und Testflügen des Runner-Transporters bestätigte CEO Imogen
+  le Ray in einer Pressemitteilung, dass ihr Konzern bereit ist, Strike-Teams dorthin zu
+  verlegen, wo sie gebraucht werden – und wann sie gebraucht werden, um organisierte Kriminalität
+  zu stören.
+  „Die Behörden müssen kriminelle Aktivitäten und koordinierte Piraterie nicht länger mit
+  überlasteten Ressourcen beklämpfen, wie die jüngsten Ereignisse im System Lhou Mans zeigen.
+  Mit diesem neuen Dienst können wir die Systemsicherheit verstärken, um nahezu jede Kampf-
+  oder Rettungssituation zu bewältigen."
+  Piloten und Söldnertrupps, die sich für einen Einsatz anmelden wollen, sollten zunächst
+  an einem beliebigen Markthafen anreisen und andocken, bevor sie zu einem verfügbaren Runner
+  verlegt werden.
 ---
 
 Frontline Solutions has announced that its expanded deployment service has started shipping mercenaries to anti-crime operations across the core systems.

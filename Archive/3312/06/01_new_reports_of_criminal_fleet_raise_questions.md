@@ -8,14 +8,27 @@ summary: Multiple sightings of ships bearing unidentified markings have been rep
   across several systems alongside fresh malware sigils linked to Lady Zi. Crime correspondent
   Mira Bukowski suggests the incidents are connected, while Frontline Solutions prepares
   expanded anti-criminal services.
+summary_de: In mehreren Systemen wurden mehrere Sichtungen von Schiffen mit unbekannter
+  Kennzeichnung gemeldet, dazu frische Malware-Sigillen in Verbindung mit Lady Zi. Kriminalreporterin
+  Mira Bukowski hält die Vorfälle für zusammenhängend, während Frontline Solutions erweiterte
+  antikriminelle Dienstleistungen vorbereitet.
 player_impact: No direct call to action yet, but Frontline Solutions has strongly hinted
   at a formal announcement of expanded services to combat criminal activity in the coming
   days. Pilots should monitor developments for potential combat or logistical opportunities.
+player_impact_de: Noch gibt es keinen direkten Aufruf zum Handeln, doch Frontline Solutions
+  hat eine formelle Ankündigung erweiterter Dienstleistungen zur Bekämpfung krimineller
+  Aktivitäten in den kommenden Tagen stark angedeutet. Piloten sollten die Entwicklungen
+  auf mögliche Kampf- oder Logistikmöglichkeiten hin beobachten.
 modern_impact: The emergence of multiple distinct malware sigils — twin axes, an animal,
   and an ornate mask — suggests Lady Zi's coalition is larger and more diverse than previously
   understood, potentially comprising sub-factions or specialised units. Frontline Solutions'
   planned expansion signals a growing privatisation of anti-piracy efforts in the core
   systems.
+modern_impact_de: Das Auftreten mehrerer unterschiedlicher Malware-Sigillen – Zwillingsäxte,
+  ein Tier und eine verzierte Maske – deutet darauf hin, dass Lady Zis Koalition größer
+  und vielfältiger ist als bisher angenommen und möglicherweise aus Unterfraktionen oder
+  spezialisierten Einheiten besteht. Die geplante Expansion von Frontline Solutions signalisiert
+  eine wachsende Privatisierung antipiraterischer Bemühungen in den Kernsystemen.
 persons:
 - Lady Zi
 - Mira Bukowski
@@ -39,6 +52,24 @@ related_uuids:
 - c76cadee-b3d0-501f-8231-6caf7589bc3a
 - 46b8ec38-ca04-5680-b3a2-01de047bc6c4
 - 6dcab771-4185-55d8-8d59-3d3cda24b786
+body_de: |
+  In mehreren Systemen verbreiten sich Gerüchte nach zahlreichen Sichtungen von Schiffen
+  mit unbekannter Kennzeichnung in Formation.
+  Sicherheitsbeamte meldeten weitere Fälle von Malware mit Sigillen, die bereits beim Angriff
+  auf Lhou Mans entdeckt wurden. Die Sigillen tauchten ansonsten unverbundenen Orten auf,
+  häufig an Handelsaußenposten, Planetenoberflächenhäfen und entlegenen orbitalen Anlagen.
+  Systembehörden, die Datendiebstähle untersuchen, meldeten zudem mehrere Malware-Sigillen,
+  die in getrennten Vorfällen als „Zwillingsäxte", ein „Tier" und eine „verzierte Maske"
+  beschrieben wurden.
+  Während zwischen den Motiven keine formale Verbindung hergestellt wurde, hat die Kriminalreporterin
+  Mira Bukowski angedeutet, dass ihr Auftreten mit den Berichten über das Aufkommen der
+  als Lady Zi bekannten Piratenfigur zusammenhängt.
+  „Diese Berichte sind zu auffällig, um Zufall und unverbunden zu sein", schrieb sie für
+  Vox Galactica.
+  Imogen le Ray, CEO von Frontline Solutions, reagierte auf die Berichte und erklärte in
+  einer Erklärung gegenüber Bukowski für Vox Galactica, „Frontline bereitet zusätzliche
+  Dienstleistungen vor, um den Anstieg krimineller Aktivitäten zu bekämpfen", und deutete
+  eine formelle Ankündigung in den kommenden Tagen stark an.
 ---
 
 Rumours are spreading across several systems following multiple sightings of ships bearing unidentified markings in formation.
