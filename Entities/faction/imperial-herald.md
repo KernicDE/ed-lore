@@ -18,6 +18,26 @@ bio: The Imperial Herald is the Empire's premier news organisation, headquartere
   and the Emperor's Dawn insurgency. While generally supportive of the establishment,
   it has occasionally published critical investigations regarding the NMLA and Marlinist
   dissidents.
+bio_de: Der Imperial Herald ist die einflussreichste Nachrichtenorganisation des Imperiums
+  und fungiert als Staatsorgan, dessen redaktionelle Linie sich im Allgemeinen an der
+  kaiserlichen Politik ausrichtet, während er zugleich als Forum konkurrierender politischer
+  Fraktionen dient.
+
+  Seine Berichterstattung über die Thronfolgekrise von 3301 begründete seinen Ruf für
+  detaillierte politische Reportagen, darunter das maßgebliche Porträt von Brendan Paul
+  Darius – das seine Erziehung als Klient von Senator Patreus, seinen Militärdienst
+  und seinen Aufstieg zum Patron vor der Ermordung Kaiser Hengist Duvals nachzeichnet.
+
+  Der Herald unterhält Büros im gesamten imperialen Raum und berichtet über Sitzungen
+  des Senats, Militäroperationen und Aktivitäten der Kaiserfamilie. Während er grundsätzlich
+  der etablierten Ordnung nahesteht, veröffentlichte er kritische Untersuchungen zur
+  NMLA-Bedrohung und zu marlinistischen Dissidenten. Seine Berichterstattung über
+  Prinzessin Aisling Duval ist umfangreich und spiegelt sowohl ihre Popularität als
+  auch die Sorge des Establishments vor ihrem reformerischen Programm wider.
+
+  In der galaktischen Medienlandschaft repräsentiert der Herald die Perspektive des
+  Imperiums und betont die Stabilität kaiserlicher Herrschaft im Kontrast zu föderaler
+  Demokratie und allianzischem Konsens.
 ---
 
 

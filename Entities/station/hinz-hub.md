@@ -13,6 +13,18 @@ related_entities:
 - ngobe
 bio: An orbital station in the Ngobe system affected by the technological plague that
   swept across inhabited space in early 3302.
+bio_de: Das Hinz Hub ist eine orbitale Station im System Ngobe, die während der
+  Seuchenkrise Ende 3301 und Anfang 3302 erhebliche technische Probleme erlitt. Die
+  Station gehörte zu den Dutzenden Einrichtungen im gesamten besiedelten Raum, die
+  mysteriöse Fehlfunktionen meldeten, die später der destabilisierenden Wirkung von
+  Unknown Artefacts zugeschrieben wurden.
+
+  Wie viele betroffene Stationen bildeten die Betriebsstörungen des Hinz Hub einen
+  Teil der wachsenden Beweise dafür, dass außerirdische Technologie menschliche
+  Stationsysteme störte. Die Krise löste die ersten großen Anstrengungen aus, Meta-Alloys
+  an Barnacle-Stellen im Pleiades-Sektor zu lokalisieren und zu fördern, was sich
+  letztlich als in der Lage erwies, die Schäden umzukehren und betroffene Stationen
+  zur vollen Funktionsfähigkeit zurückzuführen.
 system: Ngobe
 station_type: Orbital Station
 distance_to_arrival: 418

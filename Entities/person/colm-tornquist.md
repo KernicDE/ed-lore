@@ -7,6 +7,23 @@ last_seen_date: '3311-03-13'
 mention_count: 3
 bio: Colm Tornquist is a emperor in the Elite Dangerous universe, active from 3302-02-04
   to 3311-03-13. Closely associated with Imperial Herald, Allied Facece Order.
+bio_de: Colm Tornquist etablierte sich als eine Person von Interesse in kaiserlichen
+  Medien- und Militärkreisen und unterhielt über einen bemerkenswert langen Aktivitätszeitraum
+  dokumentierte Verbindungen sowohl zum Imperial Herald als auch zum Allied Facece
+  Order. Seine Präsenz in galaktischen Aufzeichnungen von 3302 bis 3311 deutet auf eine
+  Person hin, die mit ungewöhnlicher Leichtigkeit zwischen Journalismus, Militärangelegenheiten
+  und politischem Kommentar wechselte. Die Breite seiner Verbindungen zeugte von Zugang
+  zu Quellen und Netzwerken, die mehrere Institutionen innerhalb des Imperiums und
+  seiner verbündeten Organisationen überspannten.
+
+  Tornquists Rolle beim Imperial Herald platzierte ihn unter den Journalisten, die das
+  öffentliche Verständnis kaiserlicher Politik und militärischer Operationen während
+  der folgenreichsten Jahrzehnte der 3300er prägten. Seine gleichzeitigen Verbindungen
+  zum Allied Facece Order deuteten auf Beziehungen jenseits reinen Journalismus hin,
+  in die Sphären des Einflusses, die Medien, Militär und aristokratische Interessen
+  verbanden. Im Laufe seiner Karriere verkörperte Tornquist, wie Informationsmakler im
+  Imperium erhebliche informelle Macht ansammeln konnten, indem sie sich an den
+  Schnittstellen mehrerer institutioneller Netzwerke positionierten.
 ---
 
 

@@ -7,9 +7,15 @@ source: API
 summary: Brewer Corporation deployed the Trailblazer fleet to strategic edge-of-core
   systems to support independent colonisation efforts, described as 'overwhelmingly
   popular' by COO Mark Rennik.
+summary_de: Die Brewer Corporation setzte die Trailblazer-Flotte in strategischen
+  Systemen am Rand der Kernsysteme ein, um unabhängige Kolonialisierungsanstrengungen
+  zu unterstützen; COO Mark Rennik bezeichnete sie als ‚überwältigend beliebt'.
 player_impact: Independent pilots established colonies using Brewer Corporation's
   Trailblazer fleet support infrastructure, with megaships deployed to HIP 90578,
   Orgen, Bletii, 34 Omicron Cephei, Klikis, and Ngobe.
+player_impact_de: Unabhängige Piloten gründeten Kolonien mit der Unterstützungsinfrastruktur
+  der Trailblazer-Flotte der Brewer Corporation; die Megaschiffe wurden in HIP 90578,
+  Orgen, Bletii, 34 Omicron Cephei, Klikis und Ngobe stationiert.
 persons:
 - Mark Rennik
 groups:
@@ -33,6 +39,12 @@ modern_impact: Rennik's admission that 'the number of claims had proved challeng
   scale of pilot-driven expansion. The named megaship deployments (Trailblazer Dream,
   Song, Wish, Star, Promise, Faith) create permanent waypoints that will anchor frontier
   trade routes for years.
+modern_impact_de: Renniks Eingeständnis, dass ‚die Zahl der Claims eine Herausforderung
+  dargestellt habe', und seine Beschreibung der Besiedlungsgeschwindigkeit als ‚offen
+  gesagt erstaunlich' bestätigen das beispiellose Ausmaß pilotengetriebener Expansion.
+  Die benannten Megaschiff-Einsätze (Trailblazer Dream, Song, Wish, Star, Promise,
+  Faith) schaffen permanente Wegpunkte, die die Grenzhandelsrouten für Jahre verankern
+  werden.
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -44,6 +56,26 @@ related_uuids:
 - c049687e-01f6-5a30-a4e6-f8399dd6ab54
 - e8bdc445-58aa-5aca-b3ab-9f1705da44d3
 - 7d09601e-c5b7-57e8-b868-09d6b6ac4856
+body_de: |
+  Die im vergangenen Monat von der Brewer Corporation angekündigte Trailblazer-Flotte
+  wurde an strategischen Standorten an den Rändern der Kernsysteme eingesetzt.
+  Die Trailblazer-Flotte – beschrieben als „Drehknoten der Kolonialisierungsunterstützung"
+  – stellt einen maßgeschneiderten Marktplatz mit Fokus auf Kolonialisierungsmaterialien
+  und -gütern bereit. Die erste Welle unabhängiger Kolonialisierungsanstrengungen wurde
+  von Brewers Chief Operating Officer Mark Rennik als „überwältigend beliebt" beschrieben.
+  Der neue öffentliche Zweig von Brewers Claim-Management-Service ist mit Anfragen überschüttet
+  worden, und Rennik bestätigte, dass die Zahl der Claims eine Herausforderung dargestellt
+  habe. „Die Geschwindigkeit, mit der neue Systeme besiedelt und ausgebaut wurden, ist
+  offen gesagt erstaunlich", sagte Rennik in einem kürzlichen Interview, „und ich freue
+  mich, dass so viele Pioniere diese Gelegenheit in vollen Zügen genutzt haben."
+  Die Trailblazer-Flotte wurde in folgenden Sternensystemen eingesetzt:
+  Trailblazer Dream – HIP 90578
+  Trailblazer Song – Orgen
+  Trailblazer Wish – Bletii
+  Trailblazer Star – 34 Omicron Cephei
+  Trailblazer Promise – Klikis
+  Trailblazer Faith – Ngobe
+  Die Trailblazer Echo ist in das Minerva-System zurückgekehrt.
 ---
 
 

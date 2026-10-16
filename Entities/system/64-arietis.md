@@ -28,6 +28,18 @@ bio: '64 Arietis is a system in Elite Dangerous, significant from 3301-10-29 to 
   Notable events include: The technological plague continues to affect starports across
   inhabited space.; Several starports previously closed due to Unknown Artefact-related
   interference have been restored through the application of meta-alloys.'
+bio_de: 64 Arietis ist ein System, in dem Ende 3301 technische Fehlfunktionen und
+  Stromausfälle von Sternenhäfen gemeldet wurden – Teil einer Welle mysteriöser
+  Stationsprobleme, die auch Warkushanui, das Weyn Dock und den Bond Hub in Varati
+  erfasste. Ingenieure bestätigten, dass die Sternenhäfen ähnliche Systemfehlfunktionen
+  aufwiesen, auch wenn die Ursache zu diesem Zeitpunkt unbekannt blieb.
+
+  Die Vorfälle wurden später als frühe Belege für die Näheeffekte von Unknown Artefacts
+  verstanden – die Störungen durch Thargoid-Technologie, die zur großen Bedrohung für
+  Stationen im gesamten menschlichen Raum werden sollten. 64 Arietis gilt damit als
+  einer der ersten dokumentierten Fälle dessen, was sich zur technologischen Seuche
+  eskalieren sollte, die den Stationsbetrieb in der Phase des ersten Thargoid-Kontakts
+  bedrohte.
 reserve: Pristine
 ---
 

@@ -28,6 +28,18 @@ bio: '49 Arietis is a system in Elite Dangerous, significant from 3301-10-23 to 
   Notable events include: The technological plague continues to affect starports across
   inhabited space.; Aegis has announced plans to dramatically expand its research
   division with over twenty new laboratories at starports across the galaxy.'
+bio_de: 49 Arietis ist ein unabhängiges System, das von der technologischen Seuche von
+  3301–3302 betroffen war. Im Oktober 3301 traten im Gaiman Dock des Systems technische
+  Probleme ähnlich denen in Warkushanui auf, darunter Stromausfälle und Systemversagen.
+  Der Handelspilot Blake Fry spekulierte, dass die Störungen mit zu der Station
+  transportierten Unknown Artefacts zusammenhingen.
+
+  Die Fehlfunktionen des Systems waren Teil eines größeren Musters, das mehrere
+  Sternenhäfen im gesamten besiedelten Raum erfasste und letztlich auf Thargoid-Artefakte
+  zurückgeführt wurde. 49 Arietis veranschaulichte, wie die technologische Seuche
+  Industriesysteme weit entfernt vom Pleiades-Nebel stören konnte, und demonstrierte
+  die galaxisweite Reichweite außerirdischer Technologie, noch bevor die Menschheit
+  ihren Ursprung oder Zweck verstand.
 reserve: Pristine
 ---
 

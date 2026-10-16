@@ -14,6 +14,21 @@ related_entities:
 bio: 'A pioneering exploration organisation active in 3301, the Explorers'' Association
   partnered with Universal Cartographics and Brewer Corporation to establish deep-space
   platforms and Pleiades Nebula outposts.'
+bio_de: Die Explorers' Association entstand Anfang 3301 als institutionelle Stimme einer
+  rasch wachsenden Gemeinschaft unabhängiger Piloten, die über die Grenzen kartierten
+  Raums hinausdrangen. In Partnerschaft mit Universal Cartographics finanzierte die
+  Association die erste Deep-Space-Exploration-Platform bei New Yembo – eine Einrichtung,
+  die die isolierte Erkundung aus einem einsamen Wagnis in ein unterstütztes, kollaboratives
+  Unterfangen verwandelte.
+
+  Bis November hatten sich die Ambitionen der Association dramatisch erweitert. Unterstützt
+  von Brewer Corporation, Pacap Limited und Universal Cartographics kündigte sie den
+  Beginn des Sternenhafenbaus im Pleiades-Nebel an – ein Projekt, das permanente menschliche
+  Infrastruktur in einer der spektakulärsten und strategisch bedeutendsten Regionen
+  der Galaxis errichten sollte. Die Explorers' Association fungierte damit als
+  Berufsverband und politischer Advokat zugleich und demonstrierte, dass Erkundung nicht
+  nur Freizeitaktivität, sondern ein wirtschaftliches und strategisches Imperativ war,
+  der beträchtliche unternehmerische Investitionen rechtfertigte.
 ---
 
 

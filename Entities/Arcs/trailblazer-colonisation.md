@@ -12,6 +12,10 @@ key_entities:
 description: Brewer Corporation's deployment of the Trailblazer megaship fleet to support
   independent colonisation at the edge of inhabited space, enabling rapid frontier expansion
   before the fleet was withdrawn and repurposed.
+description_de: Der Einsatz der Trailblazer-Megaschiffflotte der Brewer Corporation zur
+  Unterstützung unabhängiger Kolonialisierung am Rand des besiedelten Raums, der eine
+  rasche Grenzausdehnung ermöglichte, bevor die Flotte zurückgezogen und anderweitig
+  eingesetzt wurde.
 phases:
 - 'Phase 1: Fleet Deployment (3311-03-19)'
 - 'Phase 2: Frontier Boom (3311-07-24)'
@@ -19,9 +23,16 @@ phases:
 summary: Brewer Corporation's Trailblazer fleet supported independent colonisation at
   the edge of core systems, enabling rapid settlement before being withdrawn as a 'vote
   of confidence' in colony self-sufficiency.
+summary_de: Die Trailblazer-Flotte der Brewer Corporation unterstützte unabhängige
+  Kolonialisierung am Rand der Kernsysteme und ermöglichte eine rasche Besiedlung,
+  bevor sie als ‚Vertrauensbeweis' in die Eigenständigkeit der Kolonien zurückgezogen
+  wurde.
 status: Resolved
 outcome: Thousands of new colonies were established. The Trailblazer fleet was withdrawn
   and refitted for other duties, including staging for the HIP 87621 enclave conflict.
+outcome_de: Tausende neuer Kolonien wurden gegründet. Die Trailblazer-Flotte wurde
+  zurückgezogen und für andere Aufgaben umgerüstet, darunter als Aufmarschpunkt für
+  den HIP-87621-Enklavenkonflikt.
 significance: low
 ---
 

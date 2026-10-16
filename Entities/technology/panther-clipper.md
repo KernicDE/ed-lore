@@ -10,6 +10,23 @@ bio: Panther Clipper is a technology in the Elite Dangerous universe, mentioned 
   Zorgon Peterson confirmed the Panther Clipper has entered full production and is
   now available at core system shipyards, with over 1,200 tonnes cargo capacity and
   Mk II cargo rack compatibility.
+bio_de: Die Panther Clipper ist ein Schwerfrachtschiff von Zorgon Peterson, konzipiert
+  für den anhaltenden Bedarf an Massentransportkapazitäten, der die bestehenden Frachterklassen
+  überstieg. Mit einer Frachtkapazität von über 1.200 Tonnen und Kompatibilität mit
+  Frachtregalen der Mk-II-Klasse füllte das Schiff eine erhebliche Lücke im zivilen
+  Transportmarkt und ermöglichte Betreibern, in einzelnen Fahrten beispiellose Warenmengen
+  zu bewegen. Ihre Einführung spiegelte die fortlaufende Ausdehnung galaktischer
+  Handelsnetze und den entsprechenden Bedarf an größeren, effizienteren Transportlösungen
+  wider.
+
+  Zorgon Peterson bestätigte Mitte 3311 die Vollproduktion der Panther Clipper und
+  machte das Schiff in Schiffswerften der Kernsysteme in föderalem, imperialem und
+  unabhängigem Territorium verfügbar. Die Ankündigung markierte einen bedeutenden
+  Produktstart eines Herstellers, der bereits für zuverlässige, pragmatische Schiffe
+  geschätzt wird, die bei Händlern und Minern beliebt sind. Das Erscheinen der Panther
+  Clipper zeigte, wie Schiffbautechnologie auch angesichts der andauernden Herausforderungen
+  des Thargoid-Konflikts und politischer Instabilität weiterhin auf wirtschaftliche
+  Nachfrage reagierte.
 ---
 
 

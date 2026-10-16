@@ -7,8 +7,14 @@ source: API
 summary: Brewer Corporation's survey initiative successfully collected exploration
   data to assess prime locations for permanent human structures, though it was briefly
   disrupted by a lockdown initiated by rogue Commanders.
+summary_de: Die Vermessungsinitiative der Brewer Corporation sammelte erfolgreich
+  Erkundungsdaten, um beste Standorte für permanente menschliche Bauwerke zu ermitteln;
+  kurzzeitig wurde sie durch eine von abtrünnigen Kommandanten verhängte Abriegelung
+  gestört.
 player_impact: Explorers contributed survey data to Trailblazer Echo in HIP 90578
   to identify optimal colonisation targets.
+player_impact_de: Erkunder trugen Vermessungsdaten zum Trailblazer Echo in HIP 90578
+  bei, um optimale Kolonialisierungsziele zu identifizieren.
 persons:
 - Madelyn Teague
 groups:
@@ -27,6 +33,13 @@ modern_impact: Teague's description of 'a recently updated software algorithm fo
   the 'new frontier' as 'a chance at a fresh start' establishes the humanitarian narrative
   that will drive the migration wave. The rogue Commander lockdown hints at resistance
   to expansion that may resurface.
+modern_impact_de: Teagues Beschreibung eines ‚kürzlich aktualisierten Software-Algorithmus
+  für die nächste Vorbereitungsphase' zeigt die Investitionen der Brewer Corporation
+  in die Kolonialisierungsinfrastruktur. Die Erwähnung vertriebener Gemeinschaften aus
+  dem Thargoid-Krieg, die die ‚neue Grenze' als ‚Chance auf einen Neuanfang' sehen,
+  etabliert die humanitäre Erzählung, die die Migrationswelle antreiben wird. Die
+  Abriegelung durch abtrünnige Kommandanten deutet auf Widerstand gegen die Expansion
+  hin, der wiederkehren könnte.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -36,6 +49,27 @@ related_uuids:
 - b4684e15-86d1-5b30-8df1-282604d10a06
 - 2929a7d5-739c-5361-a9e9-697acd62a952
 - a35f8876-2575-5b5e-beda-dcad1462ddf8
+body_de: |
+  Eine kürzlich von der Brewer Corporation organisierte Vermessungsinitiative wurde
+  von CEO Madelyn Teague als Erfolg gefeiert.
+  Große Mengen an Erkundungsdaten wurden beim Megaschiff Trailblazer Echo im System
+  HIP 90578 abgegeben. Die Daten werden nun von Universal Cartographics analysiert,
+  um die besten Standorte in jedem System für permanente menschliche Bauwerke zu ermitteln.
+  Teague verkündete folgende Erklärung:
+  „Wir freuen uns, dass sich so viele Erkunder an dieser Initiative beteiligt haben.
+  Die jüngste Welle von Vermessungsdaten wird über einen kürzlich aktualisierten
+  Software-Algorithmus verarbeitet, um die nächste Vorbereitungsphase im Streben nach
+  einer weitreichenden Expansionskampagne einzuleiten. Diese Kampagne wird von Fraktionen
+  und Gemeinschaften in den Kernsystemen getragen."
+  Das Interesse an der Vermessungskampagne stößt bei vielen durch den Thargoid-Krieg
+  vertriebenen Gemeinschaften auf Begeisterung, die in dem Gedanken an eine „neue
+  Grenze" eine Chance auf einen Neuanfang sehen.
+  Die Initiative wurde jedoch kurzzeitig durch eine Abriegelung des Systems gestört,
+  die eine Gruppe abtrünniger Kommandanten veranlasst hatte. Viele Gruppierungen werten
+  dies als Versuch, die ersten Expansionsanstrengungen der Menschheit seit vielen Jahren
+  zu sabotieren, auch wenn deren Motive unklar bleiben.
+  Teilnehmer der Kampagne können ihre Belohnungen nun beim Trailblazer Echo in HIP
+  90578 abholen.
 ---
 
 

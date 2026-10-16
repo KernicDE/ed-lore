@@ -28,6 +28,20 @@ bio: 'Ngobe is a system in Elite Dangerous, significant from 3301-11-19 to 3311-
   Notable events include: The technological plague continues to affect starports across
   inhabited space.; Fozard Dock in the HIP 19934 system suspends all services except
   docking and shipyard access due to Unknown Artefact-related interference, bringing...'
+bio_de: Ngobe ist ein unabhängiges demokratisches System in den Kernwelten mit einer
+  Bevölkerung von rund 7 Millionen. Regiert von der Fraktion Future of Ngobe, basiert
+  die Wirtschaft des Systems auf Dienstleistungen und Förderwirtschaft. Sein Sternenhafen
+  Hinz Hub gehörte zu den ersten Stationen, die von der technologischen Seuche erfasst
+  wurden, die Ende 3301 und Anfang 3302 den besiedelten Raum durchzog.
+
+  Im November 3301 gesellten sich Berichte über mysteriöse technische Probleme am
+  Hinz Hub zu einer wachsenden Liste betroffener Stationen, darunter jene in Warkushanui,
+  49 Arietis und 64 Arietis. Bis Januar 3302 hatte sich die technologische Seuche auf
+  22 Systeme ausgebreitet, darunter Ngobe. Die Krise wurde letztlich auf Unknown Artefacts
+  zurückgeführt – außerirdische Objekte, die Stationsysteme störten. Ngober Erfahrung
+  war typisch für die frühe Seuchenwelle – zunächst unerklärliche Fehlfunktionen, die
+  sich zu Dienstaussetzungen zuspitzten und die größere Xenobedrohung vorwegnehmen
+  sollten, die die kommenden Jahrzehnte prägen würde.
 ---
 
 

@@ -7,8 +7,13 @@ source: API
 summary: Brewer Corporation released system colonisation modules and claim management
   to the public, enabling independent colonisation for individuals and communities
   — a moment analysts consider historically significant.
+summary_de: Die Brewer Corporation brachte Systemkolonialisierungsmodule und Claim-Management
+  an die Öffentlichkeit und ermöglichte unabhängige Kolonialisierung für Einzelpersonen
+  und Gemeinschaften – ein Moment, den Analysten für historisch bedeutsam halten.
 player_impact: Pilots gained access to system colonisation modules and the formal
   ability to claim and develop star systems.
+player_impact_de: Piloten erhielten Zugang zu Systemkolonialisierungsmodulen und die
+  formale Möglichkeit, Sternensysteme zu beanspruchen und zu erschließen.
 persons:
 - Madelyn Teague
 groups:
@@ -28,6 +33,12 @@ modern_impact: Teague's statement that 'viable colony targets will not be dictat
   reveals their shared interest in offloading expansion costs to independent pilots.
   This module release is the technical enabler for the largest migration in human
   history.
+modern_impact_de: Teagues Aussage, dass ‚tragfähige Kolonialziele nicht von Großkonzernen
+  oder Regierungen der Supermächte diktiert werden', ist eine radikale Dezentralisierung
+  menschlicher Expansion. Ihre Erwähnung, dass der Schritt von ‚allen drei Supermächten
+  eifrig befürwortet' wurde, zeigt ihr gemeinsames Interesse, Expansionskosten auf
+  unabhängige Piloten abzuwälzen. Diese Modulveröffentlichung ist der technische
+  Katalysator für die größte Migration der Menschheitsgeschichte.
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -38,6 +49,28 @@ related_uuids:
 - c049687e-01f6-5a30-a4e6-f8399dd6ab54
 - a35f8876-2575-5b5e-beda-dcad1462ddf8
 - 7d09601e-c5b7-57e8-b868-09d6b6ac4856
+body_de: |
+  Das lange erwartete Systemkolonialisierungsmodul und der Claim-Management-Prozess
+  der Brewer Corporation sind nun verfügbar.
+  Während Kolonialisierungstechnologie seit über einem Jahrtausend existiert, war ein
+  formaler Prozess zur Beantragung von Claims und zur Gründung von Kolonien für Einzelpersonen,
+  Gemeinschaften und kleine Fraktionen bisher nicht verfügbar. Analysten halten dies
+  für einen Moment von historischer Bedeutung, da die Auswahl tragfähiger Kolonialziele
+  nicht mehr von Großkonzernen oder Regierungen der Supermächte diktiert wird.
+  CEO Madelyn Teague teilte ihre Begeisterung bei einer Galaveranstaltung in Minerva,
+  über die Vox Galactica berichtete:
+  „Das enorme Potenzial dieses Prozesses ist atemberaubend. Ich freue mich, dass der
+  Schritt zu einer weitreichenden, gemeinschaftsgetragenen Expansion von allen drei
+  Supermächten so eifrig befürwortet wurde. Systemkolonialisierungs-Kontakte werden
+  an Sternenhäfen verfügbar sein, um die Erstarbeiten in einem beanspruchten System
+  zu erleichtern."
+  „Dies ist eine aufregende Zeit, und ich kann es kaum erwarten zu sehen, wie sich
+  die nächsten Monate entwickeln. Besonders, wenn die jüngsten Ergänzungen der Trailblazer-Flotte
+  der Brewer Corporation nächste Woche fertiggestellt sind. Diese Initiative läuft
+  übrigens noch immer an der Starlace Station!"
+  Interessenten, die eine neue Kolonie gründen möchten, wird geraten, ein geeignetes
+  Transportschiff zu erwerben und vorzubereiten, da erhebliche Ressourcen nötig sind,
+  um einen neuen Hafen in einem beanspruchten System zu errichten.
 ---
 
 

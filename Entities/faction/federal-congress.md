@@ -17,6 +17,24 @@ bio: 'Federal Congress is a government active in Elite Dangerous lore from 3301-
   refugee convoy fleeing Lugh 6, killing an estimated 9,322 innocent Federal...; Members
   of Congress gathered on Mars for Shadow President Zachary Hudson''s Vote of No Confidence
   against the Liberal Administration.'
+bio_de: Der Federal Congress ist die zweikammerige Legislative der Föderation, die sich
+  auf dem Mars versammelt, um Politik zu beraten, Präsidentenernennungen zu bestätigen
+  und Krieg zu erklären. Seine Mitglieder – Abgeordnete aus dem gesamten föderalen
+  Raum – üben erheblichen Einfluss auf die unternehmensgetriebene Demokratie der
+  Föderation aus, auch wenn die reale Macht oft beim Präsidenten und den undurchsichtigen
+  Bündnissen zwischen politischen Fraktionen und Megakonzernen liegt. Der Congress
+  war Schauplatz einiger der dramatischsten politischen Momente der Föderation, darunter
+  das Misstrauensvotum gegen Präsidentin Jasmina Halsey und die Billigung des
+  Massenüberwachungsprogramms des Proactive Detection Bureau.
+
+  Die Politik des Congress wird von der Spannung zwischen den beiden großen Parteien
+  und dem allgegenwärtigen Einfluss unternehmerischer Geldgeber bestimmt. Der Congress
+  billigte 3307 die Gründung des PDB und gewährte der Regierung weitreichende Befugnisse
+  zur Überwachung ziviler Kommunikation unter dem Deckmantel der Terrorismusbekämpfung
+  – eine Entscheidung, die Kritiker als Todesstoß für die bürgerlichen Freiheiten der
+  Föderation verurteilten. Ob über Flüchtlingspolitik, Militäretats oder Unternehmensfusionen
+  debattiert wird – der Federal Congress bleibt der Ort, wo föderale Demokratie am
+  sichtbarsten praktiziert und am sichtbarsten kompromittiert wird.
 ---
 
 

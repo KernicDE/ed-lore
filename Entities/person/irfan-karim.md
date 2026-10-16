@@ -8,6 +8,19 @@ mention_count: 4
 bio: 'A business reporter for The Alliance Tribune, Irfan Karim provided sharp analysis
   of the corporate struggles surrounding Lakon Spaceways and the Alliance shipbuilding
   sector.'
+bio_de: Irfan Karim baute seinen Ruf auf, indem er für den Alliance Tribune das Spannungsfeld
+  aus Unternehmenspolitik und Luftfahrtfertigung begleitete. Im Dezember 3306 gehörte
+  er zu den Ersten, die Lakon Spaceways' überraschende Ablehnung des Übernahmeangebots
+  von Core Dynamics analysierten; dabei rief er Insiderquellen an und enthüllte, dass
+  sich das Unternehmen in ‚weit größeren Schwierigkeiten befand, als Finanzberichte
+  vermuten ließen'.
+
+  Seine Berichterstattung legte Spannungen innerhalb des Aktionärskreises von Lakon
+  offen und hielt fest, dass manche Investoren den Vorstand zum Akzeptieren der föderalen
+  Übernahme drängten, während andere der Vorstandsvorsitzenden Naomi Landseer übermäßige
+  Abhängigkeit von Alliance-Aufträgen vorwarfen. Karims Berichterstattung half, den
+  Übernahmekampf nicht nur als Wirtschaftsstreit, sondern als Stellvertreterkampf zwischen
+  föderalen und allianzischen Industrieinteressen zu rahmen.
 ---
 
 

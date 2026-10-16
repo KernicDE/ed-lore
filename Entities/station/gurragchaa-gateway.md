@@ -15,6 +15,17 @@ bio: 'Gurragchaa Gateway is a system in Elite Dangerous, significant from 3301-1
   to 3302-05-20. Notable events include: The technological plague continues to affect
   starports across inhabited space.; Several starports previously closed due to Unknown
   Artefact-related interference have been restored through the application of meta-alloys.'
+bio_de: Das Gurragchaa Gateway ist ein Sternenhafen im System Warkushanui, der Anfang
+  3302 von der technologischen Seuche betroffen war. Die Station erlitt im Rahmen einer
+  Welle mysteriöser Fehlfunktionen technische Störungen, die sich auf 22 Systeme
+  ausbreitete; Dienstleistungen wurden zusammen mit anderen Sternenhäfen – darunter
+  dem Ackerman Market in Eravate und dem Weyn Dock in 64 Arietis – eingestellt.
+
+  Die technologische Seuche erwies sich später als Folge der Nähe zu Unknown Artefacts
+  – Thargoid-Technologie, die Stationssysteme störte. Die Erfahrung des Gurragchaa
+  Gateway war typisch für die Frühphase des Thargoid-Kontakts, als die Natur der
+  Bedrohung noch falsch verstanden wurde und Stationen im gesamten menschlichen Raum
+  kaskadierenden Stromausfällen und Systemfehlfunktionen zum Opfer fielen.
 system: Warkushanui
 station_type: Coriolis Starport
 distance_to_arrival: 86

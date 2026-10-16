@@ -6,8 +6,12 @@ date: '3311-03-13'
 source: API
 summary: The first wave of independent colonisation was hailed as a remarkable success
   across the core systems, with tens of thousands of claims and settlements.
+summary_de: Die erste Welle unabhängiger Kolonialisierung wurde in den Kernsystemen
+  als bemerkenswerter Erfolg gefeiert, mit Zehntausenden Claims und Siedlungen.
 player_impact: Independent pilots colonised over 13,000 systems and built more than
   24,000 starports in the first wave of independent colonisation.
+player_impact_de: Unabhängige Piloten kolonisierten über 13.000 Systeme und errichteten
+  mehr als 24.000 Sternenhäfen in der ersten Welle unabhängiger Kolonialisierung.
 persons:
 - Harlow Nassry
 - Colm Tornquist
@@ -32,6 +36,13 @@ modern_impact: Nassry's observation about 'displaced refugees from Sol boarding 
   praise for 'commercial enterprise' highlights the Alliance perspective. Together,
   these quotes show how each superpower views colonisation through its own ideological
   lens.
+modern_impact_de: Nassrys Beobachtung, dass ‚vertriebene Flüchtlinge aus Sol Kolonieschiffe
+  betreten, um neu zu beginnen', offenbart die humanitäre Dimension der Kolonialisierung.
+  Tornquists Bemerkung, dass ‚diese jungen Gemeinschaften potenzielle Kandidaten sind,
+  das Wohlwollen des Imperiums anzunehmen', legt das strategische Interesse des Imperiums
+  an der Grenze offen. Karims Lob für ‚kommerzielles Unternehmertum' beleuchtet die
+  Sicht der Alliance. Zusammen zeigen diese Zitate, wie jede Supermacht die Kolonialisierung
+  durch ihre eigene ideologische Linse betrachtet.
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -42,6 +53,27 @@ related_uuids:
 - c049687e-01f6-5a30-a4e6-f8399dd6ab54
 - a35f8876-2575-5b5e-beda-dcad1462ddf8
 - 7d09601e-c5b7-57e8-b868-09d6b6ac4856
+body_de: |
+  Die erste Welle neu kolonisierter Sternensysteme wurde von Beobachtern aus den Kernsystemen
+  als „bemerkenswerter Erfolg" bezeichnet.
+  Harlow Nassry von den Federal Times schrieb, dass „das ungezügelte Potenzial dieser
+  neuen Häfen und Siedlungen Migration ausgelöst hat; eine beachtliche Zahl vertriebener
+  Flüchtlinge aus Sol betritt Kolonieschiffe, um neu zu beginnen."
+  Colm Tornquist vom Imperial Herald hob die „beträchtliche Chance, die das Unterstützungssystem
+  der Brewer Corporation für unabhängige Systemkolonialisierung bietet", hervor und
+  bemerkte, dass „diese jungen Gemeinschaften potenzielle Kandidaten sind, das Wohlwollen
+  des Imperiums anzunehmen."
+  Irfan Karim vom Alliance Tribune wiederum urteilte, dass das „kommerzielle Unternehmertum
+  dieser Systemarchitekten wahrhaft beeindruckend ist. Man fragt sich, wie weit sich
+  diese neue Grenze angesichts der industriellen Potenz dieser Pioniergemeinschaften
+  noch ausdehnen wird."
+  Die Brewer Corporation hat die offiziellen Zahlen zum ersten Kolonialisierungsschub
+  veröffentlicht:
+  26.684 Claims wurden registriert
+  13.165 Systeme wurden kolonisiert
+  24.037 neue Sternenhäfen und Außenposten wurden errichtet
+  14.216 Oberflächenanlagen wurden errichtet
+  983.599.593 Frachteinheiten wurden zu Baustellen geliefert
 ---
 
 

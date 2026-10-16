@@ -6,8 +6,13 @@ date: '3311-03-06'
 source: API
 summary: A community campaign successfully upgraded Brewer Corporation's Trailblazer
   fleet, adding five new megaships to support colonisation efforts.
+summary_de: Eine Community-Kampagne hat die Trailblazer-Flotte der Brewer Corporation
+  erfolgreich erweitert und fünf neue Megaschiffe zur Unterstützung der Kolonialisierungsanstrengungen
+  hinzugefügt.
 player_impact: Independent pilots delivered commodities to Minerva to fund five additional
   Trailblazer megaships for colonisation support.
+player_impact_de: Unabhängige Piloten lieferten Waren nach Minerva, um fünf zusätzliche
+  Trailblazer-Megaschiffe für die Kolonialisierungsunterstützung zu finanzieren.
 persons:
 - Mark Rennik
 groups:
@@ -24,6 +29,11 @@ modern_impact: Rennik's statement — 'It is obvious that there is great appetit
   addition of five megaships expands the Trailblazer network to the scale needed for
   the migration wave reported in April, creating the logistical backbone for billions
   of settlers.
+modern_impact_de: Renniks Aussage – ‚Es ist offensichtlich, dass großer Appetit besteht,
+  die jüngste Grenze zu durchbrechen' – fasst die kolonisierungsbegeisterte Stimmung
+  nach dem Krieg. Der Zuwachs von fünf Megaschiffen bringt das Trailblazer-Netz auf
+  das Ausmaß, das für die im April gemeldete Migrationswelle nötig ist, und schafft
+  das logistische Rückgrat für Milliarden Siedler.
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -34,6 +44,20 @@ related_uuids:
 - c049687e-01f6-5a30-a4e6-f8399dd6ab54
 - a35f8876-2575-5b5e-beda-dcad1462ddf8
 - 7d09601e-c5b7-57e8-b868-09d6b6ac4856
+body_de: |
+  Die Kampagne zur Erweiterung der Trailblazer-Flotte der Brewer Corporation ist im
+  System Minerva abgeschlossen.
+  Dank der Bemühungen unabhängiger Piloten, die Lieferungen nach Minerva beförderten,
+  werden insgesamt 5 zusätzliche Trailblazer-Megaschiffe an strategischen Standorten
+  am Rand der Kernsysteme positioniert und bieten frühen Kolonien einen Drehknoten
+  handelbarer Materialien und Dienstleistungen.
+  Brewers Chief Operating Officer Mark Rennik äußerte sich zum Erfolg der Kampagne:
+  „Wir haben abermals breite Unterstützung und Bestätigung unserer Bemühungen erhalten,
+  was uns gleichermaßen demütigt und begeistert. Es ist offensichtlich, dass großer
+  Appetit besteht, die jüngste Grenze zu durchbrechen und neue Kolonien zu gründen,
+  um die Sphäre des menschlichen Einflusses in unserem Galaxieabschnitt weiter auszudehnen."
+  Die Trailblazer-Megaschiffe sollen in den kommenden Wochen eingesetzt werden.
+  Teilnehmer können ihre Belohnungen nun bei der Initiative abholen.
 ---
 
 

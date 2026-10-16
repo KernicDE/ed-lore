@@ -15,6 +15,19 @@ bio: The Imperial Palace is the seat of the Imperial government on Capitol in th
   system, serving as the residence of the Emperor and the administrative heart of the
   Empire. In early 3301 it was the site of a foiled assassination attempt on Emperor
   Hengist Duval when tampering with his medication was discovered in the Palace pharmacy.
+bio_de: Der Imperial Palace auf Capitol ist das zeremonielle und administrative Zentrum
+  des Imperiums und beherbergt die Residenz des Kaisers sowie die Ämter des Kaiserlichen
+  Hofes. Im April 3301 schlich sich ein Attentäter in den Palast und manipulierte die
+  Medikamente Kaiser Hengist Duvals; das Komplott scheiterte nur, weil ein Reinigungsmitarbeiter
+  bemerkte, dass die Palastapotheke unverschlossen zurückgelassen worden war, was eine
+  vollständige Inventur auslöste, die die Manipulation aufdeckte.
+
+  Der Vorfall löste eine massive Sicherheitsreaktion und eine Ermittlung unter Leitung
+  von Prinzessin Arissa Lavigny-Duval aus, die mit ihren Agenten den Angreifer gefangen
+  nahm. Kanzler Blaine bestätigte, dass der Kaiser bei einer längeren unentdeckten
+  Laufzeit des Anschlags beinahe mit Sicherheit getötet worden wäre, und das vereitelte
+  Komplott verschärfte die Spannungen um die kaiserliche Thronfolge und legte Schwachstellen
+  in den Sicherheitsprotokollen des Palasts offen.
 ---
 
 

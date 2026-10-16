@@ -7,8 +7,14 @@ source: API
 summary: Brewer Corporation announced a planetary survey initiative in partnership
   with Universal Cartographics to prepare for widespread colonisation, with CEO Madelyn
   Teague framing it as the next step in humanity's 'continued march across the stars.'
+summary_de: Die Brewer Corporation kündigte eine planetare Vermessungsinitiative in
+  Partnerschaft mit Universal Cartographics zur Vorbereitung weitreichender Kolonialisierung
+  an; CEO Madelyn Teague bezeichnete sie als nächsten Schritt im ‚fortgesetzten Marsch
+  zu den Sternen'.
 player_impact: Explorers were called to scan systems and submit exploration data to
   Trailblazer Echo in HIP 90578.
+player_impact_de: Erkunder wurden aufgerufen, Systeme zu scannen und Erkundungsdaten
+  beim Trailblazer Echo in HIP 90578 abzugeben.
 persons:
 - Madelyn Teague
 groups:
@@ -31,6 +37,13 @@ modern_impact: Teague's reference to 'the Colonia Bridge' invokes Brewer Corpora
   the political backroom dealing that enabled the Alliance-Sirius pact termination
   in May and the superpowers' endorsement of independent expansion. This announcement
   is the first domino in the colonisation cascade.
+modern_impact_de: Teagues Verweis auf ‚die Colonia Bridge' ruft das ehrgeizigste frühere
+  Projekt der Brewer Corporation auf und positioniert die Kolonialisierung als dessen
+  logische Fortsetzung. Die unbestätigten Berichte über ‚bedeutende Gespräche mit Lobbyisten
+  der Supermächte' deuten auf die politischen Hinterzimmerabsprachen hin, die im Mai
+  die Aufkündigung des Alliance-Sirius-Pakts und die Billigung unabhängiger Expansion
+  durch die Supermächte ermöglichten. Diese Ankündigung ist der erste Dominostein der
+  Kolonialisierungskaskade.
 legacy_weight: 3
 significance: medium
 related_uuids:
@@ -41,6 +54,30 @@ related_uuids:
 - 2929a7d5-739c-5361-a9e9-697acd62a952
 - c049687e-01f6-5a30-a4e6-f8399dd6ab54
 - 7d09601e-c5b7-57e8-b868-09d6b6ac4856
+body_de: |
+  Die Brewer Corporation hat eine neue planetare Vermessungsinitiative angekündigt
+  und ruft Piloten dazu auf, Orte in den Kernsystemen zu scannen.
+  Nach dem jüngsten Einsatz des Megaschiffs Trailblazer Echo verkündete CEO Madelyn
+  Teague folgende Erklärung von der Kommandobrücke des Schiffs:
+  „Die jüngsten Ereignisse haben unsere Pläne beschleunigt, ein neues Zeitalter der
+  Systemkolonialisierung zu erkunden. Die Brewer Corporation hat ehrgeizige Projekte
+  wie die Colonia Bridge stolz unterstützt und mit anderen Konzernen daran gearbeitet,
+  die Sternenhäfen in der gesamten Galaxis zu verbessern und zu vermehren. Nun tun
+  wir einen weiteren Schritt vorwärts im fortgesetzten Marsch zu den Sternen."
+  „Universal Cartographics ist als Partner an Bord, um die allerneuesten Erkundungsdaten
+  zu sammeln, zu analysieren und zu verarbeiten und so unsere Kennzahlen für optimale
+  Kolonialisierungsziele zu kalibrieren."
+  Die Brewer Corporation, die Coriolis- und Orbis-Sternenhäfen baut, hat in der Vergangenheit
+  lokal begrenzte Expansionsprojekte unterstützt. Bis heute jedoch hatte sie den Aktionären
+  keinerlei Zeichen gegeben, dass sie weitreichende Kolonialisierungspläne befürworten
+  würde.
+  Einige Medienanalysten behaupten, die Brewer Corporation habe sich in den vergangenen
+  Wochen in bedeutende Gespräche mit Lobbyisten der Supermächte begeben, was die
+  Meinungsänderung erklären könnte. Wie stark die Supermächte diese Ankündigung beeinflusst
+  haben, ist unbestätigt.
+  Erkunder, die zur Initiative beitragen möchten, können Erkundungsdaten beim Trailblazer
+  Echo im System HIP 90578 abgeben. Beiträge werden nach Gründlichkeit bewertet;
+  vollständige FSS-Scans und abgeschlossenes planetares Probing werden höher vergütet.
 ---
 
 

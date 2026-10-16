@@ -10,6 +10,24 @@ bio: Trailblazer megaship is a technology in the Elite Dangerous universe, menti
   Brewer Corporation announced the Trailblazer megaship fleet would be withdrawn beginning
   November 11th, declaring independent colonies self-sufficient after a year of logistical
   support.
+bio_de: Das Trailblazer-Megaschiff verkörpert Brewer Corporations innovativen Ansatz
+  zur Unterstützung unabhängiger Kolonialisierung – als mobile Infrastrukturplattform
+  konzipiert, die vorübergehende Stützpunkte in unbewohnten Systemen errichten konnte.
+  Diese Schiffe transportierten die Ausrüstung, Vorräte und technische Expertise, die
+  nötig waren, um Kolonisten während der kritischen frühen Siedlungsphase zu tragen,
+  und überbrückten so die Lücke zwischen der ersten Ankunft und der Fertigstellung
+  permanenter Anlagen. Ihr Einsatz markierte einen bedeutenden Wandel in der Organisation
+  der Grenzausweitung, der die Abhängigkeit von langsamen, teuren Bauprojekten verringerte,
+  indem essenzielle Dienstleistungen direkt zu den jungen Kolonien gebracht wurden.
+
+  Ende 3311 kündigte die Brewer Corporation an, dass der Rückzug der Trailblazer-Flotte
+  am 11. November beginnen werde, und erklärte, die unterstützten unabhängigen Kolonien
+  hätten nach einem Jahr logistischer Hilfe Eigenständigkeit erreicht. Chief Operating
+  Officer Mark Rennik rahmte den Rückzug als Beleg für den Erfolg des Programms und
+  nicht als sein Ende. Dieser Meilenstein zeigte, dass das auf Megaschiffen basierende
+  Unterstützungsmodell seinen Zweck erfüllen konnte – Kolonien den Übergang von abhängigen
+  Außenposten zu autonomen Siedlungen zu ermöglichen, die sich ohne kontinuierliche
+  externe Unterstützung selbst tragen.
 ---
 
 
