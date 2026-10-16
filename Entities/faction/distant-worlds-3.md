@@ -12,6 +12,20 @@ related_entities:
 bio: 'A massive deep-space expedition launched in 3312, Distant Worlds 3 coordinated
   thousands of independent pilots in a scientific survey of the galaxy''s most remote
   regions.'
+bio_de: Distant Worlds 3 ist eine kooperative Tiefraumexpedition, die 3312 von Deep
+  Space Surveys organisiert und tausende unabhängiger Piloten zu einer Flotte für
+  eine ehrgeizige wissenschaftliche Vermessung der unerforschten Regionen der Galaxis
+  vereinte. Die Expedition verließ den besiedelten Raum erfolgreich und errichtete
+  ihren ersten großen Sammelpunkt in Colonia, bevor sie einen gefährlichen Landeeinsatz
+  nahe des Weißen Zwergs Spoihaae XE-X d2-9 durchführte und den Seldowitch-Nebel erreichte.
+
+  Nach der Ankunft in Beagle Point, dem historischen Endpunkt der ursprünglichen
+  Distant-Worlds-Reise, setzte die Flotte ihren Weg in die Regionen Abyss, Acheron
+  und Veils fort, um großangelegte Vermessungen zur Sterndichte und Spektralverteilung
+  durchzuführen. Die Operation wurde durch ein ausgedehntes Netzwerk aus Flottenträgern
+  und unabhängigen Bergbaupiloten aufrechterhalten, die Tritiumvorräte in abgelegenen
+  Systemen auffüllten, und demonstrierte die logistischen Fähigkeiten koordinierter
+  ziviler Erkundung.
 ---
 
 

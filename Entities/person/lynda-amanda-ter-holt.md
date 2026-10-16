@@ -13,6 +13,15 @@ bio: 'Lynda Amanda ter Holt — known to everyone as Lya — is an astrophysicis
   the search grid that guided the rescue detachment. When theory and practice collided,
   Lya chose theory. "Space is big," Halsey said. "We need to narrow our focus." Lya
   narrowed it. From millions of cubic light-years to a single drifting hull.'
+bio_de: Lynda Amanda ter Holt – allen nur als Lya bekannt – ist eine Astrophysikerin,
+  die Raumfahrt hasst und doch die Leere besser kartiert als jeder andere. Von Jasmina
+  Halsey rekrutiert, brachte sie von ALTAS für Distant Worlds 3 Fachwissen in kompetitiver
+  Akkretionsmodellierung und Temporaltheorie in die Expedition ein. Sie errichtete
+  den Orion-Beobachtungsposten, verfolgte den verlassenen DSSA-Beacon zurück bis in
+  sperrgebietgeschützte Systeme und konstruierte das Suchraster, das den Rettungstrupp
+  führte. Als Theorie und Praxis aufeinanderprallten, wählte Lya die Theorie. „Der
+  Weltraum ist groß", sagte Halsey. „Wir müssen unseren Fokus eingrenzen." Lya engrenzte
+  ihn. Von Millionen Kubiklichtjahren auf einen einzigen treibenden Rumpf.
 ---
 
 

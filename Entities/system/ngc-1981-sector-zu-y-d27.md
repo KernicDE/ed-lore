@@ -22,6 +22,23 @@ economy: Industrial
 second_economy: Agriculture
 reserve: Pristine
 edsm_url: https://www.edsm.net/en/system/id/278669/name/NGC+1981+Sector+ZU-Y+d27
+bio_de: Koordinaten – 536.69, -332.13, -1112.69. Unabhängiges System. Bevölkerung
+  von rund 289 Millionen. Kontrolliert von Deep Space Surveys unter demokratischer Regierung.
+  Hohe Sicherheit. Industrielle Wirtschaft mit landwirtschaftlicher Sekundärwirtschaft.
+  Unberührte Rohstoffvorkommen.
+
+  Hier startete Distant Worlds 3. Wo John Ermitage und Cal über GalCop-Technologie
+  stritten, während eine Frau in einem Techniker-Outfit Fracht mit militärischer Präzision
+  dirigierte. Wo Hermine Delarue Cal mit Lavian Brandy anwarb. Wo Captain Yuen den
+  Massensprung herunterzählte, der alles veränderte – „Drei. Zwei. Punch." – und
+  wo die Witch-Space-Anomalie erstmals in Flottengröße auftrat.
+
+  NGC 1981 Sector ZU-Y d27 ist auf galaktischen Karten unauffällig. Ein Primärstern
+  der K-Klasse, einige felsige Welten, keine Touristeninfrastruktur. Doch am 22. Januar
+  3312 zeichneten Tausende von Navsperren zarte Geometrie über seine Dunkelheit, und
+  eine Armada legte sich gemeinsam in einen Korridor, der nicht so leer war, wie er
+  hätte sein sollen. Manche Systeme werden durch das definiert, was in ihnen geschieht.
+  Dieses wird definiert durch das, was es verließ.
 ---
 
 <!-- AUTO-GENERATED -->

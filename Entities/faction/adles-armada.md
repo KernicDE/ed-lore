@@ -17,6 +17,23 @@ bio: 'Adle''s Armada is a organization active in Elite Dangerous lore from 3301-
   has allied with Adle''s Armada in Operation Tomahawk.; Adle''s Armada, a long-standing
   Federal-leaning vigilante group, declared itself a sovereign power independent of
   all galactic powers.'
+bio_de: Adle's Armada ist eine der Föderation zuneigende Selbstjustizgruppe, die ihre
+  Ursprünge auf eine geheime interfraktionelle Kampfeinheit zurückführt, aus der
+  Post Commander Tyllerius Adle 3200 seinen Trupp herauslöste und zu einer unabhängigen
+  Miliz umbildete. Mit Hauptsitz im System Ngaliba verteidigte die Gruppe historisch
+  die Wehrlosen gegen Kräfte, die in der Galaxis Böses zu tun suchten.
+
+  Im Juni 3301 erklärte Adle's Armada sich zu einer souveränen Macht, unabhängig
+  von allen galaktischen Großmächten, und operierte vor allem in den Systemen Ngaliba,
+  Mbukuravi und Kremainn mit einem eigenen Regierungssystem auf Basis eigener Rechtsgrundsätze.
+  Die Gruppe rekrutiert nur die feinsten Kampfpiloten mit reinem Gewissen und intervenierte
+  in Konflikten im gesamten föderalen und imperialen Raum. Im Juli 3301 belagerte
+  die Armada die League of Hel, um einen illegalen Waffenhandel zwischen Hammer Arms
+  der Cosmic State und Emperor's Grace zu blockieren; Tyllerius Adle III verurteilte
+  den Handel als Tyrannei, die „den Menschen das Brot vor dem Mund wegnahm". Die Souveränitätserklärung
+  der Armada etablierte eine einzigartige unabhängige Macht mit föderalen militärischen
+  Wurzeln, die alle Supermacht-Bindungen ablehnte und zugleich ihre Selbstjustiz-Ethik
+  bewahrte.
 ---
 
 

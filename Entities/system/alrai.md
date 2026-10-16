@@ -27,6 +27,21 @@ inara_url: https://inara.cz/elite/starsystem/?search=Alrai
 bio: 'A Federation high-tech democracy, Alrai served as a waypoint and logistics hub
   for deep-space expeditions including Distant Worlds, with Surveyor''s Reach as its
   primary starport.'
+bio_de: Die Sternenstation Surveyor's Reach in Alrai etablierte das System in den
+  frühen 3300ern als wesentlichen Wegpunkt für Tiefraumexpeditionen. Sowohl die Distant-Worlds-Expedition
+  als auch die Programme von Deep Space Surveys nutzten Alrai als Sammelpunkt und
+  zogen Piloten aus der gesamten Galaxis in ein wettbewerbsorientiertes Umfeld, in
+  dem Fraktionen wie die Blood Brothers, Ronin of Amarak, Triadius und die Balkan
+  Intergalactic Guerrillas neben konventionelleren Entdeckern um Anerkennung rangen.
+
+  Die Hightech-Wirtschaft des Systems und die demokratische Regierung unter den Blood
+  Brothers from Alrai schufen eine ungewöhnliche politische Kultur, die unabhängige
+  Piloten willkommen hieß, statt sie als temporäre Besucher zu behandeln. Im Laufe
+  des folgenden Jahrzehnts tauchte Alrai weiterhin in expeditionsbezogenen Aufzeichnungen
+  auf, was darauf hindeutet, dass es seinen Ruf als zuverlässigen Versorgungspunkt
+  für Reisen in die äußeren Randgebiete der Galaxis bewahrte. Seine Beständigkeit
+  in den Aufzeichnungen über zehn Jahre hinweg zeigte, wie gut positionierte Systeme
+  dauerhafte Identitäten rund um die Unterstützung der Erkundung aufbauen konnten.
 ---
 
 

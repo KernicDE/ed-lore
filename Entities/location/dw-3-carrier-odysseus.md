@@ -9,6 +9,20 @@ related_entities:
 - hermine-delarue
 - captain-yuen
 - nadya-holdstock
+bio_de: Einer von vier Flottenträgern, die Distant Worlds 3 zugeteilt waren. Die
+  Odysseus diente Elaine Howard als Operationsbasis – ihre „Whisky Wasp" startete
+  von ihren Hangars zu Such- und Aufklärungsmissionen.
+
+  Der Name des Trägers erwies sich als passend. Wie ihr antiker Namensvetter wanderte
+  die Odysseus fern von vertrauten Küsten, begegnete Wundern und Schrecken und trug
+  eine Crew, die verstand, dass die Reise selbst das Ziel war. Ihre Holo-Wände zeigten
+  Bilder des verlassenen Prototyps. In ihren Briefingräumen zeichneten Routenplaner
+  Linien über Sternenkarten mit „der pedantischen Zärtlichkeit von Chirurgen". Ihre
+  Gänge rochen nach Klebstoff und frischer Verkabelung – der Geruch eines Schiffs,
+  das seinen Schmutz noch verdiente.
+
+  Die Odysseus kehrte zurück. Nicht alle, die mit ihr gefahren waren, hatten so viel
+  Glück.
 ---
 
 <!-- AUTO-GENERATED -->

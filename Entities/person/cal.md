@@ -9,6 +9,20 @@ related_entities:
 - cynthia-sideris
 - jasmina-halsey
 - nadya-holdstock
+bio_de: Cal und John Ermitage kennen sich lange genug, dass ihre Gespräche die Höflichkeiten
+  überspringen und direkt bei alten Wunden ansetzen. Ein Technikspezialist in rot-schwarzem
+  Anzug mit ordentlich getrimmtem Kinnbart, versteht Cal Systeme aus der GalCop-Ära
+  gut genug, um zu wissen, warum moderne Technologie sie nicht nachbauen kann – und
+  gut genug, um wütend darüber zu sein, was verloren ging. Während der DW3-Planung
+  warnte er Ermitage vor der nördlichen Region des Abyss, die er bei ihrem älteren
+  Namen nannte – *Umbra Sagittarii*, der Schatten des Schützen. Nach der Expedition
+  traf er Ermitage in Tianve, wo er Unkenntnis gegenüber dem Caretaker-Protokoll
+  eingestand, warnte jedoch, dass die Menschheit sich in Regionen vorstrecke, die
+  sie sozial oder wirtschaftlich nicht pflegen könne. Sein Wissen über die Familiengeschichten
+  der Turners und Halseys, über Hieronymus Halseys Ingenieursarbeit und über den Zusammenbruch
+  der Galaktischen Kooperative macht ihn zu einem der wenigen noch lebenden Menschen,
+  die Ermütages verborgene Agenda in ihren angemessenen historischen Kontext einordnen
+  können.
 ---
 
 <!-- AUTO-GENERATED -->

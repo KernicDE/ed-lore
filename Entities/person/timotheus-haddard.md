@@ -9,6 +9,10 @@ related_entities:
 - hermine-delarue
 - elaine-howard
 - lya
+bio_de: „Timotheus Haddard" und „Quartermaster Timotheus Haddard" bezeichnen dieselbe
+  Person – den Logistikoffizier, der die Flotte von Distant Worlds 3 über ihre viermonatige
+  Reise operativ am Laufen hielt. Das vollständige Profil findet sich unter Quartermaster
+  Timotheus Haddard.
 ---
 
 <!-- AUTO-GENERATED -->

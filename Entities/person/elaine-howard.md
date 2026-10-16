@@ -8,6 +8,22 @@ mention_count: 1
 bio: 'Elaine Howard is a prominent figure in the Elite Dangerous universe, active
   from 3312-02-13 to 3312-02-13. Closely associated with Deep Space Surveys, Distant
   Worlds 3. '
+bio_de: Vier Bänder mit violettem Sternenbanner. Das verleiht die Alliance Scouting
+  and Exploration Wing an Piloten, die die Grenze so weit hinausgeschoben haben, dass
+  sie den Weg zurück vergessen haben. Elaine Howard trägt sie auf einer Jacke, die
+  sie partout nicht ersetzen will.
+
+  „Geschichte", sagt sie auf Nachfrage. Mehr nicht.
+
+  Während Distant Worlds 3 diente Howard als Flight Major an Bord der Odysseus. Gemeinsam
+  mit Jacky Hew und Jasmina Halsey betrat sie persönlich den verlassenen Prototyp-Träger
+  nahe der Praei-Zwei-Grenze – darauf bestehend, die vermissten T-9-Evakuierten zu
+  finden, selbst als der Rumpf Nanitenkontamination zeigte und Überreste der Crew
+  mit den Schotten verwachsen waren. Während der Suche nach dem verlorenen DSSA-Beacon
+  übernahm sie Schicht an Schicht die Überwachung der Scanneranzeigen. Als Jacky Hew
+  sie mit absichtlicher Frechheit „Sir" nannte, knirschte sie mit den Zähnen und
+  konzentrierte sich auf die Aufgabe. Geschichte erfordert schließlich keine guten
+  Manieren. Nur Ausdauer.
 ---
 
 

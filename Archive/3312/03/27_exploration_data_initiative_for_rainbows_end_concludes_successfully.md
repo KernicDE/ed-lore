@@ -7,8 +7,13 @@ source: API
 summary: Rainbow's End exploration data initiative concludes successfully. Stellar
   survey targets exceeded. Station in Roefoo ZE-H d10-0 now open as frontier exploration
   hub.
+summary_de: Die Erkundungsdaten-Initiative für Rainbow's End endet erfolgreich. Die
+  Ziele der Sternenvermessung wurden übertroffen. Die Station in Roefoo ZE-H d10-0
+  ist nun als Grenzerkundungsdrehscheibe geöffnet.
 player_impact: Exploration data CG at Rainbow's End concluded. Station now fully operational
   as deep-space research hub in Mare Somnium.
+player_impact_de: Die Erkundungsdaten-CG bei Rainbow's End ist abgeschlossen. Die
+  Station ist nun voll funktionsfähig als Tiefraumforschungsdrehscheibe im Mare Somnium.
 persons:
 - Hermine Delarue
 groups:
@@ -23,12 +28,23 @@ modern_impact: Operational deep-space research hub now permanently available in 
   Somnium. Success validates the community-driven infrastructure construction model,
   encouraging similar initiatives for future expeditions and establishing Rainbow's
   End as a waypoint on the frontier exploration network.
+modern_impact_de: Im Mare Somnium steht nun permanent eine betriebsbereite Tiefraumforschungsdrehscheibe
+  zur Verfügung. Der Erfolg bestätigt das gemeinschaftsgetriebene Modell des Infrastrukturbaus,
+  ermutigt zu ähnlichen Initiativen für künftige Expeditionen und etabliert Rainbow's
+  End als Wegpunkt im grenznahen Erkundungsnetzwerk.
 legacy_weight: 3
 significance: medium
 related_uuids:
 - 24d79b14-7fcd-5d02-bd05-b1ea1a77b7f0
 - 6727df09-c220-537b-ac30-e91181fadd2a
 - 733415a6-cbfd-5926-a7dc-3a7569d14645
+body_de: |
+  Die Erkundungsinitiative zur Unterstützung des neuen Tiefraumhafens Rainbow's End ist abgeschlossen; Kommandanten lieferten eine beachtliche Menge an Erkundungsdaten an die Einrichtung.
+  Die Organisatoren bestätigten, dass das Ziel für Sternenvermessungseingänge weit früher als erwartet übertroffen wurde, sodass die Wissenschaftsteams mit der großangelegten Modellierung der galaktischen Regionen um das Heimatsystem des Sternenhafens, Roefoo ZE-H d10-0, beginnen können.
+  Hermine Delarue, Operations Executive von Deep Space Surveys, gab nach Abschluss der Initiative eine Erklärung ab:
+  „Die Resonanz in der Explorer-Gemeinschaft war außergewöhnlich. Die Datenbänke von Rainbow's End sind nun mit hochwertigen Vermessungsdaten gefüllt, die in einigen der entlegensten Gebiete der Galaxis gesammelt wurden. Unsere Modellierungsteams können mit der Analyse der Informationen beginnen, um neue Sternenkarten dieser Region zu erstellen. Sobald die Analyse abgeschlossen ist, werden wir unseren Entdeckern über unsere internen Kommunikationskanäle weitere Missionsprioritäten mitteilen."
+  Delarue dankte allen teilnehmenden Kommandanten im Namen des Expeditionskommandos von Distant Worlds 3 und wünschte dem neuen Hafen als Drehscheibe der Tiefraumforschung viel Erfolg.
+  Rainbow's End ist nun voll betriebsbereit und für Piloten geöffnet, die die Grenze des Mare Somnium erkunden.
 ---
 
 

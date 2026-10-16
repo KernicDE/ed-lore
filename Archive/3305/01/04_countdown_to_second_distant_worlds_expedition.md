@@ -7,7 +7,11 @@ source: GitHub
 summary: The second Distant Worlds expedition prepares to launch, with nearly four
   thousand Commanders set to travel over 200,000 light years through the galactic
   core, including construction of a research starport near Sagittarius A*.
+summary_de: Die zweite Distant-Worlds-Expedition bereitet sich auf den Start vor; fast
+  viertausend Kommandanten sollen über 200.000 Lichtjahre durch den galaktischen Kern
+  reisen, einschließlich des Baus einer Forschungssternenstation nahe Sagittarius A*.
 player_impact: Nearly four thousand Commanders signed up to participate in the expedition.
+player_impact_de: Fast viertausend Kommandanten meldeten sich zur Teilnahme an der Expedition an.
 persons:
 - Leon Banerjee
 - Erimus Kamzel
@@ -27,6 +31,9 @@ arc_id: distant-worlds-3
 modern_impact: Distant Worlds II became the largest coordinated exploration fleet
   in history, establishing permanent infrastructure in the Galactic Centre and inspiring
   future generations of deep-space explorers.
+modern_impact_de: Distant Worlds II wurde zur größten koordinierten Erkundungsflotte
+  der Geschichte und errichtete permanente Infrastruktur im Galaktischen Zentrum, die
+  künftige Generationen von Tiefraumentdeckern inspirierte.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -36,6 +43,13 @@ related_uuids:
 - 0c05e71b-e415-5dc1-a738-497a08873330
 - 709cb1ad-841a-5f21-b39e-4bbe644d7655
 - bed394ac-3331-5d0f-94b4-06038a6cf607
+body_de: |
+  Die Vorbereitungen für die zweite Distant-Worlds-Expedition laufen, bei der eine Gemeinschaft von Entdeckern die Galaxis durchqueren wird.
+  Der Wissenschaftskorrespondent Leon Banerjee lieferte einen Überblick für das Medienunternehmen Vox Galactica:
+  „Die erste Distant-Worlds-Mission im Jahr 3302 war die größte Flottenexpedition der Geschichte; über tausend Schiffe reisten nach Beagle Point und zurück."
+  „Distant Worlds II hat noch größere Ambitionen: eine eindrucksvolle Reise durch das Herz der Galaxis, bei der unerforschte Regionen kartographiert und neue wissenschaftliche Entdeckungen gemacht werden. Auch der Bau einer Sternenstation zur Erforschung von Sagittarius A* ist vorgesehen."
+  „Die Projektleiter Erimus Kamzel und Dr. Kaii berichten, dass trotz der Risiken fast viertausend mutige Kommandanten an der über 200.000 Lichtjahre langen Reise teilnehmen werden."
+  Der Start von Distant Worlds II ist für Januar 3305 geplant; die komplette Rundreise dauert voraussichtlich etwa dreihundert Tage.
 ---
 
 

@@ -9,6 +9,21 @@ related_entities:
 - hermine-delarue
 - elaine-howard
 - rendezvous-point
+bio_de: „Logistik an Flotte. Wenn es sich komisch anfühlte, willkommen auf der Tour.
+  Umrüstfenster am Träger von zwanzig bis vierzig. Wenn dein AFMU nach dem Sprung
+  geschmollt hat, stell dich an."
+
+  Timotheus Haddards Grinsen war über das Kommnetz zu hören. Quartiermeister der
+  Distant Sun, verantwortlich dafür, fünftausend Piloten über vier Monate in der
+  Dunkelheit mit Treibstoff, Verpflegung und geistiger Gesundheit zu versorgen. Als
+  während des Starts die Witch-Space-Anomalie zuschlug, übersetzte Haddard Terror
+  in Bürokratie – Beschwerden erst durch die Wissenschaft filtern, die Sponsoren später
+  beschuldigen. Er überwachte die Versorgungsstände im gesamten Konvoi, koordinierte
+  die Umrüstfenster und stellte sicher, dass die kritischste Ressource der Flotte
+  – die Moral – nie unter den betrieblichen Mindestwert sank.
+
+  Manche Offiziere führen mit Charisma. Haddard führte mit Tabellen und schrecklichen
+  Witzen. Beides funktionierte.
 ---
 
 <!-- AUTO-GENERATED -->

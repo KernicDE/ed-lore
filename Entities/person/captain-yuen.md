@@ -9,6 +9,20 @@ related_entities:
 - lya
 - elaine-howard
 - jacky-hew
+bio_de: Auf der Brücke der Halsey's Quest zählte Captain Yuen Massensprünge im selben
+  Ton herunter, in dem sie Frühstücksbestellungen aufgeben würde. „Drei. Zwei. Punch."
+  Keine Theatralik. Die Crew hörte trotzdem zu.
+
+  Yuen kommandierte die Flottenoperationen von Distant Worlds 3 mit einem Pragmatismus,
+  der an Chirurgie grenzte. Als während des Starts die Witch-Space-Anomalie zuschlug
+  – Geister-Kielspuren, ADC-Übersprechen, Stimmen im Rauschen – protokollierte sie
+  sie, justierte die Schilde und bat Halsey um Anweisung, ohne dass ihre Stimme zitterte.
+  Quarantäneabsperrungen. Burn-Box-Protokolle. Suchsweeps, aufgeteilt in drei Kegel.
+  Sie leitete die Suche nach der vermissten Guinevere, registrierte das Schweigen,
+  wo Notsender hätten schreien müssen, und als es an der Zeit war, den verlassenen
+  Prototyp zu betreten, hielt sie den Umkreis, während andere nach innen gingen. Keine
+  Poesie. Keine Panik. Nur die stete Kalkulation, eine Flotte am Leben zu halten,
+  in einem Gebiet, das langsam Zähne zeigte.
 ---
 
 <!-- AUTO-GENERATED -->

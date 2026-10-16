@@ -8,6 +8,16 @@ mention_count: 5
 bio: Hermine Delarue is the Executive Operative for Deep Space Surveys. In January 3312,
   she led the Distant Worlds 3 expedition's call for construction materials to build deep-space
   infrastructure beyond established survey routes.
+bio_de: Hermine Delarue fungiert als Executive Operative von Deep Space Surveys (DSS),
+  einer Organisation mit langjähriger Erfahrung in der Unterstützung großangelegter
+  Erkundungsbemühungen. Im Januar 3312 startete Delarue einen öffentlichen Aufruf
+  nach Roh- und Fertigungsmaterialien, um den Bau einer neuen Tiefraumeinrichtung
+  durch die Expedition Distant Worlds 3 zu unterstützen. Sie verwies auf die früheren
+  Arbeiten von DSS an Explorer's Anchorage während Distant Worlds II als Präzedenzfall
+  und lud unabhängige Piloten ein, beim Fundament für die nächste Ära der Tiefraumentdeckung
+  mitzuhelfen. Ihre Führung bei der Koordinierung gemeinschaftsfinanzierter Grenzinfrastruktur
+  hat ein Modell dafür etabliert, wie Erkundungsorganisationen Baumaterialien crowdsourcen
+  können.
 ---
 
 

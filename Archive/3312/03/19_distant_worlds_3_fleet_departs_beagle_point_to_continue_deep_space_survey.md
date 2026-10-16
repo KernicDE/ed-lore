@@ -7,8 +7,13 @@ source: API
 summary: Distant Worlds 3 departs Beagle Point for next phase into the Abyss, Acheron
   and Veils. Stellar density and spectral distribution surveys ongoing. Carrier fleet
   sustained by miner contributions.
+summary_de: Distant Worlds 3 verlässt Beagle Point für die nächste Phase in die Regionen
+  Abyss, Acheron und Veils. Vermessungen zur Sterndichte und Spektralverteilung laufen.
+  Die Trägerflotte wird durch Beiträge von Bergbaupiloten versorgt.
 player_impact: DW3 fleet departs Beagle Point for Abyss, Acheron and Veils regions.
   Continued scientific survey programme with carrier logistics support.
+player_impact_de: Die DW3-Flotte verlässt Beagle Point in Richtung der Regionen Abyss,
+  Acheron und Veils. Fortgesetztes wissenschaftliches Vermessungsprogramm mit Trägerlogistikunterstützung.
 persons:
 - Lynda Amanda ter Holt
 - Timotheus Haddard
@@ -25,12 +30,25 @@ modern_impact: Beagle Point reframed as waypoint rather than terminus shifts dee
   exploration from destination-based to continuous surveying. Abyss, Acheron and Veils
   stellar density models will produce the first comprehensive cartography of the galactic
   northeast, enabling safer routes for future explorers.
+modern_impact_de: Die Neuausrichtung von Beagle Point als Wegpunkt statt Endpunkt
+  verschiebt die Tiefraumerkundung von zielbasierter zu kontinuierlicher Vermessung.
+  Sterndichtemodelle des Abyss, von Acheron und den Veils werden die erste umfassende
+  Kartographie des galaktischen Nordostens liefern und künftigen Entdeckern sicherere
+  Routen ermöglichen.
 legacy_weight: 3
 significance: medium
 related_uuids:
 - 24d79b14-7fcd-5d02-bd05-b1ea1a77b7f0
 - 6727df09-c220-537b-ac30-e91181fadd2a
 - 9fa72a0c-5333-5110-90ea-074419826e85
+body_de: |
+  Die Expedition Distant Worlds 3 hat bestätigt, dass die Hauptflotte Beagle Point erfolgreich verlassen hat – das historische Ziel, das einst den Endpunkt der ursprünglichen Distant-Worlds-Reise markierte.
+  Nach Erreichen dieses Meilensteins hat die Expedition nun die nächste Phase ihres wissenschaftlichen Programms in einigen der am wenigsten erforschten Gebiete der Milchstraße begonnen: den Regionen Abyss, Acheron und Veils.
+  Die Chefexpeditionsastronomin Lynda Amanda ter Holt koordiniert die Arbeit in Zusammenarbeit mit den Expeditionskommandos der gesamten Flotte. Ter Holt erklärte:
+  „Beagle Point war nie das eigentliche Ziel dieser Reise. Unser Ziel ist es, hochauflösende Sterndaten aus Regionen zu sammeln, die nur dünn katalogisiert sind. Die große Zahl an Expeditionspiloten kann Sterndichte und Spektralverteilungen in einem Ausmaß analysieren, das normalerweise Jahrzehnte brauchen würde. Wir ermutigen unsere mutigen Entdecker weiterhin, jegliche ungewöhnlichen Phänomene zu melden, und katalogisieren alles, um mögliche Zusammenhänge zu erkennen und künftige Missionsprioritäten abzulegen."
+  Die wissenschaftliche Arbeit wird durch ein ausgedehntes Logistiknetzwerk aus Flottenträgern unterstützt. Quartiermeister Timotheus Haddard lobte den Einsatz der unabhängigen Piloten, die den erheblichen Treibstoffbedarf der Flotte gedeckt haben:
+  „Die Tritiumvorräte der Trägerflotte wurden von engagierten Bergbaupiloten in äußerst abgelegenen Systemen bereits mehrfach aufgestockt. Ohne ein so hervorragendes Maß an Zusammenarbeit würde eine Operation dieses Ausmaßes schlicht nicht funktionieren."
+  Da das Vermessungsprogramm dem Zeitplan voraus ist, plant die DW3-Flotte, ihre Route tiefer in den galaktischen Nordosten fortzusetzen. Weitere Updates werden veröffentlicht, sobald neue Entdeckungen bestätigt sind.
 ---
 
 

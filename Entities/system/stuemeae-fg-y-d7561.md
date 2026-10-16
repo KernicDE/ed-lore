@@ -30,6 +30,21 @@ bio: 'Stuemeae FG-Y d7561 is a system in Elite Dangerous, significant from 3305-
   to build an Orbis starport in the Galactic Centre as part...; The Omega Mining Corporation''s
   resource drive concludes successfully, securing enough materials to build an Orbis
   starport in the Stuemeae FG-Y d75...'
+bio_de: Stuemeae FG-Y d7561 ist ein unabhängiges demokratisches System in der Region
+  des Galaktischen Zentrums, kontrolliert von Deep Space Surveys, und wurde zum
+  Schauplatz des Baus der ersten permanenten Sternenstation der Menschheit im Herzen
+  der Galaxis. Im Januar 3305 bat die Omega Mining Corporation um Lieferungen von
+  Rohmaterialien, um im Rahmen der ehrgeizigen Distant-Worlds-II-Expedition eine
+  Orbis-Sternenstation im System zu errichten.
+
+  Der Projektleiter Erimus Kamzel beschrieb die Initiative als „die erste Sternenstation
+  der Menschheit in der Region des Galaktischen Zentrums"; unabhängige Bergbaupiloten
+  lieferten Indit, Gallit, Praseodym und Kobalt zum Omega-Bergbaubetrieb. Die fertiggestellte
+  Station, bekannt als Explorer's Anchorage, bot eine permanente Basis für die wissenschaftliche
+  Beobachtung des nahen supermassereichen Schwarzen Lochs Sagittarius A* und unterstützte
+  die Tiefraumerkundung. Die Verwandlung von Stuemeae FG-Y d7561 von einem leeren
+  System zu einem Zentrum wissenschaftlicher Infrastruktur markierte einen Meilenstein
+  der Expansion der Menschheit über die Kernsysteme hinaus.
 reserve: Pristine
 ---
 

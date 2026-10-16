@@ -8,6 +8,13 @@ mention_count: 5
 official_count: 5
 community_count: 0
 significance: high
+description_de: Der dritte Teil der legendären Distant-Worlds-Expeditionen, der tausende
+  CMDRs in die entferntesten Winkel der Galaxis führt.
+summary_de: Distant Worlds 3 (DW3) war eine monatelange, von Spielern organisierte
+  Expedition, bei der über 1.000 Kommandanten von der Blase nach Beagle Point und
+  darüber hinaus reisten. Unter der Leitung von CMDR Erimus Kamzel umfasste die Expedition
+  Wegpunkte, Community-Events und eine reichhaltige Geschichte, die in den Frontier-Foren
+  dokumentiert wurde.
 key_entities:
   - Jaques Station
   - Beagle Point

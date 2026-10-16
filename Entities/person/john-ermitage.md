@@ -9,6 +9,26 @@ related_entities:
 - lya
 - ram-tah
 - nadya-holdstock
+bio_de: Kaum eine Figur der modernen Explorer-Gemeinschaft trägt so viel historisches
+  Gewicht wie John Ermitage. Ein älterer Stratege mit getönten Brillengläsern und
+  ruhiger, fast strenger Haltung, wurde er 3311 aus einem Halb-Stillstand geholt,
+  um die Distant-Worlds-3-Expedition in Richtung Orion zu lenken – eine Route, die
+  nicht nur wegen ihres wissenschaftlichen Potenzials gewählt wurde, sondern auch,
+  um die instabile Region um Collinder 70 zu überwachen. Ermütages Vergangenheit ist
+  mit den letzten Tagen von GalCop verknüpft; er behauptet, einmal gestorben zu sein
+  und unter falscher Identität gelebt zu haben, um der Aufmerksamkeit von „Reporteren,
+  Anwälten und Auftragskillern" zu entgehen. Modernen COVAS-Systemen misstraut er
+  und bevorzugt die physischen Hebel und Knöpfe seines altmodischen Schiffs der Lanner-Klasse;
+  sein Kontaktnetz reicht von den Turners auf Alioth bis zu Figuren in der Pilots
+  Federation, die sich noch an die Zeit vor der Föderation erinnern. Hinter der öffentlichen
+  Fassade von DW3 als zivilem Erkundungsunternehmen orchestrierte Ermitage eine verborgene
+  Agenda – die Bergung und Zweckentfremdung verlassener Tiefraum-Überwachungsarrays
+  von GalCop aus dem Equinox-Projekt bei Sarasvati, die Untersuchung harmonischer
+  Witch-Space-Anomalien und die Platzierung vertrauenswürdiger Personen – darunter
+  die rätselhafte Lya – an kritischen Punkten der Befehlskette der Expedition. Nach
+  der Expedition traf er sich in Tianve mit Cal, um über das Caretaker-Protokoll zu
+  sprechen, einen offenbar aus GalCop-Zeiten stammenden Rest einer KI-Forschung, der
+  mit Hyperspace-Bleeding und Materiemanipulation in Verbindung steht.
 ---
 
 <!-- AUTO-GENERATED -->
