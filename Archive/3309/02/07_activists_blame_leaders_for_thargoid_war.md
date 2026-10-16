@@ -6,7 +6,10 @@ date: '3309-02-07'
 source: API
 summary: Anti-authoritarian protests surge across the superpowers as activists blame
   government leaders for allowing the Thargoid war to escalate.
+summary_de: Anti-autoritäre Proteste breiten sich über die Großmächte hinweg aus; Aktivisten
+  machen Regierungsführer dafür verantwortlich, den Thargoid-Krieg eskalieren lassen zu haben.
 player_impact: Not specifically mentioned — this is a political report.
+player_impact_de: Nicht explizit erwähnt — dies ist ein politischer Bericht.
 persons:
 - Conrad Sterling
 - Timothy Culver
@@ -31,6 +34,10 @@ modern_impact: 'Heimar Borichev claimed: "Institutional corruption requires radi
   solutions." This illustrates how the Thargoid war fuelled widespread distrust in
   establishment institutions, with activists viewing the conflict as a product of
   corporate-military profiteering rather than purely alien aggression.'
+modern_impact_de: 'Heimar Borichev behauptete: „Institutionelle Korruption erfordert
+  radikale Lösungen." Dies zeigt, wie der Thargoid-Krieg das weit verbreitete Misstrauen
+  gegen etablierte Institutionen schürte; Aktivisten sahen den Konflikt als Produkt
+  militärisch-industrieller Profitmacherei und nicht als rein außerirdische Aggression.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -38,6 +45,14 @@ related_uuids:
 - 40d9b854-2973-5053-a42d-6955f8876544
 - 9baa5b63-76a6-59a5-b2f2-2b3abca36d3c
 - bf2d3dff-0f0e-52cb-b06d-f6704f6b7781
+body_de: |
+  Anti-autoritäre Proteste sind in der Allianz, im Imperium und in der Föderation ausgebrochen; den Regierungen wird Verantwortung für die Thargoid-Feindseligkeit gegeben.
+  Der politische Korrespondent von Vox Galactica, Conrad Sterling, veröffentlichte einen Sonderbericht:
+  „Die Xeno-Friedensbewegung, die ursprünglich für diplomatische Beziehungen mit den Thargoiden eintrat, verlor nach dem Eintreffen der Maelströme viel an Schwung. Doch einige ehemalige Mitglieder machen verbündete, föderale und imperiale Führung dafür verantwortlich, den Krieg eskalieren lassen zu haben – als Motiv gelten die Profite aus Rüstungsgeschäften der Konzerne."
+  „Timothy Culver, einst Sprecher des Thargoid Advocacy Project, glaubt, dass Konflikt schon immer die Politik der Großmächte war. ‚Sie wussten, dass die Proteus Wave eine aggressive Reaktion der Thargoiden auslösen würde', behauptet er – wobei er, wie anzumerken ist, keine Beweise vorlegt. ‚Aktionäre des militärisch-industriellen Komplexes verdienen in Kriegszeiten immer ein Vermögen. Das Blut von Milliarden klebt an ihren geldgierigen Händen.'"
+  „Eine unkoordinierte Welle des Aktivismus in den Kernsystemen umfasst zivilrechtliche Klagen, Protestmärsche und gelegentliche Zusammenstöße mit Sicherheitskräften. Es gab sogar Einbruchsversuche in Verwaltungsgebäude und Wohnhäuser von Politikern, wo einige Aktivisten Beweise für eine Verschwörung vermuten."
+  „Köpfe der Xeno-Friedensbewegung wie die ICE-Casterin Joy Senne haben sich in den letzten Wochen von diesen Vorfällen und der gesamten TAP-Bewegung distanziert. Kongressabgeordneter Dalton Chase hat sich zur Tragödie der Kingfisher nicht weiter geäußert; sein Sprecher verwies auf einen ‚Fokus auf andere Projekte'. Nur Heimar Borichev von der Sovereign spricht das Thema weiter an und behauptete kürzlich: ‚Institutionelle Korruption erfordert radikale Lösungen.'"
+  „Das Allianz-Interpol und der Imperiale Inlandsnachrichtendienst behaupten, die öffentlichen Unruhen seien unter Kontrolle, während das Proactive Detection Bureau begonnen hat, Bürger der Föderation zu identifizieren, die anti-autoritäre Sympathien äußern, und sie ‚vorab zu verwarnen'. Doch solange die Opferzahlen des Thargoid-Kriegs weiter steigen, werden die Forderungen nach Verantwortung wohl nicht verstummen."
 ---
 
 

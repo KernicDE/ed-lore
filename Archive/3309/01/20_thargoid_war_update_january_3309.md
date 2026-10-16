@@ -6,7 +6,10 @@ date: '3309-01-20'
 source: API
 summary: Vox Galactica reporter Jade Sanderlyn summarizes the devastating state of
   the Second Thargoid War following the arrival of the eight Maelstroms.
+summary_de: Die Vox-Galactica-Reporterin Jade Sanderlyn fasst den verheerenden Zustand
+  des Zweiten Thargoid-Kriegs nach dem Eintreffen der acht Maelströme zusammen.
 player_impact: Not specifically mentioned — this is a battlefield report.
+player_impact_de: Nicht explizit erwähnt — dies ist ein Gefechtsbericht.
 persons:
 - Jade Sanderlyn
 - Ishmael Palin
@@ -28,6 +31,12 @@ modern_impact: '"Until such a breakthrough occurs, we are reliant upon our space
   This update crystallizes the desperation of the early Maelstrom period, highlighting
   how the loss of Aegis and Salvation left humanity dependent on independent pilots
   and scattered scientific efforts until a strategic breakthrough could be found.'
+modern_impact_de: '„Bis ein solcher Durchbruch gelingt, sind wir auf unsere kampferprobten
+  Piloten angewiesen, um den zerstörerischsten Gegner einzudämmen, dem die Menschheit je
+  gegenüberstand." Diese Zusammenfassung verdichtet die Verzweiflung der frühen Maelstrom-Zeit
+  und zeigt, wie der Verlust von Aegis und Salvation die Menschheit auf unabhängige Piloten
+  und verstreute wissenschaftliche Bemühungen zurückwarf, bis ein strategischer Durchbruch
+  gefunden werden konnte.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -37,6 +46,14 @@ related_uuids:
 - af414e75-9512-5bdb-a09c-4a4728a99030
 - cbc7e2da-9850-584f-8605-72985e7a7a9c
 - ef8aa0ef-a1a2-533c-9ce4-1f6693797d4b
+body_de: |
+  Die Vox-Galactica-Reporterin Jade Sanderlyn hat eine Zusammenfassung der aktuellen Lage im Konflikt gegen die Thargoiden veröffentlicht.
+  „Viele von uns, die diese erschreckenden Ereignisse in HIP 22460 miterlebten, hatten das Gefühl, dass es sowohl ein Ende als auch ein Anfang war – dass die Geschichte eine Seite umgeblättert hatte. Fünf Monate später ist der Zweite Thargoid-Krieg auf einen Punkt eskaliert, der das Buch möglicherweise ganz zumachen könnte."
+  „Das Eintreffen der acht Maelströme führte dazu, dass 44 bevölkerte Systeme vollständig von den Thargoiden überrannt wurden. Dutzende angrenzende Regionen wurden ebenfalls von ihren Flotten angegriffen; Sternenstationen und Siedlungen lagen in Flammen. Milliarden wurden getötet, und Milliarden weitere flohen panisch aus ihren Heimen und schufen die größte humanitäre Krise aller Zeiten."
+  „Trotz der zuvor von Aegis und Salvation geleisteten Koordination sind die Anti-Xeno-Anstrengungen enorm. Kriegsschiffe der Allianz, der Föderation und des Imperiums reagierten rasch und bildeten eine Vorhut gegen die Invasoren, und Tausende unabhängiger Piloten haben die Thargoid-Schwärme auf mehreren Schlachtfeldern heldenhaft bekämpft."
+  „Militärexperten glauben, dass die Neutralisierung der Maelströme die endlosen Wellen thargoidischer Schiffe stoppen wird. Leider verhindern ihre ätzenden Wolken und ihre abstoßenden Energiewellen, dass unsere Schiffe erkunden, was sich in ihrem Inneren befindet. Sie erzeugen außerdem dasselbe Störfeld wie in HIP 22460, das jegliche Waffen auf Guardian-Basis im System funktionsunfähig macht."
+  „Doch es gibt Hoffnung. Ein kleiner, aber stetiger Strom unklassifizierter Relikte – jener seltsamen Artefakte, die nach dem Abfeuern der Proteus Wave an thargoidischen Oberflächenstationen geborgen wurden – erreichte Professor Ishmael Palin und Ram Tah. Eine führende Theorie besagt, dass sie esoterische Eigenschaften mit mehreren der jüngsten technologischen Fortschritte der Thargoiden teilen und möglicherweise den Schlüssel zur Entwicklung von Gegenmaßnahmen bergen. Viele andere Wissenschaftler konzentrieren sich auf xenologische Forschung und bemühen sich, eine Schwachstelle zu finden oder einen Vorteil zu erlangen."
+  „Bis ein solcher Durchbruch gelingt, sind wir auf unsere kampferprobten Piloten angewiesen, um den zerstörerischsten Gegner einzudämmen, dem die Menschheit je gegenüberstand. Dies ist Jade Sanderlyn für Vox Galactica. Bleiben Sie da draußen sicher."
 ---
 
 

@@ -6,8 +6,12 @@ date: '3308-10-06'
 source: API
 summary: The Alliance has deployed a reactionary task force to defend the Andecavi
   system from the Thargoids.
+summary_de: Die Allianz hat eine Eingreiftruppe entsandt, um das Andecavi-System
+  gegen die Thargoids zu verteidigen.
 player_impact: Independent pilots were called upon to destroy Thargoid vessels and
   claim combat bonds.
+player_impact_de: Unabhängige Piloten wurden aufgerufen, Thargoid-Schiffe zu zerstören
+  und Kampfprämien einzufordern.
 persons:
 - Nikolas Glass
 groups:
@@ -25,6 +29,9 @@ arc_id: thargoid-titan-war
 modern_impact: '"The Thargoids have encroached upon Allied territory, providing an
   opportunity for Operation Tyndareus to put this new..." This perspective highlights
   the broader stakes and continues to shape contemporary debates.'
+modern_impact_de: „Die Thargoids sind in alliiertes Territorium vorgedrungen — eine
+  Gelegenheit für die Operation Tyndareus, diese neu geschaffene ..." Diese Perspektive
+  verdeutlicht die größeren Zusammenhänge und prägt die aktuellen Debatten bis heute.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -33,6 +40,14 @@ related_uuids:
 - 6c3c6815-8e50-5e81-86ac-0bc5df0a8359
 - 5fe4f82e-6d86-54ad-8e32-86f5d121a22b
 - 44b31919-ccfc-5eaa-afb1-81683c6c10d2
+body_de: |
+  **ALERT der Pilotenföderation**
+  Die Allianz hat eine Reaktionsstreitmacht entsandt, um das Andecavi-System gegen die Thargoids zu verteidigen.
+  Eine Anti-Xeno-Taskforce mit dem Namen Operation Tyndareus wurde kürzlich von den Allianz-Verteidigungsstreitkräften in Zusammenarbeit mit der Sirius Corporation aufgestellt. Das folgte auf die Ratifizierung des strategischen Verteidigungspakts zwischen Großmacht und Megakonzern.
+  Admiral Nikolas Glass, Vertreter der Sirius-Flotte im Admiralsrat, verkündete:
+  „Die Thargoids sind in alliiertes Territorium vorgedrungen — eine Gelegenheit für die Operation Tyndareus, diese neu verabschiedete Partnerschaft auf die Probe zu stellen. Die von Sirius Corp bereitgestellten Megaschiffe sind genau für einen solchen Fall in Gefechtsbereitschaft, und die Kumiho Sky ist direkt ins Andecavi-System gesprungen, um als mobile Einsatzbasis zu dienen. Die ADF wird unseren Gegenangriff gegen die Streitkräfte der Außerirdischen anführen."
+  „Unsere vereinten Anti-Xeno-Bemühungen stehen noch am Anfang, daher bitten wir unabhängige Piloten um zusätzliche Unterstützung. Die Sirius Corporation wird ihr vorkonfiguriertes Kühlkörper-Modul an alle vergeben, die ausreichend viele Thargoid-Schiffe zerstören."
+  Das Andecavi-System meldete Thargoid-Präsenz in den vergangenen achtundvierzig Stunden. Wie bei den jüngsten Einfällen in andere besiedelte Systeme wurden jedoch bislang keine Sternenstationen angegriffen. Die Sirius Corporation erstattet Thargoid-Kampfprämien, die in den nächsten sieben Tagen bei der Kumiho Sky abgeliefert werden.
 ---
 
 

@@ -11,6 +11,10 @@ bio: 'Anders Blaine is a Emperor in Elite Dangerous lore, active from 3301-06-20
   near the Imperial Palace after being stabbed during his wedding ceremony.; Princess
   Aisling Duval revealed that some of Chancellor Anders Blaine''s advisors had connections
   to Emperor''s Dawn, the same insurgent group linked...'
+bio_de: |
+  Kanzler Anders Blaine ist der höchstrangige Beamte der imperialen Regierung nach der Kaiserin; er leitet den Imperialen Senat und ist wichtigster Berater des Throns. Als Meister des politischen Überlebens navigierte Blaine mehrere Thronfolgekrisen, Attentate und ideologische Säuberungen, während er seine Position an der Spitze der imperialen Macht hielt. Seine Unterstützung des Anspruchs von Arissa Lavigny-Duval auf den Thron 3301 war entscheidend für ihre Wahl zur Kaiserin.
+
+  Blaines Ansehen litt 3301, als Prinzessin Aisling Duval enthüllte, dass einige seiner Berater Verbindungen zu Emperor's Dawn hatten, der Aufständischengruppe, die für Hengist Duvals Ermordung verantwortlich war. Blaine selbst war nie direkt belastet, doch der Skandal legte die gefährliche Nähe seines Umfelds zu Anti-Establishment-Extremisten offen. In den Jahrzehnten seitdem arbeitete er daran, sein Image als ruhige Hand zu festigen, die das Imperium durch die NMLA-Krise und den Thargoid-Krieg führt – ein Symbol imperialer Kontinuität in turbulenten Zeiten.
 ---
 
 

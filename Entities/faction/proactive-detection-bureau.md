@@ -17,6 +17,19 @@ bio: 'Proactive Detection Bureau is a organization active in Elite Dangerous lor
   Detection Bureau to scan civilian communications for terrorist activity following
   congres...; The Azaladshu Free faction secedes from the Federation, declaring its
   four systems independent in protest against surveillance laws.'
+bio_de: Das Proactive Detection Bureau wurde im April 3307 vom Föderalen Geheimdienst
+  auf Grundlage des Domestic Counter-Terrorism Act gegründet, den Vizepräsident Jerome
+  Archer als Reaktion auf die NMLA-Bombenanschläge ausgearbeitet hatte. Mit fortschrittlichen
+  Algorithmen scannt das PDB sämtliche zivile Kommunikation in öffentlichen und privaten
+  Netzwerken und leitet markierte Übertragungen zur Prüfung durch Ermittler an regionale
+  Zentren weiter — unter der Leitung der stellvertretenden Direktorin Bethany Blake.
+
+  Die Behörde wurde rasch zu einer der umstrittensten Institutionen der föderalen Geschichte.
+  Präsident Hudson pries sie als unverzichtbar für die Sicherheit, während Schattenpräsidentin
+  Winters und Bürgerrechtsgruppen sie als verfassungswidrig brandmarkten. Das Überwachungsprogramm
+  löste eine Abspaltungswelle aus, die mit Azaladshu Free begann und schließlich fast
+  dreißig Systeme bedrohte; es blieb ein prägendes Politikum — die designierte Präsidentin
+  Winters gelobte 3309, es nach Amtsantritt abzuschaffen.
 ---
 
 

@@ -9,6 +9,15 @@ bio: Timothy Culver is a peace activist who has criticised superpower leadership
   handling of the Thargoid conflict. He has spoken at rallies arguing that humanity's aggressive
   stance toward the Thargoids is counterproductive and that diplomatic alternatives should
   be pursued.
+bio_de: Timothy Culver ist ein prominenter Friedensaktivist, der sich zum lautstarken
+  Kritiker der Militärpolitik der Großmächte gegenüber den Thargoids entwickelt hat.
+  Anfang 3309 sprach er auf Kundgebungen, auf denen er den Anführern vorwarf, den
+  Thargoid-Krieg eskaliert zu haben; die aggressive Haltung der Menschheit sei kontraproduktiv.
+  Culver plädiert für diplomatische Alternativen zur militärischen Konfrontation und
+  stellt damit den Konsens infrage, die Thargoids seien eine existenzielle Bedrohung,
+  der nur mit Gewalt begegnet werden könne. Sein Aktivismus stößt sowohl auf Unterstützung
+  von Kriegsmüden als auch auf Kritik von denjenigen, die seine Position angesichts
+  der erwiesenen Thargoid-Feindseligkeit für naiv halten.
 ---
 
 

@@ -6,7 +6,10 @@ date: '3308-01-14'
 source: API
 summary: Sirius Corporation establishes a permanent presence in the Alioth system
   as part of its Alliance defence pact.
+summary_de: Die Sirius Corporation etabliert eine ständige Präsenz im Alioth-System
+  als Teil ihres Verteidigungspakts mit der Allianz.
 player_impact: Not specifically mentioned — this is a diplomatic report.
+player_impact_de: Nicht explizit erwähnt — dies ist ein diplomatischer Bericht.
 persons:
 - Edmund Mahon
 groups:
@@ -25,6 +28,10 @@ arc_id: thargoid-titan-war
 modern_impact: '"Prime Minister Edmund Mahon has invited Sirius Corporation to establish
   a permanent presence within the Alliance." Sirius Corporation''s foothold in Alioth
   deepens corporate influence over Alliance governance and defence policy.'
+modern_impact_de: „Premierminister Edmund Mahon hat die Sirius Corporation eingeladen,
+  eine ständige Präsenz innerhalb der Allianz aufzubauen." Der Stützpunkt der Sirius
+  Corporation in Alioth vertieft den konzernseitigen Einfluss auf Regierung und
+  Verteidigungspolitik der Allianz.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -36,6 +43,12 @@ related_uuids:
 - bdab5f72-441a-5f75-943c-e13212c176fb
 - 8d828da1-f7f7-54e3-be37-f50cc54a3c82
 - 7086c7a6-47b9-5cfa-ac9e-c7c44ed36d6a
+body_de: |
+  Premierminister Edmund Mahon hat die Sirius Corporation eingeladen, eine ständige Präsenz innerhalb der Allianz aufzubauen.
+  Die politische Korrespondentin der Alliance Tribune, Vanya Driscoll, berichtete:
+  „Die neue Rolle der Sirius Corporation als strategischer Verteidigungspartner hat sich rasch ausgeweitet: Eine Sirius-Fraktion wurde im Alioth-System etabliert, um den Megakonzern zu vertreten. Zudem sind mehrere Megaschiffe in anderen alliierten Systemen eingetroffen, um Unterstützung zu leisten."
+  „Die Allianz-Verteidigungsstreitkräfte und einige Regierungsbehörden haben nun offizielle Berater der Sirius Corporation im Personal. Premierminister Mahon kündigte an, dass diese Entwicklungen gemeinsame Operationen mit der Sirius-Flotte vereinfachen und wiederum wirksame Gegenmaßnahmen gegen Thargoid-Aggressionen ermöglichen."
+  „Doch Ratsmitglied Nakato Kaine erklärt, die Präsenz von Sirius Gov sei illegal, da sie von der Versammlung nicht ratifiziert wurde. Sie wies darauf hin, dass der Verteidigungspakt die Angelegenheit zu einer geheimen Militärsache macht und damit jede zivilrechtliche Klage gegen Mahons Entscheidung im Alleingang bewusst blockiert wird."
 ---
 
 

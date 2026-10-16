@@ -23,6 +23,30 @@ bio: Professor Ishmael Palin is a leading expert on Thargoid technology and foun
   as an engineer at Abel Laboratory in the Arque system. Palin has made crucial contributions
   to meta-alloy research, Thargoid spire site analysis, and hybrid Guardian-Thargoid
   technology.
+bio_de: Professor Ishmael Palin begann seine Karriere beim Homeland Scientific Council
+  der Föderation und leitete ab September 3301 die Erforschung der Unknown Artefacts.
+  Das Programm wurde nach einer Woche unter externem Druck abrupt beendet; daraufhin
+  gründete Palin im Oktober 3301 das unabhängige Palin Institute auf Christian Dock.
+  Anfang 3302 verlegte er seinen Sitz auf Obsidian Orbital im System Maia und rief
+  zu Lieferungen von Meta-Legierungen auf, um die technologische Seuche einzudämmen,
+  die Sternenstationen befiel.
+
+  Am 9. Februar 3302 wurde Palin auf dem Weg nach Maia B1BA von schwarz gekleideten
+  Angreifern entführt, die ihn tagelang zu seiner Forschung verhörten. Einen Monat
+  später in Fluchtkapseln der Blue Hand Gang gefunden, beschrieb er seine Entführer
+  als Verkörperung von „Kontrolle, Unterdrückung und der Abschaffung bürgerlicher
+  Freiheiten". Die Tortur veranlasste ihn, im April 3302 aus dem Palin Institute
+  zurückzutreten und die Leitung an Professor Cora Shaw zu übergeben; er betrieb jedoch
+  weiterhin unabhängige Forschung und etablierte sich als Ingenieur für Schubdüsen
+  und Frame-Shift-Antriebe.
+
+  Durch eine Thargoid-Offensive im Juli 3305 gezwungen, Maia zu evakuieren, zog Palin
+  in das Abel Laboratory im Arque-System um. Er blieb während des gesamten Konflikts
+  ein aktiver Forscher, arbeitete 3308 mit Ram Tah an hybriden Guardian-Thargoid-Artefakten
+  und kündigte im November 3309 einen Durchbruch in der Analyse der Thargoid-Spire-Standorte
+  an. Seine Arbeit floss Anfang 3310 unmittelbar in das Projekt der Guardian-Naniten-Torpedos
+  ein, wodurch er zu einem der am häufigsten konsultierten Wissenschaftler im Anti-Xeno-Einsatz
+  wurde.
 ---
 
 

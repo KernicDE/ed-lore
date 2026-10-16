@@ -11,6 +11,10 @@ bio: 'Seo Jin-ae is a Scientist in Elite Dangerous lore, active from 3308-10-04 
   at the Aegis symposium, startling the live audience.; Azimuth Biotech has publicly
   offered assistance to Subject D-2, the Project Seraph survivor who gate-crashed
   the recent Aegis symposium.'
+bio_de: |
+  Seo Jin-ae ist die einzige Überlebende von Projekt Seraph, einem geheimen Programm von Azimuth Biochemicals, das menschliche Versuchspersonen mit thargoidabgeleiteten neuronalen Schnittstellen implantierte, um Kommunikation mit dem außerirdischen Schwarmbewusstsein herzustellen. Ihr Überleben hatte einen außergewöhnlichen Preis: Die Experimente hinterließen eine permanente, ungewollte Verbindung zum thargoidischen Kollektivbewusstsein, die es ihr ermöglicht, fremde Absichten und Gefühlszustände wahrzunehmen – eine Fähigkeit, die sie gleichermaßen unverzichtbar und zutiefst verletzlich macht.
+
+  Von Aegis und später dem Far-God-Kult gerettet, ist Seo zu einer Schlüsselfigur in den Bemühungen der Menschheit geworden, das Verhalten der Thargoiden zu verstehen. Ihre öffentlichen Auftritte auf Aegis-Symposien lieferten beispiellose Einblicke in die Thargoid-Psychologie, während ihre Treffen mit Far-God-Vertretern – die sie mit müder Frustration als erwartend „göttliche Gebote" beschrieb – sowohl ihren einzigartigen Zugang als auch die Last zeigten, als Prophetin statt als Wissenschaftlerin behandelt zu werden. Die Verehrung des Kults als „die Präzeptorin" unterstreicht die verschwimmende Grenze zwischen ihrem wissenschaftlichen Nutzen und religiöser Fetischisierung.
 ---
 
 

@@ -6,7 +6,10 @@ date: '3309-02-13'
 source: API
 summary: The anti-xeno agency Aegis is officially reformed by the Alliance, Empire
   and Federation, with Professor Alba Tesreau as its head.
+summary_de: Die Anti-Xeno-Behörde Aegis wird offiziell von Allianz, Imperium und Föderation
+  reformiert; an ihrer Spitze steht Professorin Alba Tesreau.
 player_impact: Not specifically mentioned — this is an organisational report.
+player_impact_de: Nicht explizit erwähnt — dies ist ein organisatorischer Bericht.
 persons:
 - Alba Tesreau
 - Angela Corcoran
@@ -38,6 +41,11 @@ modern_impact: 'Alba Tesreau declared: "Aegis remains humanity''s best hope of e
   this calamitous war with the Thargoids." The agency''s resurrection, adopting the
   streamlined structure of the ACT, marks a crucial reversal from the Salvation-era
   unilateral approach back to collaborative superpower science and defence.'
+modern_impact_de: 'Alba Tesreau erklärte: „Aegis bleibt die beste Hoffnung der Menschheit,
+  diesen katastrophalen Krieg gegen die Thargoiden zu beenden." Die Wiederauferstehung
+  der Behörde, die den schlanken Aufbau der ACT übernimmt, markiert eine entscheidende
+  Abkehr vom einseitigen Ansatz der Salvation-Ära hin zur gemeinsamen Wissenschaft und
+  Verteidigung der Großmächte.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -47,6 +55,14 @@ related_uuids:
 - 6c462352-4a0d-5cdc-8c96-390da1eec427
 - 9baa5b63-76a6-59a5-b2f2-2b3abca36d3c
 - df6e411a-1cfc-5b1f-be65-3e9644b00824
+body_de: |
+  Die Anti-Xeno-Behörde Aegis wurde offiziell von Allianz, Imperium und Föderation reformiert.
+  Aegis wurde ursprünglich 3303 gegründet, um die Thargoid-Forschung zu zentralisieren sowie Verteidigungs- und Rettungseinsätze zu koordinieren. 3308 wurde sie aufgelöst, nachdem ihr im Gefolge der Alexandria-Katastrophe und aufgrund der Ergebnisse des Baumann-Berichts Inkompetenz vorgeworfen worden war. Die jüngste Eskalation des Thargoid-Kriegs und die Rufe nach erneuter Zusammenarbeit der Großmächte führten zu einer Umkehr dieser Entscheidung.
+  Professorin Alba Tesreau wird als Leiterin der wiederbelebten Organisation dienen. Sie gab auf einer Pressekonferenz Details bekannt:
+  „Aegis bleibt die beste Hoffnung der Menschheit, diesen katastrophalen Krieg gegen die Thargoiden zu beenden. Vorrangig gilt es, die außerirdische Spezies durch wissenschaftliche Forschung besser zu verstehen und diese Erkenntnisse zu nutzen, um unsere Verteidigungs- und Waffenfähigkeiten zu verbessern."
+  „Jede Großmacht hat eine Person benannt, die ihre Beiträge überwacht: Vizepremierministerin Angela Corcoran für die Allianz, Prinzessin Aisling Duval für das Imperium und Kongressabgeordneter Tom Gillespie für die Föderation. Außerdem haben wir zahlreiche unabhängige Spezialisten zu Partnern von Aegis eingeladen, darunter Professor Ishmael Palin, Ram Tah und ein früheres Schlüsselmitglied von Aegis, Aden Tanner."
+  „Die Kritik des Baumann-Berichts wurde aufgegriffen. Unsere neue Organisationsstruktur folgt dem schlanken Ansatz, den die Affiliated Counter-Terrorism Unit mit großem Erfolg nutzt. Zur Verbesserung der Koordination wird eine begrenzte Anwendung von Omega-Grid-Vernetzung schnelle und sichere Kommunikation zwischen Schlüsselmitgliedern ermöglichen."
+  „Das erste Forschungsprojekt von Aegis läuft bereits. Die Ingenieurin Petra Olmanova ist mit ersten Entwürfen für ein Verfahren an uns herangetreten, mit dem Schiffe länger in den ätzenden Wolken der Maelströme überleben können. Wir haben mehrere Metallurgie- und Chemieexperten damit beauftragt, dies weiterzuentwickeln."
 ---
 
 

@@ -11,6 +11,10 @@ bio: 'Tayo Maikori is a Admiral in Elite Dangerous lore, active from 3308-06-14 
   to Azimuth Biochemicals and INRA, with the Empire prioritising military u...; The
   superpowers confirm full retreat from HIP 22460 as Thargoids establish a stronghold,
   with Fleet Admiral Maikori admitting search and rescue win...'
+bio_de: |
+  Flottenadmiral Tayo Maikori ist ein hochrangiger Kommandant der Föderalen Flotte und diente während des Thargoid-Kriegs als wichtiger Verbindungsoffizier für Anti-Xeno-Militäroperationen. Im Januar 3309 kündigte Admiral Aden Tanner – nach seinem Rücktritt aus der Föderalen Flotte, wenige Wochen nachdem eine Präsidentenbegnadigung sein Kriegsgerichtsurteil aufgehoben hatte – an, als unabhängiger Militärspezialist weiter Anti-Xeno-Strategien zu entwickeln und direkt mit Flottenadmiral Maikori zusammenzuarbeiten, um zum Kriegseinsatz der Flotte beizutragen.
+
+  Tanners Entscheidung, mit Maikori zu kooperieren, während er außerhalb der formalen Befehlskette operierte, unterstrich die Flexibilität der Föderalen Flotte, erfahrene Kommandanten in der Krise zu nutzen – auch wenn Tanner „bürokratische Einschränkungen" als Grund für seinen Abschied nannte. Maikoris Rolle als primärer Ansprechpartner für Tanners unabhängige Operationen zeigte, dass die Flotte anerkannte, dass traditionelle Militärstrukturen an die beispiellose Bedrohung durch die Thargoid-Invasion angepasst werden mussten, und dabei auf Expertise setzte, unabhängig von formalem Rang oder Position.
 ---
 
 

@@ -7,7 +7,11 @@ source: API
 summary: The Alliance-Sirius strategic defence pact is fully ratified, with Admiral
   Nikolas Glass announcing Operation Tyndareus, a new anti-xeno taskforce named after
   the megaship lost in HIP 22460.
+summary_de: Der strategische Verteidigungspakt zwischen Allianz und Sirius Corporation
+  ist vollständig ratifiziert; Admiral Nikolas Glass kündigt die Operation Tyndareus
+  an — eine neue Anti-Xeno-Taskforce, benannt nach dem in HIP 22460 verlorenen Megaschiff.
 player_impact: Not specifically mentioned — this is a policy announcement.
+player_impact_de: Nicht explizit erwähnt — dies ist eine politische Ankündigung.
 persons:
 - Nikolas Glass
 - Hildegard Dressler
@@ -31,6 +35,9 @@ arc_id: thargoid-titan-war
 modern_impact: Operation Tyndareus represents the first concrete military output of
   the controversial Alliance-Sirius pact, though critics question whether Sirius will
   deliver meaningful combat capability.
+modern_impact_de: Die Operation Tyndareus ist die erste konkrete militärische Frucht
+  des umstrittenen Pakts zwischen Allianz und Sirius Corporation — Kritiker fragen
+  sich jedoch, ob Sirius tatsächlich nennenswerte Kampfkraft liefern wird.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -41,6 +48,15 @@ related_uuids:
 - bb0a8874-54a5-529d-91a6-691c8859ac57
 - 1678fa94-d3b9-5a9e-b13e-15335a42269e
 technologies: []
+body_de: |
+  Der Anti-Xeno-Verteidigungspakt zwischen der Allianz und der Sirius Corporation wurde vollständig als rechtlich bindender Vertrag ratifiziert.
+  Die Versammlung stimmte Ende Juni nach monatelanger Debatte für das Abkommen. Die Entscheidung wurde vom Ausgang zweier konkurrierender Initiativen zur Beschaffung von Ressourcenpaketen für die Allianz-Verteidigungsstreitkräfte (ADF) beeinflusst.
+  Admiral Nikolas Glass, Vertreter der Sirius-Flotte im Admiralsrat, gab folgende Erklärung ab:
+  „Nachdem die rechtlichen Fragen geklärt sind, wird es höchste Zeit für eine Demonstration des Potenzials des Verteidigungspakts. Ich freue mich sehr, bekannt zu geben, dass eine neue Anti-Xeno-Taskforce unter dem Namen Operation Tyndareus aufgestellt wird — zu Ehren des in HIP 22460 verlorenen Megaschiffs."
+  „Eine taktische Kombination aus ADF-Schiffen und den Ressourcen der Sirius Corporation wird bei nächster Gelegenheit einen vernichtenden Gegenschlag führen. Das wird zeigen, dass unsere vereinten Streitkräfte Thargoid-Angreifer zurückschlagen und den Allianz-Raum verteidigen können."
+  Kurz vor dieser Ankündigung kommentierte ein Leitartikel der Old Worlds Gazette: „Bislang hat Sirius in diesem Krieg keinen einzigen Schuss abgefeuert. Wollen sie uns retten, indem sie den Thargoids Sonderrabatte anbieten?" Andere Kritiker stimmten überein, der Verteidigungspakt sehe zunehmend nach einer bürokratischen Übung aus und weniger nach einer Militärstrategie.
+  Ratsmitglied Hildegard Dressler, Vertreterin des Leesti-Systems, sagte gegenüber der Alliance Tribune:
+  „Ich weiß, dass der Premierminister die Frustration der Öffentlichkeit über die langsamen bürokratischen Genehmigungsprozesse teilt. Er hat die Sirius Corporation aufgefordert, ihre Pläne umgehend zu beschleunigen — und die Operation Tyndareus wird das Ergebnis sein."
 ---
 
 

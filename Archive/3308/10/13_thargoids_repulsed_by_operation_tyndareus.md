@@ -6,8 +6,12 @@ date: '3308-10-13'
 source: API
 summary: Allied forces have successfully defended the Andecavi system from Thargoid
   vessels.
+summary_de: Alliierte Streitkräfte haben das Andecavi-System erfolgreich gegen
+  Thargoid-Schiffe verteidigt.
 player_impact: Independent pilots were called upon to destroy Thargoid vessels and
   claim combat bonds.
+player_impact_de: Unabhängige Piloten wurden aufgerufen, Thargoid-Schiffe zu zerstören
+  und Kampfprämien einzufordern.
 persons:
 - Edmund Mahon
 - Nakato Kaine
@@ -26,6 +30,10 @@ arc_id: thargoid-titan-war
 modern_impact: '"Operation Tyndareus is officially a triumph! Alliance Defence Force
   and Sirius Navy crews have fought side by side to..." This perspective highlights
   the broader stakes and continues to shape contemporary debates.'
+modern_impact_de: „Die Operation Tyndareus ist offiziell ein Triumph! Besatzungen
+  der Allianz-Verteidigungsstreitkräfte und der Sirius-Flotte haben Seite an Seite
+  gekämpft, um ..." Diese Perspektive verdeutlicht die größeren Zusammenhänge und
+  prägt die aktuellen Debatten bis heute.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -35,6 +43,15 @@ related_uuids:
 - 5fe4f82e-6d86-54ad-8e32-86f5d121a22b
 - 44b31919-ccfc-5eaa-afb1-81683c6c10d2
 - d9d11a81-06c0-59f1-af71-a3c4c5194f5c
+body_de: |
+  **ALERT der Pilotenföderation**
+  Alliierte Streitkräfte haben das Andecavi-System erfolgreich gegen Thargoid-Schiffe verteidigt.
+  Die Verteidigungsoperation drehte sich um das Megaschiff Kumiho Sky, das die gemeinsame Anti-Xeno-Taskforce von Allianz und Sirius Corporation beherbergte. Den Sieg erklärte Admiral Nikolas Glass:
+  „Die Operation Tyndareus ist offiziell ein Triumph! Besatzungen der Allianz-Verteidigungsstreitkräfte und der Sirius-Flotte haben Seite an Seite gekämpft, um die Menschen in Andecavi vor den Thargoids zu schützen. Nach mehreren Tagen harter Gefechte zogen sich die Außerirdischen massenhaft aus dem System zurück."
+  „Die Taskforce wurde von zahlreichen freien Piloten und AX-Staffeln wirkungsvoll unterstützt, die ihre Belohnungen nun an der Kumiho Sky abholen können. Dazu gehören einzigartige, vorkonfigurierte Kühlkörper-Module für qualifizierte Xeno-Jäger. Zudem werden die Module in Kürze über offizielle Technologiebroker der Sirius Corporation käuflich erhältlich sein."
+  Premierminister Edmund Mahon dankte allen Beteiligten und merkte an, dass die langen Verzögerungen bei der Umsetzung des strategischen Verteidigungspakts „sich letztlich doch gelohnt haben".
+  Ratsmitglied Nakato Kaine wies darauf hin, dass Zeugenberichten zufolge viele Thargoid-Schiffe in den Hyperraum sprangen, bevor menschliche Streitkräfte sie überwältigen konnten. Sie fügte hinzu:
+  „Wäre das Ergebnis in Andecavi ohne die Beteiligung der Sirius Corporation anders ausgefallen? Wir haben gesehen, dass die Thargoids sich zurückziehen, während mehrere Konflikte noch völlig offen waren — genau wie zuletzt in mehreren anderen Systemen. Hat dieser Militärpakt irgendetwas geliefert, was die ADF nicht auch allein erreicht hätte?"
 ---
 
 

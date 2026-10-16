@@ -6,8 +6,12 @@ date: '3308-05-05'
 source: API
 summary: Professor Ishmael Palin requests meta-alloy samples for a xenological study
   of Thargoid technology.
+summary_de: Professor Ishmael Palin bittet um Proben von Meta-Legierungen für eine
+  xenologische Studie der Thargoid-Technologie.
 player_impact: Pilots were asked to collect meta-alloys from Thargoid barnacles and
   deliver them to James Sneddon in Morten-Marte.
+player_impact_de: Piloten wurden gebeten, Meta-Legierungen von Thargoid-Barnacles
+  zu sammeln und sie nach James Sneddon in Morten-Marte zu liefern.
 persons:
 - Ishmael Palin
 groups: []
@@ -23,6 +27,11 @@ modern_impact: '"With escalating Thargoid activity in the core systems, it is in
   initiative represented one of the last credible scientific efforts to understand
   Thargoid biology outside of Azimuth''s weaponisation-focused agenda, though it remained
   heavily dependent on pilot contributions.'
+modern_impact_de: „Mit den eskalierenden Thargoid-Aktivitäten in den Kernsystemen
+  ist es immer wichtiger, dass wir so viel wie möglich über diese Spezies lernen."
+  Palins Forschungsinitiative war eine der letzten glaubwürdigen wissenschaftlichen
+  Anstrengungen, die Thargoid-Biologie außerhalb der waffenorientierten Agenda von
+  Azimuth zu verstehen, blieb jedoch stark von den Beiträgen der Piloten abhängig.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -30,6 +39,15 @@ related_uuids:
 - faf4aecd-7600-5383-85d0-03fae5460273
 - fba3c0e5-795f-56f8-bad3-8e119c36de4a
 - 2a405898-44a3-5d69-a93e-af922725bf23
+body_de: |
+  **ALERT der Pilotenföderation**
+  Kommandanten wurden gebeten, Meta-Legierungen von Thargoid-Barnacles zu sammeln — Teil einer umfassenderen xenologischen Studie.
+  Das Forschungsprojekt wird von Professor Ishmael Palin geleitet, einem der bedeutendsten Experten für Thargoid-Technologie:
+  „Mit den eskalierenden Thargoid-Aktivitäten in den Kernsystemen ist es immer wichtiger, dass wir so viel wie möglich über diese Spezies lernen. Nur durch wissenschaftliche Untersuchungen können wir ihre biomechanische Natur besser begreifen und unsere Verteidigung gegen sie — soweit möglich — verbessern."
+  „Die erste Phase erfordert frische Proben von Meta-Legierungen, dem einzigartigen Material, aus dem Thargoid-Schiffe gebaut sind. Diese können aus Barnacles gewonnen werden, die die Thargoids auf ausgewählten Planeten angelegt haben."
+  Piloten können Meta-Legierungen zur Sternenstation James Sneddon im System Morten-Marte liefern. Im Rahmen der Unterstützung der Federal Reclamation Co für diese Initiative bietet der Markt der Station zudem einen erhöhten Preis für Thargoid-Gewebeproben.
+  Zusätzlich zu Credit-Zahlungen für alle Lieferanten von Meta-Legierungen erhalten ausgewählte Mitwirkende korrosionsbeständige Frachtregale der Klassen 4A, 5A und 6A. Die Versionen 5A und 6A wurden exklusiv für dieses Projekt gefertigt und sind derzeit nicht im Handel erhältlich.
+  Professor Palin erklärte, der Besitz dieser Frachtregale sei für die geplante zweite Phase des Projekts von großem Nutzen, die in den nächsten Wochen ansteht.
 ---
 
 

@@ -6,7 +6,10 @@ date: '3309-01-27'
 source: API
 summary: Archon Delaine mobilizes the Kumo Crew to defend the California Nebula from
   Thargoid invasions, drawing skepticism from the Turner Research Group.
+summary_de: Archon Delaine mobilisiert die Kumo Crew zur Verteidigung des California-Nebels
+  gegen Thargoid-Invasionen und stößt dabei beim Turner Research Group auf Skepsis.
 player_impact: Not specifically mentioned — this is a territorial defense report.
+player_impact_de: Nicht explizit erwähnt — dies ist ein Bericht über territoriale Verteidigung.
 persons:
 - Archon Delaine
 - Harrison Gladstone
@@ -30,6 +33,12 @@ modern_impact: '"Already the war has reached the California Nebula. But are any 
   expendable." Delaine''s rhetorical positioning of pirates as protectors of neglected
   colonies challenged the narrative that only superpowers could organize effective
   anti-xeno resistance, foreshadowing broader non-state actor involvement in the war.'
+modern_impact_de: '„Der Krieg hat bereits den California-Nebel erreicht. Doch eilen
+  irgendwelche Flotten der Großmächte zu seiner Verteidigung? Natürlich nicht – die
+  Allianz hält diese Kolonie für verzichtbar." Delaines rhetorische Inszenierung von
+  Piraten als Beschützer vernachlässigter Kolonien stellte die Erzählung infrage, dass
+  nur Großmächte effektiven Anti-Xeno-Widerstand organisieren könnten, und kündigte ein
+  breiteres Engagement nichtstaatlicher Akteure im Krieg an.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -39,6 +48,15 @@ related_uuids:
 - b639bbd6-4ffb-5d89-a8f6-8ac3f81ab73c
 - bf2d3dff-0f0e-52cb-b06d-f6704f6b7781
 - 6ff3de2d-b9ea-5bba-8292-3fb89b446bff
+body_de: |
+  **ALERT der Pilotenföderation**
+  Das Syndikat Kumo Crew hat sich im California-Nebel versammelt, um die Thargoid-Invasionskräfte der Region zurückzuschlagen.
+  In den letzten Wochen schwärmten Thargoid-Flotten durch mehrere örtliche Systeme. Der Kumo-Rat, die Autorität der berüchtigten Organisation in der Enklave, rief umgehend Verstärkungen in drei von ihm kontrollierten Systemen zusammen. Örtliche Sicherheitskräfte organisieren nun Gegenangriffe auf Thargoid-Schiffe.
+  Archon Delaine, Warlord der Kumo Crew, verkündete:
+  „Der Krieg hat bereits den California-Nebel erreicht. Doch eilen irgendwelche Flotten der Großmächte zu seiner Verteidigung? Natürlich nicht – die Allianz hält diese Kolonie für verzichtbar. Es liegt an uns, die Bürger des Nebels zu schützen, und wir werden alles tun, was nötig ist, um zu siegen."
+  Der Nachrichtenkanal Pegasi Sentinel veröffentlichte die Bitte, die Aktivitäten der Kumo Crew nicht zu behindern, und stellte die Flottenmobilmachung als ‚eine vorübergehende Maßnahme zur koordinierten Verteidigung gegen die Thargoiden' dar. Man geht davon aus, dass das Megaschiff der Kumo Crew, die Mictlan, sich zur Unterstützung dieser Bemühungen bereitmacht.
+  Diese Botschaft wurde vom Turner Research Group zurückgewiesen, das mehrere der überfallenen Systeme kontrolliert. Die wissenschaftliche Organisation wurde 3302 von der Allianz gegründet, um die in der Region entdeckten Barnakel zu erforschen. Harrison Gladstone, Sprecher der Gruppe, erklärte: „Delaine nutzt die Thargoid-Angriffe offensichtlich als Vorwand für einen Machtgriff. Es besteht keine Chance, dass diese Piraten unsere Systeme aus der Güte ihrer schwarzen Herzen verteidigen. Wir werden schon bald wissen, was Delaines wirklicher Plan ist."
+  Der California-Nebel war bereits mehreren Thargoid-Angriffen ausgesetzt, zuletzt im vergangenen Oktober, doch dies ist der erste deutliche Anstieg der Feindseligkeiten seit dem Eintreffen der Maelströme.
 ---
 
 

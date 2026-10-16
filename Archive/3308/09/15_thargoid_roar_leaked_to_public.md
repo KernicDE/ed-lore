@@ -7,8 +7,13 @@ source: API
 summary: Classified footage from the Battle of HIP 22460 is leaked to newsfeeds, revealing
   the so-called 'Thargoid roar' and fuelling public anxiety as intelligence agencies
   investigate the source.
+summary_de: Geheimes Bild- und Tonmaterial aus der Schlacht von HIP 22460 gelangt
+  an Newsfeeds, offenbart das sogenannte ‚Thargoid-Brüllen' und schürt öffentliche
+  Verunsicherung, während Nachrichtendienste nach der Quelle ermitteln.
 player_impact: Pilots were called to continue anti-Thargoid operations in the 42 n
   Persei, Chun Pindit and Tekkeitjal systems.
+player_impact_de: Piloten wurden aufgerufen, die Anti-Thargoid-Operationen in den
+  Systemen 42 n Persei, Chun Pindit und Tekkeitjal fortzusetzen.
 persons:
 - Flint Lafosse
 - Jade Sanderlyn
@@ -39,6 +44,9 @@ arc_id: thargoid-titan-war
 modern_impact: The leak exposes military secrecy around HIP 22460 and brings the eerie
   'Thargoid roar' to public attention, intensifying fear and speculation about the
   aliens' true capabilities.
+modern_impact_de: Das Leck deckt militärische Geheimhaltung rund um HIP 22460 auf
+  und bringt das unheimliche ‚Thargoid-Brüllen' an die Öffentlichkeit; Angst und Spekulationen
+  über die wahren Fähigkeiten der Außerirdischen nehmen zu.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -47,6 +55,14 @@ related_uuids:
 - 38fb5be2-6a83-50df-95d5-b61bec0d0b64
 - 964ef3eb-9cc2-5f09-8038-9afcaeca1c08
 technologies: []
+body_de: |
+  Geheimes Bild- und Tonmaterial aus der Schlacht von HIP 22460 wurde anonym an mehrere große Newsfeeds übermittelt.
+  Die Alliance Tribune, die Federal Times, der Imperial Herald, der Sovereign und Vox Galactica erhielten Datenspeicher, die aus verschiedenen Trümmern im System HIP 22460 geborgen wurden. Die meisten stammten von Kriegsschiffen, einige wenige aus den Schiffslogs unabhängiger Schiffe.
+  Von Großmächten gestützte Newsfeeds verzichteten unter Berufung auf Sicherheitsrichtlinien darauf, Informationen über das eigene Militär zu veröffentlichen. Doch genug Material ist in die Öffentlichkeit gelangt, um den Ablauf der Ereignisse des 9. Augusts zu rekonstruieren: die Aktivierung der Proteus-Welle, den Thargoid-Gegenangriff und die anschließende Vernichtung riesiger Schiffskontingente.
+  Die Dateien enthalten Audioaufnahmen einer Sendung unbekannten Ursprungs, die im gesamten System HIP 22460 zu hören war. Sie entsprechen bislang unbestätigten Beschreibungen eines sogenannten ‚Thargoid-Brüllens', über das der unabhängige Journalist Flint Lafosse und die Vox-Galactica-Reporterin Jade Sanderlyn bereits diskutiert hatten.
+  Für diesen unheimlichen Laut wurden mehrere Deutungen angeboten. Professor Shamus Madigan hielt ihn für „elektromagnetische Reststrahlung des Energieimpulses der Thargoids auf HIP 22460 10b". Dr. Jeong-Hui Shin vermutete „eine Welle fieberhafter Kommunikation mit — oder von — einem entfernten Ort". Der Erste Apostel der True Chapters wiederum erklärte: „Die Stimme des Far God ruft die Gläubigen. Die Manifestation hat begonnen."
+  Zusammen mit der Thargoid-Expansion aus HIP 22460 und der jüngsten Invasion dreier bewohnter Systeme hat diese neue Enthüllung die öffentliche Angst vor der Thargoid-Bedrohung geschürt. Mitglieder der Allianz-Versammlung, des Föderalen Kongresses und des Imperialen Senats versicherten ihren Bürgern, dass kein Grund zur Panik bestehe. Nachrichtendienste haben nach Angaben von Beobachtern Ermittlungen zur Quelle des Lecks eingeleitet; das Material soll von Militärbehörden als geheim eingestuft worden sein.
+  Die Anti-Thargoid-Operationen in den Systemen 42 n Persei, Chun Pindit und Tekkeitjal dauern an. Die Föderation hat mehrere Schlachtkreuzer der Farragut-Klasse zur Verfügung gestellt, um die Thargoid-Streitkräfte zurückzuschlagen. Die örtlichen Fraktionen, die die Verteidigung koordinieren, haben unabhängige Piloten aufgerufen, sich dem Kampf anzuschließen.
 ---
 
 

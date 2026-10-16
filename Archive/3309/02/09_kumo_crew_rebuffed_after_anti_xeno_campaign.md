@@ -7,8 +7,13 @@ source: API
 summary: The Kumo Crew's defence of the California Nebula succeeds, but its attempt
   to seize control of local ports is repelled by communities and the Turner Research
   Group.
+summary_de: Die Verteidigung des California-Nebels durch die Kumo Crew gelingt, doch der
+  Versuch, die Kontrolle über örtliche Häfen zu übernehmen, wird von der Bevölkerung und
+  dem Turner Research Group zurückgeschlagen.
 player_impact: Pilots who contributed to the anti-xeno initiatives were reimbursed
   Thargoid combat bonds at The Mictlan in California Sector HR-W d1-28.
+player_impact_de: Piloten, die sich an den Anti-Xeno-Initiativen beteiligt hatten, erhielten
+  Thargoid-Kampfbons bei The Mictlan in California Sector HR-W d1-28 erstattet.
 persons:
 - Archon Delaine
 groups:
@@ -32,6 +37,11 @@ modern_impact: 'The Pegasi Sentinel reported: "There can be no doubt that Archon
   takes the security of the California Nebula seriously." This encapsulates the paradox
   of pirate syndicates providing genuine defence while exploiting the crisis to expand
   criminal territory, a tension that local populations ultimately rejected.'
+modern_impact_de: 'Der Pegasi Sentinel berichtete: „Es kann keinen Zweifel daran geben,
+  dass Archon Delaine die Sicherheit des California-Nebels ernst nimmt." Dies fasst das
+  Paradox zusammen, dass Piratensyndikate zwar echte Verteidigung leisteten, gleichzeitig
+  aber die Krise zur Erweiterung kriminellen Territoriums ausnutzten – eine Spannung,
+  die die örtliche Bevölkerung letztlich ablehnte.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -39,6 +49,16 @@ related_uuids:
 - d5e37c1b-cb44-581f-b22b-f30602b799f8
 - df6e411a-1cfc-5b1f-be65-3e9644b00824
 - 6ff3de2d-b9ea-5bba-8292-3fb89b446bff
+body_de: |
+  **ALERT der Pilotenföderation**
+  Eine erfolgreiche Initiative, den California-Nebel gegen die Thargoid-Invasion zu halten, ist – zumindest vorerst – geglückt.
+  Systeme, die kürzlich von Thargoid-Flotten überfallen wurden, wurden von einer Miliz geschützt, die der Kumo-Rat, die führende Autorität des kriminellen Syndikats in der Enklave, organisiert hatte. Doch der Versuch, die Kontrolle über die Häfen der Region zu übernehmen, wurde von Delaines Gegnern überraschend zurückgeschlagen.
+  Der Pegasi Sentinel berichtete über die Lage:
+  „Es kann keinen Zweifel daran geben, dass Archon Delaine die Sicherheit des California-Nebels ernst nimmt. Dank seiner entschlossenen Maßnahmen wurden viele Leben gerettet. Eine Anti-Xeno-Miliz der Kumo Crew wird bereits für künftige Thargoid-Angriffe erwogen."
+  „Die örtliche Bevölkerung bleibt jedoch wegen Delaines Ruf vorsichtig. In örtlichen Häfen eingesetzte Sicherheitskräfte wurden vertrieben; die Gemeinden ließen sich offenbar von den Behauptungen ‚Notfall-Sicherheitsmaßnahmen' nicht überzeugen. Das Turner Research Group hat an Orten, die der Kumo-Rat zu übernehmen versucht hatte, die Kontrolle wiederhergestellt."
+  Ein verwandter Artikel wurde außerdem von der Alliance Tribune veröffentlicht:
+  „Die Versammlung erhielt eine dringende Bitte um Unterstützung vom Turner Research Group. Die Organisation behauptet, die Kampagne der Kumo Crew sei ein Vorwand gewesen, um die Operationen der Allianz im California-Nebel zu beschneiden. Ratsmitglieder haben einen Antrag eingebracht, eine förmliche Untersuchung der Lage einzuleiten."
+  Das Megaschiff Mictlan, derzeit in California Sector HR-W d1-28, erstattet allen Piloten, die sich an den Initiativen beteiligt haben, Thargoid-Kampfbons.
 ---
 
 

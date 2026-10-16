@@ -11,6 +11,10 @@ bio: 'Cassia Carvalho is a Emperor in Elite Dangerous lore, active from 3304-07-
   Senate floor before Emperor Arissa, followed by the Imperial Guard gunning down
   senato...; Security forces carry out a coordinated Empire-wide purge of Nova Imperium,
   executing members and arresting supporters for treason, though the orga...'
+bio_de: |
+  Cassia Carvalho ist leitende Politikkorrespondentin des Imperial Herald, einem der einflussreichsten Nachrichtenorgane des Imperiums. Ihre Berichterstattung umfasste die folgenreichsten Ereignisse der jüngsten imperialen Geschichte, darunter die Nova-Imperium-Krise, die Hinrichtung von Imperator Kaeso Mordanticus auf dem Senatsboden und die anschließende imperiumweite Säuberung der Isolationisten. Ihr Augenzeugenbericht über Mordanticus' Tod – sie beschrieb Senator Denton Patreus, der vor der Kaiserin seine persönliche Seitenwaffe zog – bleibt die maßgebliche Aufzeichnung dieses Wendepunkts.
+
+  Carvalhos Journalismus verkörpert die Rolle des Imperial Herald als Chronist und Gestalter imperialer politischer Narrative. Ihr Zugang zum Senatsboden und ihre Nähe zur Macht bieten Einblicke, die unabhängigen Journalisten verwehrt bleiben, doch Kritiker fragen, ob dieser Zugang auf Kosten der redaktionellen Unabhängigkeit geht. Ihre anhaltende Berichterstattung über die imperiale Politik durch die NMLA-Krise und den Thargoid-Krieg hat sie als eine der maßgeblichen Stimmen aus den obersten Machtkorridoren des Imperiums etabliert.
 ---
 
 

@@ -11,6 +11,22 @@ bio: 'Flint Lafosse is a Journalist in Elite Dangerous lore, active from 3304-06
   Liberty to form Unchain, Lori Jameson''s denunciation of the Le...; Independent
   journalist Flint ''Firemaker'' Lafosse publishes classified ACT information allegedly
   from Neo-Marlinist survivors claiming that Hadrian ...'
+bio_de: Flint „Firemaker" Lafosse ist ein unabhängiger Journalist, der über den Newsfeed
+  Rewired publiziert und für seine unkonventionellen Recherchemethoden sowie seine
+  Bereitschaft bekannt ist, Theorien zu verfolgen, die offizielle Stellen abtun. Im
+  Juni 3304 veröffentlichte er einen bahnbrechenden Bericht, der nahelegte, dass die
+  League of Reparation jahrelang aktiv gewesen war, bevor sie öffentlich die Verantwortung
+  für ihre Anschläge beanspruchte; er verknüpfte unaufgeklärte Tötungsdelikte und
+  mysteriöse Schiffswracks mit Opfern, die Verbindungen zu INRA hatten.
+
+  Lafosses Theorie wurde von Kay Kilbride, Chefinspektorin von Alliance Interpol,
+  zunächst als unbegründete Vermutung abgetan, doch seine Recherchen identifizierten
+  vier bestätigte INRA-nahe Opfer, die ein bis fünf Jahre vor dem Auftauchen der League
+  durch Nervengifte getötet worden waren. Seine Arbeit warf beunruhigende Fragen auf —
+  wie lange hatte die Terrororganisation im Geheimen operiert, und waren Dutzende oder
+  Hunderte Todesfälle nicht als politisch motivierte Morde erkannt worden? Lafosse
+  bleibt eine umstrittene Figur der galaktischen Berichterstattung — bei Verschwörungsforschern
+  geachtet, von etablierten Medien gleichermaßen kritisiert.
 ---
 
 

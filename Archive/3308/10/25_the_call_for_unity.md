@@ -6,8 +6,12 @@ date: '3308-10-25'
 source: API
 summary: Newsfeeds across the core systems have reflected the increasing public demand
   for full-scale military cooperation against the Thargoids.
+summary_de: Newsfeeds in den Kernsystemen spiegeln die wachsende öffentliche Forderung
+  nach vollumfänglicher militärischer Zusammenarbeit gegen die Thargoids wider.
 player_impact: This article focuses on political and strategic developments without
   direct pilot involvement.
+player_impact_de: Dieser Artikel behandelt politische und strategische Entwicklungen
+  ohne direkte Beteiligung von Piloten.
 persons:
 - Angela Corcoran
 - General Falkenrath
@@ -29,6 +33,9 @@ arc_id: thargoid-titan-war
 modern_impact: '"Removing the Far God cult from Federal space was a way of distracting
   the people from President Hudson’s failures. Th..." This perspective highlights
   the broader stakes and continues to shape contemporary debates.'
+modern_impact_de: „Die Vertreibung des Far-God-Kults aus dem Föderalen Raum sollte
+  das Volk von den Fehlern von Präsident Hudson ablenken. Th ..." Diese Perspektive
+  verdeutlicht die größeren Zusammenhänge und prägt die aktuellen Debatten bis heute.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -37,6 +44,15 @@ related_uuids:
 - f052748e-b6ee-52c8-9657-75e06d0e3612
 - 6c3c6815-8e50-5e81-86ac-0bc5df0a8359
 - 5fe4f82e-6d86-54ad-8e32-86f5d121a22b
+body_de: |
+  Newsfeeds in den Kernsystemen spiegeln die wachsende öffentliche Forderung nach vollumfänglicher militärischer Zusammenarbeit gegen die Thargoids wider.
+  Federal Free Press: „Die Vertreibung des Far-God-Kults aus dem Föderalen Raum sollte das Volk von den Fehlern von Präsident Hudson ablenken. Die wahre Bedrohung bleiben die Thargoids selbst, und ohne die Hilfe von Allianz und Imperium besteht nur geringe Aussicht, ihnen standzuhalten."
+  Citizens' Chronicle: „Mit größtem Respekt vor Ihrer Majestät — das Imperium kann nicht so tun, als hätte es keine Rolle bei der Katastrophe von HIP 22460 gespielt. Sind wir nicht stark genug, um einen Teil der Last bei der Besiegung dieses gemeinsamen Feindes zu tragen?"
+  Old Worlds Gazette: „Nach dem Aegis-Symposium unterstützte Vizepremierministerin Angela Corcoran die Wiedereinsetzung der trinationalen Behörde mit den Worten: ‚Das Ausmaß des Konflikts verdient eine stärkere Antwort, als unser Pakt mit der Sirius Corporation sie leisten kann.'"
+  The Marlin Standard: „Die Nähe der Thargoids zu unserer demokratischen Republik war schon immer ein großes Anliegen. Das Parlament hat zugestimmt, dass jede kooperative Anti-Xeno-Initiative von großem Interesse wäre."
+  Sol Today: „Wir alle wissen, dass man den Impies und Allis nicht vertrauen kann. Aber immerhin sind sie keine bösartigen, völkermörderischen Monstrositäten. Und wie General Falkenrath berühmt sagte: ‚Der Feind meines Feindes ist meine entbehrliche Infanterie.'"
+  The Sovereign: „Die Xeno-Friedensbewegung, wie sie unser eigener Heimar Borichev vertritt, ist lobenswert. Doch viele unabhängige Systeme fordern eine weniger diplomatische Strategie."
+  Vox Galactica: „Die Forderungen nach einer Lösung für das Thargoid-Problem werden lauter. Inoffiziellen Berichten zufolge haben einige niederrangige zivile und militärische Führungskräfte begonnen, über politische Gräben hinweg miteinander zu sprechen — trotz fehlender Richtlinien von oben. Der Appetit auf Solidarität wächst offensichtlich, ob durch Aegis oder auf andere Weise."
 ---
 
 

@@ -6,7 +6,10 @@ date: '3309-01-03'
 source: API
 summary: Azimuth Biotech CEO Torben Rademaker announces plans to develop anti-xeno
   weapon improvements while disavowing Salvation's superweapon research.
+summary_de: Torben Rademaker, CEO von Azimuth Biotech, kündigt Pläne zur Weiterentwicklung
+  von Anti-Xeno-Waffen an und distanziert sich von Salvations Superwaffenforschung.
 player_impact: Not specifically mentioned — this is a corporate announcement report.
+player_impact_de: Nicht explizit erwähnt — dies ist ein Bericht über eine Unternehmensankündigung.
 persons:
 - Torben Rademaker
 groups:
@@ -28,6 +31,11 @@ modern_impact: '"Under my guidance, the corporation has moved away from Salvatio
   strategic pivot highlights Azimuth''s attempt to rehabilitate its public image while
   continuing to profit from the Thargoid war, a tension that would define the corporation
   throughout 3309.'
+modern_impact_de: '„Unter meiner Führung hat sich das Unternehmen von Salvations esoterischem
+  Forschungsfeld abgewandt und eine konventionellere Richtung eingeschlagen." Rademakers
+  strategische Neuausrichtung zeigt Azimuths Versuch, das öffentliche Bild zu rehabilitieren
+  und gleichzeitig vom Thargoid-Krieg zu profitieren – eine Spannung, die das Unternehmen
+  im gesamten Jahr 3309 prägen sollte.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -37,6 +45,16 @@ related_uuids:
 - 8b0086f9-372c-5557-906d-f1d12dcbc7de
 - af414e75-9512-5bdb-a09c-4a4728a99030
 - c8748b5c-ead9-5303-92b2-5cb20d64e511
+body_de: |
+  Das Unternehmen Azimuth Biotech hat seine Pläne skizziert, die Kriegsanstrengungen gegen die Thargoiden durch die Verbesserung der Anti-Xeno-Feuerkraft von Schiffen zu unterstützen.
+  CEO Torben Rademaker wurde im offiziellen ICE-Cast des Tau Ceti Journal interviewt und erklärte:
+  „Wie Sie sich vielleicht erinnern, war einer der vielen Gründe für die Überflüssigkeit von Aegis ihre schlechte Bilanz bei der Verbesserung von AX-Bewaffnung über die erste Flut an Entwürfen hinaus. Azimuth Biotech hat eine Forschungs- und Entwicklungsabteilung gegründet, die gezielt und in einem gleichmäßigen, nachhaltigen Tempo deren Fehler korrigieren soll."
+  „Eine der inhärenten Einschränkungen der Konstruktionen von Aegis ist die maximale Anzahl an AX-Waffen, mit der ein Schiff ausgestattet werden kann. Die verbesserten Versionen auf Basis der Entwürfe von Ryder und Nemo teilen diese Einschränkung. Wir streben an, die Obergrenze der nutzbaren AX-Waffen zu erhöhen, und unsere Forschungsteams melden bereits vielversprechende Ergebnisse."
+  Eine der interaktiven Zuschauerfragen des ICE-Casts wollte wissen, warum Azimuth nicht mit der Proteus-Wave-Technologie an weiteren Anti-Xeno-Superwaffen arbeite. Rademaker antwortete:
+  „Unter meiner Führung hat sich das Unternehmen von Salvations esoterischem Forschungsfeld abgewandt und eine konventionellere Richtung eingeschlagen. Meines Erachtens ist das von meinem Vorgänger geleitete Superwaffenprojekt letztlich ein Fehlschlag."
+  Rademaker ging auch auf den Vorwurf ein, Azimuth sei für die Todesopfer in HIP 22460 verantwortlich und er selbst solle wegen ‚Auslösung der Thargoid-Maelströme' vor Gericht gestellt werden:
+  „Leider begegnet mir solch simpel gedachte Schuldzuweisung oft bei Menschen mit begrenztem Verständnis des Themas. Die schlichte Tatsache ist, dass niemand die übermäßige Reaktion der Thargoiden auf unsere Aktivitäten in HIP 22460 voraussehen konnte. Die Proteus Wave galt als akzeptables Mittel, den Krieg zu beenden, gebilligt von Personen mit weit mehr militärischer Erfahrung, als Salvation vorweisen konnte."
+  Rademakers einzige Reaktion auf eine anschließende Flut von Beschimpfungen eines Mitglieds von Operation Wych-Hunt war weniger wortreich. Der Interviewfeed wurde beendet.
 ---
 
 

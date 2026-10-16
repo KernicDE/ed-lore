@@ -12,6 +12,10 @@ bio: 'Senator Zemina Torval is a powerful Imperial Senator and traditionalist, k
   infrastructure in Synteini. Though she initially supported Denton Patreus, she later
   backed Arissa Lavigny-Duval for Empress. Torval commands a substantial private fleet
   and is regarded as the matriarch of a developing dynasty.'
+bio_de: |
+  Senatorin Zemina Torval ist eine der mächtigsten Traditionalistinnen im Imperialen Senat, Mehrheitseignerin von Mastopolos Mining und Großaktionärin der East India Company. Sie ist eine erbitterte Verteidigerin der imperialen Sklaverei und besiegte Prinzessin Aisling Duval 3301 im berühmten „Großen Sklaven-Showdown", indem sie über zwei Millionen Nichtbürger durch Einrichtungen der Imperial Slavers Association in Synteini ausbildete und „versorgte". Ihr Wirtschaftsimperium erstreckt sich über Bergbau, Handel und Rauschgift und macht sie zu einer der reichsten Personen des Imperiums.
+
+  Torval navigierte die Thronfolgekrise 3301 mit charakteristischem Pragmatismus: Zunächst verteidigte sie Denton Patreus gegen Vorwürfe, die ihn mit Hengist Duvals Attentäter in Verbindung brachten, dann unterstützte sie seinen Feldzug gegen Emperor's Dawn und verlagerte schließlich ihre Unterstützung auf Arissa Lavigny-Duval – ein Schachzug, der Arissas Weg auf den Thron faktisch ebnete. Sie kommandiert eine beträchtliche Privatflotte und gilt als Matriarchin einer aufstrebenden Dynastie, die ihren Ehrgeiz als dynastische Verantwortung und nicht als persönliche Gier rahmt.
 ---
 
 

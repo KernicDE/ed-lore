@@ -6,7 +6,10 @@ date: '3309-01-23'
 source: API
 summary: Imperial military and political figures react to Princess Aisling Duval's
   proposal for the Empire to join a reformed Aegis initiative.
+summary_de: Imperiale Militärs und Politiker reagieren auf den Vorschlag von Prinzessin
+  Aisling Duval, dass sich das Imperium einer reformierten Aegis-Initiative anschließt.
 player_impact: Not specifically mentioned — this is a political report.
+player_impact_de: Nicht explizit erwähnt — dies ist ein politischer Bericht.
 persons:
 - Aisling Duval
 - Denton Patreus
@@ -30,6 +33,11 @@ modern_impact: '"Far from challenging Emperor Arissa''s policy, this is a heartf
   the Thargoids." Senator Leopold''s defense reframed Aisling''s controversial stance
   as loyal opposition, a rhetorical strategy that helped legitimize the eventual Imperial
   participation in the reformed Aegis.'
+modern_impact_de: '„Weit davon entfernt, Kaiserin Arissas Politik in Frage zu stellen,
+  ist dies ein herzlicher Versuch, ihre Herrschaft zu stärken, indem die Chancen des
+  Imperiums auf einen Sieg über die Thargoiden steigen." Senator Leopolds Verteidigung
+  rahmte Aislings umstrittene Haltung als loyale Opposition neu – eine rhetorische
+  Strategie, die die spätere imperiale Beteiligung am reformierten Aegis legitimierte.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -39,6 +47,14 @@ related_uuids:
 - 996e0bf1-66fc-5a48-8c3c-1eaeccbe247e
 - d83a7bd9-c7eb-528b-a464-28180c65e590
 - f920072c-9b3c-53d1-9078-e6102cdc56a0
+body_de: |
+  Der Appell von Prinzessin Aisling Duval, das Imperium möge sich zusammen mit Allianz und Föderation zu einem wiederbelebten Aegis-Projekt bekennen, ist auf harsche Kritik gestoßen.
+  Der Nachrichtenkanal Eye on Achenar bat Admiral Denton Patreus um eine Stellungnahme:
+  „Im Imperium hat jeder seine Aufgabe, doch die Infragestellung der Militärpolitik fällt kaum in den Zuständigkeitsbereich einer Prinzessin. Ich möchte demütig vorschlagen, dass Ihre Hoheit sich jenen Bereichen widmet, in denen sie glänzt: Wohltätigkeit, Gastgeberinnenpflichten, das Eintreten für das Wohlergehen der Bürger und dergleichen."
+  Eine ähnliche Ansicht vertrat Senatorin Zemina Torval, die schlicht bemerkte: „Vielleicht bin ich altmodisch, aber es gab eine Zeit, in der der Versuch, den Erlass der Kaiserin infrage zu stellen, als Beleidigung des Throns galt."
+  Hadrian Augustus Duvals Reaktion war weniger konfrontativ, aber eindeutig: „Ich bin fest davon überzeugt, dass Nicht-Kooperation die beste Richtung für das Imperium ist, und bitte Aisling respektvoll, diese Politik nicht über die Presse zu untergraben."
+  Senator Caspian Leopold hingegen bot eine andere Sichtweise:
+  „Prinzessin Aisling versteht die politischen Realitäten weitaus besser, als viele ihr zugestehen. Nach persönlichen Konsultationen mit wissenschaftlichen, militärischen und politischen Fachleuten ist sie zu dem Schluss gelangt, dass die Reform von Aegis der logische Schritt ist. Weit davon entfernt, Kaiserin Arissas Politik in Frage zu stellen, ist dies ein herzlicher Versuch, ihre Herrschaft zu stärken, indem die Chancen des Imperiums auf einen Sieg über die Thargoiden steigen."
 ---
 
 

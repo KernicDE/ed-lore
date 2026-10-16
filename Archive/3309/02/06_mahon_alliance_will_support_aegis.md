@@ -6,7 +6,10 @@ date: '3309-02-06'
 source: API
 summary: The Alliance Assembly votes to commit ships, resources and personnel to Aegis
   if the tri-superpower agency is reformed.
+summary_de: Die Allianz-Versammlung stimmt dafür, der Agentur Aegis Schiffe, Ressourcen
+  und Personal zur Verfügung zu stellen, falls die Drei-Großmächte-Behörde reformiert wird.
 player_impact: Not specifically mentioned — this is a political report.
+player_impact_de: Nicht explizit erwähnt — dies ist ein politischer Bericht.
 persons:
 - Edmund Mahon
 - Angela Corcoran
@@ -30,6 +33,10 @@ modern_impact: 'Edmund Mahon stated: "The Alliance will therefore commit ships, 
   and personnel to a collaborative anti-xeno agency." This underscores the Alliance''s
   traditional commitment to multilateralism, even as corporate interests like Sirius
   Corporation sought to monopolise the anti-xeno role for profit.'
+modern_impact_de: 'Edmund Mahon erklärte: „Die Allianz wird daher Schiffe, Ressourcen
+  und Personal einer gemeinsamen Anti-Xeno-Behörde zur Verfügung stellen." Dies unterstreicht
+  den traditionellen multilateralen Ansatz der Allianz, während Unternehmensinteressen
+  wie die Sirius Corporation versuchten, die Anti-Xeno-Rolle zum Profit zu monopolisieren.'
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -38,6 +45,14 @@ related_uuids:
 - 69df1032-f6ec-58b2-9b05-cbcb3c243462
 - d5e37c1b-cb44-581f-b22b-f30602b799f8
 - df6e411a-1cfc-5b1f-be65-3e9644b00824
+body_de: |
+  Die Allianz-Versammlung hat dafür gestimmt, einen Beitrag zu Aegis zu leisten, falls die Behörde von den drei Großmächten reformiert wird.
+  Premierminister Edmund Mahon gab eine offizielle Erklärung ab:
+  „Der Sinneswandel von Kaiserin Arissa Lavigny-Duval in puncto Anti-Xeno-Zusammenarbeit hat in den Systemen der Allianz schnelles Handeln ausgelöst. Die Versammlung hat einen Gesetzentwurf neu bewertet, den Vizepremierministerin Angela Corcoran im vergangenen November eingebracht hatte und der die Reform von Aegis genehmigen soll. Dieser Entwurf wurde nun mit Mehrheit angenommen."
+  „Die Allianz wird daher Schiffe, Ressourcen und Personal einer gemeinsamen Anti-Xeno-Behörde zur Verfügung stellen. Wir werden außerdem Thargoid-bezogene Nachrichten und wissenschaftliche Daten in einer zentralen Datenbank mit dem Imperium und der Föderation teilen."
+  „Das strategische Verteidigungsbündnis mit der Sirius Corporation bleibt in Kraft, und das Unternehmen arbeitet weiterhin mit uns am Schutz allianzgehörender Systeme."
+  Es wird vermutet, dass Li Yong-Rui den Premierminister privat davon abriet, die Abstimmung abzuhalten, in der Ansicht, dass die Sirius Corporation die Rolle der primären Anti-Xeno-Organisation der Menschheit übernehmen könne. Politische Analysten wiesen jedoch darauf hin, dass Mahon sich seit langem der multilateralen Zusammenarbeit gegen die Thargoiden verschrieben hat.
+  Vizepremierministerin Corcoran wird als Hauptkontaktperson der Allianz für jede neue Ausprägung von Aegis fungieren. Kommodore Emil Varga hat sich freiwillig als militärischer Verbindungsoffizier gemeldet, während Dr. Maximo Fonseca von den Gateway Laboratories die xenologische Forschung leiten wird.
 ---
 
 

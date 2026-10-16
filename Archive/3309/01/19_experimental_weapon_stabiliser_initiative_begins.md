@@ -6,8 +6,12 @@ date: '3309-01-19'
 source: API
 summary: Azimuth Biotech launches a material delivery initiative in LHS 1163 to mass-produce
   its experimental weapon stabiliser for anti-xeno combat.
+summary_de: Azimuth Biotech startet in LHS 1163 eine Material-Lieferinitiative, um seinen
+  experimentellen Waffenstabilisator für den Anti-Xeno-Kampf in Massenproduktion herzustellen.
 player_impact: Pilots were asked to deliver meta-alloys, insulating membranes, HN
   shock mounts, and beryllium to the Glorious Prospect megaship in LHS 1163.
+player_impact_de: Piloten wurden gebeten, Meta-Legierungen, Isolierfolien, HN-Dämpfer
+  und Beryllium zum Megaschiff Glorious Prospect in LHS 1163 zu liefern.
 persons: []
 groups:
 - Azimuth Biotech
@@ -28,6 +32,12 @@ modern_impact: '"This proprietary invention redistributes the physical stresses 
   This initiative marked Azimuth''s first major community-driven manufacturing campaign
   in the post-Salvation era, leveraging independent pilots to scale production of
   a commercially proprietary war material.'
+modern_impact_de: '„Diese proprietäre Erfindung verteilt die physikalischen Spannungen
+  neu, die AX-Waffen auf die Infrastruktur eines Schiffs ausüben. Die Varianten der
+  Klasse 3 und Klasse 5 erlauben es, Schiffe mit jeweils einer oder zwei zusätzlichen
+  AX-Waffen auszustatten." Diese Initiative markierte Azimuth Biotechs erste große
+  gemeinschaftsgetriebene Fertigungskampagne in der Ära nach Salvation und nutzte unabhängige
+  Piloten, um die Produktion eines kommerziell proprietären Kriegsmaterials hochzufahren.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -36,6 +46,16 @@ related_uuids:
 - 8b0086f9-372c-5557-906d-f1d12dcbc7de
 - c8748b5c-ead9-5303-92b2-5cb20d64e511
 - d83a7bd9-c7eb-528b-a464-28180c65e590
+body_de: |
+  **ALERT der Pilotenföderation**
+  Azimuth Biotech hat Lieferungen nach LHS 1163 angefordert, um ein Modul zu fertigen, das die AX-Waffenkapazität erhöht.
+  Eine Pressemitteilung der PR-Abteilung des Unternehmens erklärte:
+  „Azimuths Hingabe, die Thargoiden zu besiegen, die mehr als ein Jahrhundert zurückreicht, hat mit der Entwicklung unseres experimentellen Waffenstabilisators einen neuen Meilenstein erreicht."
+  „Diese proprietäre Erfindung verteilt die physikalischen Spannungen neu, die AX-Waffen auf die Infrastruktur eines Schiffs ausüben. Die Varianten der Klasse 3 und Klasse 5 erlauben es, Schiffe mit jeweils einer oder zwei zusätzlichen AX-Waffen auszustatten."
+  „Zur Aufnahme der Massenproduktion unserer erfolgreichen Prototypen werden Vorräte an Meta-Legierungen, Isolierfolien, HN-Dämpfern und Beryllium benötigt. Alle Lieferungen sind an das Megaschiff Glorious Prospect im System LHS 1163 zu bringen. Ausreichende Ressourcen ermöglichen, dass die Variante der Klasse 3 des experimentellen Waffenstabilisators sofort verfügbar wird, während die Variante der Klasse 5 kurze Zeit später auf den Markt kommt."
+  Die Möglichkeit, die Waffenkapazität für Anti-Xeno-Kampfschiffe zu erhöhen, wurde breit begrüßt. Doch Kritiker wiesen darauf hin, dass Azimuth Biotech kommerziell von diesem Beitrag zum Konflikt profitiert – einem Konflikt, der nach Überzeugung vieler durch die Proteus-Wave-Operation des Unternehmens im System HIP 22460 ausgelöst wurde.
+  Ein Sprecher von Operation Wych Hunt, einer unabhängigen Gemeinschaft, die zur Bekämpfung von Azimuth Biotech gegründet wurde, gab folgende Erklärung ab:
+  „Die vorgeschlagenen Module werden der Menschheit im Kampf gegen die anhaltende Thargoid-Bedrohung nützen, und wir unterstützen jeden, der sie nutzt. Doch dies entbindet Azimuth Biotech nicht von den schrecklichen Taten, die das Unternehmen unter der Führung von Caleb Wycherley begangen hat. Das Unternehmen muss weiterhin zur Verantwortung gezogen werden für die vielen Gräueltaten, die es begangen hat – darunter die unmenschlichen Experimente von Projekt Seraph und der abscheuliche Mord an Tausenden an Bord der Alexandria."
 ---
 
 

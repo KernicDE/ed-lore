@@ -6,8 +6,12 @@ date: '3308-04-13'
 source: API
 summary: Sirius Corporation deploys megaships to the Coalsack and Witch Head Nebulas
   to provide anti-xeno support for the Alliance.
+summary_de: Die Sirius Corporation verlegt Megaschiffe in den Kohlensack-Nebel und
+  den Hexenkopf-Nebel, um der Allianz Anti-Xeno-Unterstützung zu bieten.
 player_impact: Pilots were invited to use Sirius megaships as bases for anti-xeno
   operations.
+player_impact_de: Piloten wurden eingeladen, die Sirius-Megaschiffe als Basen für
+  Anti-Xeno-Operationen zu nutzen.
 persons:
 - Nikolas Glass
 groups:
@@ -31,6 +35,11 @@ modern_impact: '"The Coalsack Nebula and Witch Head Nebula regions are where All
   demonstrated its military capabilities during the trial period of the Alliance strategic
   defence pact, foreshadowing the deepening corporate-military entanglement in Allied
   space.'
+modern_impact_de: „Die Regionen des Kohlensack-Nebels und des Hexenkopf-Nebels sind
+  die Orte, an denen die Interessen der Allianz durch Thargoid-Angriffe am stärksten
+  gefährdet sind." Die Verlegung der Sirius Corporation zeigte ihre militärischen
+  Fähigkeiten während der Probezeit des strategischen Verteidigungspakts der Allianz
+  und kündigte die zunehmende Verflechtung von Konzern und Militär im Allianz-Raum an.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -39,6 +48,14 @@ related_uuids:
 - 86fd77a5-fe24-5aa6-8723-a7e34b021f3d
 - b391da8e-90b1-55d8-88e0-8ad93ae52300
 - 0cb46392-4967-5330-90e6-b26b90ef78fb
+body_de: |
+  **ALERT der Pilotenföderation**
+  Megaschiffe der Sirius Corporation werden bald im Kohlensack-Nebel und im Hexenkopf-Nebel eintreffen, um Anti-Xeno-Unterstützung zu leisten.
+  Die drei Schiffe sollen die militärischen Fähigkeiten der Sirius Corporation demonstrieren, bevor der strategische Verteidigungspakt von der Versammlung der Allianz ratifiziert wird.
+  Eine öffentliche Erklärung gab Admiral Nikolas Glass ab, Vertreter der Sirius-Flotte im Admiralsrat der Allianz:
+  „Die Regionen des Kohlensack-Nebels und des Hexenkopf-Nebels sind die Orte, an denen die Interessen der Allianz durch Thargoid-Angriffe am stärksten gefährdet sind. Von morgen an dienen unsere Megaschiffe als Basen, von denen aus Anti-Xeno-Operationen durchgeführt werden können."
+  „Alle Schiffe in der Region sind eingeladen, die Song of Mecchi im System Coalsack Sector Vu-O B6-6, die Kandula's Truth im System Siniang und die Li Chyou Winds im System Onoros zu nutzen."
+  „Als weiteren Beweis unseres Engagements für den Schutz der Allianz bieten diese Megaschiffe ein einzigartiges, vorkonfiguriertes Kühlkörper-Modul an. Wir sind sicher, dass sich dies besonders für jene mutigen Piloten als nützlich erweisen wird, die sich im Kampf den Thargoids stellen."
 ---
 
 

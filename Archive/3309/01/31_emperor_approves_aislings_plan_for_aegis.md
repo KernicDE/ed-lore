@@ -6,7 +6,10 @@ date: '3309-01-31'
 source: API
 summary: Emperor Arissa Lavigny-Duval unexpectedly approves Princess Aisling Duval's
   plan to lead a limited Imperial contribution to a reformed Aegis.
+summary_de: Kaiserin Arissa Lavigny-Duval genehmigt überraschend den Plan von Prinzessin
+  Aisling Duval, einen begrenzten imperialen Beitrag zu einem reformierten Aegis anzuführen.
 player_impact: Not specifically mentioned — this is a political report.
+player_impact_de: Nicht explizit erwähnt — dies ist ein politischer Bericht.
 persons:
 - Aisling Duval
 - Arissa Lavigny-Duval
@@ -37,6 +40,13 @@ modern_impact: '"The Emperor made it clear that her decree to isolate from the o
   This carefully calibrated compromise allowed the Emperor to maintain isolationist
   rhetoric while tacitly acknowledging the Thargoid threat''s severity, effectively
   delegating political risk to Aisling.'
+modern_impact_de: '„Die Kaiserin machte deutlich, dass ihr Erlass zur Isolation von den
+  anderen Großmächten weiterhin in Kraft bleibt. Sollte Aegis jedoch wiedererrichtet
+  werden, würde der Anti-Xeno-Behörde eine begrenzte Zahl von Wissenschaftlern und
+  Kriegsschiffen zugewiesen." Dieser sorgfältig abgewogene Kompromiss erlaubte es der
+  Kaiserin, die isolationsistische Rhetorik beizubehalten und gleichzeitig die Schwere
+  der Thargoid-Bedrohung stillschweigend anzuerkennen – und delegierte das politische
+  Risiko effektiv an Aisling.'
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -49,6 +59,14 @@ related_uuids:
 - d83a7bd9-c7eb-528b-a464-28180c65e590
 - df6e411a-1cfc-5b1f-be65-3e9644b00824
 - 023030b3-b87d-5220-9488-e82e00d7f4c4
+body_de: |
+  Prinzessin Aisling Duval traf Kaiserin Arissa Lavigny-Duval persönlich, um einen imperialen Beitrag zur Reform von Aegis zu besprechen.
+  Die Politikjournalistin des Imperial Herald, Cassia Carvalho, berichtete über die Ereignisse:
+  „Der Ankunft von Aisling Duval im Imperialen Palast kam völlig überraschend – mehrere Würdenträger, deren vereinbarte Treffen mit der Kaiserin kurzerhand abgesagt wurden, berichteten dies übereinstimmend. Ein Mitarbeiter des Senats beschrieb, wie die Prinzessin ‚so plötzlich in den Thronsaal stürmte, dass ich überrascht bin, dass die Imperiale Garde sie nicht erschoss'."
+  „Trotz sichtbarer Irritation willigte Kaiserin Arissa in Aislings Forderung nach dringenden Gesprächen ein. Die beiden Monarchinnen führten viele Stunden lang ein vertrauliches Gespräch hinter verschlossenen Türen. Es gab Behauptungen, dass es zeitweise lauter wurde, doch niemand wollte dies auf dem Rekord bestätigen."
+  „Schließlich ließ Ihre Majestät die Medien versammeln, was wir eifrig taten. Die Kaiserin machte deutlich, dass ihr Erlass zur Isolation von den anderen Großmächten weiterhin in Kraft bleibt. Sollte Aegis jedoch wiedererrichtet werden, würde der Anti-Xeno-Behörde eine begrenzte Zahl von Wissenschaftlern und Kriegsschiffen zugewiesen. Prinzessin Aisling würde die Verantwortung für das Unterfangen übernehmen und mit imperialen wie ausländischen Organisationen koordinieren."
+  „Senatoren und Offizielle der Imperialen Flotte waren überrascht von dieser Ausnahme von der Politik der Kaiserin. Doch politische Analysten wiesen auf die Raffinesse hin, mit der Prinzessin Aisling persönlich für die vorgeschlagene Anti-Xeno-Zusammenarbeit verantwortlich gemacht wurde – so distanziert sich die Kaiserin von etwaigen Misserfolgen."
+  „Mit Insidern zufolge hat Prinzessin Aisling bereits Mitglieder für ihre Delegation angefragt, darunter Senator Caspian Leopold, Vizeadmiralin Skylar Anderson und den Xenologie-Spezialisten Ivano Colombera. Außerdem beauftragte sie das Imperiale Diplomatische Korps, die diplomatischen Kanäle zur Allianz und zur Föderation wieder zu öffnen – konkret, um Informationen über Alba Tesreaus jeweilige Vorschläge für ein reformiertes Aegis auszutauschen."
 ---
 
 

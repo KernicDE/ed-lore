@@ -13,6 +13,12 @@ bio: Zachary Hudson served as President of the Federation from 3301 to 3310. A R
   by a narrow margin, though his reputation was later damaged by the revelation that
   his ally Admiral Lucas Vincent had conspired to destroy Starship One to install him
   in power.
+bio_de: |
+  Zachary Hudson wurde 3218 geboren und machte Karriere in der Republikanischen Partei; unter Jasmina Halseys liberaler Regierung wurde er Schattenpräsident. Als Halsey im Mai 3301 an Bord der Starship One verschwand, verabschiedete der Kongress ein Misstrauensvotum und installierte Hudson als Präsidenten.
+
+  Seine Präsidentschaft war geprägt von Militarismus und Nähe zu den Konzernen. Hudson erhöhte die Militärausgaben, förderte die Close-Quarters-Combat-Meisterschaft als Rekrutierungsinstrument und sagte zum Thargoid-Kontakt, wenn die Thargoiden einen Kampf wollten, würden sie ihn bekommen. Er richtete das Proactive Detection Bureau zur Überwachung privater Kommunikation im föderalen Raum ein.
+
+  Der entscheidende Skandal kam 3307, als Prozesse offenbarten, dass Admiral Lucas Vincent mit Core-Dynamics-CEO Jupiter Rochester verschworen hatte, die Starship One zu zerstören und Halsey zu ermorden. Obwohl keine Beweise ergaben, dass Hudson persönlich von dem Komplott wusste, beschädigte die Verbindung seine Glaubwürdigkeit. Er überstand ein obligatorisches Misstrauensvotum 3305 knapp, verließ das Amt aber 3310, nachdem Felicia Winters seinen auserkorenen Nachfolger Jerome Archer besiegt hatte.
 ---
 
 

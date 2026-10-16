@@ -10,6 +10,10 @@ bio: 'Dalton Chase is a Diplomat in Elite Dangerous lore, active from 3308-08-23
   to the Andavandul system have enabled the Thargoid Advocacy Project to begin preparations
   for a diplomatic mission.; The rise of the xeno-peace movement has caused a number
   of public figures to discuss coexisting peacefully with the Thargoid race.'
+bio_de: |
+  Dalton Chase ist föderaler Gouverneur und Kongressabgeordneter, der sich während der Thargoid-Konflikte der späten 3300er als prominenter Verfechter der Xeno-Diplomatie hervortat. Im November 3308 bekräftigte er öffentlich die friedliche Koexistenz mit den Thargoiden und argumentierte, die Menschheit solle ihre Fähigkeit zu gewaltfreien Beziehungen unter Beweis stellen, indem sie das friedensbefürwortende Megaschiff Kingfisher entsendet, um diplomatischen Kontakt herzustellen. Diese Haltung positionierte ihn als führende Stimme der Xeno-Friedensbewegung an der Seite der ehemaligen Präsidentin Jasmina Halsey.
+
+  Chases Eintreten mündete in einen Wahlerfolg, als er als pro-friedlicher Kandidat in den Föderalen Kongress gewählt wurde und dabei eine bedeutende Wählerschaft vertrat, die rein militärische Antworten auf die Thargoid-Bedrohung anzweifelte. Seine politische Laufbahn veranschaulicht den wachsenden Einfluss der Befürworter einer Xeno-Diplomatie innerhalb der Föderalen Politik in einer Zeit, in der die Führung der Großmächte überwiegend auf Anti-Xeno-Kriegsführung fixiert blieb.
 ---
 
 

@@ -6,8 +6,12 @@ date: '3308-10-06'
 source: API
 summary: A battle in the Popontia system has ended with Federal forces overwhelming
   defenders of the True Chapters sect.
+summary_de: Eine Schlacht im Popontia-System endet damit, dass föderale Streitkräfte
+  die Verteidiger der Sekte True Chapters überwältigen.
 player_impact: Independent pilots were encouraged to participate in the unfolding
   events.
+player_impact_de: Unabhängige Piloten wurden ermutigt, sich an den laufenden Ereignissen
+  zu beteiligen.
 persons:
 - First Apostle
 - Nadia Machado
@@ -21,6 +25,10 @@ arc_id: thargoid-titan-war
 modern_impact: '"With the welcome support of auxiliaries and independent pilots, armed
   resistance in this system has been quelled. As ..." This perspective highlights
   the broader stakes and continues to shape contemporary debates.'
+modern_impact_de: „Mit der willkommenen Unterstützung von Hilfskräften und unabhängigen
+  Piloten wurde der bewaffnete Widerstand in diesem System niedergeschlagen. Wie ..."
+  Diese Perspektive verdeutlicht die größeren Zusammenhänge und prägt die aktuellen
+  Debatten bis heute.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -30,6 +38,14 @@ related_uuids:
 - 9d88d95b-e2d8-5107-bb42-666da4ea00bf
 - f052748e-b6ee-52c8-9657-75e06d0e3612
 - f2680020-36ae-554f-ae92-3a367a9f1d23
+body_de: |
+  **ALERT der Pilotenföderation**
+  Eine Schlacht im Popontia-System ist damit zu Ende gegangen, dass föderale Streitkräfte die Verteidiger der Sekte True Chapters überwältigt haben.
+  Die neugegründete Sekte des Far-God-Ordens wurde von den Workers of Popontia Free beschützt, die letztlich besiegt wurden. Gouverneurin Nadia Machado von Popontia Incorporated verkündete:
+  „Mit der willkommenen Unterstützung von Hilfskräften und unabhängigen Piloten wurde der bewaffnete Widerstand in diesem System niedergeschlagen. Auf Anordnung von Präsident Hudson werden die Thargoid-Anbeter festgesetzt und das Megaschiff Dedicant für föderale Ermittlungen beschlagnahmt."
+  Gouverneurin Machado fügte hinzu, dass alle Piloten, die an der Operation beteiligt waren, ihre Belohnungen nun am Ryman Market abholen können. Trotz ihrer Niederlage zahlen auch die Workers of Popontia Free am Ryman Market Prämien aus.
+  Die beiden verbliebenen Far-God-Megaschiffe, die Testament und die Perdition, haben ihre geplanten Routen aufgegeben und sind zu unbekannten Orten gesprungen, um weiteren Schlägen föderaler Streitkräfte auszuweichen. Zuvor übertrug der Erste Apostel eine Botschaft von der Testament:
+  „Dieser Versuch, die Wahrheit zu verschleiern, ist zum Scheitern verurteilt. Die Vorboten des Far God flammen am Himmel auf und kommen immer näher. Wir erwarten die Stunde der unvermeidlichen Auslöschung der Menschheit."
 ---
 
 

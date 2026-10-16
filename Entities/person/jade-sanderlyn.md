@@ -10,6 +10,22 @@ bio: 'Jade Sanderlyn is a Journalist in Elite Dangerous lore, active from 3308-0
   include: The superpowers offer bounties on Thargoid vessels while Salvation constructs
   anti-xeno superweapons.; Vox Galactica''s Jade Sanderlyn interviews Imperial Navy
   Admiral Henry Paul Atherton about the Thargoid invasion of Novas.'
+bio_de: Jade Sanderlyn ist Kriegskorrespondentin mit jahrelanger Erfahrung bei Vox
+  Galactica und zur prägenden journalistischen Stimme des Zweiten Thargoid-Kriegs geworden.
+  Ihre monatlichen Frontberichte verbinden Militäranalysen mit menschlichen Schicksalen
+  und liefern den Zuhörern in der gesamten Blase Updates zu Anti-Xeno-Operationen,
+  wissenschaftlichen Entwicklungen und den zivilen Kosten des Konflikts. Ihre Reportagen
+  aus besetzten Systemen und Evakuierungszonen für Flüchtlinge machten sie zu einem
+  der bekanntesten Namen der galaktischen Berichterstattung.
+
+  Sanderlyns Berichterstattung zeichnet sich durch vorsichtigen Optimismus aus, gemischt
+  mit unerschrockenem Realismus. Sie hat jede große Phase des Kriegs begleitet — vom
+  ersten Auftauchen der Maelströme über den Rivalitätskampf zwischen Aegis und Azimuth
+  bis zum umstrittenen Proteus-Wellen-Projekt. Ihre Fähigkeit, komplexe militärische
+  und wissenschaftliche Entwicklungen für ein breites Publikum einzuordnen — bei aller
+  kritischen Distanz, die Vox Galactica von den Medien der Großmächte unterscheidet
+  — macht ihre Reportagen für unabhängige Piloten und zivile Beobachter gleichermaßen
+  zur Pflichtlektüre.
 ---
 
 

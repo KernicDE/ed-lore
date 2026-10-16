@@ -6,8 +6,12 @@ date: '3308-10-31'
 source: API
 summary: The Imperial Senate has debated contributing to anti-xeno activities such
   as Aegis or a unified superpower fleet.
+summary_de: Der Imperiale Senat hat über Beiträge zu Anti-Xeno-Maßnahmen wie Aegis
+  oder einer vereinten Flotte der Großmächte debattiert.
 player_impact: This article focuses on political and strategic developments without
   direct pilot involvement.
+player_impact_de: Dieser Artikel behandelt politische und strategische Entwicklungen
+  ohne direkte Beteiligung von Piloten.
 persons:
 - Anders Blaine
 - Caspian Leopold
@@ -26,6 +30,10 @@ arc_id: thargoid-titan-war
 modern_impact: '"One would never criticise Her Majesty’s priority to defend the Empire
   above all else. Nevertheless, we face an advers..." This call for collaboration
   continues to resonate in discussions about superpower unity against the Thargoids.'
+modern_impact_de: „Niemand würde es kritisieren, dass Ihre Majestät das Imperium
+  vor allem anderen verteidigt. Dennoch stehen wir vor einem Gegner ..." Dieser Aufruf
+  zu Zusammenarbeit hallt bis heute in den Debatten über die Einigkeit der Großmächte
+  gegen die Thargoids nach.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -35,6 +43,16 @@ related_uuids:
 - 9d88d95b-e2d8-5107-bb42-666da4ea00bf
 - f2680020-36ae-554f-ae92-3a367a9f1d23
 - ff9426a9-0b2c-55d7-8741-dd9fbd4364ff
+body_de: |
+  Der Imperiale Senat hat über Beiträge zu Anti-Xeno-Maßnahmen wie Aegis oder einer vereinten Flotte der Großmächte debattiert.
+  Senator Caspian Leopold initiierte die Diskussionen unter seinen Kollegen und erklärte:
+  „Niemand würde es kritisieren, dass Ihre Majestät das Imperium vor allem anderen verteidigt. Dennoch stehen wir vor einem Gegner, der keinerlei Anzeichen dafür erkennen lässt, die vielen politischen, sozialen oder kulturellen Unterschiede der Menschheit zu verstehen. Für sie existiert das Imperium nicht. Unsere Bürger sind nur weitere Menschen, die die Thargoids vernichten können."
+  „Würden wir unsere Forschungsergebnisse und Ressourcen mit einem reformierten Aegis teilen, könnten wir den Zweiten Thargoid-Krieg dann nicht früher beenden?"
+  Der imperiale Flottenadmiral Denton Patreus antwortete:
+  „Lassen Sie mich eines klarstellen: Aegis gehört der Geschichte an. Ebenso ist die Idee, alle drei Großmacht-Flotten zu vereinen, völlig unrealistischer Wunschtraum. Dem Imperium dienen wir am besten, indem wir die Imperiale Flotte und andere dem Kaiser dienende Streitkräfte verstärken."
+  „Ich versichere Ihnen, Senatoren, dass wir die Thargoid-Aktivitäten genau überwachen und die Bedrohung derzeit unter Kontrolle ist. Die sich auf die Kernsysteme zubewegenden anomalen Signale werden verfolgt. Sollte jedoch irgendeine Xeno-Streitmacht in imperiales Territorium eindringen, sind wir mehr als bereit."
+  Die Angelegenheit wurde schließlich von Kanzler Anders Blaine erledigt:
+  „Hochgeschätzte Kollegen, es ist eine große Ehre zu ergründen, wie wir unser Volk am besten vor dem außerirdischen Feind schützen. Doch ich muss Sie daran erinnern: Ein Erlass des Kaisers kann nicht angefochten werden, nicht einmal von dieser erlauchten Kammer. Das Imperium wird von jeder Zusammenarbeit mit der Allianz, der Föderation oder einem anderen fremden Staat Abstand nehmen, solange Ihre Majestät es nicht anders wünscht."
 ---
 
 

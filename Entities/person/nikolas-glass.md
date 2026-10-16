@@ -11,6 +11,19 @@ bio: 'Nikolas Glass is a Admiral in Elite Dangerous lore, active from 3308-04-13
   and Witch Head Nebulas to provide anti-xeno support for the Alliance.; Sirius Corporation
   claims the Thargoid incursions prove the necessity of its strategic defence pact
   with the Alliance.'
+bio_de: Admiral Nikolas Glass ist ein hochdekorierter Offizier der Sirius-Flotte,
+  der im Januar 3308 in den Admiralsrat der Allianz berufen wurde — als siebtes
+  Mitglied und erster Vertreter von außerhalb der Allianz in diesem Gremium. Seine
+  Berufung folgte auf den Verteidigungspakt zwischen Allianz und Sirius Corporation;
+  Glass wurde beauftragt, die Anti-Thargoid-Operationen der Allianz-Verteidigungsstreitkräfte
+  mit direkter militärischer Unterstützung von Sirius zu koordinieren.
+
+  Die beispiellose Erweiterung des Rats stieß auf Kritik — unter anderem von Ratsmitglied
+  Nakato Kaine und Admiral George Varma, die vor der Vermischung kommerzieller und
+  militärischer Interessen warnten. Glass' Ernennung symbolisierte die tiefe Verflechtung
+  konzernseitiger Macht in die Verteidigungspolitik der Allianz und spiegelte die
+  Abhängigkeit der Großmacht von Sirius-Technologie und -Seemacht wider, um die
+  Unterlegenheit der ADF gegenüber den föderalen und imperialen Flotten auszugleichen.
 ---
 
 

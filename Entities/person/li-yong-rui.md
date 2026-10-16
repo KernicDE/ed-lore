@@ -11,6 +11,21 @@ bio: 'Li Yong-Rui is a Ceo in Elite Dangerous lore, active from 3301-06-10 to 33
   the Alliance President without executive powers, Sirius Corporatio...; Weekly summary
   covering the mercenary incursion against Ram Tah''s Phoenix Base in Meene, the FSS
   suspension of Lieutenant Inspector Ramesh Thorne, ...'
+bio_de: Li Yong-Rui ist CEO der Sirius Corporation und Architekt vieler folgenreichster
+  politischer Manöver des Megakonzerns. Er vermittelte 3308 den strategischen Verteidigungspakt
+  mit der Allianz, der Sirius militärischen Zugang gegen wirtschaftliche Partnerschaften
+  einbrachte, und schlug 3306 die Gründung unabhängiger Marlinist-Kolonien vor, um
+  die Flüchtlingskrise zu entschärfen, die Krieg zwischen Imperium und Föderation
+  drohte. Seine ruhige, geschäftsorientierte Diplomatie machte Sirius zur faktischen
+  vierten Großmacht.
+
+  Yong-Ruis Führung wurde zunehmend kritisiert — insbesondere von der Allianz-Ratsfrau
+  Nakato Kaine, die ihm vorwarf, zugesagte Großkampfschiffe und ausreichenden Thargoid-Schutz
+  nicht geliefert zu haben. Ende 3309 leitete die Allianz-Versammlung eine formale
+  Evaluierung des Sirius-Pakts ein und stellte die Frage, ob die Erträge der Partnerschaft
+  ihre Kosten rechtfertigen. Trotz dieses Drucks hielt Yong-Rui den Einfluss von Sirius
+  in allen drei Großmächten aufrecht und positionierte den Konzern als unverzichtbaren
+  Vermittler galaktischer Angelegenheiten.
 ---
 
 

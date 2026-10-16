@@ -6,8 +6,12 @@ date: '3308-12-16'
 source: API
 summary: A further 13 systems have fallen under Thargoid control as the last of the
   Maelstroms materialise.
+summary_de: Weitere 13 Systeme sind unter die Kontrolle der Thargoiden gefallen, als
+  sich die letzten Maelströme materialisierten.
 player_impact: Independent pilots were encouraged to participate in the unfolding
   events.
+player_impact_de: Unabhängige Piloten wurden ermutigt, sich an den sich entwickelnden
+  Ereignissen zu beteiligen.
 groups:
 - Alliance
 topics:
@@ -19,6 +23,9 @@ arc_id: thargoid-titan-war
 modern_impact: '"A further 13 systems have fallen under Thargoid control as the last
   of the Maelstroms materialise." The relentless expansion of Thargoid forces redefined
   the scale of the Second Thargoid War.'
+modern_impact_de: '„Weitere 13 Systeme sind unter die Kontrolle der Thargoiden gefallen,
+  als sich die letzten Maelströme materialisierten." Das unaufhaltsame Vordringen der
+  Thargoid-Kräfte hat das Ausmaß des Zweiten Thargoid-Kriegs neu definiert.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -28,6 +35,14 @@ related_uuids:
 - 6c3c6815-8e50-5e81-86ac-0bc5df0a8359
 - f052748e-b6ee-52c8-9657-75e06d0e3612
 - f2680020-36ae-554f-ae92-3a367a9f1d23
+body_de: |
+  **ALERT der Pilotenföderation**
+  Weitere 13 Systeme sind unter die Kontrolle der Thargoiden gefallen, als sich die letzten Maelströme materialisierten.
+  Die drei unberechenbaren Signalquellen – mit den Bezeichnungen Thor, Raijin und Hadad – traten gestern in den von Menschen besiedelten Raum ein. Wie die fünf vorherigen Anomalien manifestierten sie sich als kolossale Wolken ätzenden Gases mit über 100 Kilometern Durchmesser.
+  Piloten, die versuchen, die Maelströme zu untersuchen, wurden davor gewarnt, dass die stark ätzende Beschaffenheit der Wolken Schiffe außer Gefecht setzen und zerstören kann. Xenologen vermuten, dass die Wolke eine Verteidigungsanlage ist, die von den riesigen Schwärmen ätzender Generatoren in ihrem Inneren aufrechterhalten wird.
+  Alle acht Maelströme haben nun ihre Ziele erreicht und stehen in einem breiten Halbkreis am Rand der Kernsysteme. Jede dieser Entitäten ist zum Zentrum einer expandierenden thargoidischen Einflusssphäre geworden. Besiedelte Systeme in den umliegenden Regionen wurden von äußerst feindseligen Thargoid-Schiffen überrannt, was enorme Opfer und katastrophale Schäden verursachte. Viele weitere bewohnte Systeme sind von einer Invasion bedroht.
+  Elf Rettungsmegaschiffe sind an Schlüsselstandorten in Dienst gestellt worden, um die Millionen Flüchtlinge zu versorgen und zu registrieren, die vor diesen Angriffen fliehen. Diese Schiffe dienen auch als Drehkreuze für Verteidigungsoperationen zur Unterstützung der Systeme, die sich gegen die Thargoid-Flotten zu wehren versuchen.
+  Die Allianz, das Imperium und die Föderation haben zur Verteidigung ihrer jeweiligen Territorien Großkampfschiffe mit Anti-Xeno-Bewaffnung stationiert. Bislang gibt es anscheinend keine Technologie und keine Strategie, die es erlaubt, die unheilvolle Macht der Maelströme direkt anzugreifen.
 ---
 
 

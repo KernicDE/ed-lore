@@ -6,7 +6,10 @@ date: '3309-01-09'
 source: API
 summary: President Zachary Hudson grants Admiral Aden Tanner a full presidential pardon,
   overturning his court martial and reinstating him into the Federal Navy.
+summary_de: Präsident Zachary Hudson gewährt Admiral Aden Tanner eine vollständige Präsidentenbegnadigung,
+  hebt das Urteil des Kriegsgerichts auf und nimmt ihn wieder in die Föderale Flotte auf.
 player_impact: Not specifically mentioned — this is a political report.
+player_impact_de: Nicht explizit erwähnt — dies ist ein politischer Bericht.
 persons:
 - Aden Tanner
 - Zachary Hudson
@@ -29,6 +32,11 @@ modern_impact: '"President Hudson therefore believes that Tanner''s in-depth exp
   situation." This pardon represents a major reversal of Federal policy, validating
   Tanner''s unauthorized actions against Azimuth and restoring a key anti-xeno strategist
   to military relevance.'
+modern_impact_de: '„Präsident Hudson ist daher der Ansicht, dass Tanners umfassende Erfahrung
+  im Kampf gegen die Thargoiden angesichts der aktuellen Lage zu wertvoll ist, um sie zu
+  ignorieren." Diese Begnadigung stellt eine wichtige Kehrtwende der Föderalen Politik dar,
+  bestätigt Tanners eigenmächtiges Vorgehen gegen Azimuth und verleiht einem zentralen
+  Anti-Xeno-Strategen wieder militärische Bedeutung.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -36,6 +44,15 @@ related_uuids:
 - 8b0086f9-372c-5557-906d-f1d12dcbc7de
 - 918087f0-e635-591b-bc74-a1742da82b05
 - b639bbd6-4ffb-5d89-a8f6-8ac3f81ab73c
+body_de: |
+  Das Urteil des Kriegsgerichts gegen Admiral Aden Tanner wurde durch einen Erlass von Präsident Zachary Hudson förmlich aufgehoben.
+  Im November 3307 versuchte Tanner, unter dem Kommando des Megaschiffs Musashi die Sternenstation Hind Mine zu übernehmen. Er behauptete, die Datenbanken im Hauptquartier von Taurus Mining Ventures – wie Azimuth Biotech damals hieß – enthielten Beweise dafür, dass Salvations Anti-Xeno-Superwaffen darauf ausgelegt waren, die Thargoiden vor ihrem Einsatz in besiedelte Systeme zu locken.
+  Eine juristische Überprüfung im letzten September, nachdem die Proteus Wave genutzt worden war, um die Thargoiden nach HIP 22460 zu locken, bestätigte Tanners Behauptungen. Seine Strafe wurde in eine bereits verbüßte umgewandelt, doch seine ehrenlose Entlassung wurde aufrechterhalten. Diese Begnadigung durch Präsident Hudson hebt die Verurteilungen wegen Meuterei und rechtswidriger militärischer Handlung auf.
+  Das Amt des Föderalen Präsidenten veröffentlichte Folgendes:
+  „Aden Tanner hat eine eindrucksvolle und ehrenvolle Dienstbilanz für die Föderation, einschließlich einer Schlüsselrolle als oberster militärischer Verbindungsoffizier zu Aegis. Seine kurze Verletzung der Protokolle gilt inzwischen als auf soliden Nachrichten beruhend. Präsident Hudson ist daher der Ansicht, dass Tanners umfassende Erfahrung im Kampf gegen die Thargoiden angesichts der aktuellen Lage zu wertvoll ist, um sie zu ignorieren."
+  Eine kurze Erklärung gab auch Flottenadmiral Tayo Maikori ab:
+  „Ich unterstütze diese Präsidentenbegnadigung voll und ganz; sie dient dem Wohle aller Bürger. Admiral Tanner wurde förmlich wieder eingesetzt und wird bereits über strategische Pläne bezüglich der Thargoiden unterrichtet."
+  „Ich möchte betonen, dass ich das ursprüngliche Urteil des Militärgerichts der Föderalen Flotte angesichts aller damals verfügbaren Informationen für gerecht und fair halte. Diese exekutive Maßnahme schmälert nicht die entscheidende Rolle des Gerichts bei der Aufrechterhaltung der Ordnung unter den Angehörigen der Flotte."
 ---
 
 

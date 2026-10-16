@@ -7,7 +7,11 @@ source: API
 summary: Admiral Aden Tanner resigns from the Federal Navy weeks after his presidential
   pardon, citing bureaucratic restrictions that prevent him from effectively combating
   the Thargoid threat.
+summary_de: Admiral Aden Tanner tritt wenige Wochen nach seiner Präsidentenbegnadigung
+  aus der Föderalen Flotte zurück und führt bürokratische Einschränkungen an, die ihn am
+  wirksamen Kampf gegen die Thargoid-Bedrohung hindern.
 player_impact: Not specifically mentioned — this is a political report.
+player_impact_de: Nicht explizit erwähnt — dies ist ein politischer Bericht.
 persons:
 - Aden Tanner
 - Zachary Hudson
@@ -28,6 +32,12 @@ modern_impact: '"The Federal Navy was once my home, but my disillusionment has g
   signals a broader crisis of confidence in traditional military structures during
   the war, as experienced commanders sought operational freedom outside bureaucratic
   constraints.'
+modern_impact_de: '„Die Föderale Flotte war einst meine Heimat, doch in den letzten Jahren
+  ist meine Ernüchterung gewachsen. Politik und kommerzielle Einflüsse hindern diese
+  großartige Institution daran, die Föderation mit all ihren Möglichkeiten zu schützen."
+  Tanners Rücktritt signalisiert eine breitere Vertrauenskrise in traditionelle Militärstrukturen
+  während des Kriegs, da erfahrene Kommandanten operative Freiheit außerhalb bürokratischer
+  Zwänge suchten.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -36,6 +46,14 @@ related_uuids:
 - 8b0086f9-372c-5557-906d-f1d12dcbc7de
 - 918087f0-e635-591b-bc74-a1742da82b05
 - f920072c-9b3c-53d1-9078-e6102cdc56a0
+body_de: |
+  Admiral Aden Tanner ist wenige Wochen, nachdem eine Präsidentenbegnadigung sein Kriegsgerichtsurteil aufgehoben hatte, förmlich aus der Föderalen Flotte ausgeschieden.
+  Er war nach einem Erlass von Präsident Zachary Hudson in den Marinedienst zurückgekehrt. Doch dieser unerwartete Rücktritt bedeutet, dass er nicht mehr Mitglied des Militärs ist, auch wenn er die Ehrenbezeichnung ‚Admiral' behält.
+  Admiral Tanner veröffentlichte eine persönliche Erklärung, die von den Federal Times abgedruckt wurde:
+  „Zunächst muss ich Präsident Hudson meine Dankbarkeit aussprechen und all jenen danken, die mein Vorgehen im T-Tauri-System unterstützt haben. Die Geschichte hat bewiesen, dass Salvation bereit war, Millionen von Leben seinem persönlichen Rachefeldzug gegen die Thargoiden zu opfern, und wir leiden heute unter den Nachwirkungen dieser Obsession."
+  „Die Föderale Flotte war einst meine Heimat, doch in den letzten Jahren ist meine Ernüchterung gewachsen. Politik und kommerzielle Einflüsse hindern diese großartige Institution daran, die Föderation mit all ihren Möglichkeiten zu schützen. Nun, da die Thargoid-Bedrohung solch kolossale Ausmaße erreicht hat, empfinde ich diese Einschränkungen als so frustrierend, dass ich für meine Admiralskollegen vermutlich eher ein Ärgernis wäre. Ich habe zu viel Respekt vor jedem Menschen im Dienst der Flotte, um weniger als mein Bestes zu geben – doch genau dieses Bestes wird von der Bürokratie jetzt verwehrt. Daher trete ich zum Wohle aller zurück."
+  „Gemäß den Bedingungen der Präsidentenbegnadigung werde ich als unabhängiger Militärspezialist weiterhin Anti-Xeno-Strategien entwickeln. Ich werde direkt mit Flottenadmiral Tayo Maikori zusammenarbeiten, um zum Kriegseinsatz der Flotte beizutragen, und im Laufe der Zeit auch mit anderen Organisationen kooperieren. Ich bleibe dem Retten von Leben und der Beendigung dieses Krieges so schnell wie möglich verpflichtet."
+  „An alle Thargoiden, die vielleicht zuhören: Ihr habt mich noch nicht zum letzten Mal gesehen."
 ---
 
 

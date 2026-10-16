@@ -6,8 +6,12 @@ date: '3308-05-05'
 source: API
 summary: Sirius Corporation delivers vital supplies to sustain the Didio system during
   the ongoing Thargoid assault.
+summary_de: Die Sirius Corporation liefert lebenswichtige Vorräte, um das Didio-System
+  während des anhaltenden Thargoid-Angriffs zu versorgen.
 player_impact: Pilots transported shipments of basic medicines, evacuation shelters,
   and food cartridges to the Chariot of Rhea in Leesti.
+player_impact_de: Piloten transportierten Lieferungen einfacher Medikamente, Evakuierungsunterkünfte
+  und Nahrungskapseln zur Chariot of Rhea im Leesti-System.
 persons:
 - Nikolas Glass
 groups:
@@ -31,6 +35,11 @@ modern_impact: '"By replenishing key supplies during this time of great crisis, 
   The logistics operation reinforced Sirius Corporation''s strategic indispensability
   to the Alliance during active Thargoid engagements, strengthening the political
   case for formalising the defence pact.'
+modern_impact_de: „Durch die Auffüllung zentraler Vorräte in dieser Zeit großer Krise
+  hat die Sirius Corporation erneut ihr Engagement für die militärischen Bemühungen
+  der Allianz unter Beweis gestellt." Die Logistikoperation festigte die strategische
+  Unverzichtbarkeit der Sirius Corporation für die Allianz während aktiver Thargoid-Gefechte
+  und stärkte das politische Argument für die Formalisierung des Verteidigungspakts.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -38,6 +47,14 @@ related_uuids:
 - 6632e17b-34c6-59ea-9191-ec8d4d51ea1e
 - b391da8e-90b1-55d8-88e0-8ad93ae52300
 - c5e541f9-be5f-50b7-8d5b-d0bb91f01c1e
+body_de: |
+  **ALERT der Pilotenföderation**
+  Die Sirius Corporation hat dabei geholfen, das Didio-System während des anhaltenden Thargoid-Angriffs mit Gütern zu versorgen.
+  Piloten transportierten mehrere Lieferungen einfacher Medikamente, Evakuierungsunterkünfte und Nahrungskapseln zum Megaschiff Chariot of Rhea im Leesti-System. Diese wurden dann nach Didio umgeleitet und dorthin verteilt, wo sie am dringendsten benötigt wurden.
+  Die Kampagne wurde von Admiral Nikolas Glass geleitet, der verkündete:
+  „Durch die Auffüllung zentraler Vorräte in dieser Zeit großer Krise hat die Sirius Corporation erneut ihr Engagement für die militärischen Bemühungen der Allianz unter Beweis gestellt. Dies wird nach Abschluss der Probezeit zweifellos den Weg für die Annahme des strategischen Verteidigungspakts durch die Versammlung ebnen."
+  Die Sirius Corporation bestätigte, dass alle Piloten, die zur Initiative beigetragen haben, ihre Bezahlung nun bei der Chariot of Rhea in Leesti abholen können.
+  In anderen Nachrichten: Die Großmächte belohnen unabhängige Schiffe weiterhin für die Zerstörung von Thargoid-Schiffen in den Systemen Didio, Novas und Sosong. Salvations Anti-Xeno-Superwaffen sollen voraussichtlich in einer Woche einsatzbereit sein.
 ---
 
 

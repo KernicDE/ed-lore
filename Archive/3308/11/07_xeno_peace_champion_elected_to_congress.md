@@ -6,8 +6,12 @@ date: '3308-11-07'
 source: API
 summary: Dalton Chase, the former governor of Andavandul 1, has become a Federal congressman
   following victory in the recent special election.
+summary_de: Dalton Chase, der ehemalige Gouverneur von Andavandul 1, ist nach seinem Sieg
+  bei der jüngsten Nachwahl Mitglied des Föderalen Kongresses geworden.
 player_impact: This article focuses on political and strategic developments without
   direct pilot involvement.
+player_impact_de: Dieser Artikel konzentriert sich auf politische und strategische
+  Entwicklungen ohne direkte Pilotenbetiligung.
 persons:
 - Dalton Chase
 - Felicia Winters
@@ -20,6 +24,10 @@ arc_id: thargoid-titan-war
 modern_impact: '"I’m conscious that some view me as unorthodox or contrarian, perhaps
   even ‘soft on Thargoids’. But I take the securit..." The failure of civilian-led
   diplomacy underscores the dangers of underestimating Thargoid hostility.'
+modern_impact_de: '„Ich bin mir bewusst, dass manche mich als unorthodox oder konträr
+  betrachten, vielleicht sogar als weich gegenüber Thargoiden. Doch ich nehme die
+  Sicherhe…" Das Scheitern zivil geführter Diplomatie unterstreicht die Gefahren einer
+  Unterschätzung der Thargoid-Feindseligkeit.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -28,6 +36,13 @@ related_uuids:
 - f052748e-b6ee-52c8-9657-75e06d0e3612
 - 6c3c6815-8e50-5e81-86ac-0bc5df0a8359
 - 5fe4f82e-6d86-54ad-8e32-86f5d121a22b
+body_de: |
+  Dalton Chase, der ehemalige Gouverneur von Andavandul 1, ist nach seinem Sieg bei der jüngsten Nachwahl Mitglied des Föderalen Kongresses geworden.
+  Trotz seiner vergleichsweisen Jugend und Unerfahrenheit ließen sich viele Wähler im Kongressbezirk von Chases Charme und seiner positiven Kampagnenbotschaft überzeugen. Seine Begeisterung für die Aufnahme diplomatischer Beziehungen zu den Thargoiden fand bei jüngeren Wählern Anklang. Auch die Liberal Party führte eine kreative PR-Kampagne über soziale Kanäle, die von vielen alternativkulturellen ICE-Castern verstärkt wurde.
+  Nach seiner formellen Vereidigung erklärte Kongressabgeordneter Chase:
+  „Ich bin mir bewusst, dass manche mich als unorthodox oder konträr betrachten, vielleicht sogar als ‚weich gegenüber Thargoiden'. Doch ich nehme die Sicherheit der Föderation so ernst wie jeder meiner ehrenwerten Kollegen. Frieden mit einer anderen Spezies zu schließen und damit das Leben zahlloser Bürger der Föderation zu retten, würde als der große moralische Sieg unserer Generation gelten."
+  Schattenpräsidentin Felicia Winters gratulierte und bezeichnete Chase als „energische Bereicherung unserer Reihen". Politische Analysten stellten fest, dass sie seine Zugehörigkeit zur Xeno-Friedensbewegung nicht erwähnte. Obwohl einige in der Liberal Party Sympathie für deren Ziele bekundeten, halten die meisten sie für zu radikal, um jemals offiziell unterstützt zu werden.
+  Wichtige Mitglieder des Thargoid Advocacy Project dankten Kongressabgeordnetem Chase für seine Hilfe beim Aufbau des friedensbefürwortenden Megaschiffs Kingfisher. Dieses wird derzeit mit Spezialtechnologie ausgestattet, die darauf ausgelegt ist, Signale verschiedener Art zu übertragen – in der Hoffnung, eine Zwei-Wege-Kommunikation mit den Thargoiden zu ermöglichen.
 ---
 
 

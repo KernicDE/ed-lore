@@ -11,6 +11,10 @@ bio: 'Archon Delaine is a Pirate in Elite Dangerous lore, active from 3301-05-14
   and Pleiades Nebulas.; Historian Sima Kalhana reviews the first quarter of 3307,
   covering the NMLA''s rise, the Galactic Summit, the Nine Martyrs bombings, and the
   formati...'
+bio_de: |
+  Archon Delaine ist der selbsternannte Piratenkönig und Warlord der Kumo Crew, eines der größten kriminellen Syndikate der Galaxis. Im Alter von 15 Jahren ergriff er die Macht, indem er den vorherigen Anführer der Kumo Crew mit bloßen Händen zu Tode prügelte, und verbrachte zwei Jahrzehnte damit, jeden Herausforderer zu besiegen, bevor er die Organisation von einem losen Drogenkartell in eine disziplinierte paramilitärische Streitmacht umstrukturierte. Seine Herrschaft ist absolut: Loyalität wird belohnt, Widerstand zerschlagen, und die Systeme unter seiner Kontrolle funktionieren – teilweise besser als vor seiner Machtübernahme.
+
+  Delaine hat zahlreiche Bedrohungen seiner Macht überlebt, darunter einen gescheiterten Putsch 3308, angezettelt von seinem ehemaligen Leutnant Vidar Trask und Kay Volantyne vom Dredger-Clan der Blue Viper Club. Während des Thargoid-Kriegs positionierte er die Kumo Crew als Beschützer vernachlässigter Kolonien, mobilisierte zur Verteidigung des California-Nebels und beschuldigte die Großmächte, Randsysteme im Stich zu lassen. Dieses rhetorische Manöver – Piraten als einzige Beschützer der Schwachen – ist zu einem wiederkehrenden Motiv seiner Propaganda geworden.
 ---
 
 

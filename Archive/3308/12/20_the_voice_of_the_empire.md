@@ -6,8 +6,13 @@ date: '3308-12-20'
 source: API
 summary: On the Empire’s homeworld Capitol, fears over imminent Thargoid invasion
   sparked a public gathering outside the Imperial Palace.
+summary_de: Auf Capitol, der Heimatwelt des Imperiums, lösten Befürchtungen vor einem
+  unmittelbar bevorstehenden Thargoid-Angriff eine öffentliche Versammlung vor dem Imperialen
+  Palast aus.
 player_impact: This article focuses on political and strategic developments without
   direct pilot involvement.
+player_impact_de: Dieser Artikel konzentriert sich auf politische und strategische
+  Entwicklungen ohne direkte Pilotenbetiligung.
 persons:
 - Anders Blaine
 - Arissa Lavigny-Duval
@@ -27,6 +32,9 @@ arc_id: thargoid-titan-war
 modern_impact: '"The arrival of the Thargoid Maelstroms has triggered protests on
   many Allied, Federal and independent worlds. The Emp..." Imperial policy during
   this period reveals the tensions between isolationism and collective security.'
+modern_impact_de: '„Das Eintreffen der Thargoid-Maelströme hat auf vielen verbündeten,
+  föderalen und unabhängigen Welten Proteste ausgelöst. Das Impe…" Die imperiale Politik
+  dieser Zeit offenbart die Spannungen zwischen Isolationismus und kollektiver Sicherheit.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -37,6 +45,15 @@ related_uuids:
 - 9d88d95b-e2d8-5107-bb42-666da4ea00bf
 - f052748e-b6ee-52c8-9657-75e06d0e3612
 - f2680020-36ae-554f-ae92-3a367a9f1d23
+body_de: |
+  Auf Capitol, der Heimatwelt des Imperiums, lösten Befürchtungen vor einem unmittelbar bevorstehenden Thargoid-Angriff eine öffentliche Versammlung vor dem Imperialen Palast aus.
+  Cassia Carvalho, Politikjournalistin des Imperial Herald, berichtete vom Ort des Geschehens:
+  „Das Eintreffen der Thargoid-Maelströme hat auf vielen verbündeten, föderalen und unabhängigen Welten Proteste ausgelöst. Das Imperium wird von solchen Unruhen nur selten heimgesucht, deshalb überraschte der spontane Marsch Zehntausender Bürger durch die Straßen Capitols Medien und Sicherheitskräfte gleichermaßen."
+  „Kanzler Anders Blaine wandte sich an die Menge, sein Bild über uns allen projiziert. Er sprach von der raschen Reaktion der Imperialen Flotte auf die Thargoid-Bedrohung und versicherte, dass unsere Systeme geschützt seien und wir alle in Sicherheit."
+  „Doch das reichte nicht aus, um die immer lauter werdenden Forderungen zu besänftigen, mehr zu tun. Ich sah Wut, Frustration und Angst in diesen schreienden Gesichtern. Die Bilder in den Nachrichten – brennende und zerstörte Sternenstationen, Thargoid-Schiffe, die die Häuser einfacher Leute verwüsteten – waren allen noch allzu deutlich vor Augen."
+  „Ich wusste wirklich nicht, wie sich diese spontane Demonstration entwickeln würde. Könnten die starken Emotionen der Menge sogar in Gewalt umschlagen? Und dann erklang eine neue Stimme über den Platz: der unverwechselbare Tonfall von Kaiserin Arissa Lavigny-Duval selbst, aufrecht stehend, während sie langsam die Palasttreppe zu uns herabstieg."
+  „‚Denkt daran: Wir sind Imperiale', sagte sie zu ihrem Volk, ihre herrschaftliche Stimme für alle hörbar verstärkt. Die Menge wich schweigend zurück, als sie näherkam, und ließ sie in unserer Mitte schreiten. ‚Wir besitzen die stärkste Zivilisation, die größten Errungenschaften und die mutigsten Herzen. Wir werden alles aufnehmen, das es wagt, uns zu bedrohen, Mensch oder Außerirdischer, und wir werden es besiegen. Unser Imperium wird bestehen!'"
+  „Am Ende ihrer etwa zehnminütigen Ansprache hatten sich die Emotionen tatsächlich verwandelt – in jubelnde, begeisterte Euphorie. Unsere Kaiserin war persönlich zu uns gestanden, hatte uns alle an unser Erbe und unsere Pflicht erinnert. Die Thargoiden werden zweifellos kommen. Aber in diesem Moment waren wir entschlossen, ihnen gemeinsam zu begegnen."
 ---
 
 

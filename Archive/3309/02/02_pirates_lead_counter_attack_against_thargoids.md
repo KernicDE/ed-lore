@@ -6,8 +6,12 @@ date: '3309-02-02'
 source: API
 summary: The Kumo Crew organises a counter-attack against Thargoid invaders in the
   California Nebula while attempting to expand its influence over local ports.
+summary_de: Die Kumo Crew organisiert im California-Nebel einen Gegenangriff gegen die
+  Thargoid-Angreifer und versucht gleichzeitig, ihren Einfluss auf örtliche Häfen auszuweiten.
 player_impact: Pilots were asked to eliminate Thargoid vessels in the California Nebula
   and hand in combat bonds at The Mictlan in California Sector HR-W d1-28.
+player_impact_de: Piloten wurden gebeten, Thargoid-Schiffe im California-Nebel zu vernichten
+  und Kampfbons bei The Mictlan in California Sector HR-W d1-28 abzugeben.
 persons:
 - Harrison Gladstone
 - Archon Delaine
@@ -30,6 +34,10 @@ modern_impact: 'Archon Delaine claimed: "Taking charge of local security forces 
   necessary to form an effective anti-xeno militia." This reflects a recurring pattern
   where criminal syndicates exploit wartime chaos to legitimise territorial expansion
   under the guise of humanitarian defence.'
+modern_impact_de: 'Archon Delaine erklärte: „Die Übernahme örtlicher Sicherheitskräfte
+  ist notwendig, um eine effektive Anti-Xeno-Miliz zu bilden." Dies spiegelt ein
+  wiederkehrendes Muster wider, bei dem kriminelle Syndikate das Chaos des Krieges
+  ausnutzen, um territoriale Expansion im Gewand humanitärer Verteidigung zu legitimieren.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -37,6 +45,15 @@ related_uuids:
 - bf2d3dff-0f0e-52cb-b06d-f6704f6b7781
 - f920072c-9b3c-53d1-9078-e6102cdc56a0
 - 6ff3de2d-b9ea-5bba-8292-3fb89b446bff
+body_de: |
+  **ALERT der Pilotenföderation**
+  Die Kumo Crew organisiert die Verteidigung des California-Nebels, indem sie Belohnungen für die Vernichtung von Thargoid-Schiffen aussetzt.
+  Der Kumo-Rat, das führende Gremium des Syndikats, übernahm die Kontrolle über mehrere Systeme, die kürzlich von Thargoid-Flotten überfallen wurden. Unabhängige Piloten wurden gebeten, sich an den Anti-Xeno-Initiativen in der Region zu beteiligen, die vom Megaschiff The Mictlan aus koordiniert werden.
+  Harrison Gladstone vom Turner Research Group, das die Allianz im California-Nebel vertritt, reichte förmlich Protest ein:
+  „Wir sind nicht erfreut darüber, dass Verteidigungsinitiativen von einer skrupellosen kriminellen Bande finanziert werden. Diese Piraten nutzen die Thargoid-Angriffe, um ihre illegalen Aktivitäten auszuweiten, und gefährden damit die wissenschaftlichen und kommerziellen Interessen unserer Fraktion. Mehrere unserer Häfen in der Region stehen nun unter ‚Notstands-Schutz' der Kumo Crew, wie sie es nennen. Das ist eine illegale Besetzung allianzgehörenden Territoriums!"
+  Daraufhin erklärte Archon Delaine:
+  „Die Übernahme örtlicher Sicherheitskräfte ist notwendig, um eine effektive Anti-Xeno-Miliz zu bilden. Wenn der Allianz diese Region so sehr am Herzen liegt – wo sind dann ihre Kriegsschiffe? Wir erledigen Mahons Job für ihn. Die Kolonisten hier werden bald verstehen, dass unsere Entscheidung die richtige ist."
+  Der Kumo-Rat hat zugestimmt, alle bei The Mictlan in California Sector HR-W d1-28 abgegebenen Thargoid-Kampfbons zu erstatten.
 ---
 
 

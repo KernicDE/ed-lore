@@ -7,6 +7,10 @@ last_seen_date: '3309-03-23'
 mention_count: 5
 bio: Tom Gillespie is a Federal Congressman who coordinated the Federation's involvement
   in Aegis reform in 3309 and oversaw the ammonia world survey.
+bio_de: |
+  Tom Gillespie ist föderaler Kongressabgeordneter, der sich 3309 freiwillig meldete, die Beteiligung der Föderation an der Wiedererrichtung von Aegis zu koordinieren. Nachdem die Allianz-Versammlung für die Unterstützung einer gemeinsamen Anti-Xeno-Behörde gestimmt hatte, arbeitete Gillespie daran, die föderalen Ressourcen auf die Drei-Großmächte-Initiative abzustimmen, und pries unabhängige Piloten als „an Hingabe und Expertise schlicht unübertrefflich".
+
+  Gillespie leitete außerdem die von Aegis und Universal Cartographics durchgeführte Ammoniakwelten-Erhebung, die erdähnliche Planeten mit Ammoniakatmosphäre kartierte, um potenzielle thargoidische Sammelpunkte zu identifizieren. Seine Rolle als Kongress-Kontaktperson zwischen der Föderalen Regierung und Aegis machte ihn zu einer Schlüsselfigur in der politischen Rehabilitation der Behörde nach ihrer Auflösung 3308. Gillespies Amtszeit spiegelt die breitere Verschiebung der Föderalen Politik hin zu erneuter multilateraler Zusammenarbeit gegen die Thargoiden wider.
 ---
 
 # Tom Gillespie

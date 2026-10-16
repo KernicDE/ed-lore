@@ -16,6 +16,24 @@ bio: 'Salvation is a organization active in Elite Dangerous lore from 3308-01-05
   include: The anonymous figure Salvation claims Thargoid forces will attack the Cornsar
   system, but Aegis dismisses the warning due to lack of evidence.; Thargoid forces
   attack the Cornsar system, validating Salvation''s prediction.'
+bio_de: Salvation war das anonyme öffentliche Gesicht des Anti-Xeno-Waffenprogramms
+  von Azimuth Biotech — eine messianische Figur, die sich als einzige Verteidigung
+  der Menschheit gegen die Thargoids inszenierte. Er trat 3308 mit unheimlich präzisen
+  Vorhersagen von Thargoid-Angriffen hervor und gewann durch Vorführungen guardian-basierter
+  Superwaffen, die ganze Systeme von außerirdischen Schiffen säubern konnten, rasch
+  das Vertrauen aller drei Großmächte. Seine Streitkräfte, koordiniert von Commodore
+  Morag Halloran und unterstützt von desertierenden Flottenbesatzungen, errangen entscheidende
+  Siege bei Cornsar und später bei den gleichzeitigen Invasionen von Delphi, Maia
+  und Merope.
+
+  Salvations Rhetorik wurde mit wachsender Macht immer größenwahnsinniger und gipfelte
+  in der Erklärung, HIP 22460 werde die „letzte Schlacht" sein, auf der die Proteus-Welle
+  die Thargoids vollends aus der Galaxis auslöschen würde. Die Waffe versagte während
+  der Schlacht im August 3308, tötete Salvation und löste eine katastrophale Thargoid-Vergeltung
+  aus, die die Maelströme über die Kernsysteme entfesselte. Postum als Nachfolger
+  des Azimuth-Biochemicals-Gründers Caleb Wycherley enthüllt, bleibt Salvation eine
+  der umstrittensten Figuren der Menschheitsgeschichte — für die einen ein Retter,
+  für die anderen ein waghalsiger Fanatiker.
 ---
 
 

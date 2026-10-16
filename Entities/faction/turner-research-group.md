@@ -17,6 +17,10 @@ bio: 'Turner Research Group is a research active in Elite Dangerous lore from 33
   Reparation and Riri McAllister''s arrest, the Church of Eternal Void being declared
   illegal...; Archon Delaine mobilizes the Kumo Crew to defend the California Nebula
   from Thargoid invasions, drawing skepticism from the Turner Research Group.'
+bio_de: |
+  Das Turner Research Group ist eine wissenschaftliche Organisation, die 3302 von der Allianz gegründet wurde, um die im California-Nebel entdeckten Barnakel zu erforschen. Die Gruppe kontrolliert mehrere Systeme in der Region und unterstützte den Bau allianzgehörender Außenposten; sie bot Piloten Belohnungen für Baumaterial-Lieferungen zur Darwin Research Facility an.
+
+  3309 äußerte das Turner Research Group Skepsis gegenüber Archon Delaines Mobilmachung der Kumo Crew zur Verteidigung des California-Nebels gegen Thargoid-Invasionen; Sprecher Harrison Gladstone erklärte, Delaine nutze die Angriffe als Vorwand für einen Machtgriff. Das wissenschaftliche Mandat der Gruppe brachte sie häufig in Spannung zu Piratenfraktionen und Militärbehörden gleichermaßen – ein Spiegelbild der komplexen politischen Landschaft des California-Nebels.
 ---
 
 

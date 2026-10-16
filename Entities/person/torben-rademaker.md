@@ -11,6 +11,10 @@ bio: 'Torben Rademaker is a Ceo in Elite Dangerous lore, active from 3308-07-25 
   protestors as alien-loving traitors after Azimuth assets are expelled from M...;
   Professor Alba Tesreau publishes a counter-statement exposing Azimuth''s inhumanity,
   linking HIP 22460 to Project Seraph''s Fort Asch experiments, Bl...'
+bio_de: |
+  Torben Rademaker ist CEO von Azimuth Biochemicals und das öffentliche Gesicht des Anti-Xeno-Waffenprogramms des Konzerns. Ein lautstarker, selbstbewusster Manager, der Azimuths umstrittene Forschungsmethoden – darunter Experimente an Menschen und die Verwertung von Guardian-Technologie – konsequent als notwendige Opfer im existenziellen Kampf der Menschheit gegen die Thargoiden verteidigt. In seiner Rhetorik ist Azimuth die einzige Organisation, die wirksame Gegenmaßnahmen entwickeln kann, und Kritiker werden als „alienverliehene Verräter" abgetan.
+
+  Rademakers Führung erreichte ihren Höhepunkt mit dem Proteus-Wave-Projekt in HIP 22460 und den anschließenden Waffenmessen, auf denen neue AX-Bewaffnungen wie die überladene kardanische AX-Multikanone präsentiert wurden. Sein Konzern strebt über die Waffenentwicklung hinaus; unter seiner Leitung suchte Azimuth Partnerschaften mit Institutionen wie dem Holloway Bioscience Institute und positionierte sich, die Xenologieforschung zu dominieren – um jeden ethischen Preis. Das katastrophale Scheitern der Proteus Wave 3309 und Salvations Tod hinterließen Rademakers Vermächtnis in Trümmern.
 ---
 
 

@@ -14,6 +14,18 @@ related_entities:
 bio: The True Chapters is a radical sect that broke away from the Far God cult in
   3308 following the Battle of HIP 22460. Its members abandoned orthodox hive-chapels
   to worship the First Apostle as a holy messenger of the Far God.
+bio_de: Die True Chapters sind eine radikale Sekte, die sich 3308 nach der Schlacht
+  von HIP 22460 vom Far-God-Kult abspaltete. Anders als orthodoxe Gläubige des Far
+  God, die passiv den apokalyptischen Einzug der Thargoids erwarten, verehren die
+  Anhänger der True Chapters den Ersten Apostel als heiligen Boten und haben die
+  traditionellen Hive-Chapels zugunsten eines militanteren Glaubens verlassen.
+
+  Dr. Alfred Ulyanov, die führende wissenschaftliche Autorität zum Glauben des Far
+  God, stellte fest, dass der Thargoid-Sieg in HIP 22460 unter den Kultisten beispiellose
+  Aufregung, aber auch Zwietracht auslöste; in großer Zahl wechselten Gläubige zu
+  den True Chapters über. Der Föderale Geheimdienst überwachte die Sekte aufgrund
+  ihrer Radikalisierung genau, ebenso wie die Bemühungen des Megaschiffs Testament,
+  einen dauerhaften Stützpunkt für neue Bekehrte zu finden.
 ---
 
 # True Chapters

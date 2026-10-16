@@ -11,6 +11,23 @@ bio: 'Angela Corcoran is a Scientist in Elite Dangerous lore, active from 3307-0
   as a reformed tri-superpower anti-xeno research agency, citing the ACT ...; A three-day
   symposium has begun that will outline proposals to reform Aegis, the tri-superpower
   anti-xeno agency.'
+bio_de: Angela Corcoran ist Vizepremierministerin der Allianz und eine zentrale Figur
+  der Regierung der Allianz in Zeiten intensiver politischer Kontroversen. Im August
+  3307 äußerte sie sich zum Auftauchen der Onionhead-Gamma-Strain und erklärte, die
+  Allianz überlasse die Betäubungsmittelgesetzgebung den örtlichen Behörden, statt
+  wie Föderation und Imperium Verbote auf Ebene der gesamten Großmacht zu verhängen.
+  Ihre abgewogene Reaktion spiegelte den traditionellen Fokus der Allianz auf lokale
+  Autonomie statt zentralisierte Moralpolizei wider.
+
+  Corcorans folgenreichster Akt erfolgte während der Abstimmung im Januar 3308 über
+  den Verteidigungspakt zwischen Allianz und Sirius Corporation, als sie sich enthielt,
+  statt das umstrittene militärische Bündnis zu unterstützen. Ihre öffentliche Weigerung,
+  ihre Gründe zu erläutern, signalisierte erhebliches Unbehagen in der Führung der
+  Allianz über die Vermischung kommerzieller Interessen mit militärischem Kommando
+  — ein Unbehagen, das Admiral George Varma und Ratsmitglied Nakato Kaine teilten.
+  Corcorans Karriere veranschaulicht die heikle Gratwanderung, die von Allianz-Offiziellen
+  verlangt wird, die zwischen expansionistischem Ehrgeiz und institutioneller Vorsicht
+  navigieren müssen.
 ---
 
 

@@ -6,7 +6,10 @@ date: '3308-05-02'
 source: API
 summary: Senator Arturo Durant argues the Marlinist Colonies should have accepted
   Imperial protectorate status for protection against the Thargoids.
+summary_de: Senator Arturo Durant argumentiert, die Marlinist-Kolonien hätten den
+  Schutz als imperiales Protektorat annehmen sollen, um sich vor den Thargoids zu schützen.
 player_impact: Not specifically mentioned — this is a political report.
+player_impact_de: Nicht explizit erwähnt — dies ist ein politischer Bericht.
 persons:
 - Arturo Durant
 - Octavia Volkov
@@ -22,6 +25,11 @@ modern_impact: '"The proximity of the Thargoids is an ever-present concern, and 
   exposed how Thargoid advances were being weaponised in political arguments, with
   Imperial senators using alien threat to argue for reabsorption of the breakaway
   colonies.'
+modern_impact_de: „Die Nähe der Thargoids ist ein ständiger Grund zur Sorge, und
+  es stimmt, dass uns eine eigene Flotte fehlt." Die Senatsdebatte über die Verwundbarkeit
+  der Marlinisten offenbarte, wie der Thargoid-Vormarsch für politische Argumente instrumentalisiert
+  wurde — imperiale Senatoren nutzten die außerirdische Bedrohung, um für die Wiederangliederung
+  der abtrünnigen Kolonien zu argumentieren.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -30,6 +38,14 @@ related_uuids:
 - c7e53bc9-4059-5953-ad0d-64ebf255c495
 - c8ab379b-af61-5fb9-8a8e-ca754524ddb7
 - c29442f8-da7f-5d0f-842b-e2451abd99ef
+body_de: |
+  Im Senat wurde vertreten, die Marlinist-Kolonien hätten ein imperiales Protektorat werden sollen, um sich gegen die Thargoids zu schützen.
+  Senator Arturo Durant wurde vom Imperial Herald zitiert:
+  „Die Region mit den Marlinist-Kolonien liegt vergleichsweise nahe an dem, was gemeinhin als Thargoid-Territorium gilt. Ein Schlag der Außerirdischen würde die dürftigen Sicherheitskräfte einer Handvoll unterentwickelter Systeme rasch überwältigen."
+  „Selbstverständlich respektieren wir die Entscheidung Ihrer Majestät, ihre Autonomie anzuerkennen, doch viele fürchten, die Marlinisten könnten die Entscheidung bereuen, außerhalb unseres Schutzbereichs zu stehen. Schließlich waren dies einst imperiale Bürger. Es ist unsere Pflicht, sie zu verteidigen, ob sie uns nun die Erlaubnis dazu geben oder nicht."
+  Ministerpräsidentin Octavia Volkov veröffentlichte eine Antwort über den Marlin Standard:
+  „Die Nähe der Thargoids ist ein ständiger Grund zur Sorge, und es stimmt, dass uns eine eigene Flotte fehlt. Doch viele autorisierte Milizen wie die Dark Wolf Marlinists haben mutig gekämpft, um unsere Bevölkerung zu verteidigen, und werden es wieder tun, sollten die Thargoids ihre Aufmerksamkeit auf uns richten."
+  „Ich erinnere den Senator daran, dass wir nicht nur die Kontrolle über die ursprünglichen Kolonien behalten haben, sondern uns auch auf über zwei Dutzend benachbarte Systeme ausgedehnt haben. Marlin Duvals Traum von einer interstellaren Republik blüht endlich auf — nach Jahrhunderten der Unterdrückung innerhalb des Imperiums."
 ---
 
 

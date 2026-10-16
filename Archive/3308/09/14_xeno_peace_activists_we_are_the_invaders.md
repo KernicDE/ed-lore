@@ -7,7 +7,11 @@ source: API
 summary: Xeno-peace activist Timothy Culver argues that Thargoid incursions are defensive
   reprisals for the Proteus Wave and mycoid bioweapon, calling for diplomatic dialogue
   rather than military action.
+summary_de: Der Xeno-Friedens-Aktivist Timothy Culver argumentiert, Thargoid-Einfälle
+  seien defensive Vergeltung für die Proteus-Welle und die Mykoid-Biowaffe, und fordert
+  diplomatischen Dialog statt militärischer Aktion.
 player_impact: Not specifically mentioned — this is an activist statement.
+player_impact_de: Nicht explizit erwähnt — dies ist eine Aktivisten-Erklärung.
 persons:
 - Timothy Culver
 groups:
@@ -26,6 +30,9 @@ arc_id: thargoid-titan-war
 modern_impact: The xeno-peace movement's reframing of Thargoid aggression as defensive
   retaliation challenges the dominant military narrative and questions humanity's
   own role in provoking the conflict.
+modern_impact_de: Die Neudeutung der Thargoid-Aggression als defensive Vergeltung
+  durch die Xeno-Friedensbewegung stellt die dominante militärische Erzählung infrage
+  und hinterfragt die eigene Rolle der Menschheit bei der Eskalation des Konflikts.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -34,6 +41,13 @@ related_uuids:
 - 8a26f4a9-1a35-52dd-aa8f-1dff5fd3a27d
 - a0ec3597-7ec5-5cd9-923a-5bb63309eb1a
 - c7f92e1d-2f9c-599a-82e3-8426fe6ddf21
+body_de: |
+  Die Xeno-Friedensbewegung, die Kommunikation mit den Thargoids fordert, hat versucht, die jüngsten Einfälle zu rationalisieren.
+  Trotz andauernder Konflikte in den Systemen 42 n Persei, Chun Pindit und Tekkeitjal wird Thargoid-Aggression als defensiv eingeordnet. Berichte von Journalisten in diesen Systemen, die sich zunehmend aggressiv verhaltenden Thargoid-Schiffen widmeten, wurden als ‚Propaganda' großer Medienkonzerne abgetan.
+  Das ‚Thargoid Advocacy Project' — ein Label, das viele Unterstützer der Bewegung in Aufrufen nutzen — fordert, die Behörden müssten sich zur Aufnahme eines Dialogs mit den Außerirdischen verpflichten. Timothy Culver, ein prominenter Aktivist der Xeno-Friedens-Bewegung, gab eine Erklärung gegenüber dem Sovereign ab:
+  „Die Thargoids sind nicht in unseren Raum eingefallen. Wir sind in ihren eingefallen. Ganze Nebel und andere Regionen sind seit über einer Million Jahren von ihnen bewohnt, doch unsere Anführer nehmen arrogant an, diese Regionen seien menschliche Eroberungen. Auf defensive Akte der Thargoids antworteten wir mit der Zerstörung unzähliger ihrer Schiffe, dem Diebstahl ihrer Meta-Legierungs-Ressourcen und dem jüngsten Versuch, ihre gesamte Flotte zu massakrieren."
+  „Diese jüngsten Vorfälle sind Vergeltung für die Proteus-Welle, eine Massenvernichtungswaffe, die in einer der eigenen Oberflächenanlagen der Thargoids gebaut wurde. Es war der zweite derartige Versuch, große Teile der Thargoids zu massakrieren — der erste war die Mykoid-Biowaffe vor weniger als zwei Jahrhunderten. Solche Racheakte sind in der eigenen militärischen Vergangenheit der Menschheit alltäglich."
+  „Die Thargoids antworten in der einzigen Sprache, die unsere Anführer verstehen: Krieg. Es ist an der Zeit, eine neue Sprache zu sprechen. Reden wir mit unseren Nachbarn, statt unsere Waffen auf sie zu richten."
 ---
 
 

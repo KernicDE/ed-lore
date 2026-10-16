@@ -6,8 +6,12 @@ date: '3308-04-21'
 source: API
 summary: Thargoid fleets invade the Didio, Novas, and Sosong systems, placing over
   ten billion lives at risk.
+summary_de: Thargoid-Flotten fallen in die Systeme Didio, Novas und Sosong ein
+  und setzen über zehn Milliarden Leben aufs Spiel.
 player_impact: Independent pilots were called to defend Didio, Novas, and Sosong from
   Thargoid fleets.
+player_impact_de: Unabhängige Piloten wurden aufgerufen, Didio, Novas und Sosong
+  gegen die Thargoid-Flotten zu verteidigen.
 persons:
 - Imogen le Ray
 - Henry Paul Atherton
@@ -34,6 +38,11 @@ modern_impact: '"With Aegis now officially disbanded, its fleet is being tempora
   exposed the catastrophic vulnerability of human space after Aegis''s dissolution,
   forcing a desperate reliance on Salvation''s unproven superweapons and mercenary
   logistics.'
+modern_impact_de: „Nach der offiziellen Auflösung von Aegis wird dessen Flotte vorübergehend
+  von Frontline Solutions betrieben." Die gleichzeitige Invasion der Kernsysteme der
+  Großmächte legte die katastrophale Verwundbarkeit des menschlichen Raums nach dem
+  Zerfall von Aegis offen und erzwang eine verzweifelte Abhängigkeit von den unerprobten
+  Superwaffen des mysteriösen Salvation sowie von Söldnerlogistik.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -44,6 +53,14 @@ related_uuids:
 - a48634df-3075-59f8-9e3b-08fed2398a11
 - 9d58d00e-a467-59fb-8f99-cb8afa9fd72f
 - 98c71f5f-b348-5f4b-ac65-187ffbbb1f4b
+body_de: |
+  **ALERT der Pilotenföderation**
+  Thargoid-Flotten sind in die Systeme Didio, Novas und Sosong eingedrungen und setzen über zehn Milliarden Leben aufs Spiel.
+  Die örtlichen Sicherheitskräfte aller drei Systeme melden überwältigende Zahlen feindlicher Thargoid-Schiffe. Mehrere Sternenstationen wurden direkt mit ätzenden Enzymwaffen angegriffen; die Gesamtzahl der Todesopfer liegt bereits bei Hunderttausenden.
+  Didio, Novas und Sosong gehören jeweils der Allianz, dem Imperium und der Föderation an. Drei Admiräle wurden ausgewählt, um die Verteidigung zu organisieren: Henry Paul Atherton von der Imperialen Flotte, Maxton Price von der Föderalen Flotte und Rachel Ziegler von den Allianz-Verteidigungsstreitkräften.
+  Doch es wird Tage dauern, bis jeder von ihnen ausreichend Kräfte zusammenziehen kann. Daher haben die Fraktionen Emperor's Grace, LTT 4772 Alliance Mandate und Union of Sosong Democrats an alle unabhängigen Piloten Notrufe um Unterstützung ausgesandt.
+  Nachdem Aegis nun offiziell aufgelöst wurde, wird dessen Flotte vorübergehend von Frontline Solutions betrieben. Das militärische Logistikunternehmen stellt die Schiffe mit einer Freiwilligen-Pilotenstreitmacht zur Verfügung, die die Großmächte in von Thargoid-Flotten überrannten Systemen unterstützen wird. Quellen zufolge wird eine dauerhaftere Lösung gesucht, da Frontline-Solutions-CEO Imogen le Ray einer langfristigen Bindung der Ressourcen ihres Unternehmens an den Anti-Xeno-Einsatz offenbar ablehnend gegenübersteht.
+  Die Allianz, das Imperium und die Föderation koordinieren sich derzeit mit Salvation, dessen einzigartige Waffen sich gegen Thargoid-Einfälle ähnlichen Ausmaßes als wirksam erwiesen haben. Salvation hat sich bislang nicht öffentlich geäußert.
 ---
 
 

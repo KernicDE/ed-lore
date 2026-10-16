@@ -6,8 +6,12 @@ date: '3308-11-25'
 source: API
 summary: Investigations in the Hyades Sector YO-Q b5-1 system have confirmed that
   Thargoid vessels attacked and destroyed the Kingfisher megaship.
+summary_de: Ermittlungen im System Hyades Sector YO-Q b5-1 haben bestätigt, dass Thargoid-Schiffe
+  das Megaschiff Kingfisher angegriffen und zerstört haben.
 player_impact: This article focuses on political and strategic developments without
   direct pilot involvement.
+player_impact_de: Dieser Artikel konzentriert sich auf politische und strategische
+  Entwicklungen ohne direkte Pilotenbetiligung.
 persons:
 - Dalton Chase
 - Elias Pope
@@ -25,6 +29,9 @@ arc_id: thargoid-titan-war
 modern_impact: '"Independent and Federal sources have verified that the Kingfisher
   was struck by multiple barrages from Thargoid weapo..." The failure of civilian-led
   diplomacy underscores the dangers of underestimating Thargoid hostility.'
+modern_impact_de: '„Unabhängige und föderale Quellen haben bestätigt, dass die Kingfisher
+  von mehreren Salven aus Thargoid-Waffen getroffen wor…" Das Scheitern zivil geführter
+  Diplomatie unterstreicht die Gefahren einer Unterschätzung der Thargoid-Feindseligkeit.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -34,6 +41,14 @@ related_uuids:
 - 9d88d95b-e2d8-5107-bb42-666da4ea00bf
 - f2680020-36ae-554f-ae92-3a367a9f1d23
 - ff9426a9-0b2c-55d7-8741-dd9fbd4364ff
+body_de: |
+  Ermittlungen im System Hyades Sector YO-Q b5-1 haben bestätigt, dass Thargoid-Schiffe das Megaschiff Kingfisher angegriffen und zerstört haben.
+  Vox Galactica veröffentlichte diesen Bericht vor Ort von Korrespondent Ernesto Rios:
+  „Unabhängige und föderale Quellen haben bestätigt, dass die Kingfisher von mehreren Salven aus Thargoid-Waffen getroffen wurde. Medizinische Teams durchsuchen derzeit das Wrack des Megaschiffs nach Besatzungsmitgliedern und Passagieren. Leider deutet das Ausmaß der Schäden, soweit ich es gesehen habe, darauf hin, dass die Überlebenschancen äußerst gering sind."
+  „Eine weitere Bestätigung brachte die Entdeckung eines Logbucheintrags von Dr. Elias Pope von der Orion University, der die Versuche zur Kommunikation mit den Thargoiden überwachte. Obwohl ich diese Aufnahme selbst noch nicht gehört habe, beschreibt sie anscheinend genau, was geschah, als die Taranis-Anomalie das System durchquerte."
+  „Mit der Verbreitung der Nachricht über die Tragödie wuchs der laute Gegenwind gegen das Thargoid Advocacy Project. Diese Randgruppe hatte durch die Beteiligung von Kongressabgeordnetem Dalton Chase und anderen Medienpersönlichkeiten kürzlich einen gewissen Respekt erlangt. Doch nun herrscht weit verbreitete Wut darüber, dass – wie die Redaktion von Sol Today schrieb – ‚Tausende Menschen auf Basis einer vagen Hoffnung in den Tod geschickt wurden, dass diese außerirdischen Kriegstreiber plötzlich nett spielen könnten.'"
+  „Kongressabgeordneter Chase selbst sagte der Presse, er prüfe die neuesten Berichte aus Hyades Sector YO-Q b5-1 und könne noch keine offizielle Stellungnahme abgeben. Als Gesicht der Kingfisher-Mission werden formelle Forderungen nach Verantwortung wahrscheinlich an ihn gerichtet werden."
+  „Unterdessen rückt Taranis immer näher an den von Menschen bewohnten Raum heran. Die Zerstörung der Kingfisher beweist endgültig, dass die unberechenbaren Signalquellen thargoidischen Ursprungs sind und ihre Absichten feindlich. Mit der Aussicht, dass sich der Zweite Thargoid-Krieg zu neuen Ausmaßen steigert, ist die Spannung in den Kernsystemen noch nie so hoch gewesen."
 ---
 
 

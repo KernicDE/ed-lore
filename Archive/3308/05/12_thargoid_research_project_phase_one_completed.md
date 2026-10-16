@@ -6,8 +6,12 @@ date: '3308-05-12'
 source: API
 summary: Professor Ishmael Palin completes the first phase of his Thargoid research
   project after receiving meta-alloy shipments.
+summary_de: Professor Ishmael Palin schließt die erste Phase seines Thargoid-Forschungsprojekts
+  nach Eingang der Meta-Legierungs-Lieferungen ab.
 player_impact: Pilots who delivered meta-alloys can collect payments and corrosion
   resistant cargo racks at James Sneddon in Morten-Marte.
+player_impact_de: Piloten, die Meta-Legierungen geliefert haben, können Zahlungen
+  und korrosionsbeständige Frachtregale bei James Sneddon in Morten-Marte abholen.
 persons:
 - Ishmael Palin
 groups:
@@ -27,6 +31,11 @@ modern_impact: '"I am planning the second phase of this project, which has the c
   collaboration represented a rare moment of scientific unity that stood in stark
   contrast to the fractured military response coordinated around Salvation''s unilateral
   weapon programme.'
+modern_impact_de: „Ich plane die zweite Phase dieses Projekts, die von Allianz, Imperium
+  und Föderation gemeinsam unterstützt wird." Palins trinationale Forschungskooperation
+  war ein seltener Moment wissenschaftlicher Einigkeit — im krassen Gegensatz zur
+  zersplitterten militärischen Reaktion, die sich um das einseitige Waffenprogramm
+  von Salvation koordinierte.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -36,6 +45,14 @@ related_uuids:
 - 42c8c8e5-17ba-51ac-ab9d-8271796d025d
 - 14b0684a-7610-509b-93da-bc380c0cacd4
 - 2a405898-44a3-5d69-a93e-af922725bf23
+body_de: |
+  **ALERT der Pilotenföderation**
+  Professor Ishmael Palin hat mehrere Lieferungen von Thargoid-Meta-Legierungen für xenologische Untersuchungen erhalten.
+  Von seiner Werkstatt, dem Abel Laboratory im Arque-System, gab Professor Palin folgende Erklärung ab:
+  „Ich bin allen zutiefst dankbar, die Meta-Legierungen an Barnacle-Stätten gesammelt haben. Die Analyse dieser Proben wird uns helfen, mehr über die biomechanische Technologie zu erfahren, die derzeit von den Thargoid-Flotten eingesetzt wird."
+  „Ich plane die zweite Phase dieses Projekts, die von Allianz, Imperium und Föderation gemeinsam unterstützt wird. Trotz des Schreckens der jüngsten Angriffe müssen wir jede Gelegenheit nutzen, um unser Wissen zu erweitern."
+  Professor Palin hat Zahlungen für alle Piloten genehmigt, die an der Initiative teilgenommen haben. Dazu gehört die Vergabe korrosionsbeständiger Frachtregale der Klassen 4A, 5A und 6A an die größten Beitragsleister.
+  Die Belohnungen können bei der Sternenstation James Sneddon im System Morten-Marte abgeholt werden. Zudem wird die Federal Reclamation Co weiterhin hohe Preise für Thargoid-Gewebeproben bieten, die über den Markt der Station verkauft werden.
 ---
 
 

@@ -10,6 +10,18 @@ bio: 'Rachel Ziegler is a Admiral in Elite Dangerous lore, active from 3305-05-1
   include: Thargoid fleets invade the Didio, Novas, and Sosong systems, placing over
   ten billion lives at risk.; Sirius Corporation claims the Thargoid incursions prove
   the necessity of its strategic defence pact with the Alliance.'
+bio_de: Admiral Rachel Ziegler ist eine hochrangige Offizierin der Allianz-Verteidigungsstreitkräfte,
+  die 3305 Präsident Gibson Kincaids militärischen Machtgriff öffentlich verurteilte.
+  Als Kincaid durch Admiral Frederick Yamamoto — einen persönlichen Freund — das
+  direkte Kommando über die Zaonce-Flotte übernahm, bezeichnete Ziegler den Schritt
+  als „politische Großsprecherei, die an Verrat grenzt".
+
+  Ihr Widerstand unterstrich die Ablehnung des Admiralsrats gegen Kincaids autoritäre
+  Ambitionen, zu denen es gehörte, die bestehende Kommandostruktur der ADF zu umgehen.
+  Zieglers Haltung stand in Einklang mit Premierminister Edmund Mahons Forderung nach
+  Kincaids Rücktritt, und ihre öffentliche Verurteilung zeigte, dass hochrangige
+  Offiziere bereit waren, politischer Einmischung in die Befehlskette der Allianz-Verteidigungsstreitkräfte
+  entgegenzutreten.
 ---
 
 
