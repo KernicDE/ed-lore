@@ -47,7 +47,6 @@ significance: high
 related_uuids:
 - dc080e97-cc4c-55c0-a84e-b80d6fba5d83
 - 1d16de43-7abf-5dee-bbee-3f23768c50f9
----
 body_de: |
   **ALARM der Piloten-Föderation**
 
@@ -62,7 +61,7 @@ body_de: |
   „Die Allianz, das Imperium und die Föderation haben alle zugestimmt, den Großteil der Aegis-Finanzierung auf das Anti-Titan-Projekt umzulenken. Wir haben außerdem zusätzliche Unterstützung zur Konstruktion von Prototypen und zur Beschleunigung der Testverfahren hinzugezogen. Obwohl die Einzelheiten weiterhin geheim gehalten werden, könnten wir bei anhaltend positiven Ergebnissen in nur einer Woche an die Öffentlichkeit gehen.“
 
   Aegis hat bestätigt, dass alle, die zu dieser Initiative beigetragen haben, nun ihre Belohnungen an der Austen Town Station im Arque-System abholen können.
-
+---
 
 **Pilots’ Federation ALERT**
 Chemicals harvested from Thargoid spire sites have accelerated Aegis’s development of a weapon to destroy the Titans.

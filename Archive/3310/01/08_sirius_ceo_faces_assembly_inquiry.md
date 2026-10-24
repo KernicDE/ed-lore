@@ -52,7 +52,6 @@ related_uuids:
 - 6632e17b-34c6-59ea-9191-ec8d4d51ea1e
 - e0b48359-9e1e-557a-b290-f47faa8356bb
 - f2680020-36ae-554f-ae92-3a367a9f1d23
----
 body_de: |
   Li Yong-Rui, CEO der Sirius Corporation, hat vor der Assembly der Allianz als Teil ihrer formellen Untersuchung des strategischen Verteidigungspakts gesprochen.
 
@@ -69,7 +68,7 @@ body_de: |
   „Ich darf die ehrenwerte Councilor an ihr jüngst gescheitertes Vorhaben im Tionisla-System erinnern, um zu ‚beweisen, dass die Allianz nicht von Sirius abhängig ist‘. Zwar ist die Allianz eine mächtige Einheit mit beträchtlichen Ressourcen, doch das geringe Engagement in Kaines Kampagne legt nahe, dass Sirius‘ Beteiligung weiterhin unverzichtbar ist. Unser Unternehmen erledigt nun viele der routinemäßigen logistischen Belieferungen der ADF — weit effizienter als zuvor. Gefällt es Ihnen oder nicht, wir bleiben.“
 
   Von der Untersuchung des strategischen Verteidigungspakts werden weitere Gespräche innerhalb der Sirius Corporation und in relevanten Organisationen der Allianz erwartet. Admiral Nikolas Glass und andere Mitglieder des Admiralitätsrats haben ebenfalls zugestimmt, ihre Beobachtungen beizusteuern.
-
+---
 
 Li Yong-Rui, CEO of Sirius Corporation, has addressed the Alliance Assembly as part of its formal inquiry into the strategic defence pact.
 The inquiry was proposed by Councillor Nakato Kaine, who highlighted the lack of military support provided by the megacorp against the Thargoids.

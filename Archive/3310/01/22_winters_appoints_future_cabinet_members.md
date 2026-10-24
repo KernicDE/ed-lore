@@ -47,7 +47,6 @@ legacy_weight: 3
 significance: medium
 related_uuids:
 - 744df92b-039d-5070-b188-50ba993da16b
----
 body_de: |
   Die designierte Präsidentin Felicia Winters hat offiziell neue Leitungen für jede Exekutivabteilung der Föderalen Regierung bestimmt.
 
@@ -64,7 +63,7 @@ body_de: |
   „Unter den künftigen Kabinettsmitgliedern gibt es auch einige neue Gesichter. Neuer Generalstaatsanwalt wird Pierre-Marc Pelletier, ein früherer Direktor der Föderalen Anwaltschaft. Verteidigungsminister wird Kongressabgeordneter Conn Montgomery, der die Anforderungen einer föderalen Marine navigieren muss, die Zachary Hudsons großzügige Militäretats gewohnt ist.“
 
   In anderen Nachrichten laufen die Planungen für Felicia Winters‘ Amtseinführungszeremonie Mitte Februar. Das Büro von Präsident Hudson bestätigte, dass die Übergabeverfahren weit fortgeschritten sind und dass sich alle Regierungsbehörden und -abteilungen auf die neue Führung der Föderation vorbereiten.
-
+---
 
 President-elect Felicia Winters has officially selected new heads for each executive department of the Federal government.
 She announced her choices during a session of Congress, where she gave a short speech about her upcoming presidency. This was followed by a similar statement from Isolde Rochester, who will serve as Winters’s vice president.

@@ -49,7 +49,6 @@ related_uuids:
 - 7cd5f83a-9675-5e63-9430-e53a2bd51e6f
 - 2a25a3ae-9010-5554-8f52-0731676ebd52
 - 69b8ea0c-5e6f-5d31-8a63-0a98141b33ee
----
 body_de: |
   Der Imperiale Senat hat Senatorin Zemina Torval nach mehrmonatiger Abwesenheit offiziell wieder begrüßt.
 
@@ -66,7 +65,7 @@ body_de: |
   „Mit 132 Jahren ist Zemina Torval eine der dienstältesten Senatsmitglieder. Während ihrer jahrzehntelangen Tätigkeit hat sie sich viele Feinde gemacht, die alle zutiefst verärgert gewesen sein dürften, sie zurückzusehen — so eindrucksvoll wie eh und je.“
 
   „Der Grund, warum sie auf einen Ruhestand verzichtete, könnte sein, dass Kanzler Anders Blaine selbst diese Option erwägt. Aufgrund ihrer Dienstzeit hat Torval bereits mehrfach kommissarisch als Kanzlerin ausgeholfen. Wenn Blaine zurücktritt und das mächtigste Amt im Senat frei wird, würde das Torvals Entscheidung, sich ausschließlich ihrer politischen Karriere zu widmen, durchaus rechtfertigen.“
-
+---
 
 The Imperial Senate has formally welcomed back Senator Zemina Torval, following an absence of several months.
 Torval’s reappearance put an end to rumours that she was suffering from ill health. Her youngest daughter, Senator Petra Torval, had been standing in for her mother by representing the Imperial populace of the Synteini system.

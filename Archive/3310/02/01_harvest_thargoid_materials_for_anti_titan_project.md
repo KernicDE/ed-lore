@@ -51,7 +51,6 @@ related_uuids:
 - 0a469ac3-4989-5634-92f3-699ab9b25e7c
 - 1d16de43-7abf-5dee-bbee-3f23768c50f9
 - a8b2b100-a5eb-5534-9408-5a7e223e6765
----
 body_de: |
   **ALARM der Piloten-Föderation**
 
@@ -70,8 +69,7 @@ body_de: |
   „Ich tue nicht so, als würde ich die gesamte Wissenschaft hinter Ram Tahs und Palins Arbeit verstehen. Aber das Wenige, das ich gesehen habe, ließ mich etwas spüren, das es heutzutage sehr selten gibt: Hoffnung. Es war noch nie ein wichtigerer Zeitpunkt, alle zusammenzubringen, und vielleicht hilft es uns, das Unmögliche zu erreichen.“
 
   Lieferungen von Korallenharz, unreinen Spire-Mineralien und halb raffinierten Spire-Mineralien können an der Austen Town Station im Arque-System abgegeben werden.
-
-
+---
 
 **Pilots’ Federation ALERT**
 Aegis is urgently requesting deliveries of Thargoid spire site materials to Professor Ishmael Palin in the Arque system.

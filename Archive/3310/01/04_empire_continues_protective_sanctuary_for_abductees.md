@@ -51,7 +51,6 @@ related_uuids:
 - e2152afd-5961-5820-85e3-4bbb80c98c7d
 - 7b1495a0-0413-5d22-af0c-bc7fcf8090d4
 - e86d3225-ed06-59b9-b30f-b2c6a3f2dbae
----
 body_de: |
   Kaiserin Arissa Lavigny-Duval hat entschieden, dass alle aus Thargoid-Titanen geretteten imperialen Bürger auf unbestimmte Zeit unter Quarantäne bleiben.
 
@@ -68,7 +67,7 @@ body_de: |
   „Hofinsidern zufolge ersuchte Prinzessin Aisling Duval um eine persönliche Audienz bei der Kaiserin, in der Hoffnung, sie zur Aufhebung der Quarantäne zu bewegen. Mir wurde berichtet, dass dies mit aller Deutlichkeit abgelehnt wurde, verbunden mit dem Hinweis, die Prinzessin solle sich auf ihre Aufgabe bei Aegis konzentrieren.“
 
   „Der Imperiale Palast reagierte auch auf Kamadhenu Medipure, das gefordert hatte, alle Entführten in den Tiefenraum zu verlegen und möglicherweise zu euthanasieren. Das Unternehmen wurde für seine ‚umfassenden Vorschläge‘ gedankt, erhielt jedoch den Auftrag, solche Erwägungen dem Senat zu überlassen.“
-
+---
 
 Emperor Arissa Lavigny-Duval has decided that all Imperial citizens recovered from Thargoid Titans will remain in quarantine indefinitely.
 An official pronouncement on behalf of the Emperor was distributed by the Imperial Palace:
