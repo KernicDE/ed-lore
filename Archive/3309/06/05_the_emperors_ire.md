@@ -1,12 +1,17 @@
 ---
 uuid: bd3d69a8-2184-593f-8bfa-62a8d265c1c4
 title: The Emperor’s Ire
+title_de: 'Der Zorn der Kaiserin'
 slug: the_emperors_ire
 date: '3309-06-05'
 source: API
 summary: Emperor Arissa responds to Hadrian Duval's criticism of her Aegis contribution,
   reminding him of her mercy after the Nova Imperium affair and asserting her authority.
+summary_de: Kaiserin Arissa reagiert auf Hadrian Duvals Kritik an ihrem Beitrag zu
+  Aegis, erinnert ihn an ihre Gnade nach der Nova-Imperium-Affäre und behauptet ihre
+  Autorität.
 player_impact: Not specifically mentioned — this is a political report.
+player_impact_de: Nicht explizit erwähnt — dies ist ein politischer Bericht.
 persons:
 - Arissa Lavigny-Duval
 - Hadrian Duval
@@ -30,6 +35,14 @@ modern_impact: Arissa's pointed reference — 'some may recall when his Nova Imp
   Aisling to both mercy and military cooperation. Blaine's clarification — 'Hadrian
   Duval is not officially a prince of the royal family, but is nevertheless considered
   a loyal ally for as long as it pleases the Emperor' — is chillingly conditional.
+modern_impact_de: Arissas gezielte Anspielung — ‚manche mögen sich erinnern, wie seine
+  Nova-Imperium-Extremisten einst drohten, weitläufige Unruhen auszulösen. Ich entschied
+  mich, ihn vor dem Schicksal seiner Mitverschwörer zu bewahren' — ist eine direkte
+  Drohung. Ihre Erwähnung, dass ‚Prinzessin Aisling dafür mit derselben Leidenschaft
+  eintrat, die sie auch für das Aegis-Projekt zeigte', verknüpft Aisling mit Gnade und
+  militärischer Kooperation. Blaines Präzisierung — ‚Hadrian Duval ist offiziell kein
+  Prinz der königlichen Familie, wird aber dennoch als loyaler Verbündeter betrachtet,
+  solange es der Kaiserin gefällt' — ist erschreckend bedingt.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -38,6 +51,14 @@ related_uuids:
 - a1b8a394-834d-5abc-bae2-ab0de6f5c25a
 - 281d1638-d74c-563d-baee-276e46af5b27
 - e86d3225-ed06-59b9-b30f-b2c6a3f2dbae
+body_de: |
+  Kaiserin Arissa Lavigny-Duval hat auf die Kritik von Hadrian Duval an ihrer Entscheidung, zu Aegis beizutragen, reagiert.
+  Während einer öffentlichen Ansprache zur Eröffnung eines marinen Forschungs- und Entwicklungskomplexes auf Achenar erklärte die Kaiserin:
+  „Zur Vermeidung von Zweifeln: Mein Erlass, den Kontakt mit der Allianz und der Föderation zu stoppen, bleibt in Kraft. Welche Fortschritte in Bewaffnung oder Verteidigung an diesen beeindruckenden Anlagen auch erzielt werden, sie werden ausschließlich von der Imperialen Marine genutzt, um imperiale Bürger zu schützen."
+  „Aegis' Status als unabhängige Agentur macht es zu einer legalen Ausnahme unter der Cornelius-Lasky-Konvention. Nur ein kleiner Teil der militärischen Ausgaben des Imperiums fließt in die Anti-Xeno-Kräfte von Aegis."
+  „Was Hadrian Duval betrifft: Manche mögen sich erinnern, wie seine Nova-Imperium-Extremisten einst drohten, weitläufige Unruhen auszulösen. Ich entschied mich, ihn vor dem Schicksal seiner Mitverschwörer zu bewahren, wofür Prinzessin Aisling mit derselben Leidenschaft eintrat, die sie auch für das Aegis-Projekt zeigte. Sollte Hadrian meinen ‚schwachen Geist' weiter auf die Probe stellen wollen, rate ich ihm dringend, solche Gedanken künftig für sich zu behalten."
+  Der Zwist zwischen den Duvals löste im Senat eine Debatte aus; Senatorin Petra Torval argumentierte, die Kaiserin betrachte Hadrian Duval eindeutig als ‚Feind des Imperiums'. Die Angelegenheit wurde durch eine Erklärung von Kanzler Anders Blaine geklärt:
+  „Der Vertrag von Paresa bindet alle ehemaligen Mitglieder von Nova Imperium als Untertanen des Throns. Ihre Majestät hat daran erinnert, dass Hadrian Duval offiziell kein Prinz der königlichen Familie ist, aber dennoch als loyaler Verbündeter betrachtet wird, solange es der Kaiserin gefällt."
 ---
 
 

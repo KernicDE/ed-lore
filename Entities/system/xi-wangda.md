@@ -25,6 +25,8 @@ edsm_url: https://www.edsm.net/en/system/id/7837/name/Xi%20Wangda
 inara_url: https://inara.cz/elite/starsystem/?search=Xi%20Wangda
 bio: 'Xi Wangda is a star system in the Elite Dangerous universe, significant from
   3309-07-20 to 3309-07-20. Associated with Holloway Bioscience Institute. '
+bio_de: 'Xi Wangda ist ein Sternensystem im Elite-Dangerous-Universum, das am 3309-07-20
+  relevant war. In Verbindung mit dem Holloway Bioscience Institute. '
 ---
 
 

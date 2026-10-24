@@ -7,6 +7,22 @@ last_seen_date: '3309-09-07'
 mention_count: 5
 bio: Skylar Anderson is an Imperial Navy Vice Admiral who served as the Empire's military
   liaison to Aegis during the Thargoid Titan War.
+bio_de: Vizeadmiralin Skylar Anderson ist eine Offizierin der kaiserlichen Marine,
+  die während des Thargoid-Titanenkriegs als militärische Verbindungsoffizierin
+  des Imperiums zu Aegis diente. Im Jahr 3309 wurde sie von Prinzessin Aisling
+  Duval als Teil der imperialen Delegation für ein reformiertes Aegis ausgewählt,
+  zusammen mit Senator Caspian Leopold und dem Xenologie-Spezialisten Ivano
+  Colombera.
+
+  Anderson übernahm die strategische Aufsicht über die Vermessung von Ammoniak-Welten
+  und wies darauf hin, dass die Daten zur Positionierung versteckter Sensorbojen
+  in Systemen mit Ammoniak-Welten genutzt würden, um Aegis über Thargoid-Schiffe
+  oder Maelstrom-Manifestationen zu alarmieren und Frühwarnungen für Evakuierungen
+  oder Präventivschläge zu ermöglichen. Ihre militärische Sichtweise betonte den
+  taktischen Wert von Erkundungsdaten in einem Krieg, in dem Thargoid-Inkursionen
+  ohne Vorwarnung auftreten konnten. Andersons Ernennung zur Aegis-Verbindungsoffizierin
+  repräsentierte das vorsichtige Wieder-Engagement des Imperiums in die trinationale
+  Anti-Xeno-Kooperation nach Kaiserin Arissas isolationistischer Wende.
 ---
 
 # Skylar Anderson

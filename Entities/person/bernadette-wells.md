@@ -7,6 +7,8 @@ last_seen_date: '3309-08-17'
 mention_count: 2
 bio: 'Bernadette Wells is a prominent figure in the Elite Dangerous universe, active
   from 3308-11-14 to 3309-08-17. '
+bio_de: Bernadette Wells ist eine bekannte Figur im Elite-Dangerous-Universum,
+  aktiv vom 3308-11-14 bis zum 3309-08-17.
 ---
 
 

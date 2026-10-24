@@ -11,6 +11,10 @@ bio: 'Himari Grey is a President in Elite Dangerous lore, active from 3304-12-14
   arrive and survive extraction, with Dr Grey observing their physical and psychological
   state.; The IHO reviews Vitadyne Labs''s nanomedicines amid an ethical debate: should
   revolutionary healthcare technology be freely distributed despite Utop...'
+bio_de: |-
+  Dr Himari Grey ist eine Gesundheitsanalystin, die im Januar 3305 zu einer prominenten Stimme in der ethischen Debatte um die Nanomedizin von Vitadyne Labs wurde. Die Interstellar Health Organisation prüfte die revolutionäre Medizintechnik des Unternehmens, die Vitadyne zugab, auf fortschrittlicher Technologie zu beruhen, die ursprünglich von Utopia entwickelt worden war.
+
+  Grey äußerte sich über Vox Galactica zu der Lage und wies darauf hin, dass Pranav Antal offiziell Beschwerde erhoben hatte, das unerlaubte Nachbauen utopischer Technologie sei „geradezu Diebstahl". Sie skizzierte die konkurrierenden ethischen Erwägungen – viele in der medizinischen Gemeinschaft argumentierten, Utopia handle egoistisch, indem es Medikamente horte, die viele Krankheiten und Verletzungen behandeln könnten, während Investoren Millionen in Vitadyne Labs gepumpt hatten, überzeugt, dass die Gewinne in die Milliarden gehen würden. Grey warnte, dass Nanomedizin als kommerzielle Ware nur „sehr reiche Menschen" sich das Produkt von Vitadyne leisten könnten. Ihre Analyse legte den grundlegenden Konflikt zwischen proprietärer Gemeinschaftstechnologie und den gesundheitlichen Bedürfnissen der Galaxis offen und gab einer Debatte Rahmen, die in der gesamten Pharmabranche nachhallte und das letztliche Urteil der IHO beeinflusste.
 ---
 
 

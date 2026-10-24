@@ -31,6 +31,21 @@ bio: 'Paresa is a system in Elite Dangerous, significant from 3305-01-05 to 3309
   in the Battle of Paresa by Imperial forces led by Yupini Limited, with Senator Patreus
   warning that the Empire will not t...'
 reserve: Common
+bio_de: 'Paresa ist ein agrarisch geprägtes System des Imperiums mit sechs Milliarden
+  Einwohnern am Rand des Imperialen Raums und historisch das wichtigste Bollwerk der
+  isolationistischen Bewegung Nova Imperium. Unter der Schirmherrschaft von Nova Paresa
+  wurde das System zum Schauplatz eines der bedeutendsten Bürgerkriege der jüngeren
+  Imperialen Geschichte, als Kaiserin Arissa Lavigny-Duval 3305 offen Krieg gegen
+  Nova Imperium erklärte.
+
+  Die Schlacht um Paresa endete damit, dass die Imperialen Streitkräfte – angeführt
+  von den Hilfstruppen von Senator Denton Patreus – die isolationistische Rebellion
+  vernichteten und ihren Anführer, Imperator Kaeso Mordanticus, auf dem Boden des
+  Senats hinrichteten. Hadrian Duval, die Galionsfigur des Nova Imperium, überlebte
+  die Säuberung und wurde später begnadigt, doch die Verbindung des Systems zum
+  gescheiterten Aufstand prägte seine Identität dauerhaft. Paresa bleibt ein eindrückliches
+  Symbol sowohl für die Einheit des Imperiums als auch für die tödlichen Folgen, den
+  Thron herauszufordern.'
 ---
 
 <!-- AUTO-GENERATED -->

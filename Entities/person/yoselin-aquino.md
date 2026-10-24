@@ -7,6 +7,8 @@ last_seen_date: '3309-10-06'
 mention_count: 1
 bio: 'Yoselin Aquino is a scientist in the Elite Dangerous universe, active from 3309-10-06
   to 3309-10-06. Closely associated with Aegis. '
+bio_de: 'Yoselin Aquino ist eine Wissenschaftlerin im Elite-Dangerous-Universum, aktiv
+  von 3309-10-06 bis 3309-10-06. Eng mit Aegis verbunden.'
 ---
 
 

@@ -27,6 +27,8 @@ inara_url: https://inara.cz/elite/starsystem/?search=Popontia
 bio: 'Popontia is a star system in the Elite Dangerous universe, significant from
   3308-09-29 to 3309-06-08. Associated with Federal Navy, Popontia Incorporated. '
 reserve: Common
+bio_de: 'Popontia ist ein Sternensystem im Elite-Dangerous-Universum, das von 3308-09-29
+  bis 3309-06-08 relevant war. In Verbindung mit der Federal Navy und Popontia Incorporated. '
 ---
 
 <!-- AUTO-GENERATED -->

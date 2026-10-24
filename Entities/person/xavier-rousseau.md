@@ -7,6 +7,8 @@ last_seen_date: '3309-06-09'
 mention_count: 1
 bio: 'Xavier Rousseau is a prominent figure in the Elite Dangerous universe, active
   from 3309-06-09 to 3309-06-09. Closely associated with Azimuth Biotech. '
+bio_de: Xavier Rousseau ist eine prominente Figur im Elite-Dangerous-Universum,
+  aktiv vom 09.06.3309 bis zum 09.06.3309. Eng verbunden mit Azimuth Biotech.
 ---
 
 

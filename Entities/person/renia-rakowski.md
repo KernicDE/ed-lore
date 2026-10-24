@@ -9,6 +9,11 @@ bio: Renia Rakowski is a commander in the Elite Dangerous universe, active from 
   to 3309-08-17. Closely associated with Universal Cartographics. Commander Renia
   Rakowski reports a non-aggressive Thargoid interceptor encounter far from the Maelstroms,
   raising questions about Thargoid distribution and motives.
+bio_de: Renia Rakowski ist eine Kommandantin im Elite-Dangerous-Universum, aktiv
+  vom 14.08.3309 bis zum 17.08.3309. Eng verbunden mit Universal Cartographics.
+  Kommandantin Renia Rakowski meldet eine nicht aggressive Begegnung mit einem
+  Thargoid-Interceptor weit entfernt von den Maelstroms, was Fragen zur Verbreitung
+  und den Motiven der Thargoids aufwirft.
 ---
 
 

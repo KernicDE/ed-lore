@@ -1,12 +1,16 @@
 ---
 uuid: ee968e3a-66d9-5f52-a8b6-0043786fe8e2
 title: Azimuth Plans Corporate Convention
+title_de: Azimuth plant Firmenkonvention
 slug: azimuth_plans_corporate_convention
 date: '3309-07-10'
 source: API
 summary: Azimuth Biotech plans an invitation-only business convention to seek partnerships,
   with speculation about a new weapon schematic and concerns about corporate secrecy.
+summary_de: Azimuth Biotech plant eine Businesskonvention nur auf Einladung, um Partnerschaften
+  zu suchen, mit Spekulationen über einen neuen Waffenbauplan und Bedenken wegen der Firmengeheimniskrämerei.
 player_impact: Not specifically mentioned — this is a corporate announcement.
+player_impact_de: Nicht explizit erwähnt — dies ist eine Firmenankündigung.
 persons:
 - Torben Rademaker
 - Marlon Royce
@@ -28,12 +32,35 @@ modern_impact: Rademaker's framing — 'Aegis's questionable policy of providing
   The mention of 'Operation Wych Hunt disruption' and the use of 'private couriers
   to transport guests' shows Azimuth's paranoia. The attendance of Herculean Machines,
   Space Lanes Cargo, and Holloway Bioscience Institute signals potential alliances.
+modern_impact_de: Rademakers Rahmung — ‚Aegis‘ fragwürdige Politik, Nutzmodule statt
+  mehr Feuerkraft bereitzustellen‘ — ist wettbewerbsorientierte Stichelei. Royce' Analyse
+  — ‚die Konvention geht der Ankündigung eines überarbeiteten Waffenbauplans voraus‘
+  — ist aufschlussreich. Die Erwähnung von ‚Störungen durch Operation Wych Hunt‘ und
+  der Einsatz ‚privater Kurierdienste zur Beförderung der Gäste‘ zeigen Azimuths Paranoia.
+  Die Teilnahme von Herculean Machines, Space Lanes Cargo und dem Holloway Bioscience
+  Institute deutet auf mögliche Bündnisse hin.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 3e1f7df6-c97e-5254-9465-9e693f6a19c6
 - 582f415f-4da7-5803-abee-6edac568efc6
 - d550b561-0a99-5e53-b940-ea281f0112b6
+body_de: |
+  Azimuth Biotech hat eine Veranstaltung nur auf Einladung für zukünftige Geschäftspartner und militärische Verbindungsoffiziere angekündigt.
+
+  CEO Torben Rademaker gab eine Erklärung an die Medien ab:
+
+  „Es sind neue Möglichkeiten entstanden, dass Azimuth die Führung bei Anti-Xeno-Operationen wieder übernimmt. Während Thargoid-Flotten durch die Kernsysteme wüten und Aegis fragwürdig Politik macht, indem es Nutzmodule statt mehr Feuerkraft bereitstellt, liegt die Verteidigung der Menschheit erneut in unseren Händen. Doch unsere Organisation wird nicht länger im Alleingang arbeiten.“
+
+  „Ich habe ausgewählten Geldgebern, Militärs, Forschungsgruppen und Fertigungsunternehmen die Hand der Partnerschaft gereicht. Sie sind eingeladen, sich zu versammeln und Methoden zu besprechen, wie sie uns helfen können, das Böse der Thargoids zu bekämpfen.“
+
+  Der Wirtschaftsanalyst Marlon Royce veröffentlichte diesen Bericht über Vox Galactica:
+
+  „Oberflächlich betrachtet scheint dies eine PR-Übung für Azimuth Biotech zu sein. Doch die relativ geringe Unterstützung des Unternehmens durch unabhängige Piloten in einer kürzlichen Initiative zur Beschaffung von Thargoid-Gewebeproben hat die Suche nach Verbündeten beschleunigt. Gerüchte in der Tech-Community deuten darauf hin, dass der Konvention die Ankündigung eines überarbeiteten Waffenbauplans vorausgeht, um den Appetit der Investoren anzuregen.“
+
+  „Azimuth setzt private Kurierdienste ein, um Gäste zur und von der Konvention zu transportieren, vollständig auf eigene Kosten. Diese großzügige professionelle Höflichkeit garantiert zugleich die Anonymität der Teilnehmer, sodass sich schwer ermitteln lässt, wer auf Rademakers Gästeliste steht. Angesichts der Nervosität wegen möglicher Störungen durch Operation Wych Hunt erscheint dies als weise Entscheidung.“
+
+  „Bekannt ist, dass Herculean Machines und Space Lanes Cargo Vertreter entsenden. Auch Aanya Gupta, CEO des Holloway Bioscience Institute, stimmte einem Treffen mit dem konkurrierenden Xenoforscher zu. Der Rest vermeidet jedoch eine öffentliche Verbindung mit Azimuth Biotech, das wegen seiner Rolle in der Schlacht von HIP 22460 und der anschließenden Vergeltung der Thargoids enorme Kritik einstecken musste.“
 ---
 
 

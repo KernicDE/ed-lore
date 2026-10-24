@@ -11,6 +11,10 @@ bio: 'Alfred Ulyanov is a Journalist in Elite Dangerous lore, active from 3304-0
   an article on a fringe religion that worships Thargoids as divine messengers of
   an en...; Weekly summary covering Aisling Duval''s anti-slavery campaign merging
   with Universal Liberty to form Unchain, Lori Jameson''s denunciation of the Le...'
+bio_de: |-
+  Dr. Alfred Ulyanov ist ein führender akademischer Experte für Exotheologie – die Erforschung außerirdischer Religionen – und die bedeutendste Autorität zum Orden des Far God. Seine wissenschaftlichen Arbeiten beleuchten die theologischen Grundlagen, die Organisationsstruktur und die historische Entwicklung des Kults und bieten seltene empirische Einblicke in eine Bewegung, die die meisten Beobachter als bloßen Fanatismus abtun. Ulyanov nähert sich seinem Thema mit klinischer Distanz und analysiert die Lehre des Far God als echtes Glaubenssystem und nicht als psychologische Pathologie.
+
+  Ulyanovs Fachwissen machte ihn während Krisen rund um den Kult zu einem gefragten Kommentator, darunter bei der Megaschiff-Katastrophe der Dedicant im Jahr 3309. Seine Beobachtung, dass die Kultisten keine Möglichkeit zur Kommunikation mit den Thargoiden hatten – und dass die Ankunft der Aliens „unerwartet und sicherlich nicht die beglückende Erfahrung war, die sie erwartet hatten“ – widersprach direkt Präsident Hudsons Darstellung einer bewussten Komplizenschaft. Ulyanovs Werk dient damit sowohl als wissenschaftliche Dokumentation als auch als stiller politischer Widerstand gegen die Dämonisierung religiöser Minderheiten.
 ---
 
 

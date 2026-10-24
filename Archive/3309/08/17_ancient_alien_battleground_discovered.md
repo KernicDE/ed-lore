@@ -1,14 +1,20 @@
 ---
 uuid: 4413aa0f-d644-50e2-9ad2-417d0b29bb24
 title: Ancient Alien Battleground Discovered
+title_de: 'Uralte außerirdische Schlachtfeld-Überreste entdeckt'
 slug: ancient_alien_battleground_discovered
 date: '3309-08-17'
 source: API
 summary: Wreckage from an ancient Guardian-Thargoid battle is found in Wregoe BU-Y
   b2-0, only the second such site ever recorded, with local Thargoids showing non-aggressive
   behavior.
+summary_de: Trümmer einer uralten Schlacht zwischen Guardian und Thargoiden werden
+  in Wregoe BU-Y b2-0 gefunden – die zweite jemals registrierte Fundstelle dieser
+  Art. Die örtlichen Thargoiden zeigen dabei nicht-aggressives Verhalten.
 player_impact: Commander Renia Rakowski's report in Wregoe GA-X B3-0 led to the discovery;
   pilots may explore the Wregoe BU-Y b2-0 site.
+player_impact_de: Der Bericht von Commander Renia Rakowski in Wregoe GA-X B3-0 führte
+  zur Entdeckung; Piloten können die Fundstelle in Wregoe BU-Y b2-0 erkunden.
 persons:
 - Jeong-Hui Shin
 - Renia Rakowski
@@ -36,6 +42,13 @@ modern_impact: Shin's theory — 'they are still following million-year-old orde
   Proteus discovery in the Trapezium Sector two centuries ago provides historical
   context. The peace advocates' framing — 'an opportunity for non-hostile interactions
   with the Thargoids' — contrasts with standard military doctrine.
+modern_impact_de: Shins Theorie – ‚sie befolgen noch immer millionen Jahre alte
+  Befehle, die Guardian anzugreifen. Aus ihrer Perspektive sind Menschen daher eine
+  unbekannte Spezies und nicht als Feind identifiziert‘ – ist eine bemerkenswerte
+  Einsicht. Der Vergleich mit der Entdeckung der Proteus im Trapezium-Sektor vor
+  zwei Jahrhunderten liefert historischen Kontext. Die Einordnung durch die Friedensbefürworter
+  – ‚eine Gelegenheit für nicht-feindselige Interaktionen mit den Thargoiden‘ –
+  steht im Kontrast zur üblichen Militärdoktrin.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -43,6 +56,22 @@ related_uuids:
 - 147a3c1e-ea2e-582c-8b5c-676b3075f426
 - 21ac936e-6473-5e81-980f-73a1bd20c350
 - f362b55b-941d-566f-aa08-6a1ae59364b9
+body_de: |
+  **ALARM der Pilotenföderation**
+
+  Trümmer eines vergangenen Konflikts zwischen den Völkern der Guardian und der Thargoiden wurden im System Wregoe BU-Y b2-0 gefunden.
+
+  Die abgestürzten Überreste von Thargoid-Schiffen sowie Strukturen guardianischen Ursprungs befinden sich auf Wregoe BU-Y b2-0 1 c. Der Konflikt zwischen den beiden Spezies fand vor Millionen von Jahren statt, doch physische Beweise dafür sind äußerst selten. Die einzige vergleichbare Fundstelle im System Trapezium Sector YU-X c1-2 wurde vor zwei Jahrhunderten erstmals vom Azimuth-Biochemicals-Schiff Proteus entdeckt und 3307 wiederentdeckt.
+
+  Wregoe BU-Y b2-0 war eines von mehreren Systemen, die nach einem Bericht von Commander Renia Rakowski untersucht wurden, die in der Nähe in Wregoe GA-X B3-0 auf einen Thargoid-Interceptor traf.
+
+  Das Holloway Bioscience Institute hat Teams in die Region entsandt, um die Möglichkeiten xenoarchäologischer Forschung zu erkunden. Dr. Jeong-Hui Shin gab gegenüber dem Nachrichtenportal The Sovereign eine Erklärung ab:
+
+  „Es ist faszinierend, dass keines der in dieser Region operierenden Thargoid-Schiffe sofort aggressiv ist. Eine unserer Theorien ist, dass sie noch immer millionen Jahre alte Befehle befolgen, die Guardian anzugreifen. Aus ihrer Perspektive sind Menschen daher eine unbekannte Spezies und nicht als Feind identifiziert. Alternativ verfolgen sie möglicherweise nicht-kampfbezogene Aufgaben wie die Meta-Legierungs-Gewinnung, ähnlich den Thargoiden, die man noch in manchen Nebeln findet.“
+
+  Prominente Xeno-Friedensbefürworter wie Timothy Culver, Bernadette Wells und Dev Venkatesh haben weitere Untersuchungen der Region gefordert. Sie behaupten, dies sei „eine Gelegenheit für nicht-feindselige Interaktionen mit den Thargoiden“, die möglicherweise „eine autonome Subkultur entwickelt haben, die einer Koexistenz mit der Menschheit zugänglicher ist, sofern bestimmte Grenzen respektiert werden.“
+
+  Andere pro-Friedens-Gruppen haben gefordert, dass keine Flottenverbände in die Region entsandt werden dürfen, da die Thargoiden dies als Provokation werten könnten. Derzeit ist Aegis vollständig auf die Informationsbeschaffung konzentriert und weiß von keinen Anti-Xeno-Einsätzen gegen Wregoe BU-Y b2-0.
 ---
 
 

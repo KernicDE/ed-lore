@@ -22,9 +22,18 @@ phases:
 summary: The archaeological investigation of the extinct Guardian civilization, their
   ancient war with the Thargoids, and the corporate and military race to exploit recovered
   alien technology.
+description_de: Die archäologische Bemühung, die ausgestorbene Zivilisation der Guardian
+  und ihren antiken Krieg mit den Thargoids zu verstehen. Die geborgene Technologie veränderte
+  die Anti-Xeno-Kriegsführung und den Konkurrenzkampf zwischen Konzernen.
+summary_de: Die archäologische Untersuchung der ausgestorbenen Guardian-Zivilisation,
+  ihres antiken Kriegs mit den Thargoids und das militärische und wirtschaftliche Wettrennen
+  um die Ausbeutung der geborgenen außerirdischen Technologie.
 status: Ongoing
 outcome: Guardian technology was successfully integrated into human ship modules. Corporate
   competition for Guardian commodities led to open conflict in Synuefe EN-H d11-96.
+outcome_de: Die Technologie der Guardian wurde erfolgreich in menschliche Schiffsmodule
+  integriert. Der Konkurrenzkampf um Guardian-Ressourcen führte zu offenen Konflikten
+  in Synuefe EN-H d11-96.
 significance: high
 ---
 

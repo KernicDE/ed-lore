@@ -10,6 +10,25 @@ bio: 'Harlan Turk is a President in Elite Dangerous lore, active from 3305-11-15
   both deploy megaships to Upaniklis with competing proposals for the Golconda crew.;
   The Empire and Federation launch rival initiatives to provide a new home for the
   Golconda crew.'
+bio_de: Congressman Harlan Turk ist ein föderaler Politiker, der während
+  Rackhams Präsidentschaftswahlkampf als Vizekandidat an der Seite von Zachary Rackham
+  diente. Im November 3305 skizzierte Turk das Angebot der Föderation an die Besatzung
+  des Generationsschiffs Golconda und schlug einen modernen Außenposten vor, in dem die
+  raumfahrtlichen Traditionen der Golconda mit deutlich besserer Ausstattung und
+  Handelsbeziehungen innerhalb föderaler Marktrichtlinien weitergeführt werden könnten.
+
+  Im September 3309, als die Federal Times die Wallglass Investigations Agency beauftragte,
+  Rackhams angebliche Piratenvergangenheit zu untersuchen, setzte sich Turk bei
+  dem Kongress für einen Stopp der Ermittlungen ein. Er behauptete, die Federal Times
+  verstoße „gegen die Unparteilichkeitsregeln des Journalismus und gegen die
+  Sicherheitsmaßnahmen, die allen Präsidentschaftskandidaten gewährt werden“. Turks
+  Verteidigung Rackhams positionierte ihn als loyalen politischen Verbündeten, der
+  bereit war, Gesetzgebungsdruck zu nutzen, um seinen Kandidaten vor Prüfung zu schützen
+  – selbst als unabhängige Journalisten wie Flint Lafosse Rackham mit dem
+  Glücksspielkreis Jokers' Deck und dem Milliarden-Credit-Diebstahl der
+  Hacktivistengruppe Collective in Verbindung brachten. Turks Rolle im Wahlkampf zeigte
+  die politischen Bündnisse, die sich um Rackhams unkonventionelle Kandidatur für die
+  föderale Präsidentschaft bildeten.
 ---
 
 

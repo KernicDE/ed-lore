@@ -30,6 +30,21 @@ bio: 'Harma is a system in Elite Dangerous, significant from 3301-06-03 to 3309-
   as rewards, while Corcoran criticizes the ...; Azimuth''s convention succeeds and
   the new Overcharged Gimballed AX Multi-Cannon with Auto Loader is released, with
   speculation about Holloway Biosc...'
+bio_de: 'Harma ist ein unabhängiges Industriesystem im Pegasi-Sektor, kontrolliert
+  vom Harma Silver Cartel und ein wichtiger Logistikknotenpunkt im Territorium der
+  Kumo Crew. Die Anarchie-Regierung und die industrielle Wirtschaft des Systems eignen
+  sich ideal für die Zwecke des Piratensyndikats – sie bieten Fertigungskapazitäten
+  und ein nachsichtiges regulatorisches Umfeld für Operationen, die im Raum der Großmächte
+  sofortige Unterdrückung hervorrufen würden.
+
+  Die strategische Lage des Systems am Rand der Kernsysteme machte es zudem zu einem
+  Zwischenstopp für Expeditionen in Richtung Kalifornischer Nebel und andere Grenzregionen.
+  Während des Thargoid-Krieges richtete Azimuth Biochemicals Geschäftskonventionen in
+  Harma aus, und das System wurde mit dem Rüstungsentwicklungsprogramm des Konzerns
+  assoziiert. Die doppelte Identität des Systems – als Piratenhochburg und als Tagungsort
+  eines Konzerns – zeigt die schwierige Realität frontierseitiger Herrschaft, in der
+  legitimer Handel und kriminelles Unternehmertum unter der nominellen Kontrolle dessen
+  koexistieren, wer die meiste Feuerkraft besitzt.'
 reserve: Pristine
 ---
 

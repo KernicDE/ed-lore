@@ -24,6 +24,10 @@ bio: Kokoller is a star system in the Elite Dangerous universe, significant from
   to 3309-07-06. Associated with Federal Navy. Kokoller Limited's mining campaign
   concludes successfully, with materials ostensibly for Federal Navy anti-xeno war
   efforts.
+bio_de: 'Kokoller ist ein Sternensystem im Elite-Dangerous-Universum, relevant von
+  3309-07-06 bis 3309-07-06. Assoziiert mit der Federal Navy. Die Bergbaukampagne der
+  Kokoller Limited endete erfolgreich, mit Material, das offiziell für die Anti-Xeno-Kriegsanstrengungen
+  der Federal Navy bestimmt war.'
 reserve: Major
 ---
 

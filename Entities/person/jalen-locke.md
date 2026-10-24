@@ -7,6 +7,10 @@ last_seen_date: '3309-08-03'
 mention_count: 4
 bio: 'An executive agent of the Federal Intelligence Agency, Jalen Locke became the
   public face of one of the most puzzling disappearances of the 3300s.'
+bio_de: |-
+  Jalen Locke diente als leitender Agent der Federal Intelligence Agency, ein Aufgabenbereich, der ihn im Juni 3309 in die Mitte eines rätselhaften Falles rückte. Die Dedicant, ein Megaschiff mit Tausenden von Far-God-Anhängern unter FIA-Begleitung, verschwand nach einem ungeplanten Hyperraumsprung von Popontia, und Locke war beauftragt, den alarmierten Bevölkerungskreisen den Verlust zu erklären.
+
+  Seine anfängliche Theorie – die Anhänger hätten bewaffnete FIA-Agenten überwältigt und das Schiff gestohlen – wurde sofort von Experten des Order of the Far God angefochten, die darauf hinwiesen, dass die fatalistische Natur der Anhänger solche Kämpfe unwahrscheinlich machte. Lockes Umgang mit dem Vorfall wurde für seine Annahmen kritisiert, und das Schicksal der Dedicant blieb ungeklärt – mit Spekulationen von Intervention Dritter bis hin zu einer geheimen Entführung durch die ursprünglichen Eigentümer des Megaschiffs.
 ---
 
 

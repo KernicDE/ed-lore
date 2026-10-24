@@ -9,6 +9,11 @@ bio: Emil Varga is a Commodore in the Alliance Defence Force and the Alliance's 
   liaison to Aegis. In May 3309, he warned that all eight Maelstrom systems were affected
   by an anti-Guardian field and that weapons based on Guardian technology would not function
   inside them, advising pilots to replace them with other anti-xeno armaments.
+bio_de: Emil Varga ist Kommodore der Alliance Defence Force und militärischer
+  Verbindungsoffizier der Allianz bei Aegis. Im Mai 3309 warnte er, dass alle acht
+  Maelstrom-Systeme von einem Anti-Guardian-Feld betroffen sind und Waffen auf Guardian-Basis
+  dort nicht funktionieren. Er riet Piloten, diese durch andere Anti-Xeno-Bewaffnung
+  zu ersetzen.
 ---
 
 

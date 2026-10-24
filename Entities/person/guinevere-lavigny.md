@@ -11,6 +11,14 @@ bio: Guinevere Lavigny is a emperor in the Elite Dangerous universe, active from
   including Hadrian send well-wishes in an apparent reconciliation gesture. Lady Florence
   Lavigny's recovery prompts calls for Imperial Family unity, with speculation that
   she could heal rifts between Arissa, Aisling, and Hadrian Duval.
+bio_de: Guinevere Lavigny ist eine „emperor“-Figur im Elite-Dangerous-Universum und
+  war von 3309-07-03 bis 3309-08-18 aktiv. Sie steht in engem Zusammenhang mit dem
+  kaiserlichen Palast. Lady Florence Lavigny erleidet eine plötzliche Erkrankung,
+  woraufhin Kaiserin Arissa alle Termine absagt; Familienmitglieder, darunter Hadrian,
+  senden Genesungswünsche als offensichtliche Geste der Versöhnung. Lady Florence
+  Lavignys Genesung führt zu Forderungen nach Einheit der kaiserlichen Familie, mit
+  Spekulationen, dass sie die Risse zwischen Arissa, Aisling und Hadrian Duval heilen
+  könne.
 ---
 
 

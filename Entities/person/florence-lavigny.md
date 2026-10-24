@@ -11,6 +11,20 @@ bio: 'Florence Lavigny is a Emperor in Elite Dangerous lore, active from 3301-07
   statues across Imperial worlds, with mixed reactions from the palace.; Emperor Hengist
   Duval appeared before the Senate, calling on senators to work together for the good
   of the Empire.'
+bio_de: Lady Florence Lavigny ist eine imperiale Adelige, die Witwe des Fürsten
+  Aristide de Lavigny und Mutter von Kaiserin Arissa Lavigny-Duval. Obwohl sie den
+  Schwerpunkt der Öffentlichkeit gewöhnlich gemieden hat, wurde sie durch ihre Verlobung
+  mit Kaiser Hengist Duval im Jahr 3301 in die politische Mitte gerückt. An ihrem
+  Hochzeitstag wurde der Kaiser tödlich verletzt, und Lavigny trat als würdevolle
+  Stimme der Besonnenheit mitten in der Thronfolgekrise hervor.
+
+  Jahrzehnte zuvor war ihr Ehemann, Fürst Aristide, 3250 bei einem mysteriösen Unfall
+  ums Leben gekommen. Die spätere Enthüllung, dass Arissa von Hengist Duval gezeugt
+  worden war, veränderte den Rang der Familie; Arissa nahm bei ihrer Thronbesteigung den
+  Namen Lavigny-Duval an. Im Jahr 3309 sorgte eine schwere Erkrankung für erneute
+  Aufmerksamkeit auf Lavignys Rolle als eineinigende Figur innerhalb der kaiserlichen
+  Familie. Beobachter äußerten, dass sie allein die Risse zwischen Arissa, Prinzessin
+  Aisling Duval und Hadrian Duval heilen könnte.
 ---
 
 

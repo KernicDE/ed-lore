@@ -23,6 +23,8 @@ inara_url: https://inara.cz/elite/starsystem/?search=Mullag
 bio: 'Mullag is a star system in the Elite Dangerous universe, significant from 3309-06-16
   to 3309-06-23. Associated with Federal Navy. '
 reserve: Common
+bio_de: 'Mullag ist ein Sternensystem im Elite-Dangerous-Universum, das von 3309-06-16
+  bis 3309-06-23 relevant war. In Verbindung mit der Federal Navy. '
 ---
 
 <!-- AUTO-GENERATED -->

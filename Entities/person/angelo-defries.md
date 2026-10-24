@@ -9,10 +9,11 @@ bio: Angelo Defries is a pirate in the Elite Dangerous universe, active from 330
   to 3309-09-18. Closely associated with Wallglass. Wallglass confirms Zachary Rackham
   was the pirate lord 'Calico Zack', with evidence from Angelo Defries's archive causing
   high-profile supporters to withdraw.
+bio_de: Angelo Defries ist ein Pirat im Elite-Dangerous-Universum, aktiv
+  vom 3309-09-18 bis zum 3309-09-18. Eng verbunden mit Wallglass. Wallglass
+  bestätigt, dass Zachary Rackham der Piratenlord ‚Calico Zack‘ war; Beweise aus
+  Angelo Defries’ Archiv führten zum Rückzug namhafter Unterstützer.
 ---
-
-
-
 <!-- AUTO-GENERATED -->
 
 # Angelo Defries

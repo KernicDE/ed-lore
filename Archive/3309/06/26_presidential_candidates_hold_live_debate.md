@@ -1,12 +1,17 @@
 ---
 uuid: 28c59782-1b59-5571-b624-f6741ded3aea
 title: Presidential Candidates Hold Live Debate
+title_de: Präsidentschaftskandidaten liefern sich Live-Debatte
 slug: presidential_candidates_hold_live_debate
 date: '3309-06-26'
 source: API
 summary: The three Federal presidential candidates clash in a live debate, with personal
   attacks overshadowing policy discussion and commentators criticizing the tone.
+summary_de: Die drei föderalen Präsidentschaftskandidaten liefern sich in einer Live-Debatte
+  ein Wortgefecht, bei dem persönliche Angriffe die inhaltliche Diskussion überlagern
+  und Kommentatoren den Tonfall kritisieren.
 player_impact: Not specifically mentioned — this is a political report.
+player_impact_de: Nicht explizit erwähnt — dies ist ein politischer Bericht.
 persons:
 - Jerome Archer
 - Felicia Winters
@@ -25,6 +30,14 @@ modern_impact: The debate is a masterclass in political theater. Rackham's jab �
   proposal — 'What our people need... is to pay zero civil taxes' — is absurd populism.
   Winters's pirate accusation — 'selling off the treasure you stole during your pirate
   days' — foreshadows the Calico Zack scandal.
+modern_impact_de: Die Debatte ist ein Meisterstück politischen Theaters. Rackhams Seitenhieb
+  — ‚In letzter Zeit mal ein Megaschiff verloren, Jerome?‘ — spielt direkt auf die
+  Dedicant an. Winters' Konter — ‚die Situation um die Dedicant ist die direkte Folge
+  der repressiven Politik eurer Partei gegenüber religiöser Ausübung‘ — rahmt die Krise
+  als Politikversagen. Rackhams Nullsteuer-Vorschlag — ‚Was unsere Bürger brauchen
+  … ist es, null Bürgersteuern zu zahlen‘ — ist absurdem Populismus. Winters' Piraten-Vorwurf
+  — ‚den Schatz verkaufen, den du in deinen Piratentagen gestohlen hast‘ — kündigt
+  den Calico-Zack-Skandal an.
 legacy_weight: 3
 significance: medium
 related_uuids:
@@ -32,6 +45,32 @@ related_uuids:
 - da13374d-1993-57dc-8fdc-0f0d82f6b1e1
 - d5819466-08f7-501e-b3cf-cbf9bd4494c1
 - 2bb62465-0b86-5863-b66c-78972defe368
+body_de: |
+  Vizepräsident Jerome Archer, Schattenpräsidentin Felicia Winters und Unternehmer Zachary Rackham haben in einer Live-Debatte politische Standpunkte ausgetauscht.
+
+  Der Republikaner, die Liberale und der unabhängige Kandidat traten bei einer Veranstaltung zusammen, die über alle föderalen Mediennetzwerke übertragen wurde. Die Veranstaltung bot den Kandidaten eine Plattform, um den Wählern ihre Programme zu erläutern und sich zu zentralen Themen auszutauschen.
+
+  Die Debatte begann reibungslos, blieb aber nicht lange so, als die drei starken Persönlichkeiten schon nach wenigen Fragen aneinandergerieten. Kurz nach der Übertragung begannen ICE-Sender, ein besonders beliebtes Segment zu wiederholen — eine Antwort auf eine Frage zur föderalen Sicherheitspolitik:
+
+  Archer: „Wachsamkeit wird unsere Leitlinie sein, und ich beabsichtige, die hervorragende Bilanz von Präsident Hudson in Sachen Sicherheit fortzusetzen.“
+
+  Rackham: „Ach, wirklich? In letzter Zeit mal ein Megaschiff verloren, Jerome?“
+
+  Archer: „Es ist mir kaum angemessen, mich zu einer laufenden FIA-Ermittlung zu äußern. Obwohl ich mir bewusst bin, dass ‚angemessen‘ möglicherweise nicht zum Wortschatz von Herrn Rackham gehört.“
+
+  Winters: „Vielleicht ist es angemessen, Herr Vizepräsident, wenn die Situation um die Dedicant die direkte Folge der repressiven Politik eurer Partei gegenüber religiöser Ausübung ist.“
+
+  Rackham: „Hoppla, gnädige Frau! Ist das weniger repressiv als all die Steuererhöhungen, die eure verträumten Freunde einführen werden?“
+
+  Winters: „Unsere geringfügigen Steuererhöhungen, die zumeist interstellare Konzerne treffen, werden zu erheblichen Reinvestitionen führen –“
+
+  Rackham: „Hören Sie, lassen Sie mich ausreden. Was unsere Bürger brauchen — was sie verdienen — ist es, null Bürgersteuern zu zahlen. Richtig gehört, gar keine Steuern! Und mehr noch: Ich sorge dafür, dass die Regierung jedes einzelne Unternehmen mitfördert, groß oder klein.“
+
+  Winters: „Und nachdem die Wirtschaft kollabiert ist, wie wollen Sie das erreichen? Indem Sie den Schatz verkaufen, den Sie in Ihren Piratentagen gestohlen haben?“
+
+  Rackham: „Das ist selbst für Sie hart, Frau Winters! ICE-Gerüchte zu streuen steht einer gewählten Amtsträgerin nicht gut zu Gesicht.“
+
+  Trotz beeindruckender Einschaltquoten hielten viele politische Kommentatoren die Debatte für ‚unnötig persönlich‘ und ‚darstellend, die Föderation in schlechtem Licht‘. Eine zweite Debatte wird geplant, die verspricht, diese Kritik durch strenge Moderation zu adressieren.
 ---
 
 

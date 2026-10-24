@@ -9,10 +9,8 @@ bio: Anya Blackriver is a public-relations consultant with offices in Olympus Vi
   San Francisco, and Columbus Station. In October 3304, she was identified as one of the
   owners of a PA912 administration robot containing a hidden surveillance program installed
   as part of the spy robot scandal.
+bio_de: |-
+  Anya Blackriver betreibt eine Public-Relations-Beratung mit Büros in Olympus Village, San Francisco und Columbus Station. Im Oktober 3304 wurde sie vom Federal Security Service als eine von fünf Eigentümerinnen eines PA912-Verwaltungsroboters der Achilles Corporation identifiziert, in dem ein verstecktes Überwachungsprogramm eingebaut war. Die Entdeckung war Teil des umfassenderen Spionageroboterskandals, bei dem Mars-Tribune-Eigentümer Kingsley Cordova einen Ingenieur von Achilles erpresst hatte, Überwachungssoftware auf Robotern prominenter Persönlichkeiten zu installieren. Blackrivers Aufnahme in die Liste der Betroffenen verdeutlichte die große Reichweite der Überwachungsoperation in der föderalen Gesellschaft.
 ---
-
-
-
-# Anya Blackriver
 
 Anya Blackriver runs a public-relations consultancy with offices in Olympus Village, San Francisco, and Columbus Station. In October 3304, she was identified by the Federal Security Service as one of five owners of a PA912 administration robot manufactured by Achilles Corporation that contained a hidden surveillance program. The discovery was part of the broader spy robot scandal in which Mars Tribune owner Kingsley Cordova had blackmailed an Achilles engineer into installing surveillance software on robots belonging to prominent figures. Blackriver's inclusion on the list of affected individuals highlighted the wide reach of the surveillance operation across Federal society.

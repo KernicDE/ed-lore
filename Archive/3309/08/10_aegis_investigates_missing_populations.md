@@ -1,12 +1,17 @@
 ---
 uuid: 94095149-30bd-5440-b287-8db2535dc42d
 title: Aegis Investigates Missing Populations
+title_de: 'Aegis untersucht verschwundene Bevölkerungen'
 slug: aegis_investigates_missing_populations
 date: '3309-08-10'
 source: API
 summary: Aegis analysis reveals tens of millions of people are unaccounted for in
   Thargoid-occupied systems, suggesting a mass abduction programme.
+summary_de: Eine Analyse von Aegis zeigt, dass zehn Millionen Menschen in von Thargoiden
+  besetzten Systemen vermisst werden – ein Hinweis auf ein Programm massenhafter
+  Entführungen.
 player_impact: Not specifically mentioned — this is a research report.
+player_impact_de: Nicht explizit erwähnt – es handelt sich um einen Forschungsbericht.
 persons:
 - Alba Tesreau
 - Zuri Afolayan
@@ -26,6 +31,13 @@ modern_impact: Tesreau's careful framing — 'I am very conscious that this stat
   Rios's questions — 'Prisoners of war? Food for their young? Fuel for their biomechanical
   technology?' — capture public anxiety. His closing — 'in this instance I'm praying
   that is the case' — is a rare moment of personal vulnerability.
+modern_impact_de: Tesraus vorsichtige Formulierung – ‚Ich bin mir sehr bewusst, dass
+  diese Erklärung als alarmistisch und spekulativ angesehen werden kann‘ – zeigt
+  wissenschaftliche Zurückhaltung. Die Angabe von Zuri Afolayans Daten von Safeguard
+  Interstellar verleiht der Behauptung Glaubwürdigkeit. Rios' Fragen – ‚Kriegsgefangene?
+  Nahrung für ihren Nachwuchs? Treibstoff für ihre biomechanische Technologie?‘ –
+  spiegeln die öffentliche Angst wider. Sein Schlusswort – ‚in diesem Fall bete ich,
+  dass es so ist‘ – ist ein seltener Moment persönlicher Verletzlichkeit.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -33,6 +45,24 @@ related_uuids:
 - 6d9dec9b-98e1-5167-9d3c-00c436e9d31c
 - 3cfd5471-48e1-54bb-b80a-1eb9638b9187
 - 0359229a-57fb-5f46-bb36-52c62d71db1a
+body_de: |
+  Eine Analyse von Überlebenden der jüngsten Thargoid-Konflikte und -Invasionen hat die Möglichkeit menschlicher Entführungen in einem kolossalen Ausmaß aufgeworfen.
+
+  Professor Alba Tesreau, Leiterin von Aegis, gab eine persönliche Erklärung an die Medien ab:
+
+  „Vor ein paar Monaten wurde ich von Zuri Afolayan kontaktiert, einer leitenden Analystin von Safeguard Interstellar. Ihre Aufgabe ist es, zivile und militärische Daten zusammenzuführen, um zu ermitteln, wo Nothilfe am dringendsten benötigt wird. Sie hatte konsistente Diskrepanzen zwischen den registrierten Bevölkerungszahlen der von Thargoiden besetzten Systemen und allen bestätigten Todesfällen, Flüchtlingen und gestrandeten Überlebenden festgestellt.“
+
+  „Aegis führte detaillierte Abgleiche von Frau Afolayans Ergebnissen mit anderen Quellen durch. Das führte zu einem unvermeidlichen Schluss: Seit Kriegsbeginn sind zehn Millionen Menschen verschwunden.“
+
+  „Zweifellos sind viele Todesfälle nicht erfasst worden, und viele andere sind in den Tiefraum geflohen. Doch das jüngste Auftreten des Jägers der Scythe-Klasse zusammen mit den Ereignissen an Bord des Megaschiffs Dedicant deutet darauf hin, dass zumindest einige in Gefangenschaft genommen wurden.“
+
+  „Ich bin mir sehr bewusst, dass diese Erklärung als alarmistisch und spekulativ angesehen werden kann. Aber unsere Xenologen und Strategen prüfen die Implikationen eines Programms massenhafter Entführungen durch die Thargoiden. Jede Gelegenheit, diese verlorenen Seelen zurückzuholen, wird mit Priorität untersucht.“
+
+  Der Auslandskorrespondent Ernesto Rios veröffentlichte seine Beobachtungen über Vox Galactica:
+
+  „Es ist eine gut dokumentierte Tatsache, dass Thargoid-Schiffe gelegentlich bemannte Fluchtkapseln an Bord nehmen. Aber Aegis glaubt nun, dass die Außerirdischen die Menschheit nicht mehr nur angreifen – sie versuchen, uns lebend und in großer Zahl zu fangen.“
+
+  „Was sind wir für sie? Kriegsgefangene? Nahrung für ihren Nachwuchs? Treibstoff für ihre biomechanische Technologie? Oder sind das nur falsch gedeutete Daten und Schlachtfeldgerüchte? Ich habe in meiner Laufbahn viele davon gehört, und in diesem Fall bete ich, dass es so ist.“
 ---
 
 

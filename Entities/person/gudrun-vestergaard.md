@@ -11,6 +11,20 @@ bio: 'Gudrun Vestergaard is a Emperor in Elite Dangerous lore, active from 3309-
   the Alliance and Federation in reforming Aegis to combat the Thargoid th...; Princess
   Aisling Duval assumes oversight of the Empire''s contributions to Aegis and defends
   her decision to defy the Emperor''s isolationist decree.'
+bio_de: Gudrun Vestergaard ist die Hofberichterstatterin des Imperial Herald und hat
+  über wichtige Entwicklungen in der imperialen Politik und der Familie Duval berichtet.
+  Im Januar 3309 kommentierte sie den öffentlichen Appell von Prinzessin Aisling Duval
+  an Kaiserin Arissa Lavigny-Duval, sich der Allianz und der Föderation anzuschließen
+  und Aegis neu zu gründen. Sie wies darauf hin, dass dies Reibungen zwischen Aisling
+  und ihrem Cousin Hadrian Duval verursachen könne.
+
+  Vestergaard stellte fest, dass Aisling und Hadrian zwar zuvor ein enges Verhältnis
+  gehabt hätten – Aisling wurde sogar zur Ehrenmutter Hadrians Sohnes Hector gewählt –,
+  ihre Ansichten zur imperialen Außenpolitik jedoch „nicht unterschiedlicher sein könnten“.
+  Ihre Berichterstattung über die kaiserliche Familie liefert Einblicke in die Spannungen
+  zwischen Reformflügel und Isolationisten im Imperium, insbesondere während der kritischen
+  Phase, in der die Thargoid-Invasion eine Neubewertung der imperialen
+  Nichteinmischungspolitik erzwang.
 ---
 
 

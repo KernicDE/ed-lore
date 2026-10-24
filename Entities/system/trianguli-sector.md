@@ -11,6 +11,10 @@ bio: Trianguli sector is a star system in the Elite Dangerous universe, signific
   from 3309-10-06 to 3309-10-06. Associated with Aegis. Aegis xenologists study newly
   discovered Thargoid barnacle matrix sites in the Trianguli sector, with disturbing
   reports from explorers and scientific analysis from Madigan.
+bio_de: Trianguli sector ist ein Sternensystem im Elite-Dangerous-Universum, das am
+  3309-10-06 relevant war. In Verbindung mit Aegis. Aegis-Xenologen untersuchen neu
+  entdeckte Thargoid-Barnacle-Matrix-Fundorte im Trianguli sector, mit beunruhigenden
+  Berichten von Erkundern und wissenschaftlichen Analysen von Madigan.
 ---
 
 

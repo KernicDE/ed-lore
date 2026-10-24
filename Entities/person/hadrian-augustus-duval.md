@@ -11,6 +11,22 @@ bio: 'Hadrian Augustus Duval is a Emperor in Elite Dangerous lore, active from 3
   Arissa''s brutal purge of Nova Imperium, assumes the title of Imperator Duval...;
   The Empire declares a day of mourning for the first anniversary of the NMLA''s Imperial
   starport bombings, which killed over 60,000 people and marke...'
+bio_de: Hadrian Augustus Duval ist der Enkel von Kaiser Hengist Duval und durch seinen
+  Vater, den unehelichen Prinzen Harold Duval, Anwärter auf den imperialen Thron. Als
+  Führer der isolationistischen Bewegung Nova Imperium stellte Hadrian ab seiner
+  Hochburg im Paresa-System die Autorität von Kaiserin Arissa Lavigny-Duval infrage
+  und forderte eine Rückkehr zu traditionellen imperialen Werten sowie den Rückzug
+  aus galaktischen Verstrickungen. Seine Hinrichtung von Imperator Kaeso Mordanticus
+  auf dem Boden des Senats im Jahr 3305 markierte die brutale Unterdrückung seiner
+  Bewegung – Hadrian selbst überlebte jedoch.
+
+  Nach der militärischen Niederlage von Nova Imperium und der Säuberung seiner Anhänger
+  nahm Hadrian eine Begnadigung durch Arissa an und wurde mit dem Titel Lord ausgezeichnet
+  – was ihn als politische Gefahr entmachtete, während das Duval-Blut erhalten blieb.
+  Seine spätere Heirat mit Lady Astrid Minerva-Duval und die Geburt ihres Sohnes
+  Hector im Jahr 3307 wandelten Hadrian vom Rebellen zum Familienvater. Fragen nach
+  seinen wahren Ambitionen und anhaltende Unterstützung unter Isolationisten werfen
+  jedoch weiterhin einen Schatten auf seine öffentliche Rehabilitation.
 ---
 
 

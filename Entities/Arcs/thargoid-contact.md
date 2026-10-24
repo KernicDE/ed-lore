@@ -21,9 +21,17 @@ phases:
 - 'Phase 3: The Return (3303-06-17)'
 summary: The progressive revelation of Thargoid presence, from mysterious artefacts
   and barnacles to open confirmation of alien ships and the beginning of active hostilities.
+description_de: Die ersten Begegnungen der Menschheit mit den Thargoids im 33. Jahrhundert,
+  von der Entdeckung der Unknown Artefacts und der Barnacles bis zur Bestätigung der
+  Thargoid-Identität und zum Beginn aktiver Feindseligkeiten.
+summary_de: Die schrittweise Enthüllung der Präsenz der Thargoids, von rätselhaften Artefakten
+  und Barnacles bis zur offenen Bestätigung außerirdischer Schiffe und zum Beginn aktiver
+  Feindseligkeiten.
 status: Ongoing
 outcome: Thargoid identity was confirmed. Active hostilities began. Aegis was formed
   to coordinate research and defense.
+outcome_de: Die Identität der Thargoids wurde bestätigt. Aktive Feindseligkeiten begannen.
+  Aegis wurde gegründet, um Forschung und Verteidigung zu koordinieren.
 significance: high
 ---
 

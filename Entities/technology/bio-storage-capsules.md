@@ -7,6 +7,9 @@ last_seen_date: '3309-10-10'
 mention_count: 2
 bio: 'bio-storage capsules is a technology in the Elite Dangerous universe, mentioned
   from 3309-10-05 to 3309-10-10. Developed or used by Aegis, Aden Tanner. '
+bio_de: 'Bio-Storage-Kapseln sind eine Technologie im Elite-Dangerous-Universum, die
+  von 3309-10-05 bis 3309-10-10 erwähnt wurden. Entwickelt oder genutzt von Aegis und
+  Aden Tanner. '
 ---
 
 

@@ -8,6 +8,10 @@ mention_count: 4
 bio: 'A senior researcher at the Holloway Bioscience Institute, Dr Jeong-Hui Shin
   offered provocative theories about Thargoid consciousness and biomechanical immune
   responses.'
+bio_de: |-
+  Dr Jeong-Hui Shin vom Holloway Bioscience Institute betrat im September 3308, nach dem verblüffenden Widerstand der Aliens gegen die Proteus-Welle in HIP 22460, die öffentliche Debatte über das Verhalten der Thargoiden. In Beiträgen über das Netzwerk Rewired widersprach sie der Annahme, die Thargoiden würden sich bewusst an menschliche Taktiken anpassen, und vermutete stattdessen, ihre Schiffe könnten als biomechanische „Antikörper" funktionieren, die automatisch auf das reagieren, was sie als virulente Infektion wahrnehmen.
+
+  Diese Perspektive hatte verstörende Implikationen: Wenn die Menschheit in der Thargoid-Biologie kaum mehr als ein Parasit war, könnten diplomatische Lösungen unmöglich sein. Shins Kommentare – neben konkurrierenden Theorien der Olympus Village University und der Imperial Science Academy – verdeutlichten, wie wenig über das Bewusstsein der Thargoiden wirklich verstanden war und wie gefährlich diese Unwissenheit blieb.
 ---
 
 

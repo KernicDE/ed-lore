@@ -7,6 +7,9 @@ last_seen_date: '3309-08-31'
 mention_count: 2
 bio: 'Dev Venkatesh is a prominent figure in the Elite Dangerous universe, active
   from 3309-08-17 to 3309-08-31. Closely associated with Holloway Bioscience Institute. '
+bio_de: Dev Venkatesh ist eine bekannte Persönlichkeit im Elite-Dangerous-Universum
+  und war von 3309-08-17 bis 3309-08-31 aktiv. Er steht in engem Zusammenhang mit dem
+  Holloway Bioscience Institute.
 ---
 
 

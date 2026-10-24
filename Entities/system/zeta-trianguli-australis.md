@@ -24,6 +24,8 @@ inara_url: https://inara.cz/elite/starsystem/?search=Zeta%20Trianguli%20Australi
 bio: 'Zeta Trianguli Australis is a star system in the Elite Dangerous universe, significant
   from 3309-09-18 to 3309-09-18. Associated with Wallglass. '
 reserve: Common
+bio_de: 'Zeta Trianguli Australis ist ein Sternensystem im Elite-Dangerous-Universum,
+  das am 3309-09-18 relevant war. In Verbindung mit Wallglass. '
 ---
 
 <!-- AUTO-GENERATED -->

@@ -1,13 +1,18 @@
 ---
 uuid: b8701838-de3d-517f-9806-05d86c3e7554
 title: Upgraded Xeno Scanner Requires Resources
+title_de: Verbesserter Xenoscanner benötigt Ressourcen
 slug: upgraded_xeno_scanner_requires_resources
 date: '3309-09-07'
 source: API
 summary: Aegis aims to upgrade the pulse wave xeno scanner to detect human life signs
   on Thargoid Titans, requiring material deliveries for the project.
+summary_de: Aegis will den Impuls-Xenoscanner verbessern, um menschliche Lebenszeichen
+  auf Thargoid-Titanen zu erkennen; dafür werden Materialtransporte benötigt.
 player_impact: Pilots were asked to transport neofabric insulation, polymers and thallium
   to Muller Terminal in the Rabh system.
+player_impact_de: Piloten wurden gebeten, Neogewebe-Isolierung, Polymere und Thallium
+  zum Muller Terminal im Rabh-System zu transportieren.
 persons:
 - Maximo Fonseca
 - Seo Jin-ae
@@ -25,6 +30,11 @@ modern_impact: Fonseca's explanation of the scanner's function — 'detecting se
   to Seo Jin-ae's information about pods validates her visions. The 'broader effort
   to prepare for humanitarian rescue efforts' frames the technological development
   within a moral imperative.
+modern_impact_de: Fonsecas Erklärung der Scannerfunktion — die Erkennung mehrerer
+  Schlüsselmarker, die von lebenden Menschen erzeugt werden — zeigt den wissenschaftlichen
+  Ansatz. Der Verweis auf Seo Jin-aes Informationen über Kapseln bestätigt ihre Visionen.
+  Die umfassendere Anstrengung zur Vorbereitung humanitärer Rettungseinsätze rahmt die
+  technologische Entwicklung in einen moralischen Auftrag.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -32,6 +42,20 @@ related_uuids:
 - 64ed46f6-a96e-55e7-932d-2ee1649bd780
 - dc1b0541-b183-598e-8aa0-b06c8fec17b4
 - e39b646c-4c31-5ee2-bd4d-22313518474f
+body_de: |
+  **ALARM der Pilotenföderation**
+
+  Aegis strebt ein Update des Impuls-Xenoscanner an, der gefangene Menschen auf Thargoid-Titanen orten kann.
+
+  Dr Maximo Fonseca, der wissenschaftliche Verbindungsoffizier der Allianz zu Aegis, informierte die Medien über das Projekt:
+
+  „Die von Seo Jin-ae gelieferten Informationen deuten darauf hin, dass von den Thargoids entführte Menschen an Bord der Titanen-Mutterschiffe in ‚Kapseln‘ am Leben gehalten werden. Diese Theorie ist plausibel — da thargoidische Atmosphäre für Menschen giftig ist, sind Gefangene sicherlich in einer Umgebung versiegelt, die ihren Atem- und Ernährungsbedarf deckt.“
+
+  „Der Impuls-Xenoscanner wurde von alliierten, föderalen und imperialen Technikern unter Einsatz der Kommunikationsprotokolle von Aegis gemeinsam modifiziert. Die elektromagnetische Impulstechnologie des Moduls zielt darauf ab, diese Kapseln zu identifizieren, indem sie mehrere Schlüsselmarker erkennt, die von lebenden Menschen erzeugt werden.“
+
+  „Eine umfassendere Anstrengung zur Vorbereitung humanitärer Rettungseinsätze läuft bereits, doch wir sind auf einen Mangel an Neogewebe-Isolierung, Polymeren und Thallium gestoßen. Lieferungen dieser Materialien werden dringend benötigt, um die Besatzungen an Bord der Rettungs-Megaschiffe bei ihrer wichtigen Arbeit zu unterstützen.“
+
+  Mitwirkende werden gebeten, diese Waren zum Muller Terminal im Rabh-System zu transportieren. Die CD-51 1447 Imperial Society hat zugestimmt, das Unternehmen im Namen von Aegis zu koordinieren, und wird Lieferungen schützen, indem sie Kopfgeldgutscheine für alle gesuchten Schiffe im System einlöst.
 ---
 
 

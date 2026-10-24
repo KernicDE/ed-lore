@@ -8,6 +8,10 @@ mention_count: 4
 bio: 'The deceased father of Emperor Arissa Lavigny-Duval and former head of the
   Lavigny family, Aristide de Lavigny is remembered primarily through his descendants''
   actions and the political legacy they continue to shape.'
+bio_de: |-
+  Über Aristide de Lavignys persönliche Geschichte ist wenig überliefert, doch sein Schatten liegt durch seine Tochter Arissa groß über der imperialen Politik, die als Arissa Lavigny-Duval den Thron bestieg. Kanzler Blaine lobte die Kaiserin einst für ihre Hilfe bei der Aufspürung von Verschwörern und fügte hinzu, ihr Vater wäre stolz gewesen – eine seltene öffentliche Anrufung eines Mannes, dessen Andenken innerhalb der imperialen Hierarchie nach wie vor politisch wirksam ist.
+
+  Aristides Familie machte auch lange nach seinem Tod Schlagzeilen. Als Lady Florence Lavigny 3309 eine plötzliche Erkrankung erlitt, die Arissa zu Absagen aller Termine veranlasste, sandten Familienmitglieder wie Hadrian Duval gute Wünsche, was Beobachter als vorsichtige Geste der Versöhnung interpretierten. Diese Momente zeigten, wie die auf Aristides Generation zurückgehende Linie der Lavignys auch dann noch zentral für die dynastische Erzählung des Imperiums blieb, als neue Krisen die Galaxis umformten.
 ---
 
 

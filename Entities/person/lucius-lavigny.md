@@ -9,6 +9,10 @@ bio: Lucius Lavigny is a emperor in the Elite Dangerous universe, active from 33
   to 3309-08-18. Closely associated with Lavigny's Legion. Lady Florence Lavigny's
   recovery prompts calls for Imperial Family unity, with speculation that she could
   heal rifts between Arissa, Aisling, and Hadrian Duval.
+bio_de: Lucius Lavigny ist ein Imperator im Elite-Dangerous-Universum, aktiv von
+  3302-07-21 bis 3309-08-18. Eng mit Lavigny's Legion verbunden. Die Genesung von Lady
+  Florence Lavigny ruft nach Einheit der Kaiserfamilie – Spekulationen zufolge könnte
+  sie Risse zwischen Arissa, Aisling und Hadrian Duval heilen.
 ---
 
 
