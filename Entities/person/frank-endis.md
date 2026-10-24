@@ -3,7 +3,7 @@ id: frank-endis
 name: Frank Endis
 type: person
 first_seen_date: '3307-12-09'
-last_seen_date: '3312-07-09'
+last_seen_date: '3312-10-22'
 mention_count: 3
 related_entities:
 - faulcon-delacy
@@ -15,7 +15,10 @@ related_entities:
 - mk-ii-sensor
 bio: Frank Endis is the Chief of Design and Chief Engineer at Faulcon DeLacy. He first
   appeared in 3307 in connection with Core Dynamics and Vodel, and in 3312 led the design
-  of the Nomad and supervised the Sanguineous Rim campaign with Vista Genomics.
+  of the Nomad and the Anaconda Mk II.
+bio_de: Frank Endis ist Chefkonstrukteur und Chefingenieur bei Faulcon DeLacy. Er trat
+  erstmals 3307 in Verbindung mit Core Dynamics und Vodel in Erscheinung und leitete
+  3312 die Konstruktion der Nomad sowie der Anaconda Mk II.
 ---
 
 
@@ -40,4 +43,4 @@ Total mentions: **3**
 
 ## Biography
 
-Frank Endis is the Chief of Design and Chief Engineer at Faulcon DeLacy. In June 3312 he announced the limited release of the Nomad, a ship-launched exploration vessel capable of independent flight and equipped with an enhanced Mk II Biological Scanner and Mk II Sensor for locating biological surface signals. He represented Faulcon DeLacy in its partnership with Vista Genomics, stating that the Sanguineous Rim initiative aimed to gather data from the galaxy's fringes, and in July 3312 he reported that the Nomad and its scanner and sensor modules had made exobiology sampling and research more efficient than previous explorer setups.
+Frank Endis is the Chief of Design and Chief Engineer at Faulcon DeLacy. In June 3312 he announced the limited release of the Nomad, a ship-launched exploration vessel capable of independent flight and equipped with an enhanced Mk II Biological Scanner and Mk II Sensor for locating biological surface signals. He represented Faulcon DeLacy in its partnership with Vista Genomics, stating that the Sanguineous Rim initiative aimed to gather data from the galaxy's fringes, and in July 3312 he reported that the Nomad and its scanner and sensor modules had made exobiology sampling and research more efficient than previous explorer setups. In October 3312 he presented the Anaconda Mk II as "one of our finest large ships", and two days later announced the four-way field trials at HD 232819, AD Leonis, Reorte and HR 8061, arguing that unlike most launches testing one or two capabilities, the Anaconda had always proven itself as an all-round vessel.

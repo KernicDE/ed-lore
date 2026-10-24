@@ -3,7 +3,7 @@ id: madelyn-teague
 name: Madelyn Teague
 type: person
 first_seen_date: '3311-01-30'
-last_seen_date: '3312-10-08'
+last_seen_date: '3312-10-15'
 mention_count: 7
 bio: Madelyn Teague is the CEO of Brewer Corporation who oversaw the Colonia Bridge
   project and the Dodec starport initiative in the early 3310s.
@@ -25,7 +25,9 @@ bio_de: Madelyn Teague ist CEO der Brewer Corporation, einer Bau- und Ingenieur-
   Beacon-Verstärker, die das Signal planetarer Körper nachahmen, wie es von Sprungcomputern
   von Flottenträgern genutzt wird – und rief unabhängige Piloten dazu auf, Komponenten
   zum Megaschiff Zero Squared im System HIP 74116 zu liefern, damit die erste Charge
-  an Engpässen um Rackham's Peak eingesetzt werden könne.
+  an Engpässen um Rackham's Peak eingesetzt werden könne. Die Lieferinitiative wurde
+  als Erfolg gefeiert; Teague dankte den Piloten und bestätigte die Inbetriebnahme der
+  ersten Satelliten mit korrekter Signalkalibrierung.
 ---
 
 # Madelyn Teague
@@ -43,4 +45,4 @@ Madelyn Teague is the CEO of Brewer Corporation, a construction and engineering 
 
 Teague continued expanding Brewer's deep-space infrastructure portfolio through the early 3310s, including survey initiatives and the Dodec starport, which entered full production availability in May 3312. Her public statements emphasise collaborative achievement, thanking pilots whose material deliveries made large-scale projects possible. Teague's tenure represents a shift in Brewer Corporation's strategy toward publicly visible infrastructure megaprojects that galvanise the pilot community.
 
-In October 3312, Teague announced the development of "jump satellites" — modified beacon amplifiers that mimic the planetary body signal used by fleet carrier jump computers — and called on independent pilots to deliver components to the Zero Squared megaship in HIP 74116 so the first batch could be deployed at carrier bottlenecks around Rackham's Peak.
+In October 3312, Teague announced the development of "jump satellites" — modified beacon amplifiers that mimic the planetary body signal used by fleet carrier jump computers — and called on independent pilots to deliver components to the Zero Squared megaship in HIP 74116 so the first batch could be deployed at carrier bottlenecks around Rackham's Peak. Days later the initiative was hailed a success, with Teague thanking pilots and confirming the first satellites were entering calibrated service.

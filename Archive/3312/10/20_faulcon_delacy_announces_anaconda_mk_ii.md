@@ -11,7 +11,7 @@ summary: Faulcon DeLacy announced the Anaconda Mk II, the first major revision o
   immediately available as an early-release purchase.
 summary_de: Faulcon DeLacy kündigte die Anaconda Mk II an – die erste große Überarbeitung
   der Anaconda seit ihrer Einführung im Jahr 2856. Chefkonstrukteur Frank Endis bezeichnet
-  sie als eines der besten Großschiffe des Unternehmens: mit SCO-optimiertem FSD, einem
+  sie als eines der besten Großschiffe des Unternehmens – mit SCO-optimiertem FSD, einem
   optionalen Internalslot der Größe 6 und Mk-II-Hardpoints, die den neuen ‚Mining-Volley-Repeater'
   aufnehmen können. Sie ist ab sofort als Early-Release-Kauf erhältlich.
 player_impact: The Anaconda Mk II is immediately purchasable as an early-release offer

@@ -3,7 +3,7 @@ id: brewer-corporation
 name: Brewer Corporation
 type: faction
 first_seen_date: '3301-10-22'
-last_seen_date: '3312-10-08'
+last_seen_date: '3312-10-15'
 mention_count: 38
 related_entities:
 - universal-cartographics
@@ -34,7 +34,10 @@ bio_de: Die Brewer Corporation ist ein großer Erkundungs- und Infrastrukturkonz
   enthüllte das Unternehmen ‚Jump-Satelliten', die das Signal planetarer Körper nachahmen,
   wie es von Sprungcomputern von Flottenträgern genutzt wird, sodass mehrere Träger
   Systeme ohne Planeten oder Monde durchqueren können; von Piloten gelieferte Komponenten
-  wurden an seinem Megaschiff Zero Squared im System HIP 74116 erbeten. Während Brewer
+  wurden an seinem Megaschiff Zero Squared im System HIP 74116 erbeten. Die Lieferinitiative
+  wurde nur Tage später als Erfolg gefeiert: Die ersten Satelliten wurden kalibriert in
+  Betrieb genommen und für die Stationierung in HD 105341 nahe Rackham's Peak bestätigt.
+  Während Brewer
   sich als neutrale Unternehmensorganisation präsentiert, die alle drei Supermächte
   bedient, verschafft ihr die strategische Kontrolle über Tiefraum-Infrastruktur erheblichen
   Einfluss auf galaktische Angelegenheiten – besonders, da die menschliche Grenze
@@ -64,4 +67,4 @@ Total mentions: **37**
 
 Brewer Corporation is a major exploration and infrastructure conglomerate best known for its deep-space colonisation initiatives, including the Colonia Bridge project that established a network of starports connecting the core systems to the Colonia Nebula. Founded on a philosophy of aggressive frontier expansion, Brewer has consistently positioned itself at the vanguard of human exploration, funding survey missions, constructing outposts in uninhabited systems, and supporting long-range expeditions such as Distant Worlds.
 
-The corporation's partnership with Universal Cartographics and the Pilots Federation has made it an indispensable facilitator of exploration data and cartographic services. In July 3312, Brewer provided a fleet of cargo megaships at Facece for the Colonia tenth-anniversary supply initiative, transporting commodities and rare goods from the core systems to the Colonia Nebula. In October 3312, the company unveiled "jump satellites" that mimic the planetary body signal used by fleet carrier jump computers, allowing multiple carriers to traverse systems with no planets or moons, with pilot-delivered components requested at its Zero Squared megaship in HIP 74116. While Brewer presents itself as a neutral corporate entity serving all three superpowers, its strategic control of deep-space infrastructure gives it significant leverage in galactic affairs — particularly as humanity's frontier continues to expand beyond the bubble into regions threatened by Thargoid incursion.
+The corporation's partnership with Universal Cartographics and the Pilots Federation has made it an indispensable facilitator of exploration data and cartographic services. In July 3312, Brewer provided a fleet of cargo megaships at Facece for the Colonia tenth-anniversary supply initiative, transporting commodities and rare goods from the core systems to the Colonia Nebula. In October 3312, the company unveiled "jump satellites" that mimic the planetary body signal used by fleet carrier jump computers, allowing multiple carriers to traverse systems with no planets or moons, with pilot-delivered components requested at its Zero Squared megaship in HIP 74116. Days later the supply initiative was hailed a success: the first satellites entered calibrated service and deployment to HD 105341 near Rackham's Peak was confirmed. While Brewer presents itself as a neutral corporate entity serving all three superpowers, its strategic control of deep-space infrastructure gives it significant leverage in galactic affairs — particularly as humanity's frontier continues to expand beyond the bubble into regions threatened by Thargoid incursion.
