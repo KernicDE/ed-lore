@@ -11,6 +11,13 @@ bio: Thargoid spire sites is a technology in the Elite Dangerous universe, menti
   with Fonseca theorising about their purpose and Palin requesting samples. Professor
   Palin's biological contaminant successfully halts Thargoid spire site operations
   in the Hyades Sector ST-Q B5-5 system, confirming a vulnerability in Thargoid infrastructure.
+bio_de: Thargoid-Spitzen-Stätten sind eine Technologie im Elite-Dangerous-Universum,
+  erwähnt vom 31.10.3309 bis 07.12.3309. Entwickelt oder verwendet von Ishmael Palin,
+  Aegis, Maximo Fonseca. Aegis priorisiert die Erforschung sich schnell entwickelnder
+  Thargoid-Spitzen-Stätten; Fonseca entwickelt Theorien über ihren Zweck und Palin
+  fordert Proben an. Professor Palins biologischer Kontaminant stoppt die Operationen
+  der Thargoid-Spitzen-Stätten im System Hyades Sector ST-Q B5-5 nachweislich und
+  bestätigt eine Schwachstelle in der Infrastruktur der Thargoid.
 ---
 
 

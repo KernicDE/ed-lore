@@ -29,6 +29,27 @@ bio: 'Gateway is a system in Elite Dangerous, significant from 3307-05-20 to 331
   and a number of Federal Cabinet members have been killed in The recent terrorist
   attack on a starport orbiting Earth.; Political fallout has been intense after The
   NMLA simultaneously bombed nine starports in the Alliance, Empire and Federation.'
+bio_de: Gateway ist ein dicht besiedeltes Allianz-System mit korporativer Verwaltung
+  unter dem Alliance Office of Statistics und einer auf Raffinerien ausgerichteten
+  Wirtschaft, die durch landwirtschaftliche Produktion gestützt wird. Seine Bevölkerung
+  von über 400 Millionen macht es zu einem der bedeutendsten Systeme der Allianz
+  außerhalb des alten Kerngebiets der Old Worlds.
+
+  Das System trat 3307 durch den Wiederwahl-Expansionsprogramm von Premierminister
+  Edmund Mahon in den galaktischen Fokus. Piloten lieferten Industriematerialien
+  und abgebautes Tritium nach Dublin Citadel in Gateway, um den Bau neuer Allianz-Sternenhäfen
+  in LHS 2522 und dem Sharru-Sektor zu finanzieren. Die Kampagne wurde umstritten,
+  als Councillor Nakato Kaine Unregelmäßigkeiten aufdeckte und behauptete, die Sirius
+  Corporation habe nicht registrierte Spenden geleistet, um Lücken zu schließen —
+  ein Vorbote späterer Bedenken über korporativen Einfluss auf die Allianz-Politik.
+
+  Gateway beherbergt zudem die Gateway Laboratories, eine bedeutende xenologische
+  Forschungseinrichtung. 3309 übernahm Dr. Maximo Fonseca von den Gateway Laboratories
+  die Leitung der Thargoid-Forschung von Aegis und trug zur Entwicklung des caustischen
+  Abscheiders bei, der Piloten ermöglichte, länger in den ätzenden Wolken der Maelstroms
+  zu überleben. Die doppelte Rolle des Systems als politischer Kampagnendrehpunkt
+  und wissenschaftliches Forschungszentrum unterstreicht seine strategische Bedeutung
+  für die Allianz.
 ---
 
 

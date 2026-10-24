@@ -17,6 +17,19 @@ bio: 'Imperial Guard is a organization active in Elite Dangerous lore from 3301-
   during his wedding ceremony to Florence Lavigny.; Agents of the Imperial Guard and
   IISS arrested several members of Chancellor Anders Blaine''s staff for conducting
   a slander campaign against Prince...'
+bio_de: Die Imperiale Garde ist eine Elitelegion von Kriegern unter dem direkten persönlichen
+  Kommando des Kaisers, traditionell bei zeremoniellen Pflichten auf Capitol zu sehen, aber
+  als hochqualifizierte Kampfeinheit einsetzbar. Ihr Hauptauftrag ist der Schutz des Kaisers
+  und der kaiserlichen Familie, eine Aufgabe, die angesichts wachsender innerer und äußerer
+  Bedrohungen immer kritischer wurde.
+
+  Die Garde stand im Zentrum mehrerer entscheidender Momente der jüngeren imperialen Geschichte.
+  3301 reagierte sie auf das Attentat auf Kaiser Hengist Duval während seiner Hochzeitszeremonie.
+  3305 richtete sie Nova-Imperium-Sympathisanten auf dem Boden des Senats hin, und 3308 ordnete
+  Kanzler Blaine ihren Einsatz gegen Darkwater Inc. an, um Kaiserin Arissa aus der Gefangenschaft
+  zu befreien. Piloten der Imperialen Garde verteidigten erfolgreich den Konvoi des Kaisers bei
+  einem Hinterhalt im Cubeo-System 3310 und bekräftigten damit ihren Ruf als ultimative Beschützer
+  des Imperiums.
 ---
 
 

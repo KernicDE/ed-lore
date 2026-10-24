@@ -17,6 +17,20 @@ bio: 'Bright Sentinel is a system in Elite Dangerous, significant from 3308-06-3
   it will be the final battlefield to eradicate Thargoids from the galaxy, ...; Azimuth
   Biotech requests medical and military commodity deliveries to the Heart of Taurus
   in HIP 22460 to support Proteus Wave construction and def...'
+bio_de: Die Bright Sentinel ist ein Megaschiff der Taurus Mining Ventures, das während
+  der Thargoid-Konflikte der späten 3300er Jahre zu einem mobilen Drehkreuz für die
+  Verteilung von Anti-Xeno-Technologie wurde. Im Oktober 3307 verlegte das Schiff
+  auf Wunsch von Salvation in das System Merope, wo Technikvermittler an Bord einen
+  Hybrid-Plasmalader auf Guardian-Basis und Materialkostennachlässe für unabhängige
+  Piloten im Kampf gegen die Thargoid-Invasion anboten.
+
+  Der Einsatz des Megaschiffs erfolgte in einer kritischen Phase, in der Aegis durch
+  den von der Untersuchungskommission des Baumann-Berichts verhängten Betriebsstillstand
+  geschwächt war, was ein Vakuum in der koordinierten Anti-Xeno-Verteidigung hinterließ.
+  Die Bright Sentinel war eine von mehreren Unternehmens- und unabhängigen Initiativen,
+  um diese Lücke zu füllen, wenngleich die enge Verbindung zu Salvation später unter
+  Beschuss geriet, als die wahre Identität und die Methoden des Wissenschaftlers
+  zunehmend kontrovers diskutiert wurden.
 system: HIP 22460
 station_type: Megaship
 distance_to_arrival: 574

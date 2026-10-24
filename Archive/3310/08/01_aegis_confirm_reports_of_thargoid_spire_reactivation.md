@@ -1,13 +1,19 @@
 ---
 uuid: eb80ced6-9bee-5efe-822d-6962ae7c718d
 title: Aegis Confirm Reports of Thargoid Spire Reactivation
+title_de: Aegis bestätigt Meldungen über Reaktivierung von Thargoid-Spitzen
 slug: aegis_confirm_reports_of_thargoid_spire_reactivation
 date: '3310-08-01'
 source: API
 summary: Aegis confirms reports of two previously dormant Thargoid spire sites reactivating
   near Titan Thor, with Seo Jin-ae linking the activity to Thargoid fleet relocations.
+summary_de: Aegis bestätigt Meldungen über zwei zuvor inaktive Thargoid-Spitzen nahe
+  Titan Thor, die reaktiviert wurden. Seo Jin-ae bringt die Aktivität mit Verlegungen
+  von Thargoid-Flotten in Verbindung.
 player_impact: Pilots engaged with Thargoid forces around Titan Thor and reported
   the unexpected spire reactivation activity.
+player_impact_de: Piloten im Kampf gegen Thargoid-Kräfte um den Titan Thor meldeten
+  die unerwartete Reaktivierung der Spitzen.
 persons:
 - Shamus Madigan
 - Seo Jin-ae
@@ -24,6 +30,12 @@ modern_impact: Madigan's observation that 'the Thargoids have developed a method
   tactics. Seo Jin-ae's analysis linking fleet relocations to spire reactivation demonstrates
   her unique insight into Thargoid behaviour. The two specific systems named provide
   concrete targets for future operations.
+modern_impact_de: Madigans Beobachtung, ‚die Thargoids haben eine Methode entwickelt,
+  unsere Sabotage-Verbindungen von den Spitzen zu reinigen‘, zeigt die Anpassung der
+  Außerirdischen an menschliche Taktiken. Seo Jin-aes Analyse, die Verlegungen von
+  Flotten mit der Spitzen-Reaktivierung in Verbindung bringt, demonstriert ihre einzigartige
+  Einsicht in das Verhalten der Thargoids. Die beiden genannten Systeme bieten konkrete
+  Ziele für künftige Operationen.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -31,6 +43,22 @@ related_uuids:
 - 1bf4b73a-e6f2-5ceb-b275-287db06e8a68
 - 2903067c-784c-56a8-a619-53a12e8de9d7
 - e11bb96e-37c3-5b37-a04b-071353f51a5f
+body_de: |
+  Piloten im Kampf gegen Thargoid-Kräfte um den Titan Thor haben unerwartete Aktivitäten von zuvor inaktiven Spitzen gemeldet.
+
+  Der renommierte Xenologe Professor Shamus Madigan, Teil der Föderations-Delegation bei Aegis, gab folgendes Update:
+
+  „Heute Morgen bestätigten unsere Agenten mehrere Meldungen über Energieabstrahlungen von zwei inaktiven Spitzen. Offenbar haben die Thargoids an diesen Orten die industriellen Arbeiten wieder aufgenommen.“
+
+  „Möglicherweise haben die Außerirdischen eine Methode entwickelt, unsere Sabotage-Verbindungen von den Spitzen zu reinigen. Die internen Funktionen der Spitzen könnten anderweitig neu genutzt worden sein. Was wir jedoch wissen, ist, dass eine erneute Kontaminierung dieser Standorte nötig sein wird, um sie endgültig stillzulegen.“
+
+  Außerdem bestätigten AX-Flotten an der Front um den Titan Thor den Rückzug von Thargoid-Flotten aus mehreren unbewohnten Systemen der Region. Madigan fügte hinzu, dass Aegis' ‚Sonderberaterin‘ Seo Jin-ae glaubt, dass die Verlegung dieser Kräfte und die Reaktivierung der Spitzen kein Zufall seien.
+
+  Die beiden reaktivierten Spitzen befinden sich in folgenden Systemen:
+
+  Col 285 Sector PB-E b12-3
+
+  Col 285 Sector OG-E b12-1
 ---
 
 

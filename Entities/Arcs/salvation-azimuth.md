@@ -16,6 +16,10 @@ key_entities:
 description: The rise of the anonymous scientist Salvation, his anti-xeno superweapons
   derived from Guardian technology, and the revelation that he was Dr Caleb Wycherley
   of Azimuth Biochemicals—a man with a two-century history of unethical research.
+description_de: Der Aufstieg des anonymen Wissenschaftlers Salvation, seiner Anti-Xeno-Superwaffen
+  auf Basis Guardian-Technologie sowie die Enthüllung, dass es sich um Dr Caleb
+  Wycherley von Azimuth Biochemicals handelte – einen Mann mit einer zweihundertjährigen
+  Geschichte unethischer Forschung.
 phases:
 - 'Phase 1: The Anonymous Saviour (3307-04-01)'
 - 'Phase 2: Superpower Alliance (3308-04-18)'
@@ -23,9 +27,15 @@ phases:
 summary: The mysterious scientist Salvation's development of anti-xeno superweapons,
   his manipulation of superpowers, and his death during the catastrophic Proteus Wave
   activation.
+summary_de: Die Entwicklung Anti-Xeno-Superwaffen durch den mysteriösen Wissenschaftler
+  Salvation, seine Manipulation der Großmächte und sein Tod bei der katastrophalen
+  Aktivierung der Proteus-Welle.
 status: Resolved
 outcome: Salvation was identified as Dr Caleb Wycherley and confirmed dead. The Proteus
   Wave failed catastrophically. Azimuth Biotech continued operations under new leadership.
+outcome_de: Salvation wurde als Dr Caleb Wycherley identifiziert und als tot bestätigt.
+  Die Proteus-Welle scheiterte katastrophal. Azimuth Biotech setzte seine Tätigkeit
+  unter neuer Führung fort.
 significance: high
 ---
 

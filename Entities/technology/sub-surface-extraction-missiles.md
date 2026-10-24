@@ -11,6 +11,25 @@ bio: sub-surface extraction missiles is a technology in the Elite Dangerous univ
   with Tanner explaining the dangerous extraction process. The first humans rescued
   from Thargoid Titans arrive and survive extraction, with Dr Grey observing their
   physical and psychological state.
+bio_de: Subsurface-Extraktionsraketen sind eine spezialisierte Technologie, die entwickelt
+  wurde, um die gehärteten biologischen und strukturellen Materialien der Thargoid-Titanen
+  zu durchdringen – der gewaltigen außerirdischen Schiffe, die während der Invasion der
+  3300er Jahre als mobile Basen dienten. Im Gegensatz zu konventioneller Bewaffnung
+  zur Oberflächenbekämpfung waren diese Raketen dafür konstruiert, sich in die Hüllen
+  und Innenräume der Titanen zu bohren und dabei Brüche zu erzeugen, die es Rettungsteams
+  ermöglichten, die in den außerirdischen Schiffen gefangenen Menschen zu bergen. Ihre
+  Entwicklung markierte einen bedeutenden Fortschritt in der Xenogegenmaßnahmen-Technologie
+  und stellte sich der einzigartigen Herausforderung, innerhalb aktiver außerirdischer
+  Megastrukturen zu operieren.
+
+  Aegis setzte diese Raketen Ende 3309 bei Rettungsoperationen ein; Admiral Aden Tanner
+  erläuterte den teilnehmenden Piloten den gefährlichen Extraktionsprozess. Die ersten
+  erfolgreichen Bergungen brachten Überlebende in kritischem Zustand hervor, sodass
+  medizinische Teams unter Leitung von Dr. Grey ihren physischen und psychischen Zustand
+  untersuchen mussten. Das Extraktionsraketen-Programm demonstrierte sowohl den technischen
+  Einfallsreichtum, der erforderlich war, um den Fähigkeiten der Thargoid zu begegnen,
+  als auch die außergewöhnlichen Risiken, die das Rettungspersonal einging, um diejenigen
+  zurückzuholen, die hinter den außerirdischen Linien gefangen waren.
 ---
 
 

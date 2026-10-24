@@ -29,6 +29,22 @@ bio: 'Delphi is a system in Elite Dangerous, significant from 3305-07-04 to 3309
   invade the Delphi system and multiple systems in the California, Coalsack and Pleiades
   Nebulas.; The Alexandria megaship jumps from Delphi to HIP 16538, triggering a Thargoid
   attack.'
+bio_de: Delphi ist ein kleines unabhängiges System tief im Plejaden-Nebel, das zu
+  einer entscheidenden Frontlinie im Konflikt der Menschheit mit den Thargoids wurde.
+  Heimat des Sternenhafens The Oracle, diente es Aegis als wichtiger Forschungsstandort,
+  darunter die Initiative von 3305 zur Suche nach alternativen Meta-Legierungsquellen,
+  da die Bernacle-Fundstellen in den Plejaden erschöpft wurden. Seine abgelegene Lage
+  und Forschungsinfrastruktur zogen einmal intensive Aufmerksamkeit der Thargoids auf
+  sich, nachdem Artefakte der Guardian durch das System transportiert wurden.
+
+  Im Mai 3307 war Delphi eines der ersten Systeme, die von einem koordinierten
+  massiven Thargoid-Angriff auf mehrere Nebel getroffen wurden, einem Angriff, der
+  vermutlich durch Aegis' Anhäufung von Guardian-Technologie ausgelöst wurde. Das
+  Megaschiff Alexandria floh aus Delphi mit diesen Artefakten und wurde Wochen später
+  im Hyperraum abgefangen und mit der gesamten Besatzung verloren. Bis Dezember 3307
+  hatten Salvations Anti-Xeno-Superwaffen die Thargoids aus Delphi vertrieben, doch
+  der Ruf des Systems als Gefahrenzone blieb bestehen. Heute ist es ein High-Tech-Außenposten
+  unter Kontrolle der Anti Xeno Initiative.
 reserve: Pristine
 ---
 

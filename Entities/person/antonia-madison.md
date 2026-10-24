@@ -8,6 +8,9 @@ mention_count: 2
 bio: Antonia Madison is a president in the Elite Dangerous universe, active from 3301-05-30
   to 3309-10-16. The last such mid-term transition occurred in 3264 when Antonia Madison
   ousted Eugene Cooper.
+bio_de: Antonia Madison ist eine Präsidentin im Elite-Dangerous-Universum, aktiv von
+  3301-05-30 bis 3309-10-16. Der letzte solche Amtsübergang in der Mitte der Amtszeit
+  erfolgte 3264, als Antonia Madison Eugene Cooper absetzte.
 ---
 
 

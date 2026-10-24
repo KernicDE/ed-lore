@@ -1,15 +1,23 @@
 ---
 uuid: 178f8ef4-d080-5c51-a324-bf717ce331fb
 title: Lakon Spaceways Discusses Supercruise Overcharge Challenge
+title_de: 'Lakon Spaceways erörtert die Herausforderungen des Supercruise Overcharge'
 slug: lakon_spaceways_discusses_supercruise_overcharge_challenge
 date: '3310-07-30'
 source: API
 summary: Lakon Spaceways chairperson Naomi Landseer reveals the Type-8 was moved back
   to the theoretical stage to accommodate SCO drive stresses, resulting in the largest
   medium-class freighter frame.
+summary_de: Die Vorstandsvorsitzende von Lakon Spaceways, Naomi Landseer, verrät,
+  dass die Type-8 zur Berücksichtigung der Belastungen durch den SCO-Antrieb zurück
+  auf die theoretische Ebene verschoben wurde – mit dem größten Frachtrahmenschiff
+  der mittleren Klasse als Ergebnis.
 player_impact: The Type-8 is weeks away from prototype stage and will feature optimised
   SCO frame shift drive performance, minimising the stress placed on ships by supercruise
   overcharge tech.
+player_impact_de: Die Type-8 ist nur wenige Wochen vom Prototypenstadium entfernt und
+  wird eine optimierte Frameshiftantriebsleistung für den SCO-Antrieb bieten, die die
+  durch Supercruise-Overcharge-Technologie verursachten Belastungen der Schiffe minimiert.
 persons:
 - Naomi Landseer
 groups:
@@ -32,10 +40,28 @@ modern_impact: Landseer's description of moving 'the project back to the theoret
   function far more effectively in the Type-8 than with any other dedicated trade
   vessel on the market today' is a direct competitive claim. The shareholder function
   setting reveals the corporate priorities behind the product.
+modern_impact_de: Landseers Beschreibung, das Projekt nach dem Release des SCO-Antriebs
+  ‚auf die theoretische Ebene zurückversetzt‘ zu haben, zeigt, wie disruptiv Achilles‘
+  Technologie für das bestehende Schiffsdesign war. Die Aussage, der SCO-Frameshiftantrieb
+  werde ‚in der Type-8 weitaus effektiver funktionieren als in jedem anderen reinen
+  Handelsschiff auf dem heutigen Markt‘, ist ein direkter Wettbewerbsanspruch. Die
+  Aktionärsveranstaltung verrät die unternehmerischen Prioritäten hinter dem Produkt.
 legacy_weight: 2
 significance: low
 related_uuids:
 - a5b9e2d4-6885-5c74-8e5b-278e557e3388
+body_de: |
+  Eine Aktionärsveranstaltung von Lakon Spaceways hat weitere Details zum kürzlich angekündigten Handelsschiff Type-8 enthüllt.
+
+  Mehrere hundert Personen mit erheblichen finanziellen Verbindungen zum Schiffsentwicklungskonzern versammelten sich in Lakon Spaceways Central auf Alioth 1 a. Die stilvolle Präsentation der Type-8 wurde mit begeistertem Applaus aufgenommen; ein Teilnehmer äußerte, das Schiff werde sich in seiner Position als spezialisiertes mittleres Frachtschiff ‚bemerkenswert fähig‘ erweisen.
+
+  Die Vorstandsvorsitzende Naomi Landseer erörterte die Designherausforderungen, die der kürzlich veröffentlichte SCO-Frameshiftantrieb mit sich bringt:
+
+  „Lakon hat stark in Forschungs- und Designinitiativen investiert, um Achilles‘ Variante des Frameshiftantriebs zu integrieren. Das Potenzial des Antriebs, die Reisegeschwindigkeit innerhalb eines Systems zu steigern, übersteigt alles Zuvor Dagewesene. Wir mussten sicherstellen, dass Lakon ein Design liefern kann, das die unglaublichen Belastungen minimiert, die die Supercruise-Overcharge-Technologie auf Schiffe ausübt.“
+
+  „Da die Type-8 nur noch wenige Wochen vom Prototypenstadium entfernt war, haben wir das Projekt auf die theoretische Ebene zurückversetzt und unsere branchenführenden Ingenieure und Techniker um Lösungen gebeten. Unsere Anpassungen führten zum größten Schiffsrahmen, der noch der Größenklasse ‚mittel‘ zugeordnet wird. Ich bin der bemerkenswerten Belegschaft von Lakon außerordentlich dankbar für die unzähligen Arbeitsstunden der vergangenen zwei Monate, mit denen der Rumpf termingerecht für unsere erste Testserie angepasst wurde.“
+
+  „Es ist erfreulich zu sagen, dass der SCO-Frameshiftantrieb in der Type-8 weitaus effektiver funktionieren wird als in jedem anderen reinen Handelsschiff auf dem heutigen Markt. Ich freue mich darauf, die offizielle Veröffentlichung der Type-8 bald bekanntzugeben.“
 ---
 
 

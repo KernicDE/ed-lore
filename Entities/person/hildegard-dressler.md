@@ -8,6 +8,9 @@ mention_count: 2
 bio: 'Hildegard Dressler is a admiral in the Elite Dangerous universe, active from
   3308-09-23 to 3309-11-24. Closely associated with Alliance, Sirius Corporation,
   Alliance Defence Force. '
+bio_de: 'Hildegard Dressler ist eine Admiralin im Elite-Dangerous-Universum, aktiv vom
+  23.09.3308 bis 24.11.3309. Eng verbunden mit der Allianz, der Sirius Corporation
+  und der Allianz-Verteidigungsstreitmacht.'
 ---
 
 

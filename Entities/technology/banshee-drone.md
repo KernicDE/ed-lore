@@ -7,6 +7,9 @@ last_seen_date: '3309-10-31'
 mention_count: 1
 bio: 'Banshee drone is a technology in the Elite Dangerous universe, mentioned from
   3309-10-31 to 3309-10-31. Developed or used by Maximo Fonseca, Ishmael Palin. '
+bio_de: 'Die Banshee-Drohne ist eine Technologie im Elite-Dangerous-Universum, erwähnt
+  vom 3309-10-31 bis 3309-10-31. Entwickelt oder genutzt von Maximo Fonseca, Ishmael
+  Palin. '
 ---
 
 

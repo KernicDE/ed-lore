@@ -11,6 +11,19 @@ bio: 'Maximo Fonseca is a Scientist in Elite Dangerous lore, active from 3309-02
   and leaving tens of thousands of casualties.; Aegis begins production of the caustic
   sink launcher, enabling longer survival in Maelstrom caustic clouds; next priority
   is the energy surge at Ma...'
+bio_de: 'Dr. Maximo Fonseca ist der Wissenschaftliche Verbindungsoffizier der Alliance
+  bei Aegis und spielte eine herausragende Rolle in den Forschungskampagnen der Drei-
+  Großmächte-Initiative gegen die Thargoids. Im Juni 3309 lobte er unabhängige Piloten,
+  die von Thargoid-Hauptschiffen gewonnene Titan-Gewebeproben geliefert hatten, und
+  stellte fest, es brauche eine besondere Art Pilot, um die Maelstroms zu durchqueren
+  und über die Oberflächen dieser gewaltigen Mutterschiffe zu fliegen.
+
+  Die unter Fonsecas Leitung gesammelten Proben wurden von allianzischen, föderalen
+  und imperialen Fachleuten wissenschaftlich untersucht, mit dem Ziel, Licht auf die
+  Fähigkeiten und Bautechnologien der Titanen zu werfen. Fonsecas Leitung in der
+  Aegis-Kampagne markierte einen Wendepunkt im Ansehen der Drei-Großmächte-Initiative,
+  die eine parallele Anstrengung von Azimuth Biotech erfolgreich übertrumpfte, die
+  deutlich geringere Liefermengen erhielt.'
 ---
 
 

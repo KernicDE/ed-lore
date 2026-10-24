@@ -7,6 +7,25 @@ last_seen_date: '3309-11-23'
 mention_count: 4
 bio: 'An independent journalist whose reporting for Vox Galactica exposed the human
   cost of forced emancipation and illuminated Imperial power dynamics.'
+bio_de: 'Eine unabhängige Journalistin, deren Reportagen für Vox Galactica die
+  menschlichen Kosten der erzwungenen Emanzipation aufzeigten und die
+  Machtstrukturen des Imperiums beleuchteten.
+
+  Gwendolyn Nash baute sich einen Ruf als eine der scharfsinnigsten unabhängigen
+  Journalistinnen von Vox Galactica auf, die nicht davor zurückschreckte, aus
+  den Brennpunkten politischer Kontroversen zu berichten. Im Juni 3305 legte
+  ihre Berichterstattung über die Krise von Port Isabelle die verheerenden
+  Folgen der erzwungenen Emanzipation von viertausend imperialen Sklaven auf
+  Eotienses A 3 durch Autonomy offen – Personen, die ohne Nahrung, Obdach oder
+  Einkommen zurückblieben, in die Stadt strömten und öffentliche Gebäude zu
+  provisorischen Lagern machten.
+
+  Nashs Berichterstattung reichte über humanitäre Katastrophen hinaus bis in die
+  Machtstrukturen des Imperiums. Bis 3309 analysierte sie die Familiendynamik
+  der Torvals und den möglichen Rücktritt von Senatorin Zemina Torval und
+  bewies damit ihre Fähigkeit, mit gleicher Präzision zwischen Krisenreportagen
+  auf der Straße und der intransparenten Welt der imperialen Hofpolitik zu
+  wechseln.'
 ---
 
 

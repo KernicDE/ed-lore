@@ -11,6 +11,22 @@ bio: 'Lana Berkovich is a President in Elite Dangerous lore, active from 3308-09
   22460, driving thousands of worshippers to abandon orthodox hive...; Congressman
   Dalton Chase has made a public statement regretting his involvement with the Thargoid
   Advocacy Project.'
+bio_de: 'Lana Berkovich ist die Außenministerin der Föderation, die unter Präsident
+  Zachary Hudson während der Thargoid-Konflikte der späten 3300er diente. Im
+  September 3308 brachte sie einen Beschlussantrag ein, der den Kongress
+  aufforderte, den Orden des Fernen Gottes für illegal zu erklären, mit Verweis
+  auf Verfassungszusätze, die Bürger daran hindern, einem Feind des Staates
+  Beistand und Trost zu gewähren.
+
+  Berkovichs Antrag folgte auf die Entdeckung des Geheimdienstes der
+  Föderalen Marine, dass der Fern-Gott-Kult voraussichtlich für das Leaken
+  vertraulicher audiovisueller Daten aus dem HIP-22460-System verantwortlich
+  war. Ihre harte Haltung gegenüber Thargoid-Anbetern deckte sich mit Hudsons
+  breiterer kontra-xeno-Politik, stieß jedoch auf Verurteilung durch
+  Bürgerrechtsorganisationen wie Advocacy und die Galaktische
+  Interkonfessionelle Gemeinschaft. Ihre Rolle bei der Vorgehensweise zeigte
+  exemplarisch die Bereitschaft der Föderalen Regierung, religiöse
+  Andersdenkung in Kriegszeiten als Verrat zu behandeln.'
 ---
 
 

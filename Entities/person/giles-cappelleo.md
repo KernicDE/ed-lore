@@ -9,6 +9,9 @@ bio: Giles Cappelleo is a prominent figure in the Elite Dangerous universe, acti
   from 3305-11-22 to 3309-12-15. Closely associated with Upaniklis Vision Incorporated.
   The beverage, distilled for centuries, receives praise from gourmet critic Giles
   Cappelleo.
+bio_de: Giles Cappelleo ist eine prominente Figur im Elite-Dangerous-Universum, aktiv von
+  3305-11-22 bis 3309-12-15. Eng verbunden mit Upaniklis Vision Incorporated. Das Getränk,
+  jahrhundertelang destilliert, erhält Lob vom Feinschmecker-Kritiker Giles Cappelleo.
 ---
 
 

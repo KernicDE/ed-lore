@@ -28,6 +28,18 @@ bio: 'Polevnic is a system in Elite Dangerous, significant from 3301-06-06 to 33
   Associated with Utopia, Sirius Corporation. Notable events include: Utopia''s compound
   on Antal has long displayed technology years ahead of its time.; Profile of Simguru
   Pranav Antal, heir to Rishi Antal''s legacy of transcendental technology.'
+bio_de: Polevnic ist ein unabhängiges System und dient als wichtiger Standort im
+  Utopian Commune Programme. Unter Simguru Pranav Antal dehnte sich Utopia von seinem
+  Ursprungsstützpunkt auf Antal auf Polevnic, Neris, HIP 117972 und HIP 1389 aus
+  und zog Hunderttausende von Wissenschaftlern und Ingenieuren an, die fortschrittliche
+  Technologien für die Massenproduktion entwickeln.
+
+  Das System wird von den Guardians of Harmony unter einer kommunistischen Regierungsstruktur
+  geführt. Polevnic's Rolle in Utopias Netzwerk technologischer Kommunen spiegelt
+  das Engagement der Organisation wider, Wissen unabhängig von Fraktionszugehörigkeit
+  frei zu teilen. Das System benötigt erhebliche Materialmengen, um seine Werkstätten
+  zu erhalten; Utopia bietet Händlern Boni, die Metalle liefern, um die ehrgeizigen
+  Forschungsprogramme zu unterstützen.
 ---
 
 

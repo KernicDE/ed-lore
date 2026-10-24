@@ -7,6 +7,8 @@ last_seen_date: '3309-11-01'
 mention_count: 2
 bio: 'Jaya Chaudhary is a prominent figure in the Elite Dangerous universe, active
   from 3308-11-02 to 3309-11-01. '
+bio_de: 'Jaya Chaudhary ist eine bekannte Figur im Elite-Dangerous-Universum, aktiv vom
+  02.11.3308 bis 01.11.3309.'
 ---
 
 

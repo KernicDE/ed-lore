@@ -17,6 +17,19 @@ bio: 'Mastopolos Mining is a organization active in Elite Dangerous lore from 33
   3307 review, covering the Yuri Grom honey trap, Torval family rift, Colonia Bridge,
   NMLA''s final stand, and Sa...; Senator Patreus and his followers endured abuse
   on Capitol over his connection to assassin Brendan Paul Darius.'
+bio_de: Mastopolos Mining ist ein imperiales Bergbau- und Transportkonglomerat, das historisch
+  von Senatorin Zemina Torval als Mehrheitsaktionärin dominiert wurde. Jahrzehntelang prägte
+  Torvals persönliche Kontrolle die Expansion und Führung des Konzerns und machte ihn zu einem
+  Ausläufer ihres politischen und wirtschaftlichen Einflusses im Imperium.
+
+  Im Oktober 3307 fasste der Vorstand einen Beschluss, der Torval aus seinem Kreis entfernte und
+  mehr als die Hälfte ihrer Aktien verkaufte, was ihren persönlichen Einfluss drastisch reduzierte.
+  Gabriella Mastopolos, die Namensgeberin des Konzerns, orchestrierte den Coup, den Torval
+  Berichten zufolge nahezu widerstandslos hinnahm. Beobachter vermuteten, dass Torval das Kapital
+  in Torval-Mastopolos Mining umleitete, eine Tochtergesellschaft, die von ihrer Tochter Constantia
+  geführt wurde und anschließend als kontrollierende Autorität von LTT 198 gewählt wurde. Der
+  Vorfall offenbarte die Fragilität imperialer Unternehmensmachtstrukturen, wenn dynastische
+  Kontrolle und Vorstandsunabhängigkeit aufeinanderprallen.
 ---
 
 

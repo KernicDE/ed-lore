@@ -7,6 +7,9 @@ last_seen_date: '3309-10-12'
 mention_count: 2
 bio: 'Niko Shirakawa is a president in the Elite Dangerous universe, active from 3309-04-05
   to 3309-10-12. Closely associated with Shadow President. '
+bio_de: 'Niko Shirakawa ist eine bekannte Figur im Elite-Dangerous-Universum, aktiv
+  von 3309-04-05 bis 3309-10-12. Eng verbunden mit dem Schattenpräsidenten (Shadow
+  President).'
 ---
 
 

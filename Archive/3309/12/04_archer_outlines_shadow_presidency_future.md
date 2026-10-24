@@ -1,12 +1,17 @@
 ---
 uuid: 86ccf794-59d3-5bc5-ae63-b689d2a5d777
 title: Archer Outlines Shadow Presidency Future
+title_de: Archer skizziert die Zukunft seiner Schattenpräsidentschaft
 slug: archer_outlines_shadow_presidency_future
 date: '3309-12-04'
 source: API
 summary: Vice President Jerome Archer discusses the election, his security-first policies,
   relationship with Hudson, and plans to rebuild the Republican Party as shadow president.
+summary_de: Vizepräsident Jerome Archer spricht über die Wahl, seine sicherheitsorientierte
+  Politik, das Verhältnis zu Hudson und seine Pläne, die Republikanische Partei als
+  Schattenpräsident wiederaufzubauen.
 player_impact: Not specifically mentioned — this is a political interview.
+player_impact_de: Nicht explizit erwähnt — dies ist ein politisches Interview.
 persons:
 - Jerome Archer
 - Felicia Winters
@@ -24,6 +29,13 @@ modern_impact: Archer's framing — 'the harsh realities of governance will quic
   a key policy battleground. The Federal Free Press editorial — 'talking about all
   subjects except his own lack of responsibility for the election loss' — provides
   media critique.
+modern_impact_de: |-
+  Archers Deutung – ‚die harte Realität der Regierungsführung wird ihren liberalen
+  Idealismus schnell überwältigen' – läutet seine Oppositionsstrategie ein. Seine
+  Verteidigung der PDB als unverzichtbar und seine Ablehnung von Winters' Plan, sie
+  abzuschaffen, markieren ein zentrales politisches Streitfeld. Das Leitartikel der
+  Federal Free Press – ‚er spricht über alle Themen außer seiner eigenen mangelnden
+  Verantwortung für die Wahlniederlage' – liefert Medienkritik.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -32,6 +44,28 @@ related_uuids:
 - 33c6b56e-6efe-5c2a-9a4c-350a17b673bf
 - ba96abf1-456d-5b32-aa72-2a4b52ee1484
 - 9de434cf-a33f-52bd-ac07-84c6aa5ef7ad
+body_de: |
+  Vizepräsident Jerome Archer hat die jüngste Präsidentschaftswahl der Föderation und weitere Themen in einem Interview mit The Federal Times erörtert.
+
+  Zum Sieg der designierten Präsidentin Felicia Winters:
+
+  „Winters führte einen fairen, sachbezogenen Wahlkampf, genau wie ich, also kann man ihr das nicht verübeln. Aber ich denke, die harte Realität der Regierungsführung wird ihren liberalen Idealismus schnell überwältigen. Hudson war, was seine Kritiker auch von ihm halten mögen, niemals entscheidungsscheu. Wir werden sehen, ob Winters dasselbe kann."
+
+  Zu Archers Wahlprogramm:
+
+  „Ich bleibe dabei, dass ein sicherheitsorientierter Ansatz angesichts der vielen Bedrohungen, denen die Föderation gegenübersteht, der richtige ist. Die Thargoids sind nicht der einzige Feind unseres Volkes. Die Auflösung des Proactive Detection Bureau, wie Winters es angekündigt hat, wäre ein Akt der Selbstsabotage für unsere gesamte Gesellschaft."
+
+  Zu seinem Verhältnis zum scheidenden Präsidenten Zachary Hudson:
+
+  „Es war mir eine Ehre, Präsident Hudson zu unterstützen, von dem ich viel über die politische Arena gelernt habe. Wir beide sind echte Patrioten mit ähnlichen Ansichten. Ich weiß, dass er die Föderation auf seine Weise weiterhin dienen wird."
+
+  Zu seiner künftigen politischen Laufbahn:
+
+  „Als Schattenpräsident wird es meine Pflicht sein, nicht nur Winters' Regierung unter die Lupe zu nehmen, sondern auch das Vertrauen der Wähler in die Republikanische Partei wiederherzustellen. Ich bin überzeugt, dass die Bürger bei der nächsten Wahl, wenn nicht sogar früher, voll und ganz hinter unseren Politikstandpunkten stehen werden."
+
+  Als Reaktion auf dieses Interview schrieb ein Leitartikel der Federal Free Press:
+
+  „Jerome Archers Priorität ist es nun, Hudsons Getreue unter seine Fahne zu versammeln und sich selbst als würdigen Nachfolger zu positionieren. Doch diese Taktik, über alle Themen zu sprechen außer seiner eigenen mangelnden Verantwortung für die Wahlniederlage, wird die Wähler nicht täuschen. Sobald die PDB abgeschafft ist und wir die Verbesserungen durch eine Regierung der Liberalen Partei sehen, steht Archer vor einer erheblichen Herausforderung, nicht zur Fußnote der Geschichte der Föderation zu werden."
 ---
 
 

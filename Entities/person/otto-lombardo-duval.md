@@ -7,6 +7,19 @@ last_seen_date: '3309-12-15'
 mention_count: 5
 bio: Archduke Otto Lombardo-Duval is a member of the Imperial Duval dynasty, related
   to Emperor Hengist Duval's extended family.
+bio_de: Erzherzog Otto Lombardo-Duval ist Mitglied des imperialen Duval-Hauses und
+  über Kaiser Hengist Duvals erweiterte Familie mit der Hauptlinie verwandt. Er trägt
+  den Titel Erzherzog und zählt zu den ranghohen Mitgliedern der Kaiserlichen Familie,
+  die Kaiserin Arissa während der Thronfolgekrise und des Konflikts mit dem Nova
+  Imperium öffentlich unterstützten.
+
+  Im Jahr 3309 schloss sich Otto Prinzessin Aisling Duval, Gräfin Guinevere Lavigny
+  und anderen Familienmitgliedern an, die Lady Florence Lavigny – der Mutter des
+  Kaisers – während eines medizinischen Notfalls gute Wünsche übermittelten. Seine
+  Aufnahme in solche Familiensendungen unterstreicht seinen Status als anerkanntes
+  Mitglied der erweiterten Familie Duval-Lavigny, wenngleich er keinen direkten
+  Thronanspruch besitzt. Ottos öffentliche Rolle beschränkte sich auf zeremonielle
+  und familiäre Pflichten statt auf politische oder militärische Führung.
 ---
 
 # Otto Lombardo-Duval

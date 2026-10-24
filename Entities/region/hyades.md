@@ -22,6 +22,19 @@ bio: 'Hyades is a system in Elite Dangerous, significant from 3308-11-17 to 3309
   journey to greet the first rogue signal source.; Congressman Dalton Chase has applauded
   the increased public support for the goal of opening diplomatic channels with the
   Thargoids.'
+bio_de: Die Hyades sind ein Sternhaufen und eine Raumregion, die zu einem der
+  wichtigsten Schlachtfelder des Zweiten Thargoid-Kriegs wurde. Ende 3308 erreichte
+  der als Taranis bekannte Maelstrom das System Hyades Sector FB-N b7-6 und manifestierte
+  sich als kolossale Gaswolke, die sofort große Zahlen von Thargoid-Schiffen in die
+  Nachbarsysteme entließ.
+
+  Die Nähe des Sternhaufens zu den Kernsystemen machte ihn strategisch vital, und
+  die Ankunft zusätzlicher Maelstroms im Dezember 3308 verwandelte die Hyades in
+  einen Brennpunkt des Thargoid-Angriffs. Die Invasion der Region forderte Millionen
+  von Opfern und verdrängte weitere Millionen, wodurch das verheerende Ausmaß des
+  Konflikts sichtbar wurde, der 3309 dominieren sollte. Die Hyades stehen damit für
+  das Epizentrum der intensivsten Phase der Thargoid-Aggression in der modernen
+  Geschichte.
 ---
 
 <!-- AUTO-GENERATED -->

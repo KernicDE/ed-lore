@@ -10,6 +10,11 @@ bio: Supercruise Overcharge capable Frame Shift Drive is a technology in the Eli
   Engineers. Achilles Aerospace's Alioth facility producing SCO frame shift drives
   is attacked by unidentified saboteurs posing as engineers, with no survivors and
   no impact on manufacturing.
+bio_de: Ein Supercruise-Overcharge-fähiger Frameshiftantrieb ist eine Technologie im
+  Elite-Dangerous-Universum, erwähnt vom 20.06.3310 bis 20.06.3310. Entwickelt oder
+  verwendet von Ingenieuren. Achilles Aerospaces Einrichtung in Alioth, die SCO-Frameshiftantriebe
+  produziert, wird von unidentifizierten Saboteuren angegriffen, die sich als Ingenieure
+  ausgeben; es gibt keine Überlebenden und keine Auswirkungen auf die Fertigung.
 ---
 
 

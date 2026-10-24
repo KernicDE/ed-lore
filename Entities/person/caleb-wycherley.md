@@ -11,6 +11,21 @@ bio: 'Caleb Wycherley is a Scientist in Elite Dangerous lore, active from 3308-0
   Azimuth Biochemicals researcher and INRA collaborator who hel...; A survivor of
   Azimuth Biochemicals'' Project Seraph, designated D-2, reveals the location of an
   INRA base and confirms Salvation''s identity as Dr Ca...'
+bio_de: Caleb Wycherley war Gründer und ursprünglicher Direktor von Azimuth Biochemicals,
+  dem Unternehmensvorgänger von Azimuth Biotech und der institutionellen Linie hinter dem
+  anonymen Wissenschaftler, der als Salvation bekannt ist. Anfang der 3100er Jahre errichtete
+  Wycherley die xenologische Forschungsabteilung von Azimuth, erwarb die ersten Beweise für
+  thargoidisches Leben und initiierte die geheimen Waffenprogramme, die in Zusammenarbeit mit
+  dem INRA schließlich den Mykoid-Virus hervorbringen sollten.
+
+  Als Azimuth Biochemicals über ein Jahrhundert später wirtschaftlich von Pharmasapien überholt
+  wurde, sorgte Wycherley dafür, dass zentrale Vermögenswerte und Mitarbeiter vor der Übernahme
+  aus den Firmenunterlagen entfernt wurden, sodass die Forschung im Geheimen weitergehen konnte.
+  Im Juni 3308 offenbarte sich Salvation öffentlich als Wycherleys Nachfolger und erklärte
+  mit den Worten, „Caleb Wycherley ist nicht mehr, aber seine Leistungen legten die Grundlagen
+  für den Mann, zu dem ich geworden bin." Wycherleys Vermächtnis ist damit direkt verbunden sowohl mit dem
+  Mykoid-Virus, der den Ersten Thargoid-Krieg beendete, als auch mit der Proteus-Welle, der
+  Superwaffe, die den Zweiten Krieg katastrophal eskalierte.
 ---
 
 

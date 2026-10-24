@@ -1,13 +1,18 @@
 ---
 uuid: 159caa3b-1d4d-531b-ac16-f40c17d6f332
 title: Alliance Reviews Sirius Defence Pact
+title_de: Allianz prüft Sirius-Verteidigungspakt
 slug: alliance_reviews_sirius_defence_pact
 date: '3309-11-20'
 source: API
 summary: The Alliance Assembly approves a formal evaluation of the Sirius defence
   pact, with Kaine attacking Sirius's failures and Glass defending their behind-the-scenes
   work.
+summary_de: Die Versammlung der Allianz genehmigt eine formelle Bewertung des Sirius-Verteidigungspakts,
+  wobei Kaine Sirius' Versäumnisse angreift und Glass die Arbeit hinter den Kulissen
+  verteidigt.
 player_impact: Not specifically mentioned — this is a political report.
+player_impact_de: Nicht explizit erwähnt — dies ist ein Politikbericht.
 persons:
 - Nakato Kaine
 - Nikolas Glass
@@ -29,12 +34,35 @@ modern_impact: Kaine's litany of failures — 'capital ships promised... remain 
   is underwhelming. The Old Worlds Gazette's observation that 'Operation Tyndareus...
   was over a year ago' underscores the pact's declining returns. Mahon's political
   pressure to 'abandon his commitment to Sirius' frames the personal cost.
+modern_impact_de: Kaines Aufzählung der Misserfolge — ‚versprochene Großkampfschiffe
+  ... bleiben auf dem Reißbrett', ‚die Sirius-Flotte setzt sich nicht einmal ein' — ist
+  eine umfassende Anklage. Glass' Verteidigung — ‚Sirius-Techniker haben viele alternde
+  ADF-Schiffe umgerüstet' — ist enttäuschend schwach. Die Feststellung der Old Worlds
+  Gazette, dass ‚Operation Tyndareus ... über ein Jahr her ist', unterstreicht die
+  schwindende Rendite des Pakts. Mahons politischer Druck, ‚seine Bindung an Sirius
+  aufzugeben', zeigt den persönlichen Preis.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 52e15d2f-c860-504f-a2e4-4e54c31cb388
 - d9d11a81-06c0-59f1-af71-a3c4c5194f5c
 - 87bfa62f-1991-5f20-88d3-0bd0d7d797bc
+body_de: |
+  Die Versammlung der Allianz hat eine formelle Bewertung ihres strategischen Verteidigungspakts mit der Sirius Corporation genehmigt.
+
+  Die Abstimmung über die Einleitung einer unabhängigen Untersuchung wurde von Ratsmitglied Nakato Kaine geführt, die zusammenfasste:
+
+  „Diese Partnerschaft besteht seit fast zwei Jahren. Welche greifbare militärische Unterstützung haben wir gesehen? Die Sirius Corporation hat wenig getan, um die Bevölkerung der Allianz vor Angriffen oder Entführungen zu schützen. Die der Allianz-Verteidigungsstreitkräfte versprochenen Großkampfschiffe bleiben auf dem Reißbrett. Die Sirius-Flotte setzt sich auf der Frontlinie dieses Krieges nicht einmal gegen die Thargoid-Flotten ein. Wie lange müssen wir Li Yong-Ruis leere Versprechen noch ertragen?"
+
+  Admiral Nikolas Glass, Vertreter des Megakonzerns im Rat der Admiräle, widersprach diesen Behauptungen:
+
+  „In Wahrheit wird hinter den Kulissen enorm viel geleistet. Sirius-Techniker haben viele alternde ADF-Schiffe mit moderner Bewaffnung und internen Systemen nachgerüstet. Wir haben erheblich in neue AX-Module investiert, etwa die Anti-Xeno-Raketenbatterie und vorkonfigurierte Kühlkörper. Und unsere Baupläne bildeten die Grundlage für Aegis' Untergrund-Extraktionsrakete, die schon so viele Menschen aus den Titanen gerettet hat."
+
+  Ein Leitartikel der Old Worlds Gazette spekulierte:
+
+  „Der strategische Verteidigungspakt hat einige Erfolge hervorgebracht, etwa die Taskforce der Operation Tyndareus, die einen Thargoid-Einfall in alliiertes Territorium zurückschlug. Aber das ist über ein Jahr her, und die Vision einer von Sirius gestützten Allianz-Flotte, die es mit dem Imperium oder der Föderation aufnehmen könnte, hat sich nicht erfüllt."
+
+  „Während das Unbehagen in der Versammlung wächst, wird die Möglichkeit einer Neuverhandlung des Pakts neben Ratsmitglied Kaines Vorschlag, ihn ganz zu beenden, erwogen. Premierminister Mahon steht unter politischem Druck, seine Bindung an die Sirius Corporation aufzugeben — zumal ein reformiertes Aegis nun die Entwicklung der Anti-Xeno-Technologie anführt."
 ---
 
 

@@ -9,6 +9,11 @@ bio: Thargoid spire compounds is a technology in the Elite Dangerous universe, m
   from 3309-11-10 to 3309-11-10. Developed or used by Maximo Fonseca, Ishmael Palin,
   Aegis. Palin discovers genetic commonalities between spire compounds and Titan hull
   fragments, synthesising a biological contaminant to disrupt spire processing chains.
+bio_de: Thargoid-Spitzenverbindungen sind eine Technologie im Elite-Dangerous-Universum,
+  erwähnt am 10.11.3309. Entwickelt oder verwendet von Maximo Fonseca, Ishmael Palin,
+  Aegis. Palin entdeckt genetische Gemeinsamkeiten zwischen Spitzenverbindungen und
+  Fragmenten der Titanenhülle und synthetisiert einen biologischen Kontaminanten,
+  um die Verarbeitungsketten der Spitzen zu stören.
 ---
 
 

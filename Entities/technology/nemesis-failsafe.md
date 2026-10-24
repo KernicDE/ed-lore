@@ -11,6 +11,13 @@ bio: Nemesis Failsafe is a technology in the Elite Dangerous universe, mentioned
   inviting Seo Jin-ae to collaborate while dismissing claims of Utopia's involvement.
   Seo Jin-ae returns from Utopia after discussing Salvation's Nemesis Failsafe with
   Pranav Antal, with both agreeing to keep their conclusions confidential.
+bio_de: 'Das Nemesis-Failsafe ist eine Technologie im Elite-Dangerous-Universum, erwähnt
+  vom 3309-12-11 bis 3309-12-21. Entwickelt oder genutzt von Azimuth, Utopia, Caleb
+  Wycherley. Pranav Antal spricht über Utopias Analyse der Nemesis-Failsafe-Baupläne
+  von Salvation und lädt Seo Jin-ae zur Zusammenarbeit ein, während er Behauptungen
+  über eine Beteiligung Utopias zurückweist. Seo Jin-ae kehrt von Utopia zurück, nachdem
+  sie mit Pranav Antal über Salvations Nemesis-Failsafe gesprochen hat; beide stimmen
+  darin überein, ihre Schlussfolgerungen vertraulich zu behandeln.'
 ---
 
 

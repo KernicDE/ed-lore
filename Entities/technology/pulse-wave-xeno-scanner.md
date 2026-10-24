@@ -7,6 +7,24 @@ last_seen_date: '3309-12-29'
 mention_count: 3
 bio: 'pulse wave xeno scanner is a technology in the Elite Dangerous universe, mentioned
   from 3309-10-05 to 3309-12-29. Developed or used by Aegis, Aden Tanner. '
+bio_de: Der Pulse-Wave-Xeno-Scanner ist eine spezialisierte Detektionstechnologie, die
+  von Aegis entwickelt wurde, um thargoidische biologische und technologische Signaturen
+  im Einsatzumfeld zu identifizieren und zu analysieren. Im Gegensatz zu Mehrzweckscannern
+  für Sternenkartografie oder Mineraliensuche sendet das Gerät kalibrierte Energieimpulse
+  aus, die mit thargoidischen Materialien wechselwirken, um strukturelle Schwachstellen,
+  organische Verwundbarkeiten und technologische Subsysteme sichtbar zu machen. Seine
+  Entwicklung erforderte Reverse-Engineering-Prinzipien aus geborgenen außerirdischen
+  Artefakten, kombiniert mit konventioneller Sensortechnik.
+
+  Aegis setzte diese Scanner während der sich zuspitzenden Konflikte Ende 3309 ein;
+  Admiral Aden Tanner überwachte ihre Integration in die Anti-Xeno-Operationen. Die
+  Technologie erwies sich für Piloten im Kampf gegen thargoidische Schiffe und Anlagen
+  als unverzichtbar und lieferte taktische Informationen, die konventionelle Scan-Geräte
+  nicht erzeugen konnten. Der Pulse-Wave-Xeno-Scanner veranschaulicht, wie sich die
+  militärtechnische Antwort der Menschheit auf die Thargoid-Bedrohung durch adaptive
+  Innovation weiterentwickelte, indem er erbeutetes außerirdisches Wissen in praktische
+  Werkzeuge verwandelte, die unabhängige Piloten gegen einen technologisch überlegenen
+  Gegner einsetzen konnten.
 ---
 
 

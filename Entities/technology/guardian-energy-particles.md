@@ -8,6 +8,9 @@ mention_count: 1
 bio: 'Guardian energy particles is a technology in the Elite Dangerous universe, mentioned
   from 3309-12-11 to 3309-12-11. Developed or used by Leon Banerjee, Torben Rademaker,
   Azimuth. '
+bio_de: 'Guardian-Energiepartikel sind eine Technologie im Elite-Dangerous-Universum,
+  erwähnt vom 3309-12-11 bis 3309-12-11. Entwickelt oder genutzt von Leon Banerjee,
+  Torben Rademaker, Azimuth. '
 ---
 
 

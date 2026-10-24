@@ -7,6 +7,8 @@ last_seen_date: '3309-11-14'
 mention_count: 1
 bio: 'Zoe Terentia is a prominent figure in the Elite Dangerous universe, active from
   3309-11-14 to 3309-11-14. Closely associated with Azimuth, Aegis. '
+bio_de: Zoe Terentia ist eine bedeutende Figur im Elite-Dangerous-Universum, aktiv
+  vom 3309-11-14 bis 3309-11-14. Sie steht in enger Verbindung mit Azimuth und Aegis.
 ---
 
 

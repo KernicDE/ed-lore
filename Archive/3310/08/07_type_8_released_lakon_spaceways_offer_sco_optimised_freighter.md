@@ -1,14 +1,20 @@
 ---
 uuid: a5b9e2d4-6885-5c74-8e5b-278e557e3388
 title: 'Type-8 Released: Lakon Spaceways Offer SCO Optimised Freighter'
+title_de: 'Type-8 erschienen: Lakon Spaceways bietet SCO-optimierten Frachter an'
 slug: type_8_released_lakon_spaceways_offer_sco_optimised_freighter
 date: '3310-08-07'
 source: API
 summary: Lakon Spaceways releases the Type-8, a medium-class freighter optimised for
   SCO frame shift drive travel, boasting larger cargo capacity and greater resilience
   than competitors.
+summary_de: Lakon Spaceways bringt die Type-8 auf den Markt, einen Frachter der Mittelklasse,
+  optimiert für Reisen mit dem SCO-Frameshiftantrieb, mit größerer Frachtkapazität
+  und höherer Widerstandsfähigkeit als Konkurrenzmodelle.
 player_impact: The Type-8 freighter is now available for purchase from Lakon Spaceways.
   Early reviews confirm it effectively minimises SCO drive downsides.
+player_impact_de: Die Type-8 ist nun bei Lakon Spaceways käuflich erhältlich. Erste
+  Tests bestätigen, dass sie die Nachteile des SCO-Antriebs effektiv minimiert.
 persons: []
 groups:
 - Faulcon DeLacy
@@ -27,6 +33,12 @@ modern_impact: Lakon's competitive framing — 'with a much lower level of risk 
   is a specific market positioning. SCO drive compatibility is now a standard feature
   expected in new ship releases, showing how Achilles' technology has reshaped the
   entire shipbuilding industry.
+modern_impact_de: Lakons Wettbewerbsframing — ‚bei einem deutlich geringeren Risiko,
+  als unsere Konkurrenten es derzeit bieten können‘ — zielt direkt auf Faulcon DeLacys
+  Python Mk II. Die Erwähnung, die Type-8 sei ‚das größte Schiff der Mittelklasse auf
+  dem Markt‘, ist ein konkretes Marktpositionierung. Die SCO-Antriebskompatibilität
+  ist inzwischen ein Standardmerkmal neuer Schiffsmodelle — ein Zeichen dafür, wie
+  Achilles' Technologie die gesamte Schiffbauindustrie verändert hat.
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -35,6 +47,18 @@ related_uuids:
 - 5c1edfc9-c711-54c9-8ccc-072efce0bdcf
 - c07b4796-ed9d-5a28-9d36-26ee710a7e32
 - a6b3ef28-b9c3-54e1-928c-736df9d23c63
+body_de: |
+  Die erste Charge der Type-8-Frachter ist nun käuflich erhältlich und erweitert Lakon Spaceways' Flotte dedizierter Handelsschiffe.
+
+  Lakons Werbematerial enthielt folgende Stellungnahme:
+
+  „Mit der Type-8 führt Lakon Spaceways einen Frachter der Mittelklasse ‚bester Güte‘ ein. Das ästhetisch ansprechende Design bietet eine größere Frachtkapazität und höhere Widerstandsfähigkeit als Handelsschiffe vergleichbarer Größe.“
+
+  „Seitdem Achilles' SCO-Frameshiftantrieb den Markt erreicht hat, besteht die neueste Herausforderung für modernes Schiffsdesign darin, den einzigartigen Belastungen durch überladenen Supercruise zu trotzen. Lakon ist stolz, diese Herausforderung triumphal bestanden zu haben. Piloten der Type-8 können in einem Bruchteil der Zeit zwischen Navigationsbojen und Sternenhäfen reisen — bei einem deutlich geringeren Risiko, als unsere Konkurrenten es derzeit bieten können.“
+
+  „Die Type-8 ist eine ausgezeichnete Wahl für jeden Unternehmer, der die Profitabilität seiner Handelsrouten maximieren möchte.“
+
+  Die offiziellen Abmessungen des Schiffs machen es zum größten verfügbaren Schiff der Mittelklasse auf dem öffentlichen Markt. Erste Tests bestätigen, dass die Type-8 die Nachteile von Reisen mit dem SCO-Frameshiftantrieb effektiv minimiert — ähnlich wie Faulcon DeLacys kürzlich erschienene Python Mk II.
 ---
 
 

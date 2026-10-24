@@ -28,6 +28,11 @@ bio: Cubeo is a star system in the Elite Dangerous universe, significant from 33
   to 3310-08-02. Associated with Emperor's Dawn, Imperial Senate. Emperor Arissa Lavigny-Duval
   survives an ambush on her convoy in Cubeo during a harvest festival, with Denton
   Patreus proposing increased security and the Kumo Crew later linked to the attack.
+bio_de: Cubeo ist ein Sternensystem im Elite-Dangerous-Universum, das von 3303-10-28
+  bis 3310-08-02 von Bedeutung war. Es ist mit Emperor's Dawn und dem Imperialen
+  Senat verbunden. Kaiserin Arissa Lavigny-Duval überlebt einen Hinterhalt auf ihren
+  Konvoi in Cubeo während eines Erntefestes; Denton Patreus schlug erhöhte Sicherheit
+  vor, und später wurde die Kumo Crew mit dem Angriff in Verbindung gebracht.
 ---
 
 

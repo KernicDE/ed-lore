@@ -1,13 +1,18 @@
 ---
 uuid: ba96abf1-456d-5b32-aa72-2a4b52ee1484
 title: Felicia Winters Elected as Federal President
+title_de: Felicia Winters zur Bundespräsidentin gewählt
 slug: felicia_winters_elected_as_federal_president
 date: '3309-10-16'
 source: API
 summary: Felicia Winters wins the 3309 Federal presidential election with a 4% majority
   over Jerome Archer, with congratulations from allies and a cautious response from
   the Empire.
+summary_de: Felicia Winters gewinnt die Bundespräsidentenwahl 3309 mit einer Mehrheit
+  von vier Prozent über Jerome Archer. Verbündete gratulieren, das Imperium reagiert
+  zurückhaltend.
 player_impact: Not specifically mentioned.
+player_impact_de: Wird nicht konkret erwähnt.
 persons:
 - Felicia Winters
 - Jerome Archer
@@ -34,12 +39,36 @@ modern_impact: Winters's victory speech — 'create optimism where there was fea
   dynamic. The Empire's 'No formal acknowledgement' while Aisling 'joined Professor
   Alba Tesreau' shows the nuanced Imperial response — official coldness but personal
   engagement through Aegis.
+modern_impact_de: Winters’ Siegesrede – ‚dort Optimismus schaffen, wo Angst herrschte,
+  Schutz bieten den Verwundbaren‘ – definiert ihr Programm. Archers würdevolle Anerkennung
+  – ‚Ich freue mich darauf, nächstes Jahr die Rolle des Schattenpräsidenten zu übernehmen‘
+  – etabliert die Oppositionsdynamik. Das ‚fehlende offizielle Bekenntnis‘ des Imperiums,
+  während Aisling ‚sich Professor Alba Tesreau anschloss‘, zeigt die differenzierte imperiale
+  Reaktion – offizielle Kühle, aber persönliches Engagement über Aegis.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 8727788d-05be-5b7c-b1a5-0a876fe6c062
 - 9de434cf-a33f-52bd-ac07-84c6aa5ef7ad
 - 86ccf794-59d3-5bc5-ae63-b689d2a5d777
+body_de: |
+  Die Föderation hat Felicia Winters zur nächsten Präsidentin gewählt, mit einer Mehrheit von vier Prozent der Stimmen über ihren Rivalen Jerome Archer.
+
+  Die derzeitige Schattenpräsidentin der Liberal Party wird im neuen Jahr offiziell vereidigt und tritt eine achtjährige Amtszeit an. Kongressabgeordnete Isolde Rochester wird ebenfalls als Vizepräsidentin in Winters’ Regierung vereidigt werden.
+
+  Präsident Zachary Hudson bleibt während der Übergangszeit im Amt, doch von ihm wird nicht erwartet, dass er größere politische Veränderungen umsetzt. Die Liberal Party wird die Republikaner 3310 als Regierungspartei der Supermacht ablösen, wobei Jerome Archer die Rolle des Schattenpräsidenten übernimmt.
+
+  Die designierte Präsidentin Winters wandte sich auf einer Festkundgebung in Olympus Village auf dem Mars an ihre Anhänger:
+
+  „Das Volk der Föderation hat gesprochen! Ich danke euch allen dafür, die Vision meiner Partei in die Realität umgesetzt zu haben. Mein Ziel ist es, für alle gerecht zu regieren, unabhängig von ihrer politischen Zugehörigkeit. Gemeinsam werden wir dort Optimismus schaffen, wo Angst herrschte, Schutz bieten den Verwundbaren und die Lebensqualität jedes einzelnen föderalen Bürgers verbessern.“
+
+  Vizepräsident Jerome Archer erkannte das Wahlergebnis offiziell in einer Sitzung des Kongresses an:
+
+  „Meine Anerkennung gilt Felicia Winters, die einen starken Wahlkampf geführt hat. Ich freue mich darauf, nächstes Jahr die Rolle des Schattenpräsidenten zu übernehmen und dafür zu sorgen, dass die Vorschläge ihrer Regierung von Tag eins an gründlich geprüft werden.“
+
+  Die ehemaligen Präsidentinnen Antonia Madison und Jasmina Halsey – die Winters nach der Starship-One-Katastrophe vorübergehend ersetzt hatte – übermittelten ihre Glückwünsche. Premierminister Edmund Mahon der Allianz, Erste Ministerin Octavia Volkov der Marlinist-Kolonien und CEO Li Yong-Rui der Sirius Corporation schickten ähnliche Botschaften an das Winters-Team.
+
+  Aus dem Imperium kam kein offizielles Bekenntnis. Prinzessin Aisling Duval schloss sich jedoch Professor Alba Tesreau und anderen Mitgliedern der Aegis-Führung an und erklärte: „Wir vertrauen darauf, dass Präsidentin Winters unserem vereinheitlichten Ansatz treu bleibt und die Entwicklung der Technologien sicherstellt, die zum Sieg im andauernden Thargoid-Krieg nötig sind.“
 ---
 
 

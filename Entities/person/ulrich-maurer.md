@@ -7,6 +7,22 @@ last_seen_date: '3309-11-01'
 mention_count: 3
 bio: 'Ulrich Maurer is a prominent figure in the Elite Dangerous universe, active
   from 3309-10-26 to 3309-11-01. '
+bio_de: Ulrich Maurer trat Ende 3309 kurzzeitig in den Fokus, in einer Phase erheblicher
+  Unruhen in mehreren Großmächten und unabhängigen Territorien. Obwohl Einzelheiten
+  seiner konkreten Rolle spärlich bleiben, legt sein Auftreten in den GalNet-Aufzeichnungen
+  während dieses engen Zeitfensters eine Beteiligung an Ereignissen nahe, die in einem
+  kritischen historischen Moment die Aufmerksamkeit der Galaxis erregten. Der Zeitpunkt
+  seiner Aktivität platzierte ihn vor den Hintergrund andauernder Thargoid-Konflikte,
+  politischer Neuordnungen und unternehmerischer Manöver, die diese Epoche prägten.
+
+  Seine begrenzte Dokumentation spiegelt die Tatsache wider, dass zahllose Einzelne
+  zu galaktischen Ereignissen beitragen, ohne in den öffentlichen Aufzeichnungen
+  dauerhafte Prominenz zu erlangen. Maurer mag als Vermittler, Beamter oder unabhängiger
+  Akteur gewirkt haben, dessen Handeln kurz mit beachtenswerten Entwicklungen kollidierte,
+  bevor er wieder aus dem Blickfeld verschwand. Sein Eintrag in den historischen
+  Aufzeichnungen erinnert daran, dass die Erzählung der Galaxis nicht nur berühmte
+  Figuren umfasst, sondern auch flüchtige Beteiligte, deren Beiträge – so kurz sie
+  auch sein mögen – Teil des größeren Gesamtbilds sind.
 ---
 
 

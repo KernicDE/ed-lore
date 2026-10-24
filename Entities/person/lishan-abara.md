@@ -8,6 +8,9 @@ mention_count: 2
 bio: 'Lishan Abara is a prominent figure in the Elite Dangerous universe, active from
   3307-10-29 to 3309-12-15. Closely associated with Colonia Council, Holloway Bioscience
   Institute. '
+bio_de: 'Lishan Abara ist eine bekannte Figur im Elite-Dangerous-Universum, aktiv
+  von 3307-10-29 bis 3309-12-15. Eng verbunden mit Colonia Council und Holloway
+  Bioscience Institute.'
 ---
 
 

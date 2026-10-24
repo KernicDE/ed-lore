@@ -11,6 +11,23 @@ bio: 'Octavia Volkov is a Senator in Elite Dangerous lore, active from 3307-06-0
   Marlinism Reformation Party offering to represent the terrorists p...; Political
   rifts and public protests erupt across the Marlinist Colonies following NMLA starport
   bombings, with Parliament descending into heated ac...'
+bio_de: 'Octavia Volkov ist eine marlinistische politische Führungspersönlichkeit, die
+  als Leiterin der Exilierten Marlinistischen Versammlung von Baltah''Sine an Bedeutung
+  gewann. Ihre Machtübernahme im Hyades Sector RO-P b6-2-System erfolgte im Juni 3307,
+  nachdem die Wähler die Marlinism Reformation Party dafür abstraften, Neo-Marlinisten
+  Asyl gewährt zu haben. Volkov positionierte sich sofort als erbitterte Gegnerin der
+  NMLA und erklärte, ihre Partei folge dem Vorbild Marlin Duvals, indem sie unabhängige
+  Demokratien aufbaue, statt das Imperium zu reformieren.
+
+  Im August 3307 führte Volkov die anti-NMLA-Kräfte im Marlinistischen Bürgerkrieg
+  gegen Aaron Whytes Fraktion zum Sieg. Wenige Tage später wurde sie zur Ersten
+  Ministerin gewählt, konsolidierte die Kontrolle über alle acht Koloniesysteme und
+  etablierte formelle diplomatische Kanäle zur Alliance und zur Föderation. Unter
+  ihrer Führung bewältigten die Kolonien weitere politische Herausforderungen, darunter
+  eine Volksabstimmung über den Status eines imperialen Protektorats und die Thargoid-
+  Bedrohung. Bis 3309 hatte sich Volkov zu einer angesehenen diplomatischen Figur
+  entwickelt und beglückwünschte die designierte Präsidentin Felicia Winters zu ihrem
+  Sieg bei den föderalen Wahlen.'
 ---
 
 

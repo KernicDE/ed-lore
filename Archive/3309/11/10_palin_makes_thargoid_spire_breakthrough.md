@@ -1,13 +1,19 @@
 ---
 uuid: a6ae28ee-ebef-5d50-8f49-597b189a1fab
 title: Palin Makes Thargoid Spire Breakthrough
+title_de: 'Palin erzielt Durchbruch bei Thargoid-Spitzen'
 slug: palin_makes_thargoid_spire_breakthrough
 date: '3309-11-10'
 source: API
 summary: Palin discovers genetic commonalities between spire compounds and Titan hull
   fragments, synthesising a biological contaminant to disrupt spire processing chains.
+summary_de: Palin entdeckt genetische Gemeinsamkeiten zwischen den Verbindungen der Spitzen
+  und Fragmenten der Titan-Hüllen und synthetisiert ein biologisches Kontaminationsmittel,
+  um die Verarbeitungsketten der Spitzen zu stören.
 player_impact: Pilots delivered samples from Titans and Thargoid spire sites to Palin
   in the Arque system.
+player_impact_de: Piloten lieferten Proben von Titanen und Thargoid-Spitzenstandorten
+  an Palin im System Arque.
 persons:
 - Ishmael Palin
 - Maximo Fonseca
@@ -28,12 +34,34 @@ modern_impact: Palin's theory — 'these surface sites have been established to 
   are running low' implies the Thargoids are logistically strained. Fonseca's caution
   — 'still in the experimental phase' — tempers expectations. The honouring of specific
   CMDRs is a rare direct player acknowledgment.
+modern_impact_de: Palins Theorie – „diese Oberflächenstandorte wurden errichtet, um Ressourcen
+  zu gewinnen, die die Thargoid-Mutterschiffe auf irgendeine Weise versorgen“ – deutet
+  die Spitzen als Versorgungsketten. Sein Hinweis, dass „ihre Vorräte an lebenswichtigen
+  Enzymen oder Treibstoffen zur Neige gehen“, impliziert, dass die Thargoiden logistisch
+  angespannt sind. Fonsecas Zurückhaltung – „noch in der experimentellen Phase“ – dämpft
+  die Erwartungen. Die Ehrung einzelner CMDRs ist eine seltene direkte Anerkennung der Spieler.
 legacy_weight: 4
 significance: high
 related_uuids:
 - 21e18c70-7087-5260-b54f-3ed8f18c7a9e
 - 81865303-e582-5bfe-9456-f4a6edde499c
 - cdd43b12-45f6-5545-9f6b-132396f9adc2
+body_de: |
+  Die Analyse von Objekten und Raffinerieverbindungen, die an Thargoid-Spitzenstandorten gewonnen wurden, hat eine entscheidende Verbindung zu den Titanen aufgedeckt.
+  Die Ankündigung kam von Professor Ishmael Palin, der von Mitgliedern der Pilotenvereinigung Lieferungen dieser Materialien erhalten hatte:
+  „Genetische Gemeinsamkeiten zwischen den Verbindungen der Spitzen und Fragmenten der Titan-Hüllen sind nun verifiziert. Meine Forschung legt nahe, dass diese Oberflächenstandorte errichtet wurden, um Ressourcen zu gewinnen, die die Thargoid-Mutterschiffe auf irgendeine Weise versorgen. Möglicherweise gehen ihre Vorräte an lebenswichtigen Enzymen oder Treibstoffen zur Neige, nachdem sie monatelang fern ihrer Heimatwelten im Einsatz sind.“
+  „Um dieses neue Verständnis zu nutzen, hat mein Team auf Grundlage der chemischen Zusammensetzung der Proben ein biologisches Kontaminationsmittel synthetisiert. Die Einführung dieses Mittels in die Verarbeitungskette einer Spitze kann unsere Bemühungen, ihre Invasionspläne zu stören, nur unterstützen.“
+  Dr. Maximo Fonseca, wissenschaftlicher Verbindungsoffizier der Allianz bei Aegis, kommentierte:
+  „Es ist wichtig anzumerken, dass Professor Palins Arbeit noch in der experimentellen Phase ist und weiterer Tests bedarf. Große Mengen des Kontaminationsmittels müssen zu allen bekannten Spitzen transportiert werden. Dies wird eine äußerst gefährliche Mission sein, da die Standorte von Thargoid-Drohnen und -Schiffen aggressiv patrouilliert werden.“
+  Aegis dankte allen, die Proben von den Titanen und Thargoid-Spitzenstandorten an Professor Palin im System Arque geliefert haben. Ein besonderer Hinweis wurde veröffentlicht, der jene Piloten ehrt, die die ersten und die meisten Lieferungen abgeschlossen haben:
+  CMDR HaLfY47
+  CMDR M. V. Coehoorn
+  CMDR MAKSIMUSR
+  CMDR Pete Justice
+  CMDR Ecthelion
+  CMDR Tarin Tarek
+  CMDR Racius
+  CMDR Dark Session
 ---
 
 

@@ -14,6 +14,15 @@ related_entities:
 bio: Abel Laboratory is a research outpost that has been involved in various scientific
   initiatives. It serves as a hub for researchers and scientists working on frontier
   projects.
+bio_de: Das Abel Laboratory ist ein Forschungsaußenposten, der als Drehkreuz für
+  wissenschaftliche Vorhaben im Grenzraum dient. Die Einrichtung beherbergte Forschende,
+  die an verschiedenen Projekten arbeiteten, von xenobiologischen Studien bis zur
+  Materialwissenschaft. Seine abgelegene Lage macht es zu einem idealen Ort für
+  Experimente, die Isolation von besiedelten Systemen erfordern, wenngleich dieselbe
+  Abgeschiedenheit es gelegentlich anfällig für Versorgungsengpässe und Sicherheitsbedrohungen
+  machte. Das Abel Laboratory steht repräsentativ für die Art kleiner Forschungseinrichtungen,
+  die einen Großteil des wissenschaftlichen Fortschritts der Galaxis abseits der
+  großen institutionellen Zentren tragen.
 system: Arque
 station_type: Planetary Port
 distance_to_arrival: 2379
