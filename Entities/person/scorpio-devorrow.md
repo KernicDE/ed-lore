@@ -11,6 +11,18 @@ bio: 'Scorpio DeVorrow is a Ceo in Elite Dangerous lore, active from 3304-08-17 
   Pleiades Nebula and core systems, Aegis Core''s relocation from Socho to Sol...;
   Weekly summary covering the Alliance Assembly''s agreement to vote on Kincaid''s
   constitutional changes, the fire destroying Supratech''s facility, in...'
+bio_de: Scorpio DeVorrow ist CEO von Supratech, einem Computerunternehmen, das im Jahr 3304
+  mit Herculean Machines eine erbitterte Rivalität um konkurrierende Designs für Personalcomputer
+  lieferte. DeVorrows Unternehmen entwickelte den Torc, einen Computer mit Holografischer
+  Benutzeroberfläche, der während der Rackham-Ultratech-Expo katastrophal ausfiel, bei den
+  Nutzern Übelkeit verursachte und Herculean Machines' Duradrive den Marktvorteil überließ.
+
+  Im September 3304 erlitt Supratech einen verheerenden Schlag, als sein Hauptfertigungskomplex
+  durch einen Brand zerstört wurde. DeVorrow äußerte öffentlich Unglauben darüber, dass die
+  Brandschutzanlage, die Überwachungskameras, die internen Alarme und die Thermosensoren
+  der Einrichtung gleichzeitig ausgefallen waren, und deutete damit Sabotage stark an. Der
+  Brand vernichtete Dutzende Torc-Prototypen und rief ernsthafte Zweifel daran hervor, ob
+  Supratech seine Wettbewerbsposition wiederherstellen könne.
 ---
 
 

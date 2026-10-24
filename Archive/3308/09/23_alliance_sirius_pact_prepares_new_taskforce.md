@@ -1,6 +1,7 @@
 ---
 uuid: 9513b10c-ee1c-5ada-a417-ddd9b005dab0
 title: Alliance-Sirius Pact Prepares New Taskforce
+title_de: Allianz-Sirius-Pakt rüstet neue Taskforce auf
 slug: alliance_sirius_pact_prepares_new_taskforce
 date: '3308-09-23'
 source: API

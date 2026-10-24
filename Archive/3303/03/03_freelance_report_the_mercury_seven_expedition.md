@@ -1,6 +1,7 @@
 ---
 uuid: 54436e18-5fa7-50cf-93b2-142ab37e095f
 title: Freelance Report  The Mercury Seven Expedition
+title_de: 'Freelance-Report: Die Mercury-Seven-Expedition'
 slug: freelance_report_the_mercury_seven_expedition
 date: '3303-03-03'
 source: GitHub

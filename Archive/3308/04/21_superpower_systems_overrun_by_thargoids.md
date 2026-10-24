@@ -1,6 +1,7 @@
 ---
 uuid: 04bfcfe5-65d6-5e23-8e51-a76f0a139c5f
 title: Superpower Systems Overrun by Thargoids
+title_de: Systeme der Großmächte von Thargoids überrannt
 slug: superpower_systems_overrun_by_thargoids
 date: '3308-04-21'
 source: API

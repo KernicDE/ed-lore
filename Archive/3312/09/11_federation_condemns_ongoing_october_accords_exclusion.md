@@ -1,6 +1,7 @@
 ---
 uuid: dea039bb-542e-51aa-b1aa-c2697269284e
 title: Federation Condemns Ongoing October Accords Exclusion
+title_de: Föderation verurteilt anhaltenden Ausschluss von den Oktober-Abkommen
 slug: federation_condemns_ongoing_october_accords_exclusion
 date: '3312-09-11'
 source: API

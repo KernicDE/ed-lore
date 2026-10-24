@@ -1,6 +1,7 @@
 ---
 uuid: b391da8e-90b1-55d8-88e0-8ad93ae52300
 title: Sirius Vows to Defend Alliance
+title_de: Sirius gelobt Verteidigung der Allianz
 slug: sirius_vows_to_defend_alliance
 date: '3308-04-25'
 source: API

@@ -1,6 +1,7 @@
 ---
 uuid: 21351249-0833-5215-9606-da5051cfb06b
 title: October Consortium Seeks Guardian Artefacts for New Study
+title_de: October Consortium sucht Guardian-Artefakte für neue Studie
 slug: october_consortium_seeks_guardian_artefacts_for_new_study
 date: 3312-04-16
 source: API

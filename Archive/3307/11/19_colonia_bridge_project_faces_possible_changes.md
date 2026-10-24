@@ -1,6 +1,7 @@
 ---
 uuid: ce21804c-02a9-587f-9a07-bb47ffc7a247
 title: Colonia Bridge Project Faces Possible Changes
+title_de: Colonia-Bridge-Projekt vor möglichen Änderungen
 slug: colonia_bridge_project_faces_possible_changes
 date: '3307-11-19'
 source: API

@@ -1,6 +1,7 @@
 ---
 uuid: b2c590bd-c041-5222-bbc4-41836396ba33
 title: Rackham Funds Exploration Push After HIP 87621 Discovery
+title_de: Rackham finanziert Explorationsschub nach HIP-87621-Entdeckung
 slug: rackham_funds_exploration_push_after_hip_87621_discovery
 date: '3311-09-08'
 source: API

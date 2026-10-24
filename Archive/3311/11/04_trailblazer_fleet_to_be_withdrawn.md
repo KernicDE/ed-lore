@@ -1,6 +1,7 @@
 ---
 uuid: 14695143-40fc-57b2-bd52-0204f687d915
 title: Trailblazer Fleet To Be Withdrawn
+title_de: Trailblazer-Flotte wird zurückgezogen
 slug: trailblazer_fleet_to_be_withdrawn
 date: '3311-11-04'
 source: API

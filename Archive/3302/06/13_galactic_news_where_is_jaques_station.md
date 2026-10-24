@@ -1,6 +1,7 @@
 ---
 uuid: abc03646-a8a8-5932-8f8a-0ee83fd2c9b7
 title: Galactic News  Where is Jaques Station
+title_de: Galaktische Nachrichten – Wo ist die Jaques Station?
 slug: galactic_news_where_is_jaques_station
 date: '3302-06-13'
 source: GitHub

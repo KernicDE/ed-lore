@@ -1,6 +1,7 @@
 ---
 uuid: 69e5dd85-8686-5214-9318-29dee9943559
 title: Prison Ship Reported Missing After Failing Scheduled Transit
+title_de: Gefängnisschiff nach ausgebliebenem Transit als vermisst gemeldet
 slug: prison_ship_reported_missing_after_failing_scheduled_transit
 date: '3312-09-17'
 source: API

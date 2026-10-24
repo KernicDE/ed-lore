@@ -1,6 +1,7 @@
 ---
 uuid: ddd603e6-59fd-591f-b094-8bc0e5b0d5ab
 title: Freelance Report  Fuel Rats Announce Plans for New Outpost
+title_de: Freier Bericht  Fuel Rats kündigen Pläne für neuen Außenposten an
 slug: freelance_report_fuel_rats_announce_plans_for_new_outpost
 date: '3302-08-05'
 source: GitHub

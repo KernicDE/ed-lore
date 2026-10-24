@@ -1,6 +1,7 @@
 ---
 uuid: cc368b7d-06ac-5261-9a3c-5f8dbd8d8750
 title: Community Goal  80 DD D 774 CE 2 Appeals for Exploration Data
+title_de: Community-Goal  80 DD D 774 CE 2 bittet um Erkundungsdaten
 slug: community_goal_80_dd_d_774_ce_2_appeals_for_exploration_data
 date: '3302-08-25'
 source: GitHub

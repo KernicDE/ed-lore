@@ -1,6 +1,7 @@
 ---
 uuid: fe2ef902-f105-5e82-bf79-83ee66c58228
 title: Week in Review
+title_de: Die Woche im Rückblick
 slug: week_in_review
 date: '3304-05-27'
 source: GitHub

@@ -1,6 +1,7 @@
 ---
 uuid: 4312e312-ef1b-50a1-ba00-2e1f441ce9e3
 title: Thargoid Research Project Requires Meta-Alloys
+title_de: Thargoid-Forschungsprojekt benötigt Meta-Legierungen
 slug: thargoid_research_project_requires_meta_alloys
 date: '3308-05-05'
 source: API

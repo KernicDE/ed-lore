@@ -1,6 +1,7 @@
 ---
 uuid: d77a9c79-d55f-5714-97bc-549423966fe1
 title: Ancient Origins Suggested in Radicoida Unica Study
+title_de: Antike Ursprünge in Radicoida-unica-Studie vermutet
 slug: ancient_origins_suggested_in_radicoida_unica_study
 date: 3312-04-15
 source: API

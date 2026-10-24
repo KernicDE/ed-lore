@@ -1,6 +1,7 @@
 ---
 uuid: ba14f8ce-2578-5f8c-ad9a-b180f7f21358
 title: Trailblazer Fleet Deployed to Support Colonisation Initiatives
+title_de: Trailblazer-Flotte zur Unterstützung von Kolonialisierungsinitiativen entsandt
 slug: trailblazer_fleet_deployed_to_support_colonisation_initiatives
 date: '3311-03-19'
 source: API

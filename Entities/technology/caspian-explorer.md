@@ -10,6 +10,24 @@ bio: Caspian Explorer is a technology in the Elite Dangerous universe, mentioned
   confirmed the Caspian Explorer exceeded all internal projections during two-week
   field trials, with CMDR BitNick contributing the most exobiological data. Zorgon
   Peterson's Caspian Explorer enters full production.
+bio_de: Die Caspian Explorer markiert Zorgon Petersons Eintritt in den Markt für
+  spezialisierte Exobiologie-Schiffe und wurde entworfen, um die wissenschaftliche
+  Erforschung außerirdischer Lebensformen in vielfältigen planetaren Umgebungen
+  zu unterstützen. Bei umfangreichen Feldversuchen Ende 3311 und Anfang 3312
+  übertraf das Schiff alle internen Leistungsprojektionen, wobei unabhängige Piloten
+  darunter CMDR BitNick erhebliche Mengen an exobiologischen Daten beitrugen, die
+  die Forschungsfähigkeiten des Entwurfs bestätigten. Das Schiff integrierte
+  fortschrittliche Probenausrüstung, spezialisierte Labore und für Langzeiteinsätze
+  in abgelegenen Systemen optimierte Habitatmodule.
+
+  Anfang 3312 bestätigte Zorgon Peterson die Serienproduktion der Caspian Explorer
+  und machte sie für die unabhängige Pilotengemeinschaft verfügbar, deren Teilnahme
+  an den Versuchsprogrammen sich für die Entwicklung als entscheidend erwiesen hatte.
+  Der Erfolg des Schiffs zeigte die wachsende kommerzielle Tragfähigkeit wissenschaftlicher
+  Erkundung als Beruf, der sich sowohl von reiner Kartografie als auch von Rohstoffabbau
+  unterscheidet. Mit der Caspian Explorer etablierte sich Zorgon Peterson in einer
+  Nische zwischen industrieller Fertigung und den expandierenden Grenzen der
+  xenobiologischen Forschung.
 ---
 
 

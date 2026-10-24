@@ -1,6 +1,7 @@
 ---
 uuid: 5bbb630c-39e4-5ed7-8420-ea931beb11f2
 title: The Voice of the Empire
+title_de: Die Stimme des Imperiums
 slug: the_voice_of_the_empire
 date: '3308-12-20'
 source: API

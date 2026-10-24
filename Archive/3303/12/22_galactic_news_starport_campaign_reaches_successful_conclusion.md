@@ -1,6 +1,7 @@
 ---
 uuid: 7b77f50e-4e5f-56c1-85b1-8a0e5d5c560f
 title: Galactic News  Starport Campaign Reaches Successful Conclusion
+title_de: 'Galaktische Nachrichten: Sternenhafen-Kampagne erfolgreich abgeschlossen'
 slug: galactic_news_starport_campaign_reaches_successful_conclusion
 date: '3303-12-22'
 source: GitHub

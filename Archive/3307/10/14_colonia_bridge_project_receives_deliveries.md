@@ -1,6 +1,7 @@
 ---
 uuid: fe4e42ef-373a-5122-8b38-027da95aa22e
 title: Colonia Bridge Project Receives Deliveries
+title_de: Colonia-Bridge-Projekt erhält Lieferungen
 slug: colonia_bridge_project_receives_deliveries
 date: '3307-10-14'
 source: API

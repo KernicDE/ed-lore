@@ -1,6 +1,7 @@
 ---
 uuid: 71ef5edb-acbd-5323-bdfa-880cbbf2c504
 title: Sirius Defends Alliance Territory
+title_de: Sirius verteidigt Territorium der Allianz
 slug: sirius_defends_alliance_territory
 date: '3308-04-13'
 source: API

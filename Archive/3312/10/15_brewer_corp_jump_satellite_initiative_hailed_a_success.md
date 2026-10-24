@@ -1,6 +1,7 @@
 ---
 uuid: 139741ec-0206-5778-80d0-030c6d786dc4
 title: Brewer Corp Jump Satellite Initiative Hailed a Success
+title_de: Brewer Corp-Jumpsatelliten-Initiative als Erfolg gefeiert
 slug: brewer_corp_jump_satellite_initiative_hailed_a_success
 date: '3312-10-15'
 source: API

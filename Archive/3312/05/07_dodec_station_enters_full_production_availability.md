@@ -1,6 +1,7 @@
 ---
 uuid: 3955dbb6-c5c8-560b-b4f1-7ca44f5ddc4d
 title: Dodec Station Enters Full Production Availability
+title_de: Dodec-Station erreicht volle Produktionsverfügbarkeit
 slug: dodec_station_enters_full_production_availability
 date: '3312-05-07'
 source: API

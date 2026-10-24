@@ -1,6 +1,7 @@
 ---
 uuid: b401b85f-a797-53be-b3f7-4efe54fae2e8
 title: Pilots' Federation Members Enter HIP 87621
+title_de: Mitglieder der Pilots' Federation betreten HIP 87621
 slug: pilots_federation_members_enter_hip_87621
 date: '3311-11-13'
 source: API

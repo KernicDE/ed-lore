@@ -1,6 +1,7 @@
 ---
 uuid: 2c4f1298-927b-5a7e-af52-27e03f20acec
 title: Pilots’ Federation Directs Members to Colonia
+title_de: Pilots' Federation entsendet Mitglieder nach Colonia
 slug: pilots_federation_directs_members_to_colonia
 date: '3312-07-27'
 source: API

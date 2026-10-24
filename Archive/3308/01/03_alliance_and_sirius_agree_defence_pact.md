@@ -1,6 +1,7 @@
 ---
 uuid: 09f64120-be71-5938-ba2b-11b5bcb63641
 title: Alliance and Sirius Agree Defence Pact
+title_de: Allianz und Sirius vereinbaren Verteidigungspakt
 slug: alliance_and_sirius_agree_defence_pact
 date: '3308-01-03'
 source: API

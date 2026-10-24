@@ -1,6 +1,7 @@
 ---
 uuid: 0ca28871-b558-5ac6-82c4-49ddeb281015
 title: Admiral Tanner Receives Presidential Pardon
+title_de: Admiral Tanner erhält Präsidentenbegnadigung
 slug: admiral_tanner_receives_presidential_pardon
 date: '3309-01-09'
 source: API

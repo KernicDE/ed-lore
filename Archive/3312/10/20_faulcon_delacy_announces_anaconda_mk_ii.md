@@ -1,6 +1,7 @@
 ---
 uuid: bafd4eae-52d4-562f-bd90-7143a2b262ee
 title: Faulcon DeLacy Announces Anaconda Mk II
+title_de: Faulcon DeLacy kündigt Anaconda Mk II an
 slug: faulcon_delacy_announces_anaconda_mk_ii
 date: '3312-10-20'
 source: API

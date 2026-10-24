@@ -1,6 +1,7 @@
 ---
 uuid: 71a58d4b-71bf-50f0-94ae-b920a354b7d1
 title: Mystery Of Missing Exobiology Protégé Deepens
+title_de: Mysterium um vermisste Exobiologie-Protegé vertieft sich
 slug: mystery_of_missing_exobiology_protégé_deepens
 date: '3311-09-02'
 source: API

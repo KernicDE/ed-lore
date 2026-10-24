@@ -2,6 +2,7 @@
 uuid: d76e02f3-5b13-56fb-a3c5-6b2fa74ee284
 title: Third Distant Worlds Expedition Requests Materials for Deep-Space Infrastructure
   Project
+title_de: Dritte Distant-Worlds-Expedition fordert Materialien für Tiefraum-Infrastrukturprojekt
 slug: third_distant_worlds_expedition_requests_materials_for_deep_space_infrastructure_project
 date: 3312-01-08
 source: API

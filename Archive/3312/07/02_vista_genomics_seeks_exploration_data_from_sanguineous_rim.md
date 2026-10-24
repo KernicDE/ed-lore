@@ -1,6 +1,7 @@
 ---
 uuid: 3010e636-0b5b-59db-b7e0-b9ed156dc044
 title: Vista Genomics Seeks Exploration Data From Sanguineous Rim
+title_de: Vista Genomics sucht Erkundungsdaten aus dem Sanguineous Rim
 slug: vista_genomics_seeks_exploration_data_from_sanguineous_rim
 date: '3312-07-02'
 source: API
@@ -14,6 +15,17 @@ modern_impact: The initiative highlights a shift toward corporate-sponsored fron
   exobiology and provides a high-profile test of the Nomad as an exploration platform.
   It also underscores the value of biological data from the galaxy's outer rim for understanding
   genetic diversity beyond the core systems.
+summary_de: Vista Genomics hat sich mit Faulcon DeLacy zusammengetan, um Erkundungs-
+  und exobiologische Daten aus dem Sanguineous Rim zu sammeln, wobei die Fähigkeiten
+  des neuen Nomad genutzt werden, um extreme Randsysteme zu vermessen, und biologische
+  Proben mit Bonusvergütungen honoriert werden.
+player_impact_de: Erkunder und Exobiologen sollten nach HD 232819 reisen und sich am
+  Forschungsmegaschiff The Magrathea registrieren, bevor sie den Sanguineous Rim
+  vermessen. Biologische Proben, die dort gesammelt werden, bringen Bonusauszahlungen.
+modern_impact_de: Die Initiative unterstreicht einen Wandel hin zu unternehmenssponsorierter
+  Exobiologie an der Besiedlungsgrenze und bietet einen prominenten Praxistest für den
+  Nomad als Erkundungsplattform. Sie zeigt zudem den Wert biologischer Daten vom äußeren
+  Rand der Galaxis für das Verständnis genetischer Vielfalt jenseits der Kernsysteme.
 topics:
 - exobiology
 - exploration
@@ -41,6 +53,16 @@ locations:
 - The Magrathea
 related_uuids:
 - 3e364dbc-d875-53d1-8ccb-d878bd320ec0
+body_de: |
+  Eine neue Erkundungsinitiative von Vista Genomics will Daten sammeln, die dabei helfen, die genetische Vielfalt im Sanguineous Rim zu bewerten.
+
+  Zur Feier der Veröffentlichung des neuen vom Schiff gestarteten Erkundungsshuttles hat sich Faulcon DeLacy mit Vista Genomics zu dieser Initiative zusammengetan und unabhängige Piloten aufgerufen, die Fähigkeiten des Nomad in extremem Gelände zu testen.
+
+  Frank Endis, Chefkonstrukteur, erklärte in einer an Vox Galactica übermittelten Stellungnahme: „Die meisten Erkundungsbemühungen zielen naturgemäß auf das Zentrum der Galaxis. Wir freuen uns, Vista dabei zu helfen, mehr Daten aus Systemen am Rand der Milchstraße zu sammeln."
+
+  Piloten, die an der Initiative teilnehmen, erhalten eine Bonusvergütung für alle im gesamten Sanguineous Rim gefundenen biologischen Proben.
+
+  Alle interessierten Erkunder und Exobiologen sollten nach HD 232819 aufbrechen und sich am Forschungsmegaschiff The Magrathea registrieren, bevor sie sich ins Schwarze hinauswagen.
 ---
 
 A new exploration initiative from Vista Genomics is aiming to gather data to help assess genetic diversity across the Sanguineous Rim.

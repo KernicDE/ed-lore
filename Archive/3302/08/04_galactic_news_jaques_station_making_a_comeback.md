@@ -1,6 +1,7 @@
 ---
 uuid: aec8c033-bc2b-50dc-a29c-f184dfe139fb
 title: Galactic News  Jaques Station Making a Comeback
+title_de: Galaktische Nachrichten  Jaques Station erholt sich
 slug: galactic_news_jaques_station_making_a_comeback
 date: '3302-08-04'
 source: GitHub

@@ -1,6 +1,7 @@
 ---
 uuid: 3cce1a72-9995-55dd-9cbe-c002f39b2a4d
 title: Rackham Seeks Clues to HIP 87621 Mystery
+title_de: Rackham sucht nach Hinweisen im Mysterium um HIP 87621
 slug: rackham_seeks_clues_to_hip_87621_mystery
 date: '3311-09-22'
 source: API

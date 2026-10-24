@@ -1,6 +1,7 @@
 ---
 uuid: 35ed6f3a-9ca1-5e6c-babf-fed3121e14d2
 title: Subject D-2 Departs on Lone Mission
+title_de: Subjekt D-2 bricht zu Solo-Mission auf
 slug: subject_d_2_departs_on_lone_mission
 date: '3309-01-05'
 source: API

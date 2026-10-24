@@ -1,6 +1,7 @@
 ---
 uuid: 901396d0-53fd-50b7-ab8f-79d017d0397d
 title: Pilots' Federation to Receive HIP 87621 Access
+title_de: Pilots' Federation erhält Zugang zu HIP 87621
 slug: pilots_federation_to_receive_hip_87621_access
 date: '3311-11-06'
 source: API

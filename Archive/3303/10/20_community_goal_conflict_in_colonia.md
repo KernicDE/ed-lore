@@ -1,6 +1,7 @@
 ---
 uuid: 5287e723-1014-5342-a40b-1f7a7f807c86
 title: Community Goal  Conflict in Colonia
+title_de: 'Community-Goal: Konflikt in Colonia'
 slug: community_goal_conflict_in_colonia
 date: '3303-10-20'
 source: GitHub

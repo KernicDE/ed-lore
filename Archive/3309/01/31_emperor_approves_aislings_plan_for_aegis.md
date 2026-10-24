@@ -1,6 +1,7 @@
 ---
 uuid: f920072c-9b3c-53d1-9078-e6102cdc56a0
 title: Emperor Approves Aisling's Plan for Aegis
+title_de: Kaiserin genehmigt Aislings Plan für Aegis
 slug: emperor_approves_aislings_plan_for_aegis
 date: '3309-01-31'
 source: API

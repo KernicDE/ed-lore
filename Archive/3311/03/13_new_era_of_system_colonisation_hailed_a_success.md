@@ -1,6 +1,7 @@
 ---
 uuid: 654da182-7359-55fc-b4ff-aed688b46dab
 title: New Era of System Colonisation Hailed a Success
+title_de: Neue Ära der Systemkolonialisierung als Erfolg gefeiert
 slug: new_era_of_system_colonisation_hailed_a_success
 date: '3311-03-13'
 source: API

@@ -1,6 +1,7 @@
 ---
 uuid: e14afd0b-cccc-5083-a0b9-6c7eb7eff35a
 title: Lhou Mans Starports Return to Full Operation
+title_de: Sternenhäfen von Lhou Mans kehren zum Vollbetrieb zurück
 slug: lhou_mans_starports_return_to_full_operation
 date: '3312-05-21'
 source: API

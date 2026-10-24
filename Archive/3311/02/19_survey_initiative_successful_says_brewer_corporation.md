@@ -1,6 +1,7 @@
 ---
 uuid: c049687e-01f6-5a30-a4e6-f8399dd6ab54
 title: Survey Initiative Successful, Says Brewer Corporation
+title_de: Vermessungsinitiative erfolgreich, sagt Brewer Corporation
 slug: survey_initiative_successful_says_brewer_corporation
 date: '3311-02-19'
 source: API

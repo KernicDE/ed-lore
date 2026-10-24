@@ -1,6 +1,7 @@
 ---
 uuid: 6727df09-c220-537b-ac30-e91181fadd2a
 title: Distant Worlds 3 Expedition enters the Empyrean Straits
+title_de: Distant-Worlds-3-Expedition erreicht die Empyrean Straits
 slug: distant_worlds_3_expedition_enters_the_empyrean_straits
 date: 3312-04-26
 source: API

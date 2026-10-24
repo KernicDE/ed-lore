@@ -1,6 +1,7 @@
 ---
 uuid: ad97626f-efcc-550b-828a-35ca6493f0a1
 title: Colonia Supply Initiative Deemed a Partial Success
+title_de: Colonia-Versorgungsinitiative als Teilerfolg eingestuft
 slug: colonia_supply_initiative_deemed_a_partial_success
 date: '3312-07-23'
 source: API

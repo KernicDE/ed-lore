@@ -1,6 +1,7 @@
 ---
 uuid: b1687401-e98b-50d3-8e7f-6fc656c56bfa
 title: Vodel Reveals New SRV Rhino
+title_de: Vodel enthüllt neuen SRV Rhino
 slug: vodel_reveals_new_srv_rhino
 date: '3312-09-02'
 source: API

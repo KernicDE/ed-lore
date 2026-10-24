@@ -1,6 +1,7 @@
 ---
 uuid: 918087f0-e635-591b-bc74-a1742da82b05
 title: Azimuth Conducts AX Weapons Research
+title_de: Azimuth betreibt AX-Waffenforschung
 slug: azimuth_conducts_ax_weapons_research
 date: '3309-01-03'
 source: API

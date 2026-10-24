@@ -1,6 +1,7 @@
 ---
 uuid: b5fd53a0-7c00-522c-8ccf-5a1ef412ce1b
 title: Community Goal  The Path to Colonia
+title_de: 'Community-Goal: Der Weg nach Colonia'
 slug: community_goal_the_path_to_colonia
 date: '3303-08-25'
 source: GitHub

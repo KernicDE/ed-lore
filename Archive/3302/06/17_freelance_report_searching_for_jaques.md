@@ -1,6 +1,7 @@
 ---
 uuid: 1fdc01e9-8e9f-507e-8671-f59261c89471
 title: Freelance Report  Searching for Jaques
+title_de: Freelance-Report – Auf der Suche nach Jaques
 slug: freelance_report_searching_for_jaques
 date: '3302-06-17'
 source: GitHub

@@ -1,6 +1,7 @@
 ---
 uuid: 8b0086f9-372c-5557-906d-f1d12dcbc7de
 title: Azimuth Announces Experimental Weapons Stabiliser
+title_de: Azimuth kündigt experimentellen Waffenstabilisator an
 slug: azimuth_announces_experimental_weapons_stabiliser
 date: '3309-01-12'
 source: API

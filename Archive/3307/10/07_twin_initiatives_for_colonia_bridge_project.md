@@ -1,6 +1,7 @@
 ---
 uuid: 00415e84-de28-5d73-b8b5-76445d03be34
 title: Twin Initiatives for Colonia Bridge Project
+title_de: Zwei Initiativen für das Colonia-Bridge-Projekt
 slug: twin_initiatives_for_colonia_bridge_project
 date: '3307-10-07'
 source: API

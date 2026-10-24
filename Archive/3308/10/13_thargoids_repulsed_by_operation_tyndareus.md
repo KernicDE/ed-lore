@@ -1,6 +1,7 @@
 ---
 uuid: f2680020-36ae-554f-ae92-3a367a9f1d23
 title: Thargoids Repulsed by Operation Tyndareus
+title_de: Thargoids von Operation Tyndareus zurückgeschlagen
 slug: thargoids_repulsed_by_operation_tyndareus
 date: '3308-10-13'
 source: API

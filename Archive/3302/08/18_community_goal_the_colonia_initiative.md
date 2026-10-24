@@ -1,6 +1,7 @@
 ---
 uuid: eda4cfe1-e27c-5303-a7dc-c613c5400d4e
 title: Community Goal  The Colonia Initiative
+title_de: Community-Goal  Die Colonia-Initiative
 slug: community_goal_the_colonia_initiative
 date: '3302-08-18'
 source: GitHub

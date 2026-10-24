@@ -1,6 +1,7 @@
 ---
 uuid: ba748a67-440a-56c4-a60e-15fa46348bd3
 title: Community Goal  The Colonia Connection
+title_de: Community-Goal  Die Colonia-Verbindung
 slug: community_goal_the_colonia_connection
 date: '3302-09-15'
 source: GitHub

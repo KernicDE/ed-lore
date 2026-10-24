@@ -1,6 +1,7 @@
 ---
 uuid: 0c47850f-a5c4-514e-b89e-0d80cf4d5093
 title: The View from Colonia
+title_de: Blick auf Colonia
 slug: the_view_from_colonia
 date: '3307-10-29'
 source: API

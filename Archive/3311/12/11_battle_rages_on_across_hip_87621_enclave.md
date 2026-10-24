@@ -1,6 +1,7 @@
 ---
 uuid: aed3f82a-3614-5e24-89c9-e35d9f81048a
 title: Battle Rages On Across HIP 87621 Enclave
+title_de: Kampf in der HIP-87621-Enklave tobt weiter
 slug: battle_rages_on_across_hip_87621_enclave
 date: '3311-12-11'
 source: API

@@ -1,6 +1,7 @@
 ---
 uuid: 8c3b36c3-f675-56a5-946c-a75399220a6d
 title: Colonia Bridge Gains Further Resources
+title_de: Colonia Bridge erhält weitere Ressourcen
 slug: colonia_bridge_gains_further_resources
 date: '3307-11-11'
 source: API

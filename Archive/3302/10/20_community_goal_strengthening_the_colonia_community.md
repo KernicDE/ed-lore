@@ -1,6 +1,7 @@
 ---
 uuid: 09a290af-4a3e-5721-bbf2-fd0474291d43
 title: Community Goal  Strengthening the Colonia Community
+title_de: Community-Goal  Stärkung der Colonia-Gemeinschaft
 slug: community_goal_strengthening_the_colonia_community
 date: '3302-10-20'
 source: GitHub

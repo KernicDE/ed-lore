@@ -17,6 +17,21 @@ bio: 'Orion University is a research active in Elite Dangerous lore from 3307-10
   honey trap, Torval family rift, Colonia Bridge, NMLA''s final stand, and Sa...;
   Inexplicable deep-space anomalies detected beyond the Col 70 sector generate widespread
   speculation, with theories ranging from Thargoid weapons to...'
+bio_de: Die Orion-Universität ist die größte unabhängige Bildungseinrichtung in den Kernsystemen,
+  ihr einziger Konkurrent ist die Imperial Science Academy beziehungsweise die Olympus-Village-Universität.
+  Im Jahr 3307 geriet die Universität in einen Rechtsstreit mit dem Scriveners Clan, nachdem
+  Vizekanzler Leland Pettigrew auf Grundlage historischer Aufzeichnungen aus dem Jahr 3088
+  das Eigentum am Bagger der nomadischen Gruppe beansprucht hatte. Die Dokumente zeigten,
+  dass das Scrivener College, der ursprüngliche Betreiber des Baggers, im Jahr 3125 in die
+  Orion-Universität aufgegangen war.
+
+  Der Anspruch der Universität scheiterte letztlich, da sich der Scriveners Clan jeglichen
+  Fremdkontakt widersetzte und die Advocacy sein Recht auf Selbstbestimmung verteidigte.
+  Der Fall machte die Spannungen zwischen dem Eigentumsanspruch akademischer Institutionen
+  an historischen Gütern und den Rechten nomadischer Gesellschaften sichtbar, die diese
+  Güter über Jahrhunderte zu eigenständigen Kulturen weiterentwickelt hatten. Trotz des
+  Imageschadens durch den erfolglosen Bagger-Anspruch bleibt die Orion-Universität ein
+  bedeutendes Zentrum galaktischen Wissens.
 ---
 
 

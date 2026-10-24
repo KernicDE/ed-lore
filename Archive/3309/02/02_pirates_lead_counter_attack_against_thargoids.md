@@ -1,6 +1,7 @@
 ---
 uuid: 40d9b854-2973-5053-a42d-6955f8876544
 title: Pirates Lead Counter-Attack Against Thargoids
+title_de: Piraten führen Gegenangriff gegen Thargoids an
 slug: pirates_lead_counter_attack_against_thargoids
 date: '3309-02-02'
 source: API

@@ -7,6 +7,8 @@ last_seen_date: '3312-03-03'
 mention_count: 1
 bio: 'Torc computing system is a technology in the Elite Dangerous universe, mentioned
   from 3312-03-03 to 3312-03-03. Developed or used by Supratech, Zachary Rackham. '
+bio_de: 'Torc-Computersystem ist eine Technologie im Elite-Dangerous-Universum, erwähnt
+  von 3312-03-03 bis 3312-03-03. Entwickelt oder genutzt von Supratech, Zachary Rackham. '
 ---
 
 

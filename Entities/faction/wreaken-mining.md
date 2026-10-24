@@ -13,6 +13,23 @@ bio: Wreaken Mining (also referred to as Wreaken Corporation) is a mining compan
   surfaces. The company manufactured deployable mining rigs and refinery modules based
   on the research, equipped Vodel's new Rhino SRV through a joint venture, and declared
   the resulting field trials in the Ega system a resounding success in September 3312.
+bio_de: Wreaken Mining, auch als Wreaken Corporation bezeichnet, ist ein Bergbauunternehmen,
+  das im 34. Jahrhundert aktiv ist und möglicherweise mit dem Bauunternehmen Wreaken
+  Construction verbunden ist. Im August 3312 veröffentlichte der Chefgeologe des Unternehmens,
+  Dr. Ben Curtis, eine Forschungsarbeit, in der er argumentierte, dass herkömmliche
+  Laser- und Raffinerieverfahren aufgrund ihrer großflächigen Ineffizienz wertvolle Mineralien
+  verschwenden. Curtis schlug vor, eine modulierte Wellenform und eine engere Strahlfokussierung
+  in einem kompakteren Lasergehäuse einzusetzen, um planetare Oberflächen nach Ressourcen
+  abzubauen, die zuvor nicht gewonnen werden konnten.
+
+  Wreaken Mining stellte auf Basis dieser Forschung bereits mobile Laserbohrer, Raffineriemodule
+  und modifizierte Detailed Surface Scanner her, als ein Gemeinschaftsunternehmen mit Vodel
+  im September 3312 den neuen Rhino SRV serienmäßig mit mobilen Bergbaueriggungen ausstattete.
+  Tage nach der Vorstellung des Rhino rief das Unternehmen unabhängige Piloten dazu auf,
+  die patentierte Bergbaulaser-Technologie des Rigs im Ega-System im Feldeinsatz zu testen.
+  Die Anmeldung erfolgte bei Metz Enterprise. Die Tests endeten damit, dass Wreaken und
+  Vodel sie gemeinsam als großen Erfolg bezeichneten und eine beispiellose Mineralausbeute
+  erwähnten.
 ---
 
 <!-- AUTO-GENERATED -->

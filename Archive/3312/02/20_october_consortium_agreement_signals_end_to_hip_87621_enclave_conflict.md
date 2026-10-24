@@ -1,6 +1,7 @@
 ---
 uuid: b8f58ea5-67eb-5bfe-8477-8f3218c4afdf
 title: October Consortium Agreement Signals End to HIP 87621 Enclave Conflict
+title_de: Abkommen des October Consortium besiegelt Ende des Konflikts um HIP 87621
 slug: october_consortium_agreement_signals_end_to_hip_87621_enclave_conflict
 date: 3312-02-20
 source: API

@@ -1,6 +1,7 @@
 ---
 uuid: 2954f303-bda3-5779-a276-6df1a55cd62b
 title: Arek Crimson Vision Corporation Campaign Ends
+title_de: Kampagne der Arek Crimson Vision Corporation beendet
 slug: arek_crimson_vision_corporation_campaign_ends
 date: '3304-03-09'
 source: GitHub

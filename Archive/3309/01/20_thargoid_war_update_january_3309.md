@@ -1,6 +1,7 @@
 ---
 uuid: 09d4b9af-ccaf-5d95-8847-50360aaf1af2
 title: 'Thargoid War Update: January 3309'
+title_de: 'Thargoid-Krieg: Lagebericht Januar 3309'
 slug: thargoid_war_update_january_3309
 date: '3309-01-20'
 source: API

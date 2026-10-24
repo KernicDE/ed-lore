@@ -1,6 +1,7 @@
 ---
 uuid: ccf8b5d3-a91a-589f-8b67-3e76a4f6bc2f
 title: Kestrel Fighter Enters Full Production
+title_de: Kestrel-Jäger geht in Vollproduktion
 slug: kestrel_fighter_enters_full_production
 date: '3312-06-25'
 source: API

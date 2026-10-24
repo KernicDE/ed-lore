@@ -9,6 +9,9 @@ related_entities:
 - brewer-corporation
 - hip-74116
 - madelyn-teague
+bio_de: Zero Squared ist ein Megaschiff der Brewer Corporation, das im System HIP 74116
+  stationiert ist. Im Oktober 3312 diente es als Lieferort für pilotengelieferte Komponenten,
+  die zur Herstellung der ersten Charge von „Jump-Satelliten“ des Konzerns benötigt wurden.
 ---
 
 <!-- AUTO-GENERATED -->

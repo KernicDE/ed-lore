@@ -1,6 +1,7 @@
 ---
 uuid: 1a0654de-9c87-59e6-8494-a5cbb34758d0
 title: Kestrel Fighter Trials Deemed a Resounding Success
+title_de: Kestrel-Jägertests als großer Erfolg eingestuft
 slug: kestrel_fighter_trials_deemed_a_resounding_success
 date: 3312-03-12
 source: API

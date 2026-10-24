@@ -1,6 +1,7 @@
 ---
 uuid: 37fdbad2-f575-597f-a4b5-7351cf4ec629
 title: Galactic News  Fifth Colonia Appeal Concludes
+title_de: 'Galaktische Nachrichten: Fünfter Colonia-Aufruf abgeschlossen'
 slug: galactic_news_fifth_colonia_appeal_concludes
 date: '3303-05-05'
 source: GitHub

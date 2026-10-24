@@ -1,6 +1,7 @@
 ---
 uuid: 44b31919-ccfc-5eaa-afb1-81683c6c10d2
 title: Final Maelstroms Advance Thargoid Occupation
+title_de: Letzte Maelströme treiben thargoide Besatzung voran
 slug: final_maelstroms_advance_thargoid_occupation
 date: '3308-12-16'
 source: API

@@ -1,6 +1,7 @@
 ---
 uuid: 0ed9ac77-4a40-5909-96f7-12acfa5f2efe
 title: Wreaken Calls for Surface Mining Support Tests
+title_de: Wreaken ruft zu Unterstützungstests für Oberflächenbergbau auf
 slug: wreaken_calls_for_surface_mining_support_tests
 date: '3312-09-03'
 source: API

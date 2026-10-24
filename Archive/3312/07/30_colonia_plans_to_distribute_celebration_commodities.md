@@ -1,6 +1,7 @@
 ---
 uuid: 2da0aec7-f509-5419-b16e-d9c39eaad2b4
 title: Colonia Plans to Distribute Celebration Commodities
+title_de: Colonia plant Verteilung von Festwaren
 slug: colonia_plans_to_distribute_celebration_commodities
 date: '3312-07-30'
 source: API

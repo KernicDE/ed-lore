@@ -1,6 +1,7 @@
 ---
 uuid: 23997d0a-e1de-57c3-a67b-633ee70c7f67
 title: Galactic News  Second Colonia Appeal Concludes
+title_de: 'Galaktische Nachrichten: Zweiter Colonia-Aufruf abgeschlossen'
 slug: galactic_news_second_colonia_appeal_concludes
 date: '3303-02-03'
 source: GitHub

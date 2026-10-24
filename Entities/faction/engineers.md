@@ -17,6 +17,19 @@ bio: 'Engineers is a organization active in Elite Dangerous lore from 3307-05-24
   to help make a previously unique ship module widely available.; The Oracle starport
   in the Delphi system begins tumbling out of orbit after Thargoid attack causes cascading
   systems failure.'
+bio_de: Engineers sind unabhängige Spezialisten in der gesamten menschlichen Siedlungsraum,
+  die angepasste Aufrüstungen und Modifikationen von Schiffsmodulen anbieten. Im Dezember
+  3306 arbeitete das Engineer-Netzwerk zusammen, um in Solidarität mit Liz Ryder ein universelles
+  Aufwertungsangebot zu machen, nachdem der Missbrauch ihres Fachwissens durch die NMLA
+  sie ungerechterweise als Unterstützerin von Terroristen gebrandmarkt hatte.
+
+  Lori Jameson, eine Engineer mit Basis in Shinrarta Dezhra, erklärte, dass zwischen allen
+  Werkstätten Kommunikationsverbindungen eingerichtet worden seien, um verstärkte
+  Verbesserungen für modifizierte Waffen und Module anzubieten. Mel Brandon, einer von
+  vier Engineers in der Colonia-Region, kommentierte, dass die Zusammenarbeit den Wert
+  des Netzwerks für die gesamte Galaxie zeige und deren Bedarf an besserem Schutz
+  verdeutliche. Das Engineer-Netzwerk bleibt eine wichtige Ressource für Piloten, die
+  auf der Suche nach spezialisierten Schiffsmodifikationen sind.
 ---
 
 

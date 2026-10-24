@@ -1,6 +1,7 @@
 ---
 uuid: da599585-03a5-51c5-a1bc-d9036309a78a
 title: Community Goal  Operation Whirling Dervish
+title_de: 'Community-Goal: Operation Whirling Dervish'
 slug: community_goal_operation_whirling_dervish
 date: '3303-12-15'
 source: GitHub

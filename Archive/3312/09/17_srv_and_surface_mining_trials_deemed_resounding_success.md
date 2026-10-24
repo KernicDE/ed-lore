@@ -1,6 +1,7 @@
 ---
 uuid: aafe4c91-8990-5795-9752-e5d18969974c
 title: SRV and Surface Mining Trials Deemed Resounding Success
+title_de: SRV- und Oberflächenabbau-Tests als großer Erfolg eingestuft
 slug: srv_and_surface_mining_trials_deemed_resounding_success
 date: '3312-09-17'
 source: API

@@ -1,6 +1,7 @@
 ---
 uuid: c3b6f4fc-90f3-5757-8818-aba3960a60f8
 title: Galactic News  Fourth Colonia Appeal Concludes
+title_de: 'Galaktische Nachrichten: Vierter Colonia-Aufruf abgeschlossen'
 slug: galactic_news_fourth_colonia_appeal_concludes
 date: '3303-04-06'
 source: GitHub

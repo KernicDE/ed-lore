@@ -1,6 +1,7 @@
 ---
 uuid: fd5b9a2c-78e3-5819-8022-722a3d1c25e4
 title: Rumours Spread About HIP 87621 Flora
+title_de: Gerüchte über die Flora von HIP 87621 verbreiten sich
 slug: rumours_spread_about_hip_87621_flora
 date: '3311-11-20'
 source: API

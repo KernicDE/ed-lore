@@ -1,6 +1,7 @@
 ---
 uuid: 6632e17b-34c6-59ea-9191-ec8d4d51ea1e
 title: Sirius Initiative Plans Aid for Alliance
+title_de: Sirius-Initiative plant Hilfe für die Allianz
 slug: sirius_initiative_plans_aid_for_alliance
 date: '3308-04-28'
 source: API

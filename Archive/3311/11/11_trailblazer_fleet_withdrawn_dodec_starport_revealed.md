@@ -1,6 +1,7 @@
 ---
 uuid: 653b8775-4e6e-5a6e-a001-6bf4f039d552
 title: Trailblazer Fleet Withdrawn, Dodec Starport Revealed
+title_de: Trailblazer-Flotte zurückgezogen, Dodec-Sternenhafen enthüllt
 slug: trailblazer_fleet_withdrawn_dodec_starport_revealed
 date: '3311-11-11'
 source: API

@@ -1,6 +1,7 @@
 ---
 uuid: 3cfbd6ed-0fa5-55e9-b05f-cce7eaa47490
 title: Research Sheds New Light on Industrial Mining
+title_de: Forschung wirft neues Licht auf industriellen Bergbau
 slug: research_sheds_new_light_on_industrial_mining
 date: '3312-08-24'
 source: API
@@ -14,6 +15,16 @@ player_impact: Miners can expect new surface laser drills, refinery modules and 
 modern_impact: The proposed technology could make surface mining far more efficient and
   profitable, changing loadout choices and drawing independent miners and conglomerates
   back to planetary extraction.
+summary_de: Dr. Ben Curtis, Chefgeologe von Wreaken Mining, hat eine Studie veröffentlicht,
+  in der er argumentiert, dass modulierte, stark fokussierte Laser zuvor unerschlossene
+  Ressourcen von Planetenoberflächen gewinnen können; neue Bergbaumodule und modifizierte
+  Oberflächenscanner befinden sich bereits in Produktion.
+player_impact_de: Bergleute können mit neuen Oberflächenlaserbohrern, Raffineriemodulen
+  und Modifikationen des Detailed Surface Scanners rechnen, die frische planetare
+  Bergbaustätten aufzeigen und möglicherweise einen Boom des Oberflächenbergbaus einleiten.
+modern_impact_de: Die vorgeschlagene Technologie könnte den Oberflächenbergbau weitaus
+  effizienter und profitabler machen, Ausrüstungsentscheidungen verändern und unabhängige
+  Bergleute sowie Konzerne zurück zur planetaren Rohstoffgewinnung ziehen.
 topics:
 - mining
 - research
@@ -30,6 +41,20 @@ arc_id: rhino-srv-rollout
 related_uuids:
 - b1687401-e98b-50d3-8e7f-6fc656c56bfa
 - 0ed9ac77-4a40-5909-96f7-12acfa5f2efe
+body_de: |
+  Eine umfassende Überprüfung aktueller Oberflächenbergbautechniken wurde durch kürzlich veröffentlichte Forschungsarbeiten ausgelöst.
+
+  Dr. Ben Curtis, Chefgeologe von Wreaken Mining, hat einen Essay verfasst, in dem er nahelegt, dass bestehende Raffineriemethoden aufgrund ihrer großflächigen Ineffizienz unbeabsichtigt wertvolle Mineralressourcen zerstören.
+
+  „Laserbergbau und Raffinerieverfahren sind typischerweise äußerst ungehobelt", erklärte Dr. Curtis in einem Presseinterview.
+
+  „Aufgrund meiner umfangreichen Forschung stellte ich fest, dass die Einführung einer modulierten Wellenform und einer strafferen Strahlfokussierung in ein kompakteres Lasergehäuse es uns ermöglichte, Planetenoberflächen abzubauen und zuvor unerreichbare Ressourcen zu gewinnen."
+
+  Bei der Lektüre eines Vox Galactica zur Verfügung gestellten Vorabexemplars der Studie stellte die freiberufliche Journalistin Adalyn Cross fest, dass Wreaken Mining derzeit neue einsetzbare Laserbohrer und Raffineriemodule mit den vorgeschlagenen Technologien fertigt, um die Gewinnung verschiedener Materialien von den meisten Arten planetarer Körper zu erleichtern.
+
+  „Die Studie legt zudem nahe, dass durch die Modifikation des verfügbaren Detailed Surface Scanners neue planetare Bergbaustandorte vom Orbit aus entdeckt werden können. Meine Kontakte zu Konsortien und unabhängigen Bergleuten deuteten an, dass dies der Beginn eines neuen Oberflächenbergbaubooms sein könnte."
+
+  Vox Galactica wird weiterhin berichten, sobald es Neuigkeiten gibt.
 ---
 
 A widespread review of current surface mining techniques has been sparked by recently published research.

@@ -1,6 +1,7 @@
 ---
 uuid: 5b534033-76aa-5f2c-924b-89fb9f987477
 title: Faulcon DeLacy Plans Anaconda Mk II Field Trials
+title_de: Faulcon DeLacy plant Anaconda Mk II-Feldversuche
 slug: faulcon_delacy_plans_anaconda_mk_ii_field_trials
 date: '3312-10-22'
 source: API

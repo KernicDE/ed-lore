@@ -1,6 +1,7 @@
 ---
 uuid: b576c396-7412-5c98-b455-36aced608d3e
 title: Galactic News  Sixth Colonia Appeal Concludes
+title_de: 'Galaktische Nachrichten: Sechster Colonia-Aufruf abgeschlossen'
 slug: galactic_news_sixth_colonia_appeal_concludes
 date: '3303-06-02'
 source: GitHub

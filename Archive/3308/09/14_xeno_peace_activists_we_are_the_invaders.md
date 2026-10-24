@@ -1,6 +1,7 @@
 ---
 uuid: 264ccc18-814c-5c74-aa65-197391ceb2a7
 title: 'Xeno-Peace Activists: ‘We Are The Invaders’'
+title_de: 'Xeno-Friedens-Aktivisten: „Wir sind die Invasoren"'
 slug: xeno_peace_activists_we_are_the_invaders
 date: '3308-09-14'
 source: API

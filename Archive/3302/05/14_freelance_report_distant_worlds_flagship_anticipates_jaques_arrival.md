@@ -1,6 +1,7 @@
 ---
 uuid: f1e17ffa-7f96-587d-b0c1-22e23ff20576
 title: Freelance Report  Distant Worlds Flagship Anticipates Jaques' Arrival
+title_de: Freier Bericht  Flaggschiff von Distant Worlds erwartet Jaques' Ankunft
 slug: freelance_report_distant_worlds_flagship_anticipates_jaques_arrival
 date: '3302-05-14'
 source: GitHub

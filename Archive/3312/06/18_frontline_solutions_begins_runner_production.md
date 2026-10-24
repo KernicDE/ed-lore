@@ -1,6 +1,7 @@
 ---
 uuid: 66c03164-7cf8-5311-a2a5-ed7ed561d658
 title: Frontline Solutions Begins Runner Production
+title_de: Frontline Solutions beginnt mit der Runner-Produktion
 slug: frontline_solutions_begins_runner_production
 date: '3312-06-18'
 source: API

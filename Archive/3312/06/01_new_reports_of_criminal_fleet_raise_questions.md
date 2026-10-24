@@ -1,6 +1,7 @@
 ---
 uuid: fd99dd4d-fc7d-5a70-ac15-09a99102482d
 title: New Reports of Criminal Fleet Raise Questions
+title_de: Neue Berichte über kriminelle Flotte werfen Fragen auf
 slug: new_reports_of_criminal_fleet_raise_questions
 date: '3312-06-01'
 source: API

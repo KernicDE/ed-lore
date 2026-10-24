@@ -1,6 +1,7 @@
 ---
 uuid: 9baa5b63-76a6-59a5-b2f2-2b3abca36d3c
 title: 'Mahon: ‘Alliance Will Support Aegis’'
+title_de: 'Mahon: „Allianz wird Aegis unterstützen“'
 slug: mahon_alliance_will_support_aegis
 date: '3309-02-06'
 source: API

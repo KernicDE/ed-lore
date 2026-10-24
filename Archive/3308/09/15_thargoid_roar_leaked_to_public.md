@@ -1,6 +1,7 @@
 ---
 uuid: 37c1d990-9c7e-5f15-833b-c15d174811f9
 title: ‘Thargoid Roar’ Leaked to Public
+title_de: „Thargoid-Brüllen" an die Öffentlichkeit durchgesickert
 slug: thargoid_roar_leaked_to_public
 date: '3308-09-15'
 source: API

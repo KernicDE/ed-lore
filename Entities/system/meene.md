@@ -30,6 +30,23 @@ bio: 'Meene is a system in Elite Dangerous, significant from 3302-11-03 to 3310-
   foiled raid on Ram Tah''s Phoenix Base, the FSS targeting The Mars T...; Weekly
   summary covering the Alliance Assembly''s decision to create the Office of the Alliance
   President without executive powers, Sirius Corporatio...'
+bio_de: Meene ist ein unabhängiges Industriesystem am Rand der Pleiades-Region,
+  bekannt vor allem als Standort der Phoenix-Basis – dem Forschungsaußenposten des
+  Guardian-Technologieexperten Ram Tah. Die strategische Lage des Systems nahe
+  thargoidaktivem Raum machte es zu einem natürlichen Zentrum für xenologische
+  Forschung. Seine konföderative Regierung unter der Brazilian League of Pilots
+  verfolgt eine Politik der offenen Tür für wissenschaftliche Missionen bei
+  gleichzeitiger Abwehr von Einfällen.
+
+  Die Bekanntheit des Systems wuchs durch Ram Tahs bahnbrechende Arbeit bei der
+  Entzifferung von Guardian-Artefakten und der Entwicklung von Defensivtechnologien
+  für unabhängige Piloten. Die Meene Defence Force koordiniert die lokale Sicherheit,
+  während Felice Dock als wichtigster Handels- und Versorgungsknotenpunkt dient.
+  Die Verbindung des Systems mit Spitzenforschung ebenso wie mit pragmatischer
+  Grenzraum-Politik zeigt, wie unabhängige Systeme in galaktischen Angelegenheiten
+  über ihre Verhältnisse hinauswirken können – doch die Nähe zum Thargoid-Territorium
+  bedeutet, dass Meene unter dem ständigen Schatten einer außerirdischen Bedrohung
+  lebt.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
 uuid: fc64f61d-c9b2-5fa9-914c-7b0c588123b2
 title: Galactic News  Colonia Appeal Concludes
+title_de: Galaktische Nachrichten  Colonia-Aufruf endet
 slug: galactic_news_colonia_appeal_concludes
 date: '3302-10-13'
 source: GitHub

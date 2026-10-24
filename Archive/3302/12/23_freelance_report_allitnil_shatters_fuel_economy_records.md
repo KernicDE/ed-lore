@@ -1,6 +1,7 @@
 ---
 uuid: b997725a-f24c-5d2e-b616-3a6e13903719
 title: Freelance Report  Allitnil Shatters Fuel Economy Records
+title_de: Freelance-Report – Allitnil bricht Spritverbrauchs-Rekorde
 slug: freelance_report_allitnil_shatters_fuel_economy_records
 date: '3302-12-23'
 source: GitHub

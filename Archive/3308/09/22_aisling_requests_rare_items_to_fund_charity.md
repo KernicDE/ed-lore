@@ -1,6 +1,7 @@
 ---
 uuid: 964ef3eb-9cc2-5f09-8038-9afcaeca1c08
 title: Aisling Requests Rare Items to Fund Charity
+title_de: Aisling erbittet seltene Güter für Wohltätigkeitsfonds
 slug: aisling_requests_rare_items_to_fund_charity
 date: '3308-09-22'
 source: API

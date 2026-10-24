@@ -1,6 +1,7 @@
 ---
 uuid: a35f8876-2575-5b5e-beda-dcad1462ddf8
 title: Brewer Corporation to Fund Survey Initiative
+title_de: Brewer Corporation finanziert Vermessungsinitiative
 slug: brewer_corporation_to_fund_survey_initiative
 date: '3311-01-30'
 source: API

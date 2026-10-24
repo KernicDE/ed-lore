@@ -1,6 +1,7 @@
 ---
 uuid: e6be94c7-bcf6-547b-b240-07d052adc095
 title: Guardian Archive Hints at Ancient Radicoida Parallels
+title_de: Guardian-Archiv deutet auf uralte Radicoida-Parallelen hin
 slug: guardian_archive_hints_at_ancient_radicoida_parallels
 date: '3312-05-28'
 source: API

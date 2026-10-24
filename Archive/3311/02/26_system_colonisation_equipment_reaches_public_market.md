@@ -1,6 +1,7 @@
 ---
 uuid: b4684e15-86d1-5b30-8df1-282604d10a06
 title: System Colonisation Equipment Reaches Public Market
+title_de: Systemkolonialisierungsausrüstung erreicht den öffentlichen Markt
 slug: system_colonisation_equipment_reaches_public_market
 date: '3311-02-26'
 source: API

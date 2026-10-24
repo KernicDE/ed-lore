@@ -1,6 +1,7 @@
 ---
 uuid: e9757c15-8224-5b40-8c4f-bafe2fab47e4
 title: Galactic News  Colonia Campaign Concludes
+title_de: 'Galaktische Nachrichten: Colonia-Kampagne abgeschlossen'
 slug: galactic_news_colonia_campaign_concludes
 date: '3303-12-14'
 source: GitHub

@@ -1,6 +1,7 @@
 ---
 uuid: 201a0a31-f461-5ded-a815-a7b9c289c352
 title: Aegis Returns
+title_de: Aegis kehrt zurück
 slug: aegis_returns
 date: '3309-02-13'
 source: API

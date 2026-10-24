@@ -1,6 +1,7 @@
 ---
 uuid: 6d7b4a6d-b8f7-5795-9485-3ced941ec158
 title: Colonia Project Requests Microresources
+title_de: Colonia-Projekt benötigt Mikroressourcen
 slug: colonia_project_requests_microresources
 date: '3304-05-18'
 source: GitHub

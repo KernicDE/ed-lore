@@ -1,6 +1,7 @@
 ---
 uuid: 91e4c25d-794e-5955-8474-041c235470a5
 title: Mass Prison Breakout Reported at EVE-597 Reformatory
+title_de: Massenausbruch aus Gefängnis EVE-597 gemeldet
 slug: mass_prison_breakout_reported_at_eve_597_reformatory
 date: '3312-10-01'
 source: API

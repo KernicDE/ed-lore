@@ -1,6 +1,7 @@
 ---
 uuid: 9682ba33-11e4-5b48-8525-971161b6f0cb
 title: Freelance Report  Mercury Seven Expedition Returns
+title_de: 'Freelance-Report: Mercury-Seven-Expedition kehrt zurück'
 slug: freelance_report_mercury_seven_expedition_returns
 date: '3303-06-04'
 source: GitHub

@@ -1,6 +1,7 @@
 ---
 uuid: 43fcdcb8-4b9a-523a-9c12-cede4107898a
 title: Jaques Station Celebrates Tenth Anniversary of Historic Jump
+title_de: Jaques Station feiert zehnten Jahrestag des historischen Sprungs
 slug: jaques_station_celebrates_tenth_anniversary_of_historic_jump
 date: '3312-05-19'
 source: API

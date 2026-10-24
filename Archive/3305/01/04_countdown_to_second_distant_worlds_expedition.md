@@ -1,6 +1,7 @@
 ---
 uuid: c050ca44-905b-5a94-881f-9d01ab11287e
 title: Countdown to Second Distant Worlds Expedition
+title_de: Countdown zur zweiten Distant-Worlds-Expedition
 slug: countdown_to_second_distant_worlds_expedition
 date: '3305-01-04'
 source: GitHub

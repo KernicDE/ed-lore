@@ -1,6 +1,7 @@
 ---
 uuid: 5fe4f82e-6d86-54ad-8e32-86f5d121a22b
 title: Empire Dismisses Calls for Aegis Return
+title_de: Imperium weist Forderungen nach Rückkehr von Aegis zurück
 slug: empire_dismisses_calls_for_aegis_return
 date: '3308-10-31'
 source: API

@@ -1,6 +1,7 @@
 ---
 uuid: 701c8306-9889-5793-b542-fd7e351a7270
 title: Pirate Raids Threaten Colonisation Convoys
+title_de: Piratenüberfälle bedrohen Kolonialisierungskonvois
 slug: pirate_raids_threaten_colonisation_convoys
 date: '3311-08-07'
 source: API

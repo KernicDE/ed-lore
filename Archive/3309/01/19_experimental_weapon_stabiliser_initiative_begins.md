@@ -1,6 +1,7 @@
 ---
 uuid: af414e75-9512-5bdb-a09c-4a4728a99030
 title: Experimental Weapon Stabiliser Initiative Begins
+title_de: Initiative für experimentellen Waffenstabilisator beginnt
 slug: experimental_weapon_stabiliser_initiative_begins
 date: '3309-01-19'
 source: API

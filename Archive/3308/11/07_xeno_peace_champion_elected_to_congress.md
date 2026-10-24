@@ -1,6 +1,7 @@
 ---
 uuid: ff9426a9-0b2c-55d7-8741-dd9fbd4364ff
 title: Xeno-Peace Champion Elected to Congress
+title_de: Xeno-Friedens-Befürworter in den Kongress gewählt
 slug: xeno_peace_champion_elected_to_congress
 date: '3308-11-07'
 source: API

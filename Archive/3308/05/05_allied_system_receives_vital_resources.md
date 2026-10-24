@@ -1,6 +1,7 @@
 ---
 uuid: c7e53bc9-4059-5953-ad0d-64ebf255c495
 title: Allied System Receives Vital Resources
+title_de: Alliiertes System erhält lebenswichtige Ressourcen
 slug: allied_system_receives_vital_resources
 date: '3308-05-05'
 source: API

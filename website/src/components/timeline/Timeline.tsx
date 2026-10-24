@@ -454,6 +454,7 @@ export default function Timeline({
             // Collapsed-card preview: German summary when available, else English
             const previewTr = lang === 'de' ? deArticles[art.uuid] : undefined;
             const previewText = previewTr?.summary_de || art.summary;
+            const titleText = previewTr?.title_de || art.title;
             return (
               <div
                 key={art.uuid}
@@ -471,7 +472,7 @@ export default function Timeline({
                   <div style={{ flex: 1, minWidth: 0 }}>
                     <div onClick={(e) => handleHeaderClick(e, art)} style={{ cursor: 'pointer' }}>
                       <div className="timeline-date">{art.date}</div>
-                      <div className="timeline-title">{art.title}</div>
+                      <div className="timeline-title">{titleText}</div>
                       {!isSelected && previewText && (
                         <div className="timeline-preview ai-content">{previewText}</div>
                       )}
@@ -555,7 +556,7 @@ export default function Timeline({
                     <CopyLinkButton uuid={art.uuid} />
                     {art.has_audio && (
                       <span className="ai-content-inline">
-                        <PlayAudioButton uuid={art.uuid} title={art.title} />
+                        <PlayAudioButton uuid={art.uuid} title={titleText} />
                       </span>
                     )}
                   </div>

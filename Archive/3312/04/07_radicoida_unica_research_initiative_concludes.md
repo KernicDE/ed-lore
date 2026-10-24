@@ -1,6 +1,7 @@
 ---
 uuid: ed385459-5c49-5899-ba5b-c1aaeb45d81b
 title: Radicoida Unica Research Initiative Concludes
+title_de: Radicoida-unica-Forschungsinitiative abgeschlossen
 slug: radicoida_unica_research_initiative_concludes
 date: 3312-04-07
 source: API

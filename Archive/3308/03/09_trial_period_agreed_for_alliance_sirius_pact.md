@@ -1,6 +1,7 @@
 ---
 uuid: 86fd77a5-fe24-5aa6-8723-a7e34b021f3d
 title: Trial Period Agreed for Alliance-Sirius Pact
+title_de: Probezeit für Allianz-Sirius-Pakt vereinbart
 slug: trial_period_agreed_for_alliance_sirius_pact
 date: '3308-03-09'
 source: API

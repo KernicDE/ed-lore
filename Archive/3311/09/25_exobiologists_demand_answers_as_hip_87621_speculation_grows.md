@@ -1,6 +1,7 @@
 ---
 uuid: 70a09cc4-75fe-5f5c-9e44-2a91a77788c1
 title: Exobiologists Demand Answers as HIP 87621 Speculation Grows
+title_de: Exobiologen fordern Antworten, Spekulationen um HIP 87621 wachsen
 slug: exobiologists_demand_answers_as_hip_87621_speculation_grows
 date: '3311-09-25'
 source: API

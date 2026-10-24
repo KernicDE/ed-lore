@@ -1,6 +1,7 @@
 ---
 uuid: 00c51254-d1c6-5469-807f-1bde6d645e8f
 title: Missing Prison Ship Discovered Adrift in Redonesses System
+title_de: Vermisstes Gefängnisschiff treibt im System Redonesses aufgefunden
 slug: missing_prison_ship_discovered_adrift_in_redonesses_system
 date: '3312-09-22'
 source: API

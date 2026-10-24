@@ -4,6 +4,7 @@ import { useLanguage } from './LanguageContext';
 // German content translations (Phase 2 data shape). Only non-empty fields are
 // present per record; consumers fall back to the English field per field.
 export interface ArticleTranslations {
+  title_de?: string;
   summary_de?: string;
   player_impact_de?: string;
   modern_impact_de?: string;

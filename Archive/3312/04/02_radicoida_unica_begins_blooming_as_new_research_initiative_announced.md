@@ -1,6 +1,7 @@
 ---
 uuid: 62d40e14-3815-5039-b952-23d2b03e7b6c
 title: Radicoida Unica Begins Blooming as New Research Initiative Announced
+title_de: Radicoida unica beginnt zu blühen, neue Forschungsinitiative angekündigt
 slug: radicoida_unica_begins_blooming_as_new_research_initiative_announced
 date: 3312-04-02
 source: API

@@ -1,6 +1,7 @@
 ---
 uuid: 87992d19-e99d-5349-bde9-a5ab63fe5b37
 title: Megaship Movements Spark HIP 87621 Speculation
+title_de: Megaschiff-Bewegungen nähren Spekulationen um HIP 87621
 slug: megaship_movements_spark_hip_87621_speculation
 date: '3311-10-23'
 source: API

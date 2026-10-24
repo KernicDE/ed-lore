@@ -1,6 +1,7 @@
 ---
 uuid: 4dacbf6b-8f6e-5d6c-804e-11619ea83e59
 title: Strategic Order Placed with Brewer Corporation
+title_de: Strategische Bestellung bei der Brewer Corporation aufgegeben
 slug: strategic_order_placed_with_brewer_corporation
 date: '3311-10-14'
 source: API

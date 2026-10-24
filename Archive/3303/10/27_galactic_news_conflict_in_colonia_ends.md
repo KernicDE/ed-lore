@@ -1,6 +1,7 @@
 ---
 uuid: f61cdff2-8250-5433-95bc-fa598ef22001
 title: Galactic News  Conflict in Colonia Ends
+title_de: 'Galaktische Nachrichten: Konflikt in Colonia beendet'
 slug: galactic_news_conflict_in_colonia_ends
 date: '3303-10-27'
 source: GitHub

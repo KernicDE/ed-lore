@@ -1,6 +1,7 @@
 ---
 uuid: 56d06164-e5b6-59b9-ae17-1ddf24d0faf6
 title: Operation Tyndareus Reacts to Thargoid Fleet
+title_de: Operation Tyndareus reagiert auf Thargoid-Flotte
 slug: operation_tyndareus_reacts_to_thargoid_fleet
 date: '3308-10-06'
 source: API

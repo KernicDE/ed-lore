@@ -1,6 +1,7 @@
 ---
 uuid: d83a7bd9-c7eb-528b-a464-28180c65e590
 title: Princess Aisling Echoes Aegis Reformation Calls
+title_de: Prinzessin Aisling unterstützt Forderungen nach Aegis-Reform
 slug: princess_aisling_echoes_aegis_reformation_calls
 date: '3309-01-16'
 source: API

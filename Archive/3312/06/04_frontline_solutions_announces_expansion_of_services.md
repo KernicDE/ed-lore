@@ -1,6 +1,7 @@
 ---
 uuid: 6dcab771-4185-55d8-8d59-3d3cda24b786
 title: Frontline Solutions Announces Expansion of Services
+title_de: Frontline Solutions kündigt Ausweitung der Dienstleistungen an
 slug: frontline_solutions_announces_expansion_of_services
 date: '3312-06-04'
 source: API

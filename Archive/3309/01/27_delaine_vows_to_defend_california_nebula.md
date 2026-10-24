@@ -1,6 +1,7 @@
 ---
 uuid: 69926e4d-553c-5afc-b7a1-2e6de591030d
 title: Delaine Vows to Defend California Nebula
+title_de: Delaine gelobt Verteidigung des California-Nebels
 slug: delaine_vows_to_defend_california_nebula
 date: '3309-01-27'
 source: API

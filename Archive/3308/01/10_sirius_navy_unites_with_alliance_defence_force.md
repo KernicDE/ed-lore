@@ -1,6 +1,7 @@
 ---
 uuid: 8b4db844-0c83-569c-8e7b-cce5db8c006a
 title: Sirius Navy Unites with Alliance Defence Force
+title_de: Sirius-Flotte vereint sich mit der Verteidigungsflotte der Allianz
 slug: sirius_navy_unites_with_alliance_defence_force
 date: '3308-01-10'
 source: API

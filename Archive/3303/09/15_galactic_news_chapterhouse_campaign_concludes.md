@@ -1,6 +1,7 @@
 ---
 uuid: 440b2402-1496-58a4-bbcd-374d1955c5c7
 title: Galactic News  Chapterhouse Campaign Concludes
+title_de: 'Galaktische Nachrichten: Chapterhouse-Kampagne abgeschlossen'
 slug: galactic_news_chapterhouse_campaign_concludes
 date: '3303-09-15'
 source: GitHub

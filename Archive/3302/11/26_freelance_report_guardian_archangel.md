@@ -1,6 +1,7 @@
 ---
 uuid: e4c41608-fa48-5fe5-b72b-87d190dc99fc
 title: Freelance Report  Guardian Archangel
+title_de: Freelance-Report – Guardian Archangel
 slug: freelance_report_guardian_archangel
 date: '3302-11-26'
 source: GitHub

@@ -1,6 +1,7 @@
 ---
 uuid: d5e37c1b-cb44-581f-b22b-f30602b799f8
 title: Activists Blame Leaders for Thargoid War
+title_de: Aktivisten machen Führung für Thargoid-Krieg verantwortlich
 slug: activists_blame_leaders_for_thargoid_war
 date: '3309-02-07'
 source: API

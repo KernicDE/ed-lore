@@ -1,6 +1,7 @@
 ---
 uuid: 6beb6d0c-32d5-5431-ad6f-202a0672cf5d
 title: Prison Ship Break Subdued in Redonesses
+title_de: Gefängnisschiff-Ausbruch in Redonesses niedergeschlagen
 slug: prison_ship_break_subdued_in_redonesses
 date: '3312-10-08'
 source: API

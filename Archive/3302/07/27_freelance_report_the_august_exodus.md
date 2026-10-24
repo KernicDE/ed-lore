@@ -1,6 +1,7 @@
 ---
 uuid: f5bc9303-58d8-55b4-8546-992a89315653
 title: Freelance Report  The August Exodus
+title_de: Freelance-Report – Der August-Exodus
 slug: freelance_report_the_august_exodus
 date: '3302-07-27'
 source: GitHub

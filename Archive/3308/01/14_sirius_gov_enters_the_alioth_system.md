@@ -1,6 +1,7 @@
 ---
 uuid: 57f6fa04-b94b-5674-8344-d4f063bd6a45
 title: Sirius Gov Enters the Alioth System
+title_de: Sirius Gov erreicht das Alioth-System
 slug: sirius_gov_enters_the_alioth_system
 date: '3308-01-14'
 source: API

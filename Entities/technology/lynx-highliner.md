@@ -9,6 +9,11 @@ bio: Lynx Highliner is a technology in the Elite Dangerous universe, mentioned f
   3312-04-28 to 3312-04-28. Developed or used by Zorgon Peterson, Lhou Mans Security.
   Zorgon Peterson releases the Lynx Highliner, a dedicated passenger vessel with record
   capacity, defensive hardpoints, and supercharged FSD.
+bio_de: Lynx Highliner ist eine Technologie im Elite-Dangerous-Universum, erwähnt
+  vom 3312-04-28 bis zum 3312-04-28. Entwickelt oder genutzt von Zorgon Peterson,
+  Lhou Mans Security. Zorgon Peterson bringt die Lynx Highliner heraus, ein
+  spezialisiertes Passagierschiff mit Rekordkapazität, defensiven Hardpoints und
+  aufgeladenem FSD.
 ---
 
 

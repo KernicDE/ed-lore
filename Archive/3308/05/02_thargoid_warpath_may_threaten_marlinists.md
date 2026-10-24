@@ -1,6 +1,7 @@
 ---
 uuid: c5e541f9-be5f-50b7-8d5b-d0bb91f01c1e
 title: Thargoid Warpath May Threaten Marlinists
+title_de: Thargoid-Kriegspfad könnte Marlinisten bedrohen
 slug: thargoid_warpath_may_threaten_marlinists
 date: '3308-05-02'
 source: API

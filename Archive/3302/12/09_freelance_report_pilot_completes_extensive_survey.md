@@ -1,6 +1,7 @@
 ---
 uuid: ada6124e-e36f-506f-a094-39261c46658e
 title: Freelance Report  Pilot Completes Extensive Survey
+title_de: Freelance-Report – Pilot schließt umfangreiche Vermessung ab
 slug: freelance_report_pilot_completes_extensive_survey
 date: '3302-12-09'
 source: GitHub

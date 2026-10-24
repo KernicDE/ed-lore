@@ -1,6 +1,7 @@
 ---
 uuid: 5a71a938-54b4-516c-a9c2-96aea2e3e6d3
 title: Genetic Study of Radicoida Unica Released
+title_de: Genetische Studie zu Radicoida unica veröffentlicht
 slug: genetic_study_of_radicoida_unica_released
 date: 3312-01-28
 source: API

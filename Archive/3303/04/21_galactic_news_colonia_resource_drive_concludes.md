@@ -1,6 +1,7 @@
 ---
 uuid: a3800490-5efc-5e7c-bb48-e3ea15432bd3
 title: Galactic News  Colonia Resource Drive Concludes
+title_de: 'Galaktische Nachrichten: Colonia-Ressourcenaktion abgeschlossen'
 slug: galactic_news_colonia_resource_drive_concludes
 date: '3303-04-21'
 source: GitHub

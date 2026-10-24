@@ -1,6 +1,7 @@
 ---
 uuid: ea1d6149-a9b1-5788-8ca1-536b843a3721
 title: Galactic News  Order Restored in Colonia
+title_de: 'Galaktische Nachrichten: Ordnung in Colonia wiederhergestellt'
 slug: galactic_news_order_restored_in_colonia
 date: '3303-05-26'
 source: GitHub

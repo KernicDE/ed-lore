@@ -7,6 +7,10 @@ last_seen_date: '3312-10-08'
 mention_count: 1
 related_entities:
 - brewer-corporation
+bio_de: Das Rackham's Peak ist ein abgelegener Tiefraum-Ort, der als Flugträger-Engpass in den
+  dünn besiedelten, sternarmen Regionen der Galaxis dient. Im Oktober 3312 nannte die Brewer
+  Corporation es als einen der ersten Standorte, an denen ihre „Sprung-Satelliten" eingesetzt
+  werden sollten, damit mehrere Flugträger Systeme ohne Planeten durchqueren können.
 ---
 
 <!-- AUTO-GENERATED -->

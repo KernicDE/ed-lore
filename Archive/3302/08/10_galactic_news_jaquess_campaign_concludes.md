@@ -1,6 +1,7 @@
 ---
 uuid: b9be1738-ac61-536b-8b50-d9dc091e5147
 title: Galactic News  Jaques's Campaign Concludes
+title_de: Galaktische Nachrichten  Jaques' Kampagne endet
 slug: galactic_news_jaquess_campaign_concludes
 date: '3302-08-10'
 source: GitHub

@@ -1,6 +1,7 @@
 ---
 uuid: b86af7db-0f17-5668-9406-4f8b363b72fb
 title: Brewer Construction Campaign Achieves Targets
+title_de: Baue-Kampagne von Brewer erreicht Ziele
 slug: brewer_construction_campaign_achieves_targets
 date: '3311-10-28'
 source: API

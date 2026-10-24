@@ -1,6 +1,7 @@
 ---
 uuid: 6a7fc082-3f67-56da-b81f-3c9ee54feb61
 title: Colonia Celebrations Conclude with Megamarket Opening
+title_de: Colonia-Feierlichkeiten enden mit Eröffnung des Megamarkts
 slug: colonia_celebrations_conclude_with_megamarket_opening
 date: '3312-08-20'
 source: API

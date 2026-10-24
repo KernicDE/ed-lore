@@ -1,6 +1,7 @@
 ---
 uuid: 3e364dbc-d875-53d1-8ccb-d878bd320ec0
 title: Faulcon DeLacy Announces New Ship-Launched ‘Nomad’
+title_de: Faulcon DeLacy kündigt neues vom Schiff gestartetes Shuttle „Nomad“ an
 slug: faulcon_delacy_announces_new_ship_launched_nomad
 date: '3312-06-30'
 source: API
@@ -16,6 +17,19 @@ modern_impact: The Nomad expands the role of ship-launched craft from combat sup
   to independent exploration, potentially changing how pilots survey extreme terrain
   and collect exobiological data. Its partnership with Vista Genomics for Sanguineous
   Rim data collection signals growing corporate interest in frontier exobiology.
+summary_de: Faulcon DeLacy hat die begrenzte Vorabveröffentlichung des Nomad angekündigt,
+  einem vom Schiff gestarteten Erkundungsshuttle, das unabhängig von seinem Mutterschiff
+  operieren kann und einen verbesserten Mk-II-Biologiescanner sowie einen Mk-II-Sensor
+  zur Ortung biologischer Oberflächensignale mitführt.
+player_impact_de: Der Nomad ist ab sofort als Vorabkauf erhältlich und wird später in
+  einer größeren Auswahl an Werften verfügbar sein. Piloten können ihn nutzen, um
+  Planetenoberflächen und enges Gelände zu erkunden, ohne ihr Hauptschiff zu riskieren,
+  und der verbesserte Biologiescanner macht exobiologische Probenahme effizienter.
+modern_impact_de: Der Nomad erweitert die Rolle vom Schiff gestarteter Shuttles von
+  Kampfunterstützung hin zu unabhängiger Erkundung und könnte verändern, wie Piloten
+  extremes Gelände vermessen und exobiologische Daten sammeln. Die Partnerschaft mit
+  Vista Genomics zur Datenerhebung im Sanguineous Rim signalisiert wachsendes
+  unternehmerisches Interesse an Exobiologie an der Besiedlungsgrenze.
 topics:
 - engineering
 - exploration
@@ -43,6 +57,20 @@ entities:
 locations: []
 related_uuids:
 - 3010e636-0b5b-59db-b7e0-b9ed156dc044
+body_de: |
+  Faulcon DeLacy, der Hersteller hinter den beliebten Schiffskonstruktionen Python und Cobra, hat die begrenzte Veröffentlichung des Nomad angekündigt.
+
+  Der Nomad ist ein vom Schiff gestartetes Shuttle, das Erkunder in größeren Schiffen unterstützen soll und es ihnen ermöglicht, Planetenoberflächen sowie Orte zu erkunden, die enge Manövrierfähigkeit und Geschwindigkeit erfordern.
+
+  Frank Endis, Chefkonstrukteur, erklärte in der Pressemitteilung:
+
+  „Der Nomad unterscheidet sich von anderen vom Schiff gestarteten Shuttles dadurch, dass er unabhängig von der Anwesenheit seines Mutterschiffs fliegen kann. Unser Team erkannte eine Lücke im Markt für ein kleineres Shuttle, das Erkundern eine Alternative zum Einsatz ihres Hauptschiffs bietet, wenn sie schwieriges Gelände durchqueren."
+
+  „Wir sind gespannt, welche der extremsten Orte Piloten mit ihm erreichen werden."
+
+  Der Nomad wird mit einem neuen Mk-II-Biologiescanner mit erhöhter Reichweite ausgeliefert, ergänzt durch einen Mk-II-Sensor für Signale in Nahreichweite, der Piloten ermöglicht, biologische Oberflächensignale direkt vom Schiff aus zu orten.
+
+  Der Nomad ist ab sofort als Vorabkauf erhältlich und wird später schrittweise in allen Werften verfügbar sein.
 ---
 
 Faulcon DeLacy, the manufacturer behind the popular Python and Cobra ship designs, has announced the limited release of the Nomad.

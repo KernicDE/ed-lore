@@ -1,6 +1,7 @@
 ---
 uuid: a0ec3597-7ec5-5cd9-923a-5bb63309eb1a
 title: Federation Monitors Pro-Xeno Activity
+title_de: Föderation überwacht Pro-Xeno-Aktivitäten
 slug: federation_monitors_pro_xeno_activity
 date: '3308-09-12'
 source: API

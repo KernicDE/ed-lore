@@ -1,6 +1,7 @@
 ---
 uuid: 9fa72a0c-5333-5110-90ea-074419826e85
 title: Distant Worlds 3 Expedition Marks Major Milestones on Route
+title_de: Distant-Worlds-3-Expedition erreicht wichtige Meilensteine auf der Route
 slug: distant_worlds_3_expedition_marks_major_milestones_on_route
 date: 3312-02-13
 source: API

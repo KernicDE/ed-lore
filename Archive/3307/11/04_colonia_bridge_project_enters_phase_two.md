@@ -1,6 +1,7 @@
 ---
 uuid: 454e1ed6-e44f-5243-848c-0928b81615e6
 title: Colonia Bridge Project Enters Phase Two
+title_de: Colonia-Bridge-Projekt beginnt zweite Phase
 slug: colonia_bridge_project_enters_phase_two
 date: '3307-11-04'
 source: API

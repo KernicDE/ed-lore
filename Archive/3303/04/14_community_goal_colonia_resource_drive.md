@@ -1,6 +1,7 @@
 ---
 uuid: d8ae412c-375d-53a5-8d3b-7544e5345571
 title: Community Goal  Colonia Resource Drive
+title_de: 'Community-Goal: Colonia-Ressourcenaktion'
 slug: community_goal_colonia_resource_drive
 date: '3303-04-14'
 source: GitHub

@@ -1,6 +1,7 @@
 ---
 uuid: 733415a6-cbfd-5926-a7dc-3a7569d14645
 title: Distant Worlds 3 Fleet Departs Beagle Point to Continue Deep Space Survey
+title_de: Distant Worlds 3-Flotte verlässt Beagle Point zur Fortsetzung der Tiefraumsondierung
 slug: distant_worlds_3_fleet_departs_beagle_point_to_continue_deep_space_survey
 date: 3312-03-19
 source: API

@@ -1,6 +1,7 @@
 ---
 uuid: 6a9a38f2-88e3-5667-b95b-fee3335c647c
 title: HIP 87621 At Centre of Major Military Conflict
+title_de: HIP 87621 im Zentrum eines großen militärischen Konflikts
 slug: hip_87621_at_centre_of_major_military_conflict
 date: '3311-11-27'
 source: API

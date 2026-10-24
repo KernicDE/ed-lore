@@ -1,6 +1,7 @@
 ---
 uuid: 6c3c6815-8e50-5e81-86ac-0bc5df0a8359
 title: Defeat for the True Chapters
+title_de: Niederlage für die True Chapters
 slug: defeat_for_the_true_chapters
 date: '3308-10-06'
 source: API

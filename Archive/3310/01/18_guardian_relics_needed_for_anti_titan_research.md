@@ -1,14 +1,20 @@
 ---
 uuid: 5b9279f9-186d-5fe3-b130-bd9f8346612d
 title: Guardian Relics Needed for Anti-Titan Research
+title_de: Guardian-Relikte für Anti-Titan-Forschung benötigt
 slug: guardian_relics_needed_for_anti_titan_research
 date: '3310-01-18'
 source: API
 summary: Aegis launches an initiative to collect Guardian relics and Unclassified
   relics for Ram Tah's classified anti-Titan research, with Tesreau expressing encouragement
   after witnessing laboratory tests.
+summary_de: Aegis startet eine Initiative zur Sammlung von Guardian-Relikten und Nichtklassifizierten
+  Relikten für Ram Tahs geheime Anti-Titan-Forschung; Tesreau äußert sich ermutigt, nachdem
+  sie Labortests beobachtet hat.
 player_impact: Pilots are asked to deliver Guardian relics and Unclassified relics
   to Felice Dock in the Meene system.
+player_impact_de: Piloten werden gebeten, Guardian-Relikte und Nichtklassifizierte Relikte
+  zur Felice Dock im System Meene zu liefern.
 persons:
 - Alba Tesreau
 - Ram Tah
@@ -32,6 +38,21 @@ modern_impact: Tesreau's statement — 'Having witnessed Ram Tah's laboratory te
   an ancient Thargoid surface site' — reveals the hybrid nature of the research. The
   promise that 'Ram Tah has promised to reveal more details to the public should these
   prototypes succeed' creates narrative anticipation.
+modern_impact_de: Tesreaus Aussage — ‚Ich habe gestern erst Ram Tahs Labortests beobachtet
+  und war sehr ermutigt, dass seine Arbeit zum Ende dieses verheerenden Krieges führen
+  könnte' — bestätigt die Forschung auf höchster Ebene. Die Erklärung der Nichtklassifizierten
+  Relikte — ‚sie entstehen, wenn diese kristallinen Objekte in eine antike Thargoid-Bodenstation
+  eingesetzt werden' — zeigt den hybriden Charakter der Forschung. Das Versprechen, ‚Ram
+  Tah hat zugesagt, bei Erfolg dieser Prototypen der Öffentlichkeit mehr Details zu offenbaren',
+  schafft narrative Spannung.
+body_de: |
+  **ALARM der Pilots’ Federation**
+  Der Ingenieur Ram Tah benötigt dringend Lieferungen von Guardian-Relikten und Nichtklassifizierten Relikten ins System Meene.
+  Professorin Alba Tesreau, Leiterin von Aegis, gab bekannt, die Initiative ins Leben gerufen zu haben:
+  „Seit dem Auftauchen der Thargoid-Titanen haben wir mehrere neue Module entwickelt, um ihre Verteidigung zu umgehen. Doch diese Mutterschiffe bleiben eine ständige Präsenz in unserem Raum und entfesseln weiterhin endlose Schwärme von Thargoid-Schiffen.“
+  „Eine kürzlich von Ram Tah vorgestellte Theorie könnte diese Situation verändern. Obwohl die Details seiner Forschung vorerst geheim bleiben, leitet sich die Theorie aus der angeborenen Verwundbarkeit der Thargoids gegenüber den Technologien ihres alten Feinds, der Guardian, ab. Ich habe gestern erst Ram Tahs Labortests beobachtet und war sehr ermutigt, dass seine Arbeit zum Ende dieses verheerenden Krieges führen könnte.“
+  „Aegis tut alles in seiner Macht Stehende, um diese entscheidende Initiative zu unterstützen. Wir bitten daher um Lieferungen von Guardian-Relikten sowie um die Nichtklassifizierten Relikte, die entstehen, wenn diese kristallinen Objekte in eine antike Thargoid-Bodenstation eingesetzt werden. Beide Objekte werden in großen Mengen benötigt, um Ram Tahs Theorie schnell zu verfeinern und Prototypen zu entwickeln. Ram Tah hat zugesagt, bei Erfolg dieser Prototypen der Öffentlichkeit mehr Details zu offenbaren.“
+  Aegis hat gebeten, Guardian-Relikte und Nichtklassifizierte Relikte zur Felice Dock im System Meene zu liefern, dem Standort von Ram Tahs Werkstatt.
 legacy_weight: 5
 significance: high
 related_uuids:

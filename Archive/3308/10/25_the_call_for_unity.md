@@ -1,6 +1,7 @@
 ---
 uuid: 9d88d95b-e2d8-5107-bb42-666da4ea00bf
 title: The Call for Unity
+title_de: Der Ruf nach Einigkeit
 slug: the_call_for_unity
 date: '3308-10-25'
 source: API

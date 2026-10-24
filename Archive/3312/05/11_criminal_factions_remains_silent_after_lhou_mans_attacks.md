@@ -1,6 +1,7 @@
 ---
 uuid: c76cadee-b3d0-501f-8231-6caf7589bc3a
 title: Criminal Factions Remains Silent After Lhou Mans Attacks
+title_de: Kriminelle Fraktion schweigt nach Angriffen auf Lhou Mans
 slug: criminal_factions_remains_silent_after_lhou_mans_attacks
 date: '3312-05-11'
 source: API

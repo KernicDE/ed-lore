@@ -1,6 +1,7 @@
 ---
 uuid: f052748e-b6ee-52c8-9657-75e06d0e3612
 title: Xeno-Peace Supporters Killed by Thargoids
+title_de: Xeno-Friedens-Unterstützer von Thargoids getötet
 slug: xeno_peace_supporters_killed_by_thargoids
 date: '3308-11-25'
 source: API

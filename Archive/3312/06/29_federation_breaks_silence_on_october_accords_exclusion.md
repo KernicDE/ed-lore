@@ -1,6 +1,7 @@
 ---
 uuid: 05b3a508-8907-59c1-8f42-800fb7fd23c4
 title: Federation Breaks Silence on October Accords Exclusion
+title_de: Föderation bricht Schweigen über Ausschluss aus den October Accords
 slug: federation_breaks_silence_on_october_accords_exclusion
 date: '3312-06-29'
 source: API

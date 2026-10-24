@@ -1,6 +1,7 @@
 ---
 uuid: 0634cce4-4cff-5261-81c7-4723f54899ac
 title: Galactic News  Jaques Station Found!
+title_de: Galaktische Nachrichten – Jaques Station gefunden!
 slug: galactic_news_jaques_station_found
 date: '3302-06-29'
 source: GitHub

@@ -1,6 +1,7 @@
 ---
 uuid: 403eb749-98c4-5030-905c-32e97ca872f6
 title: Long-Lost Research Facility Discovered
+title_de: Lange verlorene Forschungseinrichtung entdeckt
 slug: long_lost_research_facility_discovered
 date: '3307-11-10'
 source: API

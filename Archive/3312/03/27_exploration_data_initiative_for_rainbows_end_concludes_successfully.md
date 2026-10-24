@@ -1,6 +1,7 @@
 ---
 uuid: 1c11d8d0-5fd0-592c-81c0-bc68296f6adf
 title: Exploration Data Initiative for Rainbow’s End Concludes Successfully
+title_de: Explorationsdaten-Initiative für Rainbow’s End erfolgreich abgeschlossen
 slug: exploration_data_initiative_for_rainbows_end_concludes_successfully
 date: 3312-03-27
 source: API

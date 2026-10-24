@@ -1,6 +1,7 @@
 ---
 uuid: ddcf0664-1656-5fea-94a9-53be905f34df
 title: Record-Breaking Success for Brewer's Resupply Initiative
+title_de: Rekorderfolg für die Nachschubinitiative von Brewer
 slug: record_breaking_success_for_brewers_resupply_initiative
 date: '3311-08-21'
 source: API

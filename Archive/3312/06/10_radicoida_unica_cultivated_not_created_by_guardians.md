@@ -1,6 +1,7 @@
 ---
 uuid: 11c3c52f-c137-504a-ae3d-5e84a2436bd7
 title: Radicoida Unica ‘Cultivated, Not Created’ By Guardians
+title_de: Radicoida Unica von den Guardians „kultiviert, nicht erschaffen“
 slug: radicoida_unica_cultivated_not_created_by_guardians
 date: '3312-06-10'
 source: API

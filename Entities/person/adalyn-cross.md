@@ -8,6 +8,26 @@ mention_count: 9
 bio: Adalyn Cross is a freelance journalist and former Vox Galactica correspondent
   who reported on the 3305 blight crisis and, in 3312, reviewed Wreaken Mining research
   into modulated planetary surface laser mining for Vox Galactica.
+bio_de: Adalyn Cross ist Journalistin bei Vox Galactica, die über die gesellschaftlichen
+  Auswirkungen der Blight-Krise von 3305 ausführlich berichtete. Ihre Berichterstattung
+  dokumentierte, wie sich die Kernsysteme an die Lebensmittelknappheit anpassten,
+  wobei gefriergetrocknete Produkte wieder beliebter wurden, Speisekarten schrumpften
+  und die Fischereiwirtschaft einen Boom erlebte, da pescatarische Ernährung zunahm.
+
+  Cross stellte fest, dass sich Milliarden auf Nahrungskartuschen und Rationspakete
+  mit nur basischer Ernährung verließen, während Wohlfahrtsorganisationen an ihre
+  Grenzen gelangten. Sie berichtete auch über die Folgen des Blight, darüber, dass
+  die Interstellar Association for Agriculture ihre Screening-Regulierung verschärfen
+  wollte, und dass Geheimdienste ihre Strategien zur Bekämpfung interstellarer
+  Terrorismus überprüften. Ihre Journalistik erfasste sowohl die unmittelbare
+  humanitäre Krise als auch die langfristigen politischen Verschiebungen nach dem
+  biochemischen Angriff der Scythe of Panem.
+
+  Im August 3312 besprach Cross ein Vorabexemplar von Untersuchungen des
+  Chefgeologen der Wreaken Mining, Dr. Ben Curtis, und schrieb für Vox Galactica,
+  dass das Unternehmen neue Laserbohrer, Raffineriemodule und Modifikationen des
+  Detailed Surface Scanner fertige, um einen neuen Boom beim Oberflächenabbau
+  zu ermöglichen.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
 uuid: 1729659f-9f35-525b-9e72-3a35258c8e35
 title: 'Enclave Standings: 19th December '
+title_de: 'Enklaven-Stände: 19. Dezember'
 slug: enclave_standings_19th_december
 date: '3311-12-19'
 source: API

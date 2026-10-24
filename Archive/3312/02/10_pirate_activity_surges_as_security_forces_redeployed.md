@@ -1,6 +1,7 @@
 ---
 uuid: 86dbc944-a8ec-5d85-ab42-44ac9911ac40
 title: Pirate Activity Surges as Security Forces Redeployed
+title_de: Piraterie nimmt stark zu, während Sicherheitskräfte verlegt werden
 slug: pirate_activity_surges_as_security_forces_redeployed
 date: 3312-02-10
 source: API

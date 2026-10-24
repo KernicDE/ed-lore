@@ -1,6 +1,7 @@
 ---
 uuid: 646e2d8d-697c-577e-82a0-64dcc82c34dd
 title: Increased Traffic Near Prison Ships Sparks Concern
+title_de: Erhöhtes Verkehrsaufkommen nahe Gefängnisschiffen sorgt für Besorgnis
 slug: increased_traffic_near_prison_ships_sparks_concern
 date: '3312-09-14'
 source: API

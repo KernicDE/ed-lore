@@ -1,6 +1,7 @@
 ---
 uuid: b3e4dc37-5f5d-5b28-9255-133814286834
 title: Frontline Solutions Officially Launches Anti-Crime Deployments
+title_de: Frontline Solutions startet offiziell Anti-Kriminalitäts-Einsätze
 slug: frontline_solutions_officially_launches_anti_crime_deployments
 date: '3312-06-30'
 source: API

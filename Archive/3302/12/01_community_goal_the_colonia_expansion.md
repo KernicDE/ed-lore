@@ -1,6 +1,7 @@
 ---
 uuid: 20cf9b0a-7633-5868-82c2-9c74e25928fc
 title: Community Goal  The Colonia Expansion
+title_de: Community-Goal – Die Colonia-Expansion
 slug: community_goal_the_colonia_expansion
 date: '3302-12-01'
 source: GitHub

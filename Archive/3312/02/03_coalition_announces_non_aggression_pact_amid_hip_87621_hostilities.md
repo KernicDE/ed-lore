@@ -1,6 +1,7 @@
 ---
 uuid: ab9f6c81-8fa4-564b-978d-59be79a044dc
 title: Coalition Announces Non-Aggression Pact Amid HIP 87621 Hostilities
+title_de: Koalition verkündet Nichtangriffspakt inmitten der Kämpfe in HIP 87621
 slug: coalition_announces_non_aggression_pact_amid_hip_87621_hostilities
 date: 3312-02-03
 source: API

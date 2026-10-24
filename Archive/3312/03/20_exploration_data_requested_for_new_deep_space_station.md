@@ -1,6 +1,7 @@
 ---
 uuid: 24d79b14-7fcd-5d02-bd05-b1ea1a77b7f0
 title: Exploration Data Requested for New Deep-Space Station
+title_de: Explorationsdaten für neue Tiefraumstation angefordert
 slug: exploration_data_requested_for_new_deep_space_station
 date: 3312-03-20
 source: API

@@ -1,6 +1,7 @@
 ---
 uuid: 5532a155-7d5e-5a24-be3b-602dc8e25d83
 title: Freelance Report  August Exodus Ends with a Bang
+title_de: Freier Bericht  August-Exodus endet mit einem Knall
 slug: freelance_report_august_exodus_ends_with_a_bang
 date: '3302-09-02'
 source: GitHub

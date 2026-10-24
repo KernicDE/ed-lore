@@ -7,7 +7,10 @@ last_seen_date: '3312-04-21'
 mention_count: 2
 bio: 'Mara Chen is a prominent figure in the Elite Dangerous universe, active from
   3312-03-17 to 3312-04-21. Closely associated with Orion University. '
+bio_de: Mara Chen ist eine bedeutende Figur im Elite-Dangerous-Universum, aktiv
+  vom 3312-03-17 bis zum 3312-04-21. Eng verbunden mit der Orion University.
 ---
+
 
 
 

@@ -1,6 +1,7 @@
 ---
 uuid: 55221925-a927-5ecb-acfb-f82d85c25a2a
 title: Initial Stage of Colonia Bridge Operational
+title_de: Erste Stufe der Colonia Bridge in Betrieb
 slug: initial_stage_of_colonia_bridge_operational
 date: '3307-10-29'
 source: API

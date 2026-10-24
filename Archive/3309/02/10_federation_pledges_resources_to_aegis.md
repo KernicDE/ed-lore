@@ -1,6 +1,7 @@
 ---
 uuid: df6e411a-1cfc-5b1f-be65-3e9644b00824
 title: Federation Pledges Resources to Aegis
+title_de: Föderation stellt Aegis Ressourcen zur Verfügung
 slug: federation_pledges_resources_to_aegis
 date: '3309-02-10'
 source: API

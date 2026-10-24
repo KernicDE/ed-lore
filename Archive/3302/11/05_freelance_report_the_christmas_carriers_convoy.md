@@ -1,6 +1,7 @@
 ---
 uuid: d5c22e7b-2793-5899-8010-03da70b5c789
 title: Freelance Report  The Christmas Carriers Convoy
+title_de: Freelance-Report – Der Weihnachts-Flottenträger-Konvoi
 slug: freelance_report_the_christmas_carriers_convoy
 date: '3302-11-05'
 source: GitHub

@@ -1,6 +1,7 @@
 ---
 uuid: 7f00ad08-050b-5a1e-b30c-f03501029ae3
 title: 'A Renewed Journey for the Golconda '
+title_de: 'Eine erneute Reise für die Golconda'
 slug: a_renewed_journey_for_the_golconda
 date: '3308-06-17'
 source: API

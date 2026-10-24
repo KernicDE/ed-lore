@@ -1,6 +1,7 @@
 ---
 uuid: 68607225-2de5-5d2d-992d-994061587de7
 title: Three Prisoners Missing Following Recent Breakout
+title_de: Drei Gefangene nach jüngstem Ausbruch vermisst
 slug: three_prisoners_missing_following_recent_breakout
 date: '3312-10-13'
 source: API

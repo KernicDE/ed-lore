@@ -1,6 +1,7 @@
 ---
 uuid: 3e340fb7-d036-53cb-b192-847d066be03c
 title: Community Goal  Trouble in Colonia
+title_de: 'Community-Goal: Unruhe in Colonia'
 slug: community_goal_trouble_in_colonia
 date: '3303-05-19'
 source: GitHub

@@ -1,6 +1,7 @@
 ---
 uuid: bf2d3dff-0f0e-52cb-b06d-f6704f6b7781
 title: Kumo Crew Rebuffed after Anti-Xeno Campaign
+title_de: Kumo Crew nach Anti-Xeno-Kampagne zurückgewiesen
 slug: kumo_crew_rebuffed_after_anti_xeno_campaign
 date: '3309-02-09'
 source: API

@@ -1,6 +1,7 @@
 ---
 uuid: 55837bae-0f7a-5bc8-9a95-4fb792abd6c0
 title: Experimental Weapons Stabiliser Becomes Available
+title_de: Experimenteller Waffenstabilisator erhältlich
 slug: experimental_weapons_stabiliser_becomes_available
 date: '3309-01-26'
 source: API

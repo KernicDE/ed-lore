@@ -1,6 +1,7 @@
 ---
 uuid: 32ce68df-e133-545f-a0ea-2ae009f1ada6
 title: Civilians Evacuated Safely as Criminal Attacks Defeated
+title_de: Zivilisten sicher evakuiert, kriminelle Angriffe abgewehrt
 slug: civilians_evacuated_safely_as_criminal_attacks_defeated
 date: '3312-05-14'
 source: API

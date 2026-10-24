@@ -14,15 +14,23 @@ key_entities:
 - Thargoid Spire Sites
 description: The Thargoid Titan invasion of human space, the deployment of Maelstroms,
   the abduction of human captives, and the desperate efforts to develop effective countermeasures.
+description_de: Die Thargoid-Invasion durch Titanen im menschlichen Raum, die Stationierung von
+  Maelstromen, die Verschleppung menschlicher Gefangener und die verzweifelten Bemühungen,
+  wirksame Gegenmaßnahmen zu entwickeln.
 phases:
 - 'Phase 1: The Invasion (3309-05-01)'
 - 'Phase 2: Captives (3309-10-10)'
 - 'Phase 3: Countermeasures (3309-12-01)'
 summary: The Thargoid Titan invasion, including Maelstrom deployment, human abductions,
   and the development of extraction technologies and countermeasures.
+summary_de: Die Thargoid-Invasion durch Titanen, einschließlich der Stationierung von
+  Maelstromen, der Verschleppung menschlicher Gefangener und der Entwicklung von
+  Bergungstechnologien und Gegenmaßnahmen.
 status: Ongoing
 outcome: Human forces developed methods to extract captives from Titans. The war continues
   with no clear resolution.
+outcome_de: Die menschlichen Streitkräfte entwickelten Methoden, um Gefangene aus den
+  Titanen zu bergen. Der Krieg dauert ohne erkennbare Lösung an.
 significance: high
 ---
 

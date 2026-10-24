@@ -1,6 +1,7 @@
 ---
 uuid: 2929a7d5-739c-5361-a9e9-697acd62a952
 title: Independent Colonisation Support Campaign Goes Live
+title_de: Kampagne zur Unterstützung unabhängiger Kolonialisierung gestartet
 slug: independent_colonisation_support_campaign_goes_live
 date: '3311-02-20'
 source: API

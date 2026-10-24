@@ -1,6 +1,7 @@
 ---
 uuid: 611a5e2b-bd02-52e0-b657-1d13d01997d3
 title: Major Corporations Promote Colonia Celebrations
+title_de: Große Konzerne werben für Colonia-Feierlichkeiten
 slug: major_corporations_promote_colonia_celebrations
 date: '3312-07-13'
 source: API

@@ -1,6 +1,7 @@
 ---
 uuid: 3526e0a2-8066-57b9-9a91-4acfc80d23e9
 title: Colonia Bridge Project Extended to 3308
+title_de: Colonia-Bridge-Projekt bis 3308 verlängert
 slug: colonia_bridge_project_extended_to_3308
 date: '3307-11-26'
 source: API

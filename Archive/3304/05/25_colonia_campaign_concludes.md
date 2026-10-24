@@ -1,6 +1,7 @@
 ---
 uuid: 5099d0d9-4ac9-5541-b400-60125e76f48b
 title: Colonia Campaign Concludes
+title_de: Colonia-Kampagne abgeschlossen
 slug: colonia_campaign_concludes
 date: '3304-05-25'
 source: GitHub

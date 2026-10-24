@@ -516,7 +516,8 @@ def _process_single_article(
         "topics": fm.get("topics") or [],
         "arc_id": arc_id,
         "arc_chapter": fm.get("arc_chapter"),
-        "summary": fm.get("summary", ""),
+        "title_de": fm.get("title_de", ""),
+    "summary": fm.get("summary", ""),
         "summary_de": fm.get("summary_de", ""),
         "player_impact": fm.get("player_impact", ""),
         "player_impact_de": fm.get("player_impact_de", ""),
@@ -1080,7 +1081,7 @@ def main() -> int:
 
     # Build translations-de.json: German content fields, only items with at least one
     # non-empty *_de field; per item only the non-empty fields are included.
-    ARTICLE_DE_FIELDS = ("summary_de", "player_impact_de", "modern_impact_de")
+    ARTICLE_DE_FIELDS = ("title_de", "summary_de", "player_impact_de", "modern_impact_de")
     ARC_DE_FIELDS = ("description_de", "summary_de", "outcome_de")
     de_articles = {}
     for a in graph["articles"]:

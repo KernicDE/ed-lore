@@ -1,6 +1,7 @@
 ---
 uuid: f92fd544-6322-5309-a867-a780e0e2e31f
 title: Terri Tora Released by October Consortium in Surprise Move
+title_de: Terri Tora in überraschendem Schritt des October Consortium freigelassen
 slug: terri_tora_released_by_october_consortium_in_surprise_move
 date: '3312-07-09'
 source: API

@@ -1,6 +1,7 @@
 ---
 uuid: 70502ec6-81e6-5614-bdae-f03fcf03dd64
 title: The Pro-Aegis Stance of the Princess
+title_de: Die pro-Aegis-Haltung der Prinzessin
 slug: the_pro_aegis_stance_of_the_princess
 date: '3309-01-23'
 source: API

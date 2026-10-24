@@ -1,6 +1,7 @@
 ---
 uuid: 8a3a1cb2-ff2d-5f18-b0aa-b96e491874a4
 title: Core Dynamics Unveils Kestrel Fighter
+title_de: Core Dynamics enthüllt Kestrel-Kampfjäger
 slug: core_dynamics_unveils_kestrel_fighter
 date: 3312-02-24
 source: API

@@ -1,6 +1,7 @@
 ---
 uuid: 1d008296-3c57-55df-be7d-54a56e8c114f
 title: Freelance Report  Fungi Discovered on Airless Worlds
+title_de: Freelance-Report – Pilze auf luftlosen Welten entdeckt
 slug: freelance_report_fungi_discovered_on_airless_worlds
 date: '3302-11-01'
 source: GitHub

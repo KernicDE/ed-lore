@@ -1,6 +1,7 @@
 ---
 uuid: 3958bc50-b17d-5db1-ba61-462ab4b157cd
 title: Colonia Calls for Assistance as Celebrations Get Underway
+title_de: Colonia bittet um Unterstützung – Feierlichkeiten beginnen
 slug: colonia_calls_for_assistance_as_celebrations_get_underway
 date: '3312-07-16'
 source: API

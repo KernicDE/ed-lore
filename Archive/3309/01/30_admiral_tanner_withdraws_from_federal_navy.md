@@ -1,6 +1,7 @@
 ---
 uuid: b639bbd6-4ffb-5d89-a8f6-8ac3f81ab73c
 title: Admiral Tanner Withdraws from Federal Navy
+title_de: Admiral Tanner tritt aus der Föderalen Flotte zurück
 slug: admiral_tanner_withdraws_from_federal_navy
 date: '3309-01-30'
 source: API

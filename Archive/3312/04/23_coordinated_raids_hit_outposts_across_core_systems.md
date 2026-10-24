@@ -1,6 +1,7 @@
 ---
 uuid: 46b8ec38-ca04-5680-b3a2-01de047bc6c4
 title: Coordinated Raids Hit Outposts Across Core Systems
+title_de: Koordinierte Überfälle auf Außenposten in den Kernsystemen
 slug: coordinated_raids_hit_outposts_across_core_systems
 date: 3312-04-23
 source: API

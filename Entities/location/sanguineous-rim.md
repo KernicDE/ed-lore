@@ -11,6 +11,13 @@ related_entities:
 - nomad
 - mk-ii-biological-scanner
 - mk-ii-sensor
+bio_de: Der Sanguineous Rim ist eine galaktische Region am Rand der Milchstraße. Im Juli 3312
+  startete Vista Genomics dort eine Erkundungsinitiative in Zusammenarbeit mit Faulcon DeLacy,
+  um mit dem neuen vom Schiff gestarteten Fahrzeug Nomad dessen Fähigkeiten in extremem
+  Gelände zu testen und biologische Proben zu sammeln, mit denen die genetische Vielfalt
+  jenseits der Kernsysteme bewertet werden sollte. Die Initiative wurde anschließend als
+  Erfolg eingestuft, nachdem Piloten bestätigten, dass der Mk-II-Biologische-Scanner und
+  der Mk-II-Sensor des Nomad die Probenahme in der Exobiologie effizienter machten.
 ---
 
 <!-- AUTO-GENERATED -->

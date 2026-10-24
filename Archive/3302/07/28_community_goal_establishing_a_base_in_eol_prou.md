@@ -1,6 +1,7 @@
 ---
 uuid: 44ea0feb-1a55-57ba-9dc2-44d90fb3c275
 title: Community Goal  Establishing a Base in Eol Prou
+title_de: Community-Goal – Errichtung einer Basis in Eol Prou
 slug: community_goal_establishing_a_base_in_eol_prou
 date: '3302-07-28'
 source: GitHub

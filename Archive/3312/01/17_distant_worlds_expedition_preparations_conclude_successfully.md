@@ -1,6 +1,7 @@
 ---
 uuid: 5d594007-84d8-500c-8b57-7ac95e8d6284
 title: Distant Worlds Expedition Preparations Conclude Successfully
+title_de: Vorbereitungen für Distant-Worlds-Expedition erfolgreich abgeschlossen
 slug: distant_worlds_expedition_preparations_conclude_successfully
 date: 3312-01-17
 source: API

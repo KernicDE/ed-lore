@@ -1,6 +1,7 @@
 ---
 uuid: e8bdc445-58aa-5aca-b3ab-9f1705da44d3
 title: Brewer Corporation Trailblazer Fleet Upgraded
+title_de: Trailblazer-Flotte der Brewer Corporation aufgerüstet
 slug: brewer_corporation_trailblazer_fleet_upgraded
 date: '3311-03-06'
 source: API

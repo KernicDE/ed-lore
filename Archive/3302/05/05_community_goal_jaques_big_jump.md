@@ -1,6 +1,7 @@
 ---
 uuid: ca336671-285c-54b4-9c50-3b2c5cafda2f
 title: Community Goal  Jaques' Big Jump
+title_de: Community-Goal  Jaques' großer Sprung
 slug: community_goal_jaques_big_jump
 date: '3302-05-05'
 source: GitHub

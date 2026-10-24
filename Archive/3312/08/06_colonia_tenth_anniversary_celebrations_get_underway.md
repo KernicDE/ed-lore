@@ -1,6 +1,7 @@
 ---
 uuid: 42e0c02a-7f80-59aa-abb7-b423537e2de9
 title: Colonia Tenth Anniversary Celebrations Get Underway
+title_de: 'Zehnjähriges Colonia-Jubiläum: Feierlichkeiten beginnen'
 slug: colonia_tenth_anniversary_celebrations_get_underway
 date: '3312-08-06'
 source: API

@@ -10,6 +10,21 @@ bio: William Ventura is a prominent figure in the Elite Dangerous universe, acti
   Tribune. Actor William 'Big Bill' Ventura's self-produced workout video goes viral,
   showing dramatic body transformation. William 'Big Bill' Ventura's fitness trend
   evolves into broader cultural movement.
+bio_de: William Ventura etablierte sich 3312 als unerwartetes Kulturphänomen, als ein
+  selbst produziertes Workout-Video des Schauspielers in den föderalen und unabhängigen
+  Mediennetzwerken viral ging. Die Aufnahmen dokumentierten eine dramatische körperliche
+  Verwandlung, die ein Publikum weit über die Fitness-Community hinaus faszinierte und
+  den Darsteller über Nacht zum Star machten. Seine ungekünstelte, authentische Präsentation
+  kontrastierte stark mit den sorgfältig gesteuerten Prominentenprofilen der Zeit, was
+  zur großen Verbreitung des Videos beitrug.
+
+  Was als persönliches Fitnessprojekt begann, entwickelte sich rasch zu einer breiteren
+  Kulturbewegung. Venturas Methoden und seine Philosophie inspirierten unabhängige Piloten
+  und Stationsbesatzungen gleichermaßen zu strengen Trainingsroutinen. Sein Einfluss reichte
+  bis in Mode, Ernährungstrends und sogar Bordalltag-Modifikationen, da Gemeinschaften seine
+  Disziplin nachahmen wollten. Venturas Aufstieg zeigte, wie digitale Medien Einzelpersonen
+  von relativer Unbekanntheit zu galaktischer Bekanntheit katapultieren können – ohne die
+  traditionellen Gatekeeper der Unterhaltungsindustrie.
 ---
 
 

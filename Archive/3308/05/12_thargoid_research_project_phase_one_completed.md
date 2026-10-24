@@ -1,6 +1,7 @@
 ---
 uuid: fba3c0e5-795f-56f8-bad3-8e119c36de4a
 title: Thargoid Research Project Phase One Completed
+title_de: Erste Phase des Thargoid-Forschungsprojekts abgeschlossen
 slug: thargoid_research_project_phase_one_completed
 date: '3308-05-12'
 source: API

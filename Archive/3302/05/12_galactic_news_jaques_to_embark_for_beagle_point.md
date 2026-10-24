@@ -1,6 +1,7 @@
 ---
 uuid: 4d7c597e-0996-5384-89fa-f96749b6bb7b
 title: Galactic News  Jaques to Embark for Beagle Point
+title_de: Galaktische Nachrichten  Jaques bricht nach Beagle Point auf
 slug: galactic_news_jaques_to_embark_for_beagle_point
 date: '3302-05-12'
 source: GitHub

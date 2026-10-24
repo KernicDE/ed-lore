@@ -1,6 +1,7 @@
 ---
 uuid: 50ccf185-d72b-5a92-8231-4509d2c4eb78
 title: Galactic News  Colonia Council Initiative Concludes
+title_de: Galaktische Nachrichten – Initiative des Colonia Council abgeschlossen
 slug: galactic_news_colonia_council_initiative_concludes
 date: '3302-11-03'
 source: GitHub

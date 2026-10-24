@@ -1,6 +1,7 @@
 ---
 uuid: a3f791cb-69ed-563c-bd68-f714c44a8674
 title: October Consortium Defends Control of HIP 87621
+title_de: October-Konsortium verteidigt Kontrolle über HIP 87621
 slug: october_consortium_defends_control_of_hip_87621
 date: '3311-10-09'
 source: API
