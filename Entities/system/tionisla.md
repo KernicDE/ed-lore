@@ -29,6 +29,20 @@ bio: 'Tionisla is a system in Elite Dangerous, significant from 3302-08-05 to 33
   has entered a period of political campaigning prior to the election of a new prime
   minister.; Nakato Kaine''s Tionisla delivery campaign fails to reach its target,
   with Yong-Rui blaming Assembly obstruction and Kaine reaffirming Alliance self...'
+bio_de: Tionisla ist ein System im Old-Worlds-Cluster, das historisch für den Orbitalen Friedhof
+  von Tionisla bekannt ist, ein Mausoleum, das in den 3100ern als Ruhestätte für Reiche und
+  Berühmte errichtet wurde. Während einer Wirtschaftskrise, die die Old Worlds verwüstete,
+  geriet der Friedhof außer Gebrauch, und viele seiner Relikte wurden im Laufe der Jahrhunderte
+  geschändet oder geplündert.
+
+  3302 schlug der Friedhof erstmals seit über hundert Jahren wieder galaktische Wellen, als ein
+  neues Schiff dort beigesetzt wurde. Eine antike Cobra Mk III mit der ungewöhnlichen
+  Rumpfregistrierung „Cor meum et animam" übertrug kurz die sich wiederholende Botschaft
+  „OTSEAFOTSEAF", bevor ein Stromausfall ihren Sender zum Verstummen brachte. Damit ausgelöste
+  Theorien und Spekulationen wurden von lokalen Beamten als routinemäßige posthume
+  Unsinnigkeit abgetan. Politisch wurde Tionisla als Heimatflotte von Admiral Tahir West
+  bekannt, der 3305 nach dem Amtsenthebungsskandal um Kincaid in den Rat der Admiräle berufen
+  wurde.
 reserve: Depleted
 ---
 

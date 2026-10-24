@@ -1,14 +1,21 @@
 ---
 uuid: e60ba663-e3c2-5d4d-a902-6fa3517edf28
 title: 'Thargoid War Bulletin: Oya Successfully Attacked'
+title_de: 'Thargoid-Kriegs-Bulletin: Oya erfolgreich angegriffen'
 slug: thargoid_war_bulletin_oya_successfully_attacked
 date: '3310-04-24'
 source: API
 summary: Titan Oya is confirmed destroyed in the Cephei Sector BV-Y B4 system, leaving
   five Titans operational. Aden Tanner cautions pilots about increasing dangers during
   Titan assaults.
+summary_de: Titan Oya wird im System Cephei Sector BV-Y B4 als zerstört bestätigt, womit
+  fünf Titanen einsatzbereit bleiben. Aden Tanner warnt die Piloten vor zunehmenden
+  Gefahren bei Titan-Angriffen.
 player_impact: Pilots successfully destroyed Titan Oya. Tanner warns that combat skills
   will be tested with more frequent counter-attacks as Titans take damage.
+player_impact_de: Piloten zerstörten Titan Oya erfolgreich. Tanner warnt, dass die
+  Kampffähigkeiten auf die Probe gestellt werden, da Gegenangriffe häufiger werden,
+  je mehr Schaden die Titanen nehmen.
 persons:
 - Aden Tanner
 groups:
@@ -26,12 +33,27 @@ modern_impact: Tanner's detailed tactical advice — 'caustic sink launchers and
   vessels become more frequent as the Titans take damage' provides concrete tactical
   intelligence. His call for 'veteran anti-xeno pilots passing on their knowledge
   to less-experienced pilots' acknowledges the skill gap in the pilot community.
+modern_impact_de: Tanners ausführliche taktische Hinweise – „caustic sink launchers und
+  Thargoid pulse neutralisers … Guardian-Naniten-Torpedos zum Beschuss der Wärmeauslässe
+  der Titanen“ – verraten die Mechanik des Titanenkampfs. Seine Warnung, dass
+  „Gegenangriffe der Thargoid-Schiffe häufiger werden, je mehr Schaden die Titanen
+  nehmen“, liefert konkrete taktische Erkenntnisse. Sein Appell, dass „erfahrene
+  Anti-Xeno-Piloten ihr Wissen an weniger erfahrene Piloten weitergeben“ sollten,
+  erkennt die Erfahrungslücke in der Pilotengemeinschaft an.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 62f7d43b-2eef-5a4b-9834-34d8bec12553
 - 954f0514-fb85-5200-bf86-3e2b146b34c3
 - c68d0b34-c427-59b2-888e-0b7fdd53cd63
+body_de: |
+  Titan Oya im System Cephei Sector BV-Y B4 wurde von Aegis als zerstört bestätigt; fünf weitere Titanen sind noch einsatzbereit.
+
+  Aden Tanner, Aegis’ leitender Anti-Xeno-Stratege, gab eine Warnung ab:
+
+  „Ich muss alle Kommandanten daran erinnern, dass diese Einsätze höchst gefährlich sind und nicht auf die leichte Schulter genommen werden dürfen. Um in einen Mahlstrom einzutreten und nahe an einen Titanen heranzufliegen, muss euer Schiff mit Caustic Sink Launchern und Thargoid Pulse Neutralisern ausgerüstet sein. Auch AX-Bewaffnung wird sich als nützlich erweisen, ebenso wie Guardian-Naniten-Torpedos zum Beschuss der Wärmeauslässe der Titanen.“
+
+  „Lass dich warnen: Deine Kampffähigkeiten werden auf die Probe gestellt. Gegenangriffe der Thargoid-Schiffe werden häufiger, je mehr Schaden die Titanen nehmen, und die Geschütztürme des Mutterschiffs selbst werden aggressiver eingesetzt. Ich möchte erleben, wie erfahrene Anti-Xeno-Piloten ihr Wissen an weniger erfahrene Piloten weitergeben, um unnötige Risiken zu vermeiden.“
 ---
 
 

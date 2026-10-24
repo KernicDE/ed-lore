@@ -14,6 +14,21 @@ related_entities:
 bio: The Maelstroms are eight colossal Thargoid-generated gas clouds that appeared
   in the core systems in late 3308, each serving as a beachhead for the most devastating
   phase of the Second Thargoid War.
+bio_de: Die Maelstroms sind acht kolossale, von den Thargoiden erzeugte Gaswolken,
+  die Ende 3308 in den Kernsystemen erschienen und jeweils als Brückenkopf für die
+  verheerendste Phase des Zweiten Thargoid-Kriegs dienten. Diese anomalen Regionen
+  aus ätzender, elektrisch geladener Atmosphäre beherbergen Titan-Klasse-Schiffe –
+  planetengroße Mutterschiffe, die unzählige kleinere Einheiten einsetzen – und machen
+  die umliegenden Systeme durch Umweltzerstörung und massenhafte Vertreibung der Zivilbevölkerung
+  unbewohnbar.
+
+  Jeder Maelstrom ist ein sich selbst erhaltendes Invasionsökosystem. Ätzende Wolken
+  schwächen Schiffssysteme, Thargoid-Interceptors patrouillieren an den Grenzen,
+  und die Titanen selbst dienen als Befehlsknotenpunkte für koordinierte Angriffe
+  auf menschliche Sternenhäfen. Bis 3310 hatten die Maelstroms es den Thargoid-Kräften
+  ermöglicht, Dutzende Systeme zu erobern und dauerhafte Stützpunkte innerhalb der
+  Blase zu etablieren – die Menschheit war gezwungen, völlig neue Verteidigungsstrategien
+  und Waffen zu entwickeln, um allein in ihrer Nähe zu überleben.
 ---
 
 # Maelstrom

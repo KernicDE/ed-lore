@@ -10,6 +10,24 @@ bio: 'Guardian Nanite Torpedo Pylon is a technology in Elite Dangerous, mentione
   call to all pilots to participate in the final assault on Titan Leigong, the second
   Thargoid mothership.; An urgent call to all pilots to participate in the final assault
   on Titan Oya, the third Thargoid mothership.'
+bio_de: 'Die Guardian Nanite Torpedo Pylon ist eine spezialisierte Anti-Thargoid-Waffe,
+  die für die Angriffe auf die Thargoid-Titanenmutterschiffe während des Zweiten Thargoid-Kriegs
+  entwickelt wurde. Zusammen mit dem Thargoid Pulse Neutraliser und dem Caustic Sink
+  Launcher eingesetzt, verschießt die Pylon Torpedos mit Guardian-basierten Naniten,
+  die die Ventile eines Titans beeinträchtigen und das gewaltige Schiff für konventionellen
+  Schaden verwundbar machen sollen.
+
+  Die Waffe wurde erstmals im März 3310 während des Angriffs auf Titan Leigong eingesetzt,
+  das zweite Thargoid-Mutterschiff, das nach Titan Taranis belagert wurde. Aegis stellte
+  das Modul teilnehmenden Piloten an Rescue Megaships ohne Umwege zur Verfügung und
+  etablierte es als Standardbestandteil der Titan-Angriffsausrüstung. Die Guardian
+  Nanite Torpedo Pylon war der Höhepunkt der Guardian-Forschung von Aegis und übersetzte
+  antike xenotechnologische Entdeckungen in praktische Schlachtfeldanwendungen. Ihre
+  Wirksamkeit gegen die biomechanische Architektur der Titanen zeigte, wie der wachsende
+  Verständnis der Guardian-Wissenschaft von der Menschheit gegen die Thargoids gewandt
+  werden konnte — auch wenn die ethischen Implikationen des Einsatzes der Technologie
+  einer ausgestorbenen Zivilisation in aktiven Kriegsoperationen weiterhin umstritten
+  blieben.'
 ---
 
 

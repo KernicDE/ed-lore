@@ -24,6 +24,15 @@ bio: The Imperial Senate is the legislative body of the Empire, comprised of 1,0
   senatorial protection — the highest level of personal security in the Empire — though
   this power was famously abused by the Lords of Restoration to abduct Emperor Arissa
   in 3307.
+bio_de: 'Der Imperial Senate ist die Legislative des Imperiums und besteht aus 1.000
+  Senatoren, die ausschließlich dem Kaiser bzw. der Kaiserin verantwortlich sind.
+  Er besitzt legislative, judikative und elektive Befugnisse, darunter die Autorität,
+  imperiales Gesetz zu ändern und einen neuen Kaiser zu wählen, wenn kein eindeutiger
+  Erbe vorhanden ist. Die Stimmgewalt eines Senators richtet sich nach der Zahl der
+  Bürger, die er oder sie vertritt, was faktische Machtblöcke schafft. Der Senat
+  kann senatorischen Schutz verleihen — die höchste Stufe persönlicher Sicherheit
+  im Imperium —, doch wurde diese Befugnis berüchtigterweise von den Lords of Restoration
+  missbraucht, um Kaiserin Arissa 3307 zu entführen.'
 ---
 
 

@@ -11,6 +11,12 @@ bio: Thargoid pulse neutraliser is a technology in the Elite Dangerous universe,
   Titan revelations, technological breakthroughs, spire site victories, and the liberation
   of abductees. An urgent call to all pilots to participate in the final assault on
   Titan Leigong, the second Thargoid mothership.
+bio_de: Der Thargoid-Puls-Neutralisator ist eine Technologie im Elite-Dangerous-Universum,
+  erwähnt am 29.12.3309. Entwickelt oder genutzt von Aegis und Jade Sanderlyn. Jade
+  Sanderlyns Jahresrückblick auf den Thargoid-Krieg, mit den Ankünften der Maelstroms,
+  den Enthüllungen um die Titans, technologischen Durchbrüchen, Siegen an den Spire-Sites
+  und der Befreiung der Entführten. Ein dringender Aufruf an alle Piloten, sich am
+  finalen Angriff auf Titan Leigong, dem zweiten Thargoid-Mutterschiff, zu beteiligen.
 ---
 
 

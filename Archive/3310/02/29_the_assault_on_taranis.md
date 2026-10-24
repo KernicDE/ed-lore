@@ -1,15 +1,22 @@
 ---
 uuid: fe6922f3-5994-565f-b634-f4d5d6a020a8
 title: The Assault on Taranis
+title_de: Der Angriff auf Taranis
 slug: the_assault_on_taranis
 date: '3310-02-29'
 source: API
 summary: An urgent call to all pilots to participate in the assault on Titan Taranis,
   with Aegis removing material requirements for Thargoid Pulse Neutralisers and Caustic
   Sink Launchers thanks to surge funding.
+summary_de: Ein dringender Aufruf an alle Piloten, sich am Angriff auf Titan Taranis zu beteiligen.
+  Aegis hat dank zusätzlicher Finanzmittel die Materialanforderungen für Thargoid-Pulsneutralisatoren
+  und Ätzsammelbehälter-Abschusseinheiten aufgehoben.
 player_impact: Pilots are urgently called to aid in the defeat of Titan Taranis, the
   first Titan to face this new assault. Aegis has removed material requirements for
   key modules due to surge funding.
+player_impact_de: Piloten werden dringend aufgerufen, bei der Niederringung des Titanen Taranis
+  zu helfen — des ersten Titans, der sich dieser neuen Angriffswelle stellen muss. Aegis hat dank
+  zusätzlicher Finanzmittel die Materialanforderungen für Schlüsselmodule aufgehoben.
 persons:
 - Ram Tah
 groups:
@@ -29,12 +36,29 @@ modern_impact: The removal of material requirements for key modules — 'A recen
   Tah's Guardian Nanite Torpedo technology being deployed to great effect against
   Taranis' confirms the weapon is already proving effective. This is the first Titan
   assault using the new technology.
+modern_impact_de: Die Aufhebung der Materialanforderungen für Schlüsselmodule — ‚Ein jüngster Anstieg
+  finanzieller Unterstützung hat es Aegis ermöglicht, die Materialanforderungen aufzuheben' — zeigt,
+  wie sich gemeinschaftliche Finanzierung direkt auf die militärische Logistik auswirkt. Der Hinweis,
+  dass ‚Ram Tahs Guardian-Nanitentorpedo-Technologie bei Taranis mit großer Wirkung eingesetzt wird',
+  bestätigt, dass die Waffe bereits eindrucksvolle Ergebnisse zeigt. Dies ist der erste Titanenangriff
+  mit der neuen Technologie.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 9bdb2c40-9c94-5f9d-b389-9b317fdb7e3d
 - 82ecec16-67af-51b8-b568-f3f99e028da2
 - fe1eb907-2d83-51c4-bb42-d7b1da795fee
+body_de: |
+  Der Titan Taranis steht unter Belagerung, erleidet schwere Schäden und könnte bald eine entscheidende Wendung im Krieg gegen die Thargoid einläuten. Dies ist ein dringender Aufruf an alle unabhängigen Piloten, bei der vollständigen Niederringung eines Titanen zu helfen.
+
+  Ein jüngster Anstieg finanzieller Unterstützung hat es Aegis ermöglicht, die Materialanforderungen für die folgenden Schlüsselmodule aufzuheben:
+
+  - Der Thargoid-Pulsneutralisator — der Schlüssel, um das Abwehrfeld des Maelstroms zu durchbrechen und das Zentrum zu erreichen.
+  - Die Ätzsammelbehälter-Abschusseinheit — ein wertvolles Werkzeug, um Schiffe vor der aggressiven ätzenden Wolke zu schützen, die den Titanen umgibt.
+
+  Diese Finanzierung stammt von zahlreichen Gruppen und Einzelpersonen, nachdem bekannt wurde, dass Ram Tahs Guardian-Nanitentorpedo-Technologie bei Taranis mit großer Wirkung eingesetzt wird. Aegis möchte zum Ausdruck bringen, dass die Menschheit all jenen für immer dankbar sein wird, die ihr Leben riskiert haben, um dies zu ermöglichen.
+
+  Viel Glück, Commander.
 ---
 
 

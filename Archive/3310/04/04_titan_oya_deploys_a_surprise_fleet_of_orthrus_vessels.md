@@ -1,14 +1,20 @@
 ---
 uuid: 954f0514-fb85-5200-bf86-3e2b146b34c3
 title: Titan Oya deploys a surprise fleet of Orthrus vessels
+title_de: Titan Oya setzt überraschende Flotte von Orthrus-Schiffen ein
 slug: titan_oya_deploys_a_surprise_fleet_of_orthrus_vessels
 date: '3310-04-04'
 source: API
 summary: Titan Oya deploys Orthrus vessels into systems farther from its territory
   in a possible panic response to mounting AX pressure, with the Pilots' Federation
   urging pilots to eliminate them.
+summary_de: Titan Oya setzt Orthrus-Schiffe in Systemen ein, die weiter von seinem Territorium
+  entfernt liegen – möglicherweise als panische Reaktion auf den wachsenden AX-Druck.
+  Die Pilotenföderation fordert die Piloten auf, sie zu vernichten.
 player_impact: Pilots are encouraged to track and eliminate Orthrus vessels in systems
   where they've been detected to prevent Oya from reclaiming territory.
+player_impact_de: Piloten werden aufgerufen, Orthrus-Schiffe in Systemen, in denen sie gesichtet
+  wurden, aufzuspüren und zu vernichten, um Oya am Wiedererobern von Territorium zu hindern.
 persons: []
 groups: []
 locations: []
@@ -22,6 +28,13 @@ modern_impact: The mention of player squadrons AXI and XSF as forces 'reclaiming
   panic response' shows uncertainty about Thargoid psychology. The Pilots' Federation
   alert — 'If Oya can be prevented from reclaiming territory, then it's likely that
   this third Titan will fall within mere weeks' — proves accurate.
+modern_impact_de: Die Erwähnung der Spieler-Staffeln AXI und XSF als Kräfte, die „erfolgreich
+  Territorium von den Titanen zurückeroberten“, ist eine seltene explizite Anerkennung
+  organisierter Spielergruppen in GalNet. Die Analyse, dass es sich um „eine neue Taktik
+  oder möglicherweise eine einfache Panikreaktion“ handeln könnte, zeigt die Unsicherheit
+  über die Thargoid-Psychologie. Der Alarm der Pilotenföderation – „Wenn Oya am
+  Wiedererobern von Territorium gehindert werden kann, wird dieser dritte Titan
+  wahrscheinlich binnen weniger Wochen fallen“ – erwies sich als zutreffend.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -29,6 +42,16 @@ related_uuids:
 - c68d0b34-c427-59b2-888e-0b7fdd53cd63
 - e60ba663-e3c2-5d4d-a902-6fa3517edf28
 - fe1eb907-2d83-51c4-bb42-d7b1da795fee
+body_de: |
+  Der Titan namens Oya hat offenbar eine große Flotte von Orthrus-Schiffen in Sternensysteme entsandt, die weiter von seinem Territorium entfernt liegen, und bricht damit das erwartete Verhalten.
+
+  Analysten stellten fest, dass die Orte, an denen Orthrus-Schiffe gesichtet wurden, keine besondere Bedeutung zu haben scheinen. Dies deutet darauf hin, dass es sich möglicherweise um eine neue Taktik oder einfach um eine panische Reaktion auf den wachsenden Druck auf seine Flotte handeln könnte.
+
+  Titan Oya verlor zunehmend Territorium an große, mit AX-Waffen ausgestattete menschliche Streitkräfte. Diese Kräfte, angeführt von Koalitionen namens ‚AXI‘ und ‚XSF‘, eroberten seit einiger Zeit erfolgreich Gebiete von den Titanen zurück und waren entscheidend bei den jüngsten, erfolgreichen Feldzügen gegen die inzwischen zerstörten Titanen Taranis und Leigong.
+
+  Die Pilotenföderation hat für jedes Sternensystem, in dem Orthrus-Schiffe gesichtet wurden, einen Alarm an alle unabhängigen Piloten ausgegeben:
+
+  „Wenn Oya am Wiedererobern von Territorium gehindert werden kann, dann wird dieser dritte Titan wahrscheinlich binnen weniger Wochen fallen. Wir fordern alle Piloten auf, sämtliche Orthrus-Schiffe zu orten und zu vernichten, die in diesen Sternensystemen Patrouille fliegen, bevor die Thargoids ihre Angriffstruppen in diese Brückenköpfe verlegen können.“
 ---
 
 

@@ -1,13 +1,18 @@
 ---
 uuid: 31ecb758-9d18-5dcf-8b67-e549d9003ba7
 title: Zemina Torval Returns to the Senate
+title_de: Zemina Torval kehrt in den Senat zurück
 slug: zemina_torval_returns_to_the_senate
 date: '3310-01-11'
 source: API
 summary: Senator Zemina Torval returns to the Imperial Senate after several months'
   absence, transferring ownership of Torval Mining Ltd to her daughter Constantia
   and positioning herself as a potential successor to Chancellor Blaine.
+summary_de: Senatorin Zemina Torval kehrt nach mehrmonatiger Abwesenheit in den imperialen
+  Senat zurück, überträgt das Eigentum an Torval Mining Ltd an ihre Tochter Constantia
+  und positioniert sich als mögliche Nachfolgerin von Kanzler Blaine.
 player_impact: Not specifically mentioned — this is a political report.
+player_impact_de: Nicht explizit erwähnt — es handelt sich um einen politischen Bericht.
 persons:
 - Zemina Torval
 - Petra Torval
@@ -29,6 +34,13 @@ modern_impact: Torval's statement — 'ownership of Torval Mining Ltd has been t
   speculation about Blaine's potential retirement and Torval's prior experience as
   deputy chancellor frames her return as a power play for the Empire's second-highest
   office.
+modern_impact_de: Torvals Erklärung — ‚das Eigentum an Torval Mining Ltd wurde an meine
+  älteste Tochter Constantia übertragen‘ — zeigt dynastische Unternehmensnachfolge neben
+  der politischen Rückkehr. Carvalhos Beobachtung, dass ‚Zemina Torval mit 132 Jahren
+  eine der dienstältesten Senatsmitglieder ist‘, unterstreicht ihre Langlebigkeit. Die
+  Spekulationen über Blaines möglichen Rücktritt und Torvals frühere Erfahrung als
+  stellvertretende Kanzlerin rahmen ihre Rückkehr als Machtspiel um das zweithöchste
+  Amt des Imperiums ein.
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -38,6 +50,22 @@ related_uuids:
 - 2a25a3ae-9010-5554-8f52-0731676ebd52
 - 69b8ea0c-5e6f-5d31-8a63-0a98141b33ee
 ---
+body_de: |
+  Der Imperiale Senat hat Senatorin Zemina Torval nach mehrmonatiger Abwesenheit offiziell wieder begrüßt.
+
+  Torvals Wiederauftreten beendete Gerüchte, dass sie gesundheitlich angeschlagen sei. Ihre jüngste Tochter, Senatorin Petra Torval, hatte für ihre Mutter ausgeholfen, indem sie die imperiale Bevölkerung des Synteini-Systems vertrat.
+
+  In ihrer Ansprache vor dem Senat sagte Zemina Torval:
+
+  „Ich bin diesem erlauchten Gremium und Ihrer Majestät der Kaiserin dankbar, dass sie mir eine kurze Auszeit von meinen Pflichten gewährt haben. Ich habe diese Zeit genutzt, um meine unternehmerischen Verantwortlichkeiten vollständig zu erfüllen. Wie allgemein bekannt ist, wurde das Eigentum an Torval Mining Ltd an meine älteste Tochter Constantia übertragen. Sie wird sicherstellen, dass die imperialen Industrien weiterhin mit lebenswichtigen Mineralressourcen versorgt werden.“
+
+  „Meine Aufmerksamkeit gilt nun vollständig meiner senatorischen Arbeit. Hier habe ich dem Imperium am besten gedient und werde das noch viele Jahre tun.“
+
+  Cassia Carvalho, politische Korrespondentin des Imperial Herald, beobachtete:
+
+  „Mit 132 Jahren ist Zemina Torval eine der dienstältesten Senatsmitglieder. Während ihrer jahrzehntelangen Tätigkeit hat sie sich viele Feinde gemacht, die alle zutiefst verärgert gewesen sein dürften, sie zurückzusehen — so eindrucksvoll wie eh und je.“
+
+  „Der Grund, warum sie auf einen Ruhestand verzichtete, könnte sein, dass Kanzler Anders Blaine selbst diese Option erwägt. Aufgrund ihrer Dienstzeit hat Torval bereits mehrfach kommissarisch als Kanzlerin ausgeholfen. Wenn Blaine zurücktritt und das mächtigste Amt im Senat frei wird, würde das Torvals Entscheidung, sich ausschließlich ihrer politischen Karriere zu widmen, durchaus rechtfertigen.“
 
 
 The Imperial Senate has formally welcomed back Senator Zemina Torval, following an absence of several months.

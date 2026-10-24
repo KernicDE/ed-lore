@@ -29,6 +29,19 @@ bio: 'Arque is a system in Elite Dangerous, significant from 3302-08-18 to 3310-
   Palin completes the first phase of his Thargoid research project after receiving
   meta-alloy shipments.; Professor Ishmael Palin launches phase two of his Thargoid
   research project, requesting fresh alien artefacts for study.'
+bio_de: |
+  Arque ist ein System, das 3305 an Bedeutung gewann, als Professor Ishmael Palin
+  nach seiner Evakuierung aus dem Maia-System eine permanente Forschungsbasis im
+  Abel Laboratory auf Arque 4 E errichtete. Aegis Research bestätigte die
+  Verlagerung und wies darauf hin, dass Palin seine Ingenieurleistungen und
+  Meta-Legierungs-Studien in der neuen Einrichtung fortsetzte.
+
+  Das System diente als sicherer Zufluchtsort für Palins Arbeit, nachdem die
+  Thargoid-Inkursionen Maia unhaltbar gemacht hatten. Das Megaschiff Carson's
+  Spring ermöglichte die Notfall-Evakuierung des Palin Research Centre, bevor es
+  zu anderen Aufgaben aufbrach. Arque stellt damit einen wichtigen Wegpunkt in
+  der Geschichte der Thargoid-Forschung dar und bewahrte eine der wichtigsten
+  xenologischen Ingenieurskapazitäten der Menschheit.
 reserve: Low
 ---
 

@@ -8,6 +8,9 @@ mention_count: 2
 bio: 'Supercruise Overcharge is a technology in the Elite Dangerous universe, mentioned
   from 3310-05-03 to 3310-05-07. Developed or used by Stent Jackson, Sirius Corporation,
   Achilles Aerospace. '
+bio_de: Supercruise Overcharge ist eine Technologie im Elite-Dangerous-Universum, erwähnt
+  vom 03.05.3310 bis zum 07.05.3310. Entwickelt oder genutzt von Stent Jackson, Sirius
+  Corporation und Achilles Aerospace.
 ---
 
 

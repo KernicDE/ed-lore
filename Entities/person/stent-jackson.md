@@ -7,6 +7,8 @@ last_seen_date: '3310-05-03'
 mention_count: 1
 bio: 'Stent Jackson is a engineer in the Elite Dangerous universe, active from 3310-05-03
   to 3310-05-03. '
+bio_de: Stent Jackson ist ein Ingenieur im Elite-Dangerous-Universum, aktiv von 3310-05-03
+  bis 3310-05-03.
 ---
 
 

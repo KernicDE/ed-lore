@@ -1,15 +1,23 @@
 ---
 uuid: bfd168d0-925f-5aba-b333-bfaf88c06f1a
 title: Repel Pirates and Provide Aid to De Caminha Station
+title_de: Piraten abwehren und Hilfe für die Station De Caminha leisten
 slug: repel_pirates_and_provide_aid_to_de_caminha_station
 date: '3310-06-06'
 source: API
 summary: Vice President Jerome Archer calls on pilots to defend De Caminha station
   from pirates and provide medical supplies, blaming the attacks on Federation resources
   being stretched thin by the Thargoid war.
+summary_de: Vizepräsident Jerome Archer ruft Piloten dazu auf, die Station De Caminha
+  gegen Piraten zu verteidigen und medizinische Vorräte zu liefern, und macht die
+  Angriffe dafür verantwortlich, dass die Ressourcen der Föderation durch den
+  Thargoid-Krieg überlastet sind.
 player_impact: Pilots are urged to hunt down pirates attacking De Caminha station
   and supply the Earth Defence Fleet with medicines and equipment to prevent further
   attacks.
+player_impact_de: Piloten werden aufgerufen, die Piraten anzugreifen, die die Station
+  De Caminha überfallen, und die Earth Defence Fleet mit Medikamenten und Ausrüstung
+  zu versorgen, um weitere Angriffe zu verhindern.
 persons:
 - Jerome Archer
 - Felicia Winters
@@ -29,10 +37,48 @@ modern_impact: Archer's statement — 'The good work that the Federation is doin
   for aid to 'the Earth Defence Fleet stationed in De Caminha' is notable for invoking
   Earth specifically. The article establishes Archer's political positioning as a
   law-and-order figure concerned with domestic security.
+modern_impact_de: Archers Aussage – „Die gute Arbeit, die die Föderation im Kampf gegen
+  die Thargoids leistet, ist edel und wertvoll, aber sie fordert ihren Tribut“ – stellt
+  die Piraterie als direkte Folge der kriegsbedingten Ressourcenverteilung dar. Sein
+  Aufruf zu Hilfe für „die in De Caminha stationierte Earth Defence Fleet“ ist
+  bemerkenswert, weil er ausdrücklich die Erde ins Spiel bringt. Der Artikel etabliert
+  Archers politische Positionierung als Figur des Rechts-und-Ordnungs-Denkens mit Fokus
+  auf innere Sicherheit.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 5b0f61e4-1ce6-57f8-84e2-0bea662358b9
+body_de: |
+  **ALARM DER PILOTENFÖDERATION**
+
+  Es kommen Berichte herein, dass die stark belastete Station De Caminha verstärkt
+  Ziel von Piratenangriffen wurde.
+
+  Jerome Archer hat wachsende Besorgnis in Teilen des Föderationsraums angekündigt
+  und erklärt, der Krieg habe Vorräte und Unterstützung auf ihre Territorien zu dünn
+  verteilt.
+
+  Archer bleibt bislang Vizepräsident der Föderation, bis die gewählte Präsidentin
+  Felicia Winters von der Unterstützung ihres Heimatplaneten Rhea 3 zurückkehrt, der
+  sich noch immer von einer Reihe verheerender Erdbeben erholt.
+
+  Auf einer Notfallkonferenz erklärte Jerome Archer Folgendes:
+
+  „Die gute Arbeit, die die Föderation im Kampf gegen die Thargoids leistet, ist edel
+  und wertvoll, aber sie fordert ihren Tribut. Unser Präsident, Zachary Hudson, hat
+  trotz alledem einen ausgezeichneten Job gemacht und die Föderation zusammengehalten,
+  aber wir können nur so viel leisten.“
+
+  „Es schmerzt mich zu sehen, dass De Caminha zum Ziel von Kriminellen wird, die die
+  anhaltenden Bemühungen der Föderation ausnutzen wollen, den Krieg so schnell wie
+  möglich zu beenden. Deshalb rufe ich Piloten in der gesamten Galaxis zu Hilfe auf.“
+
+  „Ich fordere euch auf, die Angreifer zur Strecke zu bringen und die in De Caminha
+  stationierte Earth Defence Fleet mit den Medikamenten und der Ausrüstung zu
+  versorgen, um weitere Angriffe zu verhindern. Nur durch beides wird die Station
+  wieder sicher sein.“
+
+  „Jede Hilfe wird geschätzt und belohnt werden.“
 ---
 
 

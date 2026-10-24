@@ -29,6 +29,20 @@ bio: 'Synteini is a system in Elite Dangerous, significant from 3301-03-01 to 33
   Torval accepted a challenge from Aisling Duval to determine whose position on slavery
   the Empire''s citizens truly support.; The ''Great Slaver Showdown'' between Zemina
   Torval and Aisling Duval concluded with Torval''s victory.'
+bio_de: Synteini ist ein unabhängiges System, das Anfang 3301 zum Brennpunkt der Debatte
+  über die imperiale Sklaverei wurde. Im März 3301 eröffnete Senatorin Zemina Torval eine
+  neue Einrichtung der Imperial Slavers Association an Bord der Lagerkvist Gateway mit
+  Fertigkeits-Implantations-Terminals und Body-Sculpting-Shops. Die Einrichtung wurde als
+  Vorbild für die Heranführung unregulierter Arbeitskräfte an imperiale Standards beworben.
+
+  Später war das System Schauplatz des „Großen Sklaven-Duells" zwischen Senatorin Torval
+  und Prinzessin Aisling Duval, einem öffentlichen Wettstreit darüber, wessen Position zur
+  Sklaverei die Bürger des Imperiums wirklich unterstützen. Torvals Sieg im Wettbewerb
+  stärkte die traditionellen imperialen Arbeitspraktiken, auch wenn Aislings
+  anti-sklaverei-Kampagne weiter an Dynamik gewann. Synteinis Verbindung zur Imperial
+  Slavers Association machte es zu einem Symbol sowohl für das Festhalten des Imperiums
+  an seinen Arbeitstraditionen als auch für die wachsende Reformbewegung, die auf die
+  Abschaffung der Praxis abzielt.
 ---
 
 

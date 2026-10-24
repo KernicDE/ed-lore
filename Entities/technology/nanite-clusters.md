@@ -7,6 +7,8 @@ last_seen_date: '3310-04-19'
 mention_count: 1
 bio: 'nanite clusters is a technology in the Elite Dangerous universe, mentioned from
   3310-04-19 to 3310-04-19. Developed or used by Alba Tesreau. '
+bio_de: Naniten-Cluster sind eine Technologie im Elite-Dangerous-Universum, erwähnt von
+  3310-04-19 bis 3310-04-19. Entwickelt oder genutzt von Alba Tesreau.
 ---
 
 

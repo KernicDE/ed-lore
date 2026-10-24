@@ -15,6 +15,11 @@ bio: Isolde Rochester is a president in the Elite Dangerous universe, active fro
   Duval announces her engagement to Federal Ambassador Jordan Rochester at a press
   conference on Emerald. Reactions to Princess Aisling Duval's engagement to Ambassador
   Jordan Rochester range across the political spectrum.
+bio_de: 'Isolde Rochester ist eine Präsidentin im Elite-Dangerous-Universum, aktiv
+  von 3310-10-31 bis 3310-10-31. Eng verbunden mit Core Dynamics. Prinzessin Aisling
+  Duval kündigt ihre Verlobung mit dem Bundesbotschafter Jordan Rochester auf einer
+  Pressekonferenz auf Emerald an. Die Reaktionen auf die Verlobung von Prinzessin
+  Aisling Duval mit Botschafter Jordan Rochester reichen quer durchs politische Spektrum.'
 ---
 
 

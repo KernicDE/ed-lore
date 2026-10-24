@@ -10,6 +10,11 @@ bio: Python Mk II is a technology in the Elite Dangerous universe, mentioned fro
   Faulcon DeLacy. Faulcon DeLacy releases the Python Mk II, the first ship built entirely
   around Achilles' SCO Frame Shift Drive, featuring improved heat management and breaking
   speed records.
+bio_de: Die Python Mk II ist eine Technologie im Elite-Dangerous-Universum, erwähnt
+  vom 07.05.3310 bis zum 31.10.3310. Entwickelt oder genutzt von Sirius Corporation,
+  Achilles Aerospace und Faulcon DeLacy. Faulcon DeLacy veröffentlicht die Python Mk II,
+  das erste Schiff, das vollständig um Achilles' SCO Frameshiftantrieb herum gebaut wurde,
+  mit verbessertem Wärmemanagement und Rekordgeschwindigkeiten.
 ---
 
 

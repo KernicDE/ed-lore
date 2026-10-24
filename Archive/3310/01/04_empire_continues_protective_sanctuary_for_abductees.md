@@ -1,13 +1,19 @@
 ---
 uuid: 023030b3-b87d-5220-9488-e82e00d7f4c4
 title: Empire Continues ‘Protective Sanctuary’ for Abductees
+title_de: Kaiserin verlängert ‚Schutzasyl‘ für Entführte
 slug: empire_continues_protective_sanctuary_for_abductees
 date: '3310-01-04'
 source: API
 summary: Emperor Arissa Lavigny-Duval orders indefinite quarantine for all Imperial
   citizens recovered from Thargoid Titans, rejecting Princess Aisling's plea to lift
   the restriction and dismissing Kamadhenu Medipure's call for euthanasia.
+summary_de: Kaiserin Arissa Lavigny-Duval verordnet eine unbefristete Quarantäne für
+  alle aus Thargoid-Titanen geretteten imperialen Bürger, weist die Bitte von Prinzessin
+  Aisling um Aufhebung der Maßnahme zurück und lehnt den Aufruf von Kamadhenu Medipure
+  zur Euthanasie ab.
 player_impact: Not specifically mentioned — this is an Imperial policy announcement.
+player_impact_de: Nicht explizit erwähnt — es handelt sich um eine imperiale Politikankündigung.
 persons:
 - Arissa Lavigny-Duval
 - Cassia Carvalho
@@ -29,6 +35,14 @@ modern_impact: The Emperor's justification — 'Protective sanctuary is being pr
   — 'the Princess should focus her attention on her Aegis assignment' — reveals tension
   between the Emperor and her niece. The dismissal of Kamadhenu Medipure's 'robust
   proposals' for euthanasia shows the Empire's moral boundaries.
+modern_impact_de: Die Begründung der Kaiserin — ‚den Zehntausenden wird ein Schutzasyl
+  gewährt, damit Milliarden die Aussicht erspart bleibt — so unwahrscheinlich sie auch
+  sein mag — eines außerirdischen Einflusses, der im Imperium Fuß fasst‘ — rahmt die
+  Quarantäne als Sicherheitsmaßnahme ein. Carvalhos Bericht über Aislings gescheiterte
+  Audienz — ‚die Prinzessin sollte sich auf ihre Aufgabe bei Aegis konzentrieren‘ —
+  offenbart Spannungen zwischen der Kaiserin und ihrer Nichte. Die Abweisung von
+  Kamadhenu Medipures ‚umfassenden Vorschlägen‘ zur Euthanasie zeigt die moralischen
+  Grenzen des Imperiums.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -38,6 +52,22 @@ related_uuids:
 - 7b1495a0-0413-5d22-af0c-bc7fcf8090d4
 - e86d3225-ed06-59b9-b30f-b2c6a3f2dbae
 ---
+body_de: |
+  Kaiserin Arissa Lavigny-Duval hat entschieden, dass alle aus Thargoid-Titanen geretteten imperialen Bürger auf unbestimmte Zeit unter Quarantäne bleiben.
+
+  Eine offizielle Erklärung zugunsten der Kaiserin wurde vom Imperialen Palast verbreitet:
+
+  „Jedes Untertan des Imperiums, der von den Thargoiden entführt wurde, erhält die bestmögliche Behandlung und Betreuung. Die Kaiserin hat angeordnet, ihnen so lange, wie sie sich in medizinischer Isolation befinden, vorbildliche medizinische und psychologische Versorgung zu bieten.“
+
+  „Wie stets gilt die Sicherheit unserer Gesellschaft als höchstes Gut. Den Zehntausenden wird ein Schutzasyl gewährt, damit Milliarden die Aussicht erspart bleibt — so unwahrscheinlich sie auch sein mag — eines außerirdischen Einflusses, der im Imperium Fuß fasst. Das ist der ehrenvolle Weg, und die Kaiserin ist zuversichtlich, dass ihr Volk die Weisheit dieser Entscheidung verstehen wird.“
+
+  Cassia Carvalho, politische Journalistin des Imperial Herald, analysierte die Konsequenzen:
+
+  „Es ist ungewöhnlich, dass heutzutage das Handeln anderer Großmächte anerkannt wird, doch die Frage der Inhaftierung von Thargoid-Entführten kennt keine Grenzen. In diesem Fall hat die Entscheidung der Allianz, die Betroffenen in ihre Heimat zurückkehren zu lassen, Ihre Majestät veranlasst, darauf zu bestehen, dass ihre Isolation dem größeren Wohl dient.“
+
+  „Hofinsidern zufolge ersuchte Prinzessin Aisling Duval um eine persönliche Audienz bei der Kaiserin, in der Hoffnung, sie zur Aufhebung der Quarantäne zu bewegen. Mir wurde berichtet, dass dies mit aller Deutlichkeit abgelehnt wurde, verbunden mit dem Hinweis, die Prinzessin solle sich auf ihre Aufgabe bei Aegis konzentrieren.“
+
+  „Der Imperiale Palast reagierte auch auf Kamadhenu Medipure, das gefordert hatte, alle Entführten in den Tiefenraum zu verlegen und möglicherweise zu euthanasieren. Das Unternehmen wurde für seine ‚umfassenden Vorschläge‘ gedankt, erhielt jedoch den Auftrag, solche Erwägungen dem Senat zu überlassen.“
 
 
 Emperor Arissa Lavigny-Duval has decided that all Imperial citizens recovered from Thargoid Titans will remain in quarantine indefinitely.

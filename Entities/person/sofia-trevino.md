@@ -11,6 +11,20 @@ bio: 'Sofia Trevino is a President in Elite Dangerous lore, active from 3307-07-
   media coverage focusing on character over policy and the ...; President Hudson agrees
   to deport Far God cultists to the Alliance, framing it as pragmatic cost-cutting
   while the Dedicant is prepared for transport.'
+bio_de: Sofia Trevino ist eine politische Journalistin der Federal Times, die die großen
+  politischen Umbrüche der späten 3300er-Jahre begleitet hat. Im September 3307 berichtete sie
+  ausführlich über die Welle von Sezessionen föderaler Fraktionen, die durch das
+  Überwachungsprogramm des Proactive Detection Bureau ausgelöst wurde, und dokumentierte, wie
+  kleinere Fraktionen in der gesamten Föderation aus Protest gegen die staatliche Überwachung
+  privater Kommunikation die Bindungen zur Großmacht lösten.
+
+  Trevinos Journalismus verfolgte sowohl die Verteidigung des PDB durch die Regierung Hudson
+  als auch die Kampagne von Shadow President Felicia Winters zur Aufhebung des Domestic
+  Counter-Terrorism Act. Ihre Berichterstattung beleuchtete die politischen Kosten des
+  Überwachungsprogramms und stellte fest, dass die Rebellion für die republikanische Regierung
+  eine Blamage darstellte und Winters' Argumente für Bürgerrechte bestätigte, auch wenn
+  Vizepräsident Jerome Archer die Sezessionen als unbedeutend abtat. Trevino ist bis heute eine
+  prominente Stimme in der föderalen Politikberichterstattung.
 ---
 
 

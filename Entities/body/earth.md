@@ -24,7 +24,23 @@ bio: 'Earth is a system in Elite Dangerous, significant from 3301-03-20 to 3311-
   the Empire''s founding.; Weekly summary covering Riri McAllister being unmasked
   as Nexus and framing Admiral Varma, the hunt for League strongholds in Zibal and
   Ienpalang, ...'
-system: Sol
+bio_de: |
+  Die Erde ist der Geburtsort der Menschheit und das symbolische Herz der
+  Föderation im Sol-System. Als Wiege der menschlichen Zivilisation blieb sie
+  über Jahrtausende raumfahrender Expansion ein Zentrum politischer, kultureller
+  und historischer Bedeutung. Der Planet war Schauplatz wichtiger diplomatischer
+  Ereignisse, darunter Empfänge für die imperiale Senatorin Kahina Tijani Loren
+  am Weltraumhafen Cambridge und in London, und dient als administrativer
+  Anker der föderalen Regierung.
+
+  Während der Thargoid-Invasion 3310 wurde die Erde zum Brennpunkt des Zweiten
+  Thargoid-Kriegs, als der Titan Cocijo das Sol-System angriff. Panik löste die
+  Evakuierung von über 22 Milliarden Menschen von der Erde, dem Mars und
+  bedeutenden Raumhäfen aus; das föderale Militär und freiberufliche Piloten
+  führten verzweifelte Rettungseinsätze durch. Nach der Zerstörung von Titan
+  Cocijo im Dezember 3310 zog sein Trümmerfeld über der Erde Tausende
+  Besucher an, und eine Gedenk-Sonde wurde errichtet, um die Opfer des
+  Konflikts zu ehren.system: Sol
 body_type: Earth-like world
 distance_to_arrival: 494
 gravity: 1.0

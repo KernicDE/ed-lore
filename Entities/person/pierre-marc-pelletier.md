@@ -7,6 +7,8 @@ last_seen_date: '3310-10-31'
 mention_count: 2
 bio: 'Pierre-Marc Pelletier is a president in the Elite Dangerous universe, active
   from 3310-01-22 to 3310-10-31. '
+bio_de: Pierre-Marc Pelletier ist im Elite-Dangerous-Universum als Präsident tätig,
+  aktiv vom 3310-01-22 bis zum 3310-10-31.
 ---
 
 

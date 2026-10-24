@@ -11,6 +11,21 @@ bio: 'Jerome Archer is a President in Elite Dangerous lore, active from 3307-03-
   Archer, replacing the deceased Brad Mitchell.; The Federal Intelligence Agency establishes
   the Proactive Detection Bureau to scan civilian communications for terrorist activity
   following congres...'
+bio_de: Jerome Archer ist Vizepräsident der Föderation und eine Schlüsselfigur der
+  harten Sicherheitspolitik der Regierung Hudson. 3307 wurde er nach dem Tod von Brad
+  Mitchell bei den Terroranschlägen der Nine Martyrs ernannt und brachte einen Hintergrund
+  im Strafvollzug in den Regierungsapparat ein. Er setzte sofort auf erweiterte Überwachungsbefugnisse
+  und war maßgeblich an der Gründung der Proactive Detection Bureau (PDB) beteiligt,
+  die die zivile Kommunikation auf terroristische Aktivitäten durchsucht – ein Schritt,
+  den Kritiker als das invasivste Überwachungsprogramm der föderalen Geschichte verurteilten.
+
+  Archers politischer Aufstieg ging weiter, als er zum öffentlichen Gesicht der
+  antiterroristischen und anti-xeno-Politik der Regierung wurde. Seine Rhetorik stellt
+  konsequent die Sicherheit über die Bürgerrechte und brandmarkt Dissens als Luxus,
+  den sich die Menschheit im Zeitalter der Thargoid-Invasion und des inländischen
+  Terrorismus nicht leisten könne. Bei falkenartigen Wählern beliebt, bleibt sein Vermächtnis
+  zutiefst umstritten; Bürgerrechtsgruppen machen ihn für die Erosion föderdemokratischer
+  Normen verantwortlich.
 ---
 
 

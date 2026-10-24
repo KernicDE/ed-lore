@@ -9,6 +9,17 @@ bio: Bai Zheng is a Federal Congressman who has been critical of the Proactive D
   Bureau surveillance programme. In July 3307, he remarked that the PDB was 'incapable
   of locating the NMLA, but fantastic at finding enemies among our own people that didn't
   previously exist'.
+bio_de: |
+  Bai Zheng ist ein kongressabgeordneter der Föderation, bekannt für seine
+  unverblümte Kritik an exekutiven Machtüberschreitungen. Im Juli 3307 übte er eine
+  einprägsame Verurteilung des Proactive Detection Bureau, nachdem bekannt wurde,
+  dass abgefangene Kommunikation genutzt wurde, um Fraktionen am Austritt aus der
+  Föderation zu hindern. Zhengs Bemerkung, das PDB sei „nicht in der Lage, die NMLA
+  aufzuspüren, aber fantastisch darin, Feinde unter unserem eigenen Volk zu finden,
+  die es vorher nicht gab“, traf den Frust der Bürgerrechtsanhänger, die
+  argumentierten, das Überwachungsnetz sei von der Terrorismusbekämpfung hin zur
+  innerpolitischen Kontrolle umfunktioniert worden. Seine Stellungnahme verdeutlichte
+  den wachsenden Dissens im Kongress über Hudsons Sicherheitspolitik.
 ---
 
 

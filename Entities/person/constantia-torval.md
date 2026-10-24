@@ -11,6 +11,22 @@ bio: 'Constantia Torval is a Senator in Elite Dangerous lore, active from 3307-0
   covering the Yuri Grom honey trap, Torval family rift, Colonia Bridge, NMLA''s final
   stand, and Sa...; Torval-Mastopolos Mining and Wreaken Construction both establish
   headquarters in the LTT 198 system, escalating their long-standing corporate rivalry.'
+bio_de: |
+  Constantia Torval ist Betriebsleiterin der Torval-Mastopolos Mining und Tochter
+  von Senatorin Zemina Torval. Anfang 3308 kündigte sie das Bieten der Torval
+  Mining an, einen Bergbauvertrag der Caine-Massey Corporation im Dulos-System
+  zu erwerben, und erklärte, das Unternehmen strebe eine breitere Kundschaft
+  jenseits des Imperiums an.
+
+  Nach dem Konzern-Putsch, der Zemina Torval Ende 3307 bei Mastopolos Mining
+  entmachtete, wurde Constantias Tochtergesellschaft zur kontrollierenden
+  Macht in LTT 198 gewählt; Zugangserlaubnisse waren über das Megaschiff
+  Pride of Bitterwood erhältlich. Constantias Führung der Torval-Mastopolos
+  Mining markierte die strategische Neuausrichtung der Familie Torval: weg von
+  der direkten Konzernkontrolle über Mastopolos, hin zum Aufbau eines
+  unabhängigen Bergbauimperiums durch Tochtergesellschaften. Damit setzte sie
+  das Erbe ihrer Mutter fort, politisches Amt und industrielle Expansion miteinander
+  zu verbinden.
 ---
 
 

@@ -10,6 +10,26 @@ bio: 'Caustic Sink Launcher is a technology in Elite Dangerous, mentioned from 3
   participate in the assault on Titan Taranis, with Aegis removing material requirements
   for Thargoid Pulse Neutralis...; An urgent call to all pilots to participate in
   the final assault on Titan Leigong, the second Thargoid mothership.'
+bio_de: |
+  Der Caustic Sink Launcher ist ein von Aegis entwickeltes Schiffsmodul, das
+  Schiffe im ätzenden Umfeld der Thargoid-Maelstrom-Wolken schützen soll. Im
+  Februar 3309 startete Aegis eine Initiative zur beschleunigten Massenproduktion
+  des Moduls; Professorin Alba Tesreau gab bekannt, dass Admiral Aden Tanner den
+  Prototypen persönlich getestet hatte.
+
+  Das Modul leitet die elektrochemischen Reaktionen innerhalb der
+  Maelstrom-Wolken in halbflüssige Anoden um, die ausgestoßen werden, und hält
+  so die Schiffshüllen deutlich länger intakt als bei ungeschützten Schiffen.
+  Für die Produktion waren fortschrittliche Katalysatoren, Heatsink-Interlinks,
+  Palladium und ätzende Gewebeproben aus Generatoren in den Maelstroms nötig —
+  Materialien, die von unabhängigen Piloten beschafft wurden. Direktor Ivano
+  Colombera der Imperial Science Academy wies darauf hin, dass der Caustic Sink
+  Launcher die Sammlung weiterer Daten über die Maelstroms ermögliche und das
+  Verständnis der Thargoid-Fähigkeiten vorantreibe. Das Modul wurde zu einer von
+  drei Schlüsseltechnologien für die Titanen-Angriffskampagne, neben dem
+  Thargoid Pulse Neutraliser und dem Guardian Nanite Torpedo Pylon, und stand
+  für das erneuerte Arbeitsmodell von Aegis: kollaborative, transparente
+  Forschung, die direkt mit der galaktischen Gemeinschaft verzahnt ist.
 ---
 
 

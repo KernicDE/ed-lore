@@ -11,6 +11,12 @@ bio: Supercruise Overcharge Frame Shift Drive is a technology in the Elite Dange
   of Supercruise Overcharge drives and upgrades, with Dr. Namin Tirel revealing the
   technology was developed using Thargoid drive components recovered by independent
   pilots.
+bio_de: Der Supercruise-Overcharge-Frameshiftantrieb ist eine Technologie im
+  Elite-Dangerous-Universum, erwähnt am 09.05.3310. Entwickelt oder genutzt von Achilles
+  Aerospace, Faulcon DeLacy und Namin Tirel. Achilles Aerospace veröffentlicht die gesamte
+  Palette der Supercruise-Overcharge-Antriebe und -Upgrades, wobei Dr. Namin Tirel
+  offenbart, dass die Technologie mit von unabhängigen Piloten geborgenen
+  Thargoid-Antriebskomponenten entwickelt wurde.
 ---
 
 

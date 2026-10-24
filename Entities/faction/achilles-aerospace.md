@@ -17,6 +17,23 @@ bio: 'Achilles Aerospace is a organization active in Elite Dangerous lore from 3
   from the Taranis wreckage to advance their research into Thargoid travel technolo...;
   Achilles Aerospace releases the full range of Supercruise Overcharge drives and
   upgrades, with Dr.'
+bio_de: |
+  Achilles Aerospace ist die Raumfahrtabteilung der Achilles Corporation, einem
+  Robotik- und Technologieunternehmen, das sich nach dem Thargoid-Krieg zu einem
+  bedeutenden Akteur in Forschung und Entwicklung entwickelt hat. Im März 3310
+  startete das Unternehmen ein ehrgeiziges Forschungsprogramm rund um die
+  Titanen-Antriebstechnologie und rief unabhängige Piloten dazu auf,
+  Titan-Antriebskomponenten aus dem Wrack zerstörter Thargoid-Titanen zu bergen.
+
+  Ziel der Forschung ist es zu verstehen, wie Thargoid-Titanen Überlichtgeschwindigkeit
+  jenseits der derzeitigen menschlichen technologischen Möglichkeiten erreichen. Ein
+  Unternehmenssprecher stellte die Initiative ausdrücklich als Herausforderung des
+  „strengen Monopols“ der Sirius Corporation auf Frameshiftantrieb-Technologie dar und
+  erklärte, dass „unter diesem Monopol die Fortschritte völlig zum Stillstand gekommen
+  zu sein scheinen“. Achilles Aerospace verstand sich als „ein Konzern, der auf der
+  Iteration und Verfeinerung von Technologie aufbaut“, und wollte mit der
+  Rekonstruktion außerirdischer Antriebssysteme die Raumfahrt in ein neues Zeitalter
+  führen.
 ---
 
 

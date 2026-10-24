@@ -29,6 +29,21 @@ bio: 'Rhea is a system in Elite Dangerous, significant from 3301-07-31 to 3311-0
   succeeds in forcing Sirius Corporation to withdraw from the Reorte system.; Sirius
   Corporation organises humanitarian support for the Didio system under Thargoid attack.'
 reserve: Common
+bio_de: Rhea ist ein dicht besiedeltes föderales Agrar- und Tourismussystem mit knapp
+  dreizehn Milliarden Einwohnern, das unter korporativer Verwaltung durch die Federal
+  Liberal Command regiert wird. Rhea liegt strategisch zwischen dem föderalen Kerngebiet
+  und der Plejaden-Region und diente sowohl als logistischer Knotenpunkt für Operationen
+  der Sirius Corporation als auch als Brennpunkt in Auseinandersetzungen über
+  korporativen Einfluss im föderalen Raum.
+
+  Die politische Bedeutung des Systems nahm während der Reorte-Krise von 3308 zu, als
+  die Reorte Mining Coalition die Sirius Corporation erfolgreich zum Rückzug aus dem
+  benachbarten System Reorte zwang – ein seltener Volkssieg gegen die Expansion von
+  Konzernen, der in Rhea und anderen föderalen Systemen weithin nachhallte. Rheas
+  duale Wirtschaft aus Landwirtschaft und Tourismus macht es wirtschaftlich widerstandsfähig,
+  während seine hohe Sicherheitsstufe sowohl seine föderale Zugehörigkeit als auch seine
+  Bedeutung als Zwischenstation für Reisende in Richtung der von den Thargoids betroffenen
+  Regionen widerspiegelt.
 ---
 
 <!-- AUTO-GENERATED -->
