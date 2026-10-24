@@ -21,9 +21,10 @@
 This project is **"The GalNet Chronicle"** — an archive and knowledge system for *Elite: Dangerous* GalNet articles.
 
 **Current state:**
-- **2,551** Markdown articles in `Archive/YYYY/MM/DD_slug.md` (in-game year/month/day)
-- **3,484** entity profiles in `Entities/` (persons, factions, arcs, technologies, locations)
-- **30** story arcs in `Entities/Arcs/`
+- **2,590** GalNet Markdown articles in `Archive/YYYY/MM/DD_slug.md` (in-game year/month/day; 2,621 total entries incl. Community chronicles)
+- **~3,400** entity profiles in `Entities/` (persons, factions, arcs, technologies, locations)
+- **39** story arcs in `Entities/Arcs/`
+- **Multilingual:** EN (canonical) + DE via `/de/` routes; content translations in optional `*_de` frontmatter fields (`summary_de`, `body_de`, `bio_de`, …); DE audio (`de-DE-KatjaNeural`) for translated articles only. See `PLAN_MULTILINGUAL.md`.
 - Static website built with **Astro 6.2 + React 19**, deployed to **GitHub Pages**
 - Data pipeline: `scripts/build_graph.py` → `lore_graph.json` + split async JSON → website
 - Audio pipeline: **GitHub Actions** generates TTS → uploads to **Cloudflare R2** → site loads from R2
@@ -46,7 +47,7 @@ This project is **"The GalNet Chronicle"** — an archive and knowledge system f
 | Package manager | `pnpm` |
 | Deployment | GitHub Actions → GitHub Pages |
 | Audio hosting | Cloudflare R2 (public bucket) |
-| TTS | edge-tts (`en-GB-SoniaNeural`) |
+| TTS | edge-tts (`en-GB-SoniaNeural`, DE: `de-DE-KatjaNeural`) |
 
 Python dependencies: `pyyaml`, `httpx`, `tqdm`, `edge-tts`, `requests`
 
