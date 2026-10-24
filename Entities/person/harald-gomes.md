@@ -7,6 +7,9 @@ last_seen_date: '3311-04-25'
 mention_count: 2
 bio: 'Harald Gomes is a pirate in the Elite Dangerous universe, active from 3311-04-10
   to 3311-04-25. Closely associated with Dhan Empire League. '
+bio_de: Harald Gomes ist ein Pirat im Elite-Dangerous-Universum, aktiv von 3311-04-10
+  bis 3311-04-25. Eng verbunden mit der Dhan Empire League.
+
 ---
 
 

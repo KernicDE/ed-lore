@@ -16,6 +16,19 @@ bio: 'Musashi is a system in Elite Dangerous, significant from 3308-01-05 to 331
   Tah''s testimony about Salvation''s Guardian-based superweapon suspends Admiral
   Tanner''s court martial.; Taurus Mining Ventures begins research in Synuefe on a
   Guardian-related site for Salvation.'
+bio_de: Musashi ist ein System, das einen der Kernmärkte und Operationszentren von
+  Azimuth Biotech beherbergt. 3309 richtete Azimuth im System eine Waffenmesse aus,
+  auf der CEO Torben Rademaker die Overcharged Gimballed AX Multi-Cannon mit Auto
+  Loader vorstellte, eine neue Anti-Xeno-Waffe auf Basis der einhundertjährigen Forschung
+  des Unternehmens zur Thargoid-Bekämpfung.
+
+  Das System wurde zu einem Drehpunkt für Azimuths Fertigungsaktivitäten nach Salvation,
+  wobei Piloten seltene Güter lieferten, um die Waffenentwicklung des Konzerns zu
+  unterstützen. Musashis Verbindung zu Azimuth Biotech rückte es in den Mittelpunkt
+  kontroverser Debatten über unternehmerische Verantwortung für die Proteus-Welle-Katastrophe
+  und die unmenschlichen Experimente des Project Seraph – während die Anlagen des
+  Systems Waffen produzierten, die für die laufende Thargoid-Abwehr als unverzichtbar
+  galten.
 system: Pleiades Sector CW-U B3-2
 station_type: Megaship
 ---

@@ -30,6 +30,20 @@ bio: 'Reorte is a system in Elite Dangerous, significant from 3301-04-26 to 3311
   system.; The Reorte Pro-Alliance League''s victory ensures Reorte remains within
   the Alliance.'
 reserve: Depleted
+bio_de: "Reorte ist ein zentrales System der Alliance in den Old Worlds, historisch bedeutsam
+  als Bollwerk gegen Piraterie und corporate Übergriffe. Im Jahr 3301 befreite das
+  Alliance Elite Diplomatic Corps Reorte von einer Piratenfraktion, die versucht hatte,
+  den Lave-Cluster in die „New Caribbean“ umzubenennen, und setzte die Pro-Alliance
+  League mit 93 % lokaler Zustimmung wieder an die Macht. Der Hauptsternenhafen des
+  Systems, Davies High, ist seitdem ein Symbol für alliierte Souveränität in der Region.
+
+  3308 machte Reorte erneut Schlagzeilen, als die kontrollierende Fraktion, die Reorte
+  Mining Coalition, das Megaschiff Chariot of Rhea der Sirius Corporation blockierte
+  und vertrieb, trotz des strategischen Verteidigungspakts der Alliance mit dem Megakonzern.
+  Nach offenem Konflikt setzte sich die Reorte Pro-Alliance League letztlich in einer
+  öffentlichen Initiative durch, sodass das System seine Allianz-Mitgliedschaft behielt
+  und unerwünschte Einmischung durch Konzerne ablehnte. Zuletzt diente Reorte Ende 3311
+  als Startplatz für Feldversuche des Caspian Explorer von Zorgon Peterson."
 ---
 
 <!-- AUTO-GENERATED -->

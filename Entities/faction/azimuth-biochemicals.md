@@ -17,6 +17,22 @@ bio: 'Azimuth Biochemicals is a organization active in Elite Dangerous lore from
   in the Chukchan system suddenly activates, receiving and rebroadcastin...; Francesca
   Wolfe details the discovery of the Hesperus alongside the Scriveners Clan dredger
   in the Perseus Dark Region.'
+bio_de: Azimuth Biochemicals ist ein Pharma- und Biotechnologiekonzern, der als
+  Unternehmensvehikel für das von der Figur bekannt als Salvation geleitete Anti-Xeno-Forschungsprogramm
+  dient. Mit Hauptsitz im Chukchan-System und direkter Abstammung aus den geheimen
+  Programmen der INRA aus dem ersten Thargoid-Krieg entwickelte Azimuth die Proteus-Welle-Superwaffe
+  sowie eine Reihe experimenteller AX-Technologien, die militärische Ergebnisse
+  erzielten, zu denen konventionelle Streitkräfte nicht in der Lage waren.
+
+  Die Geschichte des Konzerns ist untrennbar mit seinen dunkelsten Experimenten
+  verbunden. Projekt Seraph – das menschliche Versuchspersonen neuartige neuronale
+  Thargoid-Implantate einsetzte – brachte mit Seo Jin-ae die einzige Überlebende
+  hervor. Azimuths Sabotage des Aegis-Megaschiffs Alexandria, die Ausbeutung Guardianischer
+  Technologie und die gezielte Provokation von Thargoid-Streitkräften erfolgten
+  alle unter dem Dach des Konzerns. Das katastrophale Versagen der Proteus-Welle
+  bei HIP 22460 im Jahr 3309, das verheerende Vergeltungsschläge der Thargoiden
+  statt eines Sieges auslöste, legte die tödliche Hybris von Azimuths Ansatz offen
+  und zerrüttete sowohl Salvation's Ansehen als auch die Zukunft des Konzerns.
 ---
 
 

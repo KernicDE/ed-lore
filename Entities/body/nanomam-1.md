@@ -13,6 +13,11 @@ bio: Nanomam 1 is a star system in the Elite Dangerous universe, significant fro
   Crew claims responsibility for an explosion targeting Shadow President-elect Jerome
   Archer on Nanomam 1, also implying responsibility for the earlier ambush on Emperor
   Arissa.
+bio_de: Nanomam 1 ist ein Sternensystem im Elite-Dangerous-Universum, bedeutend vom
+  3310-08-22 bis 3310-08-22. Assoziiert mit der Kumo Crew und dem Schattenpräsidenten.
+  Die Kumo Crew beansprucht die Verantwortung für eine Explosion, die den designierten
+  Schattenpräsidenten Jerome Archer auf Nanomam 1 ins Visier nahm, und impliziert
+  damit auch die Verantwortung für das frühere Attentat auf Kaiserin Arissa.
 system: Nanomam
 body_type: Earth-like world
 distance_to_arrival: 399

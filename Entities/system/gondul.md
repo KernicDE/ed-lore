@@ -26,6 +26,10 @@ inara_url: https://inara.cz/elite/starsystem/?search=Gondul
 bio: Gondul is a star system in the Elite Dangerous universe, significant from 3311-07-17
   to 3311-07-17. Associated with Sirius Corporation. Aisling retained Daikulcandi
   but lost Gondul and Santy.
+bio_de: |
+  Gondul ist ein Sternensystem im Elite-Dangerous-Universum, von Bedeutung am
+  3311-07-17. Assoziiert mit Sirius Corporation. Aisling behielt Daikulcandi, verlor
+  jedoch Gondul und Santy.
 ---
 
 

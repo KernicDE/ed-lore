@@ -30,6 +30,21 @@ bio: 'Shinrarta Dezhra is a system in Elite Dangerous, significant from 3302-07-
   by surprise.; The Thargoid invasion fleet in Shinrarta Dezhra is successfully repelled,
   with acting starport commander Florian Baljak praising the thousands of C...'
 reserve: Common
+bio_de: "Shinrarta Dezhra ist ein unabhängiges System, etwa 55 Lichtjahre von Sol entfernt,
+  und dient als Hauptsitz der Pilots Federation. Das System ist nur auf Einladung
+  zugänglich, die in der Regel Piloten mit hohem Rang in der Pilots Federation erhalten
+  – eine Bedingung, die zum Image der Organisation als geheimnisvoll und exklusiv
+  beiträgt.
+
+  Die bekannteste Einrichtung des Systems ist Jameson Memorial, ein Sternenhafen im
+  Orbit von Shinrarta Dezhra A 1, der weithin als beste Werft der Galaxis gilt und
+  jedes Schiff und jedes Modul anbietet, das für unabhängige Piloten verfügbar ist.
+  Die Historikerin Sima Kalhana vermerkte, dass die Pilots Federation 2805 gegründet
+  wurde, damit Piloten verlässliche Handelsrouten-Informationen teilen und sich gegenseitig
+  vor Piraterie schützen konnten; sie entwickelte sich zum dominierenden GalNet-Anbieter
+  und Haupthersteller der Hardware und Software, die auf nahezu allen unabhängigen
+  Raumschiffen Standard sind. Die Exklusivität von Shinrarta Dezhra macht es zum
+  Symbol für den Elite-Status, den erfolgreiche Piloten anstreben."
 ---
 
 <!-- AUTO-GENERATED -->

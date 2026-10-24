@@ -12,6 +12,13 @@ bio: Florian Baljak is a pilot in the Elite Dangerous universe, active from 3310
   back. Jameson Memorial starport in Shinrarta Dezhra is fully operational again after
   a Thargoid incursion, with starport commander Florian Baljak praising the pilot
   response.
+bio_de: Florian Baljak ist ein Pilot im Elite-Dangerous-Universum, aktiv von 3310-09-24
+  bis 3310-10-02. Eng verbunden mit Azimuth, Sirius Corporation. Die Thargoid-Invasionsflotte
+  in Shinrarta Dezhra wurde erfolgreich zurückgeschlagen; der kommissarische Sternenhafen-Kommandant
+  Florian Baljak lobte die tausenden Commanders, die die Außerirdischen zurückdrängten.
+  Der Sternenhafen Jameson Memorial in Shinrarta Dezhra ist nach einem Thargoid-Einfall
+  wieder voll einsatzbereit, und Sternenhafen-Kommandant Florian Baljak lobte die Reaktion
+  der Piloten.
 ---
 
 

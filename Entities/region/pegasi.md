@@ -22,6 +22,19 @@ bio: 'Pegasi is a system in Elite Dangerous, significant from 3308-04-26 to 3310
   from the Turner Research Group.; The Kumo Crew''s defence of the California Nebula
   succeeds, but its attempt to seize control of local ports is repelled by communities
   and the Turne...'
+bio_de: Pegasi ist ein System im California-Nebel, das während der Thargoid-Invasion
+  3309 zu einem Brennpunkt wurde. Archon Delaine mobilisierte die Kumo Crew zur Verteidigung
+  des California-Nebels gegen die Thargoid und argumentierte, die Allianz betrachte
+  die Kolonie als entbehrlich, während Piraten ihre Bürger schützen würden. Der Nachrichtendienst
+  Pegasi Sentinel unterstützte diese Mobilisierung als vorläufige Maßnahme zur koordinierten
+  Abwehr.
+
+  Die Turner Research Group, die mehrere überfallene Systeme kontrollierte, wies
+  Delaines Behauptungen als Vorwand für eine Machtergreifung zurück. Damit wurde Pegasi
+  zu einem Symbol dafür, wie nichtstaatliche Akteure während des Thargoid-Krieges
+  als Beschützer vernachlässigter Kolonien positionieren konnten – und die Erzählung
+  infrage stellten, dass nur die Flotten der Großmächte einen wirksamen Anti-Xeno-Widerstand
+  organisieren könnten.
 ---
 
 <!-- AUTO-GENERATED -->

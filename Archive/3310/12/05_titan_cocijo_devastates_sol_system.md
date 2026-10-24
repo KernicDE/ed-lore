@@ -1,15 +1,22 @@
 ---
 uuid: 35b353b0-98d7-556b-8f74-142428546856
 title: Titan Cocijo Devastates Sol System
+title_de: Titan Cocijo verwüstet das Sol-System
 slug: titan_cocijo_devastates_sol_system
 date: '3310-12-05'
 source: API
 summary: Titan Cocijo arrives in Sol orbit around Earth, unleashing a devastating
   assault that knocks out most ports, destroys two Farragut battlecruisers, and triggers
   a massive refugee crisis across 16 systems.
+summary_de: Titan Cocijo trifft in einer Umlaufbahn um die Erde im Sol-System ein und entfesselt
+  einen verheerenden Angriff, der die meisten Sternenhäfen außer Betrieb setzt, zwei Farragut-Schlachtkreuzer
+  zerstört und eine massive Flüchtlingskrise in 16 Systemen auslöst.
 player_impact: Pilots fought Thargoid forces in Sol and 16 other assaulted systems
   alongside Federal AX forces. Thousands of AX fleet vessels were lost in the initial
   conflict.
+player_impact_de: Piloten kämpften gemeinsam mit föderalen AX-Kräften in Sol und 16 weiteren
+  angegriffenen Systemen gegen die Thargoid-Kräfte. Tausende AX-Flottenschiffe gingen bereits
+  in den ersten Kämpfen verloren.
 persons:
 - Aden Tanner
 - Felicia Winters
@@ -33,6 +40,11 @@ modern_impact: Tanner's framing — 'The Thargoids have made their final attempt
   Thargoid War. The destruction of FNS Nero and FNS Erebus demonstrates that even
   the Federation's most powerful warships are vulnerable to Titan-led assaults, a
   lesson that drives post-war military reform.
+modern_impact_de: Tanners Einordnung – ‚Die Thargoids haben ihren finalen Versuch zum Schachmatt
+  unternommen‘ – stellt die Schlacht um Sol als entscheidendes Endspiel des Zweiten Thargoid-Kriegs
+  dar. Die Zerstörung der FNS Nero und FNS Erebus zeigt, dass selbst die mächtigsten Kriegsschiffe
+  der Föderation Titan-geführten Angriffen ausgeliefert sind – eine Erkenntnis, die die
+  Militärreform nach dem Krieg vorantreibt.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -41,6 +53,20 @@ related_uuids:
 - bff0e4eb-7d2c-56aa-a3ea-7d523a3b5820
 - a66c3fce-c78d-5a54-a796-7fb6954d55f1
 - 98c71f5f-b348-5f4b-ac65-187ffbbb1f4b
+body_de: |
+  Der Thargoid-Titan Cocijo ist im Sol-System eingetroffen und hat sich in einer Umlaufbahn um die Erde positioniert.
+
+  Cocijos Ankunft entfesselte einen verheerenden regionalen Angriff der verbliebenen Thargoid-Invasionsflotte. In Sol sind nur Mars High, Galileo und Haberlandt Survey – wenn auch beschädigt – noch funktionsfähig; alle anderen Sternenhäfen wurden durch den Thargoid-Angriff außer Betrieb gesetzt. Die Farragut-Schlachtkreuzer FNS Nero und FNS Erebus wurden zerstört, während FNS Victory und FNS Trander die Verteidigungsbemühungen des Systems koordinieren. Tausende AX-Flottenschiffe gingen in den ersten Kämpfen verloren.
+
+  16 weitere Systeme in Sols Nähe wurden angegriffen, was eine massive Flüchtlingskrise auslöste, da Milliarden Zivilisten in der Region festsitzen. Rettungs-Megaschiffe sind unterwegs, um die Evakuierungsbemühungen zu unterstützen.
+
+  Die Sternen Eins ist erfolgreich in Eta Cassiopeiae eingetroffen, mit Präsidentin Winters und Mitgliedern ihres Kabinetts an Bord.
+
+  Aden Tanner, Militärberater von Aegis, gab folgende Stellungnahme ab:
+
+  „So ist es, Leute. Die Thargoids haben ihren finalen Versuch zum Schachmatt unternommen. Die Geburtsstätte der Menschheit und das Zentrum der Föderation: Sol. Titan Cocijo hat sich dafür entschieden, den Kampf ins Herz des menschlichen Raums zu tragen.“
+
+  „Das ist ein Kampf wie keiner, den wir je gesehen haben. Die Thargoids greifen uns aggressiv und in gewaltiger Zahl an, mit einem Titan direkt an der Spitze des Angriffs. Ich weiß nicht, was die Zukunft bringt, aber ich weiß, dass wir einen Krieg zu gewinnen haben. Die Zivilbevölkerung braucht unsere Hilfe, und die föderalen AX-Kräfte brauchen unsere Unterstützung. Wenn ihr ein Schiff habt und bereit seid euch zu engagieren, dann tut es jetzt. Die Menschheit wird diesen Kampf für immer in Erinnerung behalten.“
 ---
 
 

@@ -10,6 +10,11 @@ bio: Mk II Mining Multi-Limpet Controller is a technology in the Elite Dangerous
   Independents. Lakon Spaceways declared the Type-11 Prospector mining trials a success
   after pilots reported unprecedented fragment yields, and announced a permanent 8%
   boost to the Squadron mining perk.
+bio_de: Der Mk-II-Bergbau-Multi-Limpet-Controller ist eine Technologie im Elite-Dangerous-Universum,
+  erwähnt vom 29.09.3311 bis 13.10.3311. Entwickelt oder genutzt von Lakon Spaceways und den
+  Alioth Independents. Lakon Spaceways erklärte die Bergbau-Testflüge der Type-11 Prospector
+  für erfolgreich, nachdem Piloten von bisher unerreichten Fragmentausbeuten berichtet hatten,
+  und kündigte eine dauerhafte 8-prozentige Steigerung des Schwadron-Bergbaupers an.
 ---
 
 

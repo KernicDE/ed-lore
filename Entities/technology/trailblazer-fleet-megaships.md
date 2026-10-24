@@ -8,6 +8,9 @@ mention_count: 1
 bio: 'Trailblazer fleet megaships is a technology in the Elite Dangerous universe,
   mentioned from 3311-04-30 to 3311-04-30. Developed or used by Federal Times, Brewer
   Corporation, Irene Ralston. '
+bio_de: Die Trailblazer-Flotten-Megaschiffe sind eine Technik im Elite-Dangerous-Universum,
+  erwähnt von 3311-04-30 bis 3311-04-30. Entwickelt oder genutzt von Federal Times,
+  Brewer Corporation und Irene Ralston.
 ---
 
 

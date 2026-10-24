@@ -10,6 +10,25 @@ bio: Type-11 Prospector is a technology in the Elite Dangerous universe, mention
   Lakon Spaceways declared the Type-11 Prospector mining trials a success after pilots
   reported unprecedented fragment yields, and announced a permanent 8% boost to the
   Squadron mining perk. Lakon Spaceways' Type-11 Prospector enters full distribution.
+bio_de: Die Type-11 Prospector ist der dedizierte Einstieg von Lakon Spaceways in
+  den Markt für spezialisierte Bergbauschiffe und wurde konzipiert, um die besonderen
+  Anforderungen von Tiefenkern- und Oberflächenförderung zu erfüllen, die Mehrzweckschiffe
+  nicht effizient leisten konnten. Während ausgedehnter Tests Ende 3311 berichteten
+  Piloten von noch nie dagewesenen Fragmentausbeuten durch Bergbaulaser und seismische
+  Ladungen, was die auf Ressourcengewinnung ausgerichtete Optimierung des Entwurfs
+  bestätigte. Rumpfkonfiguration und interne Bauweise priorisieren Frachtkapazität,
+  Raffinerie-Integration und Manövrierfähigkeit in dichten Asteroidenfeldern gegenüber
+  den Kampf- oder Passagierfähigkeiten, die Mehrzweckkonstruktionen prägen.
+
+  Lakon Spaceways erklärte die Bergbautests für erfolgreich und kündigte sowohl die
+  volle Markteinführung der Type-11 Prospector als auch eine permanente Erhöhung des
+  Squadron-Bergbau-Vorteils um acht Prozent für angeschlossene Piloten an. Der Einzug
+  des Schiffs in die Werften der Kernsysteme Anfang 3312 markierte eine bedeutende
+  Erweiterung der Produktlinie von Lakon über ihre traditionellen Transporter und
+  Erkundungsschiffe hinaus. Die Entwicklung der Type-11 Prospector zeigte, wie
+  Schiffshersteller auf sich wandelnde Marktanforderungen reagierten, als der Bergbau
+  zu einem immer anspruchsvolleren und lukrativeren Beruf wurde, der zweckgebaute
+  Ausrüstung statt angepasster Mehrzweckkonstruktionen verlangte.
 ---
 
 

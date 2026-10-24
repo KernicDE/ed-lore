@@ -26,6 +26,20 @@ edsm_url: https://www.edsm.net/en/system/id/8420/name/Duamta
 inara_url: https://inara.cz/elite/starsystem/?search=Duamta
 bio: A populous Federal corporate system, Duamta became a critical manufacturing hub
   for Aegis during the Thargoid Titan War in 3309.
+bio_de: |
+  Duamta ist ein Föderales Unternehmenssystem mit über dreizehn Milliarden
+  Einwohnern, einer Hightech-Wirtschaft und hoher Sicherheit, bereitgestellt von der
+  Duamta Gold Creative Corp. Im Februar 3309 wurde es von der reformierten Aegis
+  als Produktionsort für den Caustic-Sink-Werfer ausgewählt, ein Modul, das Schiffe
+  in den ätzenden Umgebungen von Thargoid-Maelstroms schützen sollte.
+
+  Professor Alba Tesreau koordinierte einen offenen Auftrag für fortschrittliche
+  Katalysatoren, Kühlkörper-Verbindungen, Palladium und ätzende Gewebeproben – letztere
+  aus dem Inneren der Maelstroms selbst gewonnen. Die Initiative zog Beiträge von
+  Allianz, Imperium und Föderation an und demonstrierte einen seltenen Moment
+  trinationaler Großmacht-Zusammenarbeit. Direktor Ivano Colombera von der Imperialen
+  Wissenschaftsakademie erklärte, Aegis habe „sich mit diesem Beitrag zum
+  Kriegseinsatz sofort ihre Reformation gerechtfertigt“.
 reserve: Low
 ---
 

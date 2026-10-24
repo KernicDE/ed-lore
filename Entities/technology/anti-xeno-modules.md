@@ -8,6 +8,9 @@ mention_count: 1
 bio: 'Anti-Xeno modules is a technology in the Elite Dangerous universe, mentioned
   from 3311-05-16 to 3311-05-16. Developed or used by Edmund Mahon, Ainsley Niven,
   Alliance. '
+bio_de: "Anti-Xeno-Module sind eine Technologie im Elite-Dangerous-Universum, erwähnt vom
+  3311-05-16 bis 3311-05-16. Entwickelt oder genutzt von Edmund Mahon, Ainsley Niven,
+  Alliance."
 ---
 
 

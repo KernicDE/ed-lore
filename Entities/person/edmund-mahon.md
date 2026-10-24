@@ -13,6 +13,12 @@ bio: Edmund Mahon is a president in the Elite Dangerous universe, active from 33
   Prime Minister Edmund Mahon advocates further investigation. Following the discovery
   of further INRA outposts, Emperor Arissa Lavigny-Duval and Alliance Prime Minister
   Edmund Mahon have denounced the now-defunct INRA.
+bio_de: Edmund Mahon ist ein Premierminister im Elite-Dangerous-Universum, aktiv von
+  3306-11-09 bis 3306-11-09. Eng verbunden mit Alliance, Sirius Corporation. Kaiserin
+  Arissa Lavigny-Duval mahnt zur Vorsicht, Präsident Zachary Hudson fordert Wachsamkeit,
+  und Premierminister Edmund Mahon plädiert für weitere Untersuchungen. Nach der Entdeckung
+  weiterer INRA-Außenposten haben Kaiserin Arissa Lavigny-Duval und der Premierminister
+  der Alliance die inzwischen aufgelöste INRA verurteilt.
 ---
 
 

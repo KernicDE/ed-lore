@@ -8,6 +8,9 @@ mention_count: 1
 bio: 'Maxine Patro is a prominent figure in the Elite Dangerous universe, active from
   3310-09-03 to 3310-09-03. Closely associated with Sirius Corporation, Utopia, Achilles
   Aerospace. '
+bio_de: Maxine Patro ist eine bedeutende Persönlichkeit im Elite-Dangerous-Universum,
+  aktiv von 3310-09-03 bis 3310-09-03. Eng verbunden mit Sirius Corporation, Utopia,
+  Achilles Aerospace.
 ---
 
 

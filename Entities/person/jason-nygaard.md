@@ -8,6 +8,9 @@ mention_count: 2
 bio: Jason Nygaard is a journalist in the Elite Dangerous universe, active from 3303-01-20
   to 3311-01-29. Closely associated with Federal Times, Federal Navy. Federal Times
   reporter Jason Nygaard notes unusual ship movements around Cambridge on Earth.
+bio_de: Jason Nygaard ist Journalist im Elite-Dangerous-Universum, aktiv von 3303-01-20
+  bis 3311-01-29. Eng verbunden mit Federal Times, Federal Navy. Der Federal-Times-Reporter
+  Jason Nygaard bemerkte ungewöhnliche Schiffsbewegungen um Cambridge auf der Erde.
 ---
 
 

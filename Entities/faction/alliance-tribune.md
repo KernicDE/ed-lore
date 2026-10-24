@@ -17,6 +17,22 @@ bio: 'Alliance Tribune is a organization active in Elite Dangerous lore from 330
   revealing the so-called ''Thargoid roar'' and fuelling public anxiety as inte...;
   The Alliance-Sirius strategic defence pact is fully ratified, with Admiral Nikolas
   Glass announcing Operation Tyndareus, a new anti-xeno taskforce ...'
+bio_de: Die Alliance Tribune ist ein bedeutender Nachrichtendienst für die Alliance
+  of Independent Systems, bekannt für investigativen Journalismus und politische
+  Berichterstattung. Die Publikation spielte durch die Arbeit der Journalistin Vanya
+  Driscoll eine entscheidende Rolle in der Politik der Alliance. Ihre Enthüllung
+  im Juni 3305 deckte Präsident Gibson Kincaids Verschwörung zur Ermordung politischer
+  Rivalen und zur Übertragung der Exekutivgewalt nach Zaonce auf. Der auf dem Kronzeugen-Aussage
+  von Admiral Frederick Yamamoto beruhende Bericht löste Kincaids Amtsenthebung und
+  die spätere Abschaffung des Präsidentenamts der Alliance aus.
+
+  Die Tribune berichtete durchgehend über Wahlen in der Alliance, Verteidigungspolitik
+  und Diplomatie der Großmächte; zu ihren Mitarbeitern zählten die politische Journalistin
+  Vanya Driscoll und der Redakteur Milo Vesper. Während der Krise des Bundes der Reparation
+  3304 kritisierte die Tribune den gemeinsamen Taskforce der drei Großmächte dafür,
+  imperiale und föderale Territorien gegenüber dem Raum der Alliance zu bevorzugen.
+  Ihre Haltung zugunsten demokratischer Rechenschaftspflicht und militärischer Vorbereitung
+  machte sie zu einer einflussreichen Stimme im öffentlichen Diskurs der Alliance.
 ---
 
 

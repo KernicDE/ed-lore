@@ -8,6 +8,9 @@ mention_count: 1
 bio: 'CMDR StellarCartographer is a prominent figure in the Elite Dangerous universe,
   active from 3311-06-18 to 3311-06-18. Closely associated with Thargoid, Federal
   Navy. '
+bio_de: CMDR StellarCartographer ist eine prominente Figur im Elite-Dangerous-Universum,
+  aktiv von 3311-06-18 bis 3311-06-18. Eng verbunden mit Thargoid, Bundesmarine.
+
 ---
 
 

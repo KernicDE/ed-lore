@@ -17,6 +17,19 @@ bio: 'Jameson Memorial is a system in Elite Dangerous, significant from 3301-09-
   Dezhra, catching AX forces by surprise.; The Thargoid invasion fleet in Shinrarta
   Dezhra is successfully repelled, with acting starport commander Florian Baljak praising
   the thousands of C...'
+bio_de: Jameson Memorial ist ein Sternenhafen im Shinrarta-Dezhra-System, benannt
+  zu Ehren des legendären Piloten Commander John Jameson. Die Station wird von der
+  Pilots Federation betrieben und dient als Denkmal für Jamesons Verdienste, insbesondere
+  seine Rolle im ersten Thargoid-Krieg und seinen anschließenden Verrat durch die
+  INRA.
+
+  Im September 3310 wurde Jameson Memorial zu einem Brennpunkt der Thargoid-Invasion,
+  als eine Thargoid-Flotte im Shinrarta-Dezhra-System auftauchte und die Anti-Xeno-Kräfte
+  überraschte. Der amtierende Sternenhafen-Kommandant Florian Baljak lobte die Tausenden
+  von Kommandanten, die bei der Abwehr der Invasion halfen. Die Bedeutung der Station
+  geht über ihre militärische Rolle hinaus – sie steht für die Ehrung eines der
+  berühmtesten Piloten der Menschheit durch die Pilots Federation, dessen Vermächtnis
+  mit heldenhafter Aufopferung wie auch tragischem Verrat verbunden ist.
 system: Shinrarta Dezhra
 station_type: Orbis Starport
 distance_to_arrival: 3434

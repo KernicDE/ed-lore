@@ -7,6 +7,9 @@ last_seen_date: '3311-07-24'
 mention_count: 2
 bio: 'MkII cargo rack is a technology in the Elite Dangerous universe, mentioned from
   3311-07-22 to 3311-07-24. Developed or used by Zorgon Peterson, Brewer Corporation. '
+bio_de: Das MkII-Frachtmodul ist eine Technologie im Elite-Dangerous-Universum, erwähnt
+  vom 22.07.3311 bis 24.07.3311. Entwickelt oder genutzt von Zorgon Peterson und
+  Brewer Corporation.
 ---
 
 

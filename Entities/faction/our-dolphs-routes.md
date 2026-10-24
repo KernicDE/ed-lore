@@ -14,6 +14,11 @@ bio: Our Dolph's Routes is a organization in the Elite Dangerous universe, activ
   Njambalba. Sandra Corrs requests pilot volunteers to deliver festive gifts to children
   displaced by the Thargoid invasion, with her upgraded Our Dolph's Routes fleet struggling
   to locate all recipients.
+bio_de: Our Dolph's Routes ist eine Organisation im Elite-Dangerous-Universum, aktiv
+  vom 3310-12-20 bis 3311-12-15. Häufig in Verbindung mit Frost Dock, Sandra's Workshop
+  und Njambalba. Sandra Corrs bittet Piloten um freiwillige Hilfe, um Festtagsgeschenke
+  an Kinder zu liefern, die durch die Thargoid-Invasion vertrieben wurden; ihre aufgerüstete
+  Flotte von Our Dolph's Routes hat Mühe, alle Empfänger ausfindig zu machen.
 ---
 
 

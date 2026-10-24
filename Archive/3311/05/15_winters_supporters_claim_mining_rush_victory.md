@@ -1,16 +1,24 @@
 ---
 uuid: 231a3076-dcff-58db-b77f-b102286a59eb
 title: Winters' Supporters Claim Mining Rush Victory
+title_de: 'Winters’ Anhänger beanspruchen Sieg beim Minenrausch'
 slug: winters_supporters_claim_mining_rush_victory
 date: '3311-05-15'
 source: API
 summary: A competitive mining boom in LP 855-34 concludes with Felicia Winters' supporters
   claiming victory over Yuri Grom's forces, demonstrating the Federation's industrial
   dominance.
+summary_de: Ein wettbewerbsorientierter Minenboom in LP 855-34 endet damit, dass Felicia
+  Winters’ Anhänger den Sieg über Yuri Groms Streitkräfte für sich beanspruchen – ein
+  Beweis für die industrielle Dominanz der Föderation.
 player_impact: Winters' pilots delivered the most platinum resources, ensuring LP
   855-34's governing faction would meet its manifesto building projects. Rewards were
   collected at Rhea's Resilience for Winters supporters and The Undeniable for Grom
   supporters.
+player_impact_de: Winters’ Piloten lieferten die meisten Platinressourcen und stellten
+  damit sicher, dass die regierende Fraktion von LP 855-34 ihre Bauprojekte aus dem
+  Wahlprogramm verwirklichen kann. Belohnungen wurden in Rhea’s Resilience für Winters-Anhänger
+  und in The Undeniable für Grom-Anhänger abgeholt.
 persons:
 - Felicia Winters
 - Yuri Grom
@@ -26,6 +34,25 @@ modern_impact: The victory statement — 'We showed that the Federation dominate
   supremacy that underpins Winters' power base. However, Grom's forceful response
   in the following week demonstrates that mining victories alone cannot secure lasting
   control.
+modern_impact_de: Die Siegeserklärung – „Wir haben gezeigt, dass die Föderation bei
+  industriellen Fragen alle Konkurrenten dominiert!" – stärkt die Erzählung von der
+  industriellen Vormachtstellung der Föderation, die Winters’ Machtbasis trägt. Groms
+  kraftvolle Reaktion in der folgenden Woche zeigt jedoch, dass Minensiege allein keine
+  dauerhafte Kontrolle sichern können.
+body_de: |
+  Eine überraschend angespannte Minenwelle in LP 855-34 ist zu Ende gegangen. Anhänger von Felicia Winters beanspruchen den Erfolg gegenüber Yuri Groms Piloten für sich.
+
+  Ein Aufruf der regierenden Fraktion des Systems nach Platin löste einen Zustrom von Schiffen der beiden Großmächte aus. Langjährige Streitigkeiten zwischen Yuri Grom und der Föderation verstärkten den Wettbewerbscharakter der Auseinandersetzung – und es ist kaum überraschend, dass am Ende letztere die größte Menge abgebauter Ressourcen für sich verbuchte.
+
+  Ein Vertreter der Anhängerschaft von Winters gab dazu folgende Erklärung ab:
+
+  „Die Leistungen unserer Minenteams in den vergangenen zwei Wochen waren geradezu bemerkenswert. Wir haben genug Platin geliefert, um sicherzustellen, dass die regierende Fraktion von LP 855-34 ihre Bauprojekte aus dem Wahlprogramm verwirklichen kann. Und ebenso wichtig haben wir gezeigt, dass die Föderation bei industriellen Fragen alle Konkurrenten dominiert!"
+
+  Diejenigen, die an dem Konflikt auf einer der beiden Seiten teilgenommen haben, können nun ihre Belohnungen abholen.
+
+  Anhänger von Felicia Winters können ihre Belohnungen in Rhea’s Resilience abholen.
+
+  Anhänger von Yuri Grom können ihre Belohnungen in The Undeniable abholen.
 legacy_weight: 2
 significance: low
 related_uuids:

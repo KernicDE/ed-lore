@@ -1,14 +1,21 @@
 ---
 uuid: b1e570eb-029f-5cad-9996-9d7bb444f78f
 title: Secure Resource Sites Declared in Dhan
+title_de: Sichere Ressourcengebiete in Dhan ausgerufen
 slug: secure_resource_sites_declared_in_dhan
 date: '3311-04-25'
 source: API
 summary: Combined security forces and independent pilots eradicate pirates from the
   Dhan system, securing its planetary rings. Gutamaya observers are reportedly 'very
   impressed' by the Corsair's performance.
+summary_de: Zusammengesetzte Sicherheitskräfte und unabhängige Piloten vertreiben Piraten
+  aus dem System Dhan und sichern dessen Planetenringe. Beobachter von Gutamaya sind
+  von der Leistung der Corsair Berichten zufolge „sehr beeindruckt".
 player_impact: Independent pilots eliminated pirates and collected bounties to secure
   Dhan's resource sites, with participants collecting rewards from Kidd Station.
+player_impact_de: Unabhängige Piloten eliminierten Piraten, sicherten die Ressourcengebiete
+  von Dhan und sammelten Prämien; Teilnehmer konnten ihre Belohnungen an der Kidd Station
+  abholen.
 persons:
 - Harald Gomes
 topics:
@@ -21,6 +28,21 @@ modern_impact: Gomes's blunt characterisation of pirates as 'too foolish to give
   Gutamaya's reported satisfaction with Corsair performance in anti-piracy operations
   validates the ship's combat credentials, supporting its marketing as a multipurpose
   vessel.
+modern_impact_de: Gomes’ schonungslose Charakterisierung der Piraten als „zu dumm, um
+  ein Leben auf der falschen Seite des Gesetzes aufzugeben", spiegelt eine pragmatische
+  Sicherheitsmentalität nach dem Krieg wider. Gutamayas Berichten zufolge zufriedenstellende
+  Erfahrungen mit der Corsair bei der Bekämpfung der Piraterie untermauern die Kampfqualitäten
+  des Schiffs und stützen seine Vermarktung als Mehrzweckfahrzeug.
+body_de: |
+  Unabhängige Piloten haben dabei geholfen, große Mengen von Piraten im System Dhan zu vertreiben.
+
+  Nach einem ungewöhnlich starken Anstieg der Piraterie in den zahlreichen Planetenringen des Systems arbeiteten lokale Sicherheitsflotten und erfahrene Freischaffende zusammen, um Piraten zu eliminieren und Kriminellen klarzumachen, dass es besser für sie wäre, umzuziehen.
+
+  „Piraten sind zu dumm, um ein Leben auf der falschen Seite des Gesetzes aufzugeben", sagte Harald Gomes, Sicherheitschef der Dhan Empire League. „Das ist alles, was sie kennen, und alles, wozu sie taugen. Aber auch wenn wir das Verbrechen nicht für immer auslöschen können, können wir zumindest die Botschaft senden, dass Dhan kein leichtes Ziel ist. Greift unsere Minenschiffe an und ihr werdet es bereuen, ihr Trottel!"
+
+  Gutamaya, bei der man Beobachter entsandt hatte, um den Einsatz des kürzlich vorgestellten Schiffs Corsair während des Konflikts zu beobachten, soll von der Leistung ihres Schiffs und der Anti-Piraterie-Einsatztruppe insgesamt „sehr beeindruckt" gewesen sein.
+
+  Teilnehmer, die sich für den Konflikt registriert haben, können ihre Belohnungen an der Kidd Station abholen.
 legacy_weight: 2
 significance: low
 related_uuids:

@@ -12,6 +12,14 @@ bio: SCO Frame Shift Drive is a technology in the Elite Dangerous universe, ment
   in the largest medium-class freighter frame. Lakon Spaceways releases the Type-8,
   a medium-class freighter optimised for SCO frame shift drive travel, boasting larger
   cargo capacity and greater resilience than competitors.
+bio_de: Der SCO-Frameshiftantrieb ist eine Technik im Elite-Dangerous-Universum,
+  erwähnt von 3310-07-30 bis 3310-07-30. Entwickelt oder genutzt von Lakon Spaceways,
+  Faulcon DeLacy und Devin Kaneda. Die Vorstandsvorsitzende von Lakon Spaceways,
+  Naomi Landseer, gibt bekannt, dass die Type-8 zur theoretischen Phase zurückversetzt
+  wurde, um den Belastungen des SCO-Antriebs gerecht zu werden, was zum größten
+  Rahmen für Frachter der Mittelklasse führte. Lakon Spaceways bringt die Type-8
+  heraus, einen für SCO-Frameshiftantrieb-Reisen optimierten Frachter der Mittelklasse
+  mit größerer Frachtkapazität und höherer Widerstandsfähigkeit als bei Mitbewerbern.
 ---
 
 

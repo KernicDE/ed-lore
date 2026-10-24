@@ -7,6 +7,8 @@ last_seen_date: '3310-12-06'
 mention_count: 1
 bio: 'Allied Solace is a technology in the Elite Dangerous universe, mentioned from
   3310-12-06 to 3310-12-06. Developed or used by Wolf 359. '
+bio_de: "Allied Solace ist eine Technologie im Elite-Dangerous-Universum, erwähnt vom
+  3310-12-06 bis 3310-12-06. Entwickelt oder genutzt von Wolf 359."
 ---
 
 

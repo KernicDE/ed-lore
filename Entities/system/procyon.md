@@ -30,6 +30,21 @@ bio: 'Procyon is a system in Elite Dangerous, significant from 3301-12-22 to 331
   could accelerate multiple scientific fields, w...; Weekly summary covering League
   of Reparation raids, the Thargoid fifth column theory, Jordan Rochester''s profile,
   Olav Redcourt''s book tour, the Di...'
+bio_de: "Procyon ist ein Doppelsternensystem, nur 11,5 Lichtjahre von Sol entfernt, und
+  damit eines der nächstgelegenen bewohnten Systeme der Geburtsstätte der Menschheit.
+  Es beherbergt Davy Dock, eine Forschungsbasis der Sirius Corporation, die als
+  Koordinationszentrale einer der ehrgeizigsten Suchaktionen der jüngeren Geschichte
+  diente.
+
+  Im Dezember 3301 kündigte Sirius-Corporation-CEO Li Yong-Rui eine offizielle Suche
+  nach der Antares an – einem technologisch revolutionären Passagierschiff, das 3251
+  während seiner Jungfernfahrt verschwand. Piloten wurden eingeladen, Trümmerkomponenten
+  zur umfassenden Analyse nach Davy Dock in Procyon zu liefern, mit dem Ziel, das Schicksal
+  des Schiffs zu klären. Die Suche nutzte Fortschritte in der Scan-Technologie der
+  50 Jahre seit dem Verschwinden der Antares. Procyons Nähe zu Sol und sein Status
+  als Sirius-Corporation-Forschungszentrum machten es zur logischen Basis für die
+  Operation, die ein Mysterium lösen wollte, das den Ruf des Unternehmens beschädigt
+  und seine Pläne für superschnelle Linienschiffe gebremst hatte."
 ---
 
 

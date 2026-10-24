@@ -11,6 +11,19 @@ bio: 'Yuri Grom is a Diplomat in Elite Dangerous lore, active from 3302-10-27 to
   to produce capital ships for defending human space from hu...; This week''s major
   stories include Aegis publishing a Thargoid report based on Ram Tah''s decrypted
   Guardian logs, revealing the two species'' ancient...'
+bio_de: Yuri Grom ist ein ehemaliger Admiral der Bundesmarine, der von der Föderation
+  desertierte, um sich als unabhängige Macht zu etablieren. Nach einem kurzen Konflikt
+  mit seinen früheren Verbündeten im Euryale-System führte er die EG Pilots zum Sieg
+  bei den Dangerous Games 3302 und gründete die autokratische EG Union, in der er
+  die von ihm kontrollierten Systeme mit absoluter Volksunterstützung regiert.
+
+  3307 trat Grom in Verhandlungen mit der Föderation über das Delta-Pavonis-System
+  ein, eines der Gründungssysteme der Föderation. Als verdeckt agierende föderale
+  Agenten während der Konferenz versuchten, ihn festzunehmen, entkam er und erklärte
+  der Föderation den Krieg. Die EG Union schlug die föderalen Streitkräfte und erbeutete
+  das Megaschiff Freedom's Foundation. Grom bleibt bis in die 3310er Jahre eine bedeutende
+  unabhängige Macht; 3312 schlossen sich seine Streitkräfte einer koalitionären Nichtangriffspakte
+  in der Enklave HIP 87621 zusammen mit imperialen und allianzischen Vertretern an.
 ---
 
 

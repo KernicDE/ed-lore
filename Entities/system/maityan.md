@@ -26,6 +26,8 @@ inara_url: https://inara.cz/elite/starsystem/?search=Maityan
 bio: 'Maityan is a star system in the Elite Dangerous universe, significant from 3311-07-17
   to 3311-07-17. Associated with Sirius Corporation. '
 reserve: Low
+bio_de: "Maityan ist ein Sternensystem im Elite-Dangerous-Universum, relevant von 3311-07-17
+  bis 3311-07-17. Assoziiert mit Sirius Corporation."
 ---
 
 <!-- AUTO-GENERATED -->

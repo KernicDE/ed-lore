@@ -12,6 +12,8 @@ related_entities:
 - aiaba
 bio: 'Vespucci City is a star system in the Elite Dangerous universe, significant
   from 3311-07-17 to 3311-07-17. Associated with Zorgon Peterson. '
+bio_de: 'Vespucci City ist ein Sternensystem im Elite-Dangerous-Universum, bedeutend
+  von 3311-07-17 bis 3311-07-17. Assoziiert mit Zorgon Peterson. '
 distance_to_arrival: 1483.474916
 allegiance: Independent
 government: Cooperative

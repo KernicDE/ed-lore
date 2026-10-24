@@ -12,6 +12,26 @@ bio: Type-8 is a technology in the Elite Dangerous universe, mentioned from 3310
   medium-class freighter frame. Lakon Spaceways releases the Type-8, a medium-class
   freighter optimised for SCO frame shift drive travel, boasting larger cargo capacity
   and greater resilience than competitors.
+bio_de: Die Type-8 ist der ehrgeizige Einstieg von Lakon Spaceways in den Markt
+  für Frachter der Mittelklasse und wurde speziell entwickelt, um die aufkommende
+  Supercruise-Overcharge-Frameshiftantrieb-Technologie zu nutzen, die den Transport
+  über große Entfernungen im Weltraum revolutionieren versprach. Unter der Leitung
+  der Vorstandsvorsitzenden Naomi Landseer wurde das Projekt zur theoretischen Phase
+  zurückversetzt, um den einzigartigen strukturellen Belastungen durch den SCO-Antrieb
+  gerecht zu werden, was zu einem Rumpfentwurf führte, der Widerstandsfähigkeit
+  ebenso priorisierte wie Frachtkapazität. Diese Entscheidung war zwar teuer in Bezug
+  auf den Entwicklungszeitraum, brachte aber nach Aussage von Lakon den größten und
+  leistungsfähigsten produzierten Frachtschiffrahmen der Mittelklasse hervor.
+
+  Bei ihrer Veröffentlichung Ende 3310 bot die Type-8 im Vergleich zu Mitbewerbern
+  ihrer Klasse eine höhere Frachtkapazität und erhöhte strukturelle Integrität und
+  positionierte sich damit als bevorzugte Wahl für Piloten, die den Frachttransport
+  maximieren wollten, ohne auf schwere Schiffe mit höherstufigen Lizenzen umzusteigen.
+  Die Integration der SCO-Technologie zeigte, wie Innovationen im Bereich des Frameshiftantriebs
+  ganze Schiffskategorien neu gestalten konnten, da Hersteller Rümpfe um neue Antriebsfähigkeiten
+  herum neu entwarfen statt bestehende Modelle lediglich nachzurüsten. Mit der Type-8
+  festigte Lakon Spaceways seinen Ruf für zuverlässige, zweckgebaute Transportschiffe,
+  die den praktischen Bedürfnissen der galaktischen Handelsgemeinschaft dienten.
 ---
 
 

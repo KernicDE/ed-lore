@@ -1,14 +1,21 @@
 ---
 uuid: 00be4816-785d-537c-9e05-ba4677220927
 title: Winters Acknowledges Growing Calls for Inauguration
+title_de: 'Winters: Immer lautere Forderungen nach Inauguration'
 slug: winters_acknowledges_growing_calls_for_inauguration
 date: '3310-09-17'
 source: API
 summary: President-elect Felicia Winters acknowledges growing discontent in Federal
   Congress over her delayed inauguration following the Rhea 3 earthquakes, and announces
   she will step back from direct recovery efforts to prepare for taking office.
+summary_de: Die designierte Präsidentin Felicia Winters erkennt den wachsenden Unmut im
+  Föderalen Kongress über ihre verschobene Inauguration nach den Erdbeben auf Rhea 3 an und
+  kündigt an, sich aus der direkten Aufbauhilfe zurückzuziehen, um sich auf ihr Amt vorzubereiten.
 player_impact: Pilots contributed to Rhea 3 relief and recovery efforts during Winters'
   extended leave, preparing the planet for the new President-elect's eventual inauguration.
+player_impact_de: Piloten leisteten während Winters' langem Sonderurlaub Beiträge zur
+  Hilfs- und Wiederaufbaumaßnahmen auf Rhea 3 und bereiteten den Planeten auf die
+  bevorstehende Inauguration der designierten Präsidentin vor.
 persons:
 - Felicia Winters
 - Ewan Klein
@@ -26,6 +33,12 @@ modern_impact: Winters' statement — 'Nothing can ever repair the hole left in 
   vulnerability. The revelation that 'six members of Winter's family' died in New
   Greenacre explains the depth of her grief. Her pledge to 'step back from personally
   directing the recovery' sets up the October 31 inauguration.
+modern_impact_de: Winters' Aussage — „Nichts kann jemals das Loch in meinem Herzen füllen, das
+  die Tragödie auf Rhea 3 gerissen hat“ — menschelt eine politische Figur, die selten mit
+  Verletzlichkeit gezeigt wird. Die Offenbarung, dass „sechs Mitglieder von Winters' Familie“
+  beim Untergang der Hauptstadt New Greenacre starben, erklärt die Tiefe ihrer Trauer. Ihr
+  Versprechen, sich „aus der persönlichen Leitung der Aufbauhilfe zurückzuziehen“, bereitet
+  die Inauguration am 31. Oktober vor.
 legacy_weight: 3
 significance: medium
 related_uuids:
@@ -34,6 +47,26 @@ related_uuids:
 - e3f3df5a-f54e-55dd-aa67-6d8d75ce6e4e
 - e66042d5-f19b-5b3d-8113-f2c32d2e4c51
 - 677ba8ea-d7b4-5d96-b990-a430969d2b98
+body_de: |
+  Die designierte Präsidentin Felicia Winters hat den wachsenden Unmut im Föderalen Kongress über ihre verschobene Inauguration thematisiert.
+
+  Eine Reihe verheerender Erdbeben erschütterte im Februar dieses Jahres Winters' Heimatwelt Rhea 3. Millionen Menschen kamen bei der beispiellosen Katastrophe ums Leben, darunter sechs Mitglieder von Winters' Familie bei der Zerstörung der Hauptstadt New Greenacre.
+
+  Winters nahm einen langen Sonderurlaub, um die Hilfs- und Wiederaufbaumaßnahmen auf Rhea 3 zu leiten, was auch einen breit angelegten Appell an die unabhängige Pilotengemeinschaft um Ressourcen einschloss. Doch jüngste Artikel in Sol Today legen nahe, dass das Wohlwollen für Winters' Lage langsam abzuebben droht.
+
+  Der Politikjournalist Ewan Klein schrieb kürzlich:
+
+  „Als Winters zunächst die Verschiebung ihrer Inauguration verkündete, gab es offenen Widerstand von ihren republikanischen Gegnern — wobei Präsident Hudson, der vorübergehend im Amt geblieben ist, vielleicht weniger dagegen war. Als mehr Details über das Leid auf Rhea bekannt wurden, wuchs die Unterstützung für Winters' Entscheidung aus mitfühlenden Gründen.“
+
+  „Sieben Monate später fragen sich jedoch einige im Kongress, ob Winters ihre Trauer jemals überwinden und das Präsidentenamt annehmen wird.“
+
+  Winters hat die Angelegenheit nun endlich über die Federal Free Press mit einer Erklärung kommentiert:
+
+  „Nichts kann jemals das Loch in meinem Herzen füllen, das die Tragödie auf Rhea 3 gerissen hat. Dieser Schmerz wird mit Millionen Familien geteilt, die von der Katastrophe betroffen waren, die unsere Heimatwelt heimgesucht hat. Vielleicht werden wir ihn nie wirklich überwinden, aber wir müssen beschließen, trotzdem weiterzugehen.“
+
+  „Und in unseren dunkelsten Stunden war die Welle der Liebe und Unterstützung aus der gesamten Föderation eine große Stärke. Ich wurde tausendfach an die Großzügigkeit, die Selbstlosigkeit und die Wärme der Bürger der Föderation erinnert. Eure Geduld wurde geschätzt, und es ist an der Zeit, dass euer Vertrauen in mich als designierte Präsidentin belohnt wird.“
+
+  „Ich plane, in naher Zukunft die persönliche Leitung der Wiederaufbaumaßnahmen auf Rhea 3 zurückzulegen und die Aufgabe den kompetenten Händen des Katastrophenschutz- und Hilfskomitees von Rhea zu überlassen. Wenn der richtige Zeitpunkt gekommen ist, wird meine Inaugurationszeremonie stattfinden und ich werde demütig die Rolle der Präsidentin der Föderation annehmen.“
 ---
 
 

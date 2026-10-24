@@ -12,6 +12,13 @@ bio: Mandalay is a technology in the Elite Dangerous universe, mentioned from 33
   Zorgon Peterson's Mandalay exploration vessel, optimised for Achilles Aerospace's
   SCO frame shift drive, is now available for purchase at shipyards across the core
   systems.
+bio_de: Mandalay ist eine Technologie im Elite-Dangerous-Universum, erwähnt von
+  3310-10-15 bis 3310-10-31. Entwickelt oder genutzt von Devin Kaneda, Zorgon Peterson
+  und Faulcon DeLacy. Zorgon Peterson enthüllt die Mandalay, ihr erstes neues Schiff
+  seit sechs Jahren, konzipiert als hochwertiges, mittelgroßes Erkundungsschiff
+  mit Unterstützung für SCO-Frameshiftantriebe. Zorgon Petersons Mandalay-Erkundungsschiff,
+  optimiert für Achilles Aerospaces SCO-Frameshiftantrieb, ist nun in Werften in
+  den gesamten Kernsystemen erhältlich.
 ---
 
 

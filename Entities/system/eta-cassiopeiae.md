@@ -27,6 +27,21 @@ inara_url: https://inara.cz/elite/starsystem/?search=Eta%20Cassiopeiae
 bio: 'A heavily populated Federation confederacy system with nine billion inhabitants,
   Eta Cassiopeiae became a strategic concern during the late Thargoid wars due to its
   proximity to Sol and its military governance.'
+bio_de: |
+  Neun Milliarden Menschen leben unter der Kontrolle des Marine Forces Special
+  Operations Command in Eta Cassiopeiae, was es zu einem der bevölkerungsreichsten
+  Föderalen Systeme außerhalb des Sol-Sektors macht. Seine konföderierte
+  Regierungsstruktur und seine Agrar-Kolonialwirtschaft lassen eine stark
+  militarisierte Verwaltung erahnen, die das System während der sich verschärfenden
+  Thargoid-Konflikte von 3308 bis 3310 auf die Beobachtungsliste von Aegis setzte.
+
+  Die Bedeutung des Systems ergab sich aus seiner Lage nahe dem Föderalen Kern
+  und seinem Potenzial als Bevölkerungszentrum in Gefahr zugleich wie als militärische
+  Aufmarschbasis. Obwohl es nie direkten Thargoid-Inkursionen ausgesetzt war, wie sie
+  Systeme wie HIP 22460 verwüsteten, repräsentierte Eta Cassiopeiae jene Art
+  hochwertiges Ziel, das Föderale Strategen wach hielt. Seine Erwähnung im Zusammenhang
+  mit Großmacht- und Aegis-Interessen unterstrich, dass selbst gut verteidigte
+  Kernsysteme angesichts des expandierenden Krieges nicht als sicher gelten konnten.
 ---
 
 

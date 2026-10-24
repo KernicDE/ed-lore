@@ -15,6 +15,8 @@ related_entities:
 - jameson-memorial
 bio: 'Spirit of Laelaps is a star system in the Elite Dangerous universe, significant
   from 3308-11-29 to 3310-09-19. Associated with Sirius Corporation, Azimuth. '
+bio_de: 'Spirit of Laelaps ist ein Sternensystem im Elite-Dangerous-Universum, bedeutend
+  von 3308-11-29 bis 3310-09-19. Assoziiert mit Sirius Corporation und Azimuth. '
 ---
 
 <!-- AUTO-GENERATED -->

@@ -11,6 +11,18 @@ bio: 'Ivano Colombera is a Emperor in Elite Dangerous lore, active from 3308-09-
   sink launcher module.; Aegis develops and begins unmanned testing of the Thargoid
   pulse neutraliser, building on Elvira Martuuk''s 3303 shutdown field neutraliser
   design.'
+bio_de: Ivano Colombera ist Direktor der xenologischen Studien an der Imperial Science
+  Academy und eine führende Autorität für Thargoid-Verhalten. Im September 3308 reagierte
+  er auf den Widerstand der Thargoiden gegen die Proteus-Welle-Superwaffe in HIP 22460
+  und stellte die Hypothese auf, ihre Fähigkeit, Guardian-Technologie zu stören, sei
+  vor Millionen Jahren während des Guardian-Thargoid-Konflikts entstanden.
+
+  Colomberas akademische Arbeit konzentrierte sich auf die Entwicklung praktischer
+  Gegenmaßnahmen gegen Thargoid-Fähigkeiten, wenngleich er anerkannte, dass das
+  Verständnis der Thargoiden-Biologie durch die Menschheit äußerst begrenzt blieb.
+  Seine Forschung trug zur Entwicklung des caustic sink launcher-Moduls und anderer
+  Anti-Xeno-Technologien durch Aegis bei und schlug die Brücke zwischen theoretischer
+  Xenologie und militärischer Anwendung während des eskalierenden Thargoid-Kriegs.
 ---
 
 

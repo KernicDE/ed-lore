@@ -1,14 +1,20 @@
 ---
 uuid: f81b9bcf-e2ee-5481-bbc7-6bcf7e101fc7
 title: 'Aegis: “Be Alert for Thargoid Counterattacks”'
+title_de: 'Aegis: „Seid wachsam vor Thargoid-Gegenangriffen“'
 slug: aegis_be_alert_for_thargoid_counterattacks
 date: '3310-09-10'
 source: API
 summary: Aden Tanner warns Federal AX recruits against complacency following Titan
   Thor's destruction, highlighting the risk of Thargoid portal-based ambushes on ports
   beyond fleet blockades.
+summary_de: Aden Tanner warnt föderale AX-Rekruten vor Selbstzufriedenheit nach der Zerstörung
+  des Titan Thor und weist auf die Gefahr von Thargoid-Hinterhalten über Portaltechnologie an
+  Häfen jenseits von Flottenblockaden hin.
 player_impact: Pilots were warned to remain alert for Thargoid counterattacks behind
   front lines, particularly on ports beyond fleet blockades.
+player_impact_de: Piloten wurden gewarnt, vor Thargoid-Gegenangriffen hinter den eigenen
+  Linien wachsam zu bleiben, insbesondere an Häfen jenseits von Flottenblockaden.
 persons:
 - Aden Tanner
 groups:
@@ -23,11 +29,30 @@ modern_impact: Tanner's warning that 'the Thargoids can travel via portal techno
   foreshadows the Shinrarta Dezhra invasion nine days later. His admission that 'we're
   playing catch-up when predicting the Thargoids' next move' reveals Aegis' intelligence
   limitations.
+modern_impact_de: Tanners Warnung, „die Thargoids können über Portaltechnologie reisen und
+  Hinterhalte an unseren Häfen jenseits jeder Flottenblockade legen“, deutet direkt auf die
+  Invasion von Shinrarta Dezhra neun Tage später voraus. Sein Eingeständnis, dass Aegis „beim
+  Vorhersagen des nächsten Zugs der Thargoids immer hinterherläuft“, legt die
+  Geheimdienstgrenzen von Aegis offen.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 061171d4-beaf-56a2-84d7-a36c8a49376e
 - f04f8454-a964-5a70-94a4-24f7e93c8419
+body_de: |
+  **Alarm der Pilotenföderation**
+
+  Aden Tanner, militärischer Sonderberater des Aegis-Projekts, hat vor gezielten Thargoid-Angriffen auf wichtige militärische Standorte gewarnt.
+
+  Während einer jüngsten Abschlussfeier für die neueste Gruppe föderaler AX-Rekruten warnte Tanner vor Selbstzufriedenheit nach der Zerstörung des Titan Thor im vergangenen Monat.
+
+  „Es mag so aussehen, als hätten wir in diesem Krieg die Oberhand. Stolz auf unsere Erfolge ist keine Schande, und wir stehen sicher besser da als zu Beginn der Thargoid-Invasion.“
+
+  „Aber die Thargoids sind genauso gefährlich wie eh und je. Eine Kampfzone mit weniger als voller Konzentration zu betreten wäre ein schrecklicher Fehler. Denkt daran, wie hart ihr kämpfen würdet, wenn ihr glaubtet, die Thargoids würden unsere Flotten jeden Tag ein Stück weiter zurücktreiben. Genau in dieser Lage befindet sich unser Feind.“
+
+  „Tatsächlich beobachtet Aegis, während unsere Streitkräfte auf die beiden verbleibenden Titans vorrücken, ständig mögliche Gegenangriffe hinter unseren Linien. Wir wissen, dass die Thargoids über Portaltechnologie reisen können und dadurch Hinterhalte an unseren Häfen jenseits jeder Flottenblockade legen können. Was wir weniger gut nachvollziehen können, ist, wie die Außerirdischen potenzielle Ziele bewerten.“
+
+  „Wichtige Systeme sind gut geschützt, aber beim Vorhersagen des nächsten Zugs der Thargoids laufen wir immer hinterher. Wenn ihr zum ersten Mal in den Kampf an der Seite unserer AX-Verbände zieht, denkt daran: Passt aufeinander auf und erwartet stets das Unerwartete.“
 ---
 
 

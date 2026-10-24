@@ -10,6 +10,11 @@ bio: Rescue Ship Foerster is a technology in the Elite Dangerous universe, menti
   megaships deployed near Sol are destroyed by Thargoid forces within minutes of arrival,
   leaving only Rescue Ship Hutner and Rescue Ship Cornwallis to continue evacuation
   efforts.
+bio_de: Rescue Ship Foerster ist eine Technologie im Elite-Dangerous-Universum,
+  erwähnt von 3310-12-06 bis 3310-12-06. Entwickelt oder genutzt von Wolf 359. Sieben
+  der acht nahe Sol eingesetzten Rettungs-Megaschiffe werden von Thargoid-Kräften
+  innerhalb weniger Minuten nach der Ankunft zerstört. Übrig bleiben nur die Rescue
+  Ship Hutner und die Rescue Ship Cornwallis, die die Evakuierung fortsetzen.
 ---
 
 

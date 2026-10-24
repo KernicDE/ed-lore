@@ -17,6 +17,22 @@ bio: 'Frost Dock is a starport in Elite Dangerous, significant from 3301-12-22 t
   the Thargoid invasion, with her upgraded Our Dolph''s Route...; Sandra Corrs requests
   pilot volunteers to deliver festive gifts after a hack wiped Our Dolph''s Routes
   delivery data, forcing pilots to scan a beaco...'
+bio_de: Frost Dock ist ein Außenposten im Njambalba-System, der in den Feiertagszeiten
+  der späten 3300er Jahre zu einem unwahrscheinlichen Zentrum saisonaler Aktivitäten
+  wurde. Der Außenposten diente als Verteilersstelle für Geschenklieferungen, wobei
+  unabhängige Piloten rekrutiert wurden, um Präsente zu Kindern in den Kernsystemen
+  zu transportieren, als gewerbliche Transportflotten humanitären Einsätzen zugewiesen
+  wurden.
+
+  Im Dezember 3308 bat Sandra Corrs – CEO von Sandra's Workshop, dem größten Hersteller
+  von Kinderspielzeug in den Kernsystemen – unabhängige Piloten um Hilfe, nachdem
+  ihr Partnerunternehmen Dolph's Routes seine Transportflotte der Evakuierungsunterstützung
+  im kriegsgebeutelten 63-Tauri-System zugewiesen hatte. Piloten sammelten festliche
+  Geschenke in Frost Dock in Njambalba und lieferten sie aus, um Feiertagstraditionen
+  mitten im Thargoid-Konflikt aufrechtzuerhalten. Der Außenposten war außerdem Gastgeber
+  gemeinschaftlicher Feiern und Warenaktionen und diente als Treffpunkt für Piloten
+  bei saisonalen Veranstaltungen. Frost Docks Rolle zeigte, wie selbst abgelegene
+  Außenposten in Krisenzeiten zu kritischen logistischen Knotenpunkten werden konnten.
 system: Mu Cassiopeia
 station_type: Orbital Station
 ---

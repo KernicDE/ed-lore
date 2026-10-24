@@ -9,6 +9,11 @@ bio: Ainsley Niven is a prominent figure in the Elite Dangerous universe, active
   3309-11-24 to 3311-05-16. Closely associated with Alliance, Sirius Corporation.
   Councilor Nakato Kaine's motion, seconded by Councilor Ainsley Niven of Reorte,
   passed by a slim majority despite Prime Minister Edmund Mahon's opposition.
+bio_de: Ainsley Niven ist eine bedeutende Figur im Elite-Dangerous-Universum, aktiv
+  vom 3309-11-24 bis 3311-05-16. Eng assoziiert mit der Alliance und der Sirius Corporation.
+  Der Antrag von Ratsmitglied Nakato Kaine, unterstützt von Ratsmitglied Ainsley
+  Niven von Reorte, wurde trotz der Opposition von Premierminister Edmund Mahon
+  mit knapper Mehrheit angenommen.
 ---
 
 

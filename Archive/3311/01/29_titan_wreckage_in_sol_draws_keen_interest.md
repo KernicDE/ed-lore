@@ -1,15 +1,22 @@
 ---
 uuid: c921c6d4-70de-55af-8dbf-2c5e972d5a55
 title: Titan Wreckage In Sol Draws Keen Interest
+title_de: 'Titan-Wrack in Sol stößt auf reges Interesse'
 slug: titan_wreckage_in_sol_draws_keen_interest
 date: '3311-01-29'
 source: API
 summary: The wreckage of Titan Cocijo above Earth became a popular destination for
   pilots seeking trophies, knowledge, and memorials, with Federal authorities struggling
   to enforce visitor limits.
+summary_de: Das Wrack des Titan Cocijo über der Erde wurde für Piloten, die Trophäen,
+  Wissen und Gedenkstätten suchen, zu einem beliebten Ziel; föderale Behörden tun sich
+  schwer, Besucherlimits durchzusetzen.
 player_impact: Thousands of pilots visited the Titan wreckage in Sol after caustic
   clouds dissipated, with some ignoring Federal restrictions. A memorial beacon was
   deployed in the system.
+player_impact_de: Tausende Piloten besuchten das Titan-Wrack in Sol, nachdem sich die
+  ätzenden Wolken verzogen hatten; einige ignorierten föderale Einschränkungen. Im
+  System wurde ein Gedenkfeuer (Memorial Beacon) platziert.
 persons:
 - Jason Nygaard
 groups:
@@ -31,6 +38,12 @@ modern_impact: Nygaard's observation that pilots have 'mostly ignored these prot
   while the 'selfies' phenomenon shows how even catastrophe becomes content in the
   ICE age. This article foreshadows the June memorial services and the pilgrimages
   that will continue for years.
+modern_impact_de: Nygaards Beobachtung, Piloten hätten „diese Protokolle größtenteils
+  ignoriert“, zeigt die Grenzen föderaler Autorität in der Nachkriegszeit. Die Platzierung
+  des Gedenkfeuers verwandelt einen Ort militärischen Sieges in einen Ort kollektiver
+  Trauer, während das Selfie-Phänomen zeigt, wie selbst Katastrophen im ICE-Zeitalter
+  zu Content werden. Dieser Artikel weist auf die Gedenkfeiern im Juni und die Pilgerfahrten
+  voraus, die über Jahre andauern werden.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -39,6 +52,18 @@ related_uuids:
 - e31dd4f2-2586-5383-bf68-3cc4ee1e3948
 - 4e4e905b-73b7-54be-a20b-4c447f8ff3e7
 - 98c71f5f-b348-5f4b-ac65-187ffbbb1f4b
+body_de: |
+  Das Wrack des Titan Cocijo weit über der Erde hat in den vergangenen Wochen Tausende Schiffe angezogen.
+
+  Wie bereits ausführlich im Dezember berichtet, brachten gemeinsame Anstrengungen der Federal Navy, der Piloten-Föderation und anderer unabhängiger Piloten den letzten verbliebenen Thargoid-Titan zu Fall, nachdem dieser das Sol-System angegriffen hatte. Die Zerstörung des Titan Cocijo wurde am 18. Dezember 3310 bestätigt.
+
+  Aus einem Artikel von Jason Nygaard von den Federal Times:
+
+  „Tausende Schiffe sind über das Wrack des Titan Cocijo hergefallen, nun da die ätzende Wolke, die das Mutterschiff zurückließ, auf weniger gefährliche Werte abgeklungen ist. Manche wollen eine Trophäe dieses militärischen Sieges ergattern, andere wissen über Thargoid-Technologie lernen. Wieder andere posieren für Selfies und nutzen externe Kameramodule, um den perfekten Schnappschuss für die ICE-Kanäle zu machen.“
+
+  „Föderale Behörden hatten versucht, die Zahl der Besucher am Ort zu begrenzen – mit Verweis auf militärische Sicherheit und Sicherheitsbedenken. Doch da andere Titan-Wracks ähnlich beliebt sind, haben abenteuerlustige Piloten diese Protokolle größtenteils ignoriert, und es scheint wenig Bereitschaft zu geben, sie durchzusetzen.“
+
+  Ein Gedenkfeuer, um an die Verlorenen des Zweiten Thargoid-Kriegs und der Schlacht um Sol zu erinnern, wurde im System platziert.
 ---
 
 

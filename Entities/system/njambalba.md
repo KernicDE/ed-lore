@@ -30,6 +30,21 @@ bio: 'Njambalba is a system in Elite Dangerous, significant from 3301-12-22 to 3
   invasion, with her upgraded Our Dolph''s Route...; Sandra Corrs requests pilot volunteers
   to deliver festive gifts after a hack wiped Our Dolph''s Routes delivery data, forcing
   pilots to scan a beaco...'
+bio_de: "Njambalba ist ein unabhängiges System, das vor allem für Frost Dock bekannt ist,
+  einen Außenposten, der als saisonaler Logistik-Hub für karitative und festliche
+  Aktionen diente. Im Dezember 3301 startete Clauss Incorporated einen erfolgreichen
+  Aufruf zu Special Gifts, bei dem hunderte Piloten Waren von Frost Dock in Njambalba
+  nach Clauss Port in Santa Muerte transportierten. CEO Nicolas St Clauss dankte den
+  Mitwirkenden und verschenkte hunderte Schiffe an teilnehmende Piloten.
+
+  Das System wurde später mit Sandra's Workshop assoziiert, dem größten Hersteller
+  von Kinderspielzeug in den Kernsystemen, der Frost Dock als Verteilzentrum für
+  festliche Geschenklieferungen nutzte. Als gewerbliche Transportflotten während des
+  Thargoid-Konflikts der Evakuierungsunterstützung zugeteilt wurden, übernahmen
+  unabhängige Piloten die Lieferung von Geschenken aus Njambalba an Kinder in den
+  gesamten Kernsystemen. Njambalbas Rolle als Drehkreuz gemeinschaftlicher karitativer
+  Aktionen zeigte, wie selbst abgelegene Systeme zu kritischen Knotenpunkten
+  galaxisweiter humanitärer und festlicher Logistik werden konnten."
 ---
 
 

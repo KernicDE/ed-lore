@@ -1,14 +1,20 @@
 ---
 uuid: 5c1edfc9-c711-54c9-8ccc-072efce0bdcf
 title: 'Mandalay Released: Zorgon Peterson’s SCO-Friendly Explorer Ships Out'
+title_de: 'Mandalay freigegeben: Zorgon Petersons SCO-kompatibles Explorationschiff ausgeliefert'
 slug: mandalay_released_zorgon_petersons_sco_friendly_explorer_ships_out
 date: '3310-10-31'
 source: API
 summary: Zorgon Peterson's Mandalay exploration vessel, optimised for Achilles Aerospace's
   SCO frame shift drive, is now available for purchase at shipyards across the core
   systems.
+summary_de: Zorgon Petersons Explorationschiff Mandalay, optimiert für Achilles Aerospace's
+  SCO-Frameshiftantrieb, ist nun in Werften in den gesamten Kernsystemen käuflich zu
+  erwerben.
 player_impact: The first run of Mandalay ships was delivered to shipyards across the
   core systems and became available for purchase.
+player_impact_de: Die erste Serie von Mandalay-Schiffen wurde in Werften in den gesamten
+  Kernsystemen ausgeliefert und steht nun zum Kauf bereit.
 persons:
 - Devin Kaneda
 groups:
@@ -31,11 +37,28 @@ modern_impact: Kaneda's emphasis on atmospheric handling and SCO drive optimisat
   disagreement between representatives and Zorgon Peterson management over Achilles'
   design input' hints at corporate tension between Sirius and Zorgon that may affect
   future ship development.
+modern_impact_de: Kanedas Betonung der atmosphärischen Handhabung und der SCO-Antriebsoptimierung
+  positioniert die Mandalay als führendes mittelgroßes Explorationschiff. Das Gerücht
+  ‚über einen anhaltenden Meinungsstreit zwischen Vertretern und dem Management von Zorgon
+  Peterson über Achilles' Designbeitrag' deutet auf Spannungen zwischen Sirius und Zorgon
+  an, die die künftige Schiffsentwicklung beeinflussen könnten.
 legacy_weight: 2
 significance: low
 related_uuids:
 - 326805e7-3005-5e8c-976c-a10a6be6070b
 - a5b9e2d4-6885-5c74-8e5b-278e557e3388
+body_de: |
+  Die erste Serie von Mandalay-Schiffen wurde in Werften in den gesamten Kernsystemen ausgeliefert und ist nun käuflich zu erwerben.
+
+  Zorgon Petersons Mandalay ist nach der Python Mk. II und der Type-8 das dritte neue Schiff, das für Achilles Aerospace's SCO-Frameshiftantrieb optimiert wurde, und zielt darauf ab, das führende mittelgroße Explorationschiff zu werden.
+
+  Chief Marketing Officer Devin Kaneda sandte eine Pressemitteilung an alle Werftniederlassungen:
+
+  „Die Mandalay ermöglicht Piloten eine beträchtliche Sprungweite bei gleichzeitiger Beibehaltung der Manövrierfähigkeit ihrer Größenklasse und erweitert die Reichweite künftiger Erkundungsreisen dieser Klasse. Unsere Techniker haben sichergestellt, dass das Schiff sich unter atmosphärischen Bedingungen außergewöhnlich handhaben lässt, was den Abstieg zu unentdeckten Welten erleichtert."
+
+  „Eine Neubetrachtung der strukturellen Belastungsfestigkeit in Zusammenarbeit mit Ingenieuren von Achilles hat dazu geführt, dass die Mandalay den SCO-Frameshiftantrieb voll ausschöpft. Wir glauben, dass dieses Schiff für Piloten, die die Galaxis effizient, komfortabel und mit Stil erkunden wollen, ein außergewöhnliches Gesamtpaket ist."
+
+  Auffällig auf der Release-Party der Mandalay war das Fehlen eines Vertreters der Sirius Corporation. Gerüchte über einen anhaltenden Meinungsstreit zwischen Vertretern und dem Management von Zorgon Peterson über Achilles' Designbeitrag sind in den letzten Wochen lauter geworden.
 ---
 
 

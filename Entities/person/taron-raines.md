@@ -7,6 +7,8 @@ last_seen_date: '3311-04-24'
 mention_count: 1
 bio: 'Taron Raines is a prominent figure in the Elite Dangerous universe, active from
   3311-04-24 to 3311-04-24. Closely associated with Faulcon DeLacy. '
+bio_de: 'Taron Raines ist eine bedeutende Figur im Elite-Dangerous-Universum, aktiv
+  von 3311-04-24 bis 3311-04-24. Eng mit Faulcon DeLacy verbunden. '
 ---
 
 

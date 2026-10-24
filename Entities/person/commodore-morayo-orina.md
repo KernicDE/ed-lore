@@ -9,6 +9,10 @@ bio: Commodore Morayo Orina is a prominent figure in the Elite Dangerous univers
   active from 3311-06-18 to 3311-06-18. Closely associated with Thargoid, Federal
   Navy. A memorial beacon near the Titan Cocijo wreckage draws visitors, while Commodore
   Morayo Orina honours the lost at a Sol memorial service.
+bio_de: Commodore Morayo Orina ist eine prominente Figur im Elite-Dangerous-Universum,
+  aktiv von 3311-06-18 bis 3311-06-18. Eng verbunden mit Thargoid, Bundesmarine. Ein
+  Gedenksignal nahe des Wracks des Titan Cocijo zieht Besucher an, während Commodore
+  Morayo Orina bei einer Gedenkveranstaltung in Sol der Gefallenen gedenkt.
 ---
 
 

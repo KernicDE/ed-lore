@@ -16,6 +16,24 @@ bio: 'Kumo Council is a government active in Elite Dangerous lore from 3307-04-1
   c3-14, Kumo Crew. Key activities include: The Kumo Crew syndicate launches a campaign
   to construct up to five new Orbis starports in uninhabited systems near key trading
   regions.; The Kumo Crew''s starport construction campaign concludes successfully.'
+bio_de: Der Kumo Council ist das herrschende Gremium des Syndikats Kumo Crew, gegründet
+  vom Piratenkriegsherrn Archon Delaine, um die Kontrolle über sein kriminelles
+  Imperium zu delegieren. Jedes Mitglied des Councils trägt den Titel eines Korsaren
+  und überwacht eine Region oder ein System im Kumo-Territorium, während Delaines
+  engste Vertraute – bekannt als Erzkorsaren – strategische Ziele mit ihm erarbeiten.
+
+  Im April 3308 ernannte Delaine Callan Salamanca nach dem Tod seines Vaters Gideon
+  „Seelenlos“ Salamanca, einem der berüchtigtsten Warlords des Pegasi-Sektors, zum
+  neuen Erzkorsar. Zum inneren Kreis des Councils gehörten zu dieser Zeit Vidar
+  Trask, ein erfahrener Verwalter, der Delaine seit vielen Jahren nahestand, und
+  Kay Volantyne, ursprünglich Teil des Dredger-Clans des Blue Viper Club, bevor sie
+  dessen Bündnis mit der Kumo Crew aushandelte. Der Council übernahm außerdem die
+  Kontrolle über von den Thargoiden invasierte Systeme und koordinierte Anti-Xeno-Initiativen
+  vom Megaschiff Mictlan im California-Nebel – ein Schritt, den Harrison Gladstone
+  von der Turner Research Group als illegale Besetzung alliierten Territoriums verurteilte.
+  Delaines Nutzung des Kumo Councils untermauert seine selbsternannte Position als
+  „Souveräner Herrscher der Kumo-Nation“, wobei der Council häufig gezwungen ist,
+  die brutalen Exzesse ihres Regenten zu rechtfertigen oder abzustreiten.
 ---
 
 

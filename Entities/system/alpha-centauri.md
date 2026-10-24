@@ -29,6 +29,24 @@ bio: 'Alpha Centauri is a system in Elite Dangerous, significant from 3301-09-03
   megaships deployed near Sol are destroyed by Thargoid forces within minutes of arrival,
   leaving only Rescue Ship Hutner and R...; The technological plague continues to
   affect starports across inhabited space.'
+bio_de: |
+  Alpha Centauri ist Piloten weniger für seine astronomische Bedeutung bekannt
+  als für Hutton Orbital, einen Sternenhafen, der erschöpfende 0,22 Lichtjahre vom
+  Eintrittspunkt des Systems entfernt liegt – eine Distanz, die zahllose unerfahrene
+  Piloten stranden ließ, die vor dem Anflug nicht ihre Treibstoffreserven prüften.
+  Im Jahr 3301 nutzte der Hersteller von Kuriositäten BlipMagnet die Berühmtheit
+  der Station, indem er den Hutton Mug produzierte, einen Gedenkbecher, der angeblich
+  aus geborgenen Frameshiftantrieb-Platten von Schiffen gefertigt war, die unterwegs
+  ohne Treibstoff auskamen, und so aus einer Navigationsgefahr ein Ehrenabzeichen machte.
+
+  Die düsterere Bedeutung des Systems zeigte sich im Dezember 3310, als Thargoid-Kräfte
+  das Rettungsmegaschiff Cavell in Alpha Centauri innerhalb von Minuten nach seiner
+  Ankunft zerstörten, als Teil eines koordinierten Angriffs auf in der Nähe von Sol
+  stationierte Rettungsmegaschiffe. Die Präzision des Angriffs – einer von sieben
+  gleichzeitigen Schlägen, von denen nur zwei Megaschiffe einsatzbereit blieben –
+  deutete darauf hin, dass die Thargoids über Informationen zu humanitären
+  Einsätzen verfügten und verwandelte Alpha Centauri von einem Pilgerort für
+  stur bleibende Piloten in eine Frontverlust der Titan-Kriegszeit.
 ---
 
 

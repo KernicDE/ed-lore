@@ -27,6 +27,9 @@ bio: Santy is a star system in the Elite Dangerous universe, significant from 33
   to 3311-07-17. Associated with Sirius Corporation. Aisling retained Daikulcandi
   but lost Gondul and Santy.
 reserve: Common
+bio_de: "Santy ist ein Sternensystem im Elite-Dangerous-Universum, relevant von 3311-07-17
+  bis 3311-07-17. Assoziiert mit Sirius Corporation. Aisling behielt Daikulcandi,
+  verlor aber Gondul und Santy."
 ---
 
 <!-- AUTO-GENERATED -->

@@ -10,6 +10,12 @@ bio: Large Mining Hardpoint is a technology in the Elite Dangerous universe, men
   Lakon Spaceways declared the Type-11 Prospector mining trials a success after pilots
   reported unprecedented fragment yields, and announced a permanent 8% boost to the
   Squadron mining perk.
+bio_de: Large Mining Hardpoint ist eine Technologie im Elite-Dangerous-Universum,
+  erwähnt von 3311-09-29 bis 3311-10-13. Entwickelt oder genutzt von Lakon Spaceways
+  und den Alioth Independents. Lakon Spaceways erklärte die Erprobungsflüge des
+  Type-11 Prospector für erfolgreich, nachdem Piloten von noch nie dagewesenen
+  Fragmentausbeuten berichtet hatten, und kündigte eine dauerhafte Erhöhung des
+  Bergbau-Bonus für Staffeln um 8 % an.
 ---
 
 

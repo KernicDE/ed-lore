@@ -1,13 +1,18 @@
 ---
 uuid: 952d5b46-745c-57fb-bc9a-1458b6d1323a
 title: 'Powerplay Standings: April 3311'
+title_de: 'Powerplay-Rangliste: April 3311'
 slug: powerplay_standings_april_3311
 date: '3311-04-29'
 source: API
 summary: Vox Galactica releases April 3311 powerplay standings, with Li Yong-Rui showing
   the largest influence increase.
+summary_de: Vox Galactica veröffentlicht die Powerplay-Rangliste für April 3311; Li
+  Yong-Rui verzeichnet den größten Einflusszuwachs.
 player_impact: Community actions and expansions directly shaped the monthly influence
   rankings, with Li Yong-Rui showing the largest increase (+59 systems).
+player_impact_de: Community-Aktionen und Expansionen prägten die monatlichen Einflussrankings
+  direkt; Li Yong-Rui verzeichnete den größten Zuwachs (+59 Systeme).
 persons:
 - Conrad Sterling
 - Edmund Mahon
@@ -25,6 +30,25 @@ modern_impact: 'Li Yong-Rui''s 59-system gain occurs in the months following the
   its influence network. The standings reveal a galaxy in flux: Mahon''s narrow lead
   over Aisling Duval (25 systems) hints at the Alliance trade boom that will dominate
   June.'
+modern_impact_de: Li Yong-Ruis Gewinn von 59 Systemen fällt in die Monate nach der
+  Beendigung des Bündnisses zwischen Allianz und Sirius und deutet darauf hin, dass
+  die Sirius Corp die politische Krise nutzte, um ihr Einflussnetz auszubauen. Die Rangliste
+  zeigt eine Galaxis im Umbruch. Mahons knapper Vorsprung vor Aisling Duval (25 Systeme)
+  weist auf den Allianz-Handelsboom hin, der im Juni dominieren wird.
+body_de: |
+  Die diesmonatige Analyse des Einflusses zentraler Persönlichkeiten in den Kernsystemen ist eingetroffen, erstellt von Conrad Sterling von Vox Galactica.
+
+  Seine jüngste Erhebung unter den Systembevölkerungen ergibt, dass die folgenden fünf Großmächte den größten Einflussbereich genießen:
+
+  Rang 1: Edmund Mahon – 1.461 Systeme
+  Rang 2: Aisling Duval – 1.436 Systeme
+  Rang 3: Arissa Lavigny-Duval – 1.366 Systeme
+  Rang 4: Yuri Grom – 1.041 Systeme
+  Rang 5: Li Yong-Rui – 860 Systeme
+
+  Den größten Zuwachs an Systemeinfluss verzeichnete Li Yong-Rui, der 59 weitere Systeme als Anhänger für sich verbuchen kann.
+
+  Vox Galactica wird nächsten Monat eine weitere Aktualisierung zum Stand der Großmächte liefern.
 legacy_weight: 2
 significance: low
 related_uuids:

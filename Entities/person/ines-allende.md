@@ -11,6 +11,13 @@ bio: Ines Allende is a engineer in the Elite Dangerous universe, active from 330
   Imperial ship without Navy rank requirement, praised by lead engineer Ines Allende
   and Princess Aisling Duval. Lead engineer Ines Allende attributed the success to
   maintaining the Eagle Mk II's core design while improving key elements.
+bio_de: Ines Allende ist eine Ingenieurin im Elite-Dangerous-Universum, aktiv von
+  3301-10-13 bis 3311-04-08. Eng verbunden mit der imperialen Marine, Core Dynamics,
+  Gutamaya Shipyards. Gutamayas Corsair wird als erstes kommerziell erhältliches Mehrzweck-Schiff
+  des Imperiums ohne Rangvoraussetzung in der Marine vorzeitig ausgeliefert, gelobt
+  von Chefingenieurin Ines Allende und Prinzessin Aisling Duval. Chefingenieurin Ines
+  Allende führte den Erfolg darauf zurück, das Kerndesign der Eagle Mk II beizubehalten
+  und zugleich zentrale Elemente zu verbessern.
 ---
 
 

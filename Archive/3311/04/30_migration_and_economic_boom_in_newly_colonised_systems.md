@@ -1,15 +1,23 @@
 ---
 uuid: 45295efb-8e6c-56e6-92e8-48fce0eba091
 title: Migration and Economic Boom in Newly Colonised Systems
+title_de: Migration und wirtschaftlicher Boom in neu kolonisierten Systemen
 slug: migration_and_economic_boom_in_newly_colonised_systems
 date: '3311-04-30'
 source: API
 summary: Billions of migrants flock to newly colonized systems, driving an unprecedented
   economic boom. Professor Irene Ralston of Olympus Village University describes it
   as 'the largest migration event in human history.'
+summary_de: Milliarden von Migranten strömen in neu kolonisierte Systeme und treiben
+  einen beispiellosen wirtschaftlichen Boom voran. Professorin Irene Ralston von der
+  Olympus Village University beschreibt ihn als „das größte Migrationsereignis in der
+  Geschichte der Menschheit".
 player_impact: Independent pilots established the colonies that billions of migrants
   are now flocking to. The Trailblazer fleet megaships currently supply many of these
   colonies.
+player_impact_de: Unabhängige Piloten errichteten die Kolonien, zu denen nun Milliarden
+  von Migranten strömen. Die Megaschiffe der Trailblazer-Flotte versorgen derzeit viele
+  dieser Kolonien.
 persons:
 - Irene Ralston
 groups:
@@ -29,6 +37,28 @@ modern_impact: Ralston's observation that 'the upheaval of the recent Thargoid i
   the colonisation wave. The expectation that the Trailblazer fleet will be 'repurposed
   for other duties' once colonies self-sustain foreshadows Brewer Corporation's November
   withdrawal announcement and the fleet's replacement by the Dodec Starport.
+modern_impact_de: Ralstons Feststellung, dass „die Umwälzungen der jüngsten Thargoid-Invasion
+  die Entscheidungsfindung beeinflusst haben", benennt den psychologischen Motor hinter
+  der Kolonisationswelle. Die Erwartung, dass die Trailblazer-Flotte einmal „für andere
+  Aufgaben umfunktioniert" wird, sobald sich die Kolonien selbst versorgen können, weist
+  auf Brewer Corporations Rückzugsankündigung im November und den Ersatz der Flotte durch
+  den Dodec Starport voraus.
+body_de: |
+  Aus den Kernsystemen strömen Migranten, um in den Tausenden kürzlich gegründeten Kolonien ein neues Leben zu beginnen.
+
+  Eine Welle unabhängiger Kolonisationsanstrengungen der vergangenen Monate hat das menschliche Territorium erheblich vergrößert. Zwar wurden viele dieser Sternensysteme als „Wegpunkte" eingestuft, mit einzelnen Andockaußenposten für Reisen zwischen Systemen mit umfangreicherer Infrastruktur, doch eine beträchtliche Zahl wurde mit mehreren Sternenhäfen und Siedlungen ausgebaut.
+
+  Dorthin zieht es nun Milliarden von Menschen, in der Hoffnung, neu anzufangen. Arbeiter und ihre Familien treffen in großer Zahl ein und bringen einen deutlichen Schub der Wirtschaftsleistung mit sich.
+
+  Mit dem Zustrom an Bevölkerung werden die neuen Kolonien besser in der Lage sein, ihre eigenen koloniebezogenen Waren herzustellen; ihre Wirtschaften werden nun durch die Vernetzung von Anlagen und Märkten im gesamten System getragen. Analysten sind überzeugt, dass diese Fähigkeit zur Selbstversorgung der Expansion langfristig entscheidend für den Erfolg der Kolonien sein wird.
+
+  Professorin Irene Ralston, Leiterin der politischen Geschichte an der Olympus Village University, schrieb für die Federal Times:
+
+  „Man kann wohl sagen, dass dies dem Ausmaß nach das größte Migrationsereignis in der Geschichte der Menschheit ist. Diese Migration scheint von der Hoffnung auf ein neues Kapitel getrieben zu sein – auf die Chance, Teil einer ‚neuen Grenze' zu werden. Zweifellos hatten die Umwälzungen der jüngsten Thargoid-Invasion Einfluss auf die Entscheidungsfindung, aber die schiere Anzahl der Beteiligten ist faszinierend."
+
+  Es wird erwartet, dass die Trailblazer-Flotte von Megaschiffen der Brewer Corporation, die derzeit viele Kolonien versorgt, einmal für andere Aufgaben umfunktioniert wird, sobald sich Wirtschaften und Bevölkerungen etabliert haben.
+
+  Brewer Corporation gab zudem bekannt, dass sie eine Reihe von Sonderlayouts und dekorativen Ausstattungspaketen vorbereitet hat, mit denen Architekten ihre Neubauten optisch gestalten können. Diese neueste Innovation des Industriegiganten ist ab sofort verfügbar.
 legacy_weight: 5
 significance: high
 related_uuids:

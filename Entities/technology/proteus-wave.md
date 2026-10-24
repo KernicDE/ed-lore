@@ -10,6 +10,25 @@ bio: Proteus Wave is a technology in the Elite Dangerous universe, mentioned fro
   Anti-xeno forces led by AXI and XSF planned a blockade to eliminate lingering Thargoid
   presence in HIP 22460, the staging ground for Salvation's disastrous Proteus Wave
   weapon.
+bio_de: Die Proteus-Welle war Salvations ambitionierteste und letztlich katastrophale
+  Anti-Thargoid-Waffe, entwickelt auf Basis von Forschungen, die sowohl auf den
+  Archiven von Aegis als auch auf den proprietären Technologien von Azimuth
+  Biochemicals aufbauten. Im System HIP 22460 eingesetzt, sollte die Waffe einen
+  verheerenden Energieimpuls liefern, der in der Lage war, Thargoid-Schiffe in einem
+  weiten Gebiet auszuschalten. Ihre Konstruktion spiegelte Salvations wachsenden
+  Einfluss auf die Anti-Xeno-Strategie und seine Bereitschaft wider, Lösungen zu
+  verfolgen, die konventionelle militärische und wissenschaftliche Institutionen für
+  zu riskant oder ethisch fragwürdig hielten.
+  
+  Die Aktivierung der Waffe hatte Folgen weit über die vorgesehenen Ziele hinaus und
+  löste eine Katastrophe aus, die den Thargoid-Konflikt neu formte und die Gefahren
+  unverantwortlicher Akteure für die Verteidigung der Menschheit offenlegte.
+  Anti-Xeno-Kräfte unter Führung von AXI und XSF planten anschließend Blockaden, um
+  die verbliebene Thargoid-Präsenz in HIP 22460, dem Ausgangspunkt der gescheiterten
+  Waffe, zu beseitigen. Die Proteus-Wellen-Katastrophe diente als ernüchternde
+  Erinnerung daran, dass technologische Überlegenheit und gute Absichten keinen
+  Erfolg gegen einen Gegner garantieren können, dessen Fähigkeiten und Motive dem
+  menschlichen Verständnis fundamental fremd bleiben.
 ---
 
 

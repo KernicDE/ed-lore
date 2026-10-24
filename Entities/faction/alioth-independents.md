@@ -17,6 +17,17 @@ bio: 'Alioth Independents is a organization active in Elite Dangerous lore from 
   causing investor flight from Herculean Machines, the announcement of Alliance presidenti...;
   78 Ursae Majoris was secured after independent pilots participated in a security
   campaign led by Mayor Andrew Bailey of the Alioth Independents.'
+bio_de: Die Alioth Independents sind eine Fraktion im Alioth-System, die die unabhängige
+  politische Tradition der Gründungswelt der Alliance repräsentiert. Die Gruppe war
+  an territorialen Konflikten und Machtkämpfen beteiligt, die die Spannungen zwischen
+  Föderalismus der Alliance und lokaler Autonomie widerspiegeln.
+
+  Die Rolle der Independents in der Politik von Alioth unterstreicht die komplexe
+  Regierungsstruktur der Alliance, in der Fraktionen auf Systemebene mit der Zentralregierung
+  um Ressourcen und Befugnisse verhandeln. Ihre Präsenz im Hauptsystem der Alliance
+  verdeutlicht das anhaltende Gleichgewicht zwischen dem kollektiven Entscheidungsprozess
+  der Alliance Assembly und dem Wunsch einzelner Systeme, ihre unabhängige Identität
+  zu bewahren.
 ---
 
 

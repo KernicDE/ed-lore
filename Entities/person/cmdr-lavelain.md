@@ -9,6 +9,11 @@ bio: CMDR Lavelain is a prominent figure in the Elite Dangerous universe, active
   3311-03-24 to 3311-03-24. Closely associated with Brewer Corporation. Brewer Corporation
   mobilizes to correct the dangerously turbulent orbit of Lantern Light station, deployed
   too close to a neutron star by architect CMDR Lavelain.
+bio_de: CMDR Lavelain ist eine bedeutende Figur im Elite-Dangerous-Universum, aktiv
+  vom 3311-03-24 bis 3311-03-24. Eng assoziiert mit der Brewer Corporation. Die Brewer
+  Corporation mobilisiert, um die gefährlich turbulente Umlaufbahn der Station Lantern
+  Light zu korrigieren, die der Architekt CMDR Lavelain zu nahe an einen Neutronenstern
+  platziert hatte.
 ---
 
 

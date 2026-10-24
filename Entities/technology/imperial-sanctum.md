@@ -7,6 +7,8 @@ last_seen_date: '3310-12-06'
 mention_count: 1
 bio: 'Imperial Sanctum is a technology in the Elite Dangerous universe, mentioned
   from 3310-12-06 to 3310-12-06. Developed or used by Wolf 359. '
+bio_de: Imperial Sanctum ist eine Technologie im Elite-Dangerous-Universum, erwähnt
+  am 3310-12-06. Entwickelt oder genutzt von Wolf 359.
 ---
 
 

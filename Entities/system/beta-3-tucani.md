@@ -26,6 +26,12 @@ bio: Beta-3 Tucani is a star system in the Elite Dangerous universe, significant
   a surprise assault on Archon Delaine's flagship, the Mictlan, in Beta-3 Tucani.
   The conflict between Imperial forces and Archon Delaine in Beta-3 Tucani concluded
   with an Imperial victory.
+bio_de: |
+  Beta-3 Tucani ist ein Sternensystem im Elite-Dangerous-Universum, von Bedeutung
+  vom 3311-06-12 bis 3311-06-26. Assoziiert mit der Imperial Navy. Imperiale Kräfte
+  starten in Beta-3 Tucani einen Überraschungsangriff auf Archon Delaines Flaggschiff,
+  die Mictlan. Der Konflikt zwischen Imperialen Kräften und Archon Delaine in
+  Beta-3 Tucani endete mit einem Imperialen Sieg.
 reserve: Low
 ---
 

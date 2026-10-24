@@ -26,6 +26,9 @@ edsm_url: https://www.edsm.net/en/system/id/13212/name/Barnard%27s%20Star
 inara_url: https://inara.cz/elite/starsystem/?search=Barnard%27s%20Star
 bio: 'Barnard''s Star is a star system in the Elite Dangerous universe, significant
   from 3310-12-06 to 3311-01-09. Associated with Aegis, Wolf 359. '
+bio_de: |
+  Barnard's Star ist ein Sternensystem im Elite-Dangerous-Universum, von Bedeutung
+  vom 3310-12-06 bis 3311-01-09. Assoziiert mit Aegis, Wolf 359.
 reserve: Depleted
 ---
 

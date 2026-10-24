@@ -8,6 +8,9 @@ mention_count: 1
 bio: 'Thargoid Titan wreckage is a technology in the Elite Dangerous universe, mentioned
   from 3310-10-16 to 3310-10-16. Developed or used by Shamus Madigan, Achilles Aerospace,
   Aegis. '
+bio_de: Thargoid-Titan-Trümmer sind eine Technik im Elite-Dangerous-Universum,
+  erwähnt von 3310-10-16 bis 3310-10-16. Entwickelt oder genutzt von Shamus Madigan,
+  Achilles Aerospace und Aegis.
 ---
 
 

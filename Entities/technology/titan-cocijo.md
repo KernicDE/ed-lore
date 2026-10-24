@@ -11,6 +11,24 @@ bio: Titan Cocijo is a technology in the Elite Dangerous universe, mentioned fro
   knowledge, and memorials, with Federal authorities struggling to enforce visitor
   limits. A memorial beacon near the Titan Cocijo wreckage draws visitors, while Commodore
   Morayo Orina honours the lost at a Sol memorial service.
+bio_de: Titan Cocijo war eines der massiven bio-mechanischen Schiffe der Thargoids,
+  die in den 3310er Jahren die alien Invasion anführten und sowohl als mobile Basis
+  als auch als Waffe von noch nie dagewesener zerstörerischer Kraft dienten. Diese
+  Titans stellten den Höhepunkt der Thargoid-Technik dar und verbanden organische
+  Wachstumsmuster mit integrierter Technologie zu sich selbst erhaltenden Kriegsschiffen,
+  die große Mengen kleinerer Schiffe einsetzen konnten. Ihr Auftauchen über menschlichen
+  Welten markierte die schwerste Eskalation des jahrhundertealten Konflikts zwischen
+  der Menschheit und den Thargoids.
+
+  Nach seiner Zerstörung blieb das Wrack des Titan Cocijo in einer Umlaufbahn über
+  der Erde zurück und wurde zu einem unbeabsichtigten Monument – sowohl für die Verwüstung
+  durch die Invasion als auch für die Fähigkeit der Menschheit, sich ihr schließlich
+  zu widersetzen. Die Behörden der Föderation hatten Mühe, Besucherlimits durchzusetzen,
+  während Piloten anreisten, um Trophäen, wissenschaftliche Erkenntnisse und persönliche
+  Erinnerungen zu finden. Kommodore Morayo Orina leitete später einen offiziellen Gedenkgottesdienst
+  an einer Bake nahe des Wracks und ehrte damit die in den Schlachten um den Sturz
+  des Titans Gefallenen, wobei sie die komplexen Gefühle anerkannte, die die Stätte
+  bei einer Spezies auslöste, der mit dem Aussterben gedroht hatte.
 ---
 
 

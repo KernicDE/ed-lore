@@ -16,6 +16,12 @@ bio: Davies High is a star system in the Elite Dangerous universe, significant f
   League, Alliance Elite Diplomatic Corps. A pirate group had attempted to rename
   the Lave Cluster the 'New Caribbean', but undercover AEDC agents worked with local
   groups to prepare for a swift retaking of Davies High.
+bio_de: Davies High ist ein Sternensystem im Elite-Dangerous-Universum, bedeutend
+  von 3301-04-26 bis 3311-12-02. Assoziiert mit Workers of Lave Liberals, Pro-Alliance
+  League und dem Alliance Elite Diplomatic Corps. Eine Piratengruppe hatte versucht,
+  den Lave-Cluster in die „Neue Karibik“ umzubenennen, doch verdeckt agierende AEDC-Agenten
+  arbeiteten mit lokalen Gruppen zusammen, um eine schnelle Rückeroberung von Davies
+  High vorzubereiten.
 system: Reorte
 station_type: Orbital Station
 distance_to_arrival: 374

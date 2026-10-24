@@ -1,13 +1,18 @@
 ---
 uuid: 17db014d-0a81-5ef4-bf2b-ddc70738c828
 title: Cobra Mk V Enters Full Production
+title_de: Cobra Mk V läuft in Vollproduktion
 slug: cobra_mk_v_enters_full_production
 date: '3311-04-24'
 source: API
 summary: Faulcon DeLacy's Cobra Mk V enters full production, offering improved handling,
   modularity, and SCO drive compatibility.
+summary_de: Die Cobra Mk V von Faulcon DeLacy läuft in Vollproduktion und bietet verbessertes
+  Handling, Modularität sowie Kompatibilität mit SCO-Frameshiftantrieben.
 player_impact: The Cobra Mk V became available for purchase at shipyards across the
   core systems, particularly in high-tech economy systems.
+player_impact_de: Die Cobra Mk V wurde in Werften in den gesamten Kernsystemen, insbesondere
+  in Systemen mit High-Tech-Wirtschaft, zum Kauf verfügbar.
 persons:
 - Taron Raines
 groups:
@@ -24,6 +29,23 @@ modern_impact: Taron Raines's framing — 'a perfect balance of capability and a
   premium vessels. The emphasis on 'SCO enabled frame shift drives' ties the Mk V
   to the Trailblazer colonisation infrastructure, positioning it as the ideal vessel
   for frontier expansion.
+modern_impact_de: Taron Raines’ Formulierung – „eine perfekte Balance aus Leistung und
+  Erschwinglichkeit" – zielt auf den riesigen Markt unabhängiger Piloten, die sich imperiale
+  oder föderale Premium-Schiffe nicht leisten können. Die Betonung von „SCO-fähigen Frameshiftantrieben"
+  verknüpft die Mk V mit der Trailblazer-Kolonisationsinfrastruktur und positioniert
+  sie als ideales Schiff für die Expansion an der Grenze.
+body_de: |
+  Faulcon DeLacy hat bestätigt, dass die Cobra Mk V in Vollproduktion gegangen ist; die Auslieferungen an Werften in den gesamten Kernsystemen haben begonnen.
+
+  Zuvor in limitierter Auflage angeboten, ist die Cobra Mk V die jüngste Weiterentwicklung der legendären Cobra-Baureihe, die Piloten schon lange schätzen, die Vielseitigkeit in kompakter Bauform suchen. Mit verbessertem Handling, Modularität und einem Fokus auf die Kompatibilität mit SCO-fähigen Frameshiftantrieben knüpft die Mk V an den Ruf ihrer Vorgänger an und zielt auf moderne Mehrzweckleistung.
+
+  Taron Raines, Finanzvorstand von Faulcon DeLacy, äußerte sich wie folgt:
+
+  „Dieses Schiff repräsentiert eine perfekte Balance aus Leistung und Erschwinglichkeit. Das Ingenieursteam hat etwas wahrhaft Besonderes erschaffen, das das Erbe eines der beliebtesten Schiffsdesigns der Geschichte ehrt."
+
+  „Mit einem wendigen Profil und hervorragender Leistung im Verhältnis zu Größe und Kosten bietet die Mk V eine Anpassungsfähigkeit, die sie für Piloten in allen Karrierestadien gleichermaßen geeignet macht."
+
+  Die Cobra Mk V ist nun flächendeckend in den Kernsystemen erhältlich. Interessierten Kommandanten wird empfohlen, sich an Werften in Systemen mit High-Tech-Wirtschaft zu wenden.
 legacy_weight: 2
 significance: low
 related_uuids:

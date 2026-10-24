@@ -24,6 +24,15 @@ status: Ongoing
 outcome: Hudson remains president. Winters leads opposition. The eight-year term limit
   was challenged but remains contested.
 significance: medium
+description_de: Die turbulente politische Landschaft der Föderation, geprägt von
+  Präsidentschaftsnachfolge-Krisen, konstitutionellen Machtkämpfen und dem
+  wandelnden Kräfteverhältnis zwischen Hudsons Republikanischer Partei und
+  Winters' Liberaler Partei.
+summary_de: Die politische Landschaft der Föderation von Halseys Präsidentschaft über
+  Hudsons Aufstieg bis zu seinen späteren Versuchen, die Macht über verfassungsrechtliche
+  Grenzen hinaus zu konsolidieren.
+outcome_de: Hudson bleibt Präsident. Winters führt die Opposition an. Die
+  Acht-Jahres-Amtszeitbegrenzung wurde angefochten, bleibt jedoch umstritten.
 ---
 
 

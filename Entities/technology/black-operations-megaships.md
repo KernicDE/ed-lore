@@ -8,6 +8,9 @@ mention_count: 1
 bio: 'black operations megaships is a technology in the Elite Dangerous universe,
   mentioned from 3311-07-03 to 3311-07-03. Developed or used by Jerome Archer, Li
   Yong-Rui, Empire. '
+bio_de: "Black-Operations-Megaschiffe sind eine Technologie im Elite-Dangerous-Universum,
+  erwähnt vom 3311-07-03 bis 3311-07-03. Entwickelt oder genutzt von Jerome Archer,
+  Li Yong-Rui, Empire."
 ---
 
 

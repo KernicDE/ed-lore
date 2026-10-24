@@ -1,14 +1,20 @@
 ---
 uuid: 3dabc3ec-5fc0-5b40-91a9-5028ddd79163
 title: Jerome Archer and Nakato Kaine Increase Supporters
+title_de: Jerome Archer und Nakato Kaine gewinnen Anhänger hinzu
 slug: jerome_archer_and_nakato_kaine_increase_supporters
 date: '3310-08-29'
 source: API
 summary: As Zachary Hudson prepares to leave office, Federal groups shift allegiance
   to Jerome Archer as shadow president, while Nakato Kaine gains Alliance support
   opposing Edmund Mahon's Sirius partnership.
+summary_de: Während Zachary Hudson sein Amt verlässt, wandeln föderale Gruppierungen ihre
+  Loyalität auf Jerome Archer als Schattenpräsidenten um, während Nakato Kaine mit ihrer
+  Opposition gegen Edmund Mahons Partnerschaft mit Sirius allianzische Unterstützung gewinnt.
 player_impact: Federal and Alliance pilots will perform tasks and exploit local resources
   to expand Archer and Kaine's influence respectively.
+player_impact_de: Föderale und allianzische Piloten werden Aufgaben erfüllen und lokale
+  Ressourcen nutzen, um Einfluss von Archer bzw. Kaine auszubauen.
 persons:
 - Jerome Archer
 - Nakato Kaine
@@ -34,6 +40,13 @@ modern_impact: Trevino's analysis that Archer 'will effectively inherit Hudson's
   positions her as a democratic reformer challenging the Alliance's elitist Assembly.
   The parallel rise of both figures — one authoritarian, one reformist — across two
   superpowers is a significant political development.
+modern_impact_de: Trevinos Analyse, dass Archer „effektiv Hudsons politische Machtbasis erbt,
+  die sich über die gesamte Föderation und viele unabhängige Systeme erstreckt“, etabliert
+  Archer als bedeutende Macht. Driscolls Beschreibung Kaines als „Befürworterin einer
+  Wahlreform, die es der Öffentlichkeit erlauben würde, ihre Führer direkt zu wählen“, stellt
+  sie als demokratische Reformkraft heraus, die das elitäre Parlament der Allianz herausfordert.
+  Der parallele Aufstieg beider Figuren — eine autoritär, eine reformerisch — in zwei
+  Großmächten ist eine bemerkenswerte politische Entwicklung.
 legacy_weight: 3
 significance: medium
 related_uuids:
@@ -42,6 +55,20 @@ related_uuids:
 - 0cb46392-4967-5330-90e6-b26b90ef78fb
 - e0b48359-9e1e-557a-b290-f47faa8356bb
 - 52e15d2f-c860-504f-a2e4-4e54c31cb388
+body_de: |
+  Zivile, kommerzielle und politische Gruppierungen innerhalb der Allianz und der Föderation erklären zwei zunehmend hochkarätigen Persönlichkeiten ihre Loyalität.
+
+  Sofia Trevino veröffentlichte eine Zusammenfassung für die Federal Times:
+
+  „Präsident Zachary Hudson war lange Zeit die Aushängesfigur für eine breite Palette föderaler Gemeinschaften und Konzerne. Doch während er sich darauf vorbereitet, das Weiße Haus zu verlassen, verlagern viele davon ihre Loyalität auf den neuen Vorsitzenden der Republikanischen Partei, Vizepräsident Jerome Archer.“
+
+  „Wenn Felicia Winters Präsidentin wird, wird Archer die Rolle des Schattenpräsidenten übernehmen und die republikanische Opposition gegen die regierende Liberale Partei anführen. Er erbt effektiv Hudsons politische Machtbasis, die sich über die gesamte Föderation und viele unabhängige Systeme erstreckt. Viele Millionen Menschen, darunter Mitglieder der Pilotenföderation, werden Aufgaben erfüllen und lokale Ressourcen nutzen, um Archers Einfluss auszubauen.“
+
+  In der Allianz wird inzwischen eine ähnliche Situation erkannt, wie Vanya Driscoll von der Alliance Tribune diskutiert:
+
+  „Ratsmitglied Nakato Kaine ist die Vertreterin des Systems Tionisla und seit mehreren Jahren eine lautstarke Präsenz im Parlament. Sie kandidierte bei den Wahlen 3307 gegen Premierminister Edmund Mahon und gewann trotz letztlicher Niederlage viele Anhänger. Kaine hat sich zudem direkt gegen viele von Mahons Politik ausgesprochen, insbesondere gegen den strategischen Verteidigungspakt mit der Sirius Corporation, mit der Begründung, dass die Gründungsprinzipien der Allianz nicht vor megakonzernlichem Einfluss beugen dürften.“
+
+  „Dadurch ist Kaine zum Sammelpunkt für all jene geworden, die allianzische Systeme eher wie die Old Worlds regiert sehen wollen. Sie ist eine Befürworterin einer Wahlreform, die es der Öffentlichkeit erlauben würde, ihre Führer direkt zu wählen, statt dass das Parlament in ihrem Namen abstimmt. Viele lokale Unternehmen, Organisationen und politische Gremien wurden von Kaines Bestreben angezogen, die Allianz zu verändern.“
 ---
 
 

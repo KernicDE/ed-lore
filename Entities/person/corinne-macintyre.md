@@ -8,6 +8,10 @@ mention_count: 5
 bio: Corinne Macintyre is a political commentator who has covered Imperial politics and
   the activities of Senator Kahina Tijani Loren. She provided analysis on the Prism Senator's
   controversial Federation tour and subsequent disappearance.
+bio_de: Corinne Macintyre ist eine politische Kommentatorin, die über die imperialen
+  Politik und die Aktivitäten von Senatorin Kahina Tijani Loren berichtete. Sie lieferte
+  Analysen zur umstrittenen Föderations-Tournee der Senatorin von Prism und zu deren
+  anschließendem Verschwinden.
 ---
 
 

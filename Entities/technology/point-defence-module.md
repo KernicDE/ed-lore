@@ -7,6 +7,8 @@ last_seen_date: '3311-07-17'
 mention_count: 1
 bio: 'Point Defence module is a technology in the Elite Dangerous universe, mentioned
   from 3311-07-17 to 3311-07-17. Developed or used by Zorgon Peterson. '
+bio_de: Das Point-Defence-Modul ist eine Technologie im Elite-Dangerous-Universum, erwähnt
+  am 17.07.3311. Entwickelt oder genutzt von Zorgon Peterson.
 ---
 
 

@@ -31,6 +31,21 @@ bio: 'Luyten''s Star is a system in Elite Dangerous, significant from 3301-02-14
   near Sol are destroyed by Thargoid forces within minutes of arrival, leaving only
   Rescue Ship Hutner and R...'
 reserve: Common
+bio_de: "Luyten's Star ist ein System der Föderation, nur 12,4 Lichtjahre von Sol entfernt
+  und damit eines der nächstgelegenen bewohnten Systeme der Geburtsstätte der Menschheit.
+  Mit über 13 Millionen Einwohnern wird es von der Earth Defense Fleet corporatistisch
+  regiert und hat eine auf Extraktion ausgerichtete Wirtschaft. Der Sternenhafen Ashby
+  City diente Reisenden zwischen Sol und den äußeren Territorien der Föderation als
+  Zwischenstation.
+
+  Die Bekanntheit des Systems begann im Februar 3301, als Händler in Ashby City über
+  Core-Dynamics-Eagle-Jäger berichteten, die gefährliche Hochgeschwindigkeitsrennen
+  durch Andockschleusen flogen – Teil eines illegalen Renncircuits, der Berichten zufolge
+  im Erde-Mond-System entstanden war. Die Federal Security Forces griffen auffälligerweise
+  nicht ein. Im März 3309 machte Luyten's Star erneut Schlagzeilen, als das Megaschiff
+  Testament des verbotenen Order of the Far God das System verließ, nachdem es Seo
+  Jin-ae vor unbekannten Angreifern gerettet hatte, und die Debatte über den Status
+  des Kults und seine Rolle beim Schutz von Aegis-Personal neu entfachte."
 ---
 
 <!-- AUTO-GENERATED -->

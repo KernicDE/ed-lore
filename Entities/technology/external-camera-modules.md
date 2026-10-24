@@ -8,6 +8,9 @@ mention_count: 1
 bio: 'External Camera Modules is a technology in the Elite Dangerous universe, mentioned
   from 3311-01-29 to 3311-01-29. Developed or used by Federal Navy, Federal Times,
   Jason Nygaard. '
+bio_de: External Camera Modules ist eine Technologie im Elite-Dangerous-Universum,
+  erwähnt am 3311-01-29. Entwickelt oder genutzt von der Federal Navy, Federal Times
+  und Jason Nygaard.
 ---
 
 

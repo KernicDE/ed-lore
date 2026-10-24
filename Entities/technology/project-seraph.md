@@ -10,6 +10,25 @@ bio: Project Seraph is a technology in the Elite Dangerous universe, mentioned f
   Seo, the sole survivor of Project Seraph's 197 test subjects, reveals her intent
   to find and shut down Salvation, whom she believes exists beyond physical death
   in HIP 22460.
+bio_de: Project Seraph ist eines der dunkelsten Kapitel in der Geschichte von Aegis,
+  ein geheimes Forschungsprogramm, das fast zweihundert menschliche Testpersonen
+  experimentellen Verfahren unterzog, die der Entwicklung anti-Thargoid-Fähigkeiten
+  dienen sollten. Das Projekt verkörperte die dunklere Seite wissenschaftlicher
+  Dringlichkeit in Kriegszeiten, in der ethische Grenzen im Namen vermeintlicher
+  Existenzsicherung überschritten wurden. Nur eine Testperson überlebte die
+  Versuchsreihen. Seo Jin-ae, deren Erlebnisse sie zu einer der entschlossensten
+  Gegnerinnen des Architekten des Programms, Salvation, machten.
+  
+  Ende 3310 offenbarte Seo das volle Ausmaß der Gräueltaten von Project Seraph
+  und erklärte ihre Absicht, Salvation zu finden und außer Betrieb zu setzen, von
+  dem sie glaubte, dass er den physischen Tod überwunden habe und als Bewusstsein
+  im System HIP 22460 weiterexistiere. Ihre Enthüllungen, unterstützt von Aegis-Größen
+  wie Alba Tesreau, zeigten auf, wie die Organisation Forschungen geduldet oder aktiv
+  unterstützt hatte, die Menschen als verzichtbares Versuchsmaterial behandelten.
+  Project Seraph wurde so zum Symbol der moralischen Korruption, die entstehen kann,
+  wenn die Angst vor einer äußeren Bedrohung jedes Mittel rechtfertigt, und hinterließ
+  bleibende Wunden bei den Überlebenden wie bei den Institutionen, die solche
+  Praktiken ermöglicht hatten.
 ---
 
 

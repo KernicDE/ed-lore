@@ -1,13 +1,18 @@
 ---
 uuid: a007ba53-6adb-5c77-bd5b-bd4603a04a9d
 title: President Winters Assumes Office
+title_de: Präsidentin Winters tritt ihr Amt an
 slug: president_winters_assumes_office
 date: '3310-10-31'
 source: API
 summary: Felicia Winters is formally sworn in as President of the Federation, pledging
   to redirect funding from corporations to public services and ordering the shutdown
   of the Proactive Detection Bureau.
+summary_de: Felicia Winters wird offiziell als Präsidentin der Föderation vereidigt und
+  verspricht, Mittel von Konzernen auf öffentliche Dienste umzulegen; sie ordnet die
+  Schließung des Proactive Detection Bureau an.
 player_impact: Not specifically mentioned — this is an inauguration article.
+player_impact_de: Nicht explizit erwähnt – es handelt sich um einen Artikel zur Amtseinführung.
 persons:
 - Felicia Winters
 - Isolde Rochester
@@ -36,11 +41,32 @@ modern_impact: Winters' first act — shutting down the Proactive Detection Bure
   of life' defines the Liberal Party agenda that Archer will attack throughout 3311.
   The appointment of Conn Montgomery as Secretary for Defence links him to the Sol
   evacuation three months later.
+modern_impact_de: Winters' erste Amtshandlung – die Schließung des Proactive Detection
+  Bureau und der Vorschlag, den Domestic Counter-Terrorism Act von 3307 aufzuheben –
+  ist eine radikale Datenschutzreform, die Hudsons Überwachungspolitik umkehrt. Ihr
+  Versprechen, ‚Mittel von Konzernen weg und in Gesundheit, öffentliche Dienste und
+  Lebensqualität zu lenken', definiert die Agenda der Liberalen Partei, die Archer
+  während des gesamten Jahres 3311 angreifen wird. Die Ernennung von Conn Montgomery
+  zum Verteidigungsminister verknüpft ihn mit der Evakuierung von Sol drei Monate später.
 legacy_weight: 3
 significance: medium
 related_uuids:
 - 00be4816-785d-537c-9e05-ba4677220927
 - 63001d5d-a245-5343-9227-752c3d47dcca
+body_de: |
+  Die Amtseinführungszeremonie hat stattgefunden: Felicia Winters wurde offiziell als Präsidentin der Föderation vereidigt.
+
+  Präsidentin Winters hielt im Weißen Haus in Olympus Village auf dem Mars eine öffentliche Ansprache:
+
+  „Ich gelobe, im Interesse jedes einzelnen Menschen in unserer Föderation zu arbeiten. Meine Regierung wird Mittel von Konzernen weglenken und in Gesundheit, öffentliche Dienste und Lebensqualität investieren. Gemeinsam werden wir ein neues Zeitalter des Optimismus und der Chancen einläuten!"
+
+  „Meine erste Amtshandlung ist die Anweisung an die Federal Intelligence Agency, das Proactive Detection Bureau zu schließen. Die illegale Überwachung aller Kommunikation endet jetzt. Wir werden dem Kongress vorschlagen, den Domestic Counter-Terrorism Act von 3307 aufzuheben, damit unser Federal Accord das verfassungsmäßige Recht jedes Bürgers auf Privatsphäre wahren kann."
+
+  Die Präsidentschaftswahl fand im Oktober 3309 statt; Felicia Winters lag ihrer Rivalin Jerome Archer mit vier Prozentpunkten voraus. Ihre Amtseinführung verzögerte sich aus mehreren Gründen, darunter die persönliche Tragödie, die die Familie Winters nach verheerenden Erdbeben auf Rhea 3 traf.
+
+  Präsidentin Winters wird von Vizepräsidentin Isolde Rochester unterstützt, der Matriarchin der berühmten Familie Rochester. Die Liberale Partei wird nun eine neue Bundesregierung bilden, angeführt von einem handverlesenen Kabinett. Dazu zählen Kongressabgeordnete Kristine Lasky als Außenministerin, Conn Montgomery als Verteidigungsminister, Bai Zheng als Minister für Sicherheit und Pierre-Marc Pelletier als oberster Bundesstaatsanwalt.
+
+  Der ehemalige Präsident Zachary Hudson hat das Amt offiziell geräumt, das er seit 3301 innehatte. Seine Nachfolgerin, Schattenpräsident Jerome Archer, wird nun die Republikanische Partei als Opposition führen.
 ---
 
 

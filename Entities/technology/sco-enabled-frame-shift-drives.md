@@ -8,6 +8,9 @@ mention_count: 1
 bio: 'SCO enabled frame shift drives is a technology in the Elite Dangerous universe,
   mentioned from 3311-04-24 to 3311-04-24. Developed or used by Taron Raines, Faulcon
   DeLacy. '
+bio_de: SCO-fähige Frameshiftantriebe sind eine Technik im Elite-Dangerous-Universum,
+  erwähnt von 3311-04-24 bis 3311-04-24. Entwickelt oder genutzt von Taron Raines
+  und Faulcon DeLacy.
 ---
 
 

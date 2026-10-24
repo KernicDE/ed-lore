@@ -16,6 +16,19 @@ bio: 'Olympus Village is a system in Elite Dangerous, significant from 3304-07-0
   the League of Reparation and Riri McAllister''s arrest, the Church of Eternal Void
   being declared illegal...; The superpowers agree to shut down Aegis permanently
   and establish independent anti-xeno taskforces.'
+bio_de: Olympus Village ist die Bundeshauptstadt auf dem Mars und dient seit 2325,
+  als der Planet zum Hauptsitz der Regierung der Großmacht wurde, als administratives
+  Herz der Föderation. Im Sol-System gelegen, beherbergt die Stadt den Federal Congress,
+  die Amtsräume des Präsidenten und die Zentralen zahlreicher Regierungsbehörden.
+  Ihre Universitäten und Forschungseinrichtungen, darunter die Olympus Village University,
+  haben führende Persönlichkeiten der Xenologie und Politikwissenschaft hervorgebracht.
+
+  Die Stadt war Schauplatz bedeutender politischer Ereignisse, darunter die Amtseinführungen
+  der Präsidenten Hudson und Winters sowie die Xeno-Friedensdebatten 3308 unter Gouverneur
+  Dalton Chase. Während der Thargoid-Invasion 3310 gehörte Olympus Village zu den
+  Orten, die evakuiert wurden, als der Titan Cocijo das Sol-System angriff; dennoch
+  führten das föderale Militär und unabhängige Piloten umfangreiche Rettungseinsätze
+  zum Schutz der Zivilbevölkerung durch.
 system: Sol
 station_type: Planetary Settlement
 ---

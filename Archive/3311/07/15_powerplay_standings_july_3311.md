@@ -1,14 +1,20 @@
 ---
 uuid: 3f8f3a76-f995-5a02-81c8-2fbc1af760bd
 title: 'Powerplay Standings: July 3311'
+title_de: 'Powerplay-Rangliste: Juli 3311'
 slug: powerplay_standings_july_3311
 date: '3311-07-15'
 source: API
 summary: Vox Galactica's July 3311 Powerplay analysis shows Aisling Duval holding
   the largest sphere at 1,661 systems with a 104-system gain, despite being under
   simultaneous attack from Jerome Archer and Li Yong-Rui.
+summary_de: Vox Galacticas Powerplay-Analyse für Juli 3311 zeigt Aisling Duval mit der
+  größten Einflusssphäre bei 1.661 Systemen und einem Zuwachs von 104 Systemen, obwohl
+  sie gleichzeitig von Jerome Archer und Li Yong-Rui angegriffen wurde.
 player_impact: Powerplay pilots influenced system control across the galaxy. Aisling
   Duval gained 104 systems, the largest increase.
+player_impact_de: Powerplay-Piloten beeinflussten die Systemkontrolle in der gesamten Galaxie.
+  Aisling Duval gewann 104 Systeme, der größte Zuwachs.
 persons:
 - Conrad Sterling
 groups: []
@@ -17,6 +23,11 @@ modern_impact: Aisling's 104-system gain during an active three-way conflict dem
   her supporters' resilience under pressure. The gain precedes her even larger 275-system
   surge in August, suggesting sustained mobilisation in response to territorial threats
   that positions her as the dominant Power entering the HIP 87621 conflict.
+modern_impact_de: Aislings Zuwachs von 104 Systemen während eines aktiven Drei-Wege-Konflikts
+  zeigt die Widerstandsfähigkeit ihrer Anhänger unter Druck. Der Zuwachs geht ihrem noch
+  größeren Aufschwung um 275 Systeme im August voraus, was auf anhaltende Mobilisierung
+  als Reaktion auf territoriale Bedrohungen hindeutet und sie als dominante Macht zu Beginn
+  des Konflikts um HIP 87621 positioniert.
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -25,6 +36,24 @@ related_uuids:
 - 61ab8647-32a4-5463-b38b-57ed9790e137
 - be0ab3b9-00aa-579f-b1cc-df4dd1f85d1e
 - 5af4968e-4b6b-5c03-b67f-1fc47cf6506a
+body_de: |
+  Die diesmonatige Analyse des Einflusses führender Persönlichkeiten in den Kernsystemen ist eingetroffen, von Conrad Sterling von Vox Galactica.
+
+  Seine jüngste Erhebung der Systembevölkerungen deutet darauf hin, dass die folgenden fünf Mächte die größte Einflusssphäre besitzen:
+
+  Rang 1: Aisling Duval – 1.661 Systeme
+
+  Rang 2: Edmund Mahon – 1.581 Systeme
+
+  Rang 3: Arissa Lavigny-Duval – 1.480 Systeme
+
+  Rang 4: Yuri Grom – 1.114 Systeme
+
+  Rang 5: Li Yong-Rui – 1.018 Systeme
+
+  Der größte Zuwachs an Systemeinfluss gehörte Aisling Duval, die 104 weitere Systeme als Anhänger für sich beanspruchen kann.
+
+  Vox Galactica wird kommenden Monat eine weitere Aktualisierung zum Zustand der Mächte veröffentlichen.
 ---
 
 

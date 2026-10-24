@@ -10,6 +10,11 @@ bio: Rescue Ship Yoshida is a technology in the Elite Dangerous universe, mentio
   megaships deployed near Sol are destroyed by Thargoid forces within minutes of arrival,
   leaving only Rescue Ship Hutner and Rescue Ship Cornwallis to continue evacuation
   efforts.
+bio_de: Das Rettungsschiff Yoshida ist eine Technik im Elite-Dangerous-Universum,
+  erwähnt von 3310-12-06 bis 3310-12-06. Entwickelt oder genutzt von Wolf 359. Sieben
+  der acht nahe Sol eingesetzten Rettungs-Megaschiffe werden innerhalb weniger Minuten
+  nach ihrer Ankunft von Thargoid-Kräften zerstört, sodass nur die Rettungsschiffe
+  Hutner und Cornwallis die Evakuierungsarbeiten fortsetzen.
 ---
 
 

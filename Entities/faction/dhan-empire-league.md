@@ -8,6 +8,9 @@ mention_count: 1
 bio: Dhan Empire League is a organization in the Elite Dangerous universe, active
   from 3311-04-10 to 3311-04-10. The Dhan Empire League requests pilot assistance
   to combat a spike in piracy across the system's planetary rings.
+bio_de: Die Dhan Empire League ist eine Organisation im Elite-Dangerous-Universum,
+  aktiv vom 3311-04-10 bis 3311-04-10. Die Dhan Empire League bittet Piloten um Unterstützung
+  im Kampf gegen einen Anstieg der Piraterie in den planetaren Ringen des Systems.
 ---
 
 

@@ -27,6 +27,8 @@ inara_url: https://inara.cz/elite/starsystem/?search=V886%20Centauri
 bio: 'V886 Centauri is a star system in the Elite Dangerous universe, significant
   from 3310-12-06 to 3310-12-06. Associated with Wolf 359. '
 reserve: Low
+bio_de: "V886 Centauri ist ein Sternensystem im Elite-Dangerous-Universum, relevant vom
+  3310-12-06 bis 3310-12-06. Assoziiert mit Wolf 359."
 ---
 
 <!-- AUTO-GENERATED -->

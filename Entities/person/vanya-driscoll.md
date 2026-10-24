@@ -11,6 +11,20 @@ bio: 'Vanya Driscoll is a President in Elite Dangerous lore, active from 3304-09
   Sirius Corporation, with Prime Minister Edmund Mahon advocating ...; The Alliance
   proposes that the Federation deport imprisoned Far God cultists to Allied space
   rather than imprison them, offering religious toleranc...'
+bio_de: Vanya Driscoll ist eine politische Journalistin und Korrespondentin der Alliance
+  Tribune, spezialisiert auf Wahlen und Regierungsgeschäfte der Allianz. Bekannt wurde
+  sie während der Präsidentschaftswahl 3304, als sie Kandidaten wie die Unternehmerin
+  Fazia Silva und den erfahrenen Politiker Elijah Beck porträtierte. Ihre Berichterstattung
+  machte sie zu einer führenden Autorität für die Politik der Allianz.
+
+  Ihr folgenreichstes Werk erschien im Juni 3305, als sie mit einer detaillierten
+  Enthüllung darlegte, dass Admiral Frederick Yamamoto auf direkten Befehl von Präsident
+  Gibson Kincaid mehrere Verbrechen begangen hatte, darunter das Attentat auf Fazia
+  Silva. Der Bericht stützte sich auf Yamamatos Aussagen im Rahmen eines Kronzeugenabkommens
+  und detaillierte Kincaids Verschwörung zur Verlagerung der Exekutivgewalt von Alioth
+  nach Zaonce; er bezog Firmen- und Militärvertreter in der gesamten Allianz mit ein.
+  Driscoll berichtete weiterhin über die Politik der Allianz, darunter die Premierministerwahl
+  von 3307 und die umstrittenen Debatten um den Verteidigungspakt mit Sirius.
 ---
 
 

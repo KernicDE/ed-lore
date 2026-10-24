@@ -7,6 +7,8 @@ last_seen_date: '3311-08-21'
 mention_count: 2
 bio: 'Panther Clipper Mk II is a technology in the Elite Dangerous universe, mentioned
   from 3311-07-17 to 3311-08-21. Developed or used by Zorgon Peterson, Mark Rennik. '
+bio_de: Die Panther Clipper Mk II ist eine Technologie im Elite-Dangerous-Universum, erwähnt
+  vom 17.07.3311 bis 21.08.3311. Entwickelt oder genutzt von Zorgon Peterson und Mark Rennik.
 ---
 
 

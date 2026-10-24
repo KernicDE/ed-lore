@@ -1,6 +1,7 @@
 ---
 uuid: f343aeeb-2dc6-56ba-8f0f-e1f004053acc
 title: Trading Blocs Compete in Alliance Space
+title_de: Handelsblöcke konkurrieren im Allianz-Raum
 slug: trading_blocs_compete_in_alliance_space
 date: '3311-05-22'
 source: API
@@ -8,9 +9,16 @@ summary: Two trading blocs form in Alliance territory around Edmund Mahon and Na
   Kaine following the termination of the Sirius Strategic Defence Pact. The competition
   escalates as Alliance corporations rush to fill the military infrastructure vacuum
   left by Sirius Corporation's ordered withdrawal.
+summary_de: Nach der Beendigung des Strategischen Verteidigungspakts mit Sirius bilden
+  sich zwei Handelsblöcke im Allianz-Territorium um Edmund Mahon und Nakato Kaine.
+  Der Wettbewerb verschärft sich, während Allianz-Konzerne eilen, das von Sirius Corporation
+  angeordnete militärische Infrastruktur-Vakuum zu füllen.
 player_impact: Trade pilots delivered Semiconductors, Ceramic Composites and Synthetic
   Fabrics to Bowersox Port in Winiama for Mahon's bloc or Fuca Dock in Apura for Kaine's
   bloc.
+player_impact_de: Handelspiloten lieferten Halbleiter, Keramikverbundwerkstoffe und
+  synthetische Stoffe an die Bowersox-Station in Winiama für Mahons Block oder an
+  die Fuca-Docks in Apura für Kaines Block.
 persons:
 - Edmund Mahon
 - Nakato Kaine
@@ -34,6 +42,12 @@ modern_impact: Li Yong-Rui's dismissal of the move as 'fascinatingly short-sight
   Sirius pact was paper covering the cracks of Mahon's economic weakness' crystallises
   the political fault line between anti-corporate populism and megacorporate pragmatism
   that will define Alliance politics for the rest of the year.
+modern_impact_de: Li Yong-Ruis Abwertung des Schritts als ‚faszinierend kurzsichtig'
+  formuliert Sirius Corp's Erzählung des Verrats. Die Behauptung von Kaines Anhängern,
+  ‚der Sirius-Pakt war Papier, das die Risse von Mahons wirtschaftlicher Schwäche
+  überdeckte', kristallisiert die politische Gräbenlinie zwischen antikorporativen
+  Populismus und megakorporativem Pragmatismus, die die Allianzpolitik für den Rest
+  des Jahres prägen wird.
 legacy_weight: 3
 significance: medium
 related_uuids:
@@ -42,6 +56,36 @@ related_uuids:
 - adcab895-4c2f-5ad3-928d-1de0bafc6f61
 - 952d5b46-745c-57fb-bc9a-1458b6d1323a
 - d410b16b-7ac3-54e3-ad81-af7d7123d4df
+body_de: |
+  Zwei bedeutende Handelsblöcke sind im Allianz-Territorium entstanden, nachdem der
+  Strategische Verteidigungspakt beendet wurde.
+  In der vergangenen Woche wurde die Sirius Corporation von der Allianz-Versammlung
+  angewiesen, ihre Beteiligung an der militärischen Infrastruktur und Logistik der
+  Allianz zu reduzieren. Der von Sirius-Corp-CEO Li Yong-Rui als ‚faszinierend kurzsichtig'
+  bezeichnete Schritt hat einen wirtschaftlichen Ansturm allianzverbundener Konzerne
+  ausgelöst, um die dadurch ausgeschriebenen lukrativen Verträge zu ergattern.
+  Die beiden Handelsblöcke bildeten sich — wenig überraschend — um die zwei führenden
+  Stimmen in der Allianz-Versammlung: Edmund Mahon und Nakato Kaine.
+  Dies ist der jüngste Fall einer wachsenden Reihe von Konfrontationen zwischen den
+  großen Powers der Galaxis. Im umkämpften Bergbausystem LP 855-34 sicherte Felicia
+  Winters anfangs bis Ende der ersten Konfliktwoche die Kontrolle. Ihr Erfolg provozierte
+  jedoch eine sofortige und kraftvolle Reaktion von Yuri Groms Anhängern. Konfliktzonen
+  brachen im gesamten System aus, als Groms Streitkräfte vorrückten und Winters' Herrschaft
+  letztlich umkehrten — die Region fiel zurück in einen unbesetzten Zustand.
+  Mahons Anhänger wollen die Position des Premierministers als Führer der Allianz durch
+  hohe Handelsvolumen stärken. Ein Sprecher erklärte, Mahon ‚wird die wirtschaftliche
+  Katastrophe verhindern, mit der Kaines Antrag in der Versammlung gedroht hat."
+  Kaines Anhänger hingegen behaupten, ‚der Sirius-Pakt war Papier, das die Risse von
+  Mahons wirtschaftlicher Schwäche überdeckte', und führen dies als Beleg für ‚Mahons
+  übermäßige Abhängigkeit von megakorporativer Unterstützung, um Dinge zu erreichen.'
+  Kaine selbst hat stets für eine politische Verschiebung zugunsten von Unternehmen
+  plädiert, die in Allianz-Mitgliedssystemen gegründet wurden.
+  Beide Handelsblöcke haben Lieferungen von Halbleitern, Keramikverbundwerkstoffen und
+  synthetischen Stoffen angefordert.
+  Handelspiloten, die Edmund Mahons Handelsblock unterstützen möchten, können sich an
+  der Bowersox-Station in Winiama anmelden.
+  Handelspiloten, die Nakato Kaines Handelsblock unterstützen möchten, können sich an
+  den Fuca-Docks in Apura anmelden.
 ---
 
 

@@ -26,6 +26,22 @@ edsm_url: https://www.edsm.net/en/system/id/18/name/Lave
 inara_url: https://inara.cz/elite/starsystem/?search=Lave
 bio: Lave is a heavily populated agricultural system in the Old Worlds, founding member
   of the Alliance, now independently governed.
+bio_de: |
+  Lave ist ein stark bevölkertes Agrarsystem im Old-Worlds-Cluster und historisch
+  eines der Gründungsmitglieder der Allianz Unabhängiger Systeme. Jahrzehntelang stand
+  es unter Allianz-Verwaltung, bevor es zu unabhängiger Unternehmensherrschaft durch
+  das Lave Radio Network überging. Dieser Übergang verlief nicht gewaltlos – militärische
+  Konflikte gingen dem Kontrollwechsel voraus, und die politische Identität des
+  Systems bleibt umstritten; Allianz-Führungspersonen beanspruchen Lave weiterhin als
+  Teil ihres kulturellen Einflussbereichs.
+
+  Die 25 Milliarden Einwohner des Systems machen es zu einem der bevölkerungsreichsten
+  unabhängigen Systeme der Galaxis, und seine Agrarproduktion versorgt mehrere
+  benachbarte Sektoren. Lave Station dient als kommerzielles und kulturelles Zentrum
+  des Systems, berühmt für Lave Radio und den ebenso renommierten Lave Brandy. Das
+  jährliche Allianz-Kulturfestival wurde bereits zweimal in Lave eröffnet – eine
+  Geste, mit der Premierminister Edmund Mahon das anhaltende Allianz-Erbe des Systems
+  trotz seiner formalen Unabhängigkeit betonte.
 ---
 
 # Lave

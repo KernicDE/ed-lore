@@ -7,6 +7,9 @@ last_seen_date: '3311-12-16'
 mention_count: 3
 bio: 'Devin Kaneda is a prominent figure in the Elite Dangerous universe, active from
   3310-10-15 to 3311-12-16. Closely associated with Zorgon Peterson, Faulcon DeLacy. '
+bio_de: Devin Kaneda ist eine prominente Figur im Elite-Dangerous-Universum, aktiv
+  von 3310-10-15 bis 3311-12-16. Eng verbunden mit Zorgon Peterson, Faulcon DeLacy.
+
 ---
 
 
