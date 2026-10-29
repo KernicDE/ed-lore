@@ -1,13 +1,19 @@
 ---
 uuid: cbe79040-1b75-50b1-9aad-bc544ff2b6be
 title: Superpowers Discuss Unified Anti-Xeno Fleet
+title_de: Supermächte beraten über vereinte Anti-Xeno-Flotte
 slug: superpowers_discuss_unified_anti_xeno_fleet
 date: '3308-10-28'
 source: API
 summary: Ambassadors of all three superpowers have held emergency talks following
   the California nebula attacks, with a united military fleet the primary topic.
+summary_de: Die Botschafter aller drei Supermächte haben nach den Angriffen im California-Nebel
+  zu Notgesprächen zusammengefunden, wobei eine vereinte Militärflotte das zentrale
+  Thema war.
 player_impact: This article focuses on political and strategic developments without
   direct pilot involvement.
+player_impact_de: Dieser Artikel behandelt politische und strategische Entwicklungen
+  ohne direkte Beteiligung von Piloten.
 persons:
 - Alba Tesreau
 - Conrad Sterling
@@ -30,6 +36,10 @@ arc_id: salvation-azimuth
 modern_impact: '"The public demand to address the evolving Thargoid threat has led
   to key military personnel suggesting that the Allie..." This perspective highlights
   the broader stakes and continues to shape contemporary debates.'
+modern_impact_de: „Die öffentliche Forderung, der sich entwickelnden Thargoid-Bedrohung
+  zu begegnen, hat dazu geführt, dass führende Militärs vorschlagen, dass die allianzischen,
+  föderalen und imperialen Flotten..." Diese Perspektive verdeutlicht die größeren
+  Spielräume und prägt die heutigen Debatten nach wie vor.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -41,6 +51,14 @@ related_uuids:
 - f7438e0e-89eb-5e2d-b974-7147bf67d4b1
 - ac92b027-9c2d-582d-af18-eac48e474be8
 - ebaed307-7279-5789-9569-01d10e7832b9
+body_de: |
+  Die Botschafter aller drei Supermächte haben nach den Angriffen im California-Nebel zu Notgesprächen zusammengefunden, wobei eine vereinte Militärflotte das zentrale Thema war.
+  Der politische Journalist Conrad Sterling lieferte diesen Bericht für Vox Galactica:
+  „Die öffentliche Forderung, der sich entwickelnden Thargoid-Bedrohung zu begegnen, hat dazu geführt, dass führende Militärs vorschlagen, dass die allianzischen, föderalen und imperialen Flotten für die Dauer des Krieges gemeinsam arbeiten könnten. Diese einst undenkbare Vorstellung erscheint nach der Koalition in HIP 22460 plausibler, trotz des bedauerlichen Ausgangs dieser Operation."
+  „Quellen haben bestätigt, dass Admiral Rachel Ziegler versucht hat, Admiral Maxton Price direkt zu kontaktieren, um Wege zu erörtern, auf denen die Allianz-Verteidigungsstreitkräfte und die Föderale Flotte zusammenarbeiten könnten. Andere haben die Idee ‚einer glorreichen großen Armada, um die außerirdischen Horden auszulöschen' offen unterstützt, wie Vizeadmiral Juno Rochester es ausdrückte."
+  „Es gab jedoch kaum politische Begeisterung, weder die Versammlung noch der Kongress waren bereit, das Thema zu debattieren. Viele Führungspersönlichkeiten hatten durch die Unterstützung von Salvation schlechte Erfahrungen gemacht, was sie davon abhalten könnte, einmal mehr die Hand der Kameradschaft auszustrecken."
+  „Und dann gibt es noch das Imperium, das kein Interesse an weiterer Zusammenarbeit mit auswärtigen Regierungen oder Organisationen zeigt. Solange die Kaiserin ihren neuen Kurs des imperialen Isolationismus verfolgt, kann sich die Macht der Imperialen Flotte nicht darauf verlassen werden, allianzische, föderale oder unabhängige Systeme vor Thargoid-Angriffen zu schützen."
+  „Dennoch gewinnt die Idee, die Anti-Xeno-Behörde Aegis wiederzubeleben, weiter an Zugkraft. Professor Tesreaus jüngstes Symposium skizzierte Pläne für eine neue Ausprägung, die die Fehler der Vergangenheit vermeiden würde. Selbst wenn wir nie eine große menschliche Armada sehen, könnte sich der Ruf nach Einheit auf vielfältige Weise manifestieren."
 ---
 
 

@@ -10,6 +10,9 @@ bio: 'Carter Armstrong is a Engineer in Elite Dangerous lore, active from 3304-0
   Weekly summary covering the Socho system being overtaken by the Socho Gold Raiders,
   Aegis''s Eagle Eye success in repelling Thargoids, five ships de...; The Aegis Core
   campaign to fund refurbishment of starports in the core systems ends successfully.'
+bio_de: |-
+  Carter Armstrong ist der Generalverwaltungsdirektor, der im Januar 3308 nach der Entdeckung des vermissten Aegis-Megaschiffs Alexandria im System Wregoe TC-X b29-0 eine öffentliche Erklärung abgab. Das Megaschiff war sieben Monate zuvor im Hyperraum verschwunden, während es Guardian-Artefakte transportierte; seine Trümmer wurden von unabhängigen Piloten aufgespürt, die von Professor Alba Tesreau dazu angeregt worden waren, und in planetaren Ringen verstreut vorgefunden.
+  Armstrong plädierte dafür, Aegis bis zu einer vollständigen forensischen Analyse des Untergangs des Megaschiffs weiterlaufen zu lassen, und erklärte, die Entdeckung biete die Möglichkeit, herauszufinden, was geschehen sei. Seine Haltung stand im Gegensatz zur Empfehlung des Baumann-Berichts, Aegis aufzulösen, der selbst durch den Verlust der Alexandria veranlasst worden war. Armstrongs Erklärung verkörperte den institutionellen Widerstand gegen die vorzeitige Auflösung der Anti-Xeno-Initiative der Supermächte.
 ---
 
 

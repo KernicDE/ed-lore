@@ -1,13 +1,17 @@
 ---
 uuid: 996e0bf1-66fc-5a48-8c3c-1eaeccbe247e
 title: The Time for Aegis?
+title_de: Ist es Zeit für Aegis?
 slug: the_time_for_aegis
 date: '3308-12-27'
 source: API
 summary: Professor Alba Tesreau has again called for the anti-xeno initiative Aegis
   to be reformed by the superpowers.
+summary_de: Professorin Alba Tesreau hat erneut dazu aufgerufen, die Anti-Xeno-Initiative
+  Aegis von den Supermächten zu reformieren.
 player_impact: This article focuses on political and strategic developments without
   direct pilot involvement.
+player_impact_de: Keine
 persons:
 - Alba Tesreau
 - Angela Corcoran
@@ -25,6 +29,9 @@ arc_id: null
 modern_impact: '"The arrival of the Maelstroms has escalated the Second Thargoid War
   beyond anything we have experienced before. The T..." This call for collaboration
   continues to resonate in discussions about superpower unity against the Thargoids.'
+modern_impact_de: „Das Eintreffen der Maelstroms hat den Zweiten Thargoid-Krieg über alles
+  bisher Dagewesene eskaliert. Die T…" Dieser Aufruf zur Zusammenarbeit hallt bis heute
+  in Debatten über den Zusammenhalt der Supermächte gegen die Thargoids nach.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -33,6 +40,14 @@ related_uuids:
 - 0c21bfb7-e2b2-5928-8ca2-d5f1e93df3e0
 - d8b14f7a-0b22-5f2d-a164-45b74638e864
 - ae551de7-6ccc-55b7-a142-8e77ac721dce
+body_de: |
+  Professorin Alba Tesreau hat erneut dazu aufgerufen, die Anti-Xeno-Initiative Aegis von den Supermächten zu reformieren.
+  „Das Eintreffen der Maelstroms hat den Zweiten Thargoid-Krieg über alles bisher Dagewesene eskaliert. Die Thargoids greifen erbarmungslos jede menschliche Siedlung in Reichweite an. Und diese Reichweite dehnt sich stetig an acht Fronten aus und dringt tiefer in die Kernsysteme vor."
+  „Unter diesen erschreckenden Umständen scheint die Entscheidung, Aegis abzuschaffen, ein schwerwiegender Fehler zu sein. Jetzt mehr denn je werden Ressourcen auf Supermacht-Ebene benötigt, um großangelegte Forschungs- und Verteidigungsprojekte aufzubauen. Jetzt ist mit Sicherheit der Zeitpunkt gekommen, Aegis mit möglichst viel Finanzierung und Ressourcen wiederzubeleben."
+  „Mein Symposium im Oktober bewies, dass der Wunsch nach Zusammenarbeit wächst. Viele alliierte und föderale Militärführer haben bereits über eine Zusammenarbeit gesprochen. Schattenpräsidentin Winters schlug kürzlich vor, denen jenseits der föderalen Grenzen zu helfen, und Vizepremierministerin Corcoran setzt sich in der Allianz für eine Koalition ein."
+  „Leider bedeutet die derzeitige isolationistische Politik des Imperiums, dass Aegis als Initiative zweier Supermächte zurückkehren müsste. Aber selbst das wäre eine Verbesserung gegenüber der zersplitterten, unkoordinierten Reaktion auf die thargoidischen Eroberungen."
+  Eine offizielle Reaktion der Allianz oder der Föderation auf Professorin Tesreau gab es nicht, doch mehrere einzelne Kongressabgeordnete und Ratsmitglieder bekräftigten ihre Unterstützung für die Reform von Aegis.
+  Im Imperium berichtete nur der Nachrichtenfeed Citizens' Chronicle über Tesreaus laufende Kampagne und kommentierte: „Selbst unter dem imperialen Adel wagen es nur wenige, das Dekret des Kaisers infrage zu stellen. Aber diese wenigen werden mutiger."
 ---
 
 

@@ -1,13 +1,18 @@
 ---
 uuid: ef8aa0ef-a1a2-533c-9ce4-1f6693797d4b
 title: Refugees Flee from Thargoid Offensive
+title_de: Flüchtlinge fliehen vor dem Thargoid-Vorstoß
 slug: refugees_flee_from_thargoid_offensive
 date: '3308-12-05'
 source: API
 summary: Millions of people are being evacuated from systems that have suffered devastating
   attacks by Thargoid fleets.
+summary_de: Millionen Menschen werden aus Systemen evakuiert, die verheerende Angriffe
+  von Thargoid-Flotten erlitten haben.
 player_impact: This article focuses on political and strategic developments without
   direct pilot involvement.
+player_impact_de: Dieser Artikel konzentriert sich auf politische und strategische
+  Entwicklungen ohne direkte Beteiligung von Piloten.
 persons:
 - Justine Kemp
 topics:
@@ -18,6 +23,10 @@ arc_id: null
 modern_impact: '"As per newly established procedures, all contracted transports carrying
   refugees from systems facing Thargoid invasio..." This perspective highlights the
   broader stakes and continues to shape contemporary debates.'
+modern_impact_de: '„Gemäß den neu eingeführten Verfahren werden alle unter Vertrag
+  stehenden Transportschiffe, die Flüchtlinge aus Systemen mit Thargoid-Invasionen
+  an Bord nehmen …" Diese Perspektive unterstreicht die größeren Einsätze und prägt
+  die gegenwärtigen Debatten bis heute.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -26,6 +35,15 @@ related_uuids:
 - 1bc4f61f-b1a2-5e7a-ba56-41659e56ebcb
 - f2680020-36ae-554f-ae92-3a367a9f1d23
 - f052748e-b6ee-52c8-9657-75e06d0e3612
+body_de: |
+  Millionen Menschen werden aus Systemen evakuiert, die verheerende Angriffe von Thargoid-Flotten erlitten haben.
+  Ein enormer humanitärer Einsatz ist im Gange, wobei Rettungs-Megaschiffe an Schlüsselpositionen in der Nähe jedes von Thargoids besetzten Systems stationiert sind. Kapitänin Justine Kemp vom Rettungsschiff Hutner, derzeit in Enayex stationiert, beschrieb ihre Einsätze gegenüber Vox Galactica:
+  „Gemäß den neu eingeführten Verfahren werden alle unter Vertrag stehenden Transportschiffe, die Flüchtlinge aus Systemen mit Thargoid-Invasionen an Bord nehmen, zu unseren Landebuchten geleitet. Einsatzteams leisten Ersteinschätzungen und direkte Hilfe, wo möglich. Der Schwerpunkt liegt aber darauf, die Flüchtlinge schnell für die Umsiedlung in vorübergehende Unterkünfte zu erfassen, fernab der Kriegsgebiete."
+  „Dies ist die intensivste Situation, mit der ich je umgehen musste. Wir nehmen enorme Menschenmengen auf, nicht nur von Sternenhäfen, sondern auch von planetaren Siedlungen. In einigen dieser Systeme brennt förmlich alles, und die Flüchtlinge strömen weiterhin herbei."
+  Vox Galactica veröffentlichte außerdem eine Auswahl von Stimmen verschiedener Zivilisten, die aus von Thargoids besetzten Systemen fliehen:
+  „Alles ging so schnell. Unsere Familie aß gerade zusammen, als der ganze Hafen zu beben schien. Mein Sohn hatte eine Freundschaft mit einer Händlerin geschlossen, die einige Tage zuvor gelandet war, und er überredete sie, uns an Bord ihres Transporters zu nehmen. Das Ruckeln, als wir uns durch die Thargoid-Schiffe schlängelten, hätte mich fast das Essen wieder ausspucken lassen, das wir wenige Minuten zuvor genossen hatten."
+  „Ich stand am Beobachtungsfenster eines Sternenhafens, als ihre Schiffe, diese seltsamen sternförmigen Dinger, direkt vorbeirauschten. Dann verschwand einfach die andere Seite des Habitat-Rings. Feuer und Metall splitterten … Alle Sirenen heulten, und die Menschenmassen strömten zu den Buchten. Hitze füllte die Korridore und Rauch verstopfte unsere Lungen. Ich habe das Schiff, auf dem ich schließlich landete, nicht einmal gesehen, nur ein Meer panischer, schmutzverschmierter Gesichter."
+  „Ich suche meinen Vater. Als ich ihn zuletzt sah, war er verletzt. Verbrennungen von diesem grünen korrosiven Zeug, das durch unsere Quartiere schlug. Der Commander hatte auf seinem Schiff nicht Platz für alle. Ich überredete ihn, meinen Vater zuerst mitzunehmen. Aber jetzt kann ich ihn nicht finden. Das Sanitätspersonal hat keine Zeit, mit mir zu sprechen. Ich hoffe, er ist irgendwo hier. Er muss irgendwo hier sein."
 ---
 
 

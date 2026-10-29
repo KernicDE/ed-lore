@@ -11,6 +11,21 @@ bio: 'Heimar Borichev is a Diplomat in Elite Dangerous lore, active from 3308-07
   has the right to commit xenocide against the Thargoids.; A grassroots xeno-peace
   movement gains traction following the Battle of HIP 22460, promoting diplomatic
   dialogue with Thargoids through media figur...'
+bio_de: |-
+  Heimar Borichev ist politischer Aktivist und Autor für den unabhängigen
+  Nachrichtendienst The Sovereign, der 3309 als prominente Stimme der
+  antiautoritären Protestbewegungen hervortrat. Während der Thargoid-Krieg nach der
+  Ankunft der Maelstroms eskalierte, machte Borichev die Führer der Supermächte dafür
+  verantwortlich, den Konflikt habe sich verschärfen lassen, und behauptete,
+  „institutionelle Korruption erfordert radikale Lösungen".
+  
+  Seine Kommentare reihten sich in eine breitere Welle des Aktivismus über die
+  Allianz, das Imperium und die Föderation hinweg ein, die den Regierungen vorwarf,
+  die Profite des Rüstungsgeschäfts über das Leben von Zivilisten zu stellen. Während
+  Galionsfiguren der Xeno-Friedensbewegung wie Joy Senne sich von den radikaleren
+  Elementen der Bewegung distanzierten, setzte sich Borichev weiterhin für direkte
+  Aktionen gegen das ein, was er als Profiteering des militärisch-industriellen
+  Komplexes an der Thargoid-Invasion ansah.
 ---
 
 

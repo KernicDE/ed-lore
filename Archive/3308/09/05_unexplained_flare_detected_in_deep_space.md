@@ -1,14 +1,20 @@
 ---
 uuid: b2b3d62b-a0f0-575b-8544-17fa7e9b482a
 title: Unexplained ‘Flare’ Detected in Deep Space
+title_de: "Unerklärliche ‚Fackel' im Tiefenraum entdeckt"
 slug: unexplained_flare_detected_in_deep_space
 date: '3308-09-05'
 source: API
 summary: Independent explorers report an unexplained reddish-orange flare near Barnard's
   Loop that produces strange FSS scanner feedback, with no official scientific explanation
   yet.
+summary_de: Unabhängige Entdecker melden eine unerklärliche rötlich-orange Fackel nahe
+  Barnard's Loop, die seltsame Rückmeldungen des FSS-Scanners erzeugt; eine offizielle
+  wissenschaftliche Erklärung steht noch aus.
 player_impact: Independent explorers first reported the anomaly; pilots are attempting
   to gather more data using FSS scanners.
+player_impact_de: Unabhängige Entdecker meldeten die Anomalie zuerst; Piloten versuchen,
+  mit FSS-Scannern weitere Daten zu sammeln.
 persons:
 - Eva Llewellyn
 groups:
@@ -24,6 +30,9 @@ technologies:
 modern_impact: The unexplained flare marks the first observation of what would later
   become known as the rogue signal sources, anomalous deep-space phenomena that defy
   conventional scientific explanation.
+modern_impact_de: Die unerklärliche Fackel markiert die erste Beobachtung dessen, was
+  später als die Signale auf Abwegen bekannt werden sollte – anomale Tiefenraum-Phänomene,
+  die jede konventionelle wissenschaftliche Erklärung herausfordern.
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -32,6 +41,14 @@ related_uuids:
 - 90f47201-f1b3-537a-8c1f-fc6e092fa724
 - de7b4f38-c24a-586a-9b4c-3c43dff0681a
 - f35cafa3-82c9-523b-8b06-a2fe5cf2e6be
+body_de: |
+  **ALARM der Pilotenföderation**
+  Berichte unabhängiger Entdecker deuten darauf hin, dass ein ungewöhnliches visuelles Phänomen im Tiefenraum aufgetreten ist.
+  Ein entfernter Lichtpunkt, beschrieben als rötlich-orange Fackel mit schwachen radialen Mustern, wurde in der Nähe des Barnard's-Loop-Nebels beobachtet. Man geht davon aus, dass er erst vor Kurzem aufgetaucht ist. Universal Cartographics hat bestätigt, dass der Ort dieser ‚Fackel' mit keinem zuvor katalogisierten Sternenkörper oder Stern übereinstimmt.
+  Frühe Versuche, diese Berichte zu verifizieren, erkannten eine seltsame Reaktion, wenn dieselbe Region des Raums durch einen Vollspektrum-Systemscanner (FSS) beobachtet wird. Ein definitives Ziel lässt sich nicht isolieren, doch es gibt Behauptungen über ein schwaches Hintergrundgeräusch, das von den FSS-Audiowandlern erzeugt wird.
+  Kommandantin Eva Llewellyn äußerte gegenüber Vox Galactica:
+  „Ich bin es gewohnt, dass der FSS allerlei seltsame Geräusche macht, aber diesem Ding zuzuhören – Komet, Sonneneruption, was auch immer es ist – lässt mir eine Gänsehaut über den Rücken laufen. Irgendwas fühlt sich nicht richtig an. Der Scanner sagt mir, da ist nichts, nichts, worauf man sich konzentrieren könnte. Ich stimme nicht zu. Aber klügere Leute als ich werden schon die Wahrheit dahinter herausfinden, vermute ich."
+  Gegenwärtig ist unbekannt, ob es sich um ein natürlich auftretendes Sternenereignis handelt. Piloten versuchen, mehr Daten zu sammeln, aber bislang hat weder eine Behörde noch eine wissenschaftliche Einrichtung eine offizielle Analyse des Phänomens vorgelegt.
 ---
 
 

@@ -7,6 +7,8 @@ last_seen_date: '3308-11-15'
 mention_count: 1
 bio: 'Lewis Laychurch is a prominent figure in the Elite Dangerous universe, active
   from 3308-11-15 to 3308-11-15. Closely associated with Alliance, Azimuth. '
+bio_de: 'Lewis Laychurch ist eine bedeutende Figur im Elite-Dangerous-Universum,
+  aktiv von 3308-11-15 bis 3308-11-15. Eng verbunden mit der Allianz und Azimuth.'
 ---
 
 

@@ -14,6 +14,7 @@ related_entities:
 bio: 'Federal Navy Criminal Court is a naval in the Elite Dangerous universe, active
   from 3308-09-16 to 3308-09-21. Frequently linked with Azimuth Biotech, Hind Mine,
   T Tauri. '
+bio_de: Das Federal Navy Criminal Court ist eine Marinebehörde im Elite-Dangerous-Universum, die von 3308-09-16 bis 3308-09-21 aktiv war. Häufig in Verbindung mit Azimuth Biotech, Hind Mine und T Tauri.
 ---
 
 

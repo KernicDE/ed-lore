@@ -11,6 +11,8 @@ related_entities:
 - di-jian
 bio: 'Sol''s Salutis Aeternum is a organization in the Elite Dangerous universe, active
   from 3308-06-16 to 3308-06-16. Frequently linked with Alliance, Sirius Corporation. '
+bio_de: Sol's Salutis Aeternum ist eine Organisation im Elite-Dangerous-Universum, aktiv
+  am 16.06.3308. Häufig in Verbindung mit der Allianz und der Sirius Corporation.
 ---
 
 

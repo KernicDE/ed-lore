@@ -8,6 +8,10 @@ mention_count: 1
 bio: 'Eva Llewellyn is a prominent figure in the Elite Dangerous universe, active
   from 3308-09-05 to 3308-09-05. Closely associated with Pilots Federation, Universal
   Cartographics. '
+bio_de: |-
+  Eva Llewellyn ist eine bedeutende Figur im Elite-Dangerous-Universum, aktiv von
+  3308-09-05 bis 3308-09-05. Eng verbunden mit der Pilotenföderation und Universal
+  Cartographics.
 ---
 
 

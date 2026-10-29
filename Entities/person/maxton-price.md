@@ -10,6 +10,23 @@ bio: 'Maxton Price is a Admiral in Elite Dangerous lore, active from 3308-04-21 
   include: Thargoid fleets invade the Didio, Novas, and Sosong systems, placing over
   ten billion lives at risk.; The superpowers offer bounties on Thargoid vessels while
   Salvation constructs anti-xeno superweapons.'
+bio_de: |-
+  Admiral Maxton Price ist ein hochrangiger Offizier der Föderalen Flotte, der im Verlauf
+  des Kriegs gegen die Thargoid-Titanen zu einem der führenden militärischen Befehlshaber
+  wurde. Im April 3308 wurde er ausgewählt, die föderale Verteidigung zu koordinieren,
+  als Thargoid-Flotten in das System Sosong eindrangen – Teil eines gleichzeitigen
+  dreizinkigen Angriffs auf Kernsysteme der Supermächte, der über zehn Milliarden Leben
+  gefährdete.
+
+  Price wurde zu einem lautstarken Befürworter von Salvations Anti-Xeno-Strategie und
+  argumentierte, die Superwaffe sei unverzichtbar, um den Thargoid-Konflikt zu beenden.
+  Im Juni 3308 verteidigte er die fortgesetzte Zusammenarbeit der Supermächte mit
+  Azimuth Biotech trotz der Enthüllungen über deren INRA-Vergangenheit und erklärte
+  unverblümt: „Ohne Salvations Superwaffe werden wir für immer mit den Thargoiden im
+  Konflikt gefangen sein." Auch leitete er Ende 3308 die föderale Reaktion auf die
+  unkontrollierte Signaturquelle Taranis und ordnete an, dass zivile Schiffe das System
+  Hyades Sector FB-N b7-6 meiden, während Militärkräfte die Ankunft der Anomalie
+  überwachten.
 ---
 
 

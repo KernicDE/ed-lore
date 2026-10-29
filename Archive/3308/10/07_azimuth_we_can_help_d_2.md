@@ -1,13 +1,17 @@
 ---
 uuid: f7438e0e-89eb-5e2d-b974-7147bf67d4b1
 title: 'Azimuth: ‘We Can Help D-2’'
+title_de: "Azimuth: ‚Wir können D-2 helfen'"
 slug: azimuth_we_can_help_d_2
 date: '3308-10-07'
 source: API
 summary: Azimuth Biotech has publicly offered assistance to Subject D-2, the Project
   Seraph survivor who gate-crashed the recent Aegis symposium.
+summary_de: Azimuth Biotech hat Subjekt D-2, der Überlebenden des Project Seraph, die das
+  jüngste Aegis-Symposium gestürmt hat, öffentlich Hilfe angeboten.
 player_impact: This article focuses on political and strategic developments without
   direct pilot involvement.
+player_impact_de: Keine
 persons:
 - Alba Tesreau
 - Seo Jin-ae
@@ -27,6 +31,8 @@ arc_id: salvation-azimuth
 modern_impact: '"Along with other former members of Aegis, I have provided sanctuary
   to Seo Jin-ae. She is currently receiving medical..." Azimuth''s legacy of ethically
   compromised research remains a cautionary tale in xenological studies.'
+modern_impact_de: Azimuths Vermächtnis ethisch kompromittierter Forschung bleibt eine
+  warnende Geschichte der Xenologie.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -37,6 +43,15 @@ related_uuids:
 - bd5a1074-4db4-556d-bd6d-4207d963ce10
 - eb62c669-b525-5753-b3cb-faf6452a8088
 - ebaed307-7279-5789-9569-01d10e7832b9
+body_de: |
+  Azimuth Biotech hat Subjekt D-2, der Überlebenden des Project Seraph, die das jüngste Aegis-Symposium gestürmt hat, öffentlich Hilfe angeboten.
+  Die Frau, inzwischen als Seo Jin-ae identifiziert, erschien am Dienstag unerwartet bei der Veranstaltung. Sie behauptete, Kenntnis des ‚Thargoid-Brüllens' zu besitzen, das nach der Aktivierung der Proteus-Welle in HIP 22460 zu hören war. Es gibt Vermutungen, dass dies mit ihrem Einsatz in Experimenten zur Schaffung menschlicher Piloten für Thargoid-Schiffe zusammenhängt.
+  Professorin Alba Tesreau veröffentlichte inzwischen eine kurze Erklärung:
+  „Gemeinsam mit anderen ehemaligen Mitgliedern von Aegis habe ich Seo Jin-ae Zuflucht gewährt. Sie erhält derzeit eine medizinische Behandlung in einer privaten Einrichtung. Frau Seos Sicherheit und Wohlergehen sind nun meine Verantwortung."
+  Torben Rademaker, CEO von Azimuth Biotech, traf auf öffentlichen Kanälen folgende Erklärung ab:
+  „Wir sprechen der Person, die als D-2 bekannt ist, unser aufrichtiges Mitgefühl aus und möchten ein Hilfsangebot unterbreiten. Diese auf tragische Weise misshandelte Person wird von einem beliebigen Haufen ehemaliger Aegis-Mitarbeiter wenig Hilfe erfahren. Mit unserer jahrzehntelangen Forschung und unseren Xenologie-Spezialisten ist Azimuth Biotech weitaus besser geeignet, sowohl ihre physische als auch ihre psychische Gesundheit zu beurteilen."
+  „Ihr Wohlbefinden wäre selbstverständlich unser Hauptanliegen, doch die Möglichkeit, dass D-2 auf irgendeine Weise Thargoid-Kommunikationen deuten kann, sollte nicht außer Acht gelassen werden. Wir können ihr helfen, diese Fähigkeit zu erforschen, was wichtige Einblicke in die Spezies der Thargoids ermöglichen könnte."
+  „Ich muss außerdem klarstellen, dass die Einrichtungen des Project Seraph in HIP 22460 und HIP 26176 unter der direkten Kontrolle von Salvation standen und vor dem übrigen Konzern verborgen gehalten wurden. Die Entdeckung dieser Standorte war für mich ebenso schockierend wie für alle anderen. Es ist mir persönlich bedauerlich, dass Azimuths lange Geschichte Beispiele für derart fehlgeleitete Operationen umfasst. Wir sind bestrebt, für Salvations Fehler Wiedergutmachung zu leisten."
 ---
 
 

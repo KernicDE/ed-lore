@@ -1,13 +1,17 @@
 ---
 uuid: b4105542-6e24-5875-a60c-7ccd557e87d6
 title: Subject D-2 Rejects Azimuth
+title_de: Subjekt D-2 lehnt Azimuth ab
 slug: subject_d_2_rejects_azimuth
 date: '3308-10-11'
 source: API
 summary: Seo Jin-ae, the Project Seraph survivor, has refused to have any further
   contact with Azimuth Biotech following its offer of help.
+summary_de: Seo Jin-ae, die Überlebende des Project Seraph, hat jeglichen weiteren Kontakt
+  mit Azimuth Biotech abgelehnt, nachdem dieses Hilfe angeboten hatte.
 player_impact: This article focuses on political and strategic developments without
   direct pilot involvement.
+player_impact_de: Keine
 persons:
 - Alba Tesreau
 - Angela Corcoran
@@ -30,6 +34,8 @@ arc_id: salvation-azimuth
 modern_impact: '"It will come as no surprise that Ms Seo vehemently rejects Mr Rademaker’s
   proposal. She has relayed horrific details ..." Azimuth''s legacy of ethically compromised
   research remains a cautionary tale in xenological studies.'
+modern_impact_de: Azimuths Vermächtnis ethisch kompromittierter Forschung bleibt eine
+  warnende Geschichte der Xenologie.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -38,6 +44,14 @@ related_uuids:
 - 005ebf22-d1c0-50cd-ae57-373efc6bdcde
 - cbe79040-1b75-50b1-9aad-bc544ff2b6be
 - bd5a1074-4db4-556d-bd6d-4207d963ce10
+body_de: |
+  Seo Jin-ae, die Überlebende des Project Seraph, hat jeglichen weiteren Kontakt mit Azimuth Biotech abgelehnt, nachdem dieses Hilfe angeboten hatte.
+  Sie befindet sich derzeit in der Obhut von Professorin Alba Tesreau, die erklärte:
+  „Es wird niemanden überraschen, dass Frau Seo den Vorschlag von Herrn Rademaker vehement ablehnt. Sie hat mir erschreckende Details über ihre Entführung vor Jahren und die invasiven Experimente in Oaken Point geschildert. Die Angst, dass Agenten von Azimuth sie jagten, ist nie verflogen und führte zu völliger Isolation von ihrem früheren Leben, um Freunde und Angehörige zu schützen. Nach Lage der Dinge hat sie keinen Grund, der Organisation zu vertrauen, die für ihr Leid verantwortlich ist."
+  „Frau Seos Gesundheit hat sich gebessert, doch mir wurde mitgeteilt, dass ein erhebliches neuronales Implantat, das in ihre Großhirnrinde eingepflanzt wurde und dessen Zweck die Verbindung mit einem Thargoid-Schiff ist, niemals entfernt werden kann. Mit ihrer Erlaubnis arbeiten wir daran, die Art der Operationen besser zu verstehen, die Frau Seo angetan wurden, sowie ihre behauptete Deutung des ‚Thargoid-Brüllens'. Ich habe sowohl Professor Ishmael Palin als auch Ram Tah um Unterstützung gebeten."
+  Azimuth-Biotech-CEO Torben Rademaker zeigte sich von der Reaktion enttäuscht und stellte Seo Jin-aes Glaubwürdigkeit in Frage: „In ihrem fraglichen emotionalen Zustand könnte D-2 für Professorin Tesreau und andere ehemalige Aegis-Radikale empfänglich für Zwang sein. Unsere medizinischen Teams haben Zugang zu Aufzeichnungen, die die Eingriffe der Chirurgen in Oaken Point im Detail beschreiben. Es wäre unklug von Tesreau, das Eigeninteresse über die Chance zu stellen, D-2 wirklich zu heilen."
+  In anderen Nachrichten berichteten mehrere Nachrichtenagenturen über einen ersten Anstieg der öffentlichen Unterstützung für die Wiedererrichtung von Aegis. Nach ihrer Teilnahme am Symposium sagte Vizepremierministerin Angela Corcoran gegenüber der Old Worlds Gazette:
+  „Operation Tyndareus wurde eingeleitet, mit Kräften, die im Andecavi-System Schutz bieten. Doch die Allianz sollte sich nicht ausschließlich auf die Sirius Corporation für die Anti-Xeno-Verteidigung verlassen. Ich bin überzeugt, dass die Rückkehr von Aegis eine Option ist, die einer ernsthaften Prüfung würdig ist."
 ---
 
 

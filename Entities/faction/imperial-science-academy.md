@@ -13,6 +13,9 @@ related_entities:
 bio: 'Imperial Science Academy is a organization in the Elite Dangerous universe,
   active from 3308-09-05 to 3308-09-05. Frequently linked with HIP 22460, Holloway
   Bioscience Institute. '
+bio_de: Die Imperial Science Academy ist eine Organisation im Elite-Dangerous-Universum,
+  die von 3308-09-05 bis 3308-09-05 aktiv war. Häufig in Verbindung mit HIP 22460
+  und dem Holloway Bioscience Institute.
 ---
 
 

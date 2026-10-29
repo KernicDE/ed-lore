@@ -12,6 +12,21 @@ bio: 'Ethan Takahashi is a key figure in Elite Dangerous lore, active from 3305-
   to kill a sibling ...; The Children of Tothos cult is thwarted in its attempt to
   detonate a nuclear weapon at Archambault Terminal when FIA Senior Agent Rochelle
   Karim — ...'
+bio_de: |-
+  Ethan Takahashi ist Kriminalreporter bei den Federal Times und berichtete über
+  bedeutende kriminalpolizeiliche Ermittlungen in den 3300ern. Im April 3305 lieferte
+  er einen Sonderbericht über die erfolgreiche Verhinderung einer Kernwaffen-Detonation
+  durch die FIA im Archambault Terminal durch die Sekte Children of Tothos. Darin
+  schilderte er detailliert, wie Senior-Agentin Rochelle Karim die Gruppe infiltriert
+  hatte und den Anführer Barnabas Cole erschoss, als dieser die gestohlene
+  Lucifer-Vorrichtung aktivieren wollte.
+  
+  Takahashis Berichterstattung zeichnete die tödliche Bedrohung durch apokalyptische
+  Sekten sowie die Wirksamkeit von Undercover-Einsätzen zur Verhinderung von
+  Terroranschlägen mit Massenopfern auf. Seine Arbeit für die Federal Times machte
+  ihn zu einem wichtigen Chronisten der Erfolge föderaler Strafverfolgungsbehörden,
+  indem er der Öffentlichkeit detaillierte Darstellungen von Operationen lieferte, die
+  oft bis zu seinen Berichten geheim blieben.
 ---
 
 

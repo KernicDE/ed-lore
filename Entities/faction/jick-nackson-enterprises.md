@@ -14,6 +14,9 @@ related_entities:
 bio: 'Jick Nackson Enterprises is a corporate in the Elite Dangerous universe, active
   from 3308-09-30 to 3308-09-30. Frequently linked with Pilots Federation, Universal
   Cartographics, Auger Vision. '
+bio_de: Jick Nackson Enterprises ist ein Unternehmen im Elite-Dangerous-Universum,
+  das von 3308-09-30 bis 3308-09-30 aktiv war. Häufig in Verbindung mit der Pilots
+  Federation, Universal Cartographics und Auger Vision.
 ---
 
 

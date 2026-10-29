@@ -7,6 +7,8 @@ last_seen_date: '3308-11-01'
 mention_count: 2
 bio: 'Tahir West is a admiral in the Elite Dangerous universe, active from 3305-06-21
   to 3308-11-01. Closely associated with Alliance, Council of Admirals. '
+bio_de: 'Tahir West ist ein Admiral im Elite-Dangerous-Universum, aktiv vom 21.06.3305
+  bis 01.11.3308. Eng verbunden mit der Allianz und dem Council of Admirals.'
 ---
 
 

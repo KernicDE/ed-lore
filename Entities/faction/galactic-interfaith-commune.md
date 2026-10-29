@@ -16,6 +16,10 @@ bio: 'Galactic Interfaith Commune is a religious active in Elite Dangerous lore 
   Agency. Key activities include: The Church of Eternal Void, which worships the Guardians,
   declares war on the Far God cult.; The FIA apprehends further Far God cult members
   to determine if they communicate with Thargoids.'
+bio_de: |-
+  Die Galactic Interfaith Commune ist eine religiöse Organisation, die sich in der gesamten Galaxie für spirituelle Freiheit und Toleranz einsetzt. Im September 3308 verurteilte die Commune das Vorgehen der Föderalregierung gegen den Orden des Fergods und schloss sich gemeinsam mit Advocacy und der Spiritual Freedom Movement dem Widerstand gegen Präsident Hudsons Entscheidung an, den Kult als potenziellen Feind des Staates einzustufen.
+
+  Der Widerstand der Commune gegen die Maßnahmen unterstrich Bedenken hinsichtlich religiöser Verfolgung in Kriegszeiten und argumentierte, dass konkrete Beweise erforderlich seien, bevor Bürger als Feinde behandelt werden könnten. Die Haltung der Organisation brachte sie sowohl in Spannung zur Sicherheitspolitik der Föderation als auch zu militanteren religiösen Gruppen wie der Church of Eternal Void und verdeutlichte die komplexe Rolle glaubensbasierter Organisationen in der galaktischen Politik während der Thargoid-Konflikte.
 ---
 
 

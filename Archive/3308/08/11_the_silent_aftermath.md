@@ -1,14 +1,20 @@
 ---
 uuid: c896dd55-b9b3-5552-9038-07a79049f0bb
 title: The Silent Aftermath
+title_de: Die stille Nachwirkung
 slug: the_silent_aftermath
 date: '3308-08-11'
 source: API
 summary: Two days after the HIP 22460 massacre, authorities maintain silence while
   Azimuth's surviving megaships accept survivors and medical personnel refuse press
   access to witnesses.
+summary_de: Zwei Tage nach dem Massaker in HIP 22460 wahren die Behörden Stillschweigen,
+  während Azimuths überlebende Megaschiffe Überlebende aufnehmen und medizinisches Personal
+  Journalisten den Zugang zu Zeugen verweigert.
 player_impact: Survivors from HIP 22460 reached the Glorious Prospect, Musashi, and
   El Centinela Cadejo megaships in Pleiades Sector CW-U B3-2.
+player_impact_de: Überlebende aus HIP 22460 erreichten die Megaschiffe Glorious Prospect,
+  Musashi und El Centinela Cadejo im System Pleiades Sector CW-U B3-2.
 persons:
 - Alba Tesreau
 - Ernesto Rios
@@ -29,6 +35,10 @@ arc_id: salvation-azimuth
 modern_impact: The authorities' deliberate information blackout after HIP 22460 allowed
   Azimuth and the superpowers to control the narrative, delaying public reckoning
   with the scale of the disaster and Salvation's responsibility.
+modern_impact_de: Das bewusste Nachrichtenembargo der Behörden nach HIP 22460 ermöglichte
+  es Azimuth und den Supermächten, die Erzählung zu kontrollieren und verzögerte die
+  öffentliche Auseinandersetzung mit dem Ausmaß der Katastrophe und der Verantwortung
+  von Salvation.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -36,6 +46,14 @@ related_uuids:
 - 7cc33ea4-c770-5e4b-8a0e-bd75d0d19c24
 - 1678fa94-d3b9-5a9e-b13e-15335a42269e
 - ac92b027-9c2d-582d-af18-eac48e474be8
+body_de: |
+  Der Thargoid-Sieg im System HIP 22460 hat viele Fragen aufgeworfen, auf die weder Azimuth Biotech noch die Supermächte offiziell geantwortet haben.
+  Ernesto Rios, Feldkorrespondent von Vox Galactica, veröffentlichte einen Bericht, der die jüngsten Entwicklungen zusammenfasst:
+  „Zwei Tage sind seit dem Massaker in HIP 22460 vergangen, bei dem viele Tausend Menschen ums Leben kamen. Es gibt keine Neuigkeiten von der Alliance Defence Force oder der Föderalen oder Imperialen Flotte. Alle Presseorgane haben ihren Journalisten den Zutritt zum System untersagt, aufgrund des extremen Risikos eines Thargoid-Angriffs. Uns fehlen weiterhin konkrete Informationen darüber, warum die Proteuswelle versagt hat. Während die Echos dieser schrecklichen Ereignisse verhallen, ist das Schweigen der Behörden ohrenbetäubend."
+  „Die überlebenden Megaschiffe von Azimuth Biotech, die Glorious Prospect und die Musashi, befinden sich zusammen mit dem Schiff El Centinela Cadejo der Sirius Corporation weiterhin im nahegelegenen System Pleiades Sector CW-U B3-2. Dort wird ein stetiger Strom von Überlebenden aus HIP 22460 aufgenommen, deren Rettungskapseln oder Schiffe lange genug überdauert haben, um vor dem Thargoid-Ansturm wieder Energie zu gewinnen. Das medizinische Personal hat Journalisten den Zutritt zu den Krankenstationen verweigert und damit Interviews mit Augenzeugen verhindert."
+  „Ohne jede offizielle Erklärung von Azimuth und mit weiterhin unbekanntem Status von Salvation können wir nur spekulieren, was in HIP 22460 geschehen ist. Die Art und Weise, wie die Thargoids den Energieimpuls der Proteuswelle abwehren konnten, bleibt unerklärt, und ihre anschließende Vorherrschaft im System hat weit verbreitete Unruhe ausgelöst. Statt den Zweiten Thargoid-Krieg zu beenden, hat Salvation ihn möglicherweise zu erschreckenden Höhen eskaliert."
+  Auch Heimar Borichev, stellvertretender Chefredakteur von The Sovereign, äußerte sich zur Lage:
+  „Offensichtlich ist dies eine große Tragödie, und wir müssen derer gedenken, die ihr Leben verloren haben. Aber im Wesentlichen haben sich die Thargoids gerade gegen den Xenozid verteidigt, den wir ihnen zufügen wollten. Können wir unseren moralischen Zorn gegenüber dieser Spezies wirklich rechtfertigen, weil sie sich gegen unsere Massenvernichtungswaffe geschützt hat? Hätte all dies vermieden werden können?"
 ---
 
 

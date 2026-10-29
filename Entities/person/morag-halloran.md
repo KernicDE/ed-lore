@@ -11,6 +11,24 @@ bio: 'Morag Halloran is a Admiral in Elite Dangerous lore, active from 3306-11-1
   from Delphi, Maia and Merope, and urges unity behind his crusade while ...; Commodore
   Morag Halloran reveals that hundreds of naval officers from all three superpowers
   and Sirius have resigned to join Salvation''s anti-xeno ...'
+bio_de: |-
+  Kommodore Morag Halloran ist eine Offizierin der Allianz-Verteidigungsstreitkräfte,
+  die 3308 zur Anti-Xeno-Initiative von Salvation überlief und eine von mehreren
+  hundert Offizieren aus allen drei Supermächten wurde, die ihre Kommission niederlegten,
+  um das experimentelle Waffenprogramm von Azimuth Biochemicals zu unterstützen. Ihr
+  Überlaufen verdeutlichte die Vertrauenskrise, unter der die Militärs während des
+  Zweiten Thargoid-Krieges litten, als konventionelle Streitkräfte den Angriff der
+  Malströme nicht aufhalten konnten und Salvations Superwaffen scheinbar wunderbare
+  Ergebnisse lieferten.
+
+  Hallorans Entscheidung, die Verteidigungsstreitkräfte für Azimuth zu verlassen, war
+  politisch brisant und zwang die Führung der Allianz, sich mit der Unzulänglichkeit
+  der eigenen militärischen Fähigkeiten und dem verführerischen Reiz unethischer
+  Abkürzungen auseinanderzusetzen. Ihre spätere Rolle in Salvations Operationen – die
+  Koordinierung von Marineeinheiten und Personal aus mehreren Supermächten – zeigte
+  sowohl ihre taktische Kompetenz als auch die gefährliche Erosion institutioneller
+  Loyalität, die Azimuths Erfolge auslöste. Das Scheitern der Proteus-Welle ließ
+  Halloran und ihre Mitüberläufer beruflich und moralisch gestrandet zurück.
 ---
 
 

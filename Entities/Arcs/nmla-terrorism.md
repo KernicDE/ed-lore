@@ -19,12 +19,20 @@ phases:
 - 'Phase 1: The Nine Martyrs (3307-03-11)'
 - 'Phase 2: Prince Harold''s Assassination (3306-10-20)'
 - 'Phase 3: The Battle of Summerland (3308-02-24)'
+description_de: Die Terrorkampagne der Neo-Marlinist Liberation Army gegen das Imperium,
+  einschließlich des Angriffs der Neun Märtyrer und der Ermordung von Prinz Harold Duval,
+  die in der Schlacht von Summerland und der Enttarnung der Lords of Restoration gipfelte.
 summary: The NMLA's terrorist campaign against the Empire, from the Nine Martyrs attack
   to their defeat at Summerland and the exposure of Imperial senators who secretly funded
   them.
+summary_de: Die Terrorcampagne der NMLA gegen das Imperium, vom Angriff der Neun Märtyrer
+  bis zur Niederlage in Summerland und der Enttarnung der imperialen Senatoren, die sie
+  heimlich finanziert hatten.
 status: Resolved
 outcome: The NMLA was defeated at Summerland. Darkwater Inc was destroyed. The Lords
   of Restoration were exposed. Emperor Arissa was rescued.
+outcome_de: Die NMLA wurde in Summerland besiegt. Darkwater Inc wurde vernichtet. Die
+  Lords of Restoration wurden enttarnt. Kaiserin Arissa wurde gerettet.
 significance: high
 ---
 

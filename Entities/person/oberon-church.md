@@ -11,6 +11,23 @@ bio: 'Oberon Church is a Engineer in Elite Dangerous lore, active from 3305-06-2
   crackdown against the Red Family narcotics syndicate using Proactive Detection Bureau
   intel...; Red Family co-founder Jan Sandoval reveals the cartel has developed a
   genetically engineered designer narcotic far more addictive than existing sub...'
+bio_de: |-
+  Oberon Church ist der Gründer und Drahtzieher der Red Family, eines berüchtigten
+  Drogensyndikats, das im föderalen Raum operiert. Mitte 3305 entwickelte Church eine
+  gentechnisch hergestellte Designerdroge, die deutlich süchtiger machte als jede
+  bestehende Substanz. Daraufhin ergab sich Mitgründerin Jan Sandoval der Federal
+  Intelligence Agency, um ihre Massenproduktion zu verhindern.
+
+  Trotz koordinierter FIA-Razzien, bei denen der Großteil der Vermögenswerte der
+  Organisation beschlagnahmt und zahlreiche Mitglieder festgenommen wurden, gelang es
+  Church, der Festnahme zu entgehen. Der Kriminalreporter der Federal Times, Ethan
+  Takahashi, berichtete, Church sei „seinem selbst gewählten Image als ‚der Mann aus
+  Rauch' gerecht geworden, der für immer durch die Finger derer driftet, die ihn
+  greifen wollen." Analysten des Proactive Detection Bureau arbeiteten daran, die
+  Kommunikation aus beschlagnahmten Datenspeichern zu entschlüsseln, um seinen
+  Aufenthaltsort zu bestimmen. Doch Churchs Fähigkeit, der Justiz zu entgehen,
+  zeigte die Widerstandskraft gut etablierter krimineller Netzwerke selbst gegen die
+  fortschrittlichsten Überwachungskapazitäten der Föderation.
 ---
 
 

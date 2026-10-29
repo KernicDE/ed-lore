@@ -7,6 +7,9 @@ last_seen_date: '3308-11-01'
 mention_count: 1
 bio: 'Liam Flanagan is a admiral in the Elite Dangerous universe, active from 3308-11-01
   to 3308-11-01. Closely associated with Imperial Senate, Federal Navy, Alliance. '
+bio_de: 'Liam Flanagan ist ein Admiral im Elite-Dangerous-Universum, aktiv von
+  3308-11-01 bis 3308-11-01. Eng verbunden mit dem Imperialen Senat, der Föderalen
+  Marine und der Allianz.'
 ---
 
 

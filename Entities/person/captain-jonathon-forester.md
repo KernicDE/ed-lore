@@ -7,6 +7,8 @@ last_seen_date: '3308-06-09'
 mention_count: 2
 bio: 'Captain Jonathon Forester is a prominent figure in the Elite Dangerous universe,
   active from 3308-06-02 to 3308-06-09. '
+bio_de: Kapitän Jonathon Forester ist eine bedeutende Figur im Elite-Dangerous-Universum,
+  aktiv von 3308-06-02 bis 3308-06-09.
 ---
 
 

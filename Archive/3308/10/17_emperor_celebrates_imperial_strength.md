@@ -1,13 +1,17 @@
 ---
 uuid: 5553d91a-6dbd-5e36-a90d-041502ba09c2
 title: Emperor Celebrates Imperial Strength
+title_de: Kaiserin feiert imperiale Stärke
 slug: emperor_celebrates_imperial_strength
 date: '3308-10-17'
 source: API
 summary: Emperor Arissa Lavigny-Duval has expressed satisfaction with the Empire’s
   military and scientific progress since the Battle of HIP 22460.
+summary_de: Kaiserin Arissa Lavigny-Duval äußerte sich zufrieden über die militärischen und
+  wissenschaftlichen Fortschritte des Imperiums seit der Schlacht von HIP 22460.
 player_impact: This article focuses on political and strategic developments without
   direct pilot involvement.
+player_impact_de: Keine
 persons:
 - Arissa Lavigny-Duval
 groups:
@@ -25,6 +29,8 @@ arc_id: null
 modern_impact: '"The Imperial Navy is entering a period of revitalisation, with advances
   being made in multiple areas. We have been fr..." Imperial policy during this period
   reveals the tensions between isolationism and collective security.'
+modern_impact_de: Die imperiale Politik dieser Zeit offenbart die Spannungen zwischen
+  Isolationismus und kollektiver Sicherheit.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -33,6 +39,13 @@ related_uuids:
 - bd5a1074-4db4-556d-bd6d-4207d963ce10
 - 5fe4f82e-6d86-54ad-8e32-86f5d121a22b
 - 005ebf22-d1c0-50cd-ae57-373efc6bdcde
+body_de: |
+  Kaiserin Arissa Lavigny-Duval äußerte sich zufrieden über die militärischen und wissenschaftlichen Fortschritte des Imperiums seit der Schlacht von HIP 22460.
+  Sie hielt die öffentliche Ansprache nach einer jüngsten Besichtigung einer Gutamaya-Werft:
+  „Die imperiale Marine tritt in eine Phase der Erneuerung ein, in der auf mehreren Gebieten Fortschritte erzielt werden. Wir wurden von der Last einer externen Misswirtschaft befreit, die unser militärisches Potenzial gehemmt und unsere Marinestärke verwässert hat."
+  „Der Senat hat unermüdlich daran gearbeitet, Mittel und Möglichkeiten für diesen erneuerten Fokus zu schaffen. Neue Schiffe und Besatzungen haben die jüngsten Verluste ersetzt und unsere Flotten stärker gemacht als je zuvor. Und viele loyale Konzerne haben minderwertige Importe fremder Welten durch die hochwertige Handwerkskunst imperialer Meister ersetzt."
+  „Neben gestiegener militärischer und wirtschaftlicher Macht weist die imperiale Wissenschaftsakademie den Weg in der xenologischen Forschung, um die Geheimnisse unseres Thargoid-Feinds zu lüften. Wir haben die katastrophale Natur der Proteus-Wellen-Technologie gesehen, doch die Entwicklung eigener Anti-Xeno-Optionen mit alternativen Methoden bleibt Priorität."
+  „Imperiale Systeme sind besser gegen unsere Feinde geschützt, als seit einer Generation. Nie zuvor wirkte die Zukunft so gesichert. Unsere glorreiche Geschichte, die sich über mehr als tausend Jahre erstreckt, lehrt uns eine Wahrheit, die wir nun neu lernen müssen: Das Imperium steht allein stärker da."
 ---
 
 

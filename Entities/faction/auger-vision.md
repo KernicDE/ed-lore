@@ -14,6 +14,7 @@ related_entities:
 bio: 'Auger Vision is a organization in the Elite Dangerous universe, active from
   3308-09-30 to 3308-09-30. Frequently linked with Pilots Federation, Universal Cartographics,
   Jick Nackson Enterprises. '
+bio_de: Auger Vision ist eine Organisation im Elite-Dangerous-Universum, die am 3308-09-30 aktiv war. Häufig in Verbindung mit der Pilotenföderation, Universal Cartographics und Jick Nackson Enterprises.
 ---
 
 

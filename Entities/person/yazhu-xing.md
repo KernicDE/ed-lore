@@ -7,6 +7,8 @@ last_seen_date: '3308-10-03'
 mention_count: 2
 bio: 'Yazhu Xing is a prominent figure in the Elite Dangerous universe, active from
   3307-08-11 to 3308-10-03. Closely associated with Aegis. '
+bio_de: 'Yazhu Xing ist eine prominente Figur im Elite-Dangerous-Universum, aktiv vom
+  11.08.3307 bis 03.10.3308. Eng verbunden mit Aegis.'
 ---
 
 

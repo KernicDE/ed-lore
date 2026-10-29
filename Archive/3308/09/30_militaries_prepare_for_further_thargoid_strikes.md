@@ -1,14 +1,21 @@
 ---
 uuid: bb92f6c0-0def-564c-9b52-f2f1c75fc853
 title: Militaries Prepare for Further Thargoid Strikes
+title_de: Militärs bereiten sich auf weitere Thargoid-Angriffe vor
 slug: militaries_prepare_for_further_thargoid_strikes
 date: '3308-09-30'
 source: API
 summary: Vox Galactica's Ernesto Rios summarises the post-HIP 22460 military situation,
   detailing divergent superpower responses to the Thargoid withdrawal and the growing
   xeno-peace movement led by Joy Senne.
+summary_de: Ernesto Rios von Vox Galactica fasst die militärische Lage nach HIP 22460
+  zusammen, mit den unterschiedlichen Reaktionen der Supermächte auf den Thargoid-Rückzug
+  und der wachsenden Bewegung für Frieden mit den Xenolebewesen unter Joy Senne.
 player_impact: Not specifically mentioned — this is a news summary, though independent
   pilots are noted as critical defenders of systems lacking formal naval support.
+player_impact_de: Nicht explizit erwähnt — dies ist eine Nachrichtenzusammenfassung,
+  wobei unabhängige Piloten als wichtige Verteidiger von Systemen ohne formale
+  Flottenunterstützung hervorgehoben werden.
 persons:
 - Ernesto Rios
 - Zachary Hudson
@@ -38,6 +45,10 @@ arc_id: thargoid-contact
 modern_impact: The article captures the divergent strategic responses of all three
   superpowers to Thargoid tactical evolution, while highlighting the growing political
   influence of the xeno-peace movement.
+modern_impact_de: Der Artikel zeichnet die divergierenden strategischen Reaktionen aller
+  drei Supermächte auf die taktische Weiterentwicklung der Thargoids nach und hebt
+  gleichzeitig den wachsenden politischen Einfluss der Bewegung für Frieden mit den
+  Xenolebewesen hervor.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -47,6 +58,15 @@ related_uuids:
 - d6063fe1-a6b1-595d-b957-5243e1ce6784
 - 06c601f9-d6e1-544a-8af2-261838d10ba8
 - 1678fa94-d3b9-5a9e-b13e-15335a42269e
+body_de: |
+  Die Aussicht auf weitere Invasionen von Systemen durch die Thargoids hat die Allianz, das Imperium und die Föderation in höchste Alarmbereitschaft versetzt.
+  Ernesto Rios, Außenkorrespondent von Vox Galactica, fasste die Lage zusammen:
+  „Nach der Schlacht von HIP 22460 wurde erwartet, dass die Thargoids sich in benachbarte Regionen ausdehnen würden. Schwärme feindlicher Schiffe trafen tatsächlich in den Systemen 42 n Persei, Chun Pindit und Tekkeitjal ein, obwohl – in einer bemerkenswerten Änderung ihrer früheren Taktik – kein Sternenhafen einen direkten Angriff erlitt."
+  „Die föderale Flotte reagierte schnell und stationierte Schlachtkreuzer der Farragut-Klasse. Präsident Zachary Hudson verkündete, dass diese die Invasoren erfolgreich vertrieben hätten, doch viele Beobachter vermuten, dass der Rückzug der Thargoids, während die Kämpfe noch hartnäckig andauerten, beabsichtigt war."
+  „Im Imperium betrachtete Senator Denton Patreus diese Ereignisse als ‚ein Zeichen dafür, dass die Thargoid die Verteidigungsfähigkeiten der Menschheit ausloten'. Einzelheiten der Anti-Xeno-Strategie der kaiserlichen Flotte blieben jedoch vertraulich, ein Zeichen für die Abkehr des Imperiums von der militärischen Koordinierung mit anderen Supermächten."
+  „Die Allianz erklärte, in einer Bereitschaftsposition zu sein. Admiral Nikolas Glass berichtete: ‚Operation Tyndareus, unterstützt von der Sirius Corporation, ist jetzt aktiv. Die Verteidigungsstreitmacht der Allianz ist bereit, Anti-Xeno-Einsatzkräfte zu entsenden, falls die Thargoid es wagen, einen Angriff auf alliiertes Territorium zu starten.' Kritiker des strategischen Verteidigungspakts wiesen unterdessen darauf hin, dass derzeit nur zwei Megaschiffe mit AX-Bewaffnung ausgestattet sind, was die Wirksamkeit der ADF in Frage stellt."
+  „Anderswo tun viele unabhängige Systeme alles, um ihre lokalen Sicherheitskräfte zu stärken. Zu viele Welten wissen nur zu genau, dass sie, sollten Flotten der Thargoid den Himmel über ihnen verdunkeln, auf Söldner und unabhängige Piloten als Schutz angewiesen wären."
+  „Die öffentliche Meinung zu fortgesetzten Militäreinsätzen gegen Thargoid-Schiffe bleibt überwiegend positiv, aber die Diskussion um ‚Frieden mit den Xenolebewesen' wächst weiter. Im System Aiabiko hat die führende ICE-Persönlichkeit Joy Senne ein Paket zur ‚Beacon-Sammlung' veröffentlicht, um unabhängigen Piloten die Idee des Friedens nahezubringen. Schiffe, die den Beacon abscannen, erhalten ein schiffsnamensplaketten- und aufkleberset im Xenofreundlich-Design – bezahlt von Senne – sowie Ausschnitte eines kürzlichen Gesprächs mit Sovereign-Times-Moderator Heimar Borichev über das sogenannte ‚Thargoid Advocacy Project'."
 ---
 
 

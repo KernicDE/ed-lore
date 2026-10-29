@@ -1,13 +1,18 @@
 ---
 uuid: a351c94a-19a1-5e95-9429-f0bb7cbaf1d8
 title: Azimuth's Plan Elicits Further Reactions
+title_de: Azimuths Plan ruft weitere Reaktionen hervor
 slug: azimuths_plan_elicits_further_reactions
 date: '3308-07-15'
 source: API
 summary: Prominent political figures including Archon Delaine, Yuri Grom, Zemina Torval,
   Hadrian Duval, Octavia Volkov, and Jasmina Halsey offer contrasting perspectives
   on Salvation's Proteus Wave operation in HIP 22460.
+summary_de: Prominente politische Persönlichkeiten wie Archon Delaine, Yuri Grom,
+  Zemina Torval, Hadrian Duval, Octavia Volkov und Jasmina Halsey äußern
+  gegensätzliche Ansichten zu Salvations Proteus-Wellen-Operation in HIP 22460.
 player_impact: Not specifically mentioned — this is a political opinion piece.
+player_impact_de: Keine
 persons:
 - Archon Delaine
 - Hadrian Duval
@@ -35,12 +40,38 @@ arc_id: salvation-azimuth
 modern_impact: The divergent reactions revealed how Azimuth's operation had become
   a Rorschach test for galactic political identities, with each leader projecting
   their own ideological framework onto the same military campaign.
+modern_impact_de: Die unterschiedlichen Reaktionen zeigten, dass Azimuths Operation zu
+  einem Rorschach-Test für galaktische politische Identitäten geworden war; jeder
+  Führer projizierte sein eigenes ideologisches Weltbild auf denselben Militärfeldzug.
 legacy_weight: 4
 significance: medium
 related_uuids:
 - 0f01426c-a180-522b-9e1c-2226d9be75e7
 - 1c3d154f-c7fd-533d-b700-1ce942b570c2
 - f21fb651-0ba8-5e86-bbbf-62f93558c998
+body_de: |
+  Prominente Persönlichkeiten der politischen Bühne haben sich zu Salvations
+  Anti-Xeno-Operation im System HIP 22460 geäußert. Die wichtigsten Aussagen sind
+  nachstehend zusammengestellt.
+  Archon Delaine: „Meine Meinung zu den Thargoids bleibt unverändert: Verbrennt sie alle!
+  Wie ich auf dem Galaktischen Gipfel erklärt habe, steht die Kumo-Nation bereit, dabei
+  zu helfen, diesen außerirdischen Abschaum auszulöschen."
+  Yuri Grom: „Ich traue Salvation ebenso wenig wie der Föderation. Welche Garantie haben
+  wir, dass diese Proteus-Welle nicht gegen menschliche Ziele gerichtet wird, sobald die
+  Thargoids erledigt sind?"
+  Senatorin Zemina Torval: „Azimuth Biotech hat sich als strategisch bedeutender Konzern
+  herausgestellt. Ich habe dem Imperialen Senat geraten, langfristige, beidseitig
+  vorteilhafte Handelsbeziehungen aufzubauen."
+  Hadrian Augustus Duval: „Die Thargoids sind eine echte Bedrohung. Doch ich hoffe, dass
+  unsere militärische Zusammenarbeit mit der Allianz und der Föderation nur eine
+  vorübergehende Maßnahme ist. Das Imperium muss die Stärke entwickeln, allein zu bestehen."
+  Erste Ministerin Octavia Volkov: „Thargoid-Angriffe sind eine ständige Gefahr für die
+  Marlinisten-Kolonien. Wir beobachten die Ereignisse genau. Ich persönlich halte
+  Azimuth nicht für einen vertrauenswürdigen Verbündeten."
+  Botschafterin Jasmina Halsey: „Ich freue mich, dass die Föderation eng mit der Allianz
+  zusammenarbeitet, bin jedoch enttäuscht, dass dies auf Anti-Xeno-Themen beschränkt
+  bleibt. Was auch immer in HIP 22460 geschieht, wir sollten diese Gelegenheit nutzen, um
+  die diplomatische ebenso wie die militärische Zusammenarbeit zu vertiefen."
 ---
 
 

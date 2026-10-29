@@ -1,12 +1,16 @@
 ---
 uuid: 4142a139-3275-5ad3-8392-26cd6e4b9594
 title: Rackham Announces Presidential Candidacy
+title_de: Rackham kündigt Präsidentschaftskandidatur an
 slug: rackham_announces_presidential_candidacy
 date: '3308-05-27'
 source: API
 summary: Zachary Rackham officially confirms his candidacy for the 3309 Federal presidential
   election.
+summary_de: Zachary Rackham bestätigt offiziell seine Kandidatur für die Bundespräsidentschaftswahl
+  3309.
 player_impact: Not specifically mentioned — this is a political announcement.
+player_impact_de: Keine
 persons:
 - Zachary Rackham
 - Felicia Winters
@@ -22,6 +26,11 @@ modern_impact: '"I feel like everyone''s tired of the same empty words from the 
   framing of his billionaire candidacy as representing ''the little guy'' introduced
   a new brand of anti-establishment politics to the Federation, one built on celebrity
   wealth rather than grassroots mobilisation.'
+modern_impact_de: „Ich habe das Gefühl, alle haben die gleichen leeren Worte der beiden
+  großen politischen Parteien satt. Es ist Zeit, den kleinen Mann zu Wort kommen zu
+  lassen!" Rackhams populistische Rahmung seiner Milliardärskandidatur als Vertretung
+  des ‚kleinen Mannes' führte eine neue Form antiestablishmentärer Politik in die
+  Föderation ein, die auf Prominentenvermögen statt auf Graswurzelmobilisierung aufbaute.
 legacy_weight: 3
 significance: medium
 related_uuids:
@@ -29,6 +38,34 @@ related_uuids:
 - 63001d5d-a245-5343-9227-752c3d47dcca
 - 7751461f-fff8-5e46-b710-f494c50ab069
 - d48a2172-4d32-5501-b760-eb75a11fb324
+body_de: |
+  Der Billionen-Unternehmer Zachary Rackham hat offiziell bestätigt, dass er bei der
+  Bundeswahl 3309 als Kandidat antreten wird.
+
+  Herr Rackham äußerte seine Absichten nach mehreren Wochen des Spekulierens endlich.
+  Auf einer Pressekonferenz sagte er:
+
+  „Ich weiß, was Sie alle denken. Der Kerl als Präsident? Ist das nicht einfach ein
+  gewöhnlicher Geschäftsmann, der früher mit dem Handel von Trödel in einer rostigen
+  alten Sidewinder über die Runden kam?"
+
+  „Doch trotz meiner bescheidenen Herkunft haben viele gute Menschen mich überzeugt,
+  dass meine Erfahrung mit der Führung von Konzernen der Föderation nützlich sein könnte.
+  Ich habe das Gefühl, alle haben die gleichen leeren Worte der beiden großen politischen
+  Parteien satt. Es ist Zeit, den kleinen Mann zu Wort kommen zu lassen!"
+
+  Herr Rackham fügte hinzu, dass die Vorbereitung seines Wahlprogramms und seines
+  Kampfteams mehrere Wochen dauern werde. Unbekannt ist, ob er eine neue politische
+  Partei gründen oder als unabhängiger Kandidat antreten will.
+
+  Von Präsident Hudson oder Schattenpräsidentin Winters gab es keine Stellungnahme.
+  Mehrere Kongressabgeordnete bemerkten jedoch, dass die mediale Aufmerksamkeit für
+  Herrn Rackhams Vorhaben das öffentliche Interesse an der Präsidentschaftswahl im
+  nächsten Jahr steigern könnte. An der letzten Wahl 3300 nahmen nur 65 % der
+  wahlberechtigten Bürger teil.
+
+  Das Tau-Ceti-Journal vermerkte, dass der Wert der Aktien von Rackham Capital Investments
+  auf ein Allzeithoch gestiegen ist und viele Anleger über Nacht äußerst reich machte.
 ---
 
 

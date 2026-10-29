@@ -11,6 +11,9 @@ bio: 'Bethany Blake is a Terrorist in Elite Dangerous lore, active from 3307-04-
   establishes the Proactive Detection Bureau to scan civilian communications for terrorist
   activity following congres...; The Azaladshu Free faction secedes from the Federation,
   declaring its four systems independent in protest against surveillance laws.'
+bio_de: |-
+  Bethany Blake ist die stellvertretende Direktorin der Federal Intelligence Agency (FIA), die 3308 eine großangelegte Razzia gegen das Drogensyndikat Red Family in mehreren Systemen leitete. Die Operation wurde durch Erkenntnisse ermöglicht, die das Proactive Detection Bureau — das Überwachungssystem der Föderation, das 3307 nach NMLA-Anschlägen eingerichtet wurde — zusammentrug.
+  In einer öffentlichen Erklärung gegenüber den Federal Times bestätigte Blake, dass die Algorithmen der FIA entscheidende Nachrichten abgefangen hatten, die Alliierte des Red Family in örtlichen Sicherheitskräften und legalen Unternehmen identifizierten, und so Massenverhaftungen in über einem Dutzend Föderationssystemen ermöglichten. Ihr offenes Eingeständnis, dass „das Proactive Detection Bureau sämtliche Kommunikation innerhalb der Föderation überwacht", offenbarte, wie schnell die Infrastruktur der Terrorismusbekämpfung für herkömmliche Strafverfolgung umfunktioniert wurde, was erhebliche Bedenken hinsichtlich der Bürgerrechte aufwarf.
 ---
 
 

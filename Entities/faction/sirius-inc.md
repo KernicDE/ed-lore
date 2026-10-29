@@ -10,6 +10,11 @@ bio: Sirius Inc is a corporate subsidiary of Sirius Corporation that operates in
   in the 42 n Persei system to improve services along the route to Maia. Senior Aide
   Humberto Guthrie stated that if superpowers could not protect them, they would protect
   themselves.
+bio_de: Sirius Inc ist eine konzernangehörige Tochtergesellschaft der Sirius Corporation,
+  die unabhängig in Grenzsystemen operiert. Im Jahr 3304 errichtete sie das Mega-Schiff
+  Dionysus für Flugoperationen im System 42 n Persei, um die Dienste entlang der Route
+  nach Maia zu verbessern. Der leitende Adjutant Humberto Guthrie erklärte, dass man sich,
+  falls die Supermächte sie nicht schützen könnten, selbst schützen würde.
 ---
 
 

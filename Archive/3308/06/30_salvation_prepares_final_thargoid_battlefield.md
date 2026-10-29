@@ -1,14 +1,21 @@
 ---
 uuid: 0f01426c-a180-522b-9e1c-2226d9be75e7
 title: Salvation Prepares 'Final Thargoid Battlefield'
+title_de: 'Salvation bereitet das ‚letzte Thargoid-Schlachtfeld‘ vor'
 slug: salvation_prepares_final_thargoid_battlefield
 date: '3308-06-30'
 source: API
 summary: Salvation announces the Proteus Wave construction in HIP 22460, declaring
   it will be the final battlefield to eradicate Thargoids from the galaxy, with superpower
   navies and Azimuth megaships mobilising for the operation.
+summary_de: Salvation verkündet den Bau des Proteus-Wellen-Bauvorhabens in HIP 22460
+  und erklärt, es werde das letzte Schlachtfeld sein, um die Thargoids aus der Galaxie
+  zu vertreiben. Die Flotten der Supermächte und Azimuth-Megaschiffe mobilisieren für
+  den Einsatz.
 player_impact: Pilots were called to support the Proteus Wave construction by delivering
   resources to the Heart of Taurus in HIP 22460.
+player_impact_de: Piloten wurden aufgerufen, den Bau der Proteuswelle zu unterstützen,
+  indem sie Ressourcen an das Herz des Stiers in HIP 22460 liefern.
 persons:
 - Morag Halloran
 - Salvation
@@ -34,12 +41,32 @@ modern_impact: Salvation's declaration that HIP 22460 would be the 'final battle
   represented the apotheosis of his messianic rhetoric, framing an experimental superweapon
   as humanity's only hope while superpower navies committed their full forces to his
   corporate operation.
+modern_impact_de: Salvations Erklärung, HIP 22460 werde das ‚letzte Schlachtfeld‘,
+  stellte den Höhepunkt seiner messianischen Rhetorik dar. Er stellte eine experimentelle
+  Superwaffe als einzige Hoffnung der Menschheit dar, während die Flotten der
+  Supermächte ihre gesamten Streitkräfte für seine Unternehmensoperation einsetzten.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 0d1dfbc5-c04b-5fec-bf20-b3d62588093f
 - 6d163a8d-7539-5b90-955d-f084b5d63e52
 - d506983a-04e6-5b65-8223-92c8cf470399
+body_de: |
+  **ALARM der Pilotenföderation**
+
+  Das System HIP 22460 wird der Schauplatz für einen entscheidenden Schlag gegen die Thargoids durch Azimuth Biotech und die Supermächte sein.
+
+  Die folgende Botschaft wurde über alle öffentlichen Kanäle gesendet:
+
+  „Hier ist Salvation. Der Bau der Proteuswelle hat offiziell begonnen. Diese Version meiner Anti-Xeno-Superwaffe wurde entwickelt, um den absoluten Sieg über unsere Widersacher zu bringen."
+
+  „HIP 22460 wird das letzte Schlachtfeld im Thargoid-Krieg sein. Wie bei früheren Superwaffen erwarten wir, dass die im Inneren der Proteuswelle verbaute Hüter-Technologie die Thargoids erneut anlocken wird. Diesmal wird sie jedoch die außerirdische Bedrohung nicht nur aus dem System, sondern aus der gesamten Galaxie auslöschen."
+
+  „Alle, die diese feindliche Spezies ein für alle Mal besiegt sehen wollen, sollten dieses Projekt als Aufruf zu den Waffen verstehen. Dies ist keine Zeit für Politik oder Debatten. Es ist die Gelegenheit, das Überleben der Menschheit zu sichern."
+
+  Azimuth-Biotech-Megaschiffe sind in das System HIP 22460 eingedrungen. Kommodore Morag Halloran koordiniert die Operation an Bord der Bright Sentinel. Das Herz des Stiers dient als Lieferpunkt für eintreffende Ressourcen. Zwei weitere Megaschiffe, die Musashi und die Glorious Prospect, befinden sich im nahegelegenen System Pleiades-Sektor CW-U B3-2, um weitere logistische Unterstützung zu leisten.
+
+  Auch Streitkräfte der Allianz-Verteidigungsflotte, der Bundesmarine und der Imperialen Marine haben im System HIP 22460 Stellung bezogen. Diese Schiffe wurden für den Anti-Xeno-Kampf umgerüstet, da sie mit Thargoid-Schiffen in größerer Zahl als je zuvor rechnen. Militärische Quellen bestätigten, dass die experimentelle Bewaffnung der Schiffe zwar etwas vorzeitig eingesetzt wird, aber dennoch wirksam sein dürfte.
 ---
 
 

@@ -1,13 +1,19 @@
 ---
 uuid: bb0a8874-54a5-529d-91a6-691c8859ac57
 title: Alliance-Sirius Pact Accelerated
+title_de: Allianz-Sirius-Pakt beschleunigt
 slug: alliance_sirius_pact_accelerated
 date: '3308-08-15'
 source: API
 summary: Prime Minister Edmund Mahon and Sirius Corporation CEO Li Yong-Rui accelerate
   the strategic defence pact after the HIP 22460 disaster, appointing Admiral Nikolas
   Glass to coordinate all anti-xeno operations for the Alliance Defence Force.
+summary_de: Premierminister Edmund Mahon und Sirius-Corporation-CEO Li Yong-Rui
+  beschleunigen den strategischen Verteidigungspakt nach der Katastrophe von HIP 22460
+  und ernennen Admiral Nikolas Glass zum Koordinator aller Anti-Xeno-Operationen der
+  Allianz-Verteidigungsstreitkräfte.
 player_impact: Not specifically mentioned — this is a policy announcement.
+player_impact_de: Keine — es handelt sich um eine politische Ankündigung.
 persons:
 - Edmund Mahon
 - Li Yong-Rui
@@ -28,6 +34,10 @@ arc_id: null
 modern_impact: The accelerated pact formalised the Alliance's military dependence
   on Sirius Corporation, using the HIP 22460 catastrophe as justification for deeper
   corporate integration into Allied defence infrastructure.
+modern_impact_de: Der beschleunigte Pakt formalisierte die militärische Abhängigkeit
+  der Allianz von der Sirius Corporation und nutzte die Katastrophe von HIP 22460 als
+  Rechtfertigung für eine tiefere Einbindung des Konzerns in die Verteidigungsinfrastruktur
+  der Allianz.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -36,6 +46,12 @@ related_uuids:
 - 8c4e7d2b-1a8f-5a0b-8f5d-9c4e7d2b1a8f
 - 1678fa94-d3b9-5a9e-b13e-15335a42269e
 - be63c32e-8997-572a-9d07-24701e8fc641
+body_de: |
+  Premierminister Edmund Mahon und Sirius-Corporation-CEO Li Yong-Rui haben eine gemeinsame Erklärung zur territorialen Verteidigung gegen die Thargoids abgegeben.
+  „Die jüngste Tragödie in HIP 22460 hat die entscheidende Bedeutung des strategischen Verteidigungspakts unterstrichen. Da die Wahrscheinlichkeit zunehmender Thargoid-Angriffe steigt, können die Systeme der Allianz versichert sein, dass wir schnelle Veränderungen vornehmen, um dieser potenziellen Bedrohung standzuhalten."
+  „Admiral Nikolas Glass wird nun alle Anti-Xeno-Militäroperationen koordinieren. Seine erste Priorität ist die Modernisierung der bestehenden Infrastruktur der Allianz-Verteidigungsstreitkräfte, sodass Flotten der Mitgliedssysteme je nach Missionsparametern formiert werden können. Dies bringt größere Flexibilität und erlaubt den ADF, Kräfte dorthin zu lenken, wo Thargoid-Übergriffe auftreten."
+  „Die Welten der Allianz rufen nach stärkeren Verteidigungskräften, und das Fehlen einer eigenen Allianz-Flotte wurde nie so schmerzlich empfunden. Doch die Assembly ist bereit, höhere Militärausgaben zu genehmigen, und die Sirius Corporation steht bereit, den Verteidigungspakt in die Praxis umzusetzen."
+  In einem Zusammenhang stehende Meldung: Der Rat der Admiräle bestätigte offiziell, dass die Oath of Tyndareus mit der gesamten Besatzung während des Thargoid-Gegenangriffs im System HIP 22460 verloren ging. Die Besatzung des Megaschiffs wurde bei einer öffentlichen Zeremonie postum geehrt.
 ---
 
 

@@ -1,13 +1,19 @@
 ---
 uuid: 7aaf4cac-767f-5e4b-b085-e5bc94a6c913
 title: Far God Cult Praises Alien Victory
+title_de: Der Ferne-Gott-Kult feiert den Sieg der Außerirdischen
 slug: far_god_cult_praises_alien_victory
 date: '3308-08-16'
 source: API
 summary: The Far God cult celebrates the Thargoid victory in HIP 22460 as divine fulfilment,
   sparking outrage and calls for arrest while Dr Jameelah Griffin urges tolerance
   and notes the cult's lawful status and surge in recruitment.
+summary_de: Der Ferne-Gott-Kult feiert den Thargoid-Sieg in HIP 22460 als göttliche
+  Erfüllung, was Empörung und Forderungen nach Verhaftungen auslöst, während Dr. Jameelah
+  Griffin zur Toleranz aufruft und auf den legalen Status des Kults sowie einen Zulauf
+  bei der Rekrutierung hinweist.
 player_impact: Not specifically mentioned — this is a social report.
+player_impact_de: Keine — es handelt sich um einen gesellschaftlichen Bericht.
 persons:
 - Jameelah Griffin
 groups:
@@ -23,6 +29,10 @@ arc_id: null
 modern_impact: The cult's joyous reaction to mass death highlighted how the Thargoid
   war had fractured human solidarity, with some viewing extinction as inevitable and
   even desirable, undermining collective resistance.
+modern_impact_de: Die freudige Reaktion des Kults auf den Massentod verdeutlichte,
+  wie der Thargoid-Krieg die menschliche Solidarität zerrissen hatte, wobei manche
+  das Aussterben für unvermeidlich und sogar wünschenswert hielten und so den gemeinsamen
+  Widerstand untergruben.
 legacy_weight: 3
 significance: medium
 related_uuids:
@@ -31,6 +41,14 @@ related_uuids:
 - 8c4e7d2b-1a8f-5a0b-8f5d-9c4e7d2b1a8f
 - bc635a7c-22bf-5a79-b6bb-781f8b67a199
 - 77d08b93-d779-599d-9f2a-b4e7733d91a8
+body_de: |
+  Eine abtrünnige Sekte der thargoidanbetenden Randreligion feiert offenbar das Massaker an menschlichen Streitkräften im System HIP 22460.
+  Eine Botschaft wurde vom Megaschiff Testament ausgestrahlt, gesendet von der anonymen Frau, die nur als Erste Apostelin der Wahren Kapitel bekannt ist:
+  „Wir jubeln über den Triumph des Fernen Gottes! Diejenigen, die versucht haben, die dunklen Engel zu schänden, haben den Preis dafür bezahlt. Der Ferne Gott ruft uns aus den höheren Dimensionen zu, und Seine Manifestation ist näher als je zuvor. Er kommt."
+  Es gab weit verbreitete Empörung über die Gläubigen des Fernen Gottes wegen ihrer freudigen Reaktion auf die vielen Tausenden Todesopfer in HIP 22460. Manche politische und militärische Führer forderten sogar die Verhaftung der ‚außerirdischenliebenden Verräter' als Feindeagenten. Es gibt jedoch keine Hinweise darauf, dass sie außer der Verehrung eine tatsächliche Beziehung zur Spezies der Thargoids hätten.
+  Dr. Jameelah Griffin von der Galaktischen Interkonfessionellen Kommune kommentierte:
+  „Trotz seines ungewöhnlichen Glaubenssystems und ungeachtet des schlechten Geschmacks der Bemerkungen der Ersten Apostelin sollten wir die Entwicklung des Ferne-Gott-Kults hin zu einem strukturierteren Rahmen unterstützen. Wir müssen auch daran denken, dass es sich um eine legale Einrichtung handelt, die Bienenkapellen nur in Systemen errichtet, deren Gesetzgebung die Religionsfreiheit schützt."
+  Die Behörden in einigen dieser Systemen haben mitgeteilt, dass örtliche Kapitel des Fernen Gottes einen starken Zulauf bei der Rekrutierung verzeichnen. Anekdotische Berichte deuten darauf hin, dass diese neuesten Mitglieder überzeugt sind, dass der Zweite Thargoid-Krieg bereits verloren ist und dass das Aussterben der Menschheit so unvermeidlich ist, wie der Kult es stets behauptet hat.
 ---
 
 

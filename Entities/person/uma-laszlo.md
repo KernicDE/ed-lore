@@ -7,6 +7,8 @@ last_seen_date: '3308-06-16'
 mention_count: 1
 bio: 'Uma Laszlo is a prominent figure in the Elite Dangerous universe, active from
   3308-06-16 to 3308-06-16. Closely associated with Alliance, Sirius Corporation. '
+bio_de: 'Uma Laszlo ist eine prominente Figur im Elite-Dangerous-Universum, aktiv am
+  16.06.3308. Eng verbunden mit der Allianz und der Sirius Corporation.'
 ---
 
 

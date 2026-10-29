@@ -1,13 +1,18 @@
 ---
 uuid: eb62c669-b525-5753-b3cb-faf6452a8088
 title: Understanding the ‘Thargoid Roar’
+title_de: 'Das ‚Thargoid-Gebrüll‘ verstehen'
 slug: understanding_the_thargoid_roar
 date: '3308-11-10'
 source: API
 summary: Professor Alba Tesreau, Professor Ishmael Palin and Ram Tah have released
   a joint statement regarding the alien sound heard at HIP 22460.
+summary_de: Professor Alba Tesreau, Professor Ishmael Palin und Ram Tah haben eine
+  gemeinsame Erklärung zu dem außerirdischen Geräusch veröffentlicht, das in HIP 22460
+  gehört wurde.
 player_impact: This article focuses on political and strategic developments without
   direct pilot involvement.
+player_impact_de: Keine
 persons:
 - Alba Tesreau
 - Ishmael Palin
@@ -25,6 +30,9 @@ arc_id: salvation-azimuth
 modern_impact: '"There has been much speculation about the mysterious noise that was
   recorded following the Battle of HIP 22460, which..." This perspective highlights
   the broader stakes and continues to shape contemporary debates.'
+modern_impact_de: „Diese Sichtweise unterstreicht die größeren Interessenlagen und prägt
+  die aktuellen Debatten bis heute.“ Die Deutung des ‚Thargoid-Gebrülls‘ als Reaktion
+  auf die Proteus-Welle prägte die weitere Kriegsberichterstattung maßgeblich.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -36,6 +44,14 @@ related_uuids:
 - f7438e0e-89eb-5e2d-b974-7147bf67d4b1
 - de7b4f38-c24a-586a-9b4c-3c43dff0681a
 - ebaed307-7279-5789-9569-01d10e7832b9
+body_de: |
+  Professor Alba Tesreau, Professor Ishmael Palin und Ram Tah haben eine gemeinsame Erklärung zu dem außerirdischen Geräusch veröffentlicht, das in HIP 22460 gehört wurde.
+  „Es gab viele Spekulationen über das mysteriöse Geräusch, das nach der Schlacht von HIP 22460 aufgezeichnet wurde und eindeutig thargoidischen Ursprungs ist. Dank der Hilfe von Seo Jin-ae, früher bekannt als Subjekt D-2, haben wir begonnen, einen Teil seiner Bedeutung zu verstehen.“
+  „Was für Menschen hörbar war, war nur ein Teil einer komplexen Mehrfrequenz-Übertragung, verstärkt durch die Energie, die durch die Thargoid-Bodenanlage strömte, in der sich die Proteus-Wellen-Waffe befand. Ihre Einzelheiten sind vorerst unentzifferbar, doch bestimmte Aspekte konnten mit Hilfe von Frau Seo isoliert werden, deren einzigartige neuronale Implantate für die Verbindung mit Thargoid-Technologie konzipiert wurden.“
+  „Sie glaubt, dass darin ein Element von ‚Anruf und Antwort‘ enthalten ist, als sei das Signal eine Antwort an die Thargoid-Kräfte in HIP 22460. Damit verwoben war ein Gefühl der Anerkennung und Konzentration, das Frau Seo wie folgt beschrieb: ‚Wir sehen sie. Wir kommen.‘“
+  „Weitere Erkenntnisse von Frau Seo sowie eine fortschrittliche Audioanalyse führen uns zu dem Schluss, dass der Laut von einem einzelnen Thargoid-Wesen ausging und mit mehr Kraft übertragen wurde als alles, was zuvor beobachtet wurde.“
+  „Die gängige Theorie hat dieses ‚Thargoid-Gebrüll‘ mit den als unkontrollierte Signalquellen bekannten Anomalien in Verbindung gebracht, die sich derzeit auf die Kernsysteme zubewegen. Seo Jin-ae scheint überzeugt, dass sie, unabhängig von ihrem letztlichen Motiv, von den Thargoids als direkte Reaktion auf Salvations Proteus-Wellen-Waffe ausgesandt wurden.“
+  „Wir sagen feierlich voraus, dass der Zweite Thargoid-Krieg eine neue Phase erreichen wird und die Menschheit möglicherweise noch nicht bereit ist, ihr standzuhalten.“
 ---
 
 

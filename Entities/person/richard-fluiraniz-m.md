@@ -8,6 +8,9 @@ mention_count: 1
 bio: 'Richard Fluiraniz M is a commander in the Elite Dangerous universe, active from
   3308-09-02 to 3308-09-02. Closely associated with Universal Cartographics, Independent
   Explorers Association. '
+bio_de: 'Richard Fluiraniz M ist ein Commander im Elite-Dangerous-Universum, aktiv
+  am 02.09.3308. Eng verbunden mit Universal Cartographics und der Independent Explorers
+  Association.'
 ---
 
 

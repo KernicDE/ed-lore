@@ -15,6 +15,10 @@ bio: Onionhead is a organization in the Elite Dangerous universe, active from 33
   to 3308-06-01. Frequently linked with Kumo Crew, Green Party of HIP 112974. The
   Green Party of HIP 112974 announced that its appeal for Onionhead was successful.
   The faction will now establish a new onionhead-trading operation.
+bio_de: Onionhead ist eine Organisation im Elite-Dangerous-Universum, aktiv vom 24.05.3308
+  bis zum 01.06.3308. Häufig in Verbindung mit Kumo Crew und der Grünen Partei von HIP 112974.
+  Die Grüne Partei von HIP 112974 gab bekannt, dass ihr Aufruf für Onionhead erfolgreich war.
+  Die Fraktion wird nun eine neue Onionhead-Handelsoperation aufbauen.
 ---
 
 

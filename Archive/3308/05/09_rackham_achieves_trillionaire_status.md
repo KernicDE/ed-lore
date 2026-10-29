@@ -1,12 +1,16 @@
 ---
 uuid: 627f595b-b85f-5e9d-9d4c-9499a93c4487
 title: Rackham Achieves Trillionaire Status
+title_de: Rackham erreicht Trillionärs-Status
 slug: rackham_achieves_trillionaire_status
 date: '3308-05-09'
 source: API
 summary: Zachary Rackham's personal fortune surpasses one trillion credits following
   the acquisition of Kavanagh Spaceframes Ltd.
+summary_de: Zachary Rackhams Privatvermögen übersteigt nach der Übernahme der Kavanagh
+  Spaceframes Ltd. eine Billion Credits.
 player_impact: Not specifically mentioned — this is a financial report.
+player_impact_de: Keine
 persons:
 - Zachary Rackham
 - Susannah Haynes
@@ -21,11 +25,29 @@ modern_impact: '"Analysts estimate that the total value of Mr Rackham''s estate 
   now approximately 1,012,000,000,000 credits." Rackham''s ascent to trillionaire
   status provided the financial and media momentum that would fuel his unprecedented
   presidential campaign, transforming corporate wealth directly into political capital.'
+modern_impact_de: „Analysten schätzen, dass der Gesamtwert von Mr Rackhams Vermögen
+  nun etwa 1,012,000,000,000 Credits beträgt." Rackhams Aufstieg zum Trillionär verschaffte
+  den finanziellen und medialen Schwung, der seinen beispiellosen Präsidentschaftswahlkampf
+  antreiben und Unternehmensvermögen direkt in politisches Kapital verwandeln würde.
 legacy_weight: 2
 significance: low
 related_uuids:
 - d48a2172-4d32-5501-b760-eb75a11fb324
 - bd2b27e6-fa70-57c1-b2cc-96b787b5dbac
+body_de: |
+  Das Privatvermögen des Unternehmers Zachary Rackham hat aufgrund einer neuen Unternehmensübernahme nun eine Billion Credits überschritten.
+
+  Ein Bericht im Tau Ceti Journal hob die Leistung hervor:
+
+  „Rackham Capital Investments gehört nun offiziell das Unternehmen Kavanagh Spaceframes Ltd, das Orbis-Sternenhäfen baut. Das Geschäft war seit Jahren in Planung, ohne erkennbare Fortschritte, wurde jedoch in den letzten Tagen unerwartet von beiden Parteien vereinbart."
+
+  „Susannah Haynes, CEO des nun umbenannten Unternehmens Rackham Spaceframes, begrüßte die Vereinbarung. Sie bemerkte, dass ‚verbesserte finanzielle Stabilität nur zu unserem Vorteil sein kann, was die Effizienz bei der Fertigung orbitaler Lebensräume angeht'."
+
+  „Analysten schätzen, dass der Gesamtwert von Mr Rackhams Vermögen nun etwa 1,012,000,000,000 Credits beträgt. Damit gehört er zu einer Handvoll Privatbürgern in der Föderation, die sich zu Trillionären zählen können."
+
+  Die Federal Times brachte eine Reaktion der Journalistin Bryanna Blanco:
+
+  „Ich kann die Legalität des Kaufs von Kavanagh Spaceframes nicht anzweifeln. Aber das Timing ist verdächtig, nach Rackhams jüngster Eigenwerbung für eine Präsidentschaftskandidatur. Was auch immer er tat, um diesen Deal durchzusetzen, die Publicity wird es wert sein. Politische Unterstützer und Unternehmensinvestoren werden ihm nun sicherlich zuströmen, da er zum föderalen Pendant von Adel geworden ist."
 ---
 
 

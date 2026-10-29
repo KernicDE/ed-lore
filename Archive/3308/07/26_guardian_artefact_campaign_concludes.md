@@ -1,14 +1,22 @@
 ---
 uuid: bc635a7c-22bf-5a79-b6bb-781f8b67a199
 title: Guardian Artefact Campaign Concludes
+title_de: Kampagne für Guardian-Artefakte abgeschlossen
 slug: guardian_artefact_campaign_concludes
 date: '3308-07-26'
 source: API
 summary: The third phase of Guardian artefact deliveries for the Proteus Wave concludes
   successfully, with Commodore Morag Halloran announcing the core mechanism is days
   away from full assembly on HIP 22460 10b.
+summary_de: Die dritte Phase der Guardian-Artefakt-Lieferungen für die Proteus-Welle
+  wurde erfolgreich abgeschlossen. Kommodore Morag Halloran gab bekannt, dass das
+  Kernmechanismus nur noch Tage von der vollständigen Montage auf HIP 22460 10b
+  entfernt sei.
 player_impact: Pilots delivered Guardian artefacts to the Bright Sentinel in HIP 22460
   over three weeks. Contributors could collect rewards from the Bright Sentinel.
+player_impact_de: Piloten lieferten drei Wochen lang Guardian-Artefakte an die Bright
+  Sentinel in HIP 22460. Mitwirkende konnten ihre Belohnungen an der Bright Sentinel
+  abholen.
 persons:
 - Morag Halloran
 - Salvation
@@ -28,6 +36,10 @@ arc_id: salvation-azimuth
 modern_impact: The successful conclusion of the artefact drive marked the point of
   no return for the Proteus Wave, with decades of Guardian archaeology stripped to
   feed a single weapon system.
+modern_impact_de: Der erfolgreiche Abschluss der Artefaktaktion markierte den
+  Punkt ohne Wiederkehr für die Proteus-Welle, wobei Jahrzehnte der
+  Guardian-Archäologie ausgebeutet wurden, um ein einziges Waffensystem zu
+  speisen.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -35,6 +47,20 @@ related_uuids:
 - 77d08b93-d779-599d-9f2a-b4e7733d91a8
 - edb0e7ff-862e-5ed5-b8e4-43b5aef0c8f6
 - 7aaf4cac-767f-5e4b-b085-e5bc94a6c913
+body_de: |
+  **ALARM der Pilots’ Federation**
+
+  Die dritte Phase einer Initiative zur Beschaffung von Guardian-Artefakten für die Proteus-Welle wurde erfolgreich beendet.
+
+  Kommodore Morag Halloran, militärische Koordinatorin von Azimuth Biotech, gab bekannt:
+
+  „Salvation hat mich gebeten, allen Piloten seinen aufrichtigen Dank auszusprechen für die Erforschung antiker Guardian-Stätten und den Transport ihrer Funde zur Bright Sentinel in HIP 22460. Die in den vergangenen drei Wochen gelieferte Menge an Artefakten hat unsere Ziele übertroffen."
+
+  „Die jüngsten Lieferungen werden nun auf die Oberfläche von HIP 22460 10b gebracht. Das Kernmechanismus der Proteus-Welle ist nur noch Tage von der vollständigen Montage entfernt. Anschließend beginnen innerhalb der Thargoid-Struktur Kalibrierungstests, die die Störfrequenzen der Superwaffe enorm verstärken werden."
+
+  „Es ist jetzt missionskritisch, das Projekt zu verteidigen. Die Thargoiden scheinen durch die Konzentration von Guardian-Technologie im System in Raserei versetzt zu sein, die ihre Schiffe in immer größerer Zahl anzieht. Ich koordiniere mich eng mit den Taskforces der Allianz, der Föderation und des Imperiums, doch wir benötigen noch mehr Freiwillige, die die Großkampfschiffe taktisch unterstützen."
+
+  Mit dem Abschluss der Lieferinitiative können beteiligte Piloten nun ihre Belohnungen vom Megaschiff Bright Sentinel im System HIP 22460 abholen.
 ---
 
 

@@ -1,13 +1,17 @@
 ---
 uuid: 806c251d-1557-51b4-b731-91ab62e36274
 title: Coalsack Nebula Reports Thargoid Activity
+title_de: Thargoid-Aktivität im Coalsack-Nebel gemeldet
 slug: coalsack_nebula_reports_thargoid_activity
 date: '3308-11-15'
 source: API
 summary: The human colonists in the Coalsack Nebula has raised the alarm after Thargoid
   forces appeared several systems.
+summary_de: Die menschlichen Siedler im Coalsack-Nebel haben Alarm geschlagen, nachdem
+  Thargoid-Kräfte in mehreren Systemen aufgetaucht sind.
 player_impact: This article focuses on political and strategic developments without
   direct pilot involvement.
+player_impact_de: Keine
 persons:
 - Lewis Laychurch
 groups:
@@ -26,6 +30,9 @@ arc_id: salvation-azimuth
 modern_impact: '"Our security craft regularly patrol between the populated systems
   in this region. We had the first reports of nonhuma..." This perspective highlights
   the broader stakes and continues to shape contemporary debates.'
+modern_impact_de: „Diese Sichtweise unterstreicht die größeren Interessenlagen und prägt
+  die aktuellen Debatten bis heute.“ Die Thargoid-Präsenz in Barnacle-Gebieten bleibt
+  ein zentrales Thema der xenologischen Forschung.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -36,6 +43,15 @@ related_uuids:
 - b883442d-253f-571f-bc25-cf61949cab5c
 - bd5a1074-4db4-556d-bd6d-4207d963ce10
 - f7438e0e-89eb-5e2d-b974-7147bf67d4b1
+body_de: |
+  Die menschlichen Siedler im Coalsack-Nebel haben Alarm geschlagen, nachdem Thargoid-Kräfte in mehreren Systemen aufgetaucht sind.
+  Nach den jüngsten Angriffen auf Systeme und Schiffe im California-Nebel scheinen die Thargoids erneut bestrebt zu sein, Systeme zu besetzen, in denen sich Barnacle-Felder an den Oberflächen von Planeten befinden.
+  Ratsherr Lewis Laychurch, Vertreter des Allianz-Expeditionspakts in HIP 62154, gab der Alliance Tribune folgende Erklärung ab:
+  „Unsere Sicherheitsschiffe patrouillieren regelmäßig zwischen den besiedelten Systemen dieser Region. Heute Morgen erhielten wir die ersten Meldungen über nicht-menschliche Signale. Natürlich haben wir im Coalsack-Nebel bereits mehrfach Thargoid-Aktivität beobachtet, doch diesmal war es anders. Es ist eher eine Präsenz als ein Angriff.“
+  „Wir beobachteten einen enormen Anstieg dieser Signale in mehreren Systemen. Über ein paar Stunden hinweg hatte man das Gefühl, dass Thargoid-Aktivität auf den Scannern zu sehen war, wohin unsere Schiffe auch blickten. Und zwar ausschließlich in Gebieten mit Barnacle-Feldern.“
+  Nun ist kein Geheimnis, dass die Thargoids unser Interesse an den Meta-Legierungen, die diese Stellen produzieren, missbilligen. Doch diesmal greifen sie weder Sternenhäfen noch die Megaschiffe Spirit of Nysa oder Song of Mecchi an. Es ist, als würden sie auf etwas warten.“
+  Das beschriebene Verhalten ähnelt den Thargoid-Einfällen in andere besiedelte Systeme der letzten Wochen. Forschende im Nebel haben laufende Feldstudien an Barnacle-Stellen aus Sicherheitsgründen abgebrochen.
+  In anderen Nachrichten gab Azimuth Biotech bekannt, dass die Glorious Prospect die Mbooni-Freigabe vom System LHS 1163 aus verteilen wird, statt wie geplant vom System T Tauri. Die föderalen Behörden boten dem Megaschiff Schutz an, um die Reisezeit zwischen den beiden Standorten zu verkürzen, sodass Kampfpiloten schnellen Zugang zu den Anti-Xeno-Waffen an Bord der Prospect’s Deep erhalten.
 ---
 
 

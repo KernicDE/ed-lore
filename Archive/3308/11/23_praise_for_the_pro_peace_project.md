@@ -1,13 +1,17 @@
 ---
 uuid: 1791622e-98ed-5b34-a3e3-34ef90719997
 title: Praise for the Pro-Peace Project
+title_de: 'Lob für das Profriedens-Projekt'
 slug: praise_for_the_pro_peace_project
 date: '3308-11-23'
 source: API
 summary: Congressman Dalton Chase has applauded the increased public support for the
   goal of opening diplomatic channels with the Thargoids.
+summary_de: Kongressabgeordneter Dalton Chase hat die wachsende öffentliche Unterstützung
+  für das Ziel begrüßt, diplomatische Kanäle zu den Thargoids zu eröffnen.
 player_impact: This article focuses on political and strategic developments without
   direct pilot involvement.
+player_impact_de: Keine
 persons:
 - Dalton Chase
 - Heimar Borichev
@@ -24,6 +28,9 @@ arc_id: null
 modern_impact: '"Not so long ago, the idea of communicating with the Thargoids seemed
   absurd. But look at what’s happening in Andavand..." This perspective highlights
   the broader stakes and continues to shape contemporary debates.'
+modern_impact_de: '"Vor nicht allzu langer Zeit schien die Idee, mit den Thargoids zu
+  kommunizieren, absurd. Aber sehen Sie, was in Andavand..." Diese Sichtweise unterstreicht
+  die größeren Spielräume und prägt bis heute zeitgenössische Debatten.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -32,6 +39,14 @@ related_uuids:
 - d9c25fb2-563a-5af4-ac33-6f60c406b5a5
 - d8b14f7a-0b22-5f2d-a164-45b74638e864
 - 98d2b600-086b-56d5-b7de-45bee9289a6f
+body_de: |
+  Kongressabgeordneter Dalton Chase hat die wachsende öffentliche Unterstützung für das Ziel begrüßt, diplomatische Kanäle zu den Thargoids zu eröffnen.
+  In einem exklusiven Interview mit ICE-Casterin Joy Senne sagte er:
+  „Vor nicht allzu langer Zeit schien die Idee, mit den Thargoids zu kommunizieren, absurd. Aber sehen Sie, was gerade in Andavandul geschieht! Es gibt so viel Unterstützung aus der galaktischen Gemeinschaft. Die Menschen setzen ihr Vertrauen in eine bessere Zukunft als einen endlosen Krieg."
+  „Mein einziges Bedauern ist, dass ich es doch nicht zu meinen Mitstreitern an Bord der Kingfisher schaffen werde. Die Pflichten meines neuen Kongressmandats haben meinen Kalender sehr schnell gefüllt, mit vielen Verpflichtungen, die einzuhalten sind. Aber ich werde ihnen im Geiste mitreisen, während sie hinausziehen, um Taranis zu treffen und seinen Thargoid-Steuerern zu beweisen, dass die Menschheit bereit ist, friedlich zu koexistieren."
+  Joy Senne enthüllte, dass sie geplant hatte, eine Live-Show von Bord des Kingfisher-Megaschiffs zu ICE-casten, als dieses auf die interstellare Anomalie namens Taranis im Hyades-Sektor YO-Q b5-1 traf:
+  „Ich war so enttäuscht, als sie mir sagten, dass nur direkt an Taranis gerichtete Übertragungen erlaubt sein würden, um die ‚Stargoid' nicht mit anderen Signalen zu verwirren. Unser guter Freund Heimar Borichev sollte heute zur Besatzung stoßen, aber er schrieb mir vor weniger als einer Stunde, dass er unerwartet erkrankt sei. Es bleibt also den mutigen Freiwilligen überlassen – wir zählen auf euch, Kingfisher!"
+  Der Sovereign-Nachrichtendienst bestätigte diese Pläne für seinen stellvertretenden Chefredakteur und fügte hinzu, dass Meinungsumfragen in unabhängigen Systemen eine Zustimmungsrate von 32 % für das Thargoid Advocacy Project ergaben. Alliierte und föderale Medien betrachten die Xenofriedensbewegung vor allem als ‚fehlgeleitet', während im Imperium das häufigste mit ihr assoziierte Stichwort ‚selbstmörderisch' ist.
 ---
 
 

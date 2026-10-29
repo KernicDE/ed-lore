@@ -8,6 +8,9 @@ mention_count: 1
 bio: 'Orange! is a commander in the Elite Dangerous universe, active from 3308-09-02
   to 3308-09-02. Closely associated with Universal Cartographics, Independent Explorers
   Association. '
+bio_de: Orange! ist ein Kommandant im Elite-Dangerous-Universum, aktiv von 3308-09-02
+  bis 3308-09-02. Eng verbunden mit Universal Cartographics und der Independent Explorers
+  Association.
 ---
 
 

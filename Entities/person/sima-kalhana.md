@@ -9,6 +9,10 @@ bio: 'Sima Kalhana is a Emperor in Elite Dangerous lore, active from 3301-07-05 
   3309-01-03. Affiliated with Alliance, Federation, Sirius Corporation. Notable activities
   include: Historian Sima Kalhana covers the Empire''s founding.; Historian Sima Kalhana
   covers the first Federation-Achenar war (2323-2325).'
+bio_de: |-
+  Sima Kalhana ist eine renommierte Historikerin und Autorin, deren GalNet-Serie über prägende Momente der Menschheitsgeschichte zu einem der meistgelesenen Bildungsprogramme der frühen 3300er wurde. Beginnend im Juli 3301 behandelten ihre Artikel die Gründung der Föderation, die Entstehung des Imperiums, den ersten Krieg zwischen Föderation und Achenar, den Aufstieg der Sirius Corporation sowie die Geschichte der Thargoids und der Generationenschiffe. Ihr Werk gilt als maßgeblich dafür, grundlegende galaktische Geschichte in einer Zeit erneuter interstellarer Spannungen einem breiten Publikum nahezubringen.
+
+  Kalahans Schreiben zeichnet sich durch akribische Archivforschung und einen Erzählstil aus, der uralte Ereignisse mit zeitgenössischer Politik verknüpft. Ende 3307 kehrte sie mit einer mehrteiligen Rückschau auf dieses turbulente Jahr zurück, in der sie die NMLA-Krise, den Galaktischen Gipfel und den Fall von Aegis analysierte. Ihre Darstellungen gelten bis heute als Standardreferenz zum Verständnis der tiefen Wurzeln des Rivalitätsverhältnisses der Supermächte und der Konzernmacht in der menschlichen Zivilisation.
 ---
 
 

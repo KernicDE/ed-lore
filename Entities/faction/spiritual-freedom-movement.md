@@ -14,6 +14,9 @@ related_entities:
 bio: 'Spiritual Freedom Movement is a organization in the Elite Dangerous universe,
   active from 3304-09-08 to 3308-09-26. Frequently linked with Galactic Interfaith
   Commune, Far God cult, Federal Intelligence Agency. '
+bio_de: Spiritual Freedom Movement ist eine Organisation im Elite-Dangerous-Universum,
+  aktiv vom 08.09.3304 bis zum 26.09.3308. Häufig in Verbindung mit der Galactic Interfaith
+  Commune, dem Far-God-Kult und der Federal Intelligence Agency.
 ---
 
 

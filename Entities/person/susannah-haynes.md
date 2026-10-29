@@ -8,6 +8,9 @@ mention_count: 3
 bio: 'Susannah Haynes is a prominent figure in the Elite Dangerous universe, active
   from 3306-09-17 to 3308-05-09. Closely associated with Kavanagh Spaceframes Ltd,
   Steel Castle Inc, Pilots Federation. '
+bio_de: 'Susannah Haynes ist eine prominente Figur im Elite-Dangerous-Universum, aktiv
+  vom 17.09.3306 bis 09.05.3308. Eng verbunden mit Kavanagh Spaceframes Ltd, Steel Castle
+  Inc und der Pilots Federation.'
 ---
 
 

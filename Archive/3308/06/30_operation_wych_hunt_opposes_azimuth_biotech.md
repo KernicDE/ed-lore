@@ -1,14 +1,22 @@
 ---
 uuid: d506983a-04e6-5b65-8223-92c8cf470399
 title: '''Operation Wych Hunt'' Opposes Azimuth Biotech'
+title_de: '‚Operation Wych Hunt‘ widersetzt sich Azimuth Biotech'
 slug: operation_wych_hunt_opposes_azimuth_biotech
 date: '3308-06-30'
 source: API
 summary: A coalition of independent Commanders launches 'Operation Wych Hunt' to destabilise
   Azimuth Biotech, protesting Salvation's identity as Caleb Wycherley and his involvement
   in the mycoid bioweapon, Project Seraph, and the Alexandria destruction.
+summary_de: Eine Koalition unabhängiger Kommandanten startet ‚Operation Wych Hunt‘,
+  um Azimuth Biotech zu destabilisieren. Sie protestiert gegen Salvations Identität als
+  Caleb Wycherley und seine Verwicklung in den Mykoid-Biokampfstoff, das Projekt Seraph
+  und die Zerstörung der Alexandria.
 player_impact: Independent Commanders organised civil actions and combat strikes under
   'Operation Wych Hunt' to undermine Azimuth Biotech's presence in multiple systems.
+player_impact_de: Unabhängige Kommandanten organisierten zivile Aktionen und
+  Kampfeinsätze unter dem Banner ‚Operation Wych Hunt‘, um Azimuth Biotechs Präsenz
+  in mehreren Systemen zu untergraben.
 persons:
 - Alba Tesreau
 - Caleb Wycherley
@@ -32,6 +40,10 @@ arc_id: salvation-azimuth
 modern_impact: Operation Wych Hunt represented the first organised pilot resistance
   to Salvation, exposing how Azimuth's atrocities had generated a grassroots counter-movement
   even as superpowers doubled down on their alliance with the corporation.
+modern_impact_de: Operation Wych Hunt stellte den ersten organisierten Widerstand der
+  Piloten gegen Salvation dar. Sie zeigte, dass Azimuths Gräueltaten eine Gegenbewegung
+  von der Basis ausgelöst hatten, während die Supermächte ihre Allianz mit dem Konzern
+  noch verstärkten.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -40,6 +52,18 @@ related_uuids:
 - 6a7c7b71-6c5c-5c0b-8a5b-3b9f1c0e4b8d
 - 6d163a8d-7539-5b90-955d-f084b5d63e52
 - e26e5bcf-9831-5522-8d98-088ef3d360aa
+body_de: |
+  **ALARM der Pilotenföderation**
+
+  Eine Koalition unabhängiger Kommandanten wurde gebildet, um Salvations Anti-Xeno-Organisation zu destabilisieren.
+
+  Die Allianz, das Imperium und die Föderation gewähren Azimuth Biotech – vormals Taurus Mining Ventures – militärische Unterstützung, um die Thargoid-Bedrohung zu beenden. Viele Mitglieder der Pilotenföderation haben ebenfalls ihre Unterstützung erklärt, doch einige haben eine Widerstandsbewegung organisiert.
+
+  Um Azimuth Biotechs Präsenz in mehreren Systemen zu untergraben, werden unter dem Banner ‚Operation Wych Hunt‘ eine Reihe ziviler Aktionen und Kampfeinsätze koordiniert. Der Name verweist auf Beweise, die darauf hindeuten, dass Salvations wirklicher Name Dr. Caleb Wycherley ist, der in mehreren Quellen auch als ‚die Hexe‘ bezeichnet wird.
+
+  Die Kommandanten protestieren direkt gegen Salvation und behaupten, er sei für zahlreiche illegale Aktivitäten verantwortlich, die zu mehreren Toten führten. Dazu gehören die Entwicklung des Mykoid-Biokampfstoffs für INRA, die unmenschlichen Experimente des Projekts Seraph zur Schaffung menschlicher Schnittstellen zu Thargoid-Schiffen sowie die Zerstörung der Alexandria mit dem Verlust von 4.000 Besatzungsmitgliedern. Wie in ihrem Leitbild zusammengefasst: ‚Wir unterstützen keinen Massenmörder. Salvation, wir können uns selbst retten.‘
+
+  Professor Alba Tesreau, ehemalige Leiterin der Forschung bei Aegis, äußerte sich öffentlich zu Gunsten der Operation: „Die Supermächte haben sich von den Versprechungen eines gefühllosen Verbrechers verführen lassen. Doch wie diese mutigen Piloten beweisen, glaubt nicht jeder, dass der Zweck die Mittel heiligt."
 ---
 
 

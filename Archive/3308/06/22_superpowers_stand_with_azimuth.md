@@ -1,13 +1,18 @@
 ---
 uuid: 309b7431-235c-5608-92ae-295cacd684b8
 title: Superpowers Stand with Azimuth
+title_de: Supermächte stellen sich hinter Azimuth
 slug: superpowers_stand_with_azimuth
 date: '3308-06-22'
 source: API
 summary: The superpowers announce they will continue collaborating with Azimuth Biotech
   despite revelations about its past, with military leaders arguing Salvation's superweapon
   is indispensable for ending the Thargoid war.
+summary_de: Die Supermächte verkünden, dass sie die Zusammenarbeit mit Azimuth Biotech
+  trotz der Enthüllungen über seine Vergangenheit fortsetzen. Militärführer argumentieren,
+  dass Salvations Superwaffe zum Ende des Thargoid-Kriegs unverzichtbar sei.
 player_impact: Not specifically mentioned — this is a political report.
+player_impact_de: Keine
 persons:
 - Alba Tesreau
 - Conrad Sterling
@@ -31,11 +36,23 @@ arc_id: salvation-azimuth
 modern_impact: The superpowers' decision to maintain their alliance with Azimuth despite
   evidence of war crimes established a precedent of military pragmatism overriding
   legal and moral accountability, setting the stage for the Proteus Wave catastrophe.
+modern_impact_de: Der Entschluss der Supermächte, ihr Bündnis mit Azimuth trotz
+  Kriegsverbrechen-Beweisen aufrechtzuerhalten, setzte einen Präzedenzfall militärischen
+  Pragmatismus, der rechtlicher und moralischer Verantwortlichkeit vorgeht, und
+  bereitete den Boden für die Proteus-Wellen-Katastrophe.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 0beee1ec-da7a-57db-a67c-3a1f20eb4828
 - 6d163a8d-7539-5b90-955d-f084b5d63e52
+body_de: |
+  Die Allianz, das Imperium und die Föderation werden die Zusammenarbeit mit Salvation und Azimuth Biotech bei den Anti-Xeno-Einsätzen fortsetzen.
+  Der politische Journalist Conrad Sterling fasste die jüngsten Entwicklungen für Vox Galactica zusammen:
+  „Wir wissen jetzt die Wahrheit: Azimuth hat nicht nur überlebt, sondern war für viele kontroverse Aktivitäten verantwortlich. Es trug zur Entwicklung des Mykoid-Virus bei, koordinierte mit Black Flight und leitete Projekt Seraph. Nun genießt diese berüchtigte Organisation das Vertrauen aller drei Supermächte, um die Thargoid-Bedrohung auszulöschen."
+  „Lautstarke Mitglieder der Assembly, des Kongresses und des Senats forderten, dass alle Angehörigen von Azimuth Biotech – früher Taurus Mining Ventures – als Kriminelle verhaftet werden. Professor Alba Tesreau verlangt Gerechtigkeit für die Crew der Alexandria, die von Azimuth sabotiert wurde, um deren Fracht an Guardian-Artefakten zu erbeuten."
+  „Doch alliierte, föderale und imperiale Führungen haben sämtlich ihre Militärs entscheiden lassen, wie vorzugehen ist, bis zum Ende des laufenden Kriegs. Diese Perspektive lässt sich in Admiral Maxton Prices Kommentar zusammenfassen: ‚Ohne Salvations Superwaffe werden wir für immer im Konflikt mit den Thargoiden gefangen sein.'"
+  „Viele behaupten weiterhin, der INRA-Stützpunkt in DG Canum Venaticorum sei von Aegis-Treuen gefälscht worden. Andere wiesen darauf hin, dass Salvation nicht bestätigt habe, Caleb Wycherley zu sein, und möglicherweise ein weitaus jüngerer Mann sei, der auf der Forschung seines Vorgängers aufbaut."
+  „Die Realität ist, dass der Schwung von Salvations Feldzug nun zu stark ist, um ihn noch umzulenken. Wie so oft in Kriegszeiten wurden Legalität und Moral beiseitegelegt, um den Blick auf den Sieg zu richten. Azimuth hat mehr getan, als nur zu überleben: Es hat triumphiert."
 ---
 
 

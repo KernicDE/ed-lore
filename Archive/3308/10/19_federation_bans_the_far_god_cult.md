@@ -1,13 +1,17 @@
 ---
 uuid: bb26f78b-7b72-553a-8efe-4ccaa3c8fd4e
 title: Federation Bans the Far God Cult
+title_de: Föderation verbietet den Far-God-Kult
 slug: federation_bans_the_far_god_cult
 date: '3308-10-19'
 source: API
 summary: President Hudson has approved a congressional bill to make the Order of the
   Far God illegal within all Federal systems.
+summary_de: Präsident Hudson hat ein Gesetz des Kongresses gebilligt, das den Order of the
+  Far God in allen föderalen Systemen für illegal erklärt.
 player_impact: This article focuses on political and strategic developments without
   direct pilot involvement.
+player_impact_de: Keine
 persons:
 - Felicia Winters
 - Lana Berkovich
@@ -21,6 +25,8 @@ arc_id: null
 modern_impact: '"The Thargoids are categorised as an enemy of the state, and the Federal
   Accord forbids any citizen from providing aid..." Federal political maneuvering
   illustrates the struggle to balance civil liberties with wartime imperatives.'
+modern_impact_de: Das politische Manövrieren der Föderation verdeutlicht den Spagat zwischen
+  Bürgerrechten und kriegsbedingten Notwendigkeiten.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -29,6 +35,14 @@ related_uuids:
 - b732f29c-e035-57f4-a102-dd4fe86446fb
 - b6b43833-9bdc-552c-b2f9-cd90f35ea2de
 - 65a5afae-1ea4-5228-9d0c-31571eecf333
+body_de: |
+  Präsident Hudson hat ein Gesetz des Kongresses gebilligt, das den Order of the Far God in allen föderalen Systemen für illegal erklärt.
+  Der Kongress stimmte mit knapper Mehrheit für den Beschluss, wie Außenministerin Lana Berkovich bekannt gab:
+  „Die Thargoids sind als Feind des Staates eingestuft, und das föderale Übereinkommen untersagt jedem Bürger, solchen Feinden Beihilfe zu leisten. Die Wahrscheinlichkeit, dass radikalisierte Thargoid-Anbeter im Namen ihrer Gottheit unsere Anti-Xeno-Operationen stören, verdient eine proaktive Reaktion."
+  „Daher ist durch Gesetz des Kongresses die Mitgliedschaft in diesem religiösen Orden nun eine Straftat, die mit einer Haftstrafe von bis zu zehn Jahren geahndet wird. Der Organisation ist es untersagt, irgendwo im föderalen Raum tätig zu sein. Alle festgenommenen Far-God-Anhänger werden zu Informationen in Zusammenhang mit Spionage verhört, viele wurden bereits in ihre Heimatsysteme transportiert, um dort vor Gericht zu gestellt zu werden."
+  Der Kongress stellte klar, dass sich der Beschluss gezielt gegen ‚Organisationen richtet, die die militärischen Ziele nichtmenschlicher Spezies aktiv unterstützen'. Er gilt nicht für zivile Gruppierungen, die den interspeziellen Austausch oder Diplomatie fördern, wie das Thargoid Advocacy Project.
+  Die Galactic Interfaith Commune und ähnliche Organisationen protestierten gegen das neue Gesetz. Schattenpräsidentin Felicia Winters teilte deren Missbilligung und erklärte, dass ‚solche Intoleranz nicht den Grundwerten der Föderation entspricht'. Auch einige Kongressabgeordnete äußerten Befürchtungen hinsichtlich der möglichen Auswirkungen auf Wähler, anderen Randreligionen anhängen.
+  Da der Far-God-Kult nun sowohl im Imperium als auch in der Föderation illegal ist, befinden sich seine Bienenkapellen nur noch in allianzgehörigen und unabhängigen Systemen, deren lokale Gesetze Religionsfreiheit zulassen. Die verbleibenden Anhänger der Sekte der True Chapters konzentrieren sich auf den Megaschiffen Perdition und Testament, deren Standorte unbekannt sind.
 ---
 
 

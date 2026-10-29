@@ -1,13 +1,19 @@
 ---
 uuid: 06c3b17f-968d-569c-a701-aac2eef3b938
 title: Xeno-Peace Project Gathers Support
+title_de: Xeno-Friedensprojekt sammelt Unterstützung
 slug: xeno_peace_project_gathers_support
 date: '3308-10-27'
 source: API
 summary: Deliveries to the Andavandul system have enabled the Thargoid Advocacy Project
   to begin preparations for a diplomatic mission.
+summary_de: Lieferungen in das Andavandul-System haben das Thargoid Advocacy Project
+  in die Lage versetzt, mit den Vorbereitungen für eine diplomatische Mission zu
+  beginnen.
 player_impact: Independent pilots were tasked with delivering commodities to support
   the operation.
+player_impact_de: Unabhängige Piloten waren aufgefordert, Waren zu liefern, um die
+  Operation zu unterstützen.
 persons:
 - Dalton Chase
 - Polly French
@@ -21,6 +27,10 @@ arc_id: null
 modern_impact: '"War with the Thargoids represents multiple failures. A failure to
   imagine coexistence with another intelligent specie..." The failure of civilian-led
   diplomacy underscores the dangers of underestimating Thargoid hostility.'
+modern_impact_de: „Krieg mit den Thargoiden bedeutet mehrfaches Versagen. Ein Versagen,
+  sich Koexistenz mit einer anderen intelligenten Spezies vorzustellen..." Das Scheitern
+  zivilgesellschaftlich geführter Diplomatie unterstreicht die Gefahren, die feindselige
+  Absichten der Thargoiden zu unterschätzen.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -29,6 +39,14 @@ related_uuids:
 - 9d88d95b-e2d8-5107-bb42-666da4ea00bf
 - 17c9f162-826a-5492-8ff7-a04cd0d9cdfc
 - 1791622e-98ed-5b34-a3e3-34ef90719997
+body_de: |
+  **ALARM der Pilotenföderation**
+  Lieferungen in das Andavandul-System haben das Thargoid Advocacy Project in die Lage versetzt, mit den Vorbereitungen für eine diplomatische Mission zu beginnen.
+  Gouverneur Dalton Chase, der sich um einen Sitz im Föderalen Kongress bewirbt, hat die Initiative ins Leben gerufen, um ein überparteiliches Gesandtenschiff zu schaffen. Ziel ist es, Wege zu finden, die Kommunikation mit den Thargoiden zu eröffnen und Friedensangebote zu machen, um den Konflikt zu beenden.
+  Polly French, Organisatorin einer Kundgebung des Thargoid Advocacy Project in Andavandul, sagte den Medien:
+  „Krieg mit den Thargoiden bedeutet mehrfaches Versagen. Ein Versagen, sich Koexistenz mit einer anderen intelligenten Spezies vorzustellen. Ein Versagen, unsere gewaltsamen Reaktionen auf das Unbekannte zu zügeln. Indem wir Abgesandte entsenden und diplomatische Kanäle öffnen, können wir beweisen, dass die menschliche Zivilisation weit genug fortgeschritten ist, um nach Frieden zu streben."
+  „Ich bin Gouverneur Chase für seine großzügige Finanzierung und Förderung dieses Projekts dankbar. Ebenso gebührt allen Piloten aufrichtiger Dank, die Computerkomponenten, Halbleiter und Titan transportiert haben, sowie jenen, die hart gekämpft haben, um diese Operation zu verteidigen. Persönlich freue ich mich sehr, unser neues Schiff zum ersten Mal zu sehen."
+  Deutsche Elite Piloten Interstellar bietet nun allen Mitwirkenden von Blenkinsop Hub im Andavandul-System Vergütung und Erstattung von Kampfbons an.
 ---
 
 

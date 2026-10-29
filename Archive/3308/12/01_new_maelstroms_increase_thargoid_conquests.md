@@ -1,13 +1,18 @@
 ---
 uuid: 34e4a763-0bef-5ea7-a31c-23b00dada4b5
 title: New Maelstroms Increase Thargoid Conquests
+title_de: Neue Maelstroms vergrößern die Eroberungen der Thargoids
 slug: new_maelstroms_increase_thargoid_conquests
 date: '3308-12-01'
 source: API
 summary: Two more rogue signal sources have reached human space, wreaking similar
   destruction to the Taranis Maelstrom.
+summary_de: Zwei weitere Abtrünnigen-Signale haben den menschlichen Raum erreicht
+  und verursachen ähnliche Verwüstungen wie der Maelstrom Taranis.
 player_impact: Independent pilots were encouraged to participate in the unfolding
   events.
+player_impact_de: Unabhängige Piloten wurden aufgefordert, sich an den sich entwickelnden
+  Ereignissen zu beteiligen.
 locations:
 - HIP 8887
 topics:
@@ -17,6 +22,10 @@ arc_id: null
 modern_impact: '"Two more rogue signal sources have reached human space, wreaking
   similar destruction to the Taranis Maelstrom." The relentless expansion of Thargoid
   forces redefined the scale of the Second Thargoid War.'
+modern_impact_de: '„Zwei weitere Abtrünnigen-Signale haben den menschlichen Raum
+  erreicht und verursachen ähnliche Verwüstungen wie der Maelstrom Taranis." Das
+  unerbittliche Vordringen der Thargoid-Streitkräfte definierte das Ausmaß des Zweiten
+  Thargoid-Kriegs neu.'
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -25,6 +34,13 @@ related_uuids:
 - 68d67987-f586-5c3e-b52e-608926db50ba
 - 4d3d1411-525f-5642-bd6d-5d318f185635
 - 44b31919-ccfc-5eaa-afb1-81683c6c10d2
+body_de: |
+  **ALARM der Pilotenföderation**
+  Zwei weitere Abtrünnigen-Signale haben den menschlichen Raum erreicht und verursachen ähnliche Verwüstungen wie der Maelstrom Taranis.
+  Die Anomalie Indra traf im System HIP 20567 ein, während die Anomalie Leigong in HIP 8887 zum Stillstand kam. Die Maelstroms, wie diese Entitäten klassifiziert wurden, manifestierten sich beide als riesige Gaswolken. Sie sind für jedes Schiff, das ihnen zu nahe kommt, extrem gefährlich, doch was sich in ihrem Inneren verbirgt, bleibt unbekannt.
+  Wie bei Taranis kündigte jeder neue Maelstrom schwindelerregende Zahlen von Thargoid-Schiffen an, die in nahegelegene bewohnte Systeme eindrangen. Jüngste Berichte deuten darauf hin, dass die außerirdischen Flotten in der Nähe von HIP 20567 neun Systeme vollständig beherrschen und in der Nähe von HIP 8887 keines. Sternenhäfen, Siedlungen und Außenposten wurden alle verwüstet oder aufgegeben; die Gesamtzahl der Opfer ist unbekannt, wird aber als erheblich befürchtet.
+  Insgesamt 16 Systeme stehen derzeit aktiven Thargoid-Invasionen gegenüber und senden Notrufe um Hilfe. Rettungs-Megaschiffe wurden als Zielort für Flüchtlinge bestimmt. Die Supermächte haben außerdem Anti-Xeno-Hauptschiffe positioniert, um die Alliierten-, Föderalen und Imperialen Gebiete zu verteidigen, die angegriffen wurden.
+  Öffentliche Medienkanäle haben ernste Bedenken hinsichtlich der verbleibenden Abtrünnigen-Signale geäußert, die sich auf dem Weg zu den Kernsystemen befinden. Es wird erwartet, dass diese fünf weitere Maelstroms bilden, von denen jeder eine neue Welle von Thargoid-Streitkräften erzeugen wird. Während die Gesamtzahl der Todesopfer rapide steigt, bemühen sich zivile und militärische Behörden gleichermaßen um eine angemessene Antwort.
 ---
 
 

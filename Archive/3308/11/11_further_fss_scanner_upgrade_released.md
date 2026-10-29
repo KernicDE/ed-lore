@@ -1,13 +1,18 @@
 ---
 uuid: 2406c9ee-a756-5b27-a4cc-113260e0fc4d
 title: Further FSS Scanner Upgrade Released
+title_de: Weiteres FSS-Scanner-Update veröffentlicht
 slug: further_fss_scanner_upgrade_released
 date: '3308-11-11'
 source: API
 summary: A version of the FSS scanning software used to track the Thargoid anomalies
   has been made available to the Pilots’ Federation.
+summary_de: Eine Version der FSS-Scansoftware, mit der die Thargoid-Anomalien verfolgt
+  werden, wurde der Pilotenföderation zur Verfügung gestellt.
 player_impact: Independent pilots were encouraged to participate in the unfolding
   events.
+player_impact_de: Unabhängige Piloten wurden aufgefordert, sich an den laufenden Ereignissen
+  zu beteiligen.
 persons:
 - Ishmael Palin
 - Lori Jameson
@@ -25,6 +30,9 @@ arc_id: null
 modern_impact: '"We’re pleased with the update and are happy to share it with Commanders,
   who have provided much of the data used by t..." This perspective highlights the
   broader stakes and continues to shape contemporary debates.'
+modern_impact_de: „Diese Sichtweise unterstreicht die größeren Interessenlagen und prägt
+  die aktuellen Debatten bis heute.“ Die gemeinsame Erforschung der Anomalien durch
+  Wissenschaftler und unabhängige Piloten bleibt vorbildlich.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -33,6 +41,14 @@ related_uuids:
 - f7438e0e-89eb-5e2d-b974-7147bf67d4b1
 - f2680020-36ae-554f-ae92-3a367a9f1d23
 - eb62c669-b525-5753-b3cb-faf6452a8088
+body_de: |
+  **ALARM der Pilotenföderation**
+  Eine Version der FSS-Scansoftware, mit der die Thargoid-Anomalien verfolgt werden, wurde der Pilotenföderation zur Verfügung gestellt.
+  Kommandanten sollten weniger Störungen feststellen, wenn sie mit dem Vollspektrum-Scanner (FSS) auf die Anomalien fokussieren. Das Team, das die Softwareentwicklung leitet, warnte jedoch, dass die daraus resultierende Klarheit die Besorgnis von Professor Palin, Ram Tah und anderen führenden Wissenschaftlern kaum gemildert habe.
+  Lori Jameson, eine Ingenieurin, die zur Softwarekalibrierung des FSS-Scanners beiträgt, kommentierte:
+  „Wir sind mit dem Update zufrieden und teilen es gern mit den Kommandanten, die einen Großteil der Daten geliefert haben, die den Einrichtungen bei der Erforschung der unkontrollierten Signale dienen. Vertreter der Canonn Interstellar Research Group, der Orion-Universität und von Universal Cartographics haben ebenfalls sehr geholfen. Ich wünschte nur, die Ergebnisse würden ein vielversprechenderes Bild ergeben.“
+  „Ich verstehe die Friedensappelle, die wir zunehmend hören. Doch nach den Signalen, die diese Signale aussenden, zu urteilen, sind sie ... nun, ich versuche, meine Meinung niemandem aufzudrängen. Ich fordere die Kommandanten auf, selbst mit dem FSS-Scanner einen Blick darauf zu werfen.“
+  Das Update wurde kostenlos an alle registrierten Schiffe der Pilotenföderation ausgeliefert.
 ---
 
 

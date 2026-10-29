@@ -9,6 +9,10 @@ bio: 'Kay Volantyne is a Pirate in Elite Dangerous lore, active from 3307-04-30 
   3308-06-01. Affiliated with Kumo Crew. Notable activities include: Five new Kumo
   Crew starports become fully operational across the galaxy.; A Blue Viper Club dredger
   enters the Pegasi Sector PN-T c3-14 system and takes position near Kumo City.'
+bio_de: |-
+  Kay Volantyne ist Archikorsarin des Kumo-Rates und vertritt die Interessen der Kumo Crew in den Hochrisiko-Glücksspielkreisen der Galaxis. 3307 wurde sie als regelmäßige Teilnehmerin von Jokers' Deck identifiziert, einem exklusiven Casino für die Superreichen, organisiert von der Multimilliardärin Lexi October. Volantyne wurde an den Tischen von Roue Mortelle gegen Zachary Rackham antretend beobachtet, zusammen mit ihrem Kollegen vom Kumo-Rat, Trask.
+
+  Ihre Präsenz in diesen elitären Kreisen veranschaulicht den komplexen Status der Kumo Crew unter Archon Delaines Führung: zugleich eine Piratenkonföderation, die Handelsrouten ausplündert, und eine politische Einheit, deren Vertreter mit Senatoren, Botschaftern und Konzerngrößen verkehren. Volantynes Aktivitäten deuten darauf hin, dass sich der Kumo-Rat von einfacher Piraterie zu einem ausgeklügelten Machtbroker entwickelt hat, der Reichtum und gesellschaftlichen Zugang nutzt, um sein Territorial- und Handelsinteresse zu schützen.
 ---
 
 

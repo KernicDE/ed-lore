@@ -14,6 +14,8 @@ related_entities:
 bio: 'Tekkeitjal Public Corporation is a corporate in the Elite Dangerous universe,
   active from 3308-09-12 to 3308-09-12. Frequently linked with Sirius Inc, Riemann
   Colony, Samuda Terminal. '
+bio_de: Tekkeitjal Public Corporation ist ein Konzern im Elite-Dangerous-Universum, aktiv
+  am 12.09.3308. Häufig in Verbindung mit Sirius Inc, Riemann Colony und Samuda Terminal.
 ---
 
 

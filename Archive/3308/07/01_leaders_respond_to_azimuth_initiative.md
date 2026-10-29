@@ -1,13 +1,18 @@
 ---
 uuid: e0b48359-9e1e-557a-b290-f47faa8356bb
 title: Leaders Respond to Azimuth Initiative
+title_de: 'Führungspersönlichkeiten reagieren auf Azimuth-Initiative'
 slug: leaders_respond_to_azimuth_initiative
 date: '3308-07-01'
 source: API
 summary: Political leaders across the superpowers share divided opinions on supporting
   Azimuth Biotech's Proteus Wave project in HIP 22460.
+summary_de: Politische Führungspersönlichkeiten aller Supermächte äußern geteilte
+  Meinungen zur Unterstützung von Azimuth Biotechs Proteus-Welle-Projekt in HIP 22460.
 player_impact: No direct pilot action requested; political leaders outlined their
   positions on Azimuth's upcoming anti-xeno campaign.
+player_impact_de: Keine direkte Pilotenaktion gefordert; politische Führungspersönlichkeiten
+  skizzierten ihre Positionen zu Azimuth's kommender Anti-Xeno-Kampagne.
 persons:
 - Arissa Lavigny-Duval
 - Aisling Duval
@@ -38,6 +43,10 @@ modern_impact: As Princess Aisling Duval warned, Salvation proved to be 'a maste
   of self-promotion and public manipulation,' a prescient observation that underscores
   how political figures across all superpowers were swayed by Azimuth's promises despite
   widespread ethical concerns.
+modern_impact_de: Wie Prinzessin Aisling Duval warnte, erwies sich Salvation als ‚Meister
+  der Eigenwerbung und öffentlichen Manipulation', eine prophetische Beobachtung, die
+  unterstreicht, wie politische Persönlichkeiten aller Supermächte trotz weitverbreiteter
+  ethischer Bedenken von Azimuth's Versprechen überzeugt wurden.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -56,6 +65,24 @@ related_uuids:
 - adcab895-4c2f-5ad3-928d-1de0bafc6f61
 - 16e19a12-9891-53fc-b098-58c5903c858b
 - 952d5b46-745c-57fb-bc9a-1458b6d1323a
+body_de: |
+  Die Anti-Xeno-Operation in HIP 22460, an der Azimuth Biotech und die Supermächte beteiligt sind, hat Stellungnahmen prominenter politischer Persönlichkeiten hervorgerufen.
+
+  Kaiserin Arissa Lavigny-Duval: „Ich stimme Senator Patreus zu, dass die Unterstützung von Azimuth's Vorschlag weiterhin unser gangbarster Weg bleibt. Allerdings sind alternative Optionen zur Bewältigung der Thargoid-Bedrohung erforderlich."
+
+  Prinzessin Aisling Duval: „Salvation ist offensichtlich ein Meister der Eigenwerbung und öffentlichen Manipulation. Ich hoffe nur, dass das Imperium die Zusammenarbeit mit diesem widerwärtigen Individuum nicht bereuen wird."
+
+  Premierminister Edmund Mahon: „Unsere militärische Präsenz in HIP 22460 zeigt in Verbindung mit dem strategischen Verteidigungspakt mit der Sirius Corporation, dass die langfristige Sicherheit alliierte Systeme unsere Priorität bleibt."
+
+  Ratsmitglied Nakato Kaine: „Zwei skrupellose Konzerne mit zweifelhafter Vergangenheit, und die Allianz kooperiert jetzt mit beiden. Dies ist ein zutiefst bedauerliches Kapitel unserer Geschichte."
+
+  Präsident Zachary Hudson: „Ich habe volles Vertrauen in die Föderale Flotte, Salvation zu schützen, während die Proteus-Welle vorbereitet wird. Dies ist eine längst überfällige Vergeltung gegen einen unbeugsamen und erbarmungslosen Feind."
+
+  Schattenpräsidentin Felicia Winters: „Azimuth's Superwaffe ist effektiv, das gebe ich zu. Aber es missfällt mir, auf diese verschwörerische Organisation statt eine rechenschaftspflichtige Anti-Xeno-Behörde angewiesen zu sein."
+
+  CEO Li Yong-Rui: „Die Sirius Corporation beobachtet die Aktivitäten in HIP 22460 mit großem Interesse. Ich bin daran interessiert, die Zusammenarbeit mit Azimuth Biotech zu prüfen, um neue Produkte auf Basis der Proteus-Wellen-Technologie zu entwickeln."
+
+  Simguru Pranav Antal: „Die fortschrittlichen elektromagnetischen Wissenschaften, die die Guardian vor über einer Million Jahren entwickelt haben, sind selbst für Utopias scharfsinnigste Köpfe nur unzureichend verstanden. Die Sicherheit und Effektivität von Salvation's Gerät kann nicht garantiert werden."
 ---
 
 

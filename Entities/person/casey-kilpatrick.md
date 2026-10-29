@@ -9,6 +9,8 @@ bio: Casey Kilpatrick is a freelance reporter for Vox Galactica who covered the 
   Clan standoff with Orion University. He witnessed Orion's megaship Scientia Aeterna
   remotely disable the dredger's hyperdrive, and reported on the clan's resistance including
   sealed airlocks and an electrified hull.
+bio_de: |-
+  Casey Kilpatrick ist freier Reporter bei Vox Galactica. Im Oktober 3307 lieferte er aus dem System Oochost PC-C c29-0 einen Augenzeugenbericht über den Konflikt zwischen dem Scriveners Clan und der Orion University. Kilpatrick berichtete, dass das Megaschiff Scientia Aeterna der Universität den Hyperantrieb des Baggerschiffs per Fernzugriff deaktiviert hatte — unter Verwendung von Override-Codes aus den Archiven der Universität. Er beobachtete, dass sich die Scriveners weigerten zu kommunizieren, und ihren physischen Widerstand gegen Enterversuche, einschließlich versiegelter Luftschleusen und einer elektrisch aufgeladenen Hülle. Kilpatrick wies zudem auf das wahrscheinliche Interesse der Universität am Knowledge Core des Clans hin — einer Datenbank, die alles enthielt, was die Gelehrtengemeinschaft auf ihrer langen Reise erlernt hatte.
 ---
 
 

@@ -1,14 +1,21 @@
 ---
 uuid: 05ffa6a1-7163-5564-acc6-70c0c9cb28ca
 title: 'Delivery Campaign Helps Fund Imperial Charity '
+title_de: Lieferkampagne hilft bei Finanzierung imperialer Wohltätigkeit
 slug: delivery_campaign_helps_fund_imperial_charity
 date: '3308-09-29'
 source: API
 summary: The Citizens' Relief Trust campaign in Cemiess successfully procures rare
   luxury items for Princess Aisling's charity gala, with contributing pilots now able
   to collect payment and rewards.
+summary_de: Die Kampagne des Citizens' Relief Trust in Cemiess hat erfolgreich seltene
+  Luxusgüter für das Wohltätigkeitsgala der Prinzessin Aisling beschafft. Teilnehmende
+  Piloten können nun ihre Bezahlung und Belohnungen abholen.
 player_impact: Pilots who delivered rare items to Mackenzie Relay can now collect
   payment, with luxury vessel paint jobs made available to qualifying pilots.
+player_impact_de: Piloten, die seltene Güter zu Mackenzie Relay geliefert haben, können
+  nun ihre Bezahlung abholen; qualifizierten Piloten werden in Kürze luxuriöse
+  Schiffslackierungen zur Verfügung gestellt.
 persons:
 - Aisling Duval
 - Denton Patreus
@@ -27,12 +34,24 @@ topics:
 arc_id: thargoid-contact
 modern_impact: The successful charity campaign demonstrates Imperial nobility's willingness
   to mobilise private resources for wartime humanitarian relief.
+modern_impact_de: Die erfolgreiche Wohltätigkeitskampagne zeigt die Bereitschaft des
+  imperialen Adels, private Ressourcen für humanitäre Hilfe in Kriegszeiten zu mobilisieren.
 legacy_weight: 4
 significance: high
 related_uuids:
 - 5fe642bd-1c0d-530e-bad6-c4d4242b8bbb
 - 8a40f4b9-eebb-59f0-8d54-b3204f69be67
 - 964ef3eb-9cc2-5f09-8038-9afcaeca1c08
+body_de: |
+  **ALARM der Pilots Federation**
+  Eine Initiative im System Cemiess hat ausreichend seltene Güter beschafft, um eine erfolgreiche Gala des Citizens' Relief Trust zu gewährleisten.
+  Die neue Wohltätigkeitsorganisation wird Unterstützungszentren für die Angehörigen imperialer Bürger einrichten, die infolge von Thargoid-Angriffen ums Leben gekommen sind. Die Schirmherrin des Trusts, Prinzessin Aisling Duval, gab über die öffentlichen Medien eine Erklärung ab:
+  „Die Menge an Eshu-Regenschirmen, Xihe-Biomorphischen Begleitern und Chateau De Aegaeon, die wir erhalten haben, hat mir das Herz erfreut. Ich bereite bereits Einladungen zu einer herrlichen Wohltätigkeitsgala in meinem Palast auf Emerald vor, bei der diese Luxusgüter versteigert werden, um Kapital für den Citizens' Relief Trust zu beschaffen."
+  „Ich danke allen persönlich, die an dieser Kampagne teilgenommen haben. Eure Bemühungen werden all jenen direkt Ehre erweisen, die in diesem schrecklichen Konflikt mit den Thargoid den höchsten Preis gezahlt haben."
+  Auch Lieferungen von Wein und Fisch wurden bereitgestellt und werden den erwarteten Gästen und den zugehörigen Gefolgen serviert.
+  Senator Denton Patreus gab ebenfalls eine öffentliche Erklärung ab:
+  „Es ist Protokoll der kaiserlichen Flotte, den Familien aller Offiziere, Besatzungsmitglieder und Hilfskräfte finanzielle Unterstützung zu gewähren, die bei der Erfüllung ihrer Pflichten ihr Leben verloren haben. Dennoch schätzen wir alle die Gemeinsinnigkeit ihrer Hoheit, und ich freue mich zu sehen, wie viel die Adelshäuser zu opfern bereit sind, um den Bürgern zu helfen."
+  Teilnehmende Piloten können nun ihre Bezahlung für die Lieferungen bei Mackenzie Relay im System Cemiess abholen. Luxuriöse Schiffslackierungen werden in Kürze qualifizierten Piloten zur Verfügung gestellt. Lavigny's Legion hat bestätigt, dass sie auch Kampfbons erstatten wird.
 ---
 
 

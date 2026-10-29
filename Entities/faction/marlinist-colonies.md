@@ -17,6 +17,10 @@ bio: 'Marlinist Colonies is a organization active in Elite Dangerous lore from 3
   Order of Mudhrid after ACT confirms the faction provided logistical support for
   the NML...; Survivors of the defeated Neo-Marlinist Order of Mudhrid arrive in the
   Marlinist Colonies aboard the Steel Majesty, requesting asylum.'
+bio_de: |-
+  Die Marlinist Colonies wurden Ende 3306 gegründet, als die Sirius Corporation selbstverwaltete Siedlungen für marlinistische Flüchtlinge errichtete, die vor imperialer Verfolgung flohen. Von Imperium und Föderation unter der Bedingung akzeptiert, dass NMLA-Mitglieder ausgeliefert werden, boten diese republikanischen Kolonien in unbewohnten Systemen den Marlinisten Unabhängigkeit von den Supermächten, die sie verlassen hatten, kämpften jedoch zunächst mit prekären Lebensbedingungen und dem Vordringen externer Fraktionen.
+
+  Im Jahr 3307 spalteten sich die Kolonien, als die Marlinism Reformation Party – der politische Flügel der NMLA – einen Bürgerkrieg gegen anti-NMLA-Kräfte auslöste. Nach der Niederlage der Terroristen führte ein Referendum im Jahr 3308 dazu, dass Kaiserin Arissa die Autonomie der Kolonien förmlich anerkannte, allerdings unter der Forderung nach nachrichtendienstlicher Zusammenarbeit zur Verhinderung neomarlinistischen Extremismus. Die Marlinist Colonies bleiben ein seltenes Beispiel dafür, dass Flüchtlingspopulationen durch diplomatische Kompromisskunst eigenständige Staatlichkeit erlangen.
 ---
 
 

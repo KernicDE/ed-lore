@@ -11,6 +11,10 @@ bio: 'Jameelah Griffin is a Scientist in Elite Dangerous lore, active from 3304-
   of the League of Reparation and Riri McAllister''s arrest, the Church of Eternal
   Void being declared illegal...; The FIA apprehends further Far God cult members
   to determine if they communicate with Thargoids.'
+bio_de: |-
+  Dr. Jameelah Griffin ist Sprecherin der Galactic Interfaith Commune und war während der Thargoid-Konflikte eine lautstarke Verteidigerin der Religionsfreiheit. Im August 3304 protestierte sie entschieden gegen die Festnahmen von Far-God-Kultmitgliedern durch die Federal Intelligence Agency und erklärte, die Inhaftierungen seien „eher von Angst als von Beweisen motiviert". Sie forderte den Schutz der Bürgerrechte aller Bürger unabhängig von ihrer Glaubensüberzeugung.
+
+  Griffins Widerstand gegen die erweiterten Ermittlungen der FIA brachte die Galactic Interfaith Commune in direkten Konflikt sowohl mit der Sicherheitspolitik der Föderation als auch mit Anti-Thargoid-Aktivisten wie Juanita Bishop. Ihr Einsatz machte die Gefahren kriegsbedingter Sicherheitsmaßnahmen deutlich, die die Bürgerrechte religiöser Minderheiten aussetzten, und ihre Arbeit wurde zu einem Bezugspunkt für Debatten über die Grenzen staatlicher Macht während der Thargoid-Invasion.
 ---
 
 

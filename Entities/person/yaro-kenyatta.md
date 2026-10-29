@@ -8,6 +8,8 @@ mention_count: 1
 bio: 'Yaro Kenyatta is a prominent figure in the Elite Dangerous universe, active
   from 3308-11-04 to 3308-11-04. Closely associated with Universal Cartographics,
   Canonn. '
+bio_de: 'Yaro Kenyatta ist eine prominente Figur im Elite-Dangerous-Universum, aktiv am
+  04.11.3308. Eng verbunden mit Universal Cartographics und Canonn.'
 ---
 
 

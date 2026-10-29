@@ -1,13 +1,18 @@
 ---
 uuid: 25abcbbb-0e7c-5167-8ec8-858ae4047454
 title: Peace with the Thargoids?
+title_de: Frieden mit den Thargoiden?
 slug: peace_with_the_thargoids
 date: '3308-11-02'
 source: API
 summary: The rise of the xeno-peace movement has caused a number of public figures
   to discuss coexisting peacefully with the Thargoid race.
+summary_de: Der Aufstieg der Xeno-Friedensbewegung hat eine Reihe öffentlicher Persönlichkeiten
+  veranlasst, über ein friedliches Zusammenleben mit den Thargoiden zu diskutieren.
 player_impact: This article focuses on political and strategic developments without
   direct pilot involvement.
+player_impact_de: Dieser Artikel behandelt politische und strategische Entwicklungen
+  ohne direkte Beteiligung von Piloten.
 persons:
 - Dalton Chase
 - Jasmina Halsey
@@ -24,6 +29,10 @@ arc_id: null
 modern_impact: '"The ancient records of the Guardians, as deciphered by Ram Tah, describe
   how they learned enough of the Thargoids’ la..." This perspective highlights the
   broader stakes and continues to shape contemporary debates.'
+modern_impact_de: „Die alten Aufzeichnungen der Guardian, wie sie von Ram Tah entziffert
+  wurden, beschreiben, wie sie genug von der Sprache der Thargoiden lernten, um
+  Friedensangebote zu machen..." Diese Perspektive verdeutlicht die größeren
+  Spielräume und prägt die heutigen Debatten nach wie vor.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -33,6 +42,16 @@ related_uuids:
 - f2680020-36ae-554f-ae92-3a367a9f1d23
 - f052748e-b6ee-52c8-9657-75e06d0e3612
 - cca7da56-4f0a-5a99-8e50-34d6a64413f0
+body_de: |
+  Der Aufstieg der Xeno-Friedensbewegung hat eine Reihe öffentlicher Persönlichkeiten veranlasst, über ein friedliches Zusammenleben mit den Thargoiden zu diskutieren.
+  Während derzeit in den politischen Hauptstädten aller drei Supermächte militärische Optionen erörtert werden, versuchen die Stimmen für Diplomatie, Schritt zu halten. Professor Shamus Madigan, Leiter der Xenologie an der Universität von Olympus Village, ist eine von mehreren Persönlichkeiten, die sich zu dem Thema geäußert haben:
+  „Die alten Aufzeichnungen der Guardian, wie sie von Ram Tah entziffert wurden, beschreiben, wie sie genug von der Sprache der Thargoiden lernten, um Friedensangebote zu machen. Diese wurden jedoch zugunsten eines totalen Krieges abgelehnt. Obwohl Millionen von Jahren vergangen sind, ist es unwahrscheinlich, dass die Thargoiden die Menschheit anders betrachten werden – zumal wir aktiv auf Waffen auf Guardian-Basis gegen sie einsetzen."
+  Föderaler Gouverneur Dalton Chase:
+  „Angenommen, die Kommunikationsbarriere kann überwunden werden, sehe ich keinen Grund, warum wir keine gewaltfreien Beziehungen zu diesen offensichtlich intelligenten Wesen haben könnten. Das kürzlich abgeordnete friedensfreundliche Megaschiff wird den Thargoiden helfen zu demonstrieren, dass wir keine einseitig kriegerische Spezies sind, sondern eine ebenbürtige hochentwickelte Zivilisation."
+  Jaya Chaudhary, Moderatorin des historischen ICE-Casts ‚Ghastly Pasts':
+  „Eine Diplomatie zwischen Menschen und Thargoiden wäre vielleicht möglich gewesen, als sich unsere beiden Spezies zum ersten Mal begegneten. Seitdem haben wir jedoch zwei Versuche unternommen, sie auszurotten, zuerst mit der Mykoid-Verbindung und dann mit der Proteus-Wellen-Superwaffe. Seien wir ehrlich – würden wir mit einer außerirdischen Spezies sprechen wollen, die uns das angetan hat?"
+  Botschafterin Jasmina Halsey, ehemalige Präsidentin der Föderation:
+  „Wir haben ein wenig über die Geschichte, das Verhalten und die Technologien der Thargoiden herausgefunden. Doch ihre Denkprozesse und ihre Beweggründe könnten völlig anders sein als unsere. Ich habe keine Ahnung, ob sie überhaupt verstehen, was Diplomatie ist, geschweige denn, ob wir eine gemeinsame Basis finden könnten. Aber ich weiß, dass wir es versuchen müssen, wenn auch nur, um uns selbst zu beweisen, dass wir es besser können."
 ---
 
 

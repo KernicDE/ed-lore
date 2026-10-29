@@ -14,6 +14,7 @@ related_entities:
 bio: 'Affiliated Counter-Terrorism Unit is a organization in the Elite Dangerous universe,
   active from 3307-12-28 to 3308-09-28. Frequently linked with Alliance, Jupiter Division,
   Achenar. '
+bio_de: Die Affiliated Counter-Terrorism Unit ist eine Organisation im Elite-Dangerous-Universum, die von 3307-12-28 bis 3308-09-28 aktiv war. Häufig in Verbindung mit Allianz, Jupiter Division und Achenar.
 ---
 
 

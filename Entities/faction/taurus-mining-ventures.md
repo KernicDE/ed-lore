@@ -17,6 +17,10 @@ bio: 'Taurus Mining Ventures is a organization active in Elite Dangerous lore fr
   who discovered the Hesperus, authorising Taurus Mining Ventures to pay for logs
   and pro...; Pilots discover the Proteus, an Anaconda from the Hesperus, at a historical
   battlefield on Trapezium Sector YU-X c1-2 1a.'
+bio_de: |-
+  Taurus Mining Ventures ist eine Unternehmensfraktion, die während der Thargoid-Konflikte der späten 3300er Jahre zu einem zentralen logistischen Partner im Anti-Xeno-Einsatz wurde. Das Unternehmen betrieb das Mega-Schiff Bright Sentinel, das in bedrohte Systeme entsandt wurde, um unabhängigen Piloten, die gegen Thargoid-Invasionen kämpften, Guardian-Hybridtechnologie und Materialrabatte zur Verfügung zu stellen. Im April 3307 diente die Firma als Übergabestelle für verschlüsselte Logdaten, die von Piloten des anonymen Wissenschaftlers Salvation aus dem Mega-Schiff Hesperus geborgen worden waren.
+
+  Die Allianz mit Salvation brachte das Unternehmen in das Zentrum einer der umstrittensten Entwicklungen des Thargoid-Krieges. Während Taurus Mining Ventures Anti-Xeno-Geschwadern wesentliche Unterstützung lieferte, zog seine Verbindung zu einer Figur, deren Superwaffen den Konflikt eskalierten, Kritik von Aegis-Führern wie Admiral Aden Tanner nach sich. Die Bewegungen des Mega-Schiffs folgten den wechselnden Frontlinien der Thargoid-Invasion und machten Taurus Mining Ventures zu einem Symbol für unternehmerische Improvisation, die Lücken füllte, die von geschwächten Institutionen der Supermächte hinterlassen worden waren.
 ---
 
 

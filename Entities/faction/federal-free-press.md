@@ -12,6 +12,7 @@ related_entities:
 - hip-22460
 bio: 'Federal Free Press is a media in the Elite Dangerous universe, active from 3308-09-20
   to 3308-09-20. Frequently linked with HIP 22460, Order of the Far God, True Chapters. '
+bio_de: Die Federal Free Press ist ein Medium im Elite-Dangerous-Universum, das am 3308-09-20 aktiv war. Häufig in Verbindung mit HIP 22460, dem Orden des Fergods und den True Chapters.
 ---
 
 

@@ -1,13 +1,17 @@
 ---
 uuid: 4e1477c4-93b5-5496-a2b9-86e95c248866
 title: Gatecrash Drama at Aegis Event
+title_de: Sturm-Drama bei Aegis-Veranstaltung
 slug: gatecrash_drama_at_aegis_event
 date: '3308-10-04'
 source: API
 summary: The sole survivor of the notorious Project Seraph experiments has reportedly
   appeared at the Aegis symposium, startling the live audience.
+summary_de: Die einzige Überlebende der berüchtigten Experimente des Project Seraph ist
+  Berichten zufolge auf dem Aegis-Symposium aufgetaucht und hat das Live-Publikum schockiert.
 player_impact: This article focuses on political and strategic developments without
   direct pilot involvement.
+player_impact_de: Keine
 persons:
 - Alba Tesreau
 - Allan Mantle
@@ -30,6 +34,8 @@ arc_id: salvation-azimuth
 modern_impact: '"The shouting caught everyone in the conference hall by surprise,
   interrupting a discussion about the recently leaked ..." This call for collaboration
   continues to resonate in discussions about superpower unity against the Thargoids.'
+modern_impact_de: Dieser Aufruf zur Zusammenarbeit hallt in Debatten über den Schulterschluss
+  der Supermächte gegen die Thargoids bis heute nach.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -39,6 +45,14 @@ related_uuids:
 - bd5a1074-4db4-556d-bd6d-4207d963ce10
 - 17c9f162-826a-5492-8ff7-a04cd0d9cdfc
 - ebaed307-7279-5789-9569-01d10e7832b9
+body_de: |
+  Die einzige Überlebende der berüchtigten Experimente des Project Seraph ist Berichten zufolge auf dem Aegis-Symposium aufgetaucht und hat das Live-Publikum schockiert.
+  Der Vox-Galactica-Journalist Allan Mantle veröffentlichte einen Report von der Stelle:
+  „Das Geschrei überraschte alle im Konferenzsaal und unterbrach eine Diskussion über das kürzlich durchgesickerte ‚Thargoid-Brüllen', das in HIP 22460 zu hören war. Wir alle sahen fassungslos zu, wie eine kleine Gestalt in zerrissener Kleidung an der Sicherheit vorbeischlüpfte und sich ihren Weg auf die Bühne erkämpfte, wobei sie mehrere Wachen entwaffnete, die eingreifen wollten. Viele rannten weg und befürchteten einen Angriff, doch Professorin Alba Tesreau blieb standhaft."
+  „Die zerzauste Frau rief heiser, dass ihr Name Seo Jin-ae sei, und fügte ‚Ihr kennt mich!' hinzu, direkt an Tesreau gewandt. Als die Eindringling ihren Ärmel hochzog, um offenbar etwas zu zeigen, setzte ich meine Drohnenkameras ein, die deutlich die mit Tinte eingebrannten Symbole ‚D-2' auf ihrem Unterarm festhielten."
+  „Dann packte sie Professorin Tesreau und sagte: ‚Ich weiß nicht, wohin sonst. Ich weiß…' Sie deutete auf die Bildschirme, auf denen eine Audioanalyse des Thargoid-Sounds von HIP 22460 zu sehen war. ‚Ich glaube, ich weiß, was das bedeutet. Es ist zu spät, um das Kommende aufzuhalten.'"
+  „Tesreau ordnete sofort an, die Sicherheit abzuziehen. Sie rief mehrere andere ehemalige Mitglieder von Aegis zu Hilfe, und gemeinsam geleiteten sie die Frau von der Bühne. Wenige Minuten später erfolgte die Ankündigung, dass der Hauptvortrag des Symposiums abgesagt wurde und die weiteren Vorträge auf die Hauptbühne verlegt würden."
+  Subjekt D-2 wurde erstmals bekannt, als die verlassene Siedlung Oaken Point im System HIP 26176 entdeckt wurde. Ihre Aufzeichnungen beschrieben die Versuche des Project Seraph, menschliche Piloten für Thargoid-Schiffe zu schaffen, wovon D-2 durch blinde Passage auf einem Kurier-Schiff entkam. Im Juni kontaktierte D-2 Professorin Tesreau, um eine INRA-Basis im System DG Canum Venaticorum aufzudecken, was Salvations Identität als Dr. Caleb Wycherley des damaligen Azimuth Biochemicals offenlegte.
 ---
 
 

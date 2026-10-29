@@ -11,6 +11,9 @@ bio: 'Alexei Keel is a Scientist in Elite Dangerous lore, active from 3305-03-23
   an inquiry into the Alexandria''s disappearance.; A resistance movement emerges
   to sabotage Salvation''s efforts, with opponents destroying disguised weapon components
   rather than delivering them.'
+bio_de: |-
+  Alexei Keel ist ein freier Journalist, der für Vox Galactica über einige der umstrittensten Entwicklungen im Thargoid-Krieg berichtete. Im September 3307 veröffentlichte Keel einen Sonderbericht über die entstehende Widerstandsbewegung gegen Salvation, den anonymen Wissenschaftler, dessen Anti-Xeno-Superwaffen sowohl leidenschaftliche Unterstützung als auch tiefes Misstrauen hervorriefen.
+  Keel dokumentierte, wie eine Gegeninitiative von Piloten, die Salvations Motiven misstrauten, Waffenkomponenten — getarnt als einfache Medikamente — erwarb und zerstörte, statt sie abzuliefern. Zum Widerstand gehörten sowohl Befürworter der Nichtangriffspolitik gegenüber den Thargoids als auch Personen, die befürchteten, die Waffe könnte die Bevölkerung von Cornsar gefährden. Keel merkte an, dass unklar bleibe, „ob diese teilweise Blockade die Wirksamkeit der Waffe beeinträchtigt hat, doch sie stellte eine erhebliche Opposition gegen Salvations Vorhaben dar." Seine Berichterstattung zeichnete die wachsende Polarisierung innerhalb der Anti-Xeno-Gemeinschaft nach — zwischen denjenigen, die Salvation als letzte Hoffnung der Menschheit sahen, und denjenigen, die seine geheimnisvollen Methoden und messianische Rhetorik als ebenso gefährlich wie die Thargoids selbst betrachteten. Keels Journalismus veranschaulichte die Rolle unabhängiger Medien bei der Überprüfung von Personen, die jenseits demokratischer Verantwortlichkeit agierten.
 ---
 
 

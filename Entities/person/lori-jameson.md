@@ -8,6 +8,10 @@ mention_count: 4
 bio: 'A renowned ship engineer and descendant of the legendary pilot Commander John
   Jameson, Lori Jameson publicly denounced the League of Reparation when the terrorist
   group claimed to be acting in her ancestor''s name.'
+bio_de: |-
+  Lori Jameson ist eine hochqualifizierte Schiffsbauerin, die von Jameson Memorial im System Shinrarta Dezhra aus arbeitet, und die Urenkelin von Commander John Jameson, einem der berühmtesten Piloten der Menschheitsgeschichte. Im Juni 3304 wurde sie sich ungewollt im Blickpunkt der Öffentlichkeit, als die Terrororganisation League of Reparation damit begann, Nachfahren derer zu ermorden, die an der berühmten Verratsgeschichte ihres Ahnen beteiligt gewesen waren – angeblich um in seinem Namen Gerechtigkeit zu üben.
+
+  Jameson zeichnete am Jameson Memorial eine öffentliche Stellungnahme auf, in der sie die Aktionen der League als „fehlgeleitet, unnötig und böswillig" verurteilte und direkt an den mysteriösen Anführer der Gruppe, Nexus, appellierte, die Gewalt zu beenden. Sie kooperierte vollumfänglich mit den Ermittlungen der Drei-Mächte-Sondereinheit, und die Behörden bestätigten, dass sie keine Verbindung zur Organisation hatte. Abseits dieser Kontroverse arbeitet sie weiterhin als Ingenieurin, spezialisiert auf Upgrades von Schiffsmodulen.
 ---
 
 

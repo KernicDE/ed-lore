@@ -18,6 +18,8 @@ bio: Citizens' Relief Trust is a organization in the Elite Dangerous universe, a
   personnel lost to Thargoid aggression. The Citizens' Relief Trust campaign in Cemiess
   successfully procures rare luxury items for Princess Aisling's charity gala, with
   contributing pilots now able to collect payment and rewards.
+bio_de: |-
+  Der Citizens' Relief Trust ist eine Organisation im Elite-Dangerous-Universum, die von 3308-09-22 bis 3308-09-29 aktiv war. Häufig in Verbindung mit Cemiess, der Pilotenföderation und Emerald. Prinzessin Aisling Duval startet eine Spendenaktion in Cemiess und fordert seltene Luxusgüter, um den Citizens' Relief Trust zu finanzieren, der Familien imperialer Angehöriger unterstützt, die durch thargoidische Angriffe verloren wurden. Die Kampagne des Citizens' Relief Trust in Cemiess beschaffte erfolgreich seltene Luxusgüter für das Wohltätigkeitsgalabankett von Prinzessin Aisling; teilnehmende Piloten konnten ihre Vergütung und Belohnungen abholen.
 ---
 
 

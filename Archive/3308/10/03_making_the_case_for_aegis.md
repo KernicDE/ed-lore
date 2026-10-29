@@ -1,13 +1,18 @@
 ---
 uuid: 0c21bfb7-e2b2-5928-8ca2-d5f1e93df3e0
 title: Making the Case for Aegis
+title_de: Plädoyer für Aegis
 slug: making_the_case_for_aegis
 date: '3308-10-03'
 source: API
 summary: A three-day symposium has begun that will outline proposals to reform Aegis,
   the tri-superpower anti-xeno agency.
+summary_de: Ein dreitägiges Symposium hat begonnen, das Vorschläge zur Reform von Aegis,
+  der Agentur gegen Xenolebewesen der drei Supermächte, vorstellen wird.
 player_impact: This article focuses on political and strategic developments without
   direct pilot involvement.
+player_impact_de: Dieser Artikel konzentriert sich auf politische und strategische
+  Entwicklungen ohne direkte Einbindung von Piloten.
 persons:
 - Alba Tesreau
 - Angela Corcoran
@@ -33,6 +38,10 @@ arc_id: salvation-azimuth
 modern_impact: '"In the aftermath of HIP 22460’s failure to end the war, humanity
   remains locked in this fight against the Thargoids. ..." This call for collaboration
   continues to resonate in discussions about superpower unity against the Thargoids.'
+modern_impact_de: „Nachdem HIP 22460 den Krieg nicht beenden konnte, bleibt die Menschheit
+  in diesem Kampf gegen die Thargoids gefangen. ..." Dieser Ruf nach Zusammenarbeit
+  hallt weiterhin in Diskussionen über den Zusammenhalt der Supermächte gegen die
+  Thargoids nach.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -42,6 +51,14 @@ related_uuids:
 - bd5a1074-4db4-556d-bd6d-4207d963ce10
 - cbe79040-1b75-50b1-9aad-bc544ff2b6be
 - f7438e0e-89eb-5e2d-b974-7147bf67d4b1
+body_de: |
+  Ein dreitägiges Symposium hat begonnen, das Vorschläge zur Reform von Aegis, der Agentur gegen Xenolebewesen der drei Supermächte, vorstellen wird.
+  Die Veranstaltung findet im nationalen Konferenzzentrum in New Apollo City auf dem Planeten Biggs Colony statt. Organisiert wurde sie von Professorin Alba Tesreau, der ehemaligen Leiterin der Forschung bei Aegis. In ihrer Eröffnungsrede an die Teilnehmer sagte sie:
+  „Nachdem HIP 22460 den Krieg nicht beenden konnte, bleibt die Menschheit in diesem Kampf gegen die Thargoids gefangen. Ich glaube, dass wir uns zu stark auf militärisches Handeln konzentriert haben, sodass wir diese Spezies möglicherweise niemals wirklich verstehen werden. Der kollaborative Charakter von Aegis eignete sich ideal für solche Arbeit, aber interne und externe Druck führten zu ihrer Schließung. Ich erkläre hiermit offiziell, dass ich die Allianz, das Imperium und die Föderation davon überzeugen will, diese Schließung rückgängig zu machen."
+  Detaillierte Pläne zur Reform der Organisation wurden von anderen ehemaligen Mitgliedern von Aegis vorgestellt, darunter Carter Armstrong, Dr. Mia Valencourt und Yazhu Xing. Mehrere im Baumann-Bericht hervorgehobene Probleme, darunter Misswirtschaft und geringe Moral, wurden offen angesprochen. Dem Publikum wurden Beweise dafür gezeigt, dass der Verlust des Megaschiffs Alexandria, ursprünglich als Beispiel für Aegis' Fahrlässigkeit betrachtet, auf Sabotage und Entführung durch Agenten von Azimuth Biotech zurückzuführen war.
+  Die Gastgeber wurden auch zur Bewegung für Frieden mit den Xenolebewesen und zum populären Audiopaket befragt, das die ICE-Moderatorin Joy Senne letzte Woche veröffentlichte. Professorin Tesreau erklärte:
+  „Weder ich noch ehemalige Mitarbeiter von Aegis sind am Thargoid Advocacy Project oder ähnlichen Gruppen beteiligt. Aber ich habe immer geglaubt, dass die Erforschung von Methoden der interspeziellen Kommunikation eine Priorität sein sollte."
+  Eine Mischung aus Politikern, Wissenschaftlern, Flottenoffizieren und Journalisten war am ersten Tag der Veranstaltung anwesend. Zu den prominentesten Gästen zählten die alliierte Vizepremierministerin Angela Corcoran, die föderale Botschafterin Jasmina Halsey und die Schattenvizepräsidentin Isolde Rochester. Es gab keine Vertreter des Imperiums, aber eine Delegation der Marlinist Colonies beobachtete die Verhandlungen.
 ---
 
 

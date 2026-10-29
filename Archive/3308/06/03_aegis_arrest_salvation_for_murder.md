@@ -1,6 +1,7 @@
 ---
 uuid: 6a3fd658-33a2-5409-8ade-90b666edefc5
 title: 'Aegis: ''Arrest Salvation for Murder'''
+title_de: 'Aegis: „Salvation wegen Mordes verhaften"'
 slug: aegis_arrest_salvation_for_murder
 date: '3308-06-03'
 source: API
@@ -8,7 +9,12 @@ summary: Professor Alba Tesreau presents evidence that Salvation is Dr Caleb Wyc
   former Azimuth Biochemicals researcher and INRA collaborator who helped develop
   the mycoid bioweapon. Former Aegis leadership demands his arrest over the Alexandria
   megaship attack and Project Seraph.
+summary_de: Professorin Alba Tesreau legt Beweise vor, dass Salvation Dr Caleb Wycherley
+  ist, ehemaliger Forscher bei Azimuth Biochemicals und Mitarbeiter der INRA, der an der
+  Entwicklung der Mykoid-Biowaffe mitwirkte. Die ehemalige Führung von Aegis fordert seine
+  Verhaftung wegen des Angriffs auf das Megaschiff Alexandria und wegen Projekt Seraph.
 player_impact: Not specifically mentioned — this is an investigative report.
+player_impact_de: Keine
 persons:
 - Alba Tesreau
 - Caleb Wycherley
@@ -38,6 +44,10 @@ modern_impact: The revelation that Salvation was a former INRA bioweapons resear
   fundamentally reframed the ethics of Azimuth's anti-Thargoid strategy, exposing
   how superpowers had outsourced their defence to a man with a history of extrajudicial
   killing.
+modern_impact_de: Die Enthüllung, dass Salvation ein ehemaliger INRA-Biowaffenforscher
+  war, veränderte grundlegend die Bewertung der Ethik von Azimuths Anti-Thargoid-Strategie
+  und offenbarte, dass die Supermächte ihre Verteidigung an einen Mann mit einer
+  Geschichte außergerichtlicher Tötungen ausgelagert hatten.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -45,6 +55,14 @@ related_uuids:
 - 967aa94a-f950-5777-8fca-15696a250f64
 - bf2b0186-ea55-58b5-9c81-eed7dacdf3cb
 - 02c79e14-bd50-5a4a-b85d-2e25fa40eba1
+body_de: |
+  Die Behauptung, Salvation sei einst hochrangiges Mitglied von Azimuth Biochemicals gewesen und habe für die INRA gearbeitet, hat zu öffentlichem Aufschrei geführt.
+  Der politische Journalist Conrad Sterling berichtete über diese Entwicklungen für Vox Galactica:
+  „Informationen, die kürzlich im System DG Canum Venaticorum aufgetaucht sind, wurden von Professorin Alba Tesreau vorgelegt. Sie deuten darauf hin, dass Salvations wirklicher Name Dr Caleb Wycherley ist, ehemaliger Vizepräsident für Forschung bei Azimuth Biochemicals. Laut Wycherleys persönlichen Aufzeichnungen trug sein Team zur Entwicklung der umstrittenen Mykoid-Biowaffe bei, die die INRA während des Ersten Thargoid-Kriegs einsetzte."
+  „Wycherleys Aufzeichnungen liefern zudem Belege dafür, dass er den Spitznamen ‚Der Hexer' trug. Diese Figur wurde mit dem mörderischen Angriff auf das Megaschiff Alexandria im Juni 3307 und mit Aufnahmen aus Projekt Seraph in Verbindung gebracht, die in den Systemen HIP 26176 und HIP 22460 gefunden wurden."
+  „Die ehemalige Führung von Aegis hat gefordert, dass Salvation wegen seiner Beteiligung an diesen Vorfällen verhaftet und verhört wird und dass die Flottenunterstützung der Supermächte für Salvations Arbeit bis zur Klärung dieser Fragen ausgesetzt wird."
+  Anhänger Salutations haben die neuesten Aufzeichnungen als Fälschung abgetan und darauf hingewiesen, dass Dr Wycherley inzwischen über 200 Jahre alt sein müsste und die Erwähnung von ‚salvation' (Erlösung) reiner Zufall sei. Die Empörung über die unethischen Aktivitäten sowohl von Azimuth als auch der INRA bleibt jedoch groß, und Salutations wachsender Einfluss auf Anti-Thargoid-Operationen wird in einem neuen Licht betrachtet.
+  „Allianz, Imperium und Föderation haben alle mit ausweichenden Erklärungen reagiert, dass die Anschuldigungen untersucht würden", sagte Sterling. „Da Salutations einzigartige Superwaffen nun jedoch den Grundstein ihrer Anti-Xeno-Strategie bilden, wäre seine Verhaftung ein erheblicher politischer und militärischer Unannehmlichkeit."
 ---
 
 

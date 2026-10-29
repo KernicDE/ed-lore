@@ -14,6 +14,10 @@ related_entities:
 bio: 'Pharmasapien is a organization in the Elite Dangerous universe, active from
   3307-04-08 to 3308-06-23. Frequently linked with Chukchan, Azimuth Biochemicals,
   Chukchan 5 b. '
+bio_de: |-
+  Pharmasapien war ein konkurrierendes Unternehmen von Azimuth Biochemicals, das Anfang des 32. Jahrhunderts Industriespionage und Sabotage betrieb. Im Jahr 3113 ergriffen Schlafagenten von Pharmasapien nahe dem System Col 69 Sector LY-H c10-0 die Kontrolle über das Mega-Schiff Hesperus und massakrierten die Besatzung von Azimuth, um deren xenologische Forschung zu stehlen.
+
+  Die Agenten von Pharmasapien fanden selbst den Tod, als die private Soldatin Adriana Velasco, ein Besatzungsmitglied von Azimuth, das sich an Bord versteckt hatte, Giftgas in die Lüftungsanlage leitete und damit alle Infiltratoren tötete. Der Vorfall zeigte auf, zu welch brutalen Mitteln konkurrierende Konzerne im Wettlauf um die Ausbeutung außerirdischer Technologie griffen. Das letztliche Schicksal von Pharmasapien ist unklar, doch seine Konkurrenz mit Azimuth trug dazu bei, die Kette von Ereignissen in Gang zu setzen, die zwei Jahrhunderte später zur Entstehung von Salvation führen sollte.
 ---
 
 

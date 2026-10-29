@@ -1,13 +1,19 @@
 ---
 uuid: cb7bdbc0-d2ed-56b3-b8e4-cc731cabc788
 title: Aisling Criticises Imperial Policy
+title_de: 'Aisling kritisiert imperiale Politik'
 slug: aisling_criticises_imperial_policy
 date: '3308-09-20'
 source: API
 summary: Princess Aisling Duval criticises Emperor Arissa's isolationist policy after
   the Battle of HIP 22460, arguing for continued inter-superpower cooperation, while
   Hadrian Duval unexpectedly supports the Emperor.
+summary_de: Prinzessin Aisling Duval kritisiert die isolationistische Politik von
+  Kaiserin Arissa nach der Schlacht von HIP 22460 und plädiert für eine fortgesetzte
+  Zusammenarbeit zwischen den Supermächten, während Hadrian Duval die Kaiserin überraschend
+  unterstützt.
 player_impact: Not specifically mentioned — this is a political interview.
+player_impact_de: Keine
 persons:
 - Aisling Duval
 - Hadrian Augustus Duval
@@ -26,6 +32,9 @@ topics:
 arc_id: salvation-azimuth
 modern_impact: Aisling's public break with Imperial isolationism positions her as
   a voice for cross-superpower humanitarian cooperation during the Thargoid war.
+modern_impact_de: Aislings öffentlicher Bruch mit dem imperialen Isolationismus etabliert
+  sie als Stimme für humanitäre Zusammenarbeit über die Supermächte hinweg während des
+  Thargoid-Krieges.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -34,6 +43,13 @@ related_uuids:
 - 4a9ed102-8135-5f75-95e3-15fb785c0350
 - 66531cb9-e9c8-5d1a-86fd-69a913467bdc
 - be63c32e-8997-572a-9d07-24701e8fc641
+body_de: |
+  Prinzessin Aisling Duval hat die Neuausrichtung des Imperiums auf reduzierte Zusammenarbeit mit anderen Supermächten infrage gestellt.
+  Während eines Interviews mit dem Nachrichtendienst Citizens' Chronicle bemerkte sie:
+  „Es ist offensichtlich, dass die Imperiale Marine ihre Bindung an Salvation zutiefst beschämend findet und ohne seine Superwaffen-Technologie faktisch gelähmt ist. Die Kaiserin versucht nun, das Gesicht zu wahren, indem sie alle Kooperationsprojekte mit der Allianz und der Föderation abbricht. Offen gesagt halte ich das für kurzsichtig und kontraproduktiv."
+  „Unsere Marinebesatzungen in HIP 22460 starben natürlich als Helden, aber wir sollten nicht übersehen, dass sie im Verbund mit alliierten und Bundes-Flottenverbänden im Einsatz waren. Diese Tragödie hat uns alle betroffen, und wir ehren die Toten nicht, indem wir so tun, als wäre es anders. Alle von uns, die helfen können, egal welcher Gesinnung, müssen mehr tun, um die Familien aller zu unterstützen, die in dieser entsetzlichen Katastrophe verloren gingen, und dabei die Wahrscheinlichkeit weiterer Kriegsopfern anerkennen."
+  Hadrian Augustus Duval widersprach der Ansicht seiner Cousine öffentlich, wie das Paresa News Network zitierte:
+  „Trotz meiner Achtung für Prinzessin Aisling muss ich zugeben, dass Kaiserin Arissa in dieser Angelegenheit meine Unterstützung hat – etwas, das ich nie für möglich gehalten hätte. Ich war immer der Ansicht, dass unser Imperium durch die Abhängigkeit von äußeren Kräften jeglicher Art geschwächt wird. Daher ist es erfreulich zu sehen, dass die Weisheit dieser Politik nun endlich anerkannt wird."
 ---
 
 

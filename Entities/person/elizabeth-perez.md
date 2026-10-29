@@ -11,6 +11,23 @@ bio: 'Elizabeth Perez is a Scientist in Elite Dangerous lore, active from 3305-1
   beyond the Col 70 sector generate widespread speculation, with theories ranging
   from Thargoid weapons to...; The crew of the generation ship Golconda migrate to
   their new home at Forester''s Choice outpost in the Upaniklis system.'
+bio_de: |-
+  Professor Elizabeth Perez ist Leiterin der Anthropologie an der Orion Independent
+  University und eine führende Expertin für isolierte menschliche Kulturen. 3305 führte
+  sie die erste akademische Studie des Generationenschiffs Golconda nach dessen
+  Entdeckung im Upaniklis-System durch und untersuchte, wie die Bewohner des Schiffs
+  nach mehr als tausend Jahren Isolation eine als 22. Jahrhundert erkennbare
+  Gesellschaft bewahrten.
+
+  Perezes Analyse zeigte eine rigide strukturierte Gemeinschaft mit einem Kustos,
+  einem Kaplan und tief verwurzelten isolationistischen Tendenzen. Sie warnte, dass
+  der Kontakt mit Außenstehenden die einzigartige Kultur der Golconda „unwiderruflich
+  beschädigen" könne, und verglich dies mit historischen Fällen, in denen isolierte
+  Gesellschaften bei erstmaligem Kontakt zusammenbrachen. Ihre Arbeit fließ in die
+  Ansiedlungsstrategie der Föderation ein, die die Bevölkerung der Golconda
+  schließlich nach Forester's Choice umsiedelte, während sie versuchte, deren soziale
+  Strukturen zu bewahren. Perezes Forschung ist bis heute ein grundlegendes Werk im
+  Studium lang andauernder raumfahrender Gesellschaften.
 ---
 
 

@@ -1,13 +1,18 @@
 ---
 uuid: cbc7e2da-9850-584f-8605-72985e7a7a9c
 title: A Retrospective of 3308 (Part Three)
+title_de: Ein Rückblick auf 3308 (Teil drei)
 slug: a_retrospective_of_3308_part_three
 date: '3309-01-03'
 source: API
 summary: Historian Sima Kalhana concludes her retrospective of 3308 by detailing the
   aftermath of the Battle of HIP 22460, the arrival of the Maelstroms, and the beginning
   of the Second Thargoid War.
+summary_de: Die Historikerin Sima Kalhana schließt ihren Rückblick auf 3308 ab und schildert
+  die Nachwirkungen der Schlacht von HIP 22460, das Eintreffen der Maelstroms und den
+  Beginn des Zweiten Thargoid-Krieges.
 player_impact: Not specifically mentioned — this is a retrospective report.
+player_impact_de: Keine
 persons:
 - Sima Kalhana
 - Alba Tesreau
@@ -27,6 +32,11 @@ modern_impact: '"By the end of 3308, Thargoid forces were raging across the core
   retrospective establishes the scale of devastation that set the stage for the Second
   Thargoid War and contextualizes how the collapse of Aegis and Salvation''s death
   left humanity unprepared for the Maelstrom onslaught.'
+modern_impact_de: „Ende 3308 wüteten Thargoid-Truppen in den Kernsystemen, forderten Millionen
+  Todesopfer und vertrieben Millionen weitere aus ihren Heimen." Dieser Rückblick zeigt das
+  Ausmaß der Verwüstung, das die Bühne für den Zweiten Thargoid-Krieg bereitete, und ordnet ein,
+  wie der Zusammenbruch von Aegis und der Tod von Salvation die Menschheit unvorbereitet auf
+  den Ansturm der Maelstroms zurückließen.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -34,6 +44,16 @@ related_uuids:
 - 918087f0-e635-591b-bc74-a1742da82b05
 - 35ed6f3a-9ca1-5e6c-babf-fed3121e14d2
 - 09d4b9af-ccaf-5d95-8847-50360aaf1af2
+body_de: |
+  Der abschließende Artikel einer Serie der Historikerin Sima Kalhana mit einem Überblick über die wichtigsten Ereignisse des vergangenen Jahres.
+  „Die Nachwirkungen der Schlacht von HIP 22460 waren eine beunruhigende Zeit. Nach dem Tod von Salvation geriet Azimuth Biotech unter neues Management und hatte Mühe, seine Bedeutung zu wahren. Das Imperium zog sich von weiteren Kooperationen mit den anderen Supermächten zurück. Und trotz weit verbreiteter Befürchtungen vor Vergeltungsschlägen der Thargoids strebte eine Xeno-Friedensbewegung die Diplomatie mit den Aliens an, um weitere Konflikte zu verhindern."
+  „Der September brachte weitere Rätsel mit Sichtungen von acht wirbelnden Anomalien im Tiefenraum, die mit Schiffsscannern innerhalb eines bestimmten Radius nachweisbar waren. Zunächst als stellare Phänomene angenommen, erwiesen sich diese unkontrollierten Signalquellen später als schneller als Licht unterwegs."
+  „Professor Alba Tesreau rief weiterhin zur Wiedereinsetzung von Aegis auf und veranstaltete im Oktober ein Symposium, um ihre Pläne vorzustellen. Dieses wurde von einer Frau namens Seo Jin-ae gestürmt, die zuvor als Subjekt D-2 in den berüchtigten Projekt-Seraph-Experimenten von Azimuth gedient hatte. Ihre neuronale Verbindung zu einem Thargoid-Schiff ermöglichte einen gewissen Einblick in das Verhalten der Aliens. Mit Tesreaus Hilfe behauptete sie später, die unkontrollierten Signalquellen seien thargoidischen Ursprungs und als Reaktion auf die Ereignisse in HIP 22460 herbeigerufen worden."
+  „Der Fern-Gott-Kult war über den jüngsten Sieg der Thargoids hocherfreut, doch seine radikale Sekte der Wahren Kapitel wurde beschuldigt, klassifiziertes Material aus HIP 22460 weitergegeben zu haben, darunter das ‚Thargoid-Brüllen'. Die Föderation verbot die Religion und zwang die Megaschiffe der Wahren Kapitel zur Flucht."
+  „Im November wurde bestätigt, dass sich alle acht unkontrollierten Signalquellen den Kernsystemen näherten. Kongressabgeordneter Dalton Chase sorgte dafür, dass die Xeno-Friedensbewegung das Megaschiff Kingfisher ausrüstete, das entsandt wurde, um eines der sogenannten ‚Stargoids' zu treffen und zu kontaktieren. Es wurde rasch zerstört — ein düsteres Vorspiel für das folgende Blutvergießen."
+  „Taranis, die erste der Anomalien, traf am 29. November im Hyades-Sektor FB-N b7-6 ein und manifestierte sich als riesige Gaswolke. Dieser Maelstrom entfesselte sofort große Zahlen von Thargoid-Schiffen in benachbarte Systeme, die erbarmungslos alle orbitalen und planetaren Siedlungen angriffen."
+  „Die übrigen sieben Maelstroms trafen im Dezember ein und befähigten die Thargoids, Systeme zu erobern. Die Militärs der Supermächte, Anti-Xeno-Staffeln und unabhängige Piloten eilten zur Verteidigung, waren aber für einen Ansturm dieses Ausmaßes eindeutig unvorbereitet."
+  „Ende 3308 wüteten Thargoid-Truppen in den Kernsystemen, forderten Millionen Todesopfer und vertrieben Millionen weitere aus ihren Heimen. Die katastrophalen Ereignisse des vergangenen Jahres haben einen frostigen Schatten auf die Zukunft geworfen, mit nur einer Gewissheit: 3309 wird vom Zweiten Thargoid-Krieg bestimmt werden."
 ---
 
 

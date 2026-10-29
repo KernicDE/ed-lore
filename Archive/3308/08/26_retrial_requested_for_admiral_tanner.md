@@ -1,13 +1,18 @@
 ---
 uuid: 213d7d9f-60b3-5c23-9485-64cef59fff16
 title: Retrial Requested for Admiral Tanner
+title_de: 'Neuaufnahme des Verfahrens gegen Admiral Tanner gefordert'
 slug: retrial_requested_for_admiral_tanner
 date: '3308-08-26'
 source: API
 summary: The Federal Attorney's Office calls for Admiral Aden Tanner's conviction
   to be reviewed in light of HIP 22460, where events validated his accusation that
   Salvation deliberately attracted Thargoids to test his superweapon.
+summary_de: Die Föderale Anwaltschaft fordert angesichts von HIP 22460 eine Überprüfung
+  des Urteils gegen Admiral Aden Tanner. Die Ereignisse bestätigten seine Anschuldigung,
+  dass Salvation die Thargoids absichtlich anlockte, um seine Superwaffe zu testen.
 player_impact: Not specifically mentioned — this is a legal report.
+player_impact_de: Keine
 persons:
 - Aden Tanner
 - Tayo Maikori
@@ -29,11 +34,23 @@ modern_impact: Tanner's posthumous vindication exposed the injustice of his cour
   martial, demonstrating how the military establishment had punished the one officer
   who correctly identified Salvation's provocation tactics while rewarding those who
   supported Azimuth.
+modern_impact_de: Tanners posthume Rehabilitierung legte das Unrecht seines Kriegsgerichtsverfahrens
+  offen und zeigte, wie das militärische Establishment den einen Offizier bestrafte, der
+  Salvations Provokationstaktik richtig erkannte, während jene belohnt wurden, die Azimuth
+  unterstützten.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 70a0500f-c445-5bc3-b002-a154f8dd54ad
 - 95ae8cda-f860-5bc3-8d07-81ef6842e829
+body_de: |
+  Die Föderale Anwaltschaft hat angesichts der Ereignisse in HIP 22460 eine Überprüfung des Urteils gegen den ehemaligen Admiral Aden Tanner gefordert.
+  Nach einer herausragenden Laufbahn in der Föderalen Marine diente Tanner als oberster militärischer Verbindungsoffizier von Aegis. Im November 3307 versuchte er, als Kommandant des Aegis-Verteidigungs-Megaschiffs Musashi, die Kontrolle über den Sternenhafen Hind Mine zu übernehmen. Er glaubte, dort Beweise zu finden, dass Salvation die Thargoids absichtlich in das Cornsar-System lockte, um seine Superwaffe zu testen.
+  Tanners Angriff schlug fehl, und die Musashi wurde überwältigt, vor allem aufgrund der überlegenen Anzahl unabhängiger Piloten, die die ehemalige Taurus Mining Ventures – heute Azimuth Biotech – unterstützten. Er wurde vor ein Kriegsgericht gestellt, ehrenvoll entlassen sowie der Meuterei und rechtswidriger militärischer Handlung für schuldig befunden. Seine Verurteilung wurde jedoch auf Bitten von Flottenadmiral Tayo Maikori vertagt, der Tanners Informationen als entscheidend für seine eigenen Ermittlungen gegen Salvation erachtete.
+  Die Federal Times veröffentlichte diese Erklärung der leitenden Anwältin Fiona Logan:
+  „Es ist nun erwiesen, dass die auf Guardian-Technologie beruhende Natur der Proteus-Welle dazu bestimmt war, die Thargoid-Flotte nach HIP 22460 zu locken. Eine Komponentenanalyse von Ram Tah hat bestätigt, dass ihre früheren Superwaffen fast mit Sicherheit ebenfalls dafür konzipiert wurden."
+  „Dies erhärtet Tanners Behauptung, dass Salvation thargoidische Einbrüche in bewohnte Systeme absichtlich provoziert hat. Darüber hinaus behauptete Salvation ursprünglich, sein Anti-Xeno-Detektionsnetz habe ihn vor dem Annähern der Außerirdischen gewarnt, doch es gibt keine Beweise dafür, dass dieses Netz existiert."
+  Das Kriegsgericht der Föderalen Marine bestätigte den Eingang eines formellen Antrags auf gerichtliche Überprüfung. Ein Sonderausschuss wurde einberufen, um Tanners Fall neu zu bewerten.
 ---
 
 

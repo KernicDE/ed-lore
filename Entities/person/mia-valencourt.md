@@ -8,6 +8,19 @@ mention_count: 4
 bio: 'An Aegis scientist who worked at Aegis Core in the Socho system, Dr Mia
   Valencourt became a key witness to one of the most brazen criminal takeovers of
   a research facility.'
+bio_de: |-
+  Dr. Mia Valencourt ist eine Aegis-Wissenschaftlerin, die an Aegis Core im System
+  Socho stationiert war, als die Einrichtung im Mai 3304 von der kriminellen Fraktion
+  Socho Gold Raiders übernommen wurde. Ein Kurier, der ihre dringende Botschaft
+  transportierte, konnte dem System entkommen, und ihr Hilferuf wurde vom
+  Nachrichtendienst Rewired aufgegriffen und in der gesamten Galaxis weitergegeben.
+
+  In ihrer Botschaft enthüllte Valencourt, wie die Raiders ein gefälschtes
+  Thargoid-Signal eingesetzt hatten, um Sicherheitskräfte in einen Hinterhalt zu locken,
+  was den Verbrechern erlaubte, die Kontrolle über das System zu übernehmen und
+  lebenswichtige Anti-Xeno-Forschung zu stoppen. Ihre Aussagen legten sowohl die
+  Verwundbarkeit kritischer Verteidigungsinfrastruktur als auch die rücksichtslosen
+  Taktiken organisierter krimineller Gruppen während des Thargoid-Konflikts offen.
 ---
 
 

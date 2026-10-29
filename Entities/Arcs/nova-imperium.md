@@ -15,6 +15,9 @@ key_entities:
 description: A violent isolationist movement within the Empire that rejected cooperation
   with other superpowers and sought to install Hadrian Duval as Emperor, culminating
   in open military conflict and a brutal Senate purge.
+description_de: Eine gewalttätige isolationistische Bewegung im Imperium, die die Zusammenarbeit
+  mit anderen Supermächten ablehnte und Hadrian Duval als Kaiser ins Amt bringen wollte,
+  die in einen offenen militärischen Konflikt und eine brutale Säuberung des Senats gipfelte.
 phases:
 - 'Phase 1: The Manifesto (3304-12-18)'
 - 'Phase 2: The Battle of Paresa (3305-01-17)'
@@ -22,10 +25,17 @@ phases:
 summary: The Nova Imperium uprising—an isolationist faction that challenged Emperor
   Arissa Lavigny-Duval's authority, demanded Hadrian Duval's ascension, and was crushed
   through military defeat followed by mass executions in the Imperial Senate.
+summary_de: Der Aufstand der Nova Imperium, eine isolationistische Fraktion, die die Autorität
+  von Kaiserin Arissa Lavigny-Duval in Frage stellte und Hadrian Duvals Thronbesteigung forderte,
+  wurde durch eine militärische Niederlage und anschließende Massenexekutionen im Imperiumssenat
+  niedergeschlagen.
 status: Resolved
 outcome: Nova Imperium was militarily defeated at Paresa. Imperator Mordanticus was
   executed on the Senate floor by Senator Patreus. Hadrian Duval survived but was
   politically sidelined until later rehabilitated.
+outcome_de: Die Nova Imperium wurde bei Paresa militärisch besiegt. Imperator Mordanticus
+  wurde auf dem Senatsboden von Senator Patreus exekutiert. Hadrian Duval überlebte, wurde
+  jedoch politisch kaltgestellt und erst später rehabilitiert.
 significance: high
 ---
 

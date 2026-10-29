@@ -7,6 +7,8 @@ last_seen_date: '3308-09-08'
 mention_count: 2
 bio: 'Maxim Lagunov is a prominent figure in the Elite Dangerous universe, active
   from 3308-08-04 to 3308-09-08. Closely associated with Azimuth Biotech. '
+bio_de: Maxim Lagunov ist eine bedeutende Figur im Elite-Dangerous-Universum, aktiv
+  von 3308-08-04 bis 3308-09-08. Eng verbunden mit Azimuth Biotech.
 ---
 
 

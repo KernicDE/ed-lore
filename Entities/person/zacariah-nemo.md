@@ -8,6 +8,8 @@ mention_count: 4
 bio: Zacariah Nemo is an engineer who specialises in kinetic weapon modifications. In
   December 3308, he collaborated with Liz Ryder to reveal designs for enhanced anti-xeno
   weaponry, improving the efficiency of AX ammunition delivery systems.
+bio_de: |-
+  Zacariah Nemo ist ein Ingenieur, der auf Modifikationen kinetischer Waffen spezialisiert ist, bekannt für seine exzentrische Persönlichkeit und technische Brillanz. Im Dezember 3308 arbeitete er mit der Kollegin Liz Ryder zusammen, um verbesserte Anti-Xeno-Waffenkonstruktionen zu enthüllen, die sie als privates Projekt entwickelt hatten. Ziel der Zusammenarbeit war die Verbesserung der Effizienz bei der Abgabe der Verbindung, die die Spitzen von AX-Munition ummantelt – ein Stoff, der für Thargoid-Schiffe gefährlich ist. Nemo und Ryder hatten über ein Jahr an den Entwürfen gearbeitet und sie als Herzensprojekt betrachtet, um „nach einer langen Arbeitswoche abzuschalten". Die Invasion menschlichen Raums durch Thargoid-Truppen machte die Aufrüstung dringend notwendig, woraufhin die Ingenieure unabhängige Piloten um Hilfe baten, Prototypen fertigzustellen und die Produktion aufzubauen.
 ---
 
 

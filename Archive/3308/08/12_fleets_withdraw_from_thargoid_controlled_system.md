@@ -1,6 +1,7 @@
 ---
 uuid: 7cc33ea4-c770-5e4b-8a0e-bd75d0d19c24
 title: Fleets Withdraw from Thargoid-Controlled System
+title_de: Flotten ziehen sich aus thargoidkontrolliertem System zurück
 slug: fleets_withdraw_from_thargoid_controlled_system
 date: '3308-08-12'
 source: API
@@ -8,8 +9,14 @@ summary: The superpowers confirm full retreat from HIP 22460 as Thargoids establ
   a stronghold, with Fleet Admiral Maikori admitting search and rescue windows are
   closing and Senator Patreus acknowledging the aliens have secured human-occupied
   space.
+summary_de: Die Supermächte bestätigen den vollständigen Rückzug aus HIP 22460,
+  während die Thargoids einen Stützpunkt errichten. Flottenadmiral Maikori gibt zu,
+  dass die Zeitfenster für Such- und Rettungseinsätze schließen, und Senator Patreus
+  erkennt an, dass die Außerirdischen den menschlich besiedelten Raum gesichert haben.
 player_impact: Federal search and rescue teams attempted to locate survivors in HIP
   22460 before the window of opportunity closed.
+player_impact_de: Föderale Such- und Rettungsteams versuchten, Überlebende in HIP
+  22460 zu lokalisieren, bevor das Zeitfenster geschlossen war.
 persons:
 - Alba Tesreau
 - Denton Patreus
@@ -32,6 +39,10 @@ arc_id: salvation-azimuth
 modern_impact: The superpowers' admission of defeat in HIP 22460 shattered the illusion
   of collective military competence, forcing each power to retreat and regroup while
   planetary security forces across the core systems braced for mass invasion.
+modern_impact_de: Das Eingeständnis der Niederlage der Supermächte in HIP 22460 zerstörte
+  den Anschein kollektiver militärischer Kompetenz, zwang jede Macht zum Rückzug und zur
+  Neuformierung, während sich planetare Sicherheitskräfte in den Kernsystemen auf eine
+  Masseninvasion vorbereiteten.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -40,6 +51,14 @@ related_uuids:
 - bb0a8874-54a5-529d-91a6-691c8859ac57
 - 1678fa94-d3b9-5a9e-b13e-15335a42269e
 - ac92b027-9c2d-582d-af18-eac48e474be8
+body_de: |
+  Die Allianz, das Imperium und die Föderation haben bestätigt, dass die Reste ihrer Anti-Xeno-Taskforces das System HIP 22460 vollständig geräumt haben.
+  Flottenadmiral Tayo Maikori erklärte: „Die Thargoids sind nun stark verschanzt in HIP 22460. Föderale Such- und Rettungsteams versuchen, Überlebende zu lokalisieren, aber unser Zeitfenster schließt sich, während die feindlichen Kräfte zunehmen."
+  Eine ähnliche Erklärung kam von Senator Denton Patreus, der einräumte: „Den Außerirdischen ist es gelungen, einen Stützpunkt im menschlich besiedelten Raum zu errichten." Die Imperiale Flotte wurde angewiesen, die Evakuierung der eigenen Schiffe und Besatzungen vorrangig zu behandeln.
+  Die Versammlung der Allianz und der Rat der Admiräle führten Notgespräche mit Vertretern der Sirius Corporation. Erste Anzeichen deuten auf eine Umstrukturierung der Anti-Xeno-Operationen hin.
+  In den Kernsystemen herrschen große öffentliche Befürchtungen vor einer massiven Thargoid-Invasion. Planetare Sicherheitskräfte sind in Alarmbereitschaft, und jede raumfahrende Militärmacht bereitet sich auf die Möglichkeit von Gefechten mit Thargoid-Schiffen vor. Viele Persönlichkeiten des öffentlichen Lebens äußerten ihre Sorgen, darunter Aegis ehemalige Forschungsleiterin Professor Alba Tesreau:
+  „Ich bin zutiefst entsetzt über die Ereignisse in HIP 22460. Viele von uns fürchteten, dass Azimuths Experimente zur Katastrophe führen würden, doch der weit verbreitete Verlust an Menschenleben ist immer noch ein erschütternder Schock. Salvation hat die Anpassungsfähigkeit der Thargoids gravierend unterschätzt, ein Versagen, das in seiner Wahrnehmung der Thargoids als rein reaktive Wesen wurzelte."
+  „Diese Tragödie wird durch die zersplitterten Reaktionen der Supermächte verschärft, die zögern, weiterhin Informationen mit externen Organisationen zu teilen. Ohne eine dedizierte Forschungsanstrengung können wir die in HIP 22460 eingesetzte Thargoid-Technologie nicht analysieren oder eine geeignete Verteidigung entwickeln."
 ---
 
 

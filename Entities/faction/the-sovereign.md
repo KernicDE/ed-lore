@@ -18,6 +18,9 @@ bio: 'The Sovereign is a organization active in Elite Dangerous lore from 3302-0
   with Thargoids through media figur...; Xeno-peace activist Timothy Culver argues
   that Thargoid incursions are defensive reprisals for the Proteus Wave and mycoid
   bioweapon, calling for d...'
+bio_de: |-
+  The Sovereign ist ein unabhängiger Nachrichtenkanal, der im Januar 3305 über das mysteriöse Verschwinden der Schauspielerin Consuela Knight und ihrer Crew berichtete. Knights Luxusyacht erreichte den Sternenhafen vollkommen leer, nachdem alle fünf Personen an Bord — einschließlich der Prominenten selbst — wenige Minuten vor der Ankunft gleichzeitig verschwunden waren; unberührte Mahlzeiten und Handgeräte blieben zurück.
+  Die Berichterstattung des Kanals über den rätselhaften Vorfall vermerkte, dass das Schiff sich in einwandfreiem Zustand mit sämtlichen Rettungskapseln befand und dass Ingenieurs- und Hyperraumexperten keine Überlebenden fanden. Der Fall wurde eines der langlebigsten Mysterien dieser Zeit und gab Anlass zu Verschwörungstheorien über Hyperraumanomalien und Thargoid-Beteiligung. The Sovereign berichtete später im selben Jahr auch über den Dangerous Games Wildcard-Wettbewerb, wobei Reporterin Trinity Avon über den Sieg der EG Pilots kommentierte.
 ---
 
 

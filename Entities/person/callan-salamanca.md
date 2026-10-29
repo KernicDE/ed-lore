@@ -8,6 +8,8 @@ mention_count: 4
 bio: Callan Salamanca is a pirate in the Elite Dangerous universe, active from 3308-04-26
   to 3308-05-19. Closely associated with Kumo Crew. Archon Delaine appoints Callan
   Salamanca as a new arch-corsair on the Kumo Council.
+bio_de: |-
+  Callan Salamanca ist ein hochrangiges Mitglied des Kumo-Crew-Syndikats und saß unter Archon Delaine im Kumo-Rat. 3308 war er an den Operationen des Syndikats gegen die Trask Death Corsairs während des gescheiterten Putsches unter Führung von Vidar Trask beteiligt. Salamancas Loyalität gegenüber Delaine und seine Rolle in den Aktivitäten des Rates veranschaulichen die eng verbundene Machtstruktur, die die Vormachtstellung des Kumo Crew im piratenkontrollierten Raum aufrechterhält.
 ---
 
 

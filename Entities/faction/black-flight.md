@@ -13,6 +13,7 @@ related_entities:
 - fort-asch
 bio: 'Black Flight is a organization in the Elite Dangerous universe, active from
   3308-07-27 to 3308-07-27. Frequently linked with Overlook, HIP 22460, Alliance. '
+bio_de: Black Flight ist eine Organisation im Elite-Dangerous-Universum, die am 3308-07-27 aktiv war. Häufig in Verbindung mit Overlook, HIP 22460 und der Allianz.
 ---
 
 

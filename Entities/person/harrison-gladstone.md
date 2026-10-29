@@ -8,6 +8,10 @@ mention_count: 3
 bio: 'Harrison Gladstone is a pirate in the Elite Dangerous universe, active from
   3308-10-27 to 3309-02-02. Closely associated with Alliance, Kumo Crew, Turner Research
   Group. '
+bio_de: |-
+  Harrison Gladstone ist ein Pirat im Elite-Dangerous-Universum, aktiv von
+  3308-10-27 bis 3309-02-02. Eng verbunden mit der Allianz, der Kumo Crew und der
+  Turner Research Group.
 ---
 
 

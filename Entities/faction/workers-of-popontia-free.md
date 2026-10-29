@@ -14,6 +14,8 @@ related_entities:
 bio: 'Workers of Popontia Free is a organization in the Elite Dangerous universe,
   active from 3308-09-29 to 3308-09-29. Frequently linked with Ryman Market, Popontia,
   Federal Navy. '
+bio_de: Workers of Popontia Free ist eine Organisation im Elite-Dangerous-Universum,
+  die am 3308-09-29 aktiv war. Eng verbunden mit Ryman Market, Popontia, Federal Navy.
 ---
 
 

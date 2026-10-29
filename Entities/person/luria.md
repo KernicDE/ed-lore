@@ -7,6 +7,8 @@ last_seen_date: '3308-11-21'
 mention_count: 1
 bio: 'Luria is a prominent figure in the Elite Dangerous universe, active from 3308-11-21
   to 3308-11-21. '
+bio_de: Luria ist eine bedeutende Figur im Elite-Dangerous-Universum, aktiv von 3308-11-21
+  bis 3308-11-21.
 ---
 
 

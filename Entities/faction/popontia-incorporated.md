@@ -14,6 +14,8 @@ related_entities:
 bio: 'Popontia Incorporated is a corporate in the Elite Dangerous universe, active
   from 3308-09-29 to 3308-09-29. Frequently linked with Ryman Market, Popontia, Federal
   Navy. '
+bio_de: Popontia Incorporated ist ein Konzern im Elite-Dangerous-Universum, aktiv am
+  29.09.3308. Häufig in Verbindung mit Ryman Market, Popontia und der Federal Navy.
 ---
 
 

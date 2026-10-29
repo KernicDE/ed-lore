@@ -1,15 +1,22 @@
 ---
 uuid: 38fb5be2-6a83-50df-95d5-b61bec0d0b64
 title: Thargoids Turn Attention to Inhabited Systems
+title_de: 'Thargoiden richten Aufmerksamkeit auf bewohnte Systeme'
 slug: thargoids_turn_attention_to_inhabited_systems
 date: '3308-09-12'
 source: API
 summary: Thargoid vessels invade the inhabited systems 42 n Persei, Chun Pindit and
   Tekkeitjal in a coordinated attack, the first such incursion since the Proteus Wave
   incident, threatening over seven million people.
+summary_de: Thargoid-Schiffe fallen in einem koordinierten Angriff die bewohnten Systeme
+  42 n Persei, Chun Pindit und Tekkeitjal an, der erste derartige Einfall seit dem
+  Proteus-Wave-Vorfall, wodurch über sieben Millionen Menschen bedroht werden.
 player_impact: Pilots were asked to defend the three systems and could hand in Thargoid
   combat bonds at Bennington's Rest, Samuda Terminal and Riemann Colony for increased
   rewards.
+player_impact_de: Piloten wurden gebeten, die drei Systeme zu verteidigen, und konnten
+  Thargoid-Kampfprämien bei Bennington's Rest, Samuda Terminal und Riemann Colony für
+  erhöhte Belohnungen abgeben.
 persons:
 - Ernesto Rios
 groups:
@@ -32,6 +39,9 @@ arc_id: thargoid-contact
 modern_impact: The invasion of inhabited systems without direct starport attacks signals
   a tactical evolution in Thargoid strategy, expanding the war beyond HIP 22460 into
   populated territories.
+modern_impact_de: Die Invasion bewohnter Systeme ohne direkte Angriffe auf Sternenhäfen
+  deutet auf eine taktische Weiterentwicklung der Thargoid-Strategie hin und weitet den
+  Krieg über HIP 22460 hinaus auf bevölkerte Gebiete aus.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -43,6 +53,15 @@ related_uuids:
 - c7f92e1d-2f9c-599a-82e3-8426fe6ddf21
 - 90f47201-f1b3-537a-8c1f-fc6e092fa724
 - de7b4f38-c24a-586a-9b4c-3c43dff0681a
+body_de: |
+  **ALARM der Pilotenföderation**
+  Schwärme von Thargoid-Schiffen sind in den Systemen 42 n Persei, Chun Pindit und Tekkeitjal in einem offenbar koordinierten Angriff eingefallen.
+  Vox Galactica veröffentlichte diesen Bericht des Feldkorrespondenten Ernesto Rios:
+  „Seit die Thargoiden HIP 22460 vor einem Monat erobert haben, hat sich ihre Präsenz allmählich in alle Richtungen ausgedehnt. Aber dies sind die ersten bewohnten Systeme, die seit dem Proteus-Wave-Vorfall angegriffen wurden, wodurch eine Gesamtbevölkerung von über sieben Millionen Menschen bedroht ist."
+  „Die regierenden Fraktionen dieser Systeme – Sirius Inc, SI Terraforming beziehungsweise die Tekkeitjal Public Corporation – sollen Verteidigungsoperationen gegen die Thargoiden durchführen. Keine von ihnen ist einer Supermacht angegliedert und hat daher keine offizielle Marine, die diese Bemühungen unterstützen könnte."
+  „Bislang wurden keine der Sternenhäfen in 42 n Persei, Chun Pindit oder Tekkeitjal direkt angegriffen. Die Zivilbevölkerung wurde angewiesen, ruhig zu bleiben, doch viele evakuieren aus Furcht, die Stationen könnten durch ätzende Bombardierung mit Enzymen getroffen werden."
+  „Dies ist ein bemerkenswerter Unterschied zu früheren Thargoid-Einfällen und veranlasst einige Militärs, über die neuen strategischen Ziele der Außerirdischen zu spekulieren."
+  Die Verteidigungsoperationen werden von den Sternenhäfen Bennington's Rest, Samuda Terminal und Riemann Colony koordiniert. Thargoid-Kampfprämien können an diesen Orten für erhöhte Credit-Belohnungen abgegeben werden.
 ---
 
 

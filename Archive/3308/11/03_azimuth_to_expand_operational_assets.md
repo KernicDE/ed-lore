@@ -1,13 +1,18 @@
 ---
 uuid: bd5a1074-4db4-556d-bd6d-4207d963ce10
 title: Azimuth to Expand Operational Assets
+title_de: 'Azimuth will operative Ressourcen erweitern'
 slug: azimuth_to_expand_operational_assets
 date: '3308-11-03'
 source: API
 summary: Azimuth Biotech has announced a campaign in the Wandrama system to expand
   its military and surface facility capacity.
+summary_de: Azimuth Biotech hat eine Kampagne im Wandrama-System angekündigt, um seine
+  militärische Kapazität und seine Bodeneinrichtungen zu erweitern.
 player_impact: Independent pilots were asked to both deliver commodities and engage
   hostile forces.
+player_impact_de: Unabhängige Piloten wurden gebeten, sowohl Waren zu liefern als auch
+  feindliche Kräfte zu bekämpfen.
 persons:
 - Torben Rademaker
 groups:
@@ -30,6 +35,8 @@ arc_id: salvation-azimuth
 modern_impact: '"After a period of reflection, it is time for Azimuth to once again
   step forward and assume a position of support for ..." Azimuth''s legacy of ethically
   compromised research remains a cautionary tale in xenological studies.'
+modern_impact_de: Azimuths Vermächtnis ethisch fragwürdiger Forschung bleibt eine Warnung
+  in der Xenologieforschung.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -39,6 +46,15 @@ related_uuids:
 - cbe79040-1b75-50b1-9aad-bc544ff2b6be
 - eb62c669-b525-5753-b3cb-faf6452a8088
 - f7438e0e-89eb-5e2d-b974-7147bf67d4b1
+body_de: |
+  Azimuth Biotech hat eine Kampagne im Wandrama-System angekündigt, um seine militärische Kapazität und seine Bodeneinrichtungen zu erweitern.
+  Der umstrittene Waffenentwickler hat zuletzt einen Rückgang seiner Geschicke erlebt, ausgelöst durch heftigen Widerstand unabhängiger Piloten, die gegen Azimuths Geschichte illegaler Forschung protestieren. Auch das Versagen von Salvation, den Krieg zu beenden, hat die öffentliche Stimmung gegen den Konzern verbittert.
+  Azimuth-Biotech-CEO Torben Rademaker kündigte die Initiative an:
+  „Nach einer Zeit der Besinnung ist es an der Zeit, dass Azimuth erneut hervortritt und den tapferen Piloten unterstützt, die Thargoid-Kräfte bekämpfen, wo immer sie ihnen begegnen. Dazu errichten wir ein neues Megaschiff, das für den Einsatz in thargoidverseuchten Systemen ausgerüstet ist. Der tragische Verlust der Bright Sentinel und der Heart of Taurus in HIP 22460 darf unseren Ehrgeiz nicht länger hindern.“
+  „Wir beabsichtigen außerdem, mehrere Bodenaußenposten zu betreiben, um unsere Forschungsprojekte zu unterstützen. Wir wollen der Militäroptionen der Menschheit wieder einen Beitrag leisten und dabei darauf achten, die Fehler unseres früheren Galionsfigur nicht zu wiederholen.“
+  Piloten, die zu Azimuths Kampagne beitragen, die an Bord der Musashi im Wandrama-System beheimatet ist, erhalten die Mbooni-Freigabe und Zugang zu dem Anti-Xeno-Waffenarsenal des Unternehmens. Rademaker hat versprochen, dass eine erfolgreiche Kampagne der Glorious Prospect ermöglichen wird, die Mbooni-Freigabe dauerhaft vom System T Tauri aus anzubieten.
+  Innerhalb weniger Stunden nach der Ankündigung hatten Gegner von Azimuth Biotech eine Gegenkampagne organisiert, um Lieferungen am Erreichen von Wandrama zu hindern. Kämpfe zwischen Azimuth-Sicherheitskräften und Anti-Azimuth-Aktivisten wurden im System gemeldet. Es wird vermutet, dass die Versuche, die Kampagne zu torpedieren, vom Wandrama Purple Council aus MacLean City gesteuert werden.
+  Um Kampfpiloten für ihre jeweiligen Sache zu gewinnen, bieten beide Fraktionen Modulbelohnungen an. Azimuth Biotech bietet seinen überhitzten Guardian-Plasmalader an, während der Wandrama Purple Council eine Schnellfeuer-Multikanone mit Phasensequenz verspricht.
 ---
 
 

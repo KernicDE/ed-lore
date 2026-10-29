@@ -14,6 +14,9 @@ related_entities:
 bio: 'LURP Ship Systems is a organization in the Elite Dangerous universe, active
   from 3308-09-30 to 3308-09-30. Frequently linked with Pilots Federation, Universal
   Cartographics, Auger Vision. '
+bio_de: LURP Ship Systems ist eine Organisation im Elite-Dangerous-Universum, die
+  von 3308-09-30 bis 3308-09-30 aktiv war. Häufig in Verbindung mit der Pilots Federation,
+  Universal Cartographics und Auger Vision.
 ---
 
 

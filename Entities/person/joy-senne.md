@@ -11,6 +11,10 @@ bio: 'Joy Senne is a Diplomat in Elite Dangerous lore, active from 3308-07-13 to
   nears completion.; A grassroots xeno-peace movement gains traction following the
   Battle of HIP 22460, promoting diplomatic dialogue with Thargoids through media
   figur...'
+bio_de: |-
+  Joy Senne ist eine ICE-Casterin und Community-Liaison des Thargoid Advocacy Project, einer Xeno-Friedensbewegung, die für diplomatische Beziehungen zu den Thargoids eintrat. Ende 3308 distanzierte sie sich von radikalen antiautoritären Protesten, die den Anführern der Supermächte die Schuld am Thargoid-Krieg gaben, und stellte fest, dass viele frühere Mitglieder der Xeno-Friedensbewegung ihre Grundsätze aufgegeben hatten.
+
+  Sennes ICE-Cast bot eine Plattform für Debatten über die Thargoid-Politik, darunter Interviews mit Bernadette Wells vom Thargoid Advocacy Project, die Behauptungen zurückwies, die sich nähernden Signalsender seien feindselig. Sennes abgewogenes Auftreten stand im Gegensatz zu militanteren Aktivisten wie Heimar Borichev, und ihr Rückzug aus dem radikalen Flügel zeigte den Bruch innerhalb der Xeno-Friedensbewegung, als die Maelstroms diplomatische Lösungen zunehmend aussichtslos erscheinen ließen.
 ---
 
 

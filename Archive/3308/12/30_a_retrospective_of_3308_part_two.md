@@ -1,13 +1,17 @@
 ---
 uuid: 005ebf22-d1c0-50cd-ae57-373efc6bdcde
 title: A Retrospective of 3308 (Part Two)
+title_de: Ein Rückblick auf 3308 (Teil zwei)
 slug: a_retrospective_of_3308_part_two
 date: '3308-12-30'
 source: API
 summary: Sima Kalhana continues her review of the most significant historical events
   that occurred during the past year.
+summary_de: Sima Kalhana setzt ihre Betrachtung der bedeutendsten historischen Ereignisse
+  des vergangenen Jahres fort.
 player_impact: Independent pilots were tasked with delivering commodities to support
   the operation.
+player_impact_de: Unabhängige Piloten wurden beauftragt, Güter zu liefern, um die Operation zu unterstützen.
 persons:
 - Archon Delaine
 - Caleb Wycherley
@@ -37,6 +41,9 @@ arc_id: salvation-azimuth
 modern_impact: '"In May 3308, the Thargoid invasions of the Didio, Novas and Sosong
   systems were completely repelled by the use of Sal..." Looking back, the events
   of 3308 set the stage for the protracted conflict that followed.'
+modern_impact_de: „Im Mai 3308 wurden die Thargoid-Invasionen der Systeme Didio, Novas
+  und Sosong durch den Einsatz von Sal…" Rückblickend bereiteten die Ereignisse von 3308
+  den Boden für den langwierigen Konflikt, der folgte.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -47,6 +54,15 @@ related_uuids:
 - 68d67987-f586-5c3e-b52e-608926db50ba
 - bd5a1074-4db4-556d-bd6d-4207d963ce10
 - f7438e0e-89eb-5e2d-b974-7147bf67d4b1
+body_de: |
+  Sima Kalhana setzt ihre Betrachtung der bedeutendsten historischen Ereignisse des vergangenen Jahres fort.
+  „Im Mai 3308 wurden die Thargoid-Invasionen der Systeme Didio, Novas und Sosong durch den Einsatz von Salvations einzigartigen Superwaffen vollständig zurückgeschlagen. Das überzeugte die Allianz, das Imperium und die Föderation, Azimuth Biotech bei der Entwicklung dieser Wächter-Technologie zu unterstützen, wobei Salvation behauptete, er könne die Thargoid-Bedrohung für immer beenden."
+  „Ebenfalls in diesem Monat geriet das Syndikat der Kumo Crew in einen Bürgerkrieg, als Piraten-Rebellen versuchten, Archon Delaine abzusetzen. Letztlich triumphierten seine treuen Streitkräfte, und der Baggerschiff-Klan der Blue Viper Club floh vor seiner Vergeltung. Und in der Föderation verkündete der Billionärsunternehmer Zachary Rackham seine Kandidatur für die Präsidentschaftswahl 3309."
+  „Im Juni wurde das Generationenschiff Golconda vom Artificers Clan repariert und modernisiert. Das gab der Mehrheit seiner ursprünglichen Bewohner, die von Erdkolonisten abstammen, die Möglichkeit, ihren Lebensstil im All wiederaufzunehmen."
+  „Die Nachrichten wurden in dieser Zeit von Salvation dominiert, besonders als er Taurus Mining Ventures in Azimuth Biotech umbenannte. Der Wissenschaftler, einst unter dem Namen Dr. Caleb Wycherley bekannt, gab zu, dass sich das Unternehmen aus der berüchtigten Azimuth Biochemicals entwickelt hatte. Doch alliierte, föderale und imperiale Führer entschieden, das zu ignorieren, da sie ihre Anti-Xeno-Strategie auf Salvations Superwaffen-Technologie ausgerichtet hatten."
+  „HIP 22460 war das System, das für den Bau der Proteus-Welle gewählt wurde. Diese verband Wächter-Technologie mit einer thargoidischen Bodensiedlung und war darauf ausgelegt, die Thargoids absichtlich anzulocken, bevor sie ausgelöscht wurden. Während Juli und August verteidigten aufgerüstete Großkampfschiffe zusammen mit unabhängigen Piloten Azimuth Biotechs Operation vor Schwärmen von Thargoid-Schiffen."
+  „Nach Wochen intensiver Kämpfe und der Lieferung lebensnotwendiger Vorräte wurde die Proteus-Welle am 9. August aktiviert. Zunächst schien sie erfolgreich und brachte die Thargoids zur Machtlosigkeit, doch ein unerwarteter zweiter Energieimpuls vom Planetenstandort hatte dieselbe Wirkung auf alle menschlichen Schiffe. Das resultierende Massaker endete damit, dass die Thargoids die Kontrolle über das System HIP 22460 übernahmen und dort eine dauerhafte Präsenz errichteten."
+  „Salvation war tot. Azimuth Biotechs Pläne waren gescheitert. Die Supermächte befanden sich im Rückzug. Und es wuchsen Spekulationen über einen unheimlichen außerirdischen Schrei, der in HIP 22460 zu hören war und als ‚Thargoid-Brüllen' bezeichnet wurde."
 ---
 
 

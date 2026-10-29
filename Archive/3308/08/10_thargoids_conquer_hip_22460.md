@@ -1,14 +1,20 @@
 ---
 uuid: 5dac2429-cbe4-5b27-95da-d6d5fe91f4eb
 title: Thargoids Conquer HIP 22460
+title_de: Thargoids erobern HIP 22460
 slug: thargoids_conquer_hip_22460
 date: '3308-08-10'
 source: API
 summary: The Proteus Wave fails catastrophically as Thargoid forces overwhelm the
   coalition fleet in HIP 22460, destroying human ships after a second energy pulse
   renders them powerless.
+summary_de: Die Proteuswelle versagt katastrophal, als Thargoid-Streitkräfte die
+  Koalitionsflotte in HIP 22460 überwältigen und menschliche Schiffe zerstören, nachdem
+  ein zweiter Energieimpuls sie entmachtet hat.
 player_impact: Pilots in HIP 22460 found themselves without power following the second
   energy pulse and were rapidly targeted by hostile Thargoid vessels.
+player_impact_de: Piloten in HIP 22460 waren nach dem zweiten Energieimpuls ohne Energie
+  und wurden rasch von feindlichen Thargoid-Schiffen ins Visier genommen.
 persons:
 - Jade Sanderlyn
 - Salvation
@@ -27,11 +33,24 @@ arc_id: salvation-azimuth
 modern_impact: The fall of HIP 22460 shattered the myth of Salvation's invincibility,
   exposing the Proteus Wave as a fatally flawed weapon that had provoked a more devastating
   Thargoid counter-attack than anything seen before.
+modern_impact_de: Der Fall von HIP 22460 zerstörte den Mythos der Unbesiegbarkeit von
+  Salvation und entlarvte die Proteuswelle als fatal fehlerhafte Waffe, die einen
+  verheerenderen Thargoid-Gegenschlag provoziert hatte als alles bisher Dagewesene.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 33b86898-9d96-5e9f-9e8a-e369998c5f2b
 - c896dd55-b9b3-5552-9038-07a79049f0bb
+body_de: |
+  **ALARM der Pilotenföderation**
+  Das Versagen der Proteuswelle hat dazu geführt, dass Thargoid-Streitkräfte die Koalitionsflotte in HIP 22460 überwältigt haben.
+  Unabhängige und militärische Beobachter haben bestätigt, dass Salvation's Anti-Xeno-Superwaffe zwar wie geplant aktiviert wurde, jedoch nur eine vorübergehende Wirkung auf die Thargoids hatte. Kurz danach waren die menschlichen Schiffe im System nach einem zweiten unbekannten Energieimpuls ohne Energie und wurden rasch von feindlichen Thargoid-Schiffen ins Visier genommen.
+  Vox Galactica gab bekannt, dass die Reporterin Jade Sanderlyn ihre Rettungskapsel abstoßen konnte, bevor ihr treibendes Schiff zerstört wurde. Sie lieferte folgende Zusammenfassung:
+  „Es hat nicht funktioniert. Die Proteuswelle hat nicht funktioniert. Ich sah ihre Energien vom Planeten auswallen, ich spürte sie, wir alle taten es. Die Thargoids taumelten und erloschen, aber nur kurz. Dann geschah etwas anderes, ein Geräusch, das unsere Körper erschütterte, das durch unsere Schädel kreischte. Etwas Fremdartiges."
+  „Plötzlich fielen alle Systeme aus: Triebwerke, Kommunikation, alles. All die grellen Strahlen der Hauptkampfschiff-Geschütze verschwanden. Jedes menschliche Schiff in unserer Nähe starb ab und ließ uns hilflos durch den Raum treiben."
+  „Ich sah durch die Kanzel, wie die Thargoids überall schwärmten, mehr als ich je zuvor gesehen hatte. Die Bright Sentinel war ihr erstes Ziel, und sie entfesselten eine rasende Salve gegen sie. Niemand an Bord kann überlebt haben."
+  Die Supermächte haben angekündigt, dass HIP 22460 für den zivilen Verkehr gesperrt ist und nun als Thargoid-Territorium betrachtet werden soll. Die Alliance Defence Force, die Föderale Flotte und die Imperiale Flotte haben jeweils begonnen, offizielle Listen aller Militärschiffe zusammenzustellen, die in das System entsandt wurden und weiterhin vermisst werden.
+  Auch Azimuth Biotech veröffentlichte eine Erklärung, in der der Untergang der beiden Megaschiffe Bright Sentinel und Heart of Taurus bestätigt wurde; sämtliche Ingenieure des Proteuswelle-Projekts gelten als vermisst und werden für tot gehalten. Der Konzern hat keine Informationen zum Status von Salvation veröffentlicht.
 ---
 
 

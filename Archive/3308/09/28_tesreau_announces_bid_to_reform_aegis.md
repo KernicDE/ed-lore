@@ -1,13 +1,19 @@
 ---
 uuid: 5fe642bd-1c0d-530e-bad6-c4d4242b8bbb
 title: Tesreau Announces Bid to Reform Aegis
+title_de: Tesreau kündigt Vorhaben zur Reform von Aegis an
 slug: tesreau_announces_bid_to_reform_aegis
 date: '3308-09-28'
 source: API
 summary: Professor Alba Tesreau announces a media forum to propose reinstating Aegis
   as a reformed tri-superpower anti-xeno research agency, citing the ACT as a model
   for cross-superpower collaboration.
+summary_de: Professorin Alba Tesreau kündigt ein Medienforum an, um die Wiedereinsetzung
+  von Aegis als reformierte Anti-Xeno-Forschungsagentur der drei Supermächte
+  vorzuschlagen, und nennt die ACT als Vorbild für eine Zusammenarbeit über die
+  Supermächte hinweg.
 player_impact: Not specifically mentioned — this is a conference announcement.
+player_impact_de: Nicht explizit erwähnt — dies ist die Ankündigung einer Konferenz.
 persons:
 - Alba Tesreau
 - Angela Corcoran
@@ -30,6 +36,10 @@ arc_id: thargoid-contact
 modern_impact: Tesreau's bid to reform Aegis represents the first serious attempt
   to restore centralised xenological research since the agency's dismantling, though
   Imperial refusal signals deep political divisions.
+modern_impact_de: Tesreaus Vorhaben zur Reform von Aegis stellt den ersten ernsthaften
+  Versuch dar, die zentralisierte Xenologie-Forschung seit der Auflösung der Agentur
+  wiederherzustellen, wenngleich die kaiserliche Ablehnung tiefe politische Gräben
+  erkennen lässt.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -37,6 +47,13 @@ related_uuids:
 - 060f1f07-68f0-58fd-8607-4331bb789d9b
 - 4931d387-bad1-56c0-b74d-3fa457698ec1
 - 6e319ff8-5d7a-5b98-939a-6459624524f2
+body_de: |
+  Ein Medienforum wird vorbereitet, das offiziell die Wiedereinsetzung der Agentur gegen Xenolebewesen der drei Supermächte vorschlagen wird.
+  Die Veranstaltung wird von Professorin Alba Tesreau organisiert, ehemaliger Leiterin der Forschung bei Aegis. Sie richtete eine Erklärung an alle Nachrichtenkanäle:
+  „Während der Krieg gegen die Thargoids sich verschärft, ist die Notwendigkeit zentralisierter Xenologie-Forschung wichtiger denn je. Diese Pressekonferenz wird Plädoyers vorbringen, um die Führungen von Allianz, Imperium und Föderation davon zu überzeugen, ihre Entscheidung zur Auflösung von Aegis zu überdenken."
+  „Der Baumann-Bericht hat viele Schwächen von Aegis aufgezeigt, und wir beabsichtigen nicht, diese zu ignorieren. Verbesserungen in mehreren Abteilungen wären erforderlich. Aber die Affiliated Counter-Terrorism Unit erwies, dass eine Zusammenarbeit über die Supermächte hinweg effizient, flexibel und effektiv sein kann. Aegis könnte nach ähnlichem Vorbild umstrukturiert werden, um die Wiederholung seiner früheren Fehler zu verhindern."
+  Einladungen zur Konferenz wurden an wichtige politische Persönlichkeiten versandt. Die alliierte Vizepremierministerin Angela Corcoran hat ihre Teilnahme zugesagt. Die föderale Botschafterin Jasmina Halsey hat ihre Unterstützung angeboten, aber keine Mitglieder des Kongresses haben öffentlich geantwortet. Der kaiserliche Senat nahm Professorin Tesreau zur Kenntnis, erklärte jedoch formell, dass das Imperium derzeit kein Interesse an einer weiteren Zusammenarbeit mit den anderen Supermächten hat.
+  Das dreitägige Forum soll am Montag, dem 3. Oktober, in New Apollo City auf dem Planeten Biggs Colony beginnen.
 ---
 
 

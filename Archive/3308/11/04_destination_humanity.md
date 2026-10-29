@@ -1,13 +1,18 @@
 ---
 uuid: a70b7065-3c14-503b-b348-7130e57293d4
 title: 'Destination: Humanity'
+title_de: 'Ziel: Die Menschheit'
 slug: destination_humanity
 date: '3308-11-04'
 source: API
 summary: It has been confirmed that the mysterious anomalies known as rogue signal
   sources are all converging on the core systems.
+summary_de: Es wurde bestätigt, dass die als unkontrollierte Signalquellen bekannten
+  Anomalien alle auf die Kernsysteme zusteuern.
 player_impact: Independent pilots were encouraged to participate in the unfolding
   events.
+player_impact_de: Unabhängige Piloten wurden aufgefordert, sich an den laufenden Ereignissen
+  zu beteiligen.
 persons:
 - Ishmael Palin
 - Ram Tah
@@ -24,6 +29,9 @@ arc_id: null
 modern_impact: '"The first of these distant objects was detected on the 31st of August
   3308, but several more have since been identifi..." This perspective highlights
   the broader stakes and continues to shape contemporary debates.'
+modern_impact_de: „Diese Sichtweise unterstreicht die größeren Interessenlagen und prägt
+  die aktuellen Debatten bis heute.“ Die Erkenntnis, dass die Anomalien gezielt auf
+  die menschlichen Siedlungsräume zusteuern, wurde zum Wendepunkt der Thargoid-Krise.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -32,6 +40,15 @@ related_uuids:
 - 472a1cc3-cd2e-519e-a8f1-4e308a45c6e7
 - 005ebf22-d1c0-50cd-ae57-373efc6bdcde
 - f2680020-36ae-554f-ae92-3a367a9f1d23
+body_de: |
+  **ALARM der Pilotenföderation**
+  Es wurde bestätigt, dass die geheimnisvollen Anomalien, die als unkontrollierte Signalquellen bekannt sind, alle auf die Kernsysteme zusteuern.
+  Professor Yaro Kenyatta, ein renommierter Akademiker in astronomiefeldern, hat mit Professor Ishmael Palin und Ram Tah an der Analyse der unerklärlichen Objekte zusammengearbeitet. Er veröffentlichte eine Zusammenfassung ihrer Arbeit im Wissenschaftsjournal The Empirical:
+  „Das erste dieser fernen Objekte wurde am 31. August 3308 entdeckt, doch inzwischen wurden mehrere weitere identifiziert. Schnell zeigte sich, dass sie mit Überlichtgeschwindigkeit durch den interstellaren Raum reisen. Vollspektrum-Scanner (FSS) wurden aufgerüstet, damit mehr Piloten ihre elektromagnetischen Emissionen erfassen können.“
+  „Daten zu diesen Phänomenen wurden von vielen angesehenen Organisationen wie der Canonn Interstellar Research Group, der Orion-Universität und Universal Cartographics analysiert. Ihr Konsens lautet, dass die unkontrollierten Signalquellen alle auf die Kernsysteme zusteuern, in denen die große Mehrheit der menschlichen Bevölkerung lebt.“
+  „Wir können noch nicht mit absoluter Sicherheit sagen, wann und wo sie eintreffen werden. Doch es erscheint inzwischen unwahrscheinlich, dass es sich um natürlich entstandene Himmelskörper handelt. Daraus folgt, dass acht unterschiedliche Anomalien, die auf unsere kleine Region der Galaxie zusteuern, kein reiner Zufall sein können. Der menschliche Raum ist ihr Ziel.“
+  „Was wird geschehen, wenn sie eintreffen? Nach ihrer erstaunlichen Energieabstrahlung zu urteilen, könnten sie für bewohnte Systeme verheerend sein. Jedes Signal könnte ein Energiegeschoss oder ein Navigationsbake für eine unbekannte Macht sein. Phantasievollere Deutungen umfassen himmlische Wesen jenseits unseres Verständnisses oder interstellare Technologie, wie wir sie nie gesehen haben. Unser Ziel ist es, die wahrscheinlicheren Optionen bald einzugrenzen.“
+  „Sollten es sich hingegen um Hyperraumverzerrungen durch nichtmenschliche Schiffe handeln, ist es möglich, dass sie bei Annäherung abbremsen. Doch eine Schlussfolgerung lässt sich ziehen: Was immer sie sind, sie müssen wissen, dass wir hier sind.“
 ---
 
 

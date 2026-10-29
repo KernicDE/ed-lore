@@ -1,13 +1,18 @@
 ---
 uuid: 751f72f0-bd12-5009-92e8-97b94eb2066f
 title: The Salvation Stratagem
+title_de: Salvation's Strategem
 slug: the_salvation_stratagem
 date: '3308-07-07'
 source: API
 summary: Salvation reveals the Proteus Wave's strategy of using Guardian artefacts
   to lure Thargoids to HIP 22460 for annihilation.
+summary_de: Salvation enthüllt die Strategie der Proteus-Welle, mit Guardian-Artefakten
+  die Thargoids zur Vernichtung nach HIP 22460 zu locken.
 player_impact: Pilots were asked to protect the Bright Sentinel and aid transport
   of Guardian artefacts to the Proteus Wave site.
+player_impact_de: Piloten wurden gebeten, die Bright Sentinel zu schützen und den Transport
+  von Guardian-Artefakten zum Standort der Proteus-Welle zu unterstützen.
 persons: []
 groups:
 - Azimuth
@@ -22,6 +27,10 @@ arc_id: salvation-azimuth
 modern_impact: Salvation's admission that the Proteus Wave was 'calibrated to interface
   with one of the extant Thargoid structures' foreshadowed the weapon's ultimate failure,
   as the Thargoids later used that very interface to turn the weapon against humanity.
+modern_impact_de: Salvation's Eingeständnis, dass die Proteus-Welle ‚darauf kalibriert
+  wurde, mit einer der noch bestehenden Thargoid-Strukturen zu interagieren', kündigte
+  das endgültige Scheitern der Waffe an, da die Thargoids genau diese Schnittstelle
+  später nutzten, um die Waffe gegen die Menschheit zu wenden.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -29,6 +38,18 @@ related_uuids:
 - af81ef25-3735-51f4-bd67-5d52721e0376
 - b8b1752e-3808-5805-a594-5fb18505ae4e
 - e8461472-4c75-5456-9164-cf415d0cad55
+body_de: |
+  Während die Supermächte ihre Flotten im System HIP 22460 aufstellen, bereitet Azimuth Biotech einen entscheidenden Schlag gegen die Thargoids vor.
+
+  Ein Ausschnitt aus Salvations Briefing vor den Admirälen der Anti-Xeno-Kampfverbände wurde von Azimuth veröffentlicht:
+
+  „Die Proteus-Welle basiert auf Energiequellen und Komponenten guardianischen Ursprungs, die die Thargoids unweigerlich nach HIP 22460 ziehen werden. Wie wir wissen, ist ihre feindselige Reaktion auf Vorräte von Guardian-Artefakten instinktgesteuert. Sie haben keinen Schutz gegen die Waffen ihrer uralten Feinde, außer präventive Angriffe zu starten, um deren Einsatz zu verhindern."
+
+  „Daher muss die Bright Sentinel vorrangig geschützt werden, während die gelieferten Artefakte für den Transport zum Standort der Proteus-Welle aufbereitet werden; unabhängige Piloten, die unser Vorhaben unterstützen, sollen diese Bemühungen unterstützen. Ich kann nicht stark genug betonen, wie wichtig es ist, den Feind in dieser Phase des Plans in Schach zu halten."
+
+  „Die Proteus-Welle wird an der Oberfläche von HIP 22460 10b errichtet. Ihr Kernmechanismus wird darauf kalibriert, mit einer der auf dem Mond vorhandenen Thargoid-Strukturen zu interagieren. Die Struktur wird den elektromagnetischen Impuls der Proteus-Welle verstärken, um jedes Thargoid-Schiff in Reichweite dauerhaft außer Betrieb zu setzen."
+
+  „Sofern Ihre vereinten Streitkräfte die Thargoid-Schiffe ausreichend beschäftigen können, wird die fertige Superwaffe den endgültigen Sieg der Menschheit über die Außerirdischen sichern. Es wird keine weiteren Superwaffen mehr nötig sein, wenn die Thargoid-Bedrohung ein für alle Mal ausgelöscht ist."
 ---
 
 

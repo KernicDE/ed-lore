@@ -1,13 +1,19 @@
 ---
 uuid: 02c79e14-bd50-5a4a-b85d-2e25fa40eba1
 title: Mysteries of the Thargoids
+title_de: Geheimnisse der Thargoids
 slug: mysteries_of_the_thargoids
 date: '3308-08-17'
 source: API
 summary: Professor Ishmael Palin publishes an article emphasising how little humanity
   truly understands about Thargoid civilisation, society, and objectives, and warns
   that the Proteus Wave has likely earned humanity the Thargoids' full attention.
+summary_de: Professor Ishmael Palin veröffentlicht einen Artikel, in dem er betont,
+  wie wenig die Menschheit die Zivilisation, Gesellschaft und Ziele der Thargoids
+  wirklich versteht, und warnt, dass die Proteus-Welle der Menschheit womöglich die
+  volle Aufmerksamkeit der Thargoids eingebracht hat.
 player_impact: Not specifically mentioned — this is a scientific article.
+player_impact_de: Keine — es handelt sich um einen wissenschaftlichen Artikel.
 persons:
 - Ishmael Palin
 groups:
@@ -23,6 +29,10 @@ arc_id: null
 modern_impact: Palin's sober assessment served as a critical counter-narrative to
   Azimuth's dehumanisation of Thargoids, reminding the galaxy that they were an intelligent
   species of enormous complexity whose motivations remained almost entirely unknown.
+modern_impact_de: Palins nüchterne Einschätzung diente als wichtiges Gegenmodell zu
+  Azimuths Entmenschlichung der Thargoids und erinnerte die Galaxis daran, dass es sich
+  um eine intelligente Spezies von enormer Komplexität handelte, deren Motive weitgehend
+  unbekannt blieben.
 legacy_weight: 4
 significance: medium
 related_uuids:
@@ -31,6 +41,14 @@ related_uuids:
 - 6a3fd658-33a2-5409-8ade-90b666edefc5
 - 1b3c4f7c-bb24-5a8c-aeed-4936f7b5faea
 - 21a8f7b3-6e3c-5a0b-8f5d-9c4e7d2b1a8f
+body_de: |
+  Professor Ishmael Palin, die führende Autorität zu den Thargoids, hat einen kurzen Artikel für das wissenschaftliche Journal The Empirical verfasst.
+  „Die jüngsten Ereignisse haben erneut den Blick auf die außerirdische Spezies gerichtet, die wir Thargoids nennen. Ich habe erlebt, wie Regierungen, Militärs und Persönlichkeiten des öffentlichen Lebens sie als hirnlose zerstörerische Kraft charakterisiert haben, vergleichbar einem Heuschreckenschwarm. Ich halte es für wichtig, zu betonen, wie viel unserem Verständnis fehlt."
+  „Trotz vieler Jahrzehnte der Forschung bleibt die Thargoid-Zivilisation völlig fremd. Wir haben ihre Sprache, Gesellschaft, Kultur oder Ziele nach wie vor fast nicht wirklich verstanden. Nicht gewalttätige Begegnungen mit ihren Raumschiffen in den letzten Jahren haben kaum Erkenntnisse geliefert, abgesehen von ihrem Bestreben, Meta-Legierungsquellen zu überwachen und zu ernten. Natürlich ist ihre Kampfbereitschaft eines der wenigen Merkmale, die wir definitiv mit ihnen teilen."
+  „Von ihrer Hierarchie wissen wir bislang beinahe nichts, über weit gefasste Annahmen hinaus, dass sie den funktionalen Rollen bekannter Insektenarten folgen. Aufgrund des biomechanischen Charakters ihrer Konstrukte sind wir uns nicht einmal über die Grenzlinie zwischen individuellen Wesen und ihren Fahrzeugen sicher. Falls lebende Thargoids jemals untersucht wurden, wie gemunkelt wird, dann mit heimlichen Mitteln, verborgen vor der wissenschaftlichen Gemeinschaft."
+  „Während Thargoids Schiffe häufig aus dem Hyperraum ziehen, um sie zu scannen, enden nicht alle diese Vorfälle in einem Angriff. Ihre feindselige Reaktion auf Guardian-Artefakte könnte etwas wie ein genetisches Gedächtnis sein, fest in ihre Technologien einprogrammiert. Sogar die Zeitwahrnehmung der Thargoids könnte sich stark von der unseren unterscheiden. Was wir als einen uralten Krieg betrachten, könnte aus ihrer Sicht jüngst oder noch andauernd sein."
+  „Doch in HIP 22460 wurden wir Zeugen von etwas Neuem: einer aktiven Gegenmaßnahme gegen die Proteus-Welle. Dies deutet darauf hin, dass sich ihre Wahrnehmung der Menschheit verändert hat. Wir sind nicht länger lästige Plünderer, die sich an den Resten bedienen, die höheren Lebensformen zurückließen. Stattdessen haben wir erneut versucht, ihre Anzahlen zu dezimieren, genau wie vor Jahrhunderten mit dem Mykose-Virus. Ich glaube, wir haben nun die volle Aufmerksamkeit der Thargoids."
+  „Unsere zukünftige Beziehung zu den Thargoids ist unsicher. Doch ich möchte gern daran erinnern, dass wir es mit einer Spezies von enormer Intelligenz und Komplexität zu tun haben, nicht mit einem Horde gieriger Tiere. Wir müssen uns bemühen, mehr über sie zu erfahren, und hoffen, dass sie die Fähigkeit haben, uns als etwas anderes als einen Feind zu betrachten."
 ---
 
 

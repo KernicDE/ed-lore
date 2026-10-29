@@ -18,6 +18,10 @@ bio: The Intergalactic Naval Reserve Arm (INRA) was a joint Federal-Imperial ini
   activities covered up for centuries.
   abandoned planetary outpost controlled by the Intergalactic Naval Reserve Arm (INRA)
   has been discovered in the Hermitage system.
+bio_de: |-
+  Die Intergalactic Naval Reserve Arm (INRA) war eine geheime gemeinsame militärische Initiative von Föderation und Imperium, die 3125 zur Bekämpfung der Thargoids im Ersten Thargoid-Krieg gegründet wurde. Mit dem Auftrag, Schwachstellen der Thargoids mit allen Mitteln zu identifizieren und auszunutzen, operierte die INRA außerhalb der normalen militärischen Aufsicht und öffentlichen Rechenschaftspflicht.
+
+  Im Jahr 3308 wurde ein verlassener INRA-Außenposten im System Hermitage entdeckt, was die fortgesetzte Existenz der Organisation in geheimen Einrichtungen offenbarte. Die Entdeckung schürte erneut das Interesse an der Geschichte der INRA, insbesondere an ihrer Rolle bei der Entwicklung der Mykoid-Biowaffe, die den Ersten Thargoid-Krieg beendete. Spätere Beweise verbanden die INRA mit Azimuth Biochemicals und der mysteriösen Figur namens Salvation, was darauf hindeutet, dass die xenologische Waffenforschung der Organisation zwei Jahrhunderte lang im Verborgenen der galaktischen Politik weitergeführt worden war.
 ---
 
 

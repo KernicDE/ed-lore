@@ -5,6 +5,7 @@ type: person
 first_seen_date: '3308-06-29'
 last_seen_date: '3308-06-29'
 mention_count: 1
+bio_de: Subject D-2 ist eine Person im Elite-Dangerous-Universum, am 29.06.3308 erwähnt.
 ---
 
 <!-- AUTO-GENERATED -->

@@ -1,14 +1,20 @@
 ---
 uuid: a020e5d5-ecdf-5cb3-afdd-78c074ba8d93
 title: Remarkable ‘Lost Planet’ Rediscovered
+title_de: "Bemerkenswerter ‚verlorener Planet' wiederentdeckt"
 slug: remarkable_lost_planet_rediscovered
 date: '3308-09-02'
 source: API
 summary: A community expedition successfully rediscovers the first recorded green
   gas giant, originally found by Commander Kelly Eldridge in 3301 but lost due to
   missing astrographic data, in the Shaulai DL-P d5-274 system.
+summary_de: Eine Community-Expedition entdeckt erstmals den ersten dokumentierten
+  grünen Gasriesen wieder – ursprünglich 3301 von Kommandantin Kelly Eldridge gefunden,
+  aber wegen fehlender astrografischer Daten verloren gegangen – im System Shaulai DL-P
+  d5-274.
 player_impact: Not specifically mentioned — this is a community exploration achievement
   rather than an official campaign.
+player_impact_de: Keine
 persons:
 - Kelly Eldridge
 - Richard Fluiraniz M
@@ -24,6 +30,9 @@ topics:
 - exploration
 modern_impact: The rediscovery of the first green gas giant represents a notable achievement
   in collaborative deep-space exploration and community-driven scientific recovery.
+modern_impact_de: Die Wiederentdeckung des ersten grünen Gasriesen stellt eine bemerkenswerte
+  Leistung kollaborativer Tiefenraum-Erforschung und gemeinschaftlich getragener
+  wissenschaftlicher Wiederherstellung dar.
 legacy_weight: 1
 significance: low
 related_uuids:
@@ -32,6 +41,14 @@ related_uuids:
 - cb60156f-f6ad-543b-b549-c1f23472cfba
 - 9307ff89-10ea-5b2e-9eaa-6ddefc9f13b8
 - e92a5cd2-aa4d-5877-a93a-4f713d672b63
+body_de: |
+  Der Ort des ersten je dokumentierten grünen Gasriesen war jahrelang ein Rätsel, nun wurde er jedoch von einer Gemeinschaft von Entdeckern gefunden.
+  Kommandantin Kelly Eldridge machte die Entdeckung ursprünglich am 23. Mai 3301 und vermerkte, es sei „der seltsamste Gasriese, den ich bisher gesehen habe". Die leuchtend grünen Bänder in der Atmosphäre des Planeten machten ihn für Entdecker damals einzigartig, und diese Gasriesentypen sind bis heute äußerst selten. Man geht davon aus, dass die ungewöhnliche Färbung durch frei schwebendes Radioplankton verursacht wird, das planetare Strahlung absorbiert.
+  Unglücklicherweise wurden die astrografischen Daten des Systems von Eldridge nicht gesichert, sodass seine genaue Position verloren ging. Doch Anfang 3308 begann Kommandant Richard Fluiraniz M, Enthusiasten für die Expedition ‚At The Eldritch Gate' zu sammeln, um gemeinsam nach dem vermissten Planeten zu suchen.
+  Die Mission umfasste die Analyse von Sternbildmustern und interstellaren Gaswolken auf dem einzigen verfügbaren Bild, das Eldridge aufgenommen hatte. Piloten kartierten außerdem ihren Weg nach, indem sie Neutronensterne anhand ihres Entdeckungs-Etiketts verfolgten, was den Einsatz mehrerer Schiffe über ein enormes Gebiet in der Region Perseus Crags erforderte.
+  Eine Übereinstimmung mit dem grünen Gasriesen wurde schließlich am 16. August von Kommandant Orange! gefunden, der ihn als siebten Planeten im System Shaulai DL-P d5-274 identifizierte. Nach Angabe des Systemnamens verifizierte Universal Cartographics, dass es sich tatsächlich um das von Eldridge ursprünglich gemeldete Objekt handelte.
+  Cynthia Sideris, Vorsitzende von Universal Cartographics, erwies der Expedition eine öffentliche Ehrung:
+  „Über sieben Jahre lang konnten Astronomen den allerersten grünen Gasriesen nicht offiziell katalogisieren. Durch harte Arbeit und Beharrlichkeit wurde er nun endlich gefunden, und die ganze Geschichte von Shaulai DL-P d5-274 7 kann für die Nachwelt aufgezeichnet werden. Wir sind der Independent Explorers Association und allen, die an dieser historischen Leistung teilhatten, zu Dank verpflichtet."
 ---
 
 

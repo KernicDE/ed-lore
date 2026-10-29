@@ -17,6 +17,10 @@ bio: 'Advocacy is a organization active in Elite Dangerous lore from 3307-04-13 
   HIP 22460 massacre, with Advocacy director Rhiannon Grady demanding crimin...; The
   Federal government declares the Order of the Far God a potential enemy of the state,
   ordering military seizure of hive-chapels, while Shadow Pr...'
+bio_de: |-
+  Advocacy ist eine Fraktion, die politische Reformen und demokratische Werte fördert, insbesondere innerhalb der Föderation. Im Jahr 3309 war die Gruppe in den antiautoritären Protestbewegungen aktiv, die den Führern der Supermächte vorwarfen, den eskalierenden Thargoid-Krieg zugelassen zu haben. Aktivisten warfen den Regierungen vor, Rüstungsgewinne von Konzernen über das Leben der Zivilbevölkerung zu stellen.
+
+  Das Programm der Fraktion betont die Verantwortlichkeit der Regierungen und lehnt den Einfluss des militärisch-industriellen Komplexes auf die Politik der Supermächte ab. Die Ausrichtung von Advocacy auf die breitere Protestbewegung brachte es in Spannung zu Überwachungsbehörden wie dem Proactive Detection Bureau, das während der Unruhen Bürger der Föderation identifizierte und „vorsorglich warnte", die antiautoritäre Sympathien äußerten.
 ---
 
 

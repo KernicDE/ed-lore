@@ -1,13 +1,18 @@
 ---
 uuid: fe369dea-273f-5ea5-be3d-af3dffd0d690
 title: Kumo Crew Crushes Rebellion
+title_de: Kumo Crew zerschlägt Rebellion
 slug: kumo_crew_crushes_rebellion
 date: '3308-05-26'
 source: API
 summary: The Kumo Crew defeats Vidar Trask's rebel forces in the HIP 10792 system,
   ending the coup attempt.
+summary_de: Die Kumo Crew besiegt Vidar Trasks Rebellentruppen im System HIP 10792
+  und beendet damit den Putschversuch.
 player_impact: Pilots who supported the Kumo Council can collect rewards from Crimson
   Exchange in HIP 10792.
+player_impact_de: Piloten, die den Kumo-Rat unterstützt haben, können Belohnungen von
+  Crimson Exchange in HIP 10792 abholen.
 persons:
 - Vidar Trask
 - Archon Delaine
@@ -27,6 +32,11 @@ modern_impact: '"I will hunt down and slaughter every single one of Volantyne''s
   Blue Viper Club demonstrated that the Kumo Crew''s internal power struggles had
   spilled over into inter-clan vendetta, potentially destabilising the broader pirate
   ecosystem of the Pegasi Sector.'
+modern_impact_de: „Ich werde jedes einzelne Mitglied von Volantynes verräterischem
+  Clan aufspüren und abschlachten für ihren Verrat an meinem Vertrauen." Delaines
+  gnadenloses Gelöbnis, den Blue Viper Club auszulöschen, zeigte, dass die internen
+  Machtkämpfe der Kumo Crew in einen zwischen-clanischen Blutfehde übergegriffen hatten,
+  was das breitere Piratenökosystem des Pegasi-Sektors destabilisieren konnte.
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -34,6 +44,36 @@ related_uuids:
 - 3a22fa67-8900-5bbd-92cc-fe01fce10268
 - 4431f3c8-1dd3-5b87-84f6-77c4d6425759
 - ba9578fc-7825-5774-aba2-e07978d45161
+body_de: |
+  **Alarm der Pilotenföderation**
+
+  Kräfte, die an einem Putschversuch gegen Archon Delaines Syndikat beteiligt waren,
+  wurden im System HIP 10792 deutlich besiegt.
+
+  Vidar Trask, zuvor Erz-Korsar im Syndikat der Kumo Crew, wurde für tot erklärt, nachdem
+  sein privates Schiff während des Konflikts zerstört worden war. Die wenigen überlebenden
+  Schiffe der Trask Death Corsairs haben seine Sache inzwischen aufgegeben.
+
+  Berichte der Nachrichtenkanäle Pegasi Sentinel und Vox Galactica werfen mehr Licht
+  auf den Aufstand. In den vergangenen Jahren sammelte Trask heimlich Anhänger, während
+  er als Archon Delaines vertrauensberater agierte. Finanziert durch erfolgreiches
+  Spielen bei Jokers'-Deck-Veranstaltungen, kaufte er die Loyalität vieler unabhängiger
+  krimineller Gruppen, um seine Kräfte zu verstärken.
+
+  Zudem wurde enthüllt, dass Trasks zuvor nicht identifizierte Söldner Mitglieder des
+  Dredger-Clans Blue Viper Club waren. Dies deutet darauf hin, dass seine Partnerin
+  beim Putschversuch tatsächlich Erz-Korsarin Kay Volantyne war, die ursprünglich aus
+  dem nomadischen Stamm stammte. Zuletzt wurde sie gesehen, wie sie zum Dredger
+  zurückkehrte, bevor dieser zu einem unbekannten Zielort sprang.
+
+  Archon Delaine, der sich noch von dem Attentat der vergangenen Woche erholt, verkündete:
+
+  „Ich werde jedes einzelne Mitglied von Volantynes verräterischem Clan aufspüren und
+  abschlachten für ihren Verrat an meinem Vertrauen. Dieser rostende Koloss wird in
+  dieser Galaxis keine Zuflucht finden!"
+
+  Piloten, die die Fraktion des Kumo-Rats unterstützt haben, können nun Belohnungen
+  von Crimson Exchange in HIP 10792 abholen.
 ---
 
 

@@ -7,6 +7,8 @@ last_seen_date: '3308-11-29'
 mention_count: 1
 bio: 'Klaus-Peter Sonnek is a pilot in the Elite Dangerous universe, active from 3308-11-29
   to 3308-11-29. Closely associated with Sirius Corporation. '
+bio_de: 'Klaus-Peter Sonnek ist ein Pilot im Elite-Dangerous-Universum, aktiv von
+  3308-11-29 bis 3308-11-29. Eng verbunden mit der Sirius Corporation.'
 ---
 
 

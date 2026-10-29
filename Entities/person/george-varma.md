@@ -11,6 +11,24 @@ bio: 'George Varma is a Admiral in Elite Dangerous lore, active from 3304-05-25 
   war on the Far God cult, Aisling Duval''s wedding date announce...; Weekly summary
   covering Riri McAllister being unmasked as Nexus and framing Admiral Varma, the
   hunt for League strongholds in Zibal and Ienpalang, ...'
+bio_de: |-
+  Admiral George Varma war Mitglied des Admiralitätsrats der Allianz und wurde im
+  Juli 3304 wegen seiner angeblichen Rolle als „Nexus", dem Koordinator der
+  Terrororganisation League of Reparation, verhaftet. Captain Niamh Seutonia und
+  Senior-Agentin Tanya Ramirez stellten Varma während einer Besprechung des
+  Admiralitätsstabes im Sternenhafen Donaldson in Alioth und nahmen ihn trotz
+  Protesten fest.
+
+  Die trinationale Spezialeinheit, die die League of Reparation untersuchte, besaß
+  Beweise dafür, dass Varma heimlich Frachtlieferungen der Verteidigungsstreitmacht
+  der Allianz an Terrorzellen umleitete und ihnen militärische Waffen, Ausrüstung und
+  Verschlüsselungstechnik zukommen ließ. Die Festnahme löste diplomatische Wellen
+  aus, wobei die Botschafter der Föderation und des Imperiums vor die Versammlung der
+  Allianz zitiert wurden. Ratsmitglied Jed Trager bezeichnete die Festnahme als
+  „empörenden Rechtsverstoß", während Premierminister Edmund Mahon erklärte, dass die
+  Beweislage gegen Varma erheblich sei. Sein Fall offenbarte die Verwundbarkeit
+  militärischer Institutionen der Allianz gegen Infiltration sowie die Schwierigkeiten
+  der koordinierten Terrorismusbekämpfung über die Grenzen der Supermächte hinweg.
 ---
 
 

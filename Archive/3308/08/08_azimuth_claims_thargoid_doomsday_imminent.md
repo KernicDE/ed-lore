@@ -1,14 +1,20 @@
 ---
 uuid: b8b1752e-3808-5805-a594-5fb18505ae4e
 title: Azimuth Claims Thargoid Doomsday Imminent
+title_de: Azimuth erklärt nahenden Jüngsten Tag der Thargoids
 slug: azimuth_claims_thargoid_doomsday_imminent
 date: '3308-08-08'
 source: API
 summary: Salvation announces the Proteus Wave is fully active and calibrated, predicting
   that detonation will cause catastrophic disruption to all Thargoid vessels in HIP
   22460 and drive the aliens out of the core systems permanently.
+summary_de: Salvation verkündet, dass die Proteuswelle vollständig aktiviert und kalibriert
+  sei, und sagt voraus, dass ihre Zündung alle Thargoid-Schiffe in HIP 22460 katastrophal
+  beeinträchtigen und die Aliens dauerhaft aus den Kernsystemen vertreiben werde.
 player_impact: Pilots were urgently called to defend the Proteus Wave site in HIP
   22460 during the critical final hours before activation.
+player_impact_de: Piloten wurden dringend aufgerufen, den Standort der Proteuswelle in
+  HIP 22460 in den kritischen letzten Stunden vor der Aktivierung zu verteidigen.
 persons:
 - Morag Halloran
 - Salvation
@@ -27,11 +33,23 @@ arc_id: salvation-azimuth
 modern_impact: Salvation's declaration that tomorrow would be the Thargoids' doomsday
   represented the peak of his messianic rhetoric, setting up a binary outcome that
   would either validate his god complex or expose his hubris to the entire galaxy.
+modern_impact_de: Salvations Verkündigung, der morgige Tag werde der Jüngste Tag der
+  Thargoids, markierte den Höhepunkt seiner messianischen Rhetorik und schuf ein
+  Zwei-Wege-Ergebnis, das entweder seinen Gottkomplex bestätigen oder seine Hybris vor
+  der gesamten Galaxis bloßstellen würde.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 33b86898-9d96-5e9f-9e8a-e369998c5f2b
 - 4532b03c-7c25-52f3-af5f-9ac74b054a34
+body_de: |
+  **ALARM der Pilotenföderation**
+  Salvations Anti-Xeno-Superwaffe ist nun vollendet, und die letzten Vorbereitungen im System HIP 22460 laufen.
+  Kommodore Morag Halloran, militärische Koordinatorin von Azimuth Biotech, übertrug diese Ankündigung vom Megaschiff Bright Sentinel:
+  „Salvation hat bestätigt, dass der Kernmechanismus der Proteuswelle vollständig aktiv ist. Die Kalibrierung innerhalb der Thargoid-Struktur auf der Oberfläche von HIP 22460 10b wurde erfolgreich abgeschlossen. Energiequellen auf Basis von Guardian-Konstruktionen erreichen die erforderlichen Pegel, und eine abschließende Reihe von Sicherheitsprüfungen ist derzeit im Gange."
+  „Bei der Zündung wird der von der Proteuswelle erzeugte Energieimpuls eine katastrophale Störung aller biomechanischen Technologien der Thargoids in Reichweite verursachen. Jedes außerirdische Schiff in HIP 22460 wird sofort seine Funktion einstellen. Salvation sagt voraus, dass die weitreichende Wirkung der Superwaffe alle Thargoids aus den Kernsystemen vertreiben wird. Praktisch gesprochen wird der morgige Tag ihr Jüngster Tag sein."
+  „Dies ist der Höhepunkt jahrelanger Forschung in Verbindung mit Salvations revolutionärer Technologie. Das Projekt hätte ohne die militärische Unterstützung von Allianz, Imperium und Föderation nicht verwirklicht werden können. Azimuth dankt zudem den Piloten, die lebensnotwendige Materialien geliefert und ihr Leben riskiert haben, um die Thargoid-Flotte aufzuhalten. Seid stolz auf das Wissen, dass euer Mut und eure Hingabe dazu beitragen werden, den Zweiten Thargoid-Krieg zu beenden."
+  Die Anti-Xeno-Einsatzkräfte der Supermächte haben dringende Aufrufe zu Soforthilfen ausgesendet, um zu verhindern, dass Thargoid-Streitkräfte den Standort der Proteuswelle in diesen kritischen letzten Stunden angreifen.
 ---
 
 

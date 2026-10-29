@@ -17,6 +17,10 @@ bio: 'Lavigny''s Legion is a organization active in Elite Dangerous lore from 33
   rare luxury items to fund the Citizens'' Relief Trust supporting families of Imp...;
   Senators Patreus and Lavigny-Duval launched a united Imperial offensive against
   the Kumo Crew after Cuchua came under attack.'
+bio_de: |-
+  Lavigny's Legion ist eine imperiale Militärmacht, die Senatorin Arissa Lavigny-Duval loyal ergeben ist und aus ihren Anhängern und Gefolgsleuten gebildet wurde, um ihre Macht innerhalb des Imperiums und darüber hinaus zu projizieren. Die Legion spielte eine bedeutende Rolle bei Operation Davy Jones – dem imperialen Großangriff in den Pegasi-Sektor zur Bekämpfung der Piraterie von Archon Delaines Kumo Crew – und führte gleichzeitig Anti-Korruptionsoperationen in Heimatsystemen wie Kamadhenu durch.
+
+  Der doppelte Auftrag der Legion – externe militärische Intervention und interne Sicherheitsdurchsetzung – veranschaulicht das imperiale Patronagessystem, in dem mächtige Senatoren private Militärkapazitäten unabhängig von der formalen Befehlskette der imperialen Flotte unterhalten. Unter Arissas Führung ersetzte Lavigny's Legion in mehreren Systemen korrupte und repressive Lokalregierungen durch traditionelle Patronageverhältnisse und zeigte damit, wie die imperiale Machtpolitik durch eine Kombination aus militärischer Stärke und persönlichen Loyalitätsnetzwerken funktioniert.
 ---
 
 

@@ -17,6 +17,10 @@ bio: 'Red Family is a organization active in Elite Dangerous lore from 3304-08-2
   a multi-system crackdown against the Red Family narcotics syndicate using Proactive
   Detection Bureau intel...; Red Family co-founder Jan Sandoval unexpectedly surrenders
   to the Federal Intelligence Agency and offers to testify against the cartel''s leadership...'
+bio_de: |-
+  Die Red Family ist ein etabliertes Rauschgiftkartell, das in mehreren Systemen der Föderation illegale Drogen liefert. Mitte 3305 durchlebte die Organisation ihre größte Krise, als Mitbegründerin Jan Sandoval sich der Federal Intelligence Agency stellte und bereit war, gegen alle führenden Mitglieder des Kartells auszusagen, darunter auch gegen den Drahtzieher Oberon Church.
+
+  Das Kartell reagierte mit einem Söldner-Kommando, das in das Hauptquartier der FIA in Olympus Village eindrang, um Sandoval zu ermorden, doch das Kommando wurde neutralisiert, bevor es sie erreichte. Die FIA leitete anschließend mit Hilfe von Erkenntnissen des Proactive Detection Bureau Razzien in mehreren Systemen ein, und bis Ende 3305 wurde die Führung des Kartells systematisch zerschlagen. Der Fall Red Family wurde zu einem Meilenstein der föderalen Drogenbekämpfung und zeigte sowohl die Verwundbarkeit selbst der tief verwurzeltesten kriminellen Organisationen durch Insider-Aussagen als auch die Mittel, zu denen Kartelle greifen, um potenzielle Informanten zum Schweigen zu bringen.
 ---
 
 

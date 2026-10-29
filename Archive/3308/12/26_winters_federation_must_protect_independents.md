@@ -1,13 +1,17 @@
 ---
 uuid: 2370a8b1-305a-536b-9002-63f54ab8a8a6
 title: 'Winters: ‘Federation Must Protect Independents’'
+title_de: 'Winters: „Föderation muss Unabhängige schützen"'
 slug: winters_federation_must_protect_independents
 date: '3308-12-26'
 source: API
 summary: Shadow President Felicia Winters has called for the Federal Navy to help
   defend independent systems being invaded by the Thargoids.
+summary_de: Schattenpräsidentin Felicia Winters hat dazu aufgerufen, dass die Föderale
+  Marine unabhängige Systeme verteidigt, die von den Thargoids überfallen werden.
 player_impact: This article focuses on political and strategic developments without
   direct pilot involvement.
+player_impact_de: Keine
 persons:
 - Felicia Winters
 groups:
@@ -19,6 +23,10 @@ arc_id: null
 modern_impact: '"The Thargoid fleets emerging from the Maelstroms have inflicted anguish
   and loss on millions. Our military forces hav..." Federal political maneuvering
   illustrates the struggle to balance civil liberties with wartime imperatives.'
+modern_impact_de: „Die aus den Maelstroms hervorgehenden Thargoid-Flotten haben Millionen
+  Menschen Qual und Verluste zugefügt. Unsere Militärstreitkräfte hav…" Föderale politische
+  Manöver veranschaulichen den Kampf, Bürgerrechte mit kriegszeitlichen Notwendigkeiten in
+  Einklang zu bringen.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -27,6 +35,13 @@ related_uuids:
 - b732f29c-e035-57f4-a102-dd4fe86446fb
 - 1a784d38-9247-5277-a7e4-b217104780a2
 - f2680020-36ae-554f-ae92-3a367a9f1d23
+body_de: |
+  Schattenpräsidentin Felicia Winters hat dazu aufgerufen, dass die Föderale Marine unabhängige Systeme verteidigt, die von den Thargoids überfallen werden.
+  Ihren Standpunkt skizzierte sie in einem Interview mit der Federal Free Press:
+  „Die aus den Maelstroms hervorgehenden Thargoid-Flotten haben Millionen Menschen Qual und Verluste zugefügt. Unsere Militärstreitkräfte haben großartig reagiert und kämpfen weiterhin unter abscheulichen Bedingungen. Doch während sie in Systemen mit föderaler Ausrichtung Leben retten, bleiben unabhängige Systeme zurück, um zu leiden."
+  „Das kann doch wohl nicht richtig sein? Das sind unsere Nachbarn, unsere Handelspartner, unsere historischen Verwandten. Ihre Bevölkerungen schreien um Hilfe, und die mächtige Föderale Marine entscheidet sich, sie zu ignorieren, mit der Begründung, den Befehl zu haben, zuerst die eigenen Leute zu retten. Sind wir das jetzt? Nicht besser als das Imperium?"
+  „Ich habe im Kongress argumentiert, dass wir die Verantwortung haben, alle unabhängigen Systeme zu schützen, die nicht in der Lage sind, sich selbst gegen Thargoid-Angriffe zu verteidigen. Die Ressourcen der Föderalen Marine sind begrenzt, das verstehe ich. Aber wir kämpfen um die Zukunft der menschlichen Rasse. Wir haben keine Beweise dafür, dass die Thargoids irgendein Konzept unserer Politik, unserer Grenzen oder unserer Bindungen haben. Warum sollte sie interessieren, welchen Systemen wem Treue geschworen wurde? Jeder von uns ist ein Ziel."
+  „Und für diejenigen, deren Herzen gegenüber dem Leid anderer verhärtet sind, bedenkt dies: Die Bedrohung rückt jeden Tag näher. Nicht-föderale Fraktionen sich selbst zu überlassen — und höchstwahrscheinlich erobert zu werden — wird nur den Vormarsch der Thargoids beschleunigen. Bald wird nirgendwo innerhalb der Föderation sicher sein. Wir alle werden den Preis für eine solche Gefühllosigkeit zahlen."
 ---
 
 

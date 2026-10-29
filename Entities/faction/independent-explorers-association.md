@@ -12,6 +12,9 @@ related_entities:
 bio: 'Independent Explorers Association is a organization in the Elite Dangerous universe,
   active from 3308-09-02 to 3308-09-02. Frequently linked with Universal Cartographics,
   Shaulai DL-P d5-274. '
+bio_de: Die Independent Explorers Association ist eine Organisation im Elite-Dangerous-Universum,
+  die von 3308-09-02 bis 3308-09-02 aktiv war. Häufig in Verbindung mit Universal
+  Cartographics und Shaulai DL-P d5-274.
 ---
 
 

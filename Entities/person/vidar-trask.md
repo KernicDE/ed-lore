@@ -10,6 +10,10 @@ bio: 'Vidar Trask is a Pirate in Elite Dangerous lore, active from 3308-04-26 to
   Salamanca as a new arch-corsair on the Kumo Council.; A coordinated coup attempt
   led by Arch-Corsair Vidar Trask threatens to overthrow Archon Delaine''s control
   of the Kumo Crew.'
+bio_de: |-
+  Vidar Trask ist ein Pirat und ehemaliger Erz-Korsar der Kumo Crew, der Mitte 3308 einen gescheiterten Putsch gegen Archon Delaine anführte. Trask stieg an Delaines Seite auf, war aber unter dessen Herrschaft zunehmend frustriert, da er glaubte, das Syndikat effizienter organisieren zu können. Er plante den Putsch gemeinsam mit Kay Volantyne vom Dredger-Klan des Blue Viper Club, die über tausend Kämpfer zur Verfügung stellte.
+
+  Trasks Beweggründe waren vor allem organisatorischer Natur, ein Kontrast zu Volantynes Wunsch, ihrem nomadischen Stamm dauerhafte Heimatorte zu sichern. Der Putsch scheiterte, und Trasks Streitmacht wurde von Delaines Truppen zerschlagen. Seine Rebellion legte die innere Fragilität krimineller Syndikate offen und zeigte, wie selbst langjährige engste Vertraute sich gegen ihre Anführer wenden konnten, wenn sie Ineffizienz oder Schwäche wahrnahmen. Trasks gescheiterter Plan wurde zu einer Warnung vor den Gefahren des Ehrgeizes innerhalb von Piratenorganisationen.
 ---
 
 
