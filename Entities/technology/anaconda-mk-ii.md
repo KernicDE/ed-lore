@@ -13,11 +13,16 @@ related_entities:
 bio: The Anaconda Mk II is a large multi-purpose ship from Faulcon DeLacy, announced
   in October 3312 as the first major revision of the Anaconda since its introduction
   in 2856. Chief of Design Frank Endis described it as one of the company's finest
-  large ships.
+  large ships. Four parallel player-driven trial initiatives concluded on 3312-10-29
+  with Faulcon DeLacy hailing the results as incredibly valuable, after which the ship
+  moved from exclusive early-release purchase to limited shipyard inventories.
 bio_de: Die Anaconda Mk II ist ein großes Mehrzweckschiff von Faulcon DeLacy, das im
   Oktober 3312 als erste große Überarbeitung der Anaconda seit ihrer Einführung im Jahr
   2856 angekündigt wurde. Chefkonstrukteur Frank Endis bezeichnete sie als eines der
-  besten Großschiffe des Unternehmens.
+  besten Großschiffe des Unternehmens. Vier parallele, spielergesteuerte Testinitiativen
+  endeten am 29.10.3312 mit einem äußerst wertvollen Ergebnis für Faulcon DeLacy;
+  anschließend ging das Schiff vom exklusiven Early-Release-Kauf in eine begrenzte
+  Werftverfügbarkeit über.
 ---
 
 <!-- AUTO-GENERATED -->

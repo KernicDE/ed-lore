@@ -5,6 +5,33 @@ title_de: Mehrteilige Initiativen von Faulcon DeLacy abgeschlossen
 slug: faulcon_delacy_multi_faceted_initiatives_conclude
 date: '3312-10-29'
 source: API
+summary: Faulcon DeLacy confirmed that the four parallel player-driven trial initiatives
+  for the Anaconda Mk II have concluded, hailing the results as incredibly valuable
+  for validating the new ship as a versatile all-round vessel.
+player_impact: Independent pilots participated in four simultaneous initiatives to put
+  the Anaconda Mk II through its paces across a variety of activities, generating the
+  performance data used to validate the ship.
+modern_impact: The Anaconda Mk II entered the market as a new multi-purpose ship based
+  on the iconic Anaconda design, initially as an exclusive purchase with limited shipyard
+  availability to follow.
+entities:
+- name: Faulcon DeLacy
+  type: faction
+  role: manufacturer running the trial initiatives
+- name: Frank Endis
+  type: person
+  role: Chief of Design commenting on the results
+- name: Anaconda Mk II
+  type: technology
+  role: ship being trialled
+- name: Vox Galactica
+  type: faction
+  role: media outlet interviewing Endis
+topics:
+- technology
+- engineering
+- corporate expansion
+arc_id: anaconda-mk-ii-rollout
 summary_de: Vier parallele, spielergesteuerte Testinitiativen für die Anaconda
   Mk II wurden abgeschlossen. Faulcon DeLacy bezeichnete die Ergebnisse als
   äußerst wertvoll, um das neue Schiff als vielseitiges Allround-Schiff zu
@@ -14,11 +41,11 @@ player_impact_de: Unabhängige Piloten beteiligten sich an vier gleichzeitigen
 modern_impact_de: Die Anaconda Mk II kam als neues Mehrzweckschiff auf den
   Markt, das auf dem ikonischen Design der Anaconda basiert.
 body_de: |
-  Faulcon DeLacy bestätigte heute in einer Pressemitteilung, dass die vierfachen Erprobungen der neuen Anaconda Mk II „äußerst wertvoll" gewesen seien.\r
-  Die über alle vier Initiativen hinweg erhaltenen Daten zeigten, dass unabhängige Piloten das neue Schiff bei einer Vielzahl von Aktivitäten auf Herz und Nieren geprüft hätten.\r
-  In einem Gespräch mit Vox Galactica erklärte Frank Endis, Chief of Design: „Die Mk II ist ein äußerst leistungsfähiges Allround-Schiff, und wir haben hart daran gearbeitet, das ursprüngliche Design zu verbessern."\r
-  „Ihre Flexibilität, gepaart mit den neuen Panzerungs-Upgrades und den Optionen für interne Module, sollte sie für Piloten, die ein Allzweckschiff suchen, sehr attraktiv machen."\r
-  Nach Abschluss der Erprobungen hofft Faulcon DeLacy, dass die Anaconda Mk II schnell von jenen übernommen wird, die ein größeres Mehrzweckschiff suchen.\r
+  Faulcon DeLacy bestätigte heute in einer Pressemitteilung, dass die vierfachen Erprobungen der neuen Anaconda Mk II „äußerst wertvoll" gewesen seien.
+  Die über alle vier Initiativen hinweg erhaltenen Daten zeigten, dass unabhängige Piloten das neue Schiff bei einer Vielzahl von Aktivitäten auf Herz und Nieren geprüft hätten.
+  In einem Gespräch mit Vox Galactica erklärte Frank Endis, Chief of Design: „Die Mk II ist ein äußerst leistungsfähiges Allround-Schiff, und wir haben hart daran gearbeitet, das ursprüngliche Design zu verbessern."
+  „Ihre Flexibilität, gepaart mit den neuen Panzerungs-Upgrades und den Optionen für interne Module, sollte sie für Piloten, die ein Allzweckschiff suchen, sehr attraktiv machen."
+  Nach Abschluss der Erprobungen hofft Faulcon DeLacy, dass die Anaconda Mk II schnell von jenen übernommen wird, die ein größeres Mehrzweckschiff suchen.
   Die Anaconda Mk II ist derzeit zunächst exklusiv erhältlich und wird zu einem späteren Zeitpunkt in begrenztem Umfang in den Schiffswerften verfügbar sein.
 ---
 
