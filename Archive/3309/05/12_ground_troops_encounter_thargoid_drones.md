@@ -1,13 +1,18 @@
 ---
 uuid: e2e659a0-e859-563b-a0f9-ab3a09d26ca8
 title: Ground Troops Encounter Thargoid Drones
+title_de: Bodentruppen stoßen auf Thargoid-Drohnen
 slug: ground_troops_encounter_thargoid_drones
 date: '3309-05-12'
 source: API
 summary: Thargoid 'Revenant' drones are attacking ground personnel in occupied settlements,
   adding a planetary surface dimension to the war.
+summary_de: Thargoid-Drohnen der Bauart „Revenant" greifen Bodenpersonal in besetzten Siedlungen
+  an und erweitern den Krieg um eine Dimension auf planetaren Oberflächen.
 player_impact: Independent armed forces operating behind enemy lines can play a vital
   role by destroying Thargoid drones.
+player_impact_de: Unabhängige bewaffnete Kräfte, die hinter den feindlichen Linien operieren,
+  können eine entscheidende Rolle spielen, indem sie Thargoid-Drohnen zerstören.
 persons:
 - Ernesto Rios
 - Daniel Parry
@@ -26,6 +31,12 @@ modern_impact: Rios's eyewitness — 'I've seen them patrol the abandoned settle
   in the core systems?' — raises existential stakes. Parry's description of 'entire
   squads being wiped out by missile bombardments from these craft' establishes the
   drone threat level.
+modern_impact_de: Rios' Augenzeugenbericht — „Ich habe gesehen, wie sie die verlassenen Siedlungen
+  durchkämmten, als würden sie Wache stehen ... und äußerst aggressiv wurden, sobald sie lebende
+  Menschen entdeckten" — ist erschütternd. Seine Frage — „Könnten sie planen, alle Welten in den
+  Kernsystemen zu kolonisieren?" — erhöht die existenzielle Bedrohung. Parris Schilderung, wonach
+  „ganze Trupps durch Raketenbeschuss dieser Flugkörper ausgelöscht" wurden, verdeutlicht das
+  Gefahrenpotenzial der Drohnen.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -33,6 +44,15 @@ related_uuids:
 - 45fc544b-0e8b-5226-9ea8-5a475d50bb80
 - 75959975-677e-5ef0-a638-99ecddb6c873
 - f9fecf41-099b-5d1f-93f0-d6f472997ac9
+body_de: |
+  Berichte aus planetaren Siedlungen in von den Thargoiden besetzten Systemen schildern den Angriff außerirdischer Drohnen auf zu Fuß operierendes Personal.
+  Der Feldkorrespondent Ernesto Rios fasste diese Entwicklung für Vox Galactica zusammen:
+  „Zahlreiche besiedelte Systeme in der Nähe der Maelstroms sind von Thargoid-Flotten überrannt worden, was schreckliche Verluste und Massenevakuierungen zur Folge hatte. Doch Militärpersonal riskiert weiterhin in diesen Systemen das Leben, um Siedlungen nach Überlebenden zu durchsuchen oder verbliebene Materialien zu bergen."
+  „Diese Trupps gerieten nach einem Bericht unter Beschuss durch ‚Luftfahrzeuge thargoidischer Bauweise'. Ihre vergleichsweise geringe Größe deutet darauf hin, dass es sich um das Äquivalent von Kampfdrohnen handelt. ‚Ich habe gesehen, wie sie die verlassenen Siedlungen durchkämmten, als würden sie Wache stehen', sagte ein Augenzeuge, ‚und äußerst aggressiv wurden, sobald sie lebende Menschen entdeckten.'"
+  „Offenbar betrachten die Thargoiden diese Planeten nun als ihr Territorium und uns als Eindringlinge. Könnten sie planen, alle Welten in den Kernsystemen zu kolonisieren?"
+  Nach einem taktischen Briefing mit hochrangigen Aegis-Mitarbeitern gab Konteradmiral Daniel Parry eine Stellungnahme an die Presse ab:
+  „Wir liegen mehrere Berichte von eingesetzten und nicht autorisierten Bodenteams vor. Die verfügbaren Daten deuten darauf hin, dass die Thargoid-Drohnen Salven luftgestützter Flugkörper abfeuern können. Ich habe erschütternde Schilderungen gelesen, wonach ganze Trupps durch Raketenbeschuss dieser Flugkörper ausgelöscht wurden."
+  „Damit erhält der Krieg möglicherweise eine neue Dimension, da aktive Bedrohungen auf planetaren Oberflächen hinzukommen. Marineeinheiten werden vorbereitet, um die Sachlage weiter zu untersuchen. Unabhängige bewaffnete Kräfte, die hinter den feindlichen Linien operieren, können jedoch eine entscheidende Rolle spielen, indem sie möglichst viele Drohnen zerstören."
 ---
 
 

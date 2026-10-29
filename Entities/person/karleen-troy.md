@@ -11,6 +11,10 @@ bio: 'Karleen Troy is a Journalist in Elite Dangerous lore, active from 3304-11-
   on abandoned Far God outposts in the Etain system, Aegis''s breakthrough neutralising
   Thargoid ...; Empire-Federation proxy war erupts in Pichch, a key anti-xeno supply
   hub near Maelstrom Leigong, threatening to disrupt front-line defenses.'
+bio_de: |-
+  Karleen Troy ist freiberufliche Kriegskorrespondentin, die für Vox Galactica über Konflikte in allen Supermächten berichtet. Im April 3309 erregte ihre Berichterstattung aus dem Pichch-System internationale Aufmerksamkeit für die versehentliche Zerstörung eines Anti-Xeno-Versorgungskonvois durch kaiserlich gesinnte Kräfte, die die Schiffe irrtümlich für föderale Versorgungsschiffe hielten.
+
+  Troys Bericht bewirkte ein direktes Eingreifen von Kaiserin Arissa Lavigny-Duval und Präsident Zachary Hudson, die einen sofortigen Waffenstillstand zwischen dem Gliese-44-Citizens'-Forum und der Gauluujja Exchange anordneten. Ihre Arbeit zeigt exemplarisch, wie unabhängiger Journalismus die Politik der Supermächte in Kriegszeiten prägen kann – insbesondere bei der Berichterstattung über humanitäre Krisen, die breitere strategische Anstrengungen gegen die Thargoid-Invasion gefährden.
 ---
 
 

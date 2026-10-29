@@ -15,6 +15,8 @@ bio: Federal Commerce Authority is a organization in the Elite Dangerous univers
   Agency, Caine Massey, Mars. Caine-Massey CEO Johann Fleischer is assassinated at
   a Federal Commerce Authority seminar on Mars using a modified Manticore Executioner
   rifle linked to Imperial agents.
+bio_de: |-
+  Die Federal Commerce Authority ist eine Organisation im Elite-Dangerous-Universum, aktiv von 3309-03-31 bis 3309-03-31. Häufig verbunden mit der Federal Intelligence Agency, Caine Massey und Mars. Der Caine-Massey-CEO Johann Fleischer wird bei einem Seminar der Federal Commerce Authority auf dem Mars mit einem modifizierten Manticore-Executioner-Gewehr ermordet, das mit imperialen Agenten in Verbindung gebracht wird.
 ---
 
 

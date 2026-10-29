@@ -1,12 +1,16 @@
 ---
 uuid: 63001d5d-a245-5343-9227-752c3d47dcca
 title: Rackham Reveals Presidential Manifesto
+title_de: Rackham legt Präsidentschaftsmanifest vor
 slug: rackham_reveals_presidential_manifesto
 date: '3309-02-27'
 source: API
 summary: Trillionaire Zachary Rackham launches his independent campaign for Federal
   president with a populist tax-cutting manifesto.
+summary_de: Der Billionär Zachary Rackham startet seinen unabhängigen Wahlkampf für
+  das Amt des Föderalen Präsidenten mit einem populistischen Steuersenkungsmanifest.
 player_impact: Not specifically mentioned — this is a political report.
+player_impact_de: Keine explizit erwähnt – dies ist ein politischer Bericht.
 persons:
 - Zachary Rackham
 - Felicia Winters
@@ -30,11 +34,42 @@ modern_impact: Bryanna Blanco described his promises as "populist nonsense from 
   merger of corporate wealth and political power in the Federation, where an unapologetic
   ex-pirate could leverage celebrity and business interests to mount a credible challenge
   to the two-party establishment.
+modern_impact_de: Bryanna Blanco bezeichnete seine Versprechen als „populistischen
+  Unsinn eines ehemaligen Piraten, der Politiker wurde". Rackhams Kandidatur veranschaulicht
+  die wachsende Verschmelzung von Konzernreichtum und politischer Macht in der Föderation,
+  wo ein unverschämter Ex-Pirat mit Prominenz und Geschäftsinteressen eine glaubwürdige
+  Herausforderung gegen das Zwei-Parteien-Establishment aufbauen konnte.
 legacy_weight: 3
 significance: medium
 related_uuids:
 - 4142a139-3275-5ad3-8392-26cd6e4b9594
 - a007ba53-6adb-5c77-bd5b-bd4603a04a9d
+body_de: |
+  Der Billionärs-Unternehmer Zachary Rackham hat seinen Wahlkampf zur Wahl zum Föderalen
+  Präsidenten in der bevorstehenden Wahl gestartet.
+  Er skizzierte mehrere politische Vorhaben während einer Presseveranstaltung in der
+  troposphärischen Suite von Rackham's Spire auf dem Planeten Homeland:
+  „Wie ich es sehe, besteht die Aufgabe des Präsidenten darin, gewöhnlichen, hart arbeitenden
+  Menschen aus einfachen Verhältnissen zu helfen – genau wie mir. Ich verspreche daher,
+  alle zivilen Steuern und Gebühren für öffentliche Dienstleistungen zu senken und die
+  staatlichen Fördermittel für Unternehmenszuschüsse und kommerzielle Chancen aufzustocken.
+  Lasst uns alle reich und erfolgreich machen – genau wie mich!"
+  Herr Rackham kandidiert als unabhängiger Kandidat für das Amt des Föderalen Präsidenten
+  und behauptet, Unterstützung von mehreren Unternehmensinteressen zu genießen, darunter
+  Rackham Capital Investments. Sein Manifest hat einen Popularitätsschub ausgelöst,
+  und mehrere hochkarätige Prominente werben mit seinem Wahlkampfslogan: ‚Just Like Me'.
+  Ökonomen haben jedoch festgestellt, dass seine Steuersenkungsvorschläge nicht kalkuliert
+  sind und praktisch nicht umsetzbar gelten. Die Journalistin Bryanna Blanco, die die
+  Geschäfte von Herrn Rackham seit Jahren untersucht, bezeichnete seine Präsidentschaftsversprechen
+  als „populistischen Unsinn eines ehemaligen Piraten, der Politiker wurde".
+  Die Präsidentschaftswahl findet im Juni 3309 statt. Schattenpräsidentin Felicia Winters
+  hat bestätigt, dass sie die Liberal Party vertreten wird, mit Kongressabgeordneter Isolde
+  Rochester als Kandidatin für die Vizepräsidentschaft.
+  Der Kandidat der Republican Party wird nach der Kongressabstimmung über die Hudson-Contravention
+  bekannt gegeben, die für Mitte März vorgesehen ist. Wird dieser Verfassungszusatz angenommen,
+  erhält Präsident Zachary Hudson die Möglichkeit, für eine zweite achtjährige Amtszeit
+  zu kandidieren. Auch andere führende republikanische Kongressabgeordnete, darunter
+  Vizepräsident Jerome Archer, bereiten ihre Wahlkampagnen vor.
 ---
 
 

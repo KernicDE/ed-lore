@@ -1,13 +1,19 @@
 ---
 uuid: d7c1ae35-aa55-50f5-af5a-90479b0a0037
 title: Corporate Battle Erupts in Tavgi System
+title_de: Konzernschlacht im System Tavgi entbrannt
 slug: corporate_battle_erupts_in_tavgi_system
 date: '3309-04-06'
 source: API
 summary: The Caine-Massey/Torval Mining conflict escalates into open combat in the
   Tavgi system, with both superpowers' naval forces placed on alert.
+summary_de: Der Konflikt zwischen Caine-Massey und Torval Mining eskaliert im System
+  Tavgi zu offenen Kampfhandlungen; die Flotten beider Supermächte werden in Alarmbereitschaft
+  versetzt.
 player_impact: Federal and Imperial naval auxiliaries are called to report to Gordon
   Enterprise and the Orchestral Falcon respectively.
+player_impact_de: Föderale und imperiale Marine-Hilfskräfte werden aufgefordert, sich
+  bei Gordon Enterprise bzw. bei der Orchestral Falcon zu melden.
 persons:
 - Philippa Barlow-Lyons
 - Zemina Torval
@@ -29,12 +35,30 @@ modern_impact: Barlow-Lyons's aggressive stance — 'board the Orchestral Falcon
   the conflict as commercial warfare. Hudson and Patreus's statements escalate the
   superpower dimension. The mention that 'majority of superpower naval forces deployed
   to the Thargoid front line' explains the proxy nature of the conflict.
+modern_impact_de: Barlow-Lyons' aggressive Haltung — „die Orchestral Falcon entern –
+  notfalls mit Gewalt" — zeigt konzernseitige Eskalation. Torvals Gegendarstellung —
+  „Caine-Massey nutzt den Tod seines CEO als Vorwand für einen gezielten Schlag gegen
+  mein Unternehmen" — rahmt den Konflikt als Handelskrieg. Die Erklärungen von Hudson
+  und Patreus eskalieren die Supermacht-Dimension. Die Erwähnung, dass „der Großteil
+  der Flottenkräfte der Supermächte an der Thargoid-Front eingesetzt ist", erklärt
+  den Stellvertreter-Charakter des Konflikts.
 legacy_weight: 5
 significance: high
 related_uuids:
 - dc0a3b52-41d2-52f6-9311-d5e5ebe0eff6
 - 5cfb0d52-1732-5f48-a502-fc7d1aa11dfa
 - d3fb0003-ded4-528c-904b-9140da2aac02
+body_de: |
+  **ALARM der Pilotenföderation**
+  Die Tötung von Caine-Masseys CEO hat einen Konflikt zwischen dem föderalen Konzern und dem imperialen Rivalen Torval Mining Ltd ausgelöst.
+  Die geschäftsführende CEO Philippa Barlow-Lyons gab eine Erklärung zu den Feindseligkeiten ab:
+  „Die Federal Intelligence Agency verfolgte Johann Fleischers Attentäter von Mars bis in das System Tavgi, wo er die Orchestral Falcon betrat, eines der Megaschiffe von Torval Mining. Wir forderten seine Auslieferung, um ihn für seine Tat vor Gericht zu stellen. Sie weigerten sich, uns überhaupt zur Kenntnis zu nehmen. Zemina Torval glaubt, dass sie ihre Rache genommen und damit davongekommen ist. Sie irrt sich."
+  „Caine-Massey hat Tavgi Blue Life Inc, unseren Geschäftspartner im System, angewiesen, die Orchestral Falcon zu entern – notfalls mit Gewalt – und den Verdächtigen festzunehmen. Wir werden alles Notwendige tun, um den imperialen Geheimdienstagenten festzunehmen, den wir für den Mord an einem Kapitän der föderalen Industrie verantwortlich machen."
+  Eine Antwort kam von Senatorin Zemina Torval:
+  „Caine-Massey nutzt den Tod seines CEO als Vorwand für einen gezielten Schlag gegen mein Unternehmen, schadet unserem Aktienkurs und testet den Willen unserer politischen Verbindungen. Torval Mining Ltd wird sein Eigentum sowie die Ehre des Imperiums gegen diesen ungerechtfertigten Angriff verteidigen."
+  Zur Unterstützung ihrer Kampfoperationen haben Tavgi Blue Life Inc und Torval Mining Ltd föderale und imperiale Marine-Hilfskräfte aufgefordert, sich bei Gordon Enterprise bzw. bei der Orchestral Falcon zu melden.
+  Der Konflikt hat die politischen Spannungen zwischen Imperium und Föderation verschärft. Da der Großteil der Flottenkräfte der Supermächte an der Thargoid-Front eingesetzt ist, wurden die Sicherheitsschiffe rund um Tavgi in Alarmbereitschaft versetzt.
+  Präsident Zachary Hudson kommentierte umgehend, dass „meine Regierung das Recht unserer Fraktionen wahrt, Gerechtigkeit zu suchen". Senator Denton Patreus erklärte: „Das Imperium steht bereit, seine Bürger, Unternehmen und Territorien vor Angriffen fremder Mächte zu schützen, ob xeno oder nicht."
 ---
 
 

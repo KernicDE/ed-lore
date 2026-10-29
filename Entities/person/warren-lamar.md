@@ -9,6 +9,21 @@ bio: Warren Lamar is a pilot in the Elite Dangerous universe, active from 3306-1
   to 3309-02-16. Closely associated with Alliance, Alliance Expeditionary Pact, Pilots
   Federation. Captain Warren Lamar calls for independent pilots to help defend the
   Witch Head Enclave. Captain Warren Lamar praises the pilots' courage.
+bio_de: |-
+  Captain Warren Lamar trat in den späten 3300er-Jahren als vehementer Befürworter der Verteidigung
+  von Grenzsystemen hervor, insbesondere des Witch-Head-Enklave und der umliegenden Regionen.
+  Im Jahr 3306 richtete er öffentliche Aufrufe an unabhängige Piloten, verwundbare Kolonien vor
+  äußeren Bedrohungen zu schützen, und stellte ihre Beteiligung als wesentlich für die menschliche
+  Expansion dar, nicht als optionale Wohltat. Seine Appelle trafen bei der Gemeinschaft der
+  unabhängigen Piloten auf Resonanz, die seit langem als unregelmäßiger, aber entscheidender
+  Bestandteil der Grenzsicherheit dienten.
+
+  Lamars Führungsstil betonte Anerkennung und Respekt für jene, die seinen Handlungsaufrufen
+  folgten. Nach erfolgreichen Verteidigungsoperationen lobte er öffentlich den Mut und das
+  Können der teilnehmenden Piloten und festigte damit die Bande zwischen formellen militärischen
+  Strukturen und unabhängigen Akteuren. Seine Laufbahn zeigte, wie Personen im Schnittbereich
+  offizieller und informeller Autorität erhebliche Ressourcen mobilisieren konnten, indem sie
+  an gemeinsame Werte des Schutzes und des Überlebens der Gemeinschaft appellierten.
 ---
 
 

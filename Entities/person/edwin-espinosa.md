@@ -7,6 +7,8 @@ last_seen_date: '3309-03-28'
 mention_count: 2
 bio: 'Edwin Espinosa is a prominent figure in the Elite Dangerous universe, active
   from 3309-03-21 to 3309-03-28. '
+bio_de: 'Edwin Espinosa ist eine prominente Figur im Elite-Dangerous-Universum, aktiv
+  von 3309-03-21 bis 3309-03-28. '
 ---
 
 

@@ -1,13 +1,18 @@
 ---
 uuid: 514110ce-a03f-5dec-9403-eb1e16bf5695
 title: Pulse Wave Xeno Scanner Now Available
+title_de: Pulswellen-Xeno-Scanner jetzt verfügbar
 slug: pulse_wave_xeno_scanner_now_available
 date: '3309-06-01'
 source: API
 summary: Aegis begins manufacturing the pulse wave xeno scanner after a successful
   resource campaign, enabling data collection on Thargoid Titans.
+summary_de: Aegis beginnt nach einer erfolgreichen Ressourcenkampagne mit der Produktion
+  des Pulswellen-Xeno-Scanners, was die Datenerhebung zu den Thargoid-Titanen ermöglicht.
 player_impact: Pilots delivered ceramic composites, polymers, gallium and indium to
   the Rabh system.
+player_impact_de: Piloten lieferten Keramikverbundwerkstoffe, Polymere, Gallium und
+  Indium ins Rabh-System.
 persons:
 - Alba Tesreau
 groups:
@@ -25,6 +30,12 @@ modern_impact: Tesreau's framing — 'the greatest scientific opportunity in a g
   — positions the Titans as objects of study, not just threats. Her belief that 'understanding
   the Thargoid species... is the only path to ending the war' reflects her scientific
   philosophy. The tri-superpower technician collaboration shows Aegis's unifying role.
+modern_impact_de: Tesreaus Formulierung — ‚die größte wissenschaftliche Gelegenheit
+  seit einer Generation‘ — positioniert die Titanen als Objekte der Forschung, nicht
+  nur als Bedrohung. Ihre Überzeugung, dass das ‚Verstehen der Thargoid-Spezies …
+  der einzige Weg ist, den Krieg zu beenden‘, spiegelt ihre wissenschaftliche Philosophie
+  wider. Die Zusammenarbeit der Techniker aller drei Supermächte zeigt die
+  vereinigende Rolle von Aegis.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -32,6 +43,22 @@ related_uuids:
 - c9005155-18e5-5738-b25e-f178f4d372b2
 - d550b561-0a99-5e53-b940-ea281f0112b6
 - f9fecf41-099b-5d1f-93f0-d6f472997ac9
+body_de: |
+  **Alarm der Pilots’ Federation**
+
+  Eine Initiative in Rabh hat es Aegis ermöglicht, mit der Fertigung eines Moduls zu beginnen, das Daten über die Titanen sammelt.
+
+  Lieferungen von Keramikverbundwerkstoffen, Polymeren, Gallium und Indium wurden unverzüglich zur Massenproduktion des Pulswellen-Xeno-Scanners genutzt. Die Verteilung läuft bereits, und Rettungsschiffe haben begonnen, das Modul zu laden.
+
+  Professorin Alba Tesreau, Leiterin von Aegis, gab eine Erklärung ab:
+
+  „Die Thargoid-Titanen stellen nicht nur die größte Bedrohung für die Menschheit dar, sondern auch die größte wissenschaftliche Gelegenheit seit einer Generation. Mehr über diese gewaltigen Konstrukte zu erfahren könnte für unser Verständnis der Thargoid-Spezies entscheidend sein — und ich glaube nach wie vor, dass dies der einzige Weg ist, den Krieg zu beenden."
+
+  „Eine Koalition allianzischer, föderaler und imperialer Techniker arbeitete rund um die Uhr, um Professor Palins Xeno-Scanner mit Pulswellentechnologie zu modifizieren. Dank des Engagements unabhängiger Piloten bei der Bereitstellung der Ressourcen wurde das neue Modul in hervorragender Zeit fertiggestellt."
+
+  „Aegis hat großes Interesse an allen Informationen, die über die Titanen gewonnen werden können. Ich hoffe aufrichtig, dass die Daten, die wir erheben, unser spärliches Wissen über die Thargoid erweitern und zu weiteren Entdeckungen führen werden."
+
+  Belohnungen sind nun am Muller Terminal im Rabh-System für alle verfügbar, die Vorräte für dieses Projekt transportiert haben.
 ---
 
 

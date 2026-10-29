@@ -8,6 +8,20 @@ mention_count: 5
 bio: Philippa Barlow-Lyons is the COO and acting CEO of Caine-Massey who led the corporation
   through the assassination of Johann Fleischer and the ensuing conflict with Torval
   Mining.
+bio_de: |-
+  Philippa Barlow-Lyons ist Chief Operating Officer und geschäftsführende CEO von Caine-Massey,
+  einem bedeutenden Föderalen Bergbaukonzern. Im Jahr 3309 übernahm sie die Führung nach dem
+  Anschlag auf CEO Johann Fleischer bei einem Seminar der Federal Commerce Authority auf dem Mars.
+  Barlow-Lyons verurteilte den Mord öffentlich und forderte, dass bei der Suche nach dem Mörder
+  keine Mühe gescheut werden dürfe.
+
+  Als Indizien den Attentäter mit Torval Mining Ltd in Verbindung brachten, lenkte Barlow-Lyons
+  die Partnerfraktion von Caine-Massey, die Tavgi Blue Life Inc, in einen offenen Konflikt mit
+  Torval Mining im Tavgi-System. Nachdem föderale Hilfskräfte bei der Eroberung des Megaschiffs
+  Orchestral Falcon geholfen hatten, übergab Torval Mining den Attentäter den föderalen
+  Behörden. Barlow-Lyons erklärte, Gerechtigkeit werde nun endlich walten, und festigte damit
+  ihren Ruf als entschlossene Führungspersönlichkeit, die bereit ist, Konzernkrieg zu führen,
+  um die Interessen ihres Unternehmens zu schützen.
 ---
 
 # Philippa Barlow-Lyons

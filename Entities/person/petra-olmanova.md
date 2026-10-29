@@ -7,6 +7,23 @@ last_seen_date: '3309-02-20'
 mention_count: 3
 bio: 'Petra Olmanova is a engineer in the Elite Dangerous universe, active from 3304-08-29
   to 3309-02-20. Closely associated with Aegis. '
+bio_de: |-
+  Petra Olmanova etablierte sich als geschickte Ingenieurin innerhalb von Aegis, der dreifachen
+  Supermacht-Organisation, die geschaffen wurde, um die Reaktion der Menschheit auf die
+  Thargoid-Bedrohung zu koordinieren. Ihre technische Expertise umfasste mehrere für
+  Anti-Xeno-Operationen essenzielle Fachgebiete, von der Waffenentwicklung bis zur Integration
+  von Verteidigungssystemen. Die Arbeit innerhalb von Aegis verschaffte Olmanova Zugang zu
+  Ressourcen und Forschungseinrichtungen aus allen Territorien der Föderation, des Imperiums
+  und der Allianz und ermöglichte es ihr, zu einigen der fortschrittlichsten militärtechnischen
+  Projekte ihrer Zeit beizutragen.
+
+  Ihre dokumentierte Laufbahn von 3304 bis 3309 deckte die kritische Frühphase des anhaltenden
+  Konflikts zwischen Menschen und Thargoiden ab, als Aegis darum rang, verstreute Begegnungen
+  in kohärente technologische Antworten zu übersetzen. Olmanovas Ingenieursarbeit unterstützte
+  die Entwicklung von Waffen und Verteidigungsplattformen, die unabhängige Piloten gegen die
+  außerirdischen Schiffe einsetzten. Ihre Beiträge veranschaulichen die wissenschaftlich-technische
+  Arbeit, auf der die Frontlinien-Kampfoperationen beruhten, und die rohe Forschung in praktisch
+  einsetzbare Systeme gegen einen technologisch überlegenen Gegner überführte.
 ---
 
 

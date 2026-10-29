@@ -1,13 +1,18 @@
 ---
 uuid: f9fecf41-099b-5d1f-93f0-d6f472997ac9
 title: 'Thargoid War Update: May 3309'
+title_de: 'Thargoid-Kriegsupdate: Mai 3309'
 slug: thargoid_war_update_may_3309
 date: '3309-05-29'
 source: API
 summary: Sanderlyn reports on the Titan discoveries, Glaive-class hunters, Revenant
   ground drones, and the pulse wave scanner project, with Rademaker criticizing Tesreau's
   address.
+summary_de: Sanderlyn berichtet über die Titanen-Entdeckungen, Glaive-Klasse-Jäger,
+  Revenant-Bodendrohnen und das Pulswellen-Scanner-Projekt; Rademaker kritisiert
+  Tesreaus Rede.
 player_impact: Pilots continue anti-xeno operations and explore the Maelstroms.
+player_impact_de: Piloten führen Anti-Xeno-Operationen fort und erkunden die Maelströme.
 persons:
 - Jade Sanderlyn
 - Alba Tesreau
@@ -28,6 +33,13 @@ modern_impact: Sanderlyn's visceral description — 'the Titans, squatting at th
   throwing knives' is memorable. The framing of Revenants as 'actively defending abandoned
   settlements from human intruders' reinforces the colonization theory. Rademaker's
   'self-congratulatory hot air' dismissal maintains the rivalry.
+modern_impact_de: Sanderlyns eindringliche Schilderung — ‚die Titanen, geduckt im
+  Zentrum der ätzenden Wolken wie aufgeblähte Spinnen in ihren Netzen. Ich kann
+  nicht die Einzige sein, deren Eingeweide sich bei diesem Anblick verknoteten‘ —
+  ist kraftvoll. Die Beschreibung der Glaives als ‚mehrklingige Wurfmesser‘ ist
+  prägnant. Die Einordnung der Revenants als ‚aktive Verteidiger verlassener Siedlungen
+  gegen menschliche Eindringlinge‘ stärkt die Kolonisierungsthese. Rademakers
+  Abqualifizierung als ‚selbstbeweihräuchernde heiße Luft‘ hält die Rivalität aufrecht.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -38,6 +50,18 @@ related_uuids:
 - 2772dd60-46ae-52c7-a828-37bd0f391e7d
 - 92fb9612-203a-579d-a494-7165138502aa
 - 514110ce-a03f-5dec-9403-eb1e16bf5695
+body_de: |
+  Jade Sanderlyn von Vox Galactica berichtet über die Entdeckung der Titanen und neue Thargoid-Fahrzeuge sowohl im Weltraum als auch auf besetzten Welten.
+
+  „Das wahre Ausmaß der Herausforderung, vor der die Menschheit steht, wurde in diesem Monat deutlich, als wir endlich erfuhren, was sich in den Maelströmen verbirgt. Lange wurde vermutet, dass die Thargoids über ‚Mutterschiffe‘ verfügen. Doch wenige waren auf die schockierende Realität der Titanen vorbereitet, geduckt im Zentrum der ätzenden Wolken wie aufgeblähte Spinnen in ihren Netzen. Ich kann nicht die Einzige sein, deren Eingeweide sich bei diesem ersten Anblick dieser schwebenden Monstrositäten verknoteten."
+
+  „Die Maelströme brachten zudem einen neuen Typus thargoidischer Schiffe hervor — den aggressiven Glaive-Klasse-Jäger. Diese ähneln mehrklingigen Wurfmessern und zeichneten schnell Blut, als sie sich wütend in unsere Mitte stürzten. Es gibt Berichte über Glaives in Systemen, die den Thargoid-Invasionsflotten zum Opfer gefallen sind, wo sie jedes Schiff abfangen, das ihnen in die Quere kommt."
+
+  „Weitere Überraschungen folgten in diesen Systemen, als Bodentruppen von schwer bewaffneten Drohnen verfolgt wurden. Die Revenants, wie sie genannt wurden, scheinen verlassene Siedlungen aktiv gegen menschliche Eindringlinge zu verteidigen. Auch dies trägt zu dem Eindruck bei, dass die Thargoids eine dauerhafte Präsenz auf unseren Welten anstreben."
+
+  „Positiv zu vermerken ist, dass der in Kürze erscheinende Pulswellen-Xeno-Scanner von Aegis entscheidend zur Datenerhebung über die Titanen beitragen dürfte. Eine gut aufgenommene öffentliche Rede von Professorin Alba Tesreau untermauerte die Bedeutung von Aegis im Krieg — trotz der wie zu erwarten etwas vorhersehbaren Kritik von Azimuth-Biotech-CEO Torben Rademaker, der sie als ‚selbstbeweihräuchernde heiße Luft‘ abqualifizierte."
+
+  „Bei solchen technologischen Durchbrüchen und dem erbitterten Widerstand an der Front ist es noch ein langer Weg, bevor die Thargoids die Kernsysteme für sich beanspruchen können. Jade Sanderlyn für Vox Galactica. Bleiben Sie vorsichtig da draußen."
 ---
 
 

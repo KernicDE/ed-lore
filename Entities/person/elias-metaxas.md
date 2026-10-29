@@ -9,6 +9,11 @@ bio: Elias Metaxas is a prominent figure in the Elite Dangerous universe, active
   3307-12-10 to 3309-05-01. Closely associated with FIA, Vox Galactica. Evidence suggests
   the Winking Cat has sold stolen artworks to private collectors including Elias Metaxas,
   raising questions about the thief's motives and future plans.
+bio_de: Elias Metaxas ist eine prominente Figur im Elite-Dangerous-Universum, aktiv von
+  3307-12-10 bis 3309-05-01. Eng verbunden mit FIA und Vox Galactica. Hinweise deuten
+  darauf hin, dass die Winking Cat gestohlene Kunstwerke an Privatsammler verkauft hat,
+  darunter Elias Metaxas, was Fragen nach den Motiven und künftigen Plänen des Diebes
+  aufwirft.
 ---
 
 

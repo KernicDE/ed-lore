@@ -11,6 +11,19 @@ bio: 'Viola Trask is a Ceo in Elite Dangerous lore, active from 3305-06-29 to 33
   designer narcotic far more addictive than existing sub...; Red Family co-founder
   Jan Sandoval unexpectedly surrenders to the Federal Intelligence Agency and offers
   to testify against the cartel''s leadership...'
+bio_de: |-
+  Viola Trask ist eine leitende Agentin der Federal Intelligence Agency, die Mitte 3305 die
+  Schutzhaft des Mitbegründers des Kartells Red Family, Jan Sandoval, überwachte. Im Juli 3305
+  drang ein Söldnerkommando in den FIA-Hauptsitz in Olympus Village ein und versuchte, Sandoval
+  zu ermorden, der sich ergeben hatte, um gegen die Führung des Kartells auszusagen.
+
+  Trask bezeichnete den Einbruch als „außergewöhnlich" und stellte fest, dass die Söldner
+  gefälschte Ausweise bei sich trugen, um die Sicherheitskontrollen zu umgehen. Der
+  Attentatsversuch wurde neutralisiert, bevor das Kommando Sandoval erreichen konnte, was
+  Trasks Überzeugung bestätigte, dass Sandovals Aussage eine reale Bedrohung für die Existenz
+  von Red Family darstellte. Trasks Führung während der Krise unterstrich das Engagement der
+  FIA, Schlüsselzeugen zu schützen, während korrupte Elemente innerhalb der Behörde versuchten,
+  sie zum Schweigen zu bringen.
 ---
 
 

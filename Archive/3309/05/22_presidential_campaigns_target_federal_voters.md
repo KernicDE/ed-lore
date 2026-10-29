@@ -1,13 +1,18 @@
 ---
 uuid: 86a02668-2ae1-5d51-83e8-9071ba93b836
 title: Presidential Campaigns Target Federal Voters
+title_de: Präsidentschaftskampagnen werben um föderale Wähler
 slug: presidential_campaigns_target_federal_voters
 date: '3309-05-22'
 source: API
 summary: The three presidential candidates ramp up campaigns for the delayed August
   election, with media coverage focusing on character over policy and the war casting
   a shadow over voter optimism.
+summary_de: Die drei Präsidentschaftskandidaten intensivieren ihre Kampagnen für die
+  verschobene August-Wahl; die Medienberichterstattung konzentriert sich auf die
+  Persönlichkeit statt auf Inhalte, und der Krieg verdunkelt den Optimismus der Wähler.
 player_impact: Not specifically mentioned — this is a political report.
+player_impact_de: Keine direkten Auswirkungen auf Piloten — dies ist ein politischer Bericht.
 persons:
 - Jerome Archer
 - Felicia Winters
@@ -30,12 +35,35 @@ modern_impact: Trevino's summary of the candidates — Archer as 'similar leader
   more on character than policies' — is a media critique. The observation that 'some
   are even wondering if this might be the last president they ever elect' captures
   wartime anxiety.
+modern_impact_de: Trevinos Zusammenfassung der Kandidaten — Archer mit ‚ähnlichem
+  Führungsstil und Fokus auf interstellare Sicherheit‘, Winters mit ‚menschlich
+  orientierterem Ansatz‘, Rackham als ‚Joker‘ — ist prägnant. Chens Analyse — ‚föderale
+  Nachrichtendienste konzentrieren sich stärker auf Persönlichkeit als auf Inhalte‘
+  — ist eine Medienkritik. Die Feststellung, dass ‚sich manche sogar fragen, ob dies
+  der letzte Präsident sein könnte, den sie je wählen‘, zeigt die Kriegsangst der
+  Bevölkerung.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 1ac8d03e-9598-5693-ab0a-a6843407fbf2
 - a1b8a394-834d-5abc-bae2-ab0de6f5c25a
 - 28c59782-1b59-5571-b624-f6741ded3aea
+body_de: |
+  Jerome Archer, Felicia Winters und Zachary Rackham werben um öffentliche Unterstützung, während sich die Föderation auf die Präsidentschaftswahl im August vorbereitet.
+
+  Die Politik-Korrespondentin Sofia Trevino begleitete das Rennen für die Federal Times:
+
+  „Da die achtjährige Amtszeit von Zachary Hudson ihrem Ende zugeht, müssen die Bürger bis zum Jahresende entscheiden, wer Präsident der Föderation wird. Die Wahlkampfmaschinerien aller drei Kandidaten laufen auf Hochtouren, und Kampagnenslogans erscheinen an allen föderalen Sternenhäfen."
+
+  „Die Republikanische Partei setzt auf den derzeitigen Vizepräsidenten Jerome Archer, der die treuen Anhänger Hudsons mit seinem ähnlichen Führungsstil und dem Fokus auf interstellare Sicherheit beruhigen will. Schattenpräsidentin Felicia Winters, Vorsitzende der Liberalen Partei, verspricht eine menschenfreundlichere Regierungspolitik. Und der Joker ist der unabhängige Kandidat Zachary Rackham, dessen Reichtum und Bekanntheit ihm eine reelle Chance gegen die politischen Schwergewichte verschaffen."
+
+  „Der Kongress hat bestätigt, dass der Wahltag aufgrund der vielfältigen Auswirkungen des Thargoid-Krieges auf Regierungsverfahren auf später im Jahr verschoben wurde. Es wird erwartet, dass Präsident Hudson bis zur offiziellen Amtseinführung des Siegers die Amtsgeschäfte kommissarisch weiterführt."
+
+  Die Reporterin Patricia Chen von Vox Galactica analysierte die Medienberichterstattung:
+
+  „Typischerweise konzentrieren sich föderale Nachrichtendienste stärker auf Persönlichkeit als auf Inhalte. Die Federal Free Press erhielt ausführliche Interviews mit Winters und Isolde Rochester, während Sol Today Sammelausgaben veröffentlichte, die Hudsons Präsidentschaft als ‚goldenes Zeitalter‘ feierten. Am Rande finden sich Gestalten wie ICE-Kaster Sura Oyekan, der die Wahl von Rackham als Weg zur Revolutionierung der Gesellschaft propagiert."
+
+  „Was nicht typisch ist: Diese Wahl findet in Kriegszeiten statt. Der andauernde Thargoid-Konflikt hat einen Schatten auf den Optimismus der Wähler für die Zukunft geworfen. Manche fragen sich sogar, ob dies der letzte Präsident sein könnte, den sie je wählen — falls die außerirdische Invasion der Kernsysteme sich als unaufhaltsam erweisen sollte."
 ---
 
 

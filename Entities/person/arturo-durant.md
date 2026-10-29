@@ -9,6 +9,8 @@ bio: Arturo Durant is a senator in the Elite Dangerous universe, active from 330
   to 3309-03-06. Closely associated with Marlinist, Imperial Herald. Senator Arturo
   Durant argues the Marlinist Colonies should have accepted Imperial protectorate
   status for protection against the Thargoids.
+bio_de: |-
+  Arturo Durant ist ein Senator im Elite-Dangerous-Universum, aktiv von 3308-05-02 bis 3309-03-06. Eng verbunden mit den Marlinisten und dem Imperial Herald. Senator Arturo Durant argumentiert, die Marlinistischen Kolonien hätten den Status eines imperialen Protektorats zum Schutz vor den Thargoids annehmen sollen.
 ---
 
 

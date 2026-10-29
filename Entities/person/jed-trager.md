@@ -8,6 +8,9 @@ mention_count: 3
 bio: Jed Trager is a admiral in the Elite Dangerous universe, active from 3304-07-13
   to 3309-03-07. Closely associated with Alliance Defence Force. Council member Jed
   Trager calls it an egregious transgression.
+bio_de: Jed Trager ist ein Admiral im Elite-Dangerous-Universum, aktiv von 3304-07-13
+  bis 3309-03-07. Er steht in engem Zusammenhang mit der Allianz-Verteidigungsstreitmacht.
+  Ratsmitglied Jed Trager bezeichnete es als eklatanten Verstoß.
 ---
 
 

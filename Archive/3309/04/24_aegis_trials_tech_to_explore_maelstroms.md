@@ -1,12 +1,17 @@
 ---
 uuid: 34a4da27-729e-5925-83be-c352b3d06b68
 title: Aegis Trials Tech to Explore Maelstroms
+title_de: Aegis testet Technologie zur Erkundung von Maelstromen
 slug: aegis_trials_tech_to_explore_maelstroms
 date: '3309-04-24'
 source: API
 summary: Aegis develops and begins unmanned testing of the Thargoid pulse neutraliser,
   building on Elvira Martuuk's 3303 shutdown field neutraliser design.
+summary_de: Aegis entwickelt den Thargoid-Impulsneutralisator und beginnt mit unbemannten
+  Tests, aufbauend auf Elvira Martuuks Konstruktion des Abschaltfelds-Neutralisators
+  von 3303.
 player_impact: Not specifically mentioned — this is a research report.
+player_impact_de: Keine
 persons:
 - Alba Tesreau
 - Ivano Colombera
@@ -27,6 +32,12 @@ modern_impact: Tesreau's explanation — 'the wave physically repels all human s
   and calibration 'to its specific waveform' — shows engineering sophistication. The
   plan for 'unmanned' initial tests and 'specially constructed probes' demonstrates
   caution.
+modern_impact_de: Tesreaus Erklärung – ‚die Woge stößt alle menschlichen Schiffe
+  physisch ab und stört die Bordelektrik' – beschreibt die Gefahr des Maelstroms.
+  Colomberas technische Details – ‚hatte seine Wirksamkeit verstärkt, wenn er zum
+  richtigen Zeitpunkt ausgelöst wurde' und die Kalibrierung ‚auf seine spezifische
+  Wellenform' – zeigen ausgefeiltes Ingenieurwesen. Der Plan ‚unbemannter' Ersttests
+  und ‚speziell konstruierter Sonden' zeigt Vorsicht.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -34,6 +45,35 @@ related_uuids:
 - 2e7e258a-5974-5a34-b102-93d10a22c438
 - c44eb127-7e09-52f5-802c-b31fe5285aa9
 - ec828667-8543-58f8-ad27-69e052777f6f
+body_de: |
+  Es wurden Prototypen eines neuen Moduls entwickelt, das darauf ausgelegt ist, die
+  gewaltige Energiewoge zu kontern, mit der Schiffe innerhalb von Thargoid-Maelstromen
+  konfrontiert werden.
+  Professorin Alba Tesreau gab eine öffentliche Erklärung ab:
+  „Intensive Erforschung der Maelstrome durch alliierte, föderale und imperiale Spezialisten
+  hat praktische Ergebnisse gebracht. Wir haben ein Gerät entworfen, das ein Schiff
+  kurzzeitig gegen die überwältigenden Auswirkungen der Energiewoge eines Maelstroms
+  isoliert. Normalerweise stößt die Woge alle menschlichen Schiffe physisch ab und stört
+  die Bordelektrik."
+  „In Kombination mit unserem Ätzstrahlschleusenwerfer wird der Thargoid-Impulsneutralisator
+  den Zugang zu den innersten Regionen der außerirdischen Wolken ermöglichen. Meine
+  Hoffnung ist, dass dieser Durchbruch Wissen über die Thargoid-Invasionsflotten offenlegt,
+  das wir dringend benötigen."
+  Weitere Einzelheiten lieferte Ivano Colombera, der wissenschaftliche Verbindungsoffizier
+  des Imperiums bei Aegis:
+  „Der Thargoid-Impulsneutralisator baut auf dem Abschaltfelds-Neutralisator auf, den
+  Elvira Martuuk ursprünglich 3303 entwickelte. Mit aufgerüsteten Komponenten haben
+  die Techniker von Aegis seine Wirksamkeit verstärkt, wenn er zum richtigen Zeitpunkt
+  ausgelöst wird."
+  „Unser Hauptziel war es, den elektromagnetischen Impuls zu durchbrechen, der sich
+  in einer Maelstrom-Wolke bildet, wenn sich menschliche Schiffe etwa 50 Kilometer
+  vom Zentrum entfernt befinden. Daten von mutigen Piloten, die diese Erfahrung überlebten,
+  ermöglichten uns die Kalibrierung eines Schilds auf die spezifische Wellenform, die
+  ein Schiff die Wirkung überstehen lassen sollte."
+  Aegis bestätigte, dass die ersten Testflüge des Thargoid-Impulsneutralisators unbemannt
+  sein werden. Die Prototypen wurden an speziell konstruierten Sonden montiert, die
+  ferngesteuert in einen Maelstrom geschleust werden, während die Techniker die Telemetriedaten
+  in Echtzeit überwachen.
 ---
 
 

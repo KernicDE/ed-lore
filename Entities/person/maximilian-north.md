@@ -7,6 +7,10 @@ last_seen_date: '3309-03-02'
 mention_count: 4
 bio: 'Project director at Sirius Atmospherics, Dr Maximilian North led ambitious
   terraforming initiatives in the Coalsack Nebula during the late 3300s.'
+bio_de: |-
+  Dr. Maximilian North ist Projektleiter bei Sirius Atmospherics, einer Tochtergesellschaft der Sirius Corporation, die sich auf planetare Eingriffe spezialisiert hat. Ende 3306 leitete er ein ehrgeiziges Projekt zur Terraformierung von Planeten auf Ammoniakbasis im Kohlensack-Nebel und arbeitete dabei mit der Allianz zusammen, um in der Region neue Kolonien zu errichten.
+
+  Norths Team entwickelte revolutionäre Terraforming-Verfahren, die speziell für terrestrische Planeten mit ammoniakhaltiger Atmosphäre ausgelegt waren, und stellte damit einen bedeutenden Fortschritt der Umwandlungstechnologie dar. Er koordinierte eine galaxisweite Ausschreibung von Erkundungsdaten unabhängiger Piloten und nutzte die gesammelten Informationen, um in einer der feindseligsten Regionen des Weltraums die geeignetsten Ziele für die Umwandlung zu bestimmen.
 ---
 
 

@@ -1,13 +1,18 @@
 ---
 uuid: 465c6592-f3d8-5b55-9c4f-2b7b1e60f6ee
 title: Thargoids Devastate Witch Head Enclave
+title_de: Thargoids verwüsten die Witch-Head-Enklave
 slug: thargoids_devastate_witch_head_enclave
 date: '3309-02-16'
 source: API
 summary: Thargoid fleets overrun populated systems in the Witch Head Nebula, destroying
   starports and leaving tens of thousands of casualties.
+summary_de: Thargoid-Flotten überrennen besiedelte Systeme im Witch-Head-Nebel, zerstören
+  Sternenhäfen und fordern zehntausende Opfer.
 player_impact: Pilots were desperately requested to provide immediate reinforcements
   and support to the Alliance Expeditionary Pact in the Witch Head Enclave.
+player_impact_de: Piloten wurden dringend gebeten, der Allianz-Expeditions-Pakt in
+  der Witch-Head-Enklave sofortige Verstärkung und Unterstützung zu liefern.
 persons:
 - Chloe Sedesi
 - Warren Lamar
@@ -30,6 +35,11 @@ modern_impact: 'Chloe Sedesi transmitted: "...emergency SOS from the Shenve syst
   The Thargoids... full-scale invasion. They''ve hit us hard." This harrowing testimony
   captures the unprecedented scale of the Titan War''s frontier assaults, where even
   remote nebula colonies faced total annihilation far from core system rescue services.'
+modern_impact_de: 'Chloe Sedesi übermittelte: „…Notruf SOS aus dem System Shenve. Die
+  Thargoids … großangelegte Invasion. Sie haben uns hart getroffen." Diese eindringliche
+  Schilderung fasst das beispiellose Ausmaß der Grenzangriffe des Titan-Krieges, bei
+  denen selbst abgelegene Nebelkolonien weit entfernt von Rettungsdiensten der Kernsysteme
+  der völligen Vernichtung gegenüberstanden.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -37,6 +47,31 @@ related_uuids:
 - 40d9b854-2973-5053-a42d-6955f8876544
 - 69df1032-f6ec-58b2-9b05-cbcb3c243462
 - 6ff3de2d-b9ea-5bba-8292-3fb89b446bff
+body_de: |
+  **Pilots’ Federation ALERT**
+  Besiedelte Systeme im Witch-Head-Nebel wurden von Thargoid-Flotten überrannt, was
+  zu weitreichendem Chaos führte.
+  Thargoid-Schiffe griffen Sternenhäfen und planetare Basen direkt an und forderten
+  zehntausende Opfer. Da sich der Nebel mehrere hundert Lichtjahre von den Kernsystemen
+  entfernt befindet, kämpfen die Rettungsdienste damit, den fliehenden Überlebenden
+  zu helfen.
+  Vox Galactica veröffentlichte eine fragmentarische Nachricht, die von der Ingenieurin
+  Chloe Sedesi übermittelt wurde:
+  „…Notruf SOS aus dem System Shenve. Die Thargoids … großangelegte Invasion. Sie
+  haben uns hart getroffen. Die … mein Team evakuiert und die Cinder Dock aufgegeben.
+  Wir versuchen, wegzukommen von … Schwärmen von ihnen, in jede Richtung, in die wir
+  uns wenden. Falls irgendjemand dies empfängt, wir …"
+  Kapitän Warren Lamar, Sicherheitschef des Allianz-Expeditions-Pakts, gab folgende
+  Erklärung ab:
+  „In den vergangenen Jahren haben wir mehrere Angriffe der Thargoids abwehren können,
+  doch das reine Ausmaß dieser Angriffe ist beispiellos. Das Megaschiff Golden Stag
+  in Onoros wurde zerstört und der Großteil unserer Streitkräfte zersprengt. Ich habe
+  dringend Verstärkung von der Allianz angefordert, doch wir benötigen verzweifelt
+  sofortige Unterstützung."
+  Die Witch-Head-Enklave wurde 3305 nach der Entdeckung von Barnacle-Stätten gegründet,
+  die von der Allianz kommerziell als Quellen für Meta-Legierungen ausgebeutet wurden.
+  Dr Maximo Fonseca und andere führende Xenologen vermuten, dass die Sicherung barnacle-reicher
+  Systeme Teil der Expansionsstrategie der Thargoids ist.
 ---
 
 

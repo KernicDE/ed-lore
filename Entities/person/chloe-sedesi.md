@@ -8,6 +8,21 @@ mention_count: 3
 bio: 'A starship engineer and former apprentice of Professor Ishmael Palin, Chloe Sedesi
   established a major engineering facility at Cinder Dock in the Witch Head Nebula in
   3305.'
+bio_de: |-
+  Nachdem sie ihre Lehre bei Professor Ishmael Palin – einer der führenden Autoritäten
+  der Galaxie für außerirdische Objekte und fortschrittliche Materialien – abgeschlossen
+  hatte, suchte Chloe Sedesi die Unabhängigkeit vom Schatten ihres Mentors. Im August
+  3305 siedelte sie in den Witch-Head-Nebel um und errichtete in Cinder Dock ihre eigene
+  technische Anlage, wo sie Palins strenge Methodik in eine Grenzregion brachte, die
+  dringend nach Fachwissen verlangte.
+  Der Standort im Witch-Head-Nebel erwies sich als strategisch klug. Als sich die
+  Besiedlung der Allianz im Zuge des Expeditionary Pact beschleunigte, wurde Sedesis
+  Anlage zu einem unverzichtbaren Zwischenstopp für Piloten, die die gefährlichen
+  Strömungen des Nebels durchquerten. Ihre Arbeit an Schiffsmodifikationen, insbesondere
+  im Bereich Wärmemanagement und Sprungoptimierung, adressierte die spezifischen
+  Herausforderungen von Operationen in Nebeln. Bis 3309 hatte sich Sedesi einen von
+  Palin losgelösten Ruf erarbeitet – bekannt für praktische technische Lösungen, die auf
+  die Gefahren der Exploration im Tiefennebel zugeschnitten sind.
 ---
 
 

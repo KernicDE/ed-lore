@@ -1,12 +1,17 @@
 ---
 uuid: 1ac8d03e-9598-5693-ab0a-a6843407fbf2
 title: Rackham Fundraiser Secures Political Backing
+title_de: Rackhams Spendengala erhält politische Unterstützung
 slug: rackham_fundraiser_secures_political_backing
 date: '3309-05-01'
 source: API
 summary: Zachary Rackham holds a lavish fundraiser revealing Anya Blackriver as campaign
   manager, celebrity endorsements, and Congressman Harlan Turk as running mate.
+summary_de: Zachary Rackham veranstaltet eine opulente Spendengala, bei der Anya
+  Blackriver als Kampagnenmanagerin, Prominente als Unterstützer und Kongressabgeordneter
+  Harlan Turk als Vizekandidat vorgestellt werden.
 player_impact: Not specifically mentioned — this is a political report.
+player_impact_de: Nicht explizit erwähnt — dies ist ein politischer Bericht.
 persons:
 - Zachary Rackham
 - Sofia Trevino
@@ -30,6 +35,13 @@ modern_impact: Trevino's observation that 'Campaign finance laws forbid Zachary 
   shows professional PR. The endorsement from 'Sir' Randolph Plaskett of the Knights
   of Enterprise and media barons Metaxas and McFarlane signal establishment support.
   Turk's defection from the Republican Party is significant.
+modern_impact_de: Trevinos Beobachtung, dass ‚das Kampagnenfinanzierungsrecht Zachary
+  Rackham verbietet, sein eigenes Vermögen für seine Präsidentschaftskandidatur zu
+  verwenden', erklärt die Notwendigkeit der Spendengala. Die Enthüllung von Blackriver
+  als ‚Urheberin seines Slogans Genauso wie ich' zeigt professionelles PR-Handwerk.
+  Die Unterstützung von ‚Sir' Randolph Plaskett der Knights of Enterprise sowie der
+  Medienmogule Metaxas und McFarlane signalisiert den Rückhalt des Establishments.
+  Turks Wechsel von der Republikanischen Partei ist bedeutsam.
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -37,6 +49,14 @@ related_uuids:
 - 28c59782-1b59-5571-b624-f6741ded3aea
 - d5819466-08f7-501e-b3cf-cbf9bd4494c1
 - 2bb62465-0b86-5863-b66c-78972defe368
+body_de: |
+  Der unabhängige Präsidentschaftskandidat Zachary Rackham gab einen Gala-Ball für einige der reichsten und einflussreichsten Eliten der Föderation.
+  Die Federal Times veröffentlichte einen Bericht der Politik-Korrespondentin Sofia Trevino:
+  „Die extravaganten Feierlichkeiten im Fort Rackham (ehemals Fort Falkenrath) auf der Taylor-Kolonie wirkten eher wie eine Party als wie eine Spendengala, doch ihre Ambitionen waren unverkennbar. Das Kampagnenfinanzierungsrecht verbietet Zachary Rackham, sein eigenes Vermögen für seine Präsidentschaftskandidatur zu verwenden, daher werden Verbindungen geknüpft, um Spenden und andere Formen der Unterstützung zu gewinnen."
+  „Mr Rackhams Kampagnenmanagerin — und Urheberin seines Slogans ‚Genauso wie ich' — wurde als Prominenten-PR-Beraterin Anya Blackriver vorgestellt. Sie organisierte viele berühmte Gäste, darunter die Medienmogule Elias Metaxas und Neive McFarlane, den jungen, aber beliebten ICE-Caster Sura Oyekan und den auffälligen Wirtschaftsmagnaten ‚Sir' Randolph Plaskett von den Knights of Enterprise."
+  „Die größte Überraschung war die Ankündigung, dass Kongressabgeordneter Harlan Turk, der hoch angesehene Vertreter des Systems Duamta, von der Republikanischen Partei zurückgetreten ist, um Mr Rackhams Vizekandidat zu werden. Vier unabhängige Kongressabgeordnete erklärten außerdem, dass sie sich seiner Kampagne anschließen, was dem Unternehmer echte politische Macht verleiht."
+  Der Nachrichtendienst Sol Today veröffentlichte einen zugehörigen Leitartikel:
+  „Präsident Hudson hat sich mit Ehre verdient gemacht und verdient unseren Respekt dafür, dass er die Bürger in den vergangenen Jahren sicher gehalten hat. Doch vielleicht ist es Zeit für frisches Blut im Herzen der Föderation? Könnten Zachary Rackhams unfehlbare unternehmerische Instinkte genau das sein, was nötig ist, um unsere Wirtschaft zu neuem Wohlstand zu führen?"
 ---
 
 

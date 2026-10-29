@@ -35,7 +35,7 @@ bio_de: Die Brewer Corporation ist ein großer Erkundungs- und Infrastrukturkonz
   wie es von Sprungcomputern von Flottenträgern genutzt wird, sodass mehrere Träger
   Systeme ohne Planeten oder Monde durchqueren können; von Piloten gelieferte Komponenten
   wurden an seinem Megaschiff Zero Squared im System HIP 74116 erbeten. Die Lieferinitiative
-  wurde nur Tage später als Erfolg gefeiert: Die ersten Satelliten wurden kalibriert in
+  wurde nur Tage später als Erfolg gefeiert. Die ersten Satelliten wurden kalibriert in
   Betrieb genommen und für die Stationierung in HD 105341 nahe Rackham's Peak bestätigt.
   Während Brewer
   sich als neutrale Unternehmensorganisation präsentiert, die alle drei Supermächte

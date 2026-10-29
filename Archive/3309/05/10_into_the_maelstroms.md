@@ -1,14 +1,20 @@
 ---
 uuid: 0e564062-8f87-5a40-bc09-eb4c1990a495
 title: Into the Maelstroms
+title_de: In die Maelstroms
 slug: into_the_maelstroms
 date: '3309-05-10'
 source: API
 summary: First ships equipped with Thargoid pulse neutralisers enter Maelstrom cores,
   encountering Thargoid patrols and confirming the anti-Guardian field from HIP 22460
   persists in all eight Maelstrom systems.
+summary_de: Die ersten mit Thargoid-Pulsneutralisatoren ausgerüsteten Schiffe dringen in die
+  Kerne der Maelstroms vor, stoßen auf Thargoid-Patrouillen und bestätigen, dass das
+  Antiguardian-Feld aus HIP 22460 in allen acht Maelstrom-Systemen weiterhin besteht.
 player_impact: Pilots equipped with Thargoid pulse neutralisers have entered Maelstrom
   inner regions and reported encounters with Thargoid forces.
+player_impact_de: Mit Thargoid-Pulsneutralisatoren ausgerüstete Piloten sind in die inneren
+  Regionen der Maelstroms vorgedrungen und berichten von Begegnungen mit Thargoid-Kräften.
 persons:
 - Daniel Parry
 - Emil Varga
@@ -28,6 +34,11 @@ modern_impact: Parry's report on 'pathfinder missions' and unauthenticated pilot
   field — 'weapons based on Guardian technology will not function and should be replaced'
   — is critical tactical information. The confirmation that all eight Maelstrom systems
   are affected establishes a universal threat characteristic.
+modern_impact_de: Parris Bericht über „Pathfinder-Missionen" und nicht verifizierte
+  Pilotenberichte zeigt die Phase der Informationsbeschaffung. Vargas Warnung vor dem
+  Antiguardian-Feld — „Waffen auf Basis von Guardian-Technologie funktionieren nicht und
+  sollten ersetzt werden" — ist kritische taktische Information. Die Bestätigung, dass
+  alle acht Maelstrom-Systeme betroffen sind, etabliert eine universelle Gefahrencharakteristik.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -36,6 +47,15 @@ related_uuids:
 - c44eb127-7e09-52f5-802c-b31fe5285aa9
 - e2e659a0-e859-563b-a0f9-ab3a09d26ca8
 - ec828667-8543-58f8-ad27-69e052777f6f
+body_de: |
+  Aegis hat bestätigt, dass die ersten mit Thargoid-Pulsneutralisatoren ausgerüsteten Schiffe in die inneren Regionen der Maelstroms vorgedrungen sind.
+  Das neue Modul bietet einen temporären Schutz gegen den elektromagnetischen Puls, der ausgelöst wird, wenn Schiffe einen bestimmten Punkt innerhalb der Maelstroms erreichen. Bisher verhinderte dieser alle Versuche, festzustellen, welche Thargoid-Konstrukte in den ätzenden Wolken existieren könnten.
+  Konteradmiral Daniel Parry, Verbindungsoffizier der Bundesmarine zu Aegis, berichtete:
+  „Bewaffnete Schiffe mit militärischer und xenologischer Besatzung sind nun in jeden Maelstrom entsandt worden. Diese Pathfinder-Missionen werden versuchen, möglichst viele taktische und umweltbezogene Daten zu sammeln."
+  „Wir haben außerdem Informationen von Kommandanten erhalten, die unversehrt aus den Kerngebieten der Maelstroms zurückkehrten. Diese Berichte können wir derzeit nicht verifizieren, doch sie werden gesammelt und analysiert. Die Oberkommandos der Allianz, der Föderation und des Imperiums werden zu gegebener Zeit einen offiziellen Bericht autorisieren."
+  Eine ergänzende Stellungnahme gab Kommodore Emil Varga, Militärverbindungsoffizier der Allianz, ab:
+  „Sind die vorläufigen Daten unabhängiger Piloten zutreffend, so ist ein gemeinsamer Faktor, dass sie auf eine erhebliche Thargoid-Präsenz trafen. Aegis warnt alle Piloten, dass sie die Maelstroms auf eigene Gefahr betreten und sich auf Kampfsituationen vorbereiten sollten."
+  „Alle acht Systeme mit Maelstroms sind weiterhin vom selben Antiguardian-Feld betroffen, das erstmals in HIP 22460 beobachtet wurde. Daher funktionieren Waffen auf Basis von Guardian-Technologie nicht und sollten durch andere Antixeno-Bewaffnung ersetzt werden."
 ---
 
 

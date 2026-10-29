@@ -1,13 +1,18 @@
 ---
 uuid: c29442f8-da7f-5d0f-842b-e2451abd99ef
 title: Marlinists Facing ‘Increasingly Grave’ Future
+title_de: Marlinisten vor „zunehmend düsterer" Zukunft
 slug: marlinists_facing_increasingly_grave_future
 date: '3309-03-06'
 source: API
 summary: The Marlinist Colonies struggle with corporate exploitation and Thargoid
   vulnerability, with Parliament signaling willingness to contribute to Aegis but
   lacking military capacity.
+summary_de: Die Marlinist-Kolonien kämpfen mit Ausbeutung durch Konzerne und Verwundbarkeit
+  gegenüber den Thargoids. Das Parlament signalisiert Bereitschaft, zu Aegis beizutragen,
+  verfügt jedoch nicht über eigene Militärkapazität.
 player_impact: Not specifically mentioned — this is a political report.
+player_impact_de: Keine explizit erwähnt – dies ist ein politischer Bericht.
 persons:
 - Arturo Durant
 - Octavia Volkov
@@ -27,6 +32,14 @@ modern_impact: The Marlin Standard's editorial — 'our people exploited by the 
   shows public sympathy. Volkov's admission — 'Without a dedicated military... our
   future prospects look increasingly grave' — is stark. Rios's broader observation
   about independent systems 'banding together' provides context.
+modern_impact_de: Der Leitartikel des Marlin Standard – „unser Volk wird von dem Opportunismus
+  benachbarter Fraktionen ausgebeutet" – ist eine Klage über die Unabhängigkeit. Durants
+  geringschätzige Bemerkung – „Sie stimmten dagegen, das Angebot des Kaisers anzunehmen
+  … nun müssen sie den Preis dafür zahlen" – ist typisch imperiale Schadenfreude. Der
+  „virale Kommentator", der die Kolonisten verteidigt, zeigt öffentliche Sympathie.
+  Volkovs Eingeständnis – „Ohne eigene Streitkräfte … sehen unsere Zukunftsaussichten
+  zunehmend düster aus" – ist ernüchternd. Rios' weitergehende Beobachtung über das
+  „Zusammenschlagen" unabhängiger Systeme liefert den Kontext.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -35,6 +48,37 @@ related_uuids:
 - a4e56a0c-8ed6-5ea0-8470-d26ed7eb10ac
 - eec09e5e-cb5a-590e-b38c-88e65e11dd5b
 - 589b5e3b-4024-5845-bb2d-55becd1e562f
+body_de: |
+  Die Marlinist-Kolonien kämpfen darum, die harte Realität der Unabhängigkeit zu überstehen,
+  während sie sich gleichzeitig auf die Auswirkungen des Thargoid-Kriegs vorbereiten.
+  Ein Leitartikel im Marlin Standard fasste ihre Lage zusammen:
+  „In den letzten Monaten wurde unser edles Ziel, eine marlinistische Republik aufzubauen,
+  hart beschnitten. Viele der ursprünglichen acht Koloniesysteme, darunter die Hauptstadt
+  Concordia, werden heute von Außenseitern dominiert, darunter föderale Unternehmen und
+  Unternehmen mit Sirius-Bindung. Wir haben Verfolgung, Bürgerkrieg und Terrorismus
+  überlebt, nur um festzustellen, dass unser Volk vom Opportunismus benachbarter Fraktionen
+  ausgebeutet wird."
+  Im Imperium ist die vorherrschende Ansicht, dass die Marlinisten die Konsequenzen
+  ihres eigenen Handelns erleiden. Wie Senator Arturo Durant anmerkte: „Sie stimmten
+  dagegen, das Angebot des Kaisers anzunehmen, ein imperialer Schutzstaat zu werden,
+  nun müssen sie den Preis dafür zahlen."
+  Hinzu kommt die wachsende Gefahr durch die Thargoids, deren Flotten immer tiefer in
+  die Kernsysteme vordringen. Der Nachrichtendienst Citizens' Chronicle hat besorgte
+  Nachrichten einiger imperialer Bürger für ihre marlinistischen Verwandten veröffentlicht.
+  Ein viral gehende Kommentatorin rief: „Die Kolonisten sind keine Feinde! Sie waren
+  einst unsere Lieben, unsere Freunde und Familie, vertrieben wegen ihrer politischen
+  Überzeugungen. Wie können wir ihnen den Rücken kehren?"
+  Das marlinistische Parlament signalisierte Bereitschaft, zu Aegis beizutragen, doch
+  seine Priorität ist die Kontrolle über die ihm vertraglich zugesicherten Systeme.
+  Premierministerin Octavia Volkov räumte ein: „Ohne eigene Streitkräfte, um dies zu
+  erreichen, sehen unsere Zukunftsaussichten zunehmend düster aus."
+  Die Lage der Marlinisten spiegelt sich andernorts wider, wie der Kriegsreporter Ernesto
+  Rios für Vox Galactica feststellte:
+  „Die Verwundbarkeit gegenüber Thargoid-Angriffen ist eine universelle Sorge unter
+  unabhängigen Systemen. Viele Fraktionen außerhalb der Supermächte schließen sich in
+  kleinen Clustern zusammen, um bei Anti-Xeno-Operationen zu kooperieren und Ressourcen
+  zu teilen. Angesichts der Vernichtung ist ein Gemeinschaftsgeist entstanden. Doch
+  wird das gegen die überwältigende Macht der Thargoids ausreichen?"
 ---
 
 

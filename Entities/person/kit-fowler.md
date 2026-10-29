@@ -10,6 +10,8 @@ bio: Kit Fowler is a conspiracy theorist and engineer who broadcasts the show En
   Salvation an AI construct, accusing Utopia of secretly creating a new species of human,
   and arguing that the universe's true shape is being concealed by superpower-sponsored
   holograms.
+bio_de: |-
+  Kit Fowler ist ein unabhängiger Ingenieur und Verschwörungstheoretiker, der von seiner Werkstatt im Capoya-System aus operiert. Er sendet eine Sendung namens End Times über das Netzwerk Rewired, moderiert vom Journalisten Flint „Firemaker" Lafosse. Fowler erlangte Berüchtigung für eine Reihe abwegiger Behauptungen, darunter die Einordnung der geheimnisvollen Anti-Xeno-Figur Salvation als KI-Konstrukt, den Vorwurf, Utopia hege heimlich eine neue menschliche Spezies, sowie die These, die wahre Gestalt des Universums werde durch hologramme der Supermächte verschleiert. Eine seiner eher bodenständigen Theorien betraf Black Flight, eine düstere Gruppe, die er mehrfache Verbrechen – einschließlich Mord – zur Vertuschung von Thargoid-Aktivitäten nach dem Ersten Krieg vorwarf.
 ---
 
 

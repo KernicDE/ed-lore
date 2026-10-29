@@ -1,14 +1,20 @@
 ---
 uuid: 45fc544b-0e8b-5226-9ea8-5a475d50bb80
 title: Thargoid ‘Hunter’ Vessel Class Confirmed
+title_de: Thargoid-Schiffsklasse ‚Jäger‘ bestätigt
 slug: thargoid_hunter_vessel_class_confirmed
 date: '3309-05-18'
 source: API
 summary: Aegis confirms the 'Glaive' class hunter vessel, initially encountered near
   Titans, is now interdicting ships in Thargoid-controlled systems and can disable
   Guardian-based weaponry.
+summary_de: Aegis bestätigt, dass das ‚Glaive‘-Klasse-Jägerschiff, erstmals nahe den
+  Titanen gesichtet, nun Schiffe in thargoidisch kontrollierten Systemen abfängt und
+  waffen auf Guardian-Basis außer Gefecht setzen kann.
 player_impact: Pilots encountering Glaive-class hunters should be prepared for aggressive
   attacks and Guardian weapon disablement.
+player_impact_de: Piloten, denen Glaive-Klasse-Jäger begegnen, sollten auf aggressive
+  Angriffe und die Ausschaltung von Waffen auf Guardian-Basis gefasst sein.
 persons:
 - Emil Varga
 - Aden Tanner
@@ -28,6 +34,13 @@ modern_impact: Varga's theory — 'our newfound ability to penetrate the Maelstr
   rapid tactical adaptation is not typical of this species' suggests concern. Tanner's
   tactical details — 'high-intensity energy weapons take the form of lightning bolts...
   this vessel is faster and more manoeuvrable' — are essential for pilots.
+modern_impact_de: Vargas Theorie — ‚unsere neu gewonnene Fähigkeit, die Maelströme
+  zu durchdringen, hat die Thargoids überrascht. Als Reaktion haben sie die Verteidiger
+  des Mutterschiffs in eine offensivere Rolle überführt‘ — ist aufschlussreich. Seine
+  Feststellung, dass ‚eine derart rasante taktische Anpassung für diese Spezies untypisch
+  ist‘, weist auf Besorgnis hin. Tanners taktische Details — ‚Energiewaffen hoher
+  Intensität nehmen die Form von Blitzen an … dieses Schiff ist schneller und
+  wendiger‘ — sind für Piloten essenziell.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -36,6 +49,24 @@ related_uuids:
 - 92fb9612-203a-579d-a494-7165138502aa
 - e2e659a0-e859-563b-a0f9-ab3a09d26ca8
 - f9fecf41-099b-5d1f-93f0-d6f472997ac9
+body_de: |
+  **Alarm der Pilots’ Federation**
+
+  Ein neuer Typus thargoidischer Schiffe, erstmals innerhalb der Maelströme gesichtet, fängt nun Schiffe in thargoidisch kontrollierten Systemen ab.
+
+  Aegis rückte die Bedrohung als Teil seiner Untersuchungen der thargoidischen Hauptschiffe in den Vordergrund. Kommodore Emil Varga, allianzischer militärischer Verbindungsoffizier, gab folgende Erklärung ab:
+
+  „Die ersten Entdecker, die die inneren Regionen der Maelströme durchbrachen, trafen auf ein bisher ungesehenes thargoidisches Schiff, größer als ein Aufklärer, aber kleiner als ein Abfänger. Diese mittelgroßen Fahrzeuge wurden als Jäger kategorisiert; diese spezifische Klasse erhielt aufgrund ihrer klingenartigen Auswüchse die Bezeichnung ‚Glaive‘."
+
+  „Die Glaives operierten nahe der Mutterschiffe, daher wurde zunächst angenommen, sie dienten als Wächter. Doch in den letzten Tagen sind sie in Systemen unter thargoidischer Kontrolle aufgetaucht. Piloten, die diese Begegnungen glücklicherweise überlebten, berichten, dass sie von den Glaives aus dem Superkreisflug gezwungen und aggressiv angegriffen wurden."
+
+  „Persönlich glaube ich, dass unsere neu gewonnene Fähigkeit, die Maelströme zu durchdringen, die Thargoids überrascht hat. Als Reaktion haben sie die Verteidiger des Mutterschiffs in eine offensivere Rolle überführt. Eine derart rasante taktische Anpassung ist für diese Spezies untypisch — ein gutes Zeichen dafür, dass wir sie beunruhigt haben."
+
+  Aden Tanner lieferte nach einer Forschungsmission weitere Details:
+
+  „Der Glaive ist extrem aggressiv und greift jedes menschliche Schiff in Reichweite an. Seine Energiewaffen hoher Intensität nehmen die Form von Blitzen an, ähnlich einem thargoidischen Abfänger, doch dieses Schiff ist schneller und wendiger."
+
+  „Anti-Xeno-Piloten sollten wissen, dass Glaives außerdem in der Lage sind, Waffen auf Guardian-Basis außer Gefecht zu setzen. Dies wurde erst deutlich, als man ihnen außerhalb der Maelstrom-Systeme begegnete, wo das Anti-Guardian-Feld der Thargoids permanent wirksam ist."
 ---
 
 

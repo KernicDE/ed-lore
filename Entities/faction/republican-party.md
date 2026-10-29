@@ -8,6 +8,8 @@ mention_count: 4
 bio: The Republican Party is one of the two major political parties in the Federation,
   alongside the Liberal Party. It advocates for military expansion, corporate alignment,
   and strong executive power. President Zachary Hudson is its most prominent leader.
+bio_de: |-
+  Die Republikanische Partei ist eine der beiden großen politischen Parteien der Föderation, neben der von Schattenpräsidentin Felicia Winters geführten Liberal Party. Die Republikaner treten für erhöhte Militärausgaben, die Nähe zu Konzernen und eine starke exekutive Gewalt ein. Präsident Zachary Hudson prägt die Partei seit 3301 als dominante Figur und lenkte ihre Agenda in Richtung Militarismus und Ausbau der Sicherheitsmaßnahmen. Die Partei sah internen Widerstand gegen Hudsons autoritärere Maßnahmen, darunter seinen Versuch, die Acht-Jahres-Amtszeitbegrenzung für den Präsidenten 3308 abzuschaffen. Analysten gehen dennoch davon aus, dass Hudson die Unterstützung seines Kabinetts und einer Mehrheit der republikanischen Kongressabgeordneten genießt.
 ---
 
 

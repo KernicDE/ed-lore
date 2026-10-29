@@ -3,6 +3,20 @@ id: cynthia-sideris
 name: Cynthia Sideris
 type: person
 mention_count: 0
+bio_de: |-
+  Vorsitzende von Universal Cartographics. Ein Titel, der nach Behaglichkeit klingt –
+  Karten, Daten, die Illusion, dass der Weltraum vermessen und damit gezähmt sei.
+  Cynthia Sideris war Ende 3311 nicht behaglich. Einer ihrer Kreuzer der Eridanus-Klasse,
+  die Guinevere, war im Tiefenraum spurlos verschwunden. Die Pilotenföderation, ihr
+  technologischer Partner und gelegentlicher Rivale, hatte den Verlust erst widerwillig
+  an Deep Space Surveys zugegeben, nachdem John Ermitage über Kanäle Druck ausgeübt
+  hatte, die Sideris lieber geschlossen gesehen hätte. Cal empfand die Lage als
+  „erfrischend“. Sideris vermutlich nicht. Ihr kartografisches Imperium beruhte auf der
+  Prämisse, dass Daten in beide Richtungen fließen: Schiffe vermessen, UC kompiliert,
+  Piloten kaufen. Ein vermisster Kreuzer unterbricht diesen Fluss. Er legt nahe, dass es
+  noch Orte gibt, an denen die Karte endet und das tatsächliche Terrain beginnt.
+  Sideris taucht in der DW3-Erzählung nie direkt auf. Ihre Abwesenheit ist der Punkt.
+  Manche Mächte wirken durch Schweigen.
 related_entities:
 - hermine-delarue
 - cal

@@ -1,13 +1,18 @@
 ---
 uuid: ec95aeea-a040-5284-a367-0e0c14ea4474
 title: The Mystery of the Mars Assassin
+title_de: Das Rätsel des Mars-Attentäters
 slug: the_mystery_of_the_mars_assassin
 date: '3309-04-25'
 source: API
 summary: The FIA reveals the assassin is a freelance mercenary named Kieran Rayne
   with no Imperial connections, and Caine-Massey withdraws its accusation against
   Torval.
+summary_de: Die FIA enthüllt, dass der Attentäter ein freiberuflicher Söldner namens
+  Kieran Rayne ohne imperiale Verbindungen ist, und Caine-Massey zieht den Vorwurf
+  gegen Torval zurück.
 player_impact: Not specifically mentioned — this is an investigative report.
+player_impact_de: Keine
 persons:
 - Viola Trask
 - Kieran Rayne
@@ -28,12 +33,53 @@ modern_impact: Trask's revelation — 'no evidence that Rayne was hired by Torva
   twist. Her observation that 'the evidence implicating an Imperial Intelligence agent
   was too good to be true' shows FIA competence. Barlow-Lyons's reluctant withdrawal
   — 'grief may have gotten the better of me' — is a rare corporate admission.
+modern_impact_de: Trasks Enthüllung – ‚keine Beweise dafür, dass Rayne von der Torval
+  Mining Ltd engagiert wurde ... Die imperial ausgegebene Waffe ... war eine bewusste
+  Wahl, um den Eindruck zu erwecken, das Attentat sei von Elementen im Inneren des
+  Imperiums angeordnet worden' – ist eine bedeutende Wendung. Ihre Feststellung, die
+  Beweise gegen einen Agenten des Imperialen Geheimdienstes seien ‚zu schön, um wahr
+  zu sein', zeigt die Kompetenz der FIA. Barlow-Lyons' widerstrebender Rückzug – ‚der
+  Schmerz mag in den letzten Tagen die Oberhand gewonnen haben' – ist ein seltenes
+  Unternehmensgeständnis.
 legacy_weight: 2
 significance: low
 related_uuids:
 - dc0a3b52-41d2-52f6-9311-d5e5ebe0eff6
 - d7c1ae35-aa55-50f5-af5a-90479b0a0037
 - 5cfb0d52-1732-5f48-a502-fc7d1aa11dfa
+body_de: |
+  Der mutmaßliche ‚imperiale Attentäter', der den Caine-Massey-CEO Johann Fleischer
+  erschossen hatte, wurde jeder Verbindung zum Imperium für unschuldig befunden.
+  Exekutivagentin Viola Trask der Bundesnachrichtenagentur (Federal Intelligence Agency)
+  gab eine Erklärung an die Medien ab:
+  „Unsere Untersuchung hat verifiziert, dass der Mann in unserer Gewalt ein professioneller
+  Söldner namens Kieran Rayne ist, ein gebürtiger Einwohner des Systems Alpha Caeli.
+  Seit über einem Jahrzehnt ist er als freiberuflicher Auftragskiller mit mehreren
+  falschen Identitäten aktiv. Das Motiv für den Mord ist bislang unklar."
+  „Trotz früher Anzeichen gibt es keine Beweise dafür, dass Rayne von der Torval Mining
+  Ltd engagiert wurde, um Herrn Fleischer auszuschalten. Der Auftrag wurde anonym über
+  ein unregistriertes Kommunikationsnetz arrangiert, auf das wir keinen Zugriff haben.
+  Die imperial ausgegebene Waffe und die Sicherheitsausrüstung, die er verwendete, wurden
+  ihm speziell für diese Aufgabe zur Verfügung gestellt. Dies scheint eine bewusste
+  Wahl zu sein, um den Eindruck zu erwecken, das Attentat sei von Elementen im Inneren
+  des Imperiums angeordnet worden."
+  „Es ist nicht unbemerkt geblieben, dass die Beweise, die einen Agenten des Imperialen
+  Geheimdienstes belasteten, ‚zu schön, um wahr zu sein' waren. Ich möchte betonen,
+  dass die FIA dieser Möglichkeit voll bewusst war. Es ist bedauerlich, dass die Führungskräfte
+  von Caine-Massey ihre Sicherheitskräfte in Tavgi einsetzten, bevor unsere Untersuchung
+  abgeschlossen war."
+  Der Kongress nahm den Bericht an und erklärte, dass keine weiteren Maßnahmen ergriffen
+  würden. Es wird erwartet, dass Rayne nach Abschluss der Vernehmungen durch die FIA
+  eine lebenslange Haftstrafe in einem Hochsicherheitsgefängnis erwartet.
+  Philippa Barlow-Lyons, die neue CEO von Caine-Massey, äußerte sich zu dieser Entwicklung
+  in einer Ansprache an die Mitarbeiter des Konzerns:
+  „Ich weiß, dass niemand jemals Johann ersetzen kann, der uns allen so viel bedeutet
+  hat. Zu seinem Andenken werde ich die Dinge genau so führen, wie er es gewollt hätte.
+  Wir haben keine andere Wahl, als die Ergebnisse der Untersuchung zu akzeptieren und
+  unsere Anschuldigung gegen Zemina Torval und ihre Familie offiziell zurückzuziehen.
+  Ich gebe zu, dass der Schmerz in den letzten Tagen die Oberhand gewonnen haben mag.
+  Doch in meinem Herzen weiß ich, dass eines Tages die Wahrheit ans Licht kommen wird
+  und die Schuldigen der föderalen Justiz gegenüberstehen werden."
 ---
 
 
