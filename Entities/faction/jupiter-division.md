@@ -17,6 +17,10 @@ bio: 'Jupiter Division is a organization active in Elite Dangerous lore from 330
   quarter of 3307, covering the NMLA''s rise, the Galactic Summit, the Nine Martyrs
   bombings, and the formati...; Mixed reactions emerge to the Proactive Detection
   Bureau''s surveillance programme.'
+bio_de: |-
+  Jupiter Division ist eine Abspaltung von Core Dynamics, gegründet vom ehemaligen CEO Jupiter Rochester, und setzt sich für die Ersetzung der demokratischen Regierung durch eine Korporatokratie in der Föderation ein. Trotz Rochesters Inhaftierung wegen Massenmords Anfang 3307 überlebte die Fraktion und wuchs, indem sie Anhänger der Unternehmensherrschaft anzog und die Kontrolle über HIP 54530 sowie mehrere benachbarte Systeme zurückeroberte.
+
+  Das Megaschiff der Fraktion, Victory's Forge, wehrte föderale Truppen erfolgreich ab und blieb mehrere Monate unter dem Kommando der Jupiter Division. Der neue Core-Dynamics-CEO Owen McKenna schwor, die abtrünnige Abteilung zu vernichten, und föderale Streitkräfte besiegten die Jupiter Division schließlich im Juni 3307. Der kurze Erfolg der Fraktion zeigte, dass korporatistisches Sentiment innerhalb der Föderation weiterbestand und einen politischen Unterstrom bildete, der die demokratischen Ideale selbst nach Rochesters Fall herausforderte.
 ---
 
 

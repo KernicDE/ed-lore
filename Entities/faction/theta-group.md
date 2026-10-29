@@ -17,6 +17,8 @@ bio: Theta Group is a organization in the Elite Dangerous universe, active from 
   the Sacrosanct megaship in the Mudhrid system. Theta Seven and his followers sacrifice
   themselves by destroying the Sacrosanct megaship in Mudhrid, killing thousands of
   Far God cultists, as ACT confirms the NMLA leader is dead.
+bio_de: |-
+  Theta Group ist eine Organisation im Elite-Dangerous-Universum, aktiv von 3307-12-07 bis 3307-12-13. Häufig in Verbindung mit Far-God-Kult, NMLA, Mudhrid. ACT gerät in eine angespannte Pattsituation mit Theta Seven, der Tausende Anhänger des Far-God-Kults als Geiseln an Bord des Megaschiffs Sacrosanct im System Mudhrid hält. Theta Seven und seine Anhänger opfern sich, indem sie das Megaschiff Sacrosanct in Mudhrid zerstören und dabei Tausende Anhänger des Far-God-Kults töten, woraufhin ACT bestätigt, dass der NMLA-Anführer tot ist.
 ---
 
 

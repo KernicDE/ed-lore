@@ -1,13 +1,18 @@
 ---
 uuid: b66e8e30-42d2-59bc-8536-4503118b6bea
 title: Bounties Placed on Criminal Faction
+title_de: Kopfgelder auf kriminelle Fraktion ausgesetzt
 slug: bounties_placed_on_criminal_faction
 date: '3308-03-17'
 source: API
 summary: Federal authorities offer bounties for the destruction of a pirate gang in
   the Gliese 868 system.
+summary_de: Behörden der Föderation setzen Kopfgelder für die Vernichtung einer Piratenbande
+  im System Gliese 868 aus.
 player_impact: Pilots were asked to hunt down a notorious pirate gang in the Gliese
   868 system.
+player_impact_de: Piloten wurden gebeten, eine berüchtigte Piratenbande im System
+  Gliese 868 zur Strecke zu bringen.
 groups:
 - Federal Security Service
 topics:
@@ -17,6 +22,9 @@ topics:
 modern_impact: '"Federal authorities have requested help in hunting down a notorious
   pirate gang in the Gliese 868 system." The bounty campaign illustrates the ongoing
   reliance on independent pilots for routine law enforcement.'
+modern_impact_de: „Behörden der Föderation haben um Hilfe bei der Jagd auf eine berüchtigte
+  Piratenbande im System Gliese 868 gebeten." Die Kopfgeldaktion zeigt die weiterhin
+  bestehende Abhängigkeit von unabhängigen Piloten bei der routinemäßigen Strafverfolgung.
 legacy_weight: 1
 significance: low
 related_uuids:
@@ -25,6 +33,15 @@ related_uuids:
 - e94289e7-a780-5d7e-a94c-ba77150422a4
 - 4a1d51ec-7fbc-53e4-b9d8-29e6e3f14744
 - 4f5bb72d-f757-5aea-bac2-311684658508
+body_de: |
+  **ALARM der Pilotenföderation**
+  Behörden der Föderation haben um Hilfe bei der Jagd auf eine berüchtigte Piratenbande im System Gliese 868 gebeten.
+  Der Aufruf zu den Waffen wurde von der Fraktion Gliese 868 Services ausgesendet:
+  „In letzter Zeit konzentrierten sich die meisten Sicherheitsdienste der Föderation auf den Umgang mit politischen Protesten. Dies bot Kriminellen Gelegenheiten, Chaos anzurichten, indem sie Handelskonvois überfielen und im gesamten Gebiet Piraterie gegen Schiffe verübten."
+  „Mit Hilfe von Mitteln aus dem Kongress haben wir eine Kampagne gestartet, um alle gesuchten Schiffe zu vernichten, die in unserem System operieren. Unabhängige Piloten werden gebeten, uns dabei zu helfen, die von diesen Kriminellen ausgehende Bedrohung zu beseitigen und die auf sie ausgesetzten Kopfgelder zu kassieren."
+  In einer Erklärung gegenüber dem Nachrichtenkanal sagte Außenministerin Lana Berkovich:
+  „Das öffentliche Interesse an der Hudson-Kontravention ist enorm, die Gefühle auf beiden Seiten kochen hoch. Es ist jedoch bedauerlich, dass dies unsere Sicherheitskräfte gebunden und diesen Verbrechern freie Hand gelassen hat. Alle Mitglieder des Kongresses sind sich einig, dass wir mit der Unterstützung der galaktischen Gemeinschaft ein Exempel an ihnen statuieren müssen, um weitere Kriminalität abzuschrecken."
+  Kopfgeldnachweise können in Bacon Port in Gliese 868 eingelöst werden. Die Kampagne wird voraussichtlich bis zum 24. März 3308 laufen.
 ---
 
 

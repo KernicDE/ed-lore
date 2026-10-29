@@ -1,11 +1,15 @@
 ---
 uuid: ccf19834-17e9-5709-bfe4-33df626af838
 title: ACT Disbanded Following Defeat of NMLA
+title_de: ACT nach Niederlage der NMLA aufgelöst
 slug: act_disbanded_following_defeat_of_nmla
 date: '3308-03-07'
 source: API
 summary: The superpowers dissolve ACT after the NMLA threat is officially neutralized.
+summary_de: Die Supermächte lösen ACT, nachdem die NMLA-Bedrohung offiziell als beseitigt
+  gilt, auf.
 player_impact: Not specifically mentioned — this is a diplomatic report.
+player_impact_de: Keine
 persons:
 - Arissa Lavigny-Duval
 groups:
@@ -26,6 +30,10 @@ modern_impact: '"ACT''s primary mission to locate and destroy the Neo-Marlinist 
   Army has been successfully accomplished." ACT''s dissolution closes a remarkable
   chapter of trisuperpower counter-terrorism cooperation, though its legal framework
   remains active.'
+modern_impact_de: '"Der primäre Auftrag von ACT, die Neo-Marlinist Liberation Army
+  aufzuspüren und zu vernichten, wurde erfolgreich erfüllt." Die Auflösung von ACT
+  schließt ein bemerkenswertes Kapitel trisupermächtiger Anti-Terror-Zusammenarbeit,
+  doch ihr rechtlicher Rahmen bleibt bestehen.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -42,6 +50,13 @@ related_uuids:
 - e899c6a7-d0d6-5407-a5b7-8a422e4753d7
 - f5584566-270a-5fe5-b405-8e6f45fb1826
 - 4351d476-bc65-5dc9-be81-08179f479f48
+body_de: |
+  Die Allianz, das Imperium und die Föderation haben sich darauf geeinigt, die Affiliated Counter-Terrorism-Einheit aufzulösen.
+  In einer gemeinsamen Erklärung aller drei Supermächte hieß es: „Der primäre Auftrag von ACT, die Neo-Marlinist Liberation Army aufzuspüren und zu vernichten, wurde erfolgreich erfüllt."
+  ACT wurde im März 3307 nach den Angriffen auf die Nine Martyrs gegründet, als die NMLA mehrere Sternenhäfen gleichzeitig bombardierte. Die unabhängige Taskforce übernahm schnell die Führung bei den Ermittlungen gegen die Terroristen und rief auf die Ressourcen zahlreicher Behörden, Spezialisten und freischaffender Piloten zurück.
+  Die Ko-Leiter von ACT sind nun in ihre jeweiligen Sicherheitsdienste zurückgekehrt. Captain Saskia Landau wurde von Kaiserin Arissa Lavigny-Duval persönlich mit dem Achenar-Dienstkreuz ausgezeichnet, in Anerkennung ihrer Schlüsselrolle bei der Identifizierung der Lords of Restoration. Landau hat inzwischen den Gesamtbefehl über den Imperialen Geheimdienst übernommen und berichtet direkt der Kaiserin.
+  Captain Milo Castile, Inspector Mara Klatt, Praetor Leo Magnus und Senior Agent Tanya Ramirez wurden für ihre Erfolge ebenfalls ausgezeichnet. Die gemeinsame Erklärung würdigte auch jene Mitglieder, die im Kampf gegen den Terrorismus ihr Leben verloren.
+  ACT wurde auf Grundlage der Cornelius-Lasky-Konvention gegründet, die auf dem Galaktischen Gipfel ratifiziert wurde. Der Vertrag verpflichtet Regierungen zur Zusammenarbeit gegen großangelegte Bedrohungen der Zivilbevölkerung und gilt heute gemeinhin als historische Errungenschaft. Da er weiterhin in Kraft ist, könnte ACT künftig neu gebildet werden, sollte eine ähnliche Bedrohung wie die NMLA auftreten.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
 uuid: 222858de-4cad-5e93-8606-bf343116ee8d
 title: Federation Battles Independents in the Azaladshu System
+title_de: Föderation kämpft gegen Unabhängige im Azaladshu-System
 slug: federation_battles_independents_in_the_azaladshu_system
 date: '3307-07-01'
 source: API
@@ -9,8 +10,16 @@ summary: Conflict erupts between Azaladshu Free and Neche Inc as multiple Federa
   sovereignty. President Hudson orders Neche Inc to engage the secessionists, deploying
   the Fortress Liberty megaship. Shadow President Winters faces criticism for the
   rebellion occurring in her sphere of influence.
+summary_de: Zwischen Azaladshu Free und Neche Inc bricht Konflikt aus, während mehrere
+  föderale Systeme ihre Unabhängigkeit erklären. Bürgermeisterin Constanza Noguera ruft
+  die Unterstützer dazu auf, die Souveränität zu verteidigen. Präsident Hudson befiehlt
+  Neche Inc, die Abtrünnigen anzugreifen, und stationiert das Megaschiff Fortress Liberty.
+  Schattenpräsidentin Winters wird kritisiert, weil der Aufstand in ihrem Einflussbereich
+  stattfindet.
 player_impact: Pilots were invited to support either Azaladshu Free or Neche Inc in
   the conflict over Federal secession.
+player_impact_de: Piloten wurden aufgefordert, sich im Konflikt um die föderale
+  Abspaltung entweder Azaladshu Free oder Neche Inc anzuschließen.
 persons:
 - Constanza Noguera
 - Zachary Hudson
@@ -39,11 +48,24 @@ arc_id: federal-politics
 modern_impact: The Azaladshu conflict becomes the first battle in the Federal secession
   crisis, with the outcome determining whether other factions will risk declaring
   independence.
+modern_impact_de: Der Azaladshu-Konflikt wird zur ersten Schlacht in der föderalen
+  Abspaltungskrise; sein Ausgang entscheidet, ob andere Fraktionen das Risiko einer
+  Unabhängigkeitserklärung eingehen.
 legacy_weight: 4
 significance: medium
 related_uuids:
 - ef028c66-1901-5fef-af9f-2c741a9066b6
 - e962c6b8-fd3d-59c4-847f-27923ec53502
+body_de: |
+  **Alarm der Pilotenföderation**
+  Zwischen den Fraktionen Azaladshu Free und Neche Inc ist Konflikt ausgebrochen, während mehrere föderale Systeme ihre Unabhängigkeit erklären.
+  Ausgelöst wurde er durch den Austritt von Azaladshu Free aus der Föderation, wodurch Azaladshu, LFT 824, LHS 277 und LTT 3919 zu unabhängigen Systemen wurden. Die Fraktion widersetzt sich entschieden der staatlichen Überwachung der privaten Kommunikation föderaler Bürger.
+  Drei weitere föderale Fraktionen stehen kurz vor der Unabhängigkeitserklärung: Coalition of Uteran, Lp 726-6 Free und Gluscap Labour. Alle beobachten die Lage in Azaladshu genau und erwägen ihren nächsten Schritt.
+  Bürgermeisterin Constanza Noguera, Führerin von Azaladshu Free, gab folgende Erklärung ab:
+  „Wir weigern uns, die drakonischen Überwachungsgesetze der Föderation zu akzeptieren. Ich rufe alle Unterstützer der Unabhängigkeit auf, uns beim Kampf um unsere Souveränität zu helfen!"
+  Die Erklärung rief eine schnelle Reaktion von Präsident Zachary Hudson hervor:
+  „Da Azaladshu Free das Föderale Abkommen verletzt hat, bleibt mir keine andere Wahl, als Neche Inc anzuweisen, gegen diese Kriminellen vorzugehen. Dank vorabliegender Informationen über die Abspaltung konnten wir das Megaschiff Fortress Liberty im System stationieren, um es für die Föderation zurückzuerobern."
+  Im Kongress wurde Schattenpräsidentin Felicia Winters kritisiert, weil sie die Abspaltung in ihrem Einflussbereich geschehen ließ. Sie bekräftigte, dass sie den Aufstand nicht unterstütze, das Proactive Detection Bureau aber für verfassungswidrig halte.
 ---
 
 

@@ -11,6 +11,20 @@ bio: 'Niamh Seutonia is a Admiral in Elite Dangerous lore, active from 3304-04-2
   Cartesius has sparked widespread speculation about the INRA.; Weekly summary covering
   the Socho system being overtaken by the Socho Gold Raiders, Aegis''s Eagle Eye success
   in repelling Thargoids, five ships de...'
+bio_de: Kapitänin Niamh Seutonia war eine Offizierin des Imperial Internal Security
+  Service, die mit der Leitung der Ermittlungen zum Mord an Senator Nestor Cartesius
+  im Jahr 3304 Bekanntheit erlangte. Sie half, die Liga der Wiedergutmachung aufzudecken,
+  eine Terrorgruppe, die Nachfahren von INRA-Mitgliedern ins Visier nahm, und diente
+  in der Drei-Supermächte-Einheit, die die Liga zusammen mit Alliance Interpol und
+  der Federal Intelligence Agency zerschlug. 3307 wurde Seutonia zur Co-Leiterin der
+  Anti-Terror-Einheit ACT ernannt, einer Agentur der drei Supermächte, die nach den
+  Sternenhafen-Bombenanschlägen von Nine Martyrs zur Bekämpfung der NMLA gebildet
+  worden war. Bei Ermittlungen zu NMLA-Lieferanten im Mudhrid-System verschwand ihr
+  Schiff, die Valkyrie. Die Trümmer wurden Wochen später im System Trianguli sector
+  GW-W B1-0 entdeckt, die gesamte Besatzung war tot. Seutonia hatte ihre
+  Missionsprotokolle kurz vor dem Absturz gesichert und lieferte damit entscheidende
+  Beweise, die eine Neo-Marlinistische Fraktion mit den Bombenanschlägen verknüpften.
+  Postum wurde ihr das Achenar-Heldenkreuz verliehen.
 ---
 
 

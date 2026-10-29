@@ -1,6 +1,7 @@
 ---
 uuid: 2e3992b6-08d1-5359-9a08-d83dc89b6dee
 title: Free Marlinist Candidate Wins Election
+title_de: Freier Marlinist gewinnt Wahl
 slug: free_marlinist_candidate_wins_election
 date: '3307-07-22'
 source: API
@@ -8,8 +9,15 @@ summary: Kayode Tau of the Free Marlinist Movement is elected prime consul of th
   Marlinist Consulate, defeating Verity Dexter. Tau pledges to preserve the colonies'
   independence and assist efforts to eliminate the NMLA. Minister Whyte protests the
   result while First Minister Fairfax calls for it to be respected.
+summary_de: Kayode Tau von der Freien-Marlinistischen Bewegung wird zum Premierministerkonsul
+  des Marlinist-Konsulats gewählt und besiegt damit Verity Dexter. Tau verspricht, die
+  Unabhängigkeit der Kolonien zu wahren und alle Bemühungen zur Ausschaltung der NMLA
+  zu unterstützen. Minister Whyte protestiert gegen das Ergebnis, während Premierministerin
+  Fairfax fordert, es zu respektieren.
 player_impact: Pilots who supported Kayode Tau collected rewards from Tilman Point
   in the Hyades Sector RO-P b6-6 system.
+player_impact_de: Piloten, die Kayode Tau unterstützt haben, konnten Belohnungen bei
+  Tilman Point im System Hyades Sector RO-P b6-6 abholen.
 persons:
 - Kayode Tau
 - Verity Dexter
@@ -40,11 +48,23 @@ arc_id: marlinist-refugee
 modern_impact: Tau's election represents a rejection of the NMLA's political wing
   by Marlinist voters, establishing a diplomatically independent Marlinist Consulate
   that becomes a legitimate interlocutor with the superpowers.
+modern_impact_de: Taus Wahl bedeutet eine Ablehnung des politischen Flügels der NMLA
+  durch die marlinistischen Wähler. Sie etabliert ein diplomatisch unabhängiges Marlinist-Konsulat,
+  das zu einem legitimen Gesprächspartner der Supermächte wird.
 legacy_weight: 4
 significance: medium
 related_uuids:
 - d3cdfef9-79b2-5007-9569-61a2ea0ec0fa
 - e93a8c38-8df7-5084-9ec2-c2d18fe537a4
+body_de: |
+  **ALARM der Pilotenföderation**
+
+  Kayode Tau wurde nach einer erfolgreichen Datentransport-Initiative zum Premierministerkonsul der Marlinisten gewählt.
+  Der Kandidat der Fraktion Freie-Marlinistische Bewegung erhielt mehr öffentliche Stimmen als seine Konkurrentin Verity Dexter. Sein Wahlkampf wurde durch Lieferungen großer Mengen an anomalen Massenscandaten und ungewöhnlichen verschlüsselten Dateien unterstützt.
+  Premierministerkonsul Tau wird nun als leitender Botschafter der Marlinist-Kolonien in allen Angelegenheiten mit den Supermächten dienen. Er gab diese Erklärung an die Medien ab:
+  „Das Marlinist-Konsulat wird handeln, um die Unabhängigkeit unserer Kolonien zu bewahren und die diplomatischen Beziehungen zum Rest der Galaxie zu verbessern. Lassen Sie mich eines klarstellen – wir vertreten nicht die extremistischen Ansichten des Neo-Marlinismus. Unsere Konsuln werden alle Bemühungen zur Ausschaltung der NMLA unterstützen."
+  Im marlinistischen Parlament protestierte Minister Aaron Whyte, die Ignorierung des neo-marlinistischen Randes sei „ein provozierender Akt, der zu weiterer Gewalt eskalieren könne". Premierministerin Jenna Fairfax forderte, das Ergebnis der demokratischen Wahl zu respektieren.
+  Piloten, die Kayode Tau unterstützt haben, können nun ihre Belohnungen bei Tilman Point im System Hyades Sector RO-P b6-6 abholen.
 ---
 
 

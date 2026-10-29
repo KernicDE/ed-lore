@@ -9,6 +9,10 @@ bio: Hector Jansen is a terrorist in the Elite Dangerous universe, active from 3
   to 3307-12-02. Closely associated with NMLA. Hadrian Duval's wife Astrid gives birth
   to a son named Hector Mordanticus Duval, prompting celebrations across the Empire
   and a commodity gathering initiative in Paresa.
+bio_de: Hector Jansen ist ein Terrorist im Elite-Dangerous-Universum, aktiv von
+  3306-10-27 bis 3307-12-02. Eng verbunden mit der NMLA. Astrid, die Ehefrau von Hadrian
+  Duval, bringt einen Sohn namens Hector Mordanticus Duval zur Welt, was im gesamten
+  Imperium zu Feierlichkeiten und zu einer Waren-Sammelaktion in Paresa führt.
 ---
 
 

@@ -7,6 +7,9 @@ last_seen_date: '3308-02-14'
 mention_count: 2
 bio: 'Karl Nerva is a senator in the Elite Dangerous universe, active from 3308-01-07
   to 3308-02-14. Closely associated with NMLA, Imperial Herald, Marlinist. '
+bio_de: |-
+  Karl Nerva ist ein Senator im Elite-Dangerous-Universum, aktiv
+  von 3308-01-07 bis 3308-02-14. Eng verbunden mit der NMLA, Imperial Herald, Marlinist.
 ---
 
 

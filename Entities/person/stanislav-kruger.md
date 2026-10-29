@@ -11,6 +11,13 @@ bio: Stanislav Kruger is a prominent figure in the Elite Dangerous universe, act
   cruises, offering rewards for exploration data and imagery. Saud Kruger successfully
   collects enormous amounts of Earth-like world exploration data for Astrogator Tours,
   with tourist beacons planned for promising destinations.
+bio_de: Stanislav Kruger ist eine bekannte Persönlichkeit im Elite-Dangerous-Universum,
+  aktiv vom 23.09.3307 bis 30.09.3307. Eng verbunden mit Saud Kruger. Saud Kruger
+  startete eine Kampagne, neue erdähnliche Welten für Kreuzfahrten der Astrogator
+  Tours zu identifizieren, und bot Belohnungen für Erkundungsdaten und Bildmaterial.
+  Saud Kruger sammelte erfolgreich enorme Mengen an Erkundungsdaten erdähnlicher
+  Welten für Astrogator Tours; für vielversprechende Ziele sind Touristen-Leuchtfeuer
+  geplant.
 ---
 
 

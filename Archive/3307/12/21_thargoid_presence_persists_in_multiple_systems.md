@@ -1,13 +1,19 @@
 ---
 uuid: de009a58-09eb-5041-8088-be52372dad17
 title: Thargoid Presence Persists in Multiple Systems
+title_de: Thargoid-Präsenz hält in mehreren Systemen an
 slug: thargoid_presence_persists_in_multiple_systems
 date: '3307-12-21'
 source: API
 summary: Thargoid vessels continue to appear in over two dozen populated systems near
   nebulas, with organised pilot task forces achieving mixed success against the invaders.
+summary_de: Thargoid-Schiffe tauchen weiterhin in mehr als zwei Dutzend bewohnter Systeme
+  in der Nähe von Nebeln auf; organisierte Piloten-Taskforces erzielen gegen die Invasoren
+  wechselhafte Erfolge.
 player_impact: Independent pilots and anti-xeno squadrons have been hunting and destroying
   Thargoid invaders in affected systems.
+player_impact_de: Unabhängige Piloten und Anti-Xeno-Geschwader jagten und zerstörten
+  Thargoid-Invasoren in den betroffenen Systemen.
 persons:
 - Ernesto Rios
 groups:
@@ -26,6 +32,8 @@ topics:
 arc_id: thargoid-contact
 modern_impact: Thargoid activity fundamentally changes the galactic security landscape
   and drives anti-xeno defence efforts.
+modern_impact_de: Die Thargoid-Aktivität verändert die galaktische Sicherheitslage
+  grundlegend und treibt die Anti-Xeno-Verteidigung voran.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -33,6 +41,20 @@ related_uuids:
 - 7d811da2-fbf8-5f94-96d4-21ae69749e13
 - 81538fce-b754-58bd-9a39-a3532cc682d7
 - 9312526f-943e-58ee-8e99-88de0d4b618c
+body_de: |
+  **ALARM der Pilotenföderation**
+
+  Die Kohlenstoffwolke, die Plejaden und der Hexenkopf-Nebel verzeichnen weiterhin einen Zustrom von Thargoid-Schiffen.
+
+  Der freie Kriegskorrespondent Ernesto Rios berichtete für Vox Galactica:
+
+  „In den letzten Monaten sind Thargoid-Schiffe in mehr als zwei Dutzend bewohnter Systeme aufgetaucht, darunter Shenve, Pleiades Sector IH-V c2-5 und Coalsack Sector VU-O b6-6. Alle liegen in der Nähe von Nebeln, die bei den Thargoiden offenbar beliebt sind."
+
+  „In einigen Systemen haben organisierte Taskforces unabhängiger Piloten die Invasoren erfolgreich gejagt und zerstört. Doch in anderen werden ihre Bemühungen zunichtegemacht, da Thargoid-Verstärkungen kontinuierlich aus dem Hyperraum austreten."
+
+  „Es gab öffentliche Forderungen zu erfahren, warum noch keine weiteren Superwaffen eingesetzt wurden. Salvation hat darauf jedoch nicht reagiert. Einige seiner Anhänger glauben, dass es Zeit braucht, die Ressourcen für die Waffen anzuhäufen, während andere behaupten, dass Salvation auf einen Masterplan zur dauerhaften Beseitigung der Thargoid-Bedrohung konzentriert sei."
+
+  „Bis dahin kämpfen einzelne Kommandanten und Anti-Xeno-Geschwader weiterhin an der Front gegen die eskalierende Thargoid-Invasion."
 ---
 
 

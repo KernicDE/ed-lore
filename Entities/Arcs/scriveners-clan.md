@@ -14,6 +14,10 @@ key_entities:
 description: The nomadic Scriveners Clan and their salvage of the 200-year-old Hesperus
   megaship, revealing connections to Azimuth Biochemicals and the ancient Guardian-Thargoid
   war before the clan abandoned the site.
+description_de: Der nomadische Scriveners-Clan und seine Bergung des über 200 Jahre alten
+  Megaschiffs Hesperus, wobei Verbindungen zu Azimuth Biochemicals und dem antiken
+  Krieg zwischen den Guardians und den Thargoiden aufgedeckt wurden, bevor der Clan
+  den Ort wieder aufgab.
 phases:
 - 'Phase 1: The Discovery (3307-04-01)'
 - 'Phase 2: Salvage Operation (3307-07-09)'
@@ -21,9 +25,16 @@ phases:
 summary: The Scriveners Clan—a nomadic dredger tribe—salvaged the 200-year-old Hesperus
   megaship, revealing Azimuth Biochemicals' connection to the Guardian-Thargoid war before
   abandoning the site under pressure.
+summary_de: Der Scriveners-Clan, ein nomadischer Bergungstamm, barg das über 200 Jahre alte
+  Megaschiff Hesperus und enthüllte dabei die Verbindung von Azimuth Biochemicals zum
+  Krieg zwischen den Guardians und den Thargoiden, bevor er den Ort unter Druck wieder
+  aufgab.
 status: Resolved
 outcome: The Scriveners stripped the Hesperus's innards and departed. The mostly intact
   hull was left behind. Orion University later attempted to claim the site.
+outcome_de: Die Scriveners demontierten das Innere der Hesperus und brachen auf. Der weitgehend
+  intakte Rumpf wurde zurückgelassen. Die Orion-Universität versuchte später, den Ort für
+  sich zu beanspruchen.
 significance: medium
 ---
 

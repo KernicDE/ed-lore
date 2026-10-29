@@ -1,12 +1,17 @@
 ---
 uuid: 7757e707-c843-5bb4-badf-0130b626ceb1
 title: Marlinist Colonies Gain Starports
+title_de: Marlinistische Kolonien erhalten Sternenhäfen
 slug: marlinist_colonies_gain_starports
 date: '3308-05-06'
 source: API
 summary: Two new starports become operational in the Marlinist Colonies following
   last month's delivery initiative.
+summary_de: Zwei neue Sternenhäfen werden in den marlinistischen Kolonien
+  in Betrieb genommen, nachdem die Lieferinitiative des vergangenen Monats
+  erfolgreich abgeschlossen wurde.
 player_impact: Not specifically mentioned — this is an infrastructure report.
+player_impact_de: Keine
 persons: []
 groups:
 - Alliance
@@ -27,11 +32,24 @@ modern_impact: '"The Marlinist Parliament welcomed the new starports, stating th
   community''." The rapid addition of orbital infrastructure demonstrated the colonies''
   successful transformation from emergency refugee settlements into a functioning
   interstellar polity capable of sustained economic development.'
+modern_impact_de: "„Das marlinistische Parlament begrüßte die neuen Sternenhäfen
+  und erklärte, sie ‚würden ein solides Fundament für einen gesteigerten Handel
+  mit der interstellaren Gemeinschaft legen'.\" Die rasche Erweiterung der
+  orbitalen Infrastruktur zeigte die erfolgreiche Transformation der Kolonien
+  von Notunterkünften für Flüchtlinge zu einer funktionierenden interstellaren
+  Politik, die nachhaltige wirtschaftliche Entwicklung leisten kann."
 legacy_weight: 4
 significance: high
 related_uuids:
 - 83fbe8c3-9336-5b74-9642-fe0db6fd785b
 - 63e625ea-c34e-5fca-8183-81928f3e7f7d
+body_de: |
+  Zwei neue Sternenhäfen wurden den marlinistischen Systemen hinzugefügt, nachdem die Lieferinitiative des vergangenen Monats erfolgreich abgeschlossen wurde.\r
+  Durch den Einsatz vorfabrizierter Infrastrukturen und massengefertigter Komponenten konnten die orbitalen Stationen in kurzer Zeit montiert werden. Die Sternenhäfen und ihre Standorte heißen Fairfax Legacy im System Hyades Sector SU-C a14-1 und Ackwada Monument im System Hyades Sector LX-T c3-30.\r
+  Das marlinistische Parlament begrüßte die neuen Sternenhäfen und erklärte, sie „würden ein solides Fundament für einen gesteigerten Handel mit der interstellaren Gemeinschaft legen".\r
+  Im Rahmen einer jüngsten diplomatischen Vereinbarung wurde zwei Millionen marlinistischen Flüchtlingen der Transport von der Allianz in die Koloniesysteme angeboten. Sie werden an den neuen Sternenhäfen registriert und erhalten die Staatsbürgerschaft.\r
+  Eine Kampagne zur Umbenennung der beiden bestehenden Sternenhäfen, Stillman Hub und Tilman Point, wurde von der Sirius Corporation abgelehnt. Diese Stationen wurden errichtet, als der Megakonzern die Kolonien im Jahr 3306 erstmals gründete, um Spannungen zwischen dem Imperium und der Föderation abzubauen. \r
+  Die Sirius Corporation hatte jedoch nichts gegen neue Bezeichnungen für die ursprünglichen acht marlinistischen Systeme einzuwenden. Diese sollen in den kommenden Wochen offiziell werden.
 ---
 
 

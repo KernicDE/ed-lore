@@ -11,6 +11,20 @@ bio: 'Mara Klatt is a Admiral in Elite Dangerous lore, active from 3304-06-28 to
   murder by the League of Reparation, reactions to Aisling Duval and Jordan Rochester''s
   engage...; Weekly summary covering Admiral Varma''s arrest, the Church of Eternal
   Void declaring war on the Far God cult, Aisling Duval''s wedding date announce...'
+bio_de: Kriminaloberkommissarin Mara Klatt ist eine Beamtin von Alliance Interpol,
+  die 3304 eine entscheidende Rolle bei der Zerschlagung des terroristischen Netzwerks
+  Liga der Wiedergutmachung spielte. Nachdem ihre Vorgängerin, Chief Inspector Kay
+  Kilbride, von der Liga ermordet worden war, erbte Klatt Kilbrides Beweise, die
+  darauf hindeuteten, dass die Ermordung von Flottenadmiral Buchanan nur durch eine
+  hochrangige Persönlichkeit innerhalb der Alliance Defence Force arrangiert worden
+  sein konnte. Im Juli 3304 gab Klatt eine historische Pressekonferenz, auf der sie
+  bekanntgab, dass entschlüsselte Liga-Kommunikation Konteradmiral Riri McAllister
+  als „Nexus", die zentrale Koordinatorin der Terrorgruppe, bestätigt habe. Sie
+  enthüllte, dass McAllister Admiral George Varma mit falschen Spuren belastet hatte,
+  und erwirkte McAllisters Festnahme wegen Verschwörung zum Terrorismus. Klatts
+  Durchbruch deckte den ranghöchsten militärischen Verrat der Allianzgeschichte auf
+  und ermöglichte dem Ermittlungsteam, zwei große Enklaven der Liga ausfindig zu
+  machen und auszulöschen.
 ---
 
 

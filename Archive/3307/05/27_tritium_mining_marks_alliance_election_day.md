@@ -1,6 +1,7 @@
 ---
 uuid: 931d72fb-9b88-566c-a2c3-8b536ea52a59
 title: 'Tritium Mining Marks Alliance Election Day '
+title_de: "Tritium-Abbau prägt Wahltag der Allianz"
 slug: tritium_mining_marks_alliance_election_day
 date: '3307-05-27'
 source: API
@@ -8,8 +9,14 @@ summary: On Alliance election day, Prime Minister Mahon launches a tritium minin
   initiative to fuel construction of up to five new Alliance starports. The initiative
   follows his successful industrial materials drive. Opinion polls predict Mahon will
   comfortably win re-election.
+summary_de: Am Wahltag der Allianz startet Premierminister Mahon eine
+  Tritium-Abbauinitiative, um den Bau von bis zu fünf neuen Sternenhäfen der Allianz
+  zu finanzieren. Die Initiative folgt auf seine erfolgreiche Aktion für Industriematerialien.
+  Meinungsumfragen sagen Mahon einen komfortablen Wiederwahlsieg voraus.
 player_impact: Pilots mined and delivered tritium to Dublin Citadel in the Gateway
   system to support Alliance expansion.
+player_impact_de: Piloten bauten Tritium ab und lieferten es an der Dublin Citadel im
+  Gateway-System ab, um den Ausbau der Allianz zu unterstützen.
 persons:
 - Edmund Mahon
 - Nakato Kaine
@@ -35,12 +42,23 @@ arc_id: alliance-expansion
 modern_impact: Mahon's expansion programme, funded by pilot contributions and Sirius
   Corporation donations, extends Alliance infrastructure but also raises questions
   about undisclosed corporate partnerships.
+modern_impact_de: Mahons Ausbauprogramm, finanziert durch Beiträge von Piloten und
+  Spenden der Sirius Corporation, erweitert die Infrastruktur der Allianz, wirft aber
+  auch Fragen über nicht offengelegte Partnerschaften mit Unternehmen auf.
 legacy_weight: 3
 significance: medium
 related_uuids:
 - 5cd90cb7-e73b-553f-bdcf-cb7b311cc0df
 - 09b011a1-77a8-5a75-a0c4-c60509f2f440
 - 1d6aa54e-b31a-593f-8bd3-a53d17cda13a
+body_de: |
+  **Alarm der Pilotenföderation**
+  Während die Versammlung über ihren neuen Anführer abstimmt, hat Premierminister Edmund Mahon abgebautes Tritium für den Ausbau angefordert.
+  Die neue Initiative folgt auf seine erfolgreiche Aktion für Industriematerialien, die große Mengen an Keramikverbundstoffen, Polymeren und Supraleitern einbrachte. Beitragende Piloten können nun ihre Belohnungen auf der Dublin Citadel im Gateway-System abholen.
+  Eine konkurrierende Community-Goal-Aktion von Ratsmitglied Nakato Kaine, Mahons wichtigster Konkurrentin bei der Wahl, brachte Lieferungen von Kupfer, Mikrocontrollern und Polymeren ein.
+  Die neue Tritium-Abbauinitiative von Premierminister Mahon soll einen Treibstoffvorrat aufbauen, um das Ausbauprogramm der Allianz zu unterstützen. Dazu gehört der Bau von bis zu fünf neuen Sternenhäfen, die voraussichtlich innerhalb eines Monats betriebsbereit sind.
+  Abgebaute Tritiumvorkommen können auf der Dublin Citadel im Gateway-System geliefert werden.
+  Die Mitglieder der Versammlung der Allianz kommen heute zusammen, um ihre Stimmen für einen neuen Premierminister abzugeben. Meinungsumfragen gehen davon aus, dass Mahon komfortabel gewinnen wird, räumen jedoch ein, dass Kaine breite Unterstützung genießt. Der erfolgreiche Kandidat wird für sechs Jahre als Staatsoberhaupt der Allianz dienen.
 ---
 
 

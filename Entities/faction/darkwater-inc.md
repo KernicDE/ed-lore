@@ -13,6 +13,10 @@ bio: Darkwater Inc is a organization in the Elite Dangerous universe, active fro
   3308-02-17 to 3308-02-17. Frequently linked with NMLA, Imperial Navy, Summerland.
   The Empire declares Darkwater Inc a hostile military target for abducting Emperor
   Arissa.
+bio_de: 'Darkwater Inc ist eine Organisation im Elite-Dangerous-Universum, aktiv am
+  3308-02-17. Häufig verbunden mit NMLA, Imperialer Flotte, Summerland. Das Imperium
+  erklärt Darkwater Inc zu einem feindlichen militärischen Ziel aufgrund der Entführung
+  von Kaiserin Arissa.'
 ---
 
 

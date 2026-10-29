@@ -1,6 +1,7 @@
 ---
 uuid: 99a40044-3a86-5461-91a1-da2156ab2f0b
 title: Dredger Clan Arrives at Kumo City
+title_de: Bagger-Klan erreicht Kumo City
 slug: dredger_clan_arrives_at_kumo_city
 date: '3307-07-02'
 source: API
@@ -8,8 +9,15 @@ summary: A Blue Viper Club dredger enters the Pegasi Sector PN-T c3-14 system an
   takes position near Kumo City. Francesca Wolfe reports the clan's unsavoury reputation
   for drug running and raiding. Unmarked personnel shuttles travel between the dredger
   and Kumo City, suggesting a potential alliance with the Kumo Crew.
+summary_de: Ein Bagger des Blue Viper Club dringt in das System Pegasi Sector PN-T
+  c3-14 ein und nimmt Position nahe Kumo City ein. Francesca Wolfe berichtet über den
+  zwielichtigen Ruf des Klans wegen Drogenschmuggels und Überfällen. Unmarkierte
+  Personen-Shuttles pendeln zwischen dem Bagger und Kumo City, was auf eine mögliche
+  Allianz mit der Kumo Crew hindeutet.
 player_impact: Pilots in Pegasi Sector PN-T c3-14 were warned to keep safe distance
   from the dredger.
+player_impact_de: Piloten in Pegasi Sector PN-T c3-14 wurden gewarnt, sich vom Bagger
+  auf sicheren Abstand zu halten.
 persons:
 - Francesca Wolfe
 - Archon Delaine
@@ -34,6 +42,9 @@ arc_id: kumo-crew-rise
 modern_impact: The Blue Viper Club's arrival at Kumo City introduces a new criminal
   element to the Kumo Crew's operations and becomes the source of the helix drug that
   enters galactic markets later in the month.
+modern_impact_de: Die Ankunft des Blue Viper Club in Kumo City bringt ein neues
+  kriminelles Element in die Aktivitäten der Kumo Crew und wird zur Quelle der Droge
+  Helix, die später im Monat auf galaktischen Märkten auftaucht.
 legacy_weight: 3
 significance: medium
 related_uuids:
@@ -41,6 +52,15 @@ related_uuids:
 - 677866b5-92cb-5c16-8297-0a3a97a4afa8
 - b1886f93-ecbf-50e3-83c6-743f46436d7b
 - a8743406-6f85-50fd-852d-ff3343df1801
+body_de: |
+  **Alarm der Pilotenföderation**
+  Ein Bagger des Blue Viper Club ist in das System Pegasi Sector PN-T c3-14 eingedrungen und könnte Verbindungen zum Syndikat Kumo Crew haben.
+  Der Große Kreuzer der Bagger-Klasse hat Position nahe Kumo City eingenommen, einem von fünf Sternenhäfen, die der Piratenkriegsherr Archon Delaine kürzlich errichten ließ.
+  Bagger-Klans sind nomadische Gemeinschaften, die am Rand der Zivilisation unterwegs sind, und ihre uralten Schiffe werden nur selten gesehen. Piloten in Pegasi Sector PN-T c3-14 wurden gewarnt, sich auf sicheren Abstand zum Bagger zu halten.
+  Francesca Wolfe von der Wallglass Investigations Agency veröffentlichte ihre Beobachtungen:
+  „Der Blue Viper Club ist ein entschlossen unabhängiger Stamm mit zwielichtigem Ruf. Bagger-Klans überleben typischerweise durch das Sammeln von Material und Wrackgut, doch diese Menschen geben sich kriminelleren Verhaltensweisen hin, darunter Drogenschmuggel und Überfälle auf Außenposten."
+  „Der Klan besetzt mehr als einen Bagger, doch diese sind bislang nie in ein bewohntes System eingedrungen. Es gab keine Konflikte mit lokalen Fraktionen oder der Systemsicherheit. Allerdings wurden unmarkierte Personen-Shuttles beobachtet, die zum Bagger und zurück flogen."
+  „Sehen wir hier eine piratenhafte Allianz zwischen dem Blue Viper Club und der Kumo Crew? Erweitert Archon Delaine seinen Einfluss auf die Bagger-Klans? Oder haben sie ihm etwas Wertvolles mitgebracht, das sie im Tiefenraum entdeckt haben?"
 ---
 
 

@@ -9,6 +9,18 @@ bio: Lorcan Scordato is an Imperial Senator who served as a key diplomat during 
   Neo-Marlinist crisis of 3307. He negotiated a conditional amnesty for the Neo-Marlinist
   Order of Mudhrid, securing intelligence that advanced the Affiliated Counter-Terrorism
   unit's investigation into the NMLA.
+bio_de: Lorcan Scordato ist ein imperialer Senator, der während der Neo-Marlinistischen
+  Krise von 3307 eine zentrale diplomatische Rolle spielte. Im April 3307 verhandelte
+  er eine bedingte Amnestie für den Neo-Marlinistischen Orden von Mudhrid und sicherte
+  damit ein Abkommen, in dem Landgraf Arastin Delacroix und sein engster Kreis mit
+  der Anti-Terror-Einheit ACT kooperierten, um die Identitäten der NMLA-Führung
+  offenzulegen, im Austausch gegen lebenslange Haft. Scordatos diplomatisches
+  Engagement lieferte ACT entscheidende Erkenntnisse über die NMLA, führte jedoch
+  auch zur falschen Anschuldigung, Hadrian Duval sei der terroristische Drahtzieher.
+  Kanzler Anders Blaine billigte Scordatos Vorschlag als „genau die Art kreativer
+  Lösung, die der Kaiser benötigt". Seine Arbeit zeigte, wie politische Verhandlung
+  Ergebnisse erzielen konnte, die militärische Gewalt allein nicht erreichte, selbst
+  als die NMLA-Bedrohung die imperiale Sicherheit weiter herausforderte.
 ---
 
 

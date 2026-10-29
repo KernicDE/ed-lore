@@ -1,13 +1,18 @@
 ---
 uuid: 967aa94a-f950-5777-8fca-15696a250f64
 title: The Return of the Alexandria
+title_de: Die Rückkehr der Alexandria
 slug: the_return_of_the_alexandria
 date: '3308-01-22'
 source: API
 summary: The missing Aegis megaship Alexandria is discovered in the Wregoe TC-X B29-0
   system with evidence of Azimuth's involvement.
+summary_de: Das vermisste Aegis-Megaschiff Alexandria wird im System Wregoe TC-X B29-0
+  entdeckt, mit Hinweisen auf Azimuths Involvierung.
 player_impact: A select group of independent pilots helped search for and discover
   the missing Alexandria megaship.
+player_impact_de: Eine auserwählte Gruppe unabhängiger Piloten half bei der Suche nach
+  dem vermissten Megaschiff Alexandria und entdeckte es.
 persons:
 - Alba Tesreau
 groups:
@@ -25,6 +30,9 @@ arc_id: salvation-azimuth
 modern_impact: '"The Aegis megaship Alexandria, which vanished in hyperspace seven
   months ago, has been found." The discovery of the Alexandria wreckage provides crucial
   forensic evidence of Azimuth''s sabotage and vindicates Aegis''s warnings.'
+modern_impact_de: '"Das Aegis-Megaschiff Alexandria, das vor sieben Monaten im Hyperraum
+  verschwand, ist gefunden worden." Die Entdeckung des Wracks der Alexandria liefert
+  entscheidende forensische Beweise für Azimuths Sabotage und bestätigt Aegis′ Warnungen.'
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -38,6 +46,14 @@ related_uuids:
 - 68957f0d-5d45-53d3-a1ec-d1ac3bbc5691
 - 2eadd4d6-2a46-58c0-9b83-978dd2f73ad3
 - 8f436007-f00f-535c-af52-d16273c91cc0
+body_de: |
+  **ALARM der Pilotenföderation**
+  Das Aegis-Megaschiff Alexandria, das vor sieben Monaten im Hyperraum verschwand, ist im System Wregoe TC-X b29-0 gefunden worden.
+  Eine auserwählte Gruppe unabhängiger Piloten ortete die Alexandria nach einer Suche, die von Professor Alba Tesreau, ehemaliger Leiterin der Forschung bei Aegis, initiiert worden war. Sie war infolge des Baumann-Berichts zum Rücktritt gezwungen worden, der wegen des umstrittenen Verlusts dieses Megaschiffs eingeleitet wurde.
+  Im Juni 3307 wurde die Alexandria von Thargoid-Schiffen verfolgt, weil an Bord eine beträchtliche Zahl von Artefakten der Wächter lagerte. Sie sprang zum System HIP 30944, um ihre Fracht zu löschen, traf jedoch nie dort ein. Man nahm an, dass das Megaschiff von den Thargoids hyperdikted wurde, was zum Tod aller viertausend Besatzungsmitglieder führte.
+  Laut Augenzeugen vor Ort sind die Überreste der Alexandria derzeit über die Planetenringe von Wregoe TC-X b29-0 AB 2 A verstreut. Schiffe untersuchen das Trümmerfeld, haben bislang jedoch weder Überlebende noch Relikte der Wächter gefunden.
+  Chefadministrator Carter Armstrong gab eine öffentliche Erklärung ab:
+  „Der Verlust der Alexandria war so tragisch wie geheimnisvoll, doch nun haben wir die Gelegenheit zu erfahren, was geschehen ist. Aegis sollte bis zur Vollendung einer vollständigen Analyse, die uns die Ursache der Zerstörung des Megaschiffs verstehen lässt, weiterbetrieben werden."
 ---
 
 

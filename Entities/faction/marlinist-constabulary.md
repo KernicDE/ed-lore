@@ -14,6 +14,9 @@ related_entities:
 bio: 'Marlinist Constabulary is a organization in the Elite Dangerous universe, active
   from 3307-06-14 to 3307-06-14. Frequently linked with Alliance Interpol, NMLA, Imperial
   Internal Security Service. '
+bio_de: Die Marlinist Constabulary ist eine Organisation im Elite-Dangerous-Universum,
+  die am 3307-06-14 aktiv war. Häufig in Verbindung mit Alliance Interpol, der NMLA
+  und dem Imperial Internal Security Service.
 ---
 
 

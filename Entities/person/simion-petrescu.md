@@ -7,6 +7,8 @@ last_seen_date: '3307-09-30'
 mention_count: 2
 bio: 'Simion Petrescu is a diplomat in the Elite Dangerous universe, active from 3307-09-17
   to 3307-09-30. Closely associated with EG Union, Federation. '
+bio_de: Simion Petrescu ist ein Diplomat im Elite-Dangerous-Universum, aktiv vom
+  17.09.3307 bis 30.09.3307. Eng verbunden mit der EG Union und der Föderation.
 ---
 
 

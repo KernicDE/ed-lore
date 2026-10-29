@@ -1,6 +1,7 @@
 ---
 uuid: 3517ce1e-1d0e-57c9-ada1-bcdf88b77d23
 title: IHO Reports on New Onionhead Variant
+title_de: IHO berichtet über neue Onionhead-Variante
 slug: iho_reports_on_new_onionhead_variant
 date: '3307-07-20'
 source: API
@@ -9,7 +10,14 @@ summary: The Interstellar Health Organisation publishes a preliminary analysis o
   modified synthetic molecules that reduce hallucinogenic intensity while enabling
   mass production and longer storage life. Dr Himari Grey suggests the Blue Viper
   Club likely acquired it from an unidentified research facility.
+summary_de: Die Interstellare Gesundheitsorganisation veröffentlicht eine vorläufige
+  Analyse des Onionhead-Gamma-Stamms (Helix). Der Bericht kommt zu dem Ergebnis, dass
+  der Gamma-Stamm gentechnisch veränderte synthetische Moleküle verwendet, welche die
+  halluzinogene Wirkung abschwächen, gleichzeitig aber Massenproduktion und längere
+  Lagerfähigkeit ermöglichen. Dr. Himari Grey vermutet, dass der Blue-Viper-Club die
+  Substanz wahrscheinlich von einer nicht identifizierten Forschungseinrichtung erhalten hat.
 player_impact: None directly; this is a scientific analysis report.
+player_impact_de: Keine; dies ist ein wissenschaftlicher Analysebericht.
 persons:
 - Himari Grey
 groups:
@@ -34,6 +42,10 @@ modern_impact: The IHO analysis reveals helix is a commercially engineered drug 
   for mass distribution, implicating sophisticated manufacturing capabilities beyond
   what a nomadic dredger clan could develop and deepening the mystery of its true
   origin.
+modern_impact_de: Die Analyse der IHO zeigt, dass Helix ein kommerziell entwickeltes
+  Medikament für die Massenverbreitung ist. Das deutet auf hochentwickelte Herstellungskapazitäten
+  hin, die über das hinausgehen, was ein nomadischer Baggerschiff-Clan entwickeln könnte,
+  und verstärkt das Rätsel um seinen wahren Ursprung.
 legacy_weight: 3
 significance: medium
 related_uuids:
@@ -42,6 +54,13 @@ related_uuids:
 - e8e02b95-9c85-5a56-9e40-5304d8f01cde
 - ea0496c2-a753-54ad-b6de-0c3d9bf29edf
 - 22e64f17-84fe-5324-b965-55888566498b
+body_de: |
+  Die Interstellare Gesundheitsorganisation (IHO) hat eine vorläufige Analyse des Onionhead-Gamma-Stamms veröffentlicht, einer Rauschmittels, das auch als ‚Helix' bekannt ist.
+  „Wie bei den Alpha-, Beta- und Lucan-Stämmen wird der Wirkstoff aus Samen gewonnen, die von der auf dem Planeten Panem heimischen Onionhead-Blüte produziert werden. Diese enthalten Alkaloidverbindungen, die eine vorübergehende psychoaktive Wirkung auf die menschliche Wahrnehmung und kognitive Funktionen haben."
+  „Beim Gamma-Stamm wurden diese Verbindungen mit synthetischen Molekülen unbekannter Herkunft gentechnisch verändert. Dadurch wurde die Konzentration der Psychotropika verdünnt, was weniger intensive halluzinogene Episoden zur Folge hat."
+  „Die praktischen Vorteile dieser Veränderungen sind zweifach. Erstens ermöglichen sie die wirtschaftliche Massenproduktion von Onionhead in künstlichen Umgebungen, anstatt es als natürliche Kulturpflanze anzubauen. Zweitens ist der Gamma-Stamm robuster und überlebt längere Zeiträume bei der Lagerung oder bei Temperaturen unter null Grad."
+  Dr. Himari Grey, unabhängige Gesundheitsanalystin, kommentierte:
+  „Der Bericht der IHO deutet darauf hin, dass wir es mit einer Art Onionhead zu tun haben, die für den Verkauf in größeren Mengen als frühere Varianten konzipiert wurde. Aufgrund seiner hochentwickelten Zusammensetzung ist es unwahrscheinlich, dass er vom Blue Viper Club entwickelt wurde. Es ist möglich, dass die Nomaden ihn von einer nicht identifizierten Forschungseinrichtung erhalten haben und nun mit der Kumo Crew einen Vertriebsdeal ausgehandelt haben."
 ---
 
 

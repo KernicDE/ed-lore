@@ -17,6 +17,10 @@ bio: 'Epsilon Fornacis Empire Group is a organization active in Elite Dangerous 
   the Neo-Marlinist Order of Mudhrid after ACT confirms the faction provided logistical
   support for the NML...; The Neo-Marlinist Order of Mudhrid is defeated in the Mudhrid
   system by Imperial forces.'
+bio_de: |-
+  Die Epsilon Fornacis Empire Group ist eine dem Senator Denton Patreus treu ergebene imperiale Fraktion, die als wichtige Militärmacht in den Feldzügen des Imperiums gegen äußere wie innere Bedrohungen dient. Während der entscheidenden Schlacht von Mudhrid Ende 3307 lenkte die Fraktion ihre Operationen vom Sternenhafen Payne-Scott City aus und lieferte sich offene Kämpfe mit dem Neo-Marlinist Order of Mudhrid.
+
+  Senator Patreus bat imperiale Hilfsverbände um Kampfunterstützung für die Epsilon Fornacis Empire Group während der Mudhrid-Kampagne, die darauf abzielte, zu verhindern, dass der NMLA-Führer Theta Seven an Bord des Megaschiffs Sacrosanct entkommt. Im Dezember 3307 besiegte die Fraktion die neomarlinistischen Streitkräfte mit Hilfe unabhängiger Piloten und ACT-Kommandos unter Milo Castile, die das Megaschiff Steel Majesty von NMLA-Truppen zurückeroberten. Der Sieg der Epsilon Fornacis Empire Group stellte einen schweren Schlag gegen die Einsatzfähigkeit des NMLA dar und zeigte Patreus' Fähigkeit, imperiale Militärressourcen gegen terroristische Bedrohungen zu mobilisieren.
 ---
 
 

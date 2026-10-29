@@ -16,6 +16,10 @@ bio: 'Azaladshu Free is a organization active in Elite Dangerous lore from 3307-
   Congress. Key activities include: The Azaladshu Free faction secedes from the Federation,
   declaring its four systems independent in protest against surveillance laws.; Azaladshu
   Free defeats Neche Inc and retains independence from the Federation.'
+bio_de: |-
+  Im Juni 3307 wurde Azaladshu Free die erste föderale Fraktion der modernen Ära, die formell aus der Föderation austrat und sich mit der Supermacht wegen der Massenüberwachung ziviler Kommunikationen durch das Proactive Detection Bureau überwarf. Die neue Führung der Fraktion unter Bürgermeisterin Constanza Noguera erklärte angesichts der Kontrolle über vier Systeme – Azaladshu, LFT 824, LHS 277 und LTT 3919 –, „die Föderation ist korrupt, autoritär und unvertrauenswürdig geworden“, und dass die Systeme von da an als unabhängige souveräne Nationen sich selbst regieren würden.
+
+  Der Kongress reagierte mit der Erklärung, dass der Austritt nach dem Federal Accord illegal sei, und versetzte die Föderale Flotte in Alarmbereitschaft. Doch Azaladshus Trotz löste eine Kettenreaktion aus: Drei weitere Fraktionen folgten seinem Beispiel, wodurch innerhalb weniger Wochen zehn Systeme und eine Milliarde Menschen unabhängig wurden. Präsident Hudson stellte die Sezessionisten als organisierte Verbrecher hin, während Schattenpräsidentin Winters argumentierte, „das Recht unserer Bürger auf Privatsphäre zu entfernen ist die Ursache dieses Aufstands, nicht die Lösung“ – ein Streit, der die Unfähigkeit der föderalen Regierung offenlegte, Sicherheit und Freiheit zu versöhnen.
 ---
 
 

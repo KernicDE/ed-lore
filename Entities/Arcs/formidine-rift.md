@@ -13,15 +13,24 @@ key_entities:
 description: The discovery of the Dynasty Project—a covert mission in the 3270s to install
   beacons in the Formidine Rift, Conflux, and Hawkin's Gap—and the subsequent search for
   what happened to the fleet.
+description_de: Die Entdeckung des Dynasty-Projekts – einer geheimen Mission der 3270er Jahre,
+  die Signalfunkfeuer im Formidine Rift, im Conflux und in Hawkin's Gap installieren sollte –
+  sowie die anschließende Suche nach dem Schicksal der Flotte.
 phases:
 - 'Phase 1: The Expedition (3302-06-18)'
 - 'Phase 2: The Discovery (3303-04-27)'
 - 'Phase 3: The Dynasty Project (3303-02-03)'
 summary: The search for the truth behind the Dynasty Project, a covert mission to install
   beacons in remote galactic regions whose ships never returned.
+summary_de: Die Suche nach der Wahrheit über das Dynasty-Projekt, eine geheime Mission, die
+  Funkfeuer in abgelegenen galaktischen Regionen installieren sollte, aus denen keine der
+  Schiffe zurückkehrte.
 status: Resolved
 outcome: The Dynasty Project was confirmed. Shipwrecks, beacons, and abandoned settlements
   from the 3270s were discovered. The Zurara megaship was found with its crew dead.
+outcome_de: Das Dynasty-Projekt wurde bestätigt. Schiffswracks, Funkfeuer und verlassene
+  Siedlungen aus den 3270er Jahren wurden entdeckt. Das Megaschiff Zurara wurde mit seiner
+  toten Crew aufgefunden.
 significance: medium
 ---
 

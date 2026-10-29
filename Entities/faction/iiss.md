@@ -16,6 +16,10 @@ bio: 'IISS is a organization active in Elite Dangerous lore from 3301-08-28 to 3
   Imperial Senator Nestor Cartesius has sparked widespread speculation about the INRA.;
   Imperator Hadrian Augustus Duval of Nova Imperium marries his consort Astrid Minerva
   in a closed ceremony attended by Princess Aisling Duval.'
+bio_de: |-
+  Der Imperial Internal Security Service (IISS) ist die zentrale Geheimdienst- und Strafverfolgungsbehörde des Imperiums, zuständig für innere Sicherheit, Spionageabwehr und die Überwachung von Bedrohungen für die imperiale Stabilität. Er operiert mit weitreichenden Befugnissen im gesamten imperialen Raum und untersteht direkt dem Imperialen Senat, wenngleich sein Verhältnis zum Kaiser je nach Herrschaft variiert. Der IISS unterhält umfangreiche Überwachungsnetzwerke und Informationsquellen in imperialen Systemen.
+
+  Im Jahr 3306 spielte der IISS eine zentrale Rolle bei der Jagd auf die Neo-Marlinist Liberation Army (NMLA) und koordinierte sich mit der imperialen Marine, um die Zellen und Versorgungsnetzwerke der Terrororganisation aufzuspüren. Seine Einsatzkräfte führten Razzien, Verhöre und Überwachungsoperationen durch, die die Infrastruktur der NMLA nach und nach zersetzten. Gleichzeitig wurde der Dienst kritisiert, weil er die Bombardierung mehrerer imperialer Sternenhäfen nicht verhindert und die Führung der NMLA weiterhin nicht habe fassen können. Die gemischte Bilanz des IISS in der Terrorismusbekämpfung offenbarte die Grenzen selbst imperialer Geheimdienstfähigkeiten gegen eine dezentralisierte und ideologisch motivierte Bedrohung.
 ---
 
 

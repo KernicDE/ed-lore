@@ -1,12 +1,17 @@
 ---
 uuid: 5a196c99-74b0-5ea2-9e5f-0816128db9f5
 title: Help Needed to Crack the NMLA’s Network
+title_de: Hilfe nötig beim Knacken des NMLA-Netzwerks
 slug: help_needed_to_crack_the_nmlas_network
 date: '3308-02-03'
 source: API
 summary: ACT launches a campaign to locate and decipher the NMLA's dark-comms network
   beacons.
+summary_de: ACT startet eine Kampagne, um die Funkschweigen-Funkfeuer des NMLA-Dark-Comms-Netzwerks
+  zu orten und zu entschlüsseln.
 player_impact: Pilots were asked to locate and scan NMLA dark-comms network beacons.
+player_impact_de: Piloten wurden gebeten, die Funkschweigen-Funkfeuer des NMLA-Dark-Comms-Netzwerks
+  zu orten und zu scannen.
 groups:
 - Imperial Internal Security Service
 - NMLA
@@ -18,6 +23,9 @@ arc_id: nmla-terrorism
 modern_impact: '"ACT has launched an effort to locate and decipher the NMLA''s dark-comms
   network." The Omega Grid investigation represents the final technical barrier to
   dismantling the NMLA''s entire operational infrastructure.'
+modern_impact_de: „ACT hat eine Anstrengung gestartet, um das Dark-Comms-Netzwerk der
+  NMLA zu orten und zu entschlüsseln." Die Omega-Grid-Ermittlung stellt die letzte
+  technische Hürde dar, um die gesamte operative Infrastruktur der NMLA zu zerschlagen.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -31,6 +39,30 @@ related_uuids:
 - 2ea3fdf7-8814-5eda-9967-368c424dfcb0
 - 4fe5c0a6-b22f-549b-b11e-0eb1a9c1bac3
 - 37702c1f-2c71-55fb-932e-b8dfeb29d626
+body_de: |
+  **ALARM DER PILOTENFÖDERATION**
+  Die Counter-Terrorism-Einheit ACT hat eine Anstrengung gestartet, um das Dark-Comms-Netzwerk der NMLA zu orten und zu entschlüsseln.
+  Die Anfrage kam von Captain Saskia Landau, einer der Co-Leiterinnen von ACT:
+  „ACT arbeitet daran, Zugriff auf die Omega-Grid-Version zu erlangen, die den geheimnisvollen Drahtziehern der NMLA zur Verfügung gestellt wurde. Die meisten unserer vom IISS abgestellten Agenten wurden zurückberufen, und einige Senatsführer behindern unsere Arbeit. Daher brauchen wir dringend Unterstützung durch unabhängige Piloten, die zu unseren breiteren Bemühungen beitragen, das Netzwerk zu entschlüsseln."
+  „Zunächst einmal haben wir die mögliche Position eines Omega-Grid-Funkfeuers irgendwo im HIP-290-System trianguliert. Wenn es gefunden wird, bestätigt dies unsere Strategie und führt schnell zu weiteren Entdeckungen."
+  „Über dieses Netzwerk weitergeleitete Nachrichten sind wahrscheinlich verschlüsselt. Unsere Analysten haben aus anderen Daten einen teilweisen Chiffrierschlüssel zusammengestellt. Alle vom Funkfeuer bergenen Dateien könnten dabei helfen, den Rest der Chiffre zu erschließen."
+  „Wenn das Funkfeuer im HIP-290-System gefunden wird, kann jeder Pilot, der es scannt, in den folgenden Tagen mit weiteren Anweisungen rechnen."
+  Der teilweise Chiffrierschlüssel lautet wie folgt:
+  A = H
+  B = G
+  C = J
+  E = L
+  F = K
+  L = Q
+  M = T
+  O = V
+  P = U
+  Q = X
+  S = Z
+  T = Y
+  U = B
+  V = A
+  W = D
 ---
 
 

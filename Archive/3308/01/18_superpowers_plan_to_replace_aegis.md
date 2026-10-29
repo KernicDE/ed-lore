@@ -1,12 +1,16 @@
 ---
 uuid: f9b7776c-60b4-5566-b2ab-bd4835dac0fc
 title: Superpowers Plan to Replace Aegis
+title_de: Supermächte planen die Aegis-Nachfolge
 slug: superpowers_plan_to_replace_aegis
 date: '3308-01-18'
 source: API
 summary: The superpowers agree to shut down Aegis permanently and establish independent
   anti-xeno taskforces.
+summary_de: Die Supermächte einigen sich auf die dauerhafte Auflösung von Aegis und die
+  Einrichtung eigener Anti-Xeno-Einheiten.
 player_impact: Not specifically mentioned — this is a policy report.
+player_impact_de: Keine — es handelt sich um einen politischen Bericht.
 persons:
 - Denton Patreus
 groups:
@@ -28,6 +32,10 @@ arc_id: salvation-azimuth
 modern_impact: '"The Alliance, Empire and Federation have accepted the Baumann Report''s
   recommendation to permanently shut down Aegis." The superpowers'' decision to dismantle
   Aegis creates a power vacuum that Salvation and Azimuth eagerly exploit.'
+modern_impact_de: '"Die Allianz, das Imperium und die Föderation haben die Empfehlung des
+  Baumann-Berichts zur dauerhaften Auflösung von Aegis angenommen." Der Beschluss der
+  Supermächte, Aegis abzubauen, schafft ein Machtvakuum, das Salvation und Azimuth
+  begierig ausnutzen.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -41,6 +49,13 @@ related_uuids:
 - abc2fd5a-4eb4-5e36-ba45-d821adf6847e
 - ec3ee958-bfe7-5236-941e-08b7ac6f4784
 - f7dab7fe-23cb-5905-a1d5-29db2b5fa84a
+body_de: |
+  Die Allianz, das Imperium und die Föderation haben die Empfehlung des Baumann-Berichts zur dauerhaften Auflösung von Aegis angenommen.
+  Die Ergebnisse der unabhängigen Untersuchung zu den Versäumnissen der Organisation führen zur sofortigen Schließung von Aegis. Chefadministrator Carter Armstrong warnte jedoch, dass „die vollständige Demobilisierung von Personal, Schiffen und Ressourcen mehrere Monate dauern könnte".
+  Senator Denton Patreus hat senatorial eine Erhöhung des Militärhaushalts durchgesetzt, damit die Kaiserliche Marine die Rolle von Aegis direkt übernehmen kann.
+  Flottenadmiral Tayo Maikori bestätigte ebenfalls, dass der Föderale Kongress die Aufstellung einer neuen Marineangriffseinheit angeordnet hat. Er hat auf eigene Autorität zudem eine Untersuchung gegen Salvation eingeleitet, nachdem Ram Tah zur Natur der Anti-Xeno-Superwaffe ausgesagt hatte.
+  Admiral Nikolas Glass, der kürzlich in den Admiralitätsrat berufen wurde, erklärte, dass die Verteidigungsstreitmacht der Allianz und die Sirius-Flotte gemeinsam die Aufgabe von Aegis übernehmen werden.
+  Die xenologischen Forschungslabore, die Professor Alba Tesreau eingerichtet hatte, werden ihre Arbeit nun an Spezialabteilungen des Holloway Bioscience Institute, der Imperialen Wissenschaftsakademie und der Universität Olympus Village übertragen. 3304 führten die Thargoids gezielte Angriffe auf Aegis-Labore durch, doch alle drei Institutionen versicherten, dass die neuen Standorte die höchste Sicherheit bieten.
 ---
 
 

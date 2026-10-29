@@ -11,6 +11,21 @@ bio: 'Jupiter Rochester is a Ceo in Elite Dangerous lore, active from 3304-07-07
   arrest, the Church of Eternal Void being declared illegal...; Weekly summary covering
   the Alliance Assembly''s agreement to vote on Kincaid''s constitutional changes,
   the fire destroying Supratech''s facility, in...'
+bio_de: |-
+  Jupiter Rochester ist CEO von Core Dynamics, einem der größten Raumfahrt- und
+  Rüstungskonglomerate der Föderation, und Spross der mächtigen Familie Rochester. Unter
+  seiner Führung expandierte Core Dynamics aggressiv durch Übernahmen – am auffälligsten
+  durch die feindliche Übernahme von Lakon Spaceways im Jahr 3306, die Allianz-Führer
+  als Bedrohung ihrer strategischen Schiffbaukapazität verurteilten. Interne Kritiker bei
+  Core Dynamics bezeichneten die Fusion als von Rochesters persönlicher Gier und nicht
+  von Unternehmenslogik getrieben.
+
+  Rochesters Geschäftspraktiken zogen die Aufmerksamkeit der Unabhängigen Kommission
+  für Marktgleichheit auf sich wegen unregelmäßiger Aktienübertragungen und möglicher
+  krimineller Marktmanipulation. Seine politischen Verbindungen reichen tief durch den
+  Einfluss der Familie Rochester in der föderalen Diplomatie, wobei seine unternehmerische
+  Ausrichtung oft mit den öffentlichkeitswirksameren politischen Karrieren von Verwandten
+  wie Jordan Rochester kollidierte.
 ---
 
 

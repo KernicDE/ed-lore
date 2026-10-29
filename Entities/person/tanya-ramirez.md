@@ -12,6 +12,10 @@ bio: 'Tanya Ramirez is a Terrorist in Elite Dangerous lore, active from 3304-05-
   and eliminating the NMLA paramilitary group.; *Pilots Federation ALERT* Assistance
   is needed to track down an ACT operative who vanished while on a mission to identify
   NMLA suppliers.'
+bio_de: |-
+  Senior Agent Tanya Ramirez ist eine Offizierin der Federal Intelligence Agency, die während der NMLA-Krise als Ko-Leiterin der Einheit Affiliated Counter-Terrorism (ACT) neben Captain Niamh Seutonia diente. Im November 3307 gab Ramirez die Festnahme der Bombenbauer der NMLA, bekannt als Theta Group, bekannt, während deren Anführer Theta Seven weiterhin auf freiem Fuß blieb. Sie enthüllte, dass der Durchbruch aus der Abhörung der Kommunikation der Theta Group mit neo-marlinistischen Sympathisanten resultierte.
+
+  Zu Beginn ihrer Karriere war Ramirez Mitglied der dreiseitigen Sonderkommission zur Ermittlung der League of Reparation im Jahr 3304 und arbeitete dabei mit dem Interpol der Allianz und dem Imperial Internal Security Service zusammen. Ihre Expertise in der Terrorismusbekämpfung umfasste zwei der bedeutendsten Bedrohungen für die galaktische Sicherheit im 34. Jahrhundert — von Rachemorden der Nachfahren der INRA bis zu den Sternenhafen-Bombardierungen der Neo-Marlinisten — und machte sie zu einer der erfahrensten Geheimdienstoffizierinnen der Föderation.
 ---
 
 

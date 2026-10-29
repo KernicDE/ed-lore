@@ -10,6 +10,11 @@ bio: Flint 'Firemaker' Lafosse is a pirate in the Elite Dangerous universe, acti
   Sirius Atmospherics. Independent journalist Flint 'Firemaker' Lafosse begins broadcasting
   Kit Fowler's conspiracy show End Times on the Rewired network, linking Black Flight
   crimes to Thargoid cover-ups.
+bio_de: Flint ‚Feuermacher‘ Lafosse ist ein Pirat im Elite-Dangerous-Universum, aktiv
+  von 3306-12-28 bis 3307-08-20. Eng verbunden mit der Allianz, der Sirius Corporation
+  und Sirius Atmospherics. Der unabhängige Journalist Flint ‚Feuermacher‘ Lafosse beginnt
+  damit, Kit Fowlers Verschwörungsshow End Times im Netzwerk Rewired auszustrahlen und
+  dabei die Verbrechen des Black Flight mit Vertuschungen rund um die Thargoiden zu verknüpfen.
 ---
 
 

@@ -1,13 +1,18 @@
 ---
 uuid: c6ad335b-e800-558b-8000-dc2fcc040210
 title: Jokers’ Deck Hunts the Winking Cat
+title_de: Jokers' Deck jagt die Winking Cat
 slug: jokers_deck_hunts_the_winking_cat
 date: '3307-10-19'
 source: API
 summary: Francesca Wolfe reveals that Jokers' Deck security caught her but offered
   her a job instead — to track down the Winking Cat and retrieve the stolen ceremonial
   playing card.
+summary_de: Francesca Wolfe verrät, dass der Sicherheitsdienst von Jokers' Deck sie
+  erwischte, ihr aber stattdessen einen Job anbot – die Winking Cat aufzuspüren und
+  die gestohlene zeremonielle Spielkarte zurückzuholen.
 player_impact: None
+player_impact_de: Keine
 persons:
 - Francesca Wolfe
 - Lexi October
@@ -20,6 +25,8 @@ topics:
 - investigation
 modern_impact: The secretive Jokers' Deck gambling circle remains an enduring mystery
   in galactic high society.
+modern_impact_de: Der geheimnisvolle Spielzirkel Jokers' Deck bleibt ein dauerhaftes
+  Rätsel in der galaktischen High Society.
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -28,6 +35,14 @@ related_uuids:
 - 9b8e3164-1ff4-53b1-a9a9-98345feffa3f
 - 218ec85d-706e-5e3d-bb5b-9a63e443707c
 - 79f7dec4-b60f-56f7-b92e-0d4c77203b9b
+body_de: |
+  Francesca Wolfe von der Wallglass Investigations Agency hat ihren Abschlussbericht über die Infiltration des geheimnisvollen Spielzirkels gesandt.
+  „Die schlechte Nachricht ist, dass mich der Sicherheitsdienst von Jokers' Deck erwischte, als ich versuchte, heimlich an Bord eines Schiffs zu gelangen, um den Planeten zu verlassen. Die gute Nachricht ist, dass sie mich nicht erschossen und nicht einmal mit Anklage bedroht haben. Stattdessen boten sie mir einen Job an!"
+  „Lexi October, die derzeitige Gastgeberin, war überraschend großzügig. Es stellt sich heraus, dass sie Fan unserer Galactic Mysteries-Beiträge ist, die Gunnarson und ich machen, aber noch wichtiger ist, dass sie glaubt, wir könnten ihr geben, was sie wirklich will – die Winking Cat."
+  „Sie erklärte, dass die gestohlene Joker-Spielkarte für die Gruppe enorm symbolträchtig ist, da sie dem ursprünglichen Gründer gehörte. Sie versicherte mir außerdem, dass Jokers' Deck äußerst privat, aber nicht kriminell sei. Die Mitglieder unterschreiben rechtliche Freistellungen, und es gibt einen strengen Ehrenkodex, der sicherstellt, dass alle Wetten bezahlt werden."
+  „Lexi October möchte uns also anheuern, um den berüchtigten Dieb, die Winking Cat, aufzuspüren und die zeremonielle Spielkarte zurückzuholen. Das könnte für sie auch eine Möglichkeit sein, bei ihren ebenso superreichen Mitspielern das Gesicht zu wahren, die über die Aufdeckung verständlicherweise alles andere als erfreut sind."
+  Erik Gunnarson, Wolfes Detektivpartner, fügte hinzu:
+  „Es ist eine große Erleichterung, dass Wolfe sicher ist, aber in was hat sie uns diesmal hineingebracht? Werden wir die Winking Cat wirklich fangen können? Darauf würde ich nicht wetten."
 ---
 
 

@@ -1,12 +1,16 @@
 ---
 uuid: 68957f0d-5d45-53d3-a1ec-d1ac3bbc5691
 title: Aegis Demands Reinstatement
+title_de: Aegis fordert Wiedereinsetzung
 slug: aegis_demands_reinstatement
 date: '3308-03-02'
 source: API
 summary: Aegis leaders petition the superpowers for reinstatement amid evidence of
   Azimuth's return.
+summary_de: Die Führung von Aegis ersucht die Supermächte angesichts von Belegen
+  für die Rückkehr von Azimuth um Wiedereinsetzung.
 player_impact: Not specifically mentioned — this is a policy report.
+player_impact_de: Keine
 persons:
 - Carter Armstrong
 groups:
@@ -27,6 +31,10 @@ modern_impact: '"The leaders of Aegis have formally petitioned the Alliance, Emp
   and Federation to reform the anti-xeno organisation." Aegis''s desperate petition
   highlights the irony that evidence of Azimuth''s return arrives precisely as the
   organization is dismantled.'
+modern_impact_de: '"Die Führung von Aegis hat bei der Allianz, dem Imperium und der
+  Föderation formell ersucht, die Anti-Xeno-Organisation wiederherzustellen." Das
+  verzweifelte Ersuchen von Aegis unterstreicht die Ironie, dass Belege für die Rückkehr
+  von Azimuth genau jetzt eintreffen, da die Organisation abgebaut wird.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -40,6 +48,13 @@ related_uuids:
 - 634f0a2d-c94e-5c0e-9501-a506ebbde34b
 - 2eadd4d6-2a46-58c0-9b83-978dd2f73ad3
 - 8f436007-f00f-535c-af52-d16273c91cc0
+body_de: |
+  Die Führung von Aegis hat bei der Allianz, dem Imperium und der Föderation formell ersucht, die Anti-Xeno-Organisation wiederherzustellen.
+  Obwohl alle drei Supermächte dabei sind, eigene Taskforces als Ersatz für Aegis aufzubauen, waren sie nicht in der Lage, gegen eine jüngste Welle von Thargoid-Einfällen zu helfen.
+  Chefadministrator Carter Armstrong gab eine Erklärung an die Presse ab:
+  „Die überlebenden Mitglieder des Leitungsrats haben eine Eingabe eingereicht, um die Auflösung von Aegis rückgängig zu machen. Der Kern unserer Argumentation ist, dass die Supermächte derzeit von verschiedenen internen Lagen abgelenkt sind, doch die Thargoids interessieren sich nicht für unsere Politik und müssen mit einer einheitlichen Machtdemonstration begegnet werden."
+  „Schiffe der Aegis-Hilfsflotte wurden in letzter Zeit in mehreren Regionen, darunter den Systemen Dan, HIP 12314 und Nauni, von anderen Besatzungen umgenutzt. Doch sie wären offiziell von unserem geschulten Personal betrieben worden, wenn man uns nur unsere Arbeit tun lassen würde."
+  „Zusätzlich zur wachsenden Thargoid-Bedrohung beweist die Wiederentdeckung der Alexandria im System Wregoe TC-X b29-0, dass Azimuth noch existiert. Diese finstere Gruppe schlachtete viertausend Menschen ab, um Artefakte der Wächter zu erlangen, und wir haben Aufzeichnungen, die belegen, dass sie in den letzten Jahren nicht lizenzierte xenologische Forschung betrieb. Aegis könnte diesen Verbrechern ebenso zentralisierten Widerstand entgegensetzen wie der Abwehr außerirdischer Angriffe."
 ---
 
 

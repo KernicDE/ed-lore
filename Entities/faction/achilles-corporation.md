@@ -18,6 +18,10 @@ bio: 'Achilles Corporation is a corporation active in Elite Dangerous lore from 
   neutralising Thargoid ...; Weekly summary covering Fazia Silva''s murder during
   the Alliance presidential race, Herculean Machines'' dominant performance at the
   Rackham Ultrate...'
+bio_de: |-
+  Die Achilles Corporation ist eine große föderale Megakonzern und einer der dominierenden Anbieter persönlicher Computereinheiten in der Galaxis, die lange Zeit neben der Sirius Corporation ein faktisches Duopol innehatte. Zu ihren Produktlinien zählt der Verwaltungsroboter PA912, von dem allein in der Föderation über 300.000 Einheiten verkauft wurden.
+
+  Im Jahr 3304 verwickelte sich Achilles in den Spionageroboterskandal, als sich herausstellte, dass ihre PA912-Einheiten versteckte Überwachungsprogramme enthielten, die ein erpresster Ingenieur im Auftrag des Mars Tribune installiert hatte. Das Unternehmen reagierte mit der Übertragung eines ferngesteuerten Kill-Schalter-Updates und bot betroffenen Kunden kostenlose Austauschgeräte an. Ein Jahrzehnt später stellte die Tochtergesellschaft Achilles Aerospace das Monopol der Sirius Corporation auf die Herstellung von Frame-Shift-Antrieben mit dem Ankündigung eines Prototyps infrage, der aus Trümmern des Titans Taranis entwickelt worden war. Das stieß beim Marktführer auf Skepsis, fand jedoch Unterstützung durch Tausende Piloten, die bei der Beschaffung von Material halfen.
 ---
 
 

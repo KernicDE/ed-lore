@@ -1,13 +1,18 @@
 ---
 uuid: a62fb28f-5dd4-5285-9822-c73d9e9999d0
 title: Battle of Summerland Ends NMLA Threat
+title_de: Schlacht von Summerland beendet die NMLA-Bedrohung
 slug: battle_of_summerland_ends_nmla_threat
 date: '3308-02-24'
 source: API
 summary: Imperial forces and independent pilots defeat Darkwater Inc in the Summerland
   system.
+summary_de: Imperiale Streitkräfte und unabhängige Piloten besiegen Darkwater Inc
+  im System Summerland.
 player_impact: Independent pilots fought alongside superpower forces to destroy Darkwater
   Inc in Summerland.
+player_impact_de: Unabhängige Piloten kämpften Seite an Seite mit den Streitkräften
+  der Supermächte, um Darkwater Inc in Summerland zu vernichten.
 persons:
 - Arissa Lavigny-Duval
 groups:
@@ -24,6 +29,10 @@ arc_id: nmla-terrorism
 modern_impact: '"Let the Battle of Summerland mark the victorious end of our bitter
   war against both the NMLA and the traitors." The destruction of Darkwater and Colonel
   Brock''s death eliminates the last organized NMLA military capability.'
+modern_impact_de: '"Möge die Schlacht von Summerland das siegreiche Ende unseres
+  erbitterten Kriegs sowohl gegen die NMLA als auch gegen die Verräter markieren."
+  Die Vernichtung von Darkwater und der Tod von Colonel Brock beseitigen die letzte
+  organisierte militärische Fähigkeit der NMLA.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -39,6 +48,15 @@ related_uuids:
 - ccf19834-17e9-5709-bfe4-33df626af838
 - e899c6a7-d0d6-5407-a5b7-8a422e4753d7
 - f5584566-270a-5fe5-b405-8e6f45fb1826
+body_de: |
+  **ALARM DER PILOTENFÖDERATION**
+  Das Imperium hat Vergeltung gegen die abtrünnige Fraktion Darkwater Inc im System Summerland geübt.
+  Die private Militärfirma hatte NMLA-Terroristen ausgebildet und Kaiserin Arissa Lavigny-Duval auf Befehl einer Kabale von Senatoren, genannt die Lords of Restoration, gefangen gehalten.
+  Darkwater stellte eine beeindruckende Armada auf, doch diese war einer Kombination aus Streitkräften der Supermächte und unabhängigen Piloten nicht gewachsen. Colonel Ronan Brock, der Anführer der Söldner, wurde getötet, als er vor dem Megaschiff Onyx Storm floh und von imperialen Hilfskräften abgeschossen wurde.
+  Kaiserin Arissa lobte alle, die zur Vernichtung von Darkwater beigetragen hatten, und erklärte: „Möge die Schlacht von Summerland das siegreiche Ende unseres erbitterten Kriegs sowohl gegen die NMLA als auch gegen die Verräter markieren, die das Imperium destabilisieren wollten."
+  ACT präzisierte, dass „es zwar immer neo-marlinistische Extremisten geben kann, doch die großangelegte Bedrohung durch die NMLA ist endgültig beseitigt". Alle vom Omega-Grid-Netzwerk der Terroristen gewonnenen Daten wurden inzwischen mit den zuständigen Sicherheitsbehörden geteilt.
+  Mit der Eliminierung von Darkwater hat das Imperium eine neue Kontrollfraktion im System Summerland installiert. Die Praetorian Vigil wird direkt der Kaiserin berichten und in ihrem Namen regieren.
+  Die Summerland Patron's Party wird Kampfbons einlösen und weitere Belohnungen am Sternenhafen Henry O'Hare's Hangar anbieten. Eine Erlaubnisausnahme, die allen unabhängigen Piloten den Eintritt in das System Summerland gestattet, bleibt für die nächsten zwei Wochen aktiv.
 ---
 
 

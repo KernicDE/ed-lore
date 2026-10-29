@@ -1,12 +1,17 @@
 ---
 uuid: 0c4e2c35-5b73-53f5-9536-c931cc82ea12
 title: Jokers’ Deck Hit by Art Thief
+title_de: Jokers’ Deck von Kunstdieb heimgesucht
 slug: jokers_deck_hit_by_art_thief
 date: '3307-10-12'
 source: API
 summary: The secretive gambling circle Jokers' Deck is raided by the Winking Cat,
   who steals an ancient Joker playing card and replaces it with a winking cat graphic.
+summary_de: Der geheimnisvolle Glücksspielzirkel Jokers’ Deck wird von der Zwinkernden
+  Katze überfallen, die eine uralte Joker-Spielkarte stiehlt und sie durch ein Bild einer
+  zwinkernden Katze ersetzt.
 player_impact: None
+player_impact_de: Keine
 persons:
 - Francesca Wolfe
 - Erik Gunnarson
@@ -18,6 +23,8 @@ topics:
 - investigation
 modern_impact: The Winking Cat remains the galaxy's most legendary and elusive art
   thief.
+modern_impact_de: Die Zwinkernde Katze bleibt die legendärste und schwer fassbarste
+  Kunstdiebin der Galaxis.
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -26,6 +33,13 @@ related_uuids:
 - 9b8e3164-1ff4-53b1-a9a9-98345feffa3f
 - 1810c569-1a21-571d-b879-76241b063c19
 - 218ec85d-706e-5e3d-bb5b-9a63e443707c
+body_de: |
+  Der geheimnisvolle Glücksspielzirkel der Superreichen wurde von dem berüchtigten Verbrecher überfallen, der nur als die Zwinkernde Katze bekannt ist.
+  Die Information wurde von Francesca Wolfe der Wallglass Investigations Agency enthüllt, die die Veranstaltung infiltriert hatte. Ihr Bericht, der von einem unbekannten Ort übermittelt wurde, wurde von ihrem Kollegen Erik Gunnarson veröffentlicht.
+  „Ich bin mir nicht sicher, ob diese Nachricht Gunnarson erreichen wird, aber ich muss es versuchen. Nach dem Sicherheitsalarm ließ das Personal die Ausweise der Anwesenden kontrollieren, wodurch meine Fälschung hätte auffliegen können. Ich schaffte es, aus dem Lagerhaus zu schlüpfen und in ein verlassenes Industriegebiet zu gelangen. Ich weiß immer noch nicht, auf welchem Planeten ich bin, aber ich habe einen alten Kommunikationssender gefunden, um diese Nachricht abzusetzen."
+  „Bevor ich floh, erfuhr ich, was den Alarm ausgelöst hatte. Es gab eine Zeremonie für VIPs, bei der das kostbarste Besitztum der Gruppe präsentiert wurde: eine uralte Joker-Spielkarte. Offenbar wird sie seit Jahrhunderten zwischen hochrangigen Mitgliedern des Jokers’ Deck weitergegeben und stets vom jeweiligen Gastgeber verwahrt. Als Lexi October die Karte feierlich enthüllte, stellte sie fest, dass sie durch eine andere Karte ersetzt worden war – mit einem anderen Motiv: einer zwinkernden Katze."
+  „Es ist zwei Jahre her, seit wir etwas vom größten Dieb der Galaxis gehört haben, aber es besteht kein Zweifel, dass nur die legendären Fähigkeiten der Zwinkernden Katze ihre Sicherheitssysteme hätten überwinden können. Ich bin fasziniert, dass ein abgenutztes Stück Spielkarte mehr wert ist als all die Objekte im Milliardenkreditwert, die hier gewettet werden."
+  „Die Wachen suchen nun nach dem Dieb. Ich hoffe, ich komme vom Planeten, bevor sie stattdessen mich finden. Sie sind bis an die Zähne bewaffnet und nicht zum Reden aufgelegt…"
 ---
 
 

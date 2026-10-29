@@ -10,6 +10,11 @@ bio: Hector Mordanticus Duval is a journalist in the Elite Dangerous universe, a
   Hadrian Duval's wife Astrid gives birth to a son named Hector Mordanticus Duval,
   prompting celebrations across the Empire and a commodity gathering initiative in
   Paresa.
+bio_de: Hector Mordanticus Duval ist eine imperiale Figur im Elite-Dangerous-Universum,
+  aktiv von 3307-12-02 bis 3307-12-09. Eng verbunden mit Nova Paresa und dem Imperial
+  Herald. Astrid, die Ehefrau von Hadrian Duval, bringt einen Sohn namens Hector
+  Mordanticus Duval zur Welt, was im gesamten Imperium zu Feierlichkeiten und zu einer
+  Waren-Sammelaktion in Paresa führt.
 ---
 
 

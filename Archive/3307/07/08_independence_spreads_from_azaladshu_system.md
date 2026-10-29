@@ -1,6 +1,7 @@
 ---
 uuid: e962c6b8-fd3d-59c4-847f-27923ec53502
 title: 'Independence Spreads from Azaladshu System '
+title_de: Unabhängigkeit breitet sich vom Azaladshu-System aus
 slug: independence_spreads_from_azaladshu_system
 date: '3307-07-08'
 source: API
@@ -8,8 +9,15 @@ summary: Azaladshu Free defeats Neche Inc and retains independence from the Fede
   The victory inspires Coalition of Uteran, Lp 726-6 Free and Gluscap Labour to secede,
   affecting all their controlled systems. President Hudson faces criticism for failing
   to contain the rebellion while Winters denies orchestrating the secessions.
+summary_de: Azaladshu Free besiegt Neche Inc und bewahrt seine Unabhängigkeit von der
+  Föderation. Der Sieg inspiriert die Coalition of Uteran, Lp 726-6 Free und Gluscap
+  Labour zum Austritt aus der Föderation, was alle von ihnen kontrollierten Systeme
+  betrifft. Präsident Hudson wird wegen seines Versagens, den Aufstand einzudämmen,
+  kritisiert, während Winters eine Orchestrierung der Abspaltungen bestreitet.
 player_impact: Pilots who supported Azaladshu Free collected rewards at Eratosthenes
   Ring station.
+player_impact_de: Piloten, die Azaladshu Free unterstützt haben, konnten ihre Belohnungen
+  an der Station Eratosthenes Ring abholen.
 persons:
 - Constanza Noguera
 - Zachary Hudson
@@ -38,12 +46,26 @@ arc_id: federal-politics
 modern_impact: The Azaladshu victory triggers a wave of secession across Federal space,
   with ten systems and a billion people becoming independent. The PDB's inability
   to prevent the rebellion undermines its justification for mass surveillance.
+modern_impact_de: Der Azaladshu-Sieg löst eine Abspaltungswelle im gesamten Föderalen
+  Raum aus, bei der zehn Systeme und eine Milliarde Menschen unabhängig werden. Die
+  Unfähigkeit des PDB, den Aufstand zu verhindern, untergräbt seine Rechtfertigung
+  für Massenüberwachung.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 222858de-4cad-5e93-8606-bf343116ee8d
 - d78b9f69-dd13-5d3c-8970-3f9237691ebe
 - ef028c66-1901-5fef-af9f-2c741a9066b6
+body_de: |
+  **Alarm der Pilotenföderation**
+  Die Fraktion Azaladshu Free hat die Streitkräfte von Neche Inc besiegt und ihre Unabhängigkeit von der Föderation bewahrt.
+  Dadurch haben die Systeme Azaladshu, LFT 824, LHS 277 und LTT 3919 ihren unabhängigen Status bestätigt. Der Sieg inspirierte außerdem die Fraktionen Coalition of Uteran, Lp 726-6 Free und Gluscap Labour, aus der Föderation auszutreten, was alle von ihnen kontrollierten Systeme betrifft.
+  Bürgermeisterin Constanza Noguera, Führerin von Azaladshu Free, erklärte:
+  „Eine Föderation, die die Rechte ihrer Menschen missbraucht, hat keine Autorität. Mit Hilfe unserer treuen Unterstützer haben wir uns für Würde und Bürgerrechte eingesetzt."
+  Die Lage hat im Kongress für Aufruhr gesorgt; Präsident Zachary Hudson wird kritisiert, weil er diesen Aufstand nicht eindämmen konnte.
+  Schattenpräsidentin Felicia Winters reagierte auf die Vorwürfe, sie habe die abtrünnigen Fraktionen orchestriert:
+  „Ich unterstütze ihre Ablehnung unserer harten Überwachungsgesetze, aber nicht ihre Protestmethoden. Ich habe kein Interesse daran, dass die Föderation aus welchem Grund auch immer Mitgliedssysteme verliert."
+  Piloten, die die Fraktion Azaladshu Free unterstützt haben, können ihre Belohnungen an der Station Eratosthenes Ring abholen.
 ---
 
 

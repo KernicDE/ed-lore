@@ -1,13 +1,18 @@
 ---
 uuid: 909c6b12-f181-52cc-840a-6173b3164226
 title: Scriveners Clan Resists Orion University
+title_de: Scriveners-Clan widersetzt sich der Orion University
 slug: scriveners_clan_resists_orion_university
 date: '3307-10-22'
 source: API
 summary: The Scriveners Clan refuses to allow Orion University to take possession
   of their dredger, sealing airlocks and electrifying the hull to resist boarding
   attempts.
+summary_de: Der Scriveners-Clan verweigert der Orion University die Übernahme des
+  Dredgers, indem er Luftschleusen versiegelt und den Rumpf elektrifiziert, um
+  Anlandungsversuche abzuwehren.
 player_impact: None
+player_impact_de: Keine
 persons:
 - Casey Kilpatrick
 groups:
@@ -18,6 +23,8 @@ topics:
 arc_id: scriveners-clan
 modern_impact: The Scriveners Clan dredger remains a subject of dispute between academic
   institutions and the nomadic society that inhabits it.
+modern_impact_de: Der Dredger des Scriveners-Clans bleibt ein Streitpunkt zwischen
+  akademischen Institutionen und der nomadischen Gesellschaft, die ihn bewohnt.
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -28,6 +35,13 @@ related_uuids:
 - 8d11dddf-b087-5b68-9945-af45e8953120
 - 9b5c7d9c-82e8-5050-ba09-ba7bbfb3c294
 - ac1bbb46-c78b-5615-a13e-50145a1e363c
+body_de: |
+  Der auf einem uralten Dredger lebende Raumfahrer-Stamm hat sich geweigert, der Orion University die Übernahme des Schiffs zu gestatten.
+  Vox Galactica veröffentlichte einen Augenzeugenbericht der freien Reporterin Casey Kilpatrick aus dem System Oochost PC-C c29-0:
+  „Nachdem der Scriveners-Clan gefunden worden war, dauerte es nicht lange, bis die Orion University eintraf. Ihr Megaschiff, die Scientia Aeterna, deaktivierte aus der Ferne den Hyperantrieb des Dredgers mithilfe einer Reihe von Überbrückungscodes. Diese waren aus den Archiven der Universität ausgegraben worden, zusammen mit Beweisen, dass das Schiff – 3088 als Dredger J-403 in Dienst gestellt – ihr rechtmäßig gehört."
+  „Obwohl sie nicht entkommen konnten, haben die Scriveners Widerstand geleistet. Alle Kommunikationsversuche wurden rundweg ignoriert. Ich habe beobachtet, wie mehrere Schiffe versuchten, am Dredger anzulegen, nur um versiegelte Luftschleusen und einen elektrifizierten Rumpf vorzufinden."
+  „Es ist klar, dass diese Menschen nicht einfach auf ihr Zuhause verzichten wollen, nur wegen jahrhundertealter Gesetzgebung. Aber es zeichnet sich auch ab, dass die Orion University an mehr interessiert ist, als bloß verlorenes Eigentum zurückzufordern …"
+  „Die Scriveners besitzen etwas, das sie als Wissenskern bezeichnen, und das alles enthält, was diese gelehrte Gesellschaft auf ihrer langen Reise gelernt hat. Welche Entdeckungen könnte diese Datenbank enthalten? Und wie weit wird die Universität gehen, um sie in die Hände zu bekommen?"
 ---
 
 

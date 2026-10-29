@@ -1,13 +1,18 @@
 ---
 uuid: d6d91653-4bab-5701-9695-afba5c9d142b
 title: Vodel Releases Scorpion SRV
+title_de: Vodel bringt Scorpion-SRV heraus
 slug: vodel_releases_scorpion_srv
 date: '3307-12-09'
 source: API
 summary: Vodel officially releases the Scorpion SRV, a combat-focused surface vehicle
   developed with Core Dynamics resources following their 3305 acquisition.
+summary_de: Vodel bringt offiziell den Scorpion SRV heraus, ein auf Kampfeinsätze
+  ausgelegtes Bodenfahrzeug, das nach der Übernahme durch Core Dynamics 3305 mit deren
+  Ressourcen entwickelt wurde.
 player_impact: The Scorpion SRV is now available to purchase from military economy
   ports.
+player_impact_de: Der Scorpion SRV ist nun an Militärhäfen zum Kauf verfügbar.
 persons:
 - Frank Endis
 - Owen McKenna
@@ -22,6 +27,9 @@ topics:
 - engineering
 modern_impact: The Scorpion SRV represents a significant advancement in surface combat
   vehicle technology, offering pilots a new tool for planetary operations.
+modern_impact_de: Der Scorpion SRV stellt einen bedeutenden Fortschritt in der Technologie
+  von Kampffahrzeugen für den Bodeneinsatz dar und bietet Piloten ein neues Werkzeug
+  für Operationen auf Planeten.
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -30,6 +38,15 @@ related_uuids:
 - 61ab8647-32a4-5463-b38b-57ed9790e137
 - ee5b7c0a-d673-55fa-b1af-b0e73f400736
 - e80dc871-1c60-5bbc-ab2c-32af2fdecaf5
+body_de: |
+  Der SRV-Hersteller Vodel gab heute die offizielle Markteinführung seines neuen Fahrzeugs, des Scorpion, bekannt.
+  Das erste neue Serienmodell des Unternehmens seit vielen Jahren ist für Kampfeinsätze und Truppenunterstützung konzipiert. Allgemein gilt, dass die Übernahme von Vodel durch Core Dynamics 3305 die Entwicklung des neuen Modells auslöste, wobei die beträchtlichen finanziellen Mittel des Mutterkonzerns den Ingenieurteams von Vodel zur Verfügung standen.
+  Vodels Chefdesigner Frank Endis hielt auf dem Startevent des Unternehmens am Levinson Orbital in Bhattra eine Rede:
+  „Wir freuen uns sehr, den Scorpion SRV auf den Markt zu bringen, und sind von seinem Potenzial begeistert. Unser Marketingteam erwartet großes Interesse sowohl von unabhängigen Operateuren als auch von Militäreinheiten, und das dank der beeindruckenden technischen Daten des Scorpion."
+  „Ein Schwerpunkt auf Überlebensfähigkeit bietet die Kabine des Scorpion für zwei Besatzungsmitglieder zusätzlichen Schutz. Der Plasmastur-Repeater und der proprietäre Aculeus-Raketenwerfer arbeiten beim Bekämpfen gepanzerter Ziele mit Schilden in perfekter Harmonie. Die rohe Kraft des Scorpion bietet außergewöhnliches Drehmoment und bewältigt raues Gelände und steile Anstiege."
+  Owen McKenna, CEO von Core Dynamics, war ebenfalls bei der Veranstaltung anwesend und wurde um eine Stellungnahme gebeten:
+  „Ich bin wirklich glücklich darüber, wie hart das Vodel-Team an diesem neuen Fahrzeug gearbeitet hat. Sie hatten von Anfang an klare Ziele vor Augen, nahmen das Feedback von Core Dynamics auf und hielten uns regelmäßig auf dem Laufenden. Ich denke, die Übernahme von Vodel war eine der letzten guten Entscheidungen, die Jupiter Rochester als Chef des Unternehmens getroffen hat."
+  Der Scorpion SRV ist nun an Militärhäfen zum Kauf verfügbar.
 ---
 
 

@@ -15,6 +15,8 @@ bio: Sirius Navy is a naval in the Elite Dangerous universe, active from 3307-12
   to 3307-12-17. Frequently linked with Alliance Defence Force, Imperial Senate, Hind
   Mine. Commodore Morag Halloran reveals that hundreds of naval officers from all
   three superpowers and Sirius have resigned to join Salvation's anti-xeno crusade.
+bio_de: |-
+  Die Sirius Navy ist eine Marineorganisation im Elite-Dangerous-Universum, aktiv von 3307-12-17 bis 3307-12-17. Häufig in Verbindung mit Alliance Defence Force, Imperial Senate, Hind Mine. Kommodore Morag Halloran enthüllt, dass hunderte Marineoffiziere aller drei Supermächte und von Sirius zurückgetreten sind, um sich Salvation's antixenokreuzzug anzuschließen.
 ---
 
 

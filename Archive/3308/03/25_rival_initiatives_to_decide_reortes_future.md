@@ -1,13 +1,18 @@
 ---
 uuid: 33ee3c75-97ce-563c-993f-e4102203cb85
 title: Rival Initiatives to Decide Reorte’s Future
+title_de: Rivalisierende Initiativen entscheiden über Reortes Zukunft
 slug: rival_initiatives_to_decide_reortes_future
 date: '3308-03-25'
 source: API
 summary: Rival delivery campaigns determine whether Reorte remains in the Alliance
   or seeks independence.
+summary_de: Rivalisierende Lieferaktionen entscheiden, ob Reorte in der Allianz bleibt
+  oder die Unabhängigkeit anstrebt.
 player_impact: Pilots were asked to deliver goods to either the Reorte Mining Coalition
   or the Reorte Pro-Alliance League.
+player_impact_de: Piloten wurden gebeten, Waren entweder der Reorte Mining Coalition
+  oder der Reorte Pro-Alliance League zu liefern.
 groups:
 - Alliance
 - Sirius Corporation
@@ -25,6 +30,9 @@ arc_id: null
 modern_impact: '"Deliveries to the Reorte Mining Coalition or the Reorte Pro-Alliance
   League will help determine the system''s status." The competitive delivery campaign
   places Reorte''s political future directly in the hands of independent pilots.'
+modern_impact_de: „Lieferungen an die Reorte Mining Coalition oder die Reorte Pro-Alliance
+  League werden dazu beitragen, den Status des Systems zu bestimmen." Die konkurrierende
+  Lieferaktion legt Reortes politische Zukunft direkt in die Hände unabhängiger Piloten.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -34,6 +42,17 @@ related_uuids:
 - 09bf0b89-95eb-572c-97eb-a94634287f81
 - 7086c7a6-47b9-5cfa-ac9e-c7c44ed36d6a
 - b5be39b0-960e-54d6-bee8-fd556eb2bffb
+body_de: |
+  **ALARM der Pilotenföderation**
+  Lieferungen an die Reorte Mining Coalition oder die Reorte Pro-Alliance League werden dazu beitragen, den Status des Systems zu bestimmen.
+  Die kontrollierende Fraktion des Systems möchte ihre Unabhängigkeit erklären, als Protest gegen den von der Sirius Corporation vorgeschlagenen Anti-Xeno-Verteidigungspakt mit den Streitkräften der Allianz.
+  Fergus Cassidy, Geschäftsführer der Reorte Mining Coalition, kündigte an:
+  „Premierminister Mahons Beharren auf der Zusammenarbeit mit Sirius lässt uns glauben, dass unsere Interessen außerhalb der Allianz am besten vertreten sind. Um uns auf einen möglichen Übergang Reortes zu einem unabhängigen System vorzubereiten, bitten wir um Lieferungen fortschrittlicher Medikamente, Skimmer-Komponenten und Baufabrikatoren an den Sternenhafen Davies High."
+  Es wird erwartet, dass die Reorte Mining Coalition erfolgreich ist, alle derzeit unter ihrer Verwaltung stehenden Systeme ebenfalls als unabhängig eingestuft würden.
+  Eine andere Fraktion im System, die Reorte Pro-Alliance League, sendete eine Gegenerklärung von Chefadministratorin Louisa Leblanc:
+  „Die Trennung Reortes von der Allianz wegen eines verfehlten Idealismus wäre angesichts der Thargoid-Bedrohung, auf die dieser Pakt vorbereiten soll, voreilig und kurzsichtig. Wir glauben, dass steigende Vorräte an fortschrittlichen Medikamenten, Skimmer-Komponenten und Baufabrikatoren der Öffentlichkeit die Vorteile der Mitgliedschaft verdeutlichen werden."
+  „Die Fraktion Alioth Independents hat freundlicherweise ein Megaschiff, die Trobairitz, zur Verfügung gestellt, auf dem Piloten diese Waren liefern können."
+  Obwohl die Sirius Corporation offiziell nicht an diesen konkurrierenden Initiativen beteiligt ist, bietet sie unabhängigen Piloten, die Lieferungen zur Trobairitz machen, vorkonfigurierte Wärmetauscher-Module an.
 ---
 
 

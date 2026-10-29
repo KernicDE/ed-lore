@@ -16,6 +16,10 @@ bio: 'Vandermeer Corporation is a corporation active in Elite Dangerous lore fro
   Health Organisation, Vitadyne Labs. Key activities include: The IAA confirms mass
   crop spoilage is caused by a new advanced blight of unknown origin.; The blight
   pathogen mutates into a self-sufficient form capable of surviving without the fertiliser.'
+bio_de: |-
+  Vandermeer Corporation ist ein Pharma- und Biotechnologieunternehmen, das in den 3300er Jahren in mehrere große medizinische Krisen verwickelt war. Im Oktober 3305 bot das Unternehmen der Interstellar Association for Agriculture Unterstützung bei der Erforschung einer verheerenden Pflanzenfäule an und setzte seine Expertise in molekularer Diagnostik gegen den Erreger ein, der auf Agrarwelten für Massenverderb sorgte.
+
+  Später war das Unternehmen an der Entwicklung medizinischer Anwendungen für Onion Head beteiligt und arbeitete 3307 mit Neomedical Industries und der Interstellar Health Organisation zusammen, um dessen medizinischen Nutzen zu verifizieren. Vandermeers Rolle in diesen Krisen unterstreicht die Bedeutung der Pharmaindustrie bei der Bewältigung gesundheitlicher Notlagen in der gesamten Galaxis, wenngleich seine kommerziellen Interessen auch Fragen zur Privatisierung der Krisenbewältigung aufwarfen.
 ---
 
 

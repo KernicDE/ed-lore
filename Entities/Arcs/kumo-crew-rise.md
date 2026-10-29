@@ -14,15 +14,23 @@ key_entities:
 description: The rise of Archon Delaine's Kumo Crew from a pirate confederation to a
   quasi-state power controlling the Pegasi Sector, complete with its own economy, military,
   and political structures.
+description_de: Der Aufstieg von Archon Delaines Kumo Crew von einer Piratenvereinigung zu
+  einer quasistaatlichen Macht, die den Pegasi-Sektor kontrolliert – ausgestattet mit eigener
+  Wirtschaft, eigener Militär- und eigener politischen Strukturen.
 phases:
 - 'Phase 1: Unification (3301-06-05)'
 - 'Phase 2: Expansion (3307-04-30)'
 - 'Phase 3: Anti-Xeno Turn (3309-02-09)'
 summary: Archon Delaine's transformation of the Kumo Crew from a loose pirate confederation
   into an organised political and military force controlling the Pegasi Sector.
+summary_de: Archon Delaines Transformation der Kumo Crew von einer lockeren Piratenvereinigung
+  zu einer organisierten politischen und militärischen Kraft, die den Pegasi-Sektor kontrolliert.
 status: Ongoing
 outcome: The Kumo Crew controls the Pegasi Sector, operates starports, and maintains
   a military capable of both anti-xeno operations and territorial expansion.
+outcome_de: Die Kumo Crew kontrolliert den Pegasi-Sektor, betreibt Sternenhäfen und
+  unterhält ein Militär, das sowohl für Anti-Xeno-Operationen als auch für territoriale
+  Expansion in der Lage ist.
 significance: medium
 ---
 

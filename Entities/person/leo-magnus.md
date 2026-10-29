@@ -10,6 +10,19 @@ bio: 'Leo Magnus is a Terrorist in Elite Dangerous lore, active from 3306-10-27 
   assassins attack Imperator Hadrian Duval at Dyson City in Paresa, severely wounding
   him.; Imperator Hadrian Augustus Duval of Nova Imperium marries his consort Astrid
   Minerva in a closed ceremony attended by Princess Aisling Duval.'
+bio_de: |-
+  Leo Magnus ist Praetor und Sicherheitschef von Nova Imperium, der isolationistischen
+  Bewegung unter Imperator Hadrian Augustus Duval. Im November 3306 äußerte sich Magnus
+  zu Princess Aisling Duvals unorthodoxem Eingriff zur Rettung Hadrians nach einem
+  NMLA-Attentat und stellte fest, dass die Prätorianergarde die Hilfe Ihrer Hoheit
+  zwar zu schätzen wisse, es jedoch ein Rätsel bleibe, wie die Terroristen so nahe
+  ans Ziel gekommen waren.
+
+  Als Sicherheitschef von Nova Imperium überwacht Magnus den Schutz der Führung der
+  Bewegung und untersucht Bedrohungen gegen ihre Mitglieder. Seine Rolle platziert ihn
+  an der Schnittstelle von imperialer Politik und Terrorismusbekämpfung: Er verteidigt
+  eine Organisation, die das Imperium wegen Hochverrats verboten hat, während er einen
+  eigenen Sicherheitsapparat unabhängig von der kaiserlichen Garde unterhält.
 ---
 
 

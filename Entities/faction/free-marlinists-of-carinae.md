@@ -14,6 +14,9 @@ related_entities:
 bio: 'Free Marlinists of Carinae is a organization in the Elite Dangerous universe,
   active from 3307-12-16 to 3307-12-16. Frequently linked with Neo-Marlinist Order
   of Mudhrid, NMLA, HIP 22550. '
+bio_de: Free Marlinists of Carinae ist eine Organisation im Elite-Dangerous-Universum,
+  die vom 16.12.3307 bis zum 16.12.3307 aktiv war. Häufig in Verbindung mit Neo-Marlinist
+  Order of Mudhrid, NMLA, HIP 22550.
 ---
 
 

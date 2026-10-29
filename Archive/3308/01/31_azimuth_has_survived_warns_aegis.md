@@ -1,12 +1,16 @@
 ---
 uuid: 7f67c12a-9831-57d7-bb70-4905b0d58356
 title: ‘Azimuth has Survived’ Warns Aegis
+title_de: Aegis warnt – „Azimuth hat überlebt"
 slug: azimuth_has_survived_warns_aegis
 date: '3308-01-31'
 source: API
 summary: Data from the Alexandria reveals Azimuth Biochemicals orchestrated the megaship's
   destruction.
+summary_de: Daten von der Alexandria enthüllen, dass Azimuth Biochemicals die Zerstörung
+  des Megaschiffs inszenierte.
 player_impact: Not specifically mentioned — this is an investigative report.
+player_impact_de: Keine — es ist ein investigativer Bericht.
 persons:
 - Carter Armstrong
 - Jacob Morales
@@ -27,6 +31,10 @@ arc_id: salvation-azimuth
 modern_impact: '"The wreckage of the Alexandria was recently found in the Wregoe TC-X
   B29-0 system." Recovered data proves Azimuth Biochemicals orchestrated the Alexandria''s
   destruction, confirming the century-old corporation''s return as a galactic threat.'
+modern_impact_de: „Das Wrack der Alexandria wurde kürzlich im Wregoe-TC-X-B29-0-System
+  gefunden." Die geborgenen Daten beweisen, dass Azimuth Biochemicals die Zerstörung
+  der Alexandria inszenierte, und bestätigen die Rückkehr des Jahrhunderte alten Konzerns
+  als galaktische Bedrohung.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -40,6 +48,14 @@ related_uuids:
 - 68957f0d-5d45-53d3-a1ec-d1ac3bbc5691
 - 2eadd4d6-2a46-58c0-9b83-978dd2f73ad3
 - 8f436007-f00f-535c-af52-d16273c91cc0
+body_de: |
+  Von der Alexandria geborgene Informationen veranlassten Aegis zu beharren, nicht für den Verlust der Besatzung und der Fracht des Megaschiffs verantwortlich zu sein.
+  Das Wrack der Alexandria wurde kürzlich im Wregoe-TC-X-b29-0-System geortet. Es gab keine Überlebenden, doch Fragmente des Logbuchs des Kommandanten wurden gefunden.
+  Chefadministrator Carter Armstrong veröffentlichte diese Erklärung im Namen von Aegis:
+  „Die Aufzeichnungen von Captain Jacob Morales erzählen eine düstere Geschichte. Die Alexandria wurde absichtlich sabotiert, um sie manövrierunfähig und energielos zurückzulassen. Die Besatzung traf auf eine unbekannte Gruppe, die sich als Rettungsteam ausgab; diese tötete den Großteil der Besatzung und kaperte die Guardian-Artefakte. Die Überlebenden unternahmen später einen verzweifelten Versuch, den Hyperantrieb zu starten, was leider zu ihrer Vernichtung führte."
+  „Wir können nun beweisen, dass der Verlust der Alexandria nicht, wie im Baumann-Bericht behauptet, durch Fahrlässigkeit verursacht wurde. In Wirklichkeit wurde das Megaschiff in eine Falle einer organisierten quasi-militärischen Streitmacht gelockt."
+  „Darüber hinaus fand Captain Morales heraus, dass die Angreifer für jemanden arbeiteten, den sie ‚die Hexe' nannten. Dieser Name wurde in Logbüchern erwähnt, die in HIP 22460 im Zusammenhang mit Projekt Seraph gefunden wurden – abscheuliche Experimente von Azimuth-Forschern, bei denen menschliche Testpiloten in Thargoid-Schiffe eingesetzt werden sollten."
+  „Diese Beweise deuten darauf hin, dass Azimuth Biochemicals die letzten zweihundert Jahre in irgendeiner Form überlebt hat und weiterhin auf aggressive xenologische Forschung ausgerichtet ist. Aegis muss umgehend wiederhergestellt werden, um dieser gefährlichen Organisation Einhalt zu gebieten, bevor weitere Menschenleben verloren gehen."
 ---
 
 

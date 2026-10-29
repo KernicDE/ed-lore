@@ -9,6 +9,8 @@ related_entities:
 - none-specified
 bio: 'WorldCraft is a organization in the Elite Dangerous universe, active from 3307-12-19
   to 3307-12-19. Frequently linked with none specified. '
+bio_de: |-
+  WorldCraft ist eine Organisation im Elite-Dangerous-Universum, aktiv von 3307-12-19 bis 3307-12-19. Häufig in Verbindung mit nicht angegeben.
 ---
 
 

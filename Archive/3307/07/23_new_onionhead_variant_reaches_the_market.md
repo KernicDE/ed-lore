@@ -1,6 +1,7 @@
 ---
 uuid: e8e02b95-9c85-5a56-9e40-5304d8f01cde
 title: New Onionhead Variant Reaches the Market
+title_de: Neue Onionhead-Variante erreicht den Markt
 slug: new_onionhead_variant_reaches_the_market
 date: '3307-07-23'
 source: API
@@ -8,8 +9,15 @@ summary: Onionhead gamma strain (helix) enters the market in selected industrial
   systems. Journalist Adalyn Cross reports it is marketed for medicinal use but remains
   illegal outside anarchy jurisdictions. Concerns arise about Sirius Corporation potentially
   ferrying shipments via its freight network, which the company denies.
+summary_de: Die Onionhead-Gamma-Variante (Helix) gelangt in ausgewählten industriellen
+  Anarchie-Systemen in den Handel. Die Journalistin Adalyn Cross berichtet, sie werde
+  als Medizinprodukt vermarktet, sei aber außerhalb anarchischer Gerichtsbarkeiten
+  illegal. Es entstehen Bedenken, dass die Sirius Corporation Lieferungen möglicherweise
+  über ihr Frachtnetzwerk befördert, was das Unternehmen bestreitet.
 player_impact: The new drug is now available in approximately 10% of industrial anarchy
   markets.
+player_impact_de: Die neue Droge ist nun in etwa 10 Prozent der industriellen Anarchie-Märkte
+  erhältlich.
 persons:
 - Adalyn Cross
 - Sinclair Faraldo
@@ -42,12 +50,29 @@ arc_id: onionhead-conflict
 modern_impact: The rapid distribution of onionhead gamma strain demonstrates the Kumo
   Crew's sophisticated logistics capabilities and raises ongoing questions about Sirius
   Corporation's possible involvement in illicit trade.
+modern_impact_de: Die rasche Verbreitung der Onionhead-Gamma-Variante zeigt die ausgeklügelten
+  Logistikfähigkeiten der Kumo Crew und wirft weiterhin Fragen nach einer möglichen
+  Beteiligung der Sirius Corporation am illegalen Handel auf.
 legacy_weight: 3
 significance: medium
 related_uuids:
 - b1886f93-ecbf-50e3-83c6-743f46436d7b
 - 3517ce1e-1d0e-57c9-ada1-bcdf88b77d23
 - ea0496c2-a753-54ad-b6de-0c3d9bf29edf
+body_de: |
+  **Alarm der Pilotenföderation**
+
+  Die Onionhead-Gamma-Variante ist nun in ausgewählten industriellen Anarchie-Systemen erhältlich.
+
+  Nach der Initiative des Kumo Council wurde genug Ware produziert, um etwa 10 Prozent aller industriellen Märkte anarchistischer Fraktionen zu beliefern. Im Gegensatz zu früheren Onionhead-Versionen wird diese Variante nicht als seltene Handelsware geführt.
+
+  Adalyn Cross, Journalistin bei Vox Galactica, berichtete:
+
+  „Die Onionhead-Gamma-Variante wird der Öffentlichkeit als Medizinprodukt verkauft, doch die meisten Kunden machen sich über die wahren Wirkungen keine Illusionen. Die Coalition for Legalisation behauptet, sie sei ‚nicht schädlicher oder süchtiger machend als Alkohol oder Kaffee, mit potenziellen psychologischen und palliativen Vorteilen'."
+
+  „Das hat viele Behörden, vor allem in der Föderation, nicht davon abgehalten zu fordern, die Droge allgemein zu verbieten. Derzeit ist sie außerhalb anarchischer Gerichtsbarkeiten illegal. Es bestehen ernste Bedenken, dass sie als Einstiegsdroge zu schädlicheren Substanzen wirken könnte. Auch die Sicherheitsdienste sind über die zusätzlichen Einnahmen in Archon Delaines Kassen nicht erfreut."
+
+  „Einige Logistikexperten wiesen darauf hin, dass die Onionhead-Gamma-Variante mit überraschender Geschwindigkeit verteilt wurde. Bereits aus folgenden Systemen wird sie als erhältlich gemeldet: Alici, Baraswar, Kishpakho, Nastrond und Nocori. Es wurde angenommen, dass die Sirius Corporation heimlich Lieferungen der Droge über ihr Frachttransportnetzwerk befördert und Teil des Abkommens zwischen der Kumo Crew und dem Blue Viper Club ist. Sinclair Faraldo, Vizepräsident für Unternehmensmarketing, wies diese Behauptung als ‚absurd und verleumderisch' zurück."
 ---
 
 

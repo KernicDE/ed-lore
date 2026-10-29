@@ -8,6 +8,8 @@ mention_count: 2
 bio: 'Zander Lachance is a scientist in the Elite Dangerous universe, active from
   3305-10-23 to 3307-08-13. Closely associated with Neomedical Industries, Scythe
   of Panem, Vandermeer Corporation. '
+bio_de: |-
+  Zander Lachance ist ein Wissenschaftler im Elite-Dangerous-Universum, aktiv vom 3305-10-23 bis 3307-08-13. Eng verbunden mit Neomedical Industries, Scythe of Panem, Vandermeer Corporation.
 ---
 
 

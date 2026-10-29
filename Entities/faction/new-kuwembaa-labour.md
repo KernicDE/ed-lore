@@ -16,6 +16,11 @@ bio: New Kuwembaa Labour is a organization in the Elite Dangerous universe, acti
   Labour. New Kuwembaa Labour secedes from the Federation, affecting five systems.
   President Hudson orders her to abide by constitutional law and redirects the Fortress
   Liberty megaship to Kuwembaa.
+bio_de: New Kuwembaa Labour ist eine Organisation im Elite-Dangerous-Universum, die
+  von 3307-07-21 bis 3307-07-30 aktiv war. Häufig in Verbindung mit Azaladshu Free,
+  Sol und Gluscap Labour. New Kuwembaa Labour tritt aus der Föderation aus, was fünf
+  Systeme betrifft. Präsident Hudson ordnet an, dass sie das Verfassungsrecht beachtet,
+  und leitet das Megaschiff Fortress Liberty nach Kuwembaa um.
 ---
 
 

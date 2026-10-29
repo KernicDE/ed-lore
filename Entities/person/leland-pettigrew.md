@@ -9,6 +9,16 @@ bio: Leland Pettigrew is the Vice Chancellor of Orion University, the largest in
   educational institution in the core systems. In October 3307, he claimed legal ownership
   of the Scriveners Clan dredger based on historical records showing it was commissioned
   in 3088 by Scrivener College, which was absorbed into Orion University in 3125.
+bio_de: |-
+  Leland Pettigrew ist Vizekanzler der Orion-Universität, der größten unabhängigen
+  Bildungseinrichtung in den Kernsystemen. Im Oktober 3307 erhob er einen umstrittenen
+  rechtlichen Anspruch auf das Eigentum am Bagger der Scriveners-Clans, gestützt auf
+  kürzlich entdeckte Archivdokumente. Er erklärte, Dredger J-403 sei 3088 vom
+  Scrivener College für eine Erkundungsmission in Auftrag gegeben worden, und diese
+  Einrichtung sei 3125 in der Orion-Universität aufgegangen, wodurch das Schiff
+  Universitätseigentum sei. Während Pettigrew betonte, die Universität hege keine
+  Feindseligkeit gegenüber den gegenwärtigen Bewohnern des Baggers, löste sein Anspruch
+  eine angespannte Konfrontation mit dem nomadischen Clan aus.
 ---
 
 

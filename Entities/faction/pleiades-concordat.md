@@ -15,6 +15,15 @@ related_entities:
 bio: The Pleiades Concordat is a theocracy in the Panjabell system devoted to the Far
   God cult. It controls the system and has provided a home for migrating chapters of the
   Thargoid-worshipping sect.
+bio_de: |-
+  Das Pleiades Concordat ist eine theokratische Fraktion, die das System Panjabell
+  kontrolliert und dem Far-God-Kult huldigt. Anders als der pazifistische Mainstream des
+  Kults errichtete das Concordat eine formale politische Struktur um ihren apokalyptischen
+  Glauben. Die Fraktion nahm umherziehende Kapitel der Far-God-Sekte auf und bot ihnen
+  Schutz vor Verfolgung durch Anti-Xeno-Aktivisten und föderale Geheimdienste. Erik
+  Gunnarson von der Wallglass Investigations Agency stellte fest, dass die Kontrolle
+  des Concordat über Panjabell darauf hindeute, dass sie möglicherweise etwas „Größeres
+  — oder Seltsameres — als das, was wir bisher gesehen haben" vorbereiteten.
 ---
 
 

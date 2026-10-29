@@ -15,6 +15,9 @@ key_entities:
 description: Hundreds of thousands of Marlinist refugees fled Imperial persecution following
   anti-terrorism lockdowns, creating a diplomatic crisis as the Empire demanded extradition
   while the Federation and Alliance offered sanctuary.
+description_de: Hunderttausende marlinistischer Flüchtlinge flohen vor imperialer Verfolgung
+  nach den Anti-Terror-Lockdowns und lösten eine diplomatische Krise aus, als das Imperium
+  Auslieferung forderte, während Föderation und Allianz Schutz boten.
 phases:
 - 'Phase 1: The Exodus (3306-10-20)'
 - 'Phase 2: Federal Response (3306-10-22)'
@@ -22,10 +25,16 @@ phases:
 summary: The mass exodus of Marlinist refugees from the Empire following anti-terrorism
   crackdowns, creating an inter-superpower crisis over extradition, asylum, and accusations
   of harbouring terrorists.
+summary_de: Die Massenflucht marlinistischer Flüchtlinge aus dem Imperium nach Anti-Terror-Razzien,
+  die eine Supermacht-Krise über Auslieferung, Asyl und den Vorwurf der Terroristenunterstützung
+  auslöste.
 status: Resolved
 outcome: Marlinists were granted asylum in Federation and Alliance space. The Marlinist
   Parliament established colonies with Sirius Corporation support. NMLA terrorists were
   later identified among refugee populations.
+outcome_de: Die Marlinisten erhielten in Föderations- und Allianzgebiet Asyl. Das Marlinistische
+  Parlament gründete mit Unterstützung der Sirius Corporation Kolonien. Unter den Flüchtlingen
+  wurden später NMLA-Terroristen identifiziert.
 significance: high
 ---
 

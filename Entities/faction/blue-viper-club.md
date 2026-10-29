@@ -17,6 +17,10 @@ bio: Blue Viper Club is a organization in the Elite Dangerous universe, active f
   and takes position near Kumo City. The Kumo Crew syndicate requests deliveries to
   mass-produce 'helix', a recreational drug believed to originate from the Blue Viper
   Club dredger.
+bio_de: |-
+  Der Blue Viper Club ist ein nomadischer Baggerschiff-Clan, der im Jahr 3307 in die Drogenaktivitäten des Kumo-Crew-Syndikats verstrickt wurde. Das Baggerschiff des Clans trat in das System Pegasi Sector PN-T c3-14 ein und nahm Position nahe Kumo City ein, wo die Gruppe als Ursprung einer neuen Freizeitdroge namens „Helix“ galt.
+
+  Die Interstellar Health Organisation analysierte die Droge später und kam zu dem Schluss, dass ihre raffinierte Zusammensetzung auf die Entwicklung durch eine nicht identifizierte Forschungseinrichtung hindeute und nicht auf den Blue Viper Club selbst. Die Nomaden hatten den Gamma-Stamm von Onionhead mit hoher Wahrscheinlichkeit aus anderer Quelle erworben und einen Vertriebsdeal mit der Kumo Crew geschlossen. Der Blue Viper Club steht für ein wiederkehrendes Muster im Grenzraum – isolierte Gemeinschaften mit mobiler Infrastruktur, die von größeren kriminellen Organisationen für Transport und Vertrieb ausgenutzt werden können.
 ---
 
 

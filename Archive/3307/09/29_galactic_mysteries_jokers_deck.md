@@ -1,12 +1,16 @@
 ---
 uuid: 9b8e3164-1ff4-53b1-a9a9-98345feffa3f
 title: 'Galactic Mysteries: Jokers'' Deck'
+title_de: 'Galaktische Mysterien: Jokers'' Deck'
 slug: galactic_mysteries_jokers_deck
 date: '3307-09-29'
 source: API
 summary: Wallglass Investigations Agency's Erik Gunnarson discusses Jokers' Deck,
   an ultra-exclusive gambling circle for the galaxy's wealthiest players.
+summary_de: Erik Gunnarson von der Wallglass Investigations Agency spricht über Jokers'
+  Deck, einen exklusiven Glücksspielkreis für die reichsten Spieler der Galaxis.
 player_impact: None
+player_impact_de: Keine
 persons:
 - Erik Gunnarson
 - Francesca Wolfe
@@ -18,6 +22,8 @@ topics:
 - investigation
 modern_impact: The secretive Jokers' Deck gambling circle remains an enduring mystery
   in galactic high society.
+modern_impact_de: Der geheimnisvolle Glücksspielkreis Jokers' Deck bleibt ein andauerndes
+  Mysterium der galaktischen High Society.
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -27,6 +33,13 @@ related_uuids:
 - 62af4a63-c187-5f32-a237-8f4108056a43
 - 1810c569-1a21-571d-b879-76241b063c19
 - 2f7e24df-fc8c-5940-ab8a-2621b0233533
+body_de: |
+  Erik Gunnarson von der Wallglass Investigations Agency spricht über den geheimnisvollen Glücksspielkreis, dem die reichsten Spieler der Galaxis angehören.
+  „Casinos und Spielzentren waren schon immer beliebt und verführten Menschen dazu, ihre Credits für die Chance auf einen lukrativen Gewinn zu riskieren. Aber wohin gehen Milliardäre und Billionäre, um diesen Nervenkitzel zu genießen?"
+  „Jokers' Deck ist eine hochgradig exklusive Glücksspielveranstaltung, an der nur Reiche und Mächtige teilnehmen. Niemand weiß, wer dahintersteht, nur dass sie jedes Mal an einem anderen Ort stattfindet. Ihre Teilnehmer sind vollständige Anonymität garantiert – und sie können sie sich leisten."
+  „Es gab eine Ausnahme. 3305 wurde Wallglass beauftragt, die Erbin Lady Talitha Ambrose zu finden, nachdem sie zusammen mit dem Vermögen ihrer Familie verschwunden war. Ich gehörte zu dem Team, das herausfand, dass sie im Jokers' Deck in einer High-Stakes-Partie Deadlock-Poker 300 Milliarden Credits verspielt hatte. Ihre Sicherheitsvorkehrungen waren so streng, dass wir nie viel mehr erfuhren."
+  „Dieses Jahr verfolge ich mehrere Gerüchte, etwa dass Jokers' Deck beim Galaktischen Gipfel anwesend war und politische Führer einlud, ihre Differenzen am Roue-Mortelle-Tisch auszutragen. Aber dank einiger kostspieliger Bestechungsgelder – die ich hoffentlich als Spesen geltend machen kann – habe ich endlich eine belastbare Spur."
+  „Meine Partnerin, Francesca Wolfe, und ich sollten bald mehr enthüllen können. Mit etwas Glück werden wir einen einzigartigen Einblick in diesen exklusivsten aller Spielhöllen erhalten. Vorausgesetzt, wir spielen unsere Karten richtig ..."
 ---
 
 

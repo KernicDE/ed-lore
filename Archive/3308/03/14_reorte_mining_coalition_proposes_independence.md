@@ -1,12 +1,16 @@
 ---
 uuid: 2ad6f03c-dec1-53ea-a119-996a2b4c127f
 title: Reorte Mining Coalition Proposes Independence
+title_de: Reorte Mining Coalition schlägt Unabhängigkeit vor
 slug: reorte_mining_coalition_proposes_independence
 date: '3308-03-14'
 source: API
 summary: The Reorte Mining Coalition proposes independence from the Alliance over
   the Sirius defence pact.
+summary_de: Die Reorte Mining Coalition strebt angesichts des Sirius-Verteidigungspakts
+  die Unabhängigkeit von der Allianz an.
 player_impact: Not specifically mentioned — this is a political report.
+player_impact_de: Keine
 groups:
 - Alliance
 - Sirius Corporation
@@ -21,6 +25,10 @@ arc_id: null
 modern_impact: '"The Reorte Mining Coalition wants to cut ties with the Alliance in
   protest against the military defence pact with Sirius Corporation." Reorte''s independence
   movement demonstrates how unpopular the Sirius pact has become at the system level.'
+modern_impact_de: '"„Die Reorte Mining Coalition will die Verbindungen zur Allianz
+  kappen, um gegen den militärischen Verteidigungspakt mit der Sirius Corporation
+  zu protestieren." Die Unabhängigkeitsbewegung von Reorte zeigt, wie unpopulär der
+  Sirius-Pakt auf Systemebene geworden ist.'
 legacy_weight: 3
 significance: medium
 related_uuids:
@@ -29,6 +37,15 @@ related_uuids:
 - 8bfd21dd-5f52-5456-beb3-e58a5292f4dc
 - 33ee3c75-97ce-563c-993f-e4102203cb85
 - b5be39b0-960e-54d6-bee8-fd556eb2bffb
+body_de: |
+  Die Reorte Mining Coalition will die Verbindungen zur Allianz kappen, um gegen den militärischen Verteidigungspakt mit der Sirius Corporation zu protestieren.
+  Vox Galactica zeigte eine Ansprache des CEO der Fraktion, Fergus Cassidy:
+  „Die dreimonatige Probezeit des Pakts ist offensichtlich ein Schwindel. Sie soll Sirius-Agenten Zeit geben, alliierte Entscheidungsträger durch Bestechung, Überzeugung oder Drohungen dazu zu bringen, die Präsenz von Li Yong-Rui zu akzeptieren. Wir würden lieber zu einer unabhängigen Fraktion werden, als dieses gierige und unseriöse Unternehmen in den Raum von Reorte einzulassen."
+  Ratsherr Ainsley Niven, der Reorte in der Versammlung vertritt, erklärte:
+  „Natürlich habe ich mich gegen diesen radikalen Schritt ausgesprochen, aber ich kann die Stärke der Gefühle bei der regierenden Fraktion des Systems nicht ignorieren. Für die Führung der Reorte Mining Coalition ist der Austritt aus der Allianz weniger riskant, als die Sirius Corporation in der Infrastruktur des Systems Fuß fassen zu lassen."
+  Vanya Driscoll, politische Korrespondentin der Alliance Tribune, berichtete:
+  „Es gibt bereits wilde Gerüchte, dass diese Situation eine Welle von Unabhängigkeitserklärungen auslösen könnte, ähnlich wie die Sezessionskrise der Föderation im letzten Jahr. Doch es gibt bisher keine Anzeichen dafür, dass sich die Ereignisse wirklich so dramatisch entwickeln werden."
+  „Was hingegen sicher ist: Das ist hochgradig schädlich für die Kampagne von Premierminister Mahon, die Akzeptanz der Sirius Corporation zu fördern. Würde ein historisch bedeutendes System wie Reorte aus der Allianz austreten, würde dies den Ruf des Megakonzerns bei denen belasten, die er beeindrucken möchte."
 ---
 
 

@@ -1,13 +1,19 @@
 ---
 uuid: a41f0bc1-dcd1-510b-b614-d83064c93c1e
 title: Saud Kruger Seeks New Holiday Worlds
+title_de: Saud Kruger sucht neue Urlaubswelten
 slug: saud_kruger_seeks_new_holiday_worlds
 date: '3307-09-23'
 source: API
 summary: Saud Kruger launches a campaign to identify new Earth-like worlds for Astrogator
   Tours holiday cruises, offering rewards for exploration data and imagery.
+summary_de: Saud Kruger startet eine Kampagne, um neue erdähnliche Welten für Urlaubskreuzfahrten
+  von Astrogator Tours zu identifizieren, und bietet Belohnungen für Erkundungsdaten
+  und Bilder.
 player_impact: Pilots delivered exploration data and images of Earth-like worlds to
   Youll Port in the Vistaenis system.
+player_impact_de: Piloten lieferten Erkundungsdaten und Bilder erdähnlicher Welten
+  in Youll Port im System Vistaenis ab.
 persons:
 - Stanislav Kruger
 groups:
@@ -16,11 +22,23 @@ topics:
 - corporate expansion
 - exploration
 modern_impact: Tourism initiatives continue to drive exploration of uncharted systems.
+modern_impact_de: Tourismusinitiativen treiben die Erkundung unerforschter Systeme weiter
+  voran.
 legacy_weight: 2
 significance: low
 related_uuids:
 - 5d87515e-5b3d-561e-9847-d40916cd1edb
 - f186d6a6-0681-528f-995c-21b7e49f1dc3
+body_de: |
+  **Alarm der Pilotenföderation**
+  Die Schiffsbau-Korporation Saud Kruger hat eine Initiative zur Sammlung von Daten über potenzielle Touristenziele gestartet.
+  Der Hersteller luxuriöser Passagierschiffe möchte neue erdähnliche Planeten identifizieren, die für Urlauber attraktiv wären. Diese Reisen werden von seiner Tochtergesellschaft, Astrogator Tours, verwaltet.
+  CEO Stanislav Kruger verkündete die Kampagne gegenüber der Presse:
+  „Wir sind bestrebt, Daten über erdähnliche Welten zu erhalten, um ihre Eignung als Reiseziele für künftige Urlauber zu bewerten, die das Abenteuer ihres Lebens suchen. Jedoch sind alle Erkundungsdaten wertvoll und werden großzügig vergütet."
+  „Außerdem ist unsere Marketingabteilung bestrebt, Bilder von augenfälligen Sehenswürdigkeiten in unbewohnten Systemen mit erdähnlichen Welten zu erhalten, um die potenziell spannendsten Ergänzungen für den Katalog von Astrogator Tours auszumachen."
+  Vistaenis Incorporated hat zugestimmt, die Initiative im Namen von Saud Kruger zu organisieren. Beteiligte Piloten sind eingeladen, Erkundungsdaten in Youll Port im System Vistaenis abzuliefern. Ihre überzeugendsten Bilder können sie bis Donnerstag, den 30. September, einreichen.
+  Bis Donnerstag, den 28. Oktober, erhalten die geeignetsten Orte Touristenbojen und gegebenenfalls die Nennung des Kommandanten für dessen Beitrag.
+  Falls die Initiative erfolgreich ist, werden die Preise für Saud Krugers Schiffe der Modelle Dolphin, Orca und Beluga Liner ab Freitag, dem 1. Oktober, für eine Woche gesenkt, wobei der Prozentsatz vom Umfang der erhaltenen Daten abhängt. Es wird auch einen Rabatt auf die Luxuskabinen geben, mit denen diese Schiffe VIP-Passagiere befördern.
 ---
 
 

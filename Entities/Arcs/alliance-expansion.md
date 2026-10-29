@@ -13,15 +13,23 @@ key_entities:
 description: The Alliance's gradual expansion from a loose trade confederation into a
   major superpower, marked by diplomatic absorption of independent systems and competition
   with the Federation and Empire for frontier territory.
+description_de: Die schrittweise Expansion der Allianz von einem losen Handelsbund zu einer
+  bedeutenden Supermacht, gekennzeichnet durch die diplomatische Eingliederung unabhängiger
+  Systeme und den Wettbewerb mit der Föderation und dem Imperium um Grenzgebiete.
 phases:
 - 'Phase 1: Diplomatic Expansion (3301-02-22)'
 - 'Phase 2: California Nebula (3303-04-22)'
 - 'Phase 3: Tritium Mining (3307-06-03)'
 summary: The Alliance's transformation from a trade confederation into a major superpower
   through diplomatic expansion, scientific outposts, and economic campaigns.
+summary_de: Die Transformation der Allianz von einem Handelsbund zu einer bedeutenden
+  Supermacht durch diplomatische Expansion, wissenschaftliche Außenposten und
+  wirtschaftliche Kampagnen.
 status: Ongoing
 outcome: The Alliance absorbed numerous independent systems, established presence in
   the California Nebula, and became a recognized third superpower.
+outcome_de: Die Allianz gliederte zahlreiche unabhängige Systeme ein, etablierte eine
+  Präsenz im California-Nebel und wurde als dritte Supermacht anerkannt.
 significance: high
 ---
 

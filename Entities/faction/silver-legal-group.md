@@ -16,6 +16,10 @@ bio: Silver Legal Group is a organization in the Elite Dangerous universe, activ
   Victory's Forge megaship. Core Dynamics and its ally the Silver Legal Group battle
   Jupiter Division in the Ts'ao Tach system. Jupiter Division is defeated by the Silver
   Legal Group in the Ts'ao Tach system.
+bio_de: |-
+  Silver Legal Group trat während der Unternehmenskrise von 3307 als wichtiger Verbündeter von Core Dynamics in Erscheinung, als die Jupiter Division versuchte, die Kontrolle über den föderalen Schiffbau-Riesen zu erlangen. Von dem Megaschiff Victory's Forge im System Ts'ao Tach aus operierend, stellte diese Organisation Core Dynamics' loyalistischer Fraktion entscheidende rechtliche und paramilitärische Unterstützung zur Verfügung. Ihr Engagement verwandelte einen rein unternehmensinternen Streit in einen systemweiten Konflikt, der das Eingreifen unabhängiger Piloten erforderte.
+
+  Gemeinsam mit den Streitkräften von Core Dynamics lieferte sich Silver Legal Group in ganz Ts'ao Tach anhaltende Gefechte mit der Jupiter Division. Deren schließliche Niederlage erwies sich als entscheidend, um die feindliche Übernahme zu verhindern und die Unabhängigkeit sowie die Unternehmensstruktur von Core Dynamics zu bewahren. Der Konflikt zeigte, wie Rechts- und Sicherheitsfirmen erheblichen militärischen Einfluss entfalten können, wenn sie mit großen Konzerninteressen verbündet sind.
 ---
 
 

@@ -1,11 +1,15 @@
 ---
 uuid: 7751461f-fff8-5e46-b710-f494c50ab069
 title: Rackham for President?
+title_de: Rackham als Präsident?
 slug: rackham_for_president
 date: '3308-04-15'
 source: API
 summary: Zachary Rackham hints at a potential run for the Federal presidency in 3309.
+summary_de: Zachary Rackham deutet eine mögliche Kandidatur für das Bundespräsidentenamt
+  im Jahr 3309 an.
 player_impact: Not specifically mentioned — this is a political report.
+player_impact_de: Keine
 persons:
 - Zachary Rackham
 - Bryanna Blanco
@@ -23,6 +27,11 @@ modern_impact: '"With two Zacharys on the ballot, I''m guaranteed to get some vo
   by mistake!" Rackham''s ostensibly lighthearted presidential flirtation launched
   one of the most unconventional political campaigns in Federal history, with a former
   pirate leveraging celebrity wealth to challenge the two-party establishment.'
+modern_impact_de: „Mit zwei Zacharys auf dem Wahlzettel bekomme ich mit Sicherheit
+  aus Versehen ein paar Stimmen!" Rackhams angeblich heitere Präsidentschafts-Firnisk
+  lancierte eine der unkonventionellsten politischen Kampagnen in der Geschichte der
+  Föderation, bei der ein ehemaliger Pirat seinen Prominentenreichtum nutzte, um die
+  Zweiparteien-Herrschaft herauszufordern.
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -30,6 +39,14 @@ related_uuids:
 - d48a2172-4d32-5501-b760-eb75a11fb324
 - efe02149-f490-5339-979d-49b157ba2caf
 - 9d58d00e-a467-59fb-8f99-cb8afa9fd72f
+body_de: |
+  Der Multimilliardär Zachary Rackham hat die Möglichkeit erwogen, 3309 als unabhängiger Kandidat für das Bundespräsidentenamt anzutreten.
+  Das Thema kam bei der Eröffnung eines neuen Überbaus namens Rackham's Spire auf Homeland im Beta-Hydri-System zur Sprache. Auf einer Pressekonferenz in der troposphärischen Suite wurde Herr Rackham nach seiner Meinung zum geplanten Hudson-Contravention befragt.
+  Er antwortete mit einer heiteren Andeutung, dass er selbst für ein Amt kandidieren könnte: „Mit zwei Zacharys auf dem Wahlzettel bekomme ich mit Sicherheit aus Versehen ein paar Stimmen!"
+  Die Finanzjournalistin Bryanna Blanco verfasste einen Meinungsartikel für die Federal Times:
+  „Rackham's Spire sticht wortwörtlich in den Himmel über Los Pioneros und ragt so hoch auf, dass sein Schatten tagsüber wie eine kolossale Sonnenuhr über die Stadt wandert. Extravagant, teuer und unmöglich zu übersehen – praktisch ein Altar für den Mann, der ihn gebaut hat."
+  „Ich habe die Hälfte meiner Karriere damit verbracht, Rackham zu untersuchen, und ich bin überzeugt, dass er immer ein Hintergedanke hat. In diesem Fall scheint es offensichtlich: Indem er die Vorschläge zu einer Kandidatur belächelt, lässt er die Menschen erwarten, dass sie wahr werden. Das ist ganz offenbar der erste Schritt einer bevorstehenden Kampagne."
+  „Es ist mir weiterhin ein Rätsel, wie Rackham die Menschen seine Vergangenheit vergessen lässt. Die meisten Nachrichtenkanäle verweigern die Anerkennung seiner früheren Identität als Calico Zack, einer der berüchtigtsten Piraten des letzten Jahrhunderts. Sie zeigen nur den wohlhabenden und erfolgreichen Geschäftsmann – und jetzt vielleicht einen zukünftigen Präsidenten der Föderation."
 ---
 
 

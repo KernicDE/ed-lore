@@ -10,6 +10,19 @@ bio: 'Milo Castile is a Emperor in Elite Dangerous lore, active from 3307-08-02 
   NMLA starport bombings in the Marlinist Colonies kill over 35,000 civilians.; ACT
   reports major progress against the NMLA, raiding dozens of cells and arresting thousands
   of paramilitary activists following intelligence from ...'
+bio_de: Kapitän Milo Castile ist ein Offizier der Anti-Terror-Einheit ACT, der die
+  Fahndung nach Theta Seven leitete, dem de-facto-Anführer der Bombenbauer der
+  Theta-Gruppe der NMLA. Im November 3307 gab Castile bekannt, dass ACT eine
+  verschlüsselte Nachricht erhalten habe, die Theta Sevens Aufenthaltsort offenbaren
+  könnte, und bat die galaktische Gemeinschaft um Unterstützung bei ihrer Entzifferung.
+  Castile erklärte, dass der Großteil der Theta-Gruppe zwar festgenommen worden sei,
+  während sie von Neo-Marlinistischen Sympathisanten in den Marlinistischen Kolonien
+  versteckt wurde, Theta Seven und seine engsten Mitarbeiter jedoch an ein unbekanntes
+  Ziel geflohen seien. Die verschlüsselte Nachricht, übermittelt am 31. Juli, war mit
+  einem vorab vereinbarten Chiffrierschlüssel gesichert, der ihren Inhalt ohne Schlüssel
+  unlesbar machte. Castiles Appell um öffentliche Hilfe bei der Entzifferung zeigte
+  sowohl die Raffinesse der NMLA-Operationssicherheit als auch die Bereitschaft der
+  Antiterroreinheit, unabhängige Fachkenntnisse zu nutzen.
 ---
 
 

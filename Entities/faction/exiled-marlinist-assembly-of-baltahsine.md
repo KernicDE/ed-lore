@@ -17,6 +17,12 @@ bio: Exiled Marlinist Assembly of Baltah'Sine is a government in the Elite Dange
   the Marlinism Reformation Party aims to politically represent the Neo-Marlinist
   fringe. In Hyades Sector RO-P b6-2, voters remove the party from power after it
   granted asylum to Neo-Marlinists.
+bio_de: 'Die Exiled Marlinist Assembly of Baltah''Sine ist eine Regierung im Elite-Dangerous-Universum,
+  aktiv am 3307-06-07. Häufig verbunden mit Baltah''Sine, Hyades Sector RO-P b6-2,
+  Marlinism Reformation Party. Minister Aaron Whyte bestätigt, dass die Marlinism
+  Reformation Party die neomarlinistische Randgruppe politisch vertreten will. Im
+  Hyades Sector RO-P b6-2 entmachten die Wähler die Partei, nachdem sie Neo-Marlinisten
+  Asyl gewährt hatte.'
 ---
 
 

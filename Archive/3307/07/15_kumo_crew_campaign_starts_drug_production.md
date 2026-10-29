@@ -1,6 +1,7 @@
 ---
 uuid: b1886f93-ecbf-50e3-83c6-743f46436d7b
 title: Kumo Crew Campaign Starts Drug Production
+title_de: Kumo-Crew-Kampagne startet Drogenproduktion
 slug: kumo_crew_campaign_starts_drug_production
 date: '3307-07-15'
 source: API
@@ -8,8 +9,14 @@ summary: The Kumo Crew procures enough materials to mass-produce helix, confirme
   by the IHO as a new variant of onionhead. President Hudson, Princess Aisling and
   other leaders express outrage. Archon Delaine defends the drug as bringing happiness
   and income to his people.
+summary_de: Die Kumo Crew beschafft genügend Materialien für die Massenproduktion von
+  Helix, das von der IHO als neue Variante von Onionhead bestätigt wird. Präsident
+  Hudson, Prinzessin Aisling und andere Führungspersönlichkeiten äußern Empörung. Archon
+  Delaine verteidigt die Droge als Quelle von Glück und Einkommen für sein Volk.
 player_impact: Pilots delivered agronomic treatment, liquid oxygen and performance
   enhancers to Kumo City and fought to protect haulage vessels from pirate ships.
+player_impact_de: Piloten lieferten Agrarrohstoffe, flüssigen Sauerstoff und Leistungsverstärker
+  zur Kumo City und kämpften dafür, Frachter vor Piratenschiffen zu schützen.
 persons:
 - Zachary Hudson
 - Aisling Duval
@@ -42,6 +49,10 @@ modern_impact: The open production of onionhead gamma strain establishes the Kum
   Crew as a major narcotics manufacturer and deepens the syndicate's ties to the Blue
   Viper Club, creating a distribution network that spans anarchic systems across the
   galaxy.
+modern_impact_de: Die offene Produktion des Onionhead-Gamma-Stamms etabliert die Kumo
+  Crew als bedeutenden Drogenhersteller und vertieft die Verbindungen des Syndikats
+  zum Blue Viper Club. Dadurch entsteht ein Vertriebsnetzwerk, das anarchische Systeme
+  in der gesamten Galaxie überspannt.
 legacy_weight: 3
 significance: medium
 related_uuids:
@@ -50,6 +61,17 @@ related_uuids:
 - ea0496c2-a753-54ad-b6de-0c3d9bf29edf
 - 9d504b23-ad0b-5f30-b024-01047817945d
 - 22e64f17-84fe-5324-b965-55888566498b
+body_de: |
+  **ALARM der Pilotenföderation**
+
+  Das Syndikat Kumo Crew hat genügend Materialien beschafft, um ein neues Produkt auf den Markt zu bringen.
+  Die Droge stammt vom Blue Viper Club, einer piratischen Reisegemeinschaft, deren Baggerschiff sich derzeit in der Nähe der Station Kumo City aufhält.
+  Es wurde bestätigt, dass genügend Lieferungen von Agrarrohstoffen, flüssigem Sauerstoff und Leistungsverstärkern eingegangen sind, um die sofortige Massenproduktion zu ermöglichen. Piloten kämpften außerdem darum, Frachter vor Piratenschiffen zu schützen, bei denen es sich mutmaßlich um Rivalen der Kumo Crew handelte.
+  Die Interstellare Gesundheitsorganisation hat eine Produktprobe erhalten und bestätigt, dass es sich bei ‚Helix' trotz des Namens um eine neue Variante der Rauschdroge Onionhead handelt. Daher wird das Produkt beim Markteintritt rechtlich als Onionhead-Gamma-Stamm eingestuft.
+  Trotz Behauptungen über medizinische und psychologische Vorteile wird es in den meisten Systemen wahrscheinlich illegal sein. Präsident Zachary Hudson, Prinzessin Aisling Duval und mehrere andere politische Schwergewichte haben Empörung über die offene Art der Beschaffung der Inhaltsstoffe geäußert.
+  Archon Delaine, Warlord der Kumo Crew, antwortete:
+  „Jede Systemregierung erzielt Einnahmen aus dem Handel mit Arzneimitteln – diese Selbstgerechtigkeit dieser Heuchler dreht mir den Magen um. Helix bringt Glück und verschafft meinem Volk Einkommen. Ich bitte um nichts Verzeihung!"
+  Belohnungen für Piloten, die zu dieser Kampagne beigetragen haben, sind nun bei der Kumo City im System Pegasi Sector PN-T c3-14 erhältlich.
 ---
 
 

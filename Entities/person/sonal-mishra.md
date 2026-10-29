@@ -8,6 +8,9 @@ mention_count: 3
 bio: Sonal Mishra is a president in the Elite Dangerous universe, active from 3307-07-30
   to 3307-08-12. Closely associated with Federation, Gluscap Labour, New Kuwembaa
   Labour. Governor Sonal Mishra cites draconian surveillance laws.
+bio_de: Sonal Mishra ist Präsident im Elite-Dangerous-Universum, aktiv vom 30.07.3307
+  bis 12.08.3307. Eng verbunden mit der Föderation, Gluscap Labour und New Kuwembaa
+  Labour. Gouverneurin Sonal Mishra beruft sich auf drakonische Überwachungsgesetze.
 ---
 
 

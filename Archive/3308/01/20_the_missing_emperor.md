@@ -1,12 +1,16 @@
 ---
 uuid: f5584566-270a-5fe5-b405-8e6f45fb1826
 title: The Missing Emperor?
+title_de: Die verschwundene Kaiserin?
 slug: the_missing_emperor
 date: '3308-01-20'
 source: API
 summary: Princess Aisling Duval raises concerns about Emperor Arissa Lavigny-Duval's
   prolonged public absence.
+summary_de: Prinzessin Aisling Duval äußert Bedenken über den lang anhaltenden öffentlichen
+  Fernbleiben von Kaiserin Arissa Lavigny-Duval.
 player_impact: Not specifically mentioned — this is a society report.
+player_impact_de: Keine — es handelt sich um einen Gesellschaftsbericht.
 persons:
 - Anders Blaine
 groups:
@@ -21,6 +25,10 @@ arc_id: nmla-terrorism
 modern_impact: '"Unlike Hadrian''s family, Arissa Lavigny-Duval remains in seclusion
   and only communicates remotely with the Senate." Princess Aisling''s public concerns
   amplify growing suspicions that Emperor Arissa''s absence is not merely precautionary.'
+modern_impact_de: '"Anders als Hadrians Familie bleibt Arissa Lavigny-Duval in Abgeschiedenheit
+  und kommuniziert nur über Fernverbindung mit dem Senat." Aisling Duvals öffentliche
+  Bedenken verstärken den wachsenden Verdacht, dass das Fernbleiben der Kaiserin nicht
+  nur Vorsichtsmaßnahme ist.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -34,6 +42,14 @@ related_uuids:
 - 2ea3fdf7-8814-5eda-9967-368c424dfcb0
 - 4fe5c0a6-b22f-549b-b11e-0eb1a9c1bac3
 - 37702c1f-2c71-55fb-932e-b8dfeb29d626
+body_de: |
+  Prinzessin Aisling Duval hat zunehmende Besorgnis über das Fehlen öffentlicher Auftritte von Kaiserin Arissa Lavigny-Duval in den vergangenen Monaten geäußert.
+  In einem Interview mit dem Imperial Herald sagte sie:
+  „Kanzler Blaine versichert uns, dass die Kaiserin seit fast einem Jahr in Abgeschiedenheit gehalten wird, um sie vor der NMLA zu schützen. Aber warum hat das verhindert, dass die Herrscherin des Imperiums ihre Bürger aufsucht? Immerhin wurden Hadrian Duval und seine Familie unter denselben Schutz des Senats gestellt, ohne ganz zu verschwinden."
+  „Wir wissen, dass die Kaiserin während dieser Zeit in verschiedenen Angelegenheiten mit dem Senat kommuniziert hat. Regierungskanäle gelten dank der Verifizierungsprotokolle des Imperialen Geheimdienstes allgemein als vertrauenswürdig. Doch die jüngste Aussage von Captain Landau, die den Imperialen Geheimdienst mit der NMLA in Verbindung bringt, beunruhigt mich. Wie kann ich sicher sein, dass ein Einbruch in unsere sichersten Netzwerke nicht für Ortung und Mord an meinem Vater, Prinz Harold, verantwortlich war?"
+  „Bis Arissa persönlich erscheint, ist es unverantwortlich anzunehmen, dass ihre Sicherheit gewährleistet ist. Ich wäre sehr erleichtert, wenn sich meine Befürchtungen als unbegründet erwiesen."
+  Kanzler Anders Blaine antwortete:
+  „Mit größtem Respekt für Prinzessin Duval: Ich hatte nie Grund zu der Annahme, dass Ihre Majestät die Kaiserin von ihren eigenen Sicherheitsbehörden in Gefahr ist. Ihre unmittelbar bevorstehende Rückkehr in das öffentliche Leben sollte solche Bedenken zerstreuen."
 ---
 
 

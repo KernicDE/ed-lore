@@ -1,12 +1,16 @@
 ---
 uuid: 2eadd4d6-2a46-58c0-9b83-978dd2f73ad3
 title: Taurus Mining Ventures Begins Scientific Study
+title_de: Taurus Mining Ventures beginnt wissenschaftliche Untersuchung
 slug: taurus_mining_ventures_begins_scientific_study
 date: '3308-03-23'
 source: API
 summary: Taurus Mining Ventures begins research in Synuefe on a Guardian-related site
   for Salvation.
+summary_de: Taurus Mining Ventures beginnt in Synuefe Untersuchungen an einer Wächter-bezogenen
+  Stätte für Salvation.
 player_impact: Not specifically mentioned — this is a research report.
+player_impact_de: Keine
 persons:
 - Ruben Carpenter
 groups:
@@ -23,6 +27,10 @@ arc_id: salvation-azimuth
 modern_impact: '"The megaships Musashi and Heart of Taurus have entered the Synuefe
   CE-R c21-6 system to perform a mining-related research operation." Taurus Mining''s
   Guardian research operation further deepens Salvation''s mysterious corporate network.'
+modern_impact_de: „Die Megaschiffe Musashi und Heart of Taurus sind in das System Synuefe
+  CE-R c21-6 eingedrungen, um eine bergbau-bezogene Forschungsaktion durchzuführen."
+  Die Wächter-Forschungsaktion von Taurus Mining vertieft Salvations mysteriöses Firmennetzwerk
+  weiter.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -38,6 +46,14 @@ related_uuids:
 - 8f436007-f00f-535c-af52-d16273c91cc0
 - 10afaa7d-925e-5db8-9adb-b56704c55a5e
 - d97a03c8-3cbd-5fdf-849d-06c5706a9602
+body_de: |
+  Die Megaschiffe Musashi und Heart of Taurus sind in das System Synuefe CE-R c21-6 eingedrungen, um eine bergbau-bezogene Forschungsaktion durchzuführen.
+  Taurus Mining Ventures ist ein unabhängiger Bergbaukonzern mit enger Verbindung zu Salvation. In den letzten Monaten agierte er als sein Vermittler und unterstützte direkt dessen Bemühungen zur Bekämpfung der Thargoiden.
+  Dr. Ruben Carpenter, Leiter der Forschungsabteilung des Unternehmens, gab eine Erklärung ab:
+  „Wir haben im System Synuefe CE-R c21-6 einige ungewöhnliche radioaktive Signaturen aufgezeichnet. Diese hatten einen tiefgreifenden Effekt auf die Molekularstruktur bestimmter natürlich vorkommender Substanzen."
+  „Unser Ziel ist eine detaillierte Analyse dieser bestrahlten Materialien, um festzustellen, ob sie als förderbare Ressourcen wertvoll sind. Maßgeschneiderte Laboratorien wurden an Bord beider Megaschiffe eingerichtet, und die Arbeiten laufen bereits."
+  The Empirical, ein unabhängiges Journal für die wissenschaftliche Gemeinschaft, kommentierte:
+  „Die Entdeckung atypischer Strahlungssignaturen innerhalb von CE-R c21-6 wurde bislang nicht durch zweite Quellen bestätigt. Unser Redaktionsteam hat sich zur Klärung an Taurus Mining Ventures gewandt."
 ---
 
 

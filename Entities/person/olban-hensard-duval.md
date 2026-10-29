@@ -10,6 +10,11 @@ bio: Olban Hensard Duval is a emperor in the Elite Dangerous universe, active fr
   Achilles Corporation. The Winking Cat triggers widespread alarm with a spree of
   high-profile thefts, including a portrait of Emperor Olban Hensard Duval and a prototype
   security robot.
+bio_de: Olban Hensard Duval ist ein Kaiser im Elite-Dangerous-Universum, aktiv von
+  3307-11-22 bis 3307-11-22. Er steht in engem Zusammenhang mit der Wallglass
+  Investigations Agency und der Achilles Corporation. Die Winking Cat löst mit einer
+  Serie hochkarätiger Diebstähle weitläufige Alarmstimmung aus, darunter ein Porträt
+  von Kaiser Olban Hensard Duval und ein Prototyp eines Sicherheitsroboters.
 ---
 
 

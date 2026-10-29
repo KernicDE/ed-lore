@@ -16,6 +16,10 @@ bio: 'Coalition of Uteran is a organization active in Elite Dangerous lore from 
   Congress. Key activities include: The Azaladshu Free faction secedes from the Federation,
   declaring its four systems independent in protest against surveillance laws.; Azaladshu
   Free defeats Neche Inc and retains independence from the Federation.'
+bio_de: |-
+  Die Coalition of Uteran gehörte zur ersten Welle föderaler Fraktionen, die 3307 nach dem Vorbild von Azaladshu Free die Unabhängigkeit erklärten und das Überwachungsregime des Proactive Detection Bureau zurückwiesen. Obwohl kleiner als Azaladshu, trug der Austritt der Coalition zu einer Verfassungskrise bei, in deren Verlauf zehn Systeme und etwa eine Milliarde Menschen innerhalb weniger Wochen die föderale Mitgliedschaft aufgaben.
+
+  Wie die anderen abtrünnigen Fraktionen lag die Coalition im politischen Einflussbereich der Schattenpräsidentin Felicia Winters, die jedoch öffentlich jede Unterstützung für die Abspaltungsbewegungen ablehnte. Die anschließende Verhaftung sezessionistischer Führer durch die Federal Intelligence Agency unter dem, von der Bürgerrechtsgruppe Advocacy als „vorgeschoben“ bezeichneten, Anklagen zeigte die Entschlossenheit der Regierung, die Rebellion am Ausbreiten zu hindern – und das Schicksal der Coalition wurde zum Präzedenzfall dafür, ob die föderale Einheit um den Preis demokratischer Legitimität durchgesetzt werden könne.
 ---
 
 

@@ -1,12 +1,17 @@
 ---
 uuid: 9312526f-943e-58ee-8e99-88de0d4b618c
 title: 'Salvation Recruits Naval Crews '
+title_de: 'Salvation rekrutiert Flottenpersonal'
 slug: salvation_recruits_naval_crews
 date: '3307-12-17'
 source: API
 summary: Commodore Morag Halloran reveals that hundreds of naval officers from all
   three superpowers and Sirius have resigned to join Salvation's anti-xeno crusade.
+summary_de: Kommodore Morag Halloran enthüllt, dass Hunderte Marineoffiziere aller
+  drei Supermächte und von Sirius zurückgetreten sind, um sich Salvations Anti-Xeno-Kreuzzug
+  anzuschließen.
 player_impact: Not specifically mentioned — this is a media statement.
+player_impact_de: Keine
 persons:
 - Morag Halloran
 - Glynn
@@ -31,6 +36,8 @@ topics:
 arc_id: thargoid-contact
 modern_impact: Thargoid activity fundamentally changes the galactic security landscape
   and drives anti-xeno defence efforts.
+modern_impact_de: Die Thargoid-Aktivität verändert die galaktische Sicherheitslage
+  grundlegend und treibt die Anti-Xeno-Verteidigung voran.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -38,6 +45,20 @@ related_uuids:
 - 2b4db5ae-e575-5f03-bb79-4a02d667f70a
 - de009a58-09eb-5041-8088-be52372dad17
 - 2c2f5322-8d74-5e77-b181-b9a317e176e5
+body_de: |
+  Der jüngste Gegenschlag gegen die Thargoiden hat offengelegt, dass Salvation inoffiziell von ausgebildetem Militärpersonal unterstützt wird.
+
+  Kommodore Morag Halloran war hochrangige Offizierin der Verteidigungsstreitkräfte der Allianz und arbeitet nun für Salvation. Sie sandte diese Erklärung an die Medien:
+
+  „In den letzten Jahren habe ich hart gekämpft, um die Interessen der Allianz gegen die Thargoiden zu schützen. Doch jede Schlacht gegen sie fühlte sich wie eine Verteidigungsmaßnahme an, ein vorgezogener Halt. Ich bin überzeugt, dass diese Kreaturen durchaus in der Lage sind, uns alle auszulöschen."
+
+  „Als eine gesamte Thargoid-Flotte im September aus dem Cornsar-System vertrieben wurde, bat ich den Admiralitätsrat um Entsendung von Schiffen zur Unterstützung, doch mein Vorschlag wurde abgelehnt. Dann kontaktierte mich Salvation direkt und sagte, er benötige militärische Führung, und meine Erfahrungen im Kohlenstoffwolken-Nebel machten mich zur idealen Kandidatin."
+
+  „Gemeinsam mit Commander Glynn und fast hundert Besatzungsmitgliedern legten wir unsere Dienstposten nieder und machten uns auf nach Hind Mine. Ich kommandiere nun viele andere, die aus der Föderalen, der Imperialen und der Sirius-Flotte rekrutiert wurden, um auf den Taurus-Megaschiffen und andernorts zu dienen."
+
+  „Mir ist bewusst, dass manche meine Handlungen als Pflichtverletzung ansehen werden, doch ich glaube, dass unsere wahre Pflicht darin besteht, die Thargoiden um jeden Preis zu stoppen. Und wie unser jüngster Erfolg beweist, ist nur Salvation dazu in der Lage."
+
+  Die Versammlung der Allianz, der Föderale Kongress und der Imperiale Senat haben den Verlust einiger Militärangehöriger an Salvations Sache bestätigt. Zwar werden Anstrengungen unternommen, um weitere Verluste zu verhindern, doch Gerüchten zufolge könnten mögliche Zugeständnisse eine offizielle Unterstützung von Salvations Anti-Xeno-Aktivitäten umfassen.
 ---
 
 

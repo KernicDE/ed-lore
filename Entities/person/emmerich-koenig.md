@@ -8,6 +8,10 @@ mention_count: 3
 bio: 'Emmerich Koenig is a prominent figure in the Elite Dangerous universe, active
   from 3307-08-16 to 3307-08-26. Closely associated with Torval-Mastopolos Mining,
   Mastopolos Mining, Wreaken Construction. '
+bio_de: |-
+  Emmerich Koenig bekleidete eine leitende Position bei Torval-Mastopolos Mining zu einer Zeit, als der Bergbaukonzern Ende der 3300er Jahre eine aggressive Expansion über zahlreiche Systeme hinweg betrieb. Zu seinen Aufgaben gehörten die Überwachung großer Förderoperationen sowie die Koordination mit Tochtergesellschaften wie Mastopolos Mining selbst und Baupartnern wie Wreaken Construction. Das Ausmaß dieser Operationen platzierte Koenig in den Mittelpunkt der industriellen Entwicklung in Regionen, in denen Rohstoffreichtum sowohl Investitionen der Konzerne als auch politischen Wettbewerb anzog.
+
+  Seine dokumentierte Tätigkeit Mitte 3307 fiel mit zunehmendem Konzernmanövrieren zusammen, da traditionelle Bergbauinteressen vor neue Herausforderungen durch aufstrebende Wettbewerber und sich wandelnde regulatorische Rahmenbedingungen gestellt wurden. Koenigs Verbindungen zu mehreren Unternehmen unter demselben Dach veranschaulichten die komplexen Organisationsstrukturen, die die großflächige Rohstoffgewinnung in der Galaxie prägten. Seine Karriere zeigte, wie Führungskräfte im Bergbaubetrieb operative Effizienz mit den politischen Beziehungen ausgleichen mussten, die nötig waren, um Förderrechte in umkämpften Territorien zu sichern und zu erhalten.
 ---
 
 

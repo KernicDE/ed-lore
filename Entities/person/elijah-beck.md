@@ -11,6 +11,10 @@ bio: 'Elijah Beck is a President in Elite Dangerous lore, active from 3304-09-13
   territory, with Prime Consul Kayode Tau negotiating t...; Weekly summary covering
   Maddox Hurd''s criminal connections causing investor flight from Herculean Machines,
   the announcement of Alliance presidenti...'
+bio_de: |-
+  Elijah Beck ist ein Veteran der Allianz-Politik, der über vier Jahrzehnte in der Versammlung der Allianz diente, bevor er 3304 Präsidentschaftskandidat wurde. Aus dem Leesti-System stammend, positionierte er sich als erfahrene Alternative zum amtierenden Präsidenten Gibson Kincaid und der Unternehmerin Fazia Silva, wenngleich Beobachter anmerkten, dass sein langer Werdegang kaum einen bedeutenden Wandel im Präsidentenamt erwarten ließ.
+
+  Nach Kincaids Amtsenthebung 3305 wegen Hochverrats, Mordes und Korruption spielte Beck eine Schlüsselrolle bei der Stabilisierung der Regierung der Allianz. Er bot an, aus der Versammlung zurückzutreten, um die Umstrukturierung des aufgelösten Amtes des Präsidenten der Allianz in eine unpolitische Botschafterabteilung zu überwachen, nachdem die Versammlung in einer historischen Abstimmung beschlossen hatte, das Präsidentenamt dauerhaft abzuschaffen. Becks Karriere verkörpert den traditionellen Schwerpunkt der Allianz auf institutionelle Kontinuität und vorsichtige Reform.
 ---
 
 

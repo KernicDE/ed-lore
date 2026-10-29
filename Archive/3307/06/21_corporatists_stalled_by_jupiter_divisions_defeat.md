@@ -1,6 +1,7 @@
 ---
 uuid: be0ab3b9-00aa-579f-b1cc-df4dd1f85d1e
 title: Corporatists Stalled by Jupiter Division's Defeat
+title_de: Korporatisten durch Niederlage der Jupiter Division ins Stocken geraten
 slug: corporatists_stalled_by_jupiter_divisions_defeat
 date: '3307-06-21'
 source: API
@@ -8,7 +9,13 @@ summary: Political journalist Conrad Sterling reports that Jupiter Division's de
   has dealt a severe blow to the corporatist movement. Many companies withdrew support
   before the conflict ended. With Rochester imprisoned and Jupiter Division dissolved,
   replacement figureheads are unlikely to preserve the movement.
+summary_de: Der politische Journalist Conrad Sterling berichtet, dass die Niederlage
+  der Jupiter Division der korporatistischen Bewegung einen schweren Schlag versetzt
+  hat. Viele Unternehmen zogen ihre Unterstützung bereits vor Ende des Konflikts zurück.
+  Da Rochester inhaftiert und die Jupiter Division aufgelöst ist, dürften Ersatzfiguren
+  die Bewegung nicht mehr retten können.
 player_impact: None directly; this is a political analysis piece.
+player_impact_de: Keine; dies ist ein politischer Analysebeitrag.
 persons:
 - Jupiter Rochester
 - Conrad Sterling
@@ -32,6 +39,10 @@ arc_id: federal-politics
 modern_impact: While the corporatist movement stalls, the underlying grievances about
   government corruption and corporate influence that fuelled it remain, creating conditions
   for future political radicalisation in the Federation.
+modern_impact_de: Während die korporatistische Bewegung ins Stocken gerät, bleiben
+  die zugrunde liegenden Missstände über Regierungskorruption und Unternehmenseinfluss
+  bestehen, die sie befeuerten, und schaffen Bedingungen für künftige politische Radikalisierung
+  in der Föderation.
 legacy_weight: 3
 significance: medium
 related_uuids:
@@ -42,6 +53,18 @@ related_uuids:
 - ef028c66-1901-5fef-af9f-2c741a9066b6
 - 3f8f3a76-f995-5a02-81c8-2fbc1af760bd
 - 3040626c-fed5-53d9-b5f1-66c2cb11eb25
+body_de: |
+  Der Fall der Jupiter Division hat die populäre Bewegung untergraben, die fordert, die Föderation solle von Konzernen regiert werden.
+
+  Conrad Sterling, politischer Journalist bei Vox Galactica, berichtete über die Entwicklungen:
+
+  „Der jüngste Sieg von Core Dynamics im System Ts'ao Tach versetzte den Korporatisten einen schweren Schlag. Viele Unternehmen zogen ihre Unterstützung noch ab, bevor der letzte Schuss fiel, und die Pläne, die Jupiter Division zur zentralen Organisation der Bewegung zu machen, wurden aufgegeben."
+
+  „In den Machtkorridoren des Mars wurde zweifellos aufgeatmet, als diese Bedrohung für die demokratischen Prinzipien der Föderation besiegt war. Doch trotz der Bagatellisierung durch den Kongress und der mangelnden Berichterstattung vieler föderaler Nachrichtenfeeds sind die Forderungen nach einer Korporatokratie nicht ganz verstummt."
+
+  „Bürger, die nach einer Alternative zu einer Stimme für Hudson oder Winters suchen, fühlen sich von der Idee weiterhin angezogen. Wäre Herrschaft durch Konzerne ehrlicher? Die Meinungen gehen auseinander, doch viele Anhänger behaupten, das ‚große Kapital' übe längst die wahre Macht hinter verschlossenen Türen aus."
+
+  „Nun scheint es, dass die Geschichte dies als einen nicht gegangenen Weg verzeichnen wird. Da Jupiter Rochester inhaftiert und die Jupiter Division aufgelöst ist, dürften rechtzeitig keine Ersatzfiguren für die korporatistische Bewegung auftauchen, um sie zu erhalten."
 ---
 
 

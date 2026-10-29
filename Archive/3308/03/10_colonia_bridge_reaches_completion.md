@@ -1,13 +1,18 @@
 ---
 uuid: e2b736bf-f679-55f3-8824-96bde18804e0
 title: Colonia Bridge Reaches Completion
+title_de: Colonia-Brücke wird fertiggestellt
 slug: colonia_bridge_reaches_completion
 date: '3308-03-10'
 source: API
 summary: The Colonia Bridge project concludes successfully with all starport services
   installed.
+summary_de: Das Colonia-Bridge-Projekt wird erfolgreich abgeschlossen; alle Dienste
+  sind an den Sternenhäfen installiert.
 player_impact: Pilots who contributed received rewards and naming invitations for
   the new starports.
+player_impact_de: Mitwirkende Piloten erhielten Belohnungen und durften die neuen
+  Sternenhäfen benennen.
 groups:
 - Brewer Corporation
 - Canonn
@@ -25,6 +30,10 @@ arc_id: null
 modern_impact: '"Brewer Corporation''s project to improve travel between the core
   systems and Colonia region has successfully concluded." The completed Colonia Bridge
   permanently reduces the logistical barriers to deep-space settlement and exploration.'
+modern_impact_de: '"Das Projekt der Brewer Corporation zur Verbesserung der Reiseverbindungen
+  zwischen den Kernsystemen und der Colonia-Region ist erfolgreich abgeschlossen."
+  Die fertiggestellte Colonia-Brücke senkt die logistischen Hürden für Besiedlung
+  und Erkundung des Tiefenraums dauerhaft.'
 legacy_weight: 3
 significance: medium
 related_uuids:
@@ -33,6 +42,25 @@ related_uuids:
 - 278d7924-2868-5862-8a08-2dda0d9462e2
 - c51dda76-58cf-516a-98a9-51c91b991b75
 - b1468c62-8abd-578a-be2b-1bd2f4f4a6d5
+body_de: |
+  **ALARM DER PILOTENFÖDERATION**
+  Das Projekt der Brewer Corporation zur Verbesserung der Reiseverbindungen zwischen den Kernsystemen und der Colonia-Region ist erfolgreich abgeschlossen.
+  Mit der letzten Charge von Dienstleistungsinstallationen werden die Bauarbeiten an den sechs Sternenhäfen abgeschlossen. Folgende Dienste stehen in der Canonn Complex, dem Helgrind Gateway, dem Venatores Hub, Vladmir McDoogle's Triumph und der Zerreiss Station zur Verfügung:
+  Universal Cartographics \ Vista Genomics
+  Pioneer Supplies \ Bartender
+  Crew Lounge \ Search and Rescue
+  Material Trader \ Human Tech Broker
+  Outfitting \ Shipyard
+  Folgende Dienste stehen an der Promium Relay zur Verfügung:
+  Universal Cartographics \ Vista Genomics
+  Pioneer Supplies \ Bartender
+  Material Trader \ Human Tech Broker
+  Outfitting \ Shipyard
+  Material-Händler aller Arten sind an den Sternenhäfen vertreten.
+  Die Nachrichtenagenturen erwarteten eine letzte Pressemitteilung der Brewer Corporation, erhielten stattdessen jedoch eine seltene persönliche Nachricht der CEO des Unternehmens, Madelyn Teague:
+  „Es bereitet mir enorme Freude, das triumphale Ende dieses historischen Unternehmens bekanntzugeben. Ich möchte jede einzelne Person danken, deren harte Arbeit diesen Traum von mir Wirklichkeit werden ließ. Die Namen der dem Projekt am meisten verbundenen Piloten werden bald auf Gedenkfeuern in den Systemen Alcor und Colonia verzeichnet werden."
+  „Wir alle bei der Brewer Corporation sind sehr stolz auf die Colonia-Brücke. Für Jahrzehnte werden diese sechs Sternenhäfen und 56 Megaschiffe den Handel ankurbeln, die Erkundung unterstützen und Reisenden als Zwischenstationen dienen. Sie stehen dafür, was erreicht werden kann, wenn so viele von uns dieselbe Vision teilen und harmonisch zusammenarbeiten."
+  Piloten, die Materialien geliefert haben, können ihre Bezahlung nun in der Macdonald Settlement im System Alcor und an der Jaques Station im System Colonia abholen. Die besten 75 % der Mitwirkenden der vergangenen Woche können außerdem am 11. März ihre vorab modifizierten Module für überladene Kraftwerke abholen.
 ---
 
 

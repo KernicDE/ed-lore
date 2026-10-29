@@ -1,14 +1,20 @@
 ---
 uuid: 879f21ce-cb58-54b0-aaef-2f8da6b67baf
 title: 'Terrorist Attack at Hadrian Duval’s HQ '
+title_de: "Terroranschlag auf Hadrian Duvals Hauptquartier"
 slug: terrorist_attack_at_hadrian_duvals_hq
 date: '3307-10-14'
 source: API
 summary: NMLA bombs strike Dyson City starport in Paresa, killing over 15,000 people.
   Hadrian Duval's family survives thanks to a last-minute evacuation ordered by Praetor
   Leo Magnus.
+summary_de: NMLA-Bomben treffen den Sternenhafen Dyson City in Paresa und töten über
+  15.000 Menschen. Hadrian Duvals Familie überlebt dank einer Eilmassnahme von Prätor
+  Leo Magnus.
 player_impact: Independent pilots assisted with rescuing survivors from Dyson City
   starport.
+player_impact_de: Unabhängige Piloten halfen bei der Rettung der Überlebenden vom
+  Sternenhafen Dyson City.
 persons:
 - Leo Magnus
 - Hadrian Augustus Duval
@@ -23,12 +29,23 @@ topics:
 arc_id: nmla-terrorism
 modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
   the Marlinist refugee crisis and the Proactive Detection Bureau.
+modern_impact_de: Die Bombenkampagne der NMLA formt die galaktische Politik neu und
+  führt zur marlinistischen Flüchtlingskrise und zur Proactive Detection Bureau.
 legacy_weight: 5
 significance: high
 related_uuids:
 - b911069f-fe18-55e3-9314-689662d52a3d
 - bff6430a-12ed-5418-b49f-75e918e3eda0
 - d0f3baf5-e680-57cb-afbc-811b16f0d1f3
+body_de: |
+  **ALARM der Pilotenföderation**
+  Explosionen haben den Sternenhafen Dyson City im System Paresa getroffen, den Sitz von Hadrian Duvals Organisation Nova Imperium.
+  Der Sternenhafen erlitt schwere strukturelle Schäden sowie die ätzenden Auswirkungen kaustischer Enzyme – ein Kennzeichen der speziell angefertigten Waffen der NMLA. Ersten Berichten zufolge wurden über fünfzehntausend Menschen getötet und eine ähnliche Zahl verletzt.
+  Die folgende Erklärung wurde von Prätor Leo Magnus abgegeben, dem früheren Sicherheitschef von Nova Imperium, der zur ACT abgeordnet worden war:
+  „Kurz vor diesem Angriff hat mein Team eine Kommunikation zwischen mutmaßlichen Neo-Marlinistischen Unterstützern abgefangen. Sie bezog sich auf einen bevorstehenden Versuch, Imperator Hadrian Duval, Lady Astrid Minerva-Duval und ihr ungeborenes Kind zu töten."
+  „Ich ordnete sofort an, die Prätorianergarde sollte die Familie des Imperators außerhalb der Station in Sicherheit bringen. Dies gelang wenige Minuten, bevor die Bomben detonierten. Ich freue mich, berichten zu können, dass sie diesen brutalen Angriff überlebten, doch die restliche Bevölkerung konnte leider nicht rechtzeitig evakuiert werden."
+  Im System Paresa wurde der Ausnahmezustand ausgerufen, mit dringender Bitte an unabhängige Piloten, bei der Rettung der Überlebenden vom Sternenhafen Dyson City zu helfen.
+  Das Imperium bestätigte, dass es gemäß dem Vertrag von Paresa Nova Imperium militärische und medizinische Unterstützung gewähren wird. ACT führt Untersuchungen durch, um mehr über den Angriff zu erfahren.
 ---
 
 

@@ -16,6 +16,11 @@ bio: Neche Inc is a organization in the Elite Dangerous universe, active from 33
   Azaladshu Free defeats Neche Inc and retains independence from the Federation. Conflict
   erupts between Azaladshu Free and Neche Inc as multiple Federal systems declare
   independence.
+bio_de: Neche Inc ist eine Organisation im Elite-Dangerous-Universum, die von 3307-07-01
+  bis 3307-07-08 aktiv war. Häufig in Verbindung mit LTT 3919, Gluscap Labour und der
+  Pilots Federation. Azaladshu Free besiegt Neche Inc und bewahrt seine Unabhängigkeit
+  von der Föderation. Es kommt zum Konflikt zwischen Azaladshu Free und Neche Inc,
+  während mehrere föderale Systeme ihre Unabhängigkeit erklären.
 ---
 
 

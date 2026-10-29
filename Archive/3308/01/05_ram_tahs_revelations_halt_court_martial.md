@@ -1,12 +1,16 @@
 ---
 uuid: abc2fd5a-4eb4-5e36-ba45-d821adf6847e
 title: Ram Tah’s Revelations Halt Court Martial
+title_de: Ram Tahs Enthüllungen stoppen Kriegsgericht
 slug: ram_tahs_revelations_halt_court_martial
 date: '3308-01-05'
 source: API
 summary: Ram Tah's testimony about Salvation's Guardian-based superweapon suspends
   Admiral Tanner's court martial.
+summary_de: Ram Tahs Aussage zur auf Guardian-Technologie beruhenden Superwaffe von Salvation
+  setzt das Kriegsgericht gegen Admiral Tanner aus.
 player_impact: Not specifically mentioned — this is a military justice report.
+player_impact_de: Keine
 persons:
 - Ram Tah
 - Admiral Tanner
@@ -28,6 +32,10 @@ modern_impact: '"These generate a powerful electromagnetic pulse at frequencies 
   disrupt the Thargoids'' bio-mechanical technology." Ram Tah''s testimony confirms
   Salvation''s superweapon is reverse-engineered from Guardian technology, linking
   it to Azimuth''s centuries-old research.'
+modern_impact_de: „Diese erzeugen einen starken elektromagnetischen Impuls in Frequenzen,
+  die die biotechnologischen Systeme der Thargoiden stören." Ram Tahs Aussage bestätigt,
+  dass Salvations Superwaffe anhand von Guardian-Technologie rekonstruiert wurde und
+  mit der jahrhundertealten Forschung von Azimuth verknüpft ist.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -41,6 +49,14 @@ related_uuids:
 - ec3ee958-bfe7-5236-941e-08b7ac6f4784
 - f7dab7fe-23cb-5905-a1d5-29db2b5fa84a
 - f9b7776c-60b4-5566-b2ab-bd4835dac0fc
+body_de: |
+  Der Militärprozess gegen Admiral Aden Tanner wurde nach Beweisen ausgesetzt, die Ram Tah als Zeuge der Verteidigung geliefert hat.
+  Das Kriegsgericht der Federal Navy wurde berufen, um mehrere Anklagen gegen Tanner zu prüfen – darunter Meuterei. Tanner, der oberste militärische Verbindungsoffizier zur Aegis, hatte versucht, Zugang zur Station Hind Mine zu erhalten und Beweise zur Anti-Xeno-Superwaffe von Salvation zu finden, während er das Megaschiff Musashi kommandierte.
+  Der Verteidiger von Admiral Tanner öffnete eine Live-Verbindung zur Phoenix Base, damit Ram Tah folgende Aussage machen konnte:
+  „Wir haben die geheime experimentelle Ausrüstung analysiert, die kürzlich geliefert wurde, um Salvations Superwaffen zu ermöglichen. Diese Komponenten sind nahezu identisch mit Geräten, die in der Proteus-Forschungsanlage im Trapezium-Sektor YU-X c1-2 gefunden wurden. Im Jahr 3113 führte ein Wissenschaftsteam der Azimuth Biochemicals an diesem Ort Waffentests mit Guardian-Artefakten durch und löste dabei versehentlich eine Strahlungsspitze aus, die zum Tod der Teammitglieder führte."
+  „Meine Hypothese ist, dass Salvation großformatige Versionen des Proteus-Entwurfs gebaut hat. Diese erzeugen einen starken elektromagnetischen Impuls in Frequenzen, die die biotechnologischen Systeme der Thargoiden stören."
+  „Es ist sehr wahrscheinlich, dass dies auf einer vorhandenen Guardian-Waffe basiert, die von der Proteus entdeckt wurde. Das würde erklären, warum ihre Anwesenheit in einem System Thargoiden-Schiffe anzieht."
+  Das Kriegsgericht der Federal Navy gab bekannt, dass das Verfahren gegen Admiral Tanner vorläufig ausgesetzt wurde, während die neuen Beweise geprüft werden.
 ---
 
 

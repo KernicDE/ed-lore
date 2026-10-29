@@ -1,12 +1,16 @@
 ---
 uuid: 5a8b5b4b-8a44-5a14-8193-96b891fc7004
 title: Taurus Mining Ventures Operation Concludes
+title_de: Taurus Mining Ventures schließt Operation ab
 slug: taurus_mining_ventures_operation_concludes
 date: '3308-04-07'
 source: API
 summary: Taurus Mining Ventures concludes a successful mining and research operation
   in the Synuefe system.
+summary_de: Taurus Mining Ventures schließt eine erfolgreiche Bergbau- und Forschungsoperation
+  im Synuefe-System ab.
 player_impact: Pilots were asked to mine and deliver ores to the Synuefe system.
+player_impact_de: Piloten wurden gebeten, Erze im Synuefe-System abzubauen und zu liefern.
 persons:
 - Ruben Carpenter
 groups: []
@@ -22,11 +26,24 @@ modern_impact: '"To all the pilots who assisted in this endeavour: thank you! Yo
   hard work is greatly appreciated." The Taurus Mining Ventures operation in Synuefe
   later proved to be a cover for Azimuth Biotech''s secret Guardian research, contextualising
   seemingly innocuous corporate initiatives within the broader anti-xeno arms race.'
+modern_impact_de: „An alle Piloten, die bei diesem Unterfangen geholfen haben – danke!
+  Eure harte Arbeit ist uns sehr wichtig." Die Operation von Taurus Mining Ventures
+  in Synuefe erwies sich später als Deckmantel für Azimuth Biotechs geheime Guardian-Forschung
+  und ordnete scheinbar harmlose Unternehmensinitiativen in den größeren Anti-Xeno-Wettrüsten
+  ein.
 legacy_weight: 2
 significance: low
 related_uuids:
 - 3f6b7847-131b-5ba8-ac81-0d61d8b5bff4
 - d97a03c8-3cbd-5fdf-849d-06c5706a9602
+body_de: |
+  **Alarm der Pilotenföderation**
+  Eine Unternehmensinitiative zum Abbau und zur Lieferung von Erzen in das Synuefe-CE-R-c21-6-System ist erfolgreich beendet worden.
+  Taurus Mining Ventures hatte innerhalb des Systems wissenschaftliche Forschung betrieben und behauptet, die Eigenschaften einiger natürlicher Substanzen seien durch eine unbekannte Art lokaler Strahlung verändert worden.
+  Der Forschungsleiter des Unternehmens, Dr. Ruben Carpenter, verkündete:
+  „Wir haben nun ausreichend große Mengen an Coltan, Lithiumhydroxid und Methanol-Monohydrat-Kristallen aus Orten in Synuefe CE-R c21-6 abgebaut. Diese bestrahlten Erze werden analysiert, um ihren potenziellen kommerziellen Wert zu bestimmen. Auch Proben aus anderen Systemen werden für unsere Vergleichsstudien sehr nützlich sein."
+  „An alle Piloten, die bei diesem Unterfangen geholfen haben: danke! Eure harte Arbeit ist uns sehr wichtig. Das Megaschiff Heart of Taurus wird noch mehrere Wochen in Synuefe CE-R c21-6 verbleiben; dort könnt ihr eure Belohnungen abholen."
+  Taurus Mining Ventures bestätigte, dass die Untersuchungen zur Identifizierung der Quelle, der Wirkungen und der Anwendung der lokalen Strahlung fortgesetzt werden. Das wissenschaftliche Journal The Empirical hat erneut darauf hingewiesen, dass diese ‚atypischen radioaktiven Signaturen' nicht unabhängig verifiziert wurden.
 ---
 
 

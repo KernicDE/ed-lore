@@ -1,12 +1,16 @@
 ---
 uuid: 37702c1f-2c71-55fb-932e-b8dfeb29d626
 title: Arissa Retakes the Imperial Throne
+title_de: Arissa kehrt auf den Imperialen Thron zurück
 slug: arissa_retakes_the_imperial_throne
 date: '3308-02-16'
 source: API
 summary: Emperor Arissa Lavigny-Duval makes her first public appearance after a year-long
   abduction.
+summary_de: Kaiserin Arissa Lavigny-Duval tritt nach einjähriger Entführung erstmals
+  wieder öffentlich auf.
 player_impact: Not specifically mentioned — this is a ceremonial report.
+player_impact_de: Keine
 persons:
 - Arissa Lavigny-Duval
 groups:
@@ -24,6 +28,17 @@ modern_impact: '"Emperor Arissa Lavigny-Duval has attended a public ceremony fol
   her year-long abduction." The Emperor''s dramatic return from captivity stabilizes
   Imperial succession but leaves lingering questions about the Lords of Restoration''s
   full network.'
+modern_impact_de: „Kaiserin Arissa Lavigny-Duval hat an einer öffentlichen Zeremonie nach
+  ihrer einjährigen Entführung teilgenommen." Die dramatische Rückkehr der Kaiserin aus
+  der Gefangenschaft stabilisiert die imperiale Thronfolge, lässt aber offene Fragen zum
+  gesamten Netzwerk der Lords of Restoration.
+body_de: |
+  Kaiserin Arissa Lavigny-Duval hat an einer öffentlichen Zeremonie nach ihrer einjährigen Entführung durch die Lords of Restoration teilgenommen.
+  Ihre Proklamation vom Trasken Square, vor Millionen Bürgern von Capitol und flankiert von Legionen der Imperialen Garde, wurde über sämtliche Kanäle übertragen:
+  „Jenen, die das Imperium während meiner erzwungenen Abwesenheit beschützt haben, spreche ich meine tiefste Dankbarkeit aus. Mein vertrauter Kanzler, die Senatoren und die Sicherheitsbehörden sind zu loben."
+  „Jenen, die es wagten, imperiale Bürger anzugreifen, die es wagten, mich nachzuahmen und mein Volk in die Irre zu führen … die das Leben meiner Familie nahmen. Wisset das: Es wird keinen Ort geben, an dem ihr euch vor meinem Zorn verstecken könnt."
+  „Und allen Bürgern, die in diesen unsicheren Zeiten Angst haben mögen, gelobe ich, dass eure Kaiserin euch in die glorreiche Zukunft führen wird, die uns von Rechts wegen gehört."
+  Nachfolgende Botschaften aus dem Imperialen Palast lobten die ACT und ihre Unterstützer für ihre Arbeit bei der Befreiung Arissas und der Zerschlagung der NMLA. Prinzessin Aisling Duval wurde ebenfalls für ihr Engagement bei der Aufklärung der Wahrheit gedankt, wenngleich manche Nachrichtenkanäle anmerkten, dass Aisling bei einem freigewordenen Thron einen starken Anspruch geltend machen würde.
 legacy_weight: 5
 significance: high
 related_uuids:

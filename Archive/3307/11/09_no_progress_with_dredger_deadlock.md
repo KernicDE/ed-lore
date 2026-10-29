@@ -1,13 +1,19 @@
 ---
 uuid: 111617dc-8948-5bee-803f-c4e0687be612
 title: 'No Progress with Dredger Deadlock '
+title_de: Keine Fortschritte bei Dredger-Pattlage
 slug: no_progress_with_dredger_deadlock
 date: '3307-11-09'
 source: API
 summary: The Scriveners Clan continues to resist Orion University's attempts to take
   possession of their dredger, with Canonn Interstellar Research Group offering to
   purchase the vessel and share the Knowledge Core.
+summary_de: Der Scriveners-Clan leistet weiterhin Widerstand gegen die Versuche
+  der Orion University, den Dredger in Besitz zu nehmen; die Canonn
+  Interstellar Research Group bietet an, das Schiff zu kaufen und den
+  Wissens-Kern zu teilen.
 player_impact: None
+player_impact_de: Keine
 persons:
 - Casey Kilpatrick
 groups:
@@ -19,6 +25,8 @@ topics:
 arc_id: scriveners-clan
 modern_impact: The Scriveners Clan dredger remains a subject of dispute between academic
   institutions and the nomadic society that inhabits it.
+modern_impact_de: Der Dredger des Scriveners-Clan bleibt ein Streitobjekt zwischen
+  akademischen Institutionen und der ihn bewohnenden nomadischen Gesellschaft.
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -27,6 +35,13 @@ related_uuids:
 - 21ac936e-6473-5e81-980f-73a1bd20c350
 - 874dce92-6aa5-5398-9666-601f0f3192b5
 - c8933782-6917-568d-8b1c-f9e89c7c9c7c
+body_de: |
+  Der nomadische Scriveners-Clan leistet weiterhin Widerstand gegen die Versuche der Orion University, seinen Dredger in Besitz zu nehmen.
+  Der freiberufliche Reporter Casey Kilpatrick veröffentlichte ein Update aus dem System Oochost PC-C c29-0:
+  „Der Behauptung der Orion University, das Schiff sei ihr Eigentum, wurde von Advocacy mit dem Hinweis auf Gesetze entgegengetreten, die kulturelle Kontamination verhindern. Die Frage lautet also nun: Wer besitzt den Dredger tatsächlich? Die Familien, die dort seit Generationen leben, oder die Organisation, die ihn ursprünglich gebaut hat?"
+  „Verschiedene Lösungen wurden vorgeschlagen, um dieses Patt zu lösen. Dazu gehört ein Angebot der Canonn Interstellar Research Group, den Dredger von der Orion University zu erwerben, ihn dem Scriveners-Clan zu schenken und anschließend die Inhalte ihres geheimnisvollen Wissens-Kerns öffentlich zu teilen."
+  „Zwei Jahrhunderte der Isolation haben dieser auf Akademiker ausgerichteten Gesellschaft jedoch ein pathologisches Bedürfnis eingeimpft, ihre Forschung zu schützen. Sie kooperieren ebenso wenig wie eine tief religiöse Nation, die gebeten wird, ihr heiligstes Artefakt herauszugeben."
+  „Orions Megaschiff Scientia Aeterna sendet weiterhin Kontaktaufnahmen. Ich habe sogar gesehen, wie eines ihrer Beiboote der Verschlingung durch das Schlund des Dredgers knapp entkam, während es nach einem Zugangspunkt suchte. Doch die Scriveners sind vollkommen abgeschottet, und diese Belagerungssituation zeigt kein Ende."
 ---
 
 

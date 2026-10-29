@@ -8,6 +8,9 @@ mention_count: 1
 bio: 'Andrew Jones is a prominent figure in the Elite Dangerous universe, active from
   3308-04-18 to 3308-04-18. Closely associated with Federal Navy, Alliance, Imperial
   Navy. '
+bio_de: Andrew Jones ist eine bedeutende Figur im Elite-Dangerous-Universum, aktiv
+  am 3308-04-18. Eng verbunden mit der Bundesmarine, der Allianz und der imperialen
+  Marine.
 ---
 
 

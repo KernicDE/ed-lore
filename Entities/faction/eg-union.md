@@ -17,6 +17,10 @@ bio: 'EG Union is a organization active in Elite Dangerous lore from 3304-03-23 
   in the CPC 20 6743 system to produce capital ships for defending human space from
   hu...; This week''s major stories include Aegis publishing a Thargoid report based
   on Ram Tah''s decrypted Guardian logs, revealing the two species'' ancient...'
+bio_de: |-
+  Die EG Union ist die militärische und politische Fraktion unter der Führung von Yuri Grom und dient als Machtbasis für seine unabhängige expansionistische Agenda. Im Oktober 3307 besiegten die Streitkräfte der EG Union die Delta Pavonis Galactic Interstellar in einem Systemkonflikt und erbeuteten dabei das föderale Megaschiff Freedom's Foundation.
+
+  Der Sieg stellte eine direkte militärische Konfrontation zwischen Groms Truppen und föderalen Hilfsverbänden dar; Grom verunglimpfte Präsident Hudson öffentlich als „das verrottete Herz des faulenden Kadavers der Föderation“. Die EG Union fungiert sowohl als Regierungsgewalt in den von Grom kontrollierten Systemen als auch als militärischer Arm seines Angriffs auf den föderalen Einfluss im Grenzraum und verkörpert seine Strategie, die Unterstützung unabhängiger Piloten zu nutzen, um Territorialgewinne gegen den Widerstand der Supermächte zu sichern.
 ---
 
 

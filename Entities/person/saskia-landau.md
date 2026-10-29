@@ -11,6 +11,24 @@ bio: 'Saskia Landau is a Emperor in Elite Dangerous lore, active from 3307-11-25
   in the Mudhrid system, with the NMLA defending Theta Seven abo...; The Epsilon Fornacis
   Empire Group defeats the Neo-Marlinist Order of Mudhrid, with ACT commandos led
   by Milo Castile retaking the Steel Majesty meg...'
+bio_de: Captain Saskia Landau ist Co-Leiterin der Einheit für koordinierte Antiterrorarbeit
+  (ACT) und spielte eine zentrale Rolle bei der Zerschlagung sowohl der NMLA als auch
+  der geheimen imperialen Verschwörung, die deren Feldzug orchestriert hatte. Im Februar
+  3308 lieferte Landau den Medien eine detaillierte Zusammenfassung der Ermittlungen
+  von ACT zu den Lords of Restoration – einer Kabale imperialer Senatoren darunter
+  Gereon, Jourdain, Nerva, Scordato und Torquatus, die die terroristischen Aktivitäten
+  der NMLA ausgeheckt hatten.
+  Landau enthüllte, dass die Lords die NMLA als Waffe eingesetzt hatten, um die Duvals
+  zu ermorden und die Exekutivgewalt wieder an den Senat zurückzuführen. Dazu hatten
+  sie Kaiserin Arissa Lavigny-Duval im Januar 3307 entführt und Kommunikation über
+  einen virtuellen Doppelgänger organisiert, der von korrupten Agenten des Imperialen
+  Geheimdiensts verifiziert wurde. Sie legte zudem offen, wie der Marlinismus als
+  politischer Hebel missbraucht worden war, um ein vom Senat geführtes Imperium als
+  „gemäßigten Kompromiss“ erscheinen zu lassen. Bereits während der Schlacht um
+  Mudhrid im November 3307 hatte Landau gewarnt, dass die Flucht von Theta Seven die
+  Bedrohung durch Gräueltaten wie die Bombenanschläge der Neun Märtyrer fortbestehen
+  lasse. Ihre Führung in ACT zeigte, wie Zusammenarbeit aller drei Supermächte selbst
+  die tief verwurzeltsten Verschwörungen aufdecken konnte.
 ---
 
 

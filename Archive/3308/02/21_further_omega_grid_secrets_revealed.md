@@ -1,12 +1,16 @@
 ---
 uuid: 280dbe53-f0ef-5bce-87d6-61bfb3138693
 title: Further Omega Grid Secrets Revealed
+title_de: Weitere Omega-Grid-Geheimnisse enthüllt
 slug: further_omega_grid_secrets_revealed
 date: '3308-02-21'
 source: API
 summary: ACT reveals a Lords of Restoration plot to frame Hadrian Duval as the NMLA's
   leader.
+summary_de: Die ACT deckt ein Komplott der Lords of Restoration auf, Hadrian Duval als
+  den Anführer der NMLA zu diffamieren.
 player_impact: Not specifically mentioned — this is an intelligence report.
+player_impact_de: Keine
 persons:
 - Ursula Torquatus
 groups:
@@ -23,6 +27,18 @@ modern_impact: '"ACT has released details about a plan by the Lords of Restorati
   to frame Hadrian Augustus Duval as the leader of the NMLA." The conspiracy to frame
   Hadrian Duval reveals how the Lords of Restoration sought to eliminate both the
   Emperor and her rival bloodline.'
+modern_impact_de: „Die ACT hat Einzelheiten über einen Plan der Lords of Restoration
+  veröffentlicht, Hadrian Augustus Duval als Anführer der NMLA zu diffamieren." Die
+  Verschwörung zur Diffamierung Hadrian Duvals zeigt, wie die Lords of Restoration
+  sowohl die Kaiserin als auch ihre Rivalen aus dem Blutlinienhaus beseitigen wollten.
+body_de: |
+  Die ACT hat Einzelheiten über einen Plan der Lords of Restoration veröffentlicht, Hadrian Augustus Duval als Anführer der NMLA zu diffamieren.
+  Die Informationen wurden aus dem Omega-Grid-Netzwerk der NMLA gewonnen und von Captain Saskia Landau veröffentlicht:
+  „Es war Senatorin Ursula Torquatus, die eine Intrige ausheckte, um die Kaiserliche Familie zu untergraben und die Bürger gegen sie aufzubringen, indem sie einen Duval als Drahtzieherin der NMLA ‚enttarnte'. Hadrian Duval galt als logische Wahl, da ihn viele aufgrund seiner früheren Verbindung zu Nova Imperium als Extremisten betrachteten, obwohl Kaiserin Arissa Lavigny-Duval ihn offiziell 3306 begnadigt hatte."
+  „Die Lords of Restoration nutzten einen virtuellen Doppelgänger der Kaiserin, von echten Übertragungen nicht zu unterscheiden, um den Senat davon zu überzeugen, dass sie sich an einem sicheren Ort aufhielt. Ein ähnlicher Doppelgänger wurde entwickelt, um Hadrian nachzuahmen, und wurde dazu verwendet, Befehle an NMLA-Verbündete wie den Landgrafen von Mudhrid zu übermitteln."
+  „So platzierten sie die im April 3307 entdeckten Beweise dafür, dass Hadrian zum Neo-Marlinismus konvertiert sei und entschlossen, alle anderen Duvals auszulöschen. Doch obwohl dies einen erfolglosen Angriff der Föderation im Paresa-System auslöste, konnte der Vorwurf nicht verifiziert und nicht weitgehend geglaubt werden."
+  „Monate später versuchten die Lords of Restoration, Hadrian und Lady Astrid zu töten, bevor ihr Sohn Hector geboren werden konnte, aus Angst vor der Fortsetzung der Dynastie Duval. Doch andere Senatoren brachten die Familie an einen sicheren Ort, jenseits der Reichweite ihrer Agenten."
+  Hadrian Duval hat sich öffentlich bei der ACT dafür bedankt, diese Informationen aufgedeckt und ihn offiziell von jedem Verdacht in dieser Angelegenheit freigesprochen zu haben.
 legacy_weight: 5
 significance: high
 related_uuids:

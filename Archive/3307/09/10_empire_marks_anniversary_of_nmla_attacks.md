@@ -1,13 +1,18 @@
 ---
 uuid: bff6430a-12ed-5418-b49f-75e918e3eda0
 title: Empire Marks Anniversary of NMLA Attacks
+title_de: Imperium gedenkt Jahrestag der NMLA-Anschläge
 slug: empire_marks_anniversary_of_nmla_attacks
 date: '3307-09-10'
 source: API
 summary: The Empire declares a day of mourning for the first anniversary of the NMLA's
   Imperial starport bombings, which killed over 60,000 people and marked the beginning
   of the terror campaign.
+summary_de: Das Imperium erklärt einen Trauertag zum ersten Jahrestag der Bombenanschläge
+  der NMLA auf imperiale Sternenhäfen, bei denen über 60.000 Menschen starben
+  und die den Beginn der Terrorkampagne markierten.
 player_impact: None
+player_impact_de: Keine
 persons:
 - Aisling Duval
 - Zachary Hudson
@@ -25,11 +30,26 @@ topics:
 arc_id: nmla-terrorism
 modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
   the Marlinist refugee crisis and the Proactive Detection Bureau.
+modern_impact_de: Die Bombenkampagne der NMLA verändert die galaktische Politik
+  grundlegend und führt zur marlinistischen Flüchtlingskrise sowie zum Proactive
+  Detection Bureau.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 7d86eb0f-fada-51be-ab71-bb330720f07a
 - 879f21ce-cb58-54b0-aaef-2f8da6b67baf
+body_de: |
+  Im gesamten Imperium wurde ein Trauertag ausgerufen, um an den ersten Jahrestag der Bombenanschläge der NMLA auf imperiale Sternenhäfen zu gedenken.
+
+  Am Donnerstag, dem 10. September 3306, wurden imperiale Stationen in den Systemen Cemiess, Gabjaujis, LHS 4031 und Rabh ohne Vorwarnung angegriffen. Über sechzigtausend Menschen wurden getötet und doppelt so viele verletzt, als starke Sprengsätze eine ätzende Enzymfracht freisetzten.
+
+  Die Neo-Marlinist Liberation Army ist eine extremistische paramilitärische Gruppe, die der Wiederherstellung der ursprünglichen republikanischen Regierung von Marlin Duval verschrieben ist. Vor diesen Bombenanschlägen hatte sie nur kleinere Anschläge mit geringen Opferzahlen verübt.
+
+  Die Terrorkampagne der NMLA griff mit den Anschlägen auf die Nine Martyrs im März 3307 auf alle drei Supermächte über. Sie führte auch dazu, dass Anhänger des Marlinismus als Flüchtlinge aus dem Imperium flohen und sich schließlich in den Marlinist-Kolonien ansiedelten.
+
+  Prinzessin Aisling Duval erwies den Opfern während einer Gedenkfeier in ihrem Palast auf Emerald die letzte Ehre. Sie sprach auch von ihrem Vater, Prinz Harold Duval, der kurz nach den Bombenanschlägen von der NMLA ermordet wurde.
+
+  Beileidsbotschaften gingen von Präsident Zachary Hudson, Premierminister Edmund Mahon, Imperator Hadrian Augustus Duval und Erster Ministerin Octavia Volkov ein. Alle gelobten, ACT weiterhin Ressourcen zur Verfügung zu stellen, das kürzlich viele Terrorzellen aushebelte. Zusammen mit dem Verlust ihres politischen Flügels dürfte die Bedrohung durch die NMLA endlich abnehmen.
 ---
 
 

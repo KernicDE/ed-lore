@@ -1,12 +1,16 @@
 ---
 uuid: 2ea3fdf7-8814-5eda-9967-368c424dfcb0
 title: ACT Exposes the Lords of Restoration
+title_de: ACT deckt die Lords of Restoration auf
 slug: act_exposes_the_lords_of_restoration
 date: '3308-02-14'
 source: API
 summary: ACT uncovers a secret cabal of Imperial senators who orchestrated NMLA terrorism
   and framed Hadrian Duval.
+summary_de: Die ACT deckt eine geheime Verschwörung imperialer Senatoren auf, die den
+  NMLA-Terrorismus orchestrierten und Hadrian Duval diffamierten.
 player_impact: Not specifically mentioned — this is an investigative report.
+player_impact_de: Keine
 persons:
 - Arissa Lavigny-Duval
 - Karl Nerva
@@ -27,6 +31,18 @@ modern_impact: '"ACT has unveiled a secret cabal of Imperial senators who master
   the NMLA''s terrorist activity." The Lords of Revelation conspiracy reveals that
   the Empire''s most devastating terrorist threat was orchestrated from within its
   own Senate.'
+modern_impact_de: „Die ACT hat eine geheime Verschwörung imperialer Senatoren enthüllt,
+  die die terroristischen Aktivitäten der NMLA orchestrierten." Die Verschwörung der
+  Lords of Restoration zeigt, dass die verheerendste Terrorbedrohung des Imperiums von
+  seinem eigenen Senat aus inszeniert wurde.
+body_de: |
+  Die Einheit zur Bekämpfung des Terrorismus (ACT) hat eine geheime Verschwörung imperialer Senatoren enthüllt, die die terroristischen Aktivitäten der NMLA orchestrierten.
+  Die Informationen wurden erlangt, nachdem die ACT erfolgreich in das Dark-Comms-Netzwerk der NMLA eingedrungen war. Captain Saskia Landau lieferte der Presse folgende Zusammenfassung:
+  „Die Senatoren Gereon, Jourdain, Nerva, Scordato und Torquatus standen im Zentrum einer mächtigen Verschwörung, das Amt des Kaisers dauerhaft abzuschaffen. Sie nannten sich die Lords of Restoration, aufbauend auf ihrem Ziel, die exekutive Macht dem Senat zurückzugeben."
+  „Die NMLA wurde zu ihren terroristischen Handlangern, zu Waffen umfunktioniert, um die Duvals und andere Hindernisse zu ermorden. Ihre Mitglieder wurden in Darkwater-Trainingslagern militärisch ausgebildet und von korrupten Agenten der Imperialen Geheimdienstes mit hochentwickelter Ausrüstung versorgt. Doch die Lords konnten die terroristische Galionsfigur Theta Seven niemals vollständig kontrollieren, dessen Angriffe auf nicht-imperiale Sternenhäfen nicht Teil ihres ursprünglichen Plans waren."
+  „Der Marlinismus wurde ebenfalls als politischer Hebel ausgenutzt. Man hoffte, dass die Bürger ein vom Senat geführtes Imperium als gemäßigten Kompromiss betrachten würden – verglichen mit dieser demokratischen Ideologie –, sobald die Kaiserliche Familie beseitigt war. Dies führte zwar zur Gründung der Marlinist-Kolonien, doch die späteren Versuche der Lords, jene Systeme über Marionettenpolitiker zu beeinflussen, scheiterten."
+  „Nach den Attentaten auf Prinz Harold und andere Duvals entführten die Lords im Januar 3307 Kaiserin Arissa Lavigny-Duval. Sie wurde auf dem Weg zu einem sicheren Ort entführt, wobei Senator Nerva die Bestätigung ihrer sicheren Ankunft fälschte. Dies ermöglichte es den Lords, über einen virtuellen Doppelgänger Kommunikation mit dem Senat zu inszenieren, die als echt akzeptiert wurde, da sie von Agenten des Imperialen Geheimdienstes verifiziert wurden."
+  Die ACT arbeitet eng mit den imperialen Sicherheitsbehörden zusammen, um alle diejenigen zu identifizieren, die mit den Lords of Restoration kooperierten.
 legacy_weight: 5
 significance: high
 related_uuids:

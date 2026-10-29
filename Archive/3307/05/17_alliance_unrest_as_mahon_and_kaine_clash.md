@@ -1,6 +1,7 @@
 ---
 uuid: 2e84c2f8-630c-5fc3-af4c-327c28dfea88
 title: Alliance Unrest as Mahon and Kaine Clash
+title_de: "Unruhen in der Allianz: Mahon und Kaine aneinandergeraten"
 slug: alliance_unrest_as_mahon_and_kaine_clash
 date: '3307-05-17'
 source: API
@@ -8,7 +9,13 @@ summary: Prime Minister Edmund Mahon and Councillor Nakato Kaine escalate their 
   election campaigns amid civil unrest. Mahon defends his record on prosperity at
   a business conference on Industry in Zaonce, while Kaine criticises Alliance spending
   on Aegis and Lakon at a protest march on New Caledonia in Alkaid.
+summary_de: Premierminister Edmund Mahon und Ratsmitglied Nakato Kaine verschärfen im
+  Angesicht ziviler Unruhen ihre Wahlkampagnen um die Allianzwahl. Mahon verteidigt bei
+  einer Wirtschaftskonferenz auf Industry in Zaonce seine Bilanz beim Wohlstand, während
+  Kaine bei einem Protestmarsch auf New Caledonia in Alkaid die Allianzausgaben für Aegis
+  und Lakon kritisiert.
 player_impact: None directly; this is an election campaign report.
+player_impact_de: Keine
 persons:
 - Edmund Mahon
 - Nakato Kaine
@@ -30,12 +37,23 @@ arc_id: alliance-expansion
 modern_impact: The election highlights deep divisions within the Alliance over expansionism
   vs. domestic focus, with Kaine's anti-expansion platform gaining traction despite
   Mahon's re-election.
+modern_impact_de: Die Wahl verdeutlicht tiefe Gräben in der Allianz zwischen Expansionismus
+  und Binnenorientierung, wobei Kaines antiexpansionistische Plattform trotz Mahons
+  Wiederwahl an Zugkraft gewinnt.
 legacy_weight: 4
 significance: medium
 related_uuids:
 - 3bb67076-8b96-50e9-8b63-a7f0e82a437e
 - 5cd90cb7-e73b-553f-bdcf-cb7b311cc0df
 - 09b011a1-77a8-5a75-a0c4-c60509f2f440
+body_de: |
+  Die Spitzenkandidaten bei der Allianzwahl haben angesichts weit verbreiteter politischer und ziviler Unruhen ihre Kampagnen verstärkt.
+  Premierminister Edmund Mahon und Ratsmitglied Nakato Kaine sind durch die Allianz unterwegs und sammeln öffentliche Unterstützung, um die Versammlung bei ihrer Abstimmung am 27. Mai zu beeinflussen.
+  Auf einer Wirtschaftskonferenz auf dem Planeten Industry im System Zaonce erklärte Premierminister Mahon:
+  „Wir haben viel reaktionäre Rhetorik von Ratsmitglied Kaine gehört, aber kritisieren ist viel leichter als etwas aufbauen. Sie hat wenig getan, um den Wohlstand unserer Bürger und Unternehmen zu sichern, was in den letzten sechs Jahren mein Hauptanliegen war."
+  Bei einem Protestmarsch auf New Caledonia im System Alkaid wandte sich Ratsmitglied Kaine an die Menge:
+  „Schon wieder schlagen die Thargoiden wegen unserer Präsenz um sich. Schon wieder stützen wir die anderen Supermächte. Schon wieder pumpen wir Geld in Aegis und Lakon, aber nicht in unsere eigenen Volkswirtschaften. Nichts ändert sich, solange Mahon nicht abgewählt wird und die Allianz eine neue Richtung einschlägt!"
+  Meinungsumfragen deuten darauf hin, dass Mahon weiterhin eine Mehrheit hinter sich hat, jedoch mit knapperem Vorsprung als im Februar, als die Wahl ursprünglich angesetzt war. Viele stimmen Kaine zu, dass die Allianz nicht am Galaktischen Gipfel teilgenommen haben sollte, der zu den Bombenanschlägen der ‚Neun Märtyrer' führte.
 ---
 
 

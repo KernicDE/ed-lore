@@ -1,6 +1,7 @@
 ---
 uuid: 62af4a63-c187-5f32-a237-8f4108056a43
 title: Scriveners Clan Abandons the Hesperus
+title_de: Scriveners-Clan gibt die Hesperus auf
 slug: scriveners_clan_abandons_the_hesperus
 date: '3307-07-09'
 source: API
@@ -8,8 +9,15 @@ summary: The Scriveners Clan dredger leaves the Perseus Dark Region KC-V c2-2 sy
   after stripping the Hesperus's innards. Erik Gunnarson speculates they abandoned
   the salvage due to unwanted attention from thousands of curious travellers, or because
   they detected richer resources elsewhere.
+summary_de: Das Baggerschiff des Scriveners-Clans verlässt das System Perseus Dark
+  Region KC-V c2-2, nachdem es die Innereien der Hesperus ausgeschlachtet hat. Erik
+  Gunnarson vermutet, dass sie die Bergung aufgaben, weil ihnen die ungewollte Aufmerksamkeit
+  tausender neugieriger Reisender lästig wurde oder weil sie andernorts ergiebigere
+  Ressourcen entdeckten.
 player_impact: Pilots had visited the Hesperus site, potentially drawing the secretive
   Scriveners away with their presence.
+player_impact_de: Piloten hatten die Hesperus besucht und möglicherweise die geheimnisvollen
+  Scriveners mit ihrer Anwesenheit vertrieben.
 persons:
 - Erik Gunnarson
 - Francesca Wolfe
@@ -34,6 +42,10 @@ arc_id: formidine-rift
 modern_impact: The Scriveners' departure preserves the Hesperus hull for future study
   but removes the possibility of learning more from the clan's Knowledge Core, leaving
   gaps in the historical record of Azimuth Biochemicals' activities.
+modern_impact_de: Der Abzug der Scriveners erhält den Rumpf der Hesperus für künftige
+  Untersuchungen, entzieht aber die Möglichkeit, aus dem Wissens-Kern des Clans mehr
+  zu erfahren. Dadurch bleiben Lücken in der historischen Aufzeichnung der Aktivitäten
+  von Azimuth Biochemicals.
 legacy_weight: 3
 significance: medium
 related_uuids:
@@ -45,6 +57,16 @@ related_uuids:
 - f0b3373e-7081-5c82-bda0-e454ef9116a0
 - 9b8e3164-1ff4-53b1-a9a9-98345feffa3f
 - a8743406-6f85-50fd-852d-ff3343df1801
+body_de: |
+  **ALARM der Pilotenföderation**
+
+  Das dem Scriveners-Clan gehörende Baggerschiff hat das System Perseus Dark Region KC-V c2-2 verlassen, in dem sich das Megaschiff Hesperus befindet.
+  Das 200 Jahre alte ‚Geisterschiff', einst im Besitz von Azimuth Biochemicals, wurde im April entdeckt, als der nomadische Clan begann, es auf Materialien und Daten zu verwerten.
+  Erik Gunnarson von der Wallglass Investigations Agency mutmaßte:
+  „Als die Scriveners die Hesperus für sich beanspruchten, erwartete ich, dass nur eine Wolke von Trümmern übrig bleiben würde. Doch ihre Bergungsarbeiten wurden vorzeitig abgebrochen, nachdem sie das Innere des Megaschiffs ausgeschlachtet und einen weitgehend intakten Rumpf zurückgelassen hatten."
+  „Warum haben sie das getan? Vielleicht, weil dieser bestimmte Baggerschiff-Clan Fremde meidet. Das öffentliche Interesse an der Hesperus veranlasste tausende neugierige Reisende, sie selbst zu besichtigen – möglicherweise mehr Aufmerksamkeit, als der geheimnisvolle Stamm ertragen konnte."
+  „Möglicherweise entdeckten die Scriveners auch ergiebigere Fundstellen andernorts – entweder frische Ressourcen, die das Baggerschiff verzehren konnte, oder neue Informationen für ihren ‚Wissens-Kern'. Theoretisch könnten sie noch aufgespürt werden, da der Hyperantrieb ihres Schiffs eine ähnliche Reichweite wie moderne Flottenträger hat."
+  „Wir wissen sehr wenig über die Scriveners und noch weniger über andere Clans. Angesichts des jüngsten Auftauchens des Baggerschiffs des Blue Viper Club bei der Kumo City hoffe ich jedoch, dass mehr über diese wandernden Gesellschaften ans Licht kommt."
 ---
 
 

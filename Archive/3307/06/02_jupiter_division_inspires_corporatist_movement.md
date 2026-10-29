@@ -1,6 +1,7 @@
 ---
 uuid: 61ab8647-32a4-5463-b38b-57ed9790e137
 title: Jupiter Division Inspires Corporatist Movement
+title_de: Jupiter-Division inspiriert korporatistische Bewegung
 slug: jupiter_division_inspires_corporatist_movement
 date: '3307-06-02'
 source: API
@@ -8,7 +9,13 @@ summary: Despite its founder's imprisonment, Jupiter Division survives and grows
   gathering corporatist believers within the Federation. The faction has retaken control
   of multiple systems and its megaship Victory's Forge repelled Federal troops. Core
   Dynamics CEO Owen McKenna vows to destroy the rogue department.
+summary_de: Trotz der Inhaftierung ihres Gründers überlebt die Jupiter-Division und
+  wächst, indem sie korporatistische Anhänger in der Föderation versammelt. Die Fraktion
+  hat die Kontrolle über mehrere Systeme zurückgewonnen, und ihr Megaschiff Victory's
+  Forge schlug Truppen der Föderation zurück. Core-Dynamics-CEO Owen McKenna schwört,
+  die abtrünnige Abteilung zu vernichten.
 player_impact: None directly; this is a political analysis piece.
+player_impact_de: Keine
 persons:
 - Jupiter Rochester
 - Owen McKenna
@@ -30,6 +37,10 @@ arc_id: federal-politics
 modern_impact: Jupiter Division's survival demonstrates that corporatist sentiment
   persists in the Federation, creating a political undercurrent that future leaders
   must contend with even after the faction's eventual defeat.
+modern_impact_de: Das Überleben der Jupiter-Division zeigt, dass korporatistische
+  Stimmung in der Föderation fortbesteht, und schafft eine politische Unterströmung,
+  mit der sich künftige Führungspersönlichkeiten auseinandersetzen müssen, selbst nach
+  der letztlichen Niederlage der Fraktion.
 legacy_weight: 4
 significance: medium
 related_uuids:
@@ -40,6 +51,13 @@ related_uuids:
 - d6d91653-4bab-5701-9695-afba5c9d142b
 - 3f8f3a76-f995-5a02-81c8-2fbc1af760bd
 - 3040626c-fed5-53d9-b5f1-66c2cb11eb25
+body_de: |
+  Die von Ex-CEO Jupiter Rochester gegründete abtrünnige Fraktion von Core Dynamics hat überlebt, indem sie Anhänger der Unternehmensherrschaft in der Föderation versammelte.
+  Conrad Sterling, politischer Journalist bei Vox Galactica, veröffentlichte diesen Bericht:
+  „Mit ihrer im Februar besiegten Militärmacht und ihrem Anführer, der des Massenmordes für schuldig befunden und lebenslang inhaftiert wurde, dürfte die Jupiter Division eigentlich nur eine Fußnote der Geschichte der Föderation sein."
+  „Doch in den letzten Monaten ist sie stetig gewachsen und hat die Kontrolle über HIP 54530 und mehrere benachbarte Systeme zurückerobert. Ihr Megaschiff, die Victory's Forge, gelang es sogar, Truppen der Föderation zurückzuschlagen; es steht weiterhin unter dem Kommando der Jupiter Division."
+  „Es gibt viel Spekulation über die zugrunde liegenden Gründe dafür. Neben dem allgemeinen Unbehagen über die gegenwärtige Politik der Föderation wächst bei denjenigen, die Veränderung sehen wollen, das Interesse an Rochesters großer Vision – die Ersetzung der Demokratie durch eine Korporatokratie. Viele sind zum Banner der Jupiter Division geströmt und verhinderten ihren Untergang."
+  „Core Dynamics, die Muttergesellschaft, sah ebenfalls weiterhin Überläufer in ihren Reihen. Der neue CEO Owen McKenna hat jedoch geschworen, die abtrünnige Abteilung seines Vorgängers zu vernichten. Es ist möglich, dass das Überleben der Jupiter Division nur eine kurze Frist war – es sei denn, die Korporatisten können in ausreichender Zahl zusammenkommen, um sie zu erhalten."
 ---
 
 

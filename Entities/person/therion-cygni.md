@@ -8,6 +8,8 @@ mention_count: 1
 bio: 'Therion Cygni is a prominent figure in the Elite Dangerous universe, active
   from 3307-11-16 to 3307-11-16. Closely associated with Far God cult, Pleiades Concordat,
   NMLA. '
+bio_de: |-
+  Therion Cygni ist eine bekannte Figur im Elite-Dangerous-Universum, aktiv vom 3307-11-16 bis 3307-11-16. Eng verbunden mit Far God-Kult, Pleiades Concordat, NMLA.
 ---
 
 

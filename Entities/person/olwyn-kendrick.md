@@ -9,6 +9,17 @@ bio: Olwyn Kendrick is the CEO of Neomedical Industries, one of the galaxy's two
   pharmaceutical corporations. In late 3307 she spearheaded a controversial initiative
   to mass-produce Onionhead gamma strain as a legitimate medicine after the Interstellar
   Health Organisation validated its therapeutic properties.
+bio_de: Olwyn Kendrick ist Vorstandsvorsitzende von Neomedical Industries, einem
+  Pharmariesen, der ausschließlich Allianz- und unabhängigen Systemen Gesundheitsdienste
+  und -ausrüstung bereitstellt. Im August 3307 kündigte Kendrick an, die Onionhead-Gamma-Variante
+  nach Validierung ihrer Heileigenschaften durch die Interstellar Health Organisation
+  als legale Medizin massenhaft herzustellen, und erklärte, ein Verbrechersyndikat
+  dürfe kein Produkt monopolisieren, das Millionen von Menschen Linderung verschaffen
+  könne. Die Initiative löste unmittelbare Vergeltung durch Archon Delaines Syndikat
+  Kumo Crew aus, das den Unternehmenspartnern von Neomedical Industries im Haithis-System
+  den Krieg erklärte. Kendrick reagierte mit einer dringenden Ansprache an die
+  Pilotenschaft und warnte, der Piratenangriff könne das gesamte Projekt zum Scheitern
+  bringen und die bereits gelieferten lebenswichtigen Materialien verkommen lassen.
 ---
 
 

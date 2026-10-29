@@ -11,6 +11,10 @@ bio: 'Aaron Whyte is a Senator in Elite Dangerous lore, active from 3306-12-17 t
   Order of Mudhrid after ACT confirms the faction provided logistical support for
   the NML...; Survivors of the defeated Neo-Marlinist Order of Mudhrid arrive in the
   Marlinist Colonies aboard the Steel Majesty, requesting asylum.'
+bio_de: |-
+  Aaron Whyte war Minister im Marlinistischen Parlament und eine Gemeindeführungspersönlichkeit unter den politischen Flüchtlingen, die Ende 3306 vor imperialer Verfolgung flohen. Als Vorsitzender der Marlinism Reformation Party plädierte er zunächst für republikanische Ideale in den neuen Kolonien. Im Juni 3307 erklärte er, seine Fraktion werde den neomarlinistischen Rand politisch vertreten, was weit verbreitete Befürchtungen auslöste, die Partei könne als politischer Arm der NMLA agieren.
+
+  Whytes Annäherungsversuche an das Imperium und seine Verteidigung des Neomarlinismus vertieften die Spaltungen innerhalb der Marlinistischen Kolonien. Nach NMLA-Sternenhafen-Bombenanschlägen im Juli 3307 brachen die Spannungen in einen Bürgerkrieg zwischen seiner Fraktion und der antineomarlinistischen Exiled Marlinist Assembly of Baltah'Sine aus. Der Konflikt endete im August 3307 mit der Niederlage der Marlinism Reformation Party und Whytes Tod, den Ministerin Octavia Volkov als gerechte Strafe für die von seinen Mitverschwörern begonnene Terror-Kampagne bezeichnete.
 ---
 
 

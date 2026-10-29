@@ -11,6 +11,10 @@ bio: 'Astrid Minerva-Duval is a Terrorist in Elite Dangerous lore, active from 3
   in a closed ceremony attended by Princess Aisling Duval.; Independent journalist
   Flint ''Firemaker'' Lafosse publishes classified ACT information allegedly from
   Neo-Marlinist survivors claiming that Hadrian ...'
+bio_de: |-
+  Astrid Minerva-Duval ist die Gemahlin von Imperator Hadrian Duval und eine ehemalige imperiale Pilotin, die Nova Imperium in der Schlacht von Paresa im Jahr 3305 unterstützte. Im April 3307 heiratete sie Hadrian in einer geschlossenen Zeremonie, an der Prinzessin Aisling Duval teilnahm, und wurde zur Lady Astrid Minerva-Duval – ein Ereignis, das in den imperialen Medien sowohl Glückwünsche als auch Kritik hervorrief.
+
+  Die Hochzeit geriet in den Verdacht, als noch im selben Monat Vorwürfe laut wurden, Astrid sei eine NMLA-Agentin, die Hadrian zum Neo-Marlinismus bekehrt habe. Diese Anschuldigungen wurden später zwar für nicht zwingend befunden, zeigten aber die Verwundbarkeit des imperialen Adels gegenüber terroristischer Infiltration. Im Dezember 3307 gebar Astrid einen Sohn, sicherte die Linie der Duvals und setzte Kaiserin Arissa und Prinzessin Aisling unter Druck, von denen keine eine Gemahlin hatte. Ihr Fall bleibt eine der umstrittensten Ehen der imperialen Geschichte.
 ---
 
 

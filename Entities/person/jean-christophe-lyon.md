@@ -7,6 +7,9 @@ last_seen_date: '3307-11-17'
 mention_count: 2
 bio: 'Jean-Christophe Lyon is a terrorist in the Elite Dangerous universe, active
   from 3307-09-06 to 3307-11-17. Closely associated with NMLA, Marlinist. '
+bio_de: |-
+  Jean-Christophe Lyon ist ein Terrorist im Elite-Dangerous-Universum, aktiv
+  von 3307-09-06 bis 3307-11-17. Eng verbunden mit der NMLA, Marlinist.
 ---
 
 

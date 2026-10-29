@@ -1,6 +1,7 @@
 ---
 uuid: ee0e62f0-12a7-5ce4-a133-54d92713354b
 title: NMLA Political Wing Causes Controversy
+title_de: Politischer Flügel der NMLA sorgt für Kontroverse
 slug: nmla_political_wing_causes_controversy
 date: '3307-07-05'
 source: API
@@ -8,7 +9,13 @@ summary: The NMLA officially confirms the Marlinism Reformation Party as its pol
   representative. Mainstream media reactions range from the Imperial Herald's outrage
   to the Alliance Tribune's cautious support for dialogue. The Marlin Standard reports
   widespread unrest among Marlinists over the NMLA using their parliament as a platform.
+summary_de: Die NMLA bestätigt offiziell die Marlinism Reformation Party als ihren
+  politischen Vertreter. Die Reaktionen der Leitmedien reichen von der Empörung des
+  Imperial Herald bis zur vorsichtigen Unterstützung eines Dialogs durch den Alliance
+  Tribune. Der Marlin Standard berichtet von weit verbreiteten Unruhen unter den
+  Marlinisten, weil die NMLA ihr Parlament als Plattform nutzt.
 player_impact: None directly; this is a political controversy report.
+player_impact_de: Keine
 persons:
 - Aaron Whyte
 - Lorcan Scordato
@@ -39,6 +46,9 @@ arc_id: nmla-terrorism
 modern_impact: The formalisation of the NMLA's political wing transforms the terrorist
   group from a purely violent organisation into a hybrid threat, making counter-terrorism
   efforts more complex and politically sensitive.
+modern_impact_de: Die Formalisierung des politischen Flügels der NMLA verwandelt die
+  Terrorgruppe von einer rein gewalttätigen Organisation in eine hybride Bedrohung,
+  wodurch die Terrorismusbekämpfung komplexer und politisch heikler wird.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -47,6 +57,15 @@ related_uuids:
 - ed32e72e-acaa-5dca-90ef-9c199420d92a
 - fd4a82f5-7fa5-51f0-896d-f39d35e3937b
 - 9d504b23-ad0b-5f30-b024-01047817945d
+body_de: |
+  Die paramilitärische Gruppe NMLA hat bestätigt, dass die Fraktion Marlinism Reformation Party nun als ihr politischer Vertreter auftritt.
+  Eine anonyme Erklärung wurde über die Propagandakanäle der NMLA übertragen:
+  „Wir unterstützen Minister Whyte dabei, die neomarlinistische Sache zu vertreten und in unserem Namen zu sprechen. Unsere Ziele bleiben unverändert – die Entfernung der Familie Duval und demokratische Wahlen im Imperium."
+  Die Reaktionen wurden von mehreren Nachrichtenagenturen aufgegriffen:
+  Der Imperial Herald: „Der Vorschlag von Senator Scordato, diplomatische Beziehungen zu den Marlinist-Kolonien aufzunehmen, ist bereits umstritten. Aber könnte der Kaiser je einen Dialog mit den Extremisten akzeptieren, die versucht haben, die Kaiserliche Familie zu ermorden?"
+  Der Federal Times: „Die Vorstellung, mit Terroristen zu verhandeln, ist dem Imperium ebenso verhasst wie der Föderation. Doch die Gelegenheit, weitere ‚Neun Märtyrer' zu verhindern, kann nicht ignoriert werden."
+  Der Alliance Tribune: „Angesichts fehlender Durchbrüche von ACT ist vielleicht eine friedliche Diskussion der Weg, die Terrorgefahr zu entschärfen … auch wenn das von Anfang an das Endspiel der NMLA war."
+  Der Marlin Standard: „Viele unserer Menschen begrüßen engere Beziehungen zum Imperium, besonders wenn es darum geht, Kontakt zu Freunden und Familien aufzunehmen, die zurückgelassen wurden. Aber die Nutzung unseres Parlaments als Plattform durch die NMLA hat weit verbreitete Unruhen ausgelöst. Da Aaron Whyte offen von anderen Ministern herausgefordert wird, erscheint ein marlinistischer Bürgerkrieg nicht mehr undenkbar."
 ---
 
 

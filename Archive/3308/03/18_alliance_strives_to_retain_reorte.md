@@ -1,11 +1,15 @@
 ---
 uuid: 8bfd21dd-5f52-5456-beb3-e58a5292f4dc
 title: Alliance Strives to Retain Reorte
+title_de: Allianz bemüht sich um den Erhalt von Reorte
 slug: alliance_strives_to_retain_reorte
 date: '3308-03-18'
 source: API
 summary: The Alliance deploys the megaship Trobairitz to maintain Reorte's membership.
+summary_de: Die Allianz setzt das Megaschiff Trobairitz ein, um die Mitgliedschaft
+  von Reorte zu erhalten.
 player_impact: Not specifically mentioned — this is a diplomatic report.
+player_impact_de: Keine
 groups:
 - Alliance
 - Sirius Corporation
@@ -22,6 +26,10 @@ modern_impact: '"The megaship Trobairitz has arrived in the Reorte system to sup
   the efforts of the Reorte Pro-Alliance League." The Alliance''s deployment of a
   megaship to Reorte shows the superpower''s determination to prevent further system
   secessions.'
+modern_impact_de: „Das Megaschiff Trobairitz ist im System Reorte eingetroffen, um die
+  Bemühungen der Reorte Pro-Alliance League zu unterstützen." Der Einsatz eines Megaschiffs
+  der Allianz in Reorte zeigt den Entschluss der Supermacht, weitere Systemabspaltungen
+  zu verhindern.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -32,6 +40,13 @@ related_uuids:
 - 7086c7a6-47b9-5cfa-ac9e-c7c44ed36d6a
 - b5be39b0-960e-54d6-bee8-fd556eb2bffb
 - 2f1fe842-e7f1-5ba8-9b46-fe6146047472
+body_de: |
+  Das Megaschiff Trobairitz ist im System Reorte eingetroffen, um die Bemühungen der Reorte Pro-Alliance League zu unterstützen.
+  In den letzten Wochen hat das System Reorte die Sirius Corporation verjagt und die Annahme des strategischen Verteidigungspakts verweigert. Seitdem gab es Vorschläge seiner kontrollierenden Fraktion, die Allianz-Mitgliedschaft aufzugeben und die Unabhängigkeit zu erklären. Dies hat jedoch andere dazu bewegt, dafür zu werben, dass Reorte in der Allianz bleibt.
+  Louisa Leblanc, Chefadministratorin der Reorte Pro-Alliance League, gab gegenüber dem Alliance Tribune eine Erklärung ab:
+  „Die vorgeschlagene Partnerschaft mit der Sirius Corporation ist auf die Verstärkung der Verteidigung gegen die Thargoiden beschränkt. Wir glauben nicht, dass dies genug störende Auswirkungen hat, um den Verlust all der zahlreichen Vorteile der Mitgliedschaft in der Allianz zu rechtfertigen."
+  „Die Reorte Pro-Alliance League freut sich über die Unterstützung durch die Fraktion Alioth Independents. Ein Megaschiff, die Trobairitz, wurde uns zur Verfügung gestellt und wird als Zentrum unserer Kampagne dienen, Reorte als alliiertes System zu erhalten."
+  Die Sirius Corporation hat offiziell erklärt, dass diese Situation eine interne Angelegenheit der Allianz sei. Quellen innerhalb der Alioth Independents deuten an, dass Delegierte der Sirius Corporation über die Lage informiert wurden.
 ---
 
 

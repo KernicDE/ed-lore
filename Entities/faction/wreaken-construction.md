@@ -17,6 +17,10 @@ bio: 'Wreaken Construction is a organization active in Elite Dangerous lore from
   construction ships and support vessels in the Zearla system.; An unidentified individual
   is found dead from radiation exposure at a Wreaken Construction site in the COL
   70 sector.'
+bio_de: |-
+  Wreaken Construction ist ein Bauunternehmen im Schwergewichtsbereich ohne exklusive Bindung an eine Supermacht, das sich ebenso einen Ruf für Geheimhaltung wie für Ingenieurskunst erworben hat. Im November 3302 versammelte das Unternehmen im System Zearla einen großen Konvoi aus Bauschiffen und Begleitfahrzeugen, weigerte sich jedoch, dessen Zweck offenzulegen, unterhielt starke Patrouillen und wies sich nähernde Schiffe ab. Die Operation trieb Wreakens Aktienkurs um fünf Prozent nach oben und schürte Spekulationen, der Konvoi stehe in Verbindung mit Admiral Denton Patreus' umstrittenen Äußerungen zum Londoner Vertrag.
+
+  Die Sicherheitskultur von Wreaken erwies sich im Januar 3303 als tödlich, als eine nicht identifizierte Person auf einer Unternehmensanlage im Col-70-Sektor an Strahlenexposition starb – ein Tod, den der Konzern als Eigenverschulden des Opfers abtat, das gesicherte Einrichtungen betreten hatte. Bis 3307 hatte Wreaken auf das System LTT 198 expandiert und dort eine industrielle Präsenz errichtet, die in direkter Konkurrenz zu Senatorin Zemina Torvals neu gegründetem Torval-Mastopolos Mining stand und eine langjährige unternehmerische Rivalität wieder entfachte. Bis 3312 veröffentlichte ein verwandtes Bergbauunternehmen, Wreaken Mining, Forschungsergebnisse zu effizienterer laserbasierter Abbautechnik auf Planetenoberflächen.
 ---
 
 

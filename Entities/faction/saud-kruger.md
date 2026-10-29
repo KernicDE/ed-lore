@@ -14,6 +14,10 @@ bio: Saud Kruger is a organization in the Elite Dangerous universe, active from 
   cruises, offering rewards for exploration data and imagery. Saud Kruger successfully
   collects enormous amounts of Earth-like world exploration data for Astrogator Tours,
   with tourist beacons planned for promising destinations.
+bio_de: |-
+  Saud Kruger ist ein renommierter Schiffsbauer, der sich auf Luxus-Passagierschiffe spezialisiert hat und seinen Ruf damit erwarb, einige der elegantesten und teuersten Schiffe im menschlichen Raum zu fertigen. Die Modelle Dolphin, Orca und Beluga Liner beherrschen die Märkte für Hochpreis-Tourismus und VIP-Transport und bieten opulente Innenausstattung sowie fortschrittliche Lebenserhaltungssysteme für die reichsten Reisenden der Galaxis. Die Marke des Unternehmens steht für Komfort und Prestige, weshalb seine Schiffe die bevorzugte Wahl von Kreuzfahrtlinien und Würdenträgern gleichermaßen sind.
+
+  Im Jahr 3305 ging Saud Kruger eine Partnerschaft mit Astrogator Tours ein und startete eine Kampagne zur Suche nach neuen erdähnlichen Welten als Urlaubskreuzfahrtziele. Piloten wurden aufgefordert, Erkundungsdaten und Bildmaterial vielversprechender Planeten einzureichen; das Unternehmen plante, an den bestgeeigneten Orten Touristen-Beacons zu installieren. Diese Initiative zeigte das Engagement von Saud Kruger, die Grenzen des Luxustourismus über die etablierten Routen hinaus zu erweitern.
 ---
 
 

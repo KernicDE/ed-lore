@@ -19,6 +19,20 @@ bio: The Marlinist Consulate is the diplomatic body established to represent Mar
   The Steel Majesty megaship is transferred from Mudhrid to HIP 22550, renamed Fairfax
   Vision, and becomes the Marlinist Colonies' diplomatic flagship. The formation of
   the Marlinist Consulate triggers political instability.
+bio_de: |-
+  Das Marlinist Consulate ist das diplomatische Organ der Marlinist Colonies, gegründet,
+  um die neomarlinistischen Flüchtlingsgemeinschaften in interstellaren Angelegenheiten
+  zu vertreten. Seine Bildung im Jahr 3307 löste erhebliche politische Instabilität aus,
+  während das Imperium mit der Frage rang, wie es mit Gemeinschaften umgehen sollte,
+  die es zuvor als aufrührerisch eingestuft hatte.
+
+  Das Consulate operiert von dem Megaschiff Fairfax Vision im System HIP 22550 aus, einem
+  ehemaligen imperialen Schiff, das von Mudhrid überstellt und umbenannt wurde und nun
+  als diplomatisches Flaggschiff der Kolonien dient. Seine Gründung markierte einen
+  Wendepunkt in der Geschichte des Marlinismus — der Übergang von einer verfolgten
+  Untergrundbewegung zu einer anerkannten politischen Einheit mit offizieller diplomatischer
+  Vertretung. Das Verhältnis des Consulate sowohl zum Imperium als auch zur NMLA bleibt
+  komplex und oft belastet.
 ---
 
 

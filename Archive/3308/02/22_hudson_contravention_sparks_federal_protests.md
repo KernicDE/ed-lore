@@ -1,12 +1,16 @@
 ---
 uuid: a593babc-119b-5679-9171-3c1520208d98
 title: Hudson Contravention Sparks Federal Protests
+title_de: Hudson-Verordnung löst föderale Proteste aus
 slug: hudson_contravention_sparks_federal_protests
 date: '3308-02-22'
 source: API
 summary: Public unrest erupts across Federal worlds over President Hudson's term-limit
   proposal.
+summary_de: Aufgrund des Vorschlags von Präsident Hudson zur Amtszeitbegrenzung kommt
+  es auf vielen Föderalen Welten zu öffentlichen Unruhen.
 player_impact: Not specifically mentioned — this is a political report.
+player_impact_de: Keine
 persons:
 - Felicia Winters
 - Jerome Archer
@@ -22,6 +26,10 @@ modern_impact: '"President Zachary Hudson''s proposal to remove the eight-year l
   on his term of office has led to public unrest." The widespread protests signal
   that Hudson''s constitutional gambit has triggered a genuine democratic backlash
   across the Federation.'
+modern_impact_de: '"Der Vorschlag von Präsident Zachary Hudson, die Achtjahresgrenze
+  seiner Amtszeit aufzuheben, hat zu öffentlichen Unruhen geführt." Die weit verbreiteten
+  Proteste zeigen, dass Hudsons verfassungsrechtliches Wagnis eine echte demokratische
+  Gegenreaktion in der gesamten Föderation ausgelöst hat.'
 legacy_weight: 3
 significance: medium
 related_uuids:
@@ -29,6 +37,13 @@ related_uuids:
 - 49fe8f11-bf29-5aad-a01a-3c8dc80d60df
 - 4fe5c0a6-b22f-549b-b11e-0eb1a9c1bac3
 - 83d655f9-5cb4-5fb1-baa5-f5c64bb30cbf
+body_de: |
+  Der Vorschlag von Präsident Zachary Hudson, die Achtjahresgrenze seiner Amtszeit aufzuheben, hat zu öffentlichen Unruhen auf vielen Föderalen Welten geführt.
+  Die Anhänger von Schattenpräsidentin Felicia Winters führen die Proteste gegen die Hudson-Verordnung an, die derzeit im Kongress debattiert wird.
+  Die Lage wurde von Nachrichtenagenturen in der gesamten Föderation ausführlich begleitet:
+  Federal Free Press: „Wie immer ist Felicia Winters die einzige Erwachsene im Raum. Sie hat sich zu Recht gegen den Versuch des amtierenden Präsidenten gewehrt, das Regelwerk über Bord zu werfen. Die Aufhebung des 77. Zusatzartikels wäre ein grundlegender Schlag für unsere jahrtausendealte Demokratie."
+  Sol Today: „Was also ist die Wahl? Hudson ein paar weitere Jahre behalten, bis sich die Lage beruhigt, oder die Macht an Winters übergeben und zusehen, wie die Föderale Regierung unter einer Last schwächelt und zusammenbricht, die die Schattenpräsidentin unmöglich tragen kann?"
+  The Federal Times: „Gemäßigte republikanische Wählern sehen die Hudson-Verordnung kritisch, vor allem, weil sie ihnen die Möglichkeit nimmt, eine neue Regierung zu wählen. Vizepräsident Jerome Archer, Außenministerin Lana Berkovich und Generalstaatsanwalt Edwin Espinosa sind die wahrscheinlichsten Präsidentschaftskandidaten, doch keiner von ihnen könnte 3309 antreten, wenn Hudson seinen Willen bekommt."
 ---
 
 

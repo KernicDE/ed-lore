@@ -14,6 +14,10 @@ related_entities:
 bio: 'A Federal faction that seceded from the Federation in 3307 in protest against
   the Proactive Detection Bureau surveillance laws, joining a wave of independence
   declarations across Federal space.'
+bio_de: |-
+  Gluscap Labour war eine der Föderation nahestehende Fraktion, deren Systeme im Juli 3307 unter dem Eindruck des erfolgreichen militärischen Abwehrkampfes von Azaladshu Free gegen föderale Streitkräfte die Unabhängigkeit von der Föderation erklärten. Die Sezession war Teil einer breiteren Verfassungskrise, die durch den weit verbreiteten Widerstand gegen das Massenüberwachungsprogramm des Proactive Detection Bureau ausgelöst wurde.
+
+  Der Austritt der Fraktion aus der Föderation, gemeinsam mit der Coalition of Uteran und Lp 726-6 Free, zeigte die Tiefe des Widerstands gegen das PDB in Systemen, die traditionell Schattenpräsidentin Felicia Winters nahestanden. Präsident Zachary Hudsons Unfähigkeit, diese Sezessionen zu verhindern oder rückgängig zu machen, untergrub seine Regierung und markierte eine der ernstesten Herausforderungen für die föderale Einheit seit Jahrzehnten.
 ---
 
 

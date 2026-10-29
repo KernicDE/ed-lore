@@ -1,12 +1,17 @@
 ---
 uuid: 23b5e779-30db-5322-b9a4-52c9e1d32e73
 title: Federal Agents Crush Jupiter Division Extremists
+title_de: Föderale Agenten zerschlagen Jupiter-Division-Extremisten
 slug: federal_agents_crush_jupiter_division_extremists
 date: '3307-10-20'
 source: API
 summary: The Federal Intelligence Agency arrests the organisers of Jupiter's Wrath,
   a pro-corporatist terrorist group planning attacks on Federal politicians.
+summary_de: Die Federal Intelligence Agency verhaftet die Organisatoren von Jupiter's
+  Wrath, einer pro-korporatistischen Terrorgruppe, die Anschläge auf föderale Politiker
+  plante.
 player_impact: None
+player_impact_de: Keine
 persons:
 - Bethany Blake
 - Bai Zheng
@@ -20,11 +25,20 @@ topics:
 - war
 arc_id: federal-politics
 modern_impact: Federal political developments shape superpower relations.
+modern_impact_de: Föderale politische Entwicklungen prägen die Beziehungen zwischen den Supermächten.
 legacy_weight: 3
 significance: medium
 related_uuids:
 - c37c6407-9b19-540b-b403-c04589f125a2
 - d3fde8dc-9869-5a5d-aac6-506df8dff3c0
+body_de: |
+  Eine pro-korporatistische Gruppe, die eine Reihe von Terroranschlägen plante, wurde von der Federal Intelligence Agency zerschlagen.
+  Stellvertretende Direktorin Bethany Blake, Leiterin des Proactive Detection Bureau, gab einen Lagebericht zur Operation:
+  „Die Spezialeinheiten haben inzwischen die Organisatoren der Untergrundorganisation namens Jupiter's Wrath verhaftet. Dabei handelte es sich um eine Ansammlung von Bürgern, die von Jupiter Rochester radikalisiert wurden und glaubten, demokratisch gewählte Führungspersönlichkeiten durch korporatische Herren ersetzen zu können."
+  „Diese erfolgreiche Operation war nur dank der Informationen möglich, die vom PDB geliefert wurden. Ohne dieses Überwachungsnetz wären wir Jupiter's Wrath völlig unbekannt geblieben und viele führende Politiker hätten möglicherweise ihr Leben verloren."
+  „Unsere Analysten aktualisieren nun die Algorithmen des PDB, um Bürger hervorzuheben, die von Radikalisierung bedroht sind. Wir werden inländischen Terrorismus verhindern, indem wir Personen identifizieren, die von feindlichen Ideologien verdorben werden."
+  Als Reaktion wurde Kongressabgeordneter Bai Zheng in den Federal Times zitiert:
+  „Das ist eine beunruhigende Entwicklung in der Evolution des PDB. Und genau das haben viele von uns im Kongress gefürchtet. Wir richten uns nicht gegen Menschen, die ein Verbrechen begangen haben, sondern gegen Menschen, deren persönliche Meinungen der Regierung missfällt."
 ---
 
 

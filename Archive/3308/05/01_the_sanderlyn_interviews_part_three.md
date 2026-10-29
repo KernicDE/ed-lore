@@ -1,13 +1,19 @@
 ---
 uuid: 4c108f5b-4d53-53ef-8e79-33a278395e0e
 title: The Sanderlyn Interviews (Part Three)
+title_de: Die Sanderlyn-Interviews (Teil Drei)
 slug: the_sanderlyn_interviews_part_three
 date: '3308-05-01'
 source: API
 summary: Admiral Rachel Ziegler expresses caution about over-reliance on Salvation's
   superweapon during an interview with Jade Sanderlyn.
+summary_de: Admiral Rachel Ziegler äußert sich in einem Interview mit Jade
+  Sanderlyn vorsichtig über eine zu große Abhängigkeit von Salvation's
+  Superwaffe.
 player_impact: The full interview is available to pilots arriving at the Salote Charm
   in the Didio system.
+player_impact_de: Das vollständige Interview steht Piloten zur Verfügung, die
+  an Bord der Salote Charm im System Didio eintreffen.
 persons:
 - Jade Sanderlyn
 - Rachel Ziegler
@@ -25,12 +31,35 @@ modern_impact: '"Whether I support or do not support Salvation is immaterial. Th
   fleets from entire systems." Ziegler''s pragmatic acceptance of Salvation''s weaponry,
   combined with her warning about its potential misuse, captured the Alliance''s ambivalent
   but dependent position regarding Azimuth Biotech.'
+modern_impact_de: "„Ob ich Salvation unterstütze oder nicht, ist nebensächlich.
+  Tatsache ist, dass die Superwaffe auf zwei früheren Anlässen Thargoid-Flotten
+  aus gesamten Systemen vernichtet hat.\" Zieglers pragmatische Akzeptanz von
+  Salvation's Waffentechnik, gepaart mit ihrer Warnung vor ihrem möglichen
+  Missbrauch, zeichnete die ambivalente, aber abhängige Haltung der Allianz
+  gegenüber Azimuth Biotech nach."
 legacy_weight: 5
 significance: high
 related_uuids:
 - 02edc1da-1134-5207-9ffc-6400448fd219
 - 8097c00d-2e15-5445-b408-e3b80f412aac
 - b99fe71e-7d59-5dc5-92cf-b91316361608
+body_de: |
+  Die Journalistin Jade Sanderlyn von Vox Galactica wurde kürzlich eingeladen, seltene öffentliche Interviews mit Admirälen der drei Supermächte zu führen. \r
+  Dieser Ausschnitt stammt aus einem Gespräch mit Admiral Rachel Ziegler von der Allianz.\r
+  Jade Sanderlyn: Hier ist Jade Sanderlyn mit einem Bericht für Vox Galactica. Ich befinde mich mit Admiral Rachel Ziegler von der Allianz. Admiral, ich freue mich über diese Gelegenheit, mit Ihnen zu sprechen.\r
+  Rachel Ziegler: Gern geschehen.\r
+  JS: Wir befinden an Bord der Salote Charm, die derzeit im System Didio stationiert ist. Vor zwei Tagen traf hier eine große Thargoid-Streitmacht ein und griff menschliche Schiffe und Häfen an. Es gibt Berichte, dass Salvation Ihre Flotte und die der anderen Supermächte gebeten hat, die Thargoid-Streitmacht aufzuhalten, bis die Anti-Xeno-Superwaffe …\r
+  RZ: Lassen Sie mich Ihre Frage zu Ende klären, bevor Sie sie vollständig gestellt haben. Meine Priorität ist die Sicherheit der Milliarden, die Didio ihr Zuhause nennen. Wir sind nicht hier, um die Thargoid-Streitkräfte zu beschäftigen. Wir sind hier, um sie zu besiegen.\r
+  JS: Verstanden, Admiral. Salvation hat aber um Zeit gebeten, um seine Superwaffe vorzubereiten?\r
+  RZ: Ja, das hat er. Aber die Allianz geht nicht davon aus, dass Salvation sein Versprechen einhält.\r
+  JS: Unterstützen Sie Salvation's Methoden? Kritiker haben vorgebracht, er gefährde Leben, indem er eine mächtige Waffe einsetzt, die nicht von unabhängigen Experten geprüft worden ist.\r
+  RZ: Ob ich Salvation unterstütze oder nicht, ist nebensächlich. Tatsache ist, dass die Superwaffe auf zwei früheren Anlässen Thargoid-Flotten aus gesamten Systemen vernichtet hat. Eine so mächtige Waffe abzulehnen wäre unklug. Trotzdem halte ich die Frage des Risikos für völlig angemessen. Militärische wie politische Figuren dürfen nicht selbstzufrieden werden oder zu stark von Salvation's Technologie abhängig. Besonders, wenn wir so wenig über sie wissen.\r
+  JS: Ist diese Ambivalenz ein Anliegen für die Allianz?\r
+  RZ: Sie sollte ein Anliegen für alle sein. Bisher hat Salvation in unserem besten Interesse gehandelt. Aber eine so mächtige Waffe wäre beträchtlich gefährlich, falls sie neu kalibriert würde, um menschliche Technologie zu beschädigen. Stellen Sie sich vor, was die NMLA mit einem solchen Gerät hätte anstellen können.\r
+  JS: Schreckliche Dinge, ohne Zweifel. Aber Ihre Flotte in Didio könnte als stillschweigende Billigung von Salvation durch die alliierte Führung ausgelegt werden, unabhängig von Ihrer persönlichen Meinung.\r
+  RZ: Wie gesagt, Salvation's Ergebnisse sind äußerst beeindruckend.\r
+  JS: Hoffen wir, dass sie es bleiben. Wir machen eine kurze Pause. Bleiben Sie nach diesen Nachrichten mit uns dabei.\r
+  Der Rest dieses Interviews steht Piloten zur Verfügung, die das Megaschiff Salote Charm im System Didio ansteuern.
 ---
 
 

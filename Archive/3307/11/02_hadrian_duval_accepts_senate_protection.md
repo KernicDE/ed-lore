@@ -1,12 +1,16 @@
 ---
 uuid: 33336427-964a-5296-a249-9890e28a0383
 title: Hadrian Duval Accepts Senate Protection
+title_de: Hadrian Duval akzeptiert Schutz durch den Senat
 slug: hadrian_duval_accepts_senate_protection
 date: '3307-11-02'
 source: API
 summary: Hadrian Duval accepts the Imperial Senate's offer of protection, renaming
   Nova Imperium to Nova Paresa and endorsing Praetor Leo Magnus as its new leader.
+summary_de: Hadrian Duval akzeptiert das Schutzangebot des imperialen Senats, benennt
+  Nova Imperium in Nova Paresa um und unterstützt Praetor Leo Magnus als neuen Anführer.
 player_impact: None
+player_impact_de: Keine
 persons:
 - Hadrian Augustus Duval
 - Astrid Minerva-Duval
@@ -20,11 +24,21 @@ topics:
 arc_id: nmla-terrorism
 modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
   the Marlinist refugee crisis and the Proactive Detection Bureau.
+modern_impact_de: Die Bombenanschläge der NMLA verändern die galaktische Politik,
+  führen zur marlinistischen Flüchtlingskrise und zur Gründung des Proactive Detection Bureau.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 051f5edd-4524-541f-9c58-aaf647cd8375
 - fd0f6a22-3b8f-597f-a9af-a92ce3517e51
+body_de: |
+  Das Imperium hat Hadrian Augustus Duval und seine Frau Lady Astrid Minerva-Duval offiziell zu Mündeln des Senats erklärt.
+  Das Schutzangebot des Senats erfolgte, nachdem die NMLA versucht hatte, das Paar und sein ungeborenes Kind durch einen Bombenanschlag auf den Sternenhafen Dyson City zu ermorden.
+  Vor seiner Verlegung aus dem Paresa-System an einen gesicherten Ort sandte Hadrian Duval diese Botschaft:
+  „Lady Astrid und ich haben dieses Angebot mit großem Widerstreben angenommen. Keiner von uns möchte unser Zuhause oder unsere treuen Anhänger verlassen. Doch wir empfinden es als Pflicht, unsere Familie zu schützen und künftige Generationen der Duval-Blutlinie zu sichern."
+  „Nova Imperium wird von nun an als Nova Paresa bekannt sein. Es wird gemäß dem Vertrag von Paresa weiterhin als unerschütterlicher Verbündeter des Imperiums dienen. Allen, die über die Jahre für unsere Sache gekämpft haben, versichere ich: Die Geschichte wird uns niemals vergessen. Memento Mordanticus!"
+  Es gab öffentliche Unterstützung dafür, dass Praetor Leo Magnus die Führung von Nova Paresa übernimmt. Hadrian Duval unterstützte seinen ehemaligen Sicherheitschef als Nachfolger, bestätigte jedoch, dass der Titel Imperator nun abgeschafft ist.
+  In anderen Nachrichten erklärte die ACT, dass ihre Ermittlungen zum Angriff auf Dyson City Ergebnisse gebracht haben. Obwohl Einzelheiten aus Sicherheitsgründen weiterhin unter Embargo stehen, wird in Kürze ein bedeutender Durchbruch erwartet.
 ---
 
 

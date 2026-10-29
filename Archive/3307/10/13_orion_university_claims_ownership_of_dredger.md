@@ -1,12 +1,17 @@
 ---
 uuid: 874dce92-6aa5-5398-9666-601f0f3192b5
 title: Orion University Claims Ownership of Dredger
+title_de: Orion University beansprucht Eigentum an Dredger
 slug: orion_university_claims_ownership_of_dredger
 date: '3307-10-13'
 source: API
 summary: Orion University claims legal ownership of the Scriveners Clan dredger based
   on historical records from 3088, though the nomadic clan refuses outside contact.
+summary_de: Die Orion University beansprucht das rechtliche Eigentum am Dredger der
+  Scriveners Clan auf Grundlage historischer Aufzeichnungen aus dem Jahr 3088, obwohl
+  der nomadische Clan jeglichen Kontakt mit Außenstehenden ablehnt.
 player_impact: None
+player_impact_de: Keine
 persons:
 - Leland Pettigrew
 groups:
@@ -18,6 +23,8 @@ topics:
 arc_id: scriveners-clan
 modern_impact: The Scriveners Clan dredger remains a subject of dispute between academic
   institutions and the nomadic society that inhabits it.
+modern_impact_de: Der Dredger der Scriveners Clan bleibt ein Streitobjekt zwischen
+  akademischen Institutionen und der nomadischen Gesellschaft, die ihn bewohnt.
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -28,6 +35,14 @@ related_uuids:
 - 111617dc-8948-5bee-803f-c4e0687be612
 - ac1bbb46-c78b-5615-a13e-50145a1e363c
 - 7312e2dd-8f0e-5a8a-a65d-94eac2a92285
+body_de: |
+  Die uralte Heimat der Scriveners Clan im Weltraum ist gemäß neuentdeckten historischen Aufzeichnungen das rechtliche Eigentum der Orion University.
+  Der Scriveners Clan ist ein nomadischer Stamm, der an Bord eines autarken Dredger-Klasse-Großraumkreuzers reist. Seine Gesellschaft stammt von einer akademischen Organisation ab, die vor zwei Jahrhunderten eine Forschungsflotte entsandte. Im Gegensatz zu manchen Dredger-Clans lehnt er jeglichen Kontakt mit Außenstehenden ab.
+  Vizekanzler Leland Pettigrew von der Orion University gab folgende Erklärung ab:
+  „Im Jahr 3088 wurde der Dredger J-403 von einem akademischen Institut namens Scrivener College für eine Erkundungsmission in Auftrag gegeben. Dieses wurde 3125 von unserer Universität übernommen. Dokumente, die diese Fakten belegen, wurden kürzlich in unseren Archiven entdeckt und von den Gerichten bestätigt."
+  „Daher ist der Dredger einschließlich seines gesamten Inhalts Eigentum der Orion University. Selbstverständlich hegen wir keinen Groll gegen die derzeitige Bevölkerung, aber das Schiff, in dem sie leben, war schon immer unser Handelseigentum."
+  Der Dredger der Scriveners Clan wurde zuletzt im System Perseus Dark Region KC-V c2-2 gesichtet, wo er das Megaschiff Hesperus barg. Am 9. Juli sprang er zu einem unbekannten Ziel innerhalb von 500 Lichtjahren in den Hyperraum.
+  Die Orion University ist die größte unabhängige Bildungseinrichtung in den Kernsystemen und wird nur von der Kaiserlichen Wissenschaftsakademie und der Olympus-Village-Universität Konkurrenz gemacht.
 ---
 
 

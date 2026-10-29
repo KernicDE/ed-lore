@@ -1,12 +1,16 @@
 ---
 uuid: 32a9ac59-3118-556e-8159-8f6b2ec48131
 title: Imperial Guard Defends Duvals
+title_de: Kaiserliche Garde verteidigt die Duvals
 slug: imperial_guard_defends_duvals
 date: '3308-03-11'
 source: API
 summary: Emperor Arissa orders the Imperial Guard to protect surviving members of
   the Duval dynasty.
+summary_de: Kaiserin Arissa ordnet an, die Kaiserliche Garde zum Schutz der überlebenden
+  Mitglieder des Hauses Duval einzusetzen.
 player_impact: Not specifically mentioned — this is a security report.
+player_impact_de: Keine
 persons:
 - Arissa Lavigny-Duval
 groups:
@@ -21,6 +25,10 @@ arc_id: nmla-terrorism
 modern_impact: '"Her Imperial Majesty is determined to preserve the remaining Duval
   bloodline as well as deter any future attacks." The Imperial Guard''s expanded protective
   mandate reflects the NMLA''s success in decimating the Imperial Family.'
+modern_impact_de: '"„Ihre Kaiserliche Majestät ist entschlossen, die verbliebene
+  Blutlinie der Duvals zu bewahren und künftige Angriffe abzuschrecken." Das erweiterte
+  Schutzmandat der Kaiserlichen Garde spiegelt den Erfolg der NMLA wider, die Kaiserliche
+  Familie weitgehend auszulöschen.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -36,6 +44,13 @@ related_uuids:
 - ccf19834-17e9-5709-bfe4-33df626af838
 - e899c6a7-d0d6-5407-a5b7-8a422e4753d7
 - f5584566-270a-5fe5-b405-8e6f45fb1826
+body_de: |
+  Kaiserin Arissa Lavigny-Duval hat die Kaiserliche Garde angewiesen, den überlebenden Mitgliedern der Dynastie Duval erhöhte Sicherheit zu bieten.
+  Viele Mitglieder der Kaiserlichen Familie, darunter Prinz Harold, wurden von der NMLA ermordet. Quellen nahe Kaiserin Arissa berichten, dass sie entschlossen ist, die verbliebene Blutlinie der Duvals zu bewahren und künftige Angriffe abzuschrecken.
+  Die Kaiserliche Garde ist eine Legion von Elitekämpfern unter der direkten Kontrolle der Kaiserin. Obwohl sie üblicherweise mit zeremoniellen Aufgaben betraut ist, handelt es sich um eine hochtrainierte Kampfeinheit. Ihre Stärke wurde durch eine gezielte Werbekampagne in anderen Bereichen des imperialen Militärs aufgestockt.
+  Ein Kohorte der Kaiserlichen Garde wurde Prinzessin Aisling Duval zur Verfügung gestellt. Sie nahm deren Präsenz dankbar an und integrierte sie in ihr bestehendes Sicherheitsteam.
+  Ähnliche Einheiten wurden den Haushalten von Erzherzog Otto Lombardo-Duval und Lucretia Roche-Duval zugeteilt, die beide von den Geschwistern Kaiser Heskeths abstammen. Gardisten wurden außerdem direkten Verwandten Kaiserin Arissas zugeteilt, darunter ihren prominenten Cousins Admiral Lucius Lavigny und Gräfin Guinevere Lavigny.
+  Nur Hadrian Duval lehnte das Angebot eines zusätzlichen Schutzes ab und erklärte, er verlasse sich auf seine Praetorianische Garde. Er versicherte seinen Anhängern, dass ein handverlesenes Korps seinen Säuglingssohn Hector Duval ständig umgibt.
 ---
 
 

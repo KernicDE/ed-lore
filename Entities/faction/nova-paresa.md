@@ -14,6 +14,11 @@ bio: Nova Paresa is a organization in the Elite Dangerous universe, active from 
   to 3307-12-09. Frequently linked with Paresa, Dyson City, Imperial Herald. Hadrian
   Duval's wife Astrid gives birth to a son named Hector Mordanticus Duval, prompting
   celebrations across the Empire and a commodity gathering initiative in Paresa.
+bio_de: Nova Paresa ist eine Organisation im Elite-Dangerous-Universum, die von
+  3307-12-02 bis 3307-12-09 aktiv war. Häufig in Verbindung mit Paresa, Dyson City
+  und dem Imperial Herald. Hadrian Duvals Frau Astrid bringt einen Sohn namens Hector
+  Mordanticus Duval zur Welt, was im gesamten Imperium zu Feiern und im System Paresa
+  zu einer Gütersammelinitiative führt.
 ---
 
 

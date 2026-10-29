@@ -17,6 +17,22 @@ bio: 'Neo-Marlinist Order of Mudhrid is a religious active in Elite Dangerous lo
   attacks the Neo-Marlinist Order of Mudhrid after ACT confirms the faction provided
   logistical support for the NML...; The Neo-Marlinist Order of Mudhrid is defeated
   in the Mudhrid system by Imperial forces.'
+bio_de: |-
+  Der Neo-Marlinist Order of Mudhrid ist eine Fraktion mit Sitz im System Mudhrid, die
+  offen den Neo-Marlinismus annahm und der NMLA logistische Unterstützung für ihre
+  Sternenhafen-Bombenkampagnen lieferte. Unter der Führung von Landgraf Arastin Delacroix
+  von seinem Flaggschiff, der Steel Majesty, aus, wurde die Fraktion durch Ermittlungen
+  von ACT als schuldig befunden, lokale Fraktionen in mehreren Systemen infiltriert
+  zu haben, um Enzymbomben an ihre Ziele zu transportieren.
+
+  Im April 3307 benannte sich der Order of Mudhrid in Neo-Marlinist Order of Mudhrid um,
+  und Delacroix rief zur Revolution gegen die imperiale Familie auf. Senator Denton
+  Patreus ordnete an, dass die Epsilon Fornacis Empire Group sie bekämpft — die erste
+  offene militärische Konfrontation zwischen imperialen Streitkräften und einer
+  neomarlinistischen Fraktion. Die Fraktion wurde von imperialen Streitkräften besiegt,
+  doch ihre Existenz etablierte das Muster der Stellvertreterkriege, das den NMLA-Konflikt
+  prägen sollte. Sie wurde von den Marlinist Colonies nie offiziell anerkannt, deren
+  Minister Aaron Whyte Delacroix' extremistische Methoden ablehnte.
 ---
 
 

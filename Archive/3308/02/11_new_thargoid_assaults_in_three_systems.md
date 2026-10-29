@@ -1,12 +1,17 @@
 ---
 uuid: ec3ee958-bfe7-5236-941e-08b7ac6f4784
 title: New Thargoid Assaults in Three Systems
+title_de: Neue Thargoid-Angriffe in drei Systemen
 slug: new_thargoid_assaults_in_three_systems
 date: '3308-02-11'
 source: API
 summary: Thargoid forces launch heavy assaults on the Dan, HIP 12314, and Nauni systems.
+summary_de: Thargoid-Streitkräfte starten schwere Angriffe auf die Systeme Dan, HIP 12314
+  und Nauni.
 player_impact: Pilots raced into combat to defend the Dan, HIP 12314, and Nauni systems
   from Thargoid assaults.
+player_impact_de: Piloten eilten in den Kampf, um die Systeme Dan, HIP 12314 und Nauni
+  vor Thargoid-Angriffen zu verteidigen.
 groups:
 - Aegis
 - Salvation
@@ -24,6 +29,18 @@ modern_impact: '"When Salvation repelled their forces from the Delphi, Maia and 
   systems in December, some believed it was only a matter of time before the aliens
   retaliated." The Thargoid counter-offensive suggests a reactive escalation pattern
   in response to Salvation''s superweapon deployments.'
+modern_impact_de: „Als Salvation ihre Streitkräfte im Dezember aus den Systemen Delphi,
+  Maia und Merope vertrieb, glaubten manche, es sei nur eine Frage der Zeit, bis die
+  Aliens Vergeltung übten." Die Thargoid-Gegenoffensive deutet auf ein reaktives
+  Eskalationsmuster als Antwort auf die Einsätze von Salvations Superwaffe hin.
+body_de: |
+  **ALARM der Pilotenföderation**
+  Die Systeme HIP 12314, Dan und Nauni sind schweren Angriffen von Thargoid-Schiffen ausgesetzt.
+  Vox Galactica zeigte diesen Bericht der freien Kriegskorrespondentin Jade Sanderlyn:
+  „Die Thargoids waren in den letzten Monaten ungewöhnlich aggressiv, wie die treibenden Wracks vieler unabhängiger Schiffe belegen. Als Salvation ihre Streitkräfte im Dezember aus den Systemen Delphi, Maia und Merope vertrieb, glaubten manche, es sei nur eine Frage der Zeit, bis die Aliens Vergeltung übten. Es scheint, dass diese Zeit gekommen ist."
+  „Obwohl die Thargoid-Spezies oft als territorial geltend betrachtet wird, sind sie diesmal weiter in Richtung des menschlichen Raums vorgerückt. Die Behörden aller drei Systeme waren auf die Incursionen nicht vorbereitet und haben einen allgemeinen Hilferuf ausgesandt."
+  „Die Supermächte sind noch dabei, ihre Anti-Xeno-Einheiten zu formieren, und somit außerstande zu helfen. Glücklicherweise wurden einige der Unterstützungsmegaschiffe von Aegis trotz der offiziellen Auflösung noch nicht außer Dienst gestellt. Diese wurden mit Notbesatzungen bemannt und in allen drei Systemen eiligst in Dienst gestellt."
+  „Während Piloten abermals in den Kampf eilen, fragen sich viele, ob die Risiken nun noch größer sind. Haben die Thargoids ihre Reichweite in den menschlichen Raum ausgedehnt? Welche Systeme könnten sie als Nächstes angreifen? Und ist eine weitere Eskalation der Preis, der jedes Mal zu zahlen ist, wenn Salvations Superwaffe eingesetzt wird?"
 legacy_weight: 5
 significance: high
 related_uuids:

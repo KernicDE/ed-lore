@@ -9,6 +9,10 @@ bio: Admiral Tanner is a admiral in the Elite Dangerous universe, active from 33
   to 3308-01-05. Closely associated with Aegis, Imperial Senate, Brewer Corporation.
   Ram Tah's testimony about Salvation's Guardian-based superweapon suspends Admiral
   Tanner's court martial.
+bio_de: Admiral Tanner ist ein Admiral im Elite-Dangerous-Universum, aktiv von
+  3307-12-31 bis 3308-01-05. Eng verbunden mit Aegis, dem imperialen Senat und der
+  Brewer Corporation. Ram Tahs Aussage über Salvations Waffe auf Guardian-Basis setzt
+  das Kriegsgerichtsverfahren gegen Admiral Tanner aus.
 ---
 
 

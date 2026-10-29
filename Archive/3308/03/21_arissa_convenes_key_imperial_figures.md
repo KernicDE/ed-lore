@@ -1,12 +1,16 @@
 ---
 uuid: 4351d476-bc65-5dc9-be81-08179f479f48
 title: Arissa Convenes Key Imperial Figures
+title_de: Arissa beruft wichtige imperiale Persönlichkeiten zusammen
 slug: arissa_convenes_key_imperial_figures
 date: '3308-03-21'
 source: API
 summary: Emperor Arissa summons Imperial nobles and ambassadors to Capitol for diplomatic
   meetings.
+summary_de: Kaiserin Arissa lädt Imperiale Adlige und Botschafter zu diplomatischen
+  Treffen nach Capitol ein.
 player_impact: Not specifically mentioned — this is a diplomatic report.
+player_impact_de: Keine
 persons:
 - Arissa Lavigny-Duval
 groups:
@@ -24,6 +28,10 @@ modern_impact: '"Various Imperial allies, ambassadors and nobles have been summo
   to Capitol for a series of meetings with Emperor Arissa Lavigny-Duval." The Emperor''s
   diplomatic outreach signals an effort to rebuild Imperial alliances after the NMLA
   crisis.'
+modern_impact_de: „Verschiedene Imperiale Verbündete, Botschafter und Adlige wurden zu
+  einer Reihe von Treffen mit Kaiserin Arissa Lavigny-Duval nach Capitol einberufen."
+  Das diplomatische Handreichen der Kaiserin signalisiert den Versuch, die Imperialen
+  Bündnisse nach der NMLA-Krise neu aufzubauen.
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -32,6 +40,13 @@ related_uuids:
 - 1ac3d157-30a8-5bce-a3b7-9c6c6556b1fb
 - 83fbe8c3-9336-5b74-9642-fe0db6fd785b
 - 23c950e1-fb93-5252-99d8-661d345b7244
+body_de: |
+  Verschiedene Imperiale Verbündete, Botschafter und Adlige wurden zu einer Reihe von Treffen mit Kaiserin Arissa Lavigny-Duval nach Capitol einberufen.
+  Die politische Journalistin Cassia Carvalho lieferte Einzelheiten für den Imperial Herald:
+  „Es gibt Gerüchte über zahlreiche Veränderungen hinter den Kulissen in den obersten Rängen der Macht, seit Kaiserin Arissa zurückgekehrt ist. Diese jüngste Veranstaltung stand jedoch größtenteils vor den Augen der Öffentlichkeit und schien darauf ausgelegt, die Bürger mit ihrer körperlichen Anwesenheit zu beruhigen."
+  „Angehörige aller Ränge des Imperialen Adels trafen mit ihrem Gefolge im Palast ein. Hofzeremonien wurden abgehalten, um ihre Treue zu Kaiserin Arissa zu bekräftigen – alles mit so viel Prunk und Pracht wie möglich."
+  „Weniger öffentlich waren Arissas Sitzungen hinter verschlossenen Türen mit Vertretern des Imperialen Diplomatischen Korps. Laurentin Sharpe, erster Botschafter des Imperiums bei der Allianz, sagte: ‚Der Zweck dieser Briefings ist es, Ihre Majestät über die politischen Entwicklungen während ihrer Abwesenheit zu informieren und Weisungen für die Zukunft zu erhalten.'"
+  „Neben der Parade bekannter Gesichter gab es eine sehr unerwartete Figur: Premierminister Kayode Tau vom Marlinist-Konsulat. Sein Megaschiff Fairfax Vision wurde bei der Ankunft im System Achenar vollständige diplomatische Immunität gewährt. Angesichts der wechselvollen Geschichte zwischen dem Imperium und den Marlinist-Kolonien – was könnte Arissa wohl planen?"
 ---
 
 

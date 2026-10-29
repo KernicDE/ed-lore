@@ -1,12 +1,16 @@
 ---
 uuid: b68796e4-4524-597f-af53-35eebba951e0
 title: Imperial Intelligence Denies NMLA Connection
+title_de: Imperialer Geheimdienst dementiert Verbindung zur NMLA
 slug: imperial_intelligence_denies_nmla_connection
 date: '3308-01-07'
 source: API
 summary: Imperial senators deny ACT's claims linking the NMLA to the Omega Grid communications
   system.
+summary_de: Imperiale Senatoren dementieren die Behauptung der ACT, die NMLA nutze das
+  Kommunikationssystem Omega Grid.
 player_impact: Not specifically mentioned — this is a political report.
+player_impact_de: Keine
 persons:
 - Arissa Lavigny-Duval
 - Karl Nerva
@@ -26,6 +30,10 @@ arc_id: nmla-terrorism
 modern_impact: '"Imperial Intelligence must operate under total secrecy, but I assure
   you that this ''Omega Grid'' is just as much of an invention." The Empire''s denial
   of the Omega Grid''s existence signals a concerted effort to suppress ACT''s investigation.'
+modern_impact_de: „Der imperiale Geheimdienst muss unter völliger Geheimhaltung arbeiten,
+  aber ich versichere Ihnen, dass dieses ‚Omega Grid' ebenso sehr eine Erfindung ist."
+  Das Dementi des Imperiums deutet auf eine koordinierte Anstrengung hin, die Untersuchung
+  der ACT zu unterdrücken.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -39,6 +47,15 @@ related_uuids:
 - 2ea3fdf7-8814-5eda-9967-368c424dfcb0
 - 4fe5c0a6-b22f-549b-b11e-0eb1a9c1bac3
 - 37702c1f-2c71-55fb-932e-b8dfeb29d626
+body_de: |
+  Senatoren haben die Behauptung der ACT zurückgewiesen, die NMLA habe offizielle, aber streng geheime imperiale Kommunikationsgeräte genutzt.
+  Kapitänin Saskia Landau hält daran fest, dass das dunkle Kommunikationsnetz der Terrorgruppe dem Omega Grid sehr ähnelte, einem unauffindbaren Nachrichtensystem, das ausschließlich vom imperialen Geheimdienst genutzt wird.
+  Senator Karl Nerva sagte den Medien:
+  „In ihrer Verzweiflung, die NMLA aufzuspüren, verfolgt Kapitänin Landau Schatten. Der imperiale Geheimdienst muss unter völliger Geheimhaltung arbeiten, aber ich versichere Ihnen, dass dieses ‚Omega Grid' ebenso sehr eine Erfindung ist, um das Imperium in Misskredit zu bringen, wie Serene Harbour es war."
+  „Landau hat mit diesen grotesken Anschuldigungen ihre Befugnisse überschritten. Ich schlage erneut vor, die ACT aufzulösen und ihre Mitarbeiter in den normalen Dienst zurückzuführen."
+  Der Imperial Herald berichtete, dass andere Senatoren die Kaiserin Arissa Lavigny-Duval dazu auffordern, diejenigen zu überstimmen, die die Untersuchung der ACT blockieren. Die Nachrichtenquelle wies darauf hin, dass sie im vergangenen Jahr an keiner Veranstaltung persönlich teilnahm und keine öffentlichen Botschaften übertragen hat.
+  Als Antwort gab Kanzler Anders Blaine folgende Erklärung ab:
+  „Ihre Majestät wurde Anfang 3307 nach mehreren gescheiterten Attentatsversuchen der NMLA unter sicheren Schutz gestellt. Sie hat in allen offiziellen Angelegenheiten per Fernkommunikation mit dem Senat gesprochen, plant aber sehr bald nach Capitol zurückzukehren."
 ---
 
 

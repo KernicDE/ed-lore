@@ -1,13 +1,19 @@
 ---
 uuid: c088b0b5-f567-5c36-a53f-bfe840245090
 title: Dredger Clan Faces Possible Extinction
+title_de: Dredger-Clan droht mögliches Aussterben
 slug: dredger_clan_faces_possible_extinction
 date: '3307-11-15'
 source: API
 summary: The Scriveners Clan faces possible extinction as their dredger's power and
   life support systems begin malfunctioning while trapped in the Oochost PC-C c29-0
   system by Orion University's override codes.
+summary_de: Der Scriveners-Clan droht mögliches Aussterben, da Strom- und
+  Lebenserhaltungssysteme seines Dredgers beginnen auszufallen, während er durch
+  die Überbrückungscodes der Orion University im System Oochost PC-C c29-0
+  festgehalten wird.
 player_impact: None
+player_impact_de: Keine
 persons:
 - Casey Kilpatrick
 - Elizabeth Perez
@@ -19,6 +25,8 @@ topics:
 arc_id: scriveners-clan
 modern_impact: The Scriveners Clan dredger remains a subject of dispute between academic
   institutions and the nomadic society that inhabits it.
+modern_impact_de: Der Dredger des Scriveners-Clan bleibt ein Streitobjekt zwischen
+  akademischen Institutionen und der ihn bewohnenden nomadischen Gesellschaft.
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -27,6 +35,13 @@ related_uuids:
 - 111617dc-8948-5bee-803f-c4e0687be612
 - 21ac936e-6473-5e81-980f-73a1bd20c350
 - 8d11dddf-b087-5b68-9945-af45e8953120
+body_de: |
+  Der Orion University wurde mitgeteilt, dass ihr Eigentumsanspruch am Dredger des Scriveners-Clan dessen Bevölkerung in große Gefahr bringt.
+  Im System Oochost PC-C c29-0 hat das Megaschiff der Universität, die Scientia Aeterna, mithilfe von Überbrückungscodes verhindert, dass der Dredger das System verlässt. Doch die Weigerung des nomadischen Stammes, seine Heimat aufzugeben, hat ihn unter enormen Druck gesetzt, wie der freiberufliche Reporter Casey Kilpatrick beobachtete:
+  „Dredger-Klasse-Massencruiser sind die Haie des Weltraums – sie müssen sich ständig bewegen und fortlaufend Rohstoffe sammeln, um daraus Treibstoff, Luft und andere Ressourcen zu synthetisieren. Der Scriveners-Clan blieb monatelang stationär, während er die Hesperus bergen ließ, aber in diesem System sind sie ohne solche lebensnotwendigen Zufuhren gefangen."
+  „Unabhängige Beobachter melden nun Fehlfunktionen in den Energie- und Lebenserhaltungssystemen des Schiffs. Wenn die Scriveners an ihrer Belagerungsmentalität festhalten, sind weitere mechanische Ausfälle unvermeidlich. Die Orion University könnte den Dredger schließlich erben, aber es wird ein Schiff der Toten sein."
+  Professor Elizabeth Perez, Leiterin der Anthropologieabteilung der Orion University, antwortete:
+  „Das Letzte, was wir wollen, ist, dass diesen Menschen Schaden zugefügt wird. Meine Kollegen beraten dringend darüber, wie wir den Scriveners-Clan davon überzeugen können, dass wir ihr Bestes im Sinn haben. Schließlich sind sie als ebenbürtige Wissenschaftler und Forscher eine lebendige Verkörperung der Kernwerte unserer Universität."
 ---
 
 

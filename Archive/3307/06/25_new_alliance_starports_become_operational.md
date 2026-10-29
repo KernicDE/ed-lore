@@ -1,6 +1,7 @@
 ---
 uuid: 1d6aa54e-b31a-593f-8bd3-a53d17cda13a
 title: New Alliance Starports Become Operational
+title_de: Neue Sternenhäfen der Allianz werden in Betrieb genommen
 slug: new_alliance_starports_become_operational
 date: '3307-06-25'
 source: API
@@ -8,8 +9,15 @@ summary: Two new Alliance stations — Enterprise Market in LHS 2522 and Prosper
   Core in Sharru Sector FW-W c1-19 — become operational. Prime Minister Mahon welcomes
   visitors while Councillor Kaine reveals irregularities in the tritium campaign and
   alleges Sirius Corporation made unregistered donations to make up shortfalls.
+summary_de: Zwei neue Stationen der Allianz – Enterprise Market in LHS 2522 und
+  Prosperity Core in Sharru Sector FW-W c1-19 – werden in Betrieb genommen.
+  Premierminister Mahon heißt Besucher willkommen, während Rätin Kaine Unregelmäßigkeiten
+  in der Tritium-Kampagne aufdeckt und Sirius Corporation unregistrierte Spenden zur
+  Deckung der Fehlbeträge vorwirft.
 player_impact: The new starports provide full services to pilots travelling through
   Alliance space.
+player_impact_de: Die neuen Sternenhäfen bieten Piloten, die den Allianz-Raum
+  durchqueren, volle Dienstleistungen.
 persons:
 - Edmund Mahon
 - Nakato Kaine
@@ -38,6 +46,10 @@ modern_impact: Kaine's allegations about Sirius Corporation's involvement in All
   expansion foreshadow later revelations about the megacorp's deep financial entanglement
   with all three superpowers and its strategic use of infrastructure projects to gain
   influence.
+modern_impact_de: Kaines Vorwürfe gegen die Sirius Corporation wegen Einflussnahme auf
+  die Expansion der Allianz weisen auf spätere Enthüllungen über die tiefgreifende
+  finanzielle Verflechtung des Megakonzerns mit allen drei Supermächten und seine
+  strategische Nutzung von Infrastrukturprojekten zur Einflussgewinnung voraus.
 legacy_weight: 3
 significance: medium
 related_uuids:
@@ -46,6 +58,14 @@ related_uuids:
 - 3181a5f1-c6c0-527b-b83c-1eed9b4aaec3
 - 931d72fb-9b88-566c-a2c3-8b536ea52a59
 - 3dabc3ec-5fc0-5b40-91a9-5028ddd79163
+body_de: |
+  **Alarm der Pilotenföderation**
+  Zwei Stationen der Allianz wurden nach einer erfolgreichen Wiederwahl-Kampagne von Premierminister Edmund Mahon errichtet.
+  Enterprise Market im System LHS 2522 und Prosperity Core im System Sharru Sector FW-W c1-19 sind nun voll betriebsbereit. Premierminister Mahon heißte Besucher der neuen Sternenhäfen willkommen und versprach, sie würden „das Engagement der Allianz für die Schaffung von Chancen weiter stärken".
+  Rätin Nakato Kaine löste jedoch eine hitzige Debatte in der Versammlung der Allianz aus, als sie folgende Erklärung abgab:
+  „Meine Untersuchung ergab Unregelmäßigkeiten in der Tritium-Abbau-Kampagne, die darauf hindeuten, dass nur genug Lieferungen eingingen, um einen Sternenhafen zu errichten. Darüber hinaus deuten Andockaufzeichnungen darauf hin, dass Sirius Corporation den Fehlbetrag mit mehreren unregistrierten Spenden ausglich."
+  „Sirius Corporation ist nun im System Sharru Sector FW-W c1-19 präsent. Dies lässt beunruhigende Parallelen zu den jüngsten Geschäften des Unternehmens zum Bau von Archon Delaines neuen Sternenhäfen erkennen. Die Frage ist – was hat Mahon im Gegenzug versprochen?"
+  Eine Erklärung aus dem Amt des Premierministers stellte klar, dass Sirius Corporation eines von vielen Unternehmen sei, die derzeit mit der Allianz kooperieren, um ihr Expansionsprogramm zu unterstützen. Sie ging nicht auf die Diskrepanz bei den Tritium-Lieferungen ein und erwähnte keine Beiträge des Megakonzerns.
 ---
 
 

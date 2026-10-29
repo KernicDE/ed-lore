@@ -8,6 +8,9 @@ mention_count: 2
 bio: 'Corentin Delacroix is a prominent figure in the Elite Dangerous universe, active
   from 3307-11-19 to 3307-11-25. Closely associated with Neo-Marlinist Order of Mudhrid,
   NMLA, Marlinist. '
+bio_de: Corentin Delacroix ist eine bedeutende Figur im Elite-Dangerous-Universum,
+  aktiv von 3307-11-19 bis 3307-11-25. Eng verbunden mit der Neo-Marlinistischen
+  Order von Mudhrid, der NMLA und dem Marlinismus.
 ---
 
 

@@ -17,6 +17,10 @@ bio: 'Sirius Atmospherics is a organization active in Elite Dangerous lore from 
   growing political influence, from resettling Marlinist refugees and hosting the
   Galacti...; The Alliance Assembly invites Sirius Corporation to collaborate on enhancing
   Thargoid protection for member systems, with CEO Li Yong-Rui travellin...'
+bio_de: |-
+  Sirius Atmospherics ist eine Tochtergesellschaft der Sirius Corporation, die sich auf planetare Terraforming und Atmosphärentechnik spezialisiert hat. Ende 3306 startete das Unternehmen ein Großprojekt in Partnerschaft mit der Allianz zur Terraforming von Ammoniakwelten im Coalsack-Nebel und entwickelte dabei revolutionäre neue Verfahren für terrestrische Planeten mit ammoniakhaltiger Atmosphäre.
+
+  Das Unternehmen bat unabhängige Piloten um Erkundungsdaten, um geeignete Ziele für die Umwandlung zu identifizieren, und errichtete eine Forschungseinrichtung an der Betancourt Base in der Musca Dark Region. Projektleiter Dr. Maximilian North skizzierte das Ziel, die Region in eine für Menschen freundlichere Umgebung zu verwandeln. Die Arbeit von Sirius Atmospherics erweiterte die besiedelbare Grenze der Menschheit und zeigte, wie unternehmerische wissenschaftliche Expertise für großangelegte Kolonisierungsprojekte genutzt werden kann, wenngleich die Coalsack-Initiative später ins Stocken geriet, da Bedenken bestanden, die Terraforming-Tätigkeit habe thargoide Vergeltungsangriffe provoziert.
 ---
 
 

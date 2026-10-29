@@ -1,12 +1,16 @@
 ---
 uuid: ef4e71be-9936-51bb-9e2a-a7dbd842b13f
 title: Mahon Reprimanded over Reorte Conflict
+title_de: Mahon wegen Reorte-Konflikt gerügt
 slug: mahon_reprimanded_over_reorte_conflict
 date: '3308-02-25'
 source: API
 summary: The Alliance Assembly officially rebukes Prime Minister Edmund Mahon over
   the Reorte skirmish.
+summary_de: Die Versammlung der Allianz rügt Premierminister Edmund Mahon offiziell
+  wegen des Scharmützels bei Reorte.
 player_impact: Not specifically mentioned — this is a political report.
+player_impact_de: Keine
 persons:
 - Edmund Mahon
 groups:
@@ -27,6 +31,10 @@ arc_id: null
 modern_impact: '"The Alliance Assembly has delivered an official rebuke to its prime
   minister following the recent skirmish in the Reorte system." Mahon''s censure reflects
   internal Alliance dissent over the unpopular Sirius Corporation defence pact.'
+modern_impact_de: '"Die Versammlung der Allianz hat ihren Premierminister nach dem
+  jüngsten Scharmützel im System Reorte offiziell gerügt." Die Rüge Mahons spiegelt
+  interne Widerstände in der Allianz gegen den unpopulären Verteidigungspakt mit
+  der Sirius Corporation wider.'
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -37,6 +45,13 @@ related_uuids:
 - 33ee3c75-97ce-563c-993f-e4102203cb85
 - 2ad6f03c-dec1-53ea-a119-996a2b4c127f
 - 2f1fe842-e7f1-5ba8-9b46-fe6146047472
+body_de: |
+  Die Versammlung der Allianz hat ihren Premierminister nach dem jüngsten Scharmützel im System Reorte offiziell gerügt.
+  Es gab hitzige Debatten im Anschluss an den Konflikt zwischen der Reorte Mining Coalition und der Sirius Corporation. Ausgelöst wurde dieser durch den unpopulären Versuch des Megakonzerns, im System als Anti-Xeno-Verteidigungspartner eine Präsenz aufzubauen.
+  Ratsherrin Nakato Kaine brachte einen Antrag auf Rüge gegen Premierminister Edmund Mahon ein, der nach einigen Enthaltungen mit relativer Mehrheit angenommen wurde. Die schroff formulierte Rüge richtete sich gegen das ‚Missachten der Grundsätze der Allianz durch einseitig erzwungene Zusammenarbeit mit der Sirius Corporation'.
+  Nachdem Mahon die Rüge formell akzeptiert hatte, wandte sich Ratsherrin Kaine an die Versammlung:
+  „Dieses Gremium hat nicht das Recht, seine Mitgliedssysteme ohne deren Zustimmung zu regieren. Der strategische Verteidigungspakt muss zu ziviler Gesetzgebung werden statt einem militärischen Vertrag, damit er als Gesetz verabschiedet werden kann."
+  „Ich fordere Li Yong-Rui auf, diesen Bedingungen zuzustimmen oder andernfalls den Pakt aufzugeben und die Streitkräfte der Sirius Corporation aus den Systemen Alioth, Arimpox, Di Jian und Leesti abzuziehen."
 ---
 
 

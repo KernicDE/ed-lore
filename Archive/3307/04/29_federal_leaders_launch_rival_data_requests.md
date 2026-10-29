@@ -1,6 +1,7 @@
 ---
 uuid: f75a0955-badc-5c1c-894f-410860377f39
 title: Federal Leaders Launch Rival Data Requests
+title_de: Föderale Führer starten konkurrierende Datenaufrufe
 slug: federal_leaders_launch_rival_data_requests
 date: '3307-04-29'
 source: API
@@ -8,9 +9,17 @@ summary: President Hudson and Shadow President Winters launch competing communit
   initiatives over the Proactive Detection Bureau. Hudson seeks data to expand surveillance
   capabilities while Winters aims to develop privacy-protection technology. Political
   analysts warn of potential system instability from the rivalry.
+summary_de: Präsident Hudson und Schattenpräsidentin Winters starten konkurrierende
+  Community-Goals zum Proactive Detection Bureau. Hudson sucht Daten zur Erweiterung
+  der Überwachungsfähigkeiten, während Winters Technologien zum Schutz der Privatsphäre
+  entwickeln will. Politische Analysten warnen vor möglicher Instabilität der Systeme
+  durch diesen Machtkampf.
 player_impact: Pilots delivered data to either Gresley Dock in Nanomam (supporting
   Hudson's PDB expansion) or Ito Orbital in Rhea (supporting Winters' privacy protection
   initiative).
+player_impact_de: Piloten lieferten Daten entweder an Gresley Dock in Nanomam (Unterstützung
+  der PDB-Ausweitung durch Hudson) oder an Ito Orbital in Rhea (Unterstützung von Winters'
+  Initiative zum Schutz der Privatsphäre).
 persons:
 - Zachary Hudson
 - Felicia Winters
@@ -35,6 +44,10 @@ arc_id: federal-politics
 modern_impact: The rival campaigns escalate the Federal constitutional crisis into
   active political conflict, with pilots literally choosing sides between security
   and liberty — a microcosm of the Federation's deeper ideological fracture.
+modern_impact_de: Die konkurrierenden Kampagnen eskalieren die föderale Verfassungskrise
+  zu einem aktiven politischen Konflikt, bei dem Piloten buchstäblich zwischen Sicherheit
+  und Freiheit Partei ergreifen, ein Mikrokosmos der tieferen ideologischen Spaltung
+  der Föderation.
 legacy_weight: 4
 significance: medium
 related_uuids:
@@ -42,6 +55,26 @@ related_uuids:
 - 73019977-6f1c-5f34-9546-b39a55a45f2d
 - 82080870-af46-5023-854f-189ec261531a
 - bc50ffda-083d-5387-b532-bfc39ae6807f
+body_de: |
+  **ALARM der Pilotenföderation**
+
+  Konkurrierende Initiativen benötigen Datenlieferungen, um die zivile Überwachung in der Föderation zu erhöhen oder zu verringern.
+
+  Präsident Zachary Hudson hat die Öffentlichkeit aufgefordert, dazu beizutragen, das Proactive Detection Bureau effektiver zu machen:
+
+  „Das PDB braucht Zugang zu weniger bekannten Kommunikationskanälen, in denen Terroristen und Kriminelle lauern. Die Lieferung von Daten aus verschiedenen Quellen wird es uns ermöglichen, mehr potenzielle Bedrohungen aufzuspüren."
+
+  Um dieser Kampagne entgegenzuwirken, will Schattenpräsidentin Felicia Winters die persönliche Kommunikation vor Abhörmaßnahmen schützen:
+
+  „Es ist meine Pflicht, den Bürgern zu helfen, ihr verfassungsmäßiges Recht auf Privatsphäre zu wahren. Wenn genügend Daten für Basistests gesammelt werden können, werden wir legale Technologien und Techniken verteilen, die vor Eingriffen der Regierung schützen."
+
+  Beide Kampagnen erfordern die Lieferung folgender Datentypen: anomale Massenscan-Daten, außergewöhnliche gestörte Emissionsdaten, spezialisierte Legacy-Firmware und ungewöhnliche verschlüsselte Dateien.
+
+  Zur Unterstützung von Präsident Hudson sollen Piloten Daten an Gresley Dock im System Nanomam liefern.
+
+  Zur Unterstützung von Schattenpräsidentin Winters sollen Piloten Daten an Ito Orbital im System Rhea liefern.
+
+  Politische Analysten glauben, dass sich, da Hudson und Winters diese Projekte persönlich organisieren, Auswirkungen auf die Sicherheit und Stabilität der Systeme ergeben könnten, in denen jeder Einfluss hat.
 ---
 
 

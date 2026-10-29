@@ -7,6 +7,21 @@ last_seen_date: '3308-01-12'
 mention_count: 5
 bio: Dr Paul Baumann is the chair of the independent board of inquiry that investigated
   Aegis's operational failures, recommending the agency's dismantlement in 3308.
+bio_de: Dr. Paul Baumann ist Vorsitzender des unabhängigen Untersuchungsausschusses,
+  der die operationellen Versägen von Aegis untersuchte. Der Ausschuss wurde nach
+  dem Verlust des Megaschiffs Alexandria und dem Angriff auf Hind Mine eingesetzt,
+  zwei Katastrophen, die schwere Mängel in Aegis' Führung offenlegten. Der im
+  Januar 3308 veröffentlichte Abschlussbericht, der Baumann-Report, lieferte eine
+  verheerende Bewertung. Aegis habe eine „Silomentalität" entwickelt, Abteilungen
+  hätten sich auf sich selbst statt auf strategische Ziele konzentriert, sich
+  übermäßig auf „wegwerfbare Söldner" (unabhängige Piloten) verlassen und keine
+  Durchbrüche in der Anti-Xeno-Technologie erzielt. Der Bericht folgerte, dass Aegis
+  vollständig aufgelöst werden sollte – eine Empfehlung, die alle drei Supermächte
+  annahmen. Bemerkenswert ist, dass der Bericht weder Salvation thematisierte noch
+  Alternativen zu Aegis vorschlug und damit faktisch den Aufstieg von Azimuth
+  Biotech freigab. Baumanns Untersuchung gilt als eine der folgenreichsten
+  Untersuchungen der modernen Militärgeschichte, auch wenn Kritiker bemängeln,
+  sie habe Azimuths Sabotage an der Alexandria ignoriert.
 ---
 
 # Paul Baumann

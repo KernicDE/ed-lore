@@ -1,6 +1,7 @@
 ---
 uuid: dc3b5280-3154-5bb9-aa0a-34efca0a2b71
 title: Paresa Conflict Risks War Between Superpowers
+title_de: "Paresa-Konflikt riskiert Krieg zwischen den Supermächten"
 slug: paresa_conflict_risks_war_between_superpowers
 date: '3307-05-11'
 source: API
@@ -8,7 +9,12 @@ summary: Mainstream media report widespread fears that the Paresa conflict may f
   the Empire and Federation into full-scale war. The Imperial Navy mobilises while
   Federal media question the authenticity of evidence linking Nova Imperium to the
   NMLA.
+summary_de: Medien berichten von weit verbreiteter Angst, der Paresa-Konflikt könne
+  Imperium und Föderation in einen groß angelegten Krieg zwingen. Die Imperiale Flotte
+  mobilisiert, während föderale Medien die Echtheit der Beweise infrage stellen, die
+  Nova Imperium mit der NMLA in Verbindung bringen.
 player_impact: None directly; this is a news analysis piece.
+player_impact_de: Keine
 persons:
 - Hadrian Duval
 - Aisling Duval
@@ -32,12 +38,23 @@ arc_id: nmla-terrorism
 modern_impact: The Paresa crisis demonstrates how close the galaxy comes to superpower
   war over terrorism, with the NMLA's disinformation campaign successfully pitting
   the Federation against Imperial targets.
+modern_impact_de: Die Paresa-Krise zeigt, wie nahe die Galaxie einem Supermächte-Krieg
+  über Terrorismus kommt, wobei die Desinformationskampagne der NMLA erfolgreich die
+  Föderation gegen imperiale Ziele aufbringt.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 11814d8f-62f6-5b65-ab80-4c77ae8a5d6d
 - afdf0fab-5a79-5806-b284-6484d24275e1
 - bd3d69a8-2184-593f-8bfa-62a8d265c1c4
+body_de: |
+  Es herrscht weit verbreitete Angst, dass die gegenwärtigen Feindseligkeiten im Paresa-System Imperium und Föderation zu einem groß angelegten Krieg zwingen könnten.
+  Die Lage wurde von den führenden Medien aufgegriffen.
+  Imperial Herald: „Hadrian mag das schwarze Schaf der Familie Duval sein, doch sollte er durch föderale Hände sterben, würde die Ehre Vergeltung gebieten. Bereits mobilisiert die Imperiale Flotte im Vorfeld der Reaktion des Kaisers."
+  Federal Times: „Die Beweise, dass Nova Imperium die Bombenanschläge auf Sternenhäfen orchestriert hat, sind glaubwürdig, doch die Möglichkeit einer Täuschung bleibt. Könnte die NMLA wirklich so viele Befehle von Hadrian Duval in einer derart glaubwürdigen Qualität fälschen?"
+  Eye on Achenar: „Ein Angriff auf einen Duval ist ein Angriff auf uns alle, selbst wenn sich herausstellt, dass er ein Terrorist ist. Wie können es diese Fednecks wagen, unsere Verbrecher für uns zu richten!"
+  Sol Today: „Hunderttausende Tote, eine halbe Million Verwundete … unsere Bürger verdienen Vergeltung. Aber wie immer geht es den Imposern nur darum, ihre Monarchie zu hofieren."
+  Paresa News Network: „Die Zahl der Toten steigt, während in unserem System voll entwickelte Schlachten toben. Die Menschen in Paresa haben Angst vor der Eroberung durch die Föderation. Können wir uns darauf verlassen, dass das Imperium uns rettet?"
 ---
 
 

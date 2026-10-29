@@ -10,6 +10,21 @@ bio: 'Francesca Wolfe is a Commander in Elite Dangerous lore, active from 3307-0
   Notable activities include: Francesca Wolfe details the discovery of the Hesperus
   alongside the Scriveners Clan dredger in the Perseus Dark Region.; Pilots report
   new contact from ''Salvation'' near the Hesperus and Adamastor.'
+bio_de: |-
+  Francesca Wolfe ist eine investigative Journalistin und Kommentatorin zu xenologischen
+  und Grenzwissenschaft-Themen. Mitte 3307 berichtete sie darüber, dass Piloten in der
+  Nähe der Megaschiffe Hesperus und Adamastor von der mysteriösen Gestalt namens „Salvation“
+  kontaktiert wurden, und dokumentierte den Bericht von Commander Tyler Thorsen, der
+  direkte Aufforderungen erhielt, alte Signalbojen zu finden, die bei der Suche nach
+  Überlebenden helfen könnten.
+
+  Wolfes Berichterstattung beleuchtete das wachsende Netzwerk von Pilotenkontakten, das
+  Salvation aufbaute, sowie seinen offenbar bestehenden Zugriff auf historische Daten der
+  Azimuth Biochemicals aus zwei Jahrhunderten zuvor. Ihre Arbeit am Hesperus-Rätsel –
+  neben Erik Gunnarsons Ermittlungen – half dabei, die Verbindungen zwischen den
+  Geisterschiffen, dem Scriveners Clan und Salvations versteckter Agenda zusammenzusetzen
+  und wies auf die spätere Enthüllung seiner wahren Identität als eine Gestalt mit engen
+  Bindungen an das Erbe von Azimuth voraus.
 ---
 
 

@@ -9,6 +9,10 @@ bio: Constanza Noguera is a president in the Elite Dangerous universe, active fr
   3307-06-29 to 3307-07-08. Closely associated with Gluscap Labour, Azaladshu Free.
   Mayor Constanza Noguera calls the Federation corrupt and authoritarian. Mayor Constanza
   Noguera calls for supporters to defend sovereignty.
+bio_de: |-
+  Constanza Noguera amtierte als Bürgermeisterin einer Gemeinde, die sich Mitte 3307 mit Gluscap Labour und der Azaladshu-Free-Bewegung verbündete. Ihre öffentlichen Stellungnahmen in dieser Zeit äußerten sich deutlich kritisch über die Föderation, die sie als korrupt und autoritär in ihrem Umgang mit Randsystemen und unabhängigen Bevölkerungen bezeichnete. Diese Rhetorik ordnete sie in einen breiteren Strom anti-föderaler Stimmung ein, der sich in zahlreichen unabhängigen Territorien aufgebaut hatte, die frustriert waren über das, was sie als Übergriffe der Supermächte empfanden.
+
+  Im Juli 3307 rief Noguera Unterstützer direkt dazu auf, die lokale Souveränität zu verteidigen, und beschrieb die Lage als existenziellen Kampf gegen äußere Herrschaft. Ihre Appelle zeigten, wie lokale Amtsträger in unabhängigen Systemen Widerstand gegen den Einfluss der Supermächte mobilisieren konnten, indem sie Klagen über Besteuerung, regulatorische Auflagen und fehlende politische Vertretung aufgriffen. Nogueras Engagement veranschaulichte das wiederkehrende Muster, wonach unabhängige Gemeinschaften ihre Autonomie gegen den Sog der föderalen, imperialen und allianzischen Expansion zu bewahren suchten.
 ---
 
 

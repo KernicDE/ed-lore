@@ -10,6 +10,11 @@ bio: Oscar Goldsun is a prominent figure in the Elite Dangerous universe, active
   A cryptic poem attributed to the Winking Cat references media mogul Oscar Goldsun
   and the ethics of show business, promising stolen treasures for those who solve
   the riddle.
+bio_de: Oscar Goldsun ist eine bedeutende Persönlichkeit im Elite-Dangerous-Universum,
+  aktiv von 3307-12-16 bis 3307-12-24. Er steht in engem Zusammenhang mit der
+  Pilotenföderation und Goldsun Media. Ein kryptisches Gedicht, das der Winking Cat
+  zugeschrieben wird, spielt auf Medienmogul Oscar Goldsun und die Ethik des
+  Showgeschäfts an und verspricht gestohlene Schätze für alle, die das Rätsel lösen.
 ---
 
 

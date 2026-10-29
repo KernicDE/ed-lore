@@ -10,6 +10,8 @@ related_entities:
 - none-specified
 bio: 'FIA is a organization in the Elite Dangerous universe, active from 3307-12-10
   to 3307-12-10. Frequently linked with none specified, Vox Galactica. '
+bio_de: FIA ist eine Organisation im Elite-Dangerous-Universum, die vom 10.12.3307 bis
+  zum 10.12.3307 aktiv war. Häufig in Verbindung mit keiner Angabe, Vox Galactica.
 ---
 
 

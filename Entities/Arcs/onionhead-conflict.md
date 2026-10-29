@@ -24,6 +24,16 @@ status: Ongoing
 outcome: Onionhead remains banned in Federation space but thrives in independent systems.
   The conflict set precedents for Federal drug enforcement policies.
 significance: medium
+description_de: Der Konflikt um Anbau, Vertrieb und Legalität von Lucan-Onionhead –
+  einer psychoaktiven Pflanze, die auf Kappa Fornacis beheimatet ist. Der Konflikt
+  stellt die föderalen Behörden, die die Droge verbieten, gegen Grenzfarmer und
+  kriminelle Organisationen, die sie als lukrative Cashcrop betrachten.
+summary_de: Der Konflikt um Anbau und Vertrieb von Lucan-Onionhead, in dem die
+  föderale Drogenbekämpfung gegen Grenzfarmer und kriminelle Organisationen
+  antritt.
+outcome_de: Onionhead bleibt im föderalen Raum verboten, gedeiht aber in
+  unabhängigen Systemen. Der Konflikt schuf Präzedenzfälle für die föderale
+  Durchsetzung von Drogenpolitik.
 ---
 
 

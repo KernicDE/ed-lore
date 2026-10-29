@@ -14,6 +14,10 @@ related_entities:
 bio: 'The Federal Diplomatic Corps represented the Federation''s official foreign policy
   apparatus, with Ambassador Catherine Carlisle admitting to missteps during the Nova Imperium
   crisis in 3304.'
+bio_de: |-
+  Der Federal Diplomatic Corps befand sich im Juli 3304 in einer untypisch defensiven Position, als Nova Imperium die von der Föderation unterstützte League of Mandu im System Paresa besiegte. Botschafterin Catherine Carlisle, die ranghöchste Vertreterin des Corps in der Region, musste zugeben, dass föderale Vermittler vorschnell gehandelt hatten, als sie die League unterstützten, und verkündete ihren sofortigen Abzug aus dem Konfliktgebiet.
+
+  Der Vorfall beschädigte den Ruf des Corps für strategische Geduld und sorgfältige Einschätzung. Indem es die League of Mandu unterstützte, ohne die lokalen imperialen politischen Dynamiken vollständig zu verstehen, hatte die Föderation sowohl Ressourcen als auch Glaubwürdigkeit verschwendet. Carlisles Eingeständnis – für eine hochrangige Diplomatin selten – spiegelte die Tatsache wider, dass die Basisunterstützung von Nova Imperium innerhalb des Imperiums unterschätzt worden war. Der Federal Diplomatic Corps würde nach dieser Demütigung Jahre mit dem Wiederaufbau seiner Analysefähigkeiten verbringen, doch das Debakel von Paresa blieb eine Lehrgeschichte in außenpolitischen Kreisen.
 ---
 
 

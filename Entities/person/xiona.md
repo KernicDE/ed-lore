@@ -7,6 +7,8 @@ last_seen_date: '3307-10-05'
 mention_count: 1
 bio: 'Xiona is a prominent figure in the Elite Dangerous universe, active from 3307-10-05
   to 3307-10-05. Closely associated with Kumo Crew. '
+bio_de: |-
+  Xiona ist eine bekannte Figur im Elite-Dangerous-Universum, aktiv vom 3307-10-05 bis 3307-10-05. Eng verbunden mit Kumo Crew.
 ---
 
 

@@ -1,12 +1,16 @@
 ---
 uuid: 4cc06532-0439-552f-8fed-93ae66522a99
 title: 'Rival Corporations Compete in LTT 198 '
+title_de: Konkurrierende Konzerne kämpfen um LTT 198
 slug: rival_corporations_compete_in_ltt_198
 date: '3307-08-16'
 source: API
 summary: Torval-Mastopolos Mining and Wreaken Construction both establish headquarters
   in the LTT 198 system, escalating their long-standing corporate rivalry.
+summary_de: Torval-Mastopolos Mining und Wreaken Construction errichten beide
+  Hauptsitze im System LTT 198 und verschärfen damit ihre jahrelange Konzernrivalität.
 player_impact: None
+player_impact_de: Keine
 persons:
 - Zemina Torval
 - Constantia Torval
@@ -19,6 +23,7 @@ groups:
 topics:
 - corporate expansion
 modern_impact: Corporate rivalries in the Empire shape mining and transportation markets.
+modern_impact_de: Konzernrivalitäten im Imperium prägen die Bergbau- und Transportmärkte.
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -30,6 +35,13 @@ related_uuids:
 - d34ec694-ba30-54ef-9995-81bcde8230a5
 - a2cbc388-713a-5948-95fc-7179a8dcad7e
 - f7cb0936-6685-5049-b2a6-628e2f3239ec
+body_de: |
+  Torval-Mastopolos Mining und Wreaken Construction haben beide im System LTT 198 eine Präsenz aufgebaut.
+  Marlon Royce, Wirtschaftsanalyst der Vox Galactica, ordnete die Lage ein:
+  „Es ist höchst ungewöhnlich, dass zwei Megakonzerne an einem Ort neue Hauptsitze errichten. Aber Mastopolos Mining und Wreaken Construction konkurrieren schon immer aggressiv um Bergbau- und Transportaufträge, daher scheint ein neues Kapitel ihrer Rivalität begonnen zu haben."
+  „Dieses permit-verschlossene System wird von der unabhängigen Fraktion LTT 198 State Ltd. kontrolliert. Insider behaupten, sie habe von beiden Konzernen ein Vermögen verlangt, dafür ihre Schiffe passieren zu lassen und den Bau von Industriekomplexen auf dem Planeten Dini zu erlauben."
+  „Dies ist der erste bedeutende Schritt des neuen Unternehmens von Senatorin Zemina Torval, einem autonomen Ableger von Mastopolos Mining. Möglicherweise ist die Präsenz von Wreaken Construction ein Versuch, ihren alten Feind zu zerschlagen, bevor sie weitere Konzernmacht erlangen kann."
+  Der Imperial Herald berichtete, dass Constantia Torval, eine der Töchter von Zemina Torval, vom System Synteini nach LTT 198 gereist ist. Es wird angenommen, dass Constantia das Kommando über die Operationen von Torval-Mastopolos Mining übernommen hat.
 ---
 
 

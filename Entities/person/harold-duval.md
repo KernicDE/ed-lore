@@ -9,6 +9,17 @@ bio: Harold Duval was a Prince of the Imperial Duval dynasty and father of Aisli
   Emperor Hengist Duval declared him unfit for the throne, after which he lived out of
   the public eye. In September 3306, he was assassinated by NMLA terrorists while making
   an unpublicised journey to visit his daughter Aisling in Cemiess.
+bio_de: |-
+  Harold Duval war ein Prinz der imperialen Dynastie Duval und der Vater von Prinzessin
+  Aisling Duval. Kaiser Hengist Duval erklärte ihn bekanntlich für den Thron ungeeignet,
+  woraufhin Harold weitgehend abseits der Öffentlichkeit auf Capitol lebte. Im September
+  3307 unternahm er eine nichtöffentliche Reise, um Aisling in Cemiess zu besuchen, nach
+  einem kürzlich erfolgten Terroranschlag in diesem System. Ein einzelner NMLA-Attentäter
+  drang in sein persönliches Transportmittel ein, erschoss den Prinzen aus nächster Nähe
+  und wurde anschließend von Wachen an Bord getötet. Die NMLA reklamierte die Tat für
+  sich, bezeichnete die Familie Duval als „imperialistische Parasiten“ und forderte die
+  Marlinisten auf, für eine demokratische Republik aufzustehen. Wie die NMLA von seiner
+  Reiseroute erfuhr, ist bis heute unbekannt.
 ---
 
 

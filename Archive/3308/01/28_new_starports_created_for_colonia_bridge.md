@@ -1,12 +1,17 @@
 ---
 uuid: 278d7924-2868-5862-8a08-2dda0d9462e2
 title: New Starports Created for Colonia Bridge
+title_de: Neue Sternenhäfen für die Colonia-Bridge errichtet
 slug: new_starports_created_for_colonia_bridge
 date: '3308-01-28'
 source: API
 summary: Six new starports are completed along the Colonia Bridge travel corridor.
+summary_de: Sechs neue Sternenhäfen entlang des Flugkorridors der Colonia-Bridge wurden
+  fertiggestellt.
 player_impact: Pilots who contributed to the project received engineered frame shift
   drives and naming rights.
+player_impact_de: Piloten, die zum Projekt beitrugen, erhielten modifizierte Frameshiftantriebe
+  und Namensrechte.
 groups:
 - Brewer Corporation
 - Canonn
@@ -19,6 +24,9 @@ arc_id: null
 modern_impact: '"The infrastructures of six starports have been completed along the
   travel corridor between Colonia and the core systems." The completion of these starports
   transforms deep-space exploration into a viable commercial route.'
+modern_impact_de: „Die Infrastrukturen von sechs Sternenhäfen wurden entlang des Flugkorridors
+  zwischen Colonia und den Kernsystemen fertiggestellt." Die Vollendung dieser Sternenhäfen
+  verwandelt die Tiefraumexploration in eine tragfähige Handelsroute.
 legacy_weight: 3
 significance: medium
 related_uuids:
@@ -27,6 +35,19 @@ related_uuids:
 - 8389259d-a648-5484-9e90-f4b45ab488d5
 - b88e6762-e193-5973-92b7-060b3f71309b
 - 0377cb77-df5d-5d2f-9e79-121abe877a31
+body_de: |
+  **ALARM DER PILOTENFÖDERATION**
+  Die Infrastrukturen von sechs Sternenhäfen wurden entlang des Flugkorridors zwischen Colonia und den Kernsystemen fertiggestellt.
+  Die Brewer Corporation bestätigte, dass fünf Sternenhafen-Rümpfe in Systemen errichtet wurden, die sich von Alcor aus verzweigen, mit einem sechsten näher am Colonia-System. Die neuen Stationen sind:
+  Zerreiss Station im Pru Euq WO-D b53-8-System
+  Helgrind Gateway im NGC 6530 Sector ZE-X b2-0-System
+  Vladmir McDoogle's Triumph im Flyiedge VN-W c4-51-System
+  Canonn Complex im Prua Phoe MI-B b17-5-System
+  Venatores Hub im Blua Eaec WW-E c14-1293-System
+  Promium Relay im Eoch Flyuae QK-E d12-2118-System
+  Derzeit sind die Sternenhäfen noch nicht voll funktionsfähig und bieten lediglich Dienste zum Wiederbewaffnen, Auftanken und Reparieren. Auch ein einfacher Warenhandel wurde eingerichtet, um Piloten den Verkauf von Baumaterialien zu ermöglichen und Tritium-Treibstoff zu liefern.
+  Eine vierte Phase des Colonia-Bridge-Projekts ist für den 10. Februar geplant, die den Bau fertigstellen und ein breiteres Angebot an Einrichtungen ergänzen soll.
+  Die Brewer Corporation konnte alle Ziele der dritten Phase erreichen dank der beträchtlichen Mengen an Rohmaterialien, die von der galaktischen Community geliefert wurden. Die Namen der neuen Sternenhäfen wurden von jenen Piloten ausgewählt, die den größten Beitrag zur Initiative leisteten.
 ---
 
 

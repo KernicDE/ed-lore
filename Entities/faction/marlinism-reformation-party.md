@@ -17,6 +17,20 @@ bio: 'Marlinism Reformation Party is a organization active in Elite Dangerous lo
   arrive in the Marlinist Colonies aboard the Steel Majesty, requesting asylum.; Senator
   Lorcan Scordato negotiates a conditional amnesty for the Neo-Marlinist Order of
   Mudhrid.'
+bio_de: |-
+  Die Marlinism Reformation Party ist eine neomarlinistische politische Fraktion unter
+  Führung von Minister Aaron Whyte, die Mitte 3307 aus den Marlinist Colonies hervorging.
+  Whyte bestätigte, dass die Partei das Ziel verfolgte, den neomarlinistischen Rand
+  politisch zu vertreten, und dafür „sinnvollen Dialog und öffentlichen Druck" statt
+  gewaltsamer Erhebung zur Beendigung der Herrschaft der Familie Duval befürwortete.
+
+  Der Versuch der Partei, den Neo-Marlinismus als den Mainstream-Idealen des Marlinismus
+  näherstehend neu zu positionieren, löste große Besorgnis aus; Beobachter warnten, sie
+  könne als politischer Arm der NMLA fungieren. Im System Hyades Sector RO-P b6-2 stürzten
+  die Wähler die Marlinism Reformation Party, nachdem sie Überlebenden des Neo-Marlinist
+  Order of Mudhrid Asyl gewährt hatte. Die Existenz der Partei vertiefte die Spaltung
+  innerhalb der Marlinist Colonies darüber, ob man mit extremistischen Elementen
+  zusammenarbeiten oder sie ablehnen sollte.
 ---
 
 

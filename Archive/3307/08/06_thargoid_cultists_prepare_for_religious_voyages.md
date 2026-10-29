@@ -1,13 +1,19 @@
 ---
 uuid: b519a730-66c9-597e-ba6d-1455afbba73c
 title: Thargoid Cultists Prepare for Religious Voyages
+title_de: Thargoid-Kultisten bereiten religiöse Reisen vor
 slug: thargoid_cultists_prepare_for_religious_voyages
 date: '3307-08-06'
 source: API
 summary: The Far God cult outfits three megaships for missionary and pilgrimage journeys
   throughout the core systems, seeking converts to their Thargoid-worshipping sect.
+summary_de: Der Fernen-Gott-Kult stattet drei Megaschiffe für Missions- und Pilgerreisen
+  durch die Kernsysteme aus, um neue Anhänger für ihre Thargoid-anbetende Sekte zu
+  gewinnen.
 player_impact: Pilots observed Far God cult megaship movements throughout the core
   systems.
+player_impact_de: Piloten beobachteten die Bewegungen der Megaschiffe des Fernen-Gott-Kults
+  durch die Kernsysteme.
 persons:
 - Alfred Ulyanov
 groups:
@@ -17,11 +23,21 @@ topics:
 arc_id: thargoid-contact
 modern_impact: The Far God cult remains an enduring fringe religious movement devoted
   to the worship of Thargoids as divine messengers.
+modern_impact_de: Der Ferne-Gott-Kult bleibt eine beharrliche Randreligionsbewegung,
+  die die Thargoids als göttliche Boten verehrt.
 legacy_weight: 3
 significance: medium
 related_uuids:
 - 1a9ea3a2-4fff-584f-a67b-69d3588bfa7d
 - c287c2a7-76b5-56e3-b371-7a4b66fdfc6f
+body_de: |
+  Drei Megaschiffe werden vom Fernen-Gott-Kult besetzt, Teil seines jüngsten Bemühens, Mitglieder anzuwerben und seine außerirdische Gottheit zu finden.
+  Das erste Schiff, die Testament, wird als Missionsschiff durch die Kernsysteme reisen und versuchen, der Thargoid-anbetenden Sekte neue Anhänger zuzuführen.
+  Obwohl der mystische Kult von Natur aus geheimnisvoll ist, erhielt die Vox Galactica ein Zitat von einem Mitglied namens Second Witness of the Seventieth Chapter:
+  „Die Massen sind taub für die Stimme des Fernen Gottes. Was ihr als außerirdische Monster seht, betrachten wir als Boten eines sehr realen mehrdimensionalen Wesens. Die Testament wird uns helfen, die Botschaft von seiner bevorstehenden Ankunft zu verbreiten."
+  Zwei weitere Megaschiffe wurden für Langstreckenreisen ausgestattet. Die Perdition und die Sacrosanct werden viele tausend Kultisten auf das führen, was sie als Pilgerreise zum Fernen Gott betrachten.
+  Dr. Alfred Ulyanov, ein führender Exotheologe und Experte für die Religion, kommentierte:
+  „Dieser Randglaube, der endlose Schmähungen und Angriffe überlebt hat, erreicht nun ein überraschendes Maß an Organisation. Die meisten von uns verbinden die Thargoids mit Tod und Zerstörung, wodurch es umso bemerkenswerter ist, dass diese Menschen nur Göttlichkeit sehen."
 ---
 
 

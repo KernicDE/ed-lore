@@ -1,13 +1,19 @@
 ---
 uuid: 859a4930-894d-5ce5-be9e-a7748fa13041
 title: Torval Loses Control of Mastopolos Mining
+title_de: Torval verliert Kontrolle über Mastopolos Mining
 slug: torval_loses_control_of_mastopolos_mining
 date: '3307-10-01'
 source: API
 summary: Senator Zemina Torval is removed from the Mastopolos Mining board of directors
   and loses her majority shareholder position, while her daughter Constantia announces
   Torval-Mastopolos Mining has been elected as the controlling authority of LTT 198.
+summary_de: Senatorin Zemina Torval wird aus dem Verwaltungsrat von Mastopolos Mining
+  entfernt und verliert ihre Position als Mehrheitsaktionärin, während ihre Tochter
+  Constantia verkündet, dass Torval-Mastopolos Mining zur kontrollierenden Autorität
+  von LTT 198 gewählt wurde.
 player_impact: None
+player_impact_de: Keine
 persons:
 - Zemina Torval
 - Gabriella Mastopolos
@@ -18,6 +24,8 @@ groups:
 topics:
 - corporate expansion
 modern_impact: Corporate rivalries in the Empire shape mining and transportation markets.
+modern_impact_de: Konzernrivalitäten im Imperium prägen die Märkte für Bergbau und
+  Transport.
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -27,6 +35,14 @@ related_uuids:
 - 8166b978-b215-5a99-a096-f6343aff213e
 - d34ec694-ba30-54ef-9995-81bcde8230a5
 - a2cbc388-713a-5948-95fc-7179a8dcad7e
+body_de: |
+  Senatorin Zemina Torval hat ihre seit langem gehaltene Position als Mehrheitsaktionärin von Mastopolos Mining aufgegeben.
+  Offizielle Berichte bestätigten, dass der Verwaltungsrat einen Beschluss fasste, Zemina Torval aus ihren Reihen zu entfernen. Anschließend wurden über die Hälfte ihrer Aktien verkauft, wodurch ihr persönlicher Einfluss auf das Unternehmen drastisch verringert wurde.
+  Ein anonymer Insider gab gegenüber The Imperial Herald eine Erklärung ab:
+  „Gabriella Mastopolos hat den übrigen Aktionären kristallklar gemacht, dass es Zeit war, Zemina Torval von ihrem Thron zu stoßen. Aber was sie überraschte, war Torvals fehlender Widerstand gegen diesen Druck … fast so, als hätte sie schon die ganze Zeit vorgehabt zurückzutreten."
+  „Ich habe gehört, dass jeder Kredit aus dem Aktienverkauf direkt in die Tochtergesellschaft floss, die ihre Tochter leitet. Vielleicht setzt sie also alles auf eine Karte?"
+  In einem Zusammenhang damit gab Constantia Torval, Betriebsleiterin von Torval-Mastopolos Mining, eine Ankündigung ab:
+  „Ich bin stolz darauf verkünden zu dürfen, dass die Menschen von LTT 198 Torval-Mastopolos Mining gewählt haben, um die LTT 198 State Ltd als kontrollierende Autorität abzulösen. Zugangslizenzen zum System können über das Megaschiff Pride of Bitterwood verdient werden, das sich weiterhin im nahen System EGM 559 befindet."
 ---
 
 

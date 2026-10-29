@@ -1,13 +1,18 @@
 ---
 uuid: 8389259d-a648-5484-9e90-f4b45ab488d5
 title: Colonia Bridge Project Launches Phase Three
+title_de: Colonia-Bridge-Projekt startet Phase drei
 slug: colonia_bridge_project_launches_phase_three
 date: '3308-01-06'
 source: API
 summary: Brewer Corporation launches phase three of the Colonia Bridge project to
   construct new starports.
+summary_de: Die Brewer Corporation startet Phase drei des Colonia-Bridge-Projekts zum
+  Bau neuer Sternenhäfen.
 player_impact: Pilots were asked to deliver ceramic composites, computer components,
   and thermal cooling units to Jaques Station and Macdonald Settlement.
+player_impact_de: Piloten wurden gebeten, Keramikverbundwerkstoffe, Computerkomponenten
+  und Wärmetauscher-Einheiten zur Jaques Station und zur Macdonald Settlement zu liefern.
 groups:
 - Brewer Corporation
 locations:
@@ -22,6 +27,10 @@ arc_id: null
 modern_impact: '"Phase three aims to enhance the Colonia Bridge by building permanent
   starports in key locations along the route." Brewer Corporation''s infrastructure
   expansion solidifies Colonia as a permanent settlement and opens new economic frontiers.'
+modern_impact_de: „Phase drei zielt darauf ab, die Colonia Bridge durch den Bau permanenter
+  Sternenhäfen an Schlüsselstandorten entlang der Route auszubauen." Der Ausbau der
+  Infrastruktur durch die Brewer Corporation festigt Colonia als dauerhafte Siedlung
+  und eröffnet neue wirtschaftliche Grenzen.
 legacy_weight: 3
 significance: medium
 related_uuids:
@@ -32,6 +41,16 @@ related_uuids:
 - 0377cb77-df5d-5d2f-9e79-121abe877a31
 - 0e12eeff-5c39-5497-9c8f-6709814786be
 - c51dda76-58cf-516a-98a9-51c91b991b75
+body_de: |
+  **Warnung der Pilotenföderation**
+  Die Brewer Corporation beabsichtigt, die Reiseroute zwischen den Systemen Alcor und Colonia durch den Bau mehrerer neuer Sternenhäfen zu verbessern.
+  Die beiden vorherigen Phasen des Colonia-Bridge-Projekts errichteten stationäre Megaschiffe in 56 Systemen. Diese bieten Rast-, Betankungs- und Reparatureinrichtungen für Schiffe, die die 22.000 Lichtjahre lange Reise in die Colonia-Region und zurück unternehmen. Die zusätzliche Infrastruktur hat zudem die Menge an verfügbarem Tritium auf diesen Märkten erhöht und die Reise für Schiffe der Hauptkampfschiffgröße erleichtert.
+  Eine Pressemitteilung der Brewer Corporation skizzierte diese neueste Initiative:
+  „Phase drei zielt darauf ab, die Colonia Bridge durch den Bau permanenter Sternenhäfen an Schlüsselstandorten entlang der Route auszubauen. Diese bieten Reisenden ein breites Dienstleistungsangebot und dienen zugleich als Heimstatt für die vielen neuen Gemeinschaften, von denen wir erwarten, dass sie um sie herum entstehen."
+  „Unser Plan ist, einen Sternenhafen in der Umgebung von Colonia zu errichten und bis zu fünf Sternenhäfen, die sich von Alcor aus erstrecken. Die Stationsstrukturen werden bis zum 27. Januar zusammengebaut; zusätzliche Dienstleistungen sind für einen späteren Zeitpunkt vorgesehen."
+  „Piloten werden gebeten, Keramikverbundwerkstoffe, Computerkomponenten und Wärmetauscher-Einheiten zur Jaques Station im Colonia-System und zur Macdonald Settlement im Alcor-System zu liefern."
+  „Unter der Annahme, dass die Lieferungen das erforderliche Niveau erreichen, werden technisch verbesserte Frameshiftantriebe erneut als Belohnung verfügbar sein."
+  „Der größte Mitwirkende in Colonia und bis zu die fünf besten Mitwirkenden in Alcor werden eingeladen, Namensvorschläge für die neuen Sternenhäfen einzureichen. Alle Namenseinreichungen unterliegen der Prüfung durch den Vorstand der Brewer Corporation."
 ---
 
 

@@ -1,12 +1,16 @@
 ---
 uuid: 2802af31-31af-56d3-820a-8de1dabfd0b8
 title: Federal Government Plans for the Future
+title_de: Die Föderation plant für die Zukunft
 slug: federal_government_plans_for_the_future
 date: '3308-01-21'
 source: API
 summary: President Zachary Hudson delivers a congressional address outlining Federal
   security priorities for the coming years.
+summary_de: Präsident Zachary Hudson hält eine Rede vor dem Kongress, in der er die
+  Sicherheitsprioritäten der Föderation für die kommenden Jahre umreißt.
 player_impact: Not specifically mentioned — this is a political report.
+player_impact_de: Keine — es handelt sich um einen politischen Bericht.
 persons:
 - Zachary Hudson
 groups:
@@ -26,6 +30,9 @@ arc_id: federal-politics
 modern_impact: '"In the last few years we have seen extraordinary threats to our people,
   from the Thargoids to the NMLA." Hudson''s speech frames Federal policy around perpetual
   crisis management, justifying expanded presidential powers.'
+modern_impact_de: '"In den letzten Jahren sahen wir außergewöhnliche Bedrohungen unseres
+  Volkes, von den Thargoids bis zur NMLA." Hudsons Rede rahmt die Politik der Föderation
+  als permanente Krisenbewältigung und legitimiert erweiterte Befugnisse des Präsidenten.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -33,6 +40,14 @@ related_uuids:
 - 83d655f9-5cb4-5fb1-baa5-f5c64bb30cbf
 - a593babc-119b-5679-9171-3c1520208d98
 - c37c6407-9b19-540b-b403-c04589f125a2
+body_de: |
+  Präsident Zachary Hudson hat eine Rede vor dem Kongress gehalten, in der es um die Sicherheit der Föderation in den kommenden Jahren ging.
+  Auszüge aus seiner Ansprache:
+  „Im vergangenen Jahr haben wir uns hervorragend darauf verstanden, föderale Bürger vor Schaden zu bewahren. Das Proactive Detection Bureau hat seinen Wert bei der Ortung von Terroristen, noch bevor sie zuschlagen konnten, unter Beweis gestellt, und unsere Sicherheitsdienste spielten eine entscheidende Rolle bei der Niederlage der NMLA."
+  „Das Jahr 3308 bringt bereits viele Herausforderungen. Der Krieg gegen die Thargoids könnte jederzeit eskalieren, und wir stehen vor der Aufgabe, Aegis durch unsere eigene Anti-Xeno-Einheit zu ersetzen. Wir sind auch zutiefst besorgt über den wachsenden Machtkampf innerhalb der Allianz und des Imperiums, der leicht auf unser Territorium übergreifen könnte."
+  „Meine Regierung führt Gespräche auf höchster Ebene darüber, wie die Föderation am besten stark und sicher bleibt. Wir werden bald einige mutige Vorschläge vorlegen, um das verfassungsmäßige Recht unseres Volkes auf Sicherheit weiterhin zu erfüllen."
+  Schattenpräsidentin Felicia Winters gab folgende Gegendarstellung ab:
+  „Präsident Hudson verschweigt seinen desaströsen Versuch, Yuri Grom gefangen zu nehmen, die Verurteilung seines ehemaligen Flottenadmirals wegen Zerstörung der Starship One sowie die Tatsache, dass sein Überwachungsgesetz mehrere Systeme zur Unabhängigkeit gezwungen hat. Ich würde argumentieren, dass die Föderation unter seiner Führung niemals schwächer oder weniger sicher war."
 ---
 
 

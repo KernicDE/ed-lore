@@ -9,6 +9,18 @@ bio: Dr Ruben Carpenter is the head of research at Taurus Mining Ventures, an in
   mining corporation closely associated with the enigmatic figure known as Salvation.
   In early 3308 he led scientific studies investigating unusual radioactive signatures
   in the Synuefe CE-R c21-6 system.
+bio_de: Dr. Ruben Carpenter leitet die Forschungsabteilung von Taurus Mining Ventures,
+  einem unabhängigen Bergbauunternehmen, das als Vermittler für die Operationen von
+  Salvation gegen die Thargoiden fungiert hat. Im März 3308 leitete Carpenter eine
+  wissenschaftliche Studie im System Synuefe CE-R c21-6, nachdem die Megaschiffe
+  des Unternehmens atypische radioaktive Signaturen entdeckt hatten, die die molekulare
+  Struktur bestimmter natürlicher Substanzen verändert hatten.
+  Nach der ersten Forschungsphase kündigte Carpenter Pläne an, bergbare, von der
+  Strahlung betroffene Ressourcen zu identifizieren und zu fördern, mit der These,
+  dass die veränderten Erze nach der Verarbeitung einen hohen kommerziellen Wert
+  haben könnten. Taurus Mining Ventures vergab den Bergbauauftrag anschließend an
+  unabhängige Piloten in Unterauftrag, wobei Carpenter weitere Details zur Förderkampagne
+  und ihren Belohnungen versprach.
 ---
 
 

@@ -1,12 +1,16 @@
 ---
 uuid: 7b7745c9-370b-5830-b4a1-69cded66ee9e
 title: ACT Defies Imperial Decree
+title_de: ACT trotzt Imperialem Dekret
 slug: act_defies_imperial_decree
 date: '3308-02-01'
 source: API
 summary: ACT continues investigating Imperial Intelligence despite the Senate ordering
   it to cease operations.
+summary_de: ACT untersucht den Imperialen Geheimdienst weiter, obwohl der Senat die
+  Einstellung aller Tätigkeiten angeordnet hat.
 player_impact: Not specifically mentioned — this is a political report.
+player_impact_de: Keine — es ist ein politischer Bericht.
 groups:
 - Alliance
 - NMLA
@@ -21,6 +25,10 @@ modern_impact: '"ACT is actively investigating Imperial Intelligence, despite th
   Senate ordering it to cease operations." ACT''s defiance of the Senate underscores
   the taskforce''s commitment to exposing the NMLA conspiracy regardless of political
   consequences.'
+modern_impact_de: „ACT ermittelt aktiv gegen den Imperialen Geheimdienst, obwohl der
+  Senat die Einstellung aller Tätigkeiten angeordnet hat." ACTs Trotz gegen den Senat
+  unterstreicht das Engagement der Ermittlungsgruppe, die NMLA-Verschwörung ungeachtet
+  der politischen Folgen aufzudecken.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -34,6 +42,15 @@ related_uuids:
 - 2ea3fdf7-8814-5eda-9967-368c424dfcb0
 - 4fe5c0a6-b22f-549b-b11e-0eb1a9c1bac3
 - 37702c1f-2c71-55fb-932e-b8dfeb29d626
+body_de: |
+  Die Counter-Terrorism-Einheit ACT ermittelt aktiv gegen den Imperialen Geheimdienst, obwohl der Senat die Einstellung aller Tätigkeiten angeordnet hat.
+  Inspector Mara Klatt, eine der Co-Leiterinnen von ACT, sagte den Medien:
+  „Wir sind überzeugt, dass Elemente innerhalb des Imperialen Geheimdienstes der NMLA Unterstützung geleistet haben. Unsere Ansicht ist, dass eine modifizierte Version der Omega-Grid-Software an die Terroristen geliefert wurde, die es ihnen ermöglichte, ein eigenes Dark-Comms-Netzwerk aufzubauen. Dank der Insiderkenntnisse von Captain Saskia Landau lernen wir, eine eindeutige Kennung zu erkennen, die mit dem von der NMLA genutzten Netzwerk verknüpft ist."
+  „Unsere Handlungen mögen politische Konsequenzen haben, aber diese Ermittlungsgruppe ist darauf ausgerichtet, die NMLA zu finden und zu vernichten. Wir müssen der Spur folgen, wohin sie auch führt."
+  Zivile und militärische Führungskräfte im Imperium reagierten empört, darunter Senatorin Zemina Torval:
+  „Sollen wir das Leben unserer Bürger riskieren, indem wir unsere Sicherheitsbehörden angreifbar machen? Wie würden die Allianz oder die Föderation reagieren, wenn wir versuchten, in Interpol oder die FIA einzudringen?"
+  Doch Prinzessin Aisling Duval appellierte zur Zusammenarbeit:
+  „Wenn niederträchtige Gruppen innerhalb unseres Imperiums der NMLA geholfen haben, müssen wir die Wahrheit aufdecken. Ich bin fest überzeugt, dass die Kaiserin selbst weiterhin in Gefahr ist, und ACT könnte uns helfen, ihr Schicksal zu erfahren."
 ---
 
 

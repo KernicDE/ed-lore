@@ -1,6 +1,7 @@
 ---
 uuid: ef028c66-1901-5fef-af9f-2c741a9066b6
 title: Four Federal Systems Declare Independence
+title_de: Vier Föderale Systeme erklären ihre Unabhängigkeit
 slug: four_federal_systems_declare_independence
 date: '3307-06-29'
 source: API
@@ -9,7 +10,13 @@ summary: The Azaladshu Free faction secedes from the Federation, declaring its f
   calls the Federation corrupt and authoritarian. Congress declares secession illegal
   and orders the Federal Navy on alert. Hudson blames criminal behaviour; Winters
   blames the PDB itself.
+summary_de: Die Fraktion Azaladshu Free tritt aus der Föderation aus und erklärt ihre
+  vier Systeme aus Protest gegen die Überwachungsgesetze für unabhängig. Bürgermeisterin
+  Constanza Noguera nennt die Föderation korrupt und autoritär. Der Kongress erklärt
+  den Austritt für illegal und versetzt die Föderale Marine in Bereitschaft. Hudson
+  gibt kriminellem Verhalten die Schuld, Winters dagegen dem PDB selbst.
 player_impact: None directly; this is a political secession announcement.
+player_impact_de: Keine
 persons:
 - Constanza Noguera
 - Zachary Hudson
@@ -39,6 +46,10 @@ arc_id: federal-politics
 modern_impact: The Azaladshu secession triggers a chain reaction across Federal space,
   with multiple factions following suit. It becomes the most serious constitutional
   crisis in Federation history, exposing the deep fractures caused by the PDB.
+modern_impact_de: Die Abspaltung von Azaladshu löst eine Kettenreaktion im gesamten
+  Föderalen Raum aus, bei der mehrere Fraktionen nachziehen. Sie wird zur schwersten
+  Verfassungskrise in der Geschichte der Föderation und legt die tiefen Brüche offen,
+  die der PDB verursacht hat.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -48,6 +59,15 @@ related_uuids:
 - bc50ffda-083d-5387-b532-bfc39ae6807f
 - be0ab3b9-00aa-579f-b1cc-df4dd1f85d1e
 - f02f048f-667a-5947-9236-9330633d8a5f
+body_de: |
+  Die Fraktion Azaladshu Free, die vier Systeme kontrolliert, ist aus Protest gegen die zivile Überwachung aus der Föderation ausgetreten.
+  Die unerwartete Erklärung folgte auf die Wahl einer neuen Führung für Azaladshu Free, die derzeit die Systeme Azaladshu, LFT 824, LHS 277 und LTT 3919 kontrolliert.
+  Bürgermeisterin Constanza Noguera verkündete:
+  „Die Föderation ist korrupt, autoritär und unvertrauenswürdig geworden. Insbesondere die öffentlichen Überwachungsgesetze zur Ausspähung unschuldiger Menschen sind nicht zu tolerieren. Von nun an regieren wir unsere Systeme als unabhängige souveräne Nationen."
+  Politische Beobachter gehen davon aus, dass mehrere weitere föderale Fraktionen ebenfalls eine Unabhängigkeitserklärung planen. Alle liegen im Einflussbereich der Schattenpräsidentin Felicia Winters, die diese Maßnahmen jedoch öffentlich jede Unterstützung verweigert hat.
+  Der Kongress erklärte, dass die Abspaltung nach dem Föderalen Abkommen illegal sei, und ordnete an, dass Azaladshu Free in den normalen Mitgliedsstatus zurückkehre. Die Föderale Marine und andere Militärorganisationen wurden in Bereitschaft versetzt.
+  Präsident Hudson reagierte heftig mit der Bemerkung: „Dieses Maß an organisiertem kriminellem Verhalten beweist nur, dass das Proactive Detection Bureau nötig ist, um die Ordnung aufrechtzuerhalten."
+  Schattenpräsidentin Winters konterte mit der Behauptung: „Der Entzug des Rechts auf Privatsphäre unserer Bürger ist die Ursache dieses Aufstands, nicht die Lösung."
 ---
 
 

@@ -1,12 +1,17 @@
 ---
 uuid: 1901654e-30be-5b06-afc2-e81f83740987
 title: Zemina Torval Creates New Corporation
+title_de: Zemina Torval gründet neuen Konzern
 slug: zemina_torval_creates_new_corporation
 date: '3307-08-10'
 source: API
 summary: Senator Zemina Torval establishes Torval-Mastopolos Mining, an autonomous
   offshoot of Mastopolos Mining, signaling a potential rift with CEO Gabriella Mastopolos.
+summary_de: Senatorin Zemina Torval gründet Torval-Mastopolos Mining, einen autonomen
+  Ableger von Mastopolos Mining. Das deutet auf einen möglichen Bruch mit CEO Gabriella
+  Mastopolos hin.
 player_impact: None
+player_impact_de: Keine
 persons:
 - Zemina Torval
 - Gabriella Mastopolos
@@ -18,6 +23,7 @@ groups:
 topics:
 - corporate expansion
 modern_impact: Corporate rivalries in the Empire shape mining and transportation markets.
+modern_impact_de: Konzernrivalitäten im Imperium prägen die Bergbau- und Transportmärkte.
 legacy_weight: 3
 significance: medium
 related_uuids:
@@ -26,6 +32,14 @@ related_uuids:
 - 8166b978-b215-5a99-a096-f6343aff213e
 - 859a4930-894d-5ce5-be9e-a7748fa13041
 - 9d3f4421-0a7a-5e83-a7b1-cbde9daa8fb3
+body_de: |
+  Eine neue, unabhängige Tochtergesellschaft von Mastopolos Mining wurde von deren Mehrheitseignerin, Senatorin Zemina Torval, gegründet.
+  Der Megakonzern gehört der mächtigen Familie Mastopolos und ist im gesamten Imperium und darüber hinaus tätig. Torvals Position als Mehrheitseignerin erlaubte ihr jedoch, einen starken Einfluss auf seine Geschäfte auszuüben.
+  Senatorin Torval bestätigte ihre Pläne in einer Erklärung gegenüber dem Imperial Herald:
+  „Diversifizierung ist im derzeitigen Geschäftsklima eine wirksame Strategie. Torval-Mastopolos Mining wird unternehmerische Autonomie besitzen und dabei derselben Klientel Bergbau- und Transportdienstleistungen anbieten."
+  Marlon Royce, Wirtschaftsanalyst der Vox Galactica, berichtete:
+  „Die hartnäckigen Gerüchte über einen Bruch zwischen Zemina Torval und ihrer Cousine, CEO Gabriella Mastopolos, könnten sich nun bewahrheiten. Insider berichten, Torval wolle nach Jahrzehnten der Hintergrundarbeit ihren eigenen Kindern ein greifbareres Vermächtnis hinterlassen. Bereits jetzt hat sie ein permit-kontrolliertes System als Hauptsitz für dieses neue Unternehmen ins Auge gefasst."
+  Zemina Torval ist nicht nur für ihren privaten Reichtum und ihre Unternehmen bekannt, sondern seit Jahrzehnten auch ein prominentes Mitglied des Imperialen Senats. Gelegentlich vertrat sie den Kanzler und gilt als unerschrockene Verfechterin der Traditionen des Imperiums.
 ---
 
 

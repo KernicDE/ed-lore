@@ -17,6 +17,13 @@ bio: Imperial Diplomatic Corps is a corporate in the Elite Dangerous universe, a
   Princess Aisling Duval's plan to lead a limited Imperial contribution to a reformed
   Aegis. Senator Lorcan Scordato proposes formal diplomatic relations between the
   Empire and Marlinist Colonies.
+bio_de: Imperial Diplomatic Corps ist ein Unternehmen im Elite-Dangerous-Universum,
+  das vom 28.06.3307 bis zum 31.01.3309 aktiv war. Häufig in Verbindung mit Allianz,
+  Imperialer Senat, Marlinism Reformation Party. Kaiserin Arissa Lavigny-Duval stimmt
+  überraschend Prinzessin Aisling Duvals Plan zu, einen begrenzten imperialen Beitrag
+  zu einer reformierten Aegis anzuführen. Senator Lorcan Scordato schlägt formelle
+  diplomatische Beziehungen zwischen dem Imperium und den Marlinist-Colonies vor.
+---
 ---
 
 

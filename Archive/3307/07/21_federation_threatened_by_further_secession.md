@@ -1,6 +1,7 @@
 ---
 uuid: d78b9f69-dd13-5d3c-8970-3f9237691ebe
 title: Federation Threatened by Further Secession
+title_de: Föderation durch weitere Abspaltungen bedroht
 slug: federation_threatened_by_further_secession
 date: '3307-07-21'
 source: API
@@ -9,7 +10,13 @@ summary: Federal Times journalist Sofia Trevino reports that dozens of factions 
   severed PDB links. Advocacy claims the FIA is arresting secessionist leaders on
   spurious charges. Both Hudson and Winters contact system leaders to prevent further
   secession.
+summary_de: Die Journalistin der Federal Times, Sofia Trevino, berichtet, dass Dutzende
+  Fraktionen nach Azaladshus Erfolg die Unabhängigkeit erwägen. Die abgespaltenen Systeme
+  haben die Verbindungen zum PDB gekappt. Advocacy wirft der FIA willkürliche Verhaftungen
+  sezessionistischer Führer vor. Sowohl Hudson als auch Winters kontaktieren Systemführer,
+  um weitere Abspaltungen zu verhindern.
 player_impact: None directly; this is a political analysis piece.
+player_impact_de: Keine; dies ist ein politischer Analyseartikel.
 persons:
 - Sofia Trevino
 - Zachary Hudson
@@ -46,6 +53,10 @@ modern_impact: The spreading secession crisis represents the most serious threat
   Federal unity in modern history, with the PDB's surveillance backlash revealing
   the fragility of the Federal constitutional order when civil liberties are sacrificed
   for security.
+modern_impact_de: Die sich ausbreitende Sezessionskrise ist die ernsthafteste Bedrohung
+  für die Einheit der Föderation in der modernen Geschichte. Der Rückschlag gegen die
+  Überwachung des PDB zeigt die Fragilität der föderalen verfassungsmäßigen Ordnung,
+  wenn Bürgerrechte zugunsten der Sicherheit geopfert werden.
 legacy_weight: 4
 significance: medium
 related_uuids:
@@ -53,6 +64,13 @@ related_uuids:
 - e4cda542-a808-5a96-88dc-7794f1fd7e41
 - e962c6b8-fd3d-59c4-847f-27923ec53502
 - ef028c66-1901-5fef-af9f-2c741a9066b6
+body_de: |
+  Weitere föderale Fraktionen erwägen, nach dem jüngsten Konflikt im System Azaladshu die Unabhängigkeit zu erklären.
+  Sofia Trevino, politische Journalistin bei der Federal Times, veröffentlichte einen Überblick über die Lage:
+  „Als sich Azaladshu Free als Reaktion auf die Überwachungsgesetze der Regierung abspaltete, inspirierte dies drei weitere Fraktionen zum gleichen Schritt – zehn Systeme und eine Milliarde Menschen wurden unabhängig. Supermächte gewinnen und verlieren Systeme routinemäßig durch lokale Politik, doch dies war ein seltener Fall, in dem Mitgliedsfraktionen ihre Treue aufkündigten."
+  „Die neuen souveränen Nationen haben alle Verbindungen zum Proactive Detection Bureau gekappt, sodass ihre Kommunikation nicht mehr überwacht wird. Trotz breiter öffentlicher Unterstützung für den Gesetzentwurf zur inneren Terrorismusbekämpfung betrachten viele Bürger die persönliche Privatsphäre weiterhin als verfassungsmäßiges Recht."
+  „Dutzende anderer Fraktionen erwägen nun die Unabhängigkeit. Das betrifft nur einen kleinen Prozentsatz der Systeme unter föderaler Kontrolle, ist aber für Präsident Hudson ebenso wie für Schattenpräsidentin Winters höchst peinlich – ihr organisierter Widerstand gegen die Überwachungsgesetze war es, der Fraktionen zur Abspaltung inspirierte."
+  „Advocacy, die Bürgerrechtsorganisation, behauptet, die Federal Intelligence Agency habe begonnen, sezessionistische Rädelsführer unter fadenscheinigen Vorwürfen zu verhaften. Falls das zutrifft, deutet es darauf hin, dass die Regierung jedes Mittel anwenden wird, um eine Rebellion in vollem Ausmaß, die sich über die gesamte Föderation ausbreiten könnte, zu verhindern."
 ---
 
 

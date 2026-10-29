@@ -11,6 +11,10 @@ bio: 'Arastin Delacroix is a Senator in Elite Dangerous lore, active from 3307-0
   Order of Mudhrid after ACT confirms the faction provided logistical support for
   the NML...; The Neo-Marlinist Order of Mudhrid is defeated in the Mudhrid system
   by Imperial forces.'
+bio_de: |-
+  Arastin Delacroix ist Landgraf von Mudhrid und Führer der Neo-Marlinistischen Order von Mudhrid, einer Fraktion, die logistische Unterstützung für die Sternenhafen-Bombenanschläge der NMLA leistete. Im April 3307 bestätigten ACT-Ermittlungen, dass Delacroixs Agenten örtliche Fraktionen infiltriert hatten, um Enzymbomben zu ihren Zielen zu transportieren. Von seinem Flottenträger, der Steel Majesty, aus rief er zur Revolution gegen die kaiserliche Familie auf und forderte alle, die die bestehende Ordnung ändern wollten, auf, sich ihm anzuschließen.
+
+  Delacroixs Truppen wurden von der Epsilon-Fornacis-Empire-Group besiegt, und später handelte er mit Senator Lorcan Scordato eine bedingte Amnestie aus. Im Austausch für die Enthüllung der Identitäten der NMLA-Führung erhielten Delacroix und sein enger Kreis lebenslange Haftstrafen, während die Bevölkerung der Steel Majesty einer Sicherheitsüberprüfung unterzogen wurde. Sein Fall veranschaulicht, wie imperiale Adelige in Terrorbewegungen hineingezogen werden konnten, und seine Kooperation lieferte entscheidende Erkenntnisse für die laufenden ACT-Ermittlungen.
 ---
 
 

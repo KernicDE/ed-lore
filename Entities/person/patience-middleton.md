@@ -11,6 +11,19 @@ bio: 'Patience Middleton is a Admiral in Elite Dangerous lore, active from 3307-
   to pilots who discovered the Hesperus, authorising Taurus Mining Ventures to pay
   for logs and pro...; Pilots discover the Proteus, an Anaconda from the Hesperus,
   at a historical battlefield on Trapezium Sector YU-X c1-2 1a.'
+bio_de: Patience Middleton ist Vertreterin von Taurus Mining Ventures, dem
+  kommerziellen Partner des mysteriösen Anti-Xeno-Wissenschaftlers, bekannt als
+  Salvation. Im Mai 3307 gab sie bekannt, dass Salvation Zahlungen von zwei Millionen
+  Credits oder zehn Einheiten Void Opals für Piloten autorisiert habe, die Protokolle
+  vom Megaschiff Hesperus zur Asteroidenbasis Hind Mine im T-Tauri-System lieferten.
+  Middletons Rolle als Unternehmensvermittlerin ermöglichte es Salvation, seine
+  Anonymität zu wahren und gleichzeitig Piloten für seine Operationen anzuwerben. Sie
+  übermittelte Salvations Botschaft, seine wissenschaftlichen Durchbrüche würden
+  „buchstäblich die gesamte Menschheit retten", und bestätigte, dass weitere
+  Aufträge für unerschrockene Agenten folgen würden. Ihre Position bei Taurus Mining
+  Ventures veranschaulicht, wie Salvation legitime Unternehmensstrukturen nutzte, um
+  seinen Hintergrund bei Azimuth Biochemicals zu verschleiern und Ressourcen für seine
+  Forschung an einer Superwaffe auf Guardian-Basis zu beschaffen.
 ---
 
 

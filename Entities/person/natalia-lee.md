@@ -10,6 +10,11 @@ bio: Natalia Lee is a admiral in the Elite Dangerous universe, active from 3307-
   Admiral Natalia Lee of the Harmony's Shield declares the Federation will enact justice
   for the NMLA bombings, while Hadrian Duval calls for Imperial defence under the
   Treaty of Paresa.
+bio_de: Natalia Lee ist eine Admiralin im Elite-Dangerous-Universum, aktiv von
+  3307-05-06 bis 3307-05-06. Sie steht in engem Zusammenhang mit Liga von Mandu,
+  Pilotenföderation und NMLA. Admiral Natalia Lee von der Harmony's Shield erklärt,
+  die Föderation werde für die NMLA-Bombenanschläge Gerechtigkeit durchsetzen,
+  während Hadrian Duval zum imperialen Schutz gemäß dem Vertrag von Paresa aufruft.
 ---
 
 

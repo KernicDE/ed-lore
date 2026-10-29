@@ -15,6 +15,13 @@ bio: GalNet is a media in the Elite Dangerous universe, active from 3307-12-21 t
   18th and 19th, stating their technical teams are investigating the breach. GalNet
   apologises for a second batch of unauthorised Winking Cat riddles transmitted on
   December 24th-26th, confirming security protocols have been reinforced.
+bio_de: GalNet ist ein Medium im Elite-Dangerous-Universum, das vom 21.12.3307 bis
+  zum 27.12.3307 aktiv war. Häufig in Verbindung mit Pilots Federation, keine Angabe,
+  Shinrarta Dezhra. GalNet entschuldigt sich für unbefugte Artikel, die am 17., 18. und
+  19. Dezember übertragen wurden, und erklärt, dass seine Technikteams den Vorfall untersuchen.
+  GalNet entschuldigt sich außerdem für eine zweite Charge unbefugter Rätsel der Winking
+  Cat, die am 24. bis 26. Dezember übertragen wurden, und bestätigt, dass die Sicherheitsprotokolle
+  verstärkt wurden.
 ---
 
 

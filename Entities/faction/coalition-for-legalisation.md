@@ -14,6 +14,9 @@ related_entities:
 bio: 'Coalition for Legalisation is a organization in the Elite Dangerous universe,
   active from 3307-07-23 to 3307-07-23. Frequently linked with Vox Galactica, Gateway,
   Kishpakho. '
+bio_de: 'Die Coalition for Legalisation ist eine Organisation im Elite-Dangerous-Universum,
+  aktiv von 3307-07-23 bis 3307-07-23. Häufig verbunden mit Vox Galactica, Gateway,
+  Kishpakho.'
 ---
 
 

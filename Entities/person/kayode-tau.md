@@ -10,6 +10,22 @@ bio: 'Kayode Tau is a Diplomat in Elite Dangerous lore, active from 3307-07-13 t
   The NMLA bombs Stillman Hub in HIP 22550 and Tilman Point in Hyades Sector RO-P
   b6-6, killing tens of thousands.; NMLA starport bombings in the Marlinist Colonies
   kill over 35,000 civilians.'
+bio_de: |-
+  Kayode Tau ist ein Politiker und Führer der Freien Marlinistischen Bewegung, der 3307
+  um das Amt des ersten Premierministers (Prime Consul) des Marlinistischen Konsulats
+  konkurrierte. Tau positionierte sich als gemäßigte Alternative zu Verity Dexter von der
+  Marlinism-Reformation-Partei – dem politischen Flügel der NMLA – und lehnte sich
+  entschieden gegen Daxters Bemühen um imperiale Patronage und ihre Vertretung des
+  neo-marlinistischen Extremismus auf.
+
+  Die Wahl zum Marlinistischen Konsulat wurde zu einem Referendum darüber, ob sich die
+  Kolonien mit dem politischen Apparat der NMLA verbünden oder ihre Unabhängigkeit vom
+  Terrorismus bewahren würden. Senator Lorcan Scordato unterstützte Daxters Kandidatur,
+  die Kanzler Blaine als imperiale Patronage genehmigte, doch Taus Freie Marlinistische
+  Bewegung repräsentierte die antiextremistische Fraktion, die diplomatische Legitimität
+  ohne terroristische Verbindungen anstrebte. Taus politische Laufbahn verkörpert den
+  internen Kampf innerhalb des Marlinismus zwischen republikanischem Idealismus und
+  gewalttätigen revolutionären Taktiken.
 ---
 
 

@@ -1,11 +1,15 @@
 ---
 uuid: 1ac3d157-30a8-5bce-a3b7-9c6c6556b1fb
 title: Empire Reaches Out to Marlinists
+title_de: Imperium reicht Marlinisten die Hand
 slug: empire_reaches_out_to_marlinists
 date: '3308-03-29'
 source: API
 summary: Emperor Arissa proposes reconnecting the Marlinist Colonies with the Empire.
+summary_de: Kaiserin Arissa schlägt vor, die Marlinist-Kolonien wieder mit dem Imperium
+  zu verbinden.
 player_impact: Not specifically mentioned — this is a diplomatic report.
+player_impact_de: Keine
 persons:
 - Arissa Lavigny-Duval
 groups:
@@ -25,6 +29,10 @@ modern_impact: '"Emperor Arissa Lavigny-Duval has outlined a plan for the Marlin
   Colonies to be officially reconnected with the Empire." The Emperor''s outreach
   to the Marlinists represents a remarkable policy reversal after years of treating
   them as terrorists.'
+modern_impact_de: „Kaiserin Arissa Lavigny-Duval hat einen Plan skizziert, die Marlinist-Kolonien
+  offiziell wieder mit dem Imperium zu verbinden." Das Handreichen der Kaiserin an
+  die Marlinisten stellt eine bemerkenswerte Politikwende nach Jahren dar, in denen
+  sie als Terroristen behandelt wurden.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -41,6 +49,14 @@ related_uuids:
 - e899c6a7-d0d6-5407-a5b7-8a422e4753d7
 - f5584566-270a-5fe5-b405-8e6f45fb1826
 - 4351d476-bc65-5dc9-be81-08179f479f48
+body_de: |
+  Kaiserin Arissa Lavigny-Duval hat einen Plan skizziert, die Marlinist-Kolonien offiziell wieder mit dem Imperium zu verbinden.
+  Das Marlinist Standard veröffentlichte einen Exklusivbericht von Premierminister Kayode Tau, nachdem dieser an einem diplomatischen Treffen auf Capitol teilgenommen hatte:
+  „Der Kern des Vorschlags von Kaiserin Arissa ist ein Versprechen, den Marlinist-Kolonien den Status eines imperialen Protektorats zu gewähren, im Gegenzug für den Treueeid gegenüber dem Thron."
+  „In der Praxis würde die lokale Regierung autonom bleiben, doch die Imperiale Marine und die Sicherheitsbehörden hätten eine ständige Präsenz. Es gäbe Investitionen in den Handel, wobei im Imperium ansässige Unternehmen bevorzugte Partner wären. Zwischen Marlinist- und Imperialen Systemen würden neue Transport- und Kommunikationswege eröffnet."
+  „Kaiserin Arissa und ich haben die Themen ausführlich besprochen. Aufgrund ihrer Erfahrungen mit den Lords of Restoration akzeptiert Ihre Majestät nun, dass die meisten Anhänger des Marlinismus keine Terroristen oder Revolutionäre sind. Sie besteht jedoch darauf, dass das Imperium wachsam gegenüber einem Wiedererstarken des Neo-Marlinismus sein muss."
+  „Als ich das Thema anschnitt, das einige Senatoren eine gewaltsame Einverleibung der Marlinist-Kolonien vorgeschlagen hatten, versicherte mir die Kaiserin, dass es keine militärische Aktion geben werde. Sie sprach von ihrem ‚Bedürfnis, die Wunden zu heilen, die die NMLA hinterlassen hat', und ich glaube, dass dies ein aufrichtiges Gefühl ist."
+  Das Marlinistische Parlament hat die vollständigen Details des Vorschlags erhalten und bereitet eine Antwort vor.
 ---
 
 

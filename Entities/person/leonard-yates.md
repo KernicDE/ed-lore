@@ -9,6 +9,11 @@ bio: Leonard Yates is a prominent figure in the Elite Dangerous universe, active
   3307-07-22 to 3307-07-29. Closely associated with Pleiades Concordat, Pilots Federation.
   New convert Leonard Yates (Eighty-Ninth Adherent of the Sixtieth Chapter) expresses
   gratitude for galactic community support.
+bio_de: |-
+  Leonard Yates ist eine bedeutende Figur im Elite-Dangerous-Universum, aktiv
+  von 3307-07-22 bis 3307-07-29. Eng verbunden mit dem Pleiades-Konkordat, Pilotenföderation.
+  Der neue Konvertit Leonard Yates (Neunundachtzigster Anhänger des Sechzigsten Kapitels)
+  dankt für die Unterstützung der galaktischen Gemeinschaft.
 ---
 
 

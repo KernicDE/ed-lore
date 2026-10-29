@@ -16,6 +16,12 @@ bio: Marlin Standard is a organization in the Elite Dangerous universe, active f
   Reformation Party. The NMLA officially confirms the Marlinism Reformation Party
   as its political representative. The Marlin Standard reports widespread unrest among
   Marlinists over the NMLA using their parliament as a platform.
+bio_de: Marlin Standard ist eine Organisation im Elite-Dangerous-Universum, die von
+  3307-07-05 bis 3307-12-16 aktiv war. Häufig in Verbindung mit NMLA, dem imperialen
+  Senat und der Marlinism Reformation Party. Die NMLA bestätigt offiziell die Marlinism
+  Reformation Party als ihre politische Vertretung. Der Marlin Standard berichtet über
+  weit verbreitete Unruhen unter den Marlinisten, weil die NMLA ihr Parlament als
+  Plattform nutzt.
 ---
 
 

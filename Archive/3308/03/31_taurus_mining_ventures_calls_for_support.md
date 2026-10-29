@@ -1,13 +1,18 @@
 ---
 uuid: 8f436007-f00f-535c-af52-d16273c91cc0
 title: Taurus Mining Ventures Calls for Support
+title_de: Taurus Mining Ventures fordert Unterstützung
 slug: taurus_mining_ventures_calls_for_support
 date: '3308-03-31'
 source: API
 summary: Taurus Mining Ventures requests pilot assistance for mining operations linked
   to Salvation's research.
+summary_de: Taurus Mining Ventures bittet Piloten um Unterstützung bei Bergbauaktivitäten
+  im Zusammenhang mit Salvations Forschung.
 player_impact: Pilots were requested to assist with mining and delivery operations
   for Taurus Mining Ventures in Synuefe.
+player_impact_de: Piloten wurden gebeten, Taurus Mining Ventures im Synuefe-System
+  bei Bergbau- und Lieferaktivitäten zu unterstützen.
 persons:
 - Ruben Carpenter
 groups:
@@ -25,6 +30,10 @@ modern_impact: '"Taurus Mining Ventures has requested help with a mining and del
   operation in the Synuefe CE-R c21-6 system." The call for pilot support confirms
   Salvation''s network continues recruiting independent contractors for its Guardian
   research program.'
+modern_impact_de: „Taurus Mining Ventures hat Unterstützung für eine Bergbau- und Lieferaktion
+  im System Synuefe CE-R c21-6 angefordert." Der Aufruf zur Pilotenunterstützung bestätigt,
+  dass Salvations Netzwerk weiterhin unabhängige Auftragnehmer für sein Wächter-Forschungsprogramm
+  rekrutiert.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -40,6 +49,14 @@ related_uuids:
 - f7dab7fe-23cb-5905-a1d5-29db2b5fa84a
 - f9b7776c-60b4-5566-b2ab-bd4835dac0fc
 - d97a03c8-3cbd-5fdf-849d-06c5706a9602
+body_de: |
+  **ALARM der Pilotenföderation**
+  Taurus Mining Ventures hat Unterstützung bei einer Bergbau- und Lieferaktion im System Synuefe CE-R c21-6 angefordert.
+  In den letzten Wochen hat der Bergbaukonzern Untersuchungen zu den von ihm als atypisch beschriebenen Strahlungssignaturen durchgeführt, die in Synuefe CE-R c21-6 entdeckt wurden. Nun erwartet er Lieferungen der einheimischen Erze des Systems, um kommerziell wertvolle Anwendungen möglicher molekularer Veränderungen durch diese Strahlung zu erforschen.
+  Dr. Ruben Carpenter, Leiter der Forschungsabteilung des Unternehmens, skizzierte die Initiative:
+  „Ich freue mich sehr, den Piloten diese Gelegenheit zu bieten, unsere wissenschaftlichen Untersuchungen zu unterstützen, die hoffentlich für alle Beteiligten lukrativ sein werden. Wir benötigen Coltan, Lithiumhydroxid und Methanolmonohydrat-Kristall, die an Orten in Synuefe CE-R c21-6 abgebaut und zum Megaschiff Heart of Taurus geliefert werden sollen."
+  „Wir zahlen außerdem für Lieferungen derselben Erze, die in anderen Systemen gefördert wurden. Diese ermöglichen es uns, Proben zu vergleichen und unsere kommerziellen Verfahren zu verfeinern."
+  Taurus Mining Ventures ist bekannt für seine enge Verbindung zum anonymen Anti-Xeno-Spezialisten, der als Salvation bekannt ist. Es gibt jedoch keine Hinweise darauf, dass diese Bergbauaktion mit Salvations Bemühungen zur Bekämpfung der Thargoiden in Zusammenhang steht.
 ---
 
 

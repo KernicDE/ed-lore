@@ -1,12 +1,17 @@
 ---
 uuid: cf91b0fc-492e-50b1-91e4-933e0e125139
 title: Aegis Renegades Face Criminal Charges
+title_de: Kriminelle Anklagen gegen Aegis-Renegaten
 slug: aegis_renegades_face_criminal_charges
 date: '3307-11-29'
 source: API
 summary: Admiral Aden Tanner and the Musashi crew face criminal charges for attacking
   Taurus Mining Ventures, with Tanner accused of mutiny and unlawful military action.
+summary_de: Admiral Aden Tanner und die Crew der Musashi werden wegen des Angriffs auf
+  Taurus Mining Ventures strafrechtlich angeklagt; Tanner wird Meuterei und rechtswidrige
+  militärische Handlungen vorgeworfen.
 player_impact: None
+player_impact_de: Keine
 persons:
 - Aden Tanner
 - Paul Baumann
@@ -19,11 +24,21 @@ topics:
 arc_id: thargoid-contact
 modern_impact: Thargoid activity fundamentally changes the galactic security landscape
   and drives anti-xeno defence efforts.
+modern_impact_de: Die Thargoid-Aktivität verändert die galaktische Sicherheitslage
+  grundlegend und treibt die Anti-Xeno-Verteidigung voran.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 2c66853a-d63c-502f-8a44-7543fdafaf3f
 - 9e377074-a6d8-5c0a-8c39-d9266289cf42
+body_de: |
+  Admiral Aden Tanner und die Crew des Megaschiffs Musashi werden vor Gericht gestellt, weil sie Salvation Verbündete angegriffen haben.
+  Der Admiral missachtete Befehle, als er versuchte, Zugang zum Sternenhafen Hind Mine zu erlangen, dem Hauptsitz von Taurus Mining Ventures. Nachdem dies misslungen war, wurden die meisten Crewmitglieder der Musashi festgesetzt und in ihre jeweiligen Heimatsysteme zurückgebracht, um sich vor zivilen oder militärischen Gerichten zu verantworten.
+  Die föderale Marine veröffentlichte diese offizielle Mitteilung:
+  „Admiral Tanner wird formell der Meuterei und rechtswidriger militärischer Handlungen während seines Kommandos über die Musashi angeklagt. Er wird einem allgemeinen Kriegsgericht überstellt werden. Bei Verurteilung wird er ehrenlos entlassen und lebenslang eingesperrt."
+  Dr. Paul Baumann, Vorsitzender des unabhängigen Untersuchungsausschusses zu Aegis, kommentierte:
+  „Die jüngsten Ereignisse im T-Tauri-System fallen eindeutig in den Zuständigkeitsbereich unserer Untersuchung. Dass der oberste militärische Verbindungsoffizier von Aegis einen nicht autorisierten Angriff mit dem Verlust vieler Menschenleben startet, wird der Organisation schwer belasten."
+  Admiral Tanner behauptet, die von Salvation im Cornsar-System eingesetzte Anti-Xeno-Superwaffe habe einen Anstieg der Thargoid-Angriffe ausgelöst. Obwohl es dafür keine direkten Beweise gibt, haben die Thargoids seit diesem Ereignis in den vergangenen Wochen koordinierte Angriffe auf mehrere Systeme geflogen.
 ---
 
 

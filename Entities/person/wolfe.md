@@ -7,6 +7,8 @@ last_seen_date: '3307-12-16'
 mention_count: 1
 bio: 'Wolfe is a prominent figure in the Elite Dangerous universe, active from 3307-12-16
   to 3307-12-16. Closely associated with Pilots Federation. '
+bio_de: |-
+  Wolfe ist eine bekannte Figur im Elite-Dangerous-Universum, aktiv vom 3307-12-16 bis 3307-12-16. Eng verbunden mit Pilots Federation.
 ---
 
 

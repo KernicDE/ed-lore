@@ -1,13 +1,18 @@
 ---
 uuid: 34095e10-e6d8-53e7-a01d-ef4f11d4da9a
 title: Empire Declares Reprisals Against Darkwater
+title_de: Imperium erklärt Darkwater Vergeltungsmaßnahmen
 slug: empire_declares_reprisals_against_darkwater
 date: '3308-02-17'
 source: API
 summary: The Empire declares Darkwater Inc a hostile military target for abducting
   Emperor Arissa.
+summary_de: Das Imperium erklärt Darkwater Inc zu einem feindlichen militärischen Ziel,
+  weil es Kaiserin Arissa entführt hat.
 player_impact: Pilots were called to fight alongside Imperial forces against Darkwater
   Inc in Summerland.
+player_impact_de: Piloten wurden aufgerufen, in Summerland an der Seite der imperialen
+  Streitkräfte gegen Darkwater Inc zu kämpfen.
 persons:
 - Arissa Lavigny-Duval
 - Ronan Brock
@@ -25,6 +30,19 @@ arc_id: nmla-terrorism
 modern_impact: '"Darkwater Inc in the Summerland system has been declared a hostile
   military target." The Empire''s declaration of war against Darkwater transforms
   a corporate mercenary firm into a legitimate military target for superpower retaliation.'
+modern_impact_de: „Darkwater Inc im Summerland-System wurde als feindliches militärisches
+  Ziel erklärt." Mit der Kriegserklärung des Imperiums gegen Darkwater wird ein privates
+  Söldnerunternehmen zu einem legitimen militärischen Ziel für Vergeltungsmaßnahmen der
+  Supermacht.
+body_de: |
+  **ALARM der Pilotenföderation**
+  Darkwater Inc im Summerland-System wurde als feindliches militärisches Ziel erklärt wegen seiner Rolle bei der Entführung von Kaiserin Arissa Lavigny-Duval.
+  Das private Militärunternehmen unter Führung von Colonel Ronan Brock wurde heimlich von den Lords of Restoration engagiert, um die NMLA auszubilden und auszurüsten. Truppen von Darkwater hielten die Kaiserin außerdem über ein Jahr lang in einem versteckten Bunker gefangen.
+  Nachdem die ACT ihre Beteiligung aufgedeckt hatte, formierten sich Darkwaters Streitkräfte neu um das Megaschiff Pearl Mandate. Colonel Brock unternahm erfolglos den Versuch, die Kontrolle über Summerland als Verteidigungsmaßnahme zu erlangen. Die Söldner wurden nun von den Systembehörden als gesuchte Verbrecher gebrandmarkt.
+  Der Befehl zum Schlag gegen Darkwater kam direkt von Kaiserin Arissa:
+  „Ich rufe meine treuen Diener und alle anderen ehrenhaften Krieger auf, dieses Nest von Verrätern auszulöschen. Wir ehren die unschuldigen Opfer der NMLA, indem wir jene bestrafen, die sie ermöglicht haben."
+  Die Summerland Patron's Party löst Kampfbuchten für zerstörte Darkwater-Schiffe am Sternenhafen Henry O'Hare's Hangar ein. Obwohl das Summerland-System normalerweise genehmigungspflichtig ist, hat das Imperium für unabhängige Piloten eine vollständige Ausnahmeregelung für drei Wochen arrangiert.
+  Um sicherzustellen, dass Darkwater gründlich ausgelöscht wird, bietet das Imperium den Piloten eine Reihe von Anreizen. Dazu gehören die Verleihung des Rangs eines Master in der Imperialen Marine-Hilfsflotte, Rabatte auf imperiale Schiffe und Waffen im Summerland-System sowie Imperiale Hammer-Railguns für die zehn Piloten, die die meisten Kampfbuchten erzielen.
 legacy_weight: 5
 significance: high
 related_uuids:

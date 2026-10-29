@@ -11,6 +11,23 @@ bio: 'Jenna Fairfax is a Terrorist in Elite Dangerous lore, active from 3306-10-
   or concealing members of the NMLA paramilitary group.; Survivors of the defeated
   Neo-Marlinist Order of Mudhrid arrive in the Marlinist Colonies aboard the Steel
   Majesty, requesting asylum.'
+bio_de: |-
+  Dr. Jenna Fairfax ist eine herausragende Führungspersönlichkeit der marlinistischen
+  Gemeinschaft und eine Schlüsselfigur in den politischen Strukturen, die aus der marlinistischen
+  Flüchtlingskrise hervorgingen. Als Sprecherin des Marlinistischen Parlaments bemühte sie sich
+  konsequent darum, den Mainstream-Marlinismus von den terroristischen Taktiken der
+  Neo-Marlinistischen Befreiungsarmee (NMLA) zu distanzieren, und kooperierte sowohl mit
+  föderalen als auch mit imperialen Behörden, um Extremisten aufzuspüren, die sich unter
+  den Flüchtlingen versteckten.
+
+  Fairfaxes politische Position spiegelt den unmöglichen Grat wider, auf dem marlinistische
+  Führer wandeln müssen: Terrorismus zu verurteilen, ohne die demokratischen Prinzipien
+  aufzugeben, die den Marlinismus definieren, und gleichzeitig neue Kolonialregierungen
+  aufzubauen, während sie den Argwohn der Supermächte ausbalancieren. Ihre öffentliche
+  Erklärung, in der sie die unter den Flüchtlingen entdeckten NMLA-Mitglieder verurteilte –
+  „Diese Mörder vertreten nicht die Prinzipien des Marlinismus, und wir helfen gern bei
+  ihrer Ausweisung“ – veranschaulicht die pragmatische Anpassung, die eine politische
+  Bewegung erfordert, die aus Verfolgung entstand und um ihre Legitimität kämpft.
 ---
 
 

@@ -1,12 +1,17 @@
 ---
 uuid: d48a2172-4d32-5501-b760-eb75a11fb324
 title: An Interview with Zachary Rackham
+title_de: Ein Interview mit Zachary Rackham
 slug: an_interview_with_zachary_rackham
 date: '3308-05-04'
 source: API
 summary: Zachary Rackham discusses his business empire, role in Beta Hydri, and hints
   at a presidential run in an interview with Sol Today.
+summary_de: Zachary Rackham spricht in einem Interview mit Sol Today über sein
+  Wirtschaftsimperium, seine Rolle in Beta Hydri und lässt eine Kandidatur
+  für das Präsidentenamt durchblicken.
 player_impact: Not specifically mentioned — this is a media interview.
+player_impact_de: Keine
 persons:
 - Zachary Rackham
 - Bryanna Blanco
@@ -22,6 +27,12 @@ modern_impact: '"I''m deeply flattered by calls to stand as an Independent candi
   ''everyman'' persona masked a calculated political ascent, using media interviews
   to normalise the idea of a corporate trillionaire with a piratical past seeking
   the Federation''s highest office.'
+modern_impact_de: '„Ich bin zutiefst geschmeichelt über die Rufe, als unabhängiger
+  Kandidat anzutreten. Aber wirklich, ein gewöhnlicher Kerl wie ich als Präsident?"
+  Rackhams sorgfältig kultivierte ‚Mann von nebenan‘-Persona verschleierte einen
+  kalkulierten politischen Aufstieg, in dem er Medieninterviews nutzte, um die
+  Idee eines konzernreichen Trillionärs mit piratischer Vergangenheit im höchsten
+  Amt der Föderation zu normalisieren.'
 legacy_weight: 3
 significance: medium
 related_uuids:
@@ -29,6 +40,17 @@ related_uuids:
 - 627f595b-b85f-5e9d-9d4c-9499a93c4487
 - 7751461f-fff8-5e46-b710-f494c50ab069
 - efe02149-f490-5339-979d-49b157ba2caf
+body_de: |
+  Sol Today führte ein Interview mit dem Multimilliardär Zachary Rackham, dem nachgesagt wird, in die Politik wechseln zu wollen.\r
+  Von seiner Villa am Lake Rackham mit Blick auf Homelands berühmte Singing Geysers sprach der Unternehmer ausführlich über verschiedene Themen.\r
+  Zum Aufstieg seines Wirtschaftsimperiums:\r
+  „Die fleißigen Leute bei Rackham Capital Investments haben mich in den letzten Jahren stolz gemacht. Wir führen derzeit Finanzgespräche zum Erwerb eines großen Sternenhafen-Unternehmens – also bleiben Sie dran!"\r
+  Zu seiner Rolle bei der Beta Hydri Corporation:\r
+  „Es ist mir eine Ehre, meine Leute in Beta Hydri zu unterstützen, indem ich bei der Führung ihrer Regierung helfe. Nachdem ich einige Abteilungen verschlankt habe, läuft bereits alles etwas reibungsloser."\r
+  Zu Spekulationen, dass er an der Präsidentschaftswahl der Föderation teilnehmen werde:\r
+  „Ich bin zutiefst geschmeichelt über die Rufe, als unabhängiger Kandidat anzutreten. Aber wirklich, ein gewöhnlicher Kerl wie ich als Präsident? Ich nehme an, das zeigt, dass die Menschen etwas anderes suchen als das, was Hudson und Winters bieten."\r
+  Zu Bryanna Blancos Behauptung, er sei einst Pirat gewesen:\r
+  „Ah, man muss Frau Blancos Zähigkeit bewundern! Aber ‚Calico Zack' klingt wie eine Figur aus einem Olav-Redcourt-Roman, nicht wahr? Ich sollte ihr danken, dass sie mich viel beeindruckender aussehen lässt, als ich es je war."
 ---
 
 

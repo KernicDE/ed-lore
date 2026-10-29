@@ -7,6 +7,20 @@ last_seen_date: '3308-04-30'
 mention_count: 4
 bio: 'An Imperial Navy admiral tasked with defending the Novas system during the
   devastating Thargoid invasions of 3308.'
+bio_de: |-
+  Admiral Henry Paul Atherton der imperialen Flotte rückte im April 3308 in den
+  Mittelpunkt, als Thargoiden-Flotten gleichzeitig in die Kernsysteme der Supermächte
+  einfielen. Atherton wurde ausgewählt, die Verteidigung von Novas zu koordinieren, ein
+  imperiales System, das mit überwältigenden Zahlen feindlicher Schiffe und ätzenden
+  Enzym-Angriffen konfrontiert war, die bereits Hunderttausende das Leben gekostet hatten.
+
+  Die Herausforderung wurde durch die jüngste Auflösung von Aegis noch verschärft, was
+  dazu führte, dass Frontline Solutions die Flotte der aufgelösten Organisation vorübergehend
+  ehrenamtlich betrieb. Athertons offene Interviews mit Jade Sanderlyn von Vox Galactica
+  an Bord der INV Succession gaben seltene Einblicke in die Verzweiflung der
+  Militärkommandeure der Supermächte, die sich für den Zugang zu experimentellen
+  Anti-Xeno-Waffen mit der umstrittenen Gestalt Salvation verbanden, während Milliarden
+  Menschenleben auf dem Spiel standen.
 ---
 
 

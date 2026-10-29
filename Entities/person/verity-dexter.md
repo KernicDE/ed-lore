@@ -9,6 +9,8 @@ bio: Verity Dexter is a Marlinist politician who led the Marlinism Reformation P
   and ran for prime consul of the Marlinist Consulate in 3307. She promised to speak
   for the Neo-Marlinist fringe and sought Imperial patronage through Senator Lorcan Scordato.
   She ultimately lost the election to Kayode Tau of the Free Marlinist Movement.
+bio_de: |-
+  Verity Dexter ist eine marlinistische Politikerin, die die Marlinism Reformation Party anführte und 3307 für das Amt der Premierministerin des Marlinist-Konsulats kandidierte. Sie versprach, für den neo-marlinistischen Rand zu sprechen, eine Position, die sie in direkte Opposition zu Kayode Tau von der Free Marlinist Movement brachte. Senator Lorcan Scordato unterstützte ihre Kandidatur und schlug vor, sie als Schirmherrin des Imperiums anzuerkennen, um die pro-marlinistischen Bürger des Imperiums zu vertreten. Kanzler Blaine genehmigte die Schirmherrschaft trotz Protesten. Dexter verlor die Wahl letztlich gegen Tau; ihre Niederlage galt als Absage an NMLA-nahe Politik.
 ---
 
 

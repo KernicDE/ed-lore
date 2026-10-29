@@ -1,12 +1,16 @@
 ---
 uuid: 9924627d-24bc-56d4-a93a-0b70b4ab322a
 title: Senate Blocks ACT Investigation
+title_de: Senat blockiert ACT-Ermittlungen
 slug: senate_blocks_act_investigation
 date: '3308-01-17'
 source: API
 summary: The Imperial Senate is accused of blocking ACT's investigation into links
   between Imperial Intelligence and the NMLA.
+summary_de: Dem Imperialen Senat wird vorgeworfen, die Ermittlungen des ACT zu Verbindungen
+  zwischen dem Imperialen Geheimdienst und der NMLA zu blockieren.
 player_impact: Not specifically mentioned — this is a political report.
+player_impact_de: Keine — es handelt sich um einen politischen Bericht.
 groups:
 - Imperial Senate
 - NMLA
@@ -21,6 +25,10 @@ arc_id: nmla-terrorism
 modern_impact: '"I once again propose that ACT be disbanded and its operatives returned
   to normal duties." The Senate''s obstruction of ACT reveals the depth of Imperial
   institutional resistance to exposing the NMLA conspiracy.'
+modern_impact_de: '"Ich schlage erneut vor, das ACT aufzulösen und seine Mitarbeiter in
+  ihren regulären Dienst zurückzuführen." Die Behinderung des ACT durch den Senat zeigt,
+  wie tief der institutionelle Widerstand des Imperiums gegen die Aufklärung der
+  NMLA-Verschwörung reicht.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -34,6 +42,13 @@ related_uuids:
 - 2ea3fdf7-8814-5eda-9967-368c424dfcb0
 - 4fe5c0a6-b22f-549b-b11e-0eb1a9c1bac3
 - 37702c1f-2c71-55fb-932e-b8dfeb29d626
+body_de: |
+  Es gibt Behauptungen, dass der Imperiale Senat Bemühungen behindert, eine mögliche Verbindung zwischen den Sicherheitsdiensten des Imperiums und der NMLA zu untersuchen.
+  Captain Saskia Landau erklärte öffentlich, dass das Dark-Comms-Netzwerk der Terroristen eng mit dem Omega-Grid-System verwandt sei, das ausschließlich vom Imperialen Geheimdienst genutzt wird. Sie erläuterte ihre Theorie in einer Erklärung gegenüber Vox Galactica:
+  „Auf Grundlage der Beweise und Verhörprotokolle, die das ACT erlangt hat, glaube ich, dass zersetzende Elemente im Imperialen Geheimdienst die NMLA ausbildeten und mit Ausrüstung versorgten. Das würde den Grad an Raffinesse erklären, den sie bei der Koordinierung ihrer Sternenhafen-Angriffe und der unentdeckten Kommunikation erreichten."
+  „Es gibt gewiss genug Indizien, um eine eigene Untersuchung zu rechtfertigen. Doch der Senat weigert sich, diese zu autorisieren, was mich fragen lässt, was er zu verbergen versucht."
+  Senator Karl Nerva wiederholte: „Es ist Zeit, dass das ACT aufgelöst wird und die dringend benötigten Ressourcen dorthin zurückkehren, wo sie hingehören: ins Imperium."
+  Senator Caspian Leopold entgegnete jedoch: „Um jeden Vertrauensverlust in unsere Sicherheitsdienste auszuräumen, sollten wir Captain Landaus Behauptung gründlich prüfen. Unsere Bürger müssen davon überzeugt werden, dass der Imperiale Geheimdienst ausschließlich zu ihrem Schutz existiert."
 ---
 
 

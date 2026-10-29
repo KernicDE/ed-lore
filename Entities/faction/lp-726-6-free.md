@@ -15,6 +15,10 @@ bio: Lp 726-6 Free is a Federal faction that seceded from the Federation in July
   joining a wave of independence movements sparked by opposition to the Proactive Detection
   Bureau's mass surveillance laws. The faction's secession affected all systems under
   its control and contributed to the most serious constitutional crisis in Federal history.
+bio_de: |-
+  Lp 726-6 Free ist eine föderale Fraktion, die im Juli 3307 die Unabhängigkeit von der Föderation erklärte und die Überwachungsgesetze des Proactive Detection Bureau als unerträglichen Verstoß gegen die Bürgerrechte anführte. Die Sezession wurde durch den früheren Erfolg von Azaladshu Free inspiriert, das sich nach seinem militärischen Sieg über Neche Inc abgespalten und die unabhängige Kontrolle über vier Systeme behalten konnte.
+
+  Der Abfall der Fraktion löste eine Kettenreaktion im gesamten föderalen Raum aus, der die Coalition of Uteran und Gluscap Labour folgten und bei der schließlich zehn Systeme mit mehr als einer Milliarde Menschen die Föderation verließen. Die Krise legte tiefe Brüche innerhalb des Federal Accord offen: Präsident Zachary Hudson gab kriminelles Verhalten die Schuld, während Schattenpräsidentin Felicia Winters argumentierte, dass die Überwachungsgesetze selbst die Rebellion verursacht hätten.
 ---
 
 

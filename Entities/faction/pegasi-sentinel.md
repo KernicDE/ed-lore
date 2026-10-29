@@ -16,6 +16,19 @@ bio: 'Pegasi Sentinel is a organization active in Elite Dangerous lore from 3307
   Key activities include: The Kumo Crew''s defence of the California Nebula succeeds,
   but its attempt to seize control of local ports is repelled by communities and the
   Turne...; The Kumo Crew''s starport construction campaign concludes successfully.'
+bio_de: |-
+  Der Pegasi Sentinel ist ein Nachrichtenkanal, der als wichtigstes Medium des Kumo-Crew-Syndikats
+  und des gesamten Pegasi-Sektors dient. Er veröffentlicht Berichte über die Aktivitäten
+  der Kumo Crew und stellt die Aktionen der Piratenorganisation dabei oft in einem
+  günstigen Licht dar, während ihre kriminelle Natur heruntergespielt wird.
+
+  Im Jahr 3309 berichtete der Sentinel über die Verteidigung des California-Nebels durch
+  die Kumo Crew gegen Thargoid-Invasoren und stellte fest, es könne „kein Zweifel daran
+  bestehen, dass Archon Delaine die Sicherheit des California-Nebels ernst nimmt". Der
+  Nachrichtenkanal berichtete außerdem über die Sternenhafen-Bauprojekte des Syndikats
+  und interne Machtkämpfe. Als Propagandaorgan der Kumo Crew zeigt der Pegasi Sentinel,
+  dass selbst kriminelle Organisationen ausgefeilte Medienoperationen unterhalten, um
+  die öffentliche Wahrnehmung ihrer Aktivitäten zu steuern.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
 uuid: 8dee1f0e-d35e-5640-b9ca-1da7335ce705
 title: The Fall of The Oracle
+title_de: "Der Fall von The Oracle"
 slug: the_fall_of_the_oracle
 date: '3307-05-24'
 source: API
@@ -8,8 +9,14 @@ summary: The Oracle starport in the Delphi system begins tumbling out of orbit a
   Thargoid attack causes cascading systems failure. Independent pilots evacuate thousands
   of civilians while engineers patch alignment systems. The station is stabilised
   with hours to spare.
+summary_de: Der Sternenhafen The Oracle im System Delphi beginnt nach einem Thargoid-Angriff
+  aufgrund eines kaskadierenden Systemausfalls aus seiner Umlaufbahn zu taumeln. Unabhängige
+  Piloten evakuieren Tausende Zivilisten, während Ingenieure die Ausrichtungssysteme reparieren.
+  Die Station wird wenige Stunden vor dem Aufprall stabilisiert.
 player_impact: Independent pilots risked their lives to rescue thousands of trapped
   civilians from the falling and damaged starport.
+player_impact_de: Unabhängige Piloten riskierten ihr Leben, um Tausende eingeschlossene
+  Zivilisten aus dem abstürzenden und beschädigten Sternenhafen zu retten.
 persons: []
 groups:
 - Sirius Inc
@@ -31,6 +38,9 @@ arc_id: thargoid-contact
 modern_impact: The Oracle incident reveals a Thargoid tactic of disabling station
   alignment thrusters, causing orbital decay. This vulnerability leads to unilateral
   efforts to reinforce starports against similar attacks.
+modern_impact_de: Der Vorfall um The Oracle offenbart eine Thargoid-Taktik der Außerbetriebnahme
+  von Stations-Ausrichtungstriebwerken mit der Folge eines Bahnverfalls. Diese Schwachstelle
+  führt zu eigenmächtigen Bemühungen, Sternenhäfen gegen derartige Angriffe zu verstärken.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -39,6 +49,15 @@ related_uuids:
 - b6aa5197-46b1-54fe-8245-71ca6fe9fd40
 - c8970a7c-f1b9-57df-aaac-b318e5078cab
 - c7f92e1d-2f9c-599a-82e3-8426fe6ddf21
+body_de: |
+  Der Sternenhafen The Oracle im System Delphi begann nach einem jüngsten Thargoid-Angriff aus seiner Umlaufbahn zu taumeln.
+  Die Station brannte bereits und war während eines Thargoid-Einfalls im Delphi-System durch kaustische Enzyme schwer beschädigt worden. Dies führte zu einem kaskadierenden Systemausfall, der sämtliche Ausrichtungstriebwerke der Station abschaltete.
+  Dadurch geriet der gesamte Sternenhafen unter den Einfluss der Schwerkraft von Delphi 5 a und begann, auf den Mond zuzustürzen. Damit waren unmittelbar die Leben von Zehntausenden Zivilisten in Gefahr.
+  Aufgrund von Feuerschäden im Andockbereich und des knappen Zeitfensters galt eine Evakuierung der gesamten Bevölkerung von The Oracle vor dem Aufprall auf die Oberfläche als unmöglich.
+  Nur Stunden vor der Kollision riskierten unabhängige Piloten ihr Leben, um Tausende eingeschlossene Zivilisten aus dem abstürzenden und beschädigten Sternenhafen zu retten. Dadurch konnten sich die Ingenieure auf die Reparatur der Ausrichtungssysteme von The Oracle konzentrieren. Die Station gilt nun als in einer stabilen Umlaufbahn befindlich.
+  Ein Sprecher von Sirius Inc sagte gegenüber den Medien:
+  „Wir sind den tapferen Kommandanten zutiefst dankbar, dass sie geholfen haben, eine der schrecklichsten Katastrophen der jüngeren Geschichte zu verhindern."
+  Über ähnliche Vorfälle an anderen Stationen, die von den Thargoiden angegriffen wurden, wurde berichtet. Dies führte zu Spekulationen, dass es sich dabei nicht um einen Zufall handeln könnte. Eigenmächtige Pläne zur Beseitigung dieser Schwachstelle in den Sternenhäfen laufen nun an.
 ---
 
 

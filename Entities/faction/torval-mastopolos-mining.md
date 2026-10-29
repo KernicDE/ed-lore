@@ -15,6 +15,10 @@ bio: 'Torval-Mastopolos Mining is a organization active in Elite Dangerous lore 
   Mining, an autonomous offshoot of Mastopolos Mining, signaling a potential rift
   with CEO Gabrie...; Torval-Mastopolos Mining and Wreaken Construction both establish
   headquarters in the LTT 198 system, escalating their long-standing corporate rivalry.'
+bio_de: |-
+  Torval-Mastopolos Mining ist ein großes imperiales Bergbauunternehmen, das durch die Fusion der persönlichen Bergbauinteressen von Senatorin Zemina Torval und dem Konzern Mastopolos Mining entstand. Das Unternehmen kontrolliert weitreichende Rohstoffgewinnungsoperationen im Imperialen Raum und darüber hinaus und profitiert sowohl von Torvals senatorischem Einfluss als auch von Mastopolos' etablierter industrieller Infrastruktur. Es ist einer der größten Arbeitgeber im Fördersektor des Imperiums.
+
+  Das Unternehmen wurde 3307 zum Zündpunkt eines Konflikts, als Senatorin Torval Mastopolos Mining finanzielle Unregelmäßigkeiten vorwarf und versuchte, die Partnerschaft aufzulösen. Der Streit eskalierte zu einem öffentlichen Unternehmenskonflikt, bei dem beide Seiten politische und wirtschaftliche Ressourcen mobilisierten. Die Affäre offenbarte die Zerbrechlichkeit von Bündnissen zwischen imperialem Adel und Konzerninteressen und zeigte gleichzeitig die erhebliche Macht, die einzelne Senatoren über die galaktische Wirtschaft ausüben. Torval-Mastopolos Mining ist weiterhin aktiv, wenngleich die internen Spannungen zwischen den Gründungspartnern nie vollständig beigelegt wurden.
 ---
 
 

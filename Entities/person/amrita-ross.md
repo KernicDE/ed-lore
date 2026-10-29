@@ -10,6 +10,10 @@ bio: 'Amrita Ross is a Terrorist in Elite Dangerous lore, active from 3306-12-21
   Survivors of the defeated Neo-Marlinist Order of Mudhrid arrive in the Marlinist
   Colonies aboard the Steel Majesty, requesting asylum.; NMLA starport bombings in
   the Marlinist Colonies kill over 35,000 civilians.'
+bio_de: |-
+  Amrita Ross ist eine marlinistische Politikerin, die nach den NMLA-Sternenhafen-Bombenanschlägen im August 3307 als geschäftsführende Erste Ministerin der Marlinist-Kolonien amtierte. Die Angriffe töteten über 35.000 Zivilisten und forderten das Leben der Ersten Ministerin Jenna Fairfax, wodurch das marlinistische Parlament in politisches Chaos stürzte. Ross übernahm die vorläufige Führung, während die Polizeibehörde die Sicherheitsmaßnahmen verschärfte und ACT dringende Ermittlungen aufnahm.
+
+  Rosss Amtszeit während der Krise zeigte die Verwundbarkeit der Marlinist-Kolonien gegenüber extremistischer Gewalt auf, während diese gleichzeitig versuchten, eine demokratische Alternative zur imperialen Herrschaft aufzubauen. Die Bombenkampagne, ausgeführt von Theta Group mit logistischer Unterstützung durch örtliche Neo-Marlinisten, bewies, dass der Terrorismus der NMLA überall zuschlagen konnte, auch in Gemeinschaften, die ihre republikanischen Ideale teilten. Rosss Führung in dieser Zeit war geprägt von Bemühungen, die Regierung zu stabilisieren, während sie Hilfsmaßnahmen mit Unterstützung der Allianz und der Föderation koordinierte.
 ---
 
 

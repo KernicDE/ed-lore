@@ -1,12 +1,16 @@
 ---
 uuid: cc7f2ca4-242f-591f-8d72-4a0ef3e3bfd8
 title: Arissa Addresses the Empire
+title_de: Kaiserin Arissa wendet sich an das Imperium
 slug: arissa_addresses_the_empire
 date: '3308-01-26'
 source: API
 summary: Emperor Arissa Lavigny-Duval broadcasts her first message since being secured
   against NMLA assassination attempts.
+summary_de: Kaiserin Arissa Lavigny-Duval sendet ihre erste Botschaft, seit sie vor NMLA-Attentaten
+  in Sicherheit gebracht wurde.
 player_impact: Not specifically mentioned — this is a political report.
+player_impact_de: Keine — es handelt sich um einen politischen Bericht.
 persons:
 - Arissa Lavigny-Duval
 groups:
@@ -26,6 +30,10 @@ arc_id: nmla-terrorism
 modern_impact: '"I have every confidence that we will soon emerge triumphant, and
   that the Empire will continue to stand firm against all threats." The Emperor''s
   brief message fails to quell speculation about her true status and whereabouts.'
+modern_impact_de: '"Ich bin zuversichtlich, dass wir bald triumphieren und das Imperium
+  weiterhin standhaft gegen alle Bedrohungen bleiben wird." Die kurze Botschaft der
+  Kaiserin vermag Spekulationen über ihren wahren Zustand und Aufenthaltsort nicht
+  zu beheben.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -40,6 +48,14 @@ related_uuids:
 - 4fe5c0a6-b22f-549b-b11e-0eb1a9c1bac3
 - 37702c1f-2c71-55fb-932e-b8dfeb29d626
 - 4351d476-bc65-5dc9-be81-08179f479f48
+body_de: |
+  Der Imperiale Senat hat eine persönliche Botschaft von Kaiserin Arissa Lavigny-Duval verbreitet, die sich seit fast einem Jahr an einem sicheren Ort aufhält.
+  Die kurze Erklärung wurde auf allen öffentlichen Kanälen ausgestrahlt:
+  „Bürger des Imperiums, seid gewiss, dass eure Kaiserin am Leben ist und es ihr gut geht. Es bedauert mich, dass meine vorübergehende Abgeschiedenheit so lange gedauert hat, doch während dieser Zeit stand ich in Kontakt mit dem Senat."
+  „Man riet mir, Capitol zu verlassen, als der Imperiale Geheimdienst mich vor einem konkreten NMLA-Attentat und vor marlinistischen Sympathisanten in den höchsten Ebenen unserer Regierung warnte. Sobald die Arbeit dieser loyalen Behörde abgeschlossen ist, werde ich meine Aufgabe fortsetzen, uns in eine prosperierende Zukunft zu führen."
+  Eye on Achenar berichtete, die Ansprache sei „von einem erleichterten Imperium begrüßt" worden und fügte hinzu, es sei entscheidend, „alle marlinistischen Verräter auszurotten". Der Imperial Herald stellte fest, dass die Kaiserin den Imperialen Geheimdienst faktisch von den Vorwürfen freizusprechen schien, er ermögliche der NMLA insgeheim ihr Handeln.
+  Eine Warnung kam jedoch von Prinzessin Aisling Duval:
+  „Arissa kommuniziert seit Monaten auf dieselbe Weise mit dem Senat, das ändert also nichts. Nur ein öffentlicher Auftritt wird meine Bedenken um ihr Wohlbefinden zerstreuen. Ich würde mich sehr freuen, eine passende Veranstaltung auszurichten, falls sie meine Einladung zu einer persönlichen Teilnahme annimmt."
 ---
 
 

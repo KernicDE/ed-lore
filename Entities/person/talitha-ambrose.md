@@ -11,6 +11,10 @@ bio: 'Talitha Ambrose is a Journalist in Elite Dangerous lore, active from 3305-
   loses its entire fortune overnight, with assets liquidated and transferred to anonymous
   accounts across...; The Ambrose Foundation confirms Lady Talitha Ambrose is missing
   and all assets lost, with Baroness Oksana hiring the Wallglass Investigations Agenc...'
+bio_de: |-
+  Lady Talitha Ambrose ist die in Verruf geratene Erbin der Ambrose Foundation, einer Institution mit einem Vermögen von mehreren Milliarden Credits, die im Februar 3305 über Nacht ihr gesamtes Vermögen verlor. Der unabhängige Journalist Flint „Firemaker“ Lafosse enthüllte, dass Talitha seit langem dem exklusiven Glücksspielkreis Jokers' Deck angehört hatte, dessen Mitglieder Konzern-CEOs, Politiker und Kartellbosse umfassen. Angeblich setzte sie das gesamte Vermögen der Ambrose Foundation bei einer Partie Deadlock-Poker mit hohen Einsätzen und verlor es.
+
+  Ihre Mutter, Baroness Oksana Ambrose, behauptete zunächst, ihre Tochter sei entführt und zur Herausgabe des Erbes gezwungen worden. Die Enthüllung über das Glücksspiel veränderte jedoch die öffentliche Wahrnehmung, und Baroness Oksana verstieß Talitha letztlich vollständig. Talitha gab später eine offene Erklärung gegenüber Vox Galactica ab, in der sie ihre Spielsucht zugab und den Wunsch äußerte, Gelder für Wohltätigkeitsorganisationen zur Süchtigenbetreuung zu sammeln. Ihr Fall bleibt eines der spektakulärsten Beispiele dafür, wie Spielsucht selbst die reichsten Dynastien zerstören kann.
 ---
 
 

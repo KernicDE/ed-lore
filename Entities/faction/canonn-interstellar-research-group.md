@@ -17,6 +17,10 @@ bio: 'Canonn Interstellar Research Group is a research active in Elite Dangerous
   from Unknown Artefacts (AEOs), discovering they contain schematic diagrams...; Dr
   Arcanonn of the Canonn Interstellar Research Group confirmed the discovery of alien
   ''barnacle'' structures on at least two planets in the Pleiade...'
+bio_de: |-
+  Die Canonn Interstellar Research Group ist eine unabhängige wissenschaftliche Organisation, die von Dr. Arcanonn gegründet wurde und seit 3301 an der Spitze jeder bedeutenden xenologischen Entdeckung stand. Die Organisation, die größtenteils aus freiwilligen Commander*innen und Forscher*innen besteht, bestätigte als erste die Existenz außerirdischer Barnacle-Strukturen im Plejaden-Nebel und entschlüsselte als erste die verzerrten Übertragungen Unbekannter Artefakte. Ihr dezentraler, crowdsourcingbasierter Forschungsansatz ermöglichte es ihr, schneller zu arbeiten als offizielle Agenturen der Supermächte, und sie veröffentlichte häufig Ergebnisse, die Regierungen zwangen, Bedrohungen anzuerkennen, die sie lieber ignoriert hätten.
+
+  Canonn errichtete wichtige Einrichtungen, darunter eine Forschungsbasis in Varati, und hielt während der frühen Thargoid-Kontaktphase eine enge Präsenz auf der Obsidian Orbital in Maia aufrecht. Auch wenn Aegis sie später als wichtigste Xenoforschungsorganisation ablöste, legte Canonns frühe Arbeit das Fundament für das gesamte spätere Verständnis der Thargoid-Biologie, ihres Verhaltens und ihrer Technologie.
 ---
 
 
