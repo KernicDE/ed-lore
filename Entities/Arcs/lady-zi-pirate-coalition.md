@@ -4,13 +4,16 @@ name: Lady Zi Pirate Coalition
 type: arc
 start_date: '3312-04-23'
 end_date: null
-article_count: 8
+article_count: 11
 key_entities:
 - Lady Zi
+- Fire Lotus Coalition
 - Mira Bukowski
 - Lhou Mans
 - Zorgon Peterson
 - Frontline Solutions
+- Gallant Investment Brokers
+- Sorbago Mastopolos Mining Inc
 - Runner
 description: A rogue pirate admiral known as Lady Zi unites a coalition of pirate ships
   under a single criminal syndicate, conducting coordinated military-style raids across
@@ -26,6 +29,9 @@ phases:
 - 'Phase 4: Frontline Solutions Countermeasures (3312-06-04)'
 - 'Phase 5: Runner Fleet Enters Production (3312-06-18)'
 - 'Phase 6: Anti-Crime Deployments Go Live (3312-06-30)'
+- 'Phase 7: Lady Zi Breaks Silence — The Fire Lotus Manifesto (3312-11-02)'
+- 'Phase 8: Counter-Megacorporation Assault on Exphiay and Sorbago (3312-11-05)'
+- 'Phase 9: Corporate Counterattack and Call to Arms (3312-11-05)'
 summary: The emergence of Lady Zi as a coordinated criminal threat in the core systems,
   beginning with raids on military outposts and escalating to full starport attacks in
   Lhou Mans. The twin-axe malware signature and probing tactics suggest a highly organised,
@@ -59,7 +65,14 @@ outcome_de: Verteidigungskräfte schlugen die Angreifer in Lhou Mans erfolgreich
   Schnelleinsatz gegen die Piratenkoalition bereitzustellen. Am 3312-06-30 startete
   Frontline offiziell seinen Dienst für antikriminelle Einsätze und verlegte Söldner-Strike-Teams
   zu Anti-Kriminalitäts-Einsätzen in den Kernsystemen; registrierte Piloten können sich
-  an jedem Markthafen anmelden.
+  an jedem Markthafen anmelden. Am 3312-11-02 brach Lady Zi ihr Schweigen und verbreitete
+  per Malware ein Manifest auf hunderten gekappter Holobildschirme in Sternenhäfen, in dem
+  sie alle drei Supermächte verwarf und zur Fire Lotus Fleet aufruft. Drei Tage später
+  griffen ihre Kräfte die Heimatsysteme von Gallant Investment Brokers (Exphiay) und
+  Sorbago Mastopolos Mining Inc (Sorbago) an; beide Konzerne riefen unabhängige Piloten
+  zur Gegenwehr – Gallant über die Federal Times, Mastopolos-CEO Gabriella Mastopolos über
+  den Imperial Herald. Der Konflikt eskaliert damit von Piraterie zu einem offenen
+  Konflikt mit den Megakonzernen.
 significance: medium
 ---
 
@@ -77,3 +90,12 @@ Frontline Solutions entered the conflict in early June 3312, with CEO Imogen le 
 
 ### Phase 6: Anti-Crime Deployments Go Live (3312-06-30)
 Frontline Solutions officially launched its expanded anti-crime deployment service, using the Runner fleet to ship mercenaries to anti-crime operations across the core systems. CEO Imogen le Ray cited the Lhou Mans attacks as a key example of the stretched resources that the new service would address. Registered pilots and mercenary teams can now sign up at any market port and be deployed to lawful anti-crime and rescue operations, marking a new phase in the privatisation of core-systems security.
+
+### Phase 7: Lady Zi Breaks Silence — The Fire Lotus Manifesto (3312-11-02)
+After months of silence, Lady Zi delivered a manifesto via malware hijacking hundreds of starport holoscreens across the core worlds. Denouncing the Federation, Empire and Alliance alike, she dismissed life under Archon Delaine's Kumo Crew as "organised thuggery, lacking strategy or long-term goals" and issued a rallying call for the disaffected to join her Fire Lotus Fleet — a coalition of individuals, organisations and factions operating beyond the Kumo Crew structure. Vox Galactica reached out to Delaine, who declined to comment.
+
+### Phase 8: Counter-Megacorporation Assault on Exphiay and Sorbago (3312-11-05)
+Ships loyal to Lady Zi assaulted corporate security forces in Exphiay and Sorbago, the home systems of Gallant Investment Brokers and Sorbago Mastopolos Mining Inc. Fire Lotus Coalition megaships The Coldwood and Whisper of the Wake appeared in both systems, recruiting independent pilots to the attackers' cause. Military analysts noted the assault caught local security forces unawares, with a formal defensive force expected to take twenty-four hours to materialise.
+
+### Phase 9: Corporate Counterattack and Call to Arms (3312-11-05)
+Both targeted corporations rallied pilots to their defence. Gallant Investment Brokers released a statement via the Federal Times offering payment to any pilots willing to defend Exphiay, while Sorbago Mastopolos Mining CEO Gabriella Mastopolos called on combat pilots through the Imperial Herald to join her security teams in eradicating Zi's forces from Sorbago. Defenders could sign up at Worlidge Hub in Exphiay and Hencke Orbital in Sorbago, pitting corporate-backed pilots directly against the Fire Lotus Coalition's recruits.
