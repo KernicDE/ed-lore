@@ -1,13 +1,18 @@
 ---
 uuid: 60b7e81b-2c68-5123-9b6c-5a136ba41850
 title: 'Outpost Planned for ‘The Roof of Space’ '
+title_de: 'Außenposten für das „Dach des Weltraums“ geplant'
 slug: outpost_planned_for_the_roof_of_space
 date: '3306-12-11'
 source: API
 summary: Multi-billionaire Zachary Rackham funds the construction of a permanent outpost
   in the HIP 58832 system, the farthest point above the galactic plane, for astronomical
   research.
+summary_de: Der Multimilliardär Zachary Rackham finanziert den Bau eines dauerhaften
+  Außenpostens im System HIP 58832, dem am weitesten über der galaktischen Ebene gelegenen
+  Punkt, für astronomische Forschung.
 player_impact: None
+player_impact_de: Keine
 persons:
 - Zachary Rackham
 groups:
@@ -19,6 +24,8 @@ topics:
 - research
 modern_impact: Rackham's Peak outpost remains a unique scientific and tourism destination
   at the galactic zenith.
+modern_impact_de: Der Außenposten Rackham's Peak bleibt ein einzigartiges Ziel für
+  Wissenschaft und Tourismus am galaktischen Zenit.
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -27,6 +34,14 @@ related_uuids:
 - bb14dd59-b241-5db1-8759-dff2555f5ee3
 - ed6adddd-c9c1-5fb8-ab02-8185dd679153
 - 23beeed6-390e-5fd6-9dc6-e8f928c68a88
+body_de: |
+  Der Multimilliardär Zachary Rackham errichtet einen dauerhaften Außenposten im am weitesten über der galaktischen Ebene gelegenen System.
+  Der Orbitalaußenposten wird sich im System HIP 58832 befinden. Dieses gilt allgemein als galaktischer Zenit und ist einer der höchsten Orte, die praktisch erreicht werden können.
+  Das Projekt wird von Rackham Capital Investments finanziert, unter enger Beteiligung von Universal Cartographics und mehreren weiteren wissenschaftlichen Organisationen. Die Lage des Außenpostens eignet sich ideal zur Sammlung astronomischer Daten über die Gesamtstruktur der galaktischen Spirale.
+  Rackham äußerte sich von seinem privaten Villenkomplex auf dem Rhea-Archipel aus zu diesem historischen wissenschaftlichen Vorhaben:
+  „Als ich damals in einem gebrauchten Sidewinder die Handelsrouten abflog, war die Vorstellung, auf dem Dach des Weltraums zu stehen, ein müßiger Tagtraum. Diese neue Generation von Piloten und Schiffen wird meine Vision Wirklichkeit werden lassen.“
+  „Zweifellos werden viele bedeutende wissenschaftliche Beobachtungen folgen, sobald der Außenposten in Betrieb ist, aber viel wichtiger: Dort wird es eine Bar geben – und die Getränke gehen auf mich!“
+  Ein Sprecher von Rackham Capital Investments bestätigte später, dass der Außenposten im System HIP 58832 am 17. Dezember 3306 betriebsbereit sein werde, stellte jedoch klar, dass es keine rechtliche Garantie für die Erstattung von Getränken gebe.
 ---
 
 

@@ -8,6 +8,8 @@ mention_count: 1
 bio: 'Trent Delaney is a prominent figure in the Elite Dangerous universe, active
   from 3306-12-29 to 3306-12-29. Closely associated with Core Dynamics, Alliance,
   Lakon Spaceways. '
+bio_de: |-
+  Trent Delaney ist eine prominente Persönlichkeit im Elite-Dangerous-Universum und war vom 29. Dezember 3306 bis zum 29. Dezember 3306 aktiv. Enge Verbindungen bestanden zu Core Dynamics, der Allianz und Lakon Spaceways.
 ---
 
 

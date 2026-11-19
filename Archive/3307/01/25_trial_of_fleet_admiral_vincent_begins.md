@@ -1,13 +1,19 @@
 ---
 uuid: 16fe8923-2773-584e-a012-9b5cda8fab5b
 title: Trial of Fleet Admiral Vincent Begins
+title_de: Prozess gegen Flottenadmiral Vincent beginnt
 slug: trial_of_fleet_admiral_vincent_begins
 date: 3307-01-25
 source: API
 summary: The Federal High Court on Mars has opened the trial of Fleet Admiral Lucas
   Vincent, who is charged With conspiracy to commit murder and treason.
+summary_de: Der Oberste Gerichtshof der Föderation auf dem Mars hat den Prozess gegen
+  Flottenadmiral Lucas Vincent eröffnet, der wegen Verschwörung zum Mord und Hochverrats
+  angeklagt ist.
 player_impact: The high-profile trial drew widespread public and pilot attention to
   Federal corruption.
+player_impact_de: Der aufsehenerregende Prozess lenkte die Aufmerksamkeit der Öffentlichkeit
+  und der Piloten auf die Korruption in der Föderation.
 persons:
 - Azaleach
 - Felicia Winters
@@ -30,6 +36,10 @@ arc_id: federal-politics
 modern_impact: '"This is a bittersweet moment for me." The Starship One conspiracy
   trial exposed deep corruption at the heart of the Federation, with lasting implications
   for Federal politics and corporate influence.'
+modern_impact_de: '„Für mich ist dies ein Moment der gemischten Gefühle.“ Der Prozess
+  um die Verschwörung gegen die Starship One legte tiefgreifende Korruption im Herzen
+  der Föderation offen, mit nachhaltigen Auswirkungen auf die Politik der Föderation
+  und den Einfluss von Unternehmen.'
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -39,6 +49,14 @@ related_uuids:
 - fefdabb9-36ba-57a2-8321-e9764f0b713c
 - 29fa900d-a3ad-5a63-bdae-88a4acceaf60
 - ef475ada-e268-55e0-8ada-ae250caa5c86
+body_de: |
+  Der Oberste Gerichtshof der Föderation auf dem Mars hat den Prozess gegen Flottenadmiral Lucas Vincent eröffnet, der wegen Verschwörung zum Mord und Hochverrats angeklagt ist.
+  Vincent wird beschuldigt, im Jahr 3301 die Sabotage der Starship One organisiert zu haben, durch die Hunderte Menschen starben.
+  Ethan Takahashi, Kriminalreporter der Federal Times, berichtete:
+  „Der Prozess begann damit, dass die Anklage den Fall darlegte. Den Geschworenen wurde Beweismaterial vorgelegt, das von Cheftechniker Rory Webster stammte, dessen Aussage zu Vincents Verhaftung geführt hatte.“
+  „Vincent wurde zu einer gesicherten Übertragung von seinem Büro an das Präsidentenschiff am 24. Mai 3301 befragt. Darin wurde ein außerplanmäßiger Kurswechsel in das Azaleach-System für routinemäßige Wartungsarbeiten angeordnet. Dort installierte Websters Ingenieurteam auf Vincents Anweisung die sabotierte Hyperantriebskomponente, die den Fehlsprung verursachte.“
+  „Vincent wich den Fragen aus und behauptete, der gesamte Prozess sei eine ‚Vertuschungsaktion der Liberalen Partei‘ und die Starship One sei zerstört worden, ‚um Winters an die Macht zu bringen‘.“
+  „Nach dem Verlust von Präsidentin Halsey und Vizepräsident Naylor übernahm Felicia Winters tatsächlich das Amt der amtierenden Präsidentin und wurde Vorsitzende der Liberalen Partei. Die Verteidigung spielte diese Anschuldigungen jedoch herunter und erklärte stattdessen, dass Websters Aufzeichnungen von Vincents Anweisungen gefälscht sein könnten.“
 ---
 
 

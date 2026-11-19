@@ -7,6 +7,8 @@ last_seen_date: '3306-12-17'
 mention_count: 2
 bio: 'Mel Brandon is a engineer in the Elite Dangerous universe, active from 3304-08-29
   to 3306-12-17. '
+bio_de: |-
+  Mel Brandon ist ein Ingenieur im Elite-Dangerous-Universum, aktiv vom 3304-08-29 bis zum 3306-12-17.
 ---
 
 

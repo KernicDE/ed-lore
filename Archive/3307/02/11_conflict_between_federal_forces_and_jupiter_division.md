@@ -1,13 +1,18 @@
 ---
 uuid: c1469916-3aca-5e3b-8dc5-76baf74b7e68
 title: Conflict Between Federal Forces and Jupiter Division
+title_de: Konflikt zwischen föderalen Streitkräften und Jupiter Division
 slug: conflict_between_federal_forces_and_jupiter_division
 date: 3307-02-11
 source: API
 summary: '*Pilots Federation ALERT* Jupiter Division ships have engaged in battle
   With rival Federal vessels in The HIP 54530 system.'
+summary_de: '*MITTEILUNG DER PILOTENFÖDERATION* Schiffe der Jupiter Division haben
+  im HIP-54530-System den Kampf mit rivalisierenden föderalen Raumschiffen aufgenommen.'
 player_impact: Pilots participated in the conflict between Federal forces and Jupiter
   Division.
+player_impact_de: Unabhängige Piloten nahmen am Konflikt zwischen föderalen Streitkräften
+  und der Jupiter Division teil.
 persons:
 - Jupiter
 - Jupiter Rochester
@@ -26,6 +31,10 @@ arc_id: federal-politics
 modern_impact: '"For many years, I helped Core Dynamics become one of the galaxy''s
   strongest companies." Rochester''s attempted corporate coup highlighted the dangers
   of unchecked corporate power within the Federation and led to significant reforms.'
+modern_impact_de: '„Viele Jahre lang half ich Core Dynamics dabei, eines der stärksten
+  Unternehmen der Galaxis zu werden.“ Rochesters versuchter Unternehmensputsch verdeutlichte
+  die Gefahren unkontrollierter Unternehmensmacht innerhalb der Föderation und führte
+  zu bedeutenden Reformen.'
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -35,6 +44,26 @@ related_uuids:
 - 533f8ff4-f23d-500f-83d9-92209119bc5b
 - 31ca43b5-5307-50b4-bbd0-948f5ba63d94
 - fefdabb9-36ba-57a2-8321-e9764f0b713c
+body_de: |
+  **MITTEILUNG DER PILOTENFÖDERATION**
+
+  Schiffe der Jupiter Division haben im HIP-54530-System den Kampf mit rivalisierenden föderalen Raumschiffen aufgenommen.
+
+  Anhänger des ehemaligen Vorstandsvorsitzenden von Core Dynamics, Jupiter Rochester, haben in HIP 54530 eine eigene abtrünnige Fraktion gegründet. Die FIA vermutet, dass Agenten der Jupiter Division bereits vor Jahren die HIP 54530 Gold Universal Group unterwanderten und das System mit einer Zugangsbeschränkung belegten, um ihre Bemühungen zur Übernahme von innen heraus zu verschleiern.
+
+  Der selbsternannte Oberste Direktor Rochester erklärte:
+
+  „Die Föderation erstickt an ihrer überholten Bürokratie – nur die Herrschaft der Unternehmen kann sie retten! Doch zunächst muss die galaktische Gemeinschaft meine Anhänger schützen, damit ich eine dauerhafte Operationsbasis errichten kann.“
+
+  Direktor Theodore Sullivan von der Silver Legal Group verkündete:
+
+  „Wir werden nicht dulden, dass diese Kriminellen das System rechtswidrig kontrollieren. Sobald der Sieg errungen ist, kann die Föderation Rochester vor Gericht bringen.“
+
+  Die Jupiter Division hat allen unabhängigen Piloten großzügige Belohnungen angeboten, die bereit sind, ihre Präsenz im HIP-54530-System zu sichern. Die Silver Legal Group hat föderale Hilfspiloten aufgefordert, ihre Bemühungen zu unterstützen, die militärische Stärke der Jupiter Division zu schwächen.
+
+  Die Pilotenföderation hat zugestimmt, alle an diesem Konflikt beteiligten Raumschiffe mit vorübergehenden Zugangsgenehmigungen für HIP 54530 auszustatten. Diese laufen am frühen Donnerstag, den 18. Februar 3307, ab.
+
+  Weder dauerhafte noch vorübergehende Systemgenehmigungen gelten jedoch für Flottenträger, da diese Raumschiffe transportieren können, die sich der Ortung und Genehmigung entziehen könnten.
 ---
 
 

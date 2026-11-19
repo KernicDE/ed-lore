@@ -1,13 +1,18 @@
 ---
 uuid: a3c076ad-3a02-5e61-98b0-a3cd15189a48
 title: Takeover of Lakon Spaceways Declared Illegal
+title_de: Übernahme von Lakon Spaceways für rechtswidrig erklärt
 slug: takeover_of_lakon_spaceways_declared_illegal
 date: 3307-02-10
 source: API
 summary: The acquisition of Lakon Spaceways by Core Dynamics has been revoked following
   revelations of illegal activity.
+summary_de: Die Übernahme von Lakon Spaceways durch Core Dynamics wurde nach Enthüllungen
+  über rechtswidrige Aktivitäten rückgängig gemacht.
 player_impact: The corporate takeover generated significant market and political interest
   among pilots.
+player_impact_de: Die Unternehmensübernahme weckte bei unabhängigen Piloten erhebliches
+  marktbezogenes und politisches Interesse.
 persons:
 - Jupiter
 - Jupiter Rochester
@@ -28,6 +33,9 @@ arc_id: null
 modern_impact: '"We welcome becoming closer partners with the Alliance." The Lakon
   Spaceways takeover saga demonstrated the Alliance''s determination to maintain domestic
   shipbuilding independence against Federal corporate encroachment.'
+modern_impact_de: '„Wir begrüßen es, engere Partner der Allianz zu werden.“ Die Übernahme
+  von Lakon Spaceways zeigte den Willen der Allianz, die Unabhängigkeit ihres heimischen
+  Schiffbaus gegenüber dem Vordringen föderaler Unternehmen zu bewahren.'
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -37,6 +45,18 @@ related_uuids:
 - ef475ada-e268-55e0-8ada-ae250caa5c86
 - fefdabb9-36ba-57a2-8321-e9764f0b713c
 - e4237ea6-7f94-53fc-af9c-f332a6cb5a0f
+body_de: |
+  Die Übernahme von Lakon Spaceways durch Core Dynamics wurde nach Enthüllungen über rechtswidrige Aktivitäten rückgängig gemacht.
+
+  Eine Untersuchung der Unabhängigen Kommission für Marktgleichheit ergab, dass der frühere Vorstandsvorsitzende von Core Dynamics, Jupiter Rochester, „unzulässigen Einfluss auf die Aktionäre von Lakon ausgeübt hat, einschließlich Bestechung und Erpressung“. Dies führte zur Ernennung neuer Verwaltungsratsmitglieder, die für die Zustimmung zur feindlichen Übernahme bezahlt wurden.
+
+  In der Untersuchung wurde auch der jüngste Prozess vor dem Hohen Föderalen Gericht berücksichtigt, in dem nachgewiesen wurde, dass Jupiter Rochester unmittelbar für die Zerstörung von Starship One im Jahr 3301 verantwortlich war. In beiden Fällen gründete er Briefkastenfirmen, um enorme Geldbeträge über nicht registrierte Banksysteme zu transferieren.
+
+  Core Dynamics lehnte eine Stellungnahme zu den Vorwürfen ab, doch das juristische Team des Unternehmens hat den Übertragungsprozess beendet. Das gesamte Unternehmen befindet sich derzeit in Unordnung, da sich mehrere Abteilungen zu einer unabhängigen Fraktion namens Jupiter Division zusammengeschlossen haben.
+
+  Bei Lakon Spaceways sind Trent Delaney und mehrere andere Direktoren zurückgetreten. Während einer Sondersitzung stimmte die Mehrheit der Anteilseigner für die Wiedereinsetzung von Naomi Landseer als Vorsitzende.
+
+  Angesichts einbrechender Aktienkurse und geringen Vertrauens in der Industrie bleibt die Zukunft des Unternehmens ungewiss. Die Sirius Corporation bestätigte jedoch, erste Angebote zur Übernahme von Lakon als Tochtergesellschaft unterbreitet zu haben.
 ---
 
 

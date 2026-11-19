@@ -29,6 +29,10 @@ bio: 'Eurybia is a system in Elite Dangerous, significant from 3303-09-22 to 330
   Liz Ryder and Ishmael Palin to develop new defensive and offensive technologies
   against the Thargoids.; Aegis announces the successful conclusion of its appeal
   for Thargoid-related materials.'
+bio_de: |-
+  Eurybia ist ein unabhängiges System unter der Herrschaft der Eurybia Blue Mafia, das Ende 3303 zu einem Zentrum der Entwicklung von Waffen gegen die Thargoids wurde. Aegis rekrutierte die Ingenieurin Liz Ryder, eine Spezialistin für explosive Waffen, damit sie in Awyra Flirble in Eurybia neue defensive und offensive Technologien gegen die Thargoids entwickelte.
+
+  Das System diente als Sammelstelle für Thargoid-Materialien, darunter Proben unbekannter Technologie, biologisches Material, antike Relikte und Sprengstoffe, die Piloten zur Unterstützung von Ryders Forschung lieferten. Eurybias Rolle im frühen Aegis-Ingenieurprogramm machte es zu einem strategisch bedeutenden Ort in der ersten organisierten Reaktion der Menschheit auf die Thargoid-Bedrohung, obwohl seine anarchische Regierung außerhalb der direkten Kontrolle der Supermächte blieb.
 reserve: Low
 ---
 

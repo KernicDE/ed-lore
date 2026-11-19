@@ -14,6 +14,10 @@ related_entities:
 bio: An Alliance system that became the centrepiece of one of the most successful
   community-driven rejuvenation projects in early 3301, later hosting cultural festivals
   that celebrated Alliance identity.
+bio_de: |-
+  Im Mai 3301 startete die Green Party of Diso ein ehrgeiziges Revitalisierungsprojekt für Birmingham, das die Fantasie der Pilotengemeinschaft beflügelte. Die Resonanz übertraf alle Prognosen: 5.187 Kommandanten lieferten in nur 65 Stunden mehr als fünfzehn Millionen Tonnen Maschinen und verwandelten damit eine bescheidene Systemverbesserung in eine Demonstration organisierter ziviler Leistungsfähigkeit, mit der nur wenige Supermacht-Bürokratien mithalten konnten.
+
+  Birminghams Bedeutung reichte über die Infrastruktur hinaus. Das System diente später als Austragungsort der einwöchigen Essens- und Getränkefeier des Alliance Festival of Culture und festigte so seine Rolle als Symbol für die gemeinschaftlichen Werte der Allianz. Obwohl es strategisch weniger bedeutend war als Systeme wie Alioth oder Leesti, verkörperte Birmingham die Art von Entwicklung von unten, durch die sich die Expansion der Allianz von den zentral gesteuerten Unternehmens- und Militärmodellen ihrer Rivalen unterschied.
 system: Diso
 station_type: Orbital Station
 ---

@@ -1,13 +1,19 @@
 ---
 uuid: ef475ada-e268-55e0-8ada-ae250caa5c86
 title: Jupiter Rochester Named in Starship One Trial
+title_de: Jupiter Rochester im Starship-One-Prozess belastet
 slug: jupiter_rochester_named_in_starship_one_trial
 date: 3307-02-05
 source: API
 summary: Core Dynamics CEO Jupiter Rochester has been accused of collaborating With
   Fleet Admiral Vincent to orchestrate Starship One’s destruction in 3301.
+summary_de: Jupiter Rochester, CEO von Core Dynamics, wurde beschuldigt, mit Flottenadmiral
+  Vincent zusammengearbeitet zu haben, um 3301 die Zerstörung von Starship One zu
+  inszenieren.
 player_impact: Pilots participated in the conflict between Federal forces and Jupiter
   Division.
+player_impact_de: Unabhängige Piloten beteiligten sich am Konflikt zwischen den Streitkräften
+  der Föderation und der Jupiter Division.
 persons:
 - Further
 - Jupiter
@@ -31,6 +37,10 @@ arc_id: federal-politics
 modern_impact: '"This is a bittersweet moment for me." The Starship One conspiracy
   trial exposed deep corruption at the heart of the Federation, with lasting implications
   for Federal politics and corporate influence.'
+modern_impact_de: „Für mich ist dies ein bittersüßer Moment.“ Der Prozess um die Verschwörung
+  gegen Starship One legte tiefgreifende Korruption im Herzen der Föderation offen,
+  mit nachhaltigen Auswirkungen auf die Politik der Föderation und den Einfluss von
+  Unternehmen.
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -42,6 +52,14 @@ related_uuids:
 - e25e2c83-7be4-5236-9a1a-93321f277b40
 - fefdabb9-36ba-57a2-8321-e9764f0b713c
 - 732cda56-878b-56fa-a537-27eff4a56990
+body_de: |
+  Jupiter Rochester, CEO von Core Dynamics, wurde beschuldigt, mit Flottenadmiral Vincent zusammengearbeitet zu haben, um 3301 die Zerstörung von Starship One zu inszenieren.
+  Wie Ethan Takahashi für die Federal Times berichtete:
+  „Dem Gericht wurden Finanzdaten vorgelegt, aus denen hervorging, dass Vincent sowie weitere Personen in der Regierung und der Federal Navy über Briefkastenfirmen, die von Rochesters Loyalisten gegründet worden waren, enorme Zahlungen erhalten hatten.“
+  „Die Staatsanwaltschaft erklärte, Rochester und Vincent hätten auf die Absicht der damaligen Präsidentin Jasmina Halsey reagiert, die Militärausgaben zu kürzen, was sich auf die Gewinne von Core Dynamics ausgewirkt hätte. Sie planten ihre Ermordung und bereiteten den Boden dafür, dass Zachary Hudson ins Amt gewählt wurde, da sie wussten, dass seine Politik zu weiteren Aufträgen für die Marine führen würde.“
+  „Die Verteidigung argumentierte, Halseys Aussage sei unzuverlässig, und die Finanzdaten seien mit unzulässigen Methoden erlangt worden und hätten daher nicht zugelassen werden dürfen. Außerdem wurde darauf hingewiesen, dass die Familie Rochester viele Feinde hatte, die entschlossen waren, ihren Ruf zu schädigen.“
+  „Die Geschworenen wurden nun zur Beratung über das Urteil von der Außenwelt abgeschirmt. Das bedeutet, dass sie keine Kenntnis von Medienberichten haben, wonach mehrere Abteilungen von Core Dynamics, die gemeinsam als ‚Jupiter Division‘ bekannt sind, Schiffe und Personal in das System HIP 54530 verlegen.“
+  Andere Quellen bestätigten, dass die HIP 54530 Gold Universal Group offiziell den Namen Jupiter Division angenommen hat, was darauf hindeutet, dass sie in hohem Maße von Rochesters Loyalisten infiltriert war. Die Fraktion behielt die Kontrolle über das nur mit Genehmigung zugängliche System HIP 54530.
 ---
 
 

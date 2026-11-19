@@ -1,13 +1,18 @@
 ---
 uuid: 6549866d-5636-5f2d-96ad-fd6536f024a4
 title: Sirius Corporation Secures Hosting of Galactic Summit
+title_de: Sirius Corporation sichert sich die Ausrichtung des Galaktischen Gipfels
 slug: sirius_corporation_secures_hosting_of_galactic_summit
 date: 3307-01-28
 source: API
 summary: '*Pilots Federation ALERT* Sirius Corporation has received more data than
   Utopia and will therefore host The Galactic Summit.'
+summary_de: '*Pilotenföderation WARNUNG* Sirius Corporation hat mehr Daten als Utopia
+  erhalten und wird daher den Galaktischen Gipfel ausrichten.'
 player_impact: Pilots supported the diplomatic conference through security and trade
   initiatives.
+player_impact_de: Piloten unterstützten die diplomatische Konferenz durch Sicherheits-
+  und Handelsinitiativen.
 persons:
 - Li Yong-Rui
 - Which
@@ -28,6 +33,9 @@ arc_id: galactic-summit
 modern_impact: '"It is not Utopia''s tradition to become involved with politics."
   The Galactic Summit represented a rare moment of superpower diplomacy, though its
   cancellation underscored the fragility of interstellar cooperation.'
+modern_impact_de: '„Es entspricht nicht der Tradition Utopias, sich politisch zu engagieren.“
+  Der Galaktische Gipfel war ein seltener Moment der Diplomatie zwischen den Supermächten,
+  doch seine Absage unterstrich die Fragilität interstellarer Zusammenarbeit.'
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -37,6 +45,16 @@ related_uuids:
 - 5140542a-1be3-56a9-a558-8224ef317bf7
 - fc197df5-b778-5964-a004-448689eba981
 - 9243011a-ed83-592c-9dcd-6cefc68679cf
+body_de: |
+  **Pilotenföderation WARNUNG**
+  Sirius Corporation hat mehr Daten als Utopia erhalten und wird daher den Galaktischen Gipfel ausrichten.
+  Beide Organisationen hatten vorgeschlagen, eine diplomatische Konferenz für die Allianz, das Imperium und die Föderation zu organisieren. Nachdem sie die galaktische Gemeinschaft zur Sammlung von Daten zur Unterstützung der Sicherheitsoperationen aufgerufen hatten, lieferten viele Piloten anomale Massenscandaten, atypische gestörte Wake-Echos, außergewöhnliche verschlüsselte Emissionsdaten und ungewöhnliche verschlüsselte Dateien ab.
+  Alle drei Regierungen der Supermächte bestätigten, dass sie Sirius Corporation aufgrund ihres Erfolgs bei der Vorbereitung wirksamer Sicherheitssysteme als neutralen Austragungsort der Konferenz anerkennen werden.
+  CEO Li Yong-Rui gab folgende Erklärung ab:
+  „Ich danke allen unabhängigen Piloten, die uns unterstützt haben. Sirius wird nun mit den Vorbereitungen für den ersten Galaktischen Gipfel beginnen, von dem wir uns mehr Frieden und Wohlstand in der gesamten Galaxis erhoffen.“
+  Piloten, die Lieferungen an Sirius Corporation erbracht haben, können ihre Belohnungen im Goldstein Port im Lembava-System abholen.
+  Simguru Pranav Antal zeigte sich enttäuscht, bestätigte jedoch, dass alle, die zu Utopias Initiative beigetragen haben, bei Tanner Settlement im Polevnic-System belohnt werden.
+  Sirius Corporation erklärte, dass der Galaktische Gipfel vorläufig über einen Zeitraum von drei Wochen Ende Februar und Anfang März stattfinden soll.
 ---
 
 

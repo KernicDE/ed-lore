@@ -1,13 +1,18 @@
 ---
 uuid: 3c4ff651-4153-5811-ba1a-9b2f43fac48a
 title: Alliance Shelters New Marlinist Refugees
+title_de: Allianz gewährt neuen marlinistischen Flüchtlingen Zuflucht
 slug: alliance_shelters_new_marlinist_refugees
 date: '3306-12-24'
 source: API
 summary: Tens of thousands of Marlinist refugees claim sanctuary in Alliance space,
   with Prime Minister Edmund Mahon welcoming them while Councillor Nakato Kaine warns
   of resource limits.
+summary_de: Zehntausende marlinistische Flüchtlinge suchen Schutz im Raum der
+  Allianz. Premierminister Edmund Mahon heißt sie willkommen, während Ratsmitglied
+  Nakato Kaine vor den Grenzen der verfügbaren Ressourcen warnt.
 player_impact: None
+player_impact_de: Keine
 persons:
 - Edmund Mahon
 - Nakato Kaine
@@ -19,6 +24,8 @@ topics:
 - terrorism
 arc_id: alliance-expansion
 modern_impact: Demonstrates the Alliance's growing economic and diplomatic influence.
+modern_impact_de: Veranschaulicht den wachsenden wirtschaftlichen und diplomatischen
+  Einfluss der Allianz.
 legacy_weight: 3
 significance: medium
 related_uuids:
@@ -28,6 +35,13 @@ related_uuids:
 - 6d2d8b89-5a9d-58e5-bff5-229cab72d624
 - a0b5af8c-f073-5144-ba2c-8c304335713e
 - ed5fa27e-167e-54a9-9959-a763bdebb1a0
+body_de: |
+  Zehntausende marlinistische Flüchtlinge haben im Raum der Allianz um Schutz nachgesucht, nachdem sie aus dem Imperium ausgewandert waren, um politischer Verfolgung zu entgehen.
+  In den vergangenen Wochen ist ein stetiger Strom ehemaliger imperialer Bürger in Systemen der Allianz eingetroffen, meist an Bord kleiner Privatschiffe oder in den Laderäumen von Frachtern.
+  Die humanitäre Hilfsorganisation Safeguard Interstellar meldete, dass Unterkünfte und lebensnotwendige Güter bereitgestellt werden. Alliance Interpol führt strenge Sicherheitsüberprüfungen durch, um Hinweise auf die Anwesenheit von Mitgliedern der Terrorgruppe NMLA zu finden.
+  Die erste Flüchtlingswelle, die in die Föderation geflohen war, bereitet sich derzeit darauf vor, eine Reihe unabhängiger Kolonien zu besiedeln, die von der Sirius Corporation errichtet wurden. Diese Systeme können dem anhaltenden Exodus der Marlinisten aus dem Imperium jedoch noch keine Zuflucht bieten.
+  Premierminister Edmund Mahon hieß die Flüchtlinge öffentlich willkommen, doch in der Allianzversammlung regte sich auch Widerspruch. Ratsmitglied Nakato Kaine, das bei der Wahl im kommenden Jahr voraussichtlich Mahons wichtigste Rivalin sein wird, stieß mit ihren Ansichten auf breite Zustimmung:
+  „Selbstverständlich müssen wir diesen armen Menschen Nothilfe leisten, doch unsere Ressourcen sind praktisch begrenzt. Es ist nicht unsere Aufgabe, die innenpolitischen Probleme des Imperiums zu lösen, und wir haben gesehen, welchen Preis die Föderation für die Aufnahme von Terroristen zahlen musste. Die Allianz darf nicht zum Abladeplatz für die Probleme anderer Supermächte werden.“
 ---
 
 

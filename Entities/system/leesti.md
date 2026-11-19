@@ -29,6 +29,10 @@ bio: 'Leesti is a system in Elite Dangerous, significant from 3301-04-03 to 3308
   Mining Coalition succeeds in forcing Sirius Corporation to withdraw from the Reorte
   system.; Sirius Corporation organises humanitarian support for the Didio system
   under Thargoid attack.'
+bio_de: |-
+  Leesti ist ein dicht besiedeltes High-Tech-System im Old-Worlds-Cluster und Gründungsmitglied der Allianz Unabhängiger Systeme. Mit über fünf Milliarden Einwohnern, einer kooperativen Regierung und dem Alliance Rapid-reaction Corps als kontrollierender Fraktion verkörpert Leesti die Vision der Allianz von wohlhabenden, selbstverwalteten Systemen, die durch gemeinsame Interessen statt durch imperiale Erlasse verbunden sind. Seine High-Tech- und Industriewirtschaft macht es zu einem bedeutenden Produktions- und Forschungszentrum im Raum der Allianz.
+
+  Die politische Bedeutung des Systems reicht über seine Wirtschaftsleistung hinaus. Leestis Nähe zu Lave, Reorte und anderen Old-Worlds-Systemen verortet es im Herzen des Kernterritoriums der Allianz, während seine Geschichte des Widerstands gegen äußeren Unternehmenseinfluss – einschließlich der genauen Prüfung der Aktivitäten der Sirius Corporation – die anhaltende Spannung zwischen den Idealen der Allianz und den praktischen Erfordernissen galaktischer Machtpolitik widerspiegelt. Leesti bleibt ein Gradmesser für die politische Stimmung in der Allianz; sein kooperatives Regierungsmodell dient neueren Mitgliedssystemen sowohl als Inspiration als auch als Herausforderung.
 reserve: Low
 ---
 

@@ -30,6 +30,10 @@ bio: 'Diso is a system in Elite Dangerous, significant from 3301-05-08 to 3307-0
   for a second term.; Weekly summary covering the murder of INRA descendant Luca Hem
   by the League of Reparation, Aisling Duval hosting Jordan Rochester and Caspian
   Leop...'
+bio_de: |-
+  Diso ist ein geschichtsträchtiges Agrarsystem in den Old Worlds der Allianz und in der gesamten Galaxis für seinen charakteristischen Diso Ma Corn bekannt. Die einzigartige psychoaktive Staubschicht der Pflanze kann nur auf Birmingham kosteneffizient kultiviert werden, wo die chemische Zusammensetzung des Bodens und die ständige Einwirkung der Sonnenwellen des Muttersterns ideale Bedingungen schaffen. Im Jahr 3301 leitete die Green Party of Diso ein äußerst erfolgreiches Revitalisierungsprojekt, im Rahmen dessen Tausende Piloten in nur 65 Stunden über 15 Millionen Tonnen Maschinen lieferten, um die Ma-Corn-Produktion auszubauen.
+
+  Das System ist außerdem die politische Heimat von Premierminister Edmund Mahon, der von Birmingham aus seine historische Wiederwahlkampagne im Jahr 3307 startete. Disos landwirtschaftliche Bedeutung machte es während der Blight-Krise von 3305 zu einem Brennpunkt, als die Interstellar Association for Agriculture dort schlechte Ernten feststellte, die später mit verseuchtem Rockforth-Dünger in Verbindung gebracht wurden. Das wichtigste Handelszentrum des Systems, Shifnalport, dient seit Langem als Tor zur Wirtschaft der Old Worlds.
 reserve: Depleted
 ---
 

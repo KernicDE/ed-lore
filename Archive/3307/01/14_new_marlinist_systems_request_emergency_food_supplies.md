@@ -1,12 +1,16 @@
 ---
 uuid: eec09e5e-cb5a-590e-b38c-88e65e11dd5b
 title: New Marlinist Systems Request Emergency Food Supplies
+title_de: Neue marlinistische Systeme fordern Nothilfe mit Nahrungsmitteln
 slug: new_marlinist_systems_request_emergency_food_supplies
 date: 3307-01-14
 source: API
 summary: '*Pilots Federation ALERT* The newly settled Marlinist Colonies have asked
   for urgent deliveries of foodstuffs.'
+summary_de: '*WARNMELDUNG DER PILOTENFÖDERATION* Die neu besiedelten Marlinistischen
+  Kolonien haben um dringende Lieferungen von Nahrungsmitteln gebeten.'
 player_impact: Pilots followed these developments through GalNet reports.
+player_impact_de: Piloten verfolgten diese Entwicklungen über GalNet-Berichte.
 persons:
 - Further
 - Jenna Fairfax
@@ -31,6 +35,10 @@ modern_impact: '"The starport attacks were as sickening and terrifying to us as 
   the rest of the galaxy." The Marlinist refugee crisis and NMLA terrorism forced
   the galaxy to confront the consequences of Imperial political repression and republican
   ideology.'
+modern_impact_de: '„Die Angriffe auf die Sternenhäfen waren für uns genauso abscheulich
+  und erschreckend wie für den Rest der Galaxis.“ Die marlinistische Flüchtlingskrise
+  und der Terrorismus der NMLA zwangen die Galaxis, sich mit den Folgen der politischen
+  Repression des Imperiums und der republikanischen Ideologie auseinanderzusetzen.'
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -43,6 +51,16 @@ related_uuids:
 - 09a1615f-e58a-5a91-9d2e-71b9a4edfbe2
 - 9ec708c8-2591-5e8f-8385-17665e923f72
 - c29442f8-da7f-5d0f-842b-e2451abd99ef
+body_de: |
+  **WARNMELDUNG DER PILOTENFÖDERATION**
+  Die neu besiedelten Marlinistischen Kolonien haben um dringende Lieferungen von Nahrungsmitteln gebeten.
+  Millionen Marlinisten sind in acht Systeme umgesiedelt, die die Sirius Corporation für sie kolonisiert hat, wodurch die Spannungen zwischen dem Imperium und der Föderation abgebaut wurden. Sie haben Universal Cartographics gebeten, eine Volkszählung der Systembevölkerungen zu verschieben, während die Flüchtlinge die Infrastruktur für ihre neuen Gesellschaften aufbauen.
+  Die marlinistischen Fraktionen führen demokratische Wahlen zur Bestimmung ihrer Anführer durch. Das Übergangsparlament hat jedoch aufgrund der knappen Nahrungsmittelbestände den Notstand ausgerufen.
+  Die Sprecherin der Gemeinschaft, Dr. Jenna Fairfax, erklärte:
+  „Wir sind der galaktischen Gemeinschaft und der Sirius Corporation dankbar, dass sie uns ein Zuhause gegeben haben. Wir benötigen jedoch weitere Hilfe, um unser Volk kurzfristig zu ernähren, bis wir uns selbst versorgen können.“
+  „Je mehr Vorräte wir anlegen können, desto schneller werden sich unsere Volkswirtschaften entwickeln. Dadurch können wir wiederum größere Rabatte auf Waren anbieten, um die Einrichtung regelmäßiger Handelsrouten zu fördern.“
+  Piloten werden gebeten, Tierfleisch, Fisch, Obst und Gemüse sowie Getreide zum Stillman Hub im System HIP 22550 zu liefern.
+  Da die Verteidigungskräfte dieses Systems noch aufgebaut werden, haben die Free Marlinists of Carinae Kopfgelder auf alle gesuchten Schiffe ausgesetzt, um diese ersten Handelsflüge zu den Marlinistischen Kolonien abzusichern.
 ---
 
 

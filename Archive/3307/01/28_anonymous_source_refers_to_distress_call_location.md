@@ -1,12 +1,16 @@
 ---
 uuid: e47fe3bc-bc50-5a54-8c32-16cf25bacd31
 title: Anonymous Source Refers to Distress Call Location
+title_de: Anonyme Quelle nennt den Ort des Notrufs
 slug: anonymous_source_refers_to_distress_call_location
 date: 3307-01-28
 source: API
 summary: '*Pilots Federation ALERT* An encrypted message seems to provide planetary
   coordinates related to The mysterious signal from ‘Serene Harbour’.'
+summary_de: '*Pilotenföderation WARNUNG* Eine verschlüsselte Nachricht scheint planetare
+  Koordinaten zu liefern, die mit dem geheimnisvollen Signal von ‚Serene Harbour‘ zusammenhängen.'
 player_impact: Pilots followed these developments through GalNet reports.
+player_impact_de: Piloten verfolgten diese Entwicklungen in den GalNet-Berichten.
 persons: []
 groups: []
 locations: []
@@ -15,6 +19,8 @@ topics:
 arc_id: null
 modern_impact: '"This event contributed to the evolving political and security landscape
   of the galaxy in 3307."'
+modern_impact_de: Dieses Ereignis trug zur sich wandelnden politischen und sicherheitspolitischen
+  Lage der Galaxis im Jahr 3307 bei.
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -24,6 +30,14 @@ related_uuids:
 - f289a62c-f4fe-5c65-8563-7f318ee935ba
 - f1fd8447-7d57-5af5-9889-be0bfb2788bb
 - c1469916-3aca-5e3b-8dc5-76baf74b7e68
+body_de: |
+  **Pilotenföderation WARNUNG**
+  Eine verschlüsselte Nachricht scheint planetare Koordinaten zu liefern, die mit dem geheimnisvollen Signal von ‚Serene Harbour‘ zusammenhängen.
+  Die von der Pilotenföderation empfangene Nachricht lautete wie folgt:
+  Willkommen in Serene Harbour. 56,4 Breitengrad, -8,3 Längengrad. Theta Seven.
+  Obwohl dadurch ein geografisches Gebiet auf einer Planetenoberfläche genau bestimmt wird, bleibt die astronomische Position dieses Himmelskörpers ein Rätsel. Es ist unklar, ob sich ‚Theta Seven‘ auf zusätzliche Kartenkoordinaten irgendeiner Art bezieht oder eine Codephrase für unbekannte Empfänger ist.
+  Über den ursprünglichen Notruf ist außer seinem kurzen Inhalt wenig bekannt:
+  Dies ist ein Notruf von Serene Harbour auf allen Frequenzen. Wir sind –
 ---
 
 

@@ -29,6 +29,10 @@ bio: 'Azaleach is a system in Elite Dangerous, significant from 3301-05-26 to 33
   after contact was lost with Spaceflight One carrying President Halsey and V...;
   Three ships from Starship One''s Guardian Wing made contact with Navy HQ but could
   not explain the disappearance.'
+bio_de: |-
+  Azaleach ist ein System der Föderation, das nach dem Verschwinden der Starship One im Mai 3301 als Ausgangsbasis für Such- und Rettungseinsätze diente. Die Föderale Marine richtete im Leoniceno Orbital in Azaleach eine Einsatzzentrale ein und rief Piloten dazu auf, sich für Such- und Rettungsaufgaben zu melden, nachdem das Präsidentenschiff von Präsidentin Jasmina Halsey auf seiner gesicherten Route verschwunden war.
+
+  Das System erlangte Anfang 3307 erneut Bedeutung, als der Oberste Gerichtshof der Föderation auf dem Mars den Prozess gegen Flottenadmiral Lucas Vincent eröffnete, der im Zusammenhang mit der Starship-One-Katastrophe wegen Verschwörung zur Begehung eines Mordes und Hochverrats angeklagt war. Azaleachs Rolle bei der anfänglichen Suche verband das System mit einem der bedeutendsten politischen Rätsel der Föderation und stellte eine Verbindung zwischen der örtlichen Infrastruktur der Föderation und galaxisweiten Strafverfahren her.
 ---
 
 

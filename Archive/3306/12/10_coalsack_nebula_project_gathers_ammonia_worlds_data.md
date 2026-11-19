@@ -1,13 +1,18 @@
 ---
 uuid: 6d2d8b89-5a9d-58e5-bff5-229cab72d624
 title: Coalsack Nebula Project Gathers Ammonia Worlds Data
+title_de: Coalsack-Nebel-Projekt sammelt Daten über Ammoniakwelten
 slug: coalsack_nebula_project_gathers_ammonia_worlds_data
 date: '3306-12-10'
 source: API
 summary: Explorers successfully catalogue ammonia worlds in the Coalsack Nebula for
   Sirius Atmospherics' terraforming project, in partnership with the Alliance.
+summary_de: Forscher katalogisieren erfolgreich Ammoniakwelten im Coalsack-Nebel für
+  das Terraforming-Projekt von Sirius Atmospherics in Zusammenarbeit mit der Allianz.
 player_impact: Contributing pilots collected payouts at Betancourt Base in the Musca
   Dark Region PJ-P b6-1 system.
+player_impact_de: Beteiligte Piloten holten ihre Auszahlungen bei Betancourt Base
+  im System Musca Dark Region PJ-P b6-1 ab.
 persons:
 - Maximilian North
 - Morag Halloran
@@ -20,6 +25,8 @@ topics:
 - exploration
 modern_impact: Terraforming initiatives in the Coalsack Nebula continue to expand
   human habitation into previously hostile environments.
+modern_impact_de: Terraforming-Initiativen im Coalsack-Nebel erweitern weiterhin den
+  menschlichen Siedlungsraum in zuvor lebensfeindliche Umgebungen.
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -30,6 +37,15 @@ related_uuids:
 - 3c4ff651-4153-5811-ba1a-9b2f43fac48a
 - 32ae371b-e2e7-5253-931c-bc9683a45090
 - a0b5af8c-f073-5144-ba2c-8c304335713e
+body_de: |
+  **ALARM der Pilotenföderation**
+  Forscher haben zahlreiche Ammoniakwelten für ein Terraforming-Projekt von Sirius Atmospherics im Coalsack-Nebel katalogisiert.
+  Die Tochtergesellschaft der Sirius Corporation ist eines von mehreren Unternehmen, die in Zusammenarbeit mit der Allianz die Region kommerziell erschließen.
+  Projektleiter Dr. Maximilian North verkündete den erfolgreichen Abschluss der Initiative:
+  „Die bereitgestellten Daten über Planeten mit ammoniakbasierten Atmosphären werden für unsere Terraforming-Simulationen von unschätzbarem Wert sein. Mit unseren neuen Umwelttechniken könnten einige dieser giftigen Welten innerhalb des Nebels eines Tages bewohnbar werden.“
+  Sirius Atmospherics hat bestätigt, dass die Auszahlungen für alle beteiligten Piloten nun bei Betancourt Base im System Musca Dark Region PJ-P b6-1 verfügbar sind.
+  Während die Expansion in den Coalsack-Nebel voranschreitet, kommentierte Commodore Morag Halloran von den Verteidigungskräften der Allianz die Möglichkeit weiterer Angriffe durch die Thargoids:
+  „Die Anti-Xeno-Sicherheitsmaßnahmen sind nicht so streng wie geplant, da nur wenige ADF-Schiffe verfügbar sind und Aegis von der Kürzung föderaler und imperialer Mittel betroffen ist. Es könnte erforderlich sein, die galaktische Gemeinschaft erneut um Hilfe zu bitten, sollten wir auf weitere Störungen durch die Thargoids stoßen.“
 ---
 
 

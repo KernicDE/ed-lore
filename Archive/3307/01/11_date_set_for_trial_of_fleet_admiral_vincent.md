@@ -1,13 +1,18 @@
 ---
 uuid: c917c581-7cd2-54eb-a0cd-ff49b24b1f92
 title: Date Set for Trial of Fleet Admiral Vincent
+title_de: Prozess gegen Flottenadmiral Vincent terminiert
 slug: date_set_for_trial_of_fleet_admiral_vincent
 date: 3307-01-11
 source: API
 summary: Fleet Admiral Lucas Vincent of The Federal Navy will stand trial on the 25th
   of January, charged With conspiracy to commit murder and treason.
+summary_de: Der Prozess gegen Flottenadmiral Lucas Vincent von der Föderalen Marine
+  beginnt am 25. Januar; ihm werden Verschwörung zum Mord und Hochverrat vorgeworfen.
 player_impact: The high-profile trial drew widespread public and pilot attention to
   Federal corruption.
+player_impact_de: Der vielbeachtete Prozess lenkte die Aufmerksamkeit der Öffentlichkeit
+  und der Piloten auf die Korruption in der Föderation.
 persons:
 - Mars
 - Olympus Village
@@ -27,6 +32,9 @@ arc_id: federal-politics
 modern_impact: '"This is a bittersweet moment for me." The Starship One conspiracy
   trial exposed deep corruption at the heart of the Federation, with lasting implications
   for Federal politics and corporate influence.'
+modern_impact_de: „Für mich ist dies ein bittersüßer Moment.“ Der Prozess um die
+  Starship-One-Verschwörung legte tiefgreifende Korruption im Herzen der Föderation offen,
+  mit nachhaltigen Auswirkungen auf die Politik der Föderation und den Einfluss von Unternehmen.
 legacy_weight: 1
 significance: low
 related_uuids:
@@ -37,6 +45,13 @@ related_uuids:
 - 4e4f34c5-f585-58c6-983a-ec7b9135f20d
 - ef475ada-e268-55e0-8ada-ae250caa5c86
 - fefdabb9-36ba-57a2-8321-e9764f0b713c
+body_de: |
+  Flottenadmiral Lucas Vincent von der Föderalen Marine muss sich ab dem 25. Januar wegen Verschwörung zur Begehung eines Mordes und Hochverrats vor Gericht verantworten.
+  Das Büro des Generalstaatsanwalts der Föderation hat erfolgreich eine Anklage durch eine Grand Jury gegen Flottenadmiral Vincent erwirkt. Ihm wird vorgeworfen, 3301 die Sabotage des Präsidentenschiffs Starship One arrangiert zu haben, um die damalige Präsidentin Jasmina Halsey zu ermorden. Obwohl sie später lebend geborgen wurde, starben Hunderte, als das Schiff während des Flugs zerstört wurde.
+  Die Anklagen folgten auf den Prozess gegen Rory Webster, einen Marinetechniker, der am Versagen des Hyperantriebs der Starship One beteiligt gewesen sein soll. Webster gestand seine Beteiligung und bot an, im Rahmen eines Deals mit der Staatsanwaltschaft Beweise dafür zu liefern, dass er geheimen Anweisungen Vincents gefolgt war.
+  Die darauf folgende Verhaftung löste in militärischen und politischen Kreisen erhebliche Reaktionen aus. Präsident Zachary Hudsons langjährige Verbindung zu Vincent führte dazu, dass republikanische Kongressabgeordnete das Vertrauen in seine Führung verloren, und steigerte die Beliebtheit der Liberalen Partei.
+  Als Marinestabschef ist Flottenadmiral Vincent der ranghöchste Militäroffizier der Föderation, der jemals vor Gericht gestellt wurde. Das Medieninteresse ist weiterhin groß, und in der Öffentlichkeit wird viel über Korruption in den höchsten Kreisen der Föderation spekuliert.
+  Der Prozess wird am Obersten Gerichtshof der Föderation in Olympus Village auf dem Mars stattfinden und voraussichtlich mehrere Wochen dauern.
 ---
 
 

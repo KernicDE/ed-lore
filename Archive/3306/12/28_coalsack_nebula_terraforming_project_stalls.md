@@ -1,13 +1,18 @@
 ---
 uuid: ed5fa27e-167e-54a9-9959-a763bdebb1a0
 title: Coalsack Nebula Terraforming Project Stalls
+title_de: Terraforming-Projekt im Coalsack-Nebel kommt ins Stocken
 slug: coalsack_nebula_terraforming_project_stalls
 date: '3306-12-28'
 source: API
 summary: Sirius Atmospherics reports that preliminary terraforming efforts in the
   Coalsack Nebula are less effective than simulated, though the Alliance confirms
   increased personnel and equipment deployments to the region.
+summary_de: Sirius Atmospherics berichtet, dass die ersten Terraforming-Bemühungen
+  im Coalsack-Nebel weniger wirksam sind als simuliert, während die Allianz eine
+  verstärkte Entsendung von Personal und Ausrüstung in die Region bestätigt.
 player_impact: None
+player_impact_de: Keine
 persons:
 - Maximilian North
 - Flint 'Firemaker' Lafosse
@@ -21,6 +26,8 @@ topics:
 - research
 modern_impact: Terraforming initiatives in the Coalsack Nebula continue to expand
   human habitation into previously hostile environments.
+modern_impact_de: Terraforming-Initiativen im Coalsack-Nebel erweitern die menschliche
+  Besiedelung weiterhin auf bislang lebensfeindliche Umgebungen.
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -29,6 +36,14 @@ related_uuids:
 - 3c4ff651-4153-5811-ba1a-9b2f43fac48a
 - 589b5e3b-4024-5845-bb2d-55becd1e562f
 - 5783e898-65a7-5db9-9681-366b1eb91056
+body_de: |
+  Sirius Atmospherics hat einen Zwischenbericht über seine Experimente zum Terraforming von Ammoniakwelten im Coalsack-Nebel vorgelegt.
+  Die Tochtergesellschaft der Sirius Corporation arbeitet eng mit der Allianz zusammen, um die Ressourcen des Nebels zu erschließen und wissenschaftliche Untersuchungen durchzuführen, einschließlich des Terraformings terrestrischer Planeten mit Atmosphären auf Ammoniakbasis.
+  Projektleiter Dr. Maximilian North gab folgenden Fortschrittsbericht:
+  „Die ersten Bemühungen zur Umwandlung der Ökosphäre haben vielversprechende Ergebnisse geliefert, doch unsere neuen Verfahren sind nicht so wirksam, wie es die auf Erkundungsdaten beruhenden Simulationen erwarten ließen. Wir sind noch weit davon entfernt, diese Welten vollständig in bewohnbare Umgebungen zu verwandeln.“
+  Der unabhängige Journalist Flint ‚Firemaker‘ Lafosse kommentierte dies im Rewired-Netzwerk:
+  „Glaubt wirklich jemand, dass Sirius wegen des Terraformings dort ist? Natürlich können sie nicht über Nacht auf magische Weise aus Ammoniak-Höllenlöchern Paradiesplaneten machen! Ich erkenne eine Tarnung, wenn ich sie rieche. Ich wäre nicht überrascht, wenn sie absichtlich versuchen würden, die Thargoiden aus irgendeinem Grund zu provozieren, vielleicht um ein paar Exemplare zu fangen. Wo Xenos sind, sind auch Credits.“
+  Die Allianz hat Dr. Norths Bericht bestätigt, aber auch vermeldet, dass verstärkt Personal und Ausrüstung der Sirius Corporation im Coalsack-Nebel eintreffen.
 ---
 
 

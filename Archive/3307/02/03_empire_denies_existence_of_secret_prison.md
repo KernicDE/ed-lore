@@ -1,12 +1,17 @@
 ---
 uuid: 1bb8c64c-6562-592e-b832-e5574e3ceab1
 title: Empire Denies Existence of Secret Prison
+title_de: Imperium bestreitet Existenz eines geheimen Gefängnisses
 slug: empire_denies_existence_of_secret_prison
 date: 3307-02-03
 source: API
 summary: '*Pilots Federation ALERT* An Imperial Intelligence detention facility discovered
   in The R CRA Sector AF-A d42 system has been repudiated by the Empire.'
+summary_de: '*ALARM DER PILOTENFÖDERATION* Das Imperium hat die Existenz einer im
+  System R CrA Sector AF-A d42 entdeckten Hafteinrichtung des Imperialen Geheimdienstes
+  dementiert.'
 player_impact: Pilots followed these developments through GalNet reports.
+player_impact_de: Unabhängige Piloten verfolgten diese Entwicklungen in den GalNet-Berichten.
 persons:
 - Andee-X-
 groups:
@@ -19,6 +24,10 @@ arc_id: null
 modern_impact: '"There is no such place as ''Serene Harbour''." The Empire''s denial
   of Serene Harbour foreshadowed revelations about Imperial Intelligence''s brutal
   treatment of political prisoners and NMLA suspects.'
+modern_impact_de: „Einen Ort wie ‚Serene Harbour‘ gibt es nicht.“ Das Dementi des
+  Imperiums zu Serene Harbour ließ spätere Enthüllungen über die brutale Behandlung
+  politischer Gefangener und NMLA-Verdächtiger durch den Imperialen Geheimdienst
+  bereits erahnen.
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -28,6 +37,22 @@ related_uuids:
 - 6efd63d0-0d68-594f-8e75-b0c5df826485
 - 5140542a-1be3-56a9-a558-8224ef317bf7
 - 12cb1fa8-abf9-5608-adb7-15ce6660e828
+body_de: |
+  **ALARM DER PILOTENFÖDERATION**
+
+  Das Imperium hat die Existenz einer im System R CrA Sector AF-A d42 entdeckten Hafteinrichtung des Imperialen Geheimdienstes dementiert.
+
+  Der Außenposten namens Serene Harbour wurde geortet, nachdem die Pilotenföderation seinen Notruf öffentlich verbreitet hatte. Nach Angaben von Commander Andee-X-, der den Ort als Erster untersuchte, waren alle Personen vor Ort tot, offenbar infolge eines Ausbruchs von Gefangenen.
+
+  Im Gegensatz zum Imperial Internal Security Service verfügt die Organisation Imperial Intelligence über keine Sprecher oder öffentlichen Kommunikationskanäle. Senator Karl Nerva erklärte gegenüber den Medien jedoch:
+
+  „Die Behauptung, dass Hochsicherheitsgefangene und Terroristen in einem nicht registrierten Außenposten gefoltert werden, um Informationen zu erlangen, ist kategorisch falsch. Einen Ort wie ‚Serene Harbour‘ gibt es nicht.“
+
+  „Wir sind überzeugt, dass unabhängige Piloten Opfer einer Inszenierung der Föderation wurden, die das Imperium mit gefälschten Orten und Logbüchern unterminieren soll. Ich versichere allen Bürgern, dass der Imperiale Geheimdienst vollständig im Rahmen des Gesetzes handelt und gegenüber allen Bedrohungen wachsam bleibt.“
+
+  Auf Kommandant Gabriel De Luca angesprochen, der in den erhalten gebliebenen Logbüchern des Außenpostens identifiziert wurde, antwortete Senator Nerva:
+
+  „Kapitän De Luca war tatsächlich ein Agent des Imperialen Geheimdienstes, starb jedoch vor mehreren Jahren im aktiven Dienst. Es ist offensichtlich, dass die Identität dieses angesehenen Helden gestohlen wurde, um antiimperialer Desinformation Glaubwürdigkeit zu verleihen.“
 ---
 
 

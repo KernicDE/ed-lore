@@ -10,6 +10,8 @@ bio: Naylor is a president in the Elite Dangerous universe, active from 3301-03-
   swore to continue supporting President Halsey following Shadow President Hudson's
   attack. Naylor defended Halsey's difficult decisions, stating he would have made
   the same choices with the same information.
+bio_de: |-
+  Naylor ist ein Präsident im Elite-Dangerous-Universum, aktiv vom 3301-03-31 bis zum 3307-01-25. Eng verbunden mit den Federal Times. Vizepräsident Naylor gelobte öffentlich, Präsidentin Halsey nach dem Angriff von Schattenpräsident Hudson weiterhin zu unterstützen. Naylor verteidigte Halseys schwierige Entscheidungen und erklärte, er hätte mit denselben Informationen dieselben Entscheidungen getroffen.
 ---
 
 

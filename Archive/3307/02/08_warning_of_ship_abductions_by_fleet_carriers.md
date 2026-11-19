@@ -1,12 +1,16 @@
 ---
 uuid: 5cdfec3f-e617-590e-9238-6207948f97ea
 title: Warning of Ship Abductions by Fleet Carriers
+title_de: Warnung vor Schiffsentführungen durch Flottenträger
 slug: warning_of_ship_abductions_by_fleet_carriers
 date: 3307-02-08
 source: API
 summary: '*Pilots Federation ALERT* This is an emergency bulletin to alert Independent
   pilots that kidnappers are operating in The vicinity of the HR 6828 system.'
+summary_de: '*MITTEILUNG DER PILOTENFÖDERATION* Diese Dringlichkeitsmeldung warnt
+  unabhängige Piloten davor, dass Entführer in der Nähe des HR-6828-Systems aktiv sind.'
 player_impact: Pilots followed these developments through GalNet reports.
+player_impact_de: Unabhängige Piloten verfolgten diese Entwicklungen in den GalNet-Berichten.
 persons:
 - Important
 - Star
@@ -23,6 +27,10 @@ arc_id: null
 modern_impact: '"All pilots are therefore advised to beware of hails directing them
   to HR 6828." This warning highlighted emerging criminal schemes exploiting fleet
   carrier mechanics to trap inexperienced pilots in distant systems.'
+modern_impact_de: '„Alle Piloten werden daher davor gewarnt, Funkrufen zu folgen,
+  die sie nach HR 6828 lotsen.“ Diese Warnung machte auf neue kriminelle Machenschaften
+  aufmerksam, bei denen die Funktionsweise von Flottenträgern ausgenutzt wurde, um
+  unerfahrene Piloten in entfernten Systemen gefangen zu halten.'
 legacy_weight: 1
 significance: low
 related_uuids:
@@ -32,6 +40,20 @@ related_uuids:
 - 4e4f34c5-f585-58c6-983a-ec7b9135f20d
 - 282055d5-c3b9-5772-855e-9acd24d78c43
 - fefdabb9-36ba-57a2-8321-e9764f0b713c
+body_de: |
+  **MITTEILUNG DER PILOTENFÖDERATION**
+
+  Diese Dringlichkeitsmeldung warnt unabhängige Piloten davor, dass Entführer in der Nähe des HR-6828-Systems aktiv sind.
+
+  Die Pilotenföderation hat Berichte über unseriöse Angebote an Commander erhalten, die erst kürzlich ihre Pilotenlizenz erworben haben.
+
+  Dabei verleiten die Besitzer von Flottenträgern der Drake-Klasse einen Piloten dazu, sein Raumschiff für Bergbaueinsätze auszurüsten, bevor er an dem größeren Schiff andockt. Dieses führt anschließend eine Reihe von Sprüngen in ein entferntes Sternensystem aus, das über 800 Lichtjahre entfernt liegt, und nimmt das angedockte Schiff mit.
+
+  Der Commander wird dazu aufgefordert, Bergbau-Hotspots auszubeuten, um Einnahmen für den Flottenträger zu erwirtschaften. Die begrenzte Sprungreichweite seines eigenen Schiffs bedeutet jedoch, dass er praktisch festsitzt und für die Rückkehr in sein Ausgangssystem auf den Flottenträger angewiesen ist.
+
+  Alle Piloten werden daher davor gewarnt, Funkrufen zu folgen, die sie nach HR 6828 oder in Systeme dieser Region lotsen. Außerdem ist äußerste Vorsicht geboten, wenn an einem Flottenträger angedockt wird, dessen Besitzer unbekannt ist.
+
+  Die Pilotenföderation hat alle Mitglieder gebeten, diese Meldung über öffentliche Kanäle zu verbreiten. Sie wurde außerdem an große Nachrichtenkanäle weitergeleitet, darunter die Alliance Tribune, die Federal Times, den Imperial Herald und Vox Galactica.
 ---
 
 

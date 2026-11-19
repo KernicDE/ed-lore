@@ -1,13 +1,18 @@
 ---
 uuid: a09f593c-1af4-5727-863d-002a1ebb2aca
 title: Core Dynamics Insider Discusses Lakon Takeover
+title_de: Core-Dynamics-Insider spricht über Lakon-Übernahme
 slug: core_dynamics_insider_discusses_lakon_takeover
 date: 3307-01-13
 source: API
 summary: An anonymous source within The shipbuilding corporation Core Dynamics has
   revealed details behind Its hostile takeover of Lakon Spaceways.
+summary_de: Eine anonyme Quelle innerhalb des Schiffbauunternehmens Core Dynamics hat
+  Details über die feindliche Übernahme von Lakon Spaceways enthüllt.
 player_impact: The corporate takeover generated significant market and political interest
   among pilots.
+player_impact_de: Die Unternehmensübernahme erregte bei Piloten erhebliches
+  marktwirtschaftliches und politisches Interesse.
 persons:
 - Further
 - Jupiter
@@ -25,6 +30,9 @@ arc_id: null
 modern_impact: '"We welcome becoming closer partners with the Alliance." The Lakon
   Spaceways takeover saga demonstrated the Alliance''s determination to maintain domestic
   shipbuilding independence against Federal corporate encroachment.'
+modern_impact_de: „Wir begrüßen es, engere Partner der Allianz zu werden.“ Die Übernahmesaga
+  um Lakon Spaceways zeigte die Entschlossenheit der Allianz, ihre unabhängige heimische
+  Schiffbauindustrie gegen das Vordringen föderaler Unternehmen zu verteidigen.
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -34,6 +42,13 @@ related_uuids:
 - c1469916-3aca-5e3b-8dc5-76baf74b7e68
 - aa81f947-721e-52c8-a91e-906bf41c62b8
 - 31ca43b5-5307-50b4-bbd0-948f5ba63d94
+body_de: |
+  Eine anonyme Quelle innerhalb des Schiffbauunternehmens Core Dynamics hat Details über die feindliche Übernahme von Lakon Spaceways enthüllt.
+  Der namenlose Insider hatte zuvor erklärt, die Übernahme von Lakon sei das persönliche Projekt des Core-Dynamics-CEO Jupiter Rochester gewesen. Diese zusätzlichen Behauptungen wurden über Vox Galactica verbreitet:
+  „In den letzten Jahren hat Rochester viele Unternehmen mit Sitz außerhalb der Föderation gekauft, darunter Vodel. Lakon Spaceways ist nur das jüngste. Es scheint legal zu sein, aber er leitet diese Tochtergesellschaften direkt und setzt dort seine eigenen Leute ein. Manche sagen, er diversifiziere die privaten Besitztümer seiner Familie, statt das Unternehmen zu erweitern.“
+  „Es ist allgemein bekannt, dass mehrere Abteilungen nur Rochesters Anweisungen folgen und in Silos arbeiten, ohne Verbindung zum Rest von Core Dynamics. Die Mitarbeiter nennen sie ‚Jupiter Division‘. Einige Büros begannen sogar, diesen Namen zu verwenden, als seien sie ein eigenes Unternehmen innerhalb eines Unternehmens.“
+  „Ich habe gehört, dass einige Direktoren mit Rochester unzufrieden sind, aber er ist zu gut vernetzt, als dass man ihn je loswerden könnte. Ihm verdanken wir so viele Militäraufträge. Wie immer können sich die Reichen alles erlauben.“
+  Core Dynamics lehnte eine Stellungnahme zu dieser Erklärung ab. Naomi Landseer, ehemalige Vorsitzende des Verwaltungsrats von Lakon Spaceways, hat die Independent Commission for Market Equality um weitere Ermittlungen gebeten.
 ---
 
 

@@ -1,12 +1,17 @@
 ---
 uuid: 2d325580-e17b-53ad-8dab-6bdb3f7dca65
 title: Investors Take Control of Lakon Spaceways
+title_de: Investoren übernehmen die Kontrolle über Lakon Spaceways
 slug: investors_take_control_of_lakon_spaceways
 date: '3306-12-22'
 source: API
 summary: Lakon Spaceways shareholders vote to replace several board members, with
   the new appointees stating they will reappraise Core Dynamics' takeover bid.
+summary_de: Die Aktionäre von Lakon Spaceways stimmen für die Ersetzung mehrerer
+  Verwaltungsratsmitglieder. Die neu Ernannten kündigen eine erneute Prüfung des
+  Übernahmeangebots von Core Dynamics an.
 player_impact: None
+player_impact_de: Keine
 persons:
 - Naomi Landseer
 - Jupiter Rochester
@@ -17,6 +22,8 @@ topics:
 - corporate expansion
 modern_impact: Corporate rivalries between Federal and Alliance ship manufacturers
   shape the galactic aerospace market.
+modern_impact_de: Unternehmensrivalitäten zwischen Schiffherstellern der Föderation
+  und der Allianz prägen den galaktischen Raumfahrtmarkt.
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -25,6 +32,14 @@ related_uuids:
 - 7a574f7a-247d-5799-b921-e1521916118d
 - 4e9f076a-e7b5-524e-9d9a-00be35f2c679
 - 0783ed86-d9f7-5f48-aa13-7002f7654030
+body_de: |
+  Eine Koalition von Aktionären von Lakon Spaceways hat dafür gestimmt, mehrere Mitglieder des Verwaltungsrats des Unternehmens durch eine neue Geschäftsleitung zu ersetzen.
+  Auf einer außerordentlichen Hauptversammlung brachten die Investoren gemäß Lakons Satzung einen Antrag auf Abberufung ausgewählter Direktoren ein. Die Mehrheit stimmte für diesen Antrag.
+  Neu in den Verwaltungsrat Berufene haben bereits erklärt, dass das abgelehnte Angebot des Föderationsschiffbauers Core Dynamics erneut geprüft wird. Jupiter Rochester, CEO des Unternehmens, begrüßte die Gelegenheit zu neuen Gesprächen.
+  Verwaltungsratsvorsitzende Naomi Landseer, eine der zu ersetzenden Direktorinnen, sagte gegenüber Vox Galactica:
+  „Es ist kein Zufall, dass die abgewählten Verwaltungsratsmitglieder dieselben sind, die gegen eine Übernahme des Unternehmens durch Core Dynamics waren. Ich bin überzeugt, dass Rochesters Leute unsere Aktionäre bestechen oder bedrohen, um sicherzustellen, dass diese feindliche Übernahme vollzogen wird.“
+  Lakon Spaceways gewährt derzeit einen Rabatt von 30 % auf den Verkauf von Asp Scouts, Diamondback Scouts, Keelbacks, Type-7 Transportern und Type-10 Defendern.
+  Core Dynamics hat den Preis für Eagle MkII und Vulture um 30 % gesenkt; auf Federal Assault Ships, Federal Dropships und Federal Gunships gibt es 20 % Rabatt.
 ---
 
 

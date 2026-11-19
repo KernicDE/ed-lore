@@ -7,6 +7,8 @@ last_seen_date: '3307-01-28'
 mention_count: 1
 bio: 'Elsa Solomon is a pilot in the Elite Dangerous universe, active from 3307-01-28
   to 3307-01-28. '
+bio_de: |-
+  Elsa Solomon ist eine Pilotin im Elite-Dangerous-Universum, aktiv vom 3307-01-28 bis zum 3307-01-28.
 ---
 
 

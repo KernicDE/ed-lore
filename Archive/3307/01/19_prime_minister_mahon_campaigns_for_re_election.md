@@ -1,12 +1,16 @@
 ---
 uuid: 282055d5-c3b9-5772-855e-9acd24d78c43
 title: Prime Minister Mahon Campaigns for Re-Election
+title_de: Premierminister Mahon wirbt um seine Wiederwahl
 slug: prime_minister_mahon_campaigns_for_re_election
 date: 3307-01-19
 source: API
 summary: Edmund Mahon has launched a political campaign to be elected As the Alliance’s
   leader for a second term.
+summary_de: Edmund Mahon hat eine politische Kampagne gestartet, um für eine zweite
+  Amtszeit zum Anführer der Allianz gewählt zu werden.
 player_impact: Pilots followed these developments through GalNet reports.
+player_impact_de: Piloten verfolgten diese Entwicklungen über GalNet-Berichte.
 persons:
 - Birmingham
 - Diso
@@ -31,6 +35,8 @@ topics:
 arc_id: null
 modern_impact: '"This event contributed to the evolving political and security landscape
   of the galaxy in 3307."'
+modern_impact_de: Dieses Ereignis trug zur Entwicklung der politischen und sicherheitspolitischen
+  Lage in der Galaxis im Jahr 3307 bei.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -41,6 +47,13 @@ related_uuids:
 - 7300ba47-f515-5c11-ad6e-0e0a48dfcfe7
 - 6efd63d0-0d68-594f-8e75-b0c5df826485
 - 3a44c8f0-4093-56c5-ad92-5813f23d889b
+body_de: |
+  Edmund Mahon hat eine politische Kampagne gestartet, um für eine zweite Amtszeit zum Anführer der Allianz gewählt zu werden.
+  Der amtierende Premierminister unternimmt eine Wahlkampftour mit zahlreichen Kurzauftritten durch den Raum der Allianz, um Unterstützung zu mobilisieren. Nur Mitglieder der Versammlung dürfen bei dieser Wahl ihre Stimme abgeben, doch sie werden stark von der öffentlichen Meinung in ihren Systemen beeinflusst.
+  Mahons Kampagne konzentriert sich auf die enorme Expansion der Allianz während seiner sechsjährigen Amtszeit und erinnert an Erfolge wie das Alliance Festival of Culture. Auch seine Fähigkeit zum Krisenmanagement wird hervorgehoben, etwa bei Präsident Kincaids Putschversuch und dem Feldzug der League of Reparation.
+  Jüngere Beispiele seiner Führungsstärke sind die Aufnahme marlinistischer Flüchtlinge aus dem Imperium und die Erschließung des Coalsack-Nebels zur Förderung des wirtschaftlichen Wohlstands. Mahons Kritiker weisen jedoch darauf hin, dass beide Strategien das Risiko von Angriffen durch neo-marlinistische Terroristen und die Thargoids erhöht haben.
+  Vor einem voll besetzten Konferenzsaal auf Birmingham in seinem Heimatsystem Diso verkündete Mahon:
+  „Wir leben in einer zunehmend unruhigen Galaxis. Deshalb ist es wichtig, eine ruhige Hand am Steuer zu behalten. Es wäre mir eine Ehre, die vielfältigen Völker der Allianz weiterhin zu vertreten.“
 ---
 
 

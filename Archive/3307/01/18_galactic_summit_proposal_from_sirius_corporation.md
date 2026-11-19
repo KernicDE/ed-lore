@@ -1,13 +1,18 @@
 ---
 uuid: 589b5e3b-4024-5845-bb2d-55becd1e562f
 title: Galactic Summit Proposal from Sirius Corporation
+title_de: Vorschlag eines Galaktischen Gipfels durch die Sirius Corporation
 slug: galactic_summit_proposal_from_sirius_corporation
 date: 3307-01-18
 source: API
 summary: Utopia’s ability to host a diplomatic conference for All three superpowers
   has been challenged by The Sirius Corporation.
+summary_de: Die Fähigkeit von Utopia, eine diplomatische Konferenz für alle drei
+  Supermächte auszurichten, wurde von der Sirius Corporation infrage gestellt.
 player_impact: Pilots supported the diplomatic conference through security and trade
   initiatives.
+player_impact_de: Piloten unterstützten die diplomatische Konferenz durch Sicherheits-
+  und Handelsinitiativen.
 persons:
 - Far
 - Li Yong-Rui
@@ -30,6 +35,10 @@ arc_id: galactic-summit
 modern_impact: '"It is not Utopia''s tradition to become involved with politics."
   The Galactic Summit represented a rare moment of superpower diplomacy, though its
   cancellation underscored the fragility of interstellar cooperation.'
+modern_impact_de: '„Es entspricht nicht der Tradition von Utopia, sich politisch zu
+  engagieren.“ Der Galaktische Gipfel stellte einen seltenen Moment der Diplomatie
+  zwischen den Supermächten dar, doch seine Absage unterstrich die Fragilität der
+  interstellaren Zusammenarbeit.'
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -41,6 +50,13 @@ related_uuids:
 - 86eb9c0f-fa6b-5089-b6ae-d233a1e64339
 - ed5fa27e-167e-54a9-9959-a763bdebb1a0
 - c29442f8-da7f-5d0f-842b-e2451abd99ef
+body_de: |
+  Die Fähigkeit von Utopia, eine diplomatische Konferenz für alle drei Supermächte auszurichten, wurde von der Sirius Corporation infrage gestellt.
+  Der Gegenvorschlag des Megakonzerns wurde von CEO Li Yong-Rui verkündet:
+  „Bei allem Respekt für Simguru Antal, seine Kommune kann nicht mit unserem Ressourcenniveau mithalten. Sirius ist in logistischer und sicherheitstechnischer Hinsicht weitaus besser aufgestellt, und unsere Flotte kann den sicheren Transport aller Delegierten gewährleisten.“
+  „Darüber hinaus pflegen wir bereits ausgezeichnete Handelsbeziehungen mit der Allianz, dem Imperium und der Föderation und können daher Neutralität garantieren. Unsere jüngste philanthropische Geste, die Marlinistischen Kolonien zu gründen, beweist, dass wir eine unparteiische, stabilisierende Kraft für die gesamte Galaxis sind.“
+  Diskussionen über die Konferenz finden sowohl in Systemen der Supermächte als auch in unabhängigen Systemen statt. Einige Anführer haben sie als sinnlose Übung verurteilt, während andere sie als seltene Gelegenheit für politischen Zusammenhalt betrachten.
+  Die Vorschläge der Sirius Corporation und von Utopia für einen Galaktischen Gipfel werden nun von potenziellen Teilnehmern verglichen. Zachary Rackhams Angebot, die Konferenz auf dem tatsächlichen galaktischen Gipfel, Rackham’s Peak, auszurichten, wird jedoch nicht ernsthaft in Betracht gezogen.
 ---
 
 

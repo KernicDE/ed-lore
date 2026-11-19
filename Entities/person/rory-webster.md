@@ -10,6 +10,10 @@ bio: 'Rory Webster is a Admiral in Elite Dangerous lore, active from 3306-09-18 
   Fleet Admiral Lucas Vincent is arrested for ordering the sabotage of Starship One.;
   Chief Technician Rory Webster of the Federal Navy Engineering Corps is arrested
   for sabotaging Starship One.'
+bio_de: |-
+  Rory Webster ist ein ehemaliger leitender Techniker der Federal Navy, der zur zentralen Figur im Sabotagefall um Starship One wurde – einem der bedeutendsten Strafprozesse in der Geschichte der Föderation. Im Oktober 3306 wurde Webster wegen Massenmords und Hochverrats angeklagt, weil er sein Ingenieursteam angewiesen hatte, die Hyperraumantriebssysteme der Starship One zu sabotieren, wodurch das Präsidentenschiff im Jahr 3301 mit Hunderten Menschen an Bord zerstört wurde.
+
+  Während seines Prozesses änderte Webster sein Plädoyer in „schuldig“ und behauptete, auf „Befehle von ganz oben“ gehandelt zu haben – ein Geständnis, das das Verfahren unterbrach, während die Federal Intelligence Agency seine Aussage aufnahm. Im Oktober 3306 legte er Beweise dafür vor, dass Flottenadmiral Lucas Vincent ihn direkt angewiesen hatte, dafür zu sorgen, dass die Starship One dasselbe Schicksal wie die Highliner Antares ereilen würde. Die Befehle waren ihm angeblich über einen privaten Kanal übermittelt und von Drohungen begleitet worden. Webster erhielt unter Anerkennung der Tatsache, dass er die Straftaten unter Zwang begangen hatte, eine milde Haftstrafe von 20 Jahren. Seine Aussage deckte eine Verschwörung auf höchster Ebene innerhalb der Führungsränge der Federal Navy auf und löste Schockwellen in der Politik der Föderation aus, da nun auch Personen im engen Umfeld von Präsident Hudson selbst belastet werden konnten.
 ---
 
 

@@ -1,13 +1,18 @@
 ---
 uuid: 5783e898-65a7-5db9-9681-366b1eb91056
 title: Sirius and Utopia Compete to Host Galactic Summit
+title_de: Sirius und Utopia konkurrieren um die Ausrichtung des Galaktischen Gipfels
 slug: sirius_and_utopia_compete_to_host_galactic_summit
 date: 3307-01-21
 source: API
 summary: '*Pilots Federation ALERT* Rival initiatives to arrange a diplomatic conference
   have been launched by Sirius Corporation and The Utopia commune.'
+summary_de: '*Pilotenföderation WARNUNG* Sirius Corporation und die Kommune Utopia haben
+  konkurrierende Initiativen zur Organisation einer diplomatischen Konferenz gestartet.'
 player_impact: Pilots supported the diplomatic conference through security and trade
   initiatives.
+player_impact_de: Piloten unterstützten die diplomatische Konferenz durch Sicherheits-
+  und Handelsinitiativen.
 persons:
 - Each
 - Federal Congress
@@ -33,6 +38,9 @@ arc_id: galactic-summit
 modern_impact: '"It is not Utopia''s tradition to become involved with politics."
   The Galactic Summit represented a rare moment of superpower diplomacy, though its
   cancellation underscored the fragility of interstellar cooperation.'
+modern_impact_de: '„Es entspricht nicht der Tradition Utopias, sich politisch zu engagieren.“
+  Der Galaktische Gipfel war ein seltener Moment der Diplomatie zwischen den Supermächten,
+  doch seine Absage unterstrich die Fragilität interstellarer Zusammenarbeit.'
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -44,6 +52,15 @@ related_uuids:
 - 5140542a-1be3-56a9-a558-8224ef317bf7
 - 2c2f5322-8d74-5e77-b181-b9a317e176e5
 - ed5fa27e-167e-54a9-9959-a763bdebb1a0
+body_de: |
+  **Pilotenföderation WARNUNG**
+  Sirius Corporation und die Kommune Utopia haben konkurrierende Initiativen zur Organisation einer diplomatischen Konferenz gestartet.
+  Die Versammlung der Allianz, der Kongress der Föderation und der Imperiale Senat haben jeweils vorläufig zugestimmt, Ende Februar Delegierte zum ersten Galaktischen Gipfel der drei Supermächte zu entsenden. An diesem politischen Treffen werden auch Vertreter unabhängiger Systeme teilnehmen.
+  Alle Beteiligten haben erklärt, dass ihre Teilnahme davon abhängt, dass die Veranstaltung erfolgreich auf neutralem Territorium organisiert wird und ausreichende Ressourcen sowie Sicherheitsvorkehrungen vorhanden sind.
+  Sirius Corporation und Utopia haben damit begonnen, Vorräte für die Ausrichtung der Konferenz zu sammeln. Beide haben die galaktische Gemeinschaft um Unterstützung bei der Bereitstellung einer breiten Palette von Daten gebeten, die für die Planung der Sicherheitsoperationen von entscheidender Bedeutung sein werden. Die Organisation, die die größte Datenmenge erhält, wird als am besten geeignet gelten.
+  Die folgenden Datenquellen sind für beide Seiten von Interesse: anomale Massenscandaten, atypische gestörte Wake-Echos, außergewöhnliche verschlüsselte Emissionsdaten und ungewöhnliche verschlüsselte Dateien.
+  Simguru Pranav Antal hat alle Piloten, die Utopias Vorschlag unterstützen, aufgefordert, die Daten bei Tanner Settlement im Polevnic-System abzuliefern.
+  CEO Li Yong-Rui hat alle, die Sirius Corporation für einen geeigneteren Gastgeber halten, gebeten, die Daten im Goldstein Port im Lembava-System abzuliefern.
 ---
 
 

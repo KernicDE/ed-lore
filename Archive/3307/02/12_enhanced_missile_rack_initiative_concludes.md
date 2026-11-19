@@ -1,13 +1,19 @@
 ---
 uuid: 5f349bc3-af0e-583e-b090-ab6a8824c69e
 title: Enhanced Missile Rack Initiative Concludes
+title_de: Initiative für verbesserte Raketenwerfer abgeschlossen
 slug: enhanced_missile_rack_initiative_concludes
 date: 3307-02-12
 source: API
 summary: '*Pilots Federation ALERT* Deliveries of mined materials have allowed The
   engineer Liz Ryder to make a One-off modified ship module widely available.'
+summary_de: '*MITTEILUNG DER PILOTENFÖDERATION* Dank der Lieferungen abgebauter
+  Rohstoffe konnte die Ingenieurin Liz Ryder ein einmalig modifiziertes Schiffsmodul
+  allgemein verfügbar machen.'
 player_impact: Pilots delivered mined materials to make a unique engineered module
   widely available.
+player_impact_de: Unabhängige Piloten lieferten abgebaute Rohstoffe, um ein einzigartiges
+  technisch verbessertes Modul allgemein verfügbar zu machen.
 persons:
 - Engineers
 - Liz Ryder
@@ -24,6 +30,9 @@ arc_id: null
 modern_impact: '"Many Engineers think we could do more to serve the galactic community."
   This initiative represented a significant step toward making engineered modules
   more accessible to the broader pilot community.'
+modern_impact_de: '„Viele Ingenieure denken, wir könnten mehr für die galaktische
+  Gemeinschaft tun.“ Diese Initiative war ein wichtiger Schritt, um technisch verbesserte
+  Module für einen größeren Kreis unabhängiger Piloten zugänglich zu machen.'
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -33,6 +42,20 @@ related_uuids:
 - f289a62c-f4fe-5c65-8563-7f318ee935ba
 - ef475ada-e268-55e0-8ada-ae250caa5c86
 - e25e2c83-7be4-5236-9a1a-93321f277b40
+body_de: |
+  **MITTEILUNG DER PILOTENFÖDERATION**
+
+  Dank der Lieferungen abgebauter Rohstoffe konnte die Ingenieurin Liz Ryder ein einmalig modifiziertes Schiffsmodul allgemein verfügbar machen.
+
+  Bei dem Modul handelt es sich um einen vollständig technisch verbesserten, leichten Suchkopfraketenwerfer der Klasse 2 mit hoher Kapazität und thermischer Kaskade. Er war nur für kurze Zeit im Oktober 3306 erhältlich, kann nun aber bei jedem menschlichen Technologiehändler erworben werden.
+
+  Eine große Zahl unabhängiger Piloten lieferte frisch abgebautes Bromellit, Lithiumhydroxid, Osmium und Samarium. Aufgrund des Umfangs der eingegangenen Lieferungen wurde die Menge der Rohstoffe, die Kunden zunächst für den Erwerb der Waffe benötigten, vorübergehend reduziert.
+
+  Liz Ryder gab folgende Erklärung aus ihrer Werkstatt Demolition Unlimited ab:
+
+  „Ich danke allen, die mitgeholfen haben, dieses Modul gewissermaßen auf den Markt zu bringen. Ich hoffe, dass Ingenieure und Technologiehändler weiterhin zusammenarbeiten können, um der galaktischen Gemeinschaft mehr Möglichkeiten zu bieten.“
+
+  Unabhängige Piloten, die Handelsgüter für diese Initiative geliefert haben, können ihre Belohnungen nun bei Awyra Flirble im Eurybia-System abholen.
 ---
 
 

@@ -1,13 +1,18 @@
 ---
 uuid: 23c15505-2dad-55eb-a304-7e964af5198c
 title: Xenological Samples Required by Colonia Scientists
+title_de: Wissenschaftler in Colonia benötigen xenologische Proben
 slug: xenological_samples_required_by_colonia_scientists
 date: 3307-01-07
 source: API
 summary: '*Pilots Federation ALERT* The Holloway Bioscience Institute in Colonia is
   offering high payouts for delivering samples from space-dwelling lifeforms.'
+summary_de: '*Alarm der Pilotenföderation* Das Holloway Bioscience Institute in Colonia
+  bietet hohe Belohnungen für die Lieferung von Proben im Weltraum lebender Lebensformen.'
 player_impact: Pilots delivered tissue samples from space-dwelling organisms to Colonia
   researchers.
+player_impact_de: Piloten lieferten Forschern in Colonia Gewebeproben von Organismen,
+  die im Weltraum leben.
 persons:
 - Our
 - Which
@@ -24,6 +29,10 @@ modern_impact: '"There is still a huge amount to learn about the fascinating str
   that grow within the vacuum of space." Colonia''s xenobiological research continues
   to expand humanity''s understanding of space-dwelling lifeforms in the far reaches
   of the galaxy.'
+modern_impact_de: „Es gibt noch enorm viel über die faszinierenden Strukturen zu lernen,
+  die im Vakuum des Weltraums wachsen.“ Die xenobiologische Forschung in Colonia erweitert
+  weiterhin das Verständnis der Menschheit von im Weltraum lebenden Lebensformen in den
+  entlegenen Regionen der Galaxie.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -34,6 +43,14 @@ related_uuids:
 - 471b8e46-16ce-5791-b60b-9362e740c2a6
 - 0ed40d37-c7a2-5252-9105-e141bc1020d5
 - b57cb4f0-08fd-52f1-a589-0770dfd60a1d
+body_de: |
+  **Alarm der Pilotenföderation**
+  Das Holloway Bioscience Institute in Colonia bietet hohe Belohnungen für die Lieferung von Proben im Weltraum lebender Lebensformen.
+  Das Holloway Biology Centre auf Colonia 7 G ist das Hauptforschungslabor der Organisation und auf xenologische Studien spezialisiert. Jaques Station, ebenfalls im Colonia-System, hat sich bereit erklärt, als Annahmestelle für diese Initiative zu dienen.
+  Der leitende Forscher Dr. Roy Casimir erläuterte die Anforderungen:
+  „Es gibt noch enorm viel über die faszinierenden Strukturen zu lernen, die im Vakuum des Weltraums wachsen. Da unser Bestand an Exemplaren zur Neige geht, benötigen wir frische Gewebeproben von lebenden Organismen, um unser Versuchsprogramm fortzusetzen.“
+  „Ich weiß, dass sich unsere Einrichtung in erheblicher Entfernung von den Kernsystemen befindet, aber wir sind bereit, denjenigen, die die Reise auf sich nehmen, eine großzügige Vergütung zu bieten.“
+  Piloten werden gebeten, aus beliebigen Samenkapseln Gewebeproben jeglicher Art zu entnehmen, einschließlich Pod-Mesoglea. Diese sind an Jaques Station im Colonia-System abzuliefern.
 ---
 
 

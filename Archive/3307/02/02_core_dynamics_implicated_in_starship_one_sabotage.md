@@ -1,13 +1,19 @@
 ---
 uuid: d64fdd75-b94b-5d81-b802-89ce83b7b906
 title: Core Dynamics Implicated in Starship One Sabotage
+title_de: Core Dynamics mit Sabotage an Starship One in Verbindung gebracht
 slug: core_dynamics_implicated_in_starship_one_sabotage
 date: 3307-02-02
 source: API
 summary: Evidence presented at The trial of Fleet Admiral Vincent suggested financial
   links to Federal shipbuilding corporation Core Dynamics.
+summary_de: Im Prozess gegen Flottenadmiral Vincent vorgelegte Beweise deuteten auf
+  finanzielle Verbindungen zu Core Dynamics, dem Schiffbauunternehmen der Föderation,
+  hin.
 player_impact: The high-profile trial drew widespread public and pilot attention to
   Federal corruption.
+player_impact_de: Der aufsehenerregende Prozess lenkte die Aufmerksamkeit der Öffentlichkeit
+  und unabhängiger Piloten auf die Korruption in der Föderation.
 persons:
 - Felicia Winters
 - Found
@@ -25,6 +31,10 @@ arc_id: federal-politics
 modern_impact: '"This is a bittersweet moment for me." The Starship One conspiracy
   trial exposed deep corruption at the heart of the Federation, with lasting implications
   for Federal politics and corporate influence.'
+modern_impact_de: „Für mich ist dies ein bittersüßer Moment.“ Der Prozess um die
+  Starship-One-Verschwörung legte tiefgreifende Korruption im Herzen der Föderation
+  offen, mit nachhaltigen Auswirkungen auf die Politik der Föderation und den Einfluss
+  von Unternehmen.
 legacy_weight: 1
 significance: low
 related_uuids:
@@ -35,6 +45,18 @@ related_uuids:
 - e25e2c83-7be4-5236-9a1a-93321f277b40
 - ef475ada-e268-55e0-8ada-ae250caa5c86
 - fefdabb9-36ba-57a2-8321-e9764f0b713c
+body_de: |
+  Im Prozess gegen Flottenadmiral Vincent vorgelegte Beweise deuteten auf finanzielle Verbindungen zu Core Dynamics, dem Schiffbauunternehmen der Föderation, hin.
+
+  Ethan Takahashi berichtete über diese bedeutende Entwicklung für die Federal Times:
+
+  „Die Staatsanwaltschaft skizzierte die ursprünglichen Ermittlungen zur Zerstörung von Starship One im Jahr 3301. Als das Büro des Generalstaatsanwalts der Föderation diese historischen Daten erneut prüfte, wurden Spuren finanzieller Überweisungen gefunden, die über Bankensysteme außerhalb der Föderation abgewickelt worden waren.“
+
+  „Das Büro des Generalstaatsanwalts der Föderation zog die Expertise der Wallglass Investigations Agency hinzu, die herausfand, dass diese Transaktionen über Briefkastenfirmen abgewickelt wurden, die von Core Dynamics gegründet worden waren. Flottenadmiral Vincent sowie mehrere andere Marineoffiziere erhielten über diese Firmen Milliarden von Credits, die nicht deklariert wurden.“
+
+  „Vincent weigerte sich, Fragen zu diesen Beweisen zu beantworten, und behauptete erneut, Opfer einer Verschwörung zu sein, deren Ziel es sei, Felicia Winters das Präsidentenamt zu verschaffen.“
+
+  Trotz mehrfacher Anfragen der Presse hat Core Dynamics keine öffentliche Stellungnahme abgegeben. Es gibt unbestätigte Berichte über umfangreiche Aktivitäten in einigen Operationszentren des Unternehmens.
 ---
 
 

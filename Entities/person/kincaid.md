@@ -7,6 +7,8 @@ last_seen_date: '3307-01-19'
 mention_count: 1
 bio: 'Kincaid is a prominent figure in the Elite Dangerous universe, active from 3307-01-19
   to 3307-01-19. Closely associated with Alliance. '
+bio_de: |-
+  Kincaid ist eine prominente Persönlichkeit im Elite-Dangerous-Universum, aktiv vom 3307-01-19 bis zum 3307-01-19. Eng verbunden mit der Allianz.
 ---
 
 

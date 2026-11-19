@@ -1,13 +1,18 @@
 ---
 uuid: aa81f947-721e-52c8-a91e-906bf41c62b8
 title: Uncertainty Hits Takeover of Lakon Spaceways
+title_de: Übernahme von Lakon Spaceways gerät in Ungewissheit
 slug: uncertainty_hits_takeover_of_lakon_spaceways
 date: 3307-01-15
 source: API
 summary: The purchase of shipbuilding company Lakon Spaceways by Core Dynamics is
   in doubt after allegations of illegal business practices.
+summary_de: Der Kauf des Schiffbauunternehmens Lakon Spaceways durch Core Dynamics
+  ist nach Vorwürfen illegaler Geschäftspraktiken in Frage gestellt.
 player_impact: The corporate takeover generated significant market and political interest
   among pilots.
+player_impact_de: Die Unternehmensübernahme weckte bei Piloten erhebliches wirtschaftliches
+  und politisches Interesse.
 persons:
 - Jupiter
 - Jupiter Rochester
@@ -28,6 +33,9 @@ arc_id: null
 modern_impact: '"We welcome becoming closer partners with the Alliance." The Lakon
   Spaceways takeover saga demonstrated the Alliance''s determination to maintain domestic
   shipbuilding independence against Federal corporate encroachment.'
+modern_impact_de: '„Wir begrüßen es, engere Partner der Allianz zu werden.“ Die Übernahmesaga
+  um Lakon Spaceways zeigte die Entschlossenheit der Allianz, die Unabhängigkeit ihres
+  heimischen Schiffsbaus gegenüber dem Vordringen föderaler Unternehmen zu wahren.'
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -37,6 +45,14 @@ related_uuids:
 - ef475ada-e268-55e0-8ada-ae250caa5c86
 - e4237ea6-7f94-53fc-af9c-f332a6cb5a0f
 - e25e2c83-7be4-5236-9a1a-93321f277b40
+body_de: |
+  Der Kauf des Schiffbauunternehmens Lakon Spaceways durch Core Dynamics ist nach Vorwürfen illegaler Geschäftspraktiken in Frage gestellt.
+  Irfan Karim berichtete für die Alliance Tribune über die jüngsten Entwicklungen:
+  „Die Independent Commission for Market Equality hat bestätigt, dass mehrere Aktionäre von Lakon ihre Anteile an Briefkastenfirmen verkauft haben, die heimlich von Abteilungen innerhalb von Core Dynamics gegründet worden waren. Darüber hinaus wurden zwei schwerwiegende Erpressungsvorwürfe an Alliance Interpol weitergeleitet.“
+  „Trent Delaney, der neue Vorsitzende von Lakon, hat diese Behauptungen zurückgewiesen. Doch zusammen mit deutlichem Unmut im Admiralsrat über den Verlust eines Militärlieferanten erscheint diese feindliche Übernahme nun weniger sicher.“
+  In der Föderation veröffentlichte der Nachrichtenfeed Sol Today einen Leitartikel zu der Situation:
+  „Die Übernahme von Lakon ist ein weiterer kühner Triumph für den Produktionsriesen Core Dynamics. Es ist beschämend, dass sie von den kleinlichen Bürokraten der Allianz untergraben wird, die diese finanzielle Rettungsleine dankbar ergreifen sollten.“
+  „Es ist auch lächerlich, dass altmodische Kollegen einem unserer Industrietitanen, CEO Jupiter Rochester, in den Rücken fallen, eindeutig aus Eifersucht auf seinen Erfolg. Vielleicht ist seine ‚Jupiter Division‘ inzwischen endgültig über den Konzern hinausgewachsen und verdient es, ihren eigenen Weg zu gehen.“
 ---
 
 

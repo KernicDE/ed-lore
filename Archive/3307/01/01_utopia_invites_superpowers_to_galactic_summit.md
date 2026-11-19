@@ -1,13 +1,19 @@
 ---
 uuid: 7300ba47-f515-5c11-ad6e-0e0a48dfcfe7
 title: Utopia Invites Superpowers to Galactic Summit
+title_de: Utopia lädt Supermächte zu galaktischem Gipfel ein
 slug: utopia_invites_superpowers_to_galactic_summit
 date: 3307-01-01
 source: API
 summary: Simguru Pranav Antal, leader of The Utopia commune, has proposed hosting
   a diplomatic conference for the governments of All three superpowers.
+summary_de: Simguru Pranav Antal, Anführer der Kommune Utopia, schlägt vor,
+  eine diplomatische Konferenz für die Regierungen aller drei Supermächte
+  auszurichten.
 player_impact: Pilots supported the diplomatic conference through security and trade
   initiatives.
+player_impact_de: Piloten unterstützten die diplomatische Konferenz durch
+  Sicherheits- und Handelsinitiativen.
 persons:
 - Federal Congress
 - Imperial Senate
@@ -30,6 +36,10 @@ arc_id: galactic-summit
 modern_impact: '"It is not Utopia''s tradition to become involved with politics."
   The Galactic Summit represented a rare moment of superpower diplomacy, though its
   cancellation underscored the fragility of interstellar cooperation.'
+modern_impact_de: „Es entspricht nicht der Tradition Utopias, sich politisch zu
+  engagieren.“ Der Galaktische Gipfel war ein seltener Moment der Diplomatie zwischen
+  den Supermächten, doch seine Absage unterstrich die Fragilität interstellarer
+  Zusammenarbeit.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -40,6 +50,13 @@ related_uuids:
 - cbba1081-6b9a-57ca-b2b8-0e41007ed228
 - be3889fc-d42f-5494-b1d1-fdd9dcb4223f
 - 2c2f5322-8d74-5e77-b181-b9a317e176e5
+body_de: |
+  Simguru Pranav Antal, Anführer der Kommune Utopia, hat vorgeschlagen, eine diplomatische Konferenz für die Regierungen aller drei Supermächte auszurichten.
+  Ziel ist es, einen neutralen Ort für die Erörterung zentraler Fragen wie der erneuten Thargoid-Angriffe, der Krise der marlinistischen Flüchtlinge und der Feindseligkeiten zwischen Imperium und Föderation zu schaffen.
+  Einzelheiten wurden an die Allianzversammlung, den Föderalen Kongress und den Imperialen Senat übermittelt. Pranav Antal hat seine Einladung außerdem über alle Medienkanäle verbreitet:
+  „Es entspricht nicht der Tradition Utopias, sich politisch zu engagieren, doch die jüngsten Ereignisse geben uns allen Anlass zu großer Sorge. Interstellarer Krieg, Terrorismus, der Einmarsch Außerirdischer und wirtschaftlicher Zusammenbruch sind die neuen vier dunklen Reiter, die die Zukunft der Menschheit bedrohen.“
+  „Deshalb bieten wir an, einen Galaktischen Gipfel auszurichten, auf dem Allianz, Imperium und Föderation diese Probleme friedlich erörtern können. Ich hoffe aufrichtig, dass die Staatsoberhäupter diese Gelegenheit ergreifen, ihre Differenzen beizulegen und Lösungen zu schaffen, die ihren Völkern zugutekommen.“
+  Utopia ist eine unabhängige Gesellschaft, deren Schwerpunkt auf dem Einsatz hoch entwickelter Technologie zur Steigerung der Lebensqualität liegt. Sollte dieser Galaktische Gipfel stattfinden, wäre er das erste diplomatische Treffen der Regierungen aller drei Supermächte.
 ---
 
 

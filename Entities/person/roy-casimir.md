@@ -14,6 +14,8 @@ bio: Roy Casimir is a pilot in the Elite Dangerous universe, active from 3312-01
   Bridge Int. Roy Casimir publishes first public Radicoida unica study. Dr Roy Casimir
   of the Holloway Bioscience Institute requests cobalt, indium, tantalum and exploration
   data to construct a xenological research centre in the Nahuaru system.
+bio_de: |-
+  Roy Casimir ist ein Pilot im Elite-Dangerous-Universum, aktiv vom 3312-01-28 bis zum 3312-01-28. Eng verbunden mit dem Holloway Bioscience Institute und Nahuaru Crimson Bridge Int. Roy Casimir veröffentlicht die erste öffentliche Studie zu Radicoida unica. Dr. Roy Casimir vom Holloway Bioscience Institute fordert Kobalt, Indium, Tantal und Explorationsdaten an, um im Nahuaru-System ein xenologisches Forschungszentrum zu errichten.
 ---
 
 
