@@ -1,13 +1,19 @@
 ---
 uuid: 20fdf55d-94b0-55c6-9c70-4c26b0dbc494
 title: Marlinist Refugees Flee to the Federation
+title_de: Marlinistische Flüchtlinge fliehen in die Föderation
 slug: marlinist_refugees_flee_to_the_federation
 date: '3306-10-20'
 source: GitHub
 summary: The Empire demands extradition of Marlinist refugees who fled to Federation
   space. Federal Ambassador Rochester requests Congress grant them asylum. Prime Minister
   Mahon confirms Alliance welcome. Some independent systems offer assistance.
+summary_de: Das Imperium fordert die Auslieferung marlinistischer Flüchtlinge, die
+  in den Raum der Föderation geflohen sind. Der föderale Botschafter Rochester bittet
+  den Kongress, ihnen Asyl zu gewähren. Premierminister Mahon bestätigt, dass die Allianz
+  sie aufnehmen wird. Einige unabhängige Systeme bieten ebenfalls Hilfe an.
 player_impact: None
+player_impact_de: Keine
 persons:
 - Imogen Luciana
 - Jordan Rochester
@@ -29,6 +35,8 @@ topics:
 - war
 modern_impact: The refugee crisis escalates into an inter-superpower diplomatic dispute
   over extradition and asylum.
+modern_impact_de: Die Flüchtlingskrise weitet sich zu einem diplomatischen Streit
+  zwischen den Supermächten über Auslieferung und Asyl aus.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -38,6 +46,20 @@ related_uuids:
 - 5d9ab4ba-65c3-50f9-9c27-cfbc9bd2f078
 - 5c5b50af-0f81-5898-b860-948182133436
 - 1d006eb4-9159-5609-8a8f-bffcce9793b8
+body_de: |
+  Das Imperium hat formell gefordert, dass die Föderation alle marlinistischen politischen Flüchtlinge ausliefert, die in ihren Raum geflohen sind.
+
+  Hunderttausende Anhänger der republikanischen Ideologie verließen ihre Heimat nach antiterroristischen Abriegelungen. Die imperiale Blockade in Ackwada hinderte zehn Megaschiffe an der Flucht, doch andere, die große Zahlen von Marlinisten transportierten, sind in den föderalen Systemen Charunder, Ennead, HIP 36081, LTT 1935, LTT 3607 und Thetis aufgetaucht. Viele kleinere Schiffe sollen sich ebenfalls weit verstreut haben.
+
+  Die imperiale Botschafterin Imogen Luciana übermittelte die formelle Forderung:
+
+  „Die Föderation gewährt potenziellen Kriminellen Unterschlupf, die mit den NMLA-Terroristen in Verbindung stehen. Wir bestehen darauf, dass sie festgenommen und an uns zurückgebracht werden, damit sie sich vor Gericht verantworten.“
+
+  Der föderale Botschafter Jordan Rochester, der einst mit Prinzessin Aisling Duval verlobt war, gab eine offizielle Antwort ab:
+
+  „Es gibt kein Auslieferungsabkommen für unverurteilte Bürger, und diese Menschen haben politisches Asyl beantragt. Ich habe den Kongress gebeten, ihnen innerhalb der Föderation Zuflucht zu gewähren und allen Marlinisten Schutz zu bieten, die der Diskriminierung durch das Imperium entkommen wollen.“
+
+  Obwohl es keine Anzeichen dafür gibt, dass marlinistische Auswanderer Kurs auf den Raum der Allianz genommen haben, bestätigte Premierminister Edmund Mahon, dass sie willkommen sein werden. Einige unabhängige Systeme bieten ebenfalls Hilfe an, während andere erklärt haben, jedem Zustrom von Flüchtlingen Widerstand entgegenzusetzen.
 ---
 
 

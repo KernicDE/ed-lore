@@ -15,6 +15,8 @@ bio: LTT 1935 Confederacy is a organization in the Elite Dangerous universe, act
   NMLA bomb-making facilities. The Federation successfully maintains control of the
   LTT 1935 system after a battle against Imperial forces investigating NMLA bomb-making
   material deliveries.
+bio_de: |-
+  LTT 1935 Confederacy ist eine Organisation im Elite-Dangerous-Universum, die vom 3306-11-05 bis 3306-11-12 aktiv war. Sie wird häufig mit L.Y.S Corp und dem Imperial Internal Security Service in Verbindung gebracht. Die Anti-Terror-Operation des Imperiums im System LTT 1935 löst bewaffneten Widerstand von Streitkräften der Föderation aus, da beide Seiten behaupten, das System beherberge Bombenbauanlagen der NMLA. Der Föderation gelingt es, nach einer Schlacht gegen imperiale Streitkräfte, die Lieferungen von Material für den Bombenbau der NMLA untersuchen, die Kontrolle über das System LTT 1935 zu behaupten.
 ---
 
 

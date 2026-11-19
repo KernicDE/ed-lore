@@ -15,6 +15,8 @@ bio: Duduseklis Empire League is a organization in the Elite Dangerous universe,
   Internal Security Service, Ackwada. The Empire targets the Duduseklis Empire League
   in Ackwada, suspecting it of NMLA recruitment. The Duduseklis Empire League is overwhelmed
   by Imperial forces.
+bio_de: |-
+  Duduseklis Empire League ist eine Organisation im Elite-Dangerous-Universum, die vom 3306-10-08 bis 3306-10-14 aktiv war. Sie wird häufig mit der Pilotenföderation, dem Imperial Internal Security Service und Ackwada in Verbindung gebracht. Das Imperium geht in Ackwada gegen die Duduseklis Empire League vor, da es sie der Rekrutierung für die NMLA verdächtigt. Die Duduseklis Empire League wird von den imperialen Streitkräften überwältigt.
 ---
 
 

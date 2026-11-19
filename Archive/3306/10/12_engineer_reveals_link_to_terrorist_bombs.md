@@ -1,13 +1,19 @@
 ---
 uuid: ac1ee566-f2a3-5093-9d2a-ba2fe98f7346
 title: Engineer Reveals Link to Terrorist Bombs
+title_de: Ingenieurin enthüllt Verbindung zu Terrorbomben
 slug: engineer_reveals_link_to_terrorist_bombs
 date: '3306-10-12'
 source: GitHub
 summary: Liz Ryder confirms her explosive designs were modified by NMLA terrorists
   using Thargoid caustic enzymes. She claims she was deceived via false contractors
   and provides all data to Imperial investigators. The warrant for her arrest is rescinded.
+summary_de: Liz Ryder bestätigt, dass NMLA-Terroristen ihre Sprengstoffkonstruktionen
+  mithilfe ätzender Thargoid-Enzyme modifizierten. Sie erklärt, durch falsche Auftraggeber
+  getäuscht worden zu sein, und stellt imperialen Ermittlern sämtliche Daten zur
+  Verfügung. Der Haftbefehl gegen sie wird aufgehoben.
 player_impact: None
+player_impact_de: Keine
 persons:
 - Liz Ryder
 groups:
@@ -20,6 +26,9 @@ topics:
 - engineering
 modern_impact: Liz Ryder is cleared of direct terrorist involvement, but her designs
   are confirmed as the basis for NMLA starport bombs.
+modern_impact_de: Liz Ryder ist von direkter Beteiligung am Terrorismus entlastet.
+  Es bestätigt sich jedoch, dass ihre Konstruktionen die Grundlage für die NMLA-Sternenhafenbomben
+  bildeten.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -27,6 +36,18 @@ related_uuids:
 - 6c20fb73-67c1-5125-843a-a36144e66696
 - 5c5b50af-0f81-5898-b860-948182133436
 - c567d3a4-1255-56d4-806c-18850b5c46aa
+body_de: |
+  Liz Ryder, eine im Eurybia-System ansässige Ingenieurin, hat bestätigt, dass ihre Konstruktionen eines Sprengsatzes mit den von NMLA-Terroristen gegen imperiale Sternenhäfen eingesetzten Sprengsätzen übereinstimmen.
+
+  Ihre Erklärung wurde von Vox Galactica verbreitet:
+
+  „Im Rahmen eines privaten Auftrags der vermeintlichen Eurybia Blue Mafia konstruierte ich Sprengladungen, die eine sekundäre Nutzlast freisetzen konnten. Zu keinem Zeitpunkt wusste ich, dass diese so angepasst werden würden, dass sie ätzende Thargoid-Enzyme enthielten, oder dass sie für terroristische Anschläge verwendet würden. Bis vor Kurzem hatte ich keine Ahnung, dass die Bombenanschläge auf Sternenhäfen mit modifizierten Versionen meiner Konstruktion verübt wurden.“
+
+  „Inzwischen habe ich herausgefunden, dass meine Auftraggeber falsche Identitäten verwendeten und nun offenbar unauffindbar sind. Es scheint, dass die NMLA oder für sie arbeitende Personen die Eurybia Blue Mafia infiltriert haben, um meine Dienste in Anspruch zu nehmen.“
+
+  „Um die Eurybia Blue Mafia, die mich seit Jahren unterstützt, zu entlasten, habe ich den imperialen Ermittlern alle Daten übergeben, die mir zu diesem Auftrag vorliegen. Ich fordere das Imperium auf anzuerkennen, dass wir alle von den Terroristen getäuscht wurden.“
+
+  Der Imperial Internal Security Service bestätigte, dass der Haftbefehl gegen Liz Ryder aufgehoben wurde und ihre Angaben geprüft werden. Diese könnten dazu beitragen, die Quelle der in den Bomben verwendeten Thargoid-Enzyme ausfindig zu machen.
 ---
 
 

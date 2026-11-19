@@ -9,6 +9,8 @@ bio: Ophelia Kaufmann is a scientist in the Elite Dangerous universe, active fro
   3306-11-23 to 3306-12-08. Closely associated with Pilots Federation, Alliance. Professor
   Ophelia Kaufmann links the instability to political tensions between the Empire
   and Federation.
+bio_de: |-
+  Ophelia Kaufmann ist eine Wissenschaftlerin im Elite-Dangerous-Universum und war vom 23. November 3306 bis zum 8. Dezember 3306 aktiv. Sie stand in enger Verbindung mit der Pilotenföderation und der Allianz. Professor Ophelia Kaufmann bringt die Instabilität mit politischen Spannungen zwischen dem Imperium und der Föderation in Verbindung.
 ---
 
 

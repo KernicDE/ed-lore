@@ -10,6 +10,8 @@ bio: Vihaan Niven is a president in the Elite Dangerous universe, active from 33
   Federal Congress. Political analyst Vihaan Niven notes that some congressmen align
   with Bishop to appear tough on Thargoids, while others criticise her inhumane rhetoric
   and proposal to execute citizens without trial.
+bio_de: |-
+  Vihaan Niven ist ein Präsident im Elite-Dangerous-Universum und war vom 13. September 3304 bis zum 19. Oktober 3306 aktiv. Er stand in enger Verbindung mit dem Far God cult, der Federal Intelligence Agency und dem Federal Congress. Der politische Analyst Vihaan Niven merkt an, dass sich einige Kongressabgeordnete hinter Bishop stellen, um gegenüber Thargoids entschlossen zu wirken, während andere ihre unmenschliche Rhetorik und ihren Vorschlag kritisieren, Bürger ohne Gerichtsverfahren hinrichten zu lassen.
 ---
 
 

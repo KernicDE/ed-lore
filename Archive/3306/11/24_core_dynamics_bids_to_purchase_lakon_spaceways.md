@@ -1,6 +1,7 @@
 ---
 uuid: 43d42a62-1967-5dd8-92f0-cf6f23af8ff4
 title: Core Dynamics Bids to Purchase Lakon Spaceways
+title_de: Core Dynamics gibt Kaufangebot für Lakon Spaceways ab
 slug: core_dynamics_bids_to_purchase_lakon_spaceways
 date: '3306-11-24'
 source: GitHub
@@ -8,7 +9,13 @@ summary: Core Dynamics makes an official bid to acquire Lakon Spaceways, causing
   in the Alliance due to their long partnership. CEO Jupiter Rochester promises Lakon
   will retain its engineers and facilities. The Alliance Assembly questions the legality
   of inter-superpower corporate mergers.
+summary_de: Core Dynamics unterbreitet ein offizielles Angebot zur Übernahme von Lakon
+  Spaceways und löst wegen der langjährigen Partnerschaft Besorgnis in der Allianz
+  aus. Vorstandsvorsitzender Jupiter Rochester verspricht, dass Lakon seine Ingenieure
+  und Anlagen behalten wird. Die Allianzversammlung stellt die Rechtmäßigkeit von Unternehmensfusionen
+  zwischen Supermächten infrage.
 player_impact: None
+player_impact_de: Keine
 persons:
 - Jupiter Rochester
 groups:
@@ -19,6 +26,9 @@ topics:
 - corporate expansion
 modern_impact: Core Dynamics' bid for Lakon Spaceways marks a significant inter-superpower
   corporate maneuver that could reshape ship manufacturing.
+modern_impact_de: Das Angebot von Core Dynamics für Lakon Spaceways ist ein bedeutendes
+  unternehmerisches Manöver zwischen den Supermächten, das die Schiffsproduktion neu
+  gestalten könnte.
 legacy_weight: 3
 significance: medium
 related_uuids:
@@ -30,6 +40,20 @@ related_uuids:
 - c11bff6a-4225-59ac-9550-d41d831246a8
 - 32260e0e-400f-55a9-b936-04db515d5d11
 - 4dd29c47-fd75-5985-ae4b-3c1ccf126f89
+body_de: |
+  Core Dynamics, ein bedeutendes Schiffbauunternehmen der Föderation, hat ein offizielles Angebot zur vollständigen Übernahme von Lakon Spaceways vorgelegt.
+
+  Die Ankündigung sorgte für Unruhe im Fertigungssektor, insbesondere da Lakon seit mehreren Jahren mit der Allianz zusammenarbeitet.
+
+  Der Nachrichtenkanal Sol Today veröffentlichte eine Erklärung von Jupiter Rochester, dem Vorstandsvorsitzenden von Core Dynamics:
+
+  „Lakon Spaceways hat sich mit seinen praktischen und hoch angesehenen Schiffskonstruktionen einen Namen gemacht – den Arbeitstieren der Galaxis. Core Dynamics kann dem Unternehmen zu größeren Höhen und noch mehr Erfolg verhelfen.“
+
+  „Dies kann nur ein positiver Schritt für beide Unternehmen sein. Wie bei unserer Übernahme von Vodel im vergangenen Jahr wird Lakon seine talentierten Ingenieure und Produktionsanlagen behalten und gleichzeitig unter unserer Leitung arbeiten.“
+
+  Der Vorstand von Lakon Spaceways hat bislang nicht reagiert. Einige Branchenexperten spekulieren, dass das Unternehmen nach den hohen Investitionen in die Alliance Chieftain und ihre Schwesterschiffe in finanziellen Schwierigkeiten stecken könnte.
+
+  In der Allianzversammlung wurden Fragen zur Rechtmäßigkeit von Unternehmensfusionen zwischen Supermächten aufgeworfen. Weder die Federal Commerce Authority noch die Independent Commission for Market Equality haben dem Vorschlag jedoch widersprochen.
 ---
 
 

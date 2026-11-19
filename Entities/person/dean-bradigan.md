@@ -8,6 +8,8 @@ mention_count: 2
 bio: 'Dean Bradigan is a prominent figure in the Elite Dangerous universe, active
   from 3306-09-17 to 3306-09-21. Closely associated with Kavanagh Spaceframes Ltd,
   Steel Castle Inc, Pilots Federation. '
+bio_de: |-
+  Dean Bradigan ist eine prominente Persönlichkeit im Elite-Dangerous-Universum und war vom 17. September 3306 bis zum 21. September 3306 aktiv. Er stand in enger Verbindung mit Kavanagh Spaceframes Ltd, Steel Castle Inc und der Pilotenföderation.
 ---
 
 

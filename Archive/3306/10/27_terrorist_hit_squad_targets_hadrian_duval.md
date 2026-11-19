@@ -1,13 +1,18 @@
 ---
 uuid: 9990acb1-6d76-56ea-b285-b54652e511b1
 title: Terrorist Hit Squad Targets Hadrian Duval
+title_de: Terroristisches Killerkommando nimmt Hadrian Duval ins Visier
 slug: terrorist_hit_squad_targets_hadrian_duval
 date: '3306-10-27'
 source: GitHub
 summary: NMLA assassins attack Imperator Hadrian Duval at Dyson City in Paresa, severely
   wounding him. Three killed, four injured. The NMLA claims responsibility, vowing
   to "sever every head of the Duval hydra."
+summary_de: Attentäter der NMLA greifen Imperator Hadrian Duval in Dyson City im
+  System Paresa an und verwunden ihn schwer. Drei Menschen werden getötet, vier verletzt.
+  Die NMLA bekennt sich zu der Tat und droht, „jeden Kopf der Duval-Hydra abzutrennen“.
 player_impact: None
+player_impact_de: Keine
 persons:
 - Hadrian Duval
 - Leo Magnus
@@ -23,11 +28,27 @@ topics:
 - succession
 modern_impact: The assassination attempt on Hadrian Duval by NMLA terrorists escalates
   the conflict between republican extremists and Imperial traditionalists.
+modern_impact_de: Das Attentat der NMLA-Terroristen auf Hadrian Duval verschärft den
+  Konflikt zwischen republikanischen Extremisten und imperialen Traditionalisten.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 7ce9b237-f40e-53f1-b0e7-84eb59eb3647
 - 82f4bc2c-cac8-5b5a-8691-1dd634d3fc82
+body_de: |
+  Imperator Hadrian Augustus Duval wurde bei einem Attentat neomarlinistischer Extremisten schwer verwundet.
+
+  Der Angriff ereignete sich in Dyson City im System Paresa, dem Hauptquartier der isolationistischen Organisation Nova Imperium. Ein kleines Team bewaffneter Eindringlinge drang in die Kommandozentrale ein und eröffnete das Feuer. Drei Menschen wurden getötet und vier verletzt, darunter Hadrian Duval, bevor seine Prätorianergarde die Attentäter ausschaltete.
+
+  Die NMLA hat sich zu der Tat bekannt. In Propagandakanälen droht die paramilitärische Gruppe, „jeden Kopf der Duval-Hydra abzutrennen“, und fordert alle Bürger auf, sich zu erheben und Demokratie zu verlangen.
+
+  Prätor Leo Magnus, Sicherheitschef von Nova Imperium, gab gegenüber Vox Galactica folgende Erklärung ab:
+
+  „Der Imperator befindet sich in einem kritischen Zustand, erhält aber unsere bestmögliche medizinische Versorgung. Ich überwache persönlich die Untersuchung, wie die NMLA in unseren Sternenhafen eindringen und die Sicherheitskontrollen umgehen konnte.“
+
+  „Solche Angriffe sind ebenso abscheulich wie feige, und Nova Imperium stellt sich entschlossen gegen diese Terroristen.“
+
+  Hadrian Duval ist der uneheliche Enkel von Kaiser Hengist. Sein Vater, der verstorbene Commander Hector Jansen, entstammte einer heimlichen Beziehung mit einer Haussklavin. Obwohl die imperiale Familie ihn verstoßen hat, erhebt Hadrian Anspruch auf eine rechtmäßige Thronfolge.
 ---
 
 

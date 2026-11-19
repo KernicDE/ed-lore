@@ -1,14 +1,20 @@
 ---
 uuid: 205d07b4-f022-5e6b-90ed-5a96149cdd43
 title: Successful Initiatives to Produce New Starports
+title_de: Erfolgreiche Initiativen zum Bau neuer Sternenhäfen
 slug: successful_initiatives_to_produce_new_starports
 date: '3306-09-21'
 source: GitHub
 summary: Both Kavanagh Spaceframes and Steel Castle Inc successfully conclude their
   initiatives to upgrade refinery outposts into starports across ten systems. New
   Orbis and Coriolis stations will be operational by October.
+summary_de: Sowohl Kavanagh Spaceframes als auch Steel Castle Inc schließen ihre Initiativen
+  zur Umwandlung von Raffinerieaußenposten in Sternenhäfen in zehn Systemen erfolgreich
+  ab. Neue Orbis- und Coriolis-Stationen sollen bis Oktober in Betrieb gehen.
 player_impact: Pilots who delivered materials can collect rewards at Blaauw Hub in
   Tenche and Teng-hui Station in Nagasairu.
+player_impact_de: Piloten, die Materialien geliefert haben, können ihre Belohnungen
+  am Blaauw Hub im Tenche-System und an der Teng-hui Station im Nagasairu-System abholen.
 persons:
 - Susannah Haynes
 - Dean Bradigan
@@ -34,12 +40,32 @@ topics:
 - trade
 modern_impact: The successful construction expands fleet carrier refuelling infrastructure
   across multiple systems.
+modern_impact_de: Der erfolgreiche Bau erweitert die Infrastruktur zum Betanken von
+  Flottenträgern in mehreren Systemen.
 legacy_weight: 2
 significance: low
 related_uuids:
 - 8d49ee4c-97a2-59e8-aea9-f6b6331d417b
 - 39d388e0-db44-5dec-bdc4-47fb72cb3037
 - 07f4c3e2-ca2b-55cc-9321-3c0cdefa1f74
+body_de: |
+  **ALARM DER PILOTENFÖDERATION: Zur Kenntnis aller Commander**
+
+  Neue Sternenhäfen sollen in zehn Systemen errichtet werden.
+
+  Zwei Projekte zur Bereitstellung von Ressourcen für den Ausbau von Raffinerieaußenposten zu Sternenhäfen wurden abgeschlossen. Ziel ist es, die Effizienz für Besitzer von Flottenträgern zu steigern, die große Schiffe zum Transport von Tritium-Treibstoff einsetzen.
+
+  Kavanagh Spaceframes Ltd veröffentlichte diese Erklärung von Geschäftsführerin Susannah Haynes:
+
+  „Dank zahlreicher großzügiger Lieferungen werden wir Anfang Oktober voll funktionsfähige Orbis-Sternenhäfen in den Systemen Fjorgyn, HR 4979, Wolf 294, Lambda-2 Tucanae und Potriti bereitstellen.“
+
+  „Alle teilnehmenden Händler können ihre Belohnungen jetzt am Blaauw Hub im Tenche-System abholen.“
+
+  Eine ähnliche Ankündigung kam von Dean Bradigan, dem Direktor von Steel Castle Inc:
+
+  „Die zahlreichen Lieferungen, die wir erhalten haben, ermöglichen es uns, Anfang Oktober neue Coriolis-Stationen in den Systemen LHS 4058, Chakpa, Gally Bese, Eta Cephei und Ninabin bereitzustellen. Wir hoffen, dass diese Reisenden noch viele Jahre lang Dienste anbieten werden.“
+
+  „Belohnungen für alle Piloten, die diese Mineralien geliefert haben, sind jetzt an der Teng-hui Station im Nagasairu-System verfügbar.“
 ---
 
 

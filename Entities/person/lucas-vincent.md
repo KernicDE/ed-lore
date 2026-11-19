@@ -9,6 +9,10 @@ bio: Lucas Vincent is a president in the Elite Dangerous universe, active from 3
   to 3306-10-19. Closely associated with Federal Navy. Fleet Admiral Lucas Vincent
   is arrested for ordering the sabotage of Starship One. President Hudson's support
   plummets after Fleet Admiral Vincent is charged with sabotaging Starship One.
+bio_de: |-
+  Flottenadmiral Lucas Vincent war Stabschef der Federal Navy und ein enger persönlicher Freund von Präsident Zachary Hudson. Im Jahr 3306 wurde er verhaftet und wegen Verschwörung zum Mord und wegen Hochverrats angeklagt, da er 3301 die Sabotage der Starship One angeordnet hatte – des Präsidentenschiffs, auf dem sich die damalige Präsidentin Jasmina Halsey befand.
+
+  Der Fall gegen Vincent kam ans Licht, als Cheftechniker Rory Webster, dem wegen der Sabotage des Hyperantriebs der Starship One der Prozess gemacht wurde, einen Deal mit der Staatsanwaltschaft einging und aussagte, Vincent habe ihn über einen privaten Kanal und unter Androhung von Konsequenzen direkt angewiesen, das Desaster zu arrangieren. Vincents Verhaftung erschütterte die Politik der Föderation: Über ein Dutzend Kongressabgeordnete traten aus Protest zurück, die Zustimmungswerte für Präsident Hudson brachen ein, und die Liberal Party von Schattenpräsidentin Felicia Winters erhielt erstmals seit Jahren die Unterstützung einer Mehrheit. Der Sabotagefall um die Starship One gilt weiterhin als einer der schwersten Hochverratsskandale in der Geschichte der Föderation und legte offen, wie anfällig selbst die höchsten Ämter für militärische Verschwörungen sind.
 ---
 
 

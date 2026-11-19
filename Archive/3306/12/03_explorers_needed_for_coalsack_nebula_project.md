@@ -1,14 +1,20 @@
 ---
 uuid: c3a9a7ce-4bc3-5a04-a202-0a4e7cd821a8
 title: Explorers Needed for Coalsack Nebula Project
+title_de: Entdecker für Coalsack-Nebel-Projekt gesucht
 slug: explorers_needed_for_coalsack_nebula_project
 date: '3306-12-03'
 source: GitHub
 summary: Sirius Atmospherics requests exploration data on ammonia worlds from independent
   pilots for a terraforming project in the Coalsack Nebula, in partnership with the
   Alliance.
+summary_de: Sirius Atmospherics fordert für ein Terraforming-Projekt im Coalsack-Nebel
+  in Zusammenarbeit mit der Allianz Erkundungsdaten über Ammoniakwelten von unabhängigen
+  Piloten an.
 player_impact: Pilots delivered exploration data focusing on ammonia world composition
   to Betancourt Base in the Musca Dark Region PJ-P b6-1 system.
+player_impact_de: Piloten lieferten Erkundungsdaten mit Schwerpunkt auf der Zusammensetzung
+  von Ammoniakwelten an Betancourt Base im System Musca Dark Region PJ-P b6-1.
 persons:
 - Maximilian North
 groups:
@@ -21,6 +27,8 @@ topics:
 - research
 modern_impact: Terraforming initiatives in the Coalsack Nebula continue to expand
   human habitation into previously hostile environments.
+modern_impact_de: Terraforming-Initiativen im Coalsack-Nebel erweitern weiterhin die
+  menschliche Besiedlung bislang lebensfeindlicher Umgebungen.
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -32,6 +40,14 @@ related_uuids:
 - 32ae371b-e2e7-5253-931c-bc9683a45090
 - a0b5af8c-f073-5144-ba2c-8c304335713e
 - 9ec708c8-2591-5e8f-8385-17665e923f72
+body_de: |
+  **ALARM DER PILOTENFÖDERATION**
+  Sirius Atmospherics hat unabhängige Piloten um Unterstützung bei der Bereitstellung von Erkundungsdaten über Ammoniakwelten für Terraforming-Zwecke gebeten.
+  Das Tochterunternehmen der Sirius Corporation arbeitet in Partnerschaft mit der Allianz daran, Kolonien im Coalsack-Nebel zu errichten und Standorte von kommerziellem und wissenschaftlichem Interesse ausfindig zu machen.
+  Dr. Maximilian North, Projektdirektor von Sirius Atmospherics, erläuterte die Anforderungen:
+  „Wir haben revolutionäre neue Terraforming-Verfahren für erdähnliche Planeten mit Atmosphären auf Ammoniakbasis entwickelt. Unsere Zusammenarbeit mit der Allianz bietet die perfekte Gelegenheit, diese in der Praxis zu erproben und anzuwenden, mit dem Ziel, die Region in einen menschenfreundlicheren Ort zu verwandeln.“
+  „Sirius Atmospherics bietet Belohnungen für Entdecker, die uns Erkundungsdaten liefern können. Besonders interessieren wir uns für detaillierte Scans der Zusammensetzung von Ammoniakwelten, nicht nur im Coalsack-Nebel, sondern auch andernorts. Die Sammlung umfangreicher Daten wird es uns ermöglichen, die am besten geeigneten Ziele für eine Umweltumwandlung zu bestimmen.“
+  Piloten werden gebeten, Erkundungsdaten an die Forschungseinrichtung von Sirius Atmospherics auf Betancourt Base im System Musca Dark Region PJ-P b6-1 zu liefern.
 ---
 
 

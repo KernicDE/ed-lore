@@ -16,6 +16,10 @@ bio: Eurybia Blue Mafia is a criminal in the Elite Dangerous universe, active fr
   attacks on Imperial starports to engineer Liz Ryder, protected by the Eurybia Blue
   Mafia. The Eurybia Blue Mafia successfully fights off Imperial forces attempting
   to capture engineer Liz Ryder.
+bio_de: |-
+  Die Eurybia Blue Mafia ist eine kriminelle Organisation mit Sitz im System Eurybia, die 3306 berüchtigt wurde, weil sie die Ingenieurin Liz Ryder vor einer Gefangennahme durch das Imperium schützte. Als der Imperial Internal Security Service die bei Terroranschlägen auf imperiale Sternenhäfen verwendeten Sprengsätze mit Ryders ingenieurtechnischer Arbeit in Verbindung brachte, entsandte das Imperium Streitkräfte, um sie festzunehmen.
+
+  Der Blue Mafia gelang es, den imperialen Vorstoß abzuwehren. Damit bewies sie sowohl ihre militärischen Fähigkeiten als auch ihre Bereitschaft, die imperiale Autorität direkt herauszufordern. Der Konflikt verdeutlichte das komplexe Verhältnis zwischen unabhängigen Ingenieuren und kriminellen Organisationen in den Grenzsystemen, wo technisches Fachwissen häufig den Schutz mächtiger Unterweltfraktionen anzieht. Der Sieg der Eurybia Blue Mafia etablierte sie als bedeutende regionale Macht mit ausreichender Feuerkraft, um imperiale Militäroperationen zurückzuschlagen.
 ---
 
 

@@ -11,6 +11,8 @@ related_entities:
 bio: 'L.Y.S Corp is a corporate in the Elite Dangerous universe, active from 3306-11-05
   to 3306-11-12. Frequently linked with LTT 1935 Confederacy, Imperial Internal Security
   Service. '
+bio_de: |-
+  L.Y.S Corp ist ein Unternehmen im Elite-Dangerous-Universum, das vom 3306-11-05 bis 3306-11-12 aktiv war. Es wird häufig mit LTT 1935 Confederacy und dem Imperial Internal Security Service in Verbindung gebracht.
 ---
 
 

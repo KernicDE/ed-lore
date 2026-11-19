@@ -13,6 +13,8 @@ related_entities:
 bio: 'Keltim Empire League is a organization in the Elite Dangerous universe, active
   from 3306-10-01 to 3306-10-08. Frequently linked with Liz Ryder, Pilots Federation,
   Eurybia. '
+bio_de: |-
+  Keltim Empire League ist eine Organisation im Elite-Dangerous-Universum, die vom 3306-10-01 bis 3306-10-08 aktiv war. Sie wird häufig mit Liz Ryder, der Pilotenföderation und Eurybia in Verbindung gebracht.
 ---
 
 

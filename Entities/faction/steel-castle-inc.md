@@ -17,6 +17,10 @@ bio: Steel Castle Inc is a organization in the Elite Dangerous universe, active 
   Inc to upgrade refinery outposts into starports, improving fleet carrier refuelling
   access for large ships. Kavanagh Spaceframes and Steel Castle Inc request commodity
   deliveries to convert refinery outposts into starports across ten systems.
+bio_de: |-
+  Steel Castle Inc ist ein Bau- und Ingenieurunternehmen, das auf die Entwicklung industrieller Infrastruktur in mehreren Systemen, darunter Tenche und Nagasairu, spezialisiert ist. Im Jahr 3306 ging das Unternehmen eine strategische Partnerschaft mit Kavanagh Spaceframes Ltd und Brewer Corporation ein, um bestehende Raffinerie-Außenposten zu vollwertigen Sternenhäfen auszubauen. Ziel dieser Zusammenarbeit war es, den Zugang größerer Schiffe zu Betankungsmöglichkeiten für Flottenträger zu erweitern und damit eine kritische Infrastrukturlücke zu schließen, die Logistikoperationen im fernen Weltraum eingeschränkt hatte.
+
+  Für die gemeinsame Initiative waren umfangreiche Warenlieferungen unabhängiger Piloten erforderlich, um die Umrüstungen in zehn Zielsystemen abzuschließen. Die Expertise von Steel Castle Inc im Schwerbau erwies sich für das Projekt als unverzichtbar und zeigte, wie spezialisierte Ingenieurunternehmen mit großen Konzernen zusammenarbeiten konnten, um die Infrastruktur der Sternenhäfen in der Galaxis neu zu gestalten. Das Engagement des Unternehmens unterstrich die fortschreitende Ausbreitung der menschlichen Präsenz in Grenzregionen durch die systematische Modernisierung der Infrastruktur.
 ---
 
 

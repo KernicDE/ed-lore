@@ -1,13 +1,18 @@
 ---
 uuid: 7ce9b237-f40e-53f1-b0e7-84eb59eb3647
 title: Hadrian Duval Saved by Aisling Duval’s Intervention
+title_de: Hadrian Duval durch Aisling Duvals Eingreifen gerettet
 slug: hadrian_duval_saved_by_aisling_duvals_intervention
 date: '3306-11-02'
 source: GitHub
 summary: Princess Aisling Duval intervenes to save Imperator Hadrian Duval after an
   NMLA assassination attempt, transporting him aboard the INV Achenar's Courage for
   advanced medical treatment.
+summary_de: Prinzessin Aisling Duval greift ein, um Imperator Hadrian Duval nach
+  einem Attentat der NMLA zu retten, und bringt ihn zur fortschrittlichen medizinischen
+  Behandlung an Bord der INV Achenar's Courage.
 player_impact: None
+player_impact_de: Keine
 persons:
 - Aisling Duval
 - Hadrian Augustus Duval
@@ -20,11 +25,29 @@ topics:
 arc_id: nova-imperium
 modern_impact: The Nova Imperium movement challenges Emperor Arissa's legitimacy and
   creates a schism in Imperial politics.
+modern_impact_de: Die Bewegung Nova Imperium stellt die Legitimität von Kaiserin Arissa
+  infrage und verursacht einen Bruch in der imperialen Politik.
 legacy_weight: 4
 significance: high
 related_uuids:
 - 80b1c2fe-dde6-5b97-a195-c6f2bcad8ce5
 - fe3dc2db-dc1a-5838-8b95-ff46e1033563
+body_de: |
+  Prinzessin Aisling Duval hat Imperator Hadrian Augustus Duval lebensrettende Hilfe geleistet, nachdem er von Terroristen der NMLA schwer verwundet worden war.
+
+  Die INV Achenar's Courage brachte sie in das System Paresa, wo sie Schutz vor weiteren Attentaten anbot.
+
+  Hadrian Duval wurde in die Krankenstation des Abfangkreuzers der Majestic-Klasse verlegt, umgeben sowohl von seiner Prätorianergarde als auch von imperialen Truppen. Er erhielt eine fortschrittliche Behandlung einschließlich Vitadyne-Nanomedikamenten und befindet sich nicht mehr in kritischem Zustand.
+
+  Dieses unorthodoxe Eingreifen hat sowohl bei Senatoren als auch in der Öffentlichkeit Kritik und Lob hervorgerufen. Nova Imperium ist wegen Aufwiegelung aufgrund seiner isolationistischen Politik verboten, und sein Anführer wird von der kaiserlichen Familie nicht anerkannt. Aisling und Hadrian schlossen jedoch 3305 einen Nichtangriffspakt.
+
+  Eine trotzige Aisling Duval erklärte gegenüber dem Imperial Herald:
+
+  „Ich habe kürzlich ein Mitglied meiner Familie an diese Extremisten verloren. Ich werde nicht noch eines verlieren. Ungeachtet der Politik ist Hadrian mein Cousin, und es sind nur noch sehr wenige Duvals am Leben."
+
+  Praetor Leo Magnus, Sicherheitschef von Nova Imperium, kommentierte:
+
+  „Ich bin zuversichtlich, dass unser Imperator überlebt hätte, aber wir wissen die Hilfe Ihrer Hoheit sehr zu schätzen. Es bleibt ein Rätsel, wie die NMLA einem Erfolg so nahekommen konnte, doch meine Ermittlungen dauern an."
 ---
 
 

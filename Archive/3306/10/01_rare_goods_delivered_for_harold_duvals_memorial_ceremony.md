@@ -1,14 +1,21 @@
 ---
 uuid: f3b96ffc-d73d-5225-b720-e60ad7d17698
 title: Rare Goods Delivered for Harold Duval’s Memorial Ceremony
+title_de: Seltene Waren für Harold Duvals Gedenkzeremonie geliefert
 slug: rare_goods_delivered_for_harold_duvals_memorial_ceremony
 date: '3306-10-01'
 source: GitHub
 summary: Rare goods are delivered for Prince Harold Duval's memorial ceremony at the
   Imperial Palace on Capitol. Princess Aisling Duval thanks contributors and vows
   to support anti-terrorist efforts.
+summary_de: Seltene Waren werden für die Gedenkzeremonie für Prinz Harold Duval im
+  Imperialen Palast auf Capitol geliefert. Prinzessin Aisling Duval dankt den Unterstützern
+  und verspricht, die Bemühungen zur Terrorismusbekämpfung zu unterstützen.
 player_impact: Pilots who delivered rare goods can collect rewards at Oterma Station
   in Baal. Gutamaya ships are discounted for one week.
+player_impact_de: Piloten, die seltene Waren geliefert haben, können ihre Belohnungen
+  an der Oterma Station im Baal-System abholen. Schiffe von Gutamaya sind eine Woche
+  lang reduziert.
 persons:
 - Aisling Duval
 groups:
@@ -20,6 +27,8 @@ topics:
 - humanitarian
 modern_impact: The memorial cements public grief and anti-NMLA sentiment, with Aisling
   Duval positioning herself as a voice against terrorism.
+modern_impact_de: Die Gedenkzeremonie festigt die öffentliche Trauer und die Ablehnung
+  der NMLA; Aisling Duval positioniert sich dabei als Stimme gegen den Terrorismus.
 legacy_weight: 3
 significance: medium
 related_uuids:
@@ -28,6 +37,26 @@ related_uuids:
 - b1d3cc6d-1f0c-5fe1-b2c4-58b3b944f2d6
 - 66aa5796-1028-5707-8ed1-7049881273b8
 - 4e62012c-875d-547f-a342-9e770cc04ce5
+body_de: |
+  **ALARM DER PILOTENFÖDERATION: Zur Kenntnis aller Commander**
+
+  Vorbereitungen für die Gedenkzeremonie abgeschlossen.
+
+  Eine Bitte des Imperiums, das Ableben von Prinz Harold Duval mit seltenen Gegenständen zu ehren, hat eine beeindruckende Resonanz hervorgerufen und ihm den Dank der Imperialen Familie eingebracht.
+
+  Lieferungen von Ngadandari Fire Opals, Esuseku Caviar, Lavian Brandy und Kamitra Cigars wurden zur Gedenkzeremonie im Imperialen Palast auf Capitol transportiert. Der Leichnam des Prinzen wird noch eine weitere Woche aufgebahrt bleiben, bevor er seine letzte Ruhestätte in der Halle der Märtyrer findet.
+
+  Piloten, die diese Waren geliefert haben, können ihre Belohnungen jetzt an der Oterma Station im Baal-System abholen.
+
+  Genehmigungen für das Achenar-System werden bis zum 3. Oktober 3306 bearbeitet und automatisch zugeteilt.
+
+  In Anerkennung dieser Leistung sind Schiffe der Gutamaya Corporation vom 2. Oktober 3306 bis zum 9. Oktober 3306 mit einem Rabatt von 20 % erhältlich.
+
+  Prinzessin Aisling Duval erklärte gegenüber den Medien:
+
+  „Ich möchte allen für ihre Güte in dieser schwierigen Zeit danken. Der Gedanke, dass mein Vater niemals vergessen werden wird, hat mir großen Trost gespendet.“
+
+  „Vorerst möchte ich klarstellen, dass alle Bemühungen, die brutalen Terroristen auszuschalten, die für seinen Tod verantwortlich sind, meine volle Unterstützung haben. Ich fordere alle Bürger auf, das zerstörerische Dogma des Marlinismus zurückzuweisen und gemeinsam für ein stärkeres Imperium zu arbeiten.“
 ---
 
 

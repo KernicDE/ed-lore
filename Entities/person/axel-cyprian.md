@@ -8,6 +8,8 @@ mention_count: 2
 bio: 'Axel Cyprian is a terrorist in the Elite Dangerous universe, active from 3306-11-05
   to 3306-11-12. Closely associated with L.Y.S Corp, LTT 1935 Confederacy, Imperial
   Internal Security Service. '
+bio_de: |-
+  Axel Cyprian ist ein Terrorist im Elite-Dangerous-Universum, der vom 3306-11-05 bis 3306-11-12 aktiv war. Er wird eng mit L.Y.S Corp, LTT 1935 Confederacy und dem Imperial Internal Security Service in Verbindung gebracht.
 ---
 
 

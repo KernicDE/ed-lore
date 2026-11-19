@@ -1,12 +1,17 @@
 ---
 uuid: 4e860725-eb68-5f84-82ea-7b7e629bd964
 title: Terrorists Identified Among Marlinist Refugees
+title_de: Terroristen unter marlinistischen Flüchtlingen identifiziert
 slug: terrorists_identified_among_marlinist_refugees
 date: '3306-11-18'
 source: GitHub
 summary: The Federal Security Service uncovers nine NMLA terrorists hiding among Marlinist
   refugees in the Federation, triggering protests over refugee policy.
+summary_de: Der Federal Security Service deckt neun NMLA-Terroristen auf, die sich unter
+  marlinistischen Flüchtlingen in der Föderation versteckt hielten, und löst damit Proteste
+  gegen die Flüchtlingspolitik aus.
 player_impact: None
+player_impact_de: Keine
 persons:
 - Brad Mitchell
 - Jenna Fairfax
@@ -18,6 +23,9 @@ topics:
 - terrorism
 modern_impact: The NMLA infiltration of refugee populations becomes a major political
   issue in both the Federation and Empire, fueling anti-refugee sentiment.
+modern_impact_de: Die Unterwanderung der Flüchtlingsgruppen durch die NMLA wird zu einem
+  wichtigen politischen Thema in Föderation und Imperium und schürt die Stimmung gegen
+  Flüchtlinge.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -25,6 +33,22 @@ related_uuids:
 - fdfcbad6-3839-516e-9fa7-708cee9ad0e3
 - 32ae371b-e2e7-5253-931c-bc9683a45090
 - 9ec708c8-2591-5e8f-8385-17665e923f72
+body_de: |
+  Ein Überprüfungsverfahren für marlinistische Asylsuchende, die in der Föderation eintreffen, hat mehrere Mitglieder der Terrorgruppe NMLA aufgedeckt.
+
+  Vizepräsident Brad Mitchell hat persönlich eine Operation des Federal Security Service eingeleitet, um neo-marlinistische Extremisten aufzudecken, die sich unter den Flüchtlingen versteckt hielten.
+
+  Der Vizepräsident überreichte dem Kongress diesen Bericht:
+
+  „Nachdem bei den üblichen Identitätsprüfungen einige potenzielle Verdächtige aufgefallen waren, setzten FSS-Beamte intensivere Kontrollen und Befragungstechniken ein. Dabei fanden sie neun Personen, die aktive Mitglieder der NMLA waren.“
+
+  „Die Terroristen wurden zur weiteren Vernehmung in sichere Einrichtungen gebracht und werden anschließend den imperialen Behörden übergeben. Unsere Sicherheitsdienste bleiben wachsam gegenüber dieser Gefahr, die die Liberale Partei in unsere Gesellschaften eingeladen hat.“
+
+  Vox Galactica veröffentlichte eine Erklärung der marlinistischen Gemeindeleiterin Dr. Jenna Fairfax:
+
+  „Ich bin entsetzt zu erfahren, dass sich die NMLA unter uns versteckt hat. Diese Mörder stehen nicht für die Grundsätze des Marlinismus, und wir arbeiten gerne an ihrer Ausweisung mit.“
+
+  In diesem Zusammenhang warnten Demonstranten auf mehreren Welten der Föderation vor zunehmender Kriminalität, Terrorismus und wirtschaftlichen Schäden, falls nicht alle Flüchtlinge ins Imperium zurückgeschickt würden. Gegendemonstrationen forderten, die Marlinisten als Gleichgesinnte im Glauben an eine demokratische Regierung willkommen zu heißen.
 ---
 
 

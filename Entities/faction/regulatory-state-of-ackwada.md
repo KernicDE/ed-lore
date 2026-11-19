@@ -14,6 +14,8 @@ bio: Regulatory State of Ackwada is a organization in the Elite Dangerous univer
   active from 3306-10-08 to 3306-10-14. Frequently linked with Pilots Federation,
   Imperial Internal Security Service, Ackwada. The Empire targets the Duduseklis Empire
   League in Ackwada, suspecting it of NMLA recruitment.
+bio_de: |-
+  Regulatory State of Ackwada ist eine Organisation im Elite-Dangerous-Universum, die vom 3306-10-08 bis 3306-10-14 aktiv war. Sie wird häufig mit der Pilotenföderation, dem Imperial Internal Security Service und Ackwada in Verbindung gebracht. Das Imperium geht in Ackwada gegen die Duduseklis Empire League vor, da es sie der Rekrutierung für die NMLA verdächtigt.
 ---
 
 

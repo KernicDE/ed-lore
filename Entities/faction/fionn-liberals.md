@@ -13,6 +13,8 @@ related_entities:
 - ltt-3607
 bio: 'Fionn Liberals is a organization in the Elite Dangerous universe, active from
   3306-10-22 to 3306-10-29. Frequently linked with LTT 3607, Charunder, Ennead. '
+bio_de: |-
+  Fionn Liberals ist eine Organisation im Elite-Dangerous-Universum, die vom 3306-10-22 bis 3306-10-29 aktiv war. Sie wird häufig mit LTT 3607, Charunder und Ennead in Verbindung gebracht.
 ---
 
 

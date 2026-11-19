@@ -7,6 +7,8 @@ last_seen_date: '3306-10-08'
 mention_count: 2
 bio: 'Rocco Gandara is a engineer in the Elite Dangerous universe, active from 3306-10-01
   to 3306-10-08. Closely associated with Pilots Federation, Keltim Empire League. '
+bio_de: |-
+  Rocco Gandara ist ein Ingenieur im Elite-Dangerous-Universum und war vom 1. Oktober 3306 bis zum 8. Oktober 3306 aktiv. Er stand in enger Verbindung mit der Pilotenföderation und der Keltim Empire League.
 ---
 
 

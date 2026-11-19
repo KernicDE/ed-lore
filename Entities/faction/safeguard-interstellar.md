@@ -16,6 +16,8 @@ bio: Safeguard Interstellar is a organization in the Elite Dangerous universe, a
   Charunder. Safeguard Interstellar requests deliveries of basic medicines, clothing,
   food, and evacuation shelters for Marlinist refugees in Federal systems. Safeguard
   Interstellar successfully delivers supplies for Marlinist refugees in Federal systems.
+bio_de: |-
+  Safeguard Interstellar ist eine Organisation im Elite-Dangerous-Universum, die vom 3306-10-22 bis 3306-10-29 aktiv war. Sie wird häufig mit LTT 3607, Fionn Liberals und Charunder in Verbindung gebracht. Safeguard Interstellar ersucht um Lieferungen von Medikamenten für die Grundversorgung, Kleidung, Lebensmitteln und Evakuierungsunterkünften für marlinistische Flüchtlinge in Systemen der Föderation. Safeguard Interstellar liefert erfolgreich Hilfsgüter für marlinistische Flüchtlinge in Systemen der Föderation.
 ---
 
 

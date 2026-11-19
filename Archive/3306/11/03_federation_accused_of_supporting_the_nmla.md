@@ -1,12 +1,17 @@
 ---
 uuid: 5c5b50af-0f81-5898-b860-948182133436
 title: Federation Accused of Supporting the NMLA
+title_de: Föderation der Unterstützung der NMLA beschuldigt
 slug: federation_accused_of_supporting_the_nmla
 date: '3306-11-03'
 source: GitHub
 summary: The Empire reveals evidence suggesting the NMLA may be receiving help from
   Federal elements, while Federal systems struggle with an influx of Marlinist refugees.
+summary_de: Das Imperium legt Beweise offen, die darauf hindeuten, dass die NMLA
+  möglicherweise Hilfe aus Reihen der Föderation erhält, während föderale Systeme
+  mit dem Zustrom marlinistischer Flüchtlinge zu kämpfen haben.
 player_impact: None
+player_impact_de: Keine
 persons:
 - Liz Ryder
 - Jordan Rochester
@@ -18,6 +23,8 @@ topics:
 - terrorism
 modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
   the Marlinist refugee crisis and the Proactive Detection Bureau.
+modern_impact_de: Die Bombenkampagne der NMLA verändert die galaktische Politik grundlegend
+  und führt zur marlinistischen Flüchtlingskrise und zum Proactive Detection Bureau.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -27,6 +34,24 @@ related_uuids:
 - d1d08497-4af0-570f-8be8-dee3c1c8b6fb
 - 00166067-886c-56fa-a0a6-e6bb8ff8bb4c
 - c567d3a4-1255-56d4-806c-18850b5c46aa
+body_de: |
+  Das Imperium hat neue Beweise offengelegt, die darauf hindeuten, dass die Terrorgruppe NMLA möglicherweise Hilfe aus Reihen der Föderation erhält.
+
+  In einem Bericht des Imperial Internal Security Service heißt es:
+
+  „Mithilfe von Informationen der Ingenieurin Liz Ryder haben wir eine verlassene Werkstatt ausfindig gemacht, in der nach ihren Bauplänen Sprengsätze hergestellt worden waren. Es wurden Spuren ätzender Thargoid-Enzyme gefunden, die mit den bei den Sternenhafenanschlägen verwendeten Sprengladungen übereinstimmen."
+
+  „Mikrobeschriftungen auf Frachtcontainern wiesen große Lieferungen von Ausrüstung aus einem föderalen System im neutralen Raum aus, wo sich unserer Annahme nach eine zweite Bombenwerkstatt der NMLA befindet. IISS-Agenten ermitteln derzeit, um diese Erkenntnisse zu bestätigen."
+
+  Der föderale Botschafter Jordan Rochester wies diese Anschuldigungen zurück:
+
+  „Die Behauptung, wir seien für die im Imperium selbst entstandenen Extremisten verantwortlich, ist lächerlich. Wie bei ihrer Verfolgung der Marlinisten ist auch dies nur eine weitere Ausrede für ihre Unfähigkeit, ihre eigenen Probleme zu lösen."
+
+  Die imperiale Botschafterin Imogen Luciana entgegnete:
+
+  „Es kursieren schon lange Gerüchte, dass die NMLA von der Föderation unterstützt wird, um das Imperium zu destabilisieren und republikanische Propaganda zu verbreiten. Sollte dies zutreffen, wird das schwerwiegende Folgen haben."
+
+  In diesem Zusammenhang haben einige föderale Systeme Mühe, den Zustrom marlinistischer Flüchtlinge zu bewältigen. In den Systemen Thetis, LTT 1935 und HIP 36081 wurden aufgrund fehlender zusätzlicher Ressourcen öffentlicher Ungehorsam, Nahrungsmittelknappheit und Seuchen gemeldet.
 ---
 
 

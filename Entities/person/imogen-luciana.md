@@ -7,6 +7,10 @@ last_seen_date: '3306-11-20'
 mention_count: 4
 bio: 'Imperial Ambassador who spearheaded the Empire''s diplomatic offensive during
   the Marlinist refugee crisis of 3306.'
+bio_de: |-
+  Imogen Luciana diente als imperiale Botschafterin während einer der heikelsten diplomatischen Krisen der 3300er Jahre. Im Oktober 3306, als Hunderttausende marlinistischer Flüchtlinge vor den imperialen Anti-Terror-Ausgangssperren in den Raum der Föderation flohen, forderte Luciana offiziell ihre Auslieferung und erklärte, die Föderation gewähre „potenziellen Kriminellen, die mit den NMLA-Terroristen in Verbindung stehen“, Unterschlupf.
+
+  Die Weigerung der Föderation, angeführt von Botschafter Jordan Rochester, ließ die Flüchtlingskrise zu einem ausgewachsenen Streit zwischen den Supermächten eskalieren. Später warf Luciana den Behörden der Föderation vor, sich Bemühungen zur Stilllegung von NMLA-Bombenfabriken in LTT 1935 zu widersetzen. Vizepräsident Mitchell wies diese Vorwürfe zurück, indem er die Schattenpräsidentin Winters dafür verantwortlich machte, „Terroristen willkommen geheißen“ zu haben. Lucianas Amtszeit verdeutlichte die drastische Verschlechterung der Beziehungen zwischen Imperium und Föderation während des NMLA-Notstands.
 ---
 
 

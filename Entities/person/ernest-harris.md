@@ -8,6 +8,8 @@ mention_count: 2
 bio: 'Ernest Harris is a terrorist in the Elite Dangerous universe, active from 3306-11-05
   to 3306-11-12. Closely associated with L.Y.S Corp, LTT 1935 Confederacy, Imperial
   Internal Security Service. '
+bio_de: |-
+  Ernest Harris ist ein Terrorist im Elite-Dangerous-Universum und war vom 5. November 3306 bis zum 12. November 3306 aktiv. Er stand in enger Verbindung mit L.Y.S Corp, der LTT 1935 Confederacy und dem Imperial Internal Security Service.
 ---
 
 
