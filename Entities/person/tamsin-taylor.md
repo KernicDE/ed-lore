@@ -7,6 +7,8 @@ last_seen_date: '3307-04-16'
 mention_count: 2
 bio: 'Tamsin Taylor is a senator in the Elite Dangerous universe, active from 3307-04-09
   to 3307-04-16. Closely associated with NMLA, Marlinist Colonies. '
+bio_de: |-
+  Tamsin Taylor ist eine Senatorin im Elite-Dangerous-Universum, die vom 9. April 3307 bis zum 16. April 3307 aktiv war. Sie wird eng mit der NMLA und den Marlinist Colonies in Verbindung gebracht.
 ---
 
 

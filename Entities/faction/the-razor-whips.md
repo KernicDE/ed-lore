@@ -14,6 +14,8 @@ related_entities:
 bio: 'The Razor Whips is a organization in the Elite Dangerous universe, active from
   3307-04-15 to 3307-04-22. Frequently linked with Eol Prou PC-K c9-91, Kavanagh Spaceframes
   Ltd. '
+bio_de: |-
+  Die Razor Whips sind eine Organisation im Elite-Dangerous-Universum, die vom 15. April 3307 bis zum 22. April 3307 aktiv war. Sie werden häufig mit Eol Prou PC-K c9-91 und Kavanagh Spaceframes Ltd in Verbindung gebracht.
 ---
 
 

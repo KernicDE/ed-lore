@@ -14,6 +14,8 @@ related_entities:
 bio: Alliance Salvage Guild is a organization in the Elite Dangerous universe, active
   from 3306-10-29 to 3307-04-08. Frequently linked with Pilots Federation, Chukchan,
   HIP 64011. The Alliance Salvage Guild investigates.
+bio_de: |-
+  Die Alliance Salvage Guild ist eine Organisation im Elite-Dangerous-Universum, die vom 29. Oktober 3306 bis zum 8. April 3307 aktiv war. Sie wird häufig mit der Pilots Federation, Chukchan und HIP 64011 in Verbindung gebracht. Die Alliance Salvage Guild führt Untersuchungen durch.
 ---
 
 

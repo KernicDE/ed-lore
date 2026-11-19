@@ -15,6 +15,8 @@ bio: Caine Massey is a organization in the Elite Dangerous universe, active from
   to 3307-04-13. Frequently linked with Olympus Village, Vandermeer, Earth. Caine-Massey
   CEO Johann Fleischer is assassinated at a Federal Commerce Authority seminar on
   Mars using a modified Manticore Executioner rifle linked to Imperial agents.
+bio_de: |-
+  Caine Massey ist eine Organisation im Elite-Dangerous-Universum, die am 13. April 3307 aktiv war. Sie wird häufig mit Olympus Village, Vandermeer und Earth in Verbindung gebracht. Johann Fleischer, CEO von Caine-Massey, wurde auf einem Seminar der Federal Commerce Authority auf dem Mars mit einem modifizierten Manticore-Executioner-Gewehr ermordet, das mit imperialen Agenten in Verbindung gebracht wird.
 ---
 
 

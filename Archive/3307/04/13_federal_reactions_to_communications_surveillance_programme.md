@@ -1,6 +1,7 @@
 ---
 uuid: f02f048f-667a-5947-9236-9330633d8a5f
 title: Federal Reactions to Communications Surveillance Programme
+title_de: Föderale Reaktionen auf das Kommunikationsüberwachungsprogramm
 slug: federal_reactions_to_communications_surveillance_programme
 date: '3307-04-13'
 source: API
@@ -8,7 +9,13 @@ summary: Mixed reactions emerge to the Proactive Detection Bureau's surveillance
   Civil rights groups and academics protest violations of privacy, while corporatist
   Jupiter Division supporters seize on government overreach. Corporations split on
   whether the surveillance threatens commercial secrets.
+summary_de: Auf das Überwachungsprogramm des Proactive Detection Bureau folgen gemischte
+  Reaktionen. Bürgerrechtsgruppen und Wissenschaftler protestieren gegen Verletzungen
+  der Privatsphäre, während Anhänger der korporatistischen Jupiter Division die staatliche
+  Kompetenzüberschreitung für ihre Zwecke nutzen. Unternehmen sind uneinig darüber,
+  ob die Überwachung Geschäftsgeheimnisse gefährdet.
 player_impact: None directly; this is a news analysis piece.
+player_impact_de: Keine
 persons:
 - Irene Ralston
 - Felicia Winters
@@ -36,6 +43,10 @@ modern_impact: The PDB controversy fuels the corporatist movement and deepens th
   political divide between Hudson's security-focused administration and Winters' civil
   liberties opposition, ultimately contributing to the Federation's constitutional
   crisis.
+modern_impact_de: Die Kontroverse um das PDB befeuert die korporatistische Bewegung
+  und vertieft die politische Kluft zwischen der sicherheitspolitisch ausgerichteten
+  Regierung Hudson und der bürgerrechtlich orientierten Opposition unter Winters,
+  wodurch sie letztlich zur Verfassungskrise der Föderation beiträgt.
 legacy_weight: 4
 significance: medium
 related_uuids:
@@ -44,6 +55,13 @@ related_uuids:
 - 82080870-af46-5023-854f-189ec261531a
 - bc50ffda-083d-5387-b532-bfc39ae6807f
 - 4e4e905b-73b7-54be-a20b-4c447f8ff3e7
+body_de: |
+  Auf das Proactive Detection Bureau, das private Kommunikation in der Föderation auf terroristische Aktivitäten überwacht, gab es gemischte Reaktionen.
+  Die großen Nachrichtenfeeds berichteten über die Lage:
+  The Federal Times: „Bürgerrechtsgruppen protestieren geschlossen gegen das PDB. Auch die korporatistische Bewegung, die von Anhängern der Jupiter Division gegründet wurde, hat die Kontroverse für sich instrumentalisiert. Ihr Sprecher erklärte: ‚Die Regierung hat ihre Befugnisse überschritten und muss durch eine unmittelbare Herrschaft der Unternehmen ersetzt werden.‘“
+  Sol Today: „Hat bereits jeder vergessen, wie die Station Li Qing Jao am Nachthimmel über der Erde brannte? Wir müssen alles tun, was nötig ist, um unsere Sicherheit zu gewährleisten. Nur wer etwas zu verbergen hat, verlangt nach Geheimhaltung.“
+  Vox Galactica: „Professorin Irene Ralston von der Universität Olympus Village sagte uns, dass ihre Studierenden der Politikgeschichte Besuch von FIA-Agenten erhielten, weil sie sich mit Marlinismus beschäftigten, obwohl dieser zum Lehrplan gehörte.“
+  The Tau Ceti Journal: „Unternehmen, die durch die Bombenanschläge finanzielle Verluste erlitten haben, begrüßen das PDB. Andere Unternehmen haben jedoch rechtliche Schritte eingeleitet und berufen sich auf ein Recht zum Schutz vertraulicher Geschäftsinformationen. Megakonzerne wie Caine Massey und Vandermeer drohen sogar damit, ihre politischen Spenden einzustellen.“
 ---
 
 

@@ -1,6 +1,7 @@
 ---
 uuid: 10f8cc7f-6af8-5ae4-b744-d3e73a0b8835
 title: Neo-Marlinists Expose Hadrian Duval as NMLA Leader
+title_de: Neo-Marlinisten entlarven Hadrian Duval als Anführer der NMLA
 slug: neo_marlinists_expose_hadrian_duval_as_nmla_leader
 date: '3307-04-26'
 source: API
@@ -8,7 +9,14 @@ summary: Independent journalist Flint 'Firemaker' Lafosse publishes classified A
   information allegedly from Neo-Marlinist survivors claiming that Hadrian Duval is
   the NMLA mastermind. The leak alleges Astrid Minerva converted him to Neo-Marlinism
   and that the October assassination attempt on his life was staged.
+summary_de: Der unabhängige Journalist Flint ‚Firemaker‘ Lafosse veröffentlicht
+  geheime Informationen des ACT, die angeblich von überlebenden Neo-Marlinisten
+  stammen und Hadrian Duval als Drahtzieher der NMLA nennen. Dem Leak zufolge
+  bekehrte Astrid Minerva ihn zum Neo-Marlinismus, und das Attentat auf ihn im
+  Oktober war inszeniert.
 player_impact: None directly; this is an intelligence leak and allegation.
+player_impact_de: Keine direkten Auswirkungen, da es sich um ein Geheimdienstleak
+  und eine Anschuldigung handelt.
 persons:
 - Hadrian Duval
 - Astrid Minerva-Duval
@@ -31,12 +39,24 @@ arc_id: nmla-terrorism
 modern_impact: Although later disproven, the allegations create a severe crisis of
   confidence in the Imperial Family, strain relations between Nova Imperium and the
   Empire, and demonstrate the NMLA's skill at disinformation and psychological warfare.
+modern_impact_de: Obwohl sich die Anschuldigungen später als falsch erweisen, lösen
+  sie eine schwere Vertrauenskrise in der imperialen Familie aus, belasten die
+  Beziehungen zwischen Nova Imperium und dem Imperium und zeigen das Geschick der
+  NMLA bei Desinformation und psychologischer Kriegsführung.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 5fa79497-ad45-5053-8949-3f794e8192c6
 - a63b78b8-8be0-504c-85a7-d986a0f0465a
 - 772dede3-38b5-52c6-8d0e-21a3bcf19d3e
+body_de: |
+  Imperator Hadrian Augustus Duval von Nova Imperium ist der Drahtzieher hinter der NMLA. Dies geht aus geheimen Informationen hervor, die aus dem ACT durchgesickert sind.
+  Der unabhängige Journalist Flint ‚Firemaker‘ Lafosse veröffentlichte die Einzelheiten im Netzwerk Rewired:
+  „Hadrian Duval: die illegitime Schande der imperialen Familie oder ihr heimlicher terroristischer Erzfeind? So lautet die Geschichte, die Überlebende des Neo-Marlinist Order of Mudhrid erzählen. Sie haben ihre Geheimnisse preisgegeben, um ihre eigene Haut zu retten.“
+  „Meiner Quelle zufolge gestand Landgraf Delacroix gegenüber dem ACT, dass seine Fraktion Enzymbomben und Attentäter von Nova Imperium auf direkten Befehl von Hadrian Duval zu ihren Zielen transportierte. Im Gegenzug versprach dieser Belohnungen und politische Macht.“
+  „Delacroix enthüllte außerdem, dass Hadrian vor einem Jahr von seiner Gemahlin Astrid Minerva, einer führenden Agentin der NMLA, zum Neo-Marlinismus bekehrt wurde. Sie überzeugte ihn, dass es viel einfacher wäre, Imperator zu werden, wenn alle anderen Duvals tot wären!“
+  „Was den Anschlag der NMLA auf Hadrians Leben im vergangenen Oktober betrifft, so war dieser vorgetäuscht, um das Vertrauen der imperialen Familie zu gewinnen. Nur eine weitere Operation unter falscher Flagge, die, wie wir Wahrheitssuchenden wissen, überall zu finden sind.“
+  Diese Informationen sind bislang nicht verifiziert, und ihre Quelle bleibt anonym. Weder das ACT noch Nova Imperium haben dazu Stellung genommen.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
 uuid: 0fd60cb8-7807-5ad7-bb0b-23b66aeb6ab2
 title: Imperial Senator Visits Marlinist Colonies
+title_de: Imperialer Senator besucht die Marlinistischen Kolonien
 slug: imperial_senator_visits_marlinist_colonies
 date: '3307-04-09'
 source: API
@@ -8,7 +9,13 @@ summary: Senator Lorcan Scordato visits the Marlinist Colonies on a fact-finding
   reporting that the communities are well-organised but precarious. He notes widespread
   condemnation of the NMLA among Marlinists and suggests the colonies are closer to
   allies than enemies in the war on terror.
+summary_de: Senator Lorcan Scordato besucht die Marlinistischen Kolonien auf einer
+  Erkundungsmission und berichtet, dass die Gemeinschaften gut organisiert, aber in
+  einer prekären Lage sind. Er stellt eine weitverbreitete Verurteilung der NMLA unter
+  den Marlinisten fest und erachtet die Kolonien im Kampf gegen den Terrorismus eher
+  als Verbündete denn als Feinde.
 player_impact: None directly; this is a diplomatic fact-finding mission.
+player_impact_de: Keine
 persons:
 - Lorcan Scordato
 - Aaron Whyte
@@ -31,11 +38,22 @@ arc_id: marlinist-refugee
 modern_impact: Scordato's visit establishes the diplomatic foundation for the conditional
   amnesty agreement with Neo-Marlinist refugees and demonstrates the Empire's willingness
   to engage diplomatically with former enemies.
+modern_impact_de: Scordatos Besuch schafft die diplomatische Grundlage für das Abkommen
+  über eine bedingte Amnestie für neo-marlinistische Flüchtlinge und zeigt die
+  Bereitschaft des Imperiums, mit ehemaligen Feinden diplomatisch zusammenzuarbeiten.
 legacy_weight: 4
 significance: medium
 related_uuids:
 - df6ae4ee-fca4-532d-af01-2d2e609c7b15
 - 772dede3-38b5-52c6-8d0e-21a3bcf19d3e
+body_de: |
+  Senator Lorcan Scordato hat die Marlinistischen Kolonien im Rahmen der Anti-Terror-Einsätze des Imperiums auf einer Erkundungsmission besucht.
+  Der Imperial Herald erhielt die Genehmigung, diese Zusammenfassung seines vorläufigen Berichts zu veröffentlichen:
+  „Angesichts ihres erst kürzlich erlangten Status als Flüchtlinge sind die marlinistischen Gemeinschaften bemerkenswert gut organisiert. Ihre Regierung arbeitet nach republikanischen Grundsätzen, doch sie haben die imperiale Kultur nicht aufgegeben. Viele verspüren Heimweh nach ihren ursprünglichen Welten."
+  „Ihre Lage bleibt jedoch prekär. Drei ihrer acht Systeme stehen inzwischen unter der Kontrolle externer Fraktionen. Ohne verstärkte Unterstützung durch die galaktische Gemeinschaft könnten weitere Verluste unvermeidbar sein."
+  „In Bezug auf die NMLA herrscht weitverbreitete Wut darüber, dass sie alle Marlinisten wie Ungeheuer erscheinen lässt. Nur selten nahm ich verhaltene Zustimmung wahr. Die überwältigende Mehrheit verurteilt die Terroristen offen."
+  „Das Marlinistische Parlament ist klein, aber effizient und umfasst ein breites Spektrum an Standpunkten. Erste Ministerin Fairfax konzentriert sich auf Zusammenhalt und Überleben. Amrita Ross erörterte eine künftige Wiedereingliederung in das Imperium, während Aaron Whyte den Neo-Marlinismus für eine legitime politische Bewegung hält, sofern Gewalt vermieden wird."
+  „Vor wenigen Monaten waren dies noch ganz gewöhnliche Bürger des Imperiums, und unsere gemeinsame Geschichte verbindet uns noch immer. Im Großen und Ganzen empfinde ich die Marlinistischen Kolonien in unserem Krieg gegen die NMLA eher als Verbündete denn als Feinde."
 ---
 
 

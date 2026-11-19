@@ -1,6 +1,7 @@
 ---
 uuid: 677ba8ea-d7b4-5d96-b990-a430969d2b98
 title: Federation Begins Anti-Terrorist Monitoring
+title_de: Föderation beginnt mit Anti-Terror-Überwachung
 slug: federation_begins_anti_terrorist_monitoring
 date: '3307-04-06'
 source: API
@@ -8,7 +9,13 @@ summary: The Federal Intelligence Agency establishes the Proactive Detection Bur
   to scan civilian communications for terrorist activity following congressional approval
   of the Domestic Counter-Terrorism Act. Deputy Director Bethany Blake explains the
   algorithmic scanning process while civil liberties groups protest.
+summary_de: Die Federal Intelligence Agency richtet das Proactive Detection Bureau
+  ein, um die zivile Kommunikation nach Anzeichen terroristischer Aktivitäten zu
+  durchsuchen. Grundlage ist die Zustimmung des Kongresses zum Gesetz zur inländischen
+  Terrorismusbekämpfung. Stellvertretende Direktorin Bethany Blake erläutert das
+  algorithmische Scanverfahren, während Bürgerrechtsgruppen protestieren.
 player_impact: None directly; this is a policy announcement.
+player_impact_de: Keine
 persons:
 - Jerome Archer
 - Bethany Blake
@@ -29,6 +36,10 @@ arc_id: nmla-terrorism
 modern_impact: The PDB becomes one of the most controversial Federal institutions,
   sparking a constitutional crisis and the eventual corporate-backed corporatist movement
   that threatens democratic governance in the Federation.
+modern_impact_de: Das PDB wird zu einer der umstrittensten Institutionen der Föderation.
+  Es löst eine Verfassungskrise und schließlich eine von Unternehmen unterstützte
+  korporatistische Bewegung aus, die die demokratische Regierungsführung in der
+  Föderation bedroht.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -39,6 +50,14 @@ related_uuids:
 - f02f048f-667a-5947-9236-9330633d8a5f
 - f75a0955-badc-5c1c-894f-410860377f39
 - 00be4816-785d-537c-9e05-ba4677220927
+body_de: |
+  Die Federal Intelligence Agency hat das Proactive Detection Bureau eingerichtet, um die zivile Kommunikation nach Anzeichen terroristischer Aktivitäten zu durchsuchen.
+  Die neue Abteilung wurde nach der Zustimmung des Kongresses zum Gesetz zur inländischen Terrorismusbekämpfung gebildet. Dieses wurde von Vizepräsident Jerome Archer ausgearbeitet, der gegenüber den Medien erklärte:
+  „Das PDB ist ein unverzichtbares Instrument, um weitere Massaker in dem Ausmaß zu verhindern, das wir kürzlich erlebt haben. Es wird NMLA-Terroristen und andere gefährliche Aktivisten aufspüren, die sich unter unschuldigen Bürgern verbergen, und dazu beitragen, unsere Familien zu schützen."
+  Stellvertretende Direktorin Bethany Blake, die mit der Leitung des Proactive Detection Bureau betraut wurde, erläuterte dessen Arbeitsweise:
+  „Hochentwickelte Algorithmen werden alle Daten durchsuchen, die systemweit über öffentliche und private Netzwerke übertragen werden. Jede verdächtige Kommunikation wird zur Prüfung durch geschulte Ermittler an einen regionalen Knotenpunkt weitergeleitet."
+  „Es ist wichtig zu verstehen, dass nur bestimmte Aktivitäten innerhalb eng gefasster Parameter markiert werden. Sie müssen Dutzende automatisierte Prüfpunkte passieren, bevor unsere Einsatzkräfte darauf zugreifen können."
+  Schattenpräsidentin Winters und Bürgerrechtsgruppen protestierten, dass dies gegen langjährige Datenschutzgesetze verstoße. Präsident Hudson hingegen stellte sich hinter das PDB als einen Grundpfeiler der neuen Gesetze zur Terrorismusbekämpfung.
 ---
 
 

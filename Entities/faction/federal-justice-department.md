@@ -14,6 +14,8 @@ related_entities:
 bio: 'Federal Justice Department is a organization in the Elite Dangerous universe,
   active from 3307-04-21 to 3307-04-21. Frequently linked with Federal Intelligence
   Agency, Proactive Detection Bureau. '
+bio_de: |-
+  Das Federal Justice Department ist eine Organisation im Elite-Dangerous-Universum, die am 21. April 3307 aktiv war. Es wird häufig mit der Federal Intelligence Agency und dem Proactive Detection Bureau in Verbindung gebracht.
 ---
 
 

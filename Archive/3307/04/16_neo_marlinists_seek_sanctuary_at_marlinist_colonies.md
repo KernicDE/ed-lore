@@ -1,6 +1,7 @@
 ---
 uuid: df6ae4ee-fca4-532d-af01-2d2e609c7b15
 title: Neo-Marlinists Seek Sanctuary at Marlinist Colonies
+title_de: Neo-Marlinisten suchen Zuflucht in den Marlinistenkolonien
 slug: neo_marlinists_seek_sanctuary_at_marlinist_colonies
 date: '3307-04-16'
 source: API
@@ -8,7 +9,13 @@ summary: Survivors of the defeated Neo-Marlinist Order of Mudhrid arrive in the 
   Colonies aboard the Steel Majesty, requesting asylum. All three superpowers demand
   their arrest, but Minister Aaron Whyte cites the Marlinist Charter's right to asylum.
   The Marlinist Parliament declares an emergency.
+summary_de: Überlebende des besiegten Neo-Marlinistischen Ordens von Mudhrid treffen
+  an Bord der Steel Majesty in den Marlinistenkolonien ein und beantragen Asyl. Alle
+  drei Supermächte fordern ihre Festnahme, doch Minister Aaron Whyte beruft sich auf
+  das im Marlinistenstatut verankerte Asylrecht. Das Marlinistenparlament ruft den
+  Notstand aus.
 player_impact: None directly; this is a political refugee crisis.
+player_impact_de: Keine
 persons:
 - Arastin Delacroix
 - Aaron Whyte
@@ -39,6 +46,9 @@ arc_id: marlinist-refugee
 modern_impact: The asylum crisis tests the Marlinist Colonies' sovereignty and sets
   the stage for the conditional amnesty deal that provides ACT with critical intelligence
   about NMLA leadership.
+modern_impact_de: Die Asylkrise stellt die Souveränität der Marlinistenkolonien auf
+  die Probe und ebnet den Weg für die bedingte Amnestievereinbarung, die ACT entscheidende
+  Informationen über die NMLA-Führung liefert.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -46,6 +56,14 @@ related_uuids:
 - 298e9fd1-c89d-5a54-9760-656167b99d88
 - 772dede3-38b5-52c6-8d0e-21a3bcf19d3e
 - ed32e72e-acaa-5dca-90ef-9c199420d92a
+body_de: |
+  Überlebende des Neo-Marlinistischen Ordens von Mudhrid sind in den Marlinistenkolonien eingetroffen und beantragen politisches Asyl, um sich der Verfolgung durch das Imperium zu entziehen.
+  Die Fraktion wurde kürzlich im Mudhrid-System von imperialen Streitkräften besiegt, nachdem eine ACT-Untersuchung bestätigt hatte, dass sie logistische Unterstützung für die NMLA-Angriffe auf Sternenhäfen geleistet hatte.
+  Landgraf Delacroix und seine Gefolgsleute flohen an Bord des Megaschiffs Steel Majesty in das System Hyades Sector RO-P b6-2, das von der Marlinism Reformation Party kontrolliert wird. Minister Aaron Whyte, ihr gewählter Vorsitzender, verkündete:
+  „Nicht jeder Angehörige des Neo-Marlinistischen Ordens von Mudhrid ist ein NMLA-Aktivist. Wir haben das Recht, Asyl zu gewähren, um Unschuldige vor Verfolgung zu schützen, so wie die Föderation uns schützte, als wir Flüchtlinge waren.“
+  Das Imperium hat offiziell die Festnahme der Neo-Marlinisten gefordert. Senator Patreus erklärte: „Der Landgraf von Mudhrid ist ein Verräter und Kriegsverbrecher.“
+  Sowohl die Allianz als auch die Föderation bestanden ebenfalls auf ihrer Festnahme. Schattenpräsidentin Winters erinnerte den Kongress jedoch daran, dass das Marlinistenstatut ihren Systemen dieselben rechtlichen Befugnisse zur Asylgewährung einräumt wie der Föderation.
+  Das Marlinistenparlament hat den Notstand ausgerufen. Erste Ministerin Fairfax rief zu einer Erörterung der Optionen auf, während die Ministerinnen Amrita Ross und Tamsin Taylor zur Zusammenarbeit mit dem Imperium drängten.
 ---
 
 

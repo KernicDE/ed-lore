@@ -14,6 +14,8 @@ related_entities:
 bio: 'Vandermeer is a organization in the Elite Dangerous universe, active from 3307-04-13
   to 3307-04-13. Frequently linked with Earth, Jupiter Division, Proactive Detection
   Bureau. '
+bio_de: |-
+  Vandermeer ist eine Organisation im Elite-Dangerous-Universum, die am 13. April 3307 aktiv war. Sie wird häufig mit Earth, Jupiter Division und dem Proactive Detection Bureau in Verbindung gebracht.
 ---
 
 

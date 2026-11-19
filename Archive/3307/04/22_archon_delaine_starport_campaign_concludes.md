@@ -1,6 +1,7 @@
 ---
 uuid: 44e6e7f1-98b2-57df-811b-cb9e3a1fc528
 title: Archon Delaine Starport Campaign Concludes
+title_de: Archon Delaines Sternenhafen-Kampagne abgeschlossen
 slug: archon_delaine_starport_campaign_concludes
 date: '3307-04-22'
 source: API
@@ -8,8 +9,14 @@ summary: The Kumo Crew's starport construction campaign concludes successfully. 
   new Orbis stations will open across the galaxy including locations near the California
   Nebula, Sothis, Coalsack Nebula, and Colonia. Archon Delaine threatens "creative
   reprisals" against those who interfered.
+summary_de: Die Kampagne der Kumo Crew zum Bau von Sternenhäfen endet erfolgreich.
+  Fünf neue Orbis-Stationen werden in der gesamten Galaxis eröffnet, darunter in der
+  Nähe des California-Nebels, von Sothis, des Coalsack-Nebels und Colonia. Archon
+  Delaine droht denjenigen, die sich eingemischt haben, mit „kreativen Vergeltungsmaßnahmen“.
 player_impact: Pilots who delivered construction materials and protected shipments
   collected rewards from Gabriel Enterprise in the Harma system.
+player_impact_de: Piloten, die Baumaterialien lieferten und Transporte schützten,
+  konnten ihre Belohnungen bei Gabriel Enterprise im Harma-System abholen.
 persons:
 - Archon Delaine
 groups:
@@ -42,11 +49,29 @@ arc_id: kumo-crew-rise
 modern_impact: The successful expansion establishes Kumo Crew presence in strategically
   significant regions, particularly the Coalsack Nebula where Thargoid activity would
   soon intensify, giving the pirates unique positioning.
+modern_impact_de: Durch die erfolgreiche Expansion etabliert die Kumo Crew ihre
+  Präsenz in strategisch bedeutenden Regionen. Besonders im Coalsack-Nebel, wo die
+  Thargoid-Aktivität bald zunehmen wird, verschafft dies den Piraten eine einzigartige
+  Ausgangsposition.
 legacy_weight: 3
 significance: medium
 related_uuids:
 - 808a1c32-013a-58f3-bf85-f48036f3d4f1
 - 677866b5-92cb-5c16-8297-0a3a97a4afa8
+body_de: |
+  **ALARM DER PILOTENFÖDERATION**
+  Eine Initiative des Syndikats Kumo Crew zum Bau neuer Sternenhäfen zur Ausweitung des Handels wurde erfolgreich abgeschlossen.
+  Piloten lieferten große Mengen Keramikverbundwerkstoffe, Halbleiter, Polymere und Wasseraufbereiter an Gabriel Enterprise im Harma-System. Zum Schutz der Lieferungen während des Transports wurden auch Kopfgeldgutscheine angeboten.
+  Der Kumo Council hat bekannt gegeben, dass die Belohnungen für Händler und Kopfgeldjäger nun über seine loyalen Mittelsmänner, die Razor Whips, bei Gabriel Enterprise abgeholt werden können.
+  Kavanagh Spaceframes Ltd wird nun seinen Auftrag erfüllen und neue Orbis-Sternenhäfen errichten. Diese werden am 29. April 3307 an den folgenden Standorten in Betrieb sein:
+  Pegasi Sector PN-T c3-14, nahe dem Harma-System
+  HIP 18390, nahe dem California-Nebel
+  HIP 10792, nahe dem Sothis-System
+  HIP 62154, im Coalsack-Nebel
+  Eol Prou PC-K c9-91, in der Colonia-Region
+  Der Pegasi Sentinel veröffentlichte eine Erklärung von Archon Delaine:
+  „Ich freue mich, dass unsere Handelsrouten nun in neue Gebiete führen können. Meine Leute werden sicher sehr dankbar sein.“
+  „Weniger erfreut bin ich über die große Zahl kriminellen Abschaums, der versucht hat, das Projekt zu stören. Das hat mich gezwungen, mir einige sehr kreative Vergeltungsmaßnahmen auszudenken, die ich in Kürze mit Freude zur Anwendung bringen werde.“
 ---
 
 

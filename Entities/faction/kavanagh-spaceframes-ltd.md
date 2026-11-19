@@ -14,6 +14,10 @@ related_entities:
 bio: 'An independent construction firm specialising in Orbis starports, Kavanagh
   Spaceframes Ltd has been contracted for major infrastructure projects by both legitimate
   corporations and criminal syndicates.'
+bio_de: |-
+  Kavanagh Spaceframes Ltd ist ein unabhängiges Bauunternehmen, das auf die Konstruktion und den Zusammenbau von Sternenhäfen der Orbis-Klasse spezialisiert ist. Ende 3306 arbeitete das Unternehmen mit der Brewer Corporation und Steel Castle Inc zusammen, um Raffinerie-Außenposten zu voll funktionsfähigen Sternenhäfen aufzurüsten. Ziel des Projekts war es, die Betankungsmöglichkeiten für den wachsenden Markt für Flottenträger zu verbessern.
+
+  Die Expertise des Unternehmens im Bau orbitaler Habitate erregte 3307 weitere Aufmerksamkeit, als das Syndikat Kumo Crew Kavanagh Spaceframes privat mit dem Bau von bis zu fünf neuen Orbis-Stationen in strategisch bedeutenden Regionen beauftragte, darunter der California Nebula, der Coalsack Nebula und Colonia. Dieser Auftrag zeigte die Bereitschaft des Unternehmens, über das gesamte politische Spektrum hinweg zu arbeiten – von seriösen Unternehmenspartnerschaften bis hin zu Projekten krimineller Syndikate.
 ---
 
 
