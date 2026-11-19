@@ -1,13 +1,18 @@
 ---
 uuid: 81935802-cfe1-5060-bd5a-d55783730845
 title: Demands for Empire to Solve Terrorist Problem
+title_de: Forderungen an das Imperium, das Terroristenproblem zu lösen
 slug: demands_for_empire_to_solve_terrorist_problem
 date: 3307-03-29
 source: API
 summary: The fear of Further starport bombings has placed internal and external pressure
   on the Empire to address the threat posed by the NMLA.
+summary_de: Die Angst vor weiteren Bombenanschlägen auf Sternenhäfen hat das Imperium
+  intern und extern unter Druck gesetzt, sich der Bedrohung durch die NMLA anzunehmen.
 player_impact: Pilots were involved in rescue, repair, and security operations following
   the attacks.
+player_impact_de: Piloten waren nach den Anschlägen an Rettungs-, Reparatur- und
+  Sicherheitseinsätzen beteiligt.
 persons:
 - Achenar
 - Dawes Hub
@@ -32,6 +37,8 @@ topics:
 arc_id: nmla-terrorism
 modern_impact: '"This event contributed to the evolving political and security landscape
   of the galaxy in 3307."'
+modern_impact_de: Dieses Ereignis trug zur Entwicklung der politischen und sicherheitspolitischen
+  Lage der Galaxis im Jahr 3307 bei.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -42,6 +49,13 @@ related_uuids:
 - b88f6ab1-b0ea-5935-9b8a-92aa25b5b3a3
 - ba0ab37a-3135-52b4-a668-22e5ef0700b6
 - bcb1b6cb-c7ee-50fc-b6b9-8f9b1d140838
+body_de: |
+  Die Angst vor weiteren Bombenanschlägen auf Sternenhäfen hat das Imperium intern und extern unter Druck gesetzt, sich der Bedrohung durch die NMLA anzunehmen.
+  Obwohl über die ACT Geheimdienstinformationen ausgetauscht werden, fordern Allianz und Föderation, dass das Imperium mehr zur Ausrottung der NMLA unternehmen muss, da diese ‚im Ursprung und in ihren Zielen imperial‘ sei.
+  Die etablierten Medienkanäle berichteten über die jüngsten Entwicklungen.
+  The Imperial Herald: „Im Senat berichtete Kanzler Anders Blaine, dass die Kaiserin ihn angewiesen hat, eine Reihe von Optionen vorzulegen. Senator Lorcan Scordato hat sich bereit erklärt, die Marlinisten-Kolonien im Rahmen einer Informationsreise zu besuchen, um den politischen Charakter des neo-marlinistischen Randes besser zu verstehen.“
+  Eye on Achenar: „Das gesamte System ist nach dem Gemetzel am Dawes Hub noch immer fassungslos, einem heimtückischen Stoß ins Herz unseres glorreichen Imperiums. In unserer Umfrage würden 93 % der vernünftig denkenden Bürger eine Flotte von Majestics zu den mörderischen Marlinisten schicken, anstatt einen weichherzigen Senator.“
+  Vox Galactica: „In den meisten imperialen Städten und Siedlungen bleibt die Verunsicherung hoch. Die Fähigkeit der NMLA, scheinbar überall zuzuschlagen, hat das Vertrauen der Öffentlichkeit in die Stärke des Imperiums erschüttert. Die Meinungen zum Marlinismus selbst sind stärker polarisiert als je zuvor, und Vorwürfe wie ‚Kriegstreiber‘ und ‚Kollaborateur‘ entzweien viele Familien und Beziehungen.“
 ---
 
 

@@ -1,12 +1,16 @@
 ---
 uuid: be3889fc-d42f-5494-b1d1-fdd9dcb4223f
 title: Starport Bombing Casualties Include Federal Vice President
+title_de: Vizepräsident der Föderation unter den Opfern des Sternenhafen-Bombenanschlags
 slug: starport_bombing_casualties_include_federal_vice_president
 date: 3307-03-12
 source: API
 summary: Vice President Brad Mitchell and a number of Federal Cabinet members have
   been killed in The recent terrorist attack on a starport orbiting Earth.
+summary_de: Vizepräsident Brad Mitchell und mehrere Mitglieder des föderalen Kabinetts
+  wurden bei dem jüngsten Terroranschlag auf einen die Erde umkreisenden Sternenhafen getötet.
 player_impact: Pilots followed these developments through GalNet reports.
+player_impact_de: Piloten verfolgten diese Entwicklungen in GalNet-Berichten.
 persons:
 - Alioth
 - Brad Mitchell
@@ -41,6 +45,10 @@ arc_id: nmla-terrorism
 modern_impact: '"This atrocity is nothing less than a declaration of war." The Nine
   Martyrs attack remains one of the most devastating terrorist incidents in recent
   history, reshaping inter-superpower security cooperation and civil liberties debates.'
+modern_impact_de: '„Diese Gräueltat ist nichts Geringeres als eine Kriegserklärung.“
+  Der Anschlag der Neun Märtyrer zählt bis heute zu den verheerendsten Terrorakten
+  der jüngeren Geschichte und hat die sicherheitspolitische Zusammenarbeit der Supermächte
+  sowie die Debatte über Bürgerfreiheiten nachhaltig verändert.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -51,6 +59,14 @@ related_uuids:
 - 7c2eed3e-f48e-5002-91e8-6a9eab55ca63
 - b88f6ab1-b0ea-5935-9b8a-92aa25b5b3a3
 - ba0ab37a-3135-52b4-a668-22e5ef0700b6
+body_de: |
+  Vizepräsident Brad Mitchell und mehrere Mitglieder des föderalen Kabinetts wurden bei dem jüngsten Terroranschlag auf einen die Erde umkreisenden Sternenhafen getötet.
+  Die NMLA brachte ätzende Enzymsprengsätze an der Station Li Qing Jao an, wo gerade eine Regierungssitzung stattfand. Der Vizepräsident und die Kabinettsmitglieder wurden als Opfer unter den Zehntausenden Toten bestätigt. Zeitgleich wurden acht weitere Sternenhäfen in allen drei Supermächten bombardiert.
+  Präsident Zachary Hudson, der sich während des Anschlags auf dem Galaktischen Gipfel befand, gab folgende Erklärung ab:
+  „Diese Gräueltat ist nichts Geringeres als eine Kriegserklärung, und wir werden entsprechend reagieren. Zunächst trauern wir um meinen engen Freund Brad Mitchell und die anderen Helden der Föderation. Ich werde in Kürze persönlich Nachfolger für ihre Ämter ernennen.“
+  Die Föderation beschuldigte das Imperium unmittelbar, die Verantwortung zu tragen, weil es neomarlinistischen Bombenbauern die Flucht aus einer geheimen Gefängnisanlage ermöglicht habe. Der Imperiale Senat bekräftigte, dass „Serene Harbour“ nicht existiere und Teil einer Desinformationskampagne der Föderation sei.
+  Auch Anhänger des Marlinismus sahen sich heftiger öffentlicher Kritik ausgesetzt. Die Marlinistischen Kolonien betonten wiederholt, dass sie die NMLA nicht unterstützen und in keiner Verbindung zu den Anschlägen stehen.
+  Unabhängige Piloten wurden gebeten, die Rettungs- und Reparaturarbeiten in den Systemen Achenar, Alioth, Eotienses, Gateway, Kamadhenu, Lave, Nanomam, Rhea und Sol zu unterstützen.
 ---
 
 

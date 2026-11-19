@@ -1,13 +1,18 @@
 ---
 uuid: 5140542a-1be3-56a9-a558-8224ef317bf7
 title: Galactic Summit Imperilled by Political Frictions
+title_de: Galaktischer Gipfel durch politische Spannungen gefährdet
 slug: galactic_summit_imperilled_by_political_frictions
 date: 3307-03-01
 source: API
 summary: Delegates at The diplomatic conference have clashed over long-standing political
   issues, With some threatening to abandon the event.
+summary_de: Die Delegierten der diplomatischen Konferenz sind wegen langjähriger politischer
+  Probleme aneinandergeraten; einige drohten damit, die Veranstaltung zu verlassen.
 player_impact: Pilots supported the diplomatic conference through security and trade
   initiatives.
+player_impact_de: Piloten unterstützten die diplomatische Konferenz durch Sicherheits-
+  und Handelsinitiativen.
 persons:
 - Achenar
 - Felicia Winters
@@ -37,6 +42,9 @@ arc_id: galactic-summit
 modern_impact: '"It is not Utopia''s tradition to become involved with politics."
   The Galactic Summit represented a rare moment of superpower diplomacy, though its
   cancellation underscored the fragility of interstellar cooperation.'
+modern_impact_de: „Es entspricht nicht der Tradition Utopias, sich auf Politik einzulassen.“
+  Der Galaktische Gipfel stellte einen seltenen Moment der Diplomatie zwischen den
+  Supermächten dar, doch seine Absage unterstrich die Fragilität interstellarer Zusammenarbeit.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -46,6 +54,16 @@ related_uuids:
 - cbba1081-6b9a-57ca-b2b8-0e41007ed228
 - b88f6ab1-b0ea-5935-9b8a-92aa25b5b3a3
 - 9243011a-ed83-592c-9dcd-6cefc68679cf
+body_de: |
+  Die Delegierten der diplomatischen Konferenz sind wegen langjähriger politischer Probleme aneinandergeraten; einige drohten damit, die Veranstaltung zu verlassen.
+  Journalisten auf Patterson Enterprise im Sirius-System berichteten über führende Nachrichtenkanäle von ihren Beobachtungen.
+  Der Imperial Herald: „Minister Whytes Behauptung, das Imperium habe durch die Unterdrückung des Marlinismus Terrorismus geschürt, war einigermaßen vorhersehbar. Doch niemand erwartete Prinzessin Duvals eisige Erwiderung, die im ganzen Saal schockiertes Aufkeuchen auslöste.“
+  Sol Today: „Präsident Hudson fertigte Patreus’ Gejammer über die angebliche ‚Kriegstreiberei‘ der Föderation mühelos ab und wies den großmäuligen Imperialen in seine Schranken.“
+  Eye on Achenar: „Der dümmliche Schläger von einem Präsidenten war Senator Patreus nicht gewachsen, der für seine Verurteilung der typischen ‚Fedneck‘-Arroganz Beifall erhielt.“
+  Die Alliance Tribune: „Die Gastgeber der Konferenz waren sichtlich peinlich berührt von den Behauptungen des Ratsmitglieds Kaine, Terraforming-Projekte im Coalsack-Nebel hätten die jüngsten Angriffe der Thargoids ausgelöst. Erschreckenderweise taten mehrere Delegierte dies als interne Angelegenheit der Allianz ab.“
+  Die Federal Times: „Kanzler Blaines Verweigerungshaltung bei der Kofinanzierung humanitärer Hilfe löste bei Felicia Winters einen seltenen Wutausbruch aus: ‚Vielleicht könnte die Marionette des Imperators ein paar Fäden lockern?‘“
+  The Sovereign: „Obwohl Premierminister Mahon die Vorteile einer Mitgliedschaft in der Allianz übertrieben darstellte, beklagten sich mehrere unabhängige Botschafter über deren unverständliche Bürokratie. Sie erklärten, es sei weniger schädlich, der Allianz den Krieg zu erklären, als ihr beizutreten.“
+  Ein Vertreter der Sirius Corporation berichtete, der Galaktische Gipfel verlaufe „gut“.
 ---
 
 

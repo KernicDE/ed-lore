@@ -1,14 +1,21 @@
 ---
 uuid: 218ec85d-706e-5e3d-bb5b-9a63e443707c
 title: 'Galactic Mysteries: Generation Ships'
+title_de: "Galaktische Mysterien: Generationsschiffe"
 slug: galactic_mysteries_generation_ships
 date: '3307-04-02'
 source: API
 summary: Investigators Erik Gunnarson and Francesca Wolfe explore the mysteries of
   abandoned generation ships, recounting chilling tales of the Thetis, Lazarus, Pleione,
   Artemis, Demeter, and the Golconda — relics of pre-hyperdrive colonisation efforts.
+summary_de: Die Ermittler Erik Gunnarson und Francesca Wolfe erkunden die Mysterien
+  verlassener Generationsschiffe und berichten von den unheimlichen Geschichten der
+  Thetis, Lazarus, Pleione, Artemis, Demeter und Golconda – Relikten von
+  Kolonisierungsbestrebungen aus der Zeit vor dem Hyperantrieb.
 player_impact: Explorers can visit the derelict generation ships mentioned, including
   the Thetis at Nefertem 6 a.
+player_impact_de: Forschungsreisende können die erwähnten verlassenen Generationsschiffe
+  besuchen, darunter die Thetis bei Nefertem 6 a.
 persons:
 - Erik Gunnarson
 - Francesca Wolfe
@@ -29,6 +36,9 @@ arc_id: formidine-rift
 modern_impact: Generation ships remain fascinating archaeological sites for explorers,
   with the Golconda's resettlement on Upaniklis serving as the sole successful case
   of descendants completing their ancestors' mission.
+modern_impact_de: Generationsschiffe bleiben faszinierende archäologische Stätten
+  für Forschungsreisende. Die Umsiedlung der Golconda nach Upaniklis ist der einzige
+  erfolgreiche Fall, in dem Nachkommen die Mission ihrer Vorfahren vollendeten.
 legacy_weight: 3
 significance: medium
 related_uuids:
@@ -36,6 +46,16 @@ related_uuids:
 - 29d5b1ad-189d-542d-b21b-ab8e21422a28
 - 0c4e2c35-5b73-53f5-9536-c931cc82ea12
 - c6ad335b-e800-558b-8000-dc2fcc040210
+body_de: |
+  Erik Gunnarson und Francesca Wolfe untersuchen die verlassenen Relikte raumfahrender Gemeinschaften aus den frühen Jahren der Kolonisierung.
+  Wolfe: „Generationsschiffe sind im Grunde mobile Städte, die für wachsende Bevölkerungen konzipiert wurden, und immer ein beeindruckender Anblick. Aber es gibt eines, zu dem ich immer wieder zurückkehre – die Thetis, die Nefertem 6 a umkreist.“
+  „Wenn ich ihre Logbücher höre, läuft es mir jedes Mal kalt den Rücken hinunter. Sie beschreiben, wie eine geflüsterte Phrase von einem unbewohnten Planeten irgendwie dazu führte, dass über 17.000 Menschen einander abschlachteten. Niemand weiß, ob es Massenhysterie war, psychische Belastung durch Jahrzehnte im Weltraum oder … etwas anderes.“
+  „Ich war schon so oft auf der Thetis, und trotzdem kann ich mich nicht dazu überwinden, ihren letzten Logbucheintrag abzuspielen. Man hat mich gewarnt, dass ich danach nicht mehr dieselbe sein werde.“
+  Gunnarson: „Vor den Hyperantrieben waren Generationsschiffe eine praktikable Möglichkeit, entfernte Sternensysteme zu kolonisieren. Millionen von Menschen verbrachten ihr gesamtes Leben in autarken Gesellschaften, damit ihre Nachkommen eines Tages neue Welten betreten könnten.“
+  „Die Tragödie besteht darin, dass viele dieser Megaschiffe der Pioniere vollständig verschwanden und ihre Ziele nie erreichten. Doch einige wurden wiederentdeckt, meist weil Abhörstationen ihre uralten Übertragungen auffingen.“
+  „Es gibt verschiedene Gründe, warum diese Expeditionen scheiterten. Die Lazarus, die heute Virudnir 6 umkreist, erlitt mechanische Defekte, während die Bevölkerung der Pleione im Hez-Ur-System nur noch männliche Babys hervorbrachte.“
+  „Am beunruhigendsten sind jene Fälle, in denen die Besatzung in Barbarei verfiel, wie bei der Artemis bei Mu Cassiopeia C 1 und der Demeter im Mizuchi-System. Zusammen mit Wolfes Favoritin – wenn das das richtige Wort ist – stehen sie als Schreckensdenkmäler unserer dunkleren Seite.“
+  „Verlorene Generationsschiffe bergen selten Überlebende, doch bei der Golconda war dies der Fall. Ihre Bewohner leben heute in einem Außenposten auf Upaniklis B 3. Vielleicht treiben also noch weitere lebende Relikte durch die Leere und warten darauf, ihre jahrhundertelangen Missionen zu vollenden.“
 ---
 
 

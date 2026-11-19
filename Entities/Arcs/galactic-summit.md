@@ -17,6 +17,7 @@ key_entities:
 description: An unprecedented attempt to hold face-to-face diplomatic talks between
   all three superpowers, hosted by Sirius Corporation, which ended in catastrophe when
   the NMLA launched coordinated terrorist attacks across nine starports.
+description_de: Ein beispielloser Versuch, unter der Schirmherrschaft der Sirius Corporation direkte diplomatische Gespräche zwischen allen drei Supermächten abzuhalten. Er endete in einer Katastrophe, als die NMLA koordinierte Terroranschläge auf neun Sternenhäfen verübte.
 phases:
 - 'Phase 1: The Proposal (3307-01-01)'
 - 'Phase 2: Historic Meetings (3307-02-26)'
@@ -24,10 +25,12 @@ phases:
 summary: The first ever face-to-face summit between Alliance, Empire, and Federation
   leaders, cancelled by NMLA terrorist attacks that killed thousands and became known
   as the Nine Martyrs incident.
+summary_de: Das erste Gipfeltreffen überhaupt, bei dem führende Vertreter von Allianz, Imperium und Föderation persönlich zusammenkamen. Es wurde wegen Terroranschlägen der NMLA abgebrochen, bei denen Tausende starben und die als Vorfall der „Neun Märtyrer“ bekannt wurden.
 status: Resolved
 outcome: The summit was cancelled. The NMLA claimed responsibility for simultaneous
   bombings in nine systems including superpower capitals. Inter-superpower cooperation
   was set back years.
+outcome_de: Der Gipfel wurde abgesagt. Die NMLA bekannte sich zu gleichzeitigen Bombenanschlägen in neun Systemen, darunter die Hauptsysteme der Supermächte. Die Zusammenarbeit zwischen den Supermächten wurde um Jahre zurückgeworfen.
 significance: high
 ---
 

@@ -1,12 +1,17 @@
 ---
 uuid: 71e779fc-64d9-5d3e-aef2-9ef8b925a929
 title: Federal Congress Grants Emergency Surveillance Powers
+title_de: Kongress der Föderation gewährt Notstandsbefugnisse zur Überwachung
 slug: federal_congress_grants_emergency_surveillance_powers
 date: 3307-03-30
 source: API
 summary: Vice President Jerome Archer has successfully proposed a new public surveillance
   law designed to prevent future terrorist attacks in The Federation.
+summary_de: Vizepräsident Jerome Archer hat erfolgreich ein neues Gesetz zur öffentlichen
+  Überwachung vorgeschlagen, das künftige Terroranschläge in der Föderation verhindern
+  soll.
 player_impact: Pilots followed these developments through GalNet reports.
+player_impact_de: Piloten verfolgten diese Entwicklungen in den GalNet-Berichten.
 persons:
 - Archer
 - Every
@@ -22,6 +27,10 @@ modern_impact: '"This will allow the government to actively seek out any terrori
   agents and sympathisers lurking within our communities." The Domestic Counter-Terrorism
   Act established precedents for mass surveillance that continue to generate debate
   about security versus civil liberties.'
+modern_impact_de: „Dadurch kann die Regierung aktiv nach terroristischen Agenten
+  und Sympathisanten suchen, die sich in unseren Gemeinden verstecken.“ Das Gesetz
+  zur inländischen Terrorismusbekämpfung schuf Präzedenzfälle für Massenüberwachung,
+  die weiterhin Debatten über Sicherheit und Bürgerrechte auslösen.
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -31,6 +40,14 @@ related_uuids:
 - cade76e4-0a9d-5ef5-bce5-c552c1703f49
 - c0aab9ee-c770-5579-864d-bfe676a694a2
 - bcb1b6cb-c7ee-50fc-b6b9-8f9b1d140838
+body_de: |
+  Vizepräsident Jerome Archer hat erfolgreich ein neues Gesetz zur öffentlichen Überwachung vorgeschlagen, das künftige Terroranschläge in der Föderation verhindern soll.
+  Das Gesetz zur inländischen Terrorismusbekämpfung wurde im Kongress debattiert, bevor es mit Mehrheit angenommen wurde. Es gilt als Notstandsgesetz und ersetzt alle bisherigen Gesetze zur Überwachung ziviler Aktivitäten und zum Abfangen privater Kommunikation.
+  Vizepräsident Archer, der große Teile des neuen Gesetzes persönlich ausarbeitete, verkündete:
+  „Dadurch kann die Regierung aktiv nach terroristischen Agenten und Sympathisanten suchen, die sich in unseren Gemeinden verstecken. Wir werden niemals wieder zulassen, dass uns so viele Familien und Freunde genommen werden.“
+  Schattenpräsidentin Felicia Winters erwiderte:
+  „Niemand möchte eine Wiederholung der ‚Neun Märtyrer‘, und es ist unerlässlich, die Sicherheit in der gesamten Föderation zu erhöhen. Doch dies ist ein empörender Verstoß gegen die Bürgerrechte. Wenn sich diese Regierung Zugang zum Privatleben jedes Bürgers verschafft, ähnelt sie einem diktatorischen Regime.“
+  Vizepräsident Archer bestätigte später, dass er bereits mit den Leitern der Sicherheitsdienste an der praktischen Umsetzung des neuen Gesetzes arbeitet. Als ehemaliger Direktor der Federal Intelligence Agency dürfte er dabei rasche Fortschritte erzielen.
 ---
 
 

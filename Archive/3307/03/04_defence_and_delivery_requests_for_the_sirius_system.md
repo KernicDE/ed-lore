@@ -1,12 +1,17 @@
 ---
 uuid: fc197df5-b778-5964-a004-448689eba981
 title: Defence and Delivery Requests for the Sirius System
+title_de: Verteidigungs- und Lieferaufrufe für das Sirius-System
 slug: defence_and_delivery_requests_for_the_sirius_system
 date: 3307-03-04
 source: API
 summary: '*Pilots Federation ALERT* The Empire is aiding Sirius Corporation by offering
   bounty hunting and trade opportunities to support the Galactic Summit.'
+summary_de: '*Pilotenföderation – WARNMELDUNG* Das Imperium unterstützt die Sirius
+  Corporation mit Kopfgeldjagd- und Handelsmöglichkeiten zur Unterstützung des Galaktischen
+  Gipfels.'
 player_impact: Pilots followed these developments through GalNet reports.
+player_impact_de: Piloten verfolgten diese Entwicklungen über GalNet-Berichte.
 persons:
 - Li Yong-Rui
 - Our
@@ -29,6 +34,8 @@ topics:
 arc_id: galactic-summit
 modern_impact: '"This event contributed to the evolving political and security landscape
   of the galaxy in 3307."'
+modern_impact_de: „Dieses Ereignis trug zur Entwicklung der politischen und sicherheitspolitischen
+  Lage der Galaxis im Jahr 3307 bei.“
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -39,6 +46,15 @@ related_uuids:
 - 0ed40d37-c7a2-5252-9105-e141bc1020d5
 - aa81f947-721e-52c8-a91e-906bf41c62b8
 - 501aec5e-14ad-58fa-8eb0-4374fd61d4ca
+body_de: |
+  **Pilotenföderation – WARNMELDUNG**
+  Das Imperium unterstützt die Sirius Corporation mit Kopfgeldjagd- und Handelsmöglichkeiten zur Unterstützung des Galaktischen Gipfels.
+  Die diplomatische Konferenz geht nun in ihre zweite Woche. Anführer der Supermächte und unabhängiger Mächte haben sich auf Patterson Enterprise im Sirius-System versammelt.
+  Li Yong-Rui, CEO der Sirius Corporation, verkündete:
+  „Wir danken der Föderation für die Organisation zusätzlicher Sicherheitsmaßnahmen gegen die unerwartet große Zahl von Schiffen in der vergangenen Woche. Anarchistische Extremisten, politische Gegner und opportunistische Kriminelle versuchten allesamt erfolglos, die Konferenz zu stören. Piloten, die zur Wahrung des Friedens beigetragen haben, können ihre Belohnungen an Bord der Spirit of Laelaps abholen.“
+  „In der kommenden Woche arbeiten wir mit dem Imperium zusammen, um den Sicherheitseinsatz fortzusetzen, indem wir Kopfgelder auf alle zur Fahndung ausgeschriebenen Schiffe anbieten. Das Imperium wird außerdem großzügig für zusätzliche Lieferungen von Tierfleisch, Kaffee, Fisch, Obst und Gemüse sowie Wein bezahlen, die zur Spirit of Laelaps gebracht werden.“
+  Piloten werden daran erinnert, dass weder dauerhafte noch vorübergehende Genehmigungen für den Zugang zum Sirius-System für Flottenträger gelten. Diese gemeinsame Initiative läuft eine Woche lang. Anschließend wird die Sirius Corporation für die letzte Woche des Galaktischen Gipfels mit der Allianz zusammenarbeiten.
+  In diesem Zusammenhang gewähren Core Dynamics, Gutamaya und Lakon Spaceways zur Feier des historischen Anlasses weiterhin zehn Prozent Rabatt auf alle ihre Schiffe.
 ---
 
 

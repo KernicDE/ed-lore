@@ -1,12 +1,16 @@
 ---
 uuid: ba0ab37a-3135-52b4-a668-22e5ef0700b6
 title: Medical Supplies Needed for Starport Bombing Survivors
+title_de: Medikamente für Überlebende der Sternenhafen-Bombenanschläge benötigt
 slug: medical_supplies_needed_for_starport_bombing_survivors
 date: 3307-03-18
 source: API
 summary: '*Pilots Federation ALERT* Safeguard Interstellar requires deliveries of
   medicines to treat casualties from The NMLA’s recent terrorist attack.'
+summary_de: '*Pilotenföderation ALARM* Safeguard Interstellar benötigt Lieferungen
+  von Medikamenten zur Behandlung der Verletzten des jüngsten Terroranschlags der NMLA.'
 player_impact: Pilots followed these developments through GalNet reports.
+player_impact_de: Piloten verfolgten diese Entwicklungen in GalNet-Berichten.
 persons:
 - Alioth
 - Duamta
@@ -45,6 +49,10 @@ arc_id: nmla-terrorism
 modern_impact: '"This atrocity is nothing less than a declaration of war." The Nine
   Martyrs attack remains one of the most devastating terrorist incidents in recent
   history, reshaping inter-superpower security cooperation and civil liberties debates.'
+modern_impact_de: '„Diese Gräueltat ist nichts Geringeres als eine Kriegserklärung.“
+  Der Anschlag der Neun Märtyrer zählt bis heute zu den verheerendsten Terrorakten
+  der jüngeren Geschichte und hat die sicherheitspolitische Zusammenarbeit der Supermächte
+  sowie die Debatte über Bürgerfreiheiten nachhaltig verändert.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -55,6 +63,14 @@ related_uuids:
 - 9e1f1fba-df6f-5280-8095-86f30ca2d79c
 - b88f6ab1-b0ea-5935-9b8a-92aa25b5b3a3
 - be3889fc-d42f-5494-b1d1-fdd9dcb4223f
+body_de: |
+  **Pilotenföderation ALARM**
+  Safeguard Interstellar benötigt Lieferungen von Medikamenten zur Behandlung der Verletzten des jüngsten Terroranschlags der NMLA.
+  Die humanitäre Hilfsorganisation unterstützt die Koordination der Hilfsmaßnahmen für die Sternenhäfen der Allianz, des Imperiums und der Föderation, die in der vergangenen Woche bombardiert wurden. Geschäftsführer Noel Beaumont erklärte:
+  „Hunderttausende Zivilisten benötigen nach ihrer Evakuierung aus den beschädigten Stationen noch immer dringend medizinische Versorgung. Viele leiden unter schweren Ätzverbrennungen, die durch die korrosive Enzymladung der Sprengsätze verursacht wurden. In den umliegenden Systemen haben wir bereits den Großteil unserer Vorräte aufgebraucht.“
+  „Um die überlasteten Gesundheitsdienste zu unterstützen, bitten wir um Lieferungen von Basismedikamenten und fortschrittlichen Medikamenten. Diese können an drei Sternenhäfen geliefert werden, die als Sammelstellen dienen: Krylov Ring im He-Bo-System, Mackenzie Relay im Cemiess-System und Davis Terminal im Duamta-System.“
+  Safeguard Interstellar arbeitet mit drei örtlichen Fraktionen zusammen – Perez Ring Brewery, Lavigny's Legion und Duamta Gold Creative Corp –, um Piloten zu belohnen und die Medikamente in jeder Supermacht zu verteilen.
+  Piloten können zusätzlich helfen, indem sie Reparaturmaterialien direkt zu den beschädigten Sternenhäfen in den Systemen Achenar, Alioth, Eotienses, Gateway, Kamadhenu, Lave, Nanomam und Rhea bringen. Die Station Li Qing Jao im Sol-System bleibt ein aktives Katastrophengebiet, aus dem noch immer Zivilisten evakuiert werden müssen.
 ---
 
 

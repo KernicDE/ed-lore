@@ -1,12 +1,16 @@
 ---
 uuid: 53d46995-be97-58ec-bca6-43387e9ea9c9
 title: Superpowers Respond to ‘Nine Martyrs’ Attack
+title_de: "Supermächte reagieren auf den Anschlag der ‚Neun Märtyrer‘"
 slug: superpowers_respond_to_nine_martyrs_attack
 date: 3307-03-15
 source: API
 summary: Political fallout has been intense after The NMLA simultaneously bombed nine
   starports in the Alliance, Empire and Federation.
+summary_de: Die politischen Auswirkungen waren erheblich, nachdem die NMLA zeitgleich
+  neun Sternenhäfen in Allianz, Imperium und Föderation bombardiert hatte.
 player_impact: Pilots followed these developments through GalNet reports.
+player_impact_de: Piloten verfolgten diese Entwicklungen in GalNet-Berichten.
 persons:
 - Alioth
 - Brad Mitchell
@@ -43,6 +47,10 @@ arc_id: nmla-terrorism
 modern_impact: '"This atrocity is nothing less than a declaration of war." The Nine
   Martyrs attack remains one of the most devastating terrorist incidents in recent
   history, reshaping inter-superpower security cooperation and civil liberties debates.'
+modern_impact_de: '„Diese Gräueltat ist nichts Geringeres als eine Kriegserklärung.“
+  Der Anschlag der Neun Märtyrer zählt bis heute zu den verheerendsten Terrorakten
+  der jüngeren Geschichte und hat die sicherheitspolitische Zusammenarbeit der Supermächte
+  sowie die Debatte über Bürgerfreiheiten nachhaltig verändert.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -52,6 +60,14 @@ related_uuids:
 - 07928c21-6ee3-5dbb-b1b5-aa7b041eba5e
 - 0ed40d37-c7a2-5252-9105-e141bc1020d5
 - 7c2eed3e-f48e-5002-91e8-6a9eab55ca63
+body_de: |
+  Die politischen Auswirkungen waren erheblich, nachdem die NMLA zeitgleich neun Sternenhäfen in Allianz, Imperium und Föderation bombardiert hatte.
+  Die angegriffenen Stationen befinden sich in den Systemen Achenar, Alioth, Eotienses, Gateway, Kamadhenu, Lave, Nanomam, Rhea und Sol. In der Propaganda der NMLA wurden sie als die „Neun Märtyrer“ bezeichnet, eine Anspielung auf den Anschlag auf Kepler Orbital im vergangenen November.
+  Alle drei Supermächte behandeln den Vorfall als schweren Notfall. Ihre Sicherheitschefs führten Gespräche auf höchster Ebene und nutzten dabei Kommunikationsprotokolle, die erst kürzlich auf dem Galaktischen Gipfel vereinbart worden waren.
+  Die großen Medien berichteten jedoch auch über interne politische Spannungen.
+  Der Imperial Herald: „Senator Patreus schlug vor, alle bekannten Marlinisten unverzüglich als Kollaborateure der NMLA festzunehmen. Kanzler Blaine wies ihn unmissverständlich zurecht: ‚Ihre Majestät betrachtet Ihre groben Methoden als kontraproduktiv und verlangt kreativere Lösungen.‘“
+  Die Federal Times: „Präsident Hudson eröffnete den Kongress mit einer Schweigeminute für Vizepräsident Brad Mitchell und die anderen verstorbenen Kabinettsmitglieder. Anschließend gab er Schattenpräsidentin Winters unmittelbar die Schuld an ihrem Tod: ‚Mit eurem selbstgerechten Hilfsprogramm für angebliche Flüchtlinge habt ihr die Terroristen geradezu eingeladen!‘“
+  Die Alliance Tribune: „Die Versammlung begrüßte Premierminister Mahons Aufruf zur Einigkeit gegen die NMLA mehrheitlich und würdigte seinen Einsatz für den Sirius-Vertrag, obwohl dieser noch immer nicht unterzeichnet ist. Doch auch Ratsherrin Kaines Standpunkt fand Zustimmung: ‚Unser Eintrittspreis für den Galaktischen Gipfel waren Hunderttausende Menschenleben.‘“
 ---
 
 

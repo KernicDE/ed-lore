@@ -1,12 +1,16 @@
 ---
 uuid: 7c2eed3e-f48e-5002-91e8-6a9eab55ca63
 title: New Federal Vice President Selected
+title_de: Neuer Vizepräsident der Föderation ernannt
 slug: new_federal_vice_president_selected
 date: 3307-03-24
 source: API
 summary: President Zachary Hudson has announced that The new vice president of the
   Federation is Jerome Archer, replacing the deceased Brad Mitchell.
+summary_de: Präsident Zachary Hudson hat bekannt gegeben, dass Jerome Archer neuer
+  Vizepräsident der Föderation wird und den verstorbenen Brad Mitchell ersetzt.
 player_impact: Pilots followed these developments through GalNet reports.
+player_impact_de: Piloten verfolgten diese Entwicklungen in den GalNet-Berichten.
 persons:
 - Brad Mitchell
 - Jerome Archer
@@ -26,6 +30,8 @@ topics:
 arc_id: nmla-terrorism
 modern_impact: '"This event contributed to the evolving political and security landscape
   of the galaxy in 3307."'
+modern_impact_de: '„Dieses Ereignis trug zur Entwicklung der politischen und sicherheitspolitischen
+  Landschaft der Galaxis im Jahr 3307 bei."'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -38,6 +44,13 @@ related_uuids:
 - be3889fc-d42f-5494-b1d1-fdd9dcb4223f
 - f359d9c3-aa3c-5d56-bf91-97754c4357a9
 - 501aec5e-14ad-58fa-8eb0-4374fd61d4ca
+body_de: |
+  Präsident Zachary Hudson hat bekannt gegeben, dass Jerome Archer neuer Vizepräsident der Föderation ist und den verstorbenen Brad Mitchell ersetzt.
+  Archer war zuvor als Sicherheitsminister tätig. Vor seiner Zeit als Kongressabgeordneter war er Direktor der Federal Intelligence Agency und hatte eine lange Karriere bei den Strafverfolgungsbehörden.
+  Sein Vorgänger, Vizepräsident Brad Mitchell, starb beim Bombenanschlag der NMLA auf die Station Li Qing Jao im Sol-System. Bei dem Anschlag kamen außerdem mehrere Mitglieder des Kabinetts der Föderation sowie zahlreiche Regierungsbeamte ums Leben, die an einer Sitzung im Sternenhafen teilnahmen.
+  Vor einer Versammlung des Kongresses sagte Vizepräsident Archer:
+  „Mein wichtigstes Ziel in diesem Amt wird sein, die Sicherheit in der gesamten Föderation zu erhöhen. Ich gelobe, Wachsamkeit fest im Gefüge unserer Gesellschaft zu verankern und dafür zu sorgen, dass sich solche Gräueltaten nie wieder ereignen."
+  Während der Kongresssitzung kündigte Präsident Hudson neue Ernennungen für weitere verstorbene Kabinettsmitglieder an. Außerdem erhielt er die Zustimmung, die Finanzierung der Antiterroroperationen aufzustocken, die von ACT und der Federal Navy durchgeführt werden.
 ---
 
 

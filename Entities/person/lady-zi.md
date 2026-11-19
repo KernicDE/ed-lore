@@ -3,8 +3,8 @@ id: lady-zi
 name: Lady Zi
 type: person
 first_seen_date: '3312-05-11'
-last_seen_date: '3312-11-16'
-mention_count: 6
+last_seen_date: '3312-11-19'
+mention_count: 7
 bio: Lady Zi is a rogue pirate admiral and the suspected leader of a criminal syndicate
   that conducted coordinated attacks on military installations and starport facilities
   in the core systems during 3312. Her true identity remains unknown. On 2 November
@@ -17,7 +17,9 @@ bio: Lady Zi is a rogue pirate admiral and the suspected leader of a criminal sy
   By 16 November 3312 her twin-axe malware campaign had spread to dozens of starport
   networks and at least three planetary government networks in systems such as Facece,
   Nanomam and Lave, with fugitive coder Yaz Murano believed to be under her personal
-  protection.
+  protection. On 19 November 3312 her forces withdrew suddenly from Sorbago and
+  Exphiay after corporate defenders, backed by Pilots Federation ships, gained the
+  upper hand; her megaships retreated to Swoilz DB-X b5-1 on her orders.
 bio_de: Lady Zi ist eine abtrünnige Piratenadmiralin und mutmaßliche Anführerin eines
   kriminellen Syndikats, das 3312 koordinierte Angriffe auf militärische Einrichtungen
   und Sternenstationen in den Kernsystemen durchführte. Ihre wahre Identität ist unbekannt;
@@ -32,7 +34,10 @@ bio_de: Lady Zi ist eine abtrünnige Piratenadmiralin und mutmaßliche Anführer
   Sorbago. Bis zum 16.11.3312 hatte sich ihre Zwillingsaxt-Malware-Kampagne auf Dutzende
   Sternenhafen-Netzwerke und mindestens drei planetare Regierungsnetzwerke ausgedehnt,
   unter anderem in Facece, Nanomam und Lave; der flüchtige Coder Yaz Murano steht
-  vermutlich unter ihrem persönlichen Schutz.
+  vermutlich unter ihrem persönlichen Schutz. Am 19.11.3312 zogen sich ihre Kräfte
+  überraschend aus Sorbago und Exphiay zurück, nachdem die von Schiffen der
+  Pilotenföderation unterstützte Konzernverteidigung die Oberhand gewonnen hatte;
+  ihre Megaschiffe zogen sich auf ihren Befehl nach Swoilz DB-X b5-1 zurück.
 related_entities:
 - vox-galactica
 - lhou-mans
@@ -44,8 +49,8 @@ related_entities:
 # Lady Zi
 
 First mentioned: **3312-05-11**  
-Last mentioned: **3312-11-16**  
-Total mentions: **6**
+Last mentioned: **3312-11-19**  
+Total mentions: **7**
 
 ## Related
 

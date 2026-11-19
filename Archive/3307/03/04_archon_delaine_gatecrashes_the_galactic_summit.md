@@ -1,13 +1,18 @@
 ---
 uuid: 29fb3d22-b316-514e-95ed-4f188b9ed8f7
 title: Archon Delaine Gatecrashes the Galactic Summit
+title_de: Archon Delaine platzt auf den Galaktischen Gipfel
 slug: archon_delaine_gatecrashes_the_galactic_summit
 date: 3307-03-04
 source: API
 summary: Pirate warlord Archon Delaine has unexpectedly appeared at The diplomatic
   conference and demanded to participate as a political delegate.
+summary_de: Der Piratenkriegsherr Archon Delaine ist überraschend auf der diplomatischen
+  Konferenz erschienen und hat verlangt, als politischer Delegierter teilzunehmen.
 player_impact: Pilots supported the diplomatic conference through security and trade
   initiatives.
+player_impact_de: Piloten unterstützten die diplomatische Konferenz durch Sicherheits-
+  und Handelsinitiativen.
 persons:
 - Enterprise
 - Our
@@ -35,6 +40,9 @@ arc_id: galactic-summit
 modern_impact: '"It is not Utopia''s tradition to become involved with politics."
   The Galactic Summit represented a rare moment of superpower diplomacy, though its
   cancellation underscored the fragility of interstellar cooperation.'
+modern_impact_de: „Es entspricht nicht der Tradition Utopias, sich auf Politik einzulassen.“
+  Der Galaktische Gipfel stellte einen seltenen Moment der Diplomatie zwischen den
+  Supermächten dar, doch seine Absage unterstrich die Fragilität interstellarer Zusammenarbeit.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -44,6 +52,16 @@ related_uuids:
 - 53d46995-be97-58ec-bca6-43387e9ea9c9
 - cbba1081-6b9a-57ca-b2b8-0e41007ed228
 - cade76e4-0a9d-5ef5-bce5-c552c1703f49
+body_de: |
+  Der Piratenkriegsherr Archon Delaine ist überraschend auf der diplomatischen Konferenz erschienen und hat verlangt, als politischer Delegierter teilzunehmen.
+  Delaine ist der Anführer der Kumo Crew, eines berüchtigten Verbrechersyndikats, das Dutzende Systeme kontrolliert. Ihre Ankunft auf der Station Patterson Enterprise veranlasste zunächst viele Sicherheitsteams der Delegationen, Evakuierungen einzuleiten.
+  Vertreter der Sirius Corporation riefen jedoch zur Ruhe auf und übermittelten diese Botschaft:
+  „Wir haben uns für Archon Delaines Anwesenheit verbürgt und seiner Gefolgschaft volle diplomatische Immunität gewährt. Wie alle Teilnehmer werden sie aufgefordert, sich an unsere Regeln und Umgangsformen zu halten.“
+  Diese Beruhigung hinderte mehrere Botschafter nicht daran, aus Protest den Saal zu verlassen. Einige warfen der Sirius Corporation vor, ein Abkommen mit Delaine geschlossen zu haben, um zu verhindern, dass noch mehr Piratenschiffe durch das Sirius-System strömen.
+  Auch die führenden Nachrichtenkanäle berichteten über die Auswirkungen von Delaines Ankunft.
+  Der Imperial Herald: „Senator Patreus beschwerte sich offiziell über ‚den abstoßenden Anblick von Piratengesindel, das neben respektablen Politikern einherflaniert‘. Kanzler Blaine stimmte jedoch zu, dass Delaine unter strenger Beobachtung zur Konferenz sprechen dürfe.“
+  Die Federal Times: „Weder Hudson noch Winters haben sich zu Delaines Erscheinen geäußert, doch der Sicherheitschef der föderalen Delegation bemerkte: ‚Ein falscher Schritt, und wir schießen ihrer Immunität ein paar große Löcher mitten hindurch.‘“
+  Die Alliance Tribune: „Dies ist eine unwillkommene Ablenkung von Premierminister Mahons Vorschlag, den Zuständigkeitsbereich von Aegis enorm auszuweiten. Der Sirius-Vertrag wird Supermächte, Unternehmen und unabhängige Systeme vollständig gegen die Thargoids vereinen – vorausgesetzt, Mahon kann die übrigen Anführer von einer Zustimmung überzeugen.“
 ---
 
 

@@ -14,6 +14,10 @@ related_entities:
 bio: An orbital station in the Empire's capital system of Achenar, Dawes Hub became
   the unlikely destination for coronation gifts when Arissa Lavigny-Duval ascended
   to the throne in 3301.
+bio_de: |-
+  Dawes Hub ist eine Orbitalstation im Achenar-System, dem politischen Zentrum des Imperiums und Standort des Imperial Palace auf Capitol. Im Oktober 3301 wurde die Station zum Sammelpunkt für eine außergewöhnliche Krönungstradition, als die designierte Kaiserin Arissa Lavigny-Duval die Bürger der Galaxis einlud, ihr anlässlich ihrer Thronbesteigung Sklaven als Geschenke zu überbringen – die erste Einladung dieser Art über die Grenzen des Imperiums hinaus.
+
+  Die zukünftige Kaiserin argumentierte, dass nichtimperiale Sklaven, die nach Dawes Hub gebracht wurden, den Status imperialer Sklaven erhalten und sich ihre Lebensbedingungen dadurch verbessern würden. Teilnehmern wurden Rabatte auf imperiale Schiffe und vorübergehender Zugang zu Schiffen angeboten, die sonst Rangvoraussetzungen der Imperial Navy unterlagen. Hinzu kam eine seltene Aufhebung der normalerweise strengen Zugangsbeschränkungen für Achenar. Das Ereignis festigte den Platz von Dawes Hub in der zeremoniellen Geschichte des Imperiums und löste zugleich bei Antisklaverei-Gruppen in der gesamten Galaxis Kontroversen aus.
 system: Achenar
 station_type: Orbital Station
 distance_to_arrival: 20651

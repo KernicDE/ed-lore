@@ -1,13 +1,18 @@
 ---
 uuid: 471b8e46-16ce-5791-b60b-9362e740c2a6
 title: Galactic Summit Begins with Defence Request
+title_de: Galaktischer Gipfel beginnt mit Aufruf zur Verteidigung
 slug: galactic_summit_begins_with_defence_request
 date: 3307-02-25
 source: API
 summary: '*Pilots Federation ALERT* The Federation is working With Sirius Corporation
   to offer bounty hunting opportunities to protect the diplomatic conference.'
+summary_de: '*ALARM DER PILOTENFÖDERATION* Die Föderation arbeitet mit der Sirius Corporation
+  zusammen, um zum Schutz der diplomatischen Konferenz Gelegenheiten zur Kopfgeldjagd anzubieten.'
 player_impact: Pilots supported the diplomatic conference through security and trade
   initiatives.
+player_impact_de: Piloten unterstützten die diplomatische Konferenz durch Sicherheits-
+  und Handelsinitiativen.
 persons:
 - Aisling Duval
 - Edmund Mahon
@@ -35,6 +40,9 @@ arc_id: galactic-summit
 modern_impact: '"It is not Utopia''s tradition to become involved with politics."
   The Galactic Summit represented a rare moment of superpower diplomacy, though its
   cancellation underscored the fragility of interstellar cooperation.'
+modern_impact_de: „Es entspricht nicht der Tradition Utopias, sich auf Politik einzulassen.“
+  Der Galaktische Gipfel stellte einen seltenen Moment der Diplomatie zwischen den
+  Supermächten dar, doch seine Absage unterstrich die Fragilität interstellarer Zusammenarbeit.
 legacy_weight: 1
 significance: low
 related_uuids:
@@ -45,6 +53,15 @@ related_uuids:
 - 29fb3d22-b316-514e-95ed-4f188b9ed8f7
 - cbba1081-6b9a-57ca-b2b8-0e41007ed228
 - 501aec5e-14ad-58fa-8eb0-4374fd61d4ca
+body_de: |
+  **ALARM DER PILOTENFÖDERATION**
+  Die Föderation arbeitet mit der Sirius Corporation zusammen, um zum Schutz der diplomatischen Konferenz Gelegenheiten zur Kopfgeldjagd anzubieten.
+  Der erste Galaktische Gipfel wurde offiziell auf der Station Patterson Enterprise im Sirius-System eröffnet. Für die drei Wochen seiner Laufzeit wurden für alle ankommenden Delegierten und Kommandanten vorübergehende Genehmigungen ausgestellt; diese gelten jedoch nicht für Flottenträger.
+  Der Geschäftsführer der Sirius Corporation, Li Yong-Rui, verkündete:
+  „Die uns im Januar übermittelten Daten offenbarten mehrere unvorhergesehene Bedrohungen, die unsere Flotte und Sicherheitskräfte zusätzlich belasten. Mit der großzügigen Unterstützung der Föderation haben wir Kopfgelder auf alle gesuchten Schiffe ausgesetzt, um die Sicherheit der Delegierten zu gewährleisten. Piloten, die das Sirius-System verteidigen, werden für das Einreichen von Kopfgeldgutscheinen bei der Spirit of Laelaps belohnt.“
+  Die gemeinsame Initiative läuft eine Woche, danach wird die Sirius Corporation mit dem Imperium zusammenarbeiten, um für die Bedürfnisse und die Sicherheit der Konferenz zu sorgen.
+  Im Zusammenhang damit gewähren Core Dynamics, Gutamaya und Lakon Spaceways zur Feier der politischen Zusammenkunft aller drei Supermächte in den nächsten drei Wochen 10 % Rabatt auf ihre Schiffe.
+  Die Delegationen treffen ein, und unter großer medialer Anteilnahme finden die offiziellen Begrüßungen statt. Zum ersten Mal sind so allgemein bekannte Persönlichkeiten wie Präsident Zachary Hudson, Premierminister Edmund Mahon und Prinzessin Aisling Duval Seite an Seite zu sehen.
 ---
 
 

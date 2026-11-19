@@ -1,12 +1,16 @@
 ---
 uuid: 9243011a-ed83-592c-9dcd-6cefc68679cf
 title: 'Galactic Mysteries: The Adamastor'
+title_de: 'Galaktische Mysterien: Die Adamastor'
 slug: galactic_mysteries_the_adamastor
 date: 3307-03-10
 source: API
 summary: Erik Gunnarson and Francesca Wolfe, two detectives from The Wallglass Investigations
   Agency, examine the background of the Adamastor megaship.
+summary_de: Erik Gunnarson und Francesca Wolfe, zwei Detektive der Wallglass Investigations
+  Agency, untersuchen die Hintergründe des Megaschiffs Adamastor.
 player_impact: Pilots followed these developments through GalNet reports.
+player_impact_de: Piloten verfolgten diese Entwicklungen über GalNet-Berichte.
 persons:
 - Carver
 - Chukchan
@@ -30,6 +34,10 @@ modern_impact: '"We don''t know what they were searching for, but what they foun
   was possibly the first recorded Thargoid encounter." The Adamastor mystery opened
   new questions about Azimuth Biochemicals'' early xenological research and its connection
   to modern Thargoid encounters.'
+modern_impact_de: „Wir wissen nicht, wonach sie suchten, aber ihre Entdeckung war
+  möglicherweise die erste dokumentierte Begegnung mit den Thargoid.“ Das Geheimnis
+  der Adamastor warf neue Fragen über die frühen xenologischen Forschungen von Azimuth
+  Biochemicals und deren Zusammenhang mit heutigen Thargoid-Begegnungen auf.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -39,6 +47,15 @@ related_uuids:
 - f289a62c-f4fe-5c65-8563-7f318ee935ba
 - c1469916-3aca-5e3b-8dc5-76baf74b7e68
 - bcb1b6cb-c7ee-50fc-b6b9-8f9b1d140838
+body_de: |
+  Erik Gunnarson und Francesca Wolfe, zwei Detektive der Wallglass Investigations Agency, untersuchen die Hintergründe des Megaschiffs Adamastor.
+  Gunnarson: „Als Wolfe und ich mit diesem Projekt begannen, war uns klar, dass dieser Fall an erster Stelle stehen würde. Wir sind beide Schützlinge von Benjamin Chester, dem Gründer des Wallglass-Archivs. Er ist seit Jahren im Ruhestand, aber der alte Ehrgeiz erwachte wieder, als ein ‚Geisterschiff‘ praktisch vor seiner Haustür auftauchte!“
+  „Die Adamastor ist ein 200 Jahre altes Wrack, das auf Autopilot in das Chukchan-System trieb. Dort liegt sie noch immer, während die Alliance Salvage Guild ihr Inneres durchsucht. Chester ermittelte gegen ihre Eigentümer, ein äußerst verschwiegenes Unternehmen namens Azimuth Biochemicals. Wir wissen nicht, wonach sie suchten, aber ihre Entdeckung war möglicherweise die erste dokumentierte Begegnung mit den Thargoid.“
+  „Inzwischen habe ich Hinweise darauf gefunden, dass die Adamastor ein Schwesterschiff hatte – die Hesperus –, die im Jahr 3113 nach … irgendwohin geschickt wurde! Keines der beiden Schiffe kehrte zurück, aber wir wissen nur, was während der Mission der Adamastor geschah. Natürlich musste Wolfe sich das mit eigenen Augen ansehen.“
+  Wolfe: „Musca Dark Region PJ-P b6-1 ist heute ein betriebsames System, war aber unerforscht, als Professor Carvers Erkundungsteam dort war. Die zweihundert Jahre alten Aufzeichnungen zu hören, während ich die Forschungsbasis untersuchte, war unheimlich … Geisterstimmen von einem Geisterschiff.“
+  „Es gab Spuren von Explosionen, aber ich habe genug Schlachtfelder gesehen, um zu wissen, wie ein Schusswechsel aussieht. Azimuths Söldner feuerten nicht nur auf Thargoid, sondern auch auf jemanden, der mit Lasergewehren zurückschoss.“
+  „Gunnarson sagt mir, dass Azimuth von einem Konkurrenten namens Pharmasapien geschluckt wurde. Hat dieser die Adamastor infiltriert und versucht, sie zu übernehmen? Oder hat das Wesen, das Carver gefangen nahm, alle in den Wahnsinn getrieben?“
+  „Das ist selbst für uns ein besonders schwieriger, alter ungelöster Fall. Aber vielleicht tauchen eines Tages weitere verlockende Hinweise auf. Genau dafür leben wir.“
 ---
 
 

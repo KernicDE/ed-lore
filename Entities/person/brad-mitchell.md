@@ -11,6 +11,10 @@ bio: 'Brad Mitchell is a President in Elite Dangerous lore, active from 3301-06-
   in The recent terrorist attack on a starport orbiting Earth.; Political fallout
   has been intense after The NMLA simultaneously bombed nine starports in the Alliance,
   Empire and Federation.'
+bio_de: |-
+  Brad Mitchell war Vizepräsident der Föderation und wurde im März 3307 beim Terroranschlag der NMLA im Rahmen des Vorfalls der „Neun Märtyrer“ getötet. Die NMLA brachte ätzende Enzymbomben an der Station Li Qing Jao an, wo eine Regierungssitzung stattfand. Mitchell wurde unter den Zehntausenden Todesopfern der neun gleichzeitig bombardierten Sternenhäfen bestätigt.
+
+  Präsident Zachary Hudson, der sich während des Anschlags auf dem Galactic Summit befand, bezeichnete die Gräueltat als „nichts Geringeres als eine Kriegserklärung“ und gelobte eine entsprechende Reaktion. Hudson nannte Mitchell einen „engen Freund“ und versprach, die Kabinettsposten persönlich neu zu besetzen. Mitchells Tod verdeutlichte die Verwundbarkeit der föderalen Führung durch Terroranschläge und beschleunigte den harten Kurs der Föderation gegenüber der NMLA und den marlinistischen Gemeinschaften.
 ---
 
 

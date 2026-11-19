@@ -1,12 +1,17 @@
 ---
 uuid: f359d9c3-aa3c-5d56-bf91-97754c4357a9
 title: ACT Requests Help to Locate Missing Agent
+title_de: ACT bittet um Hilfe bei der Suche nach einer vermissten Agentin
 slug: act_requests_help_to_locate_missing_agent
 date: 3307-03-25
 source: API
 summary: '*Pilots Federation ALERT* Assistance is needed to track down an ACT operative
   who vanished while on a mission to identify NMLA suppliers.'
+summary_de: '*ALARM DER PILOTENFÖDERATION* Es wird Hilfe bei der Suche nach einer
+  ACT-Agentin benötigt, die während einer Mission zur Identifizierung von NMLA-Lieferanten
+  verschwand.'
 player_impact: Pilots followed these developments through GalNet reports.
+player_impact_de: Piloten verfolgten diese Entwicklungen in den GalNet-Berichten.
 persons:
 - Imperial Internal Security Service
 - Missing
@@ -27,6 +32,9 @@ arc_id: nmla-terrorism
 modern_impact: '"Our fervent hope is that we find its crew alive." Captain Seutonia''s
   disappearance highlighted the mortal dangers faced by ACT operatives investigating
   the NMLA''s shadowy network.'
+modern_impact_de: '„Unsere größte Hoffnung ist, dass wir ihre Besatzung lebend finden."
+  Captain Seutonias Verschwinden verdeutlichte die tödlichen Gefahren, denen ACT-Agenten
+  bei der Untersuchung des Schattennetzwerks der NMLA ausgesetzt sind.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -37,6 +45,14 @@ related_uuids:
 - 7c2eed3e-f48e-5002-91e8-6a9eab55ca63
 - b552d00d-8b03-578d-a47d-aa396f38dedf
 - bcb1b6cb-c7ee-50fc-b6b9-8f9b1d140838
+body_de: |
+  **ALARM DER PILOTENFÖDERATION**
+  Es wird Hilfe bei der Suche nach einer ACT-Agentin benötigt, die während einer Mission zur Identifizierung von NMLA-Lieferanten verschwand.
+  Die vermisste Agentin ist Captain Niamh Seutonia vom Imperial Internal Security Service, eine der gemeinsamen Leiterinnen der Anti-NMLA-Geheimdiensteinheit. Sie ging Hinweisen nach, die aus der Auswertung der Sternenhafen-Bombenanschläge von ‚Nine Martyrs' stammten.
+  Senior Agent Tanya Ramirez, eine der Leiterinnen von ACT, gab folgende Erklärung ab:
+  „Captain Seutonia und ihr Team reisten auf einem Schiff der Anaconda-Klasse namens Valkyrie. Details zur Mission sind spärlich, da Informationen aus Sicherheitsgründen streng voneinander getrennt wurden, doch sie untersuchte eine kleinere Fraktion, die möglicherweise die NMLA beliefert."
+  „Wir wissen, dass ihr Schiff am 24. März das Mudhrid-System mit Kurs auf die Marlinist Colonies verließ. Captain Castile von der Marlinist Constabulary, im Rahmen einer Abordnung zu ACT, vereinbarte einen Treffpunkt, den Seutonia nie erreichte. Wir wissen also, dass die Valkyrie irgendwo dazwischen verschwunden ist."
+  „Alle Commander in der Region werden gebeten, sich an der Suche nach Captain Seutonias Schiff zu beteiligen. Unsere größte Hoffnung ist, dass wir ihre Besatzung lebend finden und dass es ihnen gelungen ist, Daten zu beschaffen, die uns helfen, die NMLA zu besiegen."
 ---
 
 

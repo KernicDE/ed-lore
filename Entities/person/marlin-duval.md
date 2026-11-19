@@ -9,6 +9,10 @@ bio: 'Marlin Duval is a Emperor in Elite Dangerous lore, active from 3301-07-12 
   3307-03-19. Affiliated with Federation. Notable activities include: Historian Sima
   Kalhana covers the Empire''s founding.; Historian Sima Kalhana covers the first
   Federation-Achenar war (2323-2325).'
+bio_de: |-
+  Marlin Duval war eine wohlhabende Expeditionsleiterin, die Mitte des 23. Jahrhunderts die Kolonie Achenar gründete und die demokratischen Prinzipien etablierte, aus denen sich schließlich das Imperium entwickeln sollte. Desillusioniert von den starren Regierungen und der erdrückenden gesellschaftlichen Konformität der Erde führte sie einen Konvoi durch unerforschten Raum zum Achenar-System, wo die Siedler Capitol entdeckten – eine bewohnbare Welt, auf der bereits eine der wenigen bekannten intelligenten Spezies der Galaxis lebte.
+
+  Unter Marlins Führung lebte die Kolonie unter einer idealistischen demokratischen Herrschaft, in der gewählte Senatoren das Volk vertraten. Sie kam tragischerweise bei einem Unfall mit einem Speeder ums Leben, woraufhin ihr Bruder Henson Duval die Kontrolle übernahm und die bis heute bestehende imperiale Erbfolge begründete. Die Auslöschung der einheimischen Spezies Capitols – unbeabsichtigt durch eingeschleppte Bakterien verursacht – wurde später von der Föderation als Vorwand für die Invasion Achenars im Jahr 2324 genutzt. Der erfolgreiche Widerstand der Kolonie besiegelte die Geburt des Imperiums als zweite Supermacht der Menschheit, doch Henson und nicht Marlin prägte das autokratische System, das ihre demokratische Vision ersetzte.
 ---
 
 

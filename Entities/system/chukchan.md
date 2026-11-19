@@ -30,6 +30,10 @@ bio: 'Chukchan is a system in Elite Dangerous, significant from 3306-10-29 to 33
   the Chukchan system suddenly activates, receiving and rebroadcastin...; Independent
   pilots report receiving anonymous instructions from a figure calling himself "Salvation,"
   who provides a decryption key for the Adamast...'
+bio_de: |-
+  Chukchan ist ein System, das Ende 3306 an Bedeutung gewann, als das verlassene Megaschiff Adamastor nach zwei Jahrhunderten Reise mit Unterlichtgeschwindigkeit unter automatischer Steuerung dort eintraf. Das verfallene Schiff, an Bord dessen es keine Lebenszeichen gab, wurde nach seiner Entdeckung auf Kollisionskurs mit Chukchan 5 B von Schleppern in einen sicheren Orbit manövriert. Die Alliance Salvage Guild ging an Bord des Schiffs und bestätigte, dass es für verdeckte Operationen vorgesehen gewesen war und sämtliche Datenspeicher absichtlich gelöscht worden waren.
+
+  Die Entdeckung der Adamastor in Chukchan und das spätere Auftauchen der Hesperus im selben System wurden zu wichtigen Puzzleteilen bei der Aufklärung verdeckter Supermachtoperationen der Vergangenheit. Im Jahr 3307 berichteten Piloten in Chukchan, nahe der Hesperus von der mysteriösen Gestalt „Salvation“ kontaktiert worden zu sein. Dadurch rückte das System in den Mittelpunkt der Untersuchungen zum verborgenen Erbe von Azimuth Biochemicals.
 reserve: Pristine
 ---
 

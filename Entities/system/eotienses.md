@@ -26,6 +26,10 @@ edsm_url: https://www.edsm.net/en/system/id/5797/name/Eotienses
 inara_url: https://inara.cz/elite/starsystem/?search=Eotienses
 bio: Eotienses is a major Imperial agricultural system where the activist group Autonomy
   forcibly liberated 4,000 Imperial slaves in 3305.
+bio_de: |-
+  Eotienses ist ein bedeutendes imperiales Agrarsystem mit über sechs Milliarden Einwohnern, das unter einem Patronagesystem regiert und von Nova Paresa kontrolliert wird. Seine Hauptstadt Port Isabelle auf Eotienses A 3 wurde zum Auslöser einer der größten Sklavereikontroversen der jüngeren imperialen Geschichte, als die Aktivistengruppe Autonomy im Jahr 3305 über die Tarnfirma Tilbery Construction 4.000 imperiale Sklaven kaufte und gegen deren Willen befreite.
+
+  Die Massenfreilassung löste in Port Isabelle eine humanitäre Krise aus, da Tausende Befreite ohne Arbeit, rechtlichen Status oder soziale Unterstützung zurückblieben. Prinzessin Aisling Duval verurteilte die Methoden von Autonomy als unverantwortlich, während Gegner der Sklaverei die Aktion als moralischen Sieg feierten. Der Vorfall legte tiefe Brüche im imperialen System der vertraglich geregelten Dienstbarkeit offen und verschärfte die Debatte zwischen Befürwortern von Reformen und radikaler Emanzipation.
 reserve: Common
 ---
 

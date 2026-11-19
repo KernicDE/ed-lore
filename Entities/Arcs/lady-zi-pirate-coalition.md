@@ -4,7 +4,7 @@ name: Lady Zi Pirate Coalition
 type: arc
 start_date: '3312-04-23'
 end_date: null
-article_count: 12
+article_count: 13
 key_entities:
 - Lady Zi
 - Fire Lotus Coalition
@@ -33,6 +33,7 @@ phases:
 - 'Phase 8: Counter-Megacorporation Assault on Exphiay and Sorbago (3312-11-05)'
 - 'Phase 9: Corporate Counterattack and Call to Arms (3312-11-05)'
 - 'Phase 10: Malware Campaign Spreads to Major Systems (3312-11-16)'
+- 'Phase 11: Withdrawal from Sorbago and Exphiay (3312-11-19)'
 summary: The emergence of Lady Zi as a coordinated criminal threat in the core systems,
   beginning with raids on military outposts and escalating to full starport attacks in
   Lhou Mans. The twin-axe malware signature and probing tactics suggest a highly organised,
@@ -63,7 +64,10 @@ outcome: Defence forces successfully repelled the Lhou Mans attackers, completed
   networks had suffered malicious breaches bearing the twin-axe motif in systems such
   as Facece, Nanomam and Lave; anonymous sources linked the malware to fugitive coder
   Yaz Murano, believed to be under Lady Zis personal protection, while Sirius Corporation
-  ordered a full internal security assessment.
+  ordered a full internal security assessment. On 3312-11-19 the pirate forces withdrew
+  suddenly from Sorbago and Exphiay after the corporate defence, backed by Pilots
+  Federation ships, gained the advantage; The Coldwood and Whisper of the Wake docked
+  at Swoilz DB-X b5-1 and Gabriella Mastopolos claimed the victory.
 outcome_de: Verteidigungskräfte schlugen die Angreifer in Lhou Mans erfolgreich zurück,
   schlossen die Evakuierung der Zivilisten ab und stellten den Vollbetrieb aller beschädigten
   Sternenstationen wieder her. Lady Zi ist jedoch weiterhin auf freiem Fuß. Im Juni 3312
@@ -89,7 +93,11 @@ outcome_de: Verteidigungskräfte schlugen die Angreifer in Lhou Mans erfolgreich
   Facece, Nanomam und Lave; anonyme Quellen brachten die Malware mit dem flüchtigen
   Coder Yaz Murano in Verbindung, der vermutlich unter Lady Zis persönlichem Schutz
   steht, während die Sirius Corporation eine vollständige interne Sicherheitsprüfung
-  anordnete.
+  anordnete. Am 3312-11-19 zogen sich die Piratenkräfte überraschend aus Sorbago und
+  Exphiay zurück, nachdem die von Schiffen der Pilotenföderation unterstützte
+  Konzernverteidigung die Oberhand gewonnen hatte; The Coldwood und Whisper of the
+  Wake dockten bei Swoilz DB-X b5-1 an, und Gabriella Mastopolos beanspruchte den
+  Sieg für sich.
 significance: medium
 ---
 
@@ -119,3 +127,6 @@ Both targeted corporations rallied pilots to their defence. Gallant Investment B
 
 ### Phase 10: Malware Campaign Spreads to Major Systems (3312-11-16)
 Vox Galactica's Gwendolyn Nash reported that Lady Zi's belligerence in Sorbago and Exphiay was inspiring sympathetic action far from the fighting. Small vessels bearing Fire Lotus Coalition markings were sighted in Facece, Nanomam and Lave, while dozens of starport networks and at least three planetary government networks reported malicious breaches: the twin-axe motif locked screens while malware ran wild through databanks and interlinked systems. An anonymous source claimed the malware behaved like the work of Yaz Murano, the notorious criminal coder freed in the previous month's prison ship break, now believed to be under Lady Zi's personal protection. Sirius Corporation ordered a full internal security assessment, indicating the threat was being taken seriously at the highest levels of megacorporate leadership.
+
+### Phase 11: Withdrawal from Sorbago and Exphiay (3312-11-19)
+Pirate forces in Sorbago and Exphiay withdrew suddenly, with no warning, according to war correspondents for the Federal Times and Imperial Herald. Analysts agreed the corporate defence forces, backed by Pilots' Federation ships, had gained the advantage and pushed the Fire Lotus Coalition back through dogged local resistance. On Lady Zi's orders, The Coldwood and Whisper of the Wake jumped out of their staging positions and docked at Swoilz DB-X b5-1. Mastopolos Mining CEO Gabriella Mastopolos claimed credit for the victory, declaring that "criminals testing the patience of the Empire will find themselves lacking in every aspect." Participants of the conflict could collect rewards from the host port where they had signed up. The two-week campaign thus ended in a corporate victory, though Lady Zi's coalition remains intact and at large.

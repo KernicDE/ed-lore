@@ -1,12 +1,17 @@
 ---
 uuid: 9e1f1fba-df6f-5280-8095-86f30ca2d79c
 title: 'Galactic Mysteries: The NMLA'
+title_de: "Galaktische Mysterien: Die NMLA"
 slug: galactic_mysteries_the_nmla
 date: 3307-03-19
 source: API
 summary: Private investigators Erik Gunnarson and Francesca Wolfe review The Neo-Marlinist
   Liberation Army.
+summary_de: Die Privatdetektive Erik Gunnarson und Francesca Wolfe befassen sich
+  mit der Neo-Marlinist Liberation Army.
 player_impact: Pilots may be called upon to support ACT intelligence operations.
+player_impact_de: Piloten könnten aufgefordert werden, Geheimdienstoperationen von
+  ACT zu unterstützen.
 persons:
 - Achenar
 - Marlin Duval
@@ -28,6 +33,10 @@ arc_id: nmla-terrorism
 modern_impact: '"This atrocity is nothing less than a declaration of war." The Nine
   Martyrs attack remains one of the most devastating terrorist incidents in recent
   history, reshaping inter-superpower security cooperation and civil liberties debates.'
+modern_impact_de: '„Diese Gräueltat ist nichts Geringeres als eine Kriegserklärung."
+  Der Nine-Martyrs-Anschlag bleibt einer der verheerendsten Terroranschläge der jüngeren
+  Geschichte und hat die Zusammenarbeit der Supermächte im Sicherheitsbereich sowie
+  die Debatten über Bürgerfreiheiten nachhaltig verändert.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -38,6 +47,16 @@ related_uuids:
 - b88f6ab1-b0ea-5935-9b8a-92aa25b5b3a3
 - ba0ab37a-3135-52b4-a668-22e5ef0700b6
 - bcb1b6cb-c7ee-50fc-b6b9-8f9b1d140838
+body_de: |
+  Die Privatdetektive Erik Gunnarson und Francesca Wolfe befassen sich mit der Neo-Marlinist Liberation Army.
+  Gunnarson: „Normalerweise lassen wir uns nicht auf politische Fälle ein, aber es ist schwer, den größten Terroranschlag der Geschichte zu ignorieren."
+  „Die NMLA ist ein radikaler Ableger des Marlinismus, einer demokratischen Bewegung, die nach der ursprünglichen Herrscherin der Republik Achenar, Marlin Duval, benannt ist. Die meisten sind friedliche Demonstranten, doch die Neomarlinisten wollen die Regierung stürzen, indem sie die Kaiserliche Familie dauerhaft beseitigen."
+  „Niemand weiß, wie sich die NMLA von kleinen Unruhestiftern zu interstellaren Terroristen entwickelte. Die Sternenhafen-Bombenanschläge im vergangenen September kamen aus dem Nichts, und ihre Attentäter haben zahlreiche Größen des Imperiums getötet, darunter Prinz Harold Duval."
+  „Am wahrscheinlichsten schien, dass sie von den Feinden des Imperiums finanziert wurden, doch inzwischen betrachtet die NMLA Allianz und Föderation gleichermaßen als Ziele. Die Hauptstädte aller drei Supermächte anzugreifen war eine enorm symbolische Geste und hätte unmöglich sein müssen. Wie haben sie die Sicherheitsvorkehrungen umgangen und unentdeckt Sprengsätze platziert? Wer zum Teufel sind diese Leute?"
+  „Selbst Wallglass hat keine Ahnung. Aber wir werden nicht aufhören zu suchen."
+  Wolfe: „Trotz meiner Nachforschungen – und einiger unerlaubter Schnüffeleien – gibt es keine Spur der gerüchteweise existierenden NMLA-Bombenfabrik in LTT 1935. Aber sie hat einmal existiert, denn das Imperium hat ihre Insassen gefangen genommen."
+  „Nicht, dass sie das zugeben würden. ‚Einen Ort wie Serene Harbour gibt es nicht', nicht wahr? Nun, ich war in R CrA Sector AF-A d42 3b und habe ihn mit eigenen Augen gesehen. Er ist trostlos. Hoffnungszerstörend. Und doch sind die als Theta Group geführten NMLA-Gefangenen entkommen, offenbar befreit von Doppelagenten innerhalb von Imperial Intelligence."
+  „Das macht mir wirklich Angst. Wenn sich die NMLA in die geheimste Sicherheitsorganisation des bekannten Raums einschleichen kann, könnte sie überall sein. Und niemand von uns ist sicher."
 ---
 
 

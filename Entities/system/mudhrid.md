@@ -30,6 +30,10 @@ bio: 'Mudhrid is a system in Elite Dangerous, significant from 3307-04-01 to 330
   who vanished on an anti-NMLA mission, has been Found With Its crew dead.; The Epsilon
   Fornacis Empire Group attacks the Neo-Marlinist Order of Mudhrid after ACT confirms
   the faction provided logistical support for the NML...'
+bio_de: |-
+  Mudhrid rückte im Jahr 3307 als Stützpunkt des Neo-Marlinist Order of Mudhrid, einer mit der terroristischen Organisation verbündeten paramilitärischen Fraktion, ins Zentrum der NMLA-Krise. Nach den Bombenanschlägen auf Sternenhäfen im Rahmen des Vorfalls der „Neun Märtyrer“ griffen imperiale Streitkräfte die Neo-Marlinisten in Mudhrid an und besiegten sie. Die Überlebenden flohen in das System Hyades Sector RO-P b6-2, wo Senator Lorcan Scordato eine bedingte Amnestie aushandelte. Der Landgraf von Mudhrid und sein engerer Kreis sollten mit der ACT kooperieren und erhielten im Gegenzug lebenslange Haftstrafen.
+
+  Im April 3307 behaupteten durchgesickerte Informationen von überlebenden Neo-Marlinisten fälschlicherweise, Imperator Hadrian Duval von Nova Imperium sei der Drahtzieher der NMLA. Demnach habe der Order auf dessen ausdrücklichen Befehl Enzymbomben und Attentäter transportiert. Obwohl die Anschuldigungen nie bestätigt wurden, lösten sie eine schwere Vertrauenskrise in der Imperial Family aus und verdeutlichten Mudhrids Rolle sowohl als terroristische Hochburg als auch als Quelle von Desinformation, die die imperiale Politik destabilisierte.
 reserve: Major
 ---
 

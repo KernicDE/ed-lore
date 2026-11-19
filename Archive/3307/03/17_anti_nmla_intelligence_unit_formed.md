@@ -1,13 +1,18 @@
 ---
 uuid: 6efd63d0-0d68-594f-8e75-b0c5df826485
 title: Anti-NMLA Intelligence Unit Formed
+title_de: Anti-NMLA-Geheimdiensteinheit gegründet
 slug: anti_nmla_intelligence_unit_formed
 date: 3307-03-17
 source: API
 summary: The Alliance, Empire and Federation have created a centralised agency dedicated
   to investigating and eliminating the NMLA paramilitary group.
+summary_de: Allianz, Imperium und Föderation haben eine zentrale Behörde gegründet,
+  die die paramilitärische Gruppe NMLA untersuchen und zerschlagen soll.
 player_impact: Pilots were involved in rescue, repair, and security operations following
   the attacks.
+player_impact_de: Piloten waren nach den Anschlägen an Rettungs-, Reparatur- und Sicherheitseinsätzen
+  beteiligt.
 persons:
 - Alioth
 - Eotienses
@@ -38,6 +43,10 @@ arc_id: nmla-terrorism
 modern_impact: '"This atrocity is nothing less than a declaration of war." The Nine
   Martyrs attack remains one of the most devastating terrorist incidents in recent
   history, reshaping inter-superpower security cooperation and civil liberties debates.'
+modern_impact_de: '„Diese Gräueltat ist nichts Geringeres als eine Kriegserklärung.“
+  Der Anschlag der Neun Märtyrer zählt bis heute zu den verheerendsten Terrorakten
+  der jüngeren Geschichte und hat die sicherheitspolitische Zusammenarbeit der Supermächte
+  sowie die Debatte über Bürgerfreiheiten nachhaltig verändert.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -47,6 +56,15 @@ related_uuids:
 - 07928c21-6ee3-5dbb-b1b5-aa7b041eba5e
 - 0ed40d37-c7a2-5252-9105-e141bc1020d5
 - bcb1b6cb-c7ee-50fc-b6b9-8f9b1d140838
+body_de: |
+  Allianz, Imperium und Föderation haben eine zentrale Behörde gegründet, die die paramilitärische Gruppe NMLA untersuchen und zerschlagen soll.
+  Die neue Einheit Affiliated Counter-Terrorism (ACT) ist ein unmittelbares Ergebnis der Cornelius-Lasky-Konvention, die auf dem Galaktischen Gipfel unterzeichnet wurde.
+  Dieser Vertrag verpflichtet die Supermächte, Informationen über alle groß angelegten Bedrohungen der Zivilbevölkerung auszutauschen. Mit einer gemeinsamen Opferzahl von inzwischen über einer halben Million erfüllen die jüngsten Bombenanschläge auf Sternenhäfen diese Voraussetzung.
+  ACT wird gemeinsam von Veteranen der Einsatzgruppe der drei Supermächte geleitet, die 3304 die League of Reparation besiegte: Kapitänin Niamh Seutonia vom Imperial Internal Security Service, Inspektorin Mara Klatt von Alliance Interpol und Senioragentin Tanya Ramirez von der Federal Intelligence Agency.
+  Kapitänin Seutonia gab eine kurze Erklärung ab:
+  „ACT ist eine unabhängige Organisation, deren Aufgabe es ist, die NMLA vor Gericht zu bringen. Wir werden Ressourcen der Sicherheitskräfte von Allianz, Imperium und Föderation sowie aus anderen Bereichen einsetzen.“
+  „Wir rechnen jedoch damit, noch deutlich mehr engagiertes Personal zu benötigen. Deshalb haben wir die Pilotenföderation um die Erlaubnis gebeten, unabhängige Piloten einzuladen, bei Bedarf Informationen für uns zu sammeln.“
+  Piloten werden darauf hingewiesen, dass weiterhin Zivilisten aus den beschädigten Sternenhäfen in den Systemen Achenar, Alioth, Eotienses, Gateway, Kamadhenu, Lave, Nanomam, Rhea und Sol transportiert werden müssen.
 ---
 
 
