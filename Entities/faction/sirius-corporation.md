@@ -3,8 +3,8 @@ id: sirius-corporation
 name: Sirius Corporation
 type: faction
 first_seen_date: '3301-02-23'
-last_seen_date: '3311-07-17'
-mention_count: 153
+last_seen_date: '3312-11-16'
+mention_count: 154
 related_entities:
 - alliance
 - aegis
@@ -16,7 +16,9 @@ bio: Sirius Corporation is the oldest and largest mega-corporation in human spac
   in power generation and frame shift drives, and operates its own corporate government,
   Sirius Gov. Under CEO Dr. Li Yong-Rui, it has played an increasingly prominent political
   role — hosting the Galactic Summit in 3307, constructing the Marlinist Colonies, and
-  negotiating a defence pact with the Alliance in 3308.
+  negotiating a defence pact with the Alliance in 3308. In November 3312 it ordered a
+  full internal security assessment in response to the Fire Lotus Coalition's malware
+  campaign against starport and planetary government networks.
 bio_de: Die Sirius Corporation wurde 2350 gegründet und wurde reich durch die Belieferung
   von Kriegsflotten der Föderation und des Imperiums. Ihre Entwicklung der Hyperraumantrieb-Technologie
   etablierte sie als Grundpfeiler der menschlichen Expansion. Das Unternehmen hält
@@ -35,6 +37,10 @@ bio_de: Die Sirius Corporation wurde 2350 gegründet und wurde reich durch die B
   Die Flotte der Sirius Corporation umfasst Megaschiffe und eine private Marine.
   Ihr Einfluss führte Analysten zur Bezeichnung ‚vierte Supermacht' – ein Etikett,
   das unter Li Yong-Ruis strategischer Expansion zunehmend Realität widerspiegelt.
+
+  Im November 3312 ordnete die Sirius Corporation als Reaktion auf die Malware-Kampagne
+  der Fire Lotus Coalition gegen Sternenhafen- und planetare Regierungsnetzwerke eine
+  vollständige interne Sicherheitsprüfung an.
 ---
 
 

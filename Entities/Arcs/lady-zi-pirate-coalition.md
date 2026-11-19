@@ -4,7 +4,7 @@ name: Lady Zi Pirate Coalition
 type: arc
 start_date: '3312-04-23'
 end_date: null
-article_count: 11
+article_count: 12
 key_entities:
 - Lady Zi
 - Fire Lotus Coalition
@@ -32,6 +32,7 @@ phases:
 - 'Phase 7: Lady Zi Breaks Silence — The Fire Lotus Manifesto (3312-11-02)'
 - 'Phase 8: Counter-Megacorporation Assault on Exphiay and Sorbago (3312-11-05)'
 - 'Phase 9: Corporate Counterattack and Call to Arms (3312-11-05)'
+- 'Phase 10: Malware Campaign Spreads to Major Systems (3312-11-16)'
 summary: The emergence of Lady Zi as a coordinated criminal threat in the core systems,
   beginning with raids on military outposts and escalating to full starport attacks in
   Lhou Mans. The twin-axe malware signature and probing tactics suggest a highly organised,
@@ -52,7 +53,17 @@ outcome: Defence forces successfully repelled the Lhou Mans attackers, completed
   and begun duty trials, positioning registered mercenaries for rapid deployment against
   the pirate coalition. On 3312-06-30, Frontline officially launched its anti-crime deployment
   service, shipping mercenary strike teams to anti-crime operations across the core systems
-  and allowing registered pilots to sign up at any market port.
+  and allowing registered pilots to sign up at any market port. On 3312-11-02 Lady Zi
+  broke her silence with a manifesto spread by malware across hundreds of hijacked
+  starport holoscreens, denouncing all three superpowers and rallying followers to her
+  Fire Lotus Fleet. Three days later her forces attacked the home systems of Gallant
+  Investment Brokers (Exphiay) and Sorbago Mastopolos Mining Inc (Sorbago), prompting
+  both corporations to call independent pilots to their defence. On 3312-11-16, Vox
+  Galactica reported dozens of starport networks and at least three planetary government
+  networks had suffered malicious breaches bearing the twin-axe motif in systems such
+  as Facece, Nanomam and Lave; anonymous sources linked the malware to fugitive coder
+  Yaz Murano, believed to be under Lady Zis personal protection, while Sirius Corporation
+  ordered a full internal security assessment.
 outcome_de: Verteidigungskräfte schlugen die Angreifer in Lhou Mans erfolgreich zurück,
   schlossen die Evakuierung der Zivilisten ab und stellten den Vollbetrieb aller beschädigten
   Sternenstationen wieder her. Lady Zi ist jedoch weiterhin auf freiem Fuß. Im Juni 3312
@@ -72,7 +83,13 @@ outcome_de: Verteidigungskräfte schlugen die Angreifer in Lhou Mans erfolgreich
   Sorbago Mastopolos Mining Inc (Sorbago) an; beide Konzerne riefen unabhängige Piloten
   zur Gegenwehr – Gallant über die Federal Times, Mastopolos-CEO Gabriella Mastopolos über
   den Imperial Herald. Der Konflikt eskaliert damit von Piraterie zu einem offenen
-  Konflikt mit den Megakonzernen.
+  Konflikt mit den Megakonzernen. Am 3312-11-16 berichtete Vox Galactica, dass Dutzende
+  Sternenhafen-Netzwerke und mindestens drei planetare Regierungsnetzwerke böswillige
+  Sicherheitsverletzungen mit dem Zwillingsaxt-Motiv gemeldet hatten, unter anderem in
+  Facece, Nanomam und Lave; anonyme Quellen brachten die Malware mit dem flüchtigen
+  Coder Yaz Murano in Verbindung, der vermutlich unter Lady Zis persönlichem Schutz
+  steht, während die Sirius Corporation eine vollständige interne Sicherheitsprüfung
+  anordnete.
 significance: medium
 ---
 
@@ -99,3 +116,6 @@ Ships loyal to Lady Zi assaulted corporate security forces in Exphiay and Sorbag
 
 ### Phase 9: Corporate Counterattack and Call to Arms (3312-11-05)
 Both targeted corporations rallied pilots to their defence. Gallant Investment Brokers released a statement via the Federal Times offering payment to any pilots willing to defend Exphiay, while Sorbago Mastopolos Mining CEO Gabriella Mastopolos called on combat pilots through the Imperial Herald to join her security teams in eradicating Zi's forces from Sorbago. Defenders could sign up at Worlidge Hub in Exphiay and Hencke Orbital in Sorbago, pitting corporate-backed pilots directly against the Fire Lotus Coalition's recruits.
+
+### Phase 10: Malware Campaign Spreads to Major Systems (3312-11-16)
+Vox Galactica's Gwendolyn Nash reported that Lady Zi's belligerence in Sorbago and Exphiay was inspiring sympathetic action far from the fighting. Small vessels bearing Fire Lotus Coalition markings were sighted in Facece, Nanomam and Lave, while dozens of starport networks and at least three planetary government networks reported malicious breaches: the twin-axe motif locked screens while malware ran wild through databanks and interlinked systems. An anonymous source claimed the malware behaved like the work of Yaz Murano, the notorious criminal coder freed in the previous month's prison ship break, now believed to be under Lady Zi's personal protection. Sirius Corporation ordered a full internal security assessment, indicating the threat was being taken seriously at the highest levels of megacorporate leadership.
