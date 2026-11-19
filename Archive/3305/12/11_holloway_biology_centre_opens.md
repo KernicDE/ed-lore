@@ -1,13 +1,18 @@
 ---
 uuid: b57cb4f0-08fd-52f1-a589-0770dfd60a1d
 title: Holloway Biology Centre Opens
+title_de: Holloway Biology Centre eröffnet
 slug: holloway_biology_centre_opens
 date: '3305-12-11'
 source: GitHub
 summary: The Holloway Biology Centre opens in the Colonia system after months of redesign.
   The state-of-the-art facility will study newly catalogued lifeforms discovered by
   the galactic community.
+summary_de: Das Holloway Biology Centre wird nach monatelanger Umgestaltung im System
+  Colonia eröffnet. Die hochmoderne Einrichtung wird neu katalogisierte Lebensformen
+  untersuchen, die von der galaktischen Gemeinschaft entdeckt wurden.
 player_impact: None
+player_impact_de: Keine
 persons:
 - Roy Casimir
 groups:
@@ -19,6 +24,8 @@ topics:
 - exploration
 modern_impact: The research centre establishes Colonia as a hub for xenobiological
   study and deep-space scientific research.
+modern_impact_de: Das Forschungszentrum etabliert Colonia als Zentrum für xenobiologische
+  Studien und wissenschaftliche Tiefenraumforschung.
 legacy_weight: 3
 significance: medium
 related_uuids:
@@ -27,6 +34,16 @@ related_uuids:
 - 2adfa2ab-84b2-5474-b046-a6c5e94ba2ba
 - 23c15505-2dad-55eb-a304-7e964af5198c
 - 5a71a938-54b4-516c-a9c2-96aea2e3e6d3
+body_de: |
+  Nach monatelangen Rückschlägen hat das Holloway Biology Centre nun endlich im System Colonia eröffnet. Das Forschungszentrum wird sich auf die Erforschung neu katalogisierter Lebensformen konzentrieren.
+
+  Dr. Roy Casimir, Chefforscher am Holloway Bioscience Institute, hielt auf der Eröffnungsfeier eine Pressekonferenz ab und ging auf die Verzögerungen ein, die auf eine erfolgreiche Kampagne zur Gründung des Zentrums im Februar dieses Jahres folgten:
+
+  „Unsere Untersuchung der im vergangenen Jahr entdeckten Lebensformen bildete die Grundlage für die Planung des Forschungszentrums. Da die Zahl der Scans, die uns die galaktische Gemeinschaft zur Verfügung stellte, weiter zunahm, wurde deutlich, dass uns der für die Untersuchung all dieser Proben erforderliche Laborraum fehlte.“
+
+  „Daher investierte das Holloway Bioscience Institute mehrere Monate lang in die Umgestaltung, damit eine Vielzahl von Materialien analysiert werden kann. Wir sind zuversichtlich, dass sich diese Entscheidung mehr als auszahlen wird, und unsere Wissenschaftler freuen sich darauf, in dieser hochmodernen Einrichtung zu arbeiten.“
+
+  Das Holloway Biology Centre befindet sich im System Colonia auf Colonia 7 G.
 ---
 
 

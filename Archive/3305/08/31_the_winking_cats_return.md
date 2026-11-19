@@ -1,13 +1,19 @@
 ---
 uuid: 6dcfa36b-3e65-53ef-9bfe-5dcd5c6a5bd7
 title: The Winking Cat’s Return
+title_de: Die Rückkehr der Winking Cat
 slug: the_winking_cats_return
 date: '3305-08-31'
 source: GitHub
 summary: The notorious art thief Winking Cat resurfaces during the Alliance Festival
   of Culture in Alioth, returning the long-lost masterpiece 'Penance Street' by Megan
   Madigan. The artwork vanished in transit 60 years ago.
+summary_de: Der berüchtigte Kunstdieb Winking Cat taucht während des Kulturfestivals
+  der Allianz in Alioth wieder auf und gibt das seit Langem verschollene Meisterwerk
+  ‚Penance Street‘ von Megan Madigan zurück. Das Kunstwerk war vor 60 Jahren während
+  des Transports verschwunden.
 player_impact: None
+player_impact_de: Keine
 persons:
 - Daron Warmack
 groups:
@@ -20,11 +26,27 @@ topics:
 - crime
 modern_impact: The Winking Cat's return of stolen art adds to their mystique and provides
   a cultural highlight for the festival's final weeks.
+modern_impact_de: Die Rückgabe gestohlener Kunst durch die Winking Cat trägt zu deren
+  Mythos bei und bildet einen kulturellen Höhepunkt in den letzten Festivalwochen.
 legacy_weight: 2
 significance: low
 related_uuids:
 - 3aff70ec-55de-540f-af20-db881cf820d4
 - 6e6090d1-139b-5004-a848-d5d380a0c6d0
+body_de: |
+  Der berüchtigte Kunstdieb, bekannt als die Winking Cat, ist während des Kulturfestivals der Allianz im System Alioth wieder aufgetaucht.
+
+  Zur sechsten Festivalwoche veranstaltet die Garden City Gallery auf Turner’s World eine Ausstellung bildender Kunst. Strenge Sicherheitsmaßnahmen sollen verhindern, dass sich der aufsehenerregende Vorfall vom Juni 3304 wiederholt, als das einzigartige Werk ‚Youscape‘ aus einem Galerietresor gestohlen wurde.
+
+  Der lokale Korrespondent Daron Warmack berichtete für die Alliance Tribune:
+
+  „Als die Mitarbeiter der Galerie ein Gemälde in einem zuvor leeren Raum hängen sahen, erkannten sie schockiert, dass es sich um ‚Penance Street‘ handelte, das seit Langem verschollene Meisterwerk der berühmten Künstlerin Megan Madigan.“
+
+  „Experten haben bestätigt, dass es sich um das Originalkunstwerk handelt, das vor 60 Jahren während des Transports verschwand. Hinter dem Bild wurde außerdem die Grafik einer zwinkernden Katze an der Wand entdeckt.“
+
+  „Die Winking Cat hat einen der größten Kunstschätze der Allianz zurückgegeben – vielleicht ein persönlicher Beitrag zum Festival oder möglicherweise ein Akt der Buße.“
+
+  Das Kulturfestival der Allianz endet nächste Woche im System Diso.
 ---
 
 

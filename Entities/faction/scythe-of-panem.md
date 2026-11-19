@@ -8,6 +8,8 @@ mention_count: 4
 bio: The Scythe of Panem is a militant group that was identified as responsible for the
   blight crisis in 3305. They deployed a synthetic contaminant that caused mass crop spoilage
   across hundreds of systems before being defeated by system security forces.
+bio_de: |-
+  Der Scythe of Panem ist eine militant-extremistische Gruppe, die die verheerende Krautfäulekrise von 3305 auslöste. Die Organisation setzte eine synthetische Verunreinigung ein, die in Hunderten landwirtschaftlicher Systeme zu massenhaftem Verderben der Ernten führte und Milliarden Menschen mit einer Hungersnot bedrohte. Ermittler konnten die Gruppe schließlich als Urheber ausfindig machen, und Sicherheitskräfte des Systems schlugen sie nieder. Die Erkenntnis, dass es sich bei der Krautfäule nicht um einen natürlichen Ausbruch, sondern um einen gezielten Akt biologischen Terrors handelte, machte aus der landwirtschaftlichen Katastrophe einen schwerwiegenden Sicherheitsvorfall und lenkte in der gesamten Galaxis die Aufmerksamkeit erneut auf Maßnahmen zur Terrorismusbekämpfung.
 ---
 
 

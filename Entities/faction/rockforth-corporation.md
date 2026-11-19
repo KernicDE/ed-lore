@@ -16,6 +16,10 @@ bio: 'Rockforth Corporation is a corporation active in Elite Dangerous lore from
   Riedquat. Key activities include: Rockforth Corporation releases its EX7 fertiliser
   to address low crop yields.; The IAA confirms Rockforth''s EX7 fertiliser is linked
   to the blight.'
+bio_de: |-
+  Rockforth Corporation ist ein Agrarkonzern, der durch den Vertrieb des verseuchten Düngemittels EX7 die verheerende Krautfäulekrise von 3305 auslöste. Der Erreger der Krautfäule, der in Hunderten Systemen die Ernten vernichtete, war von Extremisten des Scythe of Panem in das Düngemittel eingebracht worden. Kritiker wiesen jedoch auch auf Rockforths Streben nach raschen Gewinnsteigerungen als begünstigenden Faktor hin.
+
+  CEO Sylvia Rockforth entschuldigte sich öffentlich und richtete aus den Gewinnen mit EX7 einen Entschädigungsfonds ein, während der ehemalige Marketingleiter Rex Whitlock wegen Missachtung regulatorischer Vorschriften entlassen wurde. Die Interstellar Association for Agriculture verschärfte daraufhin ihre Kontrollvorschriften, und der Skandal legte Schwachstellen in der interstellaren Lebensmittelversorgungskette offen. Trotz aller Entschädigungsbemühungen erholte sich Rockforths Ruf nie vollständig.
 ---
 
 

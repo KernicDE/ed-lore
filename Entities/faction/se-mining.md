@@ -13,6 +13,8 @@ bio: SE Mining is a organization in the Elite Dangerous universe, active from 33
   launches a mining campaign to construct a specialised installation and asteroid
   base in LP 339-7. The new starport Miner Prospects will serve as SE Mining's headquarters
   and benefit the system's outer reaches.
+bio_de: |-
+  SE Mining ist eine Organisation im Elite-Dangerous-Universum, die vom 22. bis zum 29. August 3305 aktiv war. Sie wurde häufig mit Starship Enterprises und LP 339-7 in Verbindung gebracht. Starship Enterprises startete eine Bergbaukampagne zum Bau einer spezialisierten Anlage und einer Asteroidenbasis in LP 339-7. Der neue Sternenhafen Miner Prospects sollte als Hauptsitz von SE Mining dienen und den äußeren Bereichen des Systems zugutekommen.
 ---
 
 

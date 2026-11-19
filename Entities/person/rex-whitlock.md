@@ -7,6 +7,8 @@ last_seen_date: '3305-11-05'
 mention_count: 5
 bio: Rex Whitlock is a former marketing director for Rockforth Corporation who was
   dismissed in 3305 following the company's role in the blight crisis.
+bio_de: |-
+  Rex Whitlock ist ein Marketingmanager aus der Unternehmenswelt und war Marketingdirektor der Rockforth Corporation, eines Agrartechnologieunternehmens. Im Jahr 3305 bewarb er die synthetische Technologie des Unternehmens zur Verbesserung von Nutzpflanzen, die später mit der Blight-Krise in Verbindung gebracht wurde, welche landwirtschaftliche Systeme in der gesamten Galaxis verwüstete. Als das volle Ausmaß der Pflanzenseuche erkennbar wurde, entließ die Rockforth Corporation Whitlock und machte ihn damit zum Sündenbock für die Rolle des Unternehmens bei einer der schwerwiegendsten Agrarkatastrophen der jüngeren Geschichte. Sein Fall veranschaulicht, wie Unternehmen die Verantwortung für systemische Versäumnisse auf einzelne Führungskräfte abwälzen.
 ---
 
 # Rex Whitlock

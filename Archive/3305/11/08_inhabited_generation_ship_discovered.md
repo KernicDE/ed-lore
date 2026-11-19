@@ -1,15 +1,22 @@
 ---
 uuid: 8166c06a-f366-5f9c-84ac-846f243da58c
 title: Inhabited Generation Ship Discovered
+title_de: Bewohntes Generationsschiff entdeckt
 slug: inhabited_generation_ship_discovered
 date: '3305-11-08'
 source: GitHub
 summary: An inhabited generation ship, the Golconda, is discovered in the Upaniklis
   system. The ancient vessel's crew suffers from a virus called "the wasting kiss"
   and requires medical supplies and maintenance materials.
+summary_de: Ein bewohntes Generationsschiff, die Golconda, wird im Upaniklis-System
+  entdeckt. Die Besatzung des uralten Schiffs leidet unter einem Virus namens „auszehrender
+  Kuss“ und benötigt medizinische Vorräte sowie Wartungsmaterialien.
 player_impact: Pilots are asked to deliver medicines, aluminium, ceramic composites
   and semiconductors to Fozard Port in Upaniklis. Bounty vouchers are offered to deter
   pirates.
+player_impact_de: Piloten werden gebeten, Medikamente, Aluminium, Keramikverbundstoffe
+  und Halbleiter zum Fozard Port im Upaniklis-System zu liefern. Kopfgeldgutscheine
+  werden angeboten, um Piraten abzuschrecken.
 persons:
 - Itsuko Harada
 - Ivan Johansen
@@ -24,11 +31,31 @@ topics:
 - ship
 modern_impact: The discovery of a living generation ship society becomes one of the
   most significant anthropological events of the era.
+modern_impact_de: Die Entdeckung einer lebendigen Gesellschaft auf einem Generationsschiff
+  wird zu einem der bedeutendsten anthropologischen Ereignisse der Epoche.
 legacy_weight: 5
 significance: high
 related_uuids:
 - bae2f9c5-e22d-5f51-a8b0-1686c584c9a1
 - 42b2a824-dda6-5beb-ae9d-99f1e5690520
+body_de: |
+  Ein Generationsschiff mit einer lebenden Bevölkerung wurde im Upaniklis-System entdeckt.
+
+  Das Notsignal des Schiffs wurde zunächst von einem Abhörposten empfangen. Die untersuchenden Piloten waren überrascht, als sie feststellten, dass das uralte Schiff – als Golconda identifiziert – in die unbewohnte Region um Upaniklis B getrieben war.
+
+  Generationsschiffe sind riesige, autarke Raumschiffe aus der Zeit vor dem Hyperantrieb, die dazu konstruiert wurden, die Nachkommen ihrer ursprünglichen Besatzungen zu unbewohnten Systemen zu bringen. Die im 22. Jahrhundert gestartete Golconda hat mehr als ein Jahrtausend als Heimat einer selbstversorgenden Gesellschaft überdauert.
+
+  Es wird jedoch angenommen, dass die veralteten Einrichtungen des Schiffs kaum noch den Bedürfnissen seiner Besatzung gerecht werden können. Die Bewohner haben einen Mangel an Wartungsmaterialien und medizinischen Vorräten gemeldet; Letzterer ist angesichts eines Virus, das sich auf dem Schiff ausbreitet, besonders besorgniserregend.
+
+  Itsuko Harada von Upaniklis Vision Incorporated gab folgende Erklärung ab:
+
+  „Diese Besucher haben unglaubliche Entfernungen zurückgelegt und waren bislang vollständig vom Rest der Menschheit abgeschnitten. Die schiere Verzweiflung hat dieses stolze Volk dazu gezwungen, um Hilfe zu rufen – eine Krankheit, die als ‚auszehrender Kuss‘ bezeichnet wird, wütet ungehindert, und in einer geschlossenen Umgebung könnten ihre Auswirkungen katastrophal sein.“
+
+  „Verständlicherweise zögern die Bewohner der Golconda, ihre Heimat zu verlassen oder mit dem Rest der Galaxis in Kontakt zu treten, zumindest gegenwärtig. Sie haben unser Angebot medizinischer Vorräte und anderer Materialien jedoch dankbar angenommen.“
+
+  Händler werden gebeten, einfache Medikamente, hochentwickelte Medikamente, Aluminium, Keramikverbundstoffe und Halbleiter zum Fozard Port im Upaniklis-System zu liefern. Upaniklis Vision Incorporated bietet außerdem Kopfgeldgutscheine für gesuchte Schiffe an, um Piratenaktivitäten in der Gegend abzuschrecken.
+
+  Die Initiative soll vom 8. bis zum 14. November 3305 laufen. Werden die endgültigen Ziele früher als geplant erreicht, endet die Kampagne sofort.
 ---
 
 

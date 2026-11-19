@@ -7,6 +7,8 @@ last_seen_date: '3305-08-24'
 mention_count: 1
 bio: 'Bryony Lindholm is a prominent figure in the Elite Dangerous universe, active
   from 3305-08-24 to 3305-08-24. Closely associated with Alliance. '
+bio_de: |-
+  Bryony Lindholm ist eine prominente Persönlichkeit im Elite-Dangerous-Universum, die am 24. August 3305 aktiv war. Sie stand in enger Verbindung mit der Allianz.
 ---
 
 

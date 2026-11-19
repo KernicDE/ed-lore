@@ -1,13 +1,18 @@
 ---
 uuid: 3aff70ec-55de-540f-af20-db881cf820d4
 title: Alliance Festival of Culture Celebrates Finale
+title_de: Alliance Festival of Culture feiert sein Finale
 slug: alliance_festival_of_culture_celebrates_finale
 date: '3305-09-06'
 source: GitHub
 summary: The Alliance Festival of Culture concludes with a week-long food and drink
   celebration in Birmingham, Diso. Prime Minister Mahon thanks participants and invites
   artists across the galaxy to make the Alliance their home.
+summary_de: Das Alliance Festival of Culture endet mit einer einwöchigen Feier von
+  Speisen und Getränken in Birmingham, Diso. Premierminister Mahon dankt den Teilnehmern
+  und lädt Künstler aus der ganzen Galaxis ein, die Allianz zu ihrer Heimat zu machen.
 player_impact: None
+player_impact_de: Keine
 persons:
 - Edmund Mahon
 - Corinne Macintyre
@@ -22,6 +27,9 @@ topics:
 modern_impact: The festival showcases Alliance cultural diversity and strengthens
   inter-system cultural ties, though ingredient shortages hint at the coming blight
   crisis.
+modern_impact_de: Das Festival zeigt die kulturelle Vielfalt der Allianz und stärkt
+  die kulturellen Verbindungen zwischen den Systemen, während Zutatenknappheit auf
+  die kommende Seuchenkrise hinweist.
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -30,6 +38,18 @@ related_uuids:
 - 1841a100-84be-54ad-a1c6-316471a9aa22
 - d75ed40e-ae55-56fe-8ab3-f318650a324c
 - a95454a8-e427-5965-a4f1-4e5d8c5a7beb
+body_de: |
+  Das Alliance Festival of Culture ist in seine letzte Woche eingetreten und feiert Speisen und Getränke auf dem Planeten Birmingham im Diso-System.
+
+  Corinne Macintyre, Kulturkorrespondentin der Alliance Tribune, berichtete:
+
+  „In den Straßen der Städte stehen Stände mit einem breiten Angebot an Speisen. Die Gerichte reichen von schlichten, selbst gekochten Rezepten mit der lokalen Spezialität Diso Ma Corn bis zu Delikatessen wie gebackenen Greebles. Getränkekenner haben alles von Ethgreze Tea Buds bis Leestian Evil Juice verkostet, während eine mehrstöckige Cocktailbar, gesponsert von den Brennern von Lavian Brandy, zahlreiche Feiernde anlockte.“
+
+  „Obwohl einige Unternehmen nach unerwartet schlechten Ernten in einigen Systemen Schwierigkeiten bei der Beschaffung von Zutaten hatten, wurde diese Veranstaltung von Millionen hungriger Besucher genossen.“
+
+  Zum Abschluss des siebenwöchigen Festivals gab Premierminister Edmund Mahon folgende Erklärung ab:
+
+  „Ich möchte allen, die dazu beigetragen haben, das Alliance Festival of Culture zu einem großen Erfolg zu machen, meinen aufrichtigsten Dank aussprechen. In den letzten Wochen haben wir uns an beeindruckenden Kunstwerken erfreut, wunderschöne Musik gehört und großartiges Theater erlebt. Ich wurde daran erinnert, wie vielfältig und farbenfroh die gemeinsamen Kulturen der Allianz sein können. Künstler und Kreative aus der ganzen Galaxis sind eingeladen, die Allianz zu ihrer Heimat zu machen und diese lebendige Gesellschaft weiter zu bereichern.“
 ---
 
 

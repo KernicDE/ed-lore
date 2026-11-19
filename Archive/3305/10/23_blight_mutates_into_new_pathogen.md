@@ -1,6 +1,7 @@
 ---
 uuid: b6bad842-f04e-5865-892e-cfeb17f2f5da
 title: Blight Mutates into New Pathogen
+title_de: Blight mutiert zu neuem Erreger
 slug: blight_mutates_into_new_pathogen
 date: '3305-10-23'
 source: GitHub
@@ -8,7 +9,12 @@ summary: The blight pathogen mutates into a self-sufficient form capable of surv
   without the fertiliser. Lead researcher Mason Chu warns it could become a galaxy-wide
   scourge. The Coalition for Onion Head Legalisation distances itself from Scythe
   of Panem.
+summary_de: Der Blight-Erreger mutiert zu einer autarken Form, die ohne den Dünger
+  überleben kann. Der leitende Forscher Mason Chu warnt, dass er zu einer galaxisweiten
+  Plage werden könnte. Die Coalition for Onion Head Legalisation distanziert sich
+  von der Scythe of Panem.
 player_impact: None
+player_impact_de: Keine
 persons:
 - Mason Chu
 - Zander Lachance
@@ -27,12 +33,31 @@ topics:
 arc_id: blight
 modern_impact: The mutation transforms the blight from a contained threat into a potentially
   permanent ecological danger requiring ongoing treatment.
+modern_impact_de: Die Mutation verwandelt den Blight von einer eingedämmten Bedrohung
+  in eine potenziell dauerhafte ökologische Gefahr, die eine fortlaufende Behandlung
+  erfordert.
 legacy_weight: 4
 significance: high
 related_uuids:
 - 0be157b9-6a3b-51ba-96df-79add197e050
 - 35c77875-ffa6-5438-a24c-646a7350dccd
 - ca2d40ce-2068-58cb-be1d-1939ef1aa2b1
+body_de: |
+  Der durch den verseuchten Dünger EX7 in Nutzpflanzen eingebrachte Erreger zeigt Anzeichen von Autarkie und könnte Ernten in Tausenden von Systemen bedrohen.
+
+  Der leitende Forscher Mason Chu von der Vandermeer Corporation erklärte:
+
+  „Dank einer erfolgreichen Initiative zur Vernichtung des verseuchten Rockforth-Düngers geht von diesem keine Gefahr mehr für Ackerland aus. Doch unsere Forschungen deuten darauf hin, dass der Blight unabhängig vom Dünger überleben kann.“
+
+  „Dieser neue Erreger ist aggressiv, gegenüber handelsüblichen Pestiziden äußerst widerstandsfähig und nur schwer unter Quarantäne zu stellen. Wird er nicht angemessen eingedämmt, könnte sich der Blight zu einer ausgewachsenen Plage entwickeln, die die Lebensmittelversorgung überall dort zum Erliegen bringt, wo er sich ausbreitet.“
+
+  „Wir testen eine Reihe möglicher Behandlungen, darunter einige radikale Methoden, die von Teams von Neomedical Industries vorgeschlagen wurden. Wenn uns das Glück hold ist, können wir den Erreger vielleicht direkt bekämpfen.“
+
+  In verwandten Nachrichten wird viel über die Scythe of Panem spekuliert, die extremistische Gruppe, die den Blight entwickelt hat. Zander Lachance, ein Vertreter der Coalition for Onion Head Legalisation, gab einige Einblicke:
+
+  „Eigentlich kennen wir die Scythe of Panem schon seit mehreren Jahren. Sie waren schon immer davon besessen, sich für die massenhafte Vernichtung der Onion-Head-Ernten im Jahr 3301 zu rächen. Doch im vergangenen Jahr zogen sie einige aggressive Antikapitalisten an, die begannen, als Vergeltung für Kappa Fornacis schweren wirtschaftlichen Schaden anzurichten. Offenbar war die neue Gruppe überzeugender, als wir erkannt hatten.“
+
+  „Es ist bedauerlich, dass diese Aktionen die negativen Vorurteile gegenüber Onion Head verstärken werden. Wir hoffen nur, dass diejenigen von uns, die sich für seine vielen vorteilhaften therapeutischen Anwendungen einsetzen, nicht in denselben Topf geworfen werden.“
 ---
 
 

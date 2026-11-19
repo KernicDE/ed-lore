@@ -15,6 +15,8 @@ bio: Bruthanvan Co is a organization in the Elite Dangerous universe, active fro
   3305-10-22 to 3305-10-28. Frequently linked with Scythe of Panem, Quator, Federal
   Intelligence Agency. Bruthanvan Co security teams and independent pilots neutralise
   the group's ringleaders.
+bio_de: |-
+  Bruthanvan Co ist eine Organisation im Elite-Dangerous-Universum, die vom 22. Oktober 3305 bis zum 28. Oktober 3305 aktiv war. Häufig wird sie mit Scythe of Panem, Quator und der Federal Intelligence Agency in Verbindung gebracht. Sicherheitsteams von Bruthanvan Co und unabhängige Piloten neutralisieren die Rädelsführer der Gruppe.
 ---
 
 

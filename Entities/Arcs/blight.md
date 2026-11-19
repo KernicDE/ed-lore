@@ -13,6 +13,10 @@ key_entities:
 description: A devastating crop disease of unknown origin that spread across multiple
   agricultural worlds, threatening billions with famine before an agronomic treatment
   was developed and distributed.
+description_de: Eine verheerende Erntekrankheit unbekannten Ursprungs, die sich über
+  mehrere landwirtschaftliche Welten ausbreitete und Milliarden Menschen mit einer
+  Hungersnot bedrohte, bevor ein agronomisches Gegenmittel entwickelt und verteilt
+  wurde.
 phases:
 - 'Phase 1: The Mystery (3305-10-14)'
 - 'Phase 2: Synthetic Source (3305-10-20)'
@@ -20,10 +24,17 @@ phases:
 summary: A devastating crop blight that threatened galactic food security, traced to
   a synthetic contaminant, and ultimately cured through scientific collaboration and
   mass distribution of an agronomic treatment.
+summary_de: Eine verheerende Ernteseuche, die die galaktische Ernährungssicherheit
+  bedrohte, auf einen synthetischen Schadstoff zurückgeführt und schließlich durch
+  wissenschaftliche Zusammenarbeit sowie die Massenverteilung eines agronomischen
+  Gegenmittels überwunden wurde.
 status: Resolved
 outcome: The agronomic treatment eliminated the mutated blight pathogen. Mass production
   and distribution prevented widespread famine, though affected systems required months
   to fully recover.
+outcome_de: Das agronomische Gegenmittel beseitigte den mutierten Erreger der Ernteseuche.
+  Massenproduktion und -verteilung verhinderten eine weit verbreitete Hungersnot,
+  wenngleich die betroffenen Systeme Monate benötigten, um sich vollständig zu erholen.
 significance: high
 ---
 

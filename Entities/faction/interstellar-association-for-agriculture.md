@@ -16,6 +16,10 @@ bio: 'Interstellar Association for Agriculture is a religious active in Elite Da
   Orerve, Diso. Key activities include: Rockforth Corporation releases its EX7 fertiliser
   to address low crop yields.; The IAA confirms mass crop spoilage is caused by a
   new advanced blight of unknown origin.'
+bio_de: |-
+  Die Interstellar Association for Agriculture (IAA) ist eine Aufsichtsbehörde, die die galaktische Lebensmittelproduktion und agronomische Standards überwacht. Ende 3305 spielte die IAA eine zentrale Rolle bei der Eindämmung des Erregers einer verheerenden Pflanzenkrankheit, der in mehreren Systemen Massenhunger auszulösen drohte, nachdem die Rockforth Corporation kontaminierten EX7-Dünger vertrieben hatte.
+
+  Die IAA koordinierte die Massenproduktion und den Vertrieb eines agronomischen Behandlungsmittels, das die Pflanzenkrankheit erfolgreich heilte und landwirtschaftliche Gemeinschaften in Diso, Orerve und darüber hinaus rettete. Im Anschluss sagte die Vereinigung zu, die Vorschriften zur Überprüfung zu verschärfen, um ähnliche Kontaminationskrisen zu verhindern. Der Skandal um die Pflanzenkrankheit legte Schwachstellen in der interstellaren Lebensmittelversorgungskette offen und etablierte die IAA als wichtigste Behörde für landwirtschaftliche Sicherheit im von Menschen besiedelten Weltraum.
 ---
 
 

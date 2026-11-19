@@ -7,6 +7,8 @@ last_seen_date: '3305-10-11'
 mention_count: 1
 bio: 'Nathaniel Lopez is a prominent figure in the Elite Dangerous universe, active
   from 3305-10-11 to 3305-10-11. Closely associated with Galactic Welfare Trust. '
+bio_de: |-
+  Nathaniel Lopez ist eine prominente Persönlichkeit im Elite-Dangerous-Universum, die vom 11. Oktober 3305 bis zum 11. Oktober 3305 aktiv war. Er steht in enger Verbindung mit dem Galactic Welfare Trust.
 ---
 
 

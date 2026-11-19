@@ -1,6 +1,7 @@
 ---
 uuid: ad6ca765-d65c-5e07-8b69-f72363fbb33a
 title: Terrorist Attacks on Imperial Starports
+title_de: Terroranschläge auf imperiale Sternenhäfen
 slug: terrorist_attacks_on_imperial_starports
 date: '3306-09-10'
 source: GitHub
@@ -8,8 +9,14 @@ summary: The NMLA launches coordinated terrorist attacks on four Imperial starpo
   — Mackenzie Relay in Cemiess, Tsiolkovsky Terminal in Gabjaujis, Garrido Market
   in LHS 4031, and Muller Terminal in Rabh. The IISS identifies the group as Neo-Marlinist
   extremists.
+summary_de: Die NMLA verübt koordinierte Terroranschläge auf vier imperiale Sternenhäfen
+  — Mackenzie Relay in Cemiess, Tsiolkovsky Terminal in Gabjaujis, Garrido Market
+  in LHS 4031 und Muller Terminal in Rabh. Der IISS stuft die Gruppe als neomarlinistische
+  Extremisten ein.
 player_impact: Pilots are requested to assist with repairing starports and rescuing
   populations.
+player_impact_de: Piloten werden gebeten, bei der Reparatur von Sternenhäfen und
+  der Rettung der Bevölkerung zu helfen.
 persons:
 - Aisling Duval
 groups:
@@ -25,6 +32,9 @@ topics:
 - terrorism
 modern_impact: The NMLA escalates from small-scale activities to large coordinated
   starport bombings, marking a major escalation in Imperial terrorism.
+modern_impact_de: Die NMLA geht von kleineren Aktivitäten zu großen koordinierten
+  Bombenanschlägen auf Sternenhäfen über und steigert damit den imperialen Terrorismus
+  erheblich.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -33,6 +43,24 @@ related_uuids:
 - 31b4d802-4b3f-57f3-bc15-35276b2cf0b1
 - 07f4c3e2-ca2b-55cc-9321-3c0cdefa1f74
 - f3b96ffc-d73d-5225-b720-e60ad7d17698
+body_de: |
+  **Alarm der Pilotenföderation: An alle Commander**
+
+  Das Imperium hat diese Nachricht über seine Notfallkanäle verbreitet:
+
+  „In der Station Mackenzie Relay im Heimatsystem Cemiess von Prinzessin Aisling Duval hat es mehrere Explosionen gegeben. NMLA-Terroristen haben sich zu den Anschlägen bekannt.“
+
+  „In koordinierten Angriffen haben sie außerdem Tsiolkovsky Terminal im System Gabjaujis, Garrido Market im System LHS 4031 und Muller Terminal im System Rabh attackiert.“
+
+  „Wir bitten die galaktische Gemeinschaft dringend um Unterstützung bei der Reparatur dieser Sternenhäfen und der Rettung ihrer Bevölkerung.“
+
+  Der Imperial Internal Security Service hat ein Bulletin zu dieser aktuellen Bedrohung veröffentlicht:
+
+  „Die Neo-Marlinist Liberation Army (NMLA) ist eine paramilitärische Kraft politischer Extremisten, deren Aktivitäten bislang klein dimensioniert waren.“
+
+  „Der Marlinismus ist eine bekannte Ideologie, die sich an Marlin Duval orientiert. Sie gründete im 23. Jahrhundert die Republik Achenar, bevor daraus das Imperium wurde. Viele Menschen in den Randsystemen sind Marlinisten, die das Erbkaisertum durch eine Vertretung gewählter Senatoren ersetzen wollen. Der Neomarlinismus ist eine radikalere Überzeugung, der zufolge nur Terrortaktiken einen solchen Wandel erzwingen können.“
+
+  „Der Hass der NMLA auf die imperiale Familie erklärt, warum sie Sternenhäfen unter dem Banner der Duvals ins Visier genommen hat. Ihr Einsatz tragbarer Sprengsätze militärischer Güte ist jedoch beispiellos und deutet auf gewachsene Ressourcen hin.“
 ---
 
 

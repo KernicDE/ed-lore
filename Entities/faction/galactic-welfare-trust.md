@@ -11,6 +11,8 @@ related_entities:
 bio: Galactic Welfare Trust is a organization in the Elite Dangerous universe, active
   from 3305-10-11 to 3305-10-11. Frequently linked with Simpson's Eden, Birmingham.
   The Galactic Welfare Trust warns billions are at risk of starvation.
+bio_de: |-
+  Der Galactic Welfare Trust ist eine Organisation im Elite-Dangerous-Universum, die am 11. Oktober 3305 aktiv war. Häufig wird er mit Simpson's Eden und Birmingham in Verbindung gebracht. Der Galactic Welfare Trust warnt davor, dass Milliarden Menschen vom Hungertod bedroht sind.
 ---
 
 

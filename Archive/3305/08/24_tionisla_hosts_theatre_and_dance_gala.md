@@ -1,13 +1,19 @@
 ---
 uuid: 6e6090d1-139b-5004-a848-d5d380a0c6d0
 title: Tionisla Hosts Theatre and Dance Gala
+title_de: Tionisla veranstaltet Theater- und Tanzgala
 slug: tionisla_hosts_theatre_and_dance_gala
 date: '3305-08-24'
 source: GitHub
 summary: The Alliance Festival of Culture's fifth week features theatre and dance
   performances in Tionisla. A highlight is the ballet 'Bones of Dreams' performed
   by skeletal robot dancers made from scrap salvaged from the Tionisla orbital graveyard.
+summary_de: Die fünfte Woche des Kulturfestivals der Allianz widmet sich Theater-
+  und Tanzaufführungen in Tionisla. Ein Höhepunkt ist das Ballett ‚Bones of Dreams‘,
+  aufgeführt von skelettartigen Robotertänzern aus Schrott, der aus dem orbitalen
+  Friedhof von Tionisla geborgen wurde.
 player_impact: None
+player_impact_de: Keine
 persons:
 - Bryony Lindholm
 groups:
@@ -19,6 +25,8 @@ topics:
 - festival
 modern_impact: The theatre gala demonstrates the Alliance's embrace of avant-garde
   art and its ability to find beauty in unconventional materials.
+modern_impact_de: Die Theatergala zeigt die Offenheit der Allianz für avantgardistische
+  Kunst und ihre Fähigkeit, in unkonventionellen Materialien Schönheit zu finden.
 legacy_weight: 1
 significance: low
 related_uuids:
@@ -27,6 +35,18 @@ related_uuids:
 - 62c50540-1db5-5850-be0b-5a7cb2b2c201
 - 969713a8-6dbf-548c-9ce4-4d33ba1f321a
 - 3993967f-7de1-5710-9bbf-758f946fb39f
+body_de: |
+  Das Kulturfestival der Allianz ist in seine fünfte Woche eingetreten, in deren Mittelpunkt eine Vielzahl von Theater- und Tanzaufführungen steht.
+
+  Zahlreiche Besucher strömten nach New Caledonia im System Tionisla, um darstellende Kunst aus Dutzenden Systemen zu erleben. Von aufwendigen Inszenierungen bis zu Straßenaufführungen von Amateuren boten die Veranstaltungen klassische Opern, Zirkusshows, Theaterstücke und vieles mehr.
+
+  Die Kunstkritikerin Bryony Lindholm veröffentlichte auf Vox Galactica die folgende Kritik:
+
+  „Die dargebotene Unterhaltung war durchweg großartig, doch mein persönlicher Favorit war das Ballett ‚Bones of Dreams‘. Es wird von skelettartigen Robotertänzern aufgeführt, die aus Schrott gefertigt wurden, der aus dem orbitalen Friedhof von Tionisla stammt.“
+
+  „Es ist eine ergreifende Darstellung der Unmenschlichkeit, und wie die meisten Zuschauer war ich zu Tränen gerührt, obwohl – oder vielleicht gerade weil – keine empfindungsfähigen Organismen die großen Themen Trauer und Verlust darstellten.“
+
+  Das Kulturfestival der Allianz wird nächste Woche in Alioth fortgesetzt und umfasst eine Präsentation in der Garden City Gallery.
 ---
 
 

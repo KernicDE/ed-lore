@@ -10,6 +10,8 @@ related_entities:
 - chamas
 bio: 'Chamash Foods is a organization in the Elite Dangerous universe, active from
   3305-08-15 to 3305-08-22. Frequently linked with Chamas, Fortunes Corsairs. '
+bio_de: |-
+  Chamash Foods ist eine Organisation im Elite-Dangerous-Universum, die vom 15. August 3305 bis zum 22. August 3305 aktiv war. Häufig wird sie mit Chamas und den Fortunes Corsairs in Verbindung gebracht.
 ---
 
 

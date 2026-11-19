@@ -14,6 +14,8 @@ related_entities:
 bio: 'CQC Holdings is a organization in the Elite Dangerous universe, active from
   3306-09-17 to 3306-09-17. Frequently linked with Kavanagh Spaceframes Ltd, Steel
   Castle Inc, Pilots Federation. '
+bio_de: |-
+  CQC Holdings ist eine Organisation im Elite-Dangerous-Universum, die am 17. September 3306 aktiv war. Häufig wird sie mit Kavanagh Spaceframes Ltd, Steel Castle Inc und der Pilotenföderation in Verbindung gebracht.
 ---
 
 

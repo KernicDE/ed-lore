@@ -15,6 +15,8 @@ bio: Coalition for Onion Head Legalisation is a organization in the Elite Danger
   universe, active from 3305-10-23 to 3305-10-23. Frequently linked with Neomedical
   Industries, Scythe of Panem, Vandermeer Corporation. The Coalition for Onion Head
   Legalisation distances itself from Scythe of Panem.
+bio_de: |-
+  Die Coalition for Onion Head Legalisation ist eine Organisation im Elite-Dangerous-Universum, die am 23. Oktober 3305 aktiv war. Häufig wird sie mit Neomedical Industries, Scythe of Panem und der Vandermeer Corporation in Verbindung gebracht. Die Coalition for Onion Head Legalisation distanziert sich von Scythe of Panem.
 ---
 
 

@@ -9,6 +9,10 @@ bio: Kelvin Masters is a freelance journalist who contributed to the Rewired new
   feed, active from 3303 to 3306. He reported on Alliance expansion in the California
   Nebula and was an early public voice warning about Thargoid hostility following
   Professor Palin's identification of Unknown Ships.
+bio_de: |-
+  Kelvin Masters ist ein freiberuflicher Journalist, der während der frühen Kontaktphase mit den Thargoid für den Nachrichtenfeed Rewired schrieb. Im Jahr 3303 kommentierte er die Expansion der Allianz in den California Nebula und deutete an, dass der Wettbewerb der Supermächte um die Barnacle-Standorte unweigerlich eskalieren werde. Masters gehörte außerdem zu den ersten öffentlichen Kommentatoren, nachdem Professor Ishmael Palin die Unknown Ships zweifelsfrei als Thargoid-Raumschiffe identifiziert hatte. Er warnte unter Berufung auf historische Präzedenzfälle vor Blutvergießen und forderte Antworten zu den Notfallplänen der Supermächte.
+
+  Seine Berichterstattung fing die öffentliche Stimmung aus Angst und Misstrauen ein, die die ersten Begegnungen mit den Thargoid prägte. Er hinterfragte sowohl die Beschlagnahmung von Palins Daten durch die Föderation als auch die Vorbereitung der Galaxis auf feindselige Außerirdische. Masters’ Beiträge für Rewired machten ihn während einer der folgenreichsten Perioden der jüngeren galaktischen Geschichte zu einer wiedererkennbaren Stimme in der unabhängigen Medienlandschaft.
 ---
 
 # Kelvin Masters

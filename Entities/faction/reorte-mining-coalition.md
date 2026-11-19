@@ -11,6 +11,8 @@ related_entities:
 bio: Reorte Mining Coalition is a organization in the Elite Dangerous universe, active
   from 3305-12-12 to 3305-12-12. Frequently linked with Alliance, Reorte. The Alliance
   hosts end-of-year festivities in the Reorte system, with billions of attendees expected.
+bio_de: |-
+  Die Reorte Mining Coalition ist eine Organisation im Elite-Dangerous-Universum, die am 12. Dezember 3305 aktiv war. Häufig wird sie mit der Allianz und Reorte in Verbindung gebracht. Die Allianz veranstaltet im System Reorte Feierlichkeiten zum Jahresende, zu denen Milliarden von Besuchern erwartet werden.
 ---
 
 

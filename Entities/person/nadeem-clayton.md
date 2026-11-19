@@ -8,6 +8,8 @@ mention_count: 1
 bio: 'Nadeem Clayton is a prominent figure in the Elite Dangerous universe, active
   from 3305-10-06 to 3305-10-06. Closely associated with Interstellar Association
   for Agriculture. '
+bio_de: |-
+  Nadeem Clayton ist eine prominente Persönlichkeit im Elite-Dangerous-Universum, die vom 6. Oktober 3305 bis zum 6. Oktober 3305 aktiv war. Er steht in enger Verbindung mit der Interstellar Association for Agriculture.
 ---
 
 

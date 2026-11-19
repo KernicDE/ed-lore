@@ -13,6 +13,8 @@ related_entities:
 bio: 'Crimson State Limited is a organization in the Elite Dangerous universe, active
   from 3305-10-10 to 3305-10-10. Frequently linked with Diso, Interstellar Association
   for Agriculture, Orerve Universal Limited. '
+bio_de: |-
+  Crimson State Limited ist eine Organisation im Elite-Dangerous-Universum, die am 10. Oktober 3305 aktiv war. Häufig wird sie mit Diso, der Interstellar Association for Agriculture und Orerve Universal Limited in Verbindung gebracht.
 ---
 
 

@@ -14,6 +14,8 @@ related_entities:
 bio: 'Teveri Progressive Party is a organization in the Elite Dangerous universe,
   active from 3305-10-16 to 3305-10-16. Frequently linked with LFT 37, Riedquat, Interstellar
   Association for Agriculture. '
+bio_de: |-
+  Teveri Progressive Party ist eine Organisation im Elite-Dangerous-Universum, die am 16. Oktober 3305 aktiv war. Sie wurde häufig mit LFT 37, Riedquat und der Interstellar Association for Agriculture in Verbindung gebracht.
 ---
 
 

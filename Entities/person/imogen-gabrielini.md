@@ -7,6 +7,8 @@ last_seen_date: '3306-09-21'
 mention_count: 1
 bio: 'Imogen Gabrielini is a prominent figure in the Elite Dangerous universe, active
   from 3306-09-21 to 3306-09-21. Closely associated with Imperial Herald. '
+bio_de: |-
+  Imogen Gabrielini ist eine prominente Persönlichkeit im Elite-Dangerous-Universum, die vom 21. September 3306 bis zum 21. September 3306 aktiv war. Sie steht in enger Verbindung mit dem Imperial Herald.
 ---
 
 

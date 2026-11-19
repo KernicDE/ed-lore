@@ -8,6 +8,8 @@ mention_count: 3
 bio: 'Gino Borstein is a pilot in the Elite Dangerous universe, active from 3305-10-20
   to 3305-10-28. Closely associated with Federal Intelligence Agency, Rockforth Corporation,
   Scythe of Panem. '
+bio_de: |-
+  Gino Borstein ist ein Pilot im Elite-Dangerous-Universum, der vom 20. bis zum 28. Oktober 3305 aktiv war. Er stand in enger Verbindung mit der Federal Intelligence Agency, der Rockforth Corporation und dem Scythe of Panem.
 ---
 
 

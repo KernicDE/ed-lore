@@ -10,6 +10,10 @@ bio: 'Genevieve Kane is a Ceo in Elite Dangerous lore, active from 3305-09-13 to
   Notable activities include: Rockforth Corporation releases its EX7 fertiliser to
   address low crop yields.; The IAA confirms mass crop spoilage is caused by a new
   advanced blight of unknown origin.'
+bio_de: |-
+  Dr. Genevieve Kane ist eine Wissenschaftlerin der Interstellar Association for Agriculture, die maßgeblich an der Entwicklung des agrarwissenschaftlichen Gegenmittels beteiligt war, mit dem die Krautfäulekrise Ende 3305 beendet wurde. In Zusammenarbeit mit Forschungsteams der Rockforth Corporation koordinierte Kane das gemeinsame Vorgehen, an dem sich auch die Vandermeer Corporation und Neomedical Industries beteiligten.
+
+  Kane erklärte, dass das Gegenmittel vorrangig in die Systeme Diso und Orerve gebracht werden sollte. Diese gehörten zu den ersten landwirtschaftlichen Zentren, die von der Krautfäule verwüstet wurden. Ziel war es, die Ernteproduktion in allen betroffenen Systemen wiederzubeleben. Ihre Führungsrolle in der Krise zeigte, wie die interstellare wissenschaftliche Zusammenarbeit zwischen Unternehmen und Aufsichtsbehörden eine Massenhungersnot abwenden konnte.
 ---
 
 

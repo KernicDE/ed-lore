@@ -14,6 +14,8 @@ bio: Orerve Universal Limited is a organization in the Elite Dangerous universe,
   from 3305-10-10 to 3305-10-10. Frequently linked with Diso, Interstellar Association
   for Agriculture, Crimson State Limited. Coordinated trade initiatives launch in
   Diso and Orerve to mitigate crop yield losses.
+bio_de: |-
+  Orerve Universal Limited ist eine Organisation im Elite-Dangerous-Universum, die am 10. Oktober 3305 aktiv war. Häufig wird sie mit Diso, der Interstellar Association for Agriculture und Crimson State Limited in Verbindung gebracht. In Diso und Orerve werden koordinierte Handelsinitiativen gestartet, um Einbußen bei den Ernteerträgen auszugleichen.
 ---
 
 

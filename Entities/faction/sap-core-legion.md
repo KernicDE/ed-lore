@@ -13,6 +13,8 @@ bio: Sap Core Legion is a organization in the Elite Dangerous universe, active f
   with historical significance in plague cure development. A commodity drive by the
   Sap Core Legion successfully constructs Swords Rest Medical Facility in the Heike
   system, providing off-world medical access.
+bio_de: |-
+  Sap Core Legion ist eine Organisation im Elite-Dangerous-Universum, die vom 29. August bis zum 5. September 3305 aktiv war. Sie wurde häufig mit Heike in Verbindung gebracht. Sap Core Legion initiierte eine Warenspendenaktion zum Bau einer hochmodernen medizinischen Einrichtung in Heike, einem System mit historischer Bedeutung für die Entwicklung von Heilmitteln gegen Seuchen. Durch diese Aktion wurde die medizinische Einrichtung Swords Rest im Heike-System erfolgreich errichtet, wodurch auch Menschen von außerhalb des Systems Zugang zu medizinischer Versorgung erhielten.
 ---
 
 

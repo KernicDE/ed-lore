@@ -1,13 +1,19 @@
 ---
 uuid: 66aa5796-1028-5707-8ed1-7049881273b8
 title: Obituary  Prince Harold Duval
+title_de: Nachruf auf Prinz Harold Duval
 slug: obituary_prince_harold_duval
 date: '3306-09-21'
 source: GitHub
 summary: The Imperial Herald publishes an obituary recounting Prince Harold Duval's
   life as the black sheep of the Duval family, his marriage to Imogen Gabrielini,
   his daughter Aisling, and his eventual recluse lifestyle on Capitol before his assassination.
+summary_de: Der Imperial Herald veröffentlicht einen Nachruf, der Prinz Harold Duvals
+  Leben als schwarzes Schaf der Familie Duval, seine Ehe mit Imogen Gabrielini,
+  seine Tochter Aisling und seinen späteren zurückgezogenen Lebensstil auf Capitol
+  vor seiner Ermordung beschreibt.
 player_impact: None
+player_impact_de: Keine
 persons:
 - Harold Duval
 - Hengist Duval
@@ -23,6 +29,8 @@ topics:
 - terrorism
 modern_impact: The obituary highlights the tragedy of a man who renounced power but
   was still targeted for his name.
+modern_impact_de: Der Nachruf hebt die Tragödie eines Mannes hervor, der auf Macht
+  verzichtete, aber dennoch wegen seines Namens ins Visier geriet.
 legacy_weight: 3
 significance: medium
 related_uuids:
@@ -30,6 +38,18 @@ related_uuids:
 - 31b4d802-4b3f-57f3-bc15-35276b2cf0b1
 - ea29f582-91a6-5340-9840-3d76cc07f494
 - f3b96ffc-d73d-5225-b720-e60ad7d17698
+body_de: |
+  Der Imperial Herald hat einen Nachruf auf Prinz Harold Duval veröffentlicht, der von NMLA-Terroristen ermordet wurde.
+
+  „Harold Duval wurde 3230 als Sohn von Imperator Hengist geboren. Er widersetzte sich dem puritanischen Lebensstil seines Vaters, indem er seine Tage mit Feiern und Ausschweifungen verbrachte und so zum schwarzen Schaf der Familie Duval wurde.“
+
+  „Dass Harold mit der Entertainerin Imogen Gabrielini ein Kind zeugte, geschah wohl versehentlich, doch sie heirateten kurz vor ihrem Tod infolge von Drogenkonsum. Seine Tochter, Prinzessin Aisling Duval, hat stets liebevoll von ihrem fürsorglichen Vater gesprochen.“
+
+  „Imperator Hengist verfügte schließlich, dass sein Sohn trotz seiner Stellung als einziger Erbe nicht für den Thron geeignet war. Harold bestritt dies nie, vielleicht war er erleichtert, dass seine Halbschwester Arissa Lavigny-Duval seinen Platz einnehmen konnte.“
+
+  „In den letzten Jahren lebte Harold zurückgezogen auf Capitol und litt unter den gesundheitlichen Folgen eines Lebens voller Exzesse. Doch der Beschützerinstinkt eines Vaters veranlasste ihn, nach dem Angriff auf Aislings Heimatsystem dorthin zu reisen. Tragischerweise machte ihn allein die Tatsache, ein Duval zu sein, obwohl er stets auf Macht verzichtet hatte, zum Ziel ebendieser republikanischen Terroristen.“
+
+  „Während das Imperium um Prinz Harold trauert, keimen Verdachtsmomente auf, dass die NMLA durch Insiderwissen über die Reiseroute und die Sicherheitsvorkehrungen seines Schiffes unterstützt wurde. Dies wirft einen beunruhigenden Schatten auf das Vermächtnis dieses exzentrischen, liebenswerten Mannes.“
 ---
 
 

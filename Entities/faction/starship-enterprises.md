@@ -13,6 +13,8 @@ bio: Starship Enterprises is a corporate in the Elite Dangerous universe, active
   launches a mining campaign to construct a specialised installation and asteroid
   base in LP 339-7. Starship Enterprises' mining campaign concludes successfully with
   the opening of Miner Prospects asteroid base in LP 339-7.
+bio_de: |-
+  Starship Enterprises ist ein Unternehmen im Elite-Dangerous-Universum, das vom 22. bis zum 29. August 3305 aktiv war. Es wurde häufig mit SE Mining und LP 339-7 in Verbindung gebracht. Starship Enterprises startete eine Bergbaukampagne zum Bau einer spezialisierten Anlage und einer Asteroidenbasis in LP 339-7. Die Kampagne endete erfolgreich mit der Eröffnung der Asteroidenbasis Miner Prospects in LP 339-7.
 ---
 
 
